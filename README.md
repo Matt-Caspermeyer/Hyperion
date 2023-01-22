@@ -26,3 +26,7 @@ Now that we have released EFS V1.5, I can put my MODding hat back on and get int
 I plan on releasing Hyperion V1.5 Lite in the October time frame and it is my hope to have the full version of Hyperion released before the end of the year (2022). We'll see how it goes, but thanks for taking the time to read this and to understand how my passion in the game has been rekindled and it is my hope to provide you with a fun, challenging, and enjoyable EFS gaming experience.
 
 Note that during this period of time, I am also working with the development team on releasing EFS V1.51 at the end of 2022 as well. As I work on Hyperion and as issues come up from the various people playing the game, we can fix issues that are discovered in the MODding arena, which will undergo signficant more playtesting and scrutiny in the next few months.
+
+Update 2023/01/22
+
+We are working towards an early February release of EFS V1.51 and so I'm hoping to have the full version of Hyperion done by the end of February 2023. We'll see how it goes...
