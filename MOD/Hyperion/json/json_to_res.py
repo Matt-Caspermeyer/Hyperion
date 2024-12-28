@@ -50,7 +50,7 @@ def packWrite(file, format, *data):
     file.write(struct.pack('<' + format, *data))
 
 def packWriteStr(file, txt, pad=None):
-    encodedStr = txt.encode(encoding='ansi')
+    encodedStr = txt.encode(encoding='cp1252')
     if pad is None:
         file.write(struct.pack('{}s'.format(len(encodedStr)), encodedStr))
     else:
@@ -60,7 +60,7 @@ def getStrSize(txt, pad=None):
     if not txt:
         return 0
     #txt = txt.replace("\\n", "\n").replace("\\\"", "\"")
-    encodedStr = txt.encode(encoding='ansi')
+    encodedStr = txt.encode(encoding='cp1252')
     if pad is None:
         return struct.calcsize('{}s'.format(len(encodedStr)))
     else:
@@ -95,6 +95,7 @@ def packWriteControl(file, control):
      control['x'], control['y'], control['dx'], control['dy'],
       control['style'], control['fore'], control['back'])
     packLenStr(file, control.get('name', ''))
+    packLenStr(file, control.get('tooltip', ''))
     match type:
         case 7 | 2:
             packLenStr(file, control.get('data', ''))
@@ -107,7 +108,7 @@ def packWriteControl(file, control):
             packWrite(file, "ll", control['range'], control['page'])
 
 def getControlSize(control):
-    size = getSize("9l") + getLenStrSize(control.get('name', ''))
+    size = getSize("9l") + getLenStrSize(control.get('name', '')) + getLenStrSize(control.get('tooltip', ''))
     type = parseControlType(control['type'].lower())
     match type:
         case 7 | 2:
