@@ -1,0 +1,266 @@
+// New! RANDGAL.DAT - specifies the units to add to various structures for a randomly generated galaxy
+//                    based on RUIN / ALIENRUIN.DAT (note that Power Min / Max compare directly to Garrison Strength - see below)
+//
+// The number of stack types is FIXED to the number of buildings in STRBUILD.DAT
+//
+// Unit Kind Numbers - see UNIT.DAT
+// Owner Numbers - see TREATY.DAT
+//
+// Move Type Numbers:       Statistics      Weapons             Resource Type Numbers:
+//   -1 Any                 -1 Any          -1 Any              -1 Any
+//    0 Foot                 0 Move Points   0 Water             0 Food
+//    1 Wheel                1 Spot          1 Air               1 Energy
+//    2 Tread                2 Camouflage    2 Indirect          2 Metal
+//    3 Air                  3 Agility       3 Direct            3 Trace
+//    4 Naval                4 Armor         4 Close             4 Exotica
+//    5 Space                5 Psy Def       5 Psy               5 Chemicals
+//    6 Hover                                6 Ranged Space      6 Biochems
+//    7 Jump                                 7 Direct Space      7 Electronics
+//    8 Crawler                              8 Close Space       8 Ceramsteel
+//    9 Lander                              22 Ground Weapons    9 Wetware
+//   10 Mech                                33 Space Weapons    10 Monopols
+//   11 Gate                                99 Any Weapon       11 Gems
+//   12 Underwater                                              12 Singularities
+//   22 Ground Units only (exclude Mech & Gate)
+//   33 Space Units only
+//   44 Hybrid Ground Units only (include Mech & Gate)
+//
+// Note that Naval & Underwater are only considered if there is water in an adjacent hex
+//
+// The units that can appear are arranged as follows:
+//
+// Row #1: Starts with brace, {, and then the number of the stack (starts at 0)
+//         Master Owner - the player that will control the ruin forces
+//         Min Units - the minimum number of units that will appear
+//         Max Units - the maximum number of units that will appear
+//         Power Min - compares the unit's garrison strength to this value
+//         Power Max - compares the unit's garrison strength to this value
+//
+// Row #2: Owner - only consider units from this owner
+//         Kind - specify the kind of unit (see UNIT.DAT for a description of KIND), -1 means none
+//         Min Number - the minimum number of Kind of unit that will be in the stack, -1 means any number
+//         Max Number - the maximum number of Kind of unit that will be in the stack, -1 means any number
+//         MoveType - whether a unit of a particular movetype is required (listed above), -1 means any movetype
+//         Statistic - whether a unit has to have a statistic (listed above) that is greater than the Statisic Value, -1 means any Statistic
+//         Stat Value - the value the statistic has to exceed, -1 means any value
+//         Weapon - whether a unit's accuracy * strength for that weapon type (listed above) is greater than the Weapon Value, -1 means any value
+//         Weapon Value - the value the weapon accuracy * strength has to exceed, -1 means any value 
+//         Resource - whether a unit has a resource requirement (listed above) that is greater than the Resource Value, -1 means any Resource
+//         Resource Value - the value the resource number has to exceed, -1 means any value
+//
+// Notes:
+//   1. Each set of criteria should be considered to be ANDed with another
+//
+// Stack Master Owner  Min Units   Max Units    Power Min   Power Max
+//  Owner   Kind    Min Number    Max Number  MoveType    Statistic Stat Value  Weapon  Weapon Value    Resource    Resource Value
+{0  13   8  10   0  379
+    99      28       0             2          -1          -1        -1          -1      -1              -1          -1
+    99      45       1             1          -1          -1        -1          -1      -1              -1          -1
+    99      -1       0             4          22          -1        -1           6       1              -1          -1
+    99      -1       0             4          22          -1        -1           5       1              -1          -1
+    99      -1       0             4          22          -1        -1          99       1              -1          -1
+    99      -1       0            10          22           4         1          99       1              -1          -1
+}
+{1  13   8  10   0  379
+    99      52       0             1          -1          -1        -1          -1      -1              -1          -1
+    99      -1       1             4          -1          -1        -1           5       1              -1          -1
+    99      -1       0             8           0          -1        -1          99       1              -1          -1
+    99      -1       0             5          22           4         1          99       1              -1          -1
+}
+{2  13   8  10  -1  -1
+    99      -1      -1            -1          -1           4         1          99       1              -1          -1
+}
+{3  13   8  10   0  152
+    99      -1       0             1           2          -1        -1          99       1              -1          -1
+    99      -1       0             1           3          -1        -1          99       1              -1          -1
+    99      -1       0             1           1          -1        -1          99       1              -1          -1
+    99      -1       0             1           2          -1        -1          99       1              -1          -1
+    99      -1       0             1           3          -1        -1          99       1              -1          -1
+    99      -1       0             1           1          -1        -1          99       1              -1          -1
+    99      -1       0             1           2          -1        -1          99       1              -1          -1
+    99      -1       0             1           3          -1        -1          99       1              -1          -1
+    99      -1       0             1           1          -1        -1          99       1              -1          -1
+    99      -1       0             1           6          -1        -1          99       1              -1          -1
+    99      -1       0             5          22           4         1          99       1              -1          -1
+}
+{4   5   8  10   0  5000
+     5      -1       0             7          -1          -1        -1          -1      -1              -1          -1
+    -1      91       1            13          -1          -1        -1          -1      -1              -1          -1
+    -1      91       1            13          -1          -1        -1          -1      -1              -1          -1
+    -1      91       1            13          -1          -1        -1          -1      -1              -1          -1
+    -1      91       1            13          -1          -1        -1          -1      -1              -1          -1
+    -1      91       1            13          -1          -1        -1          -1      -1              -1          -1
+    -1      91       1            13          -1          -1        -1          -1      -1              -1          -1
+    -1      91       1            13          -1          -1        -1          -1      -1              -1          -1
+    -1      91       1            13          -1          -1        -1          -1      -1              -1          -1
+    -1      91       1            13          -1          -1        -1          -1      -1              -1          -1
+    -1      91       1            13          -1          -1        -1          -1      -1              -1          -1
+    99      -1       0             1          -1          -1        -1           6      -1              -1          -1
+    99      -1       0             4          -1           4         1          -1      -1              -1          -1
+     5      50       1             4          -1          -1        -1          99       1              -1          -1
+     5      -1       1             1          -1          -1        -1          99       1              -1          -1
+     5      -1       1             1          -1          -1        -1          99       1              -1          -1
+     5      -1       1             1          -1          -1        -1          99       1              -1          -1
+}
+// Stack Owner  Min Units   Max Units    Power Min   Power Max
+//  Owner   Kind    Min Number    Max Number  MoveType    Statistic Stat Value  Weapon  Weapon Value    Resource    Resource Value
+{5  13   8  10   0  379
+    -1      91       1             1          -1          -1        -1          -1      -1              -1          -1
+    99      -1       0             5          22          -1        -1          99       1               9           1
+    99      -1       0             5          22          -1        -1          99       1               6           1
+    99      -1       0             5          22          -1        -1          99       1               4           1
+    99      -1       0             5          22          -1        -1          99       1               0           1
+    99      -1       0             5          22           4         1          99       1              -1          -1
+}
+{6  13   8  10   0  379
+    -1      91       1             1          -1          -1        -1          -1      -1              -1          -1
+    99      -1       0             5          22          -1        -1          99       1               7           1
+    99      -1       0             5          22          -1        -1          99       1               3           1
+    99      -1       0             5          22           4         1          99       1              -1          -1
+}
+{7   7   8  10  -1  -1
+     7      -1       8            10          -1          -1        -1          99       1              -1          -1
+     7      -1       8            10          -1          -1        -1          99       1              -1          -1
+}
+{8  13   8  10   0  379
+    -1      91       1             1          -1          -1        -1          -1      -1              -1          -1
+    99      -1       0             5          22          -1        -1          99       1               8           1
+    99      -1       0             5          22          -1        -1          99       1               5           1
+    99      -1       0             5          22          -1        -1          99       1               2           1
+    99      -1       0             5          22           4         1          99       1              -1          -1
+}
+// Stack Owner  Min Units   Max Units    Power Min   Power Max
+//  Owner   Kind    Min Number    Max Number  MoveType    Statistic Stat Value  Weapon  Weapon Value    Resource    Resource Value
+{9  13   8  10   0  379
+    -1      91       1             1          -1          -1        -1          -1      -1              -1          -1
+    99      -1       0             5          22          -1        -1          99       1               6           1
+    99      -1       0             5          22          -1        -1          99       1               4           1
+    99      -1       0             5          22          -1        -1          99       1               0           1
+    99      -1       0             5          22           4         1          99       1              -1          -1
+}
+{10  8   8  10  -1  -1
+     8      -1       8            10          -1          -1        -1          99       1              -1          -1
+     8      -1       8            10          -1          -1        -1          99       1              -1          -1
+}
+{11 13   8  10   0  152
+    -1      91       1             1          -1          -1        -1          -1      -1              -1          -1
+    99      -1       0             5          22          -1        -1          99       1               5           1
+    99      -1       0             5          22           4         1          99       1              -1          -1
+}
+{12  13  8  10   0  379
+    -1      91       1             1          -1          -1        -1          -1      -1              -1          -1
+    99      -1       0             5          22          -1        -1          99       1              12           1
+    99      -1       0             5          22          -1        -1          99       1              10           1
+    99      -1       0             5          22          -1        -1          99       1               7           1
+    99      -1       0             5          22          -1        -1          99       1               3           1
+    99      -1       0             5          -1           4         1          99       1              -1          -1
+}
+{13  13  8  10   0  152
+    99      51       1             1          -1          -1        -1          -1      -1              -1          -1
+    99      -1       0             3          22           1         4          99       1              -1          -1
+    99      -1       0             3          22           2         4          99       1              -1          -1
+    99      -1       0             7           0          -1        -1          99       1              -1          -1
+    99      -1       0             5          22           4         1          99       1              -1          -1
+}
+{14  13  8  10   0  379
+    99      -1       0             1          22          -1        -1           6       1              -1          -1
+    99      -1       0             1          22          -1        -1           7       1              -1          -1
+    99      -1       0             1          22          -1        -1           8       1              -1          -1
+    99      -1       0             2          22          -1        -1          99       1              -1          -1
+    99      -1       0             5          22          -1        -1          99       1              10           1
+    99      -1       0             5          22          -1        -1          99       1               7           1
+    99      -1       0             5          22          -1        -1          99       1               3           1
+    99      -1       0             5          -1           4         1          99       1              -1          -1
+}
+// Stack Owner  Min Units   Max Units    Power Min   Power Max
+//  Owner   Kind    Min Number    Max Number  MoveType    Statistic Stat Value  Weapon  Weapon Value    Resource    Resource Value
+{15  7   8  10  -1  -1
+    99      -1      -1            -1          -1          -1        -1          99       1              -1          -1
+}
+{16 13   8  10  -1  -1
+    99      -1      -1            -1          -1          -1        -1          99       1              -1          -1
+}
+{17  13  8  10   0  379
+    99      -1       0             1           6          -1        -1          99       1              -1          -1
+    99      -1       0             1           2          -1        -1          99       1              -1          -1
+    99      -1       0             1          22          -1        -1           6       1              -1          -1
+    99      -1       0             5          22          -1        -1          99       1              10           1
+    99      -1       0             5          22          -1        -1          99       1               7           1
+    99      -1       0             5          22          -1        -1          99       1               3           1
+    99      -1       0             5          22           4         1          99       1              -1          -1
+}
+{18  13  8  10   0  152
+    -1      91       1             3          -1          -1        -1          99       1              -1          -1
+    99      -1       0             5           1          -1        -1          99       1               2           1
+    99      -1       0             5          22          -1        -1          99       1               3           1
+    99      -1       0             5          22          -1        -1          99       1              11           1
+    99      -1       0             5          22           4         1          99       1              -1          -1
+}
+{19  13  8  10   0  152
+    -1      91       1             1          -1          -1        -1          99       1              -1          -1
+    99      -1       0             5          22          -1        -1          99       1               1           1
+    99      -1       0             5          22           4         1          99       1              -1          -1
+}
+// Stack Owner  Min Units   Max Units    Power Min   Power Max
+//  Owner   Kind    Min Number    Max Number  MoveType    Statistic Stat Value  Weapon  Weapon Value    Resource    Resource Value
+{20  13  8  10   0  758
+    -1      91       1             1          -1          -1        -1          -1      -1              -1          -1
+    99      -1       0             5          22          -1        -1          99       1              10           1
+    99      -1       0             5          22          -1        -1          99       1               7           1
+    99      -1       0             5          22          -1        -1          99       1               3           1
+    99      -1       0             5          22           4         1          99       1              -1          -1
+}
+{21  13  8  10  -1  -1
+    99      -1      -1            -1          -1          -1        -1          99       1              -1          -1
+}
+{22  13  8  10   0  379
+    99      52       0             1          -1          -1        -1          -1      -1              -1          -1
+    99      -1       0             8          22          -1        -1           4       1              -1          -1
+    99      -1       0             5          22           4         1          99       1              -1          -1
+}
+{23  13  8  10   0  379
+    99      -1       0             3          22           1         4          99       1              -1          -1
+    99      -1       0             3          22           2         4          99       1              -1          -1
+    99      -1       0             1           6          -1        -1          99       1              -1          -1
+    99      -1       0             1          22          -1        -1           6       1              -1          -1
+    99      -1       0             7          22          -1        -1           4       1              -1          -1
+    99      -1       0             5          22           4         1          99       1              -1          -1
+}
+{24  13  8  10   0  152
+    -1      91       1             2          -1          -1        -1          -1      -1              -1          -1
+    99      -1       0             5           0          -1        -1           4       1              -1          -1
+    99      -1       0             5           0          -1        -1          99       1               0           1
+    99      -1       0             5           0          -1        -1          99       1               4           1
+    99      -1       0             6           0          -1        -1           4       1              -1          -1
+    99      -1       0             5          22           4         1          99       1              -1          -1
+}
+// Stack Owner  Min Units   Max Units    Power Min   Power Max
+//  Owner   Kind    Min Number    Max Number  MoveType    Statistic Stat Value  Weapon  Weapon Value    Resource    Resource Value
+{25  13  8  10   0  379
+    -1      91       1             2          -1          -1        -1          -1      -1              -1          -1
+    99      -1       0             2           0          -1        -1           4       1              -1          -1
+    99      -1       0             5           0          -1        -1          99       1               0           1
+    99      -1       0             5          22          -1        -1          99       1               4           1
+    99      -1       0             6           0          -1        -1           4       1              -1          -1
+    99      -1       0             5          22           4         1          99       1              -1          -1
+}
+{26  13  8  10  -1  -1
+    99      -1      -1            -1          -1          -1        -1          99       1              -1          -1
+}
+{27  13  8  10  -1  -1
+    99      -1      -1            -1          -1          -1        -1          99       1              -1          -1
+}
+{28  13  8  10  -1  -1
+    99      -1      -1            -1          -1          -1        -1          99       1              -1          -1
+}
+{29  13  8  10  -1  -1
+    99      -1      -1            -1          -1          -1        -1          99       1              -1          -1
+}
+// Stack Owner  Min Units   Max Units    Power Min   Power Max
+//  Owner   Kind    Min Number    Max Number  MoveType    Statistic Stat Value  Weapon  Weapon Value    Resource    Resource Value
+{30  13  8  10  -1  -1
+    99      -1      -1            -1          -1          -1        -1          99       1              -1          -1
+}
+{31  13  8  10  -1  -1
+    99      -1      -1            -1          -1          -1        -1          99       1              -1          -1
+}
