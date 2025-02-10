@@ -204,7 +204,7 @@
         {
             "hotkey": 70,
             "flags": 0,
-            "textWidth": 4,
+            "textWidth": 5,
             "winId": 13,
             "text": "~File",
             "items": [
@@ -221,10 +221,10 @@
                     "text": "~Open World"
                 },
                 {
-                    "hotkey": 79,
+                    "hotkey": 112,
                     "flags": 0,
                     "winId": 1007,
-                    "text": "~Open Scenario"
+                    "text": "O~pen Scenario"
                 },
                 {
                     "hotkey": 83,
@@ -239,46 +239,58 @@
                     "text": "Save ~As"
                 },
                 {
-                    "hotkey": 0,
+                    "hotkey": 77,
                     "flags": 0,
                     "winId": 1011,
                     "text": "Save Star ~Map"
                 },
                 {
-                    "hotkey": 0,
+                    "hotkey": 82,
                     "flags": 0,
                     "winId": 1012,
                     "text": "Create ~Random"
                 },
                 {
-                    "hotkey": 65,
+                    "hotkey": 99,
                     "flags": 0,
                     "winId": 1019,
                     "text": "Add Stru~ctures"
                 },
                 {
-                    "hotkey": 65,
+                    "hotkey": 116,
                     "flags": 0,
                     "winId": 1020,
                     "text": "Remove Struc~tures"
                 },
                 {
-                    "hotkey": 65,
+                    "hotkey": 85,
                     "flags": 0,
                     "winId": 1021,
                     "text": "Add ~Units"
                 },
                 {
-                    "hotkey": 0,
+                    "hotkey": 110,
                     "flags": 0,
                     "winId": 1013,
                     "text": "Delete U~nits"
                 },
                 {
-                    "hotkey": 0,
+                    "hotkey": 80,
                     "flags": 0,
                     "winId": 1014,
-                    "text": "Save to ~PCX"
+                    "text": "Save to ~PNG"
+                },
+                {
+                    "hotkey": 69,
+                    "flags": 0,
+                    "winId": 1024,
+                    "text": "~Export Planetary Data to CSV"
+                },
+                {
+                    "hotkey": 73,
+                    "flags": 0,
+                    "winId": 1025,
+                    "text": "~Import Planetary Data from CSV"
                 },
                 {
                     "hotkey": 120,
@@ -291,9 +303,9 @@
         {
             "hotkey": 67,
             "flags": 0,
-            "textWidth": 9,
+            "textWidth": 6,
             "winId": 11,
-            "text": "Structure",
+            "text": "~Civil",
             "items": [
                 {
                     "hotkey": 0,
@@ -677,13 +689,7 @@
                     "hotkey": 0,
                     "flags": 0,
                     "winId": 3013,
-                    "text": "  Space Cruisers - 1"
-                },
-                {
-                    "hotkey": 0,
-                    "flags": 0,
-                    "winId": 3182,
-                    "text": "  Space Cruisers - 2"
+                    "text": "      Space Cruisers"
                 },
                 {
                     "hotkey": 0,
@@ -742,12 +748,6 @@
                 {
                     "hotkey": 0,
                     "flags": 0,
-                    "winId": 3160,
-                    "text": "    Space Divebomber"
-                },
-                {
-                    "hotkey": 0,
-                    "flags": 0,
                     "winId": 3163,
                     "text": "          Space Mine"
                 },
@@ -790,8 +790,8 @@
                 {
                     "hotkey": 0,
                     "flags": 0,
-                    "winId": 3181,
-                    "text": "        Space Lander"
+                    "winId": 3182,
+                    "text": "Space / Jump Rockets"
                 },
                 {
                     "hotkey": 0,
@@ -920,7 +920,7 @@
                     "hotkey": 0,
                     "flags": 0,
                     "winId": 3170,
-                    "text": "                   Frogrmen"
+                    "text": "                    Frogmen"
                 },
                 {
                     "hotkey": 0,
@@ -1724,8 +1724,8 @@
             "id": 180,
             "x": 50,
             "y": 100,
-            "dx": 100,
-            "dy": 8,
+            "dx": 150,
+            "dy": 10,
             "style": 96,
             "fore": 13290702,
             "back": -1,
@@ -1736,8 +1736,8 @@
             "id": 181,
             "x": 50,
             "y": 55,
-            "dx": 100,
-            "dy": 8,
+            "dx": 150,
+            "dy": 10,
             "style": 96,
             "fore": 13290702,
             "back": -1,
@@ -1748,8 +1748,8 @@
             "id": 182,
             "x": 50,
             "y": 300,
-            "dx": 100,
-            "dy": 8,
+            "dx": 150,
+            "dy": 10,
             "style": 96,
             "fore": 13290702,
             "back": -1,
@@ -2012,6 +2012,12 @@
             "text": "~File",
             "items": [
                 {
+                    "hotkey": 78,
+                    "flags": 0,
+                    "winId": 1001,
+                    "text": "~New"
+                },
+                {
                     "hotkey": 79,
                     "flags": 0,
                     "winId": 1002,
@@ -2030,58 +2036,82 @@
                     "text": "Save ~As"
                 },
                 {
-                    "hotkey": 65,
+                    "hotkey": 82,
                     "flags": 0,
                     "winId": 1012,
                     "text": "Create ~Random"
                 },
                 {
-                    "hotkey": 65,
+                    "hotkey": 101,
                     "flags": 0,
                     "winId": 1015,
                     "text": "Add Fl~eets"
                 },
                 {
-                    "hotkey": 65,
+                    "hotkey": 68,
                     "flags": 0,
                     "winId": 1016,
                     "text": "~Delete Fleets"
                 },
                 {
-                    "hotkey": 65,
+                    "hotkey": 108,
                     "flags": 0,
                     "winId": 1017,
                     "text": "Save Al~l Scenarios"
                 },
                 {
-                    "hotkey": 65,
+                    "hotkey": 74,
                     "flags": 0,
                     "winId": 1018,
                     "text": "Delete All ~JumpGates"
                 },
                 {
-                    "hotkey": 65,
+                    "hotkey": 99,
                     "flags": 0,
                     "winId": 1019,
                     "text": "Add Stru~ctures"
                 },
                 {
-                    "hotkey": 65,
+                    "hotkey": 116,
                     "flags": 0,
                     "winId": 1020,
                     "text": "Remove Struc~tures"
                 },
                 {
-                    "hotkey": 65,
+                    "hotkey": 85,
                     "flags": 0,
                     "winId": 1021,
                     "text": "Add ~Units"
                 },
                 {
-                    "hotkey": 65,
+                    "hotkey": 110,
                     "flags": 0,
                     "winId": 1022,
                     "text": "Remove U~nits"
+                },
+                {
+                    "hotkey": 80,
+                    "flags": 0,
+                    "winId": 1023,
+                    "text": "Save All Planets to ~PNG"
+                },
+                {
+                    "hotkey": 71,
+                    "flags": 0,
+                    "winId": 1024,
+                    "text": "Export ~Galaxy Data to CSV"
+                },
+                {
+                    "hotkey": 73,
+                    "flags": 0,
+                    "winId": 1025,
+                    "text": "~Import Galaxy Data from CSV"
+                },
+                {
+                    "hotkey": 68,
+                    "flags": 0,
+                    "winId": 1026,
+                    "text": "Replace ~With CSV Data"
                 },
                 {
                     "hotkey": 120,
@@ -2114,13 +2144,7 @@
                     "hotkey": 0,
                     "flags": 0,
                     "winId": 3013,
-                    "text": "  Space Cruisers - 1"
-                },
-                {
-                    "hotkey": 0,
-                    "flags": 0,
-                    "winId": 3182,
-                    "text": "  Space Cruisers - 2"
+                    "text": "      Space Cruisers"
                 },
                 {
                     "hotkey": 0,
@@ -2179,12 +2203,6 @@
                 {
                     "hotkey": 0,
                     "flags": 0,
-                    "winId": 3160,
-                    "text": "    Space Divebomber"
-                },
-                {
-                    "hotkey": 0,
-                    "flags": 0,
                     "winId": 3163,
                     "text": "          Space Mine"
                 },
@@ -2227,8 +2245,8 @@
                 {
                     "hotkey": 0,
                     "flags": 0,
-                    "winId": 3181,
-                    "text": "        Space Lander"
+                    "winId": 3182,
+                    "text": "Space / Jump Rockets"
                 },
                 {
                     "hotkey": 0,
@@ -2251,7 +2269,7 @@
                 {
                     "hotkey": 0,
                     "flags": 0,
-                    "winId": 3022,
+                    "winId": 3186,
                     "text": "Misc. Mech / Off / N"
                 }
             ]
@@ -2436,7 +2454,7 @@
     "x": 50,
     "y": 50,
     "dx": 540,
-    "dy": 100,
+    "dy": 105,
     "style": 0,
     "controls": [
         {
@@ -2467,7 +2485,7 @@
             "type": "button",
             "id": 100,
             "x": 62,
-            "y": 100,
+            "y": 85,
             "dx": 120,
             "dy": 20001,
             "style": 0,
@@ -2479,7 +2497,7 @@
             "type": "button",
             "id": 101,
             "x": 194,
-            "y": 100,
+            "y": 85,
             "dx": 120,
             "dy": 20001,
             "style": 0,
@@ -2491,7 +2509,7 @@
             "type": "button",
             "id": 102,
             "x": 326,
-            "y": 100,
+            "y": 85,
             "dx": 120,
             "dy": 20001,
             "style": 0,
@@ -2503,7 +2521,7 @@
             "type": "button",
             "id": 103,
             "x": 458,
-            "y": 100,
+            "y": 85,
             "dx": 120,
             "dy": 20001,
             "style": 0,
@@ -2512,10 +2530,58 @@
             "data1": "Exit"
         },
         {
+            "type": "button",
+            "id": 106,
+            "x": 62,
+            "y": 105,
+            "dx": 120,
+            "dy": 20001,
+            "style": 0,
+            "fore": 13290702,
+            "back": 921102,
+            "data1": "Delete Planet"
+        },
+        {
+            "type": "button",
+            "id": 104,
+            "x": 194,
+            "y": 105,
+            "dx": 120,
+            "dy": 20001,
+            "style": 0,
+            "fore": 13290702,
+            "back": 921102,
+            "data1": "Add Fleets"
+        },
+        {
+            "type": "button",
+            "id": 105,
+            "x": 326,
+            "y": 105,
+            "dx": 120,
+            "dy": 20001,
+            "style": 0,
+            "fore": 13290702,
+            "back": 921102,
+            "data1": "Remove Fleets"
+        },
+        {
+            "type": "button",
+            "id": 107,
+            "x": 458,
+            "y": 105,
+            "dx": 120,
+            "dy": 20001,
+            "style": 0,
+            "fore": 13290702,
+            "back": 921102,
+            "data1": "Set HomeWorld"
+        },
+        {
             "type": "static",
             "id": 299,
             "x": 20,
-            "y": 125,
+            "y": 130,
             "dx": 140,
             "dy": 20001,
             "style": 128,
@@ -2527,7 +2593,7 @@
             "type": "static",
             "id": 298,
             "x": 155,
-            "y": 125,
+            "y": 130,
             "dx": 30,
             "dy": 20001,
             "style": 128,
@@ -2539,7 +2605,7 @@
             "type": "static",
             "id": 297,
             "x": 265,
-            "y": 125,
+            "y": 130,
             "dx": 30,
             "dy": 20001,
             "style": 128,
@@ -2551,7 +2617,7 @@
             "type": "edit",
             "id": 300,
             "x": 190,
-            "y": 125,
+            "y": 130,
             "dx": 20003,
             "dy": 20001,
             "style": 2,
@@ -2563,7 +2629,7 @@
             "type": "edit",
             "id": 301,
             "x": 300,
-            "y": 125,
+            "y": 130,
             "dx": 20003,
             "dy": 20001,
             "style": 2,
@@ -2703,6 +2769,18 @@
         },
         {
             "type": "button",
+            "id": 202,
+            "x": 400,
+            "y": 335,
+            "dx": 120,
+            "dy": 20001,
+            "style": 0,
+            "fore": 13290702,
+            "back": 921102,
+            "data1": "Use ~INI"
+        },
+        {
+            "type": "button",
             "id": 100,
             "x": 400,
             "y": 355,
@@ -2745,6 +2823,96 @@
             "fore": 13290702,
             "back": 921102,
             "data1": "Add ~Owner"
+        },
+        {
+            "type": "button",
+            "id": 202,
+            "x": 400,
+            "y": 335,
+            "dx": 120,
+            "dy": 20001,
+            "style": 0,
+            "fore": 13290702,
+            "back": 921102,
+            "data1": "Use ~INI"
+        },
+        {
+            "type": "button",
+            "id": 100,
+            "x": 400,
+            "y": 355,
+            "dx": 120,
+            "dy": 20001,
+            "style": 0,
+            "fore": 13290702,
+            "back": 921102,
+            "data1": "E~xit"
+        }
+    ]
+},
+"ExportCSV": {
+    "x": 100,
+    "y": 100,
+    "dx": 440,
+    "dy": 280,
+    "style": 0,
+    "controls": [
+        {
+            "type": "button",
+            "id": 200,
+            "x": 120,
+            "y": 355,
+            "dx": 120,
+            "dy": 20001,
+            "style": 0,
+            "fore": 13290702,
+            "back": 921102,
+            "data1": "Export ~All"
+        },
+        {
+            "type": "button",
+            "id": 201,
+            "x": 260,
+            "y": 355,
+            "dx": 120,
+            "dy": 20001,
+            "style": 0,
+            "fore": 13290702,
+            "back": 921102,
+            "data1": "Export ~Owner"
+        },
+        {
+            "type": "button",
+            "id": 100,
+            "x": 400,
+            "y": 355,
+            "dx": 120,
+            "dy": 20001,
+            "style": 0,
+            "fore": 13290702,
+            "back": 921102,
+            "data1": "E~xit"
+        }
+    ]
+},
+"SetHome": {
+    "x": 100,
+    "y": 100,
+    "dx": 440,
+    "dy": 280,
+    "style": 0,
+    "controls": [
+        {
+            "type": "button",
+            "id": 201,
+            "x": 120,
+            "y": 355,
+            "dx": 120,
+            "dy": 20001,
+            "style": 0,
+            "fore": 13290702,
+            "back": 921102,
+            "data1": "~Set"
         },
         {
             "type": "button",
