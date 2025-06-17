@@ -2150,7 +2150,7 @@
         },
         {
             "ID": 29775,
-            "value": "Planetary Flock: %s - %d"
+            "value": "Planetary Flock: %s - %d/%d"
         },
         {
             "ID": 29776,
@@ -2769,6 +2769,22 @@
             "value": "Replace - No Matching Records Found!"
         },
         {
+            "ID": 32071,
+            "value": "This will erase all planetary map data for this planet!\n\nThe terrain map including all structure and unit data will be erased!\n\nAre you sure you want to do this (this CANNOT be undone!!!)?"
+        },
+        {
+            "ID": 32072,
+            "value": "This will erase all planetary map data for all planets!\n\nThe terrain map including all structure and unit data will be erased!\n\nAre you sure you want to do this (this CANNOT be undone!!!)?"
+        },
+        {
+            "ID": 32073,
+            "value": "Any planet name with a matching Scenario (.SEN) file in the folder selected will be updated to that loaded scenario.\n\nAre you sure you want to do this (this CANNOT be undone!!!)?\n\nIf you continue, select any valid .SEN file in that folder to proceed..."
+        },
+        {
+            "ID": 32074,
+            "value": "Any planet name with a matching Terrain (.TER) file in the folder selected will be updated to that loaded terrain.\n\nNote that all structures and units are preserved, regardless of whether they are on a valid terrain hex or not. You may have to manually edit your planet maps after this if that is the case.\n\nAre you sure you want to do this (this CANNOT be undone!!!)?\n\nIf you continue, select any valid .TER file in that folder to proceed..."
+        },
+        {
             "ID": 32100,
             "value": "Does not participate in combat"
         },
@@ -3123,6 +3139,18 @@
         {
             "ID": 32332,
             "value": "Officer Agility Bonus: {:+}"
+        },
+        {
+            "ID": 32333,
+            "value": "Damage Armor Penalty: {:+}%"
+        },
+        {
+            "ID": 32334,
+            "value": "Damage Psy Defense Penalty: {:+}%"
+        },
+        {
+            "ID": 32335,
+            "value": "Damage Attack Strength Penalty: {:+}%"
         }
     ]
 },
