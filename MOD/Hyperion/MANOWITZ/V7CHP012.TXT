@@ -1,0 +1,71 @@
+The Gate movement type combines the advantages of the Hover movement class with that of the Lander and is able to transit between the ground and space and can also use the jump gates.
+
+It is comprised mainly of mechanical units that use advanced rocket engines to transit between land and space and advanced hoever technology to float a certain distance above the terrain.
+
+They are able to use the Jump Gates and capable of moving on any terrastrial hex and suffer no movement penalties due to terrain.
+
+Note that they can land on the ground outside of cities without suffering any damage.
+
+
+The following lists the movement class terrain movement cost multiplier values for each planet type:
+
+Terrain Type	Normal	City	Ice	Jungle	Barren
+Ocean		1.0	1.0	1.0	1.0	1.0
+Grass		1.0	1.0	1.0	1.0	1.0
+Arid Grass	1.0	1.0	1.0	1.0	1.0
+Desert		1.0	1.0	1.0	1.0	1.0
+Ice		1.0	1.0	1.0	1.0	1.0
+Tundra		1.0	1.0	1.0	1.0	1.0
+Mountain	1.0	1.0	1.0	1.0	1.0
+Hill		1.0	1.0	1.0	1.0	1.0
+Tree		1.0	1.0	1.0	1.0	1.0
+River		1.0	1.0	1.0	1.0	1.0
+Delta		1.0	1.0	1.0	1.0	1.0
+Road		1.0	1.0	1.0	1.0	1.0
+
+
+The following lists the movement class terrain unit spot additive values for each planet type:
+
+Terrain Type	Normal	City	Ice	Jungle	Barren
+Ocean		+1.50	+1.50	+1.50	+1.50	+2.00
+Grass		+1.50	+1.50	+1.50	+1.50	+1.50
+Arid Grass	+1.30	+1.30	+1.30	+1.30	+1.30
+Desert		+1.50	+1.50	+1.50	+1.50	+1.50
+Ice		+1.50	+1.50	+1.50	+1.50	+1.50
+Tundra		+1.30	+1.30	+1.30	+1.30	+1.30
+Mountain	+1.50	+1.50	+1.50	+1.50	+1.50
+Hill		+1.50	+1.50	+1.50	+1.50	+1.50
+Tree		+2.00	+2.00	+2.00	+2.00	+2.00
+River		+1.50	+1.50	+1.50	+1.50	+1.50
+Delta		+1.50	+1.50	+1.50	+1.50	+1.50
+Road		+1.50	+1.50	+1.50	+1.50	+1.50
+Structure	+1.50	+1.50	+1.50	+1.50	+1.50
+
+
+The following lists the movement class terrain agility bonus or penalty additive values (all others have no effect):
+
+
+
+The following lists the weapons that can target this movement class:
+
+Indirect
+Direct
+Psychic
+Ranged Space
+Direct Space
+
+
+The following Gate units exist:
+
+1. (1530) Grappler (37)
+2. (1530) Spore Ship (37)
+3. (1530) Pod Ship (37)
+4. (3885) Vau Dreadnought (50)
+5. (3885) Vau Cruiser (50)
+6. (3885) Vau Destroyer (50)
+7. (3885) Vau Corsair (50)
+8. (3885) Vau Space Fighter (50)
+9. (3885) Vau Carrier (50)
+10. (3885) Vau Transport (50)
+11. (7256) Gate Freighter (49)
+12. (7256) Gate Bulk Hauler (49)

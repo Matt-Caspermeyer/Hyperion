@@ -1,0 +1,144 @@
+The Tread movement type typically has better movement performance through rough terrain than wheeled units, although not as fast on roads.
+
+It is comprised mainly of mechanical units that use a tracked tread / roller mechanism for their locomotion that allows them to travel over many different terrain types.
+
+They are capable of moving on any land terrain hex and are much better at moving through rough terrain than wheeled units.
+
+
+The following lists the movement class terrain movement cost multiplier values for each planet type:
+
+Terrain Type	Normal	City	Ice	Jungle	Barren
+Ocean		0.0	0.0	0.0	0.0	3.0
+Grass		1.0	1.0	1.0	1.0	1.0
+Arid Grass	1.0	1.0	1.0	1.0	1.0
+Desert		1.5	1.5	1.5	1.5	1.5
+Ice		2.5	2.5	2.5	2.5	1.0
+Tundra		1.5	3.0	2.5	3.0	1.0
+Mountain	4.5	2.2	5.2	4.5	4.5
+Hill		1.5	1.5	1.5	1.5	1.5
+Tree		3.0	3.0	3.0	3.0	3.0
+River		3.0	3.0	3.0	3.0	3.0
+Delta		3.5	3.5	3.5	3.5	2.0
+Road		0.1	0.1	0.1	0.1	0.1
+
+
+The following lists the movement class terrain unit spot additive values for each planet type:
+
+Terrain Type	Normal	City	Ice	Jungle	Barren
+Ocean		+1.50	+1.50	+1.50	+1.50	+2.00
+Grass		+1.50	+1.50	+1.50	+1.50	+1.50
+Arid Grass	+1.50	+1.50	+1.50	+1.50	+1.50
+Desert		+1.50	+1.50	+1.50	+1.50	+1.50
+Ice		+1.50	+1.50	+1.50	+1.50	+1.50
+Tundra		+1.50	+1.50	+1.50	+1.50	+1.50
+Mountain	+1.00	+1.00	+1.00	+1.00	+1.00
+Hill		+1.50	+1.50	+1.50	+1.50	+1.50
+Tree		+2.00	+2.00	+2.00	+2.00	+2.00
+River		+1.50	+1.50	+1.50	+1.50	+1.50
+Delta		+1.50	+1.50	+1.50	+1.50	+1.50
+Road		+1.50	+1.50	+1.50	+1.50	+1.50
+Structure	+4.00	+4.00	+4.00	+4.00	+4.00
+
+
+The following lists the movement class terrain agility bonus or penalty additive values (all others have no effect):
+
+Ice		-1
+Mountain	-3
+Hill		-1
+Tree		-2
+River		-3
+Delta		-2
+
+
+The following lists the weapons that can target this movement class:
+
+Indirect
+Direct
+Psychic
+Ranged Space
+Direct Space
+
+
+The following Tread units exist:
+
+1. (86) Artillery Tractor (100)
+2. (86) Salvage Tank (100)
+3. (157) Light Tank (98)
+4. (157) Medium Tank (98)
+5. (157) Infantry Tank (98)
+6. (157) Heavy Tank (98)
+7. (157) Armored Personnel Carrier (98)
+8. (160) Anti-infantry Tank (95)
+9. (160) Super Heavy Tank (98)
+10. (160) Armored Recovery Vehicle (95)
+11. (181) Medium Tank II (95)
+12. (189) Light Tank II (95)
+13. (192) Heavy Tank II (95)
+14. (208) Bunker (97)
+15. (228) Coastal Artillery (96)
+16. (240) Scout Tank (95)
+17. (240) Assault Tank (95)
+18. (240) Tank Killer (95)
+19. (248) Cruiser Tank (96)
+20. (248) Flame Tank (96)
+21. (258) Tankette (96)
+22. (272) Gun Carrier (94)
+23. (290) Mortar Carrier (92)
+24. (291) Self-Propelled Anti-Air Gun (92)
+25. (291) Self-Propelled Artillery (92)
+26. (291) Assault Gun (92)
+27. (291) Heavy Assault Gun (92)
+28. (291) Self-Propelled Siege Mortar (92)
+29. (291) Self-Propelled Anti-Tank Gun (92)
+30. (310) Artillery Tractor II (85)
+31. (323) Tank Destroyer (92)
+32. (326) Armor Commander (94)
+33. (340) Rocket Artillery (91)
+34. (340) Multiple Rocket Launcher (91)
+35. (365) Multiple Rocket Artillery (89)
+36. (423) Fortification (93)
+37. (527) Howitzer Artillery (90)
+38. (528) Main Battle Tank (88)
+39. (585) PTS Missile Launcher (88)
+40. (585) PTS Fortification (88)
+41. (586) PTS Rocket Launcher (88)
+42. (588) MRSI Artillery (87)
+43. (606) PTS Tank (91)
+44. (639) PTS Multi-Rocket Artillery (90)
+45. (640) PTS Rocket Artillery (90)
+46. (653) Guided Missile Rocket Launcher (85)
+47. (654) Missile Tank (85)
+48. (1418) Shock Assault Tank (84)
+49. (1488) Rail Gun (83)
+50. (1530) Symbiot Tank (37)
+51. (1530) Galka Setzo (Symbiot) (37)
+52. (1530) Symbiot PTS Weapon (37)
+53. (1606) Shock Medium Tank (77)
+54. (1668) Reaper Field Tank (79)
+55. (1675) Shock Tank Killer (77)
+56. (1988) Shock Rocket Artillery (80)
+57. (2011) Imperial Missile Battery (69)
+58. (2025) Shock Assault Gun (80)
+59. (2043) PTS Laser Cannon (76)
+60. (2509) Mega Tank (74)
+61. (2728) Heavy Tank Killer (68)
+62. (2865) Shock Heavy Tank Killer (69)
+63. (3199) Pestulator Artillery (29)
+64. (3524) Shock Mega Tank (53)
+65. (3648) Grim Reaper Tank (34)
+66. (3737) PTS Meson Cannon (70)
+67. (3880) Vau PTS Weapon (50)
+68. (3975) Discontinuity Cannon (54)
+69. (3992) Shock Pestulator Artillery (40)
+70. (4302) Shock Grim Reaper Tank (42)
+71. (4785) Psy Mega Tank (76)
+72. (5201) Omicron Ray (45)
+73. (5355) Stealth Reaper Tank (34)
+74. (5357) Stealth Assault Gun (34)
+75. (5358) Stealth Scout Tank (34)
+76. (5358) Stealth Mega Tank (34)
+77. (5358) Stealth Rocket Artillery (34)
+78. (5358) Stealth Tank (34)
+79. (5359) Stealth Pestulator Artillery (34)
+80. (5454) Stealth Heavy Tank Killer (34)
+81. (5786) Psy Heavy Tank Killer (75)

@@ -1,0 +1,123 @@
+The Space movement type is able to transit between the ground and space.
+
+It is comprised mainly of mechanical units that use powerful rocket engines to transit between land and space.
+
+They cannot use the jump gates, but move on the ground just like Air units, unencumbered by any terrestrial terrain.
+
+Note that they can suffer damage when landing on the ground outside of cities.
+
+
+The following lists the movement class terrain movement cost multiplier values for each planet type:
+
+Terrain Type	Normal	City	Ice	Jungle	Barren
+Ocean		1.0	1.0	1.0	1.0	1.0
+Grass		1.0	1.0	1.0	1.0	1.0
+Arid Grass	1.0	1.0	1.0	1.0	1.0
+Desert		1.0	1.0	1.0	1.0	1.0
+Ice		1.0	1.0	1.0	1.0	1.0
+Tundra		1.0	1.0	1.0	1.0	1.0
+Mountain	1.0	1.0	1.0	1.0	1.0
+Hill		1.0	1.0	1.0	1.0	1.0
+Tree		1.0	1.0	1.0	1.0	1.0
+River		1.0	1.0	1.0	1.0	1.0
+Delta		1.0	1.0	1.0	1.0	1.0
+Road		1.0	1.0	1.0	1.0	1.0
+
+
+The following lists the movement class terrain unit spot additive values for each planet type:
+
+Terrain Type	Normal	City	Ice	Jungle	Barren
+Ocean		+0.50	+0.50	+0.50	+0.50	+0.50
+Grass		+0.50	+0.50	+0.50	+0.50	+0.50
+Arid Grass	+0.50	+0.50	+0.50	+0.50	+0.50
+Desert		+0.50	+0.50	+0.50	+0.50	+0.50
+Ice		+0.50	+0.50	+0.50	+0.50	+0.50
+Tundra		+0.50	+0.50	+0.50	+0.50	+0.50
+Mountain	+0.50	+0.50	+0.50	+0.50	+0.50
+Hill		+0.50	+0.50	+0.50	+0.50	+0.50
+Tree		+0.50	+0.50	+0.50	+0.50	+0.50
+River		+0.50	+0.50	+0.50	+0.50	+0.50
+Delta		+0.50	+0.50	+0.50	+0.50	+0.50
+Road		+0.50	+0.50	+0.50	+0.50	+0.50
+Structure	+0.50	+0.50	+0.50	+0.50	+0.50
+
+
+The following lists the movement class terrain agility bonus or penalty additive values (all others have no effect):
+
+
+
+The following lists the weapons that can target this movement class:
+
+Psychic
+Ranged Space
+Direct Space
+Close Space
+
+
+The following Space units exist:
+
+1. (101) Space Mine Nullifier (91)
+2. (308) Space Raider (93)
+3. (308) Heavy Space Fighter (93)
+4. (308) Light Space Fighter (93)
+5. (308) Space Attack Fighter (93)
+6. (308) Space Fighter Bomber (93)
+7. (308) Space Divebomber (93)
+8. (316) Space Scout Rocket (90)
+9. (326) Space Capsule (90)
+10. (326) Space Rocket (90)
+11. (334) Space Mine (91)
+12. (335) Space Missile Platform (91)
+13. (365) Space Artillery (93)
+14. (365) Space Battery (93)
+15. (368) Space Monitor (96)
+16. (368) Space Sloop (96)
+17. (370) Spacemen (78)
+18. (462) Space Scout (93)
+19. (542) Space Fighter (92)
+20. (542) Space Torpedo Bomber (92)
+21. (617) Space Raider Carrier (93)
+22. (625) Space Corsair (91)
+23. (634) Space Turret (92)
+24. (635) Space Point Defense (92)
+25. (671) Space Carrier (95)
+26. (681) Space Freighter (94)
+27. (682) Space Bulk Hauler (94)
+28. (690) Space Cargo Shuttle (91)
+29. (748) Space Protected Cruiser (95)
+30. (759) Space Armored Cruiser (95)
+31. (790) Space Minesweeper (94)
+32. (965) Space Battlestar (95)
+33. (984) Space Dreadnought Battlestar (94)
+34. (1009) Space Battle-Cruiser (94)
+35. (1245) Space Defense Platform (90)
+36. (1332) Martyr Torpedo Bomber (84)
+37. (1448) Orbital Listening Post (79)
+38. (1941) Space Transport (86)
+39. (2041) Space Corvette (86)
+40. (2041) Space Patrol Star (86)
+41. (2160) Space Repair Ship (84)
+42. (2164) Space Frigate (84)
+43. (2164) Space Escort Carrier (84)
+44. (2165) Space Destroyer (84)
+45. (2165) Space Cutter (84)
+46. (2165) Space Destroyer Tender (84)
+47. (2509) Space Light Armored Cruiser (80)
+48. (2510) Space Dreadnought (80)
+49. (2510) Space Super Dreadnought (80)
+50. (2510) Space Cruiser (80)
+51. (2510) Space Scout Cruiser (80)
+52. (2510) Space Heavy Cruiser (80)
+53. (2510) Space Light Carrier (80)
+54. (2510) Space Fast Battlestar (80)
+55. (2510) Space Pocket Battlestar (80)
+56. (2510) Space Transport Carrier (80)
+57. (2609) Cyber Fighter (51)
+58. (2912) Starbase (86)
+59. (3105) Fast Torpedo Star (67)
+60. (3105) Colony Star (67)
+61. (3107) Space Attack Transport (67)
+62. (3272) Fusion Starbase (74)
+63. (4606) Space Marines (35)
+64. (5177) Wraith Space Marine (33)
+65. (6478) Meson Starbase (71)

@@ -1,0 +1,84 @@
+The Craft (Amphibiouscraft) movement type can move along any terestrial hex.
+
+It is comprised mainly of mechanical units that use various mechanisms to allow them to be buoyant on water while also having locomotion on land.
+
+They are capable of moving on any terrastrial hex, but suffer movement penalties when transiting rougher terrain.
+
+
+The following lists the movement class terrain movement cost multiplier values for each planet type:
+
+Terrain Type	Normal	City	Ice	Jungle	Barren
+Ocean		1.0	1.0	1.0	1.0	3.5
+Grass		1.0	1.0	1.0	1.0	1.2
+Arid Grass	1.0	1.0	1.0	1.0	1.2
+Desert		2.8	2.8	2.8	2.8	2.2
+Ice		3.2	2.5	3.2	2.5	1.0
+Tundra		2.8	3.0	2.5	3.0	1.0
+Mountain	5.2	2.6	6.1	5.2	5.2
+Hill		1.8	1.8	1.8	1.8	2.2
+Tree		3.8	3.8	3.8	3.8	3.8
+River		2.0	2.0	2.0	2.0	2.0
+Delta		1.5	1.5	1.5	1.5	1.5
+Road		0.1	0.1	0.1	0.1	0.1
+
+
+The following lists the movement class terrain unit spot additive values for each planet type:
+
+Terrain Type	Normal	City	Ice	Jungle	Barren
+Ocean		+1.50	+1.50	+1.50	+1.50	+2.00
+Grass		+1.50	+1.50	+1.50	+1.50	+1.50
+Arid Grass	+1.50	+1.50	+1.50	+1.50	+1.50
+Desert		+1.50	+1.50	+1.50	+1.50	+1.50
+Ice		+1.50	+1.50	+1.50	+1.50	+1.50
+Tundra		+1.50	+1.50	+1.50	+1.50	+1.50
+Mountain	+1.00	+1.00	+1.00	+1.00	+1.00
+Hill		+1.50	+1.50	+1.50	+1.50	+1.50
+Tree		+2.00	+2.00	+2.00	+2.00	+2.00
+River		+1.50	+1.50	+1.50	+1.50	+1.50
+Delta		+1.50	+1.50	+1.50	+1.50	+1.50
+Road		+1.50	+1.50	+1.50	+1.50	+1.50
+Structure	+1.50	+1.50	+1.50	+1.50	+1.50
+
+
+The following lists the movement class terrain agility bonus or penalty additive values (all others have no effect):
+
+Desert		-1
+Ice		-2
+Tundra		-1
+Mountain	-4
+Hill		-2
+Tree		-3
+River		-5
+Delta		-3
+
+
+The following lists the weapons that can target this movement class:
+
+Indirect
+Direct
+Psychic
+Ranged Space
+Direct Space
+
+
+The following Craft units exist:
+
+1. (132) Small Amphibious Trailer (89)
+2. (297) Medium Amphibious Trailer (87)
+3. (406) Amphibious Truck (93)
+4. (406) Amphibious Jeep (93)
+5. (406) Assault Boat (90)
+6. (409) Amphibious Heavy Tank (96)
+7. (409) Amphibious Light Tank (96)
+8. (409) Amphibious Medium Tank (96)
+9. (564) Amphibious Medium Tank II (92)
+10. (573) Amphibious Heavy Tank II (92)
+11. (576) Amphibious Light Tank II (92)
+12. (578) Amphibious Truck II (92)
+13. (594) Long Amphibious Trailer (85)
+14. (599) Amphibious Jeep II (86)
+15. (958) Amphibious Main Battle Tank (87)
+16. (971) Assault Boat II (83)
+17. (1267) Landing Craft Air Cushioned (86)
+18. (1530) Zag Kanta (Symbiot) (37)
+19. (1617) Stretch Amphibious Trailer (80)

@@ -1,0 +1,77 @@
+The Underwater movement type can only move on water including rivers and delta.
+
+It is comprised mainly of mechanical units that use mechanisms that allow the buoyancy to change that allow them to float or submerge below the water's surface.
+
+They are capable of moving on any ocean terrain hex but typically suffer penalties when moving through river or delta hexes.
+
+
+The following lists the movement class terrain movement cost multiplier values for each planet type:
+
+Terrain Type	Normal	City	Ice	Jungle	Barren
+Ocean		1.0	1.0	1.0	1.0	0.0
+Grass		0.0	0.0	0.0	0.0	0.0
+Arid Grass	0.0	0.0	0.0	0.0	0.0
+Desert		0.0	0.0	0.0	0.0	0.0
+Ice		0.0	0.0	0.0	0.0	0.0
+Tundra		0.0	0.0	0.0	0.0	0.0
+Mountain	0.0	0.0	0.0	0.0	0.0
+Hill		0.0	0.0	0.0	0.0	0.0
+Tree		0.0	0.0	0.0	0.0	0.0
+River		2.0	2.0	2.0	2.0	2.0
+Delta		1.5	1.5	1.5	1.5	1.5
+Road		0.0	0.0	0.0	0.0	0.0
+
+
+The following lists the movement class terrain unit spot additive values for each planet type:
+
+Terrain Type	Normal	City	Ice	Jungle	Barren
+Ocean		+3.00	+3.00	+3.00	+3.00	+3.00
+Grass		+0.10	+0.10	+0.10	+0.10	+0.10
+Arid Grass	+0.10	+0.10	+0.10	+0.10	+0.10
+Desert		+0.10	+0.10	+0.10	+0.10	+0.10
+Ice		+0.10	+0.10	+0.10	+0.10	+0.10
+Tundra		+0.10	+0.10	+0.10	+0.10	+0.10
+Mountain	+0.10	+0.10	+0.10	+0.10	+0.10
+Hill		+0.10	+0.10	+0.10	+0.10	+0.10
+Tree		+0.10	+0.10	+0.10	+0.10	+0.10
+River		+1.50	+1.50	+1.50	+1.50	+1.50
+Delta		+2.00	+2.00	+2.00	+2.00	+2.00
+Road		+1.00	+1.00	+1.00	+1.00	+1.00
+Structure	+1.00	+1.00	+1.00	+1.00	+1.00
+
+
+The following lists the movement class terrain agility bonus or penalty additive values (all others have no effect):
+
+River		-2
+Delta		-1
+
+
+The following lists the weapons that can target this movement class:
+
+Water
+Psychic
+
+
+The following Underwater units exist:
+
+1. (100) Naval Mine Nullifier (98)
+2. (172) Naval Mine (99)
+3. (320) Sonobuoy (86)
+4. (344) U-Boat (99)
+5. (408) Underwater Barrier (94)
+6. (438) Frogmen (93)
+7. (459) Frogmen (PE) (92)
+8. (522) Frogmen (BE) (88)
+9. (635) Frogmen (SE) (87)
+10. (988) Frogmen (DE) (84)
+11. (993) Ballistic Submarine (88)
+12. (1042) Submarine (96)
+13. (1340) Frogmen (PA) (81)
+14. (1362) Frogmen (GE) (78)
+15. (1667) Frogmen (CE) (78)
+16. (1715) Frogmen (AVE) (70)
+17. (1866) Submarine Aircraft Carrier (84)
+18. (1931) Mini Submarine (76)
+19. (2659) Frogmen (MF) (74)
+20. (3370) Frogmen (NE) (73)
+21. (6680) Morph Missile Submarine (67)

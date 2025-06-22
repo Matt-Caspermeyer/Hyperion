@@ -1,0 +1,179 @@
+The Air movement type can move unencumbered terrestrially.
+
+It is comprised mainly of mechanical units fly through the air.
+
+They are capable of moving on any terrestrial hex including ocean and suffer no penalties over any terrain.
+
+
+The following lists the movement class terrain movement cost multiplier values for each planet type:
+
+Terrain Type	Normal	City	Ice	Jungle	Barren
+Ocean		1.0	1.0	1.0	1.0	1.0
+Grass		1.0	1.0	1.0	1.0	1.0
+Arid Grass	1.0	1.0	1.0	1.0	1.0
+Desert		1.0	1.0	1.0	1.0	1.0
+Ice		1.0	1.0	1.0	1.0	1.0
+Tundra		1.0	1.0	1.0	1.0	1.0
+Mountain	1.0	1.0	1.0	1.0	1.0
+Hill		1.0	1.0	1.0	1.0	1.0
+Tree		1.0	1.0	1.0	1.0	1.0
+River		1.0	1.0	1.0	1.0	1.0
+Delta		1.0	1.0	1.0	1.0	1.0
+Road		0.1	0.1	0.1	0.1	0.1
+
+
+The following lists the movement class terrain unit spot additive values for each planet type:
+
+Terrain Type	Normal	City	Ice	Jungle	Barren
+Ocean		+1.50	+1.50	+1.50	+1.50	+1.50
+Grass		+1.50	+1.50	+1.50	+1.50	+1.50
+Arid Grass	+1.50	+1.50	+1.50	+1.50	+1.50
+Desert		+1.50	+1.50	+1.50	+1.50	+1.50
+Ice		+1.50	+1.50	+1.50	+1.50	+1.50
+Tundra		+1.50	+1.50	+1.50	+1.50	+1.50
+Mountain	+2.00	+2.00	+2.00	+2.00	+2.00
+Hill		+1.50	+1.50	+1.50	+1.50	+1.50
+Tree		+2.50	+2.50	+2.50	+2.50	+2.50
+River		+1.50	+1.50	+1.50	+1.50	+1.50
+Delta		+1.50	+1.50	+1.50	+1.50	+1.50
+Road		+1.50	+1.50	+1.50	+1.50	+1.50
+Structure	+4.00	+4.00	+4.00	+4.00	+4.00
+
+
+The following lists the movement class terrain agility bonus or penalty additive values (all others have no effect):
+
+
+
+The following lists the weapons that can target this movement class:
+
+Air
+Psychic
+Ranged Space
+
+
+The following Air units exist:
+
+1. (38) Barrage Balloon (100)
+2. (96) Airship (98)
+3. (96) Blimp (98)
+4. (96) Zeppelin (98)
+5. (148) Reconnaissance Airship (97)
+6. (150) Reconnaissance Blimp (97)
+7. (150) Reconnaissance Zeppelin (97)
+8. (157) Bomber Airship (97)
+9. (157) Fighter Airship (97)
+10. (157) Patrol Airship (97)
+11. (157) Bomber Blimp (97)
+12. (157) Fighter Blimp (97)
+13. (157) Patrol Blimp (97)
+14. (157) Bomber Zeppelin (97)
+15. (157) Fighter Zeppelin (97)
+16. (157) Patrol Zeppelin (97)
+17. (157) Attack Fighter Plane (97)
+18. (157) Battle Plane (97)
+19. (157) Bomber Plane (97)
+20. (157) Giant Bomber Plane (97)
+21. (157) Large Bomber Plane (97)
+22. (157) Reconnaissance Plane (97)
+23. (157) Trench Strafer Plane (97)
+24. (170) Reconnaissance Biplane (93)
+25. (182) Torpedo Plane (95)
+26. (209) Fighter Plane (97)
+27. (213) Reconnaissance Triplane (93)
+28. (261) Interceptor Plane (97)
+29. (287) Reconnaissance Monoplane (94)
+30. (289) Reconnaissance Sesquiplane (94)
+31. (298) PTS Rocket (86)
+32. (341) Attack Fighter Biplane (93)
+33. (341) Bomber Biplane (93)
+34. (341) Fighter Biplane (93)
+35. (341) Trench Strafer Biplane (93)
+36. (384) Attack Fighter Monoplane (94)
+37. (384) Bomber Monoplane (94)
+38. (384) Fighter Monoplane (94)
+39. (384) Trench Strafer Monoplane (94)
+40. (384) Attack Fighter Sesquiplane (94)
+41. (384) Bomber Sesquiplane (94)
+42. (384) Fighter Sesquiplane (94)
+43. (384) Trench Strafer Sesquiplane (94)
+44. (394) Float Plane (94)
+45. (394) Flying Boat (94)
+46. (394) Patrol Seaplane (94)
+47. (394) Seaplane (94)
+48. (394) Torpedo Bomber Seaplane (94)
+49. (394) Zeppelin Fighter (94)
+50. (429) Attack Fighter Triplane (93)
+51. (429) Bomber Triplane (93)
+52. (429) Fighter Triplane (93)
+53. (429) Trench Strafer Triplane (93)
+54. (429) Zeppelin Interceptor (93)
+55. (457) Airborne Aircraft Carrier (87)
+56. (488) Battle Biplane (93)
+57. (488) Giant Bomber Biplane (93)
+58. (488) Large Bomber Biplane (93)
+59. (490) Reconnaissance Autogyro (86)
+60. (492) Attack Autogyro (86)
+61. (492) Assault Autogyro (86)
+62. (492) Patrol Autogyro (86)
+63. (494) Reconnaissance Seaplane (94)
+64. (521) PTS Guided Missile (83)
+65. (527) Battle Monoplane (94)
+66. (527) Large Bomber Monoplane (94)
+67. (527) Battle Sesquiplane (94)
+68. (528) Giant Bomber Monoplane (94)
+69. (529) Large Bomber Sesquiplane (94)
+70. (530) Giant Bomber Sesquiplane (94)
+71. (567) Giant Bomber Triplane (93)
+72. (568) Battle Triplane (93)
+73. (568) Large Bomber Triplane (93)
+74. (590) Cargo Plane (87)
+75. (616) Light Assault Helicopter (85)
+76. (617) Reconnaissance Helicopter (85)
+77. (617) Anti-Submarine Helicopter (85)
+78. (617) Command Helicopter (85)
+79. (617) Heavy Assault Helicopter (85)
+80. (617) Heavy Attack Helicopter (85)
+81. (617) Light Attack Helicopter (85)
+82. (617) Medium Assault Helicopter (85)
+83. (617) Medium Attack Helicopter (85)
+84. (620) Transport Helicopter (85)
+85. (667) Medium Cargo Plane (89)
+86. (670) Torpedo Bomber Aircraft (88)
+87. (724) Cargo Helicopter (86)
+88. (791) Heavy Cargo Plane (87)
+89. (912) Light Bomber (87)
+90. (913) Fighter Bomber (87)
+91. (913) Ground-Attack Fighter (87)
+92. (913) Heavy Bomber (87)
+93. (913) Heavy Fighter (87)
+94. (913) Medium Bomber (87)
+95. (913) Medium Fighter (87)
+96. (914) Light Fighter (87)
+97. (926) Spy Plane (74)
+98. (993) Divebomber (85)
+99. (993) Fighter Divebomber (85)
+100. (1139) Jet-Propulsion Fighter (87)
+101. (1260) Gunship (87)
+102. (1530) Symbiot Spitter (37)
+103. (1530) Wymgantai (Symbiot) (37)
+104. (1530) Wymzeeset (Symbiot) (37)
+105. (1687) Atmospheric Fighter (85)
+106. (1710) Strategic Bomber (87)
+107. (2583) Neutron Bomber (39)
+108. (2683) Power Divebomber (79)
+109. (3885) Vau Jet Fighter (50)
+110. (4143) Killer Gunship (81)
+111. (4355) 3rd-Republic Hyper Bomber (63)
+112. (4396) Laser Fighter (81)
+113. (4696) Stigmata MegaFortress (51)
+114. (5681) Psy Laser Fighter (81)
+115. (6074) Psy Killer Gunship (72)
+116. (6893) Stealth Spy Plane (55)
+117. (8183) Morph Divebomber (64)
+118. (8185) Morph Gunship (64)
+119. (8185) Morph Fighter (64)
+120. (8416) Stealth Divebomber (59)
+121. (8417) Stealth Fighter (59)
+122. (8417) Stealth Bomber (59)
+123. (8418) Stealth Gunship (59)
+124. (8418) Stealth Neutron Bomber (43)

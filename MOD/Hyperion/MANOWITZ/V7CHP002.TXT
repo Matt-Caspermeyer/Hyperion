@@ -1,0 +1,119 @@
+The Wheel movement type typically has the fastest movement rate along roads.
+
+It is comprised mainly of mechanical units that use wheels for their locomotion.
+
+They are capable of moving on any land terrain hex but typically suffer the highest penalties for moving through rough terrain.
+
+
+The following lists the movement class terrain movement cost multiplier values for each planet type:
+
+Terrain Type	Normal	City	Ice	Jungle	Barren
+Ocean		0.0	0.0	0.0	0.0	4.0
+Grass		1.0	1.0	1.0	1.0	1.5
+Arid Grass	1.0	1.0	1.0	1.0	1.5
+Desert		4.0	4.0	4.0	4.0	3.0
+Ice		4.0	2.5	4.0	2.5	1.0
+Tundra		4.0	3.0	2.5	3.0	1.0
+Mountain	6.0	3.0	7.0	6.0	6.0
+Hill		2.0	2.0	2.0	2.0	3.0
+Tree		4.5	4.5	4.5	4.5	4.5
+River		4.0	4.0	4.0	4.0	4.0
+Delta		4.5	4.5	4.5	4.5	2.0
+Road		0.1	0.1	0.1	0.1	0.1
+
+
+The following lists the movement class terrain unit spot additive values for each planet type:
+
+Terrain Type	Normal	City	Ice	Jungle	Barren
+Ocean		+1.50	+1.50	+1.50	+1.50	+2.00
+Grass		+1.50	+1.50	+1.50	+1.50	+1.50
+Arid Grass	+1.50	+1.50	+1.50	+1.50	+1.50
+Desert		+1.50	+1.50	+1.50	+1.50	+1.50
+Ice		+1.50	+1.50	+1.50	+1.50	+1.50
+Tundra		+1.50	+1.50	+1.50	+1.50	+1.50
+Mountain	+1.00	+1.00	+1.00	+1.00	+1.00
+Hill		+1.50	+1.50	+1.50	+1.50	+1.50
+Tree		+2.00	+2.00	+2.00	+2.00	+2.00
+River		+1.50	+1.50	+1.50	+1.50	+1.50
+Delta		+1.50	+1.50	+1.50	+1.50	+1.50
+Road		+1.50	+1.50	+1.50	+1.50	+1.50
+Structure	+4.00	+4.00	+4.00	+4.00	+4.00
+
+
+The following lists the movement class terrain agility bonus or penalty additive values (all others have no effect):
+
+Desert		-1
+Ice		-2
+Tundra		-1
+Mountain	-5
+Hill		-2
+Tree		-4
+River		-6
+Delta		-3
+
+
+The following lists the weapons that can target this movement class:
+
+Indirect
+Direct
+Psychic
+Ranged Space
+Direct Space
+
+
+The following Wheel units exist:
+
+1. (13) Fence (100)
+2. (32) Wire Obstacle (100)
+3. (36) Small Flatbed Trailer (100)
+4. (55) Truck (100)
+5. (55) Barbed Wire (99)
+6. (84) Razor Wire (98)
+7. (86) Artillery (100)
+8. (86) Vertically-Mounted Artillery (100)
+9. (86) Artillery Truck (100)
+10. (90) Anti-Infantry Gun (99)
+11. (90) Auto Cannon (98)
+12. (94) Scout Car (98)
+13. (100) Flame Truck (98)
+14. (100) Armored Car (97)
+15. (102) Coastal Artillery Transport (98)
+16. (107) Medium Flatbed Trailer (98)
+17. (129) Light Artillery (97)
+18. (130) Light Auto Cannon (97)
+19. (133) Medium Auto Cannon (97)
+20. (134) Medium Artillery (97)
+21. (139) Jeep (98)
+22. (141) Heavy Auto Cannon (97)
+23. (142) Anti-Tank Pyramid (97)
+24. (143) Improvised Fighting Vehicle (95)
+25. (152) Heavy Artillery (97)
+26. (157) Siege Mortar (97)
+27. (160) Anti-Tank Gun (95)
+28. (160) Infantry Mobility Vehicle (95)
+29. (160) Anti-Tank Angled Beam (97)
+30. (178) Long Flatbed Trailer (96)
+31. (191) Infantry Fighting Vehicle (95)
+32. (205) Land Minesweeper (98)
+33. (206) Truck II (85)
+34. (210) Electrified Angled Beam (94)
+35. (218) Anti-Aircraft Gun (94)
+36. (229) Concertina Wire (96)
+37. (232) Land Battery (97)
+38. (264) Armored Car II (85)
+39. (271) Rocket Launcher (90)
+40. (278) Stretch Flatbed Trailer (93)
+41. (291) Artillery Truck II (85)
+42. (315) Internal Security Vehicle (92)
+43. (315) Reconnaissance Vehicle (92)
+44. (330) Jeep II (87)
+45. (370) Time-on-Target Battery (88)
+46. (438) Electric Fence (93)
+47. (866) Mobile Landing Deck (86)
+48. (999) Force Field (87)
+49. (1152) Portable HeliPad (86)
+50. (1250) Portable Landing Pad (85)
+51. (1530) Symbiot Arcer (37)
+52. (1530) Bazozad (Symbiot) (37)
+53. (2104) Electrified Force Field (74)
+54. (6176) Energy Shield (55)

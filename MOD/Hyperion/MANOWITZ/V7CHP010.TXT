@@ -1,0 +1,63 @@
+The Lander movement type is able to transit between the ground and space and can also use the jump gates.
+
+It is comprised mainly of mechanical units that use powerful rocket engines to transit between land and space.
+
+They are able to use the jump gates, and move on the ground just like Air units, unencumbered by any terrestrial terrain.
+
+Note that they can land on the ground outside of cities without suffering any damage.
+
+
+The following lists the movement class terrain movement cost multiplier values for each planet type:
+
+Terrain Type	Normal	City	Ice	Jungle	Barren
+Ocean		1.0	1.0	1.0	1.0	1.0
+Grass		1.0	1.0	1.0	1.0	1.0
+Arid Grass	1.0	1.0	1.0	1.0	1.0
+Desert		1.0	1.0	1.0	1.0	1.0
+Ice		1.0	1.0	1.0	1.0	1.0
+Tundra		1.0	1.0	1.0	1.0	1.0
+Mountain	1.0	1.0	1.0	1.0	1.0
+Hill		1.0	1.0	1.0	1.0	1.0
+Tree		1.0	1.0	1.0	1.0	1.0
+River		1.0	1.0	1.0	1.0	1.0
+Delta		1.0	1.0	1.0	1.0	1.0
+Road		1.0	1.0	1.0	1.0	1.0
+
+
+The following lists the movement class terrain unit spot additive values for each planet type:
+
+Terrain Type	Normal	City	Ice	Jungle	Barren
+Ocean		+0.50	+0.50	+0.50	+0.50	+0.50
+Grass		+0.50	+0.50	+0.50	+0.50	+0.50
+Arid Grass	+0.50	+0.50	+0.50	+0.50	+0.50
+Desert		+0.50	+0.50	+0.50	+0.50	+0.50
+Ice		+0.50	+0.50	+0.50	+0.50	+0.50
+Tundra		+0.50	+0.50	+0.50	+0.50	+0.50
+Mountain	+0.50	+0.50	+0.50	+0.50	+0.50
+Hill		+0.50	+0.50	+0.50	+0.50	+0.50
+Tree		+0.50	+0.50	+0.50	+0.50	+0.50
+River		+0.50	+0.50	+0.50	+0.50	+0.50
+Delta		+0.50	+0.50	+0.50	+0.50	+0.50
+Road		+0.50	+0.50	+0.50	+0.50	+0.50
+Structure	+0.50	+0.50	+0.50	+0.50	+0.50
+
+
+The following lists the movement class terrain agility bonus or penalty additive values (all others have no effect):
+
+
+
+The following lists the weapons that can target this movement class:
+
+Indirect
+Direct
+Psychic
+Ranged Space
+Direct Space
+
+
+The following Lander units exist:
+
+1. (549) Zodiac (59)
+2. (848) Sathraist (54)
+3. (3105) Assault Lander (67)
+4. (3108) Space Lander Tank (67)
