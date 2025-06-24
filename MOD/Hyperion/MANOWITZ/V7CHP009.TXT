@@ -5,41 +5,6 @@ It is comprised mainly of mechanical units that use various mechanisms to allow 
 They are capable of moving on any terrastrial hex, but suffer movement penalties when transiting rougher terrain.
 
 
-The following lists the movement class terrain movement cost multiplier values for each planet type:
-
-Terrain----|-Normal-|-City-|-Ice-|-Jungle-|-Barren-|
-Ocean------|-1.0----|-1.0--|-1.0-|-1.0----|-3.5----|
-Grass------|-1.0----|-1.0--|-1.0-|-1.0----|-1.2----|
-Arid Grass-|-1.0----|-1.0--|-1.0-|-1.0----|-1.2----|
-Desert-----|-2.8----|-2.8--|-2.8-|-2.8----|-2.2----|
-Ice--------|-3.2----|-2.5--|-3.2-|-2.5----|-1.0----|
-Tundra-----|-2.8----|-3.0--|-2.5-|-3.0----|-1.0----|
-Mountain---|-5.2----|-2.6--|-6.1-|-5.2----|-5.2----|
-Hill-------|-1.8----|-1.8--|-1.8-|-1.8----|-2.2----|
-Tree-------|-3.8----|-3.8--|-3.8-|-3.8----|-3.8----|
-River------|-2.0----|-2.0--|-2.0-|-2.0----|-2.0----|
-Delta------|-1.5----|-1.5--|-1.5-|-1.5----|-1.5----|
-Road-------|-0.1----|-0.1--|-0.1-|-0.1----|-0.1----|
-
-
-The following lists the movement class terrain unit spot additive values for each planet type:
-
-Terrain----|-Normal-|-City-|-Ice--|-Jungle-|-Barren-|
-Ocean------|+0.00---|+0.00-|+0.00-|+0.00---|+0.00---|
-Grass------|+0.00---|+0.00-|+0.00-|+0.00---|+0.00---|
-Arid Grass-|+0.00---|+0.00-|+0.00-|+0.00---|+0.00---|
-Desert-----|+0.00---|+0.00-|+0.00-|+0.00---|+0.00---|
-Ice--------|+0.00---|+0.00-|+0.00-|+0.00---|+0.00---|
-Tundra-----|+0.00---|+0.00-|+0.00-|+0.00---|+0.00---|
-Mountain---|+0.00---|+0.00-|+0.00-|+0.00---|+0.00---|
-Hill-------|+0.00---|+0.00-|+0.00-|+0.00---|+0.00---|
-Tree-------|-1.00---|-1.00-|-1.00-|-1.00---|-1.00---|
-River------|-0.50---|-0.50-|-0.50-|-0.50---|-0.50---|
-Delta------|+0.00---|+0.00-|+0.00-|+0.00---|+0.00---|
-Road-------|-0.50---|-0.50-|-0.50-|-0.50---|-0.50---|
-Structure--|+0.00---|+0.00-|+0.00-|+0.00---|+0.00---|
-
-
 The following lists the movement class terrain agility bonus or penalty additive values (all others have no effect):
 
 Desert		-1

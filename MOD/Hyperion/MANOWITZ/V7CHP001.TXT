@@ -5,41 +5,6 @@ It is comprised mainly of foot soldiers or other types that mainly use their leg
 They are capable of moving on any land terrain hex and typically suffer reduced penalities when moving through rough terrain.
 
 
-The following lists the movement class terrain movement cost multiplier values for each planet type:
-
-Terrain----|-Normal-|-City-|-Ice-|-Jungle-|-Barren-|
-Ocean------|-0.0----|-0.0--|-0.0-|-0.0----|-2.0----|
-Grass------|-1.0----|-1.0--|-1.0-|-1.0----|-1.0----|
-Arid Grass-|-1.0----|-1.0--|-1.0-|-1.0----|-1.0----|
-Desert-----|-2.0----|-2.0--|-2.0-|-2.0----|-1.5----|
-Ice--------|-2.5----|-2.5--|-2.5-|-2.5----|-1.0----|
-Tundra-----|-2.0----|-2.5--|-2.5-|-2.5----|-1.0----|
-Mountain---|-3.0----|-1.5--|-3.5-|-3.0----|-3.0----|
-Hill-------|-2.5----|-2.5--|-3.0-|-2.5----|-2.5----|
-Tree-------|-1.5----|-1.5--|-1.5-|-1.5----|-1.5----|
-River------|-2.0----|-2.0--|-2.0-|-2.0----|-2.0----|
-Delta------|-2.5----|-2.5--|-2.5-|-2.5----|-2.0----|
-Road-------|-0.1----|-0.1--|-0.1-|-0.1----|-0.1----|
-
-
-The following lists the movement class terrain unit spot additive values for each planet type:
-
-Terrain----|-Normal-|-City-|-Ice--|-Jungle-|-Barren-|
-Ocean------|-4.00---|-4.00-|-4.00-|-4.00---|-4.00---|
-Grass------|+0.00---|+0.75-|+1.00-|+1.00---|-0.50---|
-Arid Grass-|-0.25---|+0.25-|+0.50-|+0.50---|-0.50---|
-Desert-----|+0.75---|+1.25-|+1.50-|+1.50---|+0.50---|
-Ice--------|-0.50---|+0.00-|+0.25-|+0.25---|-0.75---|
-Tundra-----|+1.75---|+2.25-|+2.50-|+2.50---|+1.50---|
-Mountain---|+1.25---|+1.75-|+2.00-|+2.00---|+1.00---|
-Hill-------|+2.25---|+2.75-|+3.00-|+3.00---|+2.00---|
-Tree-------|+0.25---|+0.75-|+1.00-|+1.00---|+0.00---|
-River------|-0.75---|-0.25-|+0.00-|+0.00---|-1.00---|
-Delta------|-2.75---|-2.25-|-2.00-|-2.00---|-3.00---|
-Road-------|+4.00---|+4.00-|+4.00-|+4.00---|+4.00---|
-Structure--|+0.00---|+0.00-|+0.00-|+0.00---|+0.00---|
-
-
 The following lists the movement class terrain agility bonus or penalty additive values (all others have no effect):
 
 Ice		-1

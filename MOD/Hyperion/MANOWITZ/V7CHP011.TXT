@@ -7,41 +7,6 @@ They are not able to use the jump gates, and move on the ground similar to Foot 
 Note that they can land on the ground outside of cities without suffering any damage.
 
 
-The following lists the movement class terrain movement cost multiplier values for each planet type:
-
-Terrain----|-Normal-|-City-|-Ice-|-Jungle-|-Barren-|
-Ocean------|-0.0----|-0.0--|-0.0-|-0.0----|-2.0----|
-Grass------|-1.0----|-1.0--|-1.0-|-1.0----|-1.0----|
-Arid Grass-|-1.0----|-1.0--|-1.0-|-1.0----|-1.0----|
-Desert-----|-2.0----|-2.0--|-2.0-|-2.0----|-1.5----|
-Ice--------|-2.5----|-2.5--|-2.5-|-2.5----|-1.0----|
-Tundra-----|-2.0----|-2.5--|-2.5-|-2.5----|-1.0----|
-Mountain---|-3.0----|-1.5--|-3.5-|-3.0----|-3.0----|
-Hill-------|-2.5----|-2.5--|-3.0-|-2.5----|-2.5----|
-Tree-------|-1.5----|-1.5--|-1.5-|-1.5----|-1.5----|
-River------|-2.0----|-2.0--|-2.0-|-2.0----|-2.0----|
-Delta------|-2.5----|-2.5--|-2.5-|-2.5----|-2.0----|
-Road-------|-0.1----|-0.1--|-0.1-|-0.1----|-0.1----|
-
-
-The following lists the movement class terrain unit spot additive values for each planet type:
-
-Terrain----|-Normal-|-City-|-Ice--|-Jungle-|-Barren-|
-Ocean------|-4.25---|-4.25-|-4.25-|-4.25---|-4.25---|
-Grass------|-0.25---|+0.50-|+0.75-|+0.75---|-0.75---|
-Arid Grass-|-0.50---|+0.00-|+0.25-|+0.25---|-0.75---|
-Desert-----|+0.50---|+1.00-|+1.25-|+1.25---|+0.25---|
-Ice--------|-0.75---|-0.25-|+0.00-|+0.00---|-1.00---|
-Tundra-----|+1.50---|+2.00-|+2.25-|+2.25---|+1.25---|
-Mountain---|+1.00---|+1.50-|+1.75-|+1.75---|+0.75---|
-Hill-------|+2.00---|+2.50-|+2.75-|+2.75---|+1.75---|
-Tree-------|+0.00---|+0.50-|+0.75-|+0.75---|-0.25---|
-River------|-1.00---|-0.50-|-0.25-|-0.25---|-1.25---|
-Delta------|-3.00---|-2.50-|-2.25-|-2.25---|-3.25---|
-Road-------|+3.75---|+3.75-|+3.75-|+3.75---|+3.75---|
-Structure--|+0.00---|+0.00-|+0.00-|+0.00---|+0.00---|
-
-
 The following lists the movement class terrain agility bonus or penalty additive values (all others have no effect):
 
 Ice		-1
