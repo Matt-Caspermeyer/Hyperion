@@ -3,157 +3,173 @@ All units of the unit class Space Fighter Bomber are listed herein (4 in total):
 --1--
 Name: Space Fighter Bomber
 Nick Name: SS-FB
-Tech Score: 309
-Unit Score: 308
-Average Score: 309
-Stat Strength: 275
-Total Strength: 308
-Planet Strength: 0
-Space Strength: 308
-Garrison Strength: 0
-Movement Type: space
-Move Points: 1
-Spot: 8
-Camouflage: 4
-Agility: 12
-Armor: 5
-Psy Defense: 5
-Rank: 112
-Ranged Space: 1/13
-Direct Space: 5/4
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 309
+  Unit Score: 308
+  Average Score: 309
+  Stat Strength: 275
+  Total Strength: 308
+  Planet Strength: 0
+  Space Strength: 308
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 1
+  Spot: 8
+  Camouflage: 4
+  Agility: 12
+  Armor: 5
+  Psy Defense: 5
+  Rank: 112
+Attacks:
+  Ranged Space: 1/13
+  Direct Space: 5/4
+Load aboard transport: YES
 Immune to Plague
 Upkeep / Maintenance: 12
 Build Cost: 119
-Food Resource Requirement: 13
-Energy Resource Requirement: 10
-Metal Resource Requirement: 17
-Trace Resource Requirement: 25
-Exotica Resource Requirement: 13
-Chemicals Resource Requirement: 41
-Electronics Resource Requirement: 17
+Build Resource Requirements:
+  Food: 13
+  Energy: 10
+  Metal: 17
+  Trace: 25
+  Exotica: 13
+  Chemicals: 41
+  Electronics: 17
 Build Space Fighter Bomber in Starport
 Time to Build / Upgrade: 3
 [940] Technologies Required to Build Unit (94):
-[145] Composite Armor (97)
-[795] Rocket Propulsion (90)
-Counts towards planetary flock: YES
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Space Divebomber
 Nick Name: SS-DB
-Tech Score: 309
-Unit Score: 308
-Average Score: 309
-Stat Strength: 274
-Total Strength: 308
-Planet Strength: 0
-Space Strength: 308
-Garrison Strength: 0
-Movement Type: space
-Move Points: 1
-Spot: 8
-Camouflage: 4
-Agility: 11
-Armor: 6
-Psy Defense: 6
-Rank: 147
-Ranged Space: 2/17
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 309
+  Unit Score: 308
+  Average Score: 309
+  Stat Strength: 274
+  Total Strength: 308
+  Planet Strength: 0
+  Space Strength: 308
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 1
+  Spot: 8
+  Camouflage: 4
+  Agility: 11
+  Armor: 6
+  Psy Defense: 6
+  Rank: 147
+Attacks:
+  Ranged Space: 2/17
+Load aboard transport: YES
 Immune to Plague
 Upkeep / Maintenance: 13
 Build Cost: 127
-Food Resource Requirement: 12
-Energy Resource Requirement: 7
-Metal Resource Requirement: 24
-Trace Resource Requirement: 20
-Exotica Resource Requirement: 12
-Chemicals Resource Requirement: 56
-Electronics Resource Requirement: 13
+Build Resource Requirements:
+  Food: 12
+  Energy: 7
+  Metal: 24
+  Trace: 20
+  Exotica: 12
+  Chemicals: 56
+  Electronics: 13
 Build Space Divebomber in Starport
 Time to Build / Upgrade: 3
 [940] Technologies Required to Build Unit (94):
-[145] Composite Armor (97)
-[795] Rocket Propulsion (90)
-Counts towards planetary flock: YES
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
 Name: Space Torpedo Bomber
 Nick Name: Prophet
-Tech Score: 543
-Unit Score: 542
-Average Score: 543
-Stat Strength: 468
-Total Strength: 542
-Planet Strength: 0
-Space Strength: 542
-Garrison Strength: 0
-Movement Type: space
-Move Points: 2
-Spot: 8
-Camouflage: 4
-Agility: 16
-Armor: 8
-Psy Defense: 8
-Rank: 116
-Ranged Space: 5/10
-Direct Space: 3/8
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 543
+  Unit Score: 542
+  Average Score: 543
+  Stat Strength: 468
+  Total Strength: 542
+  Planet Strength: 0
+  Space Strength: 542
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 2
+  Spot: 8
+  Camouflage: 4
+  Agility: 16
+  Armor: 8
+  Psy Defense: 8
+  Rank: 116
+Attacks:
+  Ranged Space: 5/10
+  Direct Space: 3/8
+Load aboard transport: YES
 Immune to Plague
 Upkeep / Maintenance: 8
 Build Cost: 77
-Food Resource Requirement: 7
-Energy Resource Requirement: 11
-Metal Resource Requirement: 16
-Trace Resource Requirement: 15
-Exotica Resource Requirement: 7
-Chemicals Resource Requirement: 22
-Electronics Resource Requirement: 12
+Build Resource Requirements:
+  Food: 7
+  Energy: 11
+  Metal: 16
+  Trace: 15
+  Exotica: 7
+  Chemicals: 22
+  Electronics: 12
 Build Space Torpedo Bomber in Starport
 Time to Build / Upgrade: 2
 [2135] Technologies Required to Build Unit (92):
-[145] Composite Armor (97)
-[795] Rocket Propulsion (90)
-[1195] Naval Warfare (90)
-Counts towards planetary flock: YES
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [1195] Naval Warfare (90)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
 Name: Martyr Torpedo Bomber
 Nick Name: Martyr
-Tech Score: 1333
-Unit Score: 1332
-Average Score: 1332
-Stat Strength: 949
-Total Strength: 1332
-Planet Strength: 0
-Space Strength: 1332
-Garrison Strength: 0
-Movement Type: space
-Move Points: 3
-Spot: 10
-Camouflage: 4
-Agility: 18
-Armor: 10
-Psy Defense: 20
-Rank: 135
-Ranged Space: 6/25
-Direct Space: 7/15
-Psychic: 8/16
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 1333
+  Unit Score: 1332
+  Average Score: 1332
+  Stat Strength: 949
+  Total Strength: 1332
+  Planet Strength: 0
+  Space Strength: 1332
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 10
+  Camouflage: 4
+  Agility: 18
+  Armor: 10
+  Psy Defense: 20
+  Rank: 135
+Attacks:
+  Ranged Space: 6/25
+  Direct Space: 7/15
+  Psychic: 8/16
+Load aboard transport: YES
 Immune to Plague
 Upkeep / Maintenance: 130
 Build Cost: 1224
-Chemicals Resource Requirement: 19
-Electronics Resource Requirement: 2
-Ceramsteel Resource Requirement: 13
-Gems Resource Requirement: 72
+Build Resource Requirements:
+  Chemicals: 19
+  Electronics: 2
+  Ceramsteel: 13
+  Gems: 72
 Upgrade Space Torpedo Bomber to Martyr Torpedo Bomber at Starport
 Time to Build / Upgrade: 1
 [5820] Technologies Required to Build Unit (85):
-[330] Holy Warriors (82)
-[5490] Spacecraft (87)
-Counts towards planetary flock: YES
+  [330] Holy Warriors (82)
+  [5490] Spacecraft (87)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

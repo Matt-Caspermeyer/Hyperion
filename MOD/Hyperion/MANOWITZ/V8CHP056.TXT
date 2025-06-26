@@ -3,194 +3,214 @@ All units of the unit class Heavy Tank are listed herein (5 in total):
 --1--
 Name: Heavy Tank
 Nick Name: Heavy Tank
-Tech Score: 106
-Unit Score: 157
-Average Score: 132
-Stat Strength: 118
-Total Strength: 157
-Planet Strength: 157
-Space Strength: 0
-Garrison Strength: 90
-Movement Type: tread
-Move Points: 3
-Spot: 1
-Camouflage: 1
-Agility: 1
-Armor: 9
-Psy Defense: 5
-Rank: 64
-Indirect: 1/12
-Direct: 1/12
-Close: 5/3
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 106
+  Unit Score: 157
+  Average Score: 132
+  Stat Strength: 118
+  Total Strength: 157
+  Planet Strength: 157
+  Space Strength: 0
+  Garrison Strength: 90
+Statistics:
+  Movement Type: tread
+  Move Points: 3
+  Spot: 1
+  Camouflage: 1
+  Agility: 1
+  Armor: 9
+  Psy Defense: 5
+  Rank: 64
+Attacks:
+  Indirect: 1/12
+  Direct: 1/12
+  Close: 5/3
+Load aboard transport: YES
 Upkeep / Maintenance: 4
 Build Cost: 40
-Food Resource Requirement: 2
-Energy Resource Requirement: 60
-Metal Resource Requirement: 39
-Trace Resource Requirement: 8
-Exotica Resource Requirement: 1
-Chemicals Resource Requirement: 30
+Build Resource Requirements:
+  Food: 2
+  Energy: 60
+  Metal: 39
+  Trace: 8
+  Exotica: 1
+  Chemicals: 30
 Build Heavy Tank in Factory
 Time to Build / Upgrade: 3
 [400] Technologies Required to Build Unit (98):
-[110] Structural Engineering (99)
-[125] Compression Ignition Engine (97)
-[165] Autocannon (98)
-Counts towards planetary flock: YES
+  [110] Structural Engineering (99)
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Super Heavy Tank
 Nick Name: S-Hvy Tank
-Tech Score: 106
-Unit Score: 160
-Average Score: 133
-Stat Strength: 132
-Total Strength: 160
-Planet Strength: 160
-Space Strength: 0
-Garrison Strength: 113
-Movement Type: tread
-Move Points: 2
-Spot: 1
-Camouflage: 1
-Agility: 1
-Armor: 10
-Psy Defense: 5
-Rank: 66
-Indirect: 1/14
-Direct: 1/14
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 106
+  Unit Score: 160
+  Average Score: 133
+  Stat Strength: 132
+  Total Strength: 160
+  Planet Strength: 160
+  Space Strength: 0
+  Garrison Strength: 113
+Statistics:
+  Movement Type: tread
+  Move Points: 2
+  Spot: 1
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 5
+  Rank: 66
+Attacks:
+  Indirect: 1/14
+  Direct: 1/14
+Load aboard transport: YES
 Upkeep / Maintenance: 5
 Build Cost: 48
-Food Resource Requirement: 1
-Energy Resource Requirement: 78
-Metal Resource Requirement: 46
-Trace Resource Requirement: 3
-Exotica Resource Requirement: 1
-Chemicals Resource Requirement: 38
+Build Resource Requirements:
+  Food: 1
+  Energy: 78
+  Metal: 46
+  Trace: 3
+  Exotica: 1
+  Chemicals: 38
 Build Super Heavy Tank in Factory
 Time to Build / Upgrade: 3
 [400] Technologies Required to Build Unit (98):
-[110] Structural Engineering (99)
-[125] Compression Ignition Engine (97)
-[165] Autocannon (98)
-Counts towards planetary flock: YES
+  [110] Structural Engineering (99)
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
 Name: Heavy Tank II
 Nick Name: Hvy Tank II
-Tech Score: 162
-Unit Score: 192
-Average Score: 177
-Stat Strength: 148
-Total Strength: 192
-Planet Strength: 192
-Space Strength: 0
-Garrison Strength: 110
-Movement Type: tread
-Move Points: 3
-Spot: 1
-Camouflage: 1
-Agility: 1
-Armor: 10
-Psy Defense: 6
-Rank: 66
-Indirect: 1/13
-Direct: 1/13
-Close: 6/3
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 162
+  Unit Score: 192
+  Average Score: 177
+  Stat Strength: 148
+  Total Strength: 192
+  Planet Strength: 192
+  Space Strength: 0
+  Garrison Strength: 110
+Statistics:
+  Movement Type: tread
+  Move Points: 3
+  Spot: 1
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 6
+  Rank: 66
+Attacks:
+  Indirect: 1/13
+  Direct: 1/13
+  Close: 6/3
+Load aboard transport: YES
 Upkeep / Maintenance: 5
 Build Cost: 53
-Food Resource Requirement: 3
-Energy Resource Requirement: 79
-Metal Resource Requirement: 53
-Trace Resource Requirement: 15
-Exotica Resource Requirement: 2
-Chemicals Resource Requirement: 51
+Build Resource Requirements:
+  Food: 3
+  Energy: 79
+  Metal: 53
+  Trace: 15
+  Exotica: 2
+  Chemicals: 51
 Build Heavy Tank II in Factory
 Time to Build / Upgrade: 3
 [350] Technology Required to Build Unit (95):
-[350] Tanks (95)
-Counts towards planetary flock: YES
+  [350] Tanks (95)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
 Name: Tank Killer
 Nick Name: Wolverine
-Tech Score: 162
-Unit Score: 240
-Average Score: 201
-Stat Strength: 217
-Total Strength: 240
-Planet Strength: 240
-Space Strength: 0
-Garrison Strength: 107
-Movement Type: tread
-Move Points: 5
-Spot: 2
-Camouflage: 2
-Agility: 2
-Armor: 12
-Psy Defense: 6
-Rank: 64
-Indirect: 1/12
-Direct: 1/11
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 162
+  Unit Score: 240
+  Average Score: 201
+  Stat Strength: 217
+  Total Strength: 240
+  Planet Strength: 240
+  Space Strength: 0
+  Garrison Strength: 107
+Statistics:
+  Movement Type: tread
+  Move Points: 5
+  Spot: 2
+  Camouflage: 2
+  Agility: 2
+  Armor: 12
+  Psy Defense: 6
+  Rank: 64
+Attacks:
+  Indirect: 1/12
+  Direct: 1/11
+Load aboard transport: YES
 Upkeep / Maintenance: 6
 Build Cost: 57
-Food Resource Requirement: 6
-Energy Resource Requirement: 65
-Metal Resource Requirement: 79
-Trace Resource Requirement: 7
-Exotica Resource Requirement: 5
-Chemicals Resource Requirement: 40
+Build Resource Requirements:
+  Food: 6
+  Energy: 65
+  Metal: 79
+  Trace: 7
+  Exotica: 5
+  Chemicals: 40
 Build Tank Killer in Factory
 Time to Build / Upgrade: 3
 [350] Technology Required to Build Unit (95):
-[350] Anti-Tank Weaponry (95)
-Counts towards planetary flock: YES
+  [350] Anti-Tank Weaponry (95)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
 Name: Shock Tank Killer
 Nick Name: Sabertooth
-Tech Score: 1413
-Unit Score: 1675
-Average Score: 1544
-Stat Strength: 1492
-Total Strength: 1675
-Planet Strength: 1675
-Space Strength: 0
-Garrison Strength: 464
-Movement Type: tread
-Move Points: 13
-Spot: 3
-Camouflage: 5
-Agility: 3
-Armor: 32
-Psy Defense: 16
-Rank: 97
-Indirect: 3/32
-Direct: 3/29
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 1413
+  Unit Score: 1675
+  Average Score: 1544
+  Stat Strength: 1492
+  Total Strength: 1675
+  Planet Strength: 1675
+  Space Strength: 0
+  Garrison Strength: 464
+Statistics:
+  Movement Type: tread
+  Move Points: 13
+  Spot: 3
+  Camouflage: 5
+  Agility: 3
+  Armor: 32
+  Psy Defense: 16
+  Rank: 97
+Attacks:
+  Indirect: 3/32
+  Direct: 3/29
+Load aboard transport: YES
 Upkeep / Maintenance: 51
 Build Cost: 456
-Chemicals Resource Requirement: 9
-Electronics Resource Requirement: 19
-Ceramsteel Resource Requirement: 37
-Monopols Resource Requirement: 52
+Build Resource Requirements:
+  Chemicals: 9
+  Electronics: 19
+  Ceramsteel: 37
+  Monopols: 52
 Upgrade Tank Killer to Shock Tank Killer at Factory
 Time to Build / Upgrade: 2
 [6950] Technologies Required to Build Unit (77):
-[1745] Monopols (70)
-[5205] Advanced Battle Tanks (84)
-Counts towards planetary flock: YES
+  [1745] Monopols (70)
+  [5205] Advanced Battle Tanks (84)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

@@ -3,468 +3,516 @@ All units of the unit class Fence are listed herein (12 in total):
 --1--
 Name: Fence
 Nick Name: Fence
-Tech Score: 38
-Unit Score: 13
-Average Score: 25
-Stat Strength: 12
-Total Strength: 13
-Planet Strength: 13
-Space Strength: 0
-Garrison Strength: 16
-Movement Type: wheel
-Move Points: 0
-Spot: 0
-Camouflage: 2
-Agility: 0
-Armor: 2
-Psy Defense: 2
-Rank: 50
-Close: 1/1
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 38
+  Unit Score: 13
+  Average Score: 25
+  Stat Strength: 12
+  Total Strength: 13
+  Planet Strength: 13
+  Space Strength: 0
+  Garrison Strength: 16
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 2
+  Agility: 0
+  Armor: 2
+  Psy Defense: 2
+  Rank: 50
+Attacks:
+  Close: 1/1
+Load aboard transport: YES
 Never Rebels
 Never Retreats
 Immune to Plague
 Build Cost: 3
-Food Resource Requirement: 2
-Energy Resource Requirement: 4
-Metal Resource Requirement: 13
+Build Resource Requirements:
+  Food: 2
+  Energy: 4
+  Metal: 13
 Build Fence in Any building
 Time to Build / Upgrade: 1
 [50] Technology Required to Build Unit (100):
-[50] Applied Technology (100)
+  [50] Applied Technology (100)
 Unit can be disbanded: YES
 
 --2--
 Name: Wire Obstacle
 Nick Name: Wire Obstacle
-Tech Score: 86
-Unit Score: 32
-Average Score: 59
-Stat Strength: 22
-Total Strength: 32
-Planet Strength: 32
-Space Strength: 0
-Garrison Strength: 40
-Movement Type: wheel
-Move Points: 0
-Spot: 0
-Camouflage: 2
-Agility: 0
-Armor: 3
-Psy Defense: 3
-Rank: 51
-Close: 2/5
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 86
+  Unit Score: 32
+  Average Score: 59
+  Stat Strength: 22
+  Total Strength: 32
+  Planet Strength: 32
+  Space Strength: 0
+  Garrison Strength: 40
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 2
+  Agility: 0
+  Armor: 3
+  Psy Defense: 3
+  Rank: 51
+Attacks:
+  Close: 2/5
+Load aboard transport: YES
 Never Rebels
 Never Retreats
 Immune to Plague
 Upkeep / Maintenance: 1
 Build Cost: 11
-Food Resource Requirement: 1
-Energy Resource Requirement: 12
-Metal Resource Requirement: 13
-Trace Resource Requirement: 8
-Chemicals Resource Requirement: 10
+Build Resource Requirements:
+  Food: 1
+  Energy: 12
+  Metal: 13
+  Trace: 8
+  Chemicals: 10
 Build Wire Obstacle in Any building
 Time to Build / Upgrade: 1
 [150] Technologies Required to Build Unit (100):
-[100] Physics & Energy (100)
-[50] Applied Technology (100)
+  [100] Physics & Energy (100)
+  [50] Applied Technology (100)
 Unit can be disbanded: YES
 
 --3--
 Name: Barbed Wire
 Nick Name: Barbed Wire
-Tech Score: 90
-Unit Score: 55
-Average Score: 72
-Stat Strength: 41
-Total Strength: 55
-Planet Strength: 55
-Space Strength: 0
-Garrison Strength: 68
-Movement Type: wheel
-Move Points: 0
-Spot: 0
-Camouflage: 3
-Agility: 0
-Armor: 4
-Psy Defense: 4
-Rank: 51
-Close: 2/7
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 90
+  Unit Score: 55
+  Average Score: 72
+  Stat Strength: 41
+  Total Strength: 55
+  Planet Strength: 55
+  Space Strength: 0
+  Garrison Strength: 68
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 3
+  Agility: 0
+  Armor: 4
+  Psy Defense: 4
+  Rank: 51
+Attacks:
+  Close: 2/7
+Load aboard transport: YES
 Never Rebels
 Never Retreats
 Immune to Plague
 Upkeep / Maintenance: 3
 Build Cost: 25
-Food Resource Requirement: 1
-Energy Resource Requirement: 23
-Metal Resource Requirement: 22
-Trace Resource Requirement: 14
-Chemicals Resource Requirement: 20
+Build Resource Requirements:
+  Food: 1
+  Energy: 23
+  Metal: 22
+  Trace: 14
+  Chemicals: 20
 Build Barbed Wire in Any building
 Time to Build / Upgrade: 1
 [160] Technologies Required to Build Unit (100):
-[110] Structural Engineering (99)
-[50] Applied Technology (100)
+  [110] Structural Engineering (99)
+  [50] Applied Technology (100)
 Unit can be disbanded: YES
 
 --4--
 Name: Razor Wire
 Nick Name: Razor Wire
-Tech Score: 96
-Unit Score: 84
-Average Score: 90
-Stat Strength: 66
-Total Strength: 84
-Planet Strength: 84
-Space Strength: 0
-Garrison Strength: 105
-Movement Type: wheel
-Move Points: 0
-Spot: 0
-Camouflage: 4
-Agility: 0
-Armor: 5
-Psy Defense: 5
-Rank: 51
-Close: 2/9
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 96
+  Unit Score: 84
+  Average Score: 90
+  Stat Strength: 66
+  Total Strength: 84
+  Planet Strength: 84
+  Space Strength: 0
+  Garrison Strength: 105
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 4
+  Agility: 0
+  Armor: 5
+  Psy Defense: 5
+  Rank: 51
+Attacks:
+  Close: 2/9
+Load aboard transport: YES
 Never Rebels
 Never Retreats
 Immune to Plague
 Upkeep / Maintenance: 3
 Build Cost: 29
-Food Resource Requirement: 1
-Energy Resource Requirement: 23
-Metal Resource Requirement: 23
-Trace Resource Requirement: 10
-Chemicals Resource Requirement: 21
+Build Resource Requirements:
+  Food: 1
+  Energy: 23
+  Metal: 23
+  Trace: 10
+  Chemicals: 21
 Build Razor Wire in Any building
 Time to Build / Upgrade: 2
 [275] Technologies Required to Build Unit (99):
-[110] Structural Engineering (99)
-[165] Autocannon (98)
+  [110] Structural Engineering (99)
+  [165] Autocannon (98)
 Unit can be disbanded: YES
 
 --5--
 Name: Anti-Tank Pyramid
 Nick Name: Dragon Teeth
-Tech Score: 144
-Unit Score: 142
-Average Score: 143
-Stat Strength: 132
-Total Strength: 142
-Planet Strength: 142
-Space Strength: 0
-Garrison Strength: 177
-Movement Type: wheel
-Move Points: 0
-Spot: 0
-Camouflage: 2
-Agility: 0
-Armor: 8
-Psy Defense: 8
-Rank: 83
-Direct: 2/5
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 144
+  Unit Score: 142
+  Average Score: 143
+  Stat Strength: 132
+  Total Strength: 142
+  Planet Strength: 142
+  Space Strength: 0
+  Garrison Strength: 177
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 2
+  Agility: 0
+  Armor: 8
+  Psy Defense: 8
+  Rank: 83
+Attacks:
+  Direct: 2/5
+Load aboard transport: YES
 Never Rebels
 Never Retreats
 Immune to Plague
 Upkeep / Maintenance: 2
 Build Cost: 20
-Food Resource Requirement: 1
-Energy Resource Requirement: 6
-Metal Resource Requirement: 44
-Trace Resource Requirement: 4
-Chemicals Resource Requirement: 6
+Build Resource Requirements:
+  Food: 1
+  Energy: 6
+  Metal: 44
+  Trace: 4
+  Chemicals: 6
 Build Anti-Tank Pyramid in Any building
 Time to Build / Upgrade: 1
 [410] Technologies Required to Build Unit (97):
-[110] Structural Engineering (99)
-[300] Mechanized Warfare (95)
+  [110] Structural Engineering (99)
+  [300] Mechanized Warfare (95)
 Unit can be disbanded: YES
 
 --6--
 Name: Anti-Tank Angled Beam
 Nick Name: Hedgehog
-Tech Score: 162
-Unit Score: 160
-Average Score: 161
-Stat Strength: 128
-Total Strength: 160
-Planet Strength: 160
-Space Strength: 0
-Garrison Strength: 200
-Movement Type: wheel
-Move Points: 0
-Spot: 0
-Camouflage: 0
-Agility: 0
-Armor: 8
-Psy Defense: 8
-Rank: 89
-Direct: 4/8
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 162
+  Unit Score: 160
+  Average Score: 161
+  Stat Strength: 128
+  Total Strength: 160
+  Planet Strength: 160
+  Space Strength: 0
+  Garrison Strength: 200
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 0
+  Agility: 0
+  Armor: 8
+  Psy Defense: 8
+  Rank: 89
+Attacks:
+  Direct: 4/8
+Load aboard transport: YES
 Never Rebels
 Never Retreats
 Immune to Plague
 Upkeep / Maintenance: 3
 Build Cost: 26
-Food Resource Requirement: 1
-Energy Resource Requirement: 12
-Metal Resource Requirement: 41
-Trace Resource Requirement: 5
-Chemicals Resource Requirement: 14
+Build Resource Requirements:
+  Food: 1
+  Energy: 12
+  Metal: 41
+  Trace: 5
+  Chemicals: 14
 Build Anti-Tank Angled Beam in Factory
 Time to Build / Upgrade: 2
 [460] Technologies Required to Build Unit (97):
-[110] Structural Engineering (99)
-[350] Tanks (95)
+  [110] Structural Engineering (99)
+  [350] Tanks (95)
 Unit can be disbanded: YES
 
 --7--
 Name: Electrified Angled Beam
 Nick Name: E-Hedgehog
-Tech Score: 213
-Unit Score: 210
-Average Score: 212
-Stat Strength: 128
-Total Strength: 210
-Planet Strength: 210
-Space Strength: 0
-Garrison Strength: 262
-Movement Type: wheel
-Move Points: 0
-Spot: 0
-Camouflage: 0
-Agility: 0
-Armor: 8
-Psy Defense: 8
-Rank: 92
-Direct: 5/10
-Close: 4/8
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 213
+  Unit Score: 210
+  Average Score: 212
+  Stat Strength: 128
+  Total Strength: 210
+  Planet Strength: 210
+  Space Strength: 0
+  Garrison Strength: 262
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 0
+  Agility: 0
+  Armor: 8
+  Psy Defense: 8
+  Rank: 92
+Attacks:
+  Direct: 5/10
+  Close: 4/8
+Load aboard transport: YES
 Never Rebels
 Never Retreats
 Immune to Plague
 Upkeep / Maintenance: 3
 Build Cost: 30
-Energy Resource Requirement: 19
-Metal Resource Requirement: 25
-Trace Resource Requirement: 5
-Chemicals Resource Requirement: 21
-Electronics Resource Requirement: 3
+Build Resource Requirements:
+  Energy: 19
+  Metal: 25
+  Trace: 5
+  Chemicals: 21
+  Electronics: 3
 Build Electrified Angled Beam in Electronics Plant
 Time to Build / Upgrade: 2
 [955] Technologies Required to Build Unit (94):
-[110] Structural Engineering (99)
-[170] High-Power Electronics (89)
-[325] Megachassis (94)
-[350] Tanks (95)
+  [110] Structural Engineering (99)
+  [170] High-Power Electronics (89)
+  [325] Megachassis (94)
+  [350] Tanks (95)
 Unit can be disbanded: YES
 
 --8--
 Name: Concertina Wire
 Nick Name: Concertina
-Tech Score: 414
-Unit Score: 229
-Average Score: 322
-Stat Strength: 164
-Total Strength: 229
-Planet Strength: 229
-Space Strength: 0
-Garrison Strength: 286
-Movement Type: wheel
-Move Points: 0
-Spot: 0
-Camouflage: 6
-Agility: 0
-Armor: 8
-Psy Defense: 8
-Rank: 53
-Close: 5/13
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 414
+  Unit Score: 229
+  Average Score: 322
+  Stat Strength: 164
+  Total Strength: 229
+  Planet Strength: 229
+  Space Strength: 0
+  Garrison Strength: 286
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 6
+  Agility: 0
+  Armor: 8
+  Psy Defense: 8
+  Rank: 53
+Attacks:
+  Close: 5/13
+Load aboard transport: YES
 Never Rebels
 Never Retreats
 Immune to Plague
 Upkeep / Maintenance: 1
 Build Cost: 14
-Energy Resource Requirement: 11
-Metal Resource Requirement: 16
-Trace Resource Requirement: 5
-Chemicals Resource Requirement: 11
-Electronics Resource Requirement: 4
+Build Resource Requirements:
+  Energy: 11
+  Metal: 16
+  Trace: 5
+  Chemicals: 11
+  Electronics: 4
 Build Concertina Wire in Any building
 Time to Build / Upgrade: 1
 [1595] Technologies Required to Build Unit (96):
-[110] Structural Engineering (99)
-[125] Synchronization Gears (97)
-[165] Autocannon (98)
-[1195] Naval Warfare (90)
+  [110] Structural Engineering (99)
+  [125] Synchronization Gears (97)
+  [165] Autocannon (98)
+  [1195] Naval Warfare (90)
 Unit can be disbanded: YES
 
 --9--
 Name: Electric Fence
 Nick Name: Elec Fence
-Tech Score: 452
-Unit Score: 438
-Average Score: 445
-Stat Strength: 216
-Total Strength: 438
-Planet Strength: 438
-Space Strength: 0
-Garrison Strength: 547
-Movement Type: wheel
-Move Points: 0
-Spot: 0
-Camouflage: 4
-Agility: 0
-Armor: 10
-Psy Defense: 10
-Rank: 101
-Direct: 6/16
-Close: 7/18
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 452
+  Unit Score: 438
+  Average Score: 445
+  Stat Strength: 216
+  Total Strength: 438
+  Planet Strength: 438
+  Space Strength: 0
+  Garrison Strength: 547
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 4
+  Agility: 0
+  Armor: 10
+  Psy Defense: 10
+  Rank: 101
+Attacks:
+  Direct: 6/16
+  Close: 7/18
+Load aboard transport: YES
 Never Rebels
 Never Retreats
 Immune to Plague
 Upkeep / Maintenance: 5
 Build Cost: 43
-Energy Resource Requirement: 32
-Metal Resource Requirement: 11
-Trace Resource Requirement: 7
-Chemicals Resource Requirement: 37
-Electronics Resource Requirement: 6
+Build Resource Requirements:
+  Energy: 32
+  Metal: 11
+  Trace: 7
+  Chemicals: 37
+  Electronics: 6
 Upgrade Fence to Electric Fence at Electronics Plant
 Time to Build / Upgrade: 1
 [1800] Technologies Required to Build Unit (93):
-[110] Structural Engineering (99)
-[170] High-Power Electronics (89)
-[325] Megachassis (94)
-[1195] Naval Warfare (90)
+  [110] Structural Engineering (99)
+  [170] High-Power Electronics (89)
+  [325] Megachassis (94)
+  [1195] Naval Warfare (90)
 Unit can be disbanded: YES
 
 --10--
 Name: Force Field
 Nick Name: Force Field
-Tech Score: 1006
-Unit Score: 999
-Average Score: 1002
-Stat Strength: 486
-Total Strength: 999
-Planet Strength: 999
-Space Strength: 0
-Garrison Strength: 1248
-Movement Type: wheel
-Move Points: 0
-Spot: 0
-Camouflage: 6
-Agility: 0
-Armor: 15
-Psy Defense: 15
-Rank: 118
-Direct: 9/24
-Close: 11/27
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 1006
+  Unit Score: 999
+  Average Score: 1002
+  Stat Strength: 486
+  Total Strength: 999
+  Planet Strength: 999
+  Space Strength: 0
+  Garrison Strength: 1248
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 6
+  Agility: 0
+  Armor: 15
+  Psy Defense: 15
+  Rank: 118
+Attacks:
+  Direct: 9/24
+  Close: 11/27
+Load aboard transport: YES
 Never Rebels
 Never Retreats
 Immune to Plague
 Upkeep / Maintenance: 69
 Build Cost: 685
-Energy Resource Requirement: 35
-Metal Resource Requirement: 21
-Trace Resource Requirement: 9
-Chemicals Resource Requirement: 41
-Biochems Resource Requirement: 4
-Electronics Resource Requirement: 8
-Monopols Resource Requirement: 48
+Build Resource Requirements:
+  Energy: 35
+  Metal: 21
+  Trace: 9
+  Chemicals: 41
+  Biochems: 4
+  Electronics: 8
+  Monopols: 48
 Build Force Field in Fusorium
 Time to Build / Upgrade: 4
 [4940] Technologies Required to Build Unit (87):
-[145] Composite Armor (97)
-[1745] Monopols (70)
-[325] Megachassis (94)
-[2725] Naval Capital Ships (88)
+  [145] Composite Armor (97)
+  [1745] Monopols (70)
+  [325] Megachassis (94)
+  [2725] Naval Capital Ships (88)
 Unit can be disbanded: YES
 
 --11--
 Name: Electrified Force Field
 Nick Name: EF Field
-Tech Score: 2337
-Unit Score: 2104
-Average Score: 2220
-Stat Strength: 1216
-Total Strength: 2104
-Planet Strength: 2104
-Space Strength: 0
-Garrison Strength: 2630
-Movement Type: wheel
-Move Points: 0
-Spot: 0
-Camouflage: 8
-Agility: 0
-Armor: 24
-Psy Defense: 24
-Rank: 141
-Direct: 12/32
-Close: 14/36
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 2337
+  Unit Score: 2104
+  Average Score: 2220
+  Stat Strength: 1216
+  Total Strength: 2104
+  Planet Strength: 2104
+  Space Strength: 0
+  Garrison Strength: 2630
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 8
+  Agility: 0
+  Armor: 24
+  Psy Defense: 24
+  Rank: 141
+Attacks:
+  Direct: 12/32
+  Close: 14/36
+Load aboard transport: YES
 Never Rebels
 Never Retreats
 Immune to Plague
 Upkeep / Maintenance: 73
 Build Cost: 44
-Ceramsteel Resource Requirement: 19
-Monopols Resource Requirement: 5
+Build Resource Requirements:
+  Ceramsteel: 19
+  Monopols: 5
 Upgrade Force Field to Electrified Force Field at Electronics Plant
 Time to Build / Upgrade: 1
 [16460] Technologies Required to Build Unit (74):
-[1690] Quantized Conductance (76)
-[7475] Cold Fusion Cells (66)
-[7295] Nuclear-Powered Navalcraft (81)
+  [1690] Quantized Conductance (76)
+  [7475] Cold Fusion Cells (66)
+  [7295] Nuclear-Powered Navalcraft (81)
 Unit can be disbanded: YES
 
 --12--
 Name: Energy Shield
 Nick Name: Energy Shield
-Tech Score: 6180
-Unit Score: 6176
-Average Score: 6178
-Stat Strength: 5000
-Total Strength: 6176
-Planet Strength: 5600
-Space Strength: 5576
-Garrison Strength: 7000
-Movement Type: wheel
-Move Points: 0
-Spot: 0
-Camouflage: 0
-Agility: 0
-Armor: 50
-Psy Defense: 50
-Rank: 211
-Ranged Space: 24/24
-Indirect: 24/25
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 6180
+  Unit Score: 6176
+  Average Score: 6178
+  Stat Strength: 5000
+  Total Strength: 6176
+  Planet Strength: 5600
+  Space Strength: 5576
+  Garrison Strength: 7000
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 0
+  Agility: 0
+  Armor: 50
+  Psy Defense: 50
+  Rank: 211
+Attacks:
+  Ranged Space: 24/24
+  Indirect: 24/25
+Load aboard transport: YES
 Never Rebels
 Never Retreats
 Immune to Plague
 Upkeep / Maintenance: 47
 Build Cost: 469
-Energy Resource Requirement: 2
-Metal Resource Requirement: 10
-Trace Resource Requirement: 1
-Chemicals Resource Requirement: 8
-Biochems Resource Requirement: 18
-Electronics Resource Requirement: 8
-Ceramsteel Resource Requirement: 20
-Wetware Resource Requirement: 6
-Monopols Resource Requirement: 24
+Build Resource Requirements:
+  Energy: 2
+  Metal: 10
+  Trace: 1
+  Chemicals: 8
+  Biochems: 18
+  Electronics: 8
+  Ceramsteel: 20
+  Wetware: 6
+  Monopols: 24
 Build Energy Shield in Fusorium
 Time to Build / Upgrade: 3
 [50665] Technologies Required to Build Unit (55):
-[5655] Discontinuity Field Generator (58)
-[45010] Hover Navalcraft (52)
+  [5655] Discontinuity Field Generator (58)
+  [45010] Hover Navalcraft (52)
 Unit can be disbanded: YES

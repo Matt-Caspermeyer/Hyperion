@@ -3,355 +3,391 @@ All units of the unit class Torpedo Bomber Aircraft are listed herein (9 in tota
 --1--
 Name: Torpedo Bomber Aircraft
 Nick Name: A-ATB
-Tech Score: 671
-Unit Score: 670
-Average Score: 670
-Stat Strength: 485
-Total Strength: 670
-Planet Strength: 670
-Space Strength: 0
-Garrison Strength: 185
-Movement Type: air
-Move Points: 13
-Spot: 6
-Camouflage: 4
-Agility: 8
-Armor: 10
-Psy Defense: 10
-Rank: 113
-Water: 4/20
-Air: 8/2
-Indirect: 4/20
-Direct: 3/3
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 671
+  Unit Score: 670
+  Average Score: 670
+  Stat Strength: 485
+  Total Strength: 670
+  Planet Strength: 670
+  Space Strength: 0
+  Garrison Strength: 185
+Statistics:
+  Movement Type: air
+  Move Points: 13
+  Spot: 6
+  Camouflage: 4
+  Agility: 8
+  Armor: 10
+  Psy Defense: 10
+  Rank: 113
+Attacks:
+  Water: 4/20
+  Air: 8/2
+  Indirect: 4/20
+  Direct: 3/3
+Load aboard transport: YES
 Upkeep / Maintenance: 4
 Build Cost: 39
-Food Resource Requirement: 6
-Energy Resource Requirement: 44
-Metal Resource Requirement: 28
-Trace Resource Requirement: 11
-Exotica Resource Requirement: 6
-Chemicals Resource Requirement: 27
-Electronics Resource Requirement: 8
+Build Resource Requirements:
+  Food: 6
+  Energy: 44
+  Metal: 28
+  Trace: 11
+  Exotica: 6
+  Chemicals: 27
+  Electronics: 8
 Build Torpedo Bomber Aircraft in Factory
 Time to Build / Upgrade: 2
 [2595] Technologies Required to Build Unit (89):
-[1195] Naval Warfare (90)
-[1400] Aerial Warfare (87)
-Counts towards planetary flock: YES
+  [1195] Naval Warfare (90)
+  [1400] Aerial Warfare (87)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Light Bomber
 Nick Name: A-BL
-Tech Score: 458
-Unit Score: 912
-Average Score: 685
-Stat Strength: 798
-Total Strength: 912
-Planet Strength: 912
-Space Strength: 0
-Garrison Strength: 209
-Movement Type: air
-Move Points: 19
-Spot: 8
-Camouflage: 2
-Agility: 13
-Armor: 10
-Psy Defense: 10
-Rank: 150
-Air: 11/3
-Indirect: 9/9
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 458
+  Unit Score: 912
+  Average Score: 685
+  Stat Strength: 798
+  Total Strength: 912
+  Planet Strength: 912
+  Space Strength: 0
+  Garrison Strength: 209
+Statistics:
+  Movement Type: air
+  Move Points: 19
+  Spot: 8
+  Camouflage: 2
+  Agility: 13
+  Armor: 10
+  Psy Defense: 10
+  Rank: 150
+Attacks:
+  Air: 11/3
+  Indirect: 9/9
+Load aboard transport: YES
 Upkeep / Maintenance: 12
 Build Cost: 118
-Food Resource Requirement: 20
-Energy Resource Requirement: 38
-Metal Resource Requirement: 137
-Trace Resource Requirement: 31
-Exotica Resource Requirement: 20
-Chemicals Resource Requirement: 33
-Electronics Resource Requirement: 17
+Build Resource Requirements:
+  Food: 20
+  Energy: 38
+  Metal: 137
+  Trace: 31
+  Exotica: 20
+  Chemicals: 33
+  Electronics: 17
 Build Light Bomber in Factory
 Time to Build / Upgrade: 5
 [1400] Technology Required to Build Unit (87):
-[1400] Aerial Warfare (87)
-Counts towards planetary flock: YES
+  [1400] Aerial Warfare (87)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
 Name: Fighter Bomber
 Nick Name: A-BF
-Tech Score: 458
-Unit Score: 913
-Average Score: 685
-Stat Strength: 789
-Total Strength: 913
-Planet Strength: 913
-Space Strength: 0
-Garrison Strength: 204
-Movement Type: air
-Move Points: 20
-Spot: 8
-Camouflage: 2
-Agility: 11
-Armor: 10
-Psy Defense: 10
-Rank: 147
-Air: 8/10
-Indirect: 4/11
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 458
+  Unit Score: 913
+  Average Score: 685
+  Stat Strength: 789
+  Total Strength: 913
+  Planet Strength: 913
+  Space Strength: 0
+  Garrison Strength: 204
+Statistics:
+  Movement Type: air
+  Move Points: 20
+  Spot: 8
+  Camouflage: 2
+  Agility: 11
+  Armor: 10
+  Psy Defense: 10
+  Rank: 147
+Attacks:
+  Air: 8/10
+  Indirect: 4/11
+Load aboard transport: YES
 Upkeep / Maintenance: 12
 Build Cost: 119
-Food Resource Requirement: 20
-Energy Resource Requirement: 48
-Metal Resource Requirement: 137
-Trace Resource Requirement: 23
-Exotica Resource Requirement: 20
-Chemicals Resource Requirement: 39
-Electronics Resource Requirement: 12
+Build Resource Requirements:
+  Food: 20
+  Energy: 48
+  Metal: 137
+  Trace: 23
+  Exotica: 20
+  Chemicals: 39
+  Electronics: 12
 Build Fighter Bomber in Factory
 Time to Build / Upgrade: 5
 [1400] Technology Required to Build Unit (87):
-[1400] Aerial Warfare (87)
-Counts towards planetary flock: YES
+  [1400] Aerial Warfare (87)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
 Name: Ground-Attack Fighter
 Nick Name: A-FGA
-Tech Score: 458
-Unit Score: 913
-Average Score: 685
-Stat Strength: 825
-Total Strength: 913
-Planet Strength: 913
-Space Strength: 0
-Garrison Strength: 209
-Movement Type: air
-Move Points: 19
-Spot: 8
-Camouflage: 2
-Agility: 14
-Armor: 10
-Psy Defense: 10
-Rank: 116
-Air: 5/5
-Indirect: 5/6
-Direct: 3/6
-Close: 5/3
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 458
+  Unit Score: 913
+  Average Score: 685
+  Stat Strength: 825
+  Total Strength: 913
+  Planet Strength: 913
+  Space Strength: 0
+  Garrison Strength: 209
+Statistics:
+  Movement Type: air
+  Move Points: 19
+  Spot: 8
+  Camouflage: 2
+  Agility: 14
+  Armor: 10
+  Psy Defense: 10
+  Rank: 116
+Attacks:
+  Air: 5/5
+  Indirect: 5/6
+  Direct: 3/6
+  Close: 5/3
+Load aboard transport: YES
 Upkeep / Maintenance: 12
 Build Cost: 118
-Food Resource Requirement: 21
-Energy Resource Requirement: 40
-Metal Resource Requirement: 137
-Trace Resource Requirement: 25
-Exotica Resource Requirement: 20
-Chemicals Resource Requirement: 38
-Electronics Resource Requirement: 14
+Build Resource Requirements:
+  Food: 21
+  Energy: 40
+  Metal: 137
+  Trace: 25
+  Exotica: 20
+  Chemicals: 38
+  Electronics: 14
 Build Ground-Attack Fighter in Factory
 Time to Build / Upgrade: 5
 [1400] Technology Required to Build Unit (87):
-[1400] Aerial Warfare (87)
-Counts towards planetary flock: YES
+  [1400] Aerial Warfare (87)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
 Name: Heavy Bomber
 Nick Name: A-BH
-Tech Score: 458
-Unit Score: 913
-Average Score: 685
-Stat Strength: 846
-Total Strength: 913
-Planet Strength: 913
-Space Strength: 0
-Garrison Strength: 199
-Movement Type: air
-Move Points: 21
-Spot: 8
-Camouflage: 2
-Agility: 7
-Armor: 12
-Psy Defense: 12
-Rank: 149
-Air: 5/5
-Indirect: 3/14
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 458
+  Unit Score: 913
+  Average Score: 685
+  Stat Strength: 846
+  Total Strength: 913
+  Planet Strength: 913
+  Space Strength: 0
+  Garrison Strength: 199
+Statistics:
+  Movement Type: air
+  Move Points: 21
+  Spot: 8
+  Camouflage: 2
+  Agility: 7
+  Armor: 12
+  Psy Defense: 12
+  Rank: 149
+Attacks:
+  Air: 5/5
+  Indirect: 3/14
+Load aboard transport: YES
 Upkeep / Maintenance: 13
 Build Cost: 128
-Food Resource Requirement: 21
-Energy Resource Requirement: 48
-Metal Resource Requirement: 198
-Trace Resource Requirement: 16
-Exotica Resource Requirement: 20
-Chemicals Resource Requirement: 34
-Electronics Resource Requirement: 8
+Build Resource Requirements:
+  Food: 21
+  Energy: 48
+  Metal: 198
+  Trace: 16
+  Exotica: 20
+  Chemicals: 34
+  Electronics: 8
 Build Heavy Bomber in Factory
 Time to Build / Upgrade: 5
 [1400] Technology Required to Build Unit (87):
-[1400] Aerial Warfare (87)
-Counts towards planetary flock: YES
+  [1400] Aerial Warfare (87)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
 Name: Heavy Fighter
 Nick Name: A-FH
-Tech Score: 458
-Unit Score: 913
-Average Score: 685
-Stat Strength: 810
-Total Strength: 913
-Planet Strength: 913
-Space Strength: 0
-Garrison Strength: 204
-Movement Type: air
-Move Points: 20
-Spot: 8
-Camouflage: 2
-Agility: 10
-Armor: 11
-Psy Defense: 11
-Rank: 146
-Air: 10/7
-Indirect: 3/11
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 458
+  Unit Score: 913
+  Average Score: 685
+  Stat Strength: 810
+  Total Strength: 913
+  Planet Strength: 913
+  Space Strength: 0
+  Garrison Strength: 204
+Statistics:
+  Movement Type: air
+  Move Points: 20
+  Spot: 8
+  Camouflage: 2
+  Agility: 10
+  Armor: 11
+  Psy Defense: 11
+  Rank: 146
+Attacks:
+  Air: 10/7
+  Indirect: 3/11
+Load aboard transport: YES
 Upkeep / Maintenance: 13
 Build Cost: 126
-Food Resource Requirement: 20
-Energy Resource Requirement: 44
-Metal Resource Requirement: 166
-Trace Resource Requirement: 26
-Exotica Resource Requirement: 20
-Chemicals Resource Requirement: 35
-Electronics Resource Requirement: 14
+Build Resource Requirements:
+  Food: 20
+  Energy: 44
+  Metal: 166
+  Trace: 26
+  Exotica: 20
+  Chemicals: 35
+  Electronics: 14
 Build Heavy Fighter in Factory
 Time to Build / Upgrade: 5
 [1400] Technology Required to Build Unit (87):
-[1400] Aerial Warfare (87)
-Counts towards planetary flock: YES
+  [1400] Aerial Warfare (87)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
 Name: Medium Bomber
 Nick Name: A-BM
-Tech Score: 458
-Unit Score: 913
-Average Score: 685
-Stat Strength: 831
-Total Strength: 913
-Planet Strength: 913
-Space Strength: 0
-Garrison Strength: 204
-Movement Type: air
-Move Points: 20
-Spot: 8
-Camouflage: 2
-Agility: 11
-Armor: 11
-Psy Defense: 11
-Rank: 147
-Air: 7/4
-Indirect: 9/6
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 458
+  Unit Score: 913
+  Average Score: 685
+  Stat Strength: 831
+  Total Strength: 913
+  Planet Strength: 913
+  Space Strength: 0
+  Garrison Strength: 204
+Statistics:
+  Movement Type: air
+  Move Points: 20
+  Spot: 8
+  Camouflage: 2
+  Agility: 11
+  Armor: 11
+  Psy Defense: 11
+  Rank: 147
+Attacks:
+  Air: 7/4
+  Indirect: 9/6
+Load aboard transport: YES
 Upkeep / Maintenance: 12
 Build Cost: 119
-Food Resource Requirement: 21
-Energy Resource Requirement: 36
-Metal Resource Requirement: 166
-Trace Resource Requirement: 21
-Exotica Resource Requirement: 20
-Chemicals Resource Requirement: 34
-Electronics Resource Requirement: 11
+Build Resource Requirements:
+  Food: 21
+  Energy: 36
+  Metal: 166
+  Trace: 21
+  Exotica: 20
+  Chemicals: 34
+  Electronics: 11
 Build Medium Bomber in Factory
 Time to Build / Upgrade: 5
 [1400] Technology Required to Build Unit (87):
-[1400] Aerial Warfare (87)
-Counts towards planetary flock: YES
+  [1400] Aerial Warfare (87)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
 Name: Medium Fighter
 Nick Name: A-FM
-Tech Score: 458
-Unit Score: 913
-Average Score: 685
-Stat Strength: 830
-Total Strength: 913
-Planet Strength: 913
-Space Strength: 0
-Garrison Strength: 199
-Movement Type: air
-Move Points: 21
-Spot: 8
-Camouflage: 2
-Agility: 11
-Armor: 10
-Psy Defense: 10
-Rank: 143
-Air: 11/5
-Indirect: 4/7
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 458
+  Unit Score: 913
+  Average Score: 685
+  Stat Strength: 830
+  Total Strength: 913
+  Planet Strength: 913
+  Space Strength: 0
+  Garrison Strength: 199
+Statistics:
+  Movement Type: air
+  Move Points: 21
+  Spot: 8
+  Camouflage: 2
+  Agility: 11
+  Armor: 10
+  Psy Defense: 10
+  Rank: 143
+Attacks:
+  Air: 11/5
+  Indirect: 4/7
+Load aboard transport: YES
 Upkeep / Maintenance: 12
 Build Cost: 122
-Food Resource Requirement: 22
-Energy Resource Requirement: 40
-Metal Resource Requirement: 137
-Trace Resource Requirement: 29
-Exotica Resource Requirement: 21
-Chemicals Resource Requirement: 37
-Electronics Resource Requirement: 16
+Build Resource Requirements:
+  Food: 22
+  Energy: 40
+  Metal: 137
+  Trace: 29
+  Exotica: 21
+  Chemicals: 37
+  Electronics: 16
 Build Medium Fighter in Factory
 Time to Build / Upgrade: 5
 [1400] Technology Required to Build Unit (87):
-[1400] Aerial Warfare (87)
-Counts towards planetary flock: YES
+  [1400] Aerial Warfare (87)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
 Name: Light Fighter
 Nick Name: A-FL
-Tech Score: 458
-Unit Score: 914
-Average Score: 686
-Stat Strength: 824
-Total Strength: 914
-Planet Strength: 914
-Space Strength: 0
-Garrison Strength: 194
-Movement Type: air
-Move Points: 22
-Spot: 8
-Camouflage: 2
-Agility: 12
-Armor: 8
-Psy Defense: 8
-Rank: 145
-Air: 12/4
-Indirect: 7/6
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 458
+  Unit Score: 914
+  Average Score: 686
+  Stat Strength: 824
+  Total Strength: 914
+  Planet Strength: 914
+  Space Strength: 0
+  Garrison Strength: 194
+Statistics:
+  Movement Type: air
+  Move Points: 22
+  Spot: 8
+  Camouflage: 2
+  Agility: 12
+  Armor: 8
+  Psy Defense: 8
+  Rank: 145
+Attacks:
+  Air: 12/4
+  Indirect: 7/6
+Load aboard transport: YES
 Upkeep / Maintenance: 11
 Build Cost: 114
-Food Resource Requirement: 23
-Energy Resource Requirement: 42
-Metal Resource Requirement: 88
-Trace Resource Requirement: 32
-Exotica Resource Requirement: 23
-Chemicals Resource Requirement: 39
-Electronics Resource Requirement: 18
+Build Resource Requirements:
+  Food: 23
+  Energy: 42
+  Metal: 88
+  Trace: 32
+  Exotica: 23
+  Chemicals: 39
+  Electronics: 18
 Build Light Fighter in Factory
 Time to Build / Upgrade: 5
 [1400] Technology Required to Build Unit (87):
-[1400] Aerial Warfare (87)
-Counts towards planetary flock: YES
+  [1400] Aerial Warfare (87)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

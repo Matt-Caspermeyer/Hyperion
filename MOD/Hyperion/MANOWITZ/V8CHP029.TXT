@@ -3,199 +3,218 @@ All units of the unit class Zeppelin are listed herein (5 in total):
 --1--
 Name: Zeppelin
 Nick Name: A-Zeppelin
-Tech Score: 96
-Unit Score: 96
-Average Score: 96
-Stat Strength: 94
-Total Strength: 96
-Planet Strength: 96
-Space Strength: 0
-Garrison Strength: 36
-Movement Type: air
-Move Points: 7
-Spot: 4
-Camouflage: 0
-Agility: 3
-Armor: 4
-Psy Defense: 2
-Rank: 129
-Indirect: 1/2
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 96
+  Unit Score: 96
+  Average Score: 96
+  Stat Strength: 94
+  Total Strength: 96
+  Planet Strength: 96
+  Space Strength: 0
+  Garrison Strength: 36
+Statistics:
+  Movement Type: air
+  Move Points: 7
+  Spot: 4
+  Camouflage: 0
+  Agility: 3
+  Armor: 4
+  Psy Defense: 2
+  Rank: 129
+Attacks:
+  Indirect: 1/2
+Load aboard transport: YES
 Never needs refueling
 Upkeep / Maintenance: 4
 Build Cost: 35
-Food Resource Requirement: 17
-Energy Resource Requirement: 14
-Metal Resource Requirement: 15
-Trace Resource Requirement: 8
-Exotica Resource Requirement: 15
-Chemicals Resource Requirement: 11
+Build Resource Requirements:
+  Food: 17
+  Energy: 14
+  Metal: 15
+  Trace: 8
+  Exotica: 15
+  Chemicals: 11
 Build Zeppelin in Factory
 Time to Build / Upgrade: 2
 [175] Technologies Required to Build Unit (99):
-[125] Compression Ignition Engine (97)
-[50] Applied Technology (100)
-Counts towards planetary flock: YES
+  [125] Compression Ignition Engine (97)
+  [50] Applied Technology (100)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Reconnaissance Zeppelin
 Nick Name: A-ZR
-Tech Score: 100
-Unit Score: 150
-Average Score: 125
-Stat Strength: 150
-Total Strength: 150
-Planet Strength: 150
-Space Strength: 0
-Garrison Strength: 53
-Movement Type: air
-Move Points: 8
-Spot: 6
-Camouflage: 1
-Agility: 6
-Armor: 3
-Psy Defense: 2
-Rank: 76
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 100
+  Unit Score: 150
+  Average Score: 125
+  Stat Strength: 150
+  Total Strength: 150
+  Planet Strength: 150
+  Space Strength: 0
+  Garrison Strength: 53
+Statistics:
+  Movement Type: air
+  Move Points: 8
+  Spot: 6
+  Camouflage: 1
+  Agility: 6
+  Armor: 3
+  Psy Defense: 2
+  Rank: 76
+Load aboard transport: YES
 Never needs refueling
 Upkeep / Maintenance: 7
 Build Cost: 66
-Food Resource Requirement: 28
-Energy Resource Requirement: 19
-Metal Resource Requirement: 10
-Trace Resource Requirement: 17
-Exotica Resource Requirement: 25
-Chemicals Resource Requirement: 18
+Build Resource Requirements:
+  Food: 28
+  Energy: 19
+  Metal: 10
+  Trace: 17
+  Exotica: 25
+  Chemicals: 18
 Build Reconnaissance Zeppelin in Factory
 Time to Build / Upgrade: 3
 [185] Technologies Required to Build Unit (97):
-[125] Compression Ignition Engine (97)
-[60] Aerial Reconnaissance (97)
-Counts towards planetary flock: YES
+  [125] Compression Ignition Engine (97)
+  [60] Aerial Reconnaissance (97)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
 Name: Bomber Zeppelin
 Nick Name: A-ZB
-Tech Score: 106
-Unit Score: 157
-Average Score: 132
-Stat Strength: 123
-Total Strength: 157
-Planet Strength: 157
-Space Strength: 0
-Garrison Strength: 64
-Movement Type: air
-Move Points: 6
-Spot: 4
-Camouflage: 1
-Agility: 5
-Armor: 6
-Psy Defense: 3
-Rank: 136
-Air: 3/3
-Indirect: 5/5
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 106
+  Unit Score: 157
+  Average Score: 132
+  Stat Strength: 123
+  Total Strength: 157
+  Planet Strength: 157
+  Space Strength: 0
+  Garrison Strength: 64
+Statistics:
+  Movement Type: air
+  Move Points: 6
+  Spot: 4
+  Camouflage: 1
+  Agility: 5
+  Armor: 6
+  Psy Defense: 3
+  Rank: 136
+Attacks:
+  Air: 3/3
+  Indirect: 5/5
+Load aboard transport: YES
 Never needs refueling
 Upkeep / Maintenance: 4
 Build Cost: 35
-Food Resource Requirement: 10
-Energy Resource Requirement: 16
-Metal Resource Requirement: 19
-Trace Resource Requirement: 9
-Exotica Resource Requirement: 9
-Chemicals Resource Requirement: 9
+Build Resource Requirements:
+  Food: 10
+  Energy: 16
+  Metal: 19
+  Trace: 9
+  Exotica: 9
+  Chemicals: 9
 Build Bomber Zeppelin in Factory
 Time to Build / Upgrade: 2
 [350] Technologies Required to Build Unit (97):
-[125] Compression Ignition Engine (97)
-[165] Autocannon (98)
-[60] Aerial Reconnaissance (97)
-Counts towards planetary flock: YES
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [60] Aerial Reconnaissance (97)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
 Name: Fighter Zeppelin
 Nick Name: A-ZF
-Tech Score: 106
-Unit Score: 157
-Average Score: 132
-Stat Strength: 111
-Total Strength: 157
-Planet Strength: 157
-Space Strength: 0
-Garrison Strength: 59
-Movement Type: air
-Move Points: 7
-Spot: 4
-Camouflage: 1
-Agility: 5
-Armor: 4
-Psy Defense: 2
-Rank: 134
-Air: 5/6
-Indirect: 4/4
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 106
+  Unit Score: 157
+  Average Score: 132
+  Stat Strength: 111
+  Total Strength: 157
+  Planet Strength: 157
+  Space Strength: 0
+  Garrison Strength: 59
+Statistics:
+  Movement Type: air
+  Move Points: 7
+  Spot: 4
+  Camouflage: 1
+  Agility: 5
+  Armor: 4
+  Psy Defense: 2
+  Rank: 134
+Attacks:
+  Air: 5/6
+  Indirect: 4/4
+Load aboard transport: YES
 Never needs refueling
 Upkeep / Maintenance: 4
 Build Cost: 43
-Food Resource Requirement: 11
-Energy Resource Requirement: 22
-Metal Resource Requirement: 8
-Trace Resource Requirement: 12
-Exotica Resource Requirement: 10
-Chemicals Resource Requirement: 16
+Build Resource Requirements:
+  Food: 11
+  Energy: 22
+  Metal: 8
+  Trace: 12
+  Exotica: 10
+  Chemicals: 16
 Build Fighter Zeppelin in Factory
 Time to Build / Upgrade: 2
 [350] Technologies Required to Build Unit (97):
-[125] Compression Ignition Engine (97)
-[165] Autocannon (98)
-[60] Aerial Reconnaissance (97)
-Counts towards planetary flock: YES
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [60] Aerial Reconnaissance (97)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
 Name: Patrol Zeppelin
 Nick Name: A-ZP
-Tech Score: 106
-Unit Score: 157
-Average Score: 132
-Stat Strength: 126
-Total Strength: 157
-Planet Strength: 157
-Space Strength: 0
-Garrison Strength: 70
-Movement Type: air
-Move Points: 5
-Spot: 4
-Camouflage: 1
-Agility: 8
-Armor: 4
-Psy Defense: 2
-Rank: 136
-Air: 5/2
-Indirect: 7/3
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 106
+  Unit Score: 157
+  Average Score: 132
+  Stat Strength: 126
+  Total Strength: 157
+  Planet Strength: 157
+  Space Strength: 0
+  Garrison Strength: 70
+Statistics:
+  Movement Type: air
+  Move Points: 5
+  Spot: 4
+  Camouflage: 1
+  Agility: 8
+  Armor: 4
+  Psy Defense: 2
+  Rank: 136
+Attacks:
+  Air: 5/2
+  Indirect: 7/3
+Load aboard transport: YES
 Never needs refueling
 Upkeep / Maintenance: 4
 Build Cost: 38
-Food Resource Requirement: 12
-Energy Resource Requirement: 13
-Metal Resource Requirement: 8
-Trace Resource Requirement: 16
-Exotica Resource Requirement: 11
-Chemicals Resource Requirement: 10
+Build Resource Requirements:
+  Food: 12
+  Energy: 13
+  Metal: 8
+  Trace: 16
+  Exotica: 11
+  Chemicals: 10
 Build Patrol Zeppelin in Factory
 Time to Build / Upgrade: 2
 [350] Technologies Required to Build Unit (97):
-[125] Compression Ignition Engine (97)
-[165] Autocannon (98)
-[60] Aerial Reconnaissance (97)
-Counts towards planetary flock: YES
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [60] Aerial Reconnaissance (97)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

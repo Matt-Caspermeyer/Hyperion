@@ -3,129 +3,141 @@ All units of the unit class Space Bulk Hauler are listed herein (3 in total):
 --1--
 Name: Space Bulk Hauler
 Nick Name: SS-BH
-Tech Score: 342
-Unit Score: 682
-Average Score: 512
-Stat Strength: 498
-Total Strength: 682
-Planet Strength: 0
-Space Strength: 682
-Garrison Strength: 0
-Movement Type: space
-Move Points: 2
-Spot: 10
-Camouflage: 1
-Agility: 1
-Armor: 14
-Psy Defense: 14
-Rank: 169
-Direct Space: 7/17
-Closed Space: 5/13
+Scores & Strengths:
+  Tech Score: 342
+  Unit Score: 682
+  Average Score: 512
+  Stat Strength: 498
+  Total Strength: 682
+  Planet Strength: 0
+  Space Strength: 682
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 2
+  Spot: 10
+  Camouflage: 1
+  Agility: 1
+  Armor: 14
+  Psy Defense: 14
+  Rank: 169
+Attacks:
+  Direct Space: 7/17
+  Closed Space: 5/13
 Cargo Space: 4
 Immune to Plague
 Upkeep / Maintenance: 47
 Build Cost: 468
-Food Resource Requirement: 10
-Energy Resource Requirement: 46
-Metal Resource Requirement: 95
-Trace Resource Requirement: 23
-Exotica Resource Requirement: 9
-Chemicals Resource Requirement: 87
-Electronics Resource Requirement: 14
+Build Resource Requirements:
+  Food: 10
+  Energy: 46
+  Metal: 95
+  Trace: 23
+  Exotica: 9
+  Chemicals: 87
+  Electronics: 14
 Build Space Bulk Hauler in Starport
 Time to Build / Upgrade: 5
 [1170] Technologies Required to Build Unit (95):
-[230] Hospitals (97)
-[145] Composite Armor (97)
-[795] Rocket Propulsion (90)
-Counts towards planetary flock: YES
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Jump Bulk Hauler
 Nick Name: JJ-BH
-Tech Score: 1168
-Unit Score: 1167
-Average Score: 1167
-Stat Strength: 1082
-Total Strength: 1167
-Planet Strength: 0
-Space Strength: 1167
-Garrison Strength: 0
-Movement Type: jump
-Move Points: 3
-Spot: 10
-Camouflage: 2
-Agility: 1
-Armor: 22
-Psy Defense: 22
-Rank: 192
-Direct Space: 5/10
-Closed Space: 5/7
+Scores & Strengths:
+  Tech Score: 1168
+  Unit Score: 1167
+  Average Score: 1167
+  Stat Strength: 1082
+  Total Strength: 1167
+  Planet Strength: 0
+  Space Strength: 1167
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 3
+  Spot: 10
+  Camouflage: 2
+  Agility: 1
+  Armor: 22
+  Psy Defense: 22
+  Rank: 192
+Attacks:
+  Direct Space: 5/10
+  Closed Space: 5/7
 Cargo Space: 4
 Bulk Hauler - Used by the League to Resupply Agoras
 Immune to Plague
 Upkeep / Maintenance: 282
 Build Cost: 2817
-Food Resource Requirement: 3
-Energy Resource Requirement: 5
-Metal Resource Requirement: 22
-Trace Resource Requirement: 6
-Exotica Resource Requirement: 3
-Chemicals Resource Requirement: 16
-Electronics Resource Requirement: 9
-Ceramsteel Resource Requirement: 32
-Monopols Resource Requirement: 44
+Build Resource Requirements:
+  Food: 3
+  Energy: 5
+  Metal: 22
+  Trace: 6
+  Exotica: 3
+  Chemicals: 16
+  Electronics: 9
+  Ceramsteel: 32
+  Monopols: 44
 Build Jump Bulk Hauler in Starport
 Time to Build / Upgrade: 4
 [5975] Technologies Required to Build Unit (77):
-[1690] Ceramsteel (84)
-[4285] Jump Drives (70)
-Counts towards planetary flock: YES
+  [1690] Ceramsteel (84)
+  [4285] Jump Drives (70)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
 Name: Gate Bulk Hauler
 Nick Name: GG-BH
-Tech Score: 7257
-Unit Score: 7256
-Average Score: 7257
-Stat Strength: 6061
-Total Strength: 7256
-Planet Strength: 6621
-Space Strength: 6696
-Garrison Strength: 1380
-Movement Type: gate
-Move Points: 23
-Spot: 16
-Camouflage: 12
-Agility: 30
-Armor: 46
-Psy Defense: 46
-Rank: 275
-Direct Space: 14/25
-Closed Space: 15/19
-Direct: 14/23
-Close: 14/17
+Scores & Strengths:
+  Tech Score: 7257
+  Unit Score: 7256
+  Average Score: 7257
+  Stat Strength: 6061
+  Total Strength: 7256
+  Planet Strength: 6621
+  Space Strength: 6696
+  Garrison Strength: 1380
+Statistics:
+  Movement Type: gate
+  Move Points: 23
+  Spot: 16
+  Camouflage: 12
+  Agility: 30
+  Armor: 46
+  Psy Defense: 46
+  Rank: 275
+Attacks:
+  Direct Space: 14/25
+  Closed Space: 15/19
+  Direct: 14/23
+  Close: 14/17
 Cargo Space: 4
 Bulk Hauler - Used by the League to Resupply Agoras
 Immune to Plague
 Upkeep / Maintenance: 666
 Build Cost: 6656
-Food Resource Requirement: 1
-Energy Resource Requirement: 13
-Metal Resource Requirement: 9
-Trace Resource Requirement: 4
-Exotica Resource Requirement: 2
-Chemicals Resource Requirement: 22
-Biochems Resource Requirement: 24
-Electronics Resource Requirement: 12
-Ceramsteel Resource Requirement: 16
-Wetware Resource Requirement: 7
-Monopols Resource Requirement: 31
+Build Resource Requirements:
+  Food: 1
+  Energy: 13
+  Metal: 9
+  Trace: 4
+  Exotica: 2
+  Chemicals: 22
+  Biochems: 24
+  Electronics: 12
+  Ceramsteel: 16
+  Wetware: 7
+  Monopols: 31
 Build Gate Bulk Hauler in Starport
 Time to Build / Upgrade: 4
 [55760] Technology Required to Build Unit (49):
-[55760] Gate Transports (49)
-Counts towards planetary flock: YES
+  [55760] Gate Transports (49)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

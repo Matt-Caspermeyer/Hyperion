@@ -3,435 +3,475 @@ All units of the unit class Landing Barge are listed herein (11 in total):
 --1--
 Name: Landing Barge
 Nick Name: NN-LB
-Tech Score: 86
-Unit Score: 171
-Average Score: 128
-Stat Strength: 167
-Total Strength: 171
-Planet Strength: 171
-Space Strength: 0
-Garrison Strength: 69
-Movement Type: naval
-Move Points: 6
-Spot: 2
-Camouflage: 1
-Agility: 1
-Armor: 10
-Psy Defense: 5
-Rank: 91
-Close: 2/2
+Scores & Strengths:
+  Tech Score: 86
+  Unit Score: 171
+  Average Score: 128
+  Stat Strength: 167
+  Total Strength: 171
+  Planet Strength: 171
+  Space Strength: 0
+  Garrison Strength: 69
+Statistics:
+  Movement Type: naval
+  Move Points: 6
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 5
+  Rank: 91
+Attacks:
+  Close: 2/2
 Cargo Space: 4
 Amphibious loading / unloading of cargo
 Can tow units that can be towed
 Upkeep / Maintenance: 17
 Build Cost: 170
-Food Resource Requirement: 13
-Energy Resource Requirement: 14
-Metal Resource Requirement: 92
-Trace Resource Requirement: 15
-Exotica Resource Requirement: 10
-Chemicals Resource Requirement: 12
+Build Resource Requirements:
+  Food: 13
+  Energy: 14
+  Metal: 92
+  Trace: 15
+  Exotica: 10
+  Chemicals: 12
 Build Landing Barge in Well
 Time to Build / Upgrade: 3
 [150] Technologies Required to Build Unit (100):
-[100] Physics & Energy (100)
-[50] Applied Technology (100)
-Counts towards planetary flock: YES
+  [100] Physics & Energy (100)
+  [50] Applied Technology (100)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Motor Landing Craft
 Nick Name: NN-MLC
-Tech Score: 94
-Unit Score: 235
-Average Score: 165
-Stat Strength: 220
-Total Strength: 235
-Planet Strength: 235
-Space Strength: 0
-Garrison Strength: 95
-Movement Type: naval
-Move Points: 6
-Spot: 2
-Camouflage: 0
-Agility: 0
-Armor: 12
-Psy Defense: 6
-Rank: 62
-Close: 5/3
+Scores & Strengths:
+  Tech Score: 94
+  Unit Score: 235
+  Average Score: 165
+  Stat Strength: 220
+  Total Strength: 235
+  Planet Strength: 235
+  Space Strength: 0
+  Garrison Strength: 95
+Statistics:
+  Movement Type: naval
+  Move Points: 6
+  Spot: 2
+  Camouflage: 0
+  Agility: 0
+  Armor: 12
+  Psy Defense: 6
+  Rank: 62
+Attacks:
+  Close: 5/3
 Cargo Space: 1
 Amphibious loading / unloading of cargo
 Can tow units that can be towed
 Upkeep / Maintenance: 12
 Build Cost: 117
-Food Resource Requirement: 8
-Energy Resource Requirement: 10
-Metal Resource Requirement: 88
-Trace Resource Requirement: 14
-Exotica Resource Requirement: 6
-Chemicals Resource Requirement: 9
+Build Resource Requirements:
+  Food: 8
+  Energy: 10
+  Metal: 88
+  Trace: 14
+  Exotica: 6
+  Chemicals: 9
 Build Motor Landing Craft in Well
 Time to Build / Upgrade: 3
 [270] Technologies Required to Build Unit (99):
-[110] Structural Engineering (99)
-[110] Mechanical & Aerospace Engineering (98)
-[50] Applied Technology (100)
-Counts towards planetary flock: YES
+  [110] Structural Engineering (99)
+  [110] Mechanical & Aerospace Engineering (98)
+  [50] Applied Technology (100)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
 Name: Landing Craft Infantry
 Nick Name: NN-LCI
-Tech Score: 585
-Unit Score: 580
-Average Score: 582
-Stat Strength: 580
-Total Strength: 580
-Planet Strength: 580
-Space Strength: 0
-Garrison Strength: 219
-Movement Type: naval
-Move Points: 7
-Spot: 4
-Camouflage: 4
-Agility: 7
-Armor: 15
-Psy Defense: 15
-Rank: 76
+Scores & Strengths:
+  Tech Score: 585
+  Unit Score: 580
+  Average Score: 582
+  Stat Strength: 580
+  Total Strength: 580
+  Planet Strength: 580
+  Space Strength: 0
+  Garrison Strength: 219
+Statistics:
+  Movement Type: naval
+  Move Points: 7
+  Spot: 4
+  Camouflage: 4
+  Agility: 7
+  Armor: 15
+  Psy Defense: 15
+  Rank: 76
 Cargo Space: 2
 Amphibious loading / unloading of cargo
 Upkeep / Maintenance: 4
 Build Cost: 43
-Food Resource Requirement: 2
-Energy Resource Requirement: 4
-Metal Resource Requirement: 49
-Trace Resource Requirement: 4
-Exotica Resource Requirement: 3
-Chemicals Resource Requirement: 4
-Biochems Resource Requirement: 3
-Electronics Resource Requirement: 3
+Build Resource Requirements:
+  Food: 2
+  Energy: 4
+  Metal: 49
+  Trace: 4
+  Exotica: 3
+  Chemicals: 4
+  Biochems: 3
+  Electronics: 3
 Build Landing Craft Infantry in Well
 Time to Build / Upgrade: 2
 [1940] Technology Required to Build Unit (89):
-[1940] Amphibious Landing Craft (89)
-Counts towards planetary flock: YES
+  [1940] Amphibious Landing Craft (89)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
 Name: Landing Craft Mechanized
 Nick Name: NN-LCM
-Tech Score: 585
-Unit Score: 583
-Average Score: 584
-Stat Strength: 543
-Total Strength: 583
-Planet Strength: 583
-Space Strength: 0
-Garrison Strength: 238
-Movement Type: naval
-Move Points: 6
-Spot: 4
-Camouflage: 4
-Agility: 5
-Armor: 15
-Psy Defense: 15
-Rank: 150
-Indirect: 4/10
+Scores & Strengths:
+  Tech Score: 585
+  Unit Score: 583
+  Average Score: 584
+  Stat Strength: 543
+  Total Strength: 583
+  Planet Strength: 583
+  Space Strength: 0
+  Garrison Strength: 238
+Statistics:
+  Movement Type: naval
+  Move Points: 6
+  Spot: 4
+  Camouflage: 4
+  Agility: 5
+  Armor: 15
+  Psy Defense: 15
+  Rank: 150
+Attacks:
+  Indirect: 4/10
 Cargo Space: 3
 Amphibious loading / unloading of cargo
 Upkeep / Maintenance: 5
 Build Cost: 46
-Food Resource Requirement: 2
-Energy Resource Requirement: 8
-Metal Resource Requirement: 49
-Trace Resource Requirement: 4
-Exotica Resource Requirement: 2
-Chemicals Resource Requirement: 3
-Biochems Resource Requirement: 2
-Electronics Resource Requirement: 3
+Build Resource Requirements:
+  Food: 2
+  Energy: 8
+  Metal: 49
+  Trace: 4
+  Exotica: 2
+  Chemicals: 3
+  Biochems: 2
+  Electronics: 3
 Build Landing Craft Mechanized in Well
 Time to Build / Upgrade: 2
 [1940] Technology Required to Build Unit (89):
-[1940] Amphibious Landing Craft (89)
-Counts towards planetary flock: YES
+  [1940] Amphibious Landing Craft (89)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
 Name: Landing Craft Tank
 Nick Name: NN-LCT
-Tech Score: 585
-Unit Score: 585
-Average Score: 585
-Stat Strength: 585
-Total Strength: 585
-Planet Strength: 585
-Space Strength: 0
-Garrison Strength: 261
-Movement Type: naval
-Move Points: 5
-Spot: 4
-Camouflage: 4
-Agility: 4
-Armor: 16
-Psy Defense: 16
-Rank: 86
+Scores & Strengths:
+  Tech Score: 585
+  Unit Score: 585
+  Average Score: 585
+  Stat Strength: 585
+  Total Strength: 585
+  Planet Strength: 585
+  Space Strength: 0
+  Garrison Strength: 261
+Statistics:
+  Movement Type: naval
+  Move Points: 5
+  Spot: 4
+  Camouflage: 4
+  Agility: 4
+  Armor: 16
+  Psy Defense: 16
+  Rank: 86
 Cargo Space: 3
 Amphibious loading / unloading of cargo
 Upkeep / Maintenance: 4
 Build Cost: 38
-Food Resource Requirement: 2
-Energy Resource Requirement: 2
-Metal Resource Requirement: 50
-Trace Resource Requirement: 3
-Exotica Resource Requirement: 1
-Chemicals Resource Requirement: 2
-Biochems Resource Requirement: 2
-Electronics Resource Requirement: 2
+Build Resource Requirements:
+  Food: 2
+  Energy: 2
+  Metal: 50
+  Trace: 3
+  Exotica: 1
+  Chemicals: 2
+  Biochems: 2
+  Electronics: 2
 Build Landing Craft Tank in Well
 Time to Build / Upgrade: 2
 [2240] Technologies Required to Build Unit (92):
-[300] Mechanized Warfare (95)
-[1940] Amphibious Landing Craft (89)
-Counts towards planetary flock: YES
+  [300] Mechanized Warfare (95)
+  [1940] Amphibious Landing Craft (89)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
 Name: Landing Craft Assault
 Nick Name: NN-LCA
-Tech Score: 585
-Unit Score: 588
-Average Score: 586
-Stat Strength: 588
-Total Strength: 588
-Planet Strength: 588
-Space Strength: 0
-Garrison Strength: 207
-Movement Type: naval
-Move Points: 8
-Spot: 4
-Camouflage: 4
-Agility: 10
-Armor: 14
-Psy Defense: 14
-Rank: 66
+Scores & Strengths:
+  Tech Score: 585
+  Unit Score: 588
+  Average Score: 586
+  Stat Strength: 588
+  Total Strength: 588
+  Planet Strength: 588
+  Space Strength: 0
+  Garrison Strength: 207
+Statistics:
+  Movement Type: naval
+  Move Points: 8
+  Spot: 4
+  Camouflage: 4
+  Agility: 10
+  Armor: 14
+  Psy Defense: 14
+  Rank: 66
 Cargo Space: 1
 Amphibious loading / unloading of cargo
 Upkeep / Maintenance: 5
 Build Cost: 46
-Food Resource Requirement: 4
-Energy Resource Requirement: 6
-Metal Resource Requirement: 42
-Trace Resource Requirement: 6
-Exotica Resource Requirement: 4
-Chemicals Resource Requirement: 6
-Biochems Resource Requirement: 4
-Electronics Resource Requirement: 4
+Build Resource Requirements:
+  Food: 4
+  Energy: 6
+  Metal: 42
+  Trace: 6
+  Exotica: 4
+  Chemicals: 6
+  Biochems: 4
+  Electronics: 4
 Build Landing Craft Assault in Well
 Time to Build / Upgrade: 2
 [1940] Technology Required to Build Unit (89):
-[1940] Amphibious Landing Craft (89)
-Counts towards planetary flock: YES
+  [1940] Amphibious Landing Craft (89)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
 Name: Landing Craft Support (Medium)
 Nick Name: NN-LCS(M)
-Tech Score: 608
-Unit Score: 606
-Average Score: 607
-Stat Strength: 534
-Total Strength: 606
-Planet Strength: 606
-Space Strength: 0
-Garrison Strength: 214
-Movement Type: naval
-Move Points: 8
-Spot: 4
-Camouflage: 4
-Agility: 10
-Armor: 13
-Psy Defense: 13
-Rank: 76
-Close: 8/9
+Scores & Strengths:
+  Tech Score: 608
+  Unit Score: 606
+  Average Score: 607
+  Stat Strength: 534
+  Total Strength: 606
+  Planet Strength: 606
+  Space Strength: 0
+  Garrison Strength: 214
+Statistics:
+  Movement Type: naval
+  Move Points: 8
+  Spot: 4
+  Camouflage: 4
+  Agility: 10
+  Armor: 13
+  Psy Defense: 13
+  Rank: 76
+Attacks:
+  Close: 8/9
 Cargo Space: 2
 Amphibious loading / unloading of cargo
 Upkeep / Maintenance: 6
 Build Cost: 59
-Food Resource Requirement: 4
-Energy Resource Requirement: 9
-Metal Resource Requirement: 33
-Trace Resource Requirement: 9
-Exotica Resource Requirement: 4
-Chemicals Resource Requirement: 10
-Biochems Resource Requirement: 6
-Electronics Resource Requirement: 7
+Build Resource Requirements:
+  Food: 4
+  Energy: 9
+  Metal: 33
+  Trace: 9
+  Exotica: 4
+  Chemicals: 10
+  Biochems: 6
+  Electronics: 7
 Build Landing Craft Support (Medium) in Well
 Time to Build / Upgrade: 2
 [2345] Technologies Required to Build Unit (92):
-[1940] Amphibious Landing Craft (89)
-[405] Recoilless Rifle (94)
-Counts towards planetary flock: YES
+  [1940] Amphibious Landing Craft (89)
+  [405] Recoilless Rifle (94)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
 Name: Landing Craft Support (Large)
 Nick Name: NN-LCS(L)
-Tech Score: 608
-Unit Score: 606
-Average Score: 607
-Stat Strength: 554
-Total Strength: 606
-Planet Strength: 606
-Space Strength: 0
-Garrison Strength: 229
-Movement Type: naval
-Move Points: 7
-Spot: 4
-Camouflage: 4
-Agility: 9
-Armor: 14
-Psy Defense: 14
-Rank: 86
-Close: 4/13
+Scores & Strengths:
+  Tech Score: 608
+  Unit Score: 606
+  Average Score: 607
+  Stat Strength: 554
+  Total Strength: 606
+  Planet Strength: 606
+  Space Strength: 0
+  Garrison Strength: 229
+Statistics:
+  Movement Type: naval
+  Move Points: 7
+  Spot: 4
+  Camouflage: 4
+  Agility: 9
+  Armor: 14
+  Psy Defense: 14
+  Rank: 86
+Attacks:
+  Close: 4/13
 Cargo Space: 3
 Amphibious loading / unloading of cargo
 Can tow units that can be towed
 Upkeep / Maintenance: 7
 Build Cost: 68
-Food Resource Requirement: 3
-Energy Resource Requirement: 13
-Metal Resource Requirement: 38
-Trace Resource Requirement: 6
-Exotica Resource Requirement: 3
-Chemicals Resource Requirement: 13
-Biochems Resource Requirement: 4
-Electronics Resource Requirement: 4
+Build Resource Requirements:
+  Food: 3
+  Energy: 13
+  Metal: 38
+  Trace: 6
+  Exotica: 3
+  Chemicals: 13
+  Biochems: 4
+  Electronics: 4
 Build Landing Craft Support (Large) in Well
 Time to Build / Upgrade: 2
 [2345] Technologies Required to Build Unit (92):
-[1940] Amphibious Landing Craft (89)
-[405] Recoilless Rifle (94)
-Counts towards planetary flock: YES
+  [1940] Amphibious Landing Craft (89)
+  [405] Recoilless Rifle (94)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --9--
 Name: Landing Craft Navigation
 Nick Name: NN-LCN
-Tech Score: 781
-Unit Score: 780
-Average Score: 781
-Stat Strength: 780
-Total Strength: 780
-Planet Strength: 780
-Space Strength: 0
-Garrison Strength: 235
-Movement Type: naval
-Move Points: 11
-Spot: 10
-Camouflage: 5
-Agility: 14
-Armor: 13
-Psy Defense: 13
-Rank: 68
+Scores & Strengths:
+  Tech Score: 781
+  Unit Score: 780
+  Average Score: 781
+  Stat Strength: 780
+  Total Strength: 780
+  Planet Strength: 780
+  Space Strength: 0
+  Garrison Strength: 235
+Statistics:
+  Movement Type: naval
+  Move Points: 11
+  Spot: 10
+  Camouflage: 5
+  Agility: 14
+  Armor: 13
+  Psy Defense: 13
+  Rank: 68
 Cargo Space: 1
 Amphibious loading / unloading of cargo
 Upkeep / Maintenance: 6
 Build Cost: 61
-Food Resource Requirement: 7
-Energy Resource Requirement: 9
-Metal Resource Requirement: 27
-Trace Resource Requirement: 11
-Exotica Resource Requirement: 8
-Chemicals Resource Requirement: 9
-Biochems Resource Requirement: 8
-Electronics Resource Requirement: 8
+Build Resource Requirements:
+  Food: 7
+  Energy: 9
+  Metal: 27
+  Trace: 11
+  Exotica: 8
+  Chemicals: 9
+  Biochems: 8
+  Electronics: 8
 Build Landing Craft Navigation in Well
 Time to Build / Upgrade: 2
 [2980] Technologies Required to Build Unit (90):
-[125] Radar (93)
-[2855] Naval Amphibious Ships (87)
-Counts towards planetary flock: YES
+  [125] Radar (93)
+  [2855] Naval Amphibious Ships (87)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --10--
 Name: Landing Craft Control
 Nick Name: NN-LCC
-Tech Score: 804
-Unit Score: 803
-Average Score: 803
-Stat Strength: 785
-Total Strength: 803
-Planet Strength: 803
-Space Strength: 0
-Garrison Strength: 231
-Movement Type: naval
-Move Points: 12
-Spot: 8
-Camouflage: 4
-Agility: 13
-Armor: 14
-Psy Defense: 14
-Rank: 803
-Indirect: 1/18
+Scores & Strengths:
+  Tech Score: 804
+  Unit Score: 803
+  Average Score: 803
+  Stat Strength: 785
+  Total Strength: 803
+  Planet Strength: 803
+  Space Strength: 0
+  Garrison Strength: 231
+Statistics:
+  Movement Type: naval
+  Move Points: 12
+  Spot: 8
+  Camouflage: 4
+  Agility: 13
+  Armor: 14
+  Psy Defense: 14
+  Rank: 803
+Attacks:
+  Indirect: 1/18
 Cargo Space: 1
 Officer - Provides stack combat bonuses
 Amphibious loading / unloading of cargo
 Upkeep / Maintenance: 8
 Build Cost: 84
-Food Resource Requirement: 7
-Energy Resource Requirement: 21
-Metal Resource Requirement: 30
-Trace Resource Requirement: 8
-Exotica Resource Requirement: 7
-Chemicals Resource Requirement: 9
-Biochems Resource Requirement: 6
-Electronics Resource Requirement: 6
+Build Resource Requirements:
+  Food: 7
+  Energy: 21
+  Metal: 30
+  Trace: 8
+  Exotica: 7
+  Chemicals: 9
+  Biochems: 6
+  Electronics: 6
 Build Landing Craft Control in Well
 Time to Build / Upgrade: 2
 [3090] Technologies Required to Build Unit (93):
-[125] Radar (93)
-[110] Meditation (99)
-[2855] Naval Amphibious Ships (87)
-Counts towards planetary flock: YES
+  [125] Radar (93)
+  [110] Meditation (99)
+  [2855] Naval Amphibious Ships (87)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --11--
 Name: Landing Ship Tank
 Nick Name: NN-LST
-Tech Score: 781
-Unit Score: 1170
-Average Score: 976
-Stat Strength: 1065
-Total Strength: 1170
-Planet Strength: 1170
-Space Strength: 0
-Garrison Strength: 442
-Movement Type: naval
-Move Points: 7
-Spot: 4
-Camouflage: 4
-Agility: 4
-Armor: 22
-Psy Defense: 22
-Rank: 140
-Indirect: 2/10
-Direct: 5/10
-Close: 5/7
+Scores & Strengths:
+  Tech Score: 781
+  Unit Score: 1170
+  Average Score: 976
+  Stat Strength: 1065
+  Total Strength: 1170
+  Planet Strength: 1170
+  Space Strength: 0
+  Garrison Strength: 442
+Statistics:
+  Movement Type: naval
+  Move Points: 7
+  Spot: 4
+  Camouflage: 4
+  Agility: 4
+  Armor: 22
+  Psy Defense: 22
+  Rank: 140
+Attacks:
+  Indirect: 2/10
+  Direct: 5/10
+  Close: 5/7
 Cargo Space: 4
 Can tow units that can be towed
 Upkeep / Maintenance: 10
 Build Cost: 95
-Food Resource Requirement: 2
-Energy Resource Requirement: 13
-Metal Resource Requirement: 78
-Trace Resource Requirement: 6
-Exotica Resource Requirement: 2
-Chemicals Resource Requirement: 9
-Biochems Resource Requirement: 3
-Electronics Resource Requirement: 4
+Build Resource Requirements:
+  Food: 2
+  Energy: 13
+  Metal: 78
+  Trace: 6
+  Exotica: 2
+  Chemicals: 9
+  Biochems: 3
+  Electronics: 4
 Build Landing Ship Tank in Well
 Time to Build / Upgrade: 3
 [2855] Technology Required to Build Unit (87):
-[2855] Naval Amphibious Ships (87)
-Counts towards planetary flock: YES
+  [2855] Naval Amphibious Ships (87)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

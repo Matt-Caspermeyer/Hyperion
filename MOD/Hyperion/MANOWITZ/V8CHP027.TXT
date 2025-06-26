@@ -3,240 +3,263 @@ All units of the unit class Airship are listed herein (6 in total):
 --1--
 Name: Airship
 Nick Name: A-Airship
-Tech Score: 96
-Unit Score: 96
-Average Score: 96
-Stat Strength: 88
-Total Strength: 96
-Planet Strength: 96
-Space Strength: 0
-Garrison Strength: 39
-Movement Type: air
-Move Points: 6
-Spot: 4
-Camouflage: 0
-Agility: 4
-Armor: 4
-Psy Defense: 2
-Rank: 132
-Indirect: 4/2
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 96
+  Unit Score: 96
+  Average Score: 96
+  Stat Strength: 88
+  Total Strength: 96
+  Planet Strength: 96
+  Space Strength: 0
+  Garrison Strength: 39
+Statistics:
+  Movement Type: air
+  Move Points: 6
+  Spot: 4
+  Camouflage: 0
+  Agility: 4
+  Armor: 4
+  Psy Defense: 2
+  Rank: 132
+Attacks:
+  Indirect: 4/2
+Load aboard transport: YES
 Never needs refueling
 Upkeep / Maintenance: 3
 Build Cost: 32
-Food Resource Requirement: 15
-Energy Resource Requirement: 12
-Metal Resource Requirement: 15
-Trace Resource Requirement: 9
-Exotica Resource Requirement: 14
-Chemicals Resource Requirement: 10
+Build Resource Requirements:
+  Food: 15
+  Energy: 12
+  Metal: 15
+  Trace: 9
+  Exotica: 14
+  Chemicals: 10
 Build Airship in Factory
 Time to Build / Upgrade: 2
 [175] Technologies Required to Build Unit (99):
-[125] Compression Ignition Engine (97)
-[50] Applied Technology (100)
-Counts towards planetary flock: YES
+  [125] Compression Ignition Engine (97)
+  [50] Applied Technology (100)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Reconnaissance Airship
 Nick Name: A-AR
-Tech Score: 100
-Unit Score: 148
-Average Score: 124
-Stat Strength: 148
-Total Strength: 148
-Planet Strength: 148
-Space Strength: 0
-Garrison Strength: 55
-Movement Type: air
-Move Points: 7
-Spot: 6
-Camouflage: 1
-Agility: 7
-Armor: 3
-Psy Defense: 2
-Rank: 76
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 100
+  Unit Score: 148
+  Average Score: 124
+  Stat Strength: 148
+  Total Strength: 148
+  Planet Strength: 148
+  Space Strength: 0
+  Garrison Strength: 55
+Statistics:
+  Movement Type: air
+  Move Points: 7
+  Spot: 6
+  Camouflage: 1
+  Agility: 7
+  Armor: 3
+  Psy Defense: 2
+  Rank: 76
+Load aboard transport: YES
 Never needs refueling
 Upkeep / Maintenance: 6
 Build Cost: 64
-Food Resource Requirement: 27
-Energy Resource Requirement: 18
-Metal Resource Requirement: 10
-Trace Resource Requirement: 19
-Exotica Resource Requirement: 24
-Chemicals Resource Requirement: 17
+Build Resource Requirements:
+  Food: 27
+  Energy: 18
+  Metal: 10
+  Trace: 19
+  Exotica: 24
+  Chemicals: 17
 Build Reconnaissance Airship in Factory
 Time to Build / Upgrade: 3
 [185] Technologies Required to Build Unit (97):
-[125] Compression Ignition Engine (97)
-[60] Aerial Reconnaissance (97)
-Counts towards planetary flock: YES
+  [125] Compression Ignition Engine (97)
+  [60] Aerial Reconnaissance (97)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
 Name: Bomber Airship
 Nick Name: A-AB
-Tech Score: 106
-Unit Score: 157
-Average Score: 132
-Stat Strength: 123
-Total Strength: 157
-Planet Strength: 157
-Space Strength: 0
-Garrison Strength: 70
-Movement Type: air
-Move Points: 5
-Spot: 4
-Camouflage: 1
-Agility: 6
-Armor: 6
-Psy Defense: 3
-Rank: 137
-Air: 2/3
-Indirect: 4/7
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 106
+  Unit Score: 157
+  Average Score: 132
+  Stat Strength: 123
+  Total Strength: 157
+  Planet Strength: 157
+  Space Strength: 0
+  Garrison Strength: 70
+Statistics:
+  Movement Type: air
+  Move Points: 5
+  Spot: 4
+  Camouflage: 1
+  Agility: 6
+  Armor: 6
+  Psy Defense: 3
+  Rank: 137
+Attacks:
+  Air: 2/3
+  Indirect: 4/7
+Load aboard transport: YES
 Never needs refueling
 Upkeep / Maintenance: 4
 Build Cost: 37
-Food Resource Requirement: 9
-Energy Resource Requirement: 21
-Metal Resource Requirement: 19
-Trace Resource Requirement: 9
-Exotica Resource Requirement: 9
-Chemicals Resource Requirement: 9
+Build Resource Requirements:
+  Food: 9
+  Energy: 21
+  Metal: 19
+  Trace: 9
+  Exotica: 9
+  Chemicals: 9
 Build Bomber Airship in Factory
 Time to Build / Upgrade: 2
 [350] Technologies Required to Build Unit (97):
-[125] Compression Ignition Engine (97)
-[165] Autocannon (98)
-[60] Aerial Reconnaissance (97)
-Counts towards planetary flock: YES
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [60] Aerial Reconnaissance (97)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
 Name: Fighter Airship
 Nick Name: A-AF
-Tech Score: 106
-Unit Score: 157
-Average Score: 132
-Stat Strength: 118
-Total Strength: 157
-Planet Strength: 157
-Space Strength: 0
-Garrison Strength: 64
-Movement Type: air
-Move Points: 6
-Spot: 4
-Camouflage: 1
-Agility: 6
-Armor: 5
-Psy Defense: 2
-Rank: 130
-Air: 5/7
-Indirect: 2/2
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 106
+  Unit Score: 157
+  Average Score: 132
+  Stat Strength: 118
+  Total Strength: 157
+  Planet Strength: 157
+  Space Strength: 0
+  Garrison Strength: 64
+Statistics:
+  Movement Type: air
+  Move Points: 6
+  Spot: 4
+  Camouflage: 1
+  Agility: 6
+  Armor: 5
+  Psy Defense: 2
+  Rank: 130
+Attacks:
+  Air: 5/7
+  Indirect: 2/2
+Load aboard transport: YES
 Never needs refueling
 Upkeep / Maintenance: 5
 Build Cost: 45
-Food Resource Requirement: 11
-Energy Resource Requirement: 21
-Metal Resource Requirement: 12
-Trace Resource Requirement: 14
-Exotica Resource Requirement: 10
-Chemicals Resource Requirement: 18
+Build Resource Requirements:
+  Food: 11
+  Energy: 21
+  Metal: 12
+  Trace: 14
+  Exotica: 10
+  Chemicals: 18
 Build Fighter Airship in Factory
 Time to Build / Upgrade: 2
 [350] Technologies Required to Build Unit (97):
-[125] Compression Ignition Engine (97)
-[165] Autocannon (98)
-[60] Aerial Reconnaissance (97)
-Counts towards planetary flock: YES
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [60] Aerial Reconnaissance (97)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
 Name: Patrol Airship
 Nick Name: A-AP
-Tech Score: 106
-Unit Score: 157
-Average Score: 132
-Stat Strength: 117
-Total Strength: 157
-Planet Strength: 157
-Space Strength: 0
-Garrison Strength: 78
-Movement Type: air
-Move Points: 4
-Spot: 4
-Camouflage: 1
-Agility: 8
-Armor: 4
-Psy Defense: 2
-Rank: 136
-Air: 4/4
-Indirect: 4/6
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 106
+  Unit Score: 157
+  Average Score: 132
+  Stat Strength: 117
+  Total Strength: 157
+  Planet Strength: 157
+  Space Strength: 0
+  Garrison Strength: 78
+Statistics:
+  Movement Type: air
+  Move Points: 4
+  Spot: 4
+  Camouflage: 1
+  Agility: 8
+  Armor: 4
+  Psy Defense: 2
+  Rank: 136
+Attacks:
+  Air: 4/4
+  Indirect: 4/6
+Load aboard transport: YES
 Never needs refueling
 Upkeep / Maintenance: 4
 Build Cost: 40
-Food Resource Requirement: 11
-Energy Resource Requirement: 21
-Metal Resource Requirement: 8
-Trace Resource Requirement: 14
-Exotica Resource Requirement: 10
-Chemicals Resource Requirement: 11
+Build Resource Requirements:
+  Food: 11
+  Energy: 21
+  Metal: 8
+  Trace: 14
+  Exotica: 10
+  Chemicals: 11
 Build Patrol Airship in Factory
 Time to Build / Upgrade: 2
 [350] Technologies Required to Build Unit (97):
-[125] Compression Ignition Engine (97)
-[165] Autocannon (98)
-[60] Aerial Reconnaissance (97)
-Counts towards planetary flock: YES
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [60] Aerial Reconnaissance (97)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
 Name: Airborne Aircraft Carrier
 Nick Name: A-CVA
-Tech Score: 458
-Unit Score: 457
-Average Score: 457
-Stat Strength: 370
-Total Strength: 457
-Planet Strength: 457
-Space Strength: 0
-Garrison Strength: 172
-Movement Type: air
-Move Points: 7
-Spot: 6
-Camouflage: 2
-Agility: 9
-Armor: 10
-Psy Defense: 10
-Rank: 808
-Air: 5/11
-Indirect: 4/8
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 458
+  Unit Score: 457
+  Average Score: 457
+  Stat Strength: 370
+  Total Strength: 457
+  Planet Strength: 457
+  Space Strength: 0
+  Garrison Strength: 172
+Statistics:
+  Movement Type: air
+  Move Points: 7
+  Spot: 6
+  Camouflage: 2
+  Agility: 9
+  Armor: 10
+  Psy Defense: 10
+  Rank: 808
+Attacks:
+  Air: 5/11
+  Indirect: 4/8
+Load aboard transport: YES
 Officer - Provides stack combat bonuses
 Transports and Refuels (at end of turn) all Air Units
 Never needs refueling
 Upkeep / Maintenance: 12
 Build Cost: 122
-Food Resource Requirement: 6
-Energy Resource Requirement: 21
-Metal Resource Requirement: 137
-Trace Resource Requirement: 13
-Exotica Resource Requirement: 6
-Chemicals Resource Requirement: 16
-Electronics Resource Requirement: 7
+Build Resource Requirements:
+  Food: 6
+  Energy: 21
+  Metal: 137
+  Trace: 13
+  Exotica: 6
+  Chemicals: 16
+  Electronics: 7
 Build Airborne Aircraft Carrier in Factory
 Time to Build / Upgrade: 3
 [1400] Technology Required to Build Unit (87):
-[1400] Aerial Warfare (87)
-Counts towards planetary flock: YES
+  [1400] Aerial Warfare (87)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

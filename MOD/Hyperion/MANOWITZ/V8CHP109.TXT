@@ -3,388 +3,423 @@ All units of the unit class Naval Transport are listed herein (9 in total):
 --1--
 Name: Naval Transport
 Nick Name: NN-X
-Tech Score: 432
-Unit Score: 432
-Average Score: 432
-Stat Strength: 343
-Total Strength: 432
-Planet Strength: 432
-Space Strength: 0
-Garrison Strength: 163
-Movement Type: naval
-Move Points: 7
-Spot: 2
-Camouflage: 1
-Agility: 1
-Armor: 12
-Psy Defense: 12
-Rank: 133
-Direct: 4/10
-Close: 7/7
+Scores & Strengths:
+  Tech Score: 432
+  Unit Score: 432
+  Average Score: 432
+  Stat Strength: 343
+  Total Strength: 432
+  Planet Strength: 432
+  Space Strength: 0
+  Garrison Strength: 163
+Statistics:
+  Movement Type: naval
+  Move Points: 7
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 12
+  Psy Defense: 12
+  Rank: 133
+Attacks:
+  Direct: 4/10
+  Close: 7/7
 Cargo Space: 4
 Amphibious loading / unloading of cargo
 Upkeep / Maintenance: 7
 Build Cost: 65
-Food Resource Requirement: 2
-Energy Resource Requirement: 14
-Metal Resource Requirement: 38
-Trace Resource Requirement: 6
-Exotica Resource Requirement: 2
-Chemicals Resource Requirement: 14
-Electronics Resource Requirement: 5
+Build Resource Requirements:
+  Food: 2
+  Energy: 14
+  Metal: 38
+  Trace: 6
+  Exotica: 2
+  Chemicals: 14
+  Electronics: 5
 Build Naval Transport in Well
 Time to Build / Upgrade: 2
 [1405] Technologies Required to Build Unit (96):
-[110] Structural Engineering (99)
-[100] Psychosocial Engineering (100)
-[1195] Naval Warfare (90)
-Counts towards planetary flock: YES
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [1195] Naval Warfare (90)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Naval Transport Carrier
 Nick Name: NN-CVX
-Tech Score: 873
-Unit Score: 871
-Average Score: 872
-Stat Strength: 585
-Total Strength: 871
-Planet Strength: 871
-Space Strength: 0
-Garrison Strength: 329
-Movement Type: naval
-Move Points: 7
-Spot: 4
-Camouflage: 2
-Agility: 2
-Armor: 16
-Psy Defense: 16
-Rank: 125
-Air: 8/8
-Indirect: 5/16
-Direct: 11/10
-Close: 4/8
+Scores & Strengths:
+  Tech Score: 873
+  Unit Score: 871
+  Average Score: 872
+  Stat Strength: 585
+  Total Strength: 871
+  Planet Strength: 871
+  Space Strength: 0
+  Garrison Strength: 329
+Statistics:
+  Movement Type: naval
+  Move Points: 7
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
+  Armor: 16
+  Psy Defense: 16
+  Rank: 125
+Attacks:
+  Air: 8/8
+  Indirect: 5/16
+  Direct: 11/10
+  Close: 4/8
 Cargo Space: 2
 Transports and Refuels (at end of turn) all Air Units
 Amphibious loading / unloading of cargo
 Upkeep / Maintenance: 6
 Build Cost: 61
-Food Resource Requirement: 1
-Energy Resource Requirement: 13
-Metal Resource Requirement: 25
-Trace Resource Requirement: 8
-Exotica Resource Requirement: 1
-Chemicals Resource Requirement: 7
-Biochems Resource Requirement: 5
-Electronics Resource Requirement: 6
+Build Resource Requirements:
+  Food: 1
+  Energy: 13
+  Metal: 25
+  Trace: 8
+  Exotica: 1
+  Chemicals: 7
+  Biochems: 5
+  Electronics: 6
 Build Naval Transport Carrier in Well
 Time to Build / Upgrade: 2
 [5580] Technologies Required to Build Unit (88):
-[2855] Naval Amphibious Ships (87)
-[2725] Naval Capital Ships (88)
-Counts towards planetary flock: YES
+  [2855] Naval Amphibious Ships (87)
+  [2725] Naval Capital Ships (88)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
 Name: Landing Helicopter Assault
 Nick Name: NN-LHA
-Tech Score: 1159
-Unit Score: 1157
-Average Score: 1158
-Stat Strength: 968
-Total Strength: 1157
-Planet Strength: 1157
-Space Strength: 0
-Garrison Strength: 365
-Movement Type: naval
-Move Points: 10
-Spot: 6
-Camouflage: 4
-Agility: 4
-Armor: 20
-Psy Defense: 20
-Rank: 152
-Indirect: 2/27
-Direct: 4/21
-Close: 3/17
+Scores & Strengths:
+  Tech Score: 1159
+  Unit Score: 1157
+  Average Score: 1158
+  Stat Strength: 968
+  Total Strength: 1157
+  Planet Strength: 1157
+  Space Strength: 0
+  Garrison Strength: 365
+Statistics:
+  Movement Type: naval
+  Move Points: 10
+  Spot: 6
+  Camouflage: 4
+  Agility: 4
+  Armor: 20
+  Psy Defense: 20
+  Rank: 152
+Attacks:
+  Indirect: 2/27
+  Direct: 4/21
+  Close: 3/17
 Cargo Space: 4
 Amphibious loading / unloading of cargo
 Can tow units that can be towed
 Upkeep / Maintenance: 8
 Build Cost: 81
-Food Resource Requirement: 1
-Energy Resource Requirement: 31
-Metal Resource Requirement: 38
-Trace Resource Requirement: 2
-Exotica Resource Requirement: 1
-Chemicals Resource Requirement: 17
-Biochems Resource Requirement: 2
-Electronics Resource Requirement: 2
+Build Resource Requirements:
+  Food: 1
+  Energy: 31
+  Metal: 38
+  Trace: 2
+  Exotica: 1
+  Chemicals: 17
+  Biochems: 2
+  Electronics: 2
 Build Landing Helicopter Assault in Well
 Time to Build / Upgrade: 2
 [7670] Technologies Required to Build Unit (87):
-[2855] Naval Amphibious Ships (87)
-[2090] Rotorcraft (85)
-[2725] Naval Capital Ships (88)
-Counts towards planetary flock: YES
+  [2855] Naval Amphibious Ships (87)
+  [2090] Rotorcraft (85)
+  [2725] Naval Capital Ships (88)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
 Name: Naval Attack Transport
 Nick Name: NN-AX
-Tech Score: 781
-Unit Score: 1170
-Average Score: 976
-Stat Strength: 888
-Total Strength: 1170
-Planet Strength: 1170
-Space Strength: 0
-Garrison Strength: 413
-Movement Type: naval
-Move Points: 8
-Spot: 4
-Camouflage: 2
-Agility: 2
-Armor: 20
-Psy Defense: 20
-Rank: 136
-Indirect: 6/14
-Direct: 11/10
-Close: 8/11
+Scores & Strengths:
+  Tech Score: 781
+  Unit Score: 1170
+  Average Score: 976
+  Stat Strength: 888
+  Total Strength: 1170
+  Planet Strength: 1170
+  Space Strength: 0
+  Garrison Strength: 413
+Statistics:
+  Movement Type: naval
+  Move Points: 8
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
+  Armor: 20
+  Psy Defense: 20
+  Rank: 136
+Attacks:
+  Indirect: 6/14
+  Direct: 11/10
+  Close: 8/11
 Cargo Space: 3
 Amphibious loading / unloading of cargo
 Upkeep / Maintenance: 12
 Build Cost: 116
-Food Resource Requirement: 2
-Energy Resource Requirement: 20
-Metal Resource Requirement: 65
-Trace Resource Requirement: 12
-Exotica Resource Requirement: 2
-Chemicals Resource Requirement: 12
-Biochems Resource Requirement: 8
-Electronics Resource Requirement: 9
+Build Resource Requirements:
+  Food: 2
+  Energy: 20
+  Metal: 65
+  Trace: 12
+  Exotica: 2
+  Chemicals: 12
+  Biochems: 8
+  Electronics: 9
 Build Naval Attack Transport in Well
 Time to Build / Upgrade: 3
 [2855] Technology Required to Build Unit (87):
-[2855] Naval Amphibious Ships (87)
-Counts towards planetary flock: YES
+  [2855] Naval Amphibious Ships (87)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
 Name: Amphibious Assault Ship
 Nick Name: NN-AA
-Tech Score: 781
-Unit Score: 1170
-Average Score: 976
-Stat Strength: 970
-Total Strength: 1170
-Planet Strength: 1170
-Space Strength: 0
-Garrison Strength: 413
-Movement Type: naval
-Move Points: 8
-Spot: 4
-Camouflage: 2
-Agility: 2
-Armor: 21
-Psy Defense: 21
-Rank: 124
-Indirect: 6/10
-Direct: 12/7
-Close: 7/8
+Scores & Strengths:
+  Tech Score: 781
+  Unit Score: 1170
+  Average Score: 976
+  Stat Strength: 970
+  Total Strength: 1170
+  Planet Strength: 1170
+  Space Strength: 0
+  Garrison Strength: 413
+Statistics:
+  Movement Type: naval
+  Move Points: 8
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
+  Armor: 21
+  Psy Defense: 21
+  Rank: 124
+Attacks:
+  Indirect: 6/10
+  Direct: 12/7
+  Close: 7/8
 Cargo Space: 2
 Amphibious loading / unloading of cargo
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
 Upkeep / Maintenance: 12
 Build Cost: 116
-Food Resource Requirement: 2
-Energy Resource Requirement: 12
-Metal Resource Requirement: 71
-Trace Resource Requirement: 13
-Exotica Resource Requirement: 2
-Chemicals Resource Requirement: 7
-Biochems Resource Requirement: 8
-Electronics Resource Requirement: 9
+Build Resource Requirements:
+  Food: 2
+  Energy: 12
+  Metal: 71
+  Trace: 13
+  Exotica: 2
+  Chemicals: 7
+  Biochems: 8
+  Electronics: 9
 Build Amphibious Assault Ship in Well
 Time to Build / Upgrade: 3
 [2855] Technology Required to Build Unit (87):
-[2855] Naval Amphibious Ships (87)
-Counts towards planetary flock: YES
+  [2855] Naval Amphibious Ships (87)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
 Name: Hover Tanker
 Nick Name: Replenisher
-Tech Score: 1289
-Unit Score: 1287
-Average Score: 1288
-Stat Strength: 1287
-Total Strength: 1287
-Planet Strength: 1287
-Space Strength: 0
-Garrison Strength: 268
-Movement Type: hover
-Move Points: 23
-Spot: 5
-Camouflage: 2
-Agility: 9
-Armor: 18
-Psy Defense: 18
-Rank: 153
+Scores & Strengths:
+  Tech Score: 1289
+  Unit Score: 1287
+  Average Score: 1288
+  Stat Strength: 1287
+  Total Strength: 1287
+  Planet Strength: 1287
+  Space Strength: 0
+  Garrison Strength: 268
+Statistics:
+  Movement Type: hover
+  Move Points: 23
+  Spot: 5
+  Camouflage: 2
+  Agility: 9
+  Armor: 18
+  Psy Defense: 18
+  Rank: 153
 Cargo Space: 4
 Transports and Refuels (at end of turn) all Air Units
 Heals units of same movement type
 Upkeep / Maintenance: 72
 Build Cost: 715
-Food Resource Requirement: 6
-Energy Resource Requirement: 11
-Metal Resource Requirement: 14
-Trace Resource Requirement: 2
-Exotica Resource Requirement: 7
-Chemicals Resource Requirement: 16
-Biochems Resource Requirement: 7
-Electronics Resource Requirement: 2
-Ceramsteel Resource Requirement: 15
-Monopols Resource Requirement: 27
+Build Resource Requirements:
+  Food: 6
+  Energy: 11
+  Metal: 14
+  Trace: 2
+  Exotica: 7
+  Chemicals: 16
+  Biochems: 7
+  Electronics: 2
+  Ceramsteel: 15
+  Monopols: 27
 Build Hover Tanker in Factory
 Time to Build / Upgrade: 3
 [6630] Technologies Required to Build Unit (75):
-[3905] Hovertech (61)
-[2725] Naval Capital Ships (88)
-Counts towards planetary flock: YES
+  [3905] Hovertech (61)
+  [2725] Naval Capital Ships (88)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
 Name: Naval High-Speed Transport
 Nick Name: NN-HSX
-Tech Score: 1673
-Unit Score: 1671
-Average Score: 1672
-Stat Strength: 1169
-Total Strength: 1671
-Planet Strength: 1671
-Space Strength: 0
-Garrison Strength: 482
-Movement Type: naval
-Move Points: 12
-Spot: 5
-Camouflage: 4
-Agility: 4
-Armor: 22
-Psy Defense: 22
-Rank: 136
-Indirect: 12/22
-Direct: 8/16
-Close: 11/10
+Scores & Strengths:
+  Tech Score: 1673
+  Unit Score: 1671
+  Average Score: 1672
+  Stat Strength: 1169
+  Total Strength: 1671
+  Planet Strength: 1671
+  Space Strength: 0
+  Garrison Strength: 482
+Statistics:
+  Movement Type: naval
+  Move Points: 12
+  Spot: 5
+  Camouflage: 4
+  Agility: 4
+  Armor: 22
+  Psy Defense: 22
+  Rank: 136
+Attacks:
+  Indirect: 12/22
+  Direct: 8/16
+  Close: 11/10
 Cargo Space: 2
 Amphibious loading / unloading of cargo
 Upkeep / Maintenance: 7
 Build Cost: 74
-Food Resource Requirement: 1
-Energy Resource Requirement: 17
-Metal Resource Requirement: 20
-Trace Resource Requirement: 4
-Exotica Resource Requirement: 1
-Chemicals Resource Requirement: 14
-Biochems Resource Requirement: 4
-Electronics Resource Requirement: 5
-Ceramsteel Resource Requirement: 22
+Build Resource Requirements:
+  Food: 1
+  Energy: 17
+  Metal: 20
+  Trace: 4
+  Exotica: 1
+  Chemicals: 14
+  Biochems: 4
+  Electronics: 5
+  Ceramsteel: 22
 Build Naval High-Speed Transport in Well
 Time to Build / Upgrade: 2
 [10150] Technologies Required to Build Unit (84):
-[2855] Naval Amphibious Ships (87)
-[7295] Nuclear-Powered Navalcraft (81)
-Counts towards planetary flock: YES
+  [2855] Naval Amphibious Ships (87)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
 Name: Landing Helicopter Dock
 Nick Name: NN-LHD
-Tech Score: 1712
-Unit Score: 1712
-Average Score: 1712
-Stat Strength: 1392
-Total Strength: 1712
-Planet Strength: 1712
-Space Strength: 0
-Garrison Strength: 494
-Movement Type: naval
-Move Points: 12
-Spot: 8
-Camouflage: 4
-Agility: 4
-Armor: 24
-Psy Defense: 24
-Rank: 159
-Indirect: 4/30
-Direct: 5/22
-Close: 5/18
+Scores & Strengths:
+  Tech Score: 1712
+  Unit Score: 1712
+  Average Score: 1712
+  Stat Strength: 1392
+  Total Strength: 1712
+  Planet Strength: 1712
+  Space Strength: 0
+  Garrison Strength: 494
+Statistics:
+  Movement Type: naval
+  Move Points: 12
+  Spot: 8
+  Camouflage: 4
+  Agility: 4
+  Armor: 24
+  Psy Defense: 24
+  Rank: 159
+Attacks:
+  Indirect: 4/30
+  Direct: 5/22
+  Close: 5/18
 Cargo Space: 4
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
 Can tow units that can be towed
 Upkeep / Maintenance: 13
 Build Cost: 125
-Food Resource Requirement: 2
-Energy Resource Requirement: 29
-Metal Resource Requirement: 27
-Trace Resource Requirement: 2
-Exotica Resource Requirement: 2
-Chemicals Resource Requirement: 22
-Biochems Resource Requirement: 2
-Electronics Resource Requirement: 3
-Ceramsteel Resource Requirement: 27
+Build Resource Requirements:
+  Food: 2
+  Energy: 29
+  Metal: 27
+  Trace: 2
+  Exotica: 2
+  Chemicals: 22
+  Biochems: 2
+  Electronics: 3
+  Ceramsteel: 27
 Build Landing Helicopter Dock in Well
 Time to Build / Upgrade: 3
 [11375] Technologies Required to Build Unit (85):
-[2855] Naval Amphibious Ships (87)
-[2665] V/STOL Aircraft (85)
-[5855] Guided Missile Navalcraft (84)
-Counts towards planetary flock: YES
+  [2855] Naval Amphibious Ships (87)
+  [2665] V/STOL Aircraft (85)
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --9--
 Name: Landing Platform Helicopter
 Nick Name: NN-LPH
-Tech Score: 1933
-Unit Score: 1931
-Average Score: 1932
-Stat Strength: 1578
-Total Strength: 1931
-Planet Strength: 1931
-Space Strength: 0
-Garrison Strength: 516
-Movement Type: naval
-Move Points: 14
-Spot: 10
-Camouflage: 4
-Agility: 4
-Armor: 25
-Psy Defense: 25
-Rank: 155
-Indirect: 8/18
-Direct: 10/11
-Close: 11/9
+Scores & Strengths:
+  Tech Score: 1933
+  Unit Score: 1931
+  Average Score: 1932
+  Stat Strength: 1578
+  Total Strength: 1931
+  Planet Strength: 1931
+  Space Strength: 0
+  Garrison Strength: 516
+Statistics:
+  Movement Type: naval
+  Move Points: 14
+  Spot: 10
+  Camouflage: 4
+  Agility: 4
+  Armor: 25
+  Psy Defense: 25
+  Rank: 155
+Attacks:
+  Indirect: 8/18
+  Direct: 10/11
+  Close: 11/9
 Cargo Space: 4
 Amphibious loading / unloading of cargo
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
 Can tow units that can be towed
 Upkeep / Maintenance: 13
 Build Cost: 132
-Food Resource Requirement: 2
-Energy Resource Requirement: 11
-Metal Resource Requirement: 26
-Trace Resource Requirement: 5
-Exotica Resource Requirement: 2
-Chemicals Resource Requirement: 12
-Biochems Resource Requirement: 4
-Electronics Resource Requirement: 6
-Ceramsteel Resource Requirement: 28
+Build Resource Requirements:
+  Food: 2
+  Energy: 11
+  Metal: 26
+  Trace: 5
+  Exotica: 2
+  Chemicals: 12
+  Biochems: 4
+  Electronics: 6
+  Ceramsteel: 28
 Build Landing Platform Helicopter in Well
 Time to Build / Upgrade: 3
 [12815] Technologies Required to Build Unit (84):
-[2855] Naval Amphibious Ships (87)
-[2665] V/STOL Aircraft (85)
-[7295] Nuclear-Powered Navalcraft (81)
-Counts towards planetary flock: YES
+  [2855] Naval Amphibious Ships (87)
+  [2665] V/STOL Aircraft (85)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

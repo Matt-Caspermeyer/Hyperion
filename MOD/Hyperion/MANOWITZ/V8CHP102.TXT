@@ -3,157 +3,173 @@ All units of the unit class Spacemen are listed herein (4 in total):
 --1--
 Name: Spacemen
 Nick Name: Spacemen
-Tech Score: 373
-Unit Score: 370
-Average Score: 371
-Stat Strength: 298
-Total Strength: 370
-Planet Strength: 0
-Space Strength: 370
-Garrison Strength: 0
-Movement Type: space
-Move Points: 1
-Spot: 8
-Camouflage: 12
-Agility: 9
-Armor: 2
-Psy Defense: 2
-Rank: 720
-Closed Space: 9/8
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 373
+  Unit Score: 370
+  Average Score: 371
+  Stat Strength: 298
+  Total Strength: 370
+  Planet Strength: 0
+  Space Strength: 370
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 1
+  Spot: 8
+  Camouflage: 12
+  Agility: 9
+  Armor: 2
+  Psy Defense: 2
+  Rank: 720
+Attacks:
+  Closed Space: 9/8
+Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 Immune to Plague
 Upkeep / Maintenance: 29
 Build Cost: 291
-Food Resource Requirement: 9
-Energy Resource Requirement: 11
-Metal Resource Requirement: 2
-Trace Resource Requirement: 47
-Exotica Resource Requirement: 9
-Chemicals Resource Requirement: 14
-Electronics Resource Requirement: 30
+Build Resource Requirements:
+  Food: 9
+  Energy: 11
+  Metal: 2
+  Trace: 47
+  Exotica: 9
+  Chemicals: 14
+  Electronics: 30
 Build Spacemen in Starport
 Time to Build / Upgrade: 2
 [1175] Technologies Required to Build Unit (78):
-[235] Bioreactors (48)
-[145] Composite Armor (97)
-[795] Rocket Propulsion (90)
-Counts towards planetary flock: YES
+  [235] Bioreactors (48)
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Marauder Legion
 Nick Name: Star Lgn
-Tech Score: 4203
-Unit Score: 4202
-Average Score: 4202
-Stat Strength: 3051
-Total Strength: 4202
-Planet Strength: 4202
-Space Strength: 0
-Garrison Strength: 840
-Movement Type: mech
-Move Points: 25
-Spot: 20
-Camouflage: 10
-Agility: 26
-Armor: 25
-Psy Defense: 25
-Rank: 127
-Air: 21/25
-Direct: 17/18
-Close: 20/16
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 4203
+  Unit Score: 4202
+  Average Score: 4202
+  Stat Strength: 3051
+  Total Strength: 4202
+  Planet Strength: 4202
+  Space Strength: 0
+  Garrison Strength: 840
+Statistics:
+  Movement Type: mech
+  Move Points: 25
+  Spot: 20
+  Camouflage: 10
+  Agility: 26
+  Armor: 25
+  Psy Defense: 25
+  Rank: 127
+Attacks:
+  Air: 21/25
+  Direct: 17/18
+  Close: 20/16
+Load aboard transport: YES
 Immune to Plague
 Upkeep / Maintenance: 160
 Build Cost: 1604
-Food Resource Requirement: 3
-Energy Resource Requirement: 13
-Metal Resource Requirement: 4
-Trace Resource Requirement: 6
-Exotica Resource Requirement: 3
-Chemicals Resource Requirement: 16
-Biochems Resource Requirement: 26
-Electronics Resource Requirement: 16
-Ceramsteel Resource Requirement: 7
-Wetware Resource Requirement: 13
-Monopols Resource Requirement: 28
+Build Resource Requirements:
+  Food: 3
+  Energy: 13
+  Metal: 4
+  Trace: 6
+  Exotica: 3
+  Chemicals: 16
+  Biochems: 26
+  Electronics: 16
+  Ceramsteel: 7
+  Wetware: 13
+  Monopols: 28
 Build Marauder Legion in Fort
 Time to Build / Upgrade: 4
 [26915] Technology Required to Build Unit (47):
-[26915] Rocket Legion (47)
-Counts towards planetary flock: YES
+  [26915] Rocket Legion (47)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
 Name: Space Marines
 Nick Name: Space Lgn
-Tech Score: 4607
-Unit Score: 4606
-Average Score: 4606
-Stat Strength: 3706
-Total Strength: 4606
-Planet Strength: 0
-Space Strength: 4606
-Garrison Strength: 0
-Movement Type: space
-Move Points: 30
-Spot: 17
-Camouflage: 18
-Agility: 29
-Armor: 26
-Psy Defense: 26
-Rank: 762
-Closed Space: 30/30
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 4607
+  Unit Score: 4606
+  Average Score: 4606
+  Stat Strength: 3706
+  Total Strength: 4606
+  Planet Strength: 0
+  Space Strength: 4606
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 30
+  Spot: 17
+  Camouflage: 18
+  Agility: 29
+  Armor: 26
+  Psy Defense: 26
+  Rank: 762
+Attacks:
+  Closed Space: 30/30
+Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 Immune to Plague
 Upkeep / Maintenance: 208
 Build Cost: 478
-Energy Resource Requirement: 13
-Chemicals Resource Requirement: 14
-Biochems Resource Requirement: 5
+Build Resource Requirements:
+  Energy: 13
+  Chemicals: 14
+  Biochems: 5
 Upgrade Marauder Legion to Space Marines at Starport
 Time to Build / Upgrade: 1
 [30420] Technology Required to Build Unit (35):
-[30420] Space Marines (35)
-Counts towards planetary flock: YES
+  [30420] Space Marines (35)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
 Name: Wraith Space Marine
 Nick Name: Specter Lgn
-Tech Score: 5172
-Unit Score: 5177
-Average Score: 5174
-Stat Strength: 4277
-Total Strength: 5177
-Planet Strength: 0
-Space Strength: 5177
-Garrison Strength: 0
-Movement Type: space
-Move Points: 30
-Spot: 20
-Camouflage: 28
-Agility: 29
-Armor: 26
-Psy Defense: 26
-Rank: 768
-Closed Space: 30/30
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 5172
+  Unit Score: 5177
+  Average Score: 5174
+  Stat Strength: 4277
+  Total Strength: 5177
+  Planet Strength: 0
+  Space Strength: 5177
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 30
+  Spot: 20
+  Camouflage: 28
+  Agility: 29
+  Armor: 26
+  Psy Defense: 26
+  Rank: 768
+Attacks:
+  Closed Space: 30/30
+Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 Immune to Plague
 Upkeep / Maintenance: 154
 Build Cost: 1064
-Trace Resource Requirement: 1
-Electronics Resource Requirement: 1
+Build Resource Requirements:
+  Trace: 1
+  Electronics: 1
 Upgrade Space Marines to Wraith Space Marine at Starport
 Time to Build / Upgrade: 1
 [54550] Technologies Required to Build Unit (34):
-[30420] Space Marines (35)
-[24130] Neumonically-Enhanced Soldiers (32)
-Counts towards planetary flock: YES
+  [30420] Space Marines (35)
+  [24130] Neumonically-Enhanced Soldiers (32)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

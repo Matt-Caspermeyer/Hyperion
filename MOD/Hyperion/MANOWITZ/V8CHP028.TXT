@@ -3,199 +3,218 @@ All units of the unit class Blimp are listed herein (5 in total):
 --1--
 Name: Blimp
 Nick Name: A-Blimp
-Tech Score: 96
-Unit Score: 96
-Average Score: 96
-Stat Strength: 86
-Total Strength: 96
-Planet Strength: 96
-Space Strength: 0
-Garrison Strength: 42
-Movement Type: air
-Move Points: 5
-Spot: 4
-Camouflage: 0
-Agility: 5
-Armor: 4
-Psy Defense: 2
-Rank: 133
-Indirect: 5/2
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 96
+  Unit Score: 96
+  Average Score: 96
+  Stat Strength: 86
+  Total Strength: 96
+  Planet Strength: 96
+  Space Strength: 0
+  Garrison Strength: 42
+Statistics:
+  Movement Type: air
+  Move Points: 5
+  Spot: 4
+  Camouflage: 0
+  Agility: 5
+  Armor: 4
+  Psy Defense: 2
+  Rank: 133
+Attacks:
+  Indirect: 5/2
+Load aboard transport: YES
 Never needs refueling
 Upkeep / Maintenance: 3
 Build Cost: 32
-Food Resource Requirement: 15
-Energy Resource Requirement: 12
-Metal Resource Requirement: 15
-Trace Resource Requirement: 10
-Exotica Resource Requirement: 13
-Chemicals Resource Requirement: 9
+Build Resource Requirements:
+  Food: 15
+  Energy: 12
+  Metal: 15
+  Trace: 10
+  Exotica: 13
+  Chemicals: 9
 Build Blimp in Factory
 Time to Build / Upgrade: 2
 [175] Technologies Required to Build Unit (99):
-[125] Compression Ignition Engine (97)
-[50] Applied Technology (100)
-Counts towards planetary flock: YES
+  [125] Compression Ignition Engine (97)
+  [50] Applied Technology (100)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Reconnaissance Blimp
 Nick Name: A-BR
-Tech Score: 100
-Unit Score: 150
-Average Score: 125
-Stat Strength: 150
-Total Strength: 150
-Planet Strength: 150
-Space Strength: 0
-Garrison Strength: 61
-Movement Type: air
-Move Points: 6
-Spot: 6
-Camouflage: 1
-Agility: 8
-Armor: 3
-Psy Defense: 2
-Rank: 76
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 100
+  Unit Score: 150
+  Average Score: 125
+  Stat Strength: 150
+  Total Strength: 150
+  Planet Strength: 150
+  Space Strength: 0
+  Garrison Strength: 61
+Statistics:
+  Movement Type: air
+  Move Points: 6
+  Spot: 6
+  Camouflage: 1
+  Agility: 8
+  Armor: 3
+  Psy Defense: 2
+  Rank: 76
+Load aboard transport: YES
 Never needs refueling
 Upkeep / Maintenance: 7
 Build Cost: 65
-Food Resource Requirement: 27
-Energy Resource Requirement: 18
-Metal Resource Requirement: 10
-Trace Resource Requirement: 21
-Exotica Resource Requirement: 24
-Chemicals Resource Requirement: 16
+Build Resource Requirements:
+  Food: 27
+  Energy: 18
+  Metal: 10
+  Trace: 21
+  Exotica: 24
+  Chemicals: 16
 Build Reconnaissance Blimp in Factory
 Time to Build / Upgrade: 3
 [185] Technologies Required to Build Unit (97):
-[125] Compression Ignition Engine (97)
-[60] Aerial Reconnaissance (97)
-Counts towards planetary flock: YES
+  [125] Compression Ignition Engine (97)
+  [60] Aerial Reconnaissance (97)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
 Name: Bomber Blimp
 Nick Name: A-BB
-Tech Score: 106
-Unit Score: 157
-Average Score: 132
-Stat Strength: 103
-Total Strength: 157
-Planet Strength: 157
-Space Strength: 0
-Garrison Strength: 78
-Movement Type: air
-Move Points: 4
-Spot: 4
-Camouflage: 1
-Agility: 5
-Armor: 6
-Psy Defense: 3
-Rank: 140
-Air: 3/2
-Indirect: 6/8
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 106
+  Unit Score: 157
+  Average Score: 132
+  Stat Strength: 103
+  Total Strength: 157
+  Planet Strength: 157
+  Space Strength: 0
+  Garrison Strength: 78
+Statistics:
+  Movement Type: air
+  Move Points: 4
+  Spot: 4
+  Camouflage: 1
+  Agility: 5
+  Armor: 6
+  Psy Defense: 3
+  Rank: 140
+Attacks:
+  Air: 3/2
+  Indirect: 6/8
+Load aboard transport: YES
 Never needs refueling
 Upkeep / Maintenance: 3
 Build Cost: 32
-Food Resource Requirement: 7
-Energy Resource Requirement: 21
-Metal Resource Requirement: 19
-Trace Resource Requirement: 9
-Exotica Resource Requirement: 7
-Chemicals Resource Requirement: 5
+Build Resource Requirements:
+  Food: 7
+  Energy: 21
+  Metal: 19
+  Trace: 9
+  Exotica: 7
+  Chemicals: 5
 Build Bomber Blimp in Factory
 Time to Build / Upgrade: 2
 [350] Technologies Required to Build Unit (97):
-[125] Compression Ignition Engine (97)
-[165] Autocannon (98)
-[60] Aerial Reconnaissance (97)
-Counts towards planetary flock: YES
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [60] Aerial Reconnaissance (97)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
 Name: Fighter Blimp
 Nick Name: A-BF
-Tech Score: 106
-Unit Score: 157
-Average Score: 132
-Stat Strength: 126
-Total Strength: 157
-Planet Strength: 157
-Space Strength: 0
-Garrison Strength: 70
-Movement Type: air
-Move Points: 5
-Spot: 4
-Camouflage: 1
-Agility: 8
-Armor: 4
-Psy Defense: 2
-Rank: 134
-Air: 4/4
-Indirect: 3/5
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 106
+  Unit Score: 157
+  Average Score: 132
+  Stat Strength: 126
+  Total Strength: 157
+  Planet Strength: 157
+  Space Strength: 0
+  Garrison Strength: 70
+Statistics:
+  Movement Type: air
+  Move Points: 5
+  Spot: 4
+  Camouflage: 1
+  Agility: 8
+  Armor: 4
+  Psy Defense: 2
+  Rank: 134
+Attacks:
+  Air: 4/4
+  Indirect: 3/5
+Load aboard transport: YES
 Never needs refueling
 Upkeep / Maintenance: 4
 Build Cost: 41
-Food Resource Requirement: 12
-Energy Resource Requirement: 20
-Metal Resource Requirement: 8
-Trace Resource Requirement: 14
-Exotica Resource Requirement: 11
-Chemicals Resource Requirement: 12
+Build Resource Requirements:
+  Food: 12
+  Energy: 20
+  Metal: 8
+  Trace: 14
+  Exotica: 11
+  Chemicals: 12
 Build Fighter Blimp in Factory
 Time to Build / Upgrade: 2
 [350] Technologies Required to Build Unit (97):
-[125] Compression Ignition Engine (97)
-[165] Autocannon (98)
-[60] Aerial Reconnaissance (97)
-Counts towards planetary flock: YES
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [60] Aerial Reconnaissance (97)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
 Name: Patrol Blimp
 Nick Name: A-BP
-Tech Score: 106
-Unit Score: 157
-Average Score: 132
-Stat Strength: 95
-Total Strength: 157
-Planet Strength: 157
-Space Strength: 0
-Garrison Strength: 90
-Movement Type: air
-Move Points: 3
-Spot: 4
-Camouflage: 1
-Agility: 7
-Armor: 4
-Psy Defense: 2
-Rank: 139
-Air: 4/5
-Indirect: 6/7
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 106
+  Unit Score: 157
+  Average Score: 132
+  Stat Strength: 95
+  Total Strength: 157
+  Planet Strength: 157
+  Space Strength: 0
+  Garrison Strength: 90
+Statistics:
+  Movement Type: air
+  Move Points: 3
+  Spot: 4
+  Camouflage: 1
+  Agility: 7
+  Armor: 4
+  Psy Defense: 2
+  Rank: 139
+Attacks:
+  Air: 4/5
+  Indirect: 6/7
+Load aboard transport: YES
 Never needs refueling
 Upkeep / Maintenance: 4
 Build Cost: 37
-Food Resource Requirement: 8
-Energy Resource Requirement: 24
-Metal Resource Requirement: 8
-Trace Resource Requirement: 13
-Exotica Resource Requirement: 8
-Chemicals Resource Requirement: 11
+Build Resource Requirements:
+  Food: 8
+  Energy: 24
+  Metal: 8
+  Trace: 13
+  Exotica: 8
+  Chemicals: 11
 Build Patrol Blimp in Factory
 Time to Build / Upgrade: 2
 [350] Technologies Required to Build Unit (97):
-[125] Compression Ignition Engine (97)
-[165] Autocannon (98)
-[60] Aerial Reconnaissance (97)
-Counts towards planetary flock: YES
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [60] Aerial Reconnaissance (97)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

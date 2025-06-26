@@ -3,129 +3,141 @@ All units of the unit class Space Freighter are listed herein (3 in total):
 --1--
 Name: Space Freighter
 Nick Name: SS-TV
-Tech Score: 342
-Unit Score: 681
-Average Score: 512
-Stat Strength: 495
-Total Strength: 681
-Planet Strength: 0
-Space Strength: 681
-Garrison Strength: 0
-Movement Type: space
-Move Points: 2
-Spot: 10
-Camouflage: 2
-Agility: 7
-Armor: 13
-Psy Defense: 13
-Rank: 148
-Direct Space: 8/15
-Closed Space: 6/11
+Scores & Strengths:
+  Tech Score: 342
+  Unit Score: 681
+  Average Score: 512
+  Stat Strength: 495
+  Total Strength: 681
+  Planet Strength: 0
+  Space Strength: 681
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 2
+  Spot: 10
+  Camouflage: 2
+  Agility: 7
+  Armor: 13
+  Psy Defense: 13
+  Rank: 148
+Attacks:
+  Direct Space: 8/15
+  Closed Space: 6/11
 Cargo Space: 2
 Immune to Plague
 Upkeep / Maintenance: 36
 Build Cost: 355
-Food Resource Requirement: 12
-Energy Resource Requirement: 37
-Metal Resource Requirement: 82
-Trace Resource Requirement: 30
-Exotica Resource Requirement: 11
-Chemicals Resource Requirement: 72
-Electronics Resource Requirement: 19
+Build Resource Requirements:
+  Food: 12
+  Energy: 37
+  Metal: 82
+  Trace: 30
+  Exotica: 11
+  Chemicals: 72
+  Electronics: 19
 Build Space Freighter in Starport
 Time to Build / Upgrade: 5
 [1170] Technologies Required to Build Unit (95):
-[230] Hospitals (97)
-[145] Composite Armor (97)
-[795] Rocket Propulsion (90)
-Counts towards planetary flock: YES
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Jump Freighter
 Nick Name: JJ-TV
-Tech Score: 1168
-Unit Score: 1167
-Average Score: 1167
-Stat Strength: 1095
-Total Strength: 1167
-Planet Strength: 0
-Space Strength: 1167
-Garrison Strength: 0
-Movement Type: jump
-Move Points: 3
-Spot: 10
-Camouflage: 2
-Agility: 10
-Armor: 21
-Psy Defense: 21
-Rank: 170
-Direct Space: 6/7
-Closed Space: 5/6
+Scores & Strengths:
+  Tech Score: 1168
+  Unit Score: 1167
+  Average Score: 1167
+  Stat Strength: 1095
+  Total Strength: 1167
+  Planet Strength: 0
+  Space Strength: 1167
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 3
+  Spot: 10
+  Camouflage: 2
+  Agility: 10
+  Armor: 21
+  Psy Defense: 21
+  Rank: 170
+Attacks:
+  Direct Space: 6/7
+  Closed Space: 5/6
 Cargo Space: 2
 Space Freighter - Used by the League to Resupply Agoras
 Immune to Plague
 Upkeep / Maintenance: 213
 Build Cost: 2128
-Food Resource Requirement: 4
-Energy Resource Requirement: 4
-Metal Resource Requirement: 20
-Trace Resource Requirement: 8
-Exotica Resource Requirement: 4
-Chemicals Resource Requirement: 15
-Electronics Resource Requirement: 11
-Ceramsteel Resource Requirement: 29
-Monopols Resource Requirement: 41
+Build Resource Requirements:
+  Food: 4
+  Energy: 4
+  Metal: 20
+  Trace: 8
+  Exotica: 4
+  Chemicals: 15
+  Electronics: 11
+  Ceramsteel: 29
+  Monopols: 41
 Build Jump Freighter in Starport
 Time to Build / Upgrade: 4
 [5975] Technologies Required to Build Unit (77):
-[1690] Ceramsteel (84)
-[4285] Jump Drives (70)
-Counts towards planetary flock: YES
+  [1690] Ceramsteel (84)
+  [4285] Jump Drives (70)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
 Name: Gate Freighter
 Nick Name: GG-TV
-Tech Score: 7257
-Unit Score: 7256
-Average Score: 7257
-Stat Strength: 6227
-Total Strength: 7256
-Planet Strength: 6709
-Space Strength: 6774
-Garrison Strength: 1398
-Movement Type: gate
-Move Points: 23
-Spot: 16
-Camouflage: 12
-Agility: 40
-Armor: 43
-Psy Defense: 43
-Rank: 251
-Direct Space: 17/19
-Closed Space: 14/16
-Direct: 16/17
-Close: 14/15
+Scores & Strengths:
+  Tech Score: 7257
+  Unit Score: 7256
+  Average Score: 7257
+  Stat Strength: 6227
+  Total Strength: 7256
+  Planet Strength: 6709
+  Space Strength: 6774
+  Garrison Strength: 1398
+Statistics:
+  Movement Type: gate
+  Move Points: 23
+  Spot: 16
+  Camouflage: 12
+  Agility: 40
+  Armor: 43
+  Psy Defense: 43
+  Rank: 251
+Attacks:
+  Direct Space: 17/19
+  Closed Space: 14/16
+  Direct: 16/17
+  Close: 14/15
 Cargo Space: 2
 Space Freighter - Used by the League to Resupply Agoras
 Immune to Plague
 Upkeep / Maintenance: 521
 Build Cost: 5208
-Food Resource Requirement: 2
-Energy Resource Requirement: 10
-Metal Resource Requirement: 8
-Trace Resource Requirement: 5
-Exotica Resource Requirement: 2
-Chemicals Resource Requirement: 18
-Biochems Resource Requirement: 22
-Electronics Resource Requirement: 14
-Ceramsteel Resource Requirement: 14
-Wetware Resource Requirement: 9
-Monopols Resource Requirement: 27
+Build Resource Requirements:
+  Food: 2
+  Energy: 10
+  Metal: 8
+  Trace: 5
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 22
+  Electronics: 14
+  Ceramsteel: 14
+  Wetware: 9
+  Monopols: 27
 Build Gate Freighter in Starport
 Time to Build / Upgrade: 4
 [55760] Technology Required to Build Unit (49):
-[55760] Gate Transports (49)
-Counts towards planetary flock: YES
+  [55760] Gate Transports (49)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

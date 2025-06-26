@@ -3,465 +3,513 @@ All units of the unit class Infantry Legion are listed herein (12 in total):
 --1--
 Name: Infantry Legion
 Nick Name: Infantry
-Tech Score: 135
-Unit Score: 133
-Average Score: 134
-Stat Strength: 91
-Total Strength: 133
-Planet Strength: 133
-Space Strength: 0
-Garrison Strength: 76
-Movement Type: foot
-Move Points: 3
-Spot: 2
-Camouflage: 2
-Agility: 8
-Armor: 3
-Psy Defense: 1
-Rank: 58
-Indirect: 3/4
-Close: 6/5
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 135
+  Unit Score: 133
+  Average Score: 134
+  Stat Strength: 91
+  Total Strength: 133
+  Planet Strength: 133
+  Space Strength: 0
+  Garrison Strength: 76
+Statistics:
+  Movement Type: foot
+  Move Points: 3
+  Spot: 2
+  Camouflage: 2
+  Agility: 8
+  Armor: 3
+  Psy Defense: 1
+  Rank: 58
+Attacks:
+  Indirect: 3/4
+  Close: 6/5
+Load aboard transport: YES
 Upkeep / Maintenance: 2
 Build Cost: 9
-Metal Resource Requirement: 1
-Trace Resource Requirement: 16
-Exotica Resource Requirement: 7
-Chemicals Resource Requirement: 12
+Build Resource Requirements:
+  Metal: 1
+  Trace: 16
+  Exotica: 7
+  Chemicals: 12
 Upgrade Peasant to Infantry Legion at Fort
 Time to Build / Upgrade: 1
 [375] Technologies Required to Build Unit (99):
-[110] Mechanical & Aerospace Engineering (98)
-[100] Psychosocial Engineering (100)
-[165] Autocannon (98)
-Counts towards planetary flock: YES
+  [110] Mechanical & Aerospace Engineering (98)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Infantry Legion (PE)
 Nick Name: Inf (PE)
-Tech Score: 146
-Unit Score: 138
-Average Score: 142
-Stat Strength: 91
-Total Strength: 138
-Planet Strength: 138
-Space Strength: 0
-Garrison Strength: 79
-Movement Type: foot
-Move Points: 3
-Spot: 2
-Camouflage: 2
-Agility: 8
-Armor: 3
-Psy Defense: 1
-Rank: 58
-Indirect: 3/4
-Close: 7/5
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 146
+  Unit Score: 138
+  Average Score: 142
+  Stat Strength: 91
+  Total Strength: 138
+  Planet Strength: 138
+  Space Strength: 0
+  Garrison Strength: 79
+Statistics:
+  Movement Type: foot
+  Move Points: 3
+  Spot: 2
+  Camouflage: 2
+  Agility: 8
+  Armor: 3
+  Psy Defense: 1
+  Rank: 58
+Attacks:
+  Indirect: 3/4
+  Close: 7/5
+Load aboard transport: YES
 May lose health or experience after combat due to drug use
 Upkeep / Maintenance: 2
 Build Cost: 8
-Metal Resource Requirement: 1
-Trace Resource Requirement: 16
-Exotica Resource Requirement: 7
-Chemicals Resource Requirement: 11
+Build Resource Requirements:
+  Metal: 1
+  Trace: 16
+  Exotica: 7
+  Chemicals: 11
 Upgrade Peasant to Infantry Legion (PE) at Fort
 Time to Build / Upgrade: 1
 [455] Technologies Required to Build Unit (95):
-[110] Mechanical & Aerospace Engineering (98)
-[165] Autocannon (98)
-[180] Performance-Enhanced Soldiers (90)
-Counts towards planetary flock: YES
+  [110] Mechanical & Aerospace Engineering (98)
+  [165] Autocannon (98)
+  [180] Performance-Enhanced Soldiers (90)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
 Name: Infantry Legion (BE)
 Nick Name: Inf (BE)
-Tech Score: 226
-Unit Score: 210
-Average Score: 218
-Stat Strength: 127
-Total Strength: 210
-Planet Strength: 210
-Space Strength: 0
-Garrison Strength: 105
-Movement Type: foot
-Move Points: 4
-Spot: 2
-Camouflage: 3
-Agility: 9
-Armor: 4
-Psy Defense: 1
-Rank: 61
-Indirect: 4/5
-Close: 9/7
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 226
+  Unit Score: 210
+  Average Score: 218
+  Stat Strength: 127
+  Total Strength: 210
+  Planet Strength: 210
+  Space Strength: 0
+  Garrison Strength: 105
+Statistics:
+  Movement Type: foot
+  Move Points: 4
+  Spot: 2
+  Camouflage: 3
+  Agility: 9
+  Armor: 4
+  Psy Defense: 1
+  Rank: 61
+Attacks:
+  Indirect: 4/5
+  Close: 9/7
+Load aboard transport: YES
 May lose health or experience after combat due to drug use
 Upkeep / Maintenance: 3
 Build Cost: 25
-Metal Resource Requirement: 1
-Trace Resource Requirement: 1
-Biochems Resource Requirement: 21
+Build Resource Requirements:
+  Metal: 1
+  Trace: 1
+  Biochems: 21
 Upgrade Infantry Legion to Infantry Legion (BE) at Biochem Plant
 Time to Build / Upgrade: 1
 [795] Technologies Required to Build Unit (93):
-[110] Mechanical & Aerospace Engineering (98)
-[100] Psychosocial Engineering (100)
-[165] Autocannon (98)
-[420] Biochem-Enhanced Soldiers (77)
-Counts towards planetary flock: YES
+  [110] Mechanical & Aerospace Engineering (98)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [420] Biochem-Enhanced Soldiers (77)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
 Name: Infantry Legion (SE)
 Nick Name: Inf (SE)
-Tech Score: 301
-Unit Score: 287
-Average Score: 294
-Stat Strength: 172
-Total Strength: 287
-Planet Strength: 287
-Space Strength: 0
-Garrison Strength: 128
-Movement Type: foot
-Move Points: 5
-Spot: 3
-Camouflage: 3
-Agility: 10
-Armor: 5
-Psy Defense: 2
-Rank: 65
-Indirect: 5/7
-Close: 10/8
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 301
+  Unit Score: 287
+  Average Score: 294
+  Stat Strength: 172
+  Total Strength: 287
+  Planet Strength: 287
+  Space Strength: 0
+  Garrison Strength: 128
+Statistics:
+  Movement Type: foot
+  Move Points: 5
+  Spot: 3
+  Camouflage: 3
+  Agility: 10
+  Armor: 5
+  Psy Defense: 2
+  Rank: 65
+Attacks:
+  Indirect: 5/7
+  Close: 10/8
+Load aboard transport: YES
 Upkeep / Maintenance: 4
 Build Cost: 28
-Energy Resource Requirement: 3
-Metal Resource Requirement: 3
-Trace Resource Requirement: 4
-Exotica Resource Requirement: 1
-Chemicals Resource Requirement: 3
-Biochems Resource Requirement: 25
+Build Resource Requirements:
+  Energy: 3
+  Metal: 3
+  Trace: 4
+  Exotica: 1
+  Chemicals: 3
+  Biochems: 25
 Upgrade Infantry Legion to Infantry Legion (SE) at Hospital
 Time to Build / Upgrade: 1
 [1050] Technologies Required to Build Unit (93):
-[110] Mechanical & Aerospace Engineering (98)
-[100] Psychosocial Engineering (100)
-[165] Autocannon (98)
-[675] Surgically-Enhanced Soldiers (75)
-Counts towards planetary flock: YES
+  [110] Mechanical & Aerospace Engineering (98)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [675] Surgically-Enhanced Soldiers (75)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
 Name: Infantry Legion (DE)
 Nick Name: Inf (DE)
-Tech Score: 921
-Unit Score: 677
-Average Score: 799
-Stat Strength: 351
-Total Strength: 677
-Planet Strength: 677
-Space Strength: 0
-Garrison Strength: 239
-Movement Type: foot
-Move Points: 8
-Spot: 3
-Camouflage: 6
-Agility: 13
-Armor: 8
-Psy Defense: 3
-Rank: 77
-Indirect: 8/11
-Close: 17/14
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 921
+  Unit Score: 677
+  Average Score: 799
+  Stat Strength: 351
+  Total Strength: 677
+  Planet Strength: 677
+  Space Strength: 0
+  Garrison Strength: 239
+Statistics:
+  Movement Type: foot
+  Move Points: 8
+  Spot: 3
+  Camouflage: 6
+  Agility: 13
+  Armor: 8
+  Psy Defense: 3
+  Rank: 77
+Attacks:
+  Indirect: 8/11
+  Close: 17/14
+Load aboard transport: YES
 Upkeep / Maintenance: 3
 Build Cost: 22
-Metal Resource Requirement: 13
-Chemicals Resource Requirement: 1
-Biochems Resource Requirement: 24
-Electronics Resource Requirement: 16
+Build Resource Requirements:
+  Metal: 13
+  Chemicals: 1
+  Biochems: 24
+  Electronics: 16
 Upgrade Infantry Legion to Infantry Legion (DE) at Biochem Plant
 Time to Build / Upgrade: 1
 [3815] Technologies Required to Build Unit (90):
-[110] Mechanical & Aerospace Engineering (98)
-[100] Psychosocial Engineering (100)
-[165] Autocannon (98)
-[3440] Drug-Enhanced Soldiers (65)
-Counts towards planetary flock: YES
+  [110] Mechanical & Aerospace Engineering (98)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [3440] Drug-Enhanced Soldiers (65)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
 Name: Infantry Legion (GE)
 Nick Name: Inf (GE)
-Tech Score: 1386
-Unit Score: 986
-Average Score: 1186
-Stat Strength: 499
-Total Strength: 986
-Planet Strength: 986
-Space Strength: 0
-Garrison Strength: 311
-Movement Type: foot
-Move Points: 10
-Spot: 4
-Camouflage: 7
-Agility: 15
-Armor: 10
-Psy Defense: 3
-Rank: 85
-Indirect: 10/13
-Close: 21/17
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 1386
+  Unit Score: 986
+  Average Score: 1186
+  Stat Strength: 499
+  Total Strength: 986
+  Planet Strength: 986
+  Space Strength: 0
+  Garrison Strength: 311
+Statistics:
+  Movement Type: foot
+  Move Points: 10
+  Spot: 4
+  Camouflage: 7
+  Agility: 15
+  Armor: 10
+  Psy Defense: 3
+  Rank: 85
+Attacks:
+  Indirect: 10/13
+  Close: 21/17
+Load aboard transport: YES
 Upkeep / Maintenance: 4
 Build Cost: 15
-Energy Resource Requirement: 4
-Trace Resource Requirement: 1
-Chemicals Resource Requirement: 5
-Biochems Resource Requirement: 10
-Electronics Resource Requirement: 2
-Ceramsteel Resource Requirement: 3
+Build Resource Requirements:
+  Energy: 4
+  Trace: 1
+  Chemicals: 5
+  Biochems: 10
+  Electronics: 2
+  Ceramsteel: 3
 Upgrade Infantry Legion (DE) to Infantry Legion (GE) at Lab
 Time to Build / Upgrade: 1
 [6395] Technologies Required to Build Unit (86):
-[110] Mechanical & Aerospace Engineering (98)
-[100] Psychosocial Engineering (100)
-[165] Autocannon (98)
-[6020] Chemical Shock Legion (49)
-Counts towards planetary flock: YES
+  [110] Mechanical & Aerospace Engineering (98)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [6020] Chemical Shock Legion (49)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
 Name: Infantry Legion (PA)
 Nick Name: Inf (PA)
-Tech Score: 1413
-Unit Score: 996
-Average Score: 1204
-Stat Strength: 499
-Total Strength: 996
-Planet Strength: 996
-Space Strength: 0
-Garrison Strength: 314
-Movement Type: foot
-Move Points: 10
-Spot: 4
-Camouflage: 7
-Agility: 15
-Armor: 10
-Psy Defense: 3
-Rank: 86
-Indirect: 10/14
-Close: 21/17
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 1413
+  Unit Score: 996
+  Average Score: 1204
+  Stat Strength: 499
+  Total Strength: 996
+  Planet Strength: 996
+  Space Strength: 0
+  Garrison Strength: 314
+Statistics:
+  Movement Type: foot
+  Move Points: 10
+  Spot: 4
+  Camouflage: 7
+  Agility: 15
+  Armor: 10
+  Psy Defense: 3
+  Rank: 86
+Attacks:
+  Indirect: 10/14
+  Close: 21/17
+Load aboard transport: YES
 Upkeep / Maintenance: 5
 Build Cost: 18
-Energy Resource Requirement: 9
-Chemicals Resource Requirement: 17
-Biochems Resource Requirement: 2
-Electronics Resource Requirement: 28
-Ceramsteel Resource Requirement: 9
+Build Resource Requirements:
+  Energy: 9
+  Chemicals: 17
+  Biochems: 2
+  Electronics: 28
+  Ceramsteel: 9
 Upgrade Infantry Legion (SE) to Infantry Legion (PA) at Hospital
 Time to Build / Upgrade: 1
 [6550] Technologies Required to Build Unit (88):
-[110] Mechanical & Aerospace Engineering (98)
-[100] Psychosocial Engineering (100)
-[165] Autocannon (98)
-[6175] Prosthetically-Augmented Soldiers (57)
-Counts towards planetary flock: YES
+  [110] Mechanical & Aerospace Engineering (98)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [6175] Prosthetically-Augmented Soldiers (57)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
 Name: Infantry Legion (CE)
 Nick Name: Inf (CE)
-Tech Score: 1788
-Unit Score: 1292
-Average Score: 1540
-Stat Strength: 640
-Total Strength: 1292
-Planet Strength: 1292
-Space Strength: 0
-Garrison Strength: 372
-Movement Type: foot
-Move Points: 12
-Spot: 4
-Camouflage: 8
-Agility: 16
-Armor: 12
-Psy Defense: 4
-Rank: 93
-Indirect: 12/16
-Close: 23/20
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 1788
+  Unit Score: 1292
+  Average Score: 1540
+  Stat Strength: 640
+  Total Strength: 1292
+  Planet Strength: 1292
+  Space Strength: 0
+  Garrison Strength: 372
+Statistics:
+  Movement Type: foot
+  Move Points: 12
+  Spot: 4
+  Camouflage: 8
+  Agility: 16
+  Armor: 12
+  Psy Defense: 4
+  Rank: 93
+Attacks:
+  Indirect: 12/16
+  Close: 23/20
+Load aboard transport: YES
 Upkeep / Maintenance: 5
 Build Cost: 35
-Energy Resource Requirement: 8
-Metal Resource Requirement: 3
-Exotica Resource Requirement: 1
-Chemicals Resource Requirement: 10
-Biochems Resource Requirement: 2
-Ceramsteel Resource Requirement: 4
+Build Resource Requirements:
+  Energy: 8
+  Metal: 3
+  Exotica: 1
+  Chemicals: 10
+  Biochems: 2
+  Ceramsteel: 4
 Upgrade Infantry Legion (PA) to Infantry Legion (CE) at Lab
 Time to Build / Upgrade: 1
 [8975] Technologies Required to Build Unit (86):
-[110] Mechanical & Aerospace Engineering (98)
-[100] Psychosocial Engineering (100)
-[165] Autocannon (98)
-[8600] Cybernetically-Enhanced Soldiers (48)
-Counts towards planetary flock: YES
+  [110] Mechanical & Aerospace Engineering (98)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [8600] Cybernetically-Enhanced Soldiers (48)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
 Name: Infantry Legion (AVE)
 Nick Name: Inf (AVE)
-Tech Score: 1850
-Unit Score: 1312
-Average Score: 1581
-Stat Strength: 640
-Total Strength: 1312
-Planet Strength: 1312
-Space Strength: 0
-Garrison Strength: 378
-Movement Type: foot
-Move Points: 12
-Spot: 4
-Camouflage: 8
-Agility: 16
-Armor: 12
-Psy Defense: 4
-Rank: 94
-Indirect: 12/16
-Close: 24/20
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 1850
+  Unit Score: 1312
+  Average Score: 1581
+  Stat Strength: 640
+  Total Strength: 1312
+  Planet Strength: 1312
+  Space Strength: 0
+  Garrison Strength: 378
+Statistics:
+  Movement Type: foot
+  Move Points: 12
+  Spot: 4
+  Camouflage: 8
+  Agility: 16
+  Armor: 12
+  Psy Defense: 4
+  Rank: 94
+Attacks:
+  Indirect: 12/16
+  Close: 24/20
+Load aboard transport: YES
 Upkeep / Maintenance: 4
 Build Cost: 28
-Energy Resource Requirement: 4
-Chemicals Resource Requirement: 4
-Biochems Resource Requirement: 6
+Build Resource Requirements:
+  Energy: 4
+  Chemicals: 4
+  Biochems: 6
 Upgrade Infantry Legion (GE) to Infantry Legion (AVE) at Lab
 Time to Build / Upgrade: 1
 [9275] Technologies Required to Build Unit (80):
-[110] Mechanical & Aerospace Engineering (98)
-[100] Psychosocial Engineering (100)
-[165] Autocannon (98)
-[8900] Genetically-Enhanced Warriors (25)
-Counts towards planetary flock: YES
+  [110] Mechanical & Aerospace Engineering (98)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [8900] Genetically-Enhanced Warriors (25)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
 Name: Infantry Legion (ME)
 Nick Name: Inf (ME)
-Tech Score: 1401
-Unit Score: 1562
-Average Score: 1481
-Stat Strength: 1030
-Total Strength: 1562
-Planet Strength: 1562
-Space Strength: 0
-Garrison Strength: 340
-Movement Type: foot
-Move Points: 21
-Spot: 4
-Camouflage: 6
-Agility: 20
-Armor: 11
-Psy Defense: 4
-Rank: 90
-Indirect: 11/14
-Close: 21/18
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 1401
+  Unit Score: 1562
+  Average Score: 1481
+  Stat Strength: 1030
+  Total Strength: 1562
+  Planet Strength: 1562
+  Space Strength: 0
+  Garrison Strength: 340
+Statistics:
+  Movement Type: foot
+  Move Points: 21
+  Spot: 4
+  Camouflage: 6
+  Agility: 20
+  Armor: 11
+  Psy Defense: 4
+  Rank: 90
+Attacks:
+  Indirect: 11/14
+  Close: 21/18
+Load aboard transport: YES
 Upkeep / Maintenance: 4
 Build Cost: 35
-Food Resource Requirement: 2
-Energy Resource Requirement: 15
-Exotica Resource Requirement: 3
-Chemicals Resource Requirement: 32
-Electronics Resource Requirement: 31
-Ceramsteel Resource Requirement: 5
+Build Resource Requirements:
+  Food: 2
+  Energy: 15
+  Exotica: 3
+  Chemicals: 32
+  Electronics: 31
+  Ceramsteel: 5
 Upgrade Infantry Legion to Infantry Legion (ME) at Factory
 Time to Build / Upgrade: 2
 [6220] Technology Required to Build Unit (80):
-[6220] Mechanically-Enhanced Soldiers (80)
-Counts towards planetary flock: YES
+  [6220] Mechanically-Enhanced Soldiers (80)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --11--
 Name: Infantry Legion (MF)
 Nick Name: Inf (MF)
-Tech Score: 3182
-Unit Score: 2128
-Average Score: 2655
-Stat Strength: 986
-Total Strength: 2128
-Planet Strength: 2128
-Space Strength: 0
-Garrison Strength: 532
-Movement Type: foot
-Move Points: 16
-Spot: 5
-Camouflage: 10
-Agility: 18
-Armor: 16
-Psy Defense: 5
-Rank: 114
-Indirect: 16/21
-Close: 31/26
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 3182
+  Unit Score: 2128
+  Average Score: 2655
+  Stat Strength: 986
+  Total Strength: 2128
+  Planet Strength: 2128
+  Space Strength: 0
+  Garrison Strength: 532
+Statistics:
+  Movement Type: foot
+  Move Points: 16
+  Spot: 5
+  Camouflage: 10
+  Agility: 18
+  Armor: 16
+  Psy Defense: 5
+  Rank: 114
+Attacks:
+  Indirect: 16/21
+  Close: 31/26
+Load aboard transport: YES
 Upkeep / Maintenance: 31
 Build Cost: 272
-Biochems Resource Requirement: 6
-Wetware Resource Requirement: 10
-Monopols Resource Requirement: 32
+Build Resource Requirements:
+  Biochems: 6
+  Wetware: 10
+  Monopols: 32
 Upgrade Infantry Legion (CE) to Infantry Legion (MF) at Wetware
 Time to Build / Upgrade: 2
 [18950] Technologies Required to Build Unit (83):
-[110] Mechanical & Aerospace Engineering (98)
-[100] Psychosocial Engineering (100)
-[165] Autocannon (98)
-[18575] Machine-Fused Soldiers (35)
-Counts towards planetary flock: YES
+  [110] Mechanical & Aerospace Engineering (98)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [18575] Machine-Fused Soldiers (35)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --12--
 Name: Infantry Legion (NE)
 Nick Name: Inf (NE)
-Tech Score: 3872
-Unit Score: 2697
-Average Score: 3285
-Stat Strength: 1291
-Total Strength: 2697
-Planet Strength: 2697
-Space Strength: 0
-Garrison Strength: 654
-Movement Type: foot
-Move Points: 17
-Spot: 5
-Camouflage: 16
-Agility: 19
-Armor: 18
-Psy Defense: 6
-Rank: 123
-Indirect: 17/23
-Close: 35/29
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 3872
+  Unit Score: 2697
+  Average Score: 3285
+  Stat Strength: 1291
+  Total Strength: 2697
+  Planet Strength: 2697
+  Space Strength: 0
+  Garrison Strength: 654
+Statistics:
+  Movement Type: foot
+  Move Points: 17
+  Spot: 5
+  Camouflage: 16
+  Agility: 19
+  Armor: 18
+  Psy Defense: 6
+  Rank: 123
+Attacks:
+  Indirect: 17/23
+  Close: 35/29
+Load aboard transport: YES
 Upkeep / Maintenance: 22
 Build Cost: 187
-Wetware Resource Requirement: 11
-Monopols Resource Requirement: 17
+Build Resource Requirements:
+  Wetware: 11
+  Monopols: 17
 Upgrade Infantry Legion (AVE) to Infantry Legion (NE) at Fusorium
 Time to Build / Upgrade: 1
 [24130] Technology Required to Build Unit (32):
-[24130] Neumonically-Enhanced Soldiers (32)
-Counts towards planetary flock: YES
+  [24130] Neumonically-Enhanced Soldiers (32)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

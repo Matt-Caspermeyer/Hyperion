@@ -3,313 +3,344 @@ All units of the unit class Reconnaissance Monoplane are listed herein (8 in tot
 --1--
 Name: Reconnaissance Monoplane
 Nick Name: A-MR
-Tech Score: 194
-Unit Score: 287
-Average Score: 240
-Stat Strength: 287
-Total Strength: 287
-Planet Strength: 287
-Space Strength: 0
-Garrison Strength: 86
-Movement Type: air
-Move Points: 11
-Spot: 8
-Camouflage: 3
-Agility: 8
-Armor: 5
-Psy Defense: 2
-Rank: 77
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 194
+  Unit Score: 287
+  Average Score: 240
+  Stat Strength: 287
+  Total Strength: 287
+  Planet Strength: 287
+  Space Strength: 0
+  Garrison Strength: 86
+Statistics:
+  Movement Type: air
+  Move Points: 11
+  Spot: 8
+  Camouflage: 3
+  Agility: 8
+  Armor: 5
+  Psy Defense: 2
+  Rank: 77
+Load aboard transport: YES
 Upkeep / Maintenance: 7
 Build Cost: 67
-Food Resource Requirement: 26
-Energy Resource Requirement: 23
-Metal Resource Requirement: 20
-Trace Resource Requirement: 21
-Exotica Resource Requirement: 26
-Chemicals Resource Requirement: 27
-Electronics Resource Requirement: 16
+Build Resource Requirements:
+  Food: 26
+  Energy: 23
+  Metal: 20
+  Trace: 21
+  Exotica: 26
+  Chemicals: 27
+  Electronics: 16
 Build Reconnaissance Monoplane in Factory
 Time to Build / Upgrade: 3
 [445] Technology Required to Build Unit (94):
-[445] Monoplane (94)
-Counts towards planetary flock: YES
+  [445] Monoplane (94)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Attack Fighter Monoplane
 Nick Name: A-MAF
-Tech Score: 194
-Unit Score: 384
-Average Score: 289
-Stat Strength: 321
-Total Strength: 384
-Planet Strength: 384
-Space Strength: 0
-Garrison Strength: 135
-Movement Type: air
-Move Points: 8
-Spot: 8
-Camouflage: 2
-Agility: 12
-Armor: 6
-Psy Defense: 3
-Rank: 112
-Air: 4/5
-Indirect: 5/5
-Direct: 3/6
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 194
+  Unit Score: 384
+  Average Score: 289
+  Stat Strength: 321
+  Total Strength: 384
+  Planet Strength: 384
+  Space Strength: 0
+  Garrison Strength: 135
+Statistics:
+  Movement Type: air
+  Move Points: 8
+  Spot: 8
+  Camouflage: 2
+  Agility: 12
+  Armor: 6
+  Psy Defense: 3
+  Rank: 112
+Attacks:
+  Air: 4/5
+  Indirect: 5/5
+  Direct: 3/6
+Load aboard transport: YES
 Upkeep / Maintenance: 10
 Build Cost: 102
-Food Resource Requirement: 26
-Energy Resource Requirement: 37
-Metal Resource Requirement: 31
-Trace Resource Requirement: 33
-Exotica Resource Requirement: 25
-Chemicals Resource Requirement: 38
-Electronics Resource Requirement: 25
+Build Resource Requirements:
+  Food: 26
+  Energy: 37
+  Metal: 31
+  Trace: 33
+  Exotica: 25
+  Chemicals: 38
+  Electronics: 25
 Build Attack Fighter Monoplane in Factory
 Time to Build / Upgrade: 4
 [445] Technology Required to Build Unit (94):
-[445] Monoplane (94)
-Counts towards planetary flock: YES
+  [445] Monoplane (94)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
 Name: Bomber Monoplane
 Nick Name: A-MB
-Tech Score: 194
-Unit Score: 384
-Average Score: 289
-Stat Strength: 284
-Total Strength: 384
-Planet Strength: 384
-Space Strength: 0
-Garrison Strength: 121
-Movement Type: air
-Move Points: 10
-Spot: 6
-Camouflage: 2
-Agility: 8
-Armor: 8
-Psy Defense: 4
-Rank: 152
-Air: 2/10
-Indirect: 4/20
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 194
+  Unit Score: 384
+  Average Score: 289
+  Stat Strength: 284
+  Total Strength: 384
+  Planet Strength: 384
+  Space Strength: 0
+  Garrison Strength: 121
+Statistics:
+  Movement Type: air
+  Move Points: 10
+  Spot: 6
+  Camouflage: 2
+  Agility: 8
+  Armor: 8
+  Psy Defense: 4
+  Rank: 152
+Attacks:
+  Air: 2/10
+  Indirect: 4/20
+Load aboard transport: YES
 Upkeep / Maintenance: 12
 Build Cost: 120
-Food Resource Requirement: 21
-Energy Resource Requirement: 111
-Metal Resource Requirement: 55
-Trace Resource Requirement: 17
-Exotica Resource Requirement: 21
-Chemicals Resource Requirement: 45
-Electronics Resource Requirement: 12
+Build Resource Requirements:
+  Food: 21
+  Energy: 111
+  Metal: 55
+  Trace: 17
+  Exotica: 21
+  Chemicals: 45
+  Electronics: 12
 Build Bomber Monoplane in Factory
 Time to Build / Upgrade: 5
 [445] Technology Required to Build Unit (94):
-[445] Monoplane (94)
-Counts towards planetary flock: YES
+  [445] Monoplane (94)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
 Name: Fighter Monoplane
 Nick Name: A-MF
-Tech Score: 194
-Unit Score: 384
-Average Score: 289
-Stat Strength: 315
-Total Strength: 384
-Planet Strength: 384
-Space Strength: 0
-Garrison Strength: 128
-Movement Type: air
-Move Points: 9
-Spot: 8
-Camouflage: 2
-Agility: 11
-Armor: 6
-Psy Defense: 3
-Rank: 134
-Air: 6/10
-Indirect: 3/3
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 194
+  Unit Score: 384
+  Average Score: 289
+  Stat Strength: 315
+  Total Strength: 384
+  Planet Strength: 384
+  Space Strength: 0
+  Garrison Strength: 128
+Statistics:
+  Movement Type: air
+  Move Points: 9
+  Spot: 8
+  Camouflage: 2
+  Agility: 11
+  Armor: 6
+  Psy Defense: 3
+  Rank: 134
+Attacks:
+  Air: 6/10
+  Indirect: 3/3
+Load aboard transport: YES
 Upkeep / Maintenance: 11
 Build Cost: 109
-Food Resource Requirement: 26
-Energy Resource Requirement: 42
-Metal Resource Requirement: 31
-Trace Resource Requirement: 33
-Exotica Resource Requirement: 26
-Chemicals Resource Requirement: 47
-Electronics Resource Requirement: 25
+Build Resource Requirements:
+  Food: 26
+  Energy: 42
+  Metal: 31
+  Trace: 33
+  Exotica: 26
+  Chemicals: 47
+  Electronics: 25
 Build Fighter Monoplane in Factory
 Time to Build / Upgrade: 4
 [445] Technology Required to Build Unit (94):
-[445] Monoplane (94)
-Counts towards planetary flock: YES
+  [445] Monoplane (94)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
 Name: Trench Strafer Monoplane
 Nick Name: A-MTS
-Tech Score: 194
-Unit Score: 384
-Average Score: 289
-Stat Strength: 303
-Total Strength: 384
-Planet Strength: 384
-Space Strength: 0
-Garrison Strength: 145
-Movement Type: air
-Move Points: 7
-Spot: 6
-Camouflage: 2
-Agility: 13
-Armor: 6
-Psy Defense: 3
-Rank: 115
-Air: 2/6
-Direct: 3/9
-Close: 7/6
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 194
+  Unit Score: 384
+  Average Score: 289
+  Stat Strength: 303
+  Total Strength: 384
+  Planet Strength: 384
+  Space Strength: 0
+  Garrison Strength: 145
+Statistics:
+  Movement Type: air
+  Move Points: 7
+  Spot: 6
+  Camouflage: 2
+  Agility: 13
+  Armor: 6
+  Psy Defense: 3
+  Rank: 115
+Attacks:
+  Air: 2/6
+  Direct: 3/9
+  Close: 7/6
+Load aboard transport: YES
 Upkeep / Maintenance: 12
 Build Cost: 118
-Food Resource Requirement: 22
-Energy Resource Requirement: 50
-Metal Resource Requirement: 31
-Trace Resource Requirement: 38
-Exotica Resource Requirement: 22
-Chemicals Resource Requirement: 58
-Electronics Resource Requirement: 28
+Build Resource Requirements:
+  Food: 22
+  Energy: 50
+  Metal: 31
+  Trace: 38
+  Exotica: 22
+  Chemicals: 58
+  Electronics: 28
 Build Trench Strafer Monoplane in Factory
 Time to Build / Upgrade: 5
 [445] Technology Required to Build Unit (94):
-[445] Monoplane (94)
-Counts towards planetary flock: YES
+  [445] Monoplane (94)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
 Name: Battle Monoplane
 Nick Name: A-MBttl
-Tech Score: 265
-Unit Score: 527
-Average Score: 396
-Stat Strength: 422
-Total Strength: 527
-Planet Strength: 527
-Space Strength: 0
-Garrison Strength: 175
-Movement Type: air
-Move Points: 9
-Spot: 6
-Camouflage: 2
-Agility: 16
-Armor: 6
-Psy Defense: 3
-Rank: 143
-Air: 7/8
-Indirect: 7/7
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 265
+  Unit Score: 527
+  Average Score: 396
+  Stat Strength: 422
+  Total Strength: 527
+  Planet Strength: 527
+  Space Strength: 0
+  Garrison Strength: 175
+Statistics:
+  Movement Type: air
+  Move Points: 9
+  Spot: 6
+  Camouflage: 2
+  Agility: 16
+  Armor: 6
+  Psy Defense: 3
+  Rank: 143
+Attacks:
+  Air: 7/8
+  Indirect: 7/7
+Load aboard transport: YES
 Upkeep / Maintenance: 7
 Build Cost: 72
-Food Resource Requirement: 17
-Energy Resource Requirement: 29
-Metal Resource Requirement: 17
-Trace Resource Requirement: 24
-Exotica Resource Requirement: 17
-Chemicals Resource Requirement: 29
-Electronics Resource Requirement: 17
+Build Resource Requirements:
+  Food: 17
+  Energy: 29
+  Metal: 17
+  Trace: 24
+  Exotica: 17
+  Chemicals: 29
+  Electronics: 17
 Build Battle Monoplane in Factory
 Time to Build / Upgrade: 4
 [1055] Technologies Required to Build Unit (94):
-[445] Monoplane (94)
-[610] Air-Air Rockets (94)
-Counts towards planetary flock: YES
+  [445] Monoplane (94)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
 Name: Large Bomber Monoplane
 Nick Name: A-MLB
-Tech Score: 265
-Unit Score: 527
-Average Score: 396
-Stat Strength: 410
-Total Strength: 527
-Planet Strength: 527
-Space Strength: 0
-Garrison Strength: 158
-Movement Type: air
-Move Points: 11
-Spot: 6
-Camouflage: 2
-Agility: 13
-Armor: 8
-Psy Defense: 4
-Rank: 152
-Air: 3/5
-Indirect: 6/17
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 265
+  Unit Score: 527
+  Average Score: 396
+  Stat Strength: 410
+  Total Strength: 527
+  Planet Strength: 527
+  Space Strength: 0
+  Garrison Strength: 158
+Statistics:
+  Movement Type: air
+  Move Points: 11
+  Spot: 6
+  Camouflage: 2
+  Agility: 13
+  Armor: 8
+  Psy Defense: 4
+  Rank: 152
+Attacks:
+  Air: 3/5
+  Indirect: 6/17
+Load aboard transport: YES
 Upkeep / Maintenance: 7
 Build Cost: 71
-Food Resource Requirement: 16
-Energy Resource Requirement: 48
-Metal Resource Requirement: 30
-Trace Resource Requirement: 15
-Exotica Resource Requirement: 16
-Chemicals Resource Requirement: 24
-Electronics Resource Requirement: 11
+Build Resource Requirements:
+  Food: 16
+  Energy: 48
+  Metal: 30
+  Trace: 15
+  Exotica: 16
+  Chemicals: 24
+  Electronics: 11
 Build Large Bomber Monoplane in Factory
 Time to Build / Upgrade: 4
 [1055] Technologies Required to Build Unit (94):
-[445] Monoplane (94)
-[610] Air-Air Rockets (94)
-Counts towards planetary flock: YES
+  [445] Monoplane (94)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
 Name: Giant Bomber Monoplane
 Nick Name: A-MGB
-Tech Score: 265
-Unit Score: 528
-Average Score: 396
-Stat Strength: 409
-Total Strength: 528
-Planet Strength: 528
-Space Strength: 0
-Garrison Strength: 152
-Movement Type: air
-Move Points: 12
-Spot: 6
-Camouflage: 2
-Agility: 10
-Armor: 10
-Psy Defense: 5
-Rank: 153
-Indirect: 7/17
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 265
+  Unit Score: 528
+  Average Score: 396
+  Stat Strength: 409
+  Total Strength: 528
+  Planet Strength: 528
+  Space Strength: 0
+  Garrison Strength: 152
+Statistics:
+  Movement Type: air
+  Move Points: 12
+  Spot: 6
+  Camouflage: 2
+  Agility: 10
+  Armor: 10
+  Psy Defense: 5
+  Rank: 153
+Attacks:
+  Indirect: 7/17
+Load aboard transport: YES
 Upkeep / Maintenance: 7
 Build Cost: 67
-Food Resource Requirement: 15
-Energy Resource Requirement: 44
-Metal Resource Requirement: 47
-Trace Resource Requirement: 11
-Exotica Resource Requirement: 15
-Chemicals Resource Requirement: 20
-Electronics Resource Requirement: 7
+Build Resource Requirements:
+  Food: 15
+  Energy: 44
+  Metal: 47
+  Trace: 11
+  Exotica: 15
+  Chemicals: 20
+  Electronics: 7
 Build Giant Bomber Monoplane in Factory
 Time to Build / Upgrade: 4
 [1055] Technologies Required to Build Unit (94):
-[445] Monoplane (94)
-[610] Air-Air Rockets (94)
-Counts towards planetary flock: YES
+  [445] Monoplane (94)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

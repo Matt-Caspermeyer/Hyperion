@@ -3,73 +3,81 @@ All units of the unit class Tertiary are listed herein (2 in total):
 --1--
 Name: Tertiary
 Nick Name: Tertiary
-Tech Score: 63
-Unit Score: 63
-Average Score: 63
-Stat Strength: 50
-Total Strength: 63
-Planet Strength: 63
-Space Strength: 57
-Garrison Strength: 44
-Movement Type: foot
-Move Points: 2
-Spot: 2
-Camouflage: 1
-Agility: 6
-Armor: 1
-Psy Defense: 2
-Rank: 701
-Psychic: 7/1
-Close: 3/2
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 63
+  Unit Score: 63
+  Average Score: 63
+  Stat Strength: 50
+  Total Strength: 63
+  Planet Strength: 63
+  Space Strength: 57
+  Garrison Strength: 44
+Statistics:
+  Movement Type: foot
+  Move Points: 2
+  Spot: 2
+  Camouflage: 1
+  Agility: 6
+  Armor: 1
+  Psy Defense: 2
+  Rank: 701
+Attacks:
+  Psychic: 7/1
+  Close: 3/2
+Load aboard transport: YES
 Clergy - Increases Tithe Skim and Converts Sects
 Upkeep / Maintenance: 5
 Build Cost: 41
-Exotica Resource Requirement: 15
-Gems Resource Requirement: 5
+Build Resource Requirements:
+  Exotica: 15
+  Gems: 5
 Upgrade Peasant to Tertiary at Church
 Time to Build / Upgrade: 1
 [100] Technology Required to Build Unit (100):
-[100] Psychosocial Engineering (100)
-Counts towards planetary flock: YES
+  [100] Psychosocial Engineering (100)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Moneylenders
 Nick Name: Moneylenders
-Tech Score: 306
-Unit Score: 306
-Average Score: 306
-Stat Strength: 247
-Total Strength: 306
-Planet Strength: 306
-Space Strength: 0
-Garrison Strength: 124
-Movement Type: foot
-Move Points: 6
-Spot: 6
-Camouflage: 6
-Agility: 11
-Armor: 3
-Psy Defense: 3
-Rank: 38
-Indirect: 4/4
-Direct: 5/5
-Close: 6/3
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 306
+  Unit Score: 306
+  Average Score: 306
+  Stat Strength: 247
+  Total Strength: 306
+  Planet Strength: 306
+  Space Strength: 0
+  Garrison Strength: 124
+Statistics:
+  Movement Type: foot
+  Move Points: 6
+  Spot: 6
+  Camouflage: 6
+  Agility: 11
+  Armor: 3
+  Psy Defense: 3
+  Rank: 38
+Attacks:
+  Indirect: 4/4
+  Direct: 5/5
+  Close: 6/3
+Load aboard transport: YES
 Upkeep / Maintenance: 6
 Build Cost: 54
-Metal Resource Requirement: 2
-Trace Resource Requirement: 56
-Exotica Resource Requirement: 18
-Chemicals Resource Requirement: 20
-Biochems Resource Requirement: 36
+Build Resource Requirements:
+  Metal: 2
+  Trace: 56
+  Exotica: 18
+  Chemicals: 20
+  Biochems: 36
 Upgrade Peasant to Moneylenders at Church
 Time to Build / Upgrade: 2
 [820] Technologies Required to Build Unit (81):
-[145] Fanaticism (87)
-[675] Surgically-Enhanced Soldiers (75)
-Counts towards planetary flock: YES
+  [145] Fanaticism (87)
+  [675] Surgically-Enhanced Soldiers (75)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

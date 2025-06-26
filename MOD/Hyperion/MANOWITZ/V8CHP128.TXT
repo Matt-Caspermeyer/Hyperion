@@ -3,430 +3,474 @@ All units of the unit class Pathfinder are listed herein (11 in total):
 --1--
 Name: Pathfinder
 Nick Name: Pathfinder
-Tech Score: 763
-Unit Score: 763
-Average Score: 763
-Stat Strength: 656
-Total Strength: 763
-Planet Strength: 763
-Space Strength: 721
-Garrison Strength: 220
-Movement Type: foot
-Move Points: 12
-Spot: 12
-Camouflage: 12
-Agility: 12
-Armor: 4
-Psy Defense: 8
-Rank: 8
-Psychic: 13/5
-Close: 6/7
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 763
+  Unit Score: 763
+  Average Score: 763
+  Stat Strength: 656
+  Total Strength: 763
+  Planet Strength: 763
+  Space Strength: 721
+  Garrison Strength: 220
+Statistics:
+  Movement Type: foot
+  Move Points: 12
+  Spot: 12
+  Camouflage: 12
+  Agility: 12
+  Armor: 4
+  Psy Defense: 8
+  Rank: 8
+Attacks:
+  Psychic: 13/5
+  Close: 6/7
+Load aboard transport: YES
 Upkeep / Maintenance: 11
 Build Cost: 104
-Metal Resource Requirement: 2
-Trace Resource Requirement: 13
-Exotica Resource Requirement: 13
-Chemicals Resource Requirement: 17
-Biochems Resource Requirement: 34
-Electronics Resource Requirement: 25
-Gems Resource Requirement: 12
+Build Resource Requirements:
+  Metal: 2
+  Trace: 13
+  Exotica: 13
+  Chemicals: 17
+  Biochems: 34
+  Electronics: 25
+  Gems: 12
 Upgrade Peasant to Pathfinder at Fort
 Time to Build / Upgrade: 2
 [2875] Technologies Required to Build Unit (89):
-[2605] Biotechnical Simulation (77)
-[145] Composite Armor (97)
-[125] Parapsychology (94)
-Counts towards planetary flock: YES
+  [2605] Biotechnical Simulation (77)
+  [145] Composite Armor (97)
+  [125] Parapsychology (94)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Vislock
 Nick Name: Vislock
-Tech Score: 966
-Unit Score: 861
-Average Score: 914
-Stat Strength: 573
-Total Strength: 861
-Planet Strength: 861
-Space Strength: 861
-Garrison Strength: 304
-Movement Type: foot
-Move Points: 8
-Spot: 8
-Camouflage: 8
-Agility: 16
-Armor: 5
-Psy Defense: 10
-Rank: 9
-Psychic: 18/16
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 966
+  Unit Score: 861
+  Average Score: 914
+  Stat Strength: 573
+  Total Strength: 861
+  Planet Strength: 861
+  Space Strength: 861
+  Garrison Strength: 304
+Statistics:
+  Movement Type: foot
+  Move Points: 8
+  Spot: 8
+  Camouflage: 8
+  Agility: 16
+  Armor: 5
+  Psy Defense: 10
+  Rank: 9
+Attacks:
+  Psychic: 18/16
+Load aboard transport: YES
 Upkeep / Maintenance: 15
 Build Cost: 105
-Food Resource Requirement: 16
-Energy Resource Requirement: 9
-Metal Resource Requirement: 13
-Trace Resource Requirement: 38
-Exotica Resource Requirement: 30
-Chemicals Resource Requirement: 33
-Electronics Resource Requirement: 54
-Gems Resource Requirement: 13
+Build Resource Requirements:
+  Food: 16
+  Energy: 9
+  Metal: 13
+  Trace: 38
+  Exotica: 30
+  Chemicals: 33
+  Electronics: 54
+  Gems: 13
 Upgrade Clergy to Vislock at Church
 Time to Build / Upgrade: 2
 [3790] Technology Required to Build Unit (32):
-[3790] Vislocks (32)
-Counts towards planetary flock: YES
+  [3790] Vislocks (32)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
 Name: Occultist
 Nick Name: Occultist
-Tech Score: 1015
-Unit Score: 909
-Average Score: 962
-Stat Strength: 624
-Total Strength: 909
-Planet Strength: 909
-Space Strength: 909
-Garrison Strength: 303
-Movement Type: foot
-Move Points: 9
-Spot: 9
-Camouflage: 9
-Agility: 16
-Armor: 5
-Psy Defense: 10
-Rank: 10
-Psychic: 19/15
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 1015
+  Unit Score: 909
+  Average Score: 962
+  Stat Strength: 624
+  Total Strength: 909
+  Planet Strength: 909
+  Space Strength: 909
+  Garrison Strength: 303
+Statistics:
+  Movement Type: foot
+  Move Points: 9
+  Spot: 9
+  Camouflage: 9
+  Agility: 16
+  Armor: 5
+  Psy Defense: 10
+  Rank: 10
+Attacks:
+  Psychic: 19/15
+Load aboard transport: YES
 Upkeep / Maintenance: 14
 Build Cost: 99
-Food Resource Requirement: 20
-Energy Resource Requirement: 11
-Metal Resource Requirement: 13
-Trace Resource Requirement: 43
-Exotica Resource Requirement: 35
-Chemicals Resource Requirement: 36
-Electronics Resource Requirement: 61
-Gems Resource Requirement: 10
+Build Resource Requirements:
+  Food: 20
+  Energy: 11
+  Metal: 13
+  Trace: 43
+  Exotica: 35
+  Chemicals: 36
+  Electronics: 61
+  Gems: 10
 Upgrade Clergy to Occultist at Church
 Time to Build / Upgrade: 2
 [4050] Technology Required to Build Unit (48):
-[4050] Occultists (48)
-Counts towards planetary flock: YES
+  [4050] Occultists (48)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
 Name: Pyrokinetic
 Nick Name: Pyrokinetic
-Tech Score: 1186
-Unit Score: 1057
-Average Score: 1121
-Stat Strength: 657
-Total Strength: 1057
-Planet Strength: 1057
-Space Strength: 1057
-Garrison Strength: 352
-Movement Type: foot
-Move Points: 9
-Spot: 9
-Camouflage: 9
-Agility: 17
-Armor: 5
-Psy Defense: 10
-Rank: 11
-Psychic: 20/20
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 1186
+  Unit Score: 1057
+  Average Score: 1121
+  Stat Strength: 657
+  Total Strength: 1057
+  Planet Strength: 1057
+  Space Strength: 1057
+  Garrison Strength: 352
+Statistics:
+  Movement Type: foot
+  Move Points: 9
+  Spot: 9
+  Camouflage: 9
+  Agility: 17
+  Armor: 5
+  Psy Defense: 10
+  Rank: 11
+Attacks:
+  Psychic: 20/20
+Load aboard transport: YES
 Upkeep / Maintenance: 18
 Build Cost: 137
-Food Resource Requirement: 22
-Energy Resource Requirement: 13
-Metal Resource Requirement: 13
-Trace Resource Requirement: 45
-Exotica Resource Requirement: 38
-Chemicals Resource Requirement: 39
-Electronics Resource Requirement: 64
-Gems Resource Requirement: 17
+Build Resource Requirements:
+  Food: 22
+  Energy: 13
+  Metal: 13
+  Trace: 45
+  Exotica: 38
+  Chemicals: 39
+  Electronics: 64
+  Gems: 17
 Upgrade Clergy to Pyrokinetic at Church
 Time to Build / Upgrade: 3
 [4980] Technology Required to Build Unit (39):
-[4980] Pyrokinetics (39)
-Counts towards planetary flock: YES
+  [4980] Pyrokinetics (39)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
 Name: Reflector
 Nick Name: Reflector
-Tech Score: 1186
-Unit Score: 1059
-Average Score: 1122
-Stat Strength: 736
-Total Strength: 1059
-Planet Strength: 1059
-Space Strength: 1059
-Garrison Strength: 334
-Movement Type: foot
-Move Points: 10
-Spot: 10
-Camouflage: 10
-Agility: 16
-Armor: 6
-Psy Defense: 12
-Rank: 11
-Psychic: 19/17
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 1186
+  Unit Score: 1059
+  Average Score: 1122
+  Stat Strength: 736
+  Total Strength: 1059
+  Planet Strength: 1059
+  Space Strength: 1059
+  Garrison Strength: 334
+Statistics:
+  Movement Type: foot
+  Move Points: 10
+  Spot: 10
+  Camouflage: 10
+  Agility: 16
+  Armor: 6
+  Psy Defense: 12
+  Rank: 11
+Attacks:
+  Psychic: 19/17
+Load aboard transport: YES
 Upkeep / Maintenance: 16
 Build Cost: 114
-Food Resource Requirement: 24
-Energy Resource Requirement: 13
-Metal Resource Requirement: 20
-Trace Resource Requirement: 48
-Exotica Resource Requirement: 41
-Chemicals Resource Requirement: 39
-Electronics Resource Requirement: 69
-Gems Resource Requirement: 11
+Build Resource Requirements:
+  Food: 24
+  Energy: 13
+  Metal: 20
+  Trace: 48
+  Exotica: 41
+  Chemicals: 39
+  Electronics: 69
+  Gems: 11
 Upgrade Clergy to Reflector at Church
 Time to Build / Upgrade: 3
 [4980] Technology Required to Build Unit (41):
-[4980] Psychic Turners (41)
-Counts towards planetary flock: YES
+  [4980] Psychic Turners (41)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
 Name: Cryokinetic
 Nick Name: Cryokinetic
-Tech Score: 1186
-Unit Score: 1061
-Average Score: 1123
-Stat Strength: 665
-Total Strength: 1061
-Planet Strength: 1061
-Space Strength: 1061
-Garrison Strength: 401
-Movement Type: foot
-Move Points: 7
-Spot: 9
-Camouflage: 11
-Agility: 17
-Armor: 5
-Psy Defense: 10
-Rank: 11
-Psychic: 18/22
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 1186
+  Unit Score: 1061
+  Average Score: 1123
+  Stat Strength: 665
+  Total Strength: 1061
+  Planet Strength: 1061
+  Space Strength: 1061
+  Garrison Strength: 401
+Statistics:
+  Movement Type: foot
+  Move Points: 7
+  Spot: 9
+  Camouflage: 11
+  Agility: 17
+  Armor: 5
+  Psy Defense: 10
+  Rank: 11
+Attacks:
+  Psychic: 18/22
+Load aboard transport: YES
 Upkeep / Maintenance: 20
 Build Cost: 158
-Food Resource Requirement: 18
-Energy Resource Requirement: 10
-Metal Resource Requirement: 13
-Trace Resource Requirement: 53
-Exotica Resource Requirement: 33
-Chemicals Resource Requirement: 34
-Electronics Resource Requirement: 75
-Gems Resource Requirement: 21
+Build Resource Requirements:
+  Food: 18
+  Energy: 10
+  Metal: 13
+  Trace: 53
+  Exotica: 33
+  Chemicals: 34
+  Electronics: 75
+  Gems: 21
 Upgrade Clergy to Cryokinetic at Church
 Time to Build / Upgrade: 3
 [4980] Technology Required to Build Unit (31):
-[4980] Cryokinetics (31)
-Counts towards planetary flock: YES
+  [4980] Cryokinetics (31)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
 Name: Electrokinetic
 Nick Name: E-Kinetic
-Tech Score: 1326
-Unit Score: 1181
-Average Score: 1253
-Stat Strength: 749
-Total Strength: 1181
-Planet Strength: 1181
-Space Strength: 1181
-Garrison Strength: 373
-Movement Type: foot
-Move Points: 10
-Spot: 10
-Camouflage: 10
-Agility: 18
-Armor: 5
-Psy Defense: 10
-Rank: 13
-Psychic: 18/24
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 1326
+  Unit Score: 1181
+  Average Score: 1253
+  Stat Strength: 749
+  Total Strength: 1181
+  Planet Strength: 1181
+  Space Strength: 1181
+  Garrison Strength: 373
+Statistics:
+  Movement Type: foot
+  Move Points: 10
+  Spot: 10
+  Camouflage: 10
+  Agility: 18
+  Armor: 5
+  Psy Defense: 10
+  Rank: 13
+Attacks:
+  Psychic: 18/24
+Load aboard transport: YES
 Upkeep / Maintenance: 17
 Build Cost: 121
-Food Resource Requirement: 2
-Metal Resource Requirement: 12
-Trace Resource Requirement: 8
-Exotica Resource Requirement: 9
-Chemicals Resource Requirement: 21
-Electronics Resource Requirement: 22
-Gems Resource Requirement: 23
+Build Resource Requirements:
+  Food: 2
+  Metal: 12
+  Trace: 8
+  Exotica: 9
+  Chemicals: 21
+  Electronics: 22
+  Gems: 23
 Upgrade Clergy to Electrokinetic at Church
 Time to Build / Upgrade: 1
 [5780] Technology Required to Build Unit (20):
-[5780] Electrokinetics (20)
-Counts towards planetary flock: YES
+  [5780] Electrokinetics (20)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
 Name: Wraith
 Nick Name: Wraith
-Tech Score: 1241
-Unit Score: 1241
-Average Score: 1241
-Stat Strength: 1016
-Total Strength: 1241
-Planet Strength: 1241
-Space Strength: 1241
-Garrison Strength: 392
-Movement Type: foot
-Move Points: 10
-Spot: 12
-Camouflage: 16
-Agility: 14
-Armor: 8
-Psy Defense: 16
-Rank: 678
-Psychic: 15/15
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 1241
+  Unit Score: 1241
+  Average Score: 1241
+  Stat Strength: 1016
+  Total Strength: 1241
+  Planet Strength: 1241
+  Space Strength: 1241
+  Garrison Strength: 392
+Statistics:
+  Movement Type: foot
+  Move Points: 10
+  Spot: 12
+  Camouflage: 16
+  Agility: 14
+  Armor: 8
+  Psy Defense: 16
+  Rank: 678
+Attacks:
+  Psychic: 15/15
+Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 Upkeep / Maintenance: 45
 Build Cost: 405
-Food Resource Requirement: 24
-Energy Resource Requirement: 9
-Metal Resource Requirement: 37
-Trace Resource Requirement: 78
-Exotica Resource Requirement: 41
-Chemicals Resource Requirement: 34
-Electronics Resource Requirement: 112
-Gems Resource Requirement: 7
+Build Resource Requirements:
+  Food: 24
+  Energy: 9
+  Metal: 37
+  Trace: 78
+  Exotica: 41
+  Chemicals: 34
+  Electronics: 112
+  Gems: 7
 Upgrade Clergy to Wraith at Church
 Time to Build / Upgrade: 3
 [5290] Technology Required to Build Unit (29):
-[5290] Wraiths (29)
-Counts towards planetary flock: YES
+  [5290] Wraiths (29)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --9--
 Name: Cyber Mage
 Nick Name: Cyber Mage
-Tech Score: 1819
-Unit Score: 1735
-Average Score: 1777
-Stat Strength: 1119
-Total Strength: 1735
-Planet Strength: 1735
-Space Strength: 1735
-Garrison Strength: 463
-Movement Type: foot
-Move Points: 14
-Spot: 9
-Camouflage: 9
-Agility: 21
-Armor: 8
-Psy Defense: 16
-Rank: 684
-Psychic: 28/22
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 1819
+  Unit Score: 1735
+  Average Score: 1777
+  Stat Strength: 1119
+  Total Strength: 1735
+  Planet Strength: 1735
+  Space Strength: 1735
+  Garrison Strength: 463
+Statistics:
+  Movement Type: foot
+  Move Points: 14
+  Spot: 9
+  Camouflage: 9
+  Agility: 21
+  Armor: 8
+  Psy Defense: 16
+  Rank: 684
+Attacks:
+  Psychic: 28/22
+Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 Upkeep / Maintenance: 51
 Build Cost: 464
-Metal Resource Requirement: 8
-Trace Resource Requirement: 9
-Chemicals Resource Requirement: 25
-Electronics Resource Requirement: 19
-Ceramsteel Resource Requirement: 14
-Gems Resource Requirement: 27
+Build Resource Requirements:
+  Metal: 8
+  Trace: 9
+  Chemicals: 25
+  Electronics: 19
+  Ceramsteel: 14
+  Gems: 27
 Upgrade Clergy to Cyber Mage at Fort
 Time to Build / Upgrade: 2
 [9215] Technologies Required to Build Unit (48):
-[3790] Vislocks (32)
-[5425] Cybernetics (63)
-Counts towards planetary flock: YES
+  [3790] Vislocks (32)
+  [5425] Cybernetics (63)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --10--
 Name: Warlock
 Nick Name: Warlock
-Tech Score: 2660
-Unit Score: 2497
-Average Score: 2579
-Stat Strength: 2097
-Total Strength: 2497
-Planet Strength: 2497
-Space Strength: 2497
-Garrison Strength: 588
-Movement Type: foot
-Move Points: 18
-Spot: 18
-Camouflage: 18
-Agility: 25
-Armor: 10
-Psy Defense: 20
-Rank: 692
-Psychic: 20/20
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 2660
+  Unit Score: 2497
+  Average Score: 2579
+  Stat Strength: 2097
+  Total Strength: 2497
+  Planet Strength: 2497
+  Space Strength: 2497
+  Garrison Strength: 588
+Statistics:
+  Movement Type: foot
+  Move Points: 18
+  Spot: 18
+  Camouflage: 18
+  Agility: 25
+  Armor: 10
+  Psy Defense: 20
+  Rank: 692
+Attacks:
+  Psychic: 20/20
+Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 Upkeep / Maintenance: 26
 Build Cost: 218
-Metal Resource Requirement: 4
-Trace Resource Requirement: 14
-Chemicals Resource Requirement: 8
-Biochems Resource Requirement: 38
-Electronics Resource Requirement: 35
-Gems Resource Requirement: 5
+Build Resource Requirements:
+  Metal: 4
+  Trace: 14
+  Chemicals: 8
+  Biochems: 38
+  Electronics: 35
+  Gems: 5
 Upgrade Clergy to Warlock at Church
 Time to Build / Upgrade: 2
 [14630] Technology Required to Build Unit (7):
-[14630] Warlocks (7)
-Counts towards planetary flock: YES
+  [14630] Warlocks (7)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --11--
 Name: Mechanized Demon
 Nick Name: Mech. Demon
-Tech Score: 3597
-Unit Score: 3596
-Average Score: 3597
-Stat Strength: 3029
-Total Strength: 3596
-Planet Strength: 3596
-Space Strength: 3596
-Garrison Strength: 784
-Movement Type: foot
-Move Points: 21
-Spot: 22
-Camouflage: 22
-Agility: 30
-Armor: 12
-Psy Defense: 24
-Rank: 702
-Psychic: 21/27
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 3597
+  Unit Score: 3596
+  Average Score: 3597
+  Stat Strength: 3029
+  Total Strength: 3596
+  Planet Strength: 3596
+  Space Strength: 3596
+  Garrison Strength: 784
+Statistics:
+  Movement Type: foot
+  Move Points: 21
+  Spot: 22
+  Camouflage: 22
+  Agility: 30
+  Armor: 12
+  Psy Defense: 24
+  Rank: 702
+Attacks:
+  Psychic: 21/27
+Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 Upkeep / Maintenance: 56
 Build Cost: 510
-Metal Resource Requirement: 1
-Trace Resource Requirement: 10
-Chemicals Resource Requirement: 11
-Biochems Resource Requirement: 19
-Electronics Resource Requirement: 22
-Ceramsteel Resource Requirement: 5
-Monopols Resource Requirement: 15
-Gems Resource Requirement: 8
+Build Resource Requirements:
+  Metal: 1
+  Trace: 10
+  Chemicals: 11
+  Biochems: 19
+  Electronics: 22
+  Ceramsteel: 5
+  Monopols: 15
+  Gems: 8
 Upgrade Clergy to Mechanized Demon at Church
 Time to Build / Upgrade: 2
 [21875] Technology Required to Build Unit (4):
-[21875] Mechanized Demons (4)
-Counts towards planetary flock: YES
+  [21875] Mechanized Demons (4)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

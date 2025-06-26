@@ -3,212 +3,232 @@ All units of the unit class Space Carrier are listed herein (5 in total):
 --1--
 Name: Space Carrier
 Nick Name: SS-CV
-Tech Score: 337
-Unit Score: 671
-Average Score: 504
-Stat Strength: 588
-Total Strength: 671
-Planet Strength: 0
-Space Strength: 671
-Garrison Strength: 0
-Movement Type: space
-Move Points: 2
-Spot: 8
-Camouflage: 2
-Agility: 2
-Armor: 16
-Psy Defense: 16
-Rank: 159
-Direct Space: 3/11
-Closed Space: 5/10
+Scores & Strengths:
+  Tech Score: 337
+  Unit Score: 671
+  Average Score: 504
+  Stat Strength: 588
+  Total Strength: 671
+  Planet Strength: 0
+  Space Strength: 671
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 2
+  Spot: 8
+  Camouflage: 2
+  Agility: 2
+  Armor: 16
+  Psy Defense: 16
+  Rank: 159
+Attacks:
+  Direct Space: 3/11
+  Closed Space: 5/10
 Cargo Space: 4
 Deploys space units during space attacks
 Immune to Plague
 Upkeep / Maintenance: 60
 Build Cost: 602
-Food Resource Requirement: 8
-Energy Resource Requirement: 25
-Metal Resource Requirement: 131
-Trace Resource Requirement: 16
-Exotica Resource Requirement: 7
-Chemicals Resource Requirement: 78
-Electronics Resource Requirement: 10
-Gems Resource Requirement: 1
+Build Resource Requirements:
+  Food: 8
+  Energy: 25
+  Metal: 131
+  Trace: 16
+  Exotica: 7
+  Chemicals: 78
+  Electronics: 10
+  Gems: 1
 Build Space Carrier in Starport
 Time to Build / Upgrade: 5
 [1040] Technologies Required to Build Unit (96):
-[145] Composite Armor (97)
-[795] Rocket Propulsion (90)
-[100] Psychosocial Engineering (100)
-Counts towards planetary flock: YES
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [100] Psychosocial Engineering (100)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Space Escort Carrier
 Nick Name: SS-CVE
-Tech Score: 2166
-Unit Score: 2164
-Average Score: 2165
-Stat Strength: 1768
-Total Strength: 2164
-Planet Strength: 0
-Space Strength: 2164
-Garrison Strength: 0
-Movement Type: space
-Move Points: 6
-Spot: 12
-Camouflage: 2
-Agility: 4
-Armor: 28
-Psy Defense: 28
-Rank: 172
-Direct Space: 12/18
-Closed Space: 10/18
+Scores & Strengths:
+  Tech Score: 2166
+  Unit Score: 2164
+  Average Score: 2165
+  Stat Strength: 1768
+  Total Strength: 2164
+  Planet Strength: 0
+  Space Strength: 2164
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 6
+  Spot: 12
+  Camouflage: 2
+  Agility: 4
+  Armor: 28
+  Psy Defense: 28
+  Rank: 172
+Attacks:
+  Direct Space: 12/18
+  Closed Space: 10/18
 Cargo Space: 2
 Deploys space units during space attacks
 Immune to Plague
 Upkeep / Maintenance: 26
 Build Cost: 262
-Food Resource Requirement: 1
-Energy Resource Requirement: 11
-Metal Resource Requirement: 27
-Trace Resource Requirement: 6
-Exotica Resource Requirement: 2
-Chemicals Resource Requirement: 21
-Biochems Resource Requirement: 25
-Electronics Resource Requirement: 9
-Ceramsteel Resource Requirement: 32
+Build Resource Requirements:
+  Food: 1
+  Energy: 11
+  Metal: 27
+  Trace: 6
+  Exotica: 2
+  Chemicals: 21
+  Biochems: 25
+  Electronics: 9
+  Ceramsteel: 32
 Build Space Escort Carrier in Starport
 Time to Build / Upgrade: 3
 [11120] Technology Required to Build Unit (84):
-[11120] Space Escorts (84)
-Counts towards planetary flock: YES
+  [11120] Space Escorts (84)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
 Name: Jump Carrier
 Nick Name: JJ-CV
-Tech Score: 1933
-Unit Score: 2416
-Average Score: 2174
-Stat Strength: 2084
-Total Strength: 2416
-Planet Strength: 0
-Space Strength: 2416
-Garrison Strength: 0
-Movement Type: jump
-Move Points: 4
-Spot: 11
-Camouflage: 4
-Agility: 3
-Armor: 31
-Psy Defense: 31
-Rank: 215
-Direct Space: 6/22
-Closed Space: 10/20
+Scores & Strengths:
+  Tech Score: 1933
+  Unit Score: 2416
+  Average Score: 2174
+  Stat Strength: 2084
+  Total Strength: 2416
+  Planet Strength: 0
+  Space Strength: 2416
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 4
+  Spot: 11
+  Camouflage: 4
+  Agility: 3
+  Armor: 31
+  Psy Defense: 31
+  Rank: 215
+Attacks:
+  Direct Space: 6/22
+  Closed Space: 10/20
 Cargo Space: 4
 Deploys space units during space attacks
 Immune to Plague
 Upkeep / Maintenance: 556
 Build Cost: 5563
-Food Resource Requirement: 1
-Energy Resource Requirement: 27
-Metal Resource Requirement: 22
-Trace Resource Requirement: 5
-Exotica Resource Requirement: 1
-Chemicals Resource Requirement: 37
-Electronics Resource Requirement: 8
-Monopols Resource Requirement: 60
+Build Resource Requirements:
+  Food: 1
+  Energy: 27
+  Metal: 22
+  Trace: 5
+  Exotica: 1
+  Chemicals: 37
+  Electronics: 8
+  Monopols: 60
 Build Jump Carrier in Starport
 Time to Build / Upgrade: 5
 [12900] Technologies Required to Build Unit (67):
-[4285] Jump Drives (70)
-[8615] Fusion Beam (63)
-Counts towards planetary flock: YES
+  [4285] Jump Drives (70)
+  [8615] Fusion Beam (63)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
 Name: Space Light Carrier
 Nick Name: SS-CLA
-Tech Score: 2511
-Unit Score: 2510
-Average Score: 2511
-Stat Strength: 2036
-Total Strength: 2510
-Planet Strength: 0
-Space Strength: 2510
-Garrison Strength: 0
-Movement Type: space
-Move Points: 16
-Spot: 12
-Camouflage: 2
-Agility: 8
-Armor: 28
-Psy Defense: 28
-Rank: 166
-Direct Space: 13/18
-Closed Space: 15/16
+Scores & Strengths:
+  Tech Score: 2511
+  Unit Score: 2510
+  Average Score: 2511
+  Stat Strength: 2036
+  Total Strength: 2510
+  Planet Strength: 0
+  Space Strength: 2510
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 16
+  Spot: 12
+  Camouflage: 2
+  Agility: 8
+  Armor: 28
+  Psy Defense: 28
+  Rank: 166
+Attacks:
+  Direct Space: 13/18
+  Closed Space: 15/16
 Cargo Space: 1
 Deploys space units during space attacks
 Immune to Plague
 Upkeep / Maintenance: 100
 Build Cost: 997
-Food Resource Requirement: 2
-Energy Resource Requirement: 9
-Metal Resource Requirement: 12
-Trace Resource Requirement: 7
-Exotica Resource Requirement: 2
-Chemicals Resource Requirement: 15
-Biochems Resource Requirement: 22
-Electronics Resource Requirement: 11
-Ceramsteel Resource Requirement: 15
-Monopols Resource Requirement: 23
+Build Resource Requirements:
+  Food: 2
+  Energy: 9
+  Metal: 12
+  Trace: 7
+  Exotica: 2
+  Chemicals: 15
+  Biochems: 22
+  Electronics: 11
+  Ceramsteel: 15
+  Monopols: 23
 Build Space Light Carrier in Starport
 Time to Build / Upgrade: 3
 [13545] Technology Required to Build Unit (80):
-[13545] Space Capital Ships (80)
-Counts towards planetary flock: YES
+  [13545] Space Capital Ships (80)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
 Name: Jump Carrier MkII
 Nick Name: JJ-CV2
-Tech Score: 5419
-Unit Score: 6606
-Average Score: 6013
-Stat Strength: 5718
-Total Strength: 6606
-Planet Strength: 0
-Space Strength: 6606
-Garrison Strength: 0
-Movement Type: jump
-Move Points: 7
-Spot: 14
-Camouflage: 7
-Agility: 4
-Armor: 52
-Psy Defense: 52
-Rank: 271
-Direct Space: 10/36
-Closed Space: 16/33
+Scores & Strengths:
+  Tech Score: 5419
+  Unit Score: 6606
+  Average Score: 6013
+  Stat Strength: 5718
+  Total Strength: 6606
+  Planet Strength: 0
+  Space Strength: 6606
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 7
+  Spot: 14
+  Camouflage: 7
+  Agility: 4
+  Armor: 52
+  Psy Defense: 52
+  Rank: 271
+Attacks:
+  Direct Space: 10/36
+  Closed Space: 16/33
 Cargo Space: 4
 Deploys space units during space attacks
 Immune to Plague
 Upkeep / Maintenance: 417
 Build Cost: 4165
-Food Resource Requirement: 1
-Energy Resource Requirement: 24
-Metal Resource Requirement: 18
-Trace Resource Requirement: 3
-Exotica Resource Requirement: 1
-Chemicals Resource Requirement: 41
-Biochems Resource Requirement: 30
-Electronics Resource Requirement: 15
-Ceramsteel Resource Requirement: 29
-Monopols Resource Requirement: 40
+Build Resource Requirements:
+  Food: 1
+  Energy: 24
+  Metal: 18
+  Trace: 3
+  Exotica: 1
+  Chemicals: 41
+  Biochems: 30
+  Electronics: 15
+  Ceramsteel: 29
+  Monopols: 40
 Build Jump Carrier MkII in Starport
 Time to Build / Upgrade: 5
 [37775] Technology Required to Build Unit (61):
-[37775] Jump Capital Ships (61)
-Counts towards planetary flock: YES
+  [37775] Jump Capital Ships (61)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

@@ -3,313 +3,344 @@ All units of the unit class Reconnaissance Biplane are listed herein (8 in total
 --1--
 Name: Reconnaissance Biplane
 Nick Name: A-BR
-Tech Score: 172
-Unit Score: 170
-Average Score: 171
-Stat Strength: 170
-Total Strength: 170
-Planet Strength: 170
-Space Strength: 0
-Garrison Strength: 60
-Movement Type: air
-Move Points: 8
-Spot: 6
-Camouflage: 1
-Agility: 7
-Armor: 4
-Psy Defense: 2
-Rank: 77
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 172
+  Unit Score: 170
+  Average Score: 171
+  Stat Strength: 170
+  Total Strength: 170
+  Planet Strength: 170
+  Space Strength: 0
+  Garrison Strength: 60
+Statistics:
+  Movement Type: air
+  Move Points: 8
+  Spot: 6
+  Camouflage: 1
+  Agility: 7
+  Armor: 4
+  Psy Defense: 2
+  Rank: 77
+Load aboard transport: YES
 Upkeep / Maintenance: 4
 Build Cost: 39
-Food Resource Requirement: 19
-Energy Resource Requirement: 15
-Metal Resource Requirement: 14
-Trace Resource Requirement: 14
-Exotica Resource Requirement: 19
-Chemicals Resource Requirement: 17
-Electronics Resource Requirement: 13
+Build Resource Requirements:
+  Food: 19
+  Energy: 15
+  Metal: 14
+  Trace: 14
+  Exotica: 19
+  Chemicals: 17
+  Electronics: 13
 Build Reconnaissance Biplane in Factory
 Time to Build / Upgrade: 2
 [380] Technology Required to Build Unit (93):
-[380] Biplane (93)
-Counts towards planetary flock: YES
+  [380] Biplane (93)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Attack Fighter Biplane
 Nick Name: A-BAF
-Tech Score: 172
-Unit Score: 341
-Average Score: 257
-Stat Strength: 293
-Total Strength: 341
-Planet Strength: 341
-Space Strength: 0
-Garrison Strength: 139
-Movement Type: air
-Move Points: 6
-Spot: 8
-Camouflage: 2
-Agility: 12
-Armor: 6
-Psy Defense: 3
-Rank: 112
-Air: 2/5
-Indirect: 4/5
-Direct: 3/6
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 293
+  Total Strength: 341
+  Planet Strength: 341
+  Space Strength: 0
+  Garrison Strength: 139
+Statistics:
+  Movement Type: air
+  Move Points: 6
+  Spot: 8
+  Camouflage: 2
+  Agility: 12
+  Armor: 6
+  Psy Defense: 3
+  Rank: 112
+Attacks:
+  Air: 2/5
+  Indirect: 4/5
+  Direct: 3/6
+Load aboard transport: YES
 Upkeep / Maintenance: 11
 Build Cost: 114
-Food Resource Requirement: 30
-Energy Resource Requirement: 39
-Metal Resource Requirement: 31
-Trace Resource Requirement: 35
-Exotica Resource Requirement: 30
-Chemicals Resource Requirement: 38
-Electronics Resource Requirement: 33
+Build Resource Requirements:
+  Food: 30
+  Energy: 39
+  Metal: 31
+  Trace: 35
+  Exotica: 30
+  Chemicals: 38
+  Electronics: 33
 Build Attack Fighter Biplane in Factory
 Time to Build / Upgrade: 4
 [380] Technology Required to Build Unit (93):
-[380] Biplane (93)
-Counts towards planetary flock: YES
+  [380] Biplane (93)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
 Name: Bomber Biplane
 Nick Name: A-BB
-Tech Score: 172
-Unit Score: 341
-Average Score: 257
-Stat Strength: 248
-Total Strength: 341
-Planet Strength: 341
-Space Strength: 0
-Garrison Strength: 120
-Movement Type: air
-Move Points: 8
-Spot: 6
-Camouflage: 2
-Agility: 8
-Armor: 8
-Psy Defense: 4
-Rank: 150
-Air: 2/4
-Indirect: 5/17
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 248
+  Total Strength: 341
+  Planet Strength: 341
+  Space Strength: 0
+  Garrison Strength: 120
+Statistics:
+  Movement Type: air
+  Move Points: 8
+  Spot: 6
+  Camouflage: 2
+  Agility: 8
+  Armor: 8
+  Psy Defense: 4
+  Rank: 150
+Attacks:
+  Air: 2/4
+  Indirect: 5/17
+Load aboard transport: YES
 Upkeep / Maintenance: 10
 Build Cost: 101
-Food Resource Requirement: 22
-Energy Resource Requirement: 79
-Metal Resource Requirement: 55
-Trace Resource Requirement: 20
-Exotica Resource Requirement: 21
-Chemicals Resource Requirement: 24
-Electronics Resource Requirement: 17
+Build Resource Requirements:
+  Food: 22
+  Energy: 79
+  Metal: 55
+  Trace: 20
+  Exotica: 21
+  Chemicals: 24
+  Electronics: 17
 Build Bomber Biplane in Factory
 Time to Build / Upgrade: 4
 [380] Technology Required to Build Unit (93):
-[380] Biplane (93)
-Counts towards planetary flock: YES
+  [380] Biplane (93)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
 Name: Fighter Biplane
 Nick Name: A-BF
-Tech Score: 172
-Unit Score: 341
-Average Score: 257
-Stat Strength: 306
-Total Strength: 341
-Planet Strength: 341
-Space Strength: 0
-Garrison Strength: 128
-Movement Type: air
-Move Points: 7
-Spot: 8
-Camouflage: 2
-Agility: 12
-Armor: 6
-Psy Defense: 3
-Rank: 132
-Air: 4/8
-Indirect: 1/3
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 306
+  Total Strength: 341
+  Planet Strength: 341
+  Space Strength: 0
+  Garrison Strength: 128
+Statistics:
+  Movement Type: air
+  Move Points: 7
+  Spot: 8
+  Camouflage: 2
+  Agility: 12
+  Armor: 6
+  Psy Defense: 3
+  Rank: 132
+Attacks:
+  Air: 4/8
+  Indirect: 1/3
+Load aboard transport: YES
 Upkeep / Maintenance: 12
 Build Cost: 118
-Food Resource Requirement: 32
-Energy Resource Requirement: 39
-Metal Resource Requirement: 31
-Trace Resource Requirement: 36
-Exotica Resource Requirement: 31
-Chemicals Resource Requirement: 41
-Electronics Resource Requirement: 34
+Build Resource Requirements:
+  Food: 32
+  Energy: 39
+  Metal: 31
+  Trace: 36
+  Exotica: 31
+  Chemicals: 41
+  Electronics: 34
 Build Fighter Biplane in Factory
 Time to Build / Upgrade: 5
 [380] Technology Required to Build Unit (93):
-[380] Biplane (93)
-Counts towards planetary flock: YES
+  [380] Biplane (93)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
 Name: Trench Strafer Biplane
 Nick Name: A-BTS
-Tech Score: 172
-Unit Score: 341
-Average Score: 257
-Stat Strength: 286
-Total Strength: 341
-Planet Strength: 341
-Space Strength: 0
-Garrison Strength: 152
-Movement Type: air
-Move Points: 5
-Spot: 4
-Camouflage: 2
-Agility: 14
-Armor: 6
-Psy Defense: 3
-Rank: 112
-Air: 3/3
-Direct: 3/6
-Close: 7/4
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 286
+  Total Strength: 341
+  Planet Strength: 341
+  Space Strength: 0
+  Garrison Strength: 152
+Statistics:
+  Movement Type: air
+  Move Points: 5
+  Spot: 4
+  Camouflage: 2
+  Agility: 14
+  Armor: 6
+  Psy Defense: 3
+  Rank: 112
+Attacks:
+  Air: 3/3
+  Direct: 3/6
+  Close: 7/4
+Load aboard transport: YES
 Upkeep / Maintenance: 12
 Build Cost: 119
-Food Resource Requirement: 24
-Energy Resource Requirement: 38
-Metal Resource Requirement: 31
-Trace Resource Requirement: 45
-Exotica Resource Requirement: 24
-Chemicals Resource Requirement: 43
-Electronics Resource Requirement: 42
+Build Resource Requirements:
+  Food: 24
+  Energy: 38
+  Metal: 31
+  Trace: 45
+  Exotica: 24
+  Chemicals: 43
+  Electronics: 42
 Build Trench Strafer Biplane in Factory
 Time to Build / Upgrade: 5
 [380] Technology Required to Build Unit (93):
-[380] Biplane (93)
-Counts towards planetary flock: YES
+  [380] Biplane (93)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
 Name: Battle Biplane
 Nick Name: A-BBttl
-Tech Score: 245
-Unit Score: 488
-Average Score: 367
-Stat Strength: 405
-Total Strength: 488
-Planet Strength: 488
-Space Strength: 0
-Garrison Strength: 172
-Movement Type: air
-Move Points: 8
-Spot: 6
-Camouflage: 2
-Agility: 16
-Armor: 6
-Psy Defense: 3
-Rank: 143
-Air: 5/7
-Indirect: 6/8
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 245
+  Unit Score: 488
+  Average Score: 367
+  Stat Strength: 405
+  Total Strength: 488
+  Planet Strength: 488
+  Space Strength: 0
+  Garrison Strength: 172
+Statistics:
+  Movement Type: air
+  Move Points: 8
+  Spot: 6
+  Camouflage: 2
+  Agility: 16
+  Armor: 6
+  Psy Defense: 3
+  Rank: 143
+Attacks:
+  Air: 5/7
+  Indirect: 6/8
+Load aboard transport: YES
 Upkeep / Maintenance: 7
 Build Cost: 72
-Food Resource Requirement: 17
-Energy Resource Requirement: 30
-Metal Resource Requirement: 17
-Trace Resource Requirement: 23
-Exotica Resource Requirement: 17
-Chemicals Resource Requirement: 28
-Electronics Resource Requirement: 18
+Build Resource Requirements:
+  Food: 17
+  Energy: 30
+  Metal: 17
+  Trace: 23
+  Exotica: 17
+  Chemicals: 28
+  Electronics: 18
 Build Battle Biplane in Factory
 Time to Build / Upgrade: 4
 [990] Technologies Required to Build Unit (94):
-[380] Biplane (93)
-[610] Air-Air Rockets (94)
-Counts towards planetary flock: YES
+  [380] Biplane (93)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
 Name: Giant Bomber Biplane
 Nick Name: A-BGB
-Tech Score: 245
-Unit Score: 488
-Average Score: 367
-Stat Strength: 386
-Total Strength: 488
-Planet Strength: 488
-Space Strength: 0
-Garrison Strength: 147
-Movement Type: air
-Move Points: 11
-Spot: 6
-Camouflage: 2
-Agility: 10
-Armor: 10
-Psy Defense: 5
-Rank: 152
-Indirect: 6/17
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 245
+  Unit Score: 488
+  Average Score: 367
+  Stat Strength: 386
+  Total Strength: 488
+  Planet Strength: 488
+  Space Strength: 0
+  Garrison Strength: 147
+Statistics:
+  Movement Type: air
+  Move Points: 11
+  Spot: 6
+  Camouflage: 2
+  Agility: 10
+  Armor: 10
+  Psy Defense: 5
+  Rank: 152
+Attacks:
+  Indirect: 6/17
+Load aboard transport: YES
 Upkeep / Maintenance: 7
 Build Cost: 67
-Food Resource Requirement: 15
-Energy Resource Requirement: 44
-Metal Resource Requirement: 47
-Trace Resource Requirement: 11
-Exotica Resource Requirement: 15
-Chemicals Resource Requirement: 18
-Electronics Resource Requirement: 8
+Build Resource Requirements:
+  Food: 15
+  Energy: 44
+  Metal: 47
+  Trace: 11
+  Exotica: 15
+  Chemicals: 18
+  Electronics: 8
 Build Giant Bomber Biplane in Factory
 Time to Build / Upgrade: 3
 [990] Technologies Required to Build Unit (94):
-[380] Biplane (93)
-[610] Air-Air Rockets (94)
-Counts towards planetary flock: YES
+  [380] Biplane (93)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
 Name: Large Bomber Biplane
 Nick Name: A-BLB
-Tech Score: 245
-Unit Score: 488
-Average Score: 367
-Stat Strength: 389
-Total Strength: 488
-Planet Strength: 488
-Space Strength: 0
-Garrison Strength: 154
-Movement Type: air
-Move Points: 10
-Spot: 6
-Camouflage: 2
-Agility: 13
-Armor: 8
-Psy Defense: 4
-Rank: 149
-Air: 3/5
-Indirect: 6/14
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 245
+  Unit Score: 488
+  Average Score: 367
+  Stat Strength: 389
+  Total Strength: 488
+  Planet Strength: 488
+  Space Strength: 0
+  Garrison Strength: 154
+Statistics:
+  Movement Type: air
+  Move Points: 10
+  Spot: 6
+  Camouflage: 2
+  Agility: 13
+  Armor: 8
+  Psy Defense: 4
+  Rank: 149
+Attacks:
+  Air: 3/5
+  Indirect: 6/14
+Load aboard transport: YES
 Upkeep / Maintenance: 7
 Build Cost: 69
-Food Resource Requirement: 16
-Energy Resource Requirement: 39
-Metal Resource Requirement: 30
-Trace Resource Requirement: 16
-Exotica Resource Requirement: 16
-Chemicals Resource Requirement: 23
-Electronics Resource Requirement: 12
+Build Resource Requirements:
+  Food: 16
+  Energy: 39
+  Metal: 30
+  Trace: 16
+  Exotica: 16
+  Chemicals: 23
+  Electronics: 12
 Build Large Bomber Biplane in Factory
 Time to Build / Upgrade: 4
 [990] Technologies Required to Build Unit (94):
-[380] Biplane (93)
-[610] Air-Air Rockets (94)
-Counts towards planetary flock: YES
+  [380] Biplane (93)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

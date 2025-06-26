@@ -3,163 +3,179 @@ All units of the unit class Seaplane Tender are listed herein (4 in total):
 --1--
 Name: Seaplane Tender
 Nick Name: NN-CVT
-Tech Score: 199
-Unit Score: 394
-Average Score: 296
-Stat Strength: 330
-Total Strength: 394
-Planet Strength: 394
-Space Strength: 0
-Garrison Strength: 160
-Movement Type: naval
-Move Points: 6
-Spot: 2
-Camouflage: 1
-Agility: 1
-Armor: 12
-Psy Defense: 12
-Rank: 86
-Air: 4/4
-Indirect: 2/9
-Direct: 2/6
-Close: 3/6
+Scores & Strengths:
+  Tech Score: 199
+  Unit Score: 394
+  Average Score: 296
+  Stat Strength: 330
+  Total Strength: 394
+  Planet Strength: 394
+  Space Strength: 0
+  Garrison Strength: 160
+Statistics:
+  Movement Type: naval
+  Move Points: 6
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 12
+  Psy Defense: 12
+  Rank: 86
+Attacks:
+  Air: 4/4
+  Indirect: 2/9
+  Direct: 2/6
+  Close: 3/6
 Transports and Refuels (at end of turn) all Air Units
 Can tow units that can be towed
 Upkeep / Maintenance: 15
 Build Cost: 151
-Food Resource Requirement: 5
-Energy Resource Requirement: 31
-Metal Resource Requirement: 118
-Trace Resource Requirement: 9
-Exotica Resource Requirement: 4
-Chemicals Resource Requirement: 20
-Electronics Resource Requirement: 5
+Build Resource Requirements:
+  Food: 5
+  Energy: 31
+  Metal: 118
+  Trace: 9
+  Exotica: 4
+  Chemicals: 20
+  Electronics: 5
 Build Seaplane Tender in Well
 Time to Build / Upgrade: 4
 [625] Technologies Required to Build Unit (96):
-[165] Autocannon (98)
-[460] Seaplane (94)
-Counts towards planetary flock: YES
+  [165] Autocannon (98)
+  [460] Seaplane (94)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Naval Minesweeper
 Nick Name: NN-MS
-Tech Score: 181
-Unit Score: 447
-Average Score: 314
-Stat Strength: 443
-Total Strength: 447
-Planet Strength: 447
-Space Strength: 0
-Garrison Strength: 182
-Movement Type: naval
-Move Points: 6
-Spot: 4
-Camouflage: 7
-Agility: 2
-Armor: 13
-Psy Defense: 13
-Rank: 63
-Close: 2/2
+Scores & Strengths:
+  Tech Score: 181
+  Unit Score: 447
+  Average Score: 314
+  Stat Strength: 443
+  Total Strength: 447
+  Planet Strength: 447
+  Space Strength: 0
+  Garrison Strength: 182
+Statistics:
+  Movement Type: naval
+  Move Points: 6
+  Spot: 4
+  Camouflage: 7
+  Agility: 2
+  Armor: 13
+  Psy Defense: 13
+  Rank: 63
+Attacks:
+  Close: 2/2
 Cargo Space: 1
 Can tow units that can be towed
 Upkeep / Maintenance: 10
 Build Cost: 99
-Food Resource Requirement: 6
-Energy Resource Requirement: 5
-Metal Resource Requirement: 77
-Trace Resource Requirement: 22
-Exotica Resource Requirement: 5
-Chemicals Resource Requirement: 5
+Build Resource Requirements:
+  Food: 6
+  Energy: 5
+  Metal: 77
+  Trace: 22
+  Exotica: 5
+  Chemicals: 5
 Build Naval Minesweeper in Well
 Time to Build / Upgrade: 3
 [665] Technologies Required to Build Unit (98):
-[230] Hospitals (97)
-[110] Structural Engineering (99)
-[100] Psychosocial Engineering (100)
-[165] Autocannon (98)
-[60] Torpedo (98)
-Counts towards planetary flock: YES
+  [230] Hospitals (97)
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
 Name: Naval Destroyer Tender
 Nick Name: NN-DT
-Tech Score: 658
-Unit Score: 657
-Average Score: 657
-Stat Strength: 475
-Total Strength: 657
-Planet Strength: 657
-Space Strength: 0
-Garrison Strength: 219
-Movement Type: naval
-Move Points: 9
-Spot: 6
-Camouflage: 2
-Agility: 4
-Armor: 13
-Psy Defense: 13
-Rank: 197
-Air: 7/8
-Indirect: 4/12
-Direct: 5/10
-Close: 4/7
+Scores & Strengths:
+  Tech Score: 658
+  Unit Score: 657
+  Average Score: 657
+  Stat Strength: 475
+  Total Strength: 657
+  Planet Strength: 657
+  Space Strength: 0
+  Garrison Strength: 219
+Statistics:
+  Movement Type: naval
+  Move Points: 9
+  Spot: 6
+  Camouflage: 2
+  Agility: 4
+  Armor: 13
+  Psy Defense: 13
+  Rank: 197
+Attacks:
+  Air: 7/8
+  Indirect: 4/12
+  Direct: 5/10
+  Close: 4/7
 Can tow units that can be towed
 Heals units of same movement type
 Upkeep / Maintenance: 6
 Build Cost: 60
-Food Resource Requirement: 3
-Energy Resource Requirement: 21
-Metal Resource Requirement: 33
-Trace Resource Requirement: 9
-Exotica Resource Requirement: 3
-Chemicals Resource Requirement: 14
-Biochems Resource Requirement: 7
-Electronics Resource Requirement: 7
+Build Resource Requirements:
+  Food: 3
+  Energy: 21
+  Metal: 33
+  Trace: 9
+  Exotica: 3
+  Chemicals: 14
+  Biochems: 7
+  Electronics: 7
 Build Naval Destroyer Tender in Well
 Time to Build / Upgrade: 2
 [2270] Technology Required to Build Unit (86):
-[2270] Naval Escort Ships (86)
-Counts towards planetary flock: YES
+  [2270] Naval Escort Ships (86)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
 Name: Naval Repair Ship
 Nick Name: NN-RS
-Tech Score: 658
-Unit Score: 657
-Average Score: 657
-Stat Strength: 632
-Total Strength: 657
-Planet Strength: 657
-Space Strength: 0
-Garrison Strength: 232
-Movement Type: naval
-Move Points: 8
-Spot: 6
-Camouflage: 2
-Agility: 4
-Armor: 16
-Psy Defense: 16
-Rank: 157
-Close: 5/5
+Scores & Strengths:
+  Tech Score: 658
+  Unit Score: 657
+  Average Score: 657
+  Stat Strength: 632
+  Total Strength: 657
+  Planet Strength: 657
+  Space Strength: 0
+  Garrison Strength: 232
+Statistics:
+  Movement Type: naval
+  Move Points: 8
+  Spot: 6
+  Camouflage: 2
+  Agility: 4
+  Armor: 16
+  Psy Defense: 16
+  Rank: 157
+Attacks:
+  Close: 5/5
 Can tow units that can be towed
 Heals units of same movement type
 Upkeep / Maintenance: 4
 Build Cost: 41
-Food Resource Requirement: 3
-Energy Resource Requirement: 5
-Metal Resource Requirement: 49
-Trace Resource Requirement: 5
-Exotica Resource Requirement: 3
-Chemicals Resource Requirement: 5
-Biochems Resource Requirement: 4
-Electronics Resource Requirement: 4
+Build Resource Requirements:
+  Food: 3
+  Energy: 5
+  Metal: 49
+  Trace: 5
+  Exotica: 3
+  Chemicals: 5
+  Biochems: 4
+  Electronics: 4
 Build Naval Repair Ship in Well
 Time to Build / Upgrade: 2
 [2270] Technology Required to Build Unit (86):
-[2270] Naval Escort Ships (86)
-Counts towards planetary flock: YES
+  [2270] Naval Escort Ships (86)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

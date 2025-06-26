@@ -3,114 +3,125 @@ All units of the unit class Field Medic are listed herein (3 in total):
 --1--
 Name: Field Medic
 Nick Name: F Medic
-Tech Score: 63
-Unit Score: 63
-Average Score: 63
-Stat Strength: 63
-Total Strength: 63
-Planet Strength: 63
-Space Strength: 0
-Garrison Strength: 63
-Movement Type: foot
-Move Points: 1
-Spot: 2
-Camouflage: 2
-Agility: 7
-Armor: 2
-Psy Defense: 1
-Rank: 101
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 63
+  Unit Score: 63
+  Average Score: 63
+  Stat Strength: 63
+  Total Strength: 63
+  Planet Strength: 63
+  Space Strength: 0
+  Garrison Strength: 63
+Statistics:
+  Movement Type: foot
+  Move Points: 1
+  Spot: 2
+  Camouflage: 2
+  Agility: 7
+  Armor: 2
+  Psy Defense: 1
+  Rank: 101
+Load aboard transport: YES
 Heals units of same movement type
 Upkeep / Maintenance: 2
 Build Cost: 10
-Metal Resource Requirement: 2
-Trace Resource Requirement: 18
-Exotica Resource Requirement: 14
+Build Resource Requirements:
+  Metal: 2
+  Trace: 18
+  Exotica: 14
 Upgrade Peasant to Field Medic at Hospital
 Time to Build / Upgrade: 1
 [100] Technology Required to Build Unit (100):
-[100] Medical & Biological (100)
-Counts towards planetary flock: YES
+  [100] Medical & Biological (100)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Combat Physick
 Nick Name: Cmbt Physick
-Tech Score: 158
-Unit Score: 158
-Average Score: 158
-Stat Strength: 81
-Total Strength: 158
-Planet Strength: 158
-Space Strength: 0
-Garrison Strength: 111
-Movement Type: foot
-Move Points: 2
-Spot: 2
-Camouflage: 2
-Agility: 8
-Armor: 2
-Psy Defense: 1
-Rank: 137
-Indirect: 8/4
-Direct: 6/4
-Close: 7/3
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 158
+  Unit Score: 158
+  Average Score: 158
+  Stat Strength: 81
+  Total Strength: 158
+  Planet Strength: 158
+  Space Strength: 0
+  Garrison Strength: 111
+Statistics:
+  Movement Type: foot
+  Move Points: 2
+  Spot: 2
+  Camouflage: 2
+  Agility: 8
+  Armor: 2
+  Psy Defense: 1
+  Rank: 137
+Attacks:
+  Indirect: 8/4
+  Direct: 6/4
+  Close: 7/3
+Load aboard transport: YES
 Heals units of same movement type
 Upkeep / Maintenance: 4
 Build Cost: 30
-Trace Resource Requirement: 23
-Exotica Resource Requirement: 7
-Chemicals Resource Requirement: 14
-Biochems Resource Requirement: 23
+Build Resource Requirements:
+  Trace: 23
+  Exotica: 7
+  Chemicals: 14
+  Biochems: 23
 Upgrade Peasant to Combat Physick at Hospital
 Time to Build / Upgrade: 1
 [550] Technologies Required to Build Unit (92):
-[285] Surgical Instruments (94)
-[265] Pharmaceuticals (89)
-Counts towards planetary flock: YES
+  [285] Surgical Instruments (94)
+  [265] Pharmaceuticals (89)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
 Name: Fighting Chaplain
 Nick Name: F. Chaplain
-Tech Score: 253
-Unit Score: 253
-Average Score: 253
-Stat Strength: 165
-Total Strength: 253
-Planet Strength: 253
-Space Strength: 193
-Garrison Strength: 126
-Movement Type: foot
-Move Points: 4
-Spot: 2
-Camouflage: 2
-Agility: 11
-Armor: 2
-Psy Defense: 4
-Rank: 139
-Psychic: 7/4
-Direct: 6/5
-Close: 10/3
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 253
+  Unit Score: 253
+  Average Score: 253
+  Stat Strength: 165
+  Total Strength: 253
+  Planet Strength: 253
+  Space Strength: 193
+  Garrison Strength: 126
+Statistics:
+  Movement Type: foot
+  Move Points: 4
+  Spot: 2
+  Camouflage: 2
+  Agility: 11
+  Armor: 2
+  Psy Defense: 4
+  Rank: 139
+Attacks:
+  Psychic: 7/4
+  Direct: 6/5
+  Close: 10/3
+Load aboard transport: YES
 Clergy - Increases Tithe Skim and Converts Sects
 Heals units of same movement type
 Upkeep / Maintenance: 8
 Build Cost: 34
-Energy Resource Requirement: 4
-Metal Resource Requirement: 1
-Trace Resource Requirement: 38
-Chemicals Resource Requirement: 16
+Build Resource Requirements:
+  Energy: 4
+  Metal: 1
+  Trace: 38
+  Chemicals: 16
 Upgrade Clergy to Fighting Chaplain at Church
 Time to Build / Upgrade: 1
 [835] Technologies Required to Build Unit (93):
-[125] Scholastic Medicine (98)
-[255] Surgical Procedures (96)
-[125] Epidemiology (94)
-[330] Holy Warriors (82)
-Counts towards planetary flock: YES
+  [125] Scholastic Medicine (98)
+  [255] Surgical Procedures (96)
+  [125] Epidemiology (94)
+  [330] Holy Warriors (82)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

@@ -3,272 +3,300 @@ All units of the unit class Artillery are listed herein (7 in total):
 --1--
 Name: Artillery
 Nick Name: Artillery
-Tech Score: 86
-Unit Score: 86
-Average Score: 86
-Stat Strength: 60
-Total Strength: 86
-Planet Strength: 86
-Space Strength: 0
-Garrison Strength: 49
-Movement Type: wheel
-Move Points: 3
-Spot: 2
-Camouflage: 1
-Agility: 1
-Armor: 6
-Psy Defense: 3
-Rank: 116
-Indirect: 2/13
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 86
+  Unit Score: 86
+  Average Score: 86
+  Stat Strength: 60
+  Total Strength: 86
+  Planet Strength: 86
+  Space Strength: 0
+  Garrison Strength: 49
+Statistics:
+  Movement Type: wheel
+  Move Points: 3
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 6
+  Psy Defense: 3
+  Rank: 116
+Attacks:
+  Indirect: 2/13
+Load aboard transport: YES
 Can be towed
 Upkeep / Maintenance: 3
 Build Cost: 30
-Food Resource Requirement: 5
-Energy Resource Requirement: 78
-Metal Resource Requirement: 33
-Trace Resource Requirement: 6
-Exotica Resource Requirement: 4
-Chemicals Resource Requirement: 3
+Build Resource Requirements:
+  Food: 5
+  Energy: 78
+  Metal: 33
+  Trace: 6
+  Exotica: 4
+  Chemicals: 3
 Build Artillery in Factory
 Time to Build / Upgrade: 2
 [150] Technologies Required to Build Unit (100):
-[100] Physics & Energy (100)
-[50] Applied Technology (100)
-Counts towards planetary flock: YES
+  [100] Physics & Energy (100)
+  [50] Applied Technology (100)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
 Name: Vertically-Mounted Artillery
 Nick Name: VM Art
-Tech Score: 86
-Unit Score: 86
-Average Score: 86
-Stat Strength: 50
-Total Strength: 86
-Planet Strength: 86
-Space Strength: 0
-Garrison Strength: 49
-Movement Type: wheel
-Move Points: 3
-Spot: 2
-Camouflage: 2
-Agility: 2
-Armor: 5
-Psy Defense: 2
-Rank: 111
-Air: 4/3
-Indirect: 4/6
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 86
+  Unit Score: 86
+  Average Score: 86
+  Stat Strength: 50
+  Total Strength: 86
+  Planet Strength: 86
+  Space Strength: 0
+  Garrison Strength: 49
+Statistics:
+  Movement Type: wheel
+  Move Points: 3
+  Spot: 2
+  Camouflage: 2
+  Agility: 2
+  Armor: 5
+  Psy Defense: 2
+  Rank: 111
+Attacks:
+  Air: 4/3
+  Indirect: 4/6
+Load aboard transport: YES
 Can be towed
 Upkeep / Maintenance: 2
 Build Cost: 19
-Food Resource Requirement: 5
-Energy Resource Requirement: 24
-Metal Resource Requirement: 21
-Trace Resource Requirement: 16
-Exotica Resource Requirement: 4
-Chemicals Resource Requirement: 7
+Build Resource Requirements:
+  Food: 5
+  Energy: 24
+  Metal: 21
+  Trace: 16
+  Exotica: 4
+  Chemicals: 7
 Build Vertically-Mounted Artillery in Factory
 Time to Build / Upgrade: 2
 [150] Technologies Required to Build Unit (100):
-[100] Physics & Energy (100)
-[50] Applied Technology (100)
-Counts towards planetary flock: YES
+  [100] Physics & Energy (100)
+  [50] Applied Technology (100)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
 Name: Light Artillery
 Nick Name: Lt Art
-Tech Score: 118
-Unit Score: 129
-Average Score: 124
-Stat Strength: 87
-Total Strength: 129
-Planet Strength: 129
-Space Strength: 0
-Garrison Strength: 57
-Movement Type: wheel
-Move Points: 5
-Spot: 2
-Camouflage: 2
-Agility: 3
-Armor: 6
-Psy Defense: 3
-Rank: 118
-Indirect: 3/14
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 118
+  Unit Score: 129
+  Average Score: 124
+  Stat Strength: 87
+  Total Strength: 129
+  Planet Strength: 129
+  Space Strength: 0
+  Garrison Strength: 57
+Statistics:
+  Movement Type: wheel
+  Move Points: 5
+  Spot: 2
+  Camouflage: 2
+  Agility: 3
+  Armor: 6
+  Psy Defense: 3
+  Rank: 118
+Attacks:
+  Indirect: 3/14
+Load aboard transport: YES
 Can be towed
 Upkeep / Maintenance: 3
 Build Cost: 30
-Food Resource Requirement: 7
-Energy Resource Requirement: 63
-Metal Resource Requirement: 27
-Trace Resource Requirement: 6
-Exotica Resource Requirement: 7
-Chemicals Resource Requirement: 8
+Build Resource Requirements:
+  Food: 7
+  Energy: 63
+  Metal: 27
+  Trace: 6
+  Exotica: 7
+  Chemicals: 8
 Build Light Artillery in Factory
 Time to Build / Upgrade: 2
 [230] Technology Required to Build Unit (97):
-[230] Advanced Artillery (97)
-Counts towards planetary flock: YES
+  [230] Advanced Artillery (97)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
 Name: Medium Artillery
 Nick Name: Med Art
-Tech Score: 118
-Unit Score: 134
-Average Score: 126
-Stat Strength: 86
-Total Strength: 134
-Planet Strength: 134
-Space Strength: 0
-Garrison Strength: 67
-Movement Type: wheel
-Move Points: 4
-Spot: 2
-Camouflage: 2
-Agility: 2
-Armor: 7
-Psy Defense: 3
-Rank: 120
-Indirect: 3/16
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 118
+  Unit Score: 134
+  Average Score: 126
+  Stat Strength: 86
+  Total Strength: 134
+  Planet Strength: 134
+  Space Strength: 0
+  Garrison Strength: 67
+Statistics:
+  Movement Type: wheel
+  Move Points: 4
+  Spot: 2
+  Camouflage: 2
+  Agility: 2
+  Armor: 7
+  Psy Defense: 3
+  Rank: 120
+Attacks:
+  Indirect: 3/16
+Load aboard transport: YES
 Can be towed
 Upkeep / Maintenance: 3
 Build Cost: 33
-Food Resource Requirement: 5
-Energy Resource Requirement: 78
-Metal Resource Requirement: 34
-Trace Resource Requirement: 6
-Exotica Resource Requirement: 5
-Chemicals Resource Requirement: 5
+Build Resource Requirements:
+  Food: 5
+  Energy: 78
+  Metal: 34
+  Trace: 6
+  Exotica: 5
+  Chemicals: 5
 Build Medium Artillery in Factory
 Time to Build / Upgrade: 2
 [230] Technology Required to Build Unit (97):
-[230] Advanced Artillery (97)
-Counts towards planetary flock: YES
+  [230] Advanced Artillery (97)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
 Name: Heavy Artillery
 Nick Name: Hvy Art
-Tech Score: 118
-Unit Score: 152
-Average Score: 135
-Stat Strength: 98
-Total Strength: 152
-Planet Strength: 152
-Space Strength: 0
-Garrison Strength: 87
-Movement Type: wheel
-Move Points: 3
-Spot: 2
-Camouflage: 2
-Agility: 1
-Armor: 8
-Psy Defense: 4
-Rank: 122
-Indirect: 3/18
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 118
+  Unit Score: 152
+  Average Score: 135
+  Stat Strength: 98
+  Total Strength: 152
+  Planet Strength: 152
+  Space Strength: 0
+  Garrison Strength: 87
+Statistics:
+  Movement Type: wheel
+  Move Points: 3
+  Spot: 2
+  Camouflage: 2
+  Agility: 1
+  Armor: 8
+  Psy Defense: 4
+  Rank: 122
+Attacks:
+  Indirect: 3/18
+Load aboard transport: YES
 Can be towed
 Upkeep / Maintenance: 4
 Build Cost: 41
-Food Resource Requirement: 4
-Energy Resource Requirement: 96
-Metal Resource Requirement: 48
-Trace Resource Requirement: 7
-Exotica Resource Requirement: 3
-Chemicals Resource Requirement: 4
+Build Resource Requirements:
+  Food: 4
+  Energy: 96
+  Metal: 48
+  Trace: 7
+  Exotica: 3
+  Chemicals: 4
 Build Heavy Artillery in Factory
 Time to Build / Upgrade: 3
 [230] Technology Required to Build Unit (97):
-[230] Advanced Artillery (97)
-Counts towards planetary flock: YES
+  [230] Advanced Artillery (97)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
 Name: Land Battery
 Nick Name: Land Battery
-Tech Score: 118
-Unit Score: 232
-Average Score: 175
-Stat Strength: 135
-Total Strength: 232
-Planet Strength: 232
-Space Strength: 0
-Garrison Strength: 164
-Movement Type: wheel
-Move Points: 2
-Spot: 2
-Camouflage: 1
-Agility: 1
-Armor: 10
-Psy Defense: 5
-Rank: 87
-Indirect: 4/22
-Direct: 1/9
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 118
+  Unit Score: 232
+  Average Score: 175
+  Stat Strength: 135
+  Total Strength: 232
+  Planet Strength: 232
+  Space Strength: 0
+  Garrison Strength: 164
+Statistics:
+  Movement Type: wheel
+  Move Points: 2
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 5
+  Rank: 87
+Attacks:
+  Indirect: 4/22
+  Direct: 1/9
+Load aboard transport: YES
 Can be towed
 Upkeep / Maintenance: 9
 Build Cost: 93
-Food Resource Requirement: 4
-Energy Resource Requirement: 165
-Metal Resource Requirement: 74
-Trace Resource Requirement: 7
-Exotica Resource Requirement: 3
-Chemicals Resource Requirement: 29
+Build Resource Requirements:
+  Food: 4
+  Energy: 165
+  Metal: 74
+  Trace: 7
+  Exotica: 3
+  Chemicals: 29
 Build Land Battery in Factory
 Time to Build / Upgrade: 4
 [230] Technology Required to Build Unit (97):
-[230] Advanced Artillery (97)
-Counts towards planetary flock: YES
+  [230] Advanced Artillery (97)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
 Name: Time-on-Target Battery
 Nick Name: ToT Battery
-Tech Score: 372
-Unit Score: 370
-Average Score: 371
-Stat Strength: 190
-Total Strength: 370
-Planet Strength: 370
-Space Strength: 0
-Garrison Strength: 261
-Movement Type: wheel
-Move Points: 2
-Spot: 2
-Camouflage: 1
-Agility: 1
-Armor: 12
-Psy Defense: 6
-Rank: 140
-Indirect: 6/30
-Can be loaded aboard transport: YES
+Scores & Strengths:
+  Tech Score: 372
+  Unit Score: 370
+  Average Score: 371
+  Stat Strength: 190
+  Total Strength: 370
+  Planet Strength: 370
+  Space Strength: 0
+  Garrison Strength: 261
+Statistics:
+  Movement Type: wheel
+  Move Points: 2
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 12
+  Psy Defense: 6
+  Rank: 140
+Attacks:
+  Indirect: 6/30
+Load aboard transport: YES
 Can be towed
 Upkeep / Maintenance: 2
 Build Cost: 24
-Food Resource Requirement: 1
-Energy Resource Requirement: 73
-Metal Resource Requirement: 33
-Trace Resource Requirement: 1
-Exotica Resource Requirement: 1
-Chemicals Resource Requirement: 1
-Electronics Resource Requirement: 1
+Build Resource Requirements:
+  Food: 1
+  Energy: 73
+  Metal: 33
+  Trace: 1
+  Exotica: 1
+  Chemicals: 1
+  Electronics: 1
 Build Time-on-Target Battery in Factory
 Time to Build / Upgrade: 2
 [1325] Technologies Required to Build Unit (88):
-[355] Fire Control Radar (86)
-[200] Digital Electronics (87)
-[770] Self-Propelled Weaponry (92)
-Counts towards planetary flock: YES
+  [355] Fire Control Radar (86)
+  [200] Digital Electronics (87)
+  [770] Self-Propelled Weaponry (92)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
