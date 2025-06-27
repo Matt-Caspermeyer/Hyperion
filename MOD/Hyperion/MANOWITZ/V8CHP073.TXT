@@ -1,44 +1,483 @@
-All units of the unit class Anti-Aircraft Gun are listed herein (1 in total):
+All units of the unit class Heavy Infantry Legion are listed herein (11 in total):
 
 --1--
-Name: Anti-Aircraft Gun
-Nick Name: Flak
+Name: Heavy Infantry Legion
+Nick Name: Hvy Inf
 Scores & Strengths:
-  Tech Score: 219
-  Unit Score: 218
-  Average Score: 219
-  Stat Strength: 162
-  Total Strength: 218
-  Planet Strength: 218
+  Tech Score: 265
+  Unit Score: 263
+  Average Score: 264
+  Stat Strength: 100
+  Total Strength: 263
+  Planet Strength: 263
   Space Strength: 0
-  Garrison Strength: 109
+  Garrison Strength: 151
 Statistics:
-  Movement Type: wheel
-  Move Points: 4
-  Spot: 4
+  Movement Type: foot
+  Move Points: 3
+  Spot: 2
   Camouflage: 2
-  Agility: 1
-  Armor: 10
-  Psy Defense: 5
-  Rank: 145
+  Agility: 7
+  Armor: 5
+  Psy Defense: 3
+  Rank: 41
 Attacks:
-  Air: 4/14
+  Air: 11/4
+  Indirect: 11/7
+  Direct: 7/6
 Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 4
-Build Cost: 44
+Upkeep / Maintenance: 2
+Build Cost: 14
+Build Resource Requirements:
+  Metal: 7
+  Trace: 28
+  Exotica: 3
+  Chemicals: 11
+  Electronics: 17
+Upgrade Peasant to Heavy Infantry Legion at Fort
+Time to Build / Upgrade: 1
+[930] Technologies Required to Build Unit (94):
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Heavy Infantry Legion (BE)
+Nick Name: Hvy Inf (BE)
+Scores & Strengths:
+  Tech Score: 338
+  Unit Score: 385
+  Average Score: 362
+  Stat Strength: 140
+  Total Strength: 385
+  Planet Strength: 385
+  Space Strength: 0
+  Garrison Strength: 192
+Statistics:
+  Movement Type: foot
+  Move Points: 4
+  Spot: 2
+  Camouflage: 2
+  Agility: 8
+  Armor: 6
+  Psy Defense: 4
+  Rank: 45
+Attacks:
+  Air: 14/5
+  Indirect: 14/8
+  Direct: 9/7
+Load aboard transport: YES
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 5
+Build Cost: 37
+Build Resource Requirements:
+  Energy: 1
+  Metal: 3
+  Trace: 1
+  Biochems: 29
+  Electronics: 1
+Upgrade Heavy Infantry Legion to Heavy Infantry Legion (BE) at Biochem Plant
+Time to Build / Upgrade: 1
+[1350] Technologies Required to Build Unit (88):
+  [420] Biochem-Enhanced Soldiers (77)
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Heavy Infantry Legion (SE)
+Nick Name: Hvy Inf (SE)
+Scores & Strengths:
+  Tech Score: 334
+  Unit Score: 421
+  Average Score: 378
+  Stat Strength: 153
+  Total Strength: 421
+  Planet Strength: 421
+  Space Strength: 0
+  Garrison Strength: 210
+Statistics:
+  Movement Type: foot
+  Move Points: 4
+  Spot: 2
+  Camouflage: 2
+  Agility: 8
+  Armor: 7
+  Psy Defense: 4
+  Rank: 46
+Attacks:
+  Air: 14/5
+  Indirect: 14/9
+  Direct: 9/8
+Load aboard transport: YES
+Upkeep / Maintenance: 5
+Build Cost: 35
+Build Resource Requirements:
+  Food: 1
+  Energy: 3
+  Metal: 2
+  Trace: 5
+  Exotica: 1
+  Chemicals: 2
+  Biochems: 34
+Upgrade Heavy Infantry Legion to Heavy Infantry Legion (SE) at Hospital
+Time to Build / Upgrade: 1
+[1430] Technologies Required to Build Unit (88):
+  [675] Surgically-Enhanced Soldiers (75)
+  [350] Anti-Tank Weaponry (95)
+  [405] Recoilless Rifle (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Heavy Infantry Legion (DE)
+Nick Name: Hvy Inf (DE)
+Scores & Strengths:
+  Tech Score: 987
+  Unit Score: 983
+  Average Score: 985
+  Stat Strength: 297
+  Total Strength: 983
+  Planet Strength: 983
+  Space Strength: 0
+  Garrison Strength: 401
+Statistics:
+  Movement Type: foot
+  Move Points: 6
+  Spot: 3
+  Camouflage: 4
+  Agility: 10
+  Armor: 10
+  Psy Defense: 6
+  Rank: 62
+Attacks:
+  Air: 23/8
+  Indirect: 23/14
+  Direct: 15/12
+Load aboard transport: YES
+Upkeep / Maintenance: 5
+Build Cost: 34
+Build Resource Requirements:
+  Metal: 18
+  Biochems: 35
+  Electronics: 9
+Upgrade Heavy Infantry Legion to Heavy Infantry Legion (DE) at Biochem Plant
+Time to Build / Upgrade: 1
+[4370] Technologies Required to Build Unit (84):
+  [3440] Drug-Enhanced Soldiers (65)
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Heavy Infantry Legion (GE)
+Nick Name: Hvy Inf (GE)
+Scores & Strengths:
+  Tech Score: 1407
+  Unit Score: 1478
+  Average Score: 1442
+  Stat Strength: 452
+  Total Strength: 1478
+  Planet Strength: 1478
+  Space Strength: 0
+  Garrison Strength: 522
+Statistics:
+  Movement Type: foot
+  Move Points: 8
+  Spot: 3
+  Camouflage: 5
+  Agility: 11
+  Armor: 13
+  Psy Defense: 8
+  Rank: 72
+Attacks:
+  Air: 28/10
+  Indirect: 28/17
+  Direct: 18/15
+Load aboard transport: YES
+Upkeep / Maintenance: 7
+Build Cost: 31
+Build Resource Requirements:
+  Energy: 4
+  Chemicals: 7
+  Biochems: 18
+  Electronics: 3
+  Ceramsteel: 5
+Upgrade Heavy Infantry Legion (DE) to Heavy Infantry Legion (GE) at Lab
+Time to Build / Upgrade: 1
+[6775] Technologies Required to Build Unit (79):
+  [6020] Chemical Shock Legion (49)
+  [350] Anti-Tank Weaponry (95)
+  [405] Recoilless Rifle (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Heavy Infantry Legion (PA)
+Nick Name: Hvy Inf (PA)
+Scores & Strengths:
+  Tech Score: 1430
+  Unit Score: 1506
+  Average Score: 1468
+  Stat Strength: 452
+  Total Strength: 1506
+  Planet Strength: 1506
+  Space Strength: 0
+  Garrison Strength: 532
+Statistics:
+  Movement Type: foot
+  Move Points: 8
+  Spot: 3
+  Camouflage: 5
+  Agility: 11
+  Armor: 13
+  Psy Defense: 8
+  Rank: 73
+Attacks:
+  Air: 28/10
+  Indirect: 28/18
+  Direct: 18/15
+Load aboard transport: YES
+Upkeep / Maintenance: 8
+Build Cost: 43
+Build Resource Requirements:
+  Energy: 12
+  Metal: 3
+  Chemicals: 18
+  Biochems: 4
+  Electronics: 49
+  Ceramsteel: 17
+Upgrade Heavy Infantry Legion (SE) to Heavy Infantry Legion (PA) at Hospital
+Time to Build / Upgrade: 2
+[6930] Technologies Required to Build Unit (82):
+  [6175] Prosthetically-Augmented Soldiers (57)
+  [350] Anti-Tank Weaponry (95)
+  [405] Recoilless Rifle (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Heavy Infantry Legion (CE)
+Nick Name: Hvy Inf (CE)
+Scores & Strengths:
+  Tech Score: 1820
+  Unit Score: 1940
+  Average Score: 1880
+  Stat Strength: 576
+  Total Strength: 1940
+  Planet Strength: 1940
+  Space Strength: 0
+  Garrison Strength: 646
+Statistics:
+  Movement Type: foot
+  Move Points: 9
+  Spot: 3
+  Camouflage: 6
+  Agility: 12
+  Armor: 15
+  Psy Defense: 9
+  Rank: 81
+Attacks:
+  Air: 32/12
+  Indirect: 32/20
+  Direct: 20/17
+Load aboard transport: YES
+Upkeep / Maintenance: 8
+Build Cost: 40
+Build Resource Requirements:
+  Food: 1
+  Energy: 7
+  Metal: 4
+  Chemicals: 8
+  Ceramsteel: 5
+Upgrade Heavy Infantry Legion (PA) to Heavy Infantry Legion (CE) at Lab
+Time to Build / Upgrade: 1
+[9355] Technologies Required to Build Unit (79):
+  [350] Anti-Tank Weaponry (95)
+  [8600] Cybernetically-Enhanced Soldiers (48)
+  [405] Recoilless Rifle (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Heavy Infantry Legion (AVE)
+Nick Name: Hvy Inf (AVE)
+Scores & Strengths:
+  Tech Score: 1869
+  Unit Score: 1956
+  Average Score: 1912
+  Stat Strength: 576
+  Total Strength: 1956
+  Planet Strength: 1956
+  Space Strength: 0
+  Garrison Strength: 652
+Statistics:
+  Movement Type: foot
+  Move Points: 9
+  Spot: 3
+  Camouflage: 6
+  Agility: 12
+  Armor: 15
+  Psy Defense: 9
+  Rank: 82
+Attacks:
+  Air: 33/11
+  Indirect: 33/20
+  Direct: 21/17
+Load aboard transport: YES
+Upkeep / Maintenance: 7
+Build Cost: 41
+Build Resource Requirements:
+  Energy: 4
+  Chemicals: 3
+  Biochems: 7
+  Electronics: 2
+Upgrade Heavy Infantry Legion (GE) to Heavy Infantry Legion (AVE) at Lab
+Time to Build / Upgrade: 1
+[9655] Technologies Required to Build Unit (71):
+  [350] Anti-Tank Weaponry (95)
+  [405] Recoilless Rifle (94)
+  [8900] Genetically-Enhanced Warriors (25)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Heavy Infantry Legion (ME)
+Nick Name: Hvy Inf (ME)
+Scores & Strengths:
+  Tech Score: 1401
+  Unit Score: 2081
+  Average Score: 1741
+  Stat Strength: 907
+  Total Strength: 2081
+  Planet Strength: 2081
+  Space Strength: 0
+  Garrison Strength: 490
+Statistics:
+  Movement Type: foot
+  Move Points: 18
+  Spot: 3
+  Camouflage: 5
+  Agility: 17
+  Armor: 14
+  Psy Defense: 8
+  Rank: 77
+Attacks:
+  Air: 29/11
+  Indirect: 29/19
+  Direct: 19/16
+Load aboard transport: YES
+Upkeep / Maintenance: 6
+Build Cost: 46
 Build Resource Requirements:
   Food: 5
-  Energy: 36
-  Metal: 74
-  Trace: 9
-  Exotica: 4
-  Chemicals: 43
-  Electronics: 6
-Build Anti-Aircraft Gun in Factory
-Time to Build / Upgrade: 3
-[525] Technology Required to Build Unit (94):
+  Energy: 16
+  Trace: 5
+  Exotica: 5
+  Chemicals: 24
+  Electronics: 35
+  Ceramsteel: 8
+Upgrade Heavy Infantry Legion to Heavy Infantry Legion (ME) at Factory
+Time to Build / Upgrade: 2
+[7150] Technologies Required to Build Unit (89):
   [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+  [6220] Mechanically-Enhanced Soldiers (80)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Heavy Infantry Legion (MF)
+Nick Name: Hvy Inf (MF)
+Scores & Strengths:
+  Tech Score: 3201
+  Unit Score: 3184
+  Average Score: 3193
+  Stat Strength: 864
+  Total Strength: 3184
+  Planet Strength: 3184
+  Space Strength: 0
+  Garrison Strength: 960
+Statistics:
+  Movement Type: foot
+  Move Points: 11
+  Spot: 4
+  Camouflage: 7
+  Agility: 14
+  Armor: 19
+  Psy Defense: 11
+  Rank: 106
+Attacks:
+  Air: 42/15
+  Indirect: 42/26
+  Direct: 26/23
+Load aboard transport: YES
+Upkeep / Maintenance: 49
+Build Cost: 449
+Build Resource Requirements:
+  Energy: 5
+  Biochems: 9
+  Wetware: 20
+  Monopols: 33
+Upgrade Heavy Infantry Legion (CE) to Heavy Infantry Legion (MF) at Wetware
+Time to Build / Upgrade: 3
+[19330] Technologies Required to Build Unit (75):
+  [350] Anti-Tank Weaponry (95)
+  [405] Recoilless Rifle (94)
+  [18575] Machine-Fused Soldiers (35)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Heavy Infantry Legion (NE)
+Nick Name: Hvy Inf (NE)
+Scores & Strengths:
+  Tech Score: 3890
+  Unit Score: 4137
+  Average Score: 4014
+  Stat Strength: 1178
+  Total Strength: 4137
+  Planet Strength: 4137
+  Space Strength: 0
+  Garrison Strength: 1194
+Statistics:
+  Movement Type: foot
+  Move Points: 12
+  Spot: 4
+  Camouflage: 13
+  Agility: 14
+  Armor: 22
+  Psy Defense: 13
+  Rank: 120
+Attacks:
+  Air: 47/17
+  Indirect: 47/30
+  Direct: 30/25
+Load aboard transport: YES
+Upkeep / Maintenance: 40
+Build Cost: 360
+Build Resource Requirements:
+  Wetware: 24
+  Monopols: 17
+Upgrade Heavy Infantry Legion (AVE) to Heavy Infantry Legion (NE) at Fusorium
+Time to Build / Upgrade: 2
+[25060] Technologies Required to Build Unit (73):
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+  [24130] Neumonically-Enhanced Soldiers (32)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

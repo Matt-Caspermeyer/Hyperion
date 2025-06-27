@@ -1,234 +1,145 @@
-All units of the unit class Space Carrier are listed herein (5 in total):
+All units of the unit class Space Freighter are listed herein (3 in total):
 
 --1--
-Name: Space Carrier
-Nick Name: SS-CV
+Name: Space Freighter
+Nick Name: SS-TV
 Scores & Strengths:
-  Tech Score: 337
-  Unit Score: 671
-  Average Score: 504
-  Stat Strength: 588
-  Total Strength: 671
+  Tech Score: 342
+  Unit Score: 681
+  Average Score: 512
+  Stat Strength: 495
+  Total Strength: 681
   Planet Strength: 0
-  Space Strength: 671
+  Space Strength: 681
   Garrison Strength: 0
 Statistics:
   Movement Type: space
   Move Points: 2
-  Spot: 8
+  Spot: 10
   Camouflage: 2
-  Agility: 2
-  Armor: 16
-  Psy Defense: 16
-  Rank: 159
+  Agility: 7
+  Armor: 13
+  Psy Defense: 13
+  Rank: 148
 Attacks:
-  Direct Space: 3/11
-  Closed Space: 5/10
-Cargo Space: 4
-Deploys space units during space attacks
+  Direct Space: 8/15
+  Closed Space: 6/11
+Cargo Space: 2
 Immune to Plague
-Upkeep / Maintenance: 60
-Build Cost: 602
+Upkeep / Maintenance: 36
+Build Cost: 355
 Build Resource Requirements:
-  Food: 8
-  Energy: 25
-  Metal: 131
-  Trace: 16
-  Exotica: 7
-  Chemicals: 78
-  Electronics: 10
-  Gems: 1
-Build Space Carrier in Starport
+  Food: 12
+  Energy: 37
+  Metal: 82
+  Trace: 30
+  Exotica: 11
+  Chemicals: 72
+  Electronics: 19
+Build Space Freighter in Starport
 Time to Build / Upgrade: 5
-[1040] Technologies Required to Build Unit (96):
+[1170] Technologies Required to Build Unit (95):
+  [230] Hospitals (97)
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
-  [100] Psychosocial Engineering (100)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Space Escort Carrier
-Nick Name: SS-CVE
+Name: Jump Freighter
+Nick Name: JJ-TV
 Scores & Strengths:
-  Tech Score: 2166
-  Unit Score: 2164
-  Average Score: 2165
-  Stat Strength: 1768
-  Total Strength: 2164
+  Tech Score: 1168
+  Unit Score: 1167
+  Average Score: 1167
+  Stat Strength: 1095
+  Total Strength: 1167
   Planet Strength: 0
-  Space Strength: 2164
+  Space Strength: 1167
   Garrison Strength: 0
 Statistics:
-  Movement Type: space
-  Move Points: 6
-  Spot: 12
+  Movement Type: jump
+  Move Points: 3
+  Spot: 10
   Camouflage: 2
-  Agility: 4
-  Armor: 28
-  Psy Defense: 28
-  Rank: 172
+  Agility: 10
+  Armor: 21
+  Psy Defense: 21
+  Rank: 170
 Attacks:
-  Direct Space: 12/18
-  Closed Space: 10/18
+  Direct Space: 6/7
+  Closed Space: 5/6
 Cargo Space: 2
-Deploys space units during space attacks
+Space Freighter - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 26
-Build Cost: 262
+Upkeep / Maintenance: 482
+Build Cost: 4815
 Build Resource Requirements:
-  Food: 1
-  Energy: 11
-  Metal: 27
-  Trace: 6
-  Exotica: 2
-  Chemicals: 21
-  Biochems: 25
-  Electronics: 9
-  Ceramsteel: 32
-Build Space Escort Carrier in Starport
-Time to Build / Upgrade: 3
-[11120] Technology Required to Build Unit (84):
-  [11120] Space Escorts (84)
+  Food: 4
+  Energy: 4
+  Metal: 20
+  Trace: 8
+  Exotica: 4
+  Chemicals: 15
+  Electronics: 11
+  Ceramsteel: 29
+  Monopols: 41
+S  ingularities: 2
+Build Jump Freighter in Starport
+Time to Build / Upgrade: 4
+[5975] Technologies Required to Build Unit (77):
+  [1690] Ceramsteel (84)
+  [4285] Jump Drives (70)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Jump Carrier
-Nick Name: JJ-CV
+Name: Gate Freighter
+Nick Name: GG-TV
 Scores & Strengths:
-  Tech Score: 1933
-  Unit Score: 2416
-  Average Score: 2174
-  Stat Strength: 2084
-  Total Strength: 2416
-  Planet Strength: 0
-  Space Strength: 2416
-  Garrison Strength: 0
+  Tech Score: 7257
+  Unit Score: 7256
+  Average Score: 7257
+  Stat Strength: 6227
+  Total Strength: 7256
+  Planet Strength: 6709
+  Space Strength: 6774
+  Garrison Strength: 1398
 Statistics:
-  Movement Type: jump
-  Move Points: 4
-  Spot: 11
-  Camouflage: 4
-  Agility: 3
-  Armor: 31
-  Psy Defense: 31
-  Rank: 215
+  Movement Type: gate
+  Move Points: 23
+  Spot: 16
+  Camouflage: 12
+  Agility: 40
+  Armor: 43
+  Psy Defense: 43
+  Rank: 251
 Attacks:
-  Direct Space: 6/22
-  Closed Space: 10/20
-Cargo Space: 4
-Deploys space units during space attacks
+  Direct Space: 17/19
+  Closed Space: 14/16
+  Direct: 16/17
+  Close: 14/15
+Cargo Space: 2
+Space Freighter - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 556
-Build Cost: 5563
-Build Resource Requirements:
-  Food: 1
-  Energy: 27
-  Metal: 22
-  Trace: 5
-  Exotica: 1
-  Chemicals: 37
-  Electronics: 8
-  Monopols: 60
-Build Jump Carrier in Starport
-Time to Build / Upgrade: 5
-[12900] Technologies Required to Build Unit (67):
-  [4285] Jump Drives (70)
-  [8615] Fusion Beam (63)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: Space Light Carrier
-Nick Name: SS-CLA
-Scores & Strengths:
-  Tech Score: 2511
-  Unit Score: 2510
-  Average Score: 2511
-  Stat Strength: 2036
-  Total Strength: 2510
-  Planet Strength: 0
-  Space Strength: 2510
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 16
-  Spot: 12
-  Camouflage: 2
-  Agility: 8
-  Armor: 28
-  Psy Defense: 28
-  Rank: 166
-Attacks:
-  Direct Space: 13/18
-  Closed Space: 15/16
-Cargo Space: 1
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 100
-Build Cost: 997
+Upkeep / Maintenance: 2209
+Build Cost: 22088
 Build Resource Requirements:
   Food: 2
-  Energy: 9
-  Metal: 12
-  Trace: 7
+  Energy: 10
+  Metal: 8
+  Trace: 5
   Exotica: 2
-  Chemicals: 15
+  Chemicals: 18
   Biochems: 22
-  Electronics: 11
-  Ceramsteel: 15
-  Monopols: 23
-Build Space Light Carrier in Starport
-Time to Build / Upgrade: 3
-[13545] Technology Required to Build Unit (80):
-  [13545] Space Capital Ships (80)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Jump Carrier MkII
-Nick Name: JJ-CV2
-Scores & Strengths:
-  Tech Score: 5419
-  Unit Score: 6606
-  Average Score: 6013
-  Stat Strength: 5718
-  Total Strength: 6606
-  Planet Strength: 0
-  Space Strength: 6606
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 7
-  Spot: 14
-  Camouflage: 7
-  Agility: 4
-  Armor: 52
-  Psy Defense: 52
-  Rank: 271
-Attacks:
-  Direct Space: 10/36
-  Closed Space: 16/33
-Cargo Space: 4
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 417
-Build Cost: 4165
-Build Resource Requirements:
-  Food: 1
-  Energy: 24
-  Metal: 18
-  Trace: 3
-  Exotica: 1
-  Chemicals: 41
-  Biochems: 30
-  Electronics: 15
-  Ceramsteel: 29
-  Monopols: 40
-Build Jump Carrier MkII in Starport
-Time to Build / Upgrade: 5
-[37775] Technology Required to Build Unit (61):
-  [37775] Jump Capital Ships (61)
+  Electronics: 14
+  Ceramsteel: 14
+  Wetware: 9
+  Monopols: 27
+S  ingularities: 5
+Build Gate Freighter in Starport
+Time to Build / Upgrade: 4
+[55760] Technology Required to Build Unit (49):
+  [55760] Gate Transports (49)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

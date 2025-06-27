@@ -1,389 +1,44 @@
-All units of the unit class Reconnaissance Triplane are listed herein (9 in total):
+All units of the unit class Anti-Aircraft Gun are listed herein (1 in total):
 
 --1--
-Name: Reconnaissance Triplane
-Nick Name: A-TR
+Name: Anti-Aircraft Gun
+Nick Name: Flak
 Scores & Strengths:
-  Tech Score: 216
-  Unit Score: 213
-  Average Score: 215
-  Stat Strength: 213
-  Total Strength: 213
-  Planet Strength: 213
+  Tech Score: 219
+  Unit Score: 218
+  Average Score: 219
+  Stat Strength: 162
+  Total Strength: 218
+  Planet Strength: 218
   Space Strength: 0
-  Garrison Strength: 75
+  Garrison Strength: 109
 Statistics:
-  Movement Type: air
-  Move Points: 8
-  Spot: 8
-  Camouflage: 1
-  Agility: 8
-  Armor: 4
-  Psy Defense: 2
-  Rank: 77
-Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 38
-Build Resource Requirements:
-  Food: 18
-  Energy: 14
-  Metal: 14
-  Trace: 18
-  Exotica: 18
-  Chemicals: 16
-  Electronics: 13
-Build Reconnaissance Triplane in Factory
-Time to Build / Upgrade: 2
-[515] Technology Required to Build Unit (93):
-  [515] Triplane (93)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---2--
-Name: Attack Fighter Triplane
-Nick Name: A-TAF
-Scores & Strengths:
-  Tech Score: 216
-  Unit Score: 429
-  Average Score: 323
-  Stat Strength: 346
-  Total Strength: 429
-  Planet Strength: 429
-  Space Strength: 0
-  Garrison Strength: 151
-Statistics:
-  Movement Type: air
-  Move Points: 8
-  Spot: 8
+  Movement Type: wheel
+  Move Points: 4
+  Spot: 4
   Camouflage: 2
-  Agility: 13
-  Armor: 6
-  Psy Defense: 3
-  Rank: 113
-Attacks:
-  Air: 4/8
-  Indirect: 5/6
-  Direct: 3/7
-Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 111
-Build Resource Requirements:
-  Food: 25
-  Energy: 47
-  Metal: 31
-  Trace: 34
-  Exotica: 25
-  Chemicals: 49
-  Electronics: 24
-Build Attack Fighter Triplane in Factory
-Time to Build / Upgrade: 4
-[515] Technology Required to Build Unit (93):
-  [515] Triplane (93)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---3--
-Name: Bomber Triplane
-Nick Name: A-TB
-Scores & Strengths:
-  Tech Score: 216
-  Unit Score: 429
-  Average Score: 323
-  Stat Strength: 301
-  Total Strength: 429
-  Planet Strength: 429
-  Space Strength: 0
-  Garrison Strength: 135
-Statistics:
-  Movement Type: air
-  Move Points: 10
-  Spot: 6
-  Camouflage: 2
-  Agility: 9
-  Armor: 8
-  Psy Defense: 4
-  Rank: 153
-Attacks:
-  Air: 4/7
-  Indirect: 5/20
-Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 110
-Build Resource Requirements:
-  Food: 21
-  Energy: 94
-  Metal: 55
-  Trace: 20
-  Exotica: 20
-  Chemicals: 34
-  Electronics: 14
-Build Bomber Triplane in Factory
-Time to Build / Upgrade: 4
-[515] Technology Required to Build Unit (93):
-  [515] Triplane (93)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---4--
-Name: Fighter Triplane
-Nick Name: A-TF
-Scores & Strengths:
-  Tech Score: 216
-  Unit Score: 429
-  Average Score: 323
-  Stat Strength: 338
-  Total Strength: 429
-  Planet Strength: 429
-  Space Strength: 0
-  Garrison Strength: 143
-Statistics:
-  Movement Type: air
-  Move Points: 9
-  Spot: 8
-  Camouflage: 2
-  Agility: 12
-  Armor: 6
-  Psy Defense: 3
-  Rank: 138
-Attacks:
-  Air: 6/11
-  Indirect: 5/5
-Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 112
-Build Resource Requirements:
-  Food: 25
-  Energy: 46
-  Metal: 31
-  Trace: 34
-  Exotica: 25
-  Chemicals: 51
-  Electronics: 24
-Build Fighter Triplane in Factory
-Time to Build / Upgrade: 5
-[515] Technology Required to Build Unit (93):
-  [515] Triplane (93)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Trench Strafer Triplane
-Nick Name: A-TTS
-Scores & Strengths:
-  Tech Score: 216
-  Unit Score: 429
-  Average Score: 323
-  Stat Strength: 330
-  Total Strength: 429
-  Planet Strength: 429
-  Space Strength: 0
-  Garrison Strength: 162
-Statistics:
-  Movement Type: air
-  Move Points: 7
-  Spot: 6
-  Camouflage: 2
-  Agility: 14
-  Armor: 6
-  Psy Defense: 3
-  Rank: 118
-Attacks:
-  Air: 2/7
-  Direct: 3/12
-  Close: 7/7
-Load aboard transport: YES
-Upkeep / Maintenance: 13
-Build Cost: 132
-Build Resource Requirements:
-  Food: 22
-  Energy: 62
-  Metal: 31
-  Trace: 39
-  Exotica: 22
-  Chemicals: 75
-  Electronics: 28
-Build Trench Strafer Triplane in Factory
-Time to Build / Upgrade: 5
-[515] Technology Required to Build Unit (93):
-  [515] Triplane (93)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Zeppelin Interceptor
-Nick Name: A-TZI
-Scores & Strengths:
-  Tech Score: 216
-  Unit Score: 429
-  Average Score: 323
-  Stat Strength: 354
-  Total Strength: 429
-  Planet Strength: 429
-  Space Strength: 0
-  Garrison Strength: 135
-Statistics:
-  Movement Type: air
-  Move Points: 10
-  Spot: 6
-  Camouflage: 2
-  Agility: 13
-  Armor: 6
-  Psy Defense: 3
-  Rank: 136
-Attacks:
-  Air: 6/10
-  Indirect: 3/5
-Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 111
-Build Resource Requirements:
-  Food: 26
-  Energy: 47
-  Metal: 31
-  Trace: 31
-  Exotica: 25
-  Chemicals: 52
-  Electronics: 22
-Build Zeppelin Interceptor in Factory
-Time to Build / Upgrade: 4
-[515] Technology Required to Build Unit (93):
-  [515] Triplane (93)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---7--
-Name: Giant Bomber Triplane
-Nick Name: A-TGB
-Scores & Strengths:
-  Tech Score: 285
-  Unit Score: 567
-  Average Score: 426
-  Stat Strength: 455
-  Total Strength: 567
-  Planet Strength: 567
-  Space Strength: 0
-  Garrison Strength: 157
-Statistics:
-  Movement Type: air
-  Move Points: 13
-  Spot: 6
-  Camouflage: 2
-  Agility: 11
+  Agility: 1
   Armor: 10
   Psy Defense: 5
-  Rank: 161
+  Rank: 145
 Attacks:
-  Indirect: 4/28
+  Air: 4/14
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 89
+Can be towed
+Upkeep / Maintenance: 4
+Build Cost: 44
 Build Resource Requirements:
-  Food: 17
-  Energy: 91
-  Metal: 47
-  Trace: 11
-  Exotica: 17
-  Chemicals: 23
-  Electronics: 8
-Build Giant Bomber Triplane in Factory
-Time to Build / Upgrade: 4
-[1125] Technologies Required to Build Unit (94):
-  [515] Triplane (93)
-  [610] Air-Air Rockets (94)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---8--
-Name: Battle Triplane
-Nick Name: A-TBttl
-Scores & Strengths:
-  Tech Score: 285
-  Unit Score: 568
-  Average Score: 427
-  Stat Strength: 474
-  Total Strength: 568
-  Planet Strength: 568
-  Space Strength: 0
-  Garrison Strength: 179
-Statistics:
-  Movement Type: air
-  Move Points: 10
-  Spot: 6
-  Camouflage: 2
-  Agility: 17
-  Armor: 6
-  Psy Defense: 3
-  Rank: 142
-Attacks:
-  Air: 6/9
-  Indirect: 5/8
-Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 78
-Build Resource Requirements:
-  Food: 18
-  Energy: 33
-  Metal: 17
-  Trace: 24
-  Exotica: 18
-  Chemicals: 34
-  Electronics: 17
-Build Battle Triplane in Factory
-Time to Build / Upgrade: 4
-[1125] Technologies Required to Build Unit (94):
-  [515] Triplane (93)
-  [610] Air-Air Rockets (94)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---9--
-Name: Large Bomber Triplane
-Nick Name: A-TLB
-Scores & Strengths:
-  Tech Score: 285
-  Unit Score: 568
-  Average Score: 427
-  Stat Strength: 460
-  Total Strength: 568
-  Planet Strength: 568
-  Space Strength: 0
-  Garrison Strength: 163
-Statistics:
-  Movement Type: air
-  Move Points: 12
-  Spot: 6
-  Camouflage: 2
-  Agility: 14
-  Armor: 8
-  Psy Defense: 4
-  Rank: 152
-Attacks:
-  Air: 3/6
-  Indirect: 5/18
-Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 78
-Build Resource Requirements:
-  Food: 18
-  Energy: 53
-  Metal: 30
-  Trace: 16
-  Exotica: 18
-  Chemicals: 28
-  Electronics: 11
-Build Large Bomber Triplane in Factory
-Time to Build / Upgrade: 4
-[1125] Technologies Required to Build Unit (94):
-  [515] Triplane (93)
-  [610] Air-Air Rockets (94)
+  Food: 5
+  Energy: 36
+  Metal: 74
+  Trace: 9
+  Exotica: 4
+  Chemicals: 43
+  Electronics: 6
+Build Anti-Aircraft Gun in Factory
+Time to Build / Upgrade: 3
+[525] Technology Required to Build Unit (94):
+  [525] Anti-Aircraft Weaponry (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

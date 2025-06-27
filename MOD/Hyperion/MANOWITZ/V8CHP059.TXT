@@ -1,438 +1,346 @@
-All units of the unit class Attack Fighter Plane are listed herein (10 in total):
+All units of the unit class Reconnaissance Biplane are listed herein (8 in total):
 
 --1--
-Name: Attack Fighter Plane
-Nick Name: A-PAF
+Name: Reconnaissance Biplane
+Nick Name: A-BR
 Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 157
-  Average Score: 132
-  Stat Strength: 89
-  Total Strength: 157
-  Planet Strength: 157
+  Tech Score: 172
+  Unit Score: 170
+  Average Score: 171
+  Stat Strength: 170
+  Total Strength: 170
+  Planet Strength: 170
   Space Strength: 0
-  Garrison Strength: 64
+  Garrison Strength: 60
 Statistics:
   Movement Type: air
-  Move Points: 6
-  Spot: 4
+  Move Points: 8
+  Spot: 6
   Camouflage: 1
-  Agility: 4
+  Agility: 7
   Armor: 4
   Psy Defense: 2
-  Rank: 111
-Attacks:
-  Air: 4/6
-  Indirect: 5/4
-  Direct: 6/4
+  Rank: 77
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 33
+Upkeep / Maintenance: 4
+Build Cost: 39
 Build Resource Requirements:
-  Food: 9
-  Energy: 23
-  Metal: 8
-  Trace: 18
-  Exotica: 8
+  Food: 19
+  Energy: 15
+  Metal: 14
+  Trace: 14
+  Exotica: 19
   Chemicals: 17
-Build Attack Fighter Plane in Factory
+  Electronics: 13
+Build Reconnaissance Biplane in Factory
 Time to Build / Upgrade: 2
-[350] Technologies Required to Build Unit (97):
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [60] Aerial Reconnaissance (97)
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Battle Plane
-Nick Name: A-PBttl
+Name: Attack Fighter Biplane
+Nick Name: A-BAF
 Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 157
-  Average Score: 132
-  Stat Strength: 102
-  Total Strength: 157
-  Planet Strength: 157
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 293
+  Total Strength: 341
+  Planet Strength: 341
   Space Strength: 0
-  Garrison Strength: 59
+  Garrison Strength: 139
 Statistics:
   Movement Type: air
-  Move Points: 7
-  Spot: 4
-  Camouflage: 1
-  Agility: 4
-  Armor: 4
-  Psy Defense: 2
-  Rank: 137
+  Move Points: 6
+  Spot: 8
+  Camouflage: 2
+  Agility: 12
+  Armor: 6
+  Psy Defense: 3
+  Rank: 112
 Attacks:
-  Air: 5/5
-  Indirect: 6/5
+  Air: 2/5
+  Indirect: 4/5
+  Direct: 3/6
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 29
+Upkeep / Maintenance: 11
+Build Cost: 114
 Build Resource Requirements:
-  Food: 10
-  Energy: 20
-  Metal: 8
-  Trace: 12
-  Exotica: 10
-  Chemicals: 13
-Build Battle Plane in Factory
-Time to Build / Upgrade: 2
-[350] Technologies Required to Build Unit (97):
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [60] Aerial Reconnaissance (97)
+  Food: 30
+  Energy: 39
+  Metal: 31
+  Trace: 35
+  Exotica: 30
+  Chemicals: 38
+  Electronics: 33
+Build Attack Fighter Biplane in Factory
+Time to Build / Upgrade: 4
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Bomber Plane
-Nick Name: A-PB
+Name: Bomber Biplane
+Nick Name: A-BB
 Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 157
-  Average Score: 132
-  Stat Strength: 117
-  Total Strength: 157
-  Planet Strength: 157
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 248
+  Total Strength: 341
+  Planet Strength: 341
   Space Strength: 0
-  Garrison Strength: 55
+  Garrison Strength: 120
 Statistics:
   Movement Type: air
   Move Points: 8
-  Spot: 4
-  Camouflage: 1
-  Agility: 4
-  Armor: 4
-  Psy Defense: 2
-  Rank: 141
+  Spot: 6
+  Camouflage: 2
+  Agility: 8
+  Armor: 8
+  Psy Defense: 4
+  Rank: 150
 Attacks:
-  Air: 2/2
-  Indirect: 3/12
+  Air: 2/4
+  Indirect: 5/17
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 35
+Upkeep / Maintenance: 10
+Build Cost: 101
 Build Resource Requirements:
-  Food: 12
-  Energy: 46
-  Metal: 8
-  Trace: 6
-  Exotica: 11
-  Chemicals: 10
-Build Bomber Plane in Factory
-Time to Build / Upgrade: 2
-[350] Technologies Required to Build Unit (97):
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [60] Aerial Reconnaissance (97)
+  Food: 22
+  Energy: 79
+  Metal: 55
+  Trace: 20
+  Exotica: 21
+  Chemicals: 24
+  Electronics: 17
+Build Bomber Biplane in Factory
+Time to Build / Upgrade: 4
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Giant Bomber Plane
-Nick Name: A-PGB
+Name: Fighter Biplane
+Nick Name: A-BF
 Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 157
-  Average Score: 132
-  Stat Strength: 141
-  Total Strength: 157
-  Planet Strength: 157
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 306
+  Total Strength: 341
+  Planet Strength: 341
   Space Strength: 0
-  Garrison Strength: 49
+  Garrison Strength: 128
 Statistics:
   Movement Type: air
-  Move Points: 10
-  Spot: 4
-  Camouflage: 1
-  Agility: 2
-  Armor: 4
-  Psy Defense: 2
-  Rank: 143
+  Move Points: 7
+  Spot: 8
+  Camouflage: 2
+  Agility: 12
+  Armor: 6
+  Psy Defense: 3
+  Rank: 132
 Attacks:
-  Indirect: 1/16
+  Air: 4/8
+  Indirect: 1/3
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 48
+Upkeep / Maintenance: 12
+Build Cost: 118
 Build Resource Requirements:
-  Food: 15
-  Energy: 75
-  Metal: 8
-  Trace: 4
-  Exotica: 14
-  Chemicals: 13
-Build Giant Bomber Plane in Factory
-Time to Build / Upgrade: 3
-[350] Technologies Required to Build Unit (97):
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [60] Aerial Reconnaissance (97)
+  Food: 32
+  Energy: 39
+  Metal: 31
+  Trace: 36
+  Exotica: 31
+  Chemicals: 41
+  Electronics: 34
+Build Fighter Biplane in Factory
+Time to Build / Upgrade: 5
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Large Bomber Plane
-Nick Name: A-PLB
+Name: Trench Strafer Biplane
+Nick Name: A-BTS
 Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 157
-  Average Score: 132
-  Stat Strength: 143
-  Total Strength: 157
-  Planet Strength: 157
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 286
+  Total Strength: 341
+  Planet Strength: 341
   Space Strength: 0
-  Garrison Strength: 52
+  Garrison Strength: 152
 Statistics:
   Movement Type: air
-  Move Points: 9
+  Move Points: 5
   Spot: 4
-  Camouflage: 1
-  Agility: 5
-  Armor: 4
-  Psy Defense: 2
-  Rank: 139
+  Camouflage: 2
+  Agility: 14
+  Armor: 6
+  Psy Defense: 3
+  Rank: 112
 Attacks:
-  Air: 1/2
-  Indirect: 1/12
+  Air: 3/3
+  Direct: 3/6
+  Close: 7/4
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 41
+Upkeep / Maintenance: 12
+Build Cost: 119
 Build Resource Requirements:
-  Food: 15
-  Energy: 49
-  Metal: 8
-  Trace: 6
-  Exotica: 14
-  Chemicals: 13
-Build Large Bomber Plane in Factory
-Time to Build / Upgrade: 2
-[350] Technologies Required to Build Unit (97):
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [60] Aerial Reconnaissance (97)
+  Food: 24
+  Energy: 38
+  Metal: 31
+  Trace: 45
+  Exotica: 24
+  Chemicals: 43
+  Electronics: 42
+Build Trench Strafer Biplane in Factory
+Time to Build / Upgrade: 5
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Reconnaissance Plane
-Nick Name: A-PR
+Name: Battle Biplane
+Nick Name: A-BBttl
 Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 157
-  Average Score: 132
-  Stat Strength: 157
-  Total Strength: 157
-  Planet Strength: 157
+  Tech Score: 245
+  Unit Score: 488
+  Average Score: 367
+  Stat Strength: 405
+  Total Strength: 488
+  Planet Strength: 488
   Space Strength: 0
-  Garrison Strength: 52
+  Garrison Strength: 172
 Statistics:
   Movement Type: air
-  Move Points: 9
+  Move Points: 8
   Spot: 6
   Camouflage: 2
-  Agility: 4
-  Armor: 4
-  Psy Defense: 2
-  Rank: 76
+  Agility: 16
+  Armor: 6
+  Psy Defense: 3
+  Rank: 143
+Attacks:
+  Air: 5/7
+  Indirect: 6/8
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 32
+Upkeep / Maintenance: 7
+Build Cost: 72
 Build Resource Requirements:
   Food: 17
-  Energy: 13
-  Metal: 8
-  Trace: 10
-  Exotica: 16
-  Chemicals: 11
-Build Reconnaissance Plane in Factory
-Time to Build / Upgrade: 2
-[350] Technologies Required to Build Unit (97):
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [60] Aerial Reconnaissance (97)
+  Energy: 30
+  Metal: 17
+  Trace: 23
+  Exotica: 17
+  Chemicals: 28
+  Electronics: 18
+Build Battle Biplane in Factory
+Time to Build / Upgrade: 4
+[990] Technologies Required to Build Unit (94):
+  [380] Biplane (93)
+  [610] Air-Air Rockets (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Trench Strafer Plane
-Nick Name: A-PTS
+Name: Giant Bomber Biplane
+Nick Name: A-BGB
 Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 157
-  Average Score: 132
-  Stat Strength: 137
-  Total Strength: 157
-  Planet Strength: 157
+  Tech Score: 245
+  Unit Score: 488
+  Average Score: 367
+  Stat Strength: 386
+  Total Strength: 488
+  Planet Strength: 488
   Space Strength: 0
-  Garrison Strength: 64
+  Garrison Strength: 147
 Statistics:
   Movement Type: air
-  Move Points: 6
-  Spot: 4
-  Camouflage: 1
-  Agility: 8
-  Armor: 4
-  Psy Defense: 2
-  Rank: 106
+  Move Points: 11
+  Spot: 6
+  Camouflage: 2
+  Agility: 10
+  Armor: 10
+  Psy Defense: 5
+  Rank: 152
 Attacks:
-  Air: 1/2
-  Direct: 2/3
-  Close: 3/4
+  Indirect: 6/17
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 33
+Upkeep / Maintenance: 7
+Build Cost: 67
 Build Resource Requirements:
-  Food: 13
-  Energy: 18
-  Metal: 8
-  Trace: 13
-  Exotica: 12
-  Chemicals: 16
-Build Trench Strafer Plane in Factory
-Time to Build / Upgrade: 2
-[350] Technologies Required to Build Unit (97):
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [60] Aerial Reconnaissance (97)
+  Food: 15
+  Energy: 44
+  Metal: 47
+  Trace: 11
+  Exotica: 15
+  Chemicals: 18
+  Electronics: 8
+Build Giant Bomber Biplane in Factory
+Time to Build / Upgrade: 3
+[990] Technologies Required to Build Unit (94):
+  [380] Biplane (93)
+  [610] Air-Air Rockets (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Torpedo Plane
-Nick Name: A-PT
+Name: Large Bomber Biplane
+Nick Name: A-BLB
 Scores & Strengths:
-  Tech Score: 146
-  Unit Score: 182
-  Average Score: 164
-  Stat Strength: 134
-  Total Strength: 182
-  Planet Strength: 182
+  Tech Score: 245
+  Unit Score: 488
+  Average Score: 367
+  Stat Strength: 389
+  Total Strength: 488
+  Planet Strength: 488
   Space Strength: 0
-  Garrison Strength: 74
-Statistics:
-  Movement Type: air
-  Move Points: 6
-  Spot: 4
-  Camouflage: 1
-  Agility: 6
-  Armor: 6
-  Psy Defense: 3
-  Rank: 141
-Attacks:
-  Water: 1/24
-  Indirect: 2/12
-Load aboard transport: YES
-Upkeep / Maintenance: 14
-Build Cost: 135
-Build Resource Requirements:
-  Food: 12
-  Energy: 168
-  Metal: 33
-  Trace: 9
-  Exotica: 10
-  Chemicals: 137
-  Electronics: 8
-Build Torpedo Plane in Factory
-Time to Build / Upgrade: 5
-[305] Technologies Required to Build Unit (95):
-  [245] Rotary Engine (92)
-  [60] Torpedo (98)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---9--
-Name: Fighter Plane
-Nick Name: A-PF
-Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 209
-  Average Score: 158
-  Stat Strength: 157
-  Total Strength: 209
-  Planet Strength: 209
-  Space Strength: 0
-  Garrison Strength: 85
-Statistics:
-  Movement Type: air
-  Move Points: 6
-  Spot: 4
-  Camouflage: 2
-  Agility: 9
-  Armor: 4
-  Psy Defense: 2
-  Rank: 136
-Attacks:
-  Air: 8/4
-  Indirect: 4/5
-Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 49
-Build Resource Requirements:
-  Food: 15
-  Energy: 23
-  Metal: 8
-  Trace: 29
-  Exotica: 14
-  Chemicals: 15
-Build Fighter Plane in Factory
-Time to Build / Upgrade: 3
-[350] Technologies Required to Build Unit (97):
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [60] Aerial Reconnaissance (97)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---10--
-Name: Interceptor Plane
-Nick Name: A-PI
-Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 261
-  Average Score: 184
-  Stat Strength: 229
-  Total Strength: 261
-  Planet Strength: 261
-  Space Strength: 0
-  Garrison Strength: 82
+  Garrison Strength: 154
 Statistics:
   Movement Type: air
   Move Points: 10
   Spot: 6
-  Camouflage: 3
-  Agility: 8
-  Armor: 4
-  Psy Defense: 2
-  Rank: 164
+  Camouflage: 2
+  Agility: 13
+  Armor: 8
+  Psy Defense: 4
+  Rank: 149
 Attacks:
-  Air: 8/4
+  Air: 3/5
+  Indirect: 6/14
 Load aboard transport: YES
 Upkeep / Maintenance: 7
-Build Cost: 72
+Build Cost: 69
 Build Resource Requirements:
-  Food: 24
-  Energy: 24
-  Metal: 8
-  Trace: 33
-  Exotica: 23
-  Chemicals: 21
-Build Interceptor Plane in Factory
+  Food: 16
+  Energy: 39
+  Metal: 30
+  Trace: 16
+  Exotica: 16
+  Chemicals: 23
+  Electronics: 12
+Build Large Bomber Biplane in Factory
 Time to Build / Upgrade: 4
-[350] Technologies Required to Build Unit (97):
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [60] Aerial Reconnaissance (97)
+[990] Technologies Required to Build Unit (94):
+  [380] Biplane (93)
+  [610] Air-Air Rockets (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

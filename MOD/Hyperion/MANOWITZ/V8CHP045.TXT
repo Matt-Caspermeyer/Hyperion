@@ -1,42 +1,488 @@
-All units of the unit class Land Mine are listed herein (1 in total):
+All units of the unit class Freedom Fighter are listed herein (12 in total):
 
 --1--
-Name: Land Mine
-Nick Name: Land Mine
+Name: Freedom Fighter
+Nick Name: Free Fighter
 Scores & Strengths:
-  Tech Score: 135
-  Unit Score: 133
-  Average Score: 134
-  Stat Strength: 100
-  Total Strength: 133
-  Planet Strength: 133
+  Tech Score: 151
+  Unit Score: 151
+  Average Score: 151
+  Stat Strength: 117
+  Total Strength: 151
+  Planet Strength: 151
   Space Strength: 0
-  Garrison Strength: 166
+  Garrison Strength: 75
 Statistics:
   Movement Type: foot
-  Move Points: 0
-  Spot: 0
-  Camouflage: 10
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 0
+  Move Points: 4
+  Spot: 4
+  Camouflage: 4
+  Agility: 8
+  Armor: 2
+  Psy Defense: 1
+  Rank: 35
 Attacks:
-  Indirect: 3/11
+  Direct: 4/4
+  Close: 6/3
 Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
+Upkeep / Maintenance: 5
+Build Cost: 37
+Build Resource Requirements:
+  Energy: 5
+  Metal: 1
+  Trace: 59
+  Exotica: 22
+  Chemicals: 29
+Upgrade Peasant to Freedom Fighter at Farm
+Time to Build / Upgrade: 1
+[320] Technology Required to Build Unit (88):
+  [320] Viper Militia (88)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Freedom Fighter (PE)
+Nick Name: FF (PE)
+Scores & Strengths:
+  Tech Score: 195
+  Unit Score: 198
+  Average Score: 197
+  Stat Strength: 152
+  Total Strength: 198
+  Planet Strength: 198
+  Space Strength: 0
+  Garrison Strength: 88
+Statistics:
+  Movement Type: foot
+  Move Points: 5
+  Spot: 4
+  Camouflage: 5
+  Agility: 9
+  Armor: 2
+  Psy Defense: 1
+  Rank: 37
+Attacks:
+  Direct: 5/5
+  Close: 7/3
+Load aboard transport: YES
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 4
+Build Cost: 30
+Build Resource Requirements:
+  Trace: 44
+  Exotica: 16
+  Chemicals: 22
+Upgrade Peasant to Freedom Fighter (PE) at Fort
+Time to Build / Upgrade: 1
+[500] Technologies Required to Build Unit (89):
+  [320] Viper Militia (88)
+  [180] Performance-Enhanced Soldiers (90)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Freedom Fighter (BE)
+Nick Name: FF (BE)
+Scores & Strengths:
+  Tech Score: 239
+  Unit Score: 228
+  Average Score: 234
+  Stat Strength: 166
+  Total Strength: 228
+  Planet Strength: 228
+  Space Strength: 0
+  Garrison Strength: 101
+Statistics:
+  Movement Type: foot
+  Move Points: 5
+  Spot: 5
+  Camouflage: 5
+  Agility: 9
+  Armor: 3
+  Psy Defense: 1
+  Rank: 38
+Attacks:
+  Direct: 6/5
+  Close: 8/4
+Load aboard transport: YES
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 6
+Build Cost: 20
+Build Resource Requirements:
+  Metal: 2
+  Biochems: 37
+Upgrade Freedom Fighter to Freedom Fighter (BE) at Biochem Plant
+Time to Build / Upgrade: 1
+[740] Technologies Required to Build Unit (83):
+  [320] Viper Militia (88)
+  [420] Biochem-Enhanced Soldiers (77)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Freedom Fighter (SE)
+Nick Name: FF (SE)
+Scores & Strengths:
+  Tech Score: 313
+  Unit Score: 296
+  Average Score: 305
+  Stat Strength: 210
+  Total Strength: 296
+  Planet Strength: 296
+  Space Strength: 0
+  Garrison Strength: 120
+Statistics:
+  Movement Type: foot
+  Move Points: 6
+  Spot: 5
+  Camouflage: 6
+  Agility: 10
+  Armor: 3
+  Psy Defense: 2
+  Rank: 40
+Attacks:
+  Direct: 6/6
+  Close: 10/5
+Load aboard transport: YES
+Upkeep / Maintenance: 6
+Build Cost: 24
+Build Resource Requirements:
+  Biochems: 45
+Upgrade Freedom Fighter to Freedom Fighter (SE) at Hospital
+Time to Build / Upgrade: 1
+[995] Technologies Required to Build Unit (82):
+  [320] Viper Militia (88)
+  [675] Surgically-Enhanced Soldiers (75)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Freedom Fighter (DE)
+Nick Name: FF (DE)
+Scores & Strengths:
+  Tech Score: 930
+  Unit Score: 719
+  Average Score: 824
+  Stat Strength: 481
+  Total Strength: 719
+  Planet Strength: 719
+  Space Strength: 0
+  Garrison Strength: 216
+Statistics:
+  Movement Type: foot
+  Move Points: 11
+  Spot: 6
+  Camouflage: 11
+  Agility: 13
+  Armor: 5
+  Psy Defense: 3
+  Rank: 54
+Attacks:
+  Direct: 11/10
+  Close: 16/8
+Load aboard transport: YES
+Upkeep / Maintenance: 4
+Build Cost: 4
+Build Resource Requirements:
+  Metal: 7
+  Biochems: 31
+  Electronics: 28
+Upgrade Freedom Fighter to Freedom Fighter (DE) at Biochem Plant
+Time to Build / Upgrade: 1
+[3760] Technologies Required to Build Unit (77):
+  [320] Viper Militia (88)
+  [3440] Drug-Enhanced Soldiers (65)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Freedom Fighter (GE)
+Nick Name: FF (GE)
+Scores & Strengths:
+  Tech Score: 1394
+  Unit Score: 997
+  Average Score: 1196
+  Stat Strength: 628
+  Total Strength: 997
+  Planet Strength: 997
+  Space Strength: 0
+  Garrison Strength: 276
+Statistics:
+  Movement Type: foot
+  Move Points: 13
+  Spot: 7
+  Camouflage: 13
+  Agility: 14
+  Armor: 6
+  Psy Defense: 3
+  Rank: 63
+Attacks:
+  Direct: 13/13
+  Close: 20/10
+Load aboard transport: YES
+Upkeep / Maintenance: 4
+Build Cost: 40
+Build Resource Requirements:
+  Energy: 1
+  Trace: 1
+  Chemicals: 4
+  Biochems: 8
+  Electronics: 3
+  Ceramsteel: 1
+Upgrade Freedom Fighter (DE) to Freedom Fighter (GE) at Lab
+Time to Build / Upgrade: 1
+[6340] Technologies Required to Build Unit (69):
+  [320] Viper Militia (88)
+  [6020] Chemical Shock Legion (49)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Freedom Fighter (PA)
+Nick Name: FF (PA)
+Scores & Strengths:
+  Tech Score: 1420
+  Unit Score: 1010
+  Average Score: 1215
+  Stat Strength: 641
+  Total Strength: 1010
+  Planet Strength: 1010
+  Space Strength: 0
+  Garrison Strength: 280
+Statistics:
+  Movement Type: foot
+  Move Points: 13
+  Spot: 7
+  Camouflage: 13
+  Agility: 14
+  Armor: 7
+  Psy Defense: 3
+  Rank: 63
+Attacks:
+  Direct: 13/13
+  Close: 20/10
+Load aboard transport: YES
+Upkeep / Maintenance: 6
+Build Cost: 31
+Build Resource Requirements:
+  Energy: 4
+  Chemicals: 14
+  Electronics: 42
+  Ceramsteel: 5
+Upgrade Freedom Fighter (SE) to Freedom Fighter (PA) at Hospital
+Time to Build / Upgrade: 1
+[6495] Technologies Required to Build Unit (73):
+  [320] Viper Militia (88)
+  [6175] Prosthetically-Augmented Soldiers (57)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Freedom Fighter (CE)
+Nick Name: FF (CE)
+Scores & Strengths:
+  Tech Score: 1792
+  Unit Score: 1271
+  Average Score: 1531
+  Stat Strength: 804
+  Total Strength: 1271
+  Planet Strength: 1271
+  Space Strength: 0
+  Garrison Strength: 328
+Statistics:
+  Movement Type: foot
+  Move Points: 15
+  Spot: 8
+  Camouflage: 15
+  Agility: 15
+  Armor: 7
+  Psy Defense: 4
+  Rank: 70
+Attacks:
+  Direct: 15/15
+  Close: 22/11
+Load aboard transport: YES
+Upkeep / Maintenance: 6
+Build Cost: 26
+Build Resource Requirements:
+  Food: 1
+  Energy: 5
+  Exotica: 2
+  Chemicals: 7
+  Biochems: 1
+  Ceramsteel: 1
+Upgrade Freedom Fighter (PA) to Freedom Fighter (CE) at Lab
+Time to Build / Upgrade: 1
+[8920] Technologies Required to Build Unit (68):
+  [320] Viper Militia (88)
+  [8600] Cybernetically-Enhanced Soldiers (48)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Freedom Fighter (AVE)
+Nick Name: FF (AVE)
+Scores & Strengths:
+  Tech Score: 1857
+  Unit Score: 1328
+  Average Score: 1593
+  Stat Strength: 850
+  Total Strength: 1328
+  Planet Strength: 1328
+  Space Strength: 0
+  Garrison Strength: 342
+Statistics:
+  Movement Type: foot
+  Move Points: 15
+  Spot: 8
+  Camouflage: 15
+  Agility: 16
+  Armor: 8
+  Psy Defense: 4
+  Rank: 71
+Attacks:
+  Direct: 15/15
+  Close: 23/11
+Load aboard transport: YES
+Upkeep / Maintenance: 5
+Build Cost: 9
+Build Resource Requirements:
+  Energy: 2
+  Chemicals: 4
+  Biochems: 6
+  Electronics: 1
+Upgrade Freedom Fighter (GE) to Freedom Fighter (AVE) at Lab
+Time to Build / Upgrade: 1
+[9220] Technologies Required to Build Unit (57):
+  [320] Viper Militia (88)
+  [8900] Genetically-Enhanced Warriors (25)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Freedom Fighter (ME)
+Nick Name: FF (ME)
+Scores & Strengths:
+  Tech Score: 1428
+  Unit Score: 1633
+  Average Score: 1530
+  Stat Strength: 1227
+  Total Strength: 1633
+  Planet Strength: 1633
+  Space Strength: 0
+  Garrison Strength: 333
+Statistics:
+  Movement Type: foot
+  Move Points: 24
+  Spot: 7
+  Camouflage: 12
+  Agility: 20
+  Armor: 7
+  Psy Defense: 3
+  Rank: 68
+Attacks:
+  Direct: 14/14
+  Close: 21/10
+Load aboard transport: YES
+Upkeep / Maintenance: 5
 Build Cost: 14
 Build Resource Requirements:
-  Energy: 30
-  Trace: 47
-Build Land Mine in Fort
+  Chemicals: 16
+  Electronics: 42
+  Ceramsteel: 2
+Upgrade Freedom Fighter to Freedom Fighter (ME) at Factory
+Time to Build / Upgrade: 1
+[6540] Technologies Required to Build Unit (84):
+  [320] Viper Militia (88)
+  [6220] Mechanically-Enhanced Soldiers (80)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Freedom Fighter (MF)
+Nick Name: FF (MF)
+Scores & Strengths:
+  Tech Score: 3187
+  Unit Score: 2126
+  Average Score: 2656
+  Stat Strength: 1291
+  Total Strength: 2126
+  Planet Strength: 2126
+  Space Strength: 0
+  Garrison Strength: 475
+Statistics:
+  Movement Type: foot
+  Move Points: 20
+  Spot: 9
+  Camouflage: 19
+  Agility: 18
+  Armor: 10
+  Psy Defense: 5
+  Rank: 92
+Attacks:
+  Direct: 20/20
+  Close: 29/15
+Load aboard transport: YES
+Upkeep / Maintenance: 33
+Build Cost: 301
+Build Resource Requirements:
+  Biochems: 1
+  Wetware: 13
+  Monopols: 32
+Upgrade Freedom Fighter (CE) to Freedom Fighter (MF) at Wetware
 Time to Build / Upgrade: 2
-[375] Technologies Required to Build Unit (99):
-  [110] Mechanical & Aerospace Engineering (98)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
+[18895] Technologies Required to Build Unit (62):
+  [320] Viper Militia (88)
+  [18575] Machine-Fused Soldiers (35)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Freedom Fighter (NE)
+Nick Name: FF (NE)
+Scores & Strengths:
+  Tech Score: 3876
+  Unit Score: 2677
+  Average Score: 3277
+  Stat Strength: 1665
+  Total Strength: 2677
+  Planet Strength: 2677
+  Space Strength: 0
+  Garrison Strength: 584
+Statistics:
+  Movement Type: foot
+  Move Points: 21
+  Spot: 9
+  Camouflage: 25
+  Agility: 19
+  Armor: 11
+  Psy Defense: 6
+  Rank: 102
+Attacks:
+  Direct: 22/22
+  Close: 33/16
+Load aboard transport: YES
+Upkeep / Maintenance: 23
+Build Cost: 225
+Build Resource Requirements:
+  Wetware: 14
+  Monopols: 16
+Upgrade Freedom Fighter (AVE) to Freedom Fighter (NE) at Fusorium
+Time to Build / Upgrade: 1
+[24450] Technologies Required to Build Unit (60):
+  [320] Viper Militia (88)
+  [24130] Neumonically-Enhanced Soldiers (32)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

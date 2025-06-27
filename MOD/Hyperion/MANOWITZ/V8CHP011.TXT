@@ -1,127 +1,204 @@
-All units of the unit class Field Medic are listed herein (3 in total):
+All units of the unit class Tertiary are listed herein (5 in total):
 
 --1--
-Name: Field Medic
-Nick Name: F Medic
+Name: Tertiary
+Nick Name: Tertiary
 Scores & Strengths:
   Tech Score: 63
   Unit Score: 63
   Average Score: 63
-  Stat Strength: 63
+  Stat Strength: 50
   Total Strength: 63
   Planet Strength: 63
-  Space Strength: 0
-  Garrison Strength: 63
+  Space Strength: 57
+  Garrison Strength: 44
 Statistics:
   Movement Type: foot
-  Move Points: 1
+  Move Points: 2
   Spot: 2
-  Camouflage: 2
-  Agility: 7
-  Armor: 2
-  Psy Defense: 1
-  Rank: 101
+  Camouflage: 1
+  Agility: 6
+  Armor: 1
+  Psy Defense: 2
+  Rank: 701
+Attacks:
+  Psychic: 7/1
+  Close: 3/2
 Load aboard transport: YES
-Heals units of same movement type
-Upkeep / Maintenance: 2
-Build Cost: 10
+Clergy - Increases Tithe Skim and Converts Sects
+Upkeep / Maintenance: 5
+Build Cost: 41
 Build Resource Requirements:
-  Metal: 2
-  Trace: 18
-  Exotica: 14
-Upgrade Peasant to Field Medic at Hospital
+  Exotica: 15
+  Gems: 5
+Upgrade Peasant to Tertiary at Church
 Time to Build / Upgrade: 1
 [100] Technology Required to Build Unit (100):
-  [100] Medical & Biological (100)
+  [100] Psychosocial Engineering (100)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Combat Physick
-Nick Name: Cmbt Physick
+Name: Clergy
+Nick Name: Clergy
 Scores & Strengths:
-  Tech Score: 158
-  Unit Score: 158
-  Average Score: 158
-  Stat Strength: 81
-  Total Strength: 158
-  Planet Strength: 158
-  Space Strength: 0
-  Garrison Strength: 111
+  Tech Score: 68
+  Unit Score: 68
+  Average Score: 68
+  Stat Strength: 57
+  Total Strength: 68
+  Planet Strength: 68
+  Space Strength: 67
+  Garrison Strength: 68
 Statistics:
   Movement Type: foot
-  Move Points: 2
-  Spot: 2
-  Camouflage: 2
-  Agility: 8
-  Armor: 2
-  Psy Defense: 1
-  Rank: 137
+  Move Points: 1
+  Spot: 1
+  Camouflage: 1
+  Agility: 7
+  Armor: 1
+  Psy Defense: 2
+  Rank: 701
 Attacks:
-  Indirect: 8/4
-  Direct: 6/4
-  Close: 7/3
+  Psychic: 5/2
+  Close: 1/1
 Load aboard transport: YES
-Heals units of same movement type
-Upkeep / Maintenance: 4
-Build Cost: 30
+Clergy - Increases Tithe Skim and Converts Sects
+Upkeep / Maintenance: 5
+Build Cost: 45
 Build Resource Requirements:
-  Trace: 23
-  Exotica: 7
-  Chemicals: 14
-  Biochems: 23
-Upgrade Peasant to Combat Physick at Hospital
+  Exotica: 17
+  Gems: 5
+Upgrade Peasant to Clergy at Church
 Time to Build / Upgrade: 1
-[550] Technologies Required to Build Unit (92):
-  [285] Surgical Instruments (94)
-  [265] Pharmaceuticals (89)
+[110] Technology Required to Build Unit (99):
+  [110] Meditation (99)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Fighting Chaplain
-Nick Name: F. Chaplain
+Name: Worldshaper Neophyte
+Nick Name: Neophyte
 Scores & Strengths:
-  Tech Score: 253
-  Unit Score: 253
-  Average Score: 253
-  Stat Strength: 165
-  Total Strength: 253
-  Planet Strength: 253
-  Space Strength: 193
-  Garrison Strength: 126
+  Tech Score: 135
+  Unit Score: 134
+  Average Score: 135
+  Stat Strength: 118
+  Total Strength: 134
+  Planet Strength: 134
+  Space Strength: 134
+  Garrison Strength: 94
 Statistics:
   Movement Type: foot
-  Move Points: 4
+  Move Points: 2
   Spot: 2
-  Camouflage: 2
-  Agility: 11
+  Camouflage: 3
+  Agility: 9
   Armor: 2
   Psy Defense: 4
-  Rank: 139
+  Rank: 701
 Attacks:
-  Psychic: 7/4
-  Direct: 6/5
-  Close: 10/3
+  Psychic: 4/4
 Load aboard transport: YES
 Clergy - Increases Tithe Skim and Converts Sects
-Heals units of same movement type
-Upkeep / Maintenance: 8
-Build Cost: 34
+Upkeep / Maintenance: 6
+Build Cost: 47
 Build Resource Requirements:
-  Energy: 4
-  Metal: 1
-  Trace: 38
-  Chemicals: 16
-Upgrade Clergy to Fighting Chaplain at Church
+  Metal: 3
+  Exotica: 18
+  Gems: 5
+Upgrade Peasant to Worldshaper Neophyte at Church
 Time to Build / Upgrade: 1
-[835] Technologies Required to Build Unit (93):
-  [125] Scholastic Medicine (98)
-  [255] Surgical Procedures (96)
-  [125] Epidemiology (94)
-  [330] Holy Warriors (82)
+[375] Technologies Required to Build Unit (86):
+  [145] Cosmogony (80)
+  [230] Geomancy (91)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Legate
+Nick Name: Legate
+Scores & Strengths:
+  Tech Score: 279
+  Unit Score: 279
+  Average Score: 279
+  Stat Strength: 236
+  Total Strength: 279
+  Planet Strength: 279
+  Space Strength: 261
+  Garrison Strength: 197
+Statistics:
+  Movement Type: foot
+  Move Points: 2
+  Spot: 2
+  Camouflage: 2
+  Agility: 12
+  Armor: 4
+  Psy Defense: 8
+  Rank: 703
+Attacks:
+  Psychic: 5/5
+  Close: 6/3
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Upkeep / Maintenance: 6
+Build Cost: 17
+Build Resource Requirements:
+  Metal: 9
+  Trace: 21
+  Chemicals: 13
+Upgrade Clergy to Legate at Church
+Time to Build / Upgrade: 1
+[1000] Technologies Required to Build Unit (92):
+  [195] Theurgic Metaphysics (92)
+  [260] Liturgical Ritual (90)
+  [545] Compassionate Ethics (93)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Monk
+Nick Name: Monk
+Scores & Strengths:
+  Tech Score: 704
+  Unit Score: 708
+  Average Score: 706
+  Stat Strength: 580
+  Total Strength: 708
+  Planet Strength: 708
+  Space Strength: 708
+  Garrison Strength: 250
+Statistics:
+  Movement Type: foot
+  Move Points: 8
+  Spot: 6
+  Camouflage: 4
+  Agility: 12
+  Armor: 8
+  Psy Defense: 16
+  Rank: 707
+Attacks:
+  Psychic: 8/16
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Upkeep / Maintenance: 23
+Build Cost: 189
+Build Resource Requirements:
+  Metal: 19
+  Trace: 13
+  Exotica: 2
+  Chemicals: 14
+  Biochems: 44
+  Electronics: 18
+  Gems: 18
+Upgrade Clergy to Monk at Church
+Time to Build / Upgrade: 2
+[2485] Technology Required to Build Unit (61):
+  [2485] Shekina (61)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

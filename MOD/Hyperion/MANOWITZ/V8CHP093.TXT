@@ -1,405 +1,582 @@
-All units of the unit class Gunboat are listed herein (9 in total):
+All units of the unit class Covert Legion are listed herein (13 in total):
 
 --1--
-Name: Gunboat
-Nick Name: NN-GB
+Name: Covert Legion
+Nick Name: Covert Lgn
 Scores & Strengths:
-  Tech Score: 167
-  Unit Score: 331
-  Average Score: 249
-  Stat Strength: 281
-  Total Strength: 331
-  Planet Strength: 331
+  Tech Score: 338
+  Unit Score: 338
+  Average Score: 338
+  Stat Strength: 240
+  Total Strength: 338
+  Planet Strength: 338
   Space Strength: 0
-  Garrison Strength: 135
+  Garrison Strength: 137
 Statistics:
-  Movement Type: naval
+  Movement Type: foot
   Move Points: 6
-  Spot: 4
-  Camouflage: 2
-  Agility: 5
-  Armor: 10
-  Psy Defense: 10
-  Rank: 86
+  Spot: 6
+  Camouflage: 6
+  Agility: 10
+  Armor: 4
+  Psy Defense: 4
+  Rank: 37
 Attacks:
-  Indirect: 2/6
+  Air: 5/6
+  Indirect: 4/8
   Direct: 3/6
-  Close: 4/5
+  Close: 6/3
 Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 84
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 6
+Build Cost: 49
 Build Resource Requirements:
-  Food: 8
-  Energy: 28
-  Metal: 58
-  Trace: 12
-  Exotica: 8
-  Chemicals: 16
-  Gems: 1
-Build Gunboat in Well
-Time to Build / Upgrade: 3
-[465] Technologies Required to Build Unit (100):
-  [100] Medical & Biological (100)
-  [100] Physics & Energy (100)
+  Energy: 21
+  Metal: 6
+  Trace: 19
+  Exotica: 13
+  Chemicals: 32
+  Electronics: 27
+Upgrade Peasant to Covert Legion at Fort
+Time to Build / Upgrade: 2
+[1035] Technologies Required to Build Unit (94):
+  [145] Composite Armor (97)
+  [790] Crystal Oscillator (86)
   [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Torpedo Boat
-Nick Name: NN-TP
+Name: Covert Legion (PE)
+Nick Name: Cov Lgn (PE)
 Scores & Strengths:
-  Tech Score: 174
-  Unit Score: 344
-  Average Score: 259
-  Stat Strength: 290
-  Total Strength: 344
-  Planet Strength: 344
+  Tech Score: 360
+  Unit Score: 338
+  Average Score: 349
+  Stat Strength: 240
+  Total Strength: 338
+  Planet Strength: 338
   Space Strength: 0
-  Garrison Strength: 130
+  Garrison Strength: 137
 Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 4
-  Camouflage: 3
-  Agility: 4
-  Armor: 10
-  Psy Defense: 10
-  Rank: 53
+  Movement Type: foot
+  Move Points: 6
+  Spot: 6
+  Camouflage: 6
+  Agility: 10
+  Armor: 4
+  Psy Defense: 4
+  Rank: 37
 Attacks:
-  Water: 3/14
-  Close: 3/4
+  Air: 5/6
+  Indirect: 4/8
+  Direct: 3/6
+  Close: 6/3
 Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 112
+Can attack on Byzantium Secundus
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 5
+Build Cost: 43
 Build Resource Requirements:
-  Food: 8
-  Energy: 48
-  Metal: 53
-  Trace: 13
-  Exotica: 7
-  Chemicals: 40
-  Gems: 1
-Build Torpedo Boat in Well
-Time to Build / Upgrade: 4
-[535] Technologies Required to Build Unit (99):
-  [100] Medical & Biological (100)
-  [110] Structural Engineering (99)
+  Energy: 11
+  Metal: 5
+  Trace: 18
+  Exotica: 11
+  Chemicals: 26
+  Electronics: 22
+Upgrade Peasant to Covert Legion (PE) at Fort
+Time to Build / Upgrade: 1
+[1215] Technologies Required to Build Unit (93):
+  [145] Composite Armor (97)
+  [790] Crystal Oscillator (86)
   [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
+  [180] Performance-Enhanced Soldiers (90)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Submarine Chaser
-Nick Name: NN-SC
+Name: Covert Legion (BE)
+Nick Name: Cov Lgn (BE)
 Scores & Strengths:
-  Tech Score: 174
-  Unit Score: 344
-  Average Score: 259
-  Stat Strength: 290
-  Total Strength: 344
-  Planet Strength: 344
+  Tech Score: 394
+  Unit Score: 454
+  Average Score: 424
+  Stat Strength: 318
+  Total Strength: 454
+  Planet Strength: 454
   Space Strength: 0
-  Garrison Strength: 130
+  Garrison Strength: 171
 Statistics:
-  Movement Type: naval
+  Movement Type: foot
   Move Points: 7
-  Spot: 6
-  Camouflage: 1
-  Agility: 2
-  Armor: 10
-  Psy Defense: 10
-  Rank: 118
+  Spot: 7
+  Camouflage: 7
+  Agility: 11
+  Armor: 5
+  Psy Defense: 5
+  Rank: 40
 Attacks:
-  Water: 2/14
-  Indirect: 2/13
+  Air: 6/7
+  Indirect: 5/9
+  Direct: 4/7
+  Close: 7/3
 Load aboard transport: YES
-Upkeep / Maintenance: 13
-Build Cost: 125
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 9
+Build Cost: 39
 Build Resource Requirements:
-  Food: 10
-  Energy: 77
-  Metal: 53
-  Trace: 8
-  Exotica: 9
-  Chemicals: 37
-  Gems: 1
-Build Submarine Chaser in Well
-Time to Build / Upgrade: 4
-[535] Technologies Required to Build Unit (99):
-  [100] Medical & Biological (100)
-  [110] Structural Engineering (99)
+  Metal: 4
+  Trace: 2
+  Biochems: 32
+Upgrade Covert Legion to Covert Legion (BE) at Biochem Plant
+Time to Build / Upgrade: 1
+[1455] Technologies Required to Build Unit (90):
+  [145] Composite Armor (97)
+  [790] Crystal Oscillator (86)
   [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
+  [420] Biochem-Enhanced Soldiers (77)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Naval Sloop
-Nick Name: NN-Sloop
+Name: Covert Legion (SE)
+Nick Name: Cov Lgn (SE)
 Scores & Strengths:
-  Tech Score: 177
-  Unit Score: 351
-  Average Score: 264
-  Stat Strength: 260
-  Total Strength: 351
-  Planet Strength: 351
+  Tech Score: 454
+  Unit Score: 518
+  Average Score: 486
+  Stat Strength: 348
+  Total Strength: 518
+  Planet Strength: 518
   Space Strength: 0
-  Garrison Strength: 143
+  Garrison Strength: 183
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 10
-  Psy Defense: 10
-  Rank: 88
+  Movement Type: foot
+  Move Points: 8
+  Spot: 7
+  Camouflage: 8
+  Agility: 11
+  Armor: 5
+  Psy Defense: 5
+  Rank: 42
 Attacks:
-  Indirect: 3/10
-  Direct: 3/7
-  Close: 8/5
+  Air: 7/8
+  Indirect: 5/10
+  Direct: 4/8
+  Close: 8/4
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 86
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 10
+Build Cost: 46
 Build Resource Requirements:
-  Food: 6
-  Energy: 38
-  Metal: 48
-  Trace: 19
-  Exotica: 6
-  Chemicals: 17
-Build Naval Sloop in Well
-Time to Build / Upgrade: 3
-[605] Technologies Required to Build Unit (99):
-  [230] Hospitals (97)
-  [110] Structural Engineering (99)
+  Metal: 1
+  Trace: 5
+  Biochems: 36
+  Electronics: 3
+Upgrade Covert Legion to Covert Legion (SE) at Hospital
+Time to Build / Upgrade: 1
+[1710] Technologies Required to Build Unit (90):
+  [145] Composite Armor (97)
+  [790] Crystal Oscillator (86)
   [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
+  [675] Surgically-Enhanced Soldiers (75)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Naval Corvette
-Nick Name: NN-Corv
+Name: Covert Legion (DE)
+Nick Name: Cov Lgn (DE)
 Scores & Strengths:
-  Tech Score: 520
-  Unit Score: 520
-  Average Score: 520
-  Stat Strength: 440
-  Total Strength: 520
-  Planet Strength: 520
+  Tech Score: 922
+  Unit Score: 891
+  Average Score: 906
+  Stat Strength: 573
+  Total Strength: 891
+  Planet Strength: 891
   Space Strength: 0
-  Garrison Strength: 183
+  Garrison Strength: 268
 Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 6
-  Armor: 12
-  Psy Defense: 12
-  Rank: 94
+  Movement Type: foot
+  Move Points: 11
+  Spot: 8
+  Camouflage: 11
+  Agility: 13
+  Armor: 7
+  Psy Defense: 7
+  Rank: 51
 Attacks:
-  Indirect: 3/12
-  Direct: 2/12
-  Close: 2/10
+  Air: 9/11
+  Indirect: 7/14
+  Direct: 6/11
+  Close: 11/5
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 50
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 6
+Build Cost: 12
 Build Resource Requirements:
-  Food: 4
-  Energy: 28
-  Metal: 32
-  Trace: 5
-  Exotica: 4
-  Chemicals: 19
-  Biochems: 4
-  Electronics: 4
-Build Naval Corvette in Well
-Time to Build / Upgrade: 2
-[1770] Technologies Required to Build Unit (95):
-  [110] Structural Engineering (99)
+  Metal: 11
+  Biochems: 27
+Upgrade Covert Legion to Covert Legion (DE) at Biochem Plant
+Time to Build / Upgrade: 1
+[4475] Technologies Required to Build Unit (87):
+  [145] Composite Armor (97)
+  [790] Crystal Oscillator (86)
   [100] Psychosocial Engineering (100)
-  [1560] Naval Patrol Ships (86)
+  [3440] Drug-Enhanced Soldiers (65)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Patrol Boat
-Nick Name: NN-PB
+Name: Covert Legion (GE)
+Nick Name: Cov Lgn (GE)
 Scores & Strengths:
-  Tech Score: 520
-  Unit Score: 520
-  Average Score: 520
-  Stat Strength: 453
-  Total Strength: 520
-  Planet Strength: 520
+  Tech Score: 1384
+  Unit Score: 1291
+  Average Score: 1337
+  Stat Strength: 806
+  Total Strength: 1291
+  Planet Strength: 1291
   Space Strength: 0
-  Garrison Strength: 183
+  Garrison Strength: 358
 Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 7
-  Armor: 12
-  Psy Defense: 12
-  Rank: 90
+  Movement Type: foot
+  Move Points: 13
+  Spot: 9
+  Camouflage: 13
+  Agility: 15
+  Armor: 9
+  Psy Defense: 9
+  Rank: 58
 Attacks:
-  Indirect: 3/6
-  Direct: 4/6
-  Close: 5/5
+  Air: 11/13
+  Indirect: 9/17
+  Direct: 7/13
+  Close: 14/7
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 45
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 7
+Build Cost: 59
 Build Resource Requirements:
-  Food: 4
-  Energy: 11
-  Metal: 34
-  Trace: 9
-  Exotica: 4
-  Chemicals: 9
-  Biochems: 7
-  Electronics: 7
-Build Patrol Boat in Well
-Time to Build / Upgrade: 2
-[1660] Technologies Required to Build Unit (93):
+  Energy: 5
+  Trace: 1
+  Biochems: 13
+  Electronics: 3
+  Ceramsteel: 4
+Upgrade Covert Legion (DE) to Covert Legion (GE) at Lab
+Time to Build / Upgrade: 1
+[7055] Technologies Required to Build Unit (83):
+  [145] Composite Armor (97)
+  [790] Crystal Oscillator (86)
   [100] Psychosocial Engineering (100)
-  [1560] Naval Patrol Ships (86)
+  [6020] Chemical Shock Legion (49)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Advanced Gunboat
-Nick Name: N-Gunboat2
+Name: Covert Legion (PA)
+Nick Name: Cov Lgn (PA)
 Scores & Strengths:
-  Tech Score: 406
-  Unit Score: 558
-  Average Score: 482
-  Stat Strength: 472
-  Total Strength: 558
-  Planet Strength: 558
+  Tech Score: 1410
+  Unit Score: 1293
+  Average Score: 1352
+  Stat Strength: 806
+  Total Strength: 1293
+  Planet Strength: 1293
   Space Strength: 0
-  Garrison Strength: 197
+  Garrison Strength: 358
 Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 5
-  Camouflage: 3
-  Agility: 6
-  Armor: 13
-  Psy Defense: 13
-  Rank: 92
+  Movement Type: foot
+  Move Points: 13
+  Spot: 9
+  Camouflage: 13
+  Agility: 15
+  Armor: 9
+  Psy Defense: 9
+  Rank: 59
 Attacks:
-  Indirect: 3/8
-  Direct: 4/8
-  Close: 5/6
+  Air: 11/13
+  Indirect: 9/18
+  Direct: 7/13
+  Close: 13/7
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 55
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 9
+Build Cost: 40
 Build Resource Requirements:
-  Food: 5
-  Energy: 19
-  Metal: 53
-  Trace: 9
-  Exotica: 5
-  Chemicals: 14
-  Electronics: 8
-Advanced Gunboat cannot be built
+  Energy: 4
+  Chemicals: 10
+  Ceramsteel: 13
+Upgrade Covert Legion (SE) to Covert Legion (PA) at Hospital
+Time to Build / Upgrade: 1
+[7210] Technologies Required to Build Unit (85):
+  [145] Composite Armor (97)
+  [790] Crystal Oscillator (86)
+  [100] Psychosocial Engineering (100)
+  [6175] Prosthetically-Augmented Soldiers (57)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Fast Torpedo Boat
-Nick Name: NN-FTB
+Name: Special Forces
+Nick Name: SPF LGN
 Scores & Strengths:
-  Tech Score: 1134
-  Unit Score: 1133
-  Average Score: 1134
-  Stat Strength: 713
-  Total Strength: 1133
-  Planet Strength: 1133
+  Tech Score: 2106
+  Unit Score: 1577
+  Average Score: 1841
+  Stat Strength: 987
+  Total Strength: 1577
+  Planet Strength: 1577
   Space Strength: 0
-  Garrison Strength: 341
+  Garrison Strength: 407
 Statistics:
-  Movement Type: naval
-  Move Points: 11
-  Spot: 10
-  Camouflage: 6
-  Agility: 8
-  Armor: 14
-  Psy Defense: 14
-  Rank: 112
+  Movement Type: foot
+  Move Points: 15
+  Spot: 9
+  Camouflage: 15
+  Agility: 16
+  Armor: 10
+  Psy Defense: 10
+  Rank: 65
 Attacks:
-  Water: 10/20
-  Direct: 10/16
-  Close: 6/10
+  Air: 12/15
+  Indirect: 10/20
+  Direct: 7/15
+  Close: 15/7
 Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 77
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 21
+Build Cost: 160
 Build Resource Requirements:
-  Food: 3
-  Energy: 28
-  Metal: 12
-  Trace: 15
-  Exotica: 4
-  Chemicals: 35
-  Biochems: 8
-  Electronics: 14
-  Ceramsteel: 14
-Build Fast Torpedo Boat in Well
-Time to Build / Upgrade: 3
-[4695] Technology Required to Build Unit (83):
-  [4695] Advanced Minor Watercraft (83)
+  Ceramsteel: 3
+  Monopols: 22
+Upgrade Covert Legion to Special Forces at Fort
+Time to Build / Upgrade: 1
+[10710] Technology Required to Build Unit (79):
+  [10710] Special Forces (79)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Naval Cutter
-Nick Name: NN-Cutter
+Name: Covert Legion (CE)
+Nick Name: Cov Lgn (CE)
 Scores & Strengths:
-  Tech Score: 1134
-  Unit Score: 1133
-  Average Score: 1134
-  Stat Strength: 668
-  Total Strength: 1133
-  Planet Strength: 1133
+  Tech Score: 1786
+  Unit Score: 1641
+  Average Score: 1714
+  Stat Strength: 1006
+  Total Strength: 1641
+  Planet Strength: 1641
   Space Strength: 0
-  Garrison Strength: 314
+  Garrison Strength: 423
 Statistics:
-  Movement Type: naval
-  Move Points: 13
-  Spot: 8
-  Camouflage: 4
-  Agility: 9
-  Armor: 13
-  Psy Defense: 13
-  Rank: 112
+  Movement Type: foot
+  Move Points: 15
+  Spot: 10
+  Camouflage: 15
+  Agility: 16
+  Armor: 10
+  Psy Defense: 10
+  Rank: 65
 Attacks:
-  Water: 9/25
-  Air: 8/10
-  Direct: 10/16
+  Air: 13/15
+  Indirect: 10/20
+  Direct: 8/15
+  Close: 15/8
 Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 84
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 10
+Build Cost: 58
 Build Resource Requirements:
-  Food: 3
-  Energy: 36
-  Metal: 10
-  Trace: 13
-  Exotica: 4
-  Chemicals: 44
+  Food: 1
+  Energy: 10
+  Metal: 2
+  Exotica: 1
+  Chemicals: 10
+  Biochems: 5
+  Ceramsteel: 2
+Upgrade Covert Legion (PA) to Covert Legion (CE) at Lab
+Time to Build / Upgrade: 1
+[9635] Technologies Required to Build Unit (83):
+  [145] Composite Armor (97)
+  [790] Crystal Oscillator (86)
+  [100] Psychosocial Engineering (100)
+  [8600] Cybernetically-Enhanced Soldiers (48)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Covert Legion (AVE)
+Nick Name: Cov Lgn (AVE)
+Scores & Strengths:
+  Tech Score: 1848
+  Unit Score: 1731
+  Average Score: 1790
+  Stat Strength: 1068
+  Total Strength: 1731
+  Planet Strength: 1731
+  Space Strength: 0
+  Garrison Strength: 432
+Statistics:
+  Movement Type: foot
+  Move Points: 16
+  Spot: 10
+  Camouflage: 16
+  Agility: 16
+  Armor: 10
+  Psy Defense: 10
+  Rank: 66
+Attacks:
+  Air: 13/15
+  Indirect: 11/20
+  Direct: 8/15
+  Close: 16/8
+Load aboard transport: YES
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 8
+Build Cost: 24
+Build Resource Requirements:
+  Energy: 6
+  Trace: 1
+  Chemicals: 5
   Biochems: 8
-  Electronics: 12
-  Ceramsteel: 12
-Build Naval Cutter in Well
-Time to Build / Upgrade: 3
-[4695] Technology Required to Build Unit (83):
-  [4695] Advanced Minor Watercraft (83)
+  Electronics: 3
+Upgrade Covert Legion (GE) to Covert Legion (AVE) at Lab
+Time to Build / Upgrade: 1
+[9935] Technologies Required to Build Unit (77):
+  [145] Composite Armor (97)
+  [790] Crystal Oscillator (86)
+  [100] Psychosocial Engineering (100)
+  [8900] Genetically-Enhanced Warriors (25)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Cybercorp
+Nick Name: CYB LGN
+Scores & Strengths:
+  Tech Score: 2788
+  Unit Score: 2006
+  Average Score: 2397
+  Stat Strength: 1209
+  Total Strength: 2006
+  Planet Strength: 2006
+  Space Strength: 0
+  Garrison Strength: 486
+Statistics:
+  Movement Type: foot
+  Move Points: 17
+  Spot: 10
+  Camouflage: 17
+  Agility: 17
+  Armor: 11
+  Psy Defense: 11
+  Rank: 75
+Attacks:
+  Air: 14/17
+  Indirect: 11/23
+  Direct: 9/17
+  Close: 17/9
+Load aboard transport: YES
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 26
+Build Cost: 100
+Build Resource Requirements:
+  Food: 1
+  Energy: 4
+  Trace: 3
+  Exotica: 2
+  Chemicals: 5
+  Electronics: 7
+  Monopols: 6
+Upgrade Special Forces to Cybercorp at Hospital
+Time to Build / Upgrade: 1
+[15575] Technology Required to Build Unit (52):
+  [15575] Cybercorp (52)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Covert Legion (MF)
+Nick Name: Cov Lgn (MF)
+Scores & Strengths:
+  Tech Score: 3182
+  Unit Score: 2728
+  Average Score: 2955
+  Stat Strength: 1637
+  Total Strength: 2728
+  Planet Strength: 2728
+  Space Strength: 0
+  Garrison Strength: 609
+Statistics:
+  Movement Type: foot
+  Move Points: 20
+  Spot: 11
+  Camouflage: 20
+  Agility: 18
+  Armor: 14
+  Psy Defense: 14
+  Rank: 85
+Attacks:
+  Air: 17/20
+  Indirect: 13/27
+  Direct: 10/20
+  Close: 20/10
+Load aboard transport: YES
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 58
+Build Cost: 517
+Build Resource Requirements:
+  Energy: 2
+  Biochems: 9
+  Wetware: 9
+  Monopols: 43
+Upgrade Covert Legion (CE) to Covert Legion (MF) at Wetware
+Time to Build / Upgrade: 2
+[19610] Technologies Required to Build Unit (80):
+  [145] Composite Armor (97)
+  [790] Crystal Oscillator (86)
+  [100] Psychosocial Engineering (100)
+  [18575] Machine-Fused Soldiers (35)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--13--
+Name: Covert Legion (NE)
+Nick Name: Cov Lgn (NE)
+Scores & Strengths:
+  Tech Score: 3872
+  Unit Score: 3519
+  Average Score: 3696
+  Stat Strength: 2126
+  Total Strength: 3519
+  Planet Strength: 3519
+  Space Strength: 0
+  Garrison Strength: 750
+Statistics:
+  Movement Type: foot
+  Move Points: 22
+  Spot: 12
+  Camouflage: 25
+  Agility: 19
+  Armor: 16
+  Psy Defense: 16
+  Rank: 96
+Attacks:
+  Air: 19/23
+  Indirect: 15/30
+  Direct: 11/23
+  Close: 23/11
+Load aboard transport: YES
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 40
+Build Cost: 371
+Build Resource Requirements:
+  Wetware: 10
+  Monopols: 24
+Upgrade Covert Legion (AVE) to Covert Legion (NE) at Fusorium
+Time to Build / Upgrade: 2
+[24230] Technologies Required to Build Unit (66):
+  [100] Psychosocial Engineering (100)
+  [24130] Neumonically-Enhanced Soldiers (32)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

@@ -1,486 +1,259 @@
-All units of the unit class Land Mine Detector are listed herein (12 in total):
+All units of the unit class Medium Tank are listed herein (6 in total):
 
 --1--
-Name: Land Mine Detector
-Nick Name: LM Detector
+Name: Medium Tank
+Nick Name: Wolfen
 Scores & Strengths:
-  Tech Score: 151
-  Unit Score: 151
-  Average Score: 151
-  Stat Strength: 141
-  Total Strength: 151
-  Planet Strength: 151
+  Tech Score: 106
+  Unit Score: 157
+  Average Score: 132
+  Stat Strength: 119
+  Total Strength: 157
+  Planet Strength: 157
   Space Strength: 0
-  Garrison Strength: 106
+  Garrison Strength: 78
 Statistics:
-  Movement Type: foot
-  Move Points: 2
-  Spot: 11
-  Camouflage: 2
+  Movement Type: tread
+  Move Points: 4
+  Spot: 1
+  Camouflage: 1
   Agility: 2
-  Armor: 2
-  Psy Defense: 2
-  Rank: 2
+  Armor: 9
+  Psy Defense: 4
+  Rank: 62
 Attacks:
-  Close: 2/5
+  Indirect: 1/10
+  Direct: 1/10
+  Close: 6/3
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 40
+Upkeep / Maintenance: 3
+Build Cost: 34
 Build Resource Requirements:
-  Food: 12
-  Metal: 3
-  Trace: 47
-  Exotica: 41
-  Chemicals: 15
-  Gems: 1
-Upgrade Peasant to Land Mine Detector at Farm
-Time to Build / Upgrade: 1
-[320] Technology Required to Build Unit (88):
-  [320] Viper Militia (88)
+  Food: 3
+  Energy: 44
+  Metal: 36
+  Trace: 10
+  Exotica: 2
+  Chemicals: 23
+Build Medium Tank in Factory
+Time to Build / Upgrade: 3
+[400] Technologies Required to Build Unit (98):
+  [110] Structural Engineering (99)
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Land Mine Detector (PE)
-Nick Name: LM Det. (PE)
+Name: Medium Tank II
+Nick Name: Med Tank II
 Scores & Strengths:
-  Tech Score: 195
-  Unit Score: 176
-  Average Score: 186
-  Stat Strength: 164
-  Total Strength: 176
-  Planet Strength: 176
+  Tech Score: 162
+  Unit Score: 181
+  Average Score: 171
+  Stat Strength: 138
+  Total Strength: 181
+  Planet Strength: 181
   Space Strength: 0
-  Garrison Strength: 124
+  Garrison Strength: 90
 Statistics:
-  Movement Type: foot
-  Move Points: 2
-  Spot: 12
-  Camouflage: 2
+  Movement Type: tread
+  Move Points: 4
+  Spot: 1
+  Camouflage: 1
   Agility: 2
-  Armor: 2
-  Psy Defense: 2
-  Rank: 2
+  Armor: 10
+  Psy Defense: 4
+  Rank: 64
 Attacks:
-  Close: 2/6
+  Indirect: 1/11
+  Direct: 1/11
+  Close: 7/3
 Load aboard transport: YES
-May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 3
-Build Cost: 26
+Upkeep / Maintenance: 4
+Build Cost: 44
 Build Resource Requirements:
-  Metal: 1
-  Trace: 29
-  Exotica: 28
-  Chemicals: 12
-Upgrade Peasant to Land Mine Detector (PE) at Farm
-Time to Build / Upgrade: 1
-[500] Technologies Required to Build Unit (89):
-  [320] Viper Militia (88)
-  [180] Performance-Enhanced Soldiers (90)
+  Food: 4
+  Energy: 59
+  Metal: 45
+  Trace: 19
+  Exotica: 3
+  Chemicals: 40
+Build Medium Tank II in Factory
+Time to Build / Upgrade: 3
+[350] Technology Required to Build Unit (95):
+  [350] Tanks (95)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Land Mine Detector (BE)
-Nick Name: LM Det. (BE)
+Name: Assault Tank
+Nick Name: Pitbull
 Scores & Strengths:
-  Tech Score: 239
-  Unit Score: 230
-  Average Score: 235
-  Stat Strength: 209
-  Total Strength: 230
-  Planet Strength: 230
+  Tech Score: 162
+  Unit Score: 240
+  Average Score: 201
+  Stat Strength: 178
+  Total Strength: 240
+  Planet Strength: 240
   Space Strength: 0
-  Garrison Strength: 132
+  Garrison Strength: 97
 Statistics:
-  Movement Type: foot
-  Move Points: 3
-  Spot: 13
-  Camouflage: 3
-  Agility: 2
-  Armor: 3
-  Psy Defense: 3
-  Rank: 2
+  Movement Type: tread
+  Move Points: 6
+  Spot: 2
+  Camouflage: 2
+  Agility: 3
+  Armor: 10
+  Psy Defense: 5
+  Rank: 61
 Attacks:
-  Close: 3/7
+  Indirect: 3/8
+  Direct: 3/6
+  Close: 5/4
 Load aboard transport: YES
-May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 6
-Build Cost: 48
+Upkeep / Maintenance: 4
+Build Cost: 40
 Build Resource Requirements:
-  Metal: 5
-  Trace: 26
-  Exotica: 21
-  Chemicals: 10
-  Biochems: 34
-  Gems: 1
-Upgrade Peasant to Land Mine Detector (BE) at Biochem Plant
-Time to Build / Upgrade: 1
-[740] Technologies Required to Build Unit (83):
-  [320] Viper Militia (88)
-  [420] Biochem-Enhanced Soldiers (77)
+  Food: 8
+  Energy: 33
+  Metal: 49
+  Trace: 17
+  Exotica: 7
+  Chemicals: 23
+Build Assault Tank in Factory
+Time to Build / Upgrade: 3
+[350] Technology Required to Build Unit (95):
+  [350] Tanks (95)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Land Mine Detector (SE)
-Nick Name: LM Det. (SE)
+Name: Cruiser Tank
+Nick Name: Cruiser Tank
 Scores & Strengths:
-  Tech Score: 313
-  Unit Score: 265
-  Average Score: 289
-  Stat Strength: 241
-  Total Strength: 265
-  Planet Strength: 265
+  Tech Score: 167
+  Unit Score: 248
+  Average Score: 208
+  Stat Strength: 183
+  Total Strength: 248
+  Planet Strength: 248
   Space Strength: 0
-  Garrison Strength: 152
+  Garrison Strength: 110
 Statistics:
-  Movement Type: foot
-  Move Points: 3
-  Spot: 14
-  Camouflage: 3
-  Agility: 3
-  Armor: 3
-  Psy Defense: 3
-  Rank: 3
+  Movement Type: tread
+  Move Points: 5
+  Spot: 2
+  Camouflage: 2
+  Agility: 2
+  Armor: 11
+  Psy Defense: 5
+  Rank: 66
 Attacks:
-  Close: 3/8
+  Indirect: 2/13
+  Direct: 2/12
+  Close: 3/5
 Load aboard transport: YES
 Upkeep / Maintenance: 5
-Build Cost: 43
+Build Cost: 47
 Build Resource Requirements:
-  Metal: 2
-  Trace: 29
-  Exotica: 24
-  Chemicals: 12
-  Biochems: 37
-Upgrade Peasant to Land Mine Detector (SE) at Hospital
-Time to Build / Upgrade: 1
-[995] Technologies Required to Build Unit (82):
-  [320] Viper Militia (88)
-  [675] Surgically-Enhanced Soldiers (75)
+  Food: 4
+  Energy: 62
+  Metal: 46
+  Trace: 7
+  Exotica: 4
+  Chemicals: 38
+Build Cruiser Tank in Factory
+Time to Build / Upgrade: 3
+[475] Technologies Required to Build Unit (97):
+  [125] Plastics (98)
+  [350] Tanks (95)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Land Mine Detector (DE)
-Nick Name: LM Det. (DE)
+Name: Shock Assault Tank
+Nick Name: Razorbull
 Scores & Strengths:
-  Tech Score: 930
-  Unit Score: 498
-  Average Score: 714
-  Stat Strength: 433
-  Total Strength: 498
-  Planet Strength: 498
+  Tech Score: 1226
+  Unit Score: 1418
+  Average Score: 1322
+  Stat Strength: 1053
+  Total Strength: 1418
+  Planet Strength: 1418
   Space Strength: 0
-  Garrison Strength: 222
+  Garrison Strength: 366
 Statistics:
-  Movement Type: foot
-  Move Points: 5
-  Spot: 18
+  Movement Type: tread
+  Move Points: 15
+  Spot: 3
   Camouflage: 5
-  Agility: 3
-  Armor: 5
-  Psy Defense: 5
-  Rank: 7
+  Agility: 5
+  Armor: 25
+  Psy Defense: 12
+  Rank: 85
 Attacks:
-  Close: 5/13
+  Indirect: 7/20
+  Direct: 7/15
+  Close: 12/10
 Load aboard transport: YES
-Upkeep / Maintenance: 2
-Build Cost: 16
+Upkeep / Maintenance: 5
+Build Cost: 11
 Build Resource Requirements:
-  Metal: 12
-  Trace: 8
-  Exotica: 7
-  Chemicals: 8
-  Biochems: 21
-  Electronics: 14
-Upgrade Peasant to Land Mine Detector (DE) at Biochem Plant
+  Chemicals: 15
+  Electronics: 24
+  Ceramsteel: 28
+Upgrade Assault Tank to Shock Assault Tank at Factory
 Time to Build / Upgrade: 1
-[3760] Technologies Required to Build Unit (77):
-  [320] Viper Militia (88)
-  [3440] Drug-Enhanced Soldiers (65)
+[5205] Technology Required to Build Unit (84):
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Land Mine Detector (GE)
-Nick Name: LM Det. (GE)
+Name: Shock Medium Tank
+Nick Name: Wolfenrot
 Scores & Strengths:
-  Tech Score: 1394
-  Unit Score: 672
-  Average Score: 1033
-  Stat Strength: 560
-  Total Strength: 672
-  Planet Strength: 672
+  Tech Score: 1413
+  Unit Score: 1606
+  Average Score: 1509
+  Stat Strength: 1208
+  Total Strength: 1606
+  Planet Strength: 1606
   Space Strength: 0
-  Garrison Strength: 274
+  Garrison Strength: 445
 Statistics:
-  Movement Type: foot
-  Move Points: 6
-  Spot: 20
-  Camouflage: 6
+  Movement Type: tread
+  Move Points: 13
+  Spot: 2
+  Camouflage: 3
   Agility: 4
-  Armor: 6
-  Psy Defense: 6
-  Rank: 10
+  Armor: 29
+  Psy Defense: 13
+  Rank: 101
 Attacks:
-  Close: 7/16
+  Indirect: 3/33
+  Direct: 3/33
+  Close: 20/10
 Load aboard transport: YES
-Upkeep / Maintenance: 2
-Build Cost: 7
+Upkeep / Maintenance: 53
+Build Cost: 494
 Build Resource Requirements:
-  Energy: 2
-  Chemicals: 4
-  Biochems: 6
-  Ceramsteel: 2
-Upgrade Land Mine Detector (DE) to Land Mine Detector (GE) at Lab
-Time to Build / Upgrade: 1
-[6340] Technologies Required to Build Unit (69):
-  [320] Viper Militia (88)
-  [6020] Chemical Shock Legion (49)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---7--
-Name: Land Mine Detector (PA)
-Nick Name: LM Det. (PA)
-Scores & Strengths:
-  Tech Score: 1420
-  Unit Score: 711
-  Average Score: 1066
-  Stat Strength: 599
-  Total Strength: 711
-  Planet Strength: 711
-  Space Strength: 0
-  Garrison Strength: 268
-Statistics:
-  Movement Type: foot
-  Move Points: 7
-  Spot: 20
-  Camouflage: 6
-  Agility: 4
-  Armor: 7
-  Psy Defense: 7
-  Rank: 11
-Attacks:
-  Close: 7/16
-Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Resource Requirements:
-  Energy: 4
-  Metal: 1
-  Chemicals: 11
-  Electronics: 22
-  Ceramsteel: 9
-Upgrade Land Mine Detector (SE) to Land Mine Detector (PA) at Hospital
-Time to Build / Upgrade: 1
-[6495] Technologies Required to Build Unit (73):
-  [320] Viper Militia (88)
-  [6175] Prosthetically-Augmented Soldiers (57)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---8--
-Name: Land Mine Detector (CE)
-Nick Name: LM Det. (CE)
-Scores & Strengths:
-  Tech Score: 1792
-  Unit Score: 779
-  Average Score: 1285
-  Stat Strength: 653
-  Total Strength: 779
-  Planet Strength: 779
-  Space Strength: 0
-  Garrison Strength: 294
-Statistics:
-  Movement Type: foot
-  Move Points: 7
-  Spot: 21
-  Camouflage: 7
-  Agility: 4
-  Armor: 7
-  Psy Defense: 7
-  Rank: 13
-Attacks:
-  Close: 7/18
-Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 28
-Build Resource Requirements:
-  Energy: 3
-  Chemicals: 4
-Upgrade Land Mine Detector (PA) to Land Mine Detector (CE) at Lab
-Time to Build / Upgrade: 1
-[8920] Technologies Required to Build Unit (68):
-  [320] Viper Militia (88)
-  [8600] Cybernetically-Enhanced Soldiers (48)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---9--
-Name: Land Mine Detector (AVE)
-Nick Name: LM Det. (AVE)
-Scores & Strengths:
-  Tech Score: 1857
-  Unit Score: 865
-  Average Score: 1361
-  Stat Strength: 713
-  Total Strength: 865
-  Planet Strength: 865
-  Space Strength: 0
-  Garrison Strength: 305
-Statistics:
-  Movement Type: foot
-  Move Points: 8
-  Spot: 21
-  Camouflage: 8
-  Agility: 4
-  Armor: 8
-  Psy Defense: 8
-  Rank: 14
-Attacks:
-  Close: 8/19
-Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 19
-Build Resource Requirements:
-  Energy: 2
-  Metal: 1
-  Chemicals: 4
-  Biochems: 4
-Upgrade Land Mine Detector (GE) to Land Mine Detector (AVE) at Lab
-Time to Build / Upgrade: 1
-[9220] Technologies Required to Build Unit (57):
-  [320] Viper Militia (88)
-  [8900] Genetically-Enhanced Warriors (25)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---10--
-Name: Land Mine Detector (ME)
-Nick Name: LM Det. (ME)
-Scores & Strengths:
-  Tech Score: 1428
-  Unit Score: 1064
-  Average Score: 1246
-  Stat Strength: 945
-  Total Strength: 1064
-  Planet Strength: 1064
-  Space Strength: 0
-  Garrison Strength: 258
-Statistics:
-  Movement Type: foot
-  Move Points: 17
-  Spot: 21
-  Camouflage: 6
-  Agility: 9
-  Armor: 7
-  Psy Defense: 7
-  Rank: 12
-Attacks:
-  Close: 7/17
-Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 19
-Build Resource Requirements:
-  Trace: 13
-  Exotica: 13
-  Chemicals: 28
-  Electronics: 24
-  Ceramsteel: 3
-Upgrade Peasant to Land Mine Detector (ME) at Factory
-Time to Build / Upgrade: 1
-[6540] Technologies Required to Build Unit (84):
-  [320] Viper Militia (88)
-  [6220] Mechanically-Enhanced Soldiers (80)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---11--
-Name: Land Mine Detector (MF)
-Nick Name: LM Det. (MF)
-Scores & Strengths:
-  Tech Score: 3187
-  Unit Score: 1232
-  Average Score: 2209
-  Stat Strength: 992
-  Total Strength: 1232
-  Planet Strength: 1232
-  Space Strength: 0
-  Garrison Strength: 389
-Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 24
-  Camouflage: 10
-  Agility: 4
-  Armor: 10
-  Psy Defense: 10
-  Rank: 22
-Attacks:
-  Close: 10/24
-Load aboard transport: YES
-Upkeep / Maintenance: 17
-Build Cost: 144
-Build Resource Requirements:
-  Energy: 2
-  Biochems: 3
-  Wetware: 5
-  Monopols: 26
-Upgrade Land Mine Detector (CE) to Land Mine Detector (MF) at Wetware
-Time to Build / Upgrade: 1
-[18895] Technologies Required to Build Unit (62):
-  [320] Viper Militia (88)
-  [18575] Machine-Fused Soldiers (35)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---12--
-Name: Land Mine Detector (NE)
-Nick Name: LM Det. (NE)
-Scores & Strengths:
-  Tech Score: 3876
-  Unit Score: 1586
-  Average Score: 2731
-  Stat Strength: 1289
-  Total Strength: 1586
-  Planet Strength: 1586
-  Space Strength: 0
-  Garrison Strength: 478
-Statistics:
-  Movement Type: foot
-  Move Points: 11
-  Spot: 26
-  Camouflage: 15
-  Agility: 5
-  Armor: 11
-  Psy Defense: 11
-  Rank: 27
-Attacks:
-  Close: 11/27
-Load aboard transport: YES
-Upkeep / Maintenance: 10
-Build Cost: 84
-Build Resource Requirements:
-  Wetware: 6
-  Monopols: 12
-Upgrade Land Mine Detector (AVE) to Land Mine Detector (NE) at Fusorium
-Time to Build / Upgrade: 1
-[24450] Technologies Required to Build Unit (60):
-  [320] Viper Militia (88)
-  [24130] Neumonically-Enhanced Soldiers (32)
+  Energy: 6
+  Chemicals: 33
+  Electronics: 29
+  Ceramsteel: 29
+  Monopols: 54
+Upgrade Medium Tank to Shock Medium Tank at Factory
+Time to Build / Upgrade: 2
+[6950] Technologies Required to Build Unit (77):
+  [1745] Monopols (70)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

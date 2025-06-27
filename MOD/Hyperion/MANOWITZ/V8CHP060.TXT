@@ -1,456 +1,477 @@
-All units of the unit class Anti-Tank Infantry are listed herein (11 in total):
+All units of the unit class Landing Barge are listed herein (11 in total):
 
 --1--
-Name: Anti-Tank Infantry
-Nick Name: AT Inf
+Name: Landing Barge
+Nick Name: NN-LB
 Scores & Strengths:
-  Tech Score: 162
-  Unit Score: 160
-  Average Score: 161
-  Stat Strength: 81
-  Total Strength: 160
-  Planet Strength: 160
+  Tech Score: 86
+  Unit Score: 171
+  Average Score: 128
+  Stat Strength: 167
+  Total Strength: 171
+  Planet Strength: 171
   Space Strength: 0
-  Garrison Strength: 113
+  Garrison Strength: 69
 Statistics:
-  Movement Type: foot
-  Move Points: 2
+  Movement Type: naval
+  Move Points: 6
   Spot: 2
-  Camouflage: 2
-  Agility: 7
-  Armor: 4
-  Psy Defense: 2
-  Rank: 41
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 5
+  Rank: 91
 Attacks:
-  Indirect: 3/13
-  Direct: 4/10
-Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 24
+  Close: 2/2
+Cargo Space: 4
+Amphibious loading / unloading of cargo
+Can tow units that can be towed
+Upkeep / Maintenance: 17
+Build Cost: 170
 Build Resource Requirements:
-  Energy: 41
-  Metal: 6
-  Trace: 14
-  Exotica: 6
-  Chemicals: 34
-Upgrade Peasant to Anti-Tank Infantry at Fort
-Time to Build / Upgrade: 1
-[350] Technology Required to Build Unit (95):
-  [350] Anti-Tank Weaponry (95)
+  Food: 13
+  Energy: 14
+  Metal: 92
+  Trace: 15
+  Exotica: 10
+  Chemicals: 12
+Build Landing Barge in Well
+Time to Build / Upgrade: 3
+[150] Technologies Required to Build Unit (100):
+  [100] Physics & Energy (100)
+  [50] Applied Technology (100)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Anti-Tank Infantry (BE)
-Nick Name: AT Inf (BE)
+Name: Motor Landing Craft
+Nick Name: NN-MLC
 Scores & Strengths:
-  Tech Score: 245
-  Unit Score: 266
-  Average Score: 256
-  Stat Strength: 120
-  Total Strength: 266
-  Planet Strength: 266
+  Tech Score: 94
+  Unit Score: 235
+  Average Score: 165
+  Stat Strength: 220
+  Total Strength: 235
+  Planet Strength: 235
   Space Strength: 0
-  Garrison Strength: 153
+  Garrison Strength: 95
 Statistics:
-  Movement Type: foot
-  Move Points: 3
+  Movement Type: naval
+  Move Points: 6
   Spot: 2
-  Camouflage: 3
-  Agility: 8
-  Armor: 5
-  Psy Defense: 3
-  Rank: 47
+  Camouflage: 0
+  Agility: 0
+  Armor: 12
+  Psy Defense: 6
+  Rank: 62
 Attacks:
-  Indirect: 4/17
-  Direct: 6/13
-Load aboard transport: YES
-May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 6
-Build Cost: 35
+  Close: 5/3
+Cargo Space: 1
+Amphibious loading / unloading of cargo
+Can tow units that can be towed
+Upkeep / Maintenance: 12
+Build Cost: 117
 Build Resource Requirements:
-  Metal: 3
-  Biochems: 32
-Upgrade Anti-Tank Infantry to Anti-Tank Infantry (BE) at Biochem Plant
-Time to Build / Upgrade: 1
-[770] Technologies Required to Build Unit (86):
-  [420] Biochem-Enhanced Soldiers (77)
-  [350] Anti-Tank Weaponry (95)
+  Food: 8
+  Energy: 10
+  Metal: 88
+  Trace: 14
+  Exotica: 6
+  Chemicals: 9
+Build Motor Landing Craft in Well
+Time to Build / Upgrade: 3
+[270] Technologies Required to Build Unit (99):
+  [110] Structural Engineering (99)
+  [110] Mechanical & Aerospace Engineering (98)
+  [50] Applied Technology (100)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Anti-Tank Infantry (SE)
-Nick Name: AT Inf (SE)
+Name: Landing Craft Infantry
+Nick Name: NN-LCI
 Scores & Strengths:
-  Tech Score: 319
-  Unit Score: 349
-  Average Score: 334
-  Stat Strength: 153
-  Total Strength: 349
-  Planet Strength: 349
+  Tech Score: 585
+  Unit Score: 580
+  Average Score: 582
+  Stat Strength: 580
+  Total Strength: 580
+  Planet Strength: 580
   Space Strength: 0
-  Garrison Strength: 201
+  Garrison Strength: 219
 Statistics:
-  Movement Type: foot
-  Move Points: 3
-  Spot: 3
-  Camouflage: 3
-  Agility: 9
-  Armor: 6
-  Psy Defense: 3
-  Rank: 50
-Attacks:
-  Indirect: 5/20
-  Direct: 6/16
-Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 41
+  Movement Type: naval
+  Move Points: 7
+  Spot: 4
+  Camouflage: 4
+  Agility: 7
+  Armor: 15
+  Psy Defense: 15
+  Rank: 76
+Cargo Space: 2
+Amphibious loading / unloading of cargo
+Upkeep / Maintenance: 4
+Build Cost: 43
 Build Resource Requirements:
-  Energy: 7
-  Metal: 2
-  Chemicals: 6
-  Biochems: 38
-Upgrade Anti-Tank Infantry to Anti-Tank Infantry (SE) at Hospital
-Time to Build / Upgrade: 1
-[1025] Technologies Required to Build Unit (85):
-  [675] Surgically-Enhanced Soldiers (75)
-  [350] Anti-Tank Weaponry (95)
+  Food: 2
+  Energy: 4
+  Metal: 49
+  Trace: 4
+  Exotica: 3
+  Chemicals: 4
+  Biochems: 3
+  Electronics: 3
+Build Landing Craft Infantry in Well
+Time to Build / Upgrade: 2
+[1940] Technology Required to Build Unit (89):
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Anti-Tank Infantry (DE)
-Nick Name: AT Inf (DE)
+Name: Landing Craft Mechanized
+Nick Name: NN-LCM
 Scores & Strengths:
-  Tech Score: 933
-  Unit Score: 819
-  Average Score: 876
-  Stat Strength: 305
-  Total Strength: 819
-  Planet Strength: 819
+  Tech Score: 585
+  Unit Score: 583
+  Average Score: 584
+  Stat Strength: 543
+  Total Strength: 583
+  Planet Strength: 583
   Space Strength: 0
-  Garrison Strength: 366
+  Garrison Strength: 238
 Statistics:
-  Movement Type: foot
-  Move Points: 5
-  Spot: 3
-  Camouflage: 5
-  Agility: 11
-  Armor: 10
-  Psy Defense: 5
-  Rank: 69
+  Movement Type: naval
+  Move Points: 6
+  Spot: 4
+  Camouflage: 4
+  Agility: 5
+  Armor: 15
+  Psy Defense: 15
+  Rank: 150
 Attacks:
-  Indirect: 8/33
-  Direct: 10/25
-Load aboard transport: YES
+  Indirect: 4/10
+Cargo Space: 3
+Amphibious loading / unloading of cargo
 Upkeep / Maintenance: 5
-Build Cost: 21
+Build Cost: 46
 Build Resource Requirements:
-  Metal: 22
-  Biochems: 32
-  Electronics: 8
-Upgrade Anti-Tank Infantry to Anti-Tank Infantry (DE) at Biochem Plant
-Time to Build / Upgrade: 1
-[3790] Technologies Required to Build Unit (80):
-  [3440] Drug-Enhanced Soldiers (65)
-  [350] Anti-Tank Weaponry (95)
+  Food: 2
+  Energy: 8
+  Metal: 49
+  Trace: 4
+  Exotica: 2
+  Chemicals: 3
+  Biochems: 2
+  Electronics: 3
+Build Landing Craft Mechanized in Well
+Time to Build / Upgrade: 2
+[1940] Technology Required to Build Unit (89):
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Anti-Tank Infantry (GE)
-Nick Name: AT Inf (GE)
+Name: Landing Craft Tank
+Nick Name: NN-LCT
 Scores & Strengths:
-  Tech Score: 1397
-  Unit Score: 1240
-  Average Score: 1319
-  Stat Strength: 437
-  Total Strength: 1240
-  Planet Strength: 1240
+  Tech Score: 585
+  Unit Score: 585
+  Average Score: 585
+  Stat Strength: 585
+  Total Strength: 585
+  Planet Strength: 585
   Space Strength: 0
-  Garrison Strength: 506
+  Garrison Strength: 261
 Statistics:
-  Movement Type: foot
-  Move Points: 6
+  Movement Type: naval
+  Move Points: 5
   Spot: 4
-  Camouflage: 6
-  Agility: 12
-  Armor: 13
-  Psy Defense: 6
-  Rank: 82
-Attacks:
-  Indirect: 10/40
-  Direct: 13/31
-Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 43
+  Camouflage: 4
+  Agility: 4
+  Armor: 16
+  Psy Defense: 16
+  Rank: 86
+Cargo Space: 3
+Amphibious loading / unloading of cargo
+Upkeep / Maintenance: 4
+Build Cost: 38
 Build Resource Requirements:
-  Energy: 17
-  Chemicals: 15
-  Biochems: 21
-  Electronics: 1
-  Ceramsteel: 5
-Upgrade Anti-Tank Infantry (DE) to Anti-Tank Infantry (GE) at Lab
-Time to Build / Upgrade: 1
-[6370] Technologies Required to Build Unit (72):
-  [6020] Chemical Shock Legion (49)
-  [350] Anti-Tank Weaponry (95)
+  Food: 2
+  Energy: 2
+  Metal: 50
+  Trace: 3
+  Exotica: 1
+  Chemicals: 2
+  Biochems: 2
+  Electronics: 2
+Build Landing Craft Tank in Well
+Time to Build / Upgrade: 2
+[2240] Technologies Required to Build Unit (92):
+  [300] Mechanized Warfare (95)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Anti-Tank Infantry (PA)
-Nick Name: AT Inf (PA)
+Name: Landing Craft Assault
+Nick Name: NN-LCA
 Scores & Strengths:
-  Tech Score: 1421
-  Unit Score: 1263
-  Average Score: 1342
-  Stat Strength: 437
-  Total Strength: 1263
-  Planet Strength: 1263
+  Tech Score: 585
+  Unit Score: 588
+  Average Score: 586
+  Stat Strength: 588
+  Total Strength: 588
+  Planet Strength: 588
   Space Strength: 0
-  Garrison Strength: 515
+  Garrison Strength: 207
 Statistics:
-  Movement Type: foot
-  Move Points: 6
+  Movement Type: naval
+  Move Points: 8
   Spot: 4
-  Camouflage: 6
-  Agility: 12
-  Armor: 13
-  Psy Defense: 6
-  Rank: 83
-Attacks:
-  Indirect: 10/41
-  Direct: 13/32
-Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 48
+  Camouflage: 4
+  Agility: 10
+  Armor: 14
+  Psy Defense: 14
+  Rank: 66
+Cargo Space: 1
+Amphibious loading / unloading of cargo
+Upkeep / Maintenance: 5
+Build Cost: 46
 Build Resource Requirements:
-  Energy: 44
-  Metal: 2
-  Chemicals: 37
-  Biochems: 6
-  Electronics: 14
-  Ceramsteel: 17
-Upgrade Anti-Tank Infantry (SE) to Anti-Tank Infantry (PA) at Hospital
+  Food: 4
+  Energy: 6
+  Metal: 42
+  Trace: 6
+  Exotica: 4
+  Chemicals: 6
+  Biochems: 4
+  Electronics: 4
+Build Landing Craft Assault in Well
 Time to Build / Upgrade: 2
-[6525] Technologies Required to Build Unit (76):
-  [6175] Prosthetically-Augmented Soldiers (57)
-  [350] Anti-Tank Weaponry (95)
+[1940] Technology Required to Build Unit (89):
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Anti-Tank Infantry (CE)
-Nick Name: AT Inf (CE)
+Name: Landing Craft Support (Medium)
+Nick Name: NN-LCS(M)
 Scores & Strengths:
-  Tech Score: 1812
-  Unit Score: 1578
-  Average Score: 1695
-  Stat Strength: 557
-  Total Strength: 1578
-  Planet Strength: 1578
+  Tech Score: 608
+  Unit Score: 606
+  Average Score: 607
+  Stat Strength: 534
+  Total Strength: 606
+  Planet Strength: 606
   Space Strength: 0
-  Garrison Strength: 596
+  Garrison Strength: 214
 Statistics:
-  Movement Type: foot
-  Move Points: 7
+  Movement Type: naval
+  Move Points: 8
   Spot: 4
-  Camouflage: 7
-  Agility: 13
-  Armor: 15
-  Psy Defense: 7
-  Rank: 92
+  Camouflage: 4
+  Agility: 10
+  Armor: 13
+  Psy Defense: 13
+  Rank: 76
 Attacks:
-  Indirect: 11/47
-  Direct: 14/36
-Load aboard transport: YES
-Upkeep / Maintenance: 11
+  Close: 8/9
+Cargo Space: 2
+Amphibious loading / unloading of cargo
+Upkeep / Maintenance: 6
 Build Cost: 59
 Build Resource Requirements:
-  Energy: 33
-  Metal: 4
-  Chemicals: 19
-  Biochems: 9
-  Ceramsteel: 5
-Upgrade Anti-Tank Infantry (PA) to Anti-Tank Infantry (CE) at Lab
-Time to Build / Upgrade: 1
-[8950] Technologies Required to Build Unit (72):
-  [350] Anti-Tank Weaponry (95)
-  [8600] Cybernetically-Enhanced Soldiers (48)
+  Food: 4
+  Energy: 9
+  Metal: 33
+  Trace: 9
+  Exotica: 4
+  Chemicals: 10
+  Biochems: 6
+  Electronics: 7
+Build Landing Craft Support (Medium) in Well
+Time to Build / Upgrade: 2
+[2345] Technologies Required to Build Unit (92):
+  [1940] Amphibious Landing Craft (89)
+  [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Anti-Tank Infantry (ME)
-Nick Name: AT Inf (ME)
+Name: Landing Craft Support (Large)
+Nick Name: NN-LCS(L)
 Scores & Strengths:
-  Tech Score: 1401
-  Unit Score: 1742
-  Average Score: 1571
-  Stat Strength: 883
-  Total Strength: 1742
-  Planet Strength: 1742
+  Tech Score: 608
+  Unit Score: 606
+  Average Score: 607
+  Stat Strength: 554
+  Total Strength: 606
+  Planet Strength: 606
   Space Strength: 0
-  Garrison Strength: 422
+  Garrison Strength: 229
 Statistics:
-  Movement Type: foot
-  Move Points: 17
+  Movement Type: naval
+  Move Points: 7
   Spot: 4
-  Camouflage: 6
-  Agility: 18
-  Armor: 13
-  Psy Defense: 7
-  Rank: 87
+  Camouflage: 4
+  Agility: 9
+  Armor: 14
+  Psy Defense: 14
+  Rank: 86
 Attacks:
-  Indirect: 10/43
-  Direct: 13/33
-Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 37
+  Close: 4/13
+Cargo Space: 3
+Amphibious loading / unloading of cargo
+Can tow units that can be towed
+Upkeep / Maintenance: 7
+Build Cost: 68
 Build Resource Requirements:
-  Food: 2
-  Energy: 26
-  Exotica: 2
-  Chemicals: 33
-  Electronics: 18
-  Ceramsteel: 7
-Upgrade Anti-Tank Infantry to Anti-Tank Infantry (ME) at Factory
+  Food: 3
+  Energy: 13
+  Metal: 38
+  Trace: 6
+  Exotica: 3
+  Chemicals: 13
+  Biochems: 4
+  Electronics: 4
+Build Landing Craft Support (Large) in Well
 Time to Build / Upgrade: 2
-[6570] Technologies Required to Build Unit (88):
-  [350] Anti-Tank Weaponry (95)
-  [6220] Mechanically-Enhanced Soldiers (80)
+[2345] Technologies Required to Build Unit (92):
+  [1940] Amphibious Landing Craft (89)
+  [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Anti-Tank Infantry (MF)
-Nick Name: AT Inf (MF)
+Name: Landing Craft Navigation
+Nick Name: NN-LCN
 Scores & Strengths:
-  Tech Score: 3194
-  Unit Score: 2663
-  Average Score: 2929
-  Stat Strength: 883
-  Total Strength: 2663
-  Planet Strength: 2663
+  Tech Score: 781
+  Unit Score: 780
+  Average Score: 781
+  Stat Strength: 780
+  Total Strength: 780
+  Planet Strength: 780
   Space Strength: 0
-  Garrison Strength: 842
+  Garrison Strength: 235
 Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 4
-  Camouflage: 9
-  Agility: 15
-  Armor: 19
-  Psy Defense: 10
-  Rank: 121
-Attacks:
-  Indirect: 14/62
-  Direct: 19/48
-Load aboard transport: YES
-Upkeep / Maintenance: 77
-Build Cost: 709
+  Movement Type: naval
+  Move Points: 11
+  Spot: 10
+  Camouflage: 5
+  Agility: 14
+  Armor: 13
+  Psy Defense: 13
+  Rank: 68
+Cargo Space: 1
+Amphibious loading / unloading of cargo
+Upkeep / Maintenance: 6
+Build Cost: 61
 Build Resource Requirements:
-  Energy: 26
-  Chemicals: 6
-  Biochems: 17
-  Wetware: 5
-  Monopols: 94
-Upgrade Anti-Tank Infantry (CE) to Anti-Tank Infantry (MF) at Wetware
-Time to Build / Upgrade: 4
-[18925] Technologies Required to Build Unit (65):
-  [350] Anti-Tank Weaponry (95)
-  [18575] Machine-Fused Soldiers (35)
+  Food: 7
+  Energy: 9
+  Metal: 27
+  Trace: 11
+  Exotica: 8
+  Chemicals: 9
+  Biochems: 8
+  Electronics: 8
+Build Landing Craft Navigation in Well
+Time to Build / Upgrade: 2
+[2980] Technologies Required to Build Unit (90):
+  [125] Radar (93)
+  [2855] Naval Amphibious Ships (87)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Anti-Tank Infantry (AVE)
-Nick Name: AT Inf (AVE)
+Name: Landing Craft Control
+Nick Name: NN-LCC
 Scores & Strengths:
-  Tech Score: 3641
-  Unit Score: 2932
-  Average Score: 3286
-  Stat Strength: 972
-  Total Strength: 2932
-  Planet Strength: 2932
+  Tech Score: 804
+  Unit Score: 803
+  Average Score: 803
+  Stat Strength: 785
+  Total Strength: 803
+  Planet Strength: 803
   Space Strength: 0
-  Garrison Strength: 927
+  Garrison Strength: 231
 Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 4
-  Camouflage: 10
-  Agility: 16
-  Armor: 20
-  Psy Defense: 10
-  Rank: 128
+  Movement Type: naval
+  Move Points: 12
+  Spot: 8
+  Camouflage: 4
+  Agility: 13
+  Armor: 14
+  Psy Defense: 14
+  Rank: 803
 Attacks:
-  Indirect: 15/64
-  Direct: 20/50
-Load aboard transport: YES
-Upkeep / Maintenance: 46
-Build Cost: 419
+  Indirect: 1/18
+Cargo Space: 1
+Officer - Provides stack combat bonuses
+Amphibious loading / unloading of cargo
+Upkeep / Maintenance: 8
+Build Cost: 84
 Build Resource Requirements:
-  Energy: 39
-  Chemicals: 24
-  Biochems: 16
-  Wetware: 4
-  Monopols: 53
-Upgrade Anti-Tank Infantry (GE) to Anti-Tank Infantry (AVE) at Lab
-Time to Build / Upgrade: 3
-[27475] Technologies Required to Build Unit (30):
-  [8900] Genetically-Enhanced Warriors (25)
-  [18575] Machine-Fused Soldiers (35)
+  Food: 7
+  Energy: 21
+  Metal: 30
+  Trace: 8
+  Exotica: 7
+  Chemicals: 9
+  Biochems: 6
+  Electronics: 6
+Build Landing Craft Control in Well
+Time to Build / Upgrade: 2
+[3090] Technologies Required to Build Unit (93):
+  [125] Radar (93)
+  [110] Meditation (99)
+  [2855] Naval Amphibious Ships (87)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --11--
-Name: Anti-Tank Infantry (NE)
-Nick Name: AT Inf (NE)
+Name: Landing Ship Tank
+Nick Name: NN-LST
 Scores & Strengths:
-  Tech Score: 3884
-  Unit Score: 3428
-  Average Score: 3656
-  Stat Strength: 1211
-  Total Strength: 3428
-  Planet Strength: 3428
+  Tech Score: 781
+  Unit Score: 1170
+  Average Score: 976
+  Stat Strength: 1065
+  Total Strength: 1170
+  Planet Strength: 1170
   Space Strength: 0
-  Garrison Strength: 1084
+  Garrison Strength: 442
 Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 5
-  Camouflage: 15
-  Agility: 16
+  Movement Type: naval
+  Move Points: 7
+  Spot: 4
+  Camouflage: 4
+  Agility: 4
   Armor: 22
-  Psy Defense: 11
-  Rank: 136
+  Psy Defense: 22
+  Rank: 140
 Attacks:
-  Indirect: 16/69
-  Direct: 21/53
-Load aboard transport: YES
-Upkeep / Maintenance: 36
+  Indirect: 2/10
+  Direct: 5/10
+  Close: 5/7
+Cargo Space: 4
+Can tow units that can be towed
+Upkeep / Maintenance: 10
+Build Cost: 95
 Build Resource Requirements:
-  Trace: 2
-  Electronics: 5
-  Wetware: 1
-Upgrade Anti-Tank Infantry (AVE) to Anti-Tank Infantry (NE) at Fusorium
-Time to Build / Upgrade: 1
-[24480] Technologies Required to Build Unit (64):
-  [350] Anti-Tank Weaponry (95)
-  [24130] Neumonically-Enhanced Soldiers (32)
+  Food: 2
+  Energy: 13
+  Metal: 78
+  Trace: 6
+  Exotica: 2
+  Chemicals: 9
+  Biochems: 3
+  Electronics: 4
+Build Landing Ship Tank in Well
+Time to Build / Upgrade: 3
+[2855] Technology Required to Build Unit (87):
+  [2855] Naval Amphibious Ships (87)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

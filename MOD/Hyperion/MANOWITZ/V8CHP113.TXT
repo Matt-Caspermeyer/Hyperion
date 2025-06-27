@@ -1,269 +1,96 @@
-All units of the unit class Naval Battleship are listed herein (6 in total):
+All units of the unit class Zodiac are listed herein (2 in total):
 
 --1--
-Name: Naval Battleship
-Nick Name: NN-BB
+Name: Zodiac
+Nick Name: Zodiac
 Scores & Strengths:
-  Tech Score: 203
-  Unit Score: 505
-  Average Score: 354
-  Stat Strength: 447
-  Total Strength: 505
-  Planet Strength: 505
-  Space Strength: 0
-  Garrison Strength: 190
+  Tech Score: 730
+  Unit Score: 549
+  Average Score: 640
+  Stat Strength: 401
+  Total Strength: 549
+  Planet Strength: 500
+  Space Strength: 500
+  Garrison Strength: 250
 Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 2
-  Camouflage: 1
-  Agility: 1
-  Armor: 14
-  Psy Defense: 14
-  Rank: 90
+  Movement Type: lander
+  Move Points: 4
+  Spot: 8
+  Camouflage: 4
+  Agility: 15
+  Armor: 4
+  Psy Defense: 8
+  Rank: 106
 Attacks:
-  Indirect: 2/24
-  Direct: 1/10
-Upkeep / Maintenance: 13
-Build Cost: 134
+  Closed Space: 7/7
+  Psychic: 10/5
+  Close: 7/7
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 296
+Build Cost: 2964
 Build Resource Requirements:
-  Food: 5
-  Energy: 98
-  Metal: 81
-  Trace: 4
-  Exotica: 4
-  Chemicals: 18
-Build Naval Battleship in Well
-Time to Build / Upgrade: 4
-[835] Technologies Required to Build Unit (97):
-  [230] Hospitals (97)
-  [110] Structural Engineering (99)
-  [170] Fire Control System (89)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
+  Food: 24
+  Energy: 45
+  Metal: 9
+  Trace: 32
+  Exotica: 30
+  Chemicals: 47
+  Electronics: 45
+  Gems: 3
+S  ingularities: 2
+Build Zodiac in Church
+Time to Build / Upgrade: 3
+[2795] Technologies Required to Build Unit (59):
+  [330] Holy Warriors (82)
+  [2465] Sathra (36)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Naval Dreadnought Battleship
-Nick Name: NN-BD
+Name: Sathraist
+Nick Name: Sathraist
 Scores & Strengths:
-  Tech Score: 213
-  Unit Score: 634
-  Average Score: 424
-  Stat Strength: 554
-  Total Strength: 634
-  Planet Strength: 634
-  Space Strength: 0
-  Garrison Strength: 258
+  Tech Score: 956
+  Unit Score: 848
+  Average Score: 902
+  Stat Strength: 522
+  Total Strength: 848
+  Planet Strength: 767
+  Space Strength: 735
+  Garrison Strength: 313
 Statistics:
-  Movement Type: naval
+  Movement Type: lander
   Move Points: 6
-  Spot: 2
-  Camouflage: 1
-  Agility: 1
-  Armor: 16
-  Psy Defense: 16
-  Rank: 92
+  Spot: 10
+  Camouflage: 6
+  Agility: 15
+  Armor: 5
+  Psy Defense: 10
+  Rank: 196
 Attacks:
-  Indirect: 2/29
-  Direct: 2/11
-Upkeep / Maintenance: 19
-Build Cost: 189
+  Closed Space: 9/9
+  Psychic: 11/12
+  Air: 8/4
+  Close: 9/9
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 423
+Build Cost: 4231
 Build Resource Requirements:
-  Food: 4
-  Energy: 136
-  Metal: 106
-  Trace: 5
-  Exotica: 3
-  Chemicals: 20
-Build Naval Dreadnought Battleship in Well
-Time to Build / Upgrade: 5
-[865] Technologies Required to Build Unit (97):
-  [230] Hospitals (97)
-  [110] Structural Engineering (99)
-  [200] Admiralty Fire Control Table (87)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---3--
-Name: Naval Battleship II
-Nick Name: N-BB
-Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1396
-  Average Score: 1085
-  Stat Strength: 1321
-  Total Strength: 1396
-  Planet Strength: 1396
-  Space Strength: 0
-  Garrison Strength: 441
-Statistics:
-  Movement Type: naval
-  Move Points: 10
-  Spot: 8
-  Camouflage: 1
-  Agility: 2
-  Armor: 24
-  Psy Defense: 24
-  Rank: 139
-Attacks:
-  Indirect: 3/25
-Upkeep / Maintenance: 8
-Build Cost: 76
-Build Resource Requirements:
-  Food: 4
-  Energy: 29
-  Metal: 90
-  Trace: 4
-  Exotica: 4
-  Chemicals: 4
-  Biochems: 4
-  Electronics: 3
-Build Naval Battleship II in Well
-Time to Build / Upgrade: 3
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: Naval Fast Battleship
-Nick Name: NN-BF
-Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1546
-  Average Score: 1160
-  Stat Strength: 1230
-  Total Strength: 1546
-  Planet Strength: 1546
-  Space Strength: 0
-  Garrison Strength: 488
-Statistics:
-  Movement Type: naval
-  Move Points: 10
-  Spot: 8
-  Camouflage: 2
-  Agility: 2
-  Armor: 23
-  Psy Defense: 23
-  Rank: 115
-Attacks:
-  Indirect: 5/22
-  Direct: 10/18
-  Close: 2/13
-Upkeep / Maintenance: 12
-Build Cost: 115
-Build Resource Requirements:
-  Food: 4
-  Energy: 44
-  Metal: 83
-  Trace: 10
-  Exotica: 4
-  Chemicals: 24
-  Biochems: 7
-  Electronics: 7
-Build Naval Fast Battleship in Well
+  Food: 30
+  Energy: 69
+  Metal: 13
+  Trace: 51
+  Exotica: 37
+  Chemicals: 72
+  Electronics: 73
+  Gems: 10
+S  ingularities: 3
+Build Sathraist in Church
 Time to Build / Upgrade: 4
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Naval Pocket Battleship
-Nick Name: NN-BP
-Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1546
-  Average Score: 1160
-  Stat Strength: 1216
-  Total Strength: 1546
-  Planet Strength: 1546
-  Space Strength: 0
-  Garrison Strength: 515
-Statistics:
-  Movement Type: naval
-  Move Points: 9
-  Spot: 8
-  Camouflage: 2
-  Agility: 3
-  Armor: 23
-  Psy Defense: 23
-  Rank: 115
-Attacks:
-  Indirect: 5/24
-  Direct: 8/20
-  Close: 5/10
-Upkeep / Maintenance: 11
-Build Cost: 114
-Build Resource Requirements:
-  Food: 4
-  Energy: 47
-  Metal: 83
-  Trace: 9
-  Exotica: 4
-  Chemicals: 24
-  Biochems: 6
-  Electronics: 6
-Build Naval Pocket Battleship in Well
-Time to Build / Upgrade: 4
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---6--
-Name: Guided Missile Battleship
-Nick Name: NN-BGM
-Scores & Strengths:
-  Tech Score: 1339
-  Unit Score: 1800
-  Average Score: 1569
-  Stat Strength: 1443
-  Total Strength: 1800
-  Planet Strength: 1800
-  Space Strength: 0
-  Garrison Strength: 542
-Statistics:
-  Movement Type: naval
-  Move Points: 11
-  Spot: 8
-  Camouflage: 2
-  Agility: 2
-  Armor: 25
-  Psy Defense: 25
-  Rank: 121
-Attacks:
-  Indirect: 5/24
-  Direct: 11/19
-  Close: 2/14
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 12
-Build Cost: 121
-Build Resource Requirements:
-  Food: 2
-  Energy: 33
-  Metal: 33
-  Trace: 5
-  Exotica: 2
-  Chemicals: 30
-  Biochems: 4
-  Electronics: 6
-  Ceramsteel: 40
-Build Guided Missile Battleship in Well
-Time to Build / Upgrade: 4
-[5855] Technology Required to Build Unit (84):
-  [5855] Guided Missile Navalcraft (84)
+[3920] Technologies Required to Build Unit (54):
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

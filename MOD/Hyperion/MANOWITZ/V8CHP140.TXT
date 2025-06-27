@@ -1,292 +1,140 @@
-All units of the unit class Jet-Propulsion Fighter are listed herein (6 in total):
+All units of the unit class Rebel Officer are listed herein (3 in total):
 
 --1--
-Name: Jet-Propulsion Fighter
-Nick Name: Tiger
+Name: Rebel Officer
+Nick Name: Rebel Officer
 Scores & Strengths:
-  Tech Score: 1142
-  Unit Score: 1139
-  Average Score: 1140
-  Stat Strength: 745
-  Total Strength: 1139
-  Planet Strength: 1139
+  Tech Score: 1171
+  Unit Score: 1171
+  Average Score: 1171
+  Stat Strength: 516
+  Total Strength: 1171
+  Planet Strength: 1171
   Space Strength: 0
-  Garrison Strength: 237
+  Garrison Strength: 414
 Statistics:
-  Movement Type: air
-  Move Points: 23
-  Spot: 6
-  Camouflage: 4
-  Agility: 6
+  Movement Type: foot
+  Move Points: 8
+  Spot: 8
+  Camouflage: 8
+  Agility: 14
   Armor: 8
   Psy Defense: 8
-  Rank: 162
+  Rank: 726
 Attacks:
-  Air: 15/15
-  Indirect: 13/13
+  Air: 17/12
+  Indirect: 14/12
+  Direct: 13/10
+  Close: 17/9
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 31
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 7
+Build Cost: 60
 Build Resource Requirements:
-  Food: 6
-  Energy: 19
-  Metal: 9
-  Trace: 8
-  Exotica: 6
-  Chemicals: 17
-  Biochems: 8
-  Electronics: 7
-Build Jet-Propulsion Fighter in Factory
+  Metal: 1
+  Trace: 17
+  Exotica: 3
+  Chemicals: 14
+  Biochems: 35
+  Electronics: 36
+  Ceramsteel: 3
+Upgrade Peasant to Rebel Officer at Fort
 Time to Build / Upgrade: 2
-[7115] Technologies Required to Build Unit (88):
-  [795] Missiles (86)
-  [1810] Jet-Propulsion Aircraft (86)
-  [2725] Naval Capital Ships (88)
-  [1785] Rotary Autocannon (90)
+[6240] Technologies Required to Build Unit (65):
+  [1615] Wireblades (76)
+  [4625] Xenoenvironments (53)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Atmospheric Fighter
-Nick Name: Gryphon
+Name: Scout Mech
+Nick Name: Locust
 Scores & Strengths:
-  Tech Score: 1650
-  Unit Score: 1687
-  Average Score: 1669
-  Stat Strength: 1107
-  Total Strength: 1687
-  Planet Strength: 1687
+  Tech Score: 1535
+  Unit Score: 1535
+  Average Score: 1535
+  Stat Strength: 1245
+  Total Strength: 1535
+  Planet Strength: 1535
   Space Strength: 0
-  Garrison Strength: 318
+  Garrison Strength: 410
 Statistics:
-  Movement Type: air
-  Move Points: 28
-  Spot: 7
-  Camouflage: 5
-  Agility: 7
-  Armor: 10
-  Psy Defense: 10
-  Rank: 174
+  Movement Type: mech
+  Move Points: 14
+  Spot: 14
+  Camouflage: 9
+  Agility: 22
+  Armor: 12
+  Psy Defense: 12
+  Rank: 92
 Attacks:
-  Air: 18/18
-  Indirect: 16/16
+  Direct: 12/15
+  Close: 10/11
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 41
+Immune to Plague
+Upkeep / Maintenance: 12
+Build Cost: 119
 Build Resource Requirements:
   Food: 7
-  Energy: 23
+  Energy: 13
   Metal: 4
-  Trace: 8
+  Trace: 10
   Exotica: 7
   Chemicals: 24
-  Biochems: 10
-  Electronics: 9
-  Ceramsteel: 5
-Build Atmospheric Fighter in Factory
+  Electronics: 23
+  Ceramsteel: 7
+Build Scout Mech in Starport
 Time to Build / Upgrade: 2
-[10770] Technologies Required to Build Unit (85):
-  [1785] Rotary Autocannon (90)
-  [5855] Guided Missile Navalcraft (84)
-  [3130] Atmospheric Aircraft (82)
+[11455] Technologies Required to Build Unit (79):
+  [1690] Ceramsteel (84)
+  [6220] Mechanically-Enhanced Soldiers (80)
+  [3545] Aircraft Surveillance (74)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Laser Fighter
-Nick Name: Pegasus
+Name: Mech Commander
+Nick Name: Commodore
 Scores & Strengths:
-  Tech Score: 4522
-  Unit Score: 4396
-  Average Score: 4459
-  Stat Strength: 2820
-  Total Strength: 4396
-  Planet Strength: 4396
+  Tech Score: 2033
+  Unit Score: 2032
+  Average Score: 2032
+  Stat Strength: 1448
+  Total Strength: 2032
+  Planet Strength: 2032
   Space Strength: 0
-  Garrison Strength: 648
+  Garrison Strength: 586
 Statistics:
-  Movement Type: air
-  Move Points: 46
-  Spot: 8
-  Camouflage: 8
-  Agility: 8
-  Armor: 16
-  Psy Defense: 16
-  Rank: 222
-Attacks:
-  Air: 30/30
-  Indirect: 26/26
-Load aboard transport: YES
-Upkeep / Maintenance: 27
-Build Cost: 272
-Build Resource Requirements:
-  Food: 5
-  Energy: 16
-  Metal: 1
-  Trace: 7
-  Exotica: 5
-  Chemicals: 19
-  Biochems: 7
-  Electronics: 12
-  Ceramsteel: 3
-  Monopols: 25
-Build Laser Fighter in Factory
-Time to Build / Upgrade: 3
-[41035] Technologies Required to Build Unit (81):
-  [1785] Rotary Autocannon (90)
-  [27875] PTS Meson Navalcraft (74)
-  [11375] Power Aircraft (79)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---4--
-Name: Psy Laser Fighter
-Nick Name: Psy Fighter
-Scores & Strengths:
-  Tech Score: 4546
-  Unit Score: 5681
-  Average Score: 5113
-  Stat Strength: 3748
-  Total Strength: 5681
-  Planet Strength: 5681
-  Space Strength: 4105
-  Garrison Strength: 837
-Statistics:
-  Movement Type: air
-  Move Points: 46
+  Movement Type: mech
+  Move Points: 12
   Spot: 12
-  Camouflage: 8
-  Agility: 12
-  Armor: 16
-  Psy Defense: 32
-  Rank: 228
+  Camouflage: 6
+  Agility: 18
+  Armor: 20
+  Psy Defense: 20
+  Rank: 101
 Attacks:
-  Psychic: 17/21
-  Air: 30/30
-  Indirect: 26/26
+  Air: 10/12
+  Indirect: 9/20
+  Direct: 8/23
+  Close: 10/10
 Load aboard transport: YES
-Upkeep / Maintenance: 92
-Build Cost: 923
+Immune to Plague
+Upkeep / Maintenance: 109
+Build Cost: 1085
 Build Resource Requirements:
-  Food: 6
-  Energy: 16
-  Metal: 4
-  Trace: 7
-  Exotica: 6
-  Chemicals: 20
-  Biochems: 8
-  Electronics: 14
-  Ceramsteel: 7
+  Food: 3
+  Energy: 17
+  Metal: 8
+  Trace: 10
+  Exotica: 3
+  Chemicals: 21
+  Electronics: 19
+  Ceramsteel: 10
   Monopols: 30
-  Gems: 75
-Build Psy Laser Fighter in Factory
-Time to Build / Upgrade: 4
-[41365] Technologies Required to Build Unit (81):
-  [330] Holy Warriors (82)
-  [1785] Rotary Autocannon (90)
-  [27875] PTS Meson Navalcraft (74)
-  [11375] Power Aircraft (79)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Morph Fighter
-Nick Name: Wyvern
-Scores & Strengths:
-  Tech Score: 8186
-  Unit Score: 8185
-  Average Score: 8186
-  Stat Strength: 5279
-  Total Strength: 8185
-  Planet Strength: 8185
-  Space Strength: 0
-  Garrison Strength: 1135
-Statistics:
-  Movement Type: air
-  Move Points: 52
-  Spot: 18
-  Camouflage: 13
-  Agility: 32
-  Armor: 23
-  Psy Defense: 23
-  Rank: 277
-Attacks:
-  Air: 41/41
-  Indirect: 35/35
-Load aboard transport: YES
-Upkeep / Maintenance: 32
-Build Cost: 322
-Build Resource Requirements:
-  Food: 3
-  Energy: 12
-  Metal: 1
-  Trace: 5
-  Exotica: 3
-  Chemicals: 13
-  Biochems: 20
-  Electronics: 9
-  Ceramsteel: 3
-  Wetware: 7
-  Monopols: 20
-Build Morph Fighter in Factory
+Build Mech Commander in Starport
 Time to Build / Upgrade: 3
-[96885] Technologies Required to Build Unit (64):
-  [1785] Rotary Autocannon (90)
-  [45010] Hover Navalcraft (52)
-  [50090] Polymorphonic Patrolcraft (51)
+[10220] Technology Required to Build Unit (73):
+  [10220] Mechanized Warriors (73)
 Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Stealth Fighter
-Nick Name: Dragon
-Scores & Strengths:
-  Tech Score: 8419
-  Unit Score: 8417
-  Average Score: 8418
-  Stat Strength: 5575
-  Total Strength: 8417
-  Planet Strength: 8417
-  Space Strength: 0
-  Garrison Strength: 1167
-Statistics:
-  Movement Type: air
-  Move Points: 52
-  Spot: 18
-  Camouflage: 33
-  Agility: 20
-  Armor: 23
-  Psy Defense: 23
-  Rank: 276
-Attacks:
-  Air: 41/42
-  Indirect: 32/35
-Load aboard transport: YES
-Upkeep / Maintenance: 30
-Build Cost: 301
-Build Resource Requirements:
-  Food: 3
-  Energy: 12
-  Metal: 1
-  Trace: 8
-  Exotica: 3
-  Chemicals: 12
-  Biochems: 19
-  Electronics: 15
-  Ceramsteel: 3
-  Wetware: 6
-  Monopols: 19
-Build Stealth Fighter in Factory
-Time to Build / Upgrade: 3
-[98595] Technologies Required to Build Unit (59):
-  [1785] Rotary Autocannon (90)
-  [45010] Hover Navalcraft (52)
-  [51800] Neumonic Patrolcraft (36)
-Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

@@ -1,254 +1,355 @@
-All units of the unit class Noviate are listed herein (6 in total):
+All units of the unit class Scout Car are listed herein (8 in total):
 
 --1--
-Name: Noviate
-Nick Name: Noviate
+Name: Scout Car
+Nick Name: Scout Car
 Scores & Strengths:
-  Tech Score: 90
-  Unit Score: 90
-  Average Score: 90
-  Stat Strength: 81
-  Total Strength: 90
-  Planet Strength: 90
-  Space Strength: 90
-  Garrison Strength: 63
+  Tech Score: 96
+  Unit Score: 94
+  Average Score: 95
+  Stat Strength: 93
+  Total Strength: 94
+  Planet Strength: 94
+  Space Strength: 0
+  Garrison Strength: 35
 Statistics:
-  Movement Type: foot
-  Move Points: 2
-  Spot: 2
+  Movement Type: wheel
+  Move Points: 7
+  Spot: 4
   Camouflage: 2
-  Agility: 7
-  Armor: 2
-  Psy Defense: 4
-  Rank: 701
+  Agility: 2
+  Armor: 4
+  Psy Defense: 2
+  Rank: 51
 Attacks:
-  Psychic: 3/3
+  Close: 1/1
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Upkeep / Maintenance: 6
-Build Cost: 17
+Can tow units that can be towed
+Upkeep / Maintenance: 2
+Build Cost: 16
 Build Resource Requirements:
-  Food: 1
-  Metal: 7
-  Gems: 1
-Upgrade Tertiary to Noviate at Church
+  Food: 10
+  Energy: 8
+  Metal: 10
+  Trace: 6
+  Exotica: 10
+  Chemicals: 8
+Build Scout Car in Factory
 Time to Build / Upgrade: 1
-[160] Technologies Required to Build Unit (100):
-  [110] Meditation (99)
-  [50] Applied Technology (100)
+[275] Technologies Required to Build Unit (98):
+  [110] Mechanical & Aerospace Engineering (98)
+  [165] Autocannon (98)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Canon
-Nick Name: Canon
+Name: Armored Car
+Nick Name: Armored Car
 Scores & Strengths:
-  Tech Score: 126
-  Unit Score: 125
-  Average Score: 125
-  Stat Strength: 113
-  Total Strength: 125
-  Planet Strength: 125
-  Space Strength: 125
-  Garrison Strength: 88
+  Tech Score: 102
+  Unit Score: 100
+  Average Score: 101
+  Stat Strength: 80
+  Total Strength: 100
+  Planet Strength: 100
+  Space Strength: 0
+  Garrison Strength: 40
 Statistics:
-  Movement Type: foot
-  Move Points: 2
+  Movement Type: wheel
+  Move Points: 6
   Spot: 2
   Camouflage: 2
-  Agility: 9
-  Armor: 2
-  Psy Defense: 4
-  Rank: 701
+  Agility: 4
+  Armor: 4
+  Psy Defense: 2
+  Rank: 717
 Attacks:
-  Psychic: 3/4
+  Close: 4/5
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Upkeep / Maintenance: 8
-Build Cost: 60
+Officer - Provides stack combat bonuses
+Can tow units that can be towed
+Upkeep / Maintenance: 2
+Build Cost: 24
 Build Resource Requirements:
-  Trace: 15
-  Chemicals: 11
-  Gems: 2
-Upgrade Noviate to Canon at Church
-Time to Build / Upgrade: 1
-[250] Technologies Required to Build Unit (95):
-  [125] Mechanical Think Machines (93)
-  [125] Psychoconditioning (97)
+  Food: 7
+  Energy: 13
+  Metal: 10
+  Trace: 9
+  Exotica: 7
+  Chemicals: 13
+Build Armored Car in Factory
+Time to Build / Upgrade: 2
+[290] Technologies Required to Build Unit (98):
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Deacon
-Nick Name: Deacon
+Name: Jeep
+Nick Name: Jeep
 Scores & Strengths:
-  Tech Score: 192
-  Unit Score: 192
-  Average Score: 192
-  Stat Strength: 142
-  Total Strength: 192
-  Planet Strength: 192
-  Space Strength: 192
-  Garrison Strength: 110
+  Tech Score: 139
+  Unit Score: 139
+  Average Score: 139
+  Stat Strength: 119
+  Total Strength: 139
+  Planet Strength: 139
+  Space Strength: 0
+  Garrison Strength: 56
 Statistics:
-  Movement Type: foot
-  Move Points: 3
-  Spot: 4
-  Camouflage: 4
-  Agility: 9
-  Armor: 2
-  Psy Defense: 4
-  Rank: 702
+  Movement Type: wheel
+  Move Points: 6
+  Spot: 2
+  Camouflage: 2
+  Agility: 5
+  Armor: 5
+  Psy Defense: 5
+  Rank: 717
 Attacks:
-  Psychic: 10/5
+  Close: 5/4
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Upkeep / Maintenance: 8
-Build Cost: 23
+Officer - Provides stack combat bonuses
+Can tow units that can be towed
+Upkeep / Maintenance: 4
+Build Cost: 38
 Build Resource Requirements:
-  Gems: 2
-Upgrade Canon to Deacon at Church
-Time to Build / Upgrade: 1
-[540] Technologies Required to Build Unit (96):
-  [125] Scholastic Medicine (98)
-  [125] Mechanical Think Machines (93)
-  [145] Composite Armor (97)
-  [145] Psychosonic Manipulation (95)
+  Food: 10
+  Energy: 15
+  Metal: 21
+  Trace: 18
+  Exotica: 9
+  Chemicals: 12
+  Gems: 1
+Build Jeep in Factory
+Time to Build / Upgrade: 2
+[285] Technologies Required to Build Unit (99):
+  [125] Compression Ignition Engine (97)
+  [110] Meditation (99)
+  [50] Applied Technology (100)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Priest
-Nick Name: Priest
+Name: Armored Car II
+Nick Name: Arm Car II
 Scores & Strengths:
-  Tech Score: 227
-  Unit Score: 227
-  Average Score: 227
-  Stat Strength: 179
-  Total Strength: 227
-  Planet Strength: 227
-  Space Strength: 227
-  Garrison Strength: 131
+  Tech Score: 305
+  Unit Score: 264
+  Average Score: 285
+  Stat Strength: 201
+  Total Strength: 264
+  Planet Strength: 264
+  Space Strength: 0
+  Garrison Strength: 83
 Statistics:
-  Movement Type: foot
-  Move Points: 3
-  Spot: 4
+  Movement Type: wheel
+  Move Points: 10
+  Spot: 3
   Camouflage: 3
-  Agility: 10
-  Armor: 3
-  Psy Defense: 6
-  Rank: 702
+  Agility: 5
+  Armor: 7
+  Psy Defense: 3
+  Rank: 719
 Attacks:
-  Psychic: 8/6
+  Close: 7/9
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Upkeep / Maintenance: 10
-Build Cost: 72
+Officer - Provides stack combat bonuses
+Can tow units that can be towed
+Upkeep / Maintenance: 6
+Build Cost: 60
 Build Resource Requirements:
-  Food: 1
-  Energy: 1
-  Metal: 5
-  Exotica: 1
-  Chemicals: 3
-  Gems: 1
-Upgrade Deacon to Priest at Church
-Time to Build / Upgrade: 1
-[650] Technologies Required to Build Unit (93):
-  [160] Transfusion (92)
-  [125] Mechanical Think Machines (93)
-  [145] Composite Armor (97)
-  [220] Indoctrination (91)
+  Food: 9
+  Energy: 17
+  Metal: 14
+  Trace: 13
+  Exotica: 10
+  Chemicals: 22
+  Biochems: 26
+Build Armored Car II in Factory
+Time to Build / Upgrade: 2
+[975] Technologies Required to Build Unit (85):
+  [675] Surgically-Enhanced Soldiers (75)
+  [300] Mechanized Warfare (95)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Bishop
-Nick Name: Bishop
+Name: Armor Commander
+Nick Name: Armr Comm
 Scores & Strengths:
-  Tech Score: 318
-  Unit Score: 319
-  Average Score: 318
-  Stat Strength: 265
-  Total Strength: 319
-  Planet Strength: 319
-  Space Strength: 319
-  Garrison Strength: 130
+  Tech Score: 327
+  Unit Score: 326
+  Average Score: 327
+  Stat Strength: 272
+  Total Strength: 326
+  Planet Strength: 326
+  Space Strength: 0
+  Garrison Strength: 133
 Statistics:
-  Movement Type: foot
+  Movement Type: tread
   Move Points: 6
   Spot: 6
   Camouflage: 2
-  Agility: 12
-  Armor: 3
+  Agility: 4
+  Armor: 12
   Psy Defense: 6
-  Rank: 703
+  Rank: 730
 Attacks:
-  Psychic: 9/6
+  Indirect: 2/8
+  Direct: 2/9
+  Close: 2/10
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Upkeep / Maintenance: 11
-Build Cost: 41
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 4
+Build Cost: 12
 Build Resource Requirements:
-  Food: 4
-  Energy: 3
-  Exotica: 4
-  Chemicals: 1
-  Biochems: 20
-Upgrade Priest to Bishop at Church
+  Energy: 19
+  Metal: 27
+  Chemicals: 14
+  Electronics: 6
+Upgrade Officer Corp to Armor Commander at Factory
 Time to Build / Upgrade: 1
-[1070] Technologies Required to Build Unit (91):
-  [540] Organ Transplants (83)
-  [125] Mechanical Think Machines (93)
-  [145] Composite Armor (97)
-  [260] Liturgical Ritual (90)
+[895] Technologies Required to Build Unit (95):
+  [125] Psychoconditioning (97)
+  [770] Self-Propelled Weaponry (92)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Archbishop
-Nick Name: Archbishop
+Name: Jeep II
+Nick Name: Jeep II
 Scores & Strengths:
-  Tech Score: 564
-  Unit Score: 564
-  Average Score: 564
-  Stat Strength: 420
-  Total Strength: 564
-  Planet Strength: 564
-  Space Strength: 564
-  Garrison Strength: 199
+  Tech Score: 350
+  Unit Score: 330
+  Average Score: 340
+  Stat Strength: 282
+  Total Strength: 330
+  Planet Strength: 330
+  Space Strength: 0
+  Garrison Strength: 104
 Statistics:
-  Movement Type: foot
-  Move Points: 8
-  Spot: 8
-  Camouflage: 4
-  Agility: 14
-  Armor: 4
+  Movement Type: wheel
+  Move Points: 10
+  Spot: 3
+  Camouflage: 3
+  Agility: 6
+  Armor: 8
   Psy Defense: 8
-  Rank: 706
+  Rank: 719
 Attacks:
-  Psychic: 8/18
+  Close: 8/6
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Upkeep / Maintenance: 49
-Build Cost: 449
+Officer - Provides stack combat bonuses
+Can tow units that can be towed
+Upkeep / Maintenance: 6
+Build Cost: 59
 Build Resource Requirements:
-  Metal: 2
-  Chemicals: 5
-  Electronics: 14
-  Gems: 55
-Upgrade Bishop to Archbishop at Church
-Time to Build / Upgrade: 1
-[2325] Technologies Required to Build Unit (87):
-  [540] Organ Transplants (83)
-  [1130] Medical Sensing (85)
-  [125] Mechanical Think Machines (93)
-  [200] Explosive Armor (93)
-  [330] Holy Warriors (82)
+  Food: 9
+  Energy: 13
+  Metal: 26
+  Trace: 15
+  Exotica: 10
+  Chemicals: 15
+  Biochems: 21
+Build Jeep II in Factory
+Time to Build / Upgrade: 2
+[1140] Technologies Required to Build Unit (88):
+  [675] Surgically-Enhanced Soldiers (75)
+  [165] Theurgy (93)
+  [300] Mechanized Warfare (95)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Amphibious Jeep
+Nick Name: N-AJ
+Scores & Strengths:
+  Tech Score: 406
+  Unit Score: 406
+  Average Score: 406
+  Stat Strength: 320
+  Total Strength: 406
+  Planet Strength: 406
+  Space Strength: 0
+  Garrison Strength: 135
+Statistics:
+  Movement Type: craft
+  Move Points: 9
+  Spot: 4
+  Camouflage: 2
+  Agility: 11
+  Armor: 7
+  Psy Defense: 7
+  Rank: 732
+Attacks:
+  Direct: 8/4
+  Close: 9/6
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Can tow units that can be towed
+Upkeep / Maintenance: 7
+Build Cost: 73
+Build Resource Requirements:
+  Food: 7
+  Energy: 13
+  Metal: 14
+  Trace: 18
+  Exotica: 7
+  Chemicals: 13
+  Electronics: 16
+Build Amphibious Jeep in Factory
+Time to Build / Upgrade: 2
+[1320] Technologies Required to Build Unit (94):
+  [125] Compression Ignition Engine (97)
+  [1195] Naval Warfare (90)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Amphibious Jeep II
+Nick Name: N-AJ2
+Scores & Strengths:
+  Tech Score: 660
+  Unit Score: 599
+  Average Score: 629
+  Stat Strength: 461
+  Total Strength: 599
+  Planet Strength: 599
+  Space Strength: 0
+  Garrison Strength: 180
+Statistics:
+  Movement Type: craft
+  Move Points: 11
+  Spot: 5
+  Camouflage: 3
+  Agility: 12
+  Armor: 9
+  Psy Defense: 9
+  Rank: 737
+Attacks:
+  Direct: 10/5
+  Close: 11/8
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Can tow units that can be towed
+Upkeep / Maintenance: 10
+Build Cost: 99
+Build Resource Requirements:
+  Food: 5
+  Energy: 11
+  Metal: 14
+  Trace: 17
+  Exotica: 6
+  Chemicals: 12
+  Biochems: 17
+  Electronics: 13
+Build Amphibious Jeep II in Factory
+Time to Build / Upgrade: 2
+[2915] Technologies Required to Build Unit (86):
+  [675] Surgically-Enhanced Soldiers (75)
+  [300] Mechanized Warfare (95)
+  [1940] Amphibious Landing Craft (89)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

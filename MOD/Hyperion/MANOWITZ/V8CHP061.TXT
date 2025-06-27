@@ -1,36 +1,138 @@
-All units of the unit class Flagship Artisan are listed herein (1 in total):
+All units of the unit class Floating Battery are listed herein (3 in total):
 
 --1--
-Name: Flagship Artisan
-Nick Name: Artisan
+Name: Floating Battery
+Nick Name: NN-FB
 Scores & Strengths:
-  Tech Score: 5419
-  Unit Score: 162
-  Average Score: 2791
-  Stat Strength: 162
-  Total Strength: 0
-  Planet Strength: 0
+  Tech Score: 174
+  Unit Score: 172
+  Average Score: 173
+  Stat Strength: 132
+  Total Strength: 172
+  Planet Strength: 172
   Space Strength: 0
-  Garrison Strength: 0
+  Garrison Strength: 172
 Statistics:
-  Movement Type: foot
+  Movement Type: naval
+  Move Points: 1
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 5
+  Rank: 115
+Attacks:
+  Water: 2/14
+  Indirect: 1/12
+Can tow units that can be towed
+Upkeep / Maintenance: 7
+Build Cost: 70
+Build Resource Requirements:
+  Food: 1
+  Energy: 67
+  Metal: 35
+  Trace: 4
+  Exotica: 1
+  Chemicals: 33
+Build Floating Battery in Well
+Time to Build / Upgrade: 2
+[535] Technologies Required to Build Unit (99):
+  [100] Medical & Biological (100)
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Water Battery
+Nick Name: NN-WB
+Scores & Strengths:
+  Tech Score: 182
+  Unit Score: 181
+  Average Score: 182
+  Stat Strength: 132
+  Total Strength: 181
+  Planet Strength: 181
+  Space Strength: 0
+  Garrison Strength: 181
+Statistics:
+  Movement Type: naval
+  Move Points: 1
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 5
+  Rank: 128
+Attacks:
+  Water: 1/24
+  Indirect: 1/25
+Can tow units that can be towed
+Upkeep / Maintenance: 17
+Build Cost: 170
+Build Resource Requirements:
+  Food: 1
+  Energy: 207
+  Metal: 34
+  Trace: 3
+  Exotica: 1
+  Chemicals: 91
+Build Water Battery in Well
+Time to Build / Upgrade: 4
+[560] Technologies Required to Build Unit (99):
+  [100] Medical & Biological (100)
+  [100] Physics & Energy (100)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
+  [200] Fortifications (97)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Naval Fortress
+Nick Name: NN-Fort
+Scores & Strengths:
+  Tech Score: 775
+  Unit Score: 1546
+  Average Score: 1160
+  Stat Strength: 1330
+  Total Strength: 1546
+  Planet Strength: 1546
+  Space Strength: 0
+  Garrison Strength: 631
+Statistics:
+  Movement Type: naval
   Move Points: 6
   Spot: 6
   Camouflage: 2
-  Agility: 6
-  Armor: 5
-  Psy Defense: 5
-  Rank: 528
-Load aboard transport: YES
-Does not participate in combat
-Build Cost: 1
+  Agility: 2
+  Armor: 25
+  Psy Defense: 25
+  Rank: 155
+Attacks:
+  Indirect: 3/30
+  Direct: 4/24
+  Close: 6/5
+Cargo Space: 4
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 24
+Build Cost: 241
 Build Resource Requirements:
-  Biochems: 1
-  Electronics: 1
-  Monopols: 1
-Build Flagship Artisan in Lab
-Time to Build / Upgrade: 1
-[37775] Technology Required to Build Unit (61):
-  [37775] Jump Capital Ships (61)
-Unit Eats: YES
+  Food: 2
+  Energy: 63
+  Metal: 97
+  Trace: 6
+  Exotica: 2
+  Chemicals: 26
+  Biochems: 3
+  Electronics: 4
+Build Naval Fortress in Well
+Time to Build / Upgrade: 4
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2725] Naval Capital Ships (88)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

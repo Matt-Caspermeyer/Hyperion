@@ -1,211 +1,92 @@
-All units of the unit class Coastal Artillery Transport are listed herein (5 in total):
+All units of the unit class Beast Grenadier are listed herein (2 in total):
 
 --1--
-Name: Coastal Artillery Transport
-Nick Name: CA X-port
+Name: Beast Grenadier
+Nick Name: Beast Gren.
 Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 102
-  Average Score: 104
-  Stat Strength: 102
-  Total Strength: 102
-  Planet Strength: 102
+  Tech Score: 150
+  Unit Score: 110
+  Average Score: 130
+  Stat Strength: 88
+  Total Strength: 110
+  Planet Strength: 110
   Space Strength: 0
-  Garrison Strength: 51
+  Garrison Strength: 49
 Statistics:
-  Movement Type: wheel
-  Move Points: 4
-  Spot: 2
+  Movement Type: foot
+  Move Points: 5
+  Spot: 4
   Camouflage: 1
-  Agility: 1
-  Armor: 8
-  Psy Defense: 4
-  Rank: 51
+  Agility: 6
+  Armor: 3
+  Psy Defense: 1
+  Rank: 56
+Attacks:
+  Indirect: 2/3
+  Close: 8/2
 Load aboard transport: YES
 Can tow units that can be towed
-Upkeep / Maintenance: 1
+Upkeep / Maintenance: 2
+Build Cost: 16
 Build Resource Requirements:
-  Food: 3
-  Exotica: 2
-  Chemicals: 2
-Upgrade Coastal Artillery to Coastal Artillery Transport at Factory
+  Food: 10
+  Energy: 11
+  Metal: 4
+  Trace: 22
+  Exotica: 10
+  Chemicals: 6
+Build Beast Grenadier in Farm
 Time to Build / Upgrade: 1
-[310] Technologies Required to Build Unit (98):
-  [110] Structural Engineering (99)
-  [200] Fortifications (97)
+[415] Technologies Required to Build Unit (85):
+  [125] Xenopsychology (60)
+  [125] Psychoconditioning (97)
+  [165] Autocannon (98)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Bunker
-Nick Name: Bunker
+Name: Beast Cavalry
+Nick Name: Beast Cav
 Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 208
-  Average Score: 157
-  Stat Strength: 132
-  Total Strength: 208
-  Planet Strength: 208
+  Tech Score: 162
+  Unit Score: 162
+  Average Score: 162
+  Stat Strength: 114
+  Total Strength: 162
+  Planet Strength: 162
   Space Strength: 0
-  Garrison Strength: 260
+  Garrison Strength: 72
 Statistics:
-  Movement Type: tread
-  Move Points: 0
-  Spot: 2
-  Camouflage: 0
-  Agility: 0
-  Armor: 8
-  Psy Defense: 8
-  Rank: 86
+  Movement Type: foot
+  Move Points: 5
+  Spot: 4
+  Camouflage: 2
+  Agility: 7
+  Armor: 4
+  Psy Defense: 2
+  Rank: 38
 Attacks:
-  Direct: 4/10
-  Close: 6/6
-Cargo Space: 2
-Can be towed
-Never Rebels
-Never Retreats
-Upkeep / Maintenance: 11
-Build Cost: 108
+  Direct: 8/3
+  Close: 8/3
+Load aboard transport: YES
+Can tow units that can be towed
+Upkeep / Maintenance: 2
+Build Cost: 24
 Build Resource Requirements:
-  Food: 3
-  Energy: 45
-  Metal: 76
-  Trace: 30
-  Exotica: 2
-  Chemicals: 47
-Build Bunker in Any building
-Time to Build / Upgrade: 4
-[200] Technology Required to Build Unit (97):
-  [200] Fortifications (97)
-Unit can be disbanded: YES
-
---3--
-Name: Coastal Artillery
-Nick Name: Coast Art
-Scores & Strengths:
-  Tech Score: 116
-  Unit Score: 228
-  Average Score: 172
-  Stat Strength: 132
-  Total Strength: 228
-  Planet Strength: 228
-  Space Strength: 0
-  Garrison Strength: 228
-Statistics:
-  Movement Type: tread
-  Move Points: 1
-  Spot: 2
-  Camouflage: 1
-  Agility: 1
-  Armor: 10
-  Psy Defense: 5
-  Rank: 145
-Attacks:
-  Indirect: 4/24
-Cargo Space: 4
-Never Rebels
-Never Retreats
-Upkeep / Maintenance: 8
-Build Cost: 84
-Build Resource Requirements:
-  Food: 1
-  Energy: 102
-  Metal: 43
-  Trace: 3
-  Exotica: 1
-  Chemicals: 1
-Build Coastal Artillery in Factory
-Time to Build / Upgrade: 3
-[435] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [125] Mechanical Think Machines (93)
-  [200] Fortifications (97)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: Fortification
-Nick Name: Fortification
-Scores & Strengths:
-  Tech Score: 424
-  Unit Score: 423
-  Average Score: 424
-  Stat Strength: 396
-  Total Strength: 423
-  Planet Strength: 423
-  Space Strength: 0
-  Garrison Strength: 528
-Statistics:
-  Movement Type: tread
-  Move Points: 0
-  Spot: 2
-  Camouflage: 0
-  Agility: 0
-  Armor: 14
-  Psy Defense: 14
-  Rank: 130
-Attacks:
-  Air: 1/7
-  Indirect: 1/10
-  Close: 2/5
-Cargo Space: 4
-Never Rebels
-Never Retreats
-Upkeep / Maintenance: 3
-Build Cost: 27
-Build Resource Requirements:
-  Food: 1
+  Food: 10
   Energy: 13
-  Metal: 54
-  Trace: 1
-  Chemicals: 6
-  Electronics: 1
-Build Fortification in Any building
+  Metal: 7
+  Trace: 34
+  Exotica: 10
+  Chemicals: 9
+Build Beast Cavalry in Farm
 Time to Build / Upgrade: 2
-[1425] Technologies Required to Build Unit (94):
-  [230] Advanced Artillery (97)
-  [1195] Naval Warfare (90)
-Unit can be disbanded: YES
-
---5--
-Name: PTS Fortification
-Nick Name: PTS Fort
-Scores & Strengths:
-  Tech Score: 587
-  Unit Score: 585
-  Average Score: 586
-  Stat Strength: 516
-  Total Strength: 585
-  Planet Strength: 561
-  Space Strength: 540
-  Garrison Strength: 701
-Statistics:
-  Movement Type: tread
-  Move Points: 0
-  Spot: 2
-  Camouflage: 0
-  Agility: 0
-  Armor: 16
-  Psy Defense: 16
-  Rank: 135
-Attacks:
-  Ranged Space: 2/12
-  Air: 3/7
-  Indirect: 2/12
-Cargo Space: 4
-Never Rebels
-Never Retreats
-Upkeep / Maintenance: 4
-Build Cost: 36
-Build Resource Requirements:
-  Energy: 12
-  Metal: 55
-  Trace: 2
-  Chemicals: 18
-  Electronics: 2
-Build PTS Fortification in Any building
-Time to Build / Upgrade: 2
-[1950] Technology Required to Build Unit (88):
-  [1950] PTS Missile Launcher (88)
+[450] Technologies Required to Build Unit (89):
+  [100] Medical & Biological (100)
+  [100] Physics & Energy (100)
+  [125] Psychoconditioning (97)
+  [125] Xenopsychology (60)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

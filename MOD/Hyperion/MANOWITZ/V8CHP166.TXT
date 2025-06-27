@@ -1,91 +1,83 @@
-All units of the unit class Jump Frigate are listed herein (2 in total):
+All units of the unit class Powered Armor Legion are listed herein (2 in total):
 
 --1--
-Name: Jump Frigate
-Nick Name: JJ-FF
+Name: Powered Armor Legion
+Nick Name: Power Lgn
 Scores & Strengths:
-  Tech Score: 2022
+  Tech Score: 2010
   Unit Score: 2010
-  Average Score: 2016
-  Stat Strength: 1561
+  Average Score: 2010
+  Stat Strength: 1135
   Total Strength: 2010
-  Planet Strength: 0
-  Space Strength: 2010
-  Garrison Strength: 0
+  Planet Strength: 2010
+  Space Strength: 0
+  Garrison Strength: 537
 Statistics:
-  Movement Type: jump
-  Move Points: 15
-  Spot: 12
-  Camouflage: 2
-  Agility: 6
-  Armor: 24
-  Psy Defense: 24
-  Rank: 176
+  Movement Type: foot
+  Move Points: 14
+  Spot: 10
+  Camouflage: 10
+  Agility: 17
+  Armor: 15
+  Psy Defense: 15
+  Rank: 81
 Attacks:
-  Direct Space: 19/12
-  Closed Space: 13/17
-Immune to Plague
-Upkeep / Maintenance: 143
-Build Cost: 1425
+  Air: 16/15
+  Direct: 15/21
+  Close: 20/16
+Load aboard transport: YES
+Upkeep / Maintenance: 30
+Build Cost: 287
 Build Resource Requirements:
-  Food: 3
-  Energy: 14
-  Metal: 12
-  Trace: 10
-  Exotica: 3
-  Chemicals: 25
-  Electronics: 17
-  Ceramsteel: 16
-  Monopols: 33
-Build Jump Frigate in Starport
-Time to Build / Upgrade: 4
-[14590] Technologies Required to Build Unit (72):
-  [1690] Ceramsteel (84)
-  [8615] Fusion Beam (63)
-  [4285] Jump Drives (70)
+  Trace: 4
+  Chemicals: 13
+  Electronics: 41
+  Ceramsteel: 7
+  Monopols: 36
+Upgrade Infantry Legion to Powered Armor Legion at Fort
+Time to Build / Upgrade: 3
+[10065] Technology Required to Build Unit (79):
+  [10065] Powered-Armor Legion (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Space Frigate
-Nick Name: SS-FF
+Name: Assault Legion
+Nick Name: Assault Lgn
 Scores & Strengths:
-  Tech Score: 2166
-  Unit Score: 2164
-  Average Score: 2165
-  Stat Strength: 1690
-  Total Strength: 2164
-  Planet Strength: 0
-  Space Strength: 2164
-  Garrison Strength: 0
+  Tech Score: 2370
+  Unit Score: 2296
+  Average Score: 2333
+  Stat Strength: 1282
+  Total Strength: 2296
+  Planet Strength: 2296
+  Space Strength: 0
+  Garrison Strength: 592
 Statistics:
-  Movement Type: space
-  Move Points: 16
-  Spot: 12
-  Camouflage: 2
-  Agility: 6
-  Armor: 25
-  Psy Defense: 25
-  Rank: 154
+  Movement Type: foot
+  Move Points: 15
+  Spot: 10
+  Camouflage: 11
+  Agility: 18
+  Armor: 16
+  Psy Defense: 16
+  Rank: 87
 Attacks:
-  Direct Space: 20/12
-  Closed Space: 13/18
-Immune to Plague
-Upkeep / Maintenance: 17
-Build Cost: 166
+  Air: 17/16
+  Direct: 16/23
+  Close: 22/17
+Load aboard transport: YES
+Upkeep / Maintenance: 28
 Build Resource Requirements:
-  Food: 3
-  Energy: 12
-  Metal: 22
-  Trace: 12
-  Exotica: 3
-  Chemicals: 21
-  Biochems: 25
-  Electronics: 17
-  Ceramsteel: 25
-Build Space Frigate in Starport
-Time to Build / Upgrade: 3
-[11120] Technology Required to Build Unit (84):
-  [11120] Space Escorts (84)
+  Energy: 2
+  Metal: 1
+  Chemicals: 2
+Upgrade Powered Armor Legion to Assault Legion at Fort
+Time to Build / Upgrade: 1
+[16075] Technologies Required to Build Unit (69):
+  [6010] Cyber Robotics (58)
+  [10065] Powered-Armor Legion (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

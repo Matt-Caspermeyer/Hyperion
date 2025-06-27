@@ -1,275 +1,181 @@
-All units of the unit class Space Sloop are listed herein (6 in total):
+All units of the unit class Seaplane Tender are listed herein (4 in total):
 
 --1--
-Name: Space Sloop
-Nick Name: SS-Sl
+Name: Seaplane Tender
+Nick Name: NN-CVT
 Scores & Strengths:
-  Tech Score: 369
-  Unit Score: 368
-  Average Score: 368
-  Stat Strength: 291
-  Total Strength: 368
-  Planet Strength: 0
-  Space Strength: 368
-  Garrison Strength: 0
+  Tech Score: 199
+  Unit Score: 394
+  Average Score: 296
+  Stat Strength: 330
+  Total Strength: 394
+  Planet Strength: 394
+  Space Strength: 0
+  Garrison Strength: 160
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
+  Movement Type: naval
+  Move Points: 6
+  Spot: 2
   Camouflage: 1
-  Agility: 5
-  Armor: 10
-  Psy Defense: 10
-  Rank: 117
+  Agility: 1
+  Armor: 12
+  Psy Defense: 12
+  Rank: 86
 Attacks:
-  Direct Space: 6/7
-  Closed Space: 5/7
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 10
-Build Cost: 97
+  Air: 4/4
+  Indirect: 2/9
+  Direct: 2/6
+  Close: 3/6
+Transports and Refuels (at end of turn) all Air Units
+Can tow units that can be towed
+Upkeep / Maintenance: 15
+Build Cost: 151
 Build Resource Requirements:
-  Food: 7
-  Energy: 11
-  Metal: 40
-  Trace: 16
-  Exotica: 6
-  Chemicals: 26
-  Electronics: 10
-Build Space Sloop in Starport
-Time to Build / Upgrade: 2
-[1270] Technologies Required to Build Unit (96):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [100] Psychosocial Engineering (100)
+  Food: 5
+  Energy: 31
+  Metal: 118
+  Trace: 9
+  Exotica: 4
+  Chemicals: 20
+  Electronics: 5
+Build Seaplane Tender in Well
+Time to Build / Upgrade: 4
+[625] Technologies Required to Build Unit (96):
+  [165] Autocannon (98)
+  [460] Seaplane (94)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Space Corsair
-Nick Name: SS-Corsair
+Name: Naval Minesweeper
+Nick Name: NN-MS
 Scores & Strengths:
-  Tech Score: 626
-  Unit Score: 625
-  Average Score: 625
-  Stat Strength: 447
-  Total Strength: 625
-  Planet Strength: 0
-  Space Strength: 625
-  Garrison Strength: 0
+  Tech Score: 181
+  Unit Score: 447
+  Average Score: 314
+  Stat Strength: 443
+  Total Strength: 447
+  Planet Strength: 447
+  Space Strength: 0
+  Garrison Strength: 182
 Statistics:
-  Movement Type: space
-  Move Points: 2
-  Spot: 8
-  Camouflage: 4
-  Agility: 11
-  Armor: 11
-  Psy Defense: 11
-  Rank: 126
+  Movement Type: naval
+  Move Points: 6
+  Spot: 4
+  Camouflage: 7
+  Agility: 2
+  Armor: 13
+  Psy Defense: 13
+  Rank: 63
 Attacks:
-  Direct Space: 10/10
-  Closed Space: 13/6
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 11
-Build Cost: 113
+  Close: 2/2
+Cargo Space: 1
+Can tow units that can be towed
+Upkeep / Maintenance: 10
+Build Cost: 99
 Build Resource Requirements:
-  Food: 4
-  Energy: 10
-  Metal: 26
-  Trace: 23
-  Exotica: 4
-  Chemicals: 17
-  Biochems: 13
-  Electronics: 19
-Build Space Corsair in Starport
-Time to Build / Upgrade: 2
-[2500] Technologies Required to Build Unit (91):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [1560] Naval Patrol Ships (86)
+  Food: 6
+  Energy: 5
+  Metal: 77
+  Trace: 22
+  Exotica: 5
+  Chemicals: 5
+Build Naval Minesweeper in Well
+Time to Build / Upgrade: 3
+[665] Technologies Required to Build Unit (98):
+  [230] Hospitals (97)
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Space Corvette
-Nick Name: SS-Corvette
+Name: Naval Destroyer Tender
+Nick Name: NN-DT
 Scores & Strengths:
-  Tech Score: 2043
-  Unit Score: 2041
-  Average Score: 2042
-  Stat Strength: 1817
-  Total Strength: 2041
-  Planet Strength: 0
-  Space Strength: 2041
-  Garrison Strength: 0
+  Tech Score: 658
+  Unit Score: 657
+  Average Score: 657
+  Stat Strength: 475
+  Total Strength: 657
+  Planet Strength: 657
+  Space Strength: 0
+  Garrison Strength: 219
 Statistics:
-  Movement Type: space
-  Move Points: 8
-  Spot: 12
-  Camouflage: 4
-  Agility: 21
-  Armor: 24
-  Psy Defense: 24
-  Rank: 147
+  Movement Type: naval
+  Move Points: 9
+  Spot: 6
+  Camouflage: 2
+  Agility: 4
+  Armor: 13
+  Psy Defense: 13
+  Rank: 197
 Attacks:
-  Direct Space: 8/19
-  Closed Space: 6/12
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 15
-Build Cost: 147
+  Air: 7/8
+  Indirect: 4/12
+  Direct: 5/10
+  Close: 4/7
+Can tow units that can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 6
+Build Cost: 60
 Build Resource Requirements:
   Food: 3
-  Energy: 14
-  Metal: 20
-  Trace: 8
-  Exotica: 4
-  Chemicals: 23
-  Biochems: 21
-  Electronics: 11
-  Ceramsteel: 23
-Build Space Corvette in Starport
-Time to Build / Upgrade: 3
-[10285] Technology Required to Build Unit (86):
-  [10285] Space Patrol Ships (86)
+  Energy: 21
+  Metal: 33
+  Trace: 9
+  Exotica: 3
+  Chemicals: 14
+  Biochems: 7
+  Electronics: 7
+Build Naval Destroyer Tender in Well
+Time to Build / Upgrade: 2
+[2270] Technology Required to Build Unit (86):
+  [2270] Naval Escort Ships (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Space Patrol Star
-Nick Name: SS-PS
+Name: Naval Repair Ship
+Nick Name: NN-RS
 Scores & Strengths:
-  Tech Score: 2043
-  Unit Score: 2041
-  Average Score: 2042
-  Stat Strength: 1811
-  Total Strength: 2041
-  Planet Strength: 0
-  Space Strength: 2041
-  Garrison Strength: 0
+  Tech Score: 658
+  Unit Score: 657
+  Average Score: 657
+  Stat Strength: 632
+  Total Strength: 657
+  Planet Strength: 657
+  Space Strength: 0
+  Garrison Strength: 232
 Statistics:
-  Movement Type: space
+  Movement Type: naval
   Move Points: 8
-  Spot: 12
-  Camouflage: 4
-  Agility: 23
-  Armor: 23
-  Psy Defense: 23
-  Rank: 146
+  Spot: 6
+  Camouflage: 2
+  Agility: 4
+  Armor: 16
+  Psy Defense: 16
+  Rank: 157
 Attacks:
-  Direct Space: 10/16
-  Closed Space: 5/14
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 15
-Build Cost: 145
-Build Resource Requirements:
-  Food: 4
-  Energy: 13
-  Metal: 18
-  Trace: 9
-  Exotica: 4
-  Chemicals: 22
-  Biochems: 20
-  Electronics: 13
-  Ceramsteel: 21
-Build Space Patrol Star in Starport
-Time to Build / Upgrade: 3
-[10285] Technology Required to Build Unit (86):
-  [10285] Space Patrol Ships (86)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Space Cutter
-Nick Name: SS-Cutter
-Scores & Strengths:
-  Tech Score: 2166
-  Unit Score: 2165
-  Average Score: 2165
-  Stat Strength: 1984
-  Total Strength: 2165
-  Planet Strength: 0
-  Space Strength: 2165
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 18
-  Spot: 12
-  Camouflage: 8
-  Agility: 22
-  Armor: 22
-  Psy Defense: 22
-  Rank: 142
-Attacks:
-  Direct Space: 7/13
-  Closed Space: 9/10
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 14
-Build Cost: 144
-Build Resource Requirements:
-  Food: 5
-  Energy: 13
-  Metal: 17
-  Trace: 9
-  Exotica: 6
-  Chemicals: 22
-  Biochems: 20
-  Electronics: 13
-  Ceramsteel: 19
-Build Space Cutter in Starport
-Time to Build / Upgrade: 3
-[11120] Technology Required to Build Unit (84):
-  [11120] Space Escorts (84)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---6--
-Name: Fast Torpedo Star
-Nick Name: SS-FTS
-Scores & Strengths:
-  Tech Score: 3107
-  Unit Score: 3105
-  Average Score: 3106
-  Stat Strength: 2184
-  Total Strength: 3105
-  Planet Strength: 0
-  Space Strength: 3105
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 20
-  Spot: 14
-  Camouflage: 6
-  Agility: 20
-  Armor: 24
-  Psy Defense: 24
-  Rank: 166
-Attacks:
-  Ranged Space: 15/20
-  Direct Space: 17/18
-  Closed Space: 15/21
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 75
-Build Cost: 750
+  Close: 5/5
+Can tow units that can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 4
+Build Cost: 41
 Build Resource Requirements:
   Food: 3
-  Energy: 14
-  Metal: 7
-  Trace: 12
+  Energy: 5
+  Metal: 49
+  Trace: 5
   Exotica: 3
-  Chemicals: 25
-  Biochems: 26
-  Electronics: 19
-  Ceramsteel: 10
-  Monopols: 25
-Build Fast Torpedo Star in Starport
-Time to Build / Upgrade: 3
-[17990] Technology Required to Build Unit (67):
-  [17990] Lander Transports (67)
+  Chemicals: 5
+  Biochems: 4
+  Electronics: 4
+Build Naval Repair Ship in Well
+Time to Build / Upgrade: 2
+[2270] Technology Required to Build Unit (86):
+  [2270] Naval Escort Ships (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

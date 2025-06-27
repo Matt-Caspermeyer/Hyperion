@@ -1,214 +1,389 @@
-All units of the unit class Noble are listed herein (5 in total):
+All units of the unit class Reconnaissance Triplane are listed herein (9 in total):
 
 --1--
-Name: Noble
-Nick Name: Noble
+Name: Reconnaissance Triplane
+Nick Name: A-TR
 Scores & Strengths:
-  Tech Score: 182
-  Unit Score: 181
-  Average Score: 182
-  Stat Strength: 120
-  Total Strength: 181
-  Planet Strength: 181
+  Tech Score: 216
+  Unit Score: 213
+  Average Score: 215
+  Stat Strength: 213
+  Total Strength: 213
+  Planet Strength: 213
   Space Strength: 0
-  Garrison Strength: 90
+  Garrison Strength: 75
 Statistics:
-  Movement Type: foot
-  Move Points: 4
-  Spot: 4
-  Camouflage: 4
-  Agility: 8
-  Armor: 2
-  Psy Defense: 2
-  Rank: 700
-Attacks:
-  Direct: 4/3
-  Close: 7/7
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Noble - Provides stack combat and other bonuses
-Upkeep / Maintenance: 483
-Build Cost: 3598
-Build Resource Requirements:
-  Food: 234
-  Energy: 117
-  Metal: 241
-Upgrade Adolescent Noble to Noble at Palace
-Time to Build / Upgrade: 1
-[510] Technologies Required to Build Unit (99):
-  [100] Medical & Biological (100)
-  [100] Physics & Energy (100)
-  [110] Meditation (99)
-  [200] Fortifications (97)
-Counts as planetary flock: YES
-
---2--
-Name: Blademaster
-Nick Name: Blademaster
-Scores & Strengths:
-  Tech Score: 510
-  Unit Score: 420
-  Average Score: 465
-  Stat Strength: 241
-  Total Strength: 420
-  Planet Strength: 420
-  Space Strength: 0
-  Garrison Strength: 158
-Statistics:
-  Movement Type: foot
-  Move Points: 7
-  Spot: 5
-  Camouflage: 7
-  Agility: 10
-  Armor: 3
-  Psy Defense: 3
-  Rank: 708
-Attacks:
-  Direct: 7/5
-  Close: 12/12
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Noble - Provides stack combat and other bonuses
-Upkeep / Maintenance: 456
-Build Cost: 964
-Build Resource Requirements:
-  Food: 16
-  Energy: 55
-  Metal: 16
-  Exotica: 11
-  Chemicals: 82
-  Electronics: 50
-Upgrade Noble to Blademaster at Palace
-Time to Build / Upgrade: 2
-[1615] Technology Required to Build Unit (76):
-  [1615] Wireblades (76)
-Counts as planetary flock: YES
-
---3--
-Name: Psy-master
-Nick Name: Psy-master
-Scores & Strengths:
-  Tech Score: 1174
-  Unit Score: 1081
-  Average Score: 1128
-  Stat Strength: 516
-  Total Strength: 1081
-  Planet Strength: 1081
-  Space Strength: 741
-  Garrison Strength: 382
-Statistics:
-  Movement Type: foot
+  Movement Type: air
   Move Points: 8
   Spot: 8
-  Camouflage: 8
-  Agility: 12
-  Armor: 6
-  Psy Defense: 12
-  Rank: 677
-Attacks:
-  Psychic: 15/15
-  Close: 20/17
+  Camouflage: 1
+  Agility: 8
+  Armor: 4
+  Psy Defense: 2
+  Rank: 77
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Noble - Provides stack combat and other bonuses
-Upkeep / Maintenance: 276
-Build Cost: 1798
+Upkeep / Maintenance: 4
+Build Cost: 38
 Build Resource Requirements:
-  Electronics: 1
-  Gems: 16
-Upgrade Blademaster to Psy-master at Palace
-Time to Build / Upgrade: 1
-[5250] Technologies Required to Build Unit (62):
-  [1615] Wireblades (76)
-  [3635] Dervishes (48)
+  Food: 18
+  Energy: 14
+  Metal: 14
+  Trace: 18
+  Exotica: 18
+  Chemicals: 16
+  Electronics: 13
+Build Reconnaissance Triplane in Factory
+Time to Build / Upgrade: 2
+[515] Technology Required to Build Unit (93):
+  [515] Triplane (93)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Attack Fighter Triplane
+Nick Name: A-TAF
+Scores & Strengths:
+  Tech Score: 216
+  Unit Score: 429
+  Average Score: 323
+  Stat Strength: 346
+  Total Strength: 429
+  Planet Strength: 429
+  Space Strength: 0
+  Garrison Strength: 151
+Statistics:
+  Movement Type: air
+  Move Points: 8
+  Spot: 8
+  Camouflage: 2
+  Agility: 13
+  Armor: 6
+  Psy Defense: 3
+  Rank: 113
+Attacks:
+  Air: 4/8
+  Indirect: 5/6
+  Direct: 3/7
+Load aboard transport: YES
+Upkeep / Maintenance: 11
+Build Cost: 111
+Build Resource Requirements:
+  Food: 25
+  Energy: 47
+  Metal: 31
+  Trace: 34
+  Exotica: 25
+  Chemicals: 49
+  Electronics: 24
+Build Attack Fighter Triplane in Factory
+Time to Build / Upgrade: 4
+[515] Technology Required to Build Unit (93):
+  [515] Triplane (93)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Bomber Triplane
+Nick Name: A-TB
+Scores & Strengths:
+  Tech Score: 216
+  Unit Score: 429
+  Average Score: 323
+  Stat Strength: 301
+  Total Strength: 429
+  Planet Strength: 429
+  Space Strength: 0
+  Garrison Strength: 135
+Statistics:
+  Movement Type: air
+  Move Points: 10
+  Spot: 6
+  Camouflage: 2
+  Agility: 9
+  Armor: 8
+  Psy Defense: 4
+  Rank: 153
+Attacks:
+  Air: 4/7
+  Indirect: 5/20
+Load aboard transport: YES
+Upkeep / Maintenance: 11
+Build Cost: 110
+Build Resource Requirements:
+  Food: 21
+  Energy: 94
+  Metal: 55
+  Trace: 20
+  Exotica: 20
+  Chemicals: 34
+  Electronics: 14
+Build Bomber Triplane in Factory
+Time to Build / Upgrade: 4
+[515] Technology Required to Build Unit (93):
+  [515] Triplane (93)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
 
 --4--
-Name: Rogue Noble
-Nick Name: Rogue Noble
+Name: Fighter Triplane
+Nick Name: A-TF
 Scores & Strengths:
-  Tech Score: 1429
-  Unit Score: 1429
-  Average Score: 1429
-  Stat Strength: 696
-  Total Strength: 1429
-  Planet Strength: 1429
+  Tech Score: 216
+  Unit Score: 429
+  Average Score: 323
+  Stat Strength: 338
+  Total Strength: 429
+  Planet Strength: 429
   Space Strength: 0
-  Garrison Strength: 451
+  Garrison Strength: 143
 Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 10
-  Camouflage: 10
-  Agility: 14
-  Armor: 10
-  Psy Defense: 10
-  Rank: 729
+  Movement Type: air
+  Move Points: 9
+  Spot: 8
+  Camouflage: 2
+  Agility: 12
+  Armor: 6
+  Psy Defense: 3
+  Rank: 138
 Attacks:
-  Air: 20/11
-  Indirect: 18/11
-  Direct: 15/9
-  Close: 18/10
+  Air: 6/11
+  Indirect: 5/5
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Noble - Provides stack combat and other bonuses
-Upkeep / Maintenance: 25
-Build Cost: 250
+Upkeep / Maintenance: 11
+Build Cost: 112
 Build Resource Requirements:
-  Food: 4
-  Energy: 15
-  Metal: 6
-  Trace: 22
-  Exotica: 4
-  Chemicals: 14
-  Biochems: 43
-  Electronics: 47
-  Ceramsteel: 5
-Build Rogue Noble in Palace
-Time to Build / Upgrade: 3
-[7730] Technologies Required to Build Unit (60):
-  [1615] Wireblades (76)
-  [6115] Xenoenvironment Mastery (44)
+  Food: 25
+  Energy: 46
+  Metal: 31
+  Trace: 34
+  Exotica: 25
+  Chemicals: 51
+  Electronics: 24
+Build Fighter Triplane in Factory
+Time to Build / Upgrade: 5
+[515] Technology Required to Build Unit (93):
+  [515] Triplane (93)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
 
 --5--
-Name: Noblesse Elitesse
-Nick Name: Elite
+Name: Trench Strafer Triplane
+Nick Name: A-TTS
 Scores & Strengths:
-  Tech Score: 4714
-  Unit Score: 4713
-  Average Score: 4713
-  Stat Strength: 1773
-  Total Strength: 4713
-  Planet Strength: 4713
-  Space Strength: 2449
-  Garrison Strength: 1178
+  Tech Score: 216
+  Unit Score: 429
+  Average Score: 323
+  Stat Strength: 330
+  Total Strength: 429
+  Planet Strength: 429
+  Space Strength: 0
+  Garrison Strength: 162
 Statistics:
-  Movement Type: foot
-  Move Points: 16
-  Spot: 10
-  Camouflage: 11
-  Agility: 24
-  Armor: 12
-  Psy Defense: 24
-  Rank: 780
+  Movement Type: air
+  Move Points: 7
+  Spot: 6
+  Camouflage: 2
+  Agility: 14
+  Armor: 6
+  Psy Defense: 3
+  Rank: 118
 Attacks:
-  Psychic: 26/26
-  Air: 18/21
-  Indirect: 24/29
-  Direct: 20/22
-  Close: 30/25
+  Air: 2/7
+  Direct: 3/12
+  Close: 7/7
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Noble - Provides stack combat and other bonuses
-Upkeep / Maintenance: 127
+Upkeep / Maintenance: 13
+Build Cost: 132
 Build Resource Requirements:
-  Monopols: 20
-Upgrade Psy-master to Noblesse Elitesse at Palace
-Time to Build / Upgrade: 1
-[39250] Technologies Required to Build Unit (58):
-  [1615] Wireblades (76)
-  [6995] Symbiot Psychology (37)
-  [6115] Xenoenvironment Mastery (44)
-  [24525] Jump Escorts (75)
+  Food: 22
+  Energy: 62
+  Metal: 31
+  Trace: 39
+  Exotica: 22
+  Chemicals: 75
+  Electronics: 28
+Build Trench Strafer Triplane in Factory
+Time to Build / Upgrade: 5
+[515] Technology Required to Build Unit (93):
+  [515] Triplane (93)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Zeppelin Interceptor
+Nick Name: A-TZI
+Scores & Strengths:
+  Tech Score: 216
+  Unit Score: 429
+  Average Score: 323
+  Stat Strength: 354
+  Total Strength: 429
+  Planet Strength: 429
+  Space Strength: 0
+  Garrison Strength: 135
+Statistics:
+  Movement Type: air
+  Move Points: 10
+  Spot: 6
+  Camouflage: 2
+  Agility: 13
+  Armor: 6
+  Psy Defense: 3
+  Rank: 136
+Attacks:
+  Air: 6/10
+  Indirect: 3/5
+Load aboard transport: YES
+Upkeep / Maintenance: 11
+Build Cost: 111
+Build Resource Requirements:
+  Food: 26
+  Energy: 47
+  Metal: 31
+  Trace: 31
+  Exotica: 25
+  Chemicals: 52
+  Electronics: 22
+Build Zeppelin Interceptor in Factory
+Time to Build / Upgrade: 4
+[515] Technology Required to Build Unit (93):
+  [515] Triplane (93)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Giant Bomber Triplane
+Nick Name: A-TGB
+Scores & Strengths:
+  Tech Score: 285
+  Unit Score: 567
+  Average Score: 426
+  Stat Strength: 455
+  Total Strength: 567
+  Planet Strength: 567
+  Space Strength: 0
+  Garrison Strength: 157
+Statistics:
+  Movement Type: air
+  Move Points: 13
+  Spot: 6
+  Camouflage: 2
+  Agility: 11
+  Armor: 10
+  Psy Defense: 5
+  Rank: 161
+Attacks:
+  Indirect: 4/28
+Load aboard transport: YES
+Upkeep / Maintenance: 9
+Build Cost: 89
+Build Resource Requirements:
+  Food: 17
+  Energy: 91
+  Metal: 47
+  Trace: 11
+  Exotica: 17
+  Chemicals: 23
+  Electronics: 8
+Build Giant Bomber Triplane in Factory
+Time to Build / Upgrade: 4
+[1125] Technologies Required to Build Unit (94):
+  [515] Triplane (93)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Battle Triplane
+Nick Name: A-TBttl
+Scores & Strengths:
+  Tech Score: 285
+  Unit Score: 568
+  Average Score: 427
+  Stat Strength: 474
+  Total Strength: 568
+  Planet Strength: 568
+  Space Strength: 0
+  Garrison Strength: 179
+Statistics:
+  Movement Type: air
+  Move Points: 10
+  Spot: 6
+  Camouflage: 2
+  Agility: 17
+  Armor: 6
+  Psy Defense: 3
+  Rank: 142
+Attacks:
+  Air: 6/9
+  Indirect: 5/8
+Load aboard transport: YES
+Upkeep / Maintenance: 8
+Build Cost: 78
+Build Resource Requirements:
+  Food: 18
+  Energy: 33
+  Metal: 17
+  Trace: 24
+  Exotica: 18
+  Chemicals: 34
+  Electronics: 17
+Build Battle Triplane in Factory
+Time to Build / Upgrade: 4
+[1125] Technologies Required to Build Unit (94):
+  [515] Triplane (93)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Large Bomber Triplane
+Nick Name: A-TLB
+Scores & Strengths:
+  Tech Score: 285
+  Unit Score: 568
+  Average Score: 427
+  Stat Strength: 460
+  Total Strength: 568
+  Planet Strength: 568
+  Space Strength: 0
+  Garrison Strength: 163
+Statistics:
+  Movement Type: air
+  Move Points: 12
+  Spot: 6
+  Camouflage: 2
+  Agility: 14
+  Armor: 8
+  Psy Defense: 4
+  Rank: 152
+Attacks:
+  Air: 3/6
+  Indirect: 5/18
+Load aboard transport: YES
+Upkeep / Maintenance: 8
+Build Cost: 78
+Build Resource Requirements:
+  Food: 18
+  Energy: 53
+  Metal: 30
+  Trace: 16
+  Exotica: 18
+  Chemicals: 28
+  Electronics: 11
+Build Large Bomber Triplane in Factory
+Time to Build / Upgrade: 4
+[1125] Technologies Required to Build Unit (94):
+  [515] Triplane (93)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES

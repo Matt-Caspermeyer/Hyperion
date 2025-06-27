@@ -1,393 +1,236 @@
-All units of the unit class Torpedo Bomber Aircraft are listed herein (9 in total):
+All units of the unit class Space Carrier are listed herein (5 in total):
 
 --1--
-Name: Torpedo Bomber Aircraft
-Nick Name: A-ATB
+Name: Space Carrier
+Nick Name: SS-CV
 Scores & Strengths:
-  Tech Score: 671
-  Unit Score: 670
-  Average Score: 670
-  Stat Strength: 485
-  Total Strength: 670
-  Planet Strength: 670
-  Space Strength: 0
-  Garrison Strength: 185
+  Tech Score: 337
+  Unit Score: 671
+  Average Score: 504
+  Stat Strength: 588
+  Total Strength: 671
+  Planet Strength: 0
+  Space Strength: 671
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 13
-  Spot: 6
-  Camouflage: 4
-  Agility: 8
-  Armor: 10
-  Psy Defense: 10
-  Rank: 113
+  Movement Type: space
+  Move Points: 2
+  Spot: 8
+  Camouflage: 2
+  Agility: 2
+  Armor: 16
+  Psy Defense: 16
+  Rank: 159
 Attacks:
-  Water: 4/20
-  Air: 8/2
-  Indirect: 4/20
-  Direct: 3/3
-Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 39
+  Direct Space: 3/11
+  Closed Space: 5/10
+Cargo Space: 4
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 60
+Build Cost: 602
 Build Resource Requirements:
-  Food: 6
-  Energy: 44
-  Metal: 28
-  Trace: 11
-  Exotica: 6
-  Chemicals: 27
-  Electronics: 8
-Build Torpedo Bomber Aircraft in Factory
-Time to Build / Upgrade: 2
-[2595] Technologies Required to Build Unit (89):
-  [1195] Naval Warfare (90)
-  [1400] Aerial Warfare (87)
+  Food: 8
+  Energy: 25
+  Metal: 131
+  Trace: 16
+  Exotica: 7
+  Chemicals: 78
+  Electronics: 10
+  Gems: 1
+Build Space Carrier in Starport
+Time to Build / Upgrade: 5
+[1040] Technologies Required to Build Unit (96):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [100] Psychosocial Engineering (100)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Light Bomber
-Nick Name: A-BL
+Name: Space Escort Carrier
+Nick Name: SS-CVE
 Scores & Strengths:
-  Tech Score: 458
-  Unit Score: 912
-  Average Score: 685
-  Stat Strength: 798
-  Total Strength: 912
-  Planet Strength: 912
-  Space Strength: 0
-  Garrison Strength: 209
+  Tech Score: 2166
+  Unit Score: 2164
+  Average Score: 2165
+  Stat Strength: 1768
+  Total Strength: 2164
+  Planet Strength: 0
+  Space Strength: 2164
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 19
-  Spot: 8
+  Movement Type: space
+  Move Points: 6
+  Spot: 12
   Camouflage: 2
-  Agility: 13
-  Armor: 10
-  Psy Defense: 10
-  Rank: 150
+  Agility: 4
+  Armor: 28
+  Psy Defense: 28
+  Rank: 172
 Attacks:
-  Air: 11/3
-  Indirect: 9/9
-Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 118
+  Direct Space: 12/18
+  Closed Space: 10/18
+Cargo Space: 2
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 26
+Build Cost: 262
 Build Resource Requirements:
-  Food: 20
-  Energy: 38
-  Metal: 137
-  Trace: 31
-  Exotica: 20
-  Chemicals: 33
-  Electronics: 17
-Build Light Bomber in Factory
-Time to Build / Upgrade: 5
-[1400] Technology Required to Build Unit (87):
-  [1400] Aerial Warfare (87)
+  Food: 1
+  Energy: 11
+  Metal: 27
+  Trace: 6
+  Exotica: 2
+  Chemicals: 21
+  Biochems: 25
+  Electronics: 9
+  Ceramsteel: 32
+Build Space Escort Carrier in Starport
+Time to Build / Upgrade: 3
+[11120] Technology Required to Build Unit (84):
+  [11120] Space Escorts (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Fighter Bomber
-Nick Name: A-BF
+Name: Jump Carrier
+Nick Name: JJ-CV
 Scores & Strengths:
-  Tech Score: 458
-  Unit Score: 913
-  Average Score: 685
-  Stat Strength: 789
-  Total Strength: 913
-  Planet Strength: 913
-  Space Strength: 0
-  Garrison Strength: 204
+  Tech Score: 1933
+  Unit Score: 2416
+  Average Score: 2174
+  Stat Strength: 2084
+  Total Strength: 2416
+  Planet Strength: 0
+  Space Strength: 2416
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 20
-  Spot: 8
-  Camouflage: 2
-  Agility: 11
-  Armor: 10
-  Psy Defense: 10
-  Rank: 147
+  Movement Type: jump
+  Move Points: 4
+  Spot: 11
+  Camouflage: 4
+  Agility: 3
+  Armor: 31
+  Psy Defense: 31
+  Rank: 215
 Attacks:
-  Air: 8/10
-  Indirect: 4/11
-Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 119
+  Direct Space: 6/22
+  Closed Space: 10/20
+Cargo Space: 4
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 1099
+Build Cost: 10988
 Build Resource Requirements:
-  Food: 20
-  Energy: 48
-  Metal: 137
-  Trace: 23
-  Exotica: 20
-  Chemicals: 39
-  Electronics: 12
-Build Fighter Bomber in Factory
+  Food: 1
+  Energy: 27
+  Metal: 22
+  Trace: 5
+  Exotica: 1
+  Chemicals: 37
+  Electronics: 8
+  Monopols: 60
+S  ingularities: 2
+Build Jump Carrier in Starport
 Time to Build / Upgrade: 5
-[1400] Technology Required to Build Unit (87):
-  [1400] Aerial Warfare (87)
+[12900] Technologies Required to Build Unit (67):
+  [4285] Jump Drives (70)
+  [8615] Fusion Beam (63)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Ground-Attack Fighter
-Nick Name: A-FGA
+Name: Space Light Carrier
+Nick Name: SS-CLA
 Scores & Strengths:
-  Tech Score: 458
-  Unit Score: 913
-  Average Score: 685
-  Stat Strength: 825
-  Total Strength: 913
-  Planet Strength: 913
-  Space Strength: 0
-  Garrison Strength: 209
+  Tech Score: 2511
+  Unit Score: 2510
+  Average Score: 2511
+  Stat Strength: 2036
+  Total Strength: 2510
+  Planet Strength: 0
+  Space Strength: 2510
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 19
-  Spot: 8
+  Movement Type: space
+  Move Points: 16
+  Spot: 12
   Camouflage: 2
-  Agility: 14
-  Armor: 10
-  Psy Defense: 10
-  Rank: 116
+  Agility: 8
+  Armor: 28
+  Psy Defense: 28
+  Rank: 166
 Attacks:
-  Air: 5/5
-  Indirect: 5/6
-  Direct: 3/6
-  Close: 5/3
-Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 118
+  Direct Space: 13/18
+  Closed Space: 15/16
+Cargo Space: 1
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 100
+Build Cost: 997
 Build Resource Requirements:
-  Food: 21
-  Energy: 40
-  Metal: 137
-  Trace: 25
-  Exotica: 20
-  Chemicals: 38
-  Electronics: 14
-Build Ground-Attack Fighter in Factory
-Time to Build / Upgrade: 5
-[1400] Technology Required to Build Unit (87):
-  [1400] Aerial Warfare (87)
+  Food: 2
+  Energy: 9
+  Metal: 12
+  Trace: 7
+  Exotica: 2
+  Chemicals: 15
+  Biochems: 22
+  Electronics: 11
+  Ceramsteel: 15
+  Monopols: 23
+Build Space Light Carrier in Starport
+Time to Build / Upgrade: 3
+[13545] Technology Required to Build Unit (80):
+  [13545] Space Capital Ships (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Heavy Bomber
-Nick Name: A-BH
+Name: Jump Carrier MkII
+Nick Name: JJ-CV2
 Scores & Strengths:
-  Tech Score: 458
-  Unit Score: 913
-  Average Score: 685
-  Stat Strength: 846
-  Total Strength: 913
-  Planet Strength: 913
-  Space Strength: 0
-  Garrison Strength: 199
+  Tech Score: 5419
+  Unit Score: 6606
+  Average Score: 6013
+  Stat Strength: 5718
+  Total Strength: 6606
+  Planet Strength: 0
+  Space Strength: 6606
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 21
-  Spot: 8
-  Camouflage: 2
-  Agility: 7
-  Armor: 12
-  Psy Defense: 12
-  Rank: 149
+  Movement Type: jump
+  Move Points: 7
+  Spot: 14
+  Camouflage: 7
+  Agility: 4
+  Armor: 52
+  Psy Defense: 52
+  Rank: 271
 Attacks:
-  Air: 5/5
-  Indirect: 3/14
-Load aboard transport: YES
-Upkeep / Maintenance: 13
-Build Cost: 128
+  Direct Space: 10/36
+  Closed Space: 16/33
+Cargo Space: 4
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 1119
+Build Cost: 11193
 Build Resource Requirements:
-  Food: 21
-  Energy: 48
-  Metal: 198
-  Trace: 16
-  Exotica: 20
-  Chemicals: 34
-  Electronics: 8
-Build Heavy Bomber in Factory
+  Food: 1
+  Energy: 24
+  Metal: 18
+  Trace: 3
+  Exotica: 1
+  Chemicals: 41
+  Biochems: 30
+  Electronics: 15
+  Ceramsteel: 29
+  Monopols: 40
+S  ingularities: 3
+Build Jump Carrier MkII in Starport
 Time to Build / Upgrade: 5
-[1400] Technology Required to Build Unit (87):
-  [1400] Aerial Warfare (87)
+[37775] Technology Required to Build Unit (61):
+  [37775] Jump Capital Ships (61)
 Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Heavy Fighter
-Nick Name: A-FH
-Scores & Strengths:
-  Tech Score: 458
-  Unit Score: 913
-  Average Score: 685
-  Stat Strength: 810
-  Total Strength: 913
-  Planet Strength: 913
-  Space Strength: 0
-  Garrison Strength: 204
-Statistics:
-  Movement Type: air
-  Move Points: 20
-  Spot: 8
-  Camouflage: 2
-  Agility: 10
-  Armor: 11
-  Psy Defense: 11
-  Rank: 146
-Attacks:
-  Air: 10/7
-  Indirect: 3/11
-Load aboard transport: YES
-Upkeep / Maintenance: 13
-Build Cost: 126
-Build Resource Requirements:
-  Food: 20
-  Energy: 44
-  Metal: 166
-  Trace: 26
-  Exotica: 20
-  Chemicals: 35
-  Electronics: 14
-Build Heavy Fighter in Factory
-Time to Build / Upgrade: 5
-[1400] Technology Required to Build Unit (87):
-  [1400] Aerial Warfare (87)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---7--
-Name: Medium Bomber
-Nick Name: A-BM
-Scores & Strengths:
-  Tech Score: 458
-  Unit Score: 913
-  Average Score: 685
-  Stat Strength: 831
-  Total Strength: 913
-  Planet Strength: 913
-  Space Strength: 0
-  Garrison Strength: 204
-Statistics:
-  Movement Type: air
-  Move Points: 20
-  Spot: 8
-  Camouflage: 2
-  Agility: 11
-  Armor: 11
-  Psy Defense: 11
-  Rank: 147
-Attacks:
-  Air: 7/4
-  Indirect: 9/6
-Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 119
-Build Resource Requirements:
-  Food: 21
-  Energy: 36
-  Metal: 166
-  Trace: 21
-  Exotica: 20
-  Chemicals: 34
-  Electronics: 11
-Build Medium Bomber in Factory
-Time to Build / Upgrade: 5
-[1400] Technology Required to Build Unit (87):
-  [1400] Aerial Warfare (87)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---8--
-Name: Medium Fighter
-Nick Name: A-FM
-Scores & Strengths:
-  Tech Score: 458
-  Unit Score: 913
-  Average Score: 685
-  Stat Strength: 830
-  Total Strength: 913
-  Planet Strength: 913
-  Space Strength: 0
-  Garrison Strength: 199
-Statistics:
-  Movement Type: air
-  Move Points: 21
-  Spot: 8
-  Camouflage: 2
-  Agility: 11
-  Armor: 10
-  Psy Defense: 10
-  Rank: 143
-Attacks:
-  Air: 11/5
-  Indirect: 4/7
-Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 122
-Build Resource Requirements:
-  Food: 22
-  Energy: 40
-  Metal: 137
-  Trace: 29
-  Exotica: 21
-  Chemicals: 37
-  Electronics: 16
-Build Medium Fighter in Factory
-Time to Build / Upgrade: 5
-[1400] Technology Required to Build Unit (87):
-  [1400] Aerial Warfare (87)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---9--
-Name: Light Fighter
-Nick Name: A-FL
-Scores & Strengths:
-  Tech Score: 458
-  Unit Score: 914
-  Average Score: 686
-  Stat Strength: 824
-  Total Strength: 914
-  Planet Strength: 914
-  Space Strength: 0
-  Garrison Strength: 194
-Statistics:
-  Movement Type: air
-  Move Points: 22
-  Spot: 8
-  Camouflage: 2
-  Agility: 12
-  Armor: 8
-  Psy Defense: 8
-  Rank: 145
-Attacks:
-  Air: 12/4
-  Indirect: 7/6
-Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 114
-Build Resource Requirements:
-  Food: 23
-  Energy: 42
-  Metal: 88
-  Trace: 32
-  Exotica: 23
-  Chemicals: 39
-  Electronics: 18
-Build Light Fighter in Factory
-Time to Build / Upgrade: 5
-[1400] Technology Required to Build Unit (87):
-  [1400] Aerial Warfare (87)
-Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

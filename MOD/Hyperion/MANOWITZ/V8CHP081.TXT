@@ -1,346 +1,169 @@
-All units of the unit class Reconnaissance Monoplane are listed herein (8 in total):
+All units of the unit class Assault Gun are listed herein (4 in total):
 
 --1--
-Name: Reconnaissance Monoplane
-Nick Name: A-MR
+Name: Assault Gun
+Nick Name: Violator
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 287
-  Average Score: 240
-  Stat Strength: 287
-  Total Strength: 287
-  Planet Strength: 287
+  Tech Score: 292
+  Unit Score: 291
+  Average Score: 292
+  Stat Strength: 159
+  Total Strength: 291
+  Planet Strength: 291
   Space Strength: 0
-  Garrison Strength: 86
+  Garrison Strength: 145
 Statistics:
-  Movement Type: air
-  Move Points: 11
-  Spot: 8
-  Camouflage: 3
-  Agility: 8
-  Armor: 5
-  Psy Defense: 2
-  Rank: 77
+  Movement Type: tread
+  Move Points: 4
+  Spot: 4
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 5
+  Rank: 68
+Attacks:
+  Indirect: 6/13
+  Direct: 6/9
 Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 67
+Upkeep / Maintenance: 2
+Build Cost: 22
 Build Resource Requirements:
-  Food: 26
-  Energy: 23
-  Metal: 20
-  Trace: 21
-  Exotica: 26
-  Chemicals: 27
-  Electronics: 16
-Build Reconnaissance Monoplane in Factory
-Time to Build / Upgrade: 3
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
+  Food: 3
+  Energy: 29
+  Metal: 27
+  Trace: 11
+  Exotica: 3
+  Chemicals: 11
+  Electronics: 8
+Build Assault Gun in Factory
+Time to Build / Upgrade: 2
+[770] Technology Required to Build Unit (92):
+  [770] Self-Propelled Weaponry (92)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Attack Fighter Monoplane
-Nick Name: A-MAF
+Name: Heavy Assault Gun
+Nick Name: Heavy AG
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 321
-  Total Strength: 384
-  Planet Strength: 384
+  Tech Score: 325
+  Unit Score: 291
+  Average Score: 308
+  Stat Strength: 159
+  Total Strength: 291
+  Planet Strength: 291
   Space Strength: 0
-  Garrison Strength: 135
+  Garrison Strength: 145
 Statistics:
-  Movement Type: air
-  Move Points: 8
-  Spot: 8
-  Camouflage: 2
-  Agility: 12
-  Armor: 6
-  Psy Defense: 3
-  Rank: 112
+  Movement Type: tread
+  Move Points: 4
+  Spot: 4
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 5
+  Rank: 68
 Attacks:
-  Air: 4/5
-  Indirect: 5/5
-  Direct: 3/6
+  Indirect: 6/13
+  Direct: 6/9
 Load aboard transport: YES
-Upkeep / Maintenance: 10
-Build Cost: 102
+Upkeep / Maintenance: 2
+Build Cost: 15
 Build Resource Requirements:
-  Food: 26
-  Energy: 37
-  Metal: 31
-  Trace: 33
-  Exotica: 25
-  Chemicals: 38
-  Electronics: 25
-Build Attack Fighter Monoplane in Factory
-Time to Build / Upgrade: 4
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
+  Food: 2
+  Energy: 22
+  Metal: 21
+  Trace: 7
+  Exotica: 2
+  Chemicals: 9
+  Electronics: 4
+Build Heavy Assault Gun in Factory
+Time to Build / Upgrade: 2
+[1235] Technologies Required to Build Unit (93):
+  [770] Self-Propelled Weaponry (92)
+  [465] Recoilless Gun (93)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Bomber Monoplane
-Nick Name: A-MB
+Name: Shock Assault Gun
+Nick Name: Detonator
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 284
-  Total Strength: 384
-  Planet Strength: 384
+  Tech Score: 2123
+  Unit Score: 2025
+  Average Score: 2074
+  Stat Strength: 1081
+  Total Strength: 2025
+  Planet Strength: 2025
   Space Strength: 0
-  Garrison Strength: 121
+  Garrison Strength: 610
 Statistics:
-  Movement Type: air
-  Move Points: 10
-  Spot: 6
-  Camouflage: 2
-  Agility: 8
-  Armor: 8
-  Psy Defense: 4
-  Rank: 152
+  Movement Type: tread
+  Move Points: 11
+  Spot: 7
+  Camouflage: 3
+  Agility: 2
+  Armor: 27
+  Psy Defense: 13
+  Rank: 111
 Attacks:
-  Air: 2/10
-  Indirect: 4/20
+  Indirect: 16/35
+  Direct: 16/24
 Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 120
+Upkeep / Maintenance: 23
+Build Cost: 206
 Build Resource Requirements:
-  Food: 21
-  Energy: 111
-  Metal: 55
-  Trace: 17
-  Exotica: 21
-  Chemicals: 45
-  Electronics: 12
-Build Bomber Monoplane in Factory
-Time to Build / Upgrade: 5
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
+  Chemicals: 5
+  Electronics: 9
+  Ceramsteel: 13
+  Monopols: 26
+Upgrade Assault Gun to Shock Assault Gun at Factory
+Time to Build / Upgrade: 1
+[10830] Technology Required to Build Unit (80):
+  [10830] Violator Assault Gunnery (80)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Fighter Monoplane
-Nick Name: A-MF
+Name: Stealth Assault Gun
+Nick Name: Penetrator
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 315
-  Total Strength: 384
-  Planet Strength: 384
+  Tech Score: 5358
+  Unit Score: 5357
+  Average Score: 5358
+  Stat Strength: 3497
+  Total Strength: 5357
+  Planet Strength: 5357
   Space Strength: 0
-  Garrison Strength: 128
+  Garrison Strength: 1093
 Statistics:
-  Movement Type: air
-  Move Points: 9
-  Spot: 8
-  Camouflage: 2
-  Agility: 11
-  Armor: 6
-  Psy Defense: 3
-  Rank: 134
-Attacks:
-  Air: 6/10
-  Indirect: 3/3
-Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 109
-Build Resource Requirements:
-  Food: 26
-  Energy: 42
-  Metal: 31
-  Trace: 33
-  Exotica: 26
-  Chemicals: 47
-  Electronics: 25
-Build Fighter Monoplane in Factory
-Time to Build / Upgrade: 4
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Trench Strafer Monoplane
-Nick Name: A-MTS
-Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 303
-  Total Strength: 384
-  Planet Strength: 384
-  Space Strength: 0
-  Garrison Strength: 145
-Statistics:
-  Movement Type: air
-  Move Points: 7
-  Spot: 6
-  Camouflage: 2
-  Agility: 13
-  Armor: 6
-  Psy Defense: 3
-  Rank: 115
-Attacks:
-  Air: 2/6
-  Direct: 3/9
-  Close: 7/6
-Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 118
-Build Resource Requirements:
-  Food: 22
-  Energy: 50
-  Metal: 31
-  Trace: 38
-  Exotica: 22
-  Chemicals: 58
-  Electronics: 28
-Build Trench Strafer Monoplane in Factory
-Time to Build / Upgrade: 5
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Battle Monoplane
-Nick Name: A-MBttl
-Scores & Strengths:
-  Tech Score: 265
-  Unit Score: 527
-  Average Score: 396
-  Stat Strength: 422
-  Total Strength: 527
-  Planet Strength: 527
-  Space Strength: 0
-  Garrison Strength: 175
-Statistics:
-  Movement Type: air
-  Move Points: 9
-  Spot: 6
-  Camouflage: 2
-  Agility: 16
-  Armor: 6
-  Psy Defense: 3
-  Rank: 143
-Attacks:
-  Air: 7/8
-  Indirect: 7/7
-Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 72
-Build Resource Requirements:
-  Food: 17
-  Energy: 29
-  Metal: 17
-  Trace: 24
-  Exotica: 17
-  Chemicals: 29
-  Electronics: 17
-Build Battle Monoplane in Factory
-Time to Build / Upgrade: 4
-[1055] Technologies Required to Build Unit (94):
-  [445] Monoplane (94)
-  [610] Air-Air Rockets (94)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---7--
-Name: Large Bomber Monoplane
-Nick Name: A-MLB
-Scores & Strengths:
-  Tech Score: 265
-  Unit Score: 527
-  Average Score: 396
-  Stat Strength: 410
-  Total Strength: 527
-  Planet Strength: 527
-  Space Strength: 0
-  Garrison Strength: 158
-Statistics:
-  Movement Type: air
-  Move Points: 11
-  Spot: 6
-  Camouflage: 2
-  Agility: 13
-  Armor: 8
-  Psy Defense: 4
-  Rank: 152
-Attacks:
-  Air: 3/5
-  Indirect: 6/17
-Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 71
-Build Resource Requirements:
-  Food: 16
-  Energy: 48
-  Metal: 30
-  Trace: 15
-  Exotica: 16
-  Chemicals: 24
-  Electronics: 11
-Build Large Bomber Monoplane in Factory
-Time to Build / Upgrade: 4
-[1055] Technologies Required to Build Unit (94):
-  [445] Monoplane (94)
-  [610] Air-Air Rockets (94)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---8--
-Name: Giant Bomber Monoplane
-Nick Name: A-MGB
-Scores & Strengths:
-  Tech Score: 265
-  Unit Score: 528
-  Average Score: 396
-  Stat Strength: 409
-  Total Strength: 528
-  Planet Strength: 528
-  Space Strength: 0
-  Garrison Strength: 152
-Statistics:
-  Movement Type: air
-  Move Points: 12
-  Spot: 6
-  Camouflage: 2
-  Agility: 10
-  Armor: 10
-  Psy Defense: 5
+  Movement Type: tread
+  Move Points: 24
+  Spot: 14
+  Camouflage: 21
+  Agility: 22
+  Armor: 30
+  Psy Defense: 30
   Rank: 153
 Attacks:
-  Indirect: 7/17
+  Indirect: 24/53
+  Direct: 21/28
 Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 67
+Upkeep / Maintenance: 23
+Build Cost: 211
 Build Resource Requirements:
-  Food: 15
-  Energy: 44
-  Metal: 47
-  Trace: 11
-  Exotica: 15
-  Chemicals: 20
+  Biochems: 18
   Electronics: 7
-Build Giant Bomber Monoplane in Factory
-Time to Build / Upgrade: 4
-[1055] Technologies Required to Build Unit (94):
-  [445] Monoplane (94)
-  [610] Air-Air Rockets (94)
+  Ceramsteel: 9
+  Wetware: 5
+  Monopols: 18
+Upgrade Assault Gun to Stealth Assault Gun at Factory
+Time to Build / Upgrade: 1
+[37210] Technology Required to Build Unit (34):
+  [37210] Neumonic Land Vehicles (34)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

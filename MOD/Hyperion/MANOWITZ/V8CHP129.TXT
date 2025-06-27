@@ -1,136 +1,87 @@
-All units of the unit class Space Minesweeper are listed herein (3 in total):
+All units of the unit class Spy Plane are listed herein (2 in total):
 
 --1--
-Name: Space Minesweeper
-Nick Name: SS-MS
+Name: Spy Plane
+Nick Name: Sage
 Scores & Strengths:
-  Tech Score: 396
-  Unit Score: 790
-  Average Score: 593
-  Stat Strength: 715
-  Total Strength: 790
-  Planet Strength: 0
-  Space Strength: 790
-  Garrison Strength: 0
+  Tech Score: 919
+  Unit Score: 926
+  Average Score: 922
+  Stat Strength: 926
+  Total Strength: 926
+  Planet Strength: 926
+  Space Strength: 0
+  Garrison Strength: 197
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 18
-  Psy Defense: 18
-  Rank: 130
-Attacks:
-  Direct Space: 9/5
-  Closed Space: 10/3
-Cargo Space: 1
-Immune to Plague
-Upkeep / Maintenance: 22
-Build Cost: 215
+  Movement Type: air
+  Move Points: 22
+  Spot: 10
+  Camouflage: 10
+  Agility: 12
+  Armor: 7
+  Psy Defense: 7
+  Rank: 84
+Load aboard transport: YES
+Upkeep / Maintenance: 5
+Build Cost: 49
 Build Resource Requirements:
-  Food: 4
-  Energy: 3
-  Metal: 108
-  Trace: 21
-  Exotica: 4
+  Food: 18
+  Energy: 21
+  Metal: 3
+  Trace: 8
+  Exotica: 18
   Chemicals: 37
-  Electronics: 13
-Build Space Minesweeper in Starport
-Time to Build / Upgrade: 4
-[2125] Technologies Required to Build Unit (95):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [100] Psychosocial Engineering (100)
-  [60] Torpedo (98)
-  [795] Missiles (86)
+  Electronics: 18
+  Ceramsteel: 7
+Build Spy Plane in Factory
+Time to Build / Upgrade: 3
+[3545] Technology Required to Build Unit (74):
+  [3545] Aircraft Surveillance (74)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Space Repair Ship
-Nick Name: SS-RS
+Name: Stealth Spy Plane
+Nick Name: Seer
 Scores & Strengths:
-  Tech Score: 2166
-  Unit Score: 2160
-  Average Score: 2163
-  Stat Strength: 2160
-  Total Strength: 2160
-  Planet Strength: 0
+  Tech Score: 6895
+  Unit Score: 6893
+  Average Score: 6894
+  Stat Strength: 6893
+  Total Strength: 6893
+  Planet Strength: 6893
   Space Strength: 0
-  Garrison Strength: 0
+  Garrison Strength: 1063
 Statistics:
-  Movement Type: space
-  Move Points: 10
-  Spot: 12
-  Camouflage: 4
-  Agility: 10
-  Armor: 30
-  Psy Defense: 30
-  Rank: 172
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 15
-Build Cost: 147
-Build Resource Requirements:
-  Food: 2
-  Energy: 2
-  Metal: 31
-  Trace: 3
-  Exotica: 2
-  Chemicals: 10
-  Biochems: 19
-  Electronics: 5
-  Ceramsteel: 36
-Build Space Repair Ship in Starport
-Time to Build / Upgrade: 3
-[11120] Technology Required to Build Unit (84):
-  [11120] Space Escorts (84)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---3--
-Name: Space Destroyer Tender
-Nick Name: SS-DT
-Scores & Strengths:
-  Tech Score: 2166
-  Unit Score: 2165
-  Average Score: 2165
-  Stat Strength: 1877
-  Total Strength: 2165
-  Planet Strength: 0
-  Space Strength: 2165
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 16
-  Spot: 12
-  Camouflage: 2
-  Agility: 11
-  Armor: 26
-  Psy Defense: 26
-  Rank: 248
-Attacks:
-  Direct Space: 10/16
-  Closed Space: 8/16
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 17
-Build Cost: 173
+  Movement Type: air
+  Move Points: 42
+  Spot: 16
+  Camouflage: 40
+  Agility: 31
+  Armor: 34
+  Psy Defense: 34
+  Rank: 144
+Load aboard transport: YES
+Upkeep / Maintenance: 29
+Build Cost: 293
 Build Resource Requirements:
   Food: 3
-  Energy: 13
-  Metal: 24
-  Trace: 6
+  Energy: 7
+  Metal: 5
+  Trace: 17
   Exotica: 4
-  Chemicals: 24
-  Biochems: 23
-  Electronics: 8
-  Ceramsteel: 27
-Build Space Destroyer Tender in Starport
+  Chemicals: 11
+  Biochems: 17
+  Electronics: 30
+  Ceramsteel: 9
+  Wetware: 4
+  Monopols: 20
+Build Stealth Spy Plane in Factory
 Time to Build / Upgrade: 3
-[11120] Technology Required to Build Unit (84):
-  [11120] Space Escorts (84)
+[55345] Technologies Required to Build Unit (55):
+  [3545] Aircraft Surveillance (74)
+  [51800] Neumonic Patrolcraft (36)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

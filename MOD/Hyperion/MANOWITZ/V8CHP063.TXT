@@ -1,477 +1,450 @@
-All units of the unit class Landing Barge are listed herein (11 in total):
+All units of the unit class Yeustam are listed herein (10 in total):
 
 --1--
-Name: Landing Barge
-Nick Name: NN-LB
+Name: Yeustam
+Nick Name: Yeustam
 Scores & Strengths:
-  Tech Score: 86
-  Unit Score: 171
-  Average Score: 128
-  Stat Strength: 167
-  Total Strength: 171
-  Planet Strength: 171
-  Space Strength: 0
-  Garrison Strength: 69
+  Tech Score: 177
+  Unit Score: 177
+  Average Score: 177
+  Stat Strength: 132
+  Total Strength: 177
+  Planet Strength: 177
+  Space Strength: 177
+  Garrison Strength: 125
 Statistics:
-  Movement Type: naval
-  Move Points: 6
+  Movement Type: foot
+  Move Points: 2
   Spot: 2
-  Camouflage: 1
-  Agility: 1
-  Armor: 10
-  Psy Defense: 5
-  Rank: 91
+  Camouflage: 2
+  Agility: 10
+  Armor: 2
+  Psy Defense: 4
+  Rank: 102
 Attacks:
-  Close: 2/2
-Cargo Space: 4
-Amphibious loading / unloading of cargo
-Can tow units that can be towed
-Upkeep / Maintenance: 17
-Build Cost: 170
+  Psychic: 9/5
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 11
+Build Cost: 68
 Build Resource Requirements:
-  Food: 13
-  Energy: 14
-  Metal: 92
-  Trace: 15
-  Exotica: 10
-  Chemicals: 12
-Build Landing Barge in Well
-Time to Build / Upgrade: 3
-[150] Technologies Required to Build Unit (100):
-  [100] Physics & Energy (100)
-  [50] Applied Technology (100)
+  Metal: 2
+  Trace: 18
+  Exotica: 5
+  Chemicals: 13
+  Gems: 5
+Upgrade Tertiary to Yeustam at Church
+Time to Build / Upgrade: 1
+[395] Technology Required to Build Unit (95):
+  [395] Laws of Nine (95)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Motor Landing Craft
-Nick Name: NN-MLC
+Name: Nementona
+Nick Name: Nementona
 Scores & Strengths:
-  Tech Score: 94
-  Unit Score: 235
-  Average Score: 165
-  Stat Strength: 220
-  Total Strength: 235
-  Planet Strength: 235
-  Space Strength: 0
-  Garrison Strength: 95
+  Tech Score: 245
+  Unit Score: 245
+  Average Score: 245
+  Stat Strength: 200
+  Total Strength: 245
+  Planet Strength: 245
+  Space Strength: 245
+  Garrison Strength: 122
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 2
-  Camouflage: 0
-  Agility: 0
-  Armor: 12
+  Movement Type: foot
+  Move Points: 4
+  Spot: 3
+  Camouflage: 3
+  Agility: 11
+  Armor: 3
   Psy Defense: 6
-  Rank: 62
+  Rank: 102
 Attacks:
-  Close: 5/3
-Cargo Space: 1
-Amphibious loading / unloading of cargo
-Can tow units that can be towed
-Upkeep / Maintenance: 12
-Build Cost: 117
+  Psychic: 9/5
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 5
 Build Resource Requirements:
-  Food: 8
-  Energy: 10
-  Metal: 88
-  Trace: 14
-  Exotica: 6
-  Chemicals: 9
-Build Motor Landing Craft in Well
-Time to Build / Upgrade: 3
-[270] Technologies Required to Build Unit (99):
-  [110] Structural Engineering (99)
-  [110] Mechanical & Aerospace Engineering (98)
-  [50] Applied Technology (100)
+  Biochems: 6
+Upgrade Yeustam to Nementona at Church
+Time to Build / Upgrade: 1
+[1795] Technologies Required to Build Unit (95):
+  [475] Sakti (95)
+  [440] Blessitudes (95)
+  [440] Pan-Physics (95)
+  [440] Sulis (95)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Landing Craft Infantry
-Nick Name: NN-LCI
+Name: Kavi
+Nick Name: Kavi
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 580
-  Average Score: 582
-  Stat Strength: 580
-  Total Strength: 580
-  Planet Strength: 580
-  Space Strength: 0
-  Garrison Strength: 219
+  Tech Score: 403
+  Unit Score: 401
+  Average Score: 402
+  Stat Strength: 329
+  Total Strength: 401
+  Planet Strength: 401
+  Space Strength: 401
+  Garrison Strength: 163
 Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 4
+  Movement Type: foot
+  Move Points: 6
+  Spot: 6
   Camouflage: 4
-  Agility: 7
-  Armor: 15
-  Psy Defense: 15
-  Rank: 76
-Cargo Space: 2
-Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 4
-Build Cost: 43
+  Agility: 14
+  Armor: 3
+  Psy Defense: 6
+  Rank: 104
+Attacks:
+  Psychic: 8/9
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 9
+Build Cost: 93
 Build Resource Requirements:
-  Food: 2
-  Energy: 4
-  Metal: 49
-  Trace: 4
-  Exotica: 3
-  Chemicals: 4
-  Biochems: 3
-  Electronics: 3
-Build Landing Craft Infantry in Well
-Time to Build / Upgrade: 2
-[1940] Technology Required to Build Unit (89):
-  [1940] Amphibious Landing Craft (89)
+  Food: 3
+  Energy: 3
+  Trace: 3
+  Exotica: 5
+  Chemicals: 3
+  Biochems: 7
+  Electronics: 10
+  Gems: 4
+Upgrade Nementona to Kavi at Church
+Time to Build / Upgrade: 1
+[2410] Technologies Required to Build Unit (71):
+  [730] Beata (90)
+  [490] Leiposophy (94)
+  [700] Virtual Particles (46)
+  [490] Spatial Displacement Bombardment (55)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Landing Craft Mechanized
-Nick Name: NN-LCM
+Name: Prthivi
+Nick Name: Prthivi
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 583
-  Average Score: 584
-  Stat Strength: 543
-  Total Strength: 583
-  Planet Strength: 583
-  Space Strength: 0
-  Garrison Strength: 238
+  Tech Score: 500
+  Unit Score: 500
+  Average Score: 500
+  Stat Strength: 428
+  Total Strength: 500
+  Planet Strength: 500
+  Space Strength: 500
+  Garrison Strength: 188
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 4
-  Camouflage: 4
-  Agility: 5
-  Armor: 15
-  Psy Defense: 15
-  Rank: 150
+  Movement Type: foot
+  Move Points: 7
+  Spot: 7
+  Camouflage: 5
+  Agility: 15
+  Armor: 4
+  Psy Defense: 8
+  Rank: 105
 Attacks:
-  Indirect: 4/10
-Cargo Space: 3
-Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 5
-Build Cost: 46
+  Psychic: 8/9
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 8
 Build Resource Requirements:
-  Food: 2
-  Energy: 8
-  Metal: 49
-  Trace: 4
-  Exotica: 2
-  Chemicals: 3
-  Biochems: 2
-  Electronics: 3
-Build Landing Craft Mechanized in Well
-Time to Build / Upgrade: 2
-[1940] Technology Required to Build Unit (89):
-  [1940] Amphibious Landing Craft (89)
+  Biochems: 1
+Upgrade Kavi to Prthivi at Church
+Time to Build / Upgrade: 1
+[3825] Technologies Required to Build Unit (73):
+  [825] Regin (90)
+  [840] Sanctissima (49)
+  [825] Cronia (90)
+  [545] Compassionate Ethics (93)
+  [790] Sentient Energy Fields (42)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Landing Craft Tank
-Nick Name: NN-LCT
+Name: Witega
+Nick Name: Witega
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 585
-  Average Score: 585
-  Stat Strength: 585
-  Total Strength: 585
-  Planet Strength: 585
-  Space Strength: 0
-  Garrison Strength: 261
+  Tech Score: 553
+  Unit Score: 689
+  Average Score: 621
+  Stat Strength: 545
+  Total Strength: 689
+  Planet Strength: 689
+  Space Strength: 689
+  Garrison Strength: 243
 Statistics:
-  Movement Type: naval
-  Move Points: 5
-  Spot: 4
-  Camouflage: 4
-  Agility: 4
-  Armor: 16
-  Psy Defense: 16
-  Rank: 86
-Cargo Space: 3
-Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 4
-Build Cost: 38
+  Movement Type: foot
+  Move Points: 8
+  Spot: 8
+  Camouflage: 6
+  Agility: 16
+  Armor: 5
+  Psy Defense: 10
+  Rank: 106
+Attacks:
+  Psychic: 12/12
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 21
+Build Cost: 213
 Build Resource Requirements:
-  Food: 2
-  Energy: 2
-  Metal: 50
-  Trace: 3
-  Exotica: 1
-  Chemicals: 2
-  Biochems: 2
-  Electronics: 2
-Build Landing Craft Tank in Well
+  Food: 9
+  Energy: 8
+  Metal: 6
+  Trace: 10
+  Exotica: 13
+  Chemicals: 9
+  Biochems: 17
+  Electronics: 15
+  Gems: 9
+Upgrade Prthivi to Witega at Church
 Time to Build / Upgrade: 2
-[2240] Technologies Required to Build Unit (92):
-  [300] Mechanized Warfare (95)
-  [1940] Amphibious Landing Craft (89)
+[2195] Technologies Required to Build Unit (61):
+  [1145] Aster (74)
+  [1050] Ghost Vibrations (48)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Landing Craft Assault
-Nick Name: NN-LCA
+Name: Bakhti
+Nick Name: Bakhti
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 588
-  Average Score: 586
-  Stat Strength: 588
-  Total Strength: 588
-  Planet Strength: 588
-  Space Strength: 0
-  Garrison Strength: 207
+  Tech Score: 683
+  Unit Score: 689
+  Average Score: 686
+  Stat Strength: 533
+  Total Strength: 689
+  Planet Strength: 689
+  Space Strength: 689
+  Garrison Strength: 217
 Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 4
-  Camouflage: 4
-  Agility: 10
-  Armor: 14
-  Psy Defense: 14
-  Rank: 66
-Cargo Space: 1
-Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 5
-Build Cost: 46
+  Movement Type: foot
+  Move Points: 10
+  Spot: 8
+  Camouflage: 10
+  Agility: 12
+  Armor: 5
+  Psy Defense: 10
+  Rank: 107
+Attacks:
+  Psychic: 12/13
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 10
+Build Cost: 100
 Build Resource Requirements:
-  Food: 4
-  Energy: 6
-  Metal: 42
-  Trace: 6
-  Exotica: 4
-  Chemicals: 6
-  Biochems: 4
-  Electronics: 4
-Build Landing Craft Assault in Well
-Time to Build / Upgrade: 2
-[1940] Technology Required to Build Unit (89):
-  [1940] Amphibious Landing Craft (89)
+  Metal: 2
+  Trace: 2
+  Electronics: 7
+  Gems: 3
+Upgrade Prthivi to Bakhti at Church
+Time to Build / Upgrade: 1
+[6025] Technologies Required to Build Unit (53):
+  [1265] Devarsi (75)
+  [1265] Ambochi (75)
+  [1165] Energy Shades (39)
+  [1165] Yinchi (44)
+  [1165] Wave Life (34)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Landing Craft Support (Medium)
-Nick Name: NN-LCS(M)
+Name: Pyskti
+Nick Name: Pyskti
 Scores & Strengths:
-  Tech Score: 608
-  Unit Score: 606
-  Average Score: 607
-  Stat Strength: 534
-  Total Strength: 606
-  Planet Strength: 606
-  Space Strength: 0
-  Garrison Strength: 214
+  Tech Score: 695
+  Unit Score: 693
+  Average Score: 694
+  Stat Strength: 533
+  Total Strength: 693
+  Planet Strength: 693
+  Space Strength: 687
+  Garrison Strength: 219
 Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 4
-  Camouflage: 4
-  Agility: 10
-  Armor: 13
-  Psy Defense: 13
-  Rank: 76
+  Movement Type: foot
+  Move Points: 10
+  Spot: 8
+  Camouflage: 10
+  Agility: 12
+  Armor: 5
+  Psy Defense: 10
+  Rank: 107
 Attacks:
-  Close: 8/9
-Cargo Space: 2
-Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 6
-Build Cost: 59
+  Psychic: 14/11
+  Close: 2/3
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 16
 Build Resource Requirements:
-  Food: 4
-  Energy: 9
-  Metal: 33
-  Trace: 9
-  Exotica: 4
-  Chemicals: 10
-  Biochems: 6
-  Electronics: 7
-Build Landing Craft Support (Medium) in Well
-Time to Build / Upgrade: 2
-[2345] Technologies Required to Build Unit (92):
-  [1940] Amphibious Landing Craft (89)
-  [405] Recoilless Rifle (94)
+  Food: 1
+  Energy: 2
+  Metal: 2
+  Trace: 10
+  Exotica: 1
+  Chemicals: 2
+  Biochems: 4
+  Electronics: 13
+Upgrade Sant to Pyskti at Church
+Time to Build / Upgrade: 1
+[2840] Technologies Required to Build Unit (62):
+  [1555] Dhechi (80)
+  [1285] Paramu (43)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Landing Craft Support (Large)
-Nick Name: NN-LCS(L)
+Name: Protos
+Nick Name: Protos
 Scores & Strengths:
-  Tech Score: 608
-  Unit Score: 606
-  Average Score: 607
-  Stat Strength: 554
-  Total Strength: 606
-  Planet Strength: 606
-  Space Strength: 0
-  Garrison Strength: 229
+  Tech Score: 704
+  Unit Score: 705
+  Average Score: 704
+  Stat Strength: 513
+  Total Strength: 705
+  Planet Strength: 705
+  Space Strength: 705
+  Garrison Strength: 222
 Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 4
-  Camouflage: 4
-  Agility: 9
-  Armor: 14
-  Psy Defense: 14
-  Rank: 86
+  Movement Type: foot
+  Move Points: 10
+  Spot: 8
+  Camouflage: 10
+  Agility: 13
+  Armor: 4
+  Psy Defense: 8
+  Rank: 107
 Attacks:
-  Close: 4/13
-Cargo Space: 3
-Amphibious loading / unloading of cargo
-Can tow units that can be towed
-Upkeep / Maintenance: 7
-Build Cost: 68
+  Psychic: 16/12
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 21
+Build Cost: 207
 Build Resource Requirements:
-  Food: 3
-  Energy: 13
-  Metal: 38
-  Trace: 6
-  Exotica: 3
-  Chemicals: 13
-  Biochems: 4
-  Electronics: 4
-Build Landing Craft Support (Large) in Well
+  Food: 10
+  Energy: 9
+  Metal: 3
+  Trace: 20
+  Exotica: 15
+  Chemicals: 11
+  Biochems: 21
+  Electronics: 34
+  Gems: 9
+Upgrade Prthivi to Protos at Church
 Time to Build / Upgrade: 2
-[2345] Technologies Required to Build Unit (92):
-  [1940] Amphibious Landing Craft (89)
-  [405] Recoilless Rifle (94)
+[2485] Technology Required to Build Unit (61):
+  [2485] Shekina (61)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Landing Craft Navigation
-Nick Name: NN-LCN
+Name: Ritualist
+Nick Name: Ritualist
 Scores & Strengths:
-  Tech Score: 781
-  Unit Score: 780
-  Average Score: 781
-  Stat Strength: 780
-  Total Strength: 780
-  Planet Strength: 780
-  Space Strength: 0
-  Garrison Strength: 235
+  Tech Score: 749
+  Unit Score: 748
+  Average Score: 749
+  Stat Strength: 588
+  Total Strength: 748
+  Planet Strength: 748
+  Space Strength: 748
+  Garrison Strength: 236
 Statistics:
-  Movement Type: naval
-  Move Points: 11
-  Spot: 10
-  Camouflage: 5
-  Agility: 14
-  Armor: 13
-  Psy Defense: 13
-  Rank: 68
-Cargo Space: 1
-Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 6
-Build Cost: 61
+  Movement Type: foot
+  Move Points: 10
+  Spot: 8
+  Camouflage: 10
+  Agility: 12
+  Armor: 6
+  Psy Defense: 12
+  Rank: 107
+Attacks:
+  Psychic: 16/10
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 18
+Build Cost: 78
 Build Resource Requirements:
-  Food: 7
-  Energy: 9
-  Metal: 27
-  Trace: 11
-  Exotica: 8
-  Chemicals: 9
-  Biochems: 8
-  Electronics: 8
-Build Landing Craft Navigation in Well
+  Food: 10
+  Energy: 7
+  Metal: 7
+  Trace: 17
+  Exotica: 13
+  Chemicals: 10
+  Biochems: 26
+  Electronics: 26
+  Gems: 2
+Upgrade Bakhti to Ritualist at Church
 Time to Build / Upgrade: 2
-[2980] Technologies Required to Build Unit (90):
-  [125] Radar (93)
-  [2855] Naval Amphibious Ships (87)
+[2700] Technology Required to Build Unit (58):
+  [2700] Nous Point (58)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Landing Craft Control
-Nick Name: NN-LCC
+Name: Sant
+Nick Name: Sant
 Scores & Strengths:
-  Tech Score: 804
-  Unit Score: 803
-  Average Score: 803
-  Stat Strength: 785
-  Total Strength: 803
-  Planet Strength: 803
-  Space Strength: 0
-  Garrison Strength: 231
+  Tech Score: 607
+  Unit Score: 760
+  Average Score: 684
+  Stat Strength: 592
+  Total Strength: 760
+  Planet Strength: 760
+  Space Strength: 760
+  Garrison Strength: 253
 Statistics:
-  Movement Type: naval
-  Move Points: 12
-  Spot: 8
-  Camouflage: 4
-  Agility: 13
-  Armor: 14
-  Psy Defense: 14
-  Rank: 803
+  Movement Type: foot
+  Move Points: 9
+  Spot: 9
+  Camouflage: 7
+  Agility: 16
+  Armor: 5
+  Psy Defense: 10
+  Rank: 107
 Attacks:
-  Indirect: 1/18
-Cargo Space: 1
-Officer - Provides stack combat bonuses
-Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 8
-Build Cost: 84
+  Psychic: 12/14
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 19
+Build Cost: 186
 Build Resource Requirements:
-  Food: 7
-  Energy: 21
-  Metal: 30
+  Food: 5
+  Energy: 4
+  Metal: 3
   Trace: 8
-  Exotica: 7
-  Chemicals: 9
-  Biochems: 6
-  Electronics: 6
-Build Landing Craft Control in Well
-Time to Build / Upgrade: 2
-[3090] Technologies Required to Build Unit (93):
-  [125] Radar (93)
-  [110] Meditation (99)
-  [2855] Naval Amphibious Ships (87)
+  Exotica: 8
+  Chemicals: 5
+  Biochems: 11
+  Electronics: 11
+  Gems: 8
+Upgrade Prthivi to Sant at Church
+Time to Build / Upgrade: 1
+[3580] Technologies Required to Build Unit (66):
+  [1050] Ghost Vibrations (48)
+  [1265] Devarsi (75)
+  [1265] Ambochi (75)
 Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---11--
-Name: Landing Ship Tank
-Nick Name: NN-LST
-Scores & Strengths:
-  Tech Score: 781
-  Unit Score: 1170
-  Average Score: 976
-  Stat Strength: 1065
-  Total Strength: 1170
-  Planet Strength: 1170
-  Space Strength: 0
-  Garrison Strength: 442
-Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 4
-  Camouflage: 4
-  Agility: 4
-  Armor: 22
-  Psy Defense: 22
-  Rank: 140
-Attacks:
-  Indirect: 2/10
-  Direct: 5/10
-  Close: 5/7
-Cargo Space: 4
-Can tow units that can be towed
-Upkeep / Maintenance: 10
-Build Cost: 95
-Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 78
-  Trace: 6
-  Exotica: 2
-  Chemicals: 9
-  Biochems: 3
-  Electronics: 4
-Build Landing Ship Tank in Well
-Time to Build / Upgrade: 3
-[2855] Technology Required to Build Unit (87):
-  [2855] Naval Amphibious Ships (87)
-Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

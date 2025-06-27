@@ -1,259 +1,127 @@
-All units of the unit class Medium Tank are listed herein (6 in total):
+All units of the unit class Siege Mortar are listed herein (3 in total):
 
 --1--
-Name: Medium Tank
-Nick Name: Wolfen
+Name: Siege Mortar
+Nick Name: Siege Mortar
 Scores & Strengths:
   Tech Score: 106
   Unit Score: 157
   Average Score: 132
-  Stat Strength: 119
+  Stat Strength: 93
   Total Strength: 157
   Planet Strength: 157
   Space Strength: 0
-  Garrison Strength: 78
+  Garrison Strength: 111
 Statistics:
-  Movement Type: tread
-  Move Points: 4
-  Spot: 1
+  Movement Type: wheel
+  Move Points: 2
+  Spot: 2
   Camouflage: 1
   Agility: 2
-  Armor: 9
+  Armor: 8
   Psy Defense: 4
-  Rank: 62
+  Rank: 121
 Attacks:
-  Indirect: 1/10
-  Direct: 1/10
-  Close: 6/3
+  Indirect: 4/16
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 34
+Can be towed
+Upkeep / Maintenance: 4
+Build Cost: 40
 Build Resource Requirements:
-  Food: 3
-  Energy: 44
-  Metal: 36
-  Trace: 10
-  Exotica: 2
-  Chemicals: 23
-Build Medium Tank in Factory
+  Food: 4
+  Energy: 83
+  Metal: 48
+  Trace: 7
+  Exotica: 3
+  Chemicals: 3
+Build Siege Mortar in Factory
 Time to Build / Upgrade: 3
-[400] Technologies Required to Build Unit (98):
-  [110] Structural Engineering (99)
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
+[200] Technology Required to Build Unit (97):
+  [200] Fortifications (97)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Medium Tank II
-Nick Name: Med Tank II
+Name: Mortar Carrier
+Nick Name: Mortar Carr
 Scores & Strengths:
-  Tech Score: 162
-  Unit Score: 181
-  Average Score: 171
-  Stat Strength: 138
-  Total Strength: 181
-  Planet Strength: 181
+  Tech Score: 292
+  Unit Score: 290
+  Average Score: 291
+  Stat Strength: 240
+  Total Strength: 290
+  Planet Strength: 290
   Space Strength: 0
-  Garrison Strength: 90
+  Garrison Strength: 118
 Statistics:
   Movement Type: tread
-  Move Points: 4
-  Spot: 1
-  Camouflage: 1
+  Move Points: 6
+  Spot: 4
+  Camouflage: 2
   Agility: 2
-  Armor: 10
-  Psy Defense: 4
-  Rank: 64
+  Armor: 12
+  Psy Defense: 6
+  Rank: 93
 Attacks:
-  Indirect: 1/11
-  Direct: 1/11
-  Close: 7/3
+  Indirect: 5/10
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 44
+Upkeep / Maintenance: 2
+Build Cost: 17
 Build Resource Requirements:
   Food: 4
-  Energy: 59
-  Metal: 45
-  Trace: 19
-  Exotica: 3
-  Chemicals: 40
-Build Medium Tank II in Factory
-Time to Build / Upgrade: 3
-[350] Technology Required to Build Unit (95):
-  [350] Tanks (95)
+  Energy: 15
+  Metal: 39
+  Trace: 5
+  Exotica: 4
+  Chemicals: 4
+  Electronics: 3
+Build Mortar Carrier in Factory
+Time to Build / Upgrade: 2
+[770] Technology Required to Build Unit (92):
+  [770] Self-Propelled Weaponry (92)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Assault Tank
-Nick Name: Pitbull
+Name: Self-Propelled Siege Mortar
+Nick Name: SP SM
 Scores & Strengths:
-  Tech Score: 162
-  Unit Score: 240
-  Average Score: 201
-  Stat Strength: 178
-  Total Strength: 240
-  Planet Strength: 240
+  Tech Score: 292
+  Unit Score: 291
+  Average Score: 292
+  Stat Strength: 201
+  Total Strength: 291
+  Planet Strength: 291
   Space Strength: 0
-  Garrison Strength: 97
+  Garrison Strength: 145
 Statistics:
   Movement Type: tread
-  Move Points: 6
+  Move Points: 4
   Spot: 2
-  Camouflage: 2
-  Agility: 3
-  Armor: 10
-  Psy Defense: 5
-  Rank: 61
+  Camouflage: 1
+  Agility: 0
+  Armor: 12
+  Psy Defense: 6
+  Rank: 111
 Attacks:
-  Indirect: 3/8
-  Direct: 3/6
-  Close: 5/4
+  Indirect: 3/30
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 40
+Upkeep / Maintenance: 3
+Build Cost: 31
 Build Resource Requirements:
-  Food: 8
-  Energy: 33
-  Metal: 49
-  Trace: 17
-  Exotica: 7
-  Chemicals: 23
-Build Assault Tank in Factory
-Time to Build / Upgrade: 3
-[350] Technology Required to Build Unit (95):
-  [350] Tanks (95)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---4--
-Name: Cruiser Tank
-Nick Name: Cruiser Tank
-Scores & Strengths:
-  Tech Score: 167
-  Unit Score: 248
-  Average Score: 208
-  Stat Strength: 183
-  Total Strength: 248
-  Planet Strength: 248
-  Space Strength: 0
-  Garrison Strength: 110
-Statistics:
-  Movement Type: tread
-  Move Points: 5
-  Spot: 2
-  Camouflage: 2
-  Agility: 2
-  Armor: 11
-  Psy Defense: 5
-  Rank: 66
-Attacks:
-  Indirect: 2/13
-  Direct: 2/12
-  Close: 3/5
-Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 47
-Build Resource Requirements:
-  Food: 4
-  Energy: 62
-  Metal: 46
-  Trace: 7
-  Exotica: 4
-  Chemicals: 38
-Build Cruiser Tank in Factory
-Time to Build / Upgrade: 3
-[475] Technologies Required to Build Unit (97):
-  [125] Plastics (98)
-  [350] Tanks (95)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Shock Assault Tank
-Nick Name: Razorbull
-Scores & Strengths:
-  Tech Score: 1226
-  Unit Score: 1418
-  Average Score: 1322
-  Stat Strength: 1053
-  Total Strength: 1418
-  Planet Strength: 1418
-  Space Strength: 0
-  Garrison Strength: 366
-Statistics:
-  Movement Type: tread
-  Move Points: 15
-  Spot: 3
-  Camouflage: 5
-  Agility: 5
-  Armor: 25
-  Psy Defense: 12
-  Rank: 85
-Attacks:
-  Indirect: 7/20
-  Direct: 7/15
-  Close: 12/10
-Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 11
-Build Resource Requirements:
-  Chemicals: 15
-  Electronics: 24
-  Ceramsteel: 28
-Upgrade Assault Tank to Shock Assault Tank at Factory
-Time to Build / Upgrade: 1
-[5205] Technology Required to Build Unit (84):
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Shock Medium Tank
-Nick Name: Wolfenrot
-Scores & Strengths:
-  Tech Score: 1413
-  Unit Score: 1606
-  Average Score: 1509
-  Stat Strength: 1208
-  Total Strength: 1606
-  Planet Strength: 1606
-  Space Strength: 0
-  Garrison Strength: 445
-Statistics:
-  Movement Type: tread
-  Move Points: 13
-  Spot: 2
-  Camouflage: 3
-  Agility: 4
-  Armor: 29
-  Psy Defense: 13
-  Rank: 101
-Attacks:
-  Indirect: 3/33
-  Direct: 3/33
-  Close: 20/10
-Load aboard transport: YES
-Upkeep / Maintenance: 53
-Build Cost: 494
-Build Resource Requirements:
-  Energy: 6
-  Chemicals: 33
-  Electronics: 29
-  Ceramsteel: 29
-  Monopols: 54
-Upgrade Medium Tank to Shock Medium Tank at Factory
+  Food: 2
+  Energy: 100
+  Metal: 39
+  Trace: 2
+  Exotica: 2
+  Chemicals: 2
+  Electronics: 1
+Build Self-Propelled Siege Mortar in Factory
 Time to Build / Upgrade: 2
-[6950] Technologies Required to Build Unit (77):
-  [1745] Monopols (70)
-  [5205] Advanced Battle Tanks (84)
+[770] Technology Required to Build Unit (92):
+  [770] Self-Propelled Weaponry (92)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

@@ -1,185 +1,45 @@
-All units of the unit class Reconnaissance Autogyro are listed herein (4 in total):
+All units of the unit class PTS Guided Missile are listed herein (1 in total):
 
 --1--
-Name: Reconnaissance Autogyro
-Nick Name: R-AutoGyro
+Name: PTS Guided Missile
+Nick Name: PTS GM
 Scores & Strengths:
-  Tech Score: 493
-  Unit Score: 490
-  Average Score: 491
-  Stat Strength: 490
-  Total Strength: 490
-  Planet Strength: 490
-  Space Strength: 0
-  Garrison Strength: 173
+  Tech Score: 522
+  Unit Score: 521
+  Average Score: 522
+  Stat Strength: 296
+  Total Strength: 521
+  Planet Strength: 296
+  Space Strength: 521
+  Garrison Strength: 85
 Statistics:
   Movement Type: air
-  Move Points: 8
-  Spot: 8
-  Camouflage: 3
-  Agility: 15
-  Armor: 8
-  Psy Defense: 8
-  Rank: 80
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 5
-Build Cost: 51
-Build Resource Requirements:
-  Food: 10
-  Energy: 11
-  Metal: 62
-  Trace: 14
-  Exotica: 9
-  Chemicals: 11
-  Electronics: 11
-Build Reconnaissance Autogyro in Factory
-Time to Build / Upgrade: 2
-[1885] Technologies Required to Build Unit (87):
-  [485] Electromagnetic Servo (86)
-  [1400] Aerial Warfare (87)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---2--
-Name: Attack Autogyro
-Nick Name: At-Autogyro
-Scores & Strengths:
-  Tech Score: 493
-  Unit Score: 492
-  Average Score: 492
-  Stat Strength: 413
-  Total Strength: 492
-  Planet Strength: 492
-  Space Strength: 0
-  Garrison Strength: 185
-Statistics:
-  Movement Type: air
-  Move Points: 7
-  Spot: 6
-  Camouflage: 2
-  Agility: 14
-  Armor: 8
-  Psy Defense: 8
-  Rank: 112
+  Move Points: 12
+  Spot: 0
+  Camouflage: 12
+  Agility: 0
+  Armor: 2
+  Psy Defense: 2
+  Rank: 85
 Attacks:
-  Air: 5/7
-  Indirect: 5/4
-  Direct: 3/4
-  Close: 3/4
+  Ranged Space: 15/15
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 5
-Build Cost: 51
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 4
+Build Cost: 35
 Build Resource Requirements:
-  Food: 7
-  Energy: 15
-  Metal: 62
-  Trace: 14
-  Exotica: 7
-  Chemicals: 14
-  Electronics: 11
-Build Attack Autogyro in Factory
-Time to Build / Upgrade: 2
-[1885] Technologies Required to Build Unit (87):
-  [485] Electromagnetic Servo (86)
-  [1400] Aerial Warfare (87)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---3--
-Name: Assault Autogyro
-Nick Name: As-Autogyro
-Scores & Strengths:
-  Tech Score: 493
-  Unit Score: 492
-  Average Score: 492
-  Stat Strength: 400
-  Total Strength: 492
-  Planet Strength: 492
-  Space Strength: 0
-  Garrison Strength: 200
-Statistics:
-  Movement Type: air
-  Move Points: 6
-  Spot: 6
-  Camouflage: 2
-  Agility: 14
-  Armor: 8
-  Psy Defense: 8
-  Rank: 117
-Attacks:
-  Indirect: 6/6
-  Direct: 6/6
-  Close: 4/5
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 5
-Build Cost: 50
-Build Resource Requirements:
-  Food: 7
-  Energy: 15
-  Metal: 62
-  Trace: 15
-  Exotica: 7
-  Chemicals: 12
-  Electronics: 11
-Build Assault Autogyro in Factory
-Time to Build / Upgrade: 2
-[1885] Technologies Required to Build Unit (87):
-  [485] Electromagnetic Servo (86)
-  [1400] Aerial Warfare (87)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---4--
-Name: Patrol Autogyro
-Nick Name: P-Autogyro
-Scores & Strengths:
-  Tech Score: 493
-  Unit Score: 492
-  Average Score: 492
-  Stat Strength: 389
-  Total Strength: 492
-  Planet Strength: 492
-  Space Strength: 0
-  Garrison Strength: 220
-Statistics:
-  Movement Type: air
-  Move Points: 5
-  Spot: 6
-  Camouflage: 2
-  Agility: 14
-  Armor: 8
-  Psy Defense: 8
-  Rank: 145
-Attacks:
-  Air: 7/7
-  Indirect: 6/9
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 5
-Build Cost: 50
-Build Resource Requirements:
-  Food: 7
-  Energy: 16
-  Metal: 62
-  Trace: 14
+  Food: 6
+  Energy: 9
+  Metal: 5
+  Trace: 25
   Exotica: 6
-  Chemicals: 11
-  Electronics: 11
-Build Patrol Autogyro in Factory
+  Chemicals: 35
+  Electronics: 30
+Build PTS Guided Missile in Chemical Plant
 Time to Build / Upgrade: 2
-[1885] Technologies Required to Build Unit (87):
-  [485] Electromagnetic Servo (86)
-  [1400] Aerial Warfare (87)
-Counts as planetary flock: YES
-Unit Eats: YES
+[1670] Technology Required to Build Unit (83):
+  [1670] Guided Missiles (83)
 Unit can be disbanded: YES

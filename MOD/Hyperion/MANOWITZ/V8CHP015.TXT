@@ -1,38 +1,41 @@
-All units of the unit class Militia Legion are listed herein (12 in total):
+All units of the unit class Artillery are listed herein (7 in total):
 
 --1--
-Name: Militia Legion
-Nick Name: Militia
+Name: Artillery
+Nick Name: Artillery
 Scores & Strengths:
   Tech Score: 86
   Unit Score: 86
   Average Score: 86
-  Stat Strength: 66
+  Stat Strength: 60
   Total Strength: 86
   Planet Strength: 86
   Space Strength: 0
-  Garrison Strength: 60
+  Garrison Strength: 49
 Statistics:
-  Movement Type: foot
-  Move Points: 2
+  Movement Type: wheel
+  Move Points: 3
   Spot: 2
-  Camouflage: 2
-  Agility: 7
-  Armor: 2
-  Psy Defense: 1
-  Rank: 1
+  Camouflage: 1
+  Agility: 1
+  Armor: 6
+  Psy Defense: 3
+  Rank: 116
 Attacks:
-  Close: 5/4
+  Indirect: 2/13
 Load aboard transport: YES
-Upkeep / Maintenance: 2
-Build Cost: 13
+Can be towed
+Upkeep / Maintenance: 3
+Build Cost: 30
 Build Resource Requirements:
-  Metal: 1
-  Trace: 26
-  Exotica: 10
-  Chemicals: 16
-Upgrade Peasant to Militia Legion at Fort
-Time to Build / Upgrade: 1
+  Food: 5
+  Energy: 78
+  Metal: 33
+  Trace: 6
+  Exotica: 4
+  Chemicals: 3
+Build Artillery in Factory
+Time to Build / Upgrade: 2
 [150] Technologies Required to Build Unit (100):
   [100] Physics & Energy (100)
   [50] Applied Technology (100)
@@ -41,435 +44,259 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Militia Legion (PE)
-Nick Name: Militia (PE)
+Name: Vertically-Mounted Artillery
+Nick Name: VM Art
 Scores & Strengths:
-  Tech Score: 98
-  Unit Score: 90
-  Average Score: 94
-  Stat Strength: 66
-  Total Strength: 90
-  Planet Strength: 90
+  Tech Score: 86
+  Unit Score: 86
+  Average Score: 86
+  Stat Strength: 50
+  Total Strength: 86
+  Planet Strength: 86
   Space Strength: 0
-  Garrison Strength: 63
+  Garrison Strength: 49
 Statistics:
-  Movement Type: foot
-  Move Points: 2
+  Movement Type: wheel
+  Move Points: 3
   Spot: 2
   Camouflage: 2
-  Agility: 7
-  Armor: 2
-  Psy Defense: 1
-  Rank: 1
+  Agility: 2
+  Armor: 5
+  Psy Defense: 2
+  Rank: 111
 Attacks:
-  Close: 6/4
+  Air: 4/3
+  Indirect: 4/6
 Load aboard transport: YES
-May lose health or experience after combat due to drug use
+Can be towed
 Upkeep / Maintenance: 2
-Build Cost: 16
+Build Cost: 19
 Build Resource Requirements:
-  Metal: 2
-  Trace: 27
-  Exotica: 12
-  Chemicals: 17
-Upgrade Peasant to Militia Legion (PE) at Fort
-Time to Build / Upgrade: 1
-[180] Technology Required to Build Unit (90):
-  [180] Performance-Enhanced Soldiers (90)
+  Food: 5
+  Energy: 24
+  Metal: 21
+  Trace: 16
+  Exotica: 4
+  Chemicals: 7
+Build Vertically-Mounted Artillery in Factory
+Time to Build / Upgrade: 2
+[150] Technologies Required to Build Unit (100):
+  [100] Physics & Energy (100)
+  [50] Applied Technology (100)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Militia Legion (BE)
-Nick Name: Militia (BE)
+Name: Light Artillery
+Nick Name: Lt Art
 Scores & Strengths:
-  Tech Score: 186
-  Unit Score: 169
-  Average Score: 177
-  Stat Strength: 121
-  Total Strength: 169
-  Planet Strength: 169
+  Tech Score: 118
+  Unit Score: 129
+  Average Score: 124
+  Stat Strength: 87
+  Total Strength: 129
+  Planet Strength: 129
   Space Strength: 0
-  Garrison Strength: 97
+  Garrison Strength: 57
 Statistics:
-  Movement Type: foot
-  Move Points: 3
-  Spot: 3
-  Camouflage: 3
-  Agility: 9
-  Armor: 3
-  Psy Defense: 2
-  Rank: 2
+  Movement Type: wheel
+  Move Points: 5
+  Spot: 2
+  Camouflage: 2
+  Agility: 3
+  Armor: 6
+  Psy Defense: 3
+  Rank: 118
 Attacks:
-  Close: 8/6
+  Indirect: 3/14
 Load aboard transport: YES
-May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 5
-Build Cost: 40
+Can be towed
+Upkeep / Maintenance: 3
+Build Cost: 30
 Build Resource Requirements:
-  Metal: 8
-  Trace: 2
-  Exotica: 2
-  Chemicals: 1
-  Biochems: 37
-Upgrade Militia Legion to Militia Legion (BE) at Biochem Plant
-Time to Build / Upgrade: 1
-[420] Technology Required to Build Unit (77):
-  [420] Biochem-Enhanced Soldiers (77)
+  Food: 7
+  Energy: 63
+  Metal: 27
+  Trace: 6
+  Exotica: 7
+  Chemicals: 8
+Build Light Artillery in Factory
+Time to Build / Upgrade: 2
+[230] Technology Required to Build Unit (97):
+  [230] Advanced Artillery (97)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Militia Legion (SE)
-Nick Name: Militia (SE)
+Name: Medium Artillery
+Nick Name: Med Art
 Scores & Strengths:
-  Tech Score: 265
-  Unit Score: 241
-  Average Score: 253
-  Stat Strength: 161
-  Total Strength: 241
-  Planet Strength: 241
+  Tech Score: 118
+  Unit Score: 134
+  Average Score: 126
+  Stat Strength: 86
+  Total Strength: 134
+  Planet Strength: 134
   Space Strength: 0
-  Garrison Strength: 120
+  Garrison Strength: 67
 Statistics:
-  Movement Type: foot
+  Movement Type: wheel
   Move Points: 4
-  Spot: 3
-  Camouflage: 4
-  Agility: 10
-  Armor: 4
-  Psy Defense: 2
-  Rank: 3
+  Spot: 2
+  Camouflage: 2
+  Agility: 2
+  Armor: 7
+  Psy Defense: 3
+  Rank: 120
 Attacks:
-  Close: 10/8
+  Indirect: 3/16
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 47
+Can be towed
+Upkeep / Maintenance: 3
+Build Cost: 33
 Build Resource Requirements:
-  Energy: 1
-  Metal: 4
-  Trace: 14
-  Exotica: 2
-  Chemicals: 9
-  Biochems: 47
-Upgrade Militia Legion to Militia Legion (SE) at Hospital
-Time to Build / Upgrade: 1
-[675] Technology Required to Build Unit (75):
-  [675] Surgically-Enhanced Soldiers (75)
+  Food: 5
+  Energy: 78
+  Metal: 34
+  Trace: 6
+  Exotica: 5
+  Chemicals: 5
+Build Medium Artillery in Factory
+Time to Build / Upgrade: 2
+[230] Technology Required to Build Unit (97):
+  [230] Advanced Artillery (97)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Militia Legion (DE)
-Nick Name: Militia (DE)
+Name: Heavy Artillery
+Nick Name: Hvy Art
 Scores & Strengths:
-  Tech Score: 898
-  Unit Score: 562
-  Average Score: 730
-  Stat Strength: 341
-  Total Strength: 562
-  Planet Strength: 562
+  Tech Score: 118
+  Unit Score: 152
+  Average Score: 135
+  Stat Strength: 98
+  Total Strength: 152
+  Planet Strength: 152
   Space Strength: 0
-  Garrison Strength: 212
+  Garrison Strength: 87
 Statistics:
-  Movement Type: foot
-  Move Points: 7
-  Spot: 4
-  Camouflage: 7
-  Agility: 13
-  Armor: 7
-  Psy Defense: 3
-  Rank: 7
+  Movement Type: wheel
+  Move Points: 3
+  Spot: 2
+  Camouflage: 2
+  Agility: 1
+  Armor: 8
+  Psy Defense: 4
+  Rank: 122
 Attacks:
-  Close: 17/13
+  Indirect: 3/18
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 16
+Can be towed
+Upkeep / Maintenance: 4
+Build Cost: 41
 Build Resource Requirements:
-  Metal: 19
-  Biochems: 25
-  Electronics: 19
-Upgrade Militia Legion to Militia Legion (DE) at Biochem Plant
-Time to Build / Upgrade: 1
-[3440] Technology Required to Build Unit (65):
-  [3440] Drug-Enhanced Soldiers (65)
+  Food: 4
+  Energy: 96
+  Metal: 48
+  Trace: 7
+  Exotica: 3
+  Chemicals: 4
+Build Heavy Artillery in Factory
+Time to Build / Upgrade: 3
+[230] Technology Required to Build Unit (97):
+  [230] Advanced Artillery (97)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Militia Legion (GE)
-Nick Name: Militia (GE)
+Name: Land Battery
+Nick Name: Land Battery
 Scores & Strengths:
-  Tech Score: 1367
-  Unit Score: 777
-  Average Score: 1072
-  Stat Strength: 420
-  Total Strength: 777
-  Planet Strength: 777
+  Tech Score: 118
+  Unit Score: 232
+  Average Score: 175
+  Stat Strength: 135
+  Total Strength: 232
+  Planet Strength: 232
   Space Strength: 0
-  Garrison Strength: 274
+  Garrison Strength: 164
 Statistics:
-  Movement Type: foot
-  Move Points: 8
-  Spot: 4
-  Camouflage: 8
-  Agility: 14
-  Armor: 8
-  Psy Defense: 4
-  Rank: 11
+  Movement Type: wheel
+  Move Points: 2
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 5
+  Rank: 87
 Attacks:
-  Close: 21/17
+  Indirect: 4/22
+  Direct: 1/9
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 16
+Can be towed
+Upkeep / Maintenance: 9
+Build Cost: 93
 Build Resource Requirements:
-  Energy: 1
-  Chemicals: 4
-  Biochems: 10
-  Electronics: 1
-  Ceramsteel: 2
-Upgrade Militia Legion (DE) to Militia Legion (GE) at Lab
-Time to Build / Upgrade: 1
-[6020] Technology Required to Build Unit (49):
-  [6020] Chemical Shock Legion (49)
+  Food: 4
+  Energy: 165
+  Metal: 74
+  Trace: 7
+  Exotica: 3
+  Chemicals: 29
+Build Land Battery in Factory
+Time to Build / Upgrade: 4
+[230] Technology Required to Build Unit (97):
+  [230] Advanced Artillery (97)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Militia Legion (PA)
-Nick Name: Militia (PA)
+Name: Time-on-Target Battery
+Nick Name: ToT Battery
 Scores & Strengths:
-  Tech Score: 1393
-  Unit Score: 794
-  Average Score: 1094
-  Stat Strength: 437
-  Total Strength: 794
-  Planet Strength: 794
+  Tech Score: 372
+  Unit Score: 370
+  Average Score: 371
+  Stat Strength: 190
+  Total Strength: 370
+  Planet Strength: 370
   Space Strength: 0
-  Garrison Strength: 280
+  Garrison Strength: 261
 Statistics:
-  Movement Type: foot
-  Move Points: 8
-  Spot: 4
-  Camouflage: 8
-  Agility: 14
-  Armor: 9
-  Psy Defense: 4
-  Rank: 11
+  Movement Type: wheel
+  Move Points: 2
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 12
+  Psy Defense: 6
+  Rank: 140
 Attacks:
-  Close: 21/17
+  Indirect: 6/30
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Resource Requirements:
-  Energy: 1
-  Chemicals: 8
-  Electronics: 31
-  Ceramsteel: 9
-Upgrade Militia Legion (SE) to Militia Legion (PA) at Hospital
-Time to Build / Upgrade: 1
-[6175] Technology Required to Build Unit (57):
-  [6175] Prosthetically-Augmented Soldiers (57)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---8--
-Name: Militia Legion (CE)
-Nick Name: Militia (CE)
-Scores & Strengths:
-  Tech Score: 1786
-  Unit Score: 1022
-  Average Score: 1404
-  Stat Strength: 566
-  Total Strength: 1022
-  Planet Strength: 1022
-  Space Strength: 0
-  Garrison Strength: 323
-Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 4
-  Camouflage: 10
-  Agility: 15
-  Armor: 10
-  Psy Defense: 5
-  Rank: 14
-Attacks:
-  Close: 24/19
-Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 44
-Build Resource Requirements:
-  Food: 1
-  Energy: 3
-  Metal: 2
-  Exotica: 1
-  Chemicals: 8
-  Biochems: 2
-  Ceramsteel: 2
-Upgrade Militia Legion (PA) to Militia Legion (CE) at Lab
-Time to Build / Upgrade: 1
-[8600] Technology Required to Build Unit (48):
-  [8600] Cybernetically-Enhanced Soldiers (48)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---9--
-Name: Militia Legion (AVE)
-Nick Name: Militia (AVE)
-Scores & Strengths:
-  Tech Score: 1833
-  Unit Score: 1041
-  Average Score: 1437
-  Stat Strength: 566
-  Total Strength: 1041
-  Planet Strength: 1041
-  Space Strength: 0
-  Garrison Strength: 329
-Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 4
-  Camouflage: 10
-  Agility: 15
-  Armor: 10
-  Psy Defense: 5
-  Rank: 14
-Attacks:
-  Close: 25/19
-Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 20
-Build Resource Requirements:
-  Energy: 2
-  Metal: 1
-  Chemicals: 3
-  Biochems: 5
-  Electronics: 2
-Upgrade Militia Legion (GE) to Militia Legion (AVE) at Lab
-Time to Build / Upgrade: 1
-[8900] Technology Required to Build Unit (25):
-  [8900] Genetically-Enhanced Warriors (25)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---10--
-Name: Militia Legion (ME)
-Nick Name: Militia (ME)
-Scores & Strengths:
-  Tech Score: 1401
-  Unit Score: 1334
-  Average Score: 1367
-  Stat Strength: 938
-  Total Strength: 1334
-  Planet Strength: 1334
-  Space Strength: 0
-  Garrison Strength: 306
-Statistics:
-  Movement Type: foot
-  Move Points: 19
-  Spot: 4
-  Camouflage: 8
-  Agility: 20
-  Armor: 9
-  Psy Defense: 4
-  Rank: 14
-Attacks:
-  Close: 22/18
-Load aboard transport: YES
-Upkeep / Maintenance: 4
+Can be towed
+Upkeep / Maintenance: 2
 Build Cost: 24
 Build Resource Requirements:
-  Energy: 7
-  Chemicals: 24
-  Electronics: 33
-  Ceramsteel: 3
-Upgrade Militia Legion to Militia Legion (ME) at Factory
-Time to Build / Upgrade: 1
-[6220] Technology Required to Build Unit (80):
-  [6220] Mechanically-Enhanced Soldiers (80)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---11--
-Name: Militia Legion (MF)
-Nick Name: Militia (MF)
-Scores & Strengths:
-  Tech Score: 3182
-  Unit Score: 1724
-  Average Score: 2453
-  Stat Strength: 892
-  Total Strength: 1724
-  Planet Strength: 1724
-  Space Strength: 0
-  Garrison Strength: 478
-Statistics:
-  Movement Type: foot
-  Move Points: 13
-  Spot: 5
-  Camouflage: 13
-  Agility: 18
-  Armor: 13
-  Psy Defense: 6
-  Rank: 25
-Attacks:
-  Close: 32/26
-Load aboard transport: YES
-Upkeep / Maintenance: 29
-Build Cost: 242
-Build Resource Requirements:
-  Biochems: 4
-  Wetware: 11
-  Monopols: 33
-Upgrade Militia Legion (CE) to Militia Legion (MF) at Wetware
-Time to Build / Upgrade: 1
-[18575] Technology Required to Build Unit (35):
-  [18575] Machine-Fused Soldiers (35)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---12--
-Name: Militia Legion (NE)
-Nick Name: Militia (NE)
-Scores & Strengths:
-  Tech Score: 3872
-  Unit Score: 2159
-  Average Score: 3016
-  Stat Strength: 1151
-  Total Strength: 2159
-  Planet Strength: 2159
-  Space Strength: 0
-  Garrison Strength: 577
-Statistics:
-  Movement Type: foot
-  Move Points: 14
-  Spot: 5
-  Camouflage: 18
-  Agility: 19
-  Armor: 14
-  Psy Defense: 7
-  Rank: 30
-Attacks:
-  Close: 36/28
-Load aboard transport: YES
-Upkeep / Maintenance: 18
-Build Cost: 162
-Build Resource Requirements:
-  Wetware: 12
-  Monopols: 15
-Upgrade Militia Legion (AVE) to Militia Legion (NE) at Fusorium
-Time to Build / Upgrade: 1
-[24130] Technology Required to Build Unit (32):
-  [24130] Neumonically-Enhanced Soldiers (32)
+  Food: 1
+  Energy: 73
+  Metal: 33
+  Trace: 1
+  Exotica: 1
+  Chemicals: 1
+  Electronics: 1
+Build Time-on-Target Battery in Factory
+Time to Build / Upgrade: 2
+[1325] Technologies Required to Build Unit (88):
+  [355] Fire Control Radar (86)
+  [200] Digital Electronics (87)
+  [770] Self-Propelled Weaponry (92)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

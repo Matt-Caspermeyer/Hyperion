@@ -1,241 +1,261 @@
-All units of the unit class Naval Carrier are listed herein (5 in total):
+All units of the unit class Main Battle Tank are listed herein (6 in total):
 
 --1--
-Name: Naval Carrier
-Nick Name: NN-CV
+Name: Main Battle Tank
+Nick Name: MBT
 Scores & Strengths:
-  Tech Score: 250
-  Unit Score: 497
-  Average Score: 374
-  Stat Strength: 434
-  Total Strength: 497
-  Planet Strength: 497
+  Tech Score: 530
+  Unit Score: 528
+  Average Score: 529
+  Stat Strength: 380
+  Total Strength: 528
+  Planet Strength: 528
   Space Strength: 0
-  Garrison Strength: 202
+  Garrison Strength: 215
 Statistics:
-  Movement Type: naval
+  Movement Type: tread
   Move Points: 6
-  Spot: 2
-  Camouflage: 1
-  Agility: 1
-  Armor: 14
-  Psy Defense: 14
-  Rank: 797
+  Spot: 6
+  Camouflage: 2
+  Agility: 4
+  Armor: 12
+  Psy Defense: 12
+  Rank: 70
 Attacks:
-  Air: 3/5
-  Indirect: 2/14
-  Direct: 2/10
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Upkeep / Maintenance: 33
-Build Cost: 334
+  Indirect: 6/11
+  Direct: 5/10
+  Close: 4/8
+Load aboard transport: YES
+Upkeep / Maintenance: 3
+Build Cost: 28
 Build Resource Requirements:
-  Food: 5
-  Energy: 49
-  Metal: 123
-  Trace: 6
+  Food: 4
+  Energy: 22
+  Metal: 33
+  Trace: 9
   Exotica: 4
-  Chemicals: 24
-  Electronics: 3
-  Gems: 1
-Build Naval Carrier in Well
-Time to Build / Upgrade: 4
-[735] Technologies Required to Build Unit (98):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [525] Anti-Aircraft Weaponry (94)
+  Chemicals: 26
+  Electronics: 10
+Build Main Battle Tank in Factory
+Time to Build / Upgrade: 2
+[1700] Technology Required to Build Unit (88):
+  [1700] Main Battle Tank (88)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Escort Aircraft Carrier
-Nick Name: NN-CVE
+Name: Amphibious Main Battle Tank
+Nick Name: N-ATMB
 Scores & Strengths:
-  Tech Score: 679
-  Unit Score: 678
-  Average Score: 679
-  Stat Strength: 465
-  Total Strength: 678
-  Planet Strength: 678
+  Tech Score: 959
+  Unit Score: 958
+  Average Score: 959
+  Stat Strength: 518
+  Total Strength: 958
+  Planet Strength: 958
   Space Strength: 0
-  Garrison Strength: 256
+  Garrison Strength: 338
 Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 14
-  Psy Defense: 14
-  Rank: 117
+  Movement Type: craft
+  Move Points: 8
+  Spot: 6
+  Camouflage: 4
+  Agility: 8
+  Armor: 13
+  Psy Defense: 13
+  Rank: 84
 Attacks:
-  Air: 7/7
-  Indirect: 10/12
-  Direct: 4/11
-Cargo Space: 2
-Transports and Refuels (at end of turn) all Air Units
-Upkeep / Maintenance: 6
-Build Cost: 61
+  Indirect: 12/15
+  Direct: 10/14
+  Close: 10/12
+Load aboard transport: YES
+Upkeep / Maintenance: 5
+Build Cost: 54
 Build Resource Requirements:
   Food: 2
-  Energy: 17
-  Metal: 35
-  Trace: 5
+  Energy: 20
+  Metal: 19
+  Trace: 12
   Exotica: 2
-  Chemicals: 10
-  Biochems: 4
-  Electronics: 4
-Build Escort Aircraft Carrier in Well
+  Chemicals: 18
+  Biochems: 7
+  Electronics: 10
+Build Amphibious Main Battle Tank in Factory
 Time to Build / Upgrade: 2
-[2480] Technologies Required to Build Unit (95):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2270] Naval Escort Ships (86)
+[4555] Technologies Required to Build Unit (88):
+  [2855] Naval Amphibious Ships (87)
+  [1700] Main Battle Tank (88)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Naval Light Carrier
-Nick Name: NN-CVL
+Name: Mega Tank
+Nick Name: Mastiff
 Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1158
-  Average Score: 966
-  Stat Strength: 948
-  Total Strength: 1158
-  Planet Strength: 1158
+  Tech Score: 2510
+  Unit Score: 2509
+  Average Score: 2509
+  Stat Strength: 1996
+  Total Strength: 2509
+  Planet Strength: 2509
   Space Strength: 0
-  Garrison Strength: 409
+  Garrison Strength: 724
 Statistics:
-  Movement Type: naval
-  Move Points: 8
+  Movement Type: tread
+  Move Points: 12
   Spot: 8
-  Camouflage: 2
-  Agility: 4
-  Armor: 20
-  Psy Defense: 20
-  Rank: 112
+  Camouflage: 6
+  Agility: 20
+  Armor: 26
+  Psy Defense: 26
+  Rank: 103
 Attacks:
-  Air: 10/9
-  Indirect: 3/16
-  Direct: 9/8
-Cargo Space: 1
-Transports and Refuels (at end of turn) all Air Units
-Upkeep / Maintenance: 11
-Build Cost: 113
+  Indirect: 12/21
+  Direct: 9/19
+  Close: 6/15
+Load aboard transport: YES
+Upkeep / Maintenance: 29
+Build Cost: 259
 Build Resource Requirements:
-  Food: 3
-  Energy: 19
-  Metal: 62
-  Trace: 14
-  Exotica: 4
-  Chemicals: 9
-  Biochems: 9
-  Electronics: 10
-Build Naval Light Carrier in Well
-Time to Build / Upgrade: 3
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
+  Electronics: 5
+  Ceramsteel: 16
+  Monopols: 32
+Upgrade Main Battle Tank to Mega Tank at Factory
+Time to Build / Upgrade: 1
+[13535] Technology Required to Build Unit (74):
+  [13535] Powered Ceramsteel Tanks (74)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Naval Aircraft Carrier
-Nick Name: NN-CV2
+Name: Shock Mega Tank
+Nick Name: Hell Hound
 Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1546
-  Average Score: 1160
-  Stat Strength: 1288
-  Total Strength: 1546
-  Planet Strength: 1546
+  Tech Score: 3780
+  Unit Score: 3524
+  Average Score: 3652
+  Stat Strength: 2478
+  Total Strength: 3524
+  Planet Strength: 3524
   Space Strength: 0
-  Garrison Strength: 546
+  Garrison Strength: 881
 Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 8
-  Camouflage: 2
-  Agility: 2
-  Armor: 24
-  Psy Defense: 24
-  Rank: 812
+  Movement Type: tread
+  Move Points: 16
+  Spot: 10
+  Camouflage: 5
+  Agility: 7
+  Armor: 32
+  Psy Defense: 32
+  Rank: 127
 Attacks:
-  Air: 9/10
-  Indirect: 4/20
-  Direct: 8/11
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Upkeep / Maintenance: 28
-Build Cost: 277
+  Indirect: 16/29
+  Direct: 13/27
+  Close: 11/21
+Load aboard transport: YES
+Upkeep / Maintenance: 22
 Build Resource Requirements:
-  Food: 3
-  Energy: 28
-  Metal: 90
-  Trace: 12
-  Exotica: 3
-  Chemicals: 12
-  Biochems: 7
-  Electronics: 9
-Build Naval Aircraft Carrier in Well
-Time to Build / Upgrade: 4
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
+  Biochems: 15
+  Wetware: 2
+Upgrade Mega Tank to Shock Mega Tank at Factory
+Time to Build / Upgrade: 1
+[46850] Technologies Required to Build Unit (54):
+  [16745] Wetware (23)
+  [15130] Fusion Battle Tanks (68)
+  [14975] Power Hovertanks (70)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Interdiction Assault Ship
-Nick Name: NN-IAS
+Name: Psy Mega Tank
+Nick Name: St. Bernard
 Scores & Strengths:
-  Tech Score: 1670
-  Unit Score: 1669
-  Average Score: 1670
-  Stat Strength: 1271
-  Total Strength: 1669
-  Planet Strength: 1669
-  Space Strength: 0
-  Garrison Strength: 462
+  Tech Score: 2735
+  Unit Score: 4785
+  Average Score: 3760
+  Stat Strength: 4024
+  Total Strength: 4785
+  Planet Strength: 4785
+  Space Strength: 4284
+  Garrison Strength: 1381
 Statistics:
-  Movement Type: naval
-  Move Points: 13
-  Spot: 6
-  Camouflage: 2
-  Agility: 2
-  Armor: 23
-  Psy Defense: 23
-  Rank: 150
+  Movement Type: tread
+  Move Points: 12
+  Spot: 8
+  Camouflage: 6
+  Agility: 20
+  Armor: 26
+  Psy Defense: 52
+  Rank: 116
 Attacks:
-  Air: 7/21
-  Indirect: 5/31
-  Direct: 4/24
-Cargo Space: 3
-Transports and Refuels (at end of turn) all Air Units
-Upkeep / Maintenance: 12
-Build Cost: 122
+  Psychic: 13/20
+  Indirect: 12/20
+  Direct: 9/19
+  Close: 6/15
+Load aboard transport: YES
+Upkeep / Maintenance: 119
+Build Cost: 1187
 Build Resource Requirements:
-  Food: 2
-  Energy: 31
-  Metal: 27
-  Trace: 2
-  Exotica: 2
-  Chemicals: 26
-  Biochems: 2
-  Electronics: 2
-  Ceramsteel: 31
-Build Interdiction Assault Ship in Well
-Time to Build / Upgrade: 3
-[12910] Technologies Required to Build Unit (86):
-  [795] Missiles (86)
-  [1810] Jet-Propulsion Aircraft (86)
-  [1785] Rotary Autocannon (90)
-  [2665] V/STOL Aircraft (85)
-  [5855] Guided Missile Navalcraft (84)
+  Food: 3
+  Energy: 11
+  Metal: 21
+  Trace: 4
+  Exotica: 3
+  Chemicals: 25
+  Electronics: 22
+  Ceramsteel: 36
+  Monopols: 52
+  Gems: 79
+Build Psy Mega Tank in Factory
+Time to Build / Upgrade: 7
+[15305] Technologies Required to Build Unit (76):
+  [330] Holy Warriors (82)
+  [14975] Power Hovertanks (70)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Stealth Mega Tank
+Nick Name: Ghost Tank
+Scores & Strengths:
+  Tech Score: 5358
+  Unit Score: 5358
+  Average Score: 5358
+  Stat Strength: 3705
+  Total Strength: 5358
+  Planet Strength: 5358
+  Space Strength: 0
+  Garrison Strength: 1229
+Statistics:
+  Movement Type: tread
+  Move Points: 19
+  Spot: 14
+  Camouflage: 23
+  Agility: 21
+  Armor: 33
+  Psy Defense: 33
+  Rank: 151
+Attacks:
+  Indirect: 21/29
+  Direct: 20/27
+  Close: 21/24
+Load aboard transport: YES
+Upkeep / Maintenance: 29
+Build Cost: 30
+Build Resource Requirements:
+  Trace: 3
+  Biochems: 23
+  Electronics: 4
+  Wetware: 7
+Upgrade Mega Tank to Stealth Mega Tank at Factory
+Time to Build / Upgrade: 1
+[37210] Technology Required to Build Unit (34):
+  [37210] Neumonic Land Vehicles (34)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

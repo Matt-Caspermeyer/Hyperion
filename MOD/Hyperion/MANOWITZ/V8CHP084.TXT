@@ -1,169 +1,280 @@
-All units of the unit class Assault Gun are listed herein (4 in total):
+All units of the unit class Space Raider are listed herein (6 in total):
 
 --1--
-Name: Assault Gun
-Nick Name: Violator
+Name: Space Raider
+Nick Name: SS-Raider
 Scores & Strengths:
-  Tech Score: 292
-  Unit Score: 291
-  Average Score: 292
-  Stat Strength: 159
-  Total Strength: 291
-  Planet Strength: 291
-  Space Strength: 0
-  Garrison Strength: 145
+  Tech Score: 309
+  Unit Score: 308
+  Average Score: 309
+  Stat Strength: 277
+  Total Strength: 308
+  Planet Strength: 0
+  Space Strength: 308
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 4
-  Spot: 4
-  Camouflage: 1
-  Agility: 1
-  Armor: 10
-  Psy Defense: 5
-  Rank: 68
+  Movement Type: space
+  Move Points: 1
+  Spot: 10
+  Camouflage: 10
+  Agility: 2
+  Armor: 6
+  Psy Defense: 6
+  Rank: 807
 Attacks:
-  Indirect: 6/13
-  Direct: 6/9
+  Ranged Space: 2/11
+  Closed Space: 3/3
 Load aboard transport: YES
-Upkeep / Maintenance: 2
-Build Cost: 22
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 30
+Build Cost: 298
 Build Resource Requirements:
-  Food: 3
-  Energy: 29
-  Metal: 27
-  Trace: 11
-  Exotica: 3
-  Chemicals: 11
-  Electronics: 8
-Build Assault Gun in Factory
+  Food: 10
+  Energy: 2
+  Metal: 24
+  Trace: 35
+  Exotica: 10
+  Chemicals: 27
+  Electronics: 23
+Build Space Raider in Starport
 Time to Build / Upgrade: 2
-[770] Technology Required to Build Unit (92):
-  [770] Self-Propelled Weaponry (92)
+[940] Technologies Required to Build Unit (94):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Heavy Assault Gun
-Nick Name: Heavy AG
+Name: Space Scout
+Nick Name: Space Scout
 Scores & Strengths:
-  Tech Score: 325
-  Unit Score: 291
-  Average Score: 308
-  Stat Strength: 159
-  Total Strength: 291
-  Planet Strength: 291
-  Space Strength: 0
-  Garrison Strength: 145
+  Tech Score: 309
+  Unit Score: 462
+  Average Score: 386
+  Stat Strength: 452
+  Total Strength: 462
+  Planet Strength: 0
+  Space Strength: 462
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 4
-  Spot: 4
-  Camouflage: 1
-  Agility: 1
-  Armor: 10
-  Psy Defense: 5
-  Rank: 68
+  Movement Type: space
+  Move Points: 2
+  Spot: 12
+  Camouflage: 10
+  Agility: 14
+  Armor: 2
+  Psy Defense: 2
+  Rank: 54
 Attacks:
-  Indirect: 6/13
-  Direct: 6/9
+  Closed Space: 5/2
 Load aboard transport: YES
-Upkeep / Maintenance: 2
-Build Cost: 15
+Immune to Plague
+Upkeep / Maintenance: 19
+Build Cost: 186
 Build Resource Requirements:
-  Food: 2
-  Energy: 22
-  Metal: 21
-  Trace: 7
-  Exotica: 2
-  Chemicals: 9
-  Electronics: 4
-Build Heavy Assault Gun in Factory
-Time to Build / Upgrade: 2
-[1235] Technologies Required to Build Unit (93):
-  [770] Self-Propelled Weaponry (92)
-  [465] Recoilless Gun (93)
+  Food: 23
+  Energy: 11
+  Metal: 3
+  Trace: 54
+  Exotica: 23
+  Chemicals: 15
+  Electronics: 37
+Build Space Scout in Starport
+Time to Build / Upgrade: 3
+[940] Technologies Required to Build Unit (94):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Shock Assault Gun
-Nick Name: Detonator
+Name: Space Raider Carrier
+Nick Name: SS-CVR
 Scores & Strengths:
-  Tech Score: 2123
-  Unit Score: 2025
-  Average Score: 2074
-  Stat Strength: 1081
-  Total Strength: 2025
-  Planet Strength: 2025
-  Space Strength: 0
-  Garrison Strength: 610
+  Tech Score: 309
+  Unit Score: 617
+  Average Score: 463
+  Stat Strength: 537
+  Total Strength: 617
+  Planet Strength: 0
+  Space Strength: 617
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 11
-  Spot: 7
-  Camouflage: 3
+  Movement Type: space
+  Move Points: 1
+  Spot: 12
+  Camouflage: 10
   Agility: 2
-  Armor: 27
-  Psy Defense: 13
-  Rank: 111
+  Armor: 12
+  Psy Defense: 12
+  Rank: 837
 Attacks:
-  Indirect: 16/35
-  Direct: 16/24
-Load aboard transport: YES
-Upkeep / Maintenance: 23
-Build Cost: 206
+  Ranged Space: 5/16
+Cargo Space: 2
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 132
+Build Cost: 1324
 Build Resource Requirements:
-  Chemicals: 5
-  Electronics: 9
-  Ceramsteel: 13
-  Monopols: 26
-Upgrade Assault Gun to Shock Assault Gun at Factory
-Time to Build / Upgrade: 1
-[10830] Technology Required to Build Unit (80):
-  [10830] Violator Assault Gunnery (80)
+  Food: 15
+  Energy: 2
+  Metal: 97
+  Trace: 44
+  Exotica: 14
+  Chemicals: 69
+  Electronics: 29
+Build Space Raider Carrier in Starport
+Time to Build / Upgrade: 5
+[940] Technologies Required to Build Unit (94):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Stealth Assault Gun
-Nick Name: Penetrator
+Name: Jump Fusion Raider
+Nick Name: JJ-FRaider
 Scores & Strengths:
-  Tech Score: 5358
-  Unit Score: 5357
-  Average Score: 5358
-  Stat Strength: 3497
-  Total Strength: 5357
-  Planet Strength: 5357
-  Space Strength: 0
-  Garrison Strength: 1093
+  Tech Score: 1933
+  Unit Score: 1553
+  Average Score: 1743
+  Stat Strength: 1349
+  Total Strength: 1553
+  Planet Strength: 0
+  Space Strength: 1553
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 24
-  Spot: 14
-  Camouflage: 21
-  Agility: 22
-  Armor: 30
-  Psy Defense: 30
-  Rank: 153
+  Movement Type: jump
+  Move Points: 3
+  Spot: 16
+  Camouflage: 25
+  Agility: 3
+  Armor: 15
+  Psy Defense: 15
+  Rank: 866
 Attacks:
-  Indirect: 24/53
-  Direct: 21/28
+  Ranged Space: 5/28
+  Closed Space: 8/8
 Load aboard transport: YES
-Upkeep / Maintenance: 23
-Build Cost: 211
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 769
+Build Cost: 7688
 Build Resource Requirements:
-  Biochems: 18
-  Electronics: 7
-  Ceramsteel: 9
-  Wetware: 5
-  Monopols: 18
-Upgrade Assault Gun to Stealth Assault Gun at Factory
-Time to Build / Upgrade: 1
-[37210] Technology Required to Build Unit (34):
-  [37210] Neumonic Land Vehicles (34)
+  Food: 3
+  Energy: 6
+  Metal: 5
+  Trace: 16
+  Exotica: 3
+  Chemicals: 16
+  Electronics: 28
+  Monopols: 29
+S  ingularities: 2
+Build Jump Fusion Raider in Starport
+Time to Build / Upgrade: 3
+[12900] Technologies Required to Build Unit (67):
+  [8615] Fusion Beam (63)
+  [4285] Jump Drives (70)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: 3rd-Republic Star Raider
+Nick Name: Charioteer
+Scores & Strengths:
+  Tech Score: 7370
+  Unit Score: 5373
+  Average Score: 6371
+  Stat Strength: 4608
+  Total Strength: 5373
+  Planet Strength: 0
+  Space Strength: 5373
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 5
+  Spot: 22
+  Camouflage: 49
+  Agility: 4
+  Armor: 29
+  Psy Defense: 29
+  Rank: 278
+Attacks:
+  Ranged Space: 10/54
+  Closed Space: 15/15
+Load aboard transport: YES
+Upkeep / Maintenance: 223
+Build Cost: 2231
+Build Resource Requirements:
+  Energy: 2
+  Metal: 3
+  Trace: 9
+  Chemicals: 12
+  Biochems: 16
+  Electronics: 20
+  Ceramsteel: 5
+  Wetware: 3
+  Monopols: 17
+S  ingularities: 2
+Build 3rd-Republic Star Raider in Starport
+Time to Build / Upgrade: 3
+[79020] Technologies Required to Build Unit (62):
+  [54495] Cloaked Escortcraft (49)
+  [24525] Jump Escorts (75)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Jump Stealth Ship
+Nick Name: JJ-SRaider
+Scores & Strengths:
+  Tech Score: 7133
+  Unit Score: 7133
+  Average Score: 7133
+  Stat Strength: 6417
+  Total Strength: 7133
+  Planet Strength: 0
+  Space Strength: 7133
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 24
+  Spot: 16
+  Camouflage: 36
+  Agility: 33
+  Armor: 40
+  Psy Defense: 40
+  Rank: 932
+Attacks:
+  Ranged Space: 8/37
+  Closed Space: 20/21
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 1868
+Build Cost: 18678
+Build Resource Requirements:
+  Food: 1
+  Energy: 6
+  Metal: 7
+  Trace: 8
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 25
+  Electronics: 19
+  Ceramsteel: 12
+  Wetware: 5
+  Monopols: 25
+S  ingularities: 5
+Build Jump Stealth Ship in Starport
+Time to Build / Upgrade: 4
+[54495] Technology Required to Build Unit (49):
+  [54495] Cloaked Escortcraft (49)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

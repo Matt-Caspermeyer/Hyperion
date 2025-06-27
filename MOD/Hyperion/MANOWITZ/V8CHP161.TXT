@@ -1,188 +1,251 @@
-All units of the unit class Light Anti-Air Mech are listed herein (4 in total):
+All units of the unit class Strategic Bomber are listed herein (5 in total):
 
 --1--
-Name: Light Anti-Air Mech
-Nick Name: Vindicator
+Name: Strategic Bomber
+Nick Name: Devastator
 Scores & Strengths:
-  Tech Score: 1686
-  Unit Score: 1685
-  Average Score: 1686
-  Stat Strength: 1185
-  Total Strength: 1685
-  Planet Strength: 1685
+  Tech Score: 1142
+  Unit Score: 1710
+  Average Score: 1426
+  Stat Strength: 1401
+  Total Strength: 1710
+  Planet Strength: 1710
   Space Strength: 0
-  Garrison Strength: 450
+  Garrison Strength: 323
 Statistics:
-  Movement Type: mech
-  Move Points: 14
+  Movement Type: air
+  Move Points: 28
   Spot: 10
-  Camouflage: 4
-  Agility: 19
-  Armor: 16
-  Psy Defense: 16
-  Rank: 123
+  Camouflage: 5
+  Agility: 10
+  Armor: 14
+  Psy Defense: 14
+  Rank: 175
 Attacks:
-  Air: 20/13
-  Indirect: 16/15
+  Air: 6/11
+  Indirect: 9/27
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 13
-Build Cost: 131
+Upkeep / Maintenance: 5
+Build Cost: 53
 Build Resource Requirements:
-  Food: 5
-  Energy: 14
-  Metal: 10
-  Trace: 12
-  Exotica: 5
+  Food: 10
+  Energy: 35
+  Metal: 28
+  Trace: 6
+  Exotica: 10
   Chemicals: 20
-  Electronics: 24
-  Ceramsteel: 15
-Build Light Anti-Air Mech in Starport
+  Biochems: 9
+  Electronics: 5
+Build Strategic Bomber in Factory
 Time to Build / Upgrade: 3
-[10330] Technologies Required to Build Unit (84):
-  [1690] Ceramsteel (84)
-  [2420] Rocket-Propelled Aircraft (87)
-  [6220] Mechanically-Enhanced Soldiers (80)
+[7115] Technologies Required to Build Unit (88):
+  [795] Missiles (86)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2725] Naval Capital Ships (88)
+  [1785] Rotary Autocannon (90)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Medium Anti-Air Mech
-Nick Name: Talisman
+Name: Neutron Bomber
+Nick Name: Desolator
 Scores & Strengths:
-  Tech Score: 2033
-  Unit Score: 2032
-  Average Score: 2032
-  Stat Strength: 1387
-  Total Strength: 2032
-  Planet Strength: 2032
+  Tech Score: 2584
+  Unit Score: 2583
+  Average Score: 2583
+  Stat Strength: 1788
+  Total Strength: 2583
+  Planet Strength: 2583
   Space Strength: 0
-  Garrison Strength: 524
+  Garrison Strength: 456
 Statistics:
-  Movement Type: mech
-  Move Points: 15
+  Movement Type: air
+  Move Points: 32
   Spot: 12
-  Camouflage: 6
-  Agility: 10
-  Armor: 21
-  Psy Defense: 21
-  Rank: 129
+  Camouflage: 7
+  Agility: 11
+  Armor: 15
+  Psy Defense: 15
+  Rank: 163
 Attacks:
-  Air: 21/17
-  Indirect: 18/16
+  Air: 7/12
+  Indirect: 11/28
+  Direct: 11/26
+  Close: 13/9
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 78
-Build Cost: 784
+Upkeep / Maintenance: 45
+Build Cost: 445
 Build Resource Requirements:
-  Food: 3
-  Energy: 9
-  Metal: 9
-  Trace: 11
-  Exotica: 3
-  Chemicals: 13
-  Electronics: 22
-  Ceramsteel: 11
-  Monopols: 21
-Build Medium Anti-Air Mech in Starport
-Time to Build / Upgrade: 3
-[10220] Technology Required to Build Unit (73):
-  [10220] Mechanized Warriors (73)
+  Food: 8
+  Energy: 24
+  Metal: 3
+  Trace: 6
+  Exotica: 8
+  Chemicals: 29
+  Biochems: 32
+  Electronics: 13
+  Ceramsteel: 5
+  Monopols: 39
+Build Neutron Bomber in Factory
+Time to Build / Upgrade: 4
+[15860] Technologies Required to Build Unit (39):
+  [3650] Viral DNA (11)
+  [835] Spore Delivery (27)
+  [11375] Power Aircraft (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Heavy Anti-Air Mech
-Nick Name: Avenger
+Name: Stigmata MegaFortress
+Nick Name: MegaFortress
 Scores & Strengths:
-  Tech Score: 4858
-  Unit Score: 4857
-  Average Score: 4858
-  Stat Strength: 2959
-  Total Strength: 4857
-  Planet Strength: 4857
+  Tech Score: 4697
+  Unit Score: 4696
+  Average Score: 4696
+  Stat Strength: 2674
+  Total Strength: 4696
+  Planet Strength: 4696
   Space Strength: 0
-  Garrison Strength: 1177
+  Garrison Strength: 733
 Statistics:
-  Movement Type: mech
-  Move Points: 17
-  Spot: 14
-  Camouflage: 10
+  Movement Type: air
+  Move Points: 41
+  Spot: 10
+  Camouflage: 7
   Agility: 14
-  Armor: 33
-  Psy Defense: 33
-  Rank: 137
+  Armor: 18
+  Psy Defense: 18
+  Rank: 196
 Attacks:
-  Air: 29/26
-  Indirect: 27/29
-  Direct: 19/19
+  Air: 17/31
+  Indirect: 16/35
+  Direct: 15/34
+  Close: 17/25
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 101
-Build Cost: 1009
+Never needs refueling
+Upkeep / Maintenance: 63
+Build Cost: 626
 Build Resource Requirements:
-  Food: 2
-  Energy: 12
-  Metal: 8
-  Trace: 16
-  Exotica: 2
-  Chemicals: 13
-  Biochems: 24
-  Electronics: 30
-  Ceramsteel: 13
-  Monopols: 25
-Build Heavy Anti-Air Mech in Starport
+  Food: 3
+  Energy: 21
+  Metal: 2
+  Trace: 4
+  Exotica: 4
+  Chemicals: 27
+  Biochems: 22
+  Electronics: 8
+  Ceramsteel: 3
+  Wetware: 6
+  Monopols: 36
+Build Stigmata MegaFortress in Factory
 Time to Build / Upgrade: 4
-[32655] Technology Required to Build Unit (65):
-  [32655] Advanced Mechanized Warriors (65)
+[38900] Technologies Required to Build Unit (51):
+  [23395] Advanced Hovertech (37)
+  [15505] Meson Cannon (65)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Assault Anti-Air Mech
-Nick Name: Phoenix
+Name: Stealth Bomber
+Nick Name: Pulverizer
 Scores & Strengths:
-  Tech Score: 5451
-  Unit Score: 5450
-  Average Score: 5450
-  Stat Strength: 3397
-  Total Strength: 5450
-  Planet Strength: 5450
+  Tech Score: 8419
+  Unit Score: 8417
+  Average Score: 8418
+  Stat Strength: 6357
+  Total Strength: 8417
+  Planet Strength: 8417
   Space Strength: 0
-  Garrison Strength: 1250
+  Garrison Strength: 1105
 Statistics:
-  Movement Type: mech
-  Move Points: 19
-  Spot: 16
-  Camouflage: 12
-  Agility: 18
-  Armor: 34
-  Psy Defense: 34
-  Rank: 145
+  Movement Type: air
+  Move Points: 58
+  Spot: 20
+  Camouflage: 25
+  Agility: 20
+  Armor: 28
+  Psy Defense: 28
+  Rank: 284
 Attacks:
-  Air: 29/27
-  Indirect: 29/30
-  Direct: 20/20
+  Air: 24/31
+  Indirect: 28/47
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 128
-Build Cost: 1281
+Upkeep / Maintenance: 27
+Build Cost: 265
 Build Resource Requirements:
-  Food: 1
-  Energy: 12
-  Metal: 7
-  Trace: 7
-  Exotica: 2
-  Chemicals: 13
-  Biochems: 23
-  Electronics: 15
-  Ceramsteel: 11
-  Wetware: 9
-  Monopols: 23
-Build Assault Anti-Air Mech in Starport
-Time to Build / Upgrade: 4
-[49400] Technologies Required to Build Unit (44):
-  [16745] Wetware (23)
-  [32655] Advanced Mechanized Warriors (65)
+  Food: 3
+  Energy: 13
+  Metal: 2
+  Trace: 4
+  Exotica: 4
+  Chemicals: 12
+  Biochems: 17
+  Electronics: 9
+  Ceramsteel: 4
+  Wetware: 3
+  Monopols: 19
+Build Stealth Bomber in Factory
+Time to Build / Upgrade: 3
+[98595] Technologies Required to Build Unit (59):
+  [1785] Rotary Autocannon (90)
+  [45010] Hover Navalcraft (52)
+  [51800] Neumonic Patrolcraft (36)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Stealth Neutron Bomber
+Nick Name: Punisher
+Scores & Strengths:
+  Tech Score: 8419
+  Unit Score: 8418
+  Average Score: 8418
+  Stat Strength: 6293
+  Total Strength: 8418
+  Planet Strength: 8418
+  Space Strength: 0
+  Garrison Strength: 1114
+Statistics:
+  Movement Type: air
+  Move Points: 57
+  Spot: 20
+  Camouflage: 26
+  Agility: 20
+  Armor: 28
+  Psy Defense: 28
+  Rank: 240
+Attacks:
+  Air: 14/23
+  Indirect: 18/38
+  Direct: 20/36
+  Close: 21/19
+Load aboard transport: YES
+Upkeep / Maintenance: 32
+Build Cost: 320
+Build Resource Requirements:
+  Food: 3
+  Energy: 14
+  Metal: 2
+  Trace: 5
+  Exotica: 4
+  Chemicals: 15
+  Biochems: 21
+  Electronics: 10
+  Ceramsteel: 4
+  Wetware: 5
+  Monopols: 23
+Build Stealth Neutron Bomber in Factory
+Time to Build / Upgrade: 3
+[103080] Technologies Required to Build Unit (43):
+  [3650] Viral DNA (11)
+  [835] Spore Delivery (27)
+  [1785] Rotary Autocannon (90)
+  [45010] Hover Navalcraft (52)
+  [51800] Neumonic Patrolcraft (36)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

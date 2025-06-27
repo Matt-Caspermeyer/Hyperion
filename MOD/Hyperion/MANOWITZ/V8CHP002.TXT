@@ -1,4 +1,4 @@
-All units of the unit class Merchant are listed herein (6 in total):
+All units of the unit class Merchant are listed herein (7 in total):
 
 --1--
 Name: Merchant
@@ -35,6 +35,49 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
+Name: Moneylenders
+Nick Name: Moneylenders
+Scores & Strengths:
+  Tech Score: 306
+  Unit Score: 306
+  Average Score: 306
+  Stat Strength: 247
+  Total Strength: 306
+  Planet Strength: 306
+  Space Strength: 0
+  Garrison Strength: 124
+Statistics:
+  Movement Type: foot
+  Move Points: 6
+  Spot: 6
+  Camouflage: 6
+  Agility: 11
+  Armor: 3
+  Psy Defense: 3
+  Rank: 38
+Attacks:
+  Indirect: 4/4
+  Direct: 5/5
+  Close: 6/3
+Load aboard transport: YES
+Upkeep / Maintenance: 6
+Build Cost: 54
+Build Resource Requirements:
+  Metal: 2
+  Trace: 56
+  Exotica: 18
+  Chemicals: 20
+  Biochems: 36
+Upgrade Peasant to Moneylenders at Church
+Time to Build / Upgrade: 2
+[820] Technologies Required to Build Unit (81):
+  [145] Fanaticism (87)
+  [675] Surgically-Enhanced Soldiers (75)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
 Name: Thought Police
 Nick Name: Thought
 Scores & Strengths:
@@ -80,7 +123,7 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---3--
+--4--
 Name: Think Machine Warriors
 Nick Name: Think
 Scores & Strengths:
@@ -128,7 +171,7 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---4--
+--5--
 Name: League Tech Forces
 Nick Name: Tech Forces
 Scores & Strengths:
@@ -177,7 +220,7 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---5--
+--6--
 Name: League Security Droid
 Nick Name: LS Droid
 Scores & Strengths:
@@ -224,7 +267,7 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---6--
+--7--
 Name: 3rd-Republic Enforcer
 Nick Name: Enforcer
 Scores & Strengths:

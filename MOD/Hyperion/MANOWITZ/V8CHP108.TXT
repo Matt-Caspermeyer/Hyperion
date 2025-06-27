@@ -1,280 +1,185 @@
-All units of the unit class Amphibious Heavy Tank are listed herein (6 in total):
+All units of the unit class Reconnaissance Autogyro are listed herein (4 in total):
 
 --1--
-Name: Amphibious Heavy Tank
-Nick Name: N-ATH
+Name: Reconnaissance Autogyro
+Nick Name: R-AutoGyro
 Scores & Strengths:
-  Tech Score: 410
-  Unit Score: 409
-  Average Score: 410
-  Stat Strength: 311
-  Total Strength: 409
-  Planet Strength: 409
+  Tech Score: 493
+  Unit Score: 490
+  Average Score: 491
+  Stat Strength: 490
+  Total Strength: 490
+  Planet Strength: 490
   Space Strength: 0
-  Garrison Strength: 182
+  Garrison Strength: 173
 Statistics:
-  Movement Type: craft
-  Move Points: 5
-  Spot: 2
-  Camouflage: 2
-  Agility: 6
-  Armor: 11
-  Psy Defense: 11
-  Rank: 66
-Attacks:
-  Indirect: 6/8
-  Direct: 5/7
-  Close: 3/5
+  Movement Type: air
+  Move Points: 8
+  Spot: 8
+  Camouflage: 3
+  Agility: 15
+  Armor: 8
+  Psy Defense: 8
+  Rank: 80
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 28
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 5
+Build Cost: 51
 Build Resource Requirements:
-  Food: 2
-  Energy: 12
-  Metal: 31
-  Trace: 5
-  Exotica: 2
-  Chemicals: 7
-  Electronics: 4
-Build Amphibious Heavy Tank in Factory
+  Food: 10
+  Energy: 11
+  Metal: 62
+  Trace: 14
+  Exotica: 9
+  Chemicals: 11
+  Electronics: 11
+Build Reconnaissance Autogyro in Factory
 Time to Build / Upgrade: 2
-[1595] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [1195] Naval Warfare (90)
+[1885] Technologies Required to Build Unit (87):
+  [485] Electromagnetic Servo (86)
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Amphibious Light Tank
-Nick Name: N-ATL
+Name: Attack Autogyro
+Nick Name: At-Autogyro
 Scores & Strengths:
-  Tech Score: 410
-  Unit Score: 409
-  Average Score: 410
-  Stat Strength: 300
-  Total Strength: 409
-  Planet Strength: 409
+  Tech Score: 493
+  Unit Score: 492
+  Average Score: 492
+  Stat Strength: 413
+  Total Strength: 492
+  Planet Strength: 492
   Space Strength: 0
-  Garrison Strength: 154
+  Garrison Strength: 185
 Statistics:
-  Movement Type: craft
+  Movement Type: air
   Move Points: 7
-  Spot: 2
+  Spot: 6
   Camouflage: 2
-  Agility: 9
-  Armor: 9
-  Psy Defense: 9
-  Rank: 67
+  Agility: 14
+  Armor: 8
+  Psy Defense: 8
+  Rank: 112
 Attacks:
-  Indirect: 8/6
-  Direct: 8/5
-  Close: 7/3
+  Air: 5/7
+  Indirect: 5/4
+  Direct: 3/4
+  Close: 3/4
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 34
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 5
+Build Cost: 51
 Build Resource Requirements:
-  Food: 4
-  Energy: 10
-  Metal: 21
-  Trace: 12
-  Exotica: 4
-  Chemicals: 7
-  Electronics: 10
-Build Amphibious Light Tank in Factory
+  Food: 7
+  Energy: 15
+  Metal: 62
+  Trace: 14
+  Exotica: 7
+  Chemicals: 14
+  Electronics: 11
+Build Attack Autogyro in Factory
 Time to Build / Upgrade: 2
-[1595] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [1195] Naval Warfare (90)
+[1885] Technologies Required to Build Unit (87):
+  [485] Electromagnetic Servo (86)
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Amphibious Medium Tank
-Nick Name: N-ATM
+Name: Assault Autogyro
+Nick Name: As-Autogyro
 Scores & Strengths:
-  Tech Score: 410
-  Unit Score: 409
-  Average Score: 410
-  Stat Strength: 308
-  Total Strength: 409
-  Planet Strength: 409
+  Tech Score: 493
+  Unit Score: 492
+  Average Score: 492
+  Stat Strength: 400
+  Total Strength: 492
+  Planet Strength: 492
   Space Strength: 0
-  Garrison Strength: 166
+  Garrison Strength: 200
 Statistics:
-  Movement Type: craft
+  Movement Type: air
   Move Points: 6
-  Spot: 2
+  Spot: 6
   Camouflage: 2
-  Agility: 8
-  Armor: 10
-  Psy Defense: 10
-  Rank: 66
+  Agility: 14
+  Armor: 8
+  Psy Defense: 8
+  Rank: 117
 Attacks:
-  Indirect: 7/7
+  Indirect: 6/6
   Direct: 6/6
-  Close: 4/4
+  Close: 4/5
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 29
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 5
+Build Cost: 50
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 25
-  Trace: 7
-  Exotica: 3
-  Chemicals: 7
-  Electronics: 5
-Build Amphibious Medium Tank in Factory
+  Food: 7
+  Energy: 15
+  Metal: 62
+  Trace: 15
+  Exotica: 7
+  Chemicals: 12
+  Electronics: 11
+Build Assault Autogyro in Factory
 Time to Build / Upgrade: 2
-[1595] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [1195] Naval Warfare (90)
+[1885] Technologies Required to Build Unit (87):
+  [485] Electromagnetic Servo (86)
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Amphibious Medium Tank II
-Nick Name: N-ATM2
+Name: Patrol Autogyro
+Nick Name: P-Autogyro
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 564
-  Average Score: 574
-  Stat Strength: 426
-  Total Strength: 564
-  Planet Strength: 564
+  Tech Score: 493
+  Unit Score: 492
+  Average Score: 492
+  Stat Strength: 389
+  Total Strength: 492
+  Planet Strength: 492
   Space Strength: 0
-  Garrison Strength: 213
+  Garrison Strength: 220
 Statistics:
-  Movement Type: craft
-  Move Points: 7
-  Spot: 2
+  Movement Type: air
+  Move Points: 5
+  Spot: 6
   Camouflage: 2
-  Agility: 9
-  Armor: 12
-  Psy Defense: 12
-  Rank: 70
+  Agility: 14
+  Armor: 8
+  Psy Defense: 8
+  Rank: 145
 Attacks:
-  Indirect: 8/8
-  Direct: 7/7
-  Close: 5/5
+  Air: 7/7
+  Indirect: 6/9
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 38
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 28
-  Trace: 7
-  Exotica: 3
-  Chemicals: 8
-  Biochems: 5
-  Electronics: 6
-Build Amphibious Medium Tank II in Factory
-Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Amphibious Heavy Tank II
-Nick Name: N-ATH2
-Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 573
-  Average Score: 579
-  Stat Strength: 431
-  Total Strength: 573
-  Planet Strength: 573
-  Space Strength: 0
-  Garrison Strength: 233
-Statistics:
-  Movement Type: craft
-  Move Points: 6
-  Spot: 2
-  Camouflage: 2
-  Agility: 7
-  Armor: 13
-  Psy Defense: 13
-  Rank: 70
-Attacks:
-  Indirect: 7/10
-  Direct: 6/8
-  Close: 4/6
-Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 35
-Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 32
-  Trace: 5
-  Exotica: 2
-  Chemicals: 8
-  Biochems: 4
-  Electronics: 4
-Build Amphibious Heavy Tank II in Factory
-Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Amphibious Light Tank II
-Nick Name: N-ATL2
-Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 576
-  Average Score: 580
-  Stat Strength: 414
-  Total Strength: 576
-  Planet Strength: 576
-  Space Strength: 0
-  Garrison Strength: 203
-Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 2
-  Camouflage: 2
-  Agility: 10
-  Armor: 11
-  Psy Defense: 11
-  Rank: 72
-Attacks:
-  Indirect: 10/7
-  Direct: 10/6
-  Close: 8/4
-Load aboard transport: YES
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 5
 Build Cost: 50
 Build Resource Requirements:
-  Food: 3
-  Energy: 10
-  Metal: 23
-  Trace: 13
-  Exotica: 3
-  Chemicals: 8
-  Biochems: 9
-  Electronics: 10
-Build Amphibious Light Tank II in Factory
+  Food: 7
+  Energy: 16
+  Metal: 62
+  Trace: 14
+  Exotica: 6
+  Chemicals: 11
+  Electronics: 11
+Build Patrol Autogyro in Factory
 Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
+[1885] Technologies Required to Build Unit (87):
+  [485] Electromagnetic Servo (86)
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

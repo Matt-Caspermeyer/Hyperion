@@ -1,75 +1,84 @@
-All units of the unit class Anti-Air Infantry are listed herein (11 in total):
+All units of the unit class Light Infantry Legion are listed herein (11 in total):
 
 --1--
-Name: Anti-Air Infantry
-Nick Name: AA Inf
+Name: Light Infantry Legion
+Nick Name: Lt Inf
 Scores & Strengths:
-  Tech Score: 219
-  Unit Score: 218
-  Average Score: 219
-  Stat Strength: 130
-  Total Strength: 218
-  Planet Strength: 218
+  Tech Score: 265
+  Unit Score: 263
+  Average Score: 264
+  Stat Strength: 139
+  Total Strength: 263
+  Planet Strength: 263
   Space Strength: 0
-  Garrison Strength: 154
+  Garrison Strength: 117
 Statistics:
   Movement Type: foot
-  Move Points: 2
-  Spot: 4
-  Camouflage: 6
-  Agility: 8
+  Move Points: 5
+  Spot: 2
+  Camouflage: 4
+  Agility: 9
   Armor: 3
-  Psy Defense: 1
-  Rank: 96
+  Psy Defense: 2
+  Rank: 44
 Attacks:
-  Air: 11/8
+  Indirect: 12/5
+  Direct: 14/2
+  Close: 9/4
 Load aboard transport: YES
 Upkeep / Maintenance: 3
-Build Cost: 25
+Build Cost: 21
 Build Resource Requirements:
-  Metal: 3
-  Trace: 41
-  Exotica: 6
-  Chemicals: 19
+  Metal: 1
+  Trace: 46
+  Exotica: 5
+  Chemicals: 10
   Electronics: 29
-Upgrade Peasant to Anti-Air Infantry at Fort
+Upgrade Peasant to Light Infantry Legion at Fort
 Time to Build / Upgrade: 1
-[525] Technology Required to Build Unit (94):
+[930] Technologies Required to Build Unit (94):
   [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Anti-Air Infantry (BE)
-Nick Name: AA Inf (BE)
+Name: Light Infantry Legion (BE)
+Nick Name: Lt Inf (BE)
 Scores & Strengths:
   Tech Score: 338
-  Unit Score: 346
-  Average Score: 342
-  Stat Strength: 196
-  Total Strength: 346
-  Planet Strength: 346
+  Unit Score: 371
+  Average Score: 355
+  Stat Strength: 185
+  Total Strength: 371
+  Planet Strength: 371
   Space Strength: 0
-  Garrison Strength: 199
+  Garrison Strength: 151
 Statistics:
   Movement Type: foot
-  Move Points: 3
-  Spot: 5
-  Camouflage: 8
-  Agility: 9
+  Move Points: 6
+  Spot: 2
+  Camouflage: 5
+  Agility: 10
   Armor: 4
-  Psy Defense: 1
-  Rank: 103
+  Psy Defense: 2
+  Rank: 49
 Attacks:
-  Air: 15/10
+  Indirect: 15/6
+  Direct: 18/2
+  Close: 12/5
 Load aboard transport: YES
 May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 5
-Build Cost: 26
+Upkeep / Maintenance: 7
+Build Cost: 50
 Build Resource Requirements:
-  Biochems: 28
-Upgrade Anti-Air Infantry to Anti-Air Infantry (BE) at Biochem Plant
+  Metal: 1
+  Trace: 5
+  Exotica: 1
+  Biochems: 42
+  Electronics: 2
+Upgrade Light Infantry Legion to Light Infantry Legion (BE) at Biochem Plant
 Time to Build / Upgrade: 1
 [1350] Technologies Required to Build Unit (88):
   [420] Biochem-Enhanced Soldiers (77)
@@ -80,75 +89,84 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Anti-Air Infantry (SE)
-Nick Name: AA Inf (SE)
+Name: Light Infantry Legion (SE)
+Nick Name: Lt Inf (SE)
 Scores & Strengths:
-  Tech Score: 405
-  Unit Score: 448
-  Average Score: 427
-  Stat Strength: 244
-  Total Strength: 448
-  Planet Strength: 448
+  Tech Score: 334
+  Unit Score: 389
+  Average Score: 362
+  Stat Strength: 190
+  Total Strength: 389
+  Planet Strength: 389
   Space Strength: 0
-  Garrison Strength: 258
+  Garrison Strength: 158
 Statistics:
   Movement Type: foot
-  Move Points: 3
-  Spot: 5
-  Camouflage: 9
+  Move Points: 6
+  Spot: 2
+  Camouflage: 5
   Agility: 10
-  Armor: 5
-  Psy Defense: 2
-  Rank: 108
+  Armor: 4
+  Psy Defense: 3
+  Rank: 50
 Attacks:
-  Air: 17/12
+  Indirect: 15/6
+  Direct: 18/3
+  Close: 11/5
 Load aboard transport: YES
 Upkeep / Maintenance: 6
-Build Cost: 35
+Build Cost: 41
 Build Resource Requirements:
-  Trace: 4
-  Biochems: 36
-Upgrade Anti-Air Infantry to Anti-Air Infantry (SE) at Hospital
+  Food: 1
+  Energy: 1
+  Metal: 1
+  Trace: 10
+  Exotica: 1
+  Chemicals: 1
+  Biochems: 47
+Upgrade Light Infantry Legion to Light Infantry Legion (SE) at Hospital
 Time to Build / Upgrade: 1
-[1605] Technologies Required to Build Unit (88):
+[1430] Technologies Required to Build Unit (88):
   [675] Surgically-Enhanced Soldiers (75)
-  [525] Anti-Aircraft Weaponry (94)
+  [350] Anti-Tank Weaponry (95)
   [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Anti-Air Infantry (DE)
-Nick Name: AA Inf (DE)
+Name: Light Infantry Legion (DE)
+Nick Name: Lt Inf (DE)
 Scores & Strengths:
   Tech Score: 987
-  Unit Score: 922
-  Average Score: 955
-  Stat Strength: 454
-  Total Strength: 922
-  Planet Strength: 922
+  Unit Score: 926
+  Average Score: 957
+  Stat Strength: 394
+  Total Strength: 926
+  Planet Strength: 926
   Space Strength: 0
-  Garrison Strength: 412
+  Garrison Strength: 292
 Statistics:
   Movement Type: foot
-  Move Points: 5
-  Spot: 6
-  Camouflage: 14
-  Agility: 12
-  Armor: 7
-  Psy Defense: 2
-  Rank: 129
+  Move Points: 10
+  Spot: 3
+  Camouflage: 8
+  Agility: 13
+  Armor: 6
+  Psy Defense: 4
+  Rank: 69
 Attacks:
-  Air: 26/18
+  Indirect: 26/10
+  Direct: 30/4
+  Close: 19/8
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 27
+Upkeep / Maintenance: 6
+Build Cost: 43
 Build Resource Requirements:
-  Metal: 5
-  Biochems: 38
-  Electronics: 7
-Upgrade Anti-Air Infantry to Anti-Air Infantry (DE) at Biochem Plant
+  Metal: 7
+  Biochems: 50
+  Electronics: 17
+Upgrade Light Infantry Legion to Light Infantry Legion (DE) at Biochem Plant
 Time to Build / Upgrade: 1
 [4370] Technologies Required to Build Unit (84):
   [3440] Drug-Enhanced Soldiers (65)
@@ -159,125 +177,135 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Anti-Air Infantry (PA)
-Nick Name: AA Inf (PA)
+Name: Light Infantry Legion (GE)
+Nick Name: Lt Inf (GE)
 Scores & Strengths:
-  Tech Score: 1455
-  Unit Score: 1265
-  Average Score: 1360
-  Stat Strength: 583
-  Total Strength: 1265
-  Planet Strength: 1265
+  Tech Score: 1407
+  Unit Score: 1345
+  Average Score: 1376
+  Stat Strength: 563
+  Total Strength: 1345
+  Planet Strength: 1345
   Space Strength: 0
-  Garrison Strength: 516
+  Garrison Strength: 373
 Statistics:
   Movement Type: foot
-  Move Points: 6
-  Spot: 7
-  Camouflage: 16
-  Agility: 13
+  Move Points: 13
+  Spot: 3
+  Camouflage: 10
+  Agility: 14
   Armor: 8
-  Psy Defense: 3
-  Rank: 142
+  Psy Defense: 5
+  Rank: 80
 Attacks:
-  Air: 31/22
+  Indirect: 31/12
+  Direct: 36/5
+  Close: 23/10
 Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 32
+Upkeep / Maintenance: 8
+Build Cost: 34
 Build Resource Requirements:
-  Energy: 7
-  Chemicals: 16
-  Biochems: 2
-  Electronics: 26
-  Ceramsteel: 6
-Upgrade Anti-Air Infantry (SE) to Anti-Air Infantry (PA) at Hospital
+  Energy: 2
+  Trace: 1
+  Chemicals: 3
+  Biochems: 14
+  Electronics: 5
+  Ceramsteel: 2
+Upgrade Light Infantry Legion (DE) to Light Infantry Legion (GE) at Lab
 Time to Build / Upgrade: 1
-[7105] Technologies Required to Build Unit (82):
-  [525] Anti-Aircraft Weaponry (94)
-  [6175] Prosthetically-Augmented Soldiers (57)
+[6775] Technologies Required to Build Unit (79):
+  [6020] Chemical Shock Legion (49)
+  [350] Anti-Tank Weaponry (95)
   [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Anti-Air Infantry (GE)
-Nick Name: AA Inf (GE)
+Name: Light Infantry Legion (PA)
+Nick Name: Lt Inf (PA)
 Scores & Strengths:
-  Tech Score: 1444
-  Unit Score: 1298
-  Average Score: 1371
-  Stat Strength: 616
-  Total Strength: 1298
-  Planet Strength: 1298
+  Tech Score: 1430
+  Unit Score: 1358
+  Average Score: 1394
+  Stat Strength: 563
+  Total Strength: 1358
+  Planet Strength: 1358
   Space Strength: 0
-  Garrison Strength: 529
+  Garrison Strength: 376
 Statistics:
   Movement Type: foot
-  Move Points: 6
-  Spot: 7
-  Camouflage: 17
-  Agility: 13
+  Move Points: 13
+  Spot: 3
+  Camouflage: 10
+  Agility: 14
   Armor: 8
-  Psy Defense: 3
-  Rank: 142
+  Psy Defense: 5
+  Rank: 79
 Attacks:
-  Air: 31/22
+  Indirect: 30/13
+  Direct: 35/5
+  Close: 23/10
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 35
+Upkeep / Maintenance: 9
+Build Cost: 47
 Build Resource Requirements:
-  Energy: 4
-  Trace: 2
-  Chemicals: 6
-  Biochems: 11
-  Electronics: 5
-  Ceramsteel: 2
-Upgrade Anti-Air Infantry (DE) to Anti-Air Infantry (GE) at Lab
-Time to Build / Upgrade: 1
-[6950] Technologies Required to Build Unit (79):
-  [525] Anti-Aircraft Weaponry (94)
-  [6020] Chemical Shock Legion (49)
+  Food: 1
+  Energy: 8
+  Metal: 1
+  Exotica: 1
+  Chemicals: 11
+  Biochems: 3
+  Electronics: 80
+  Ceramsteel: 7
+Upgrade Light Infantry Legion (SE) to Light Infantry Legion (PA) at Hospital
+Time to Build / Upgrade: 2
+[6930] Technologies Required to Build Unit (82):
+  [6175] Prosthetically-Augmented Soldiers (57)
+  [350] Anti-Tank Weaponry (95)
   [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Anti-Air Infantry (CE)
-Nick Name: AA Inf (CE)
+Name: Light Infantry Legion (CE)
+Nick Name: Lt Inf (CE)
 Scores & Strengths:
-  Tech Score: 1843
-  Unit Score: 1626
-  Average Score: 1735
-  Stat Strength: 751
-  Total Strength: 1626
-  Planet Strength: 1626
+  Tech Score: 1820
+  Unit Score: 1710
+  Average Score: 1765
+  Stat Strength: 668
+  Total Strength: 1710
+  Planet Strength: 1710
   Space Strength: 0
-  Garrison Strength: 663
+  Garrison Strength: 457
 Statistics:
   Movement Type: foot
-  Move Points: 6
-  Spot: 7
-  Camouflage: 19
-  Agility: 14
-  Armor: 10
-  Psy Defense: 3
-  Rank: 152
+  Move Points: 14
+  Spot: 3
+  Camouflage: 11
+  Agility: 15
+  Armor: 9
+  Psy Defense: 6
+  Rank: 89
 Attacks:
-  Air: 35/25
+  Indirect: 35/14
+  Direct: 40/6
+  Close: 26/12
 Load aboard transport: YES
-Upkeep / Maintenance: 7
+Upkeep / Maintenance: 9
 Build Cost: 38
 Build Resource Requirements:
-  Energy: 5
-  Metal: 2
-  Chemicals: 8
-  Ceramsteel: 2
-Upgrade Anti-Air Infantry (PA) to Anti-Air Infantry (CE) at Lab
+  Energy: 3
+  Metal: 1
+  Exotica: 1
+  Chemicals: 4
+  Ceramsteel: 1
+Upgrade Light Infantry Legion (PA) to Light Infantry Legion (CE) at Lab
 Time to Build / Upgrade: 1
-[9530] Technologies Required to Build Unit (79):
-  [525] Anti-Aircraft Weaponry (94)
+[9355] Technologies Required to Build Unit (79):
+  [350] Anti-Tank Weaponry (95)
   [8600] Cybernetically-Enhanced Soldiers (48)
   [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
@@ -285,125 +313,130 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Anti-Air Infantry (AVE)
-Nick Name: AA Inf (AVE)
+Name: Light Infantry Legion (AVE)
+Nick Name: Lt Inf (AVE)
 Scores & Strengths:
-  Tech Score: 1903
-  Unit Score: 1651
-  Average Score: 1777
-  Stat Strength: 751
-  Total Strength: 1651
-  Planet Strength: 1651
+  Tech Score: 1869
+  Unit Score: 1767
+  Average Score: 1818
+  Stat Strength: 720
+  Total Strength: 1767
+  Planet Strength: 1767
   Space Strength: 0
-  Garrison Strength: 674
+  Garrison Strength: 456
 Statistics:
   Movement Type: foot
-  Move Points: 6
-  Spot: 7
-  Camouflage: 19
-  Agility: 14
-  Armor: 10
-  Psy Defense: 3
-  Rank: 154
+  Move Points: 15
+  Spot: 3
+  Camouflage: 12
+  Agility: 15
+  Armor: 9
+  Psy Defense: 6
+  Rank: 90
 Attacks:
-  Air: 36/25
+  Indirect: 36/14
+  Direct: 41/6
+  Close: 27/11
 Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 33
+Upkeep / Maintenance: 8
+Build Cost: 47
 Build Resource Requirements:
   Energy: 2
-  Metal: 1
-  Chemicals: 5
-  Biochems: 7
-  Electronics: 3
-Upgrade Anti-Air Infantry (GE) to Anti-Air Infantry (AVE) at Lab
+  Chemicals: 1
+  Biochems: 6
+  Electronics: 2
+Upgrade Light Infantry Legion (GE) to Light Infantry Legion (AVE) at Lab
 Time to Build / Upgrade: 1
-[9830] Technologies Required to Build Unit (71):
-  [525] Anti-Aircraft Weaponry (94)
-  [8900] Genetically-Enhanced Warriors (25)
+[9655] Technologies Required to Build Unit (71):
+  [350] Anti-Tank Weaponry (95)
   [405] Recoilless Rifle (94)
+  [8900] Genetically-Enhanced Warriors (25)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Anti-Air Infantry (ME)
-Nick Name: AA Inf (ME)
+Name: Light Infantry Legion (ME)
+Nick Name: Lt Inf (ME)
 Scores & Strengths:
   Tech Score: 1401
-  Unit Score: 1717
-  Average Score: 1559
-  Stat Strength: 981
-  Total Strength: 1717
-  Planet Strength: 1717
+  Unit Score: 2020
+  Average Score: 1710
+  Stat Strength: 1155
+  Total Strength: 2020
+  Planet Strength: 2020
   Space Strength: 0
-  Garrison Strength: 429
+  Garrison Strength: 412
 Statistics:
   Movement Type: foot
-  Move Points: 16
-  Spot: 7
-  Camouflage: 15
-  Agility: 19
-  Armor: 9
-  Psy Defense: 3
-  Rank: 146
+  Move Points: 24
+  Spot: 3
+  Camouflage: 9
+  Agility: 20
+  Armor: 8
+  Psy Defense: 5
+  Rank: 84
 Attacks:
-  Air: 32/23
+  Indirect: 32/13
+  Direct: 37/5
+  Close: 24/11
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 29
+Upkeep / Maintenance: 8
+Build Cost: 54
 Build Resource Requirements:
-  Food: 2
-  Energy: 9
-  Exotica: 2
-  Chemicals: 21
-  Electronics: 28
+  Food: 8
+  Energy: 15
+  Trace: 8
+  Exotica: 8
+  Chemicals: 24
+  Electronics: 50
   Ceramsteel: 3
-Upgrade Anti-Air Infantry to Anti-Air Infantry (ME) at Factory
-Time to Build / Upgrade: 1
-[6745] Technologies Required to Build Unit (87):
+Upgrade Light Infantry Legion to Light Infantry Legion (ME) at Factory
+Time to Build / Upgrade: 2
+[7150] Technologies Required to Build Unit (89):
   [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
   [6220] Mechanically-Enhanced Soldiers (80)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Anti-Air Infantry (MF)
-Nick Name: AA Inf (MF)
+Name: Light Infantry Legion (MF)
+Nick Name: Lt Inf (MF)
 Scores & Strengths:
   Tech Score: 3201
-  Unit Score: 2630
-  Average Score: 2916
-  Stat Strength: 1145
-  Total Strength: 2630
-  Planet Strength: 2630
+  Unit Score: 2900
+  Average Score: 3051
+  Stat Strength: 1111
+  Total Strength: 2900
+  Planet Strength: 2900
   Space Strength: 0
-  Garrison Strength: 929
+  Garrison Strength: 665
 Statistics:
   Movement Type: foot
-  Move Points: 8
-  Spot: 8
-  Camouflage: 24
-  Agility: 16
-  Armor: 13
-  Psy Defense: 4
-  Rank: 182
+  Move Points: 19
+  Spot: 4
+  Camouflage: 15
+  Agility: 18
+  Armor: 11
+  Psy Defense: 8
+  Rank: 117
 Attacks:
-  Air: 45/33
+  Indirect: 45/19
+  Direct: 53/8
+  Close: 34/15
 Load aboard transport: YES
 Upkeep / Maintenance: 47
 Build Cost: 427
 Build Resource Requirements:
-  Energy: 4
-  Chemicals: 3
-  Biochems: 6
-  Wetware: 18
-  Monopols: 39
-Upgrade Anti-Air Infantry (CE) to Anti-Air Infantry (MF) at Wetware
-Time to Build / Upgrade: 3
-[19505] Technologies Required to Build Unit (74):
-  [525] Anti-Aircraft Weaponry (94)
+  Biochems: 1
+  Wetware: 33
+  Monopols: 17
+Upgrade Light Infantry Legion (CE) to Light Infantry Legion (MF) at Wetware
+Time to Build / Upgrade: 2
+[19330] Technologies Required to Build Unit (75):
+  [350] Anti-Tank Weaponry (95)
   [405] Recoilless Rifle (94)
   [18575] Machine-Fused Soldiers (35)
 Counts as planetary flock: YES
@@ -411,38 +444,41 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --11--
-Name: Anti-Air Infantry (NE)
-Nick Name: AA Inf (NE)
+Name: Light Infantry Legion (NE)
+Nick Name: Lt Inf (NE)
 Scores & Strengths:
-  Tech Score: 3872
-  Unit Score: 3459
-  Average Score: 3666
-  Stat Strength: 1572
-  Total Strength: 3459
-  Planet Strength: 3459
+  Tech Score: 3890
+  Unit Score: 3620
+  Average Score: 3755
+  Stat Strength: 1431
+  Total Strength: 3620
+  Planet Strength: 3620
   Space Strength: 0
-  Garrison Strength: 1153
+  Garrison Strength: 789
 Statistics:
   Movement Type: foot
-  Move Points: 9
-  Spot: 9
-  Camouflage: 30
-  Agility: 17
-  Armor: 14
-  Psy Defense: 5
-  Rank: 200
+  Move Points: 21
+  Spot: 4
+  Camouflage: 20
+  Agility: 18
+  Armor: 13
+  Psy Defense: 9
+  Rank: 130
 Attacks:
-  Air: 51/37
+  Indirect: 51/21
+  Direct: 59/8
+  Close: 38/17
 Load aboard transport: YES
-Upkeep / Maintenance: 37
-Build Cost: 336
+Upkeep / Maintenance: 47
+Build Cost: 421
 Build Resource Requirements:
-  Wetware: 21
-  Monopols: 21
-Upgrade Anti-Air Infantry (AVE) to Anti-Air Infantry (NE) at Fusorium
-Time to Build / Upgrade: 2
-[24655] Technologies Required to Build Unit (63):
+  Wetware: 38
+  Monopols: 11
+Upgrade Light Infantry Legion (AVE) to Light Infantry Legion (NE) at Fusorium
+Time to Build / Upgrade: 3
+[25060] Technologies Required to Build Unit (73):
   [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
   [24130] Neumonically-Enhanced Soldiers (32)
 Counts as planetary flock: YES
 Unit Eats: YES

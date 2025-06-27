@@ -1,42 +1,42 @@
-All units of the unit class Light Tank are listed herein (5 in total):
+All units of the unit class Heavy Tank are listed herein (5 in total):
 
 --1--
-Name: Light Tank
-Nick Name: Light Tank
+Name: Heavy Tank
+Nick Name: Heavy Tank
 Scores & Strengths:
   Tech Score: 106
   Unit Score: 157
   Average Score: 132
-  Stat Strength: 116
+  Stat Strength: 118
   Total Strength: 157
   Planet Strength: 157
   Space Strength: 0
-  Garrison Strength: 70
+  Garrison Strength: 90
 Statistics:
   Movement Type: tread
-  Move Points: 5
+  Move Points: 3
   Spot: 1
   Camouflage: 1
-  Agility: 3
-  Armor: 8
-  Psy Defense: 4
-  Rank: 61
+  Agility: 1
+  Armor: 9
+  Psy Defense: 5
+  Rank: 64
 Attacks:
-  Indirect: 2/8
-  Direct: 2/8
-  Close: 3/3
+  Indirect: 1/12
+  Direct: 1/12
+  Close: 5/3
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 26
+Upkeep / Maintenance: 4
+Build Cost: 40
 Build Resource Requirements:
-  Food: 4
-  Energy: 31
-  Metal: 30
-  Trace: 5
-  Exotica: 4
-  Chemicals: 18
-Build Light Tank in Factory
-Time to Build / Upgrade: 2
+  Food: 2
+  Energy: 60
+  Metal: 39
+  Trace: 8
+  Exotica: 1
+  Chemicals: 30
+Build Heavy Tank in Factory
+Time to Build / Upgrade: 3
 [400] Technologies Required to Build Unit (98):
   [110] Structural Engineering (99)
   [125] Compression Ignition Engine (97)
@@ -46,84 +46,85 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Light Tank II
-Nick Name: Light Tank II
+Name: Super Heavy Tank
+Nick Name: S-Hvy Tank
 Scores & Strengths:
-  Tech Score: 162
-  Unit Score: 189
-  Average Score: 175
-  Stat Strength: 144
-  Total Strength: 189
-  Planet Strength: 189
+  Tech Score: 106
+  Unit Score: 160
+  Average Score: 133
+  Stat Strength: 132
+  Total Strength: 160
+  Planet Strength: 160
   Space Strength: 0
-  Garrison Strength: 77
+  Garrison Strength: 113
 Statistics:
   Movement Type: tread
-  Move Points: 6
+  Move Points: 2
   Spot: 1
   Camouflage: 1
-  Agility: 3
-  Armor: 9
-  Psy Defense: 4
-  Rank: 63
+  Agility: 1
+  Armor: 10
+  Psy Defense: 5
+  Rank: 66
 Attacks:
-  Indirect: 2/9
-  Direct: 2/9
-  Close: 3/3
+  Indirect: 1/14
+  Direct: 1/14
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 37
+Upkeep / Maintenance: 5
+Build Cost: 48
 Build Resource Requirements:
-  Food: 7
-  Energy: 45
-  Metal: 38
-  Trace: 8
-  Exotica: 6
-  Chemicals: 33
-Build Light Tank II in Factory
+  Food: 1
+  Energy: 78
+  Metal: 46
+  Trace: 3
+  Exotica: 1
+  Chemicals: 38
+Build Super Heavy Tank in Factory
 Time to Build / Upgrade: 3
-[350] Technology Required to Build Unit (95):
-  [350] Tanks (95)
+[400] Technologies Required to Build Unit (98):
+  [110] Structural Engineering (99)
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Scout Tank
-Nick Name: Greyhound
+Name: Heavy Tank II
+Nick Name: Hvy Tank II
 Scores & Strengths:
   Tech Score: 162
-  Unit Score: 240
-  Average Score: 201
-  Stat Strength: 172
-  Total Strength: 240
-  Planet Strength: 240
+  Unit Score: 192
+  Average Score: 177
+  Stat Strength: 148
+  Total Strength: 192
+  Planet Strength: 192
   Space Strength: 0
-  Garrison Strength: 97
+  Garrison Strength: 110
 Statistics:
   Movement Type: tread
-  Move Points: 6
-  Spot: 6
-  Camouflage: 4
-  Agility: 2
-  Armor: 8
-  Psy Defense: 4
-  Rank: 62
+  Move Points: 3
+  Spot: 1
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 6
+  Rank: 66
 Attacks:
-  Indirect: 7/4
-  Direct: 6/4
-  Close: 8/2
+  Indirect: 1/13
+  Direct: 1/13
+  Close: 6/3
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 42
+Upkeep / Maintenance: 5
+Build Cost: 53
 Build Resource Requirements:
-  Food: 13
-  Energy: 15
-  Metal: 31
-  Trace: 48
-  Exotica: 12
-  Chemicals: 14
-Build Scout Tank in Factory
+  Food: 3
+  Energy: 79
+  Metal: 53
+  Trace: 15
+  Exotica: 2
+  Chemicals: 51
+Build Heavy Tank II in Factory
 Time to Build / Upgrade: 3
 [350] Technology Required to Build Unit (95):
   [350] Tanks (95)
@@ -132,93 +133,84 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Tankette
-Nick Name: Tankette
+Name: Tank Killer
+Nick Name: Wolverine
 Scores & Strengths:
-  Tech Score: 174
-  Unit Score: 258
-  Average Score: 216
-  Stat Strength: 140
-  Total Strength: 258
-  Planet Strength: 258
+  Tech Score: 162
+  Unit Score: 240
+  Average Score: 201
+  Stat Strength: 217
+  Total Strength: 240
+  Planet Strength: 240
   Space Strength: 0
-  Garrison Strength: 105
+  Garrison Strength: 107
 Statistics:
   Movement Type: tread
-  Move Points: 6
-  Spot: 4
+  Move Points: 5
+  Spot: 2
   Camouflage: 2
   Agility: 2
-  Armor: 8
-  Psy Defense: 4
-  Rank: 66
+  Armor: 12
+  Psy Defense: 6
+  Rank: 64
 Attacks:
-  Indirect: 7/6
-  Direct: 8/6
-  Close: 7/4
+  Indirect: 1/12
+  Direct: 1/11
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 36
+Upkeep / Maintenance: 6
+Build Cost: 57
 Build Resource Requirements:
-  Food: 7
-  Energy: 19
-  Metal: 20
-  Trace: 31
-  Exotica: 6
-  Chemicals: 27
-Build Tankette in Factory
+  Food: 6
+  Energy: 65
+  Metal: 79
+  Trace: 7
+  Exotica: 5
+  Chemicals: 40
+Build Tank Killer in Factory
 Time to Build / Upgrade: 3
-[495] Technologies Required to Build Unit (96):
-  [145] Composite Armor (97)
-  [350] Tanks (95)
+[350] Technology Required to Build Unit (95):
+  [350] Anti-Tank Weaponry (95)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Stealth Scout Tank
-Nick Name: Bloodhound
+Name: Shock Tank Killer
+Nick Name: Sabertooth
 Scores & Strengths:
-  Tech Score: 5358
-  Unit Score: 5358
-  Average Score: 5358
-  Stat Strength: 3975
-  Total Strength: 5358
-  Planet Strength: 5358
+  Tech Score: 1413
+  Unit Score: 1675
+  Average Score: 1544
+  Stat Strength: 1492
+  Total Strength: 1675
+  Planet Strength: 1675
   Space Strength: 0
-  Garrison Strength: 1012
+  Garrison Strength: 464
 Statistics:
   Movement Type: tread
-  Move Points: 28
-  Spot: 14
-  Camouflage: 24
-  Agility: 31
-  Armor: 27
-  Psy Defense: 27
-  Rank: 144
+  Move Points: 13
+  Spot: 3
+  Camouflage: 5
+  Agility: 3
+  Armor: 32
+  Psy Defense: 16
+  Rank: 97
 Attacks:
-  Indirect: 28/18
-  Direct: 24/16
-  Close: 33/15
+  Indirect: 3/32
+  Direct: 3/29
 Load aboard transport: YES
-Upkeep / Maintenance: 32
-Build Cost: 321
+Upkeep / Maintenance: 51
+Build Cost: 456
 Build Resource Requirements:
-  Food: 2
-  Energy: 8
-  Metal: 4
-  Trace: 10
-  Exotica: 2
-  Chemicals: 10
-  Biochems: 24
-  Electronics: 24
-  Ceramsteel: 7
-  Wetware: 14
-  Monopols: 18
-Build Stealth Scout Tank in Factory
-Time to Build / Upgrade: 3
-[37210] Technology Required to Build Unit (34):
-  [37210] Neumonic Land Vehicles (34)
+  Chemicals: 9
+  Electronics: 19
+  Ceramsteel: 37
+  Monopols: 52
+Upgrade Tank Killer to Shock Tank Killer at Factory
+Time to Build / Upgrade: 2
+[6950] Technologies Required to Build Unit (77):
+  [1745] Monopols (70)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
