@@ -1,231 +1,271 @@
-All units of the unit class Apprentice are listed herein (5 in total):
+All units of the unit class Gunship are listed herein (5 in total):
 
 --1--
-Name: Apprentice
-Nick Name: Apprentice
+Name: Gunship
+Nick Name: Dragonfly
 Scores & Strengths:
-  Tech Score: 1183
-  Unit Score: 1184
-  Average Score: 1183
-  Stat Strength: 773
-  Total Strength: 1184
-  Planet Strength: 1184
+  Tech Score: 1262
+  Unit Score: 1260
+  Average Score: 1261
+  Stat Strength: 899
+  Total Strength: 1260
+  Planet Strength: 1260
   Space Strength: 0
-  Garrison Strength: 374
+  Garrison Strength: 281
 Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 6
+  Movement Type: air
+  Move Points: 20
+  Spot: 10
   Camouflage: 6
-  Agility: 23
-  Armor: 6
-  Psy Defense: 6
-  Rank: 757
+  Agility: 11
+  Armor: 11
+  Psy Defense: 11
+  Rank: 129
 Attacks:
-  Air: 10/9
-  Indirect: 11/11
-  Direct: 10/10
-  Close: 10/10
+  Water: 8/12
+  Air: 8/8
+  Indirect: 5/13
+  Direct: 8/8
+  Close: 9/8
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Inquisitor
-Upkeep / Maintenance: 8
-Build Cost: 76
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 5
+Build Cost: 51
 Build Resource Requirements:
-  Food: 12
-  Energy: 37
-  Metal: 5
-  Trace: 14
-  Exotica: 12
-  Chemicals: 41
-  Electronics: 30
-  Ceramsteel: 6
-Build Apprentice in Church
-Time to Build / Upgrade: 3
-[6450] Technologies Required to Build Unit (87):
-  [4855] Myoelectric Prosthetics (71)
-  [145] Composite Armor (97)
-  [1340] Nanotechnology (79)
-  [110] Meditation (99)
+  Food: 6
+  Energy: 19
+  Metal: 17
+  Trace: 13
+  Exotica: 6
+  Chemicals: 17
+  Biochems: 8
+  Electronics: 10
+Build Gunship in Factory
+Time to Build / Upgrade: 2
+[7970] Technologies Required to Build Unit (87):
+  [795] Missiles (86)
+  [2725] Naval Capital Ships (88)
+  [1785] Rotary Autocannon (90)
+  [2665] V/STOL Aircraft (85)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Oblate
-Nick Name: Oblate
+Name: Killer Gunship
+Nick Name: Bumblebee
 Scores & Strengths:
-  Tech Score: 1309
-  Unit Score: 1310
-  Average Score: 1310
-  Stat Strength: 893
-  Total Strength: 1310
-  Planet Strength: 1310
+  Tech Score: 4522
+  Unit Score: 4143
+  Average Score: 4333
+  Stat Strength: 2868
+  Total Strength: 4143
+  Planet Strength: 4143
   Space Strength: 0
-  Garrison Strength: 394
+  Garrison Strength: 672
 Statistics:
-  Movement Type: foot
-  Move Points: 11
-  Spot: 7
-  Camouflage: 7
-  Agility: 24
-  Armor: 7
-  Psy Defense: 7
-  Rank: 758
+  Movement Type: air
+  Move Points: 38
+  Spot: 14
+  Camouflage: 11
+  Agility: 15
+  Armor: 21
+  Psy Defense: 21
+  Rank: 173
 Attacks:
-  Air: 10/9
-  Indirect: 11/12
-  Direct: 8/12
-  Close: 9/11
+  Water: 15/23
+  Air: 15/15
+  Indirect: 9/25
+  Direct: 15/15
+  Close: 17/15
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Inquisitor
-Upkeep / Maintenance: 6
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 37
+Build Cost: 373
 Build Resource Requirements:
-Upgrade Apprentice to Oblate at Church
-Time to Build / Upgrade: 1
-[8715] Technologies Required to Build Unit (80):
-  [5425] Cybernetics (63)
-  [1690] Ceramsteel (84)
-  [1475] Monofilament (77)
-  [125] Parapsychology (94)
+  Food: 4
+  Energy: 15
+  Metal: 3
+  Trace: 10
+  Exotica: 4
+  Chemicals: 18
+  Biochems: 7
+  Electronics: 16
+  Ceramsteel: 5
+  Monopols: 25
+Build Killer Gunship in Factory
+Time to Build / Upgrade: 3
+[41035] Technologies Required to Build Unit (81):
+  [1785] Rotary Autocannon (90)
+  [27875] PTS Meson Navalcraft (74)
+  [11375] Power Aircraft (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Acolyte
-Nick Name: Acolyte
+Name: Psy Killer Gunship
+Nick Name: Psy Gunship
 Scores & Strengths:
-  Tech Score: 2187
-  Unit Score: 2186
-  Average Score: 2186
-  Stat Strength: 1322
-  Total Strength: 2186
-  Planet Strength: 2186
-  Space Strength: 0
-  Garrison Strength: 564
+  Tech Score: 4952
+  Unit Score: 6074
+  Average Score: 5513
+  Stat Strength: 4572
+  Total Strength: 6074
+  Planet Strength: 6074
+  Space Strength: 4782
+  Garrison Strength: 985
 Statistics:
-  Movement Type: foot
-  Move Points: 15
-  Spot: 8
-  Camouflage: 8
-  Agility: 29
-  Armor: 8
-  Psy Defense: 8
-  Rank: 776
+  Movement Type: air
+  Move Points: 38
+  Spot: 19
+  Camouflage: 11
+  Agility: 21
+  Armor: 21
+  Psy Defense: 42
+  Rank: 185
 Attacks:
-  Air: 12/16
-  Indirect: 14/18
-  Direct: 12/17
-  Close: 18/12
+  Psychic: 15/14
+  Water: 15/23
+  Air: 15/15
+  Indirect: 9/25
+  Direct: 15/15
+  Close: 17/16
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Inquisitor
-Upkeep / Maintenance: 41
-Build Cost: 407
+Upkeep / Maintenance: 45
+Build Cost: 450
 Build Resource Requirements:
-  Trace: 2
-  Electronics: 2
-  Monopols: 28
-Upgrade Oblate to Acolyte at Church
-Time to Build / Upgrade: 2
-[16140] Technologies Required to Build Unit (77):
-  [5425] Cybernetics (63)
-  [8935] Powered Ceramsteel Armor (75)
-  [1615] Wireblades (76)
-  [165] Theurgy (93)
+  Food: 6
+  Energy: 15
+  Metal: 6
+  Trace: 11
+  Exotica: 7
+  Chemicals: 20
+  Biochems: 16
+  Electronics: 19
+  Ceramsteel: 11
+  Monopols: 32
+  Gems: 7
+Build Psy Killer Gunship in Factory
+Time to Build / Upgrade: 4
+[48695] Technologies Required to Build Unit (72):
+  [330] Holy Warriors (82)
+  [1555] Dhechi (80)
+  [3050] Occult Science (44)
+  [2725] Visioning (56)
+  [1785] Rotary Autocannon (90)
+  [27875] PTS Meson Navalcraft (74)
+  [11375] Power Aircraft (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Brother Battle Mech
-Nick Name: BB Mech
+Name: Morph Gunship
+Nick Name: Wasp
 Scores & Strengths:
-  Tech Score: 2815
-  Unit Score: 2814
-  Average Score: 2814
-  Stat Strength: 1385
-  Total Strength: 2814
-  Planet Strength: 2814
+  Tech Score: 8186
+  Unit Score: 8185
+  Average Score: 8186
+  Stat Strength: 5714
+  Total Strength: 8185
+  Planet Strength: 8185
   Space Strength: 0
-  Garrison Strength: 663
+  Garrison Strength: 1248
 Statistics:
-  Movement Type: mech
-  Move Points: 18
-  Spot: 14
-  Camouflage: 8
-  Agility: 14
-  Armor: 11
-  Psy Defense: 22
-  Rank: 117
+  Movement Type: air
+  Move Points: 43
+  Spot: 24
+  Camouflage: 16
+  Agility: 41
+  Armor: 26
+  Psy Defense: 26
+  Rank: 222
 Attacks:
-  Air: 19/17
-  Indirect: 17/24
-  Direct: 18/21
-  Close: 20/16
+  Water: 30/28
+  Air: 20/20
+  Indirect: 13/30
+  Direct: 20/20
+  Close: 21/21
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 111
-Build Cost: 1105
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 52
+Build Cost: 516
 Build Resource Requirements:
-  Food: 4
-  Energy: 20
-  Metal: 6
-  Trace: 14
-  Exotica: 4
-  Chemicals: 23
-  Biochems: 18
-  Electronics: 28
-  Ceramsteel: 7
-  Monopols: 29
-Build Brother Battle Mech in Starport
-Time to Build / Upgrade: 4
-[18820] Technologies Required to Build Unit (61):
-  [8600] Cybernetically-Enhanced Soldiers (48)
-  [10220] Mechanized Warriors (73)
+  Food: 3
+  Energy: 11
+  Metal: 2
+  Trace: 8
+  Exotica: 3
+  Chemicals: 13
+  Biochems: 21
+  Electronics: 13
+  Ceramsteel: 3
+  Wetware: 11
+  Monopols: 20
+Build Morph Gunship in Factory
+Time to Build / Upgrade: 3
+[96885] Technologies Required to Build Unit (64):
+  [1785] Rotary Autocannon (90)
+  [45010] Hover Navalcraft (52)
+  [50090] Polymorphonic Patrolcraft (51)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Master
-Nick Name: Master
+Name: Stealth Gunship
+Nick Name: Hornet
 Scores & Strengths:
-  Tech Score: 4541
-  Unit Score: 4540
-  Average Score: 4540
-  Stat Strength: 2492
-  Total Strength: 4540
-  Planet Strength: 4540
+  Tech Score: 8419
+  Unit Score: 8418
+  Average Score: 8418
+  Stat Strength: 5925
+  Total Strength: 8418
+  Planet Strength: 8418
   Space Strength: 0
-  Garrison Strength: 967
+  Garrison Strength: 1254
 Statistics:
-  Movement Type: foot
-  Move Points: 22
-  Spot: 16
-  Camouflage: 16
-  Agility: 36
-  Armor: 10
-  Psy Defense: 10
-  Rank: 816
+  Movement Type: air
+  Move Points: 45
+  Spot: 24
+  Camouflage: 36
+  Agility: 26
+  Armor: 26
+  Psy Defense: 26
+  Rank: 226
 Attacks:
-  Air: 19/24
-  Indirect: 22/26
-  Direct: 20/26
-  Close: 25/20
+  Water: 20/32
+  Air: 20/22
+  Indirect: 14/32
+  Direct: 20/22
+  Close: 25/21
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Inquisitor
-Upkeep / Maintenance: 69
-Build Cost: 282
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 48
+Build Cost: 475
 Build Resource Requirements:
-  Biochems: 23
-  Wetware: 15
-  Monopols: 1
-Upgrade Acolyte to Master at Church
-Time to Build / Upgrade: 1
-[39305] Technologies Required to Build Unit (62):
-  [7825] Advanced Cybernetics (44)
-  [1615] Wireblades (76)
-  [220] Somatology (85)
-  [29645] Eschatology (42)
+  Food: 2
+  Energy: 11
+  Metal: 2
+  Trace: 10
+  Exotica: 3
+  Chemicals: 13
+  Biochems: 21
+  Electronics: 18
+  Ceramsteel: 3
+  Wetware: 8
+  Monopols: 20
+Build Stealth Gunship in Factory
+Time to Build / Upgrade: 3
+[98595] Technologies Required to Build Unit (59):
+  [1785] Rotary Autocannon (90)
+  [45010] Hover Navalcraft (52)
+  [51800] Neumonic Patrolcraft (36)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

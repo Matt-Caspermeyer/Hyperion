@@ -1,271 +1,93 @@
-All units of the unit class Gunship are listed herein (5 in total):
+All units of the unit class Naval Frigate are listed herein (2 in total):
 
 --1--
-Name: Gunship
-Nick Name: Dragonfly
+Name: Naval Frigate
+Nick Name: NN-FF
 Scores & Strengths:
-  Tech Score: 1262
-  Unit Score: 1260
-  Average Score: 1261
-  Stat Strength: 899
-  Total Strength: 1260
-  Planet Strength: 1260
+  Tech Score: 679
+  Unit Score: 1358
+  Average Score: 1019
+  Stat Strength: 952
+  Total Strength: 1358
+  Planet Strength: 1358
   Space Strength: 0
-  Garrison Strength: 281
+  Garrison Strength: 429
 Statistics:
-  Movement Type: air
-  Move Points: 20
+  Movement Type: naval
+  Move Points: 10
   Spot: 10
-  Camouflage: 6
-  Agility: 11
-  Armor: 11
-  Psy Defense: 11
-  Rank: 129
+  Camouflage: 2
+  Agility: 10
+  Armor: 18
+  Psy Defense: 18
+  Rank: 103
 Attacks:
-  Water: 8/12
-  Air: 8/8
-  Indirect: 5/13
-  Direct: 8/8
-  Close: 9/8
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 5
-Build Cost: 51
+  Water: 9/16
+  Air: 13/5
+  Indirect: 8/15
+  Direct: 11/7
+Upkeep / Maintenance: 16
+Build Cost: 158
 Build Resource Requirements:
-  Food: 6
-  Energy: 19
-  Metal: 17
-  Trace: 13
-  Exotica: 6
-  Chemicals: 17
-  Biochems: 8
-  Electronics: 10
-Build Gunship in Factory
-Time to Build / Upgrade: 2
-[7970] Technologies Required to Build Unit (87):
-  [795] Missiles (86)
-  [2725] Naval Capital Ships (88)
-  [1785] Rotary Autocannon (90)
-  [2665] V/STOL Aircraft (85)
+  Food: 7
+  Energy: 32
+  Metal: 57
+  Trace: 35
+  Exotica: 7
+  Chemicals: 22
+  Biochems: 19
+  Electronics: 23
+Build Naval Frigate in Well
+Time to Build / Upgrade: 4
+[2480] Technologies Required to Build Unit (95):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2270] Naval Escort Ships (86)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Killer Gunship
-Nick Name: Bumblebee
+Name: Guided Missile Frigate
+Nick Name: NN-FGM
 Scores & Strengths:
-  Tech Score: 4522
-  Unit Score: 4143
-  Average Score: 4333
-  Stat Strength: 2868
-  Total Strength: 4143
-  Planet Strength: 4143
+  Tech Score: 1339
+  Unit Score: 1776
+  Average Score: 1557
+  Stat Strength: 1249
+  Total Strength: 1776
+  Planet Strength: 1776
   Space Strength: 0
-  Garrison Strength: 672
+  Garrison Strength: 535
 Statistics:
-  Movement Type: air
-  Move Points: 38
-  Spot: 14
-  Camouflage: 11
-  Agility: 15
+  Movement Type: naval
+  Move Points: 11
+  Spot: 11
+  Camouflage: 2
+  Agility: 11
   Armor: 21
   Psy Defense: 21
-  Rank: 173
+  Rank: 112
 Attacks:
-  Water: 15/23
-  Air: 15/15
-  Indirect: 9/25
-  Direct: 15/15
-  Close: 17/15
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 37
-Build Cost: 373
-Build Resource Requirements:
-  Food: 4
-  Energy: 15
-  Metal: 3
-  Trace: 10
-  Exotica: 4
-  Chemicals: 18
-  Biochems: 7
-  Electronics: 16
-  Ceramsteel: 5
-  Monopols: 25
-Build Killer Gunship in Factory
-Time to Build / Upgrade: 3
-[41035] Technologies Required to Build Unit (81):
-  [1785] Rotary Autocannon (90)
-  [27875] PTS Meson Navalcraft (74)
-  [11375] Power Aircraft (79)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---3--
-Name: Psy Killer Gunship
-Nick Name: Psy Gunship
-Scores & Strengths:
-  Tech Score: 4952
-  Unit Score: 6074
-  Average Score: 5513
-  Stat Strength: 4572
-  Total Strength: 6074
-  Planet Strength: 6074
-  Space Strength: 4782
-  Garrison Strength: 985
-Statistics:
-  Movement Type: air
-  Move Points: 38
-  Spot: 19
-  Camouflage: 11
-  Agility: 21
-  Armor: 21
-  Psy Defense: 42
-  Rank: 185
-Attacks:
-  Psychic: 15/14
-  Water: 15/23
-  Air: 15/15
-  Indirect: 9/25
-  Direct: 15/15
-  Close: 17/16
-Load aboard transport: YES
-Upkeep / Maintenance: 45
-Build Cost: 450
-Build Resource Requirements:
-  Food: 6
-  Energy: 15
-  Metal: 6
-  Trace: 11
-  Exotica: 7
-  Chemicals: 20
-  Biochems: 16
-  Electronics: 19
-  Ceramsteel: 11
-  Monopols: 32
-  Gems: 7
-Build Psy Killer Gunship in Factory
-Time to Build / Upgrade: 4
-[48695] Technologies Required to Build Unit (72):
-  [330] Holy Warriors (82)
-  [1555] Dhechi (80)
-  [3050] Occult Science (44)
-  [2725] Visioning (56)
-  [1785] Rotary Autocannon (90)
-  [27875] PTS Meson Navalcraft (74)
-  [11375] Power Aircraft (79)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---4--
-Name: Morph Gunship
-Nick Name: Wasp
-Scores & Strengths:
-  Tech Score: 8186
-  Unit Score: 8185
-  Average Score: 8186
-  Stat Strength: 5714
-  Total Strength: 8185
-  Planet Strength: 8185
-  Space Strength: 0
-  Garrison Strength: 1248
-Statistics:
-  Movement Type: air
-  Move Points: 43
-  Spot: 24
-  Camouflage: 16
-  Agility: 41
-  Armor: 26
-  Psy Defense: 26
-  Rank: 222
-Attacks:
-  Water: 30/28
-  Air: 20/20
-  Indirect: 13/30
-  Direct: 20/20
-  Close: 21/21
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 52
-Build Cost: 516
+  Water: 10/18
+  Air: 15/6
+  Indirect: 9/17
+  Direct: 13/8
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 13
+Build Cost: 131
 Build Resource Requirements:
   Food: 3
-  Energy: 11
-  Metal: 2
-  Trace: 8
-  Exotica: 3
-  Chemicals: 13
-  Biochems: 21
-  Electronics: 13
-  Ceramsteel: 3
-  Wetware: 11
-  Monopols: 20
-Build Morph Gunship in Factory
-Time to Build / Upgrade: 3
-[96885] Technologies Required to Build Unit (64):
-  [1785] Rotary Autocannon (90)
-  [45010] Hover Navalcraft (52)
-  [50090] Polymorphonic Patrolcraft (51)
+  Energy: 24
+  Metal: 23
+  Trace: 20
+  Exotica: 4
+  Chemicals: 25
+  Biochems: 11
+  Electronics: 21
+  Ceramsteel: 28
+Build Guided Missile Frigate in Well
+Time to Build / Upgrade: 4
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Stealth Gunship
-Nick Name: Hornet
-Scores & Strengths:
-  Tech Score: 8419
-  Unit Score: 8418
-  Average Score: 8418
-  Stat Strength: 5925
-  Total Strength: 8418
-  Planet Strength: 8418
-  Space Strength: 0
-  Garrison Strength: 1254
-Statistics:
-  Movement Type: air
-  Move Points: 45
-  Spot: 24
-  Camouflage: 36
-  Agility: 26
-  Armor: 26
-  Psy Defense: 26
-  Rank: 226
-Attacks:
-  Water: 20/32
-  Air: 20/22
-  Indirect: 14/32
-  Direct: 20/22
-  Close: 25/21
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 48
-Build Cost: 475
-Build Resource Requirements:
-  Food: 2
-  Energy: 11
-  Metal: 2
-  Trace: 10
-  Exotica: 3
-  Chemicals: 13
-  Biochems: 21
-  Electronics: 18
-  Ceramsteel: 3
-  Wetware: 8
-  Monopols: 20
-Build Stealth Gunship in Factory
-Time to Build / Upgrade: 3
-[98595] Technologies Required to Build Unit (59):
-  [1785] Rotary Autocannon (90)
-  [45010] Hover Navalcraft (52)
-  [51800] Neumonic Patrolcraft (36)
-Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
