@@ -1,413 +1,314 @@
-All units of the unit class Light Assault Helicopter are listed herein (9 in total):
+All units of the unit class PTS Tank are listed herein (7 in total):
 
 --1--
-Name: Light Assault Helicopter
-Nick Name: A-HLA
+Name: PTS Tank
+Nick Name: PTS Tank
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 616
-  Average Score: 617
-  Stat Strength: 450
-  Total Strength: 616
-  Planet Strength: 616
-  Space Strength: 0
-  Garrison Strength: 205
+  Tech Score: 608
+  Unit Score: 606
+  Average Score: 607
+  Stat Strength: 368
+  Total Strength: 606
+  Planet Strength: 528
+  Space Strength: 446
+  Garrison Strength: 215
 Statistics:
-  Movement Type: air
-  Move Points: 9
-  Spot: 6
-  Camouflage: 6
-  Agility: 13
-  Armor: 8
-  Psy Defense: 8
-  Rank: 121
+  Movement Type: tread
+  Move Points: 6
+  Spot: 2
+  Camouflage: 2
+  Agility: 6
+  Armor: 12
+  Psy Defense: 12
+  Rank: 72
 Attacks:
-  Indirect: 12/6
-  Direct: 9/6
-  Close: 10/4
+  Ranged Space: 6/13
+  Indirect: 6/13
+  Direct: 5/11
+  Close: 3/9
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 6
-Build Cost: 64
+Upkeep / Maintenance: 3
+Build Cost: 26
 Build Resource Requirements:
-  Food: 6
-  Energy: 14
-  Metal: 88
-  Trace: 19
-  Exotica: 6
-  Chemicals: 14
-  Electronics: 20
-Build Light Assault Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+  Food: 2
+  Energy: 23
+  Metal: 27
+  Trace: 6
+  Exotica: 2
+  Chemicals: 32
+  Electronics: 7
+Build PTS Tank in Factory
+Time to Build / Upgrade: 2
+[2300] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1950] PTS Missile Launcher (88)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Reconnaissance Helicopter
-Nick Name: A-HR
+Name: Symbiot PTS Weapon
+Nick Name: Fumerole
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 617
-  Total Strength: 617
-  Planet Strength: 617
-  Space Strength: 0
-  Garrison Strength: 186
+  Tech Score: 1530
+  Unit Score: 1530
+  Average Score: 1530
+  Stat Strength: 724
+  Total Strength: 1530
+  Planet Strength: 1370
+  Space Strength: 884
+  Garrison Strength: 395
 Statistics:
-  Movement Type: air
-  Move Points: 11
+  Movement Type: tread
+  Move Points: 12
   Spot: 8
-  Camouflage: 6
-  Agility: 14
-  Armor: 10
-  Psy Defense: 10
-  Rank: 81
+  Camouflage: 8
+  Agility: 8
+  Armor: 18
+  Psy Defense: 8
+  Rank: 91
+Attacks:
+  Ranged Space: 10/16
+  Air: 11/15
+  Indirect: 9/17
+  Direct: 10/16
+  Close: 12/14
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 7
-Build Cost: 73
+Upkeep / Maintenance: 29
+Build Cost: 285
 Build Resource Requirements:
-  Food: 8
-  Energy: 13
-  Metal: 137
-  Trace: 12
-  Exotica: 8
-  Chemicals: 14
-  Electronics: 12
-Build Reconnaissance Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+  Food: 3
+  Energy: 155
+  Metal: 7
+  Trace: 7
+  Exotica: 4
+  Chemicals: 185
+  Biochems: 227
+  Electronics: 20
+Build Symbiot PTS Weapon in Hive
+Time to Build / Upgrade: 6
+[6995] Technology Required to Build Unit (37):
+  [6995] Symbiot Psychology (37)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Anti-Submarine Helicopter
-Nick Name: A-HAS
+Name: PTS Laser Cannon
+Nick Name: PTS Laser
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 442
-  Total Strength: 617
-  Planet Strength: 617
-  Space Strength: 0
-  Garrison Strength: 218
+  Tech Score: 2044
+  Unit Score: 2043
+  Average Score: 2044
+  Stat Strength: 1422
+  Total Strength: 2043
+  Planet Strength: 1753
+  Space Strength: 1712
+  Garrison Strength: 619
 Statistics:
-  Movement Type: air
+  Movement Type: tread
   Move Points: 8
-  Spot: 6
-  Camouflage: 6
-  Agility: 8
-  Armor: 11
-  Psy Defense: 11
-  Rank: 153
+  Spot: 10
+  Camouflage: 2
+  Agility: 2
+  Armor: 25
+  Psy Defense: 25
+  Rank: 98
 Attacks:
-  Water: 5/18
-  Indirect: 5/17
+  Ranged Space: 10/29
+  Air: 9/15
+  Direct: 14/14
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 9
-Build Cost: 90
+Upkeep / Maintenance: 44
+Build Cost: 441
 Build Resource Requirements:
-  Food: 4
-  Energy: 40
-  Metal: 166
-  Trace: 10
-  Exotica: 4
-  Chemicals: 27
-  Electronics: 8
-Build Anti-Submarine Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+  Food: 2
+  Energy: 10
+  Metal: 12
+  Trace: 9
+  Exotica: 2
+  Chemicals: 25
+  Electronics: 16
+  Ceramsteel: 18
+  Monopols: 51
+Build PTS Laser Cannon in Factory
+Time to Build / Upgrade: 4
+[10295] Technology Required to Build Unit (76):
+  [10295] PTS Fusion Cannon (76)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Command Helicopter
-Nick Name: A-HC
+Name: PTS Meson Cannon
+Nick Name: PTS Meson
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 436
-  Total Strength: 617
-  Planet Strength: 617
-  Space Strength: 0
-  Garrison Strength: 205
+  Tech Score: 3737
+  Unit Score: 3737
+  Average Score: 3737
+  Stat Strength: 2590
+  Total Strength: 3737
+  Planet Strength: 3191
+  Space Strength: 3136
+  Garrison Strength: 962
 Statistics:
-  Movement Type: air
-  Move Points: 9
-  Spot: 6
-  Camouflage: 6
-  Agility: 11
-  Armor: 9
-  Psy Defense: 9
-  Rank: 783
+  Movement Type: tread
+  Move Points: 11
+  Spot: 12
+  Camouflage: 3
+  Agility: 2
+  Armor: 34
+  Psy Defense: 34
+  Rank: 125
 Attacks:
-  Air: 5/5
-  Indirect: 11/12
-  Direct: 3/8
+  Ranged Space: 14/39
+  Air: 12/20
+  Direct: 19/19
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 9
-Build Cost: 85
+Upkeep / Maintenance: 40
 Build Resource Requirements:
-  Food: 5
-  Energy: 21
-  Metal: 111
-  Trace: 10
-  Exotica: 5
-  Chemicals: 15
-  Electronics: 10
-Build Command Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+  Chemicals: 3
+  Electronics: 4
+  Ceramsteel: 1
+Upgrade PTS Laser Cannon to PTS Meson Cannon at Factory
+Time to Build / Upgrade: 1
+[23015] Technology Required to Build Unit (70):
+  [23015] PTS Meson Cannon (70)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Heavy Assault Helicopter
-Nick Name: A-HHA
+Name: Vau PTS Weapon
+Nick Name: Atomizer
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 442
-  Total Strength: 617
-  Planet Strength: 617
-  Space Strength: 0
-  Garrison Strength: 233
+  Tech Score: 3886
+  Unit Score: 3880
+  Average Score: 3883
+  Stat Strength: 2232
+  Total Strength: 3880
+  Planet Strength: 3280
+  Space Strength: 2832
+  Garrison Strength: 876
 Statistics:
-  Movement Type: air
-  Move Points: 7
-  Spot: 6
+  Movement Type: tread
+  Move Points: 14
+  Spot: 10
   Camouflage: 6
-  Agility: 11
-  Armor: 10
-  Psy Defense: 10
-  Rank: 119
+  Agility: 10
+  Armor: 30
+  Psy Defense: 30
+  Rank: 164
 Attacks:
-  Indirect: 8/12
-  Direct: 3/10
-  Close: 7/7
+  Ranged Space: 20/30
+  Air: 16/28
+  Indirect: 20/30
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 7
-Build Cost: 73
+Upkeep / Maintenance: 39
+Build Cost: 392
 Build Resource Requirements:
-  Food: 5
-  Energy: 23
-  Metal: 137
-  Trace: 11
-  Exotica: 4
-  Chemicals: 17
-  Electronics: 12
-Build Heavy Assault Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+  Food: 1
+  Energy: 11
+  Metal: 5
+  Trace: 3
+  Exotica: 1
+  Chemicals: 19
+  Biochems: 22
+  Electronics: 10
+  Ceramsteel: 10
+  Wetware: 8
+  Monopols: 34
+Build Vau PTS Weapon in Vau City
+Time to Build / Upgrade: 4
+[24245] Technology Required to Build Unit (50):
+  [24245] Vau Psychology (50)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Heavy Attack Helicopter
-Nick Name: A-HHAtk
+Name: Discontinuity Cannon
+Nick Name: PTS Beam
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 429
-  Total Strength: 617
-  Planet Strength: 617
-  Space Strength: 0
-  Garrison Strength: 251
+  Tech Score: 4120
+  Unit Score: 3975
+  Average Score: 4047
+  Stat Strength: 2728
+  Total Strength: 3975
+  Planet Strength: 3401
+  Space Strength: 3302
+  Garrison Strength: 1025
 Statistics:
-  Movement Type: air
-  Move Points: 6
-  Spot: 6
-  Camouflage: 6
-  Agility: 11
-  Armor: 10
-  Psy Defense: 10
-  Rank: 119
+  Movement Type: tread
+  Move Points: 11
+  Spot: 12
+  Camouflage: 3
+  Agility: 2
+  Armor: 35
+  Psy Defense: 35
+  Rank: 130
 Attacks:
-  Air: 8/11
-  Indirect: 6/6
-  Direct: 4/9
-  Close: 4/7
+  Ranged Space: 14/41
+  Air: 13/21
+  Direct: 20/20
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 8
-Build Cost: 78
+Upkeep / Maintenance: 39
 Build Resource Requirements:
-  Food: 4
-  Energy: 22
-  Metal: 137
-  Trace: 13
-  Exotica: 4
-  Chemicals: 22
-  Electronics: 14
-Build Heavy Attack Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+  Chemicals: 3
+  Electronics: 4
+Upgrade PTS Laser Cannon to Discontinuity Cannon at Factory
+Time to Build / Upgrade: 1
+[26210] Technology Required to Build Unit (54):
+  [26210] PTS Beam Cannon (54)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Light Attack Helicopter
-Nick Name: A-HLAtk
+Name: Omicron Ray
+Nick Name: Omicron Ray
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 433
-  Total Strength: 617
-  Planet Strength: 617
-  Space Strength: 0
-  Garrison Strength: 218
+  Tech Score: 5202
+  Unit Score: 5201
+  Average Score: 5201
+  Stat Strength: 3650
+  Total Strength: 5201
+  Planet Strength: 4201
+  Space Strength: 4650
+  Garrison Strength: 1212
 Statistics:
-  Movement Type: air
-  Move Points: 8
-  Spot: 6
-  Camouflage: 6
-  Agility: 13
-  Armor: 8
-  Psy Defense: 8
-  Rank: 117
+  Movement Type: tread
+  Move Points: 12
+  Spot: 16
+  Camouflage: 5
+  Agility: 5
+  Armor: 40
+  Psy Defense: 40
+  Rank: 162
 Attacks:
-  Air: 10/9
-  Indirect: 10/4
-  Direct: 6/5
-  Close: 6/4
+  Ranged Space: 20/50
+  Air: 25/11
+  Indirect: 12/23
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 7
-Build Cost: 66
+Upkeep / Maintenance: 38
+Build Cost: 379
 Build Resource Requirements:
-  Food: 5
-  Energy: 16
-  Metal: 88
-  Trace: 18
-  Exotica: 5
-  Chemicals: 17
-  Electronics: 20
-Build Light Attack Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---8--
-Name: Medium Assault Helicopter
-Nick Name: A-HMA
-Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 442
-  Total Strength: 617
-  Planet Strength: 617
-  Space Strength: 0
-  Garrison Strength: 218
-Statistics:
-  Movement Type: air
-  Move Points: 8
-  Spot: 6
-  Camouflage: 6
-  Agility: 12
-  Armor: 9
-  Psy Defense: 9
-  Rank: 119
-Attacks:
-  Indirect: 11/10
-  Direct: 5/8
-  Close: 5/5
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 6
-Build Cost: 64
-Build Resource Requirements:
-  Food: 5
-  Energy: 19
-  Metal: 111
-  Trace: 11
-  Exotica: 5
-  Chemicals: 14
+  Food: 1
+  Energy: 3
+  Metal: 7
+  Trace: 4
+  Exotica: 1
+  Chemicals: 18
+  Biochems: 20
   Electronics: 12
-Build Medium Assault Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---9--
-Name: Medium Attack Helicopter
-Nick Name: A-HMAtk
-Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 427
-  Total Strength: 617
-  Planet Strength: 617
-  Space Strength: 0
-  Garrison Strength: 233
-Statistics:
-  Movement Type: air
-  Move Points: 7
-  Spot: 6
-  Camouflage: 6
-  Agility: 12
-  Armor: 9
-  Psy Defense: 9
-  Rank: 118
-Attacks:
-  Air: 9/10
-  Indirect: 8/5
-  Direct: 5/7
-  Close: 5/5
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 7
-Build Cost: 70
-Build Resource Requirements:
-  Food: 5
-  Energy: 18
-  Metal: 111
-  Trace: 16
-  Exotica: 4
-  Chemicals: 19
-  Electronics: 17
-Build Medium Attack Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+  Ceramsteel: 13
+  Wetware: 8
+  Monopols: 32
+Build Omicron Ray in Factory
+Time to Build / Upgrade: 4
+[49605] Technologies Required to Build Unit (46):
+  [23395] Advanced Hovertech (37)
+  [26210] PTS Beam Cannon (54)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

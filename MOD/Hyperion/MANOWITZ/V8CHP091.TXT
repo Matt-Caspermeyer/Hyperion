@@ -1,44 +1,405 @@
-All units of the unit class Space Mine are listed herein (1 in total):
+All units of the unit class Gunboat are listed herein (9 in total):
 
 --1--
-Name: Space Mine
-Nick Name: Space Mine
+Name: Gunboat
+Nick Name: NN-GB
 Scores & Strengths:
-  Tech Score: 335
-  Unit Score: 334
-  Average Score: 335
-  Stat Strength: 226
-  Total Strength: 334
-  Planet Strength: 0
-  Space Strength: 334
-  Garrison Strength: 0
+  Tech Score: 167
+  Unit Score: 331
+  Average Score: 249
+  Stat Strength: 281
+  Total Strength: 331
+  Planet Strength: 331
+  Space Strength: 0
+  Garrison Strength: 135
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 0
-  Camouflage: 15
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 0
+  Movement Type: naval
+  Move Points: 6
+  Spot: 4
+  Camouflage: 2
+  Agility: 5
+  Armor: 10
+  Psy Defense: 10
+  Rank: 86
 Attacks:
-  Closed Space: 6/18
+  Indirect: 2/6
+  Direct: 3/6
+  Close: 4/5
 Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 5
-Build Cost: 52
+Upkeep / Maintenance: 8
+Build Cost: 84
 Build Resource Requirements:
-  Energy: 22
-  Trace: 28
-  Chemicals: 29
-  Electronics: 19
-Build Space Mine in Starport
+  Food: 8
+  Energy: 28
+  Metal: 58
+  Trace: 12
+  Exotica: 8
+  Chemicals: 16
+  Gems: 1
+Build Gunboat in Well
+Time to Build / Upgrade: 3
+[465] Technologies Required to Build Unit (100):
+  [100] Medical & Biological (100)
+  [100] Physics & Energy (100)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Torpedo Boat
+Nick Name: NN-TP
+Scores & Strengths:
+  Tech Score: 174
+  Unit Score: 344
+  Average Score: 259
+  Stat Strength: 290
+  Total Strength: 344
+  Planet Strength: 344
+  Space Strength: 0
+  Garrison Strength: 130
+Statistics:
+  Movement Type: naval
+  Move Points: 7
+  Spot: 4
+  Camouflage: 3
+  Agility: 4
+  Armor: 10
+  Psy Defense: 10
+  Rank: 53
+Attacks:
+  Water: 3/14
+  Close: 3/4
+Load aboard transport: YES
+Upkeep / Maintenance: 11
+Build Cost: 112
+Build Resource Requirements:
+  Food: 8
+  Energy: 48
+  Metal: 53
+  Trace: 13
+  Exotica: 7
+  Chemicals: 40
+  Gems: 1
+Build Torpedo Boat in Well
+Time to Build / Upgrade: 4
+[535] Technologies Required to Build Unit (99):
+  [100] Medical & Biological (100)
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Submarine Chaser
+Nick Name: NN-SC
+Scores & Strengths:
+  Tech Score: 174
+  Unit Score: 344
+  Average Score: 259
+  Stat Strength: 290
+  Total Strength: 344
+  Planet Strength: 344
+  Space Strength: 0
+  Garrison Strength: 130
+Statistics:
+  Movement Type: naval
+  Move Points: 7
+  Spot: 6
+  Camouflage: 1
+  Agility: 2
+  Armor: 10
+  Psy Defense: 10
+  Rank: 118
+Attacks:
+  Water: 2/14
+  Indirect: 2/13
+Load aboard transport: YES
+Upkeep / Maintenance: 13
+Build Cost: 125
+Build Resource Requirements:
+  Food: 10
+  Energy: 77
+  Metal: 53
+  Trace: 8
+  Exotica: 9
+  Chemicals: 37
+  Gems: 1
+Build Submarine Chaser in Well
+Time to Build / Upgrade: 4
+[535] Technologies Required to Build Unit (99):
+  [100] Medical & Biological (100)
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Naval Sloop
+Nick Name: NN-Sloop
+Scores & Strengths:
+  Tech Score: 177
+  Unit Score: 351
+  Average Score: 264
+  Stat Strength: 260
+  Total Strength: 351
+  Planet Strength: 351
+  Space Strength: 0
+  Garrison Strength: 143
+Statistics:
+  Movement Type: naval
+  Move Points: 6
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
+  Armor: 10
+  Psy Defense: 10
+  Rank: 88
+Attacks:
+  Indirect: 3/10
+  Direct: 3/7
+  Close: 8/5
+Load aboard transport: YES
+Upkeep / Maintenance: 9
+Build Cost: 86
+Build Resource Requirements:
+  Food: 6
+  Energy: 38
+  Metal: 48
+  Trace: 19
+  Exotica: 6
+  Chemicals: 17
+Build Naval Sloop in Well
+Time to Build / Upgrade: 3
+[605] Technologies Required to Build Unit (99):
+  [230] Hospitals (97)
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Naval Corvette
+Nick Name: NN-Corv
+Scores & Strengths:
+  Tech Score: 520
+  Unit Score: 520
+  Average Score: 520
+  Stat Strength: 440
+  Total Strength: 520
+  Planet Strength: 520
+  Space Strength: 0
+  Garrison Strength: 183
+Statistics:
+  Movement Type: naval
+  Move Points: 8
+  Spot: 6
+  Camouflage: 4
+  Agility: 6
+  Armor: 12
+  Psy Defense: 12
+  Rank: 94
+Attacks:
+  Indirect: 3/12
+  Direct: 2/12
+  Close: 2/10
+Load aboard transport: YES
+Upkeep / Maintenance: 5
+Build Cost: 50
+Build Resource Requirements:
+  Food: 4
+  Energy: 28
+  Metal: 32
+  Trace: 5
+  Exotica: 4
+  Chemicals: 19
+  Biochems: 4
+  Electronics: 4
+Build Naval Corvette in Well
 Time to Build / Upgrade: 2
-[1735] Technologies Required to Build Unit (91):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [795] Missiles (86)
+[1770] Technologies Required to Build Unit (95):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [1560] Naval Patrol Ships (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Patrol Boat
+Nick Name: NN-PB
+Scores & Strengths:
+  Tech Score: 520
+  Unit Score: 520
+  Average Score: 520
+  Stat Strength: 453
+  Total Strength: 520
+  Planet Strength: 520
+  Space Strength: 0
+  Garrison Strength: 183
+Statistics:
+  Movement Type: naval
+  Move Points: 8
+  Spot: 6
+  Camouflage: 4
+  Agility: 7
+  Armor: 12
+  Psy Defense: 12
+  Rank: 90
+Attacks:
+  Indirect: 3/6
+  Direct: 4/6
+  Close: 5/5
+Load aboard transport: YES
+Upkeep / Maintenance: 5
+Build Cost: 45
+Build Resource Requirements:
+  Food: 4
+  Energy: 11
+  Metal: 34
+  Trace: 9
+  Exotica: 4
+  Chemicals: 9
+  Biochems: 7
+  Electronics: 7
+Build Patrol Boat in Well
+Time to Build / Upgrade: 2
+[1660] Technologies Required to Build Unit (93):
+  [100] Psychosocial Engineering (100)
+  [1560] Naval Patrol Ships (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Advanced Gunboat
+Nick Name: N-Gunboat2
+Scores & Strengths:
+  Tech Score: 406
+  Unit Score: 558
+  Average Score: 482
+  Stat Strength: 472
+  Total Strength: 558
+  Planet Strength: 558
+  Space Strength: 0
+  Garrison Strength: 197
+Statistics:
+  Movement Type: naval
+  Move Points: 8
+  Spot: 5
+  Camouflage: 3
+  Agility: 6
+  Armor: 13
+  Psy Defense: 13
+  Rank: 92
+Attacks:
+  Indirect: 3/8
+  Direct: 4/8
+  Close: 5/6
+Load aboard transport: YES
+Upkeep / Maintenance: 6
+Build Cost: 55
+Build Resource Requirements:
+  Food: 5
+  Energy: 19
+  Metal: 53
+  Trace: 9
+  Exotica: 5
+  Chemicals: 14
+  Electronics: 8
+Advanced Gunboat cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Fast Torpedo Boat
+Nick Name: NN-FTB
+Scores & Strengths:
+  Tech Score: 1134
+  Unit Score: 1133
+  Average Score: 1134
+  Stat Strength: 713
+  Total Strength: 1133
+  Planet Strength: 1133
+  Space Strength: 0
+  Garrison Strength: 341
+Statistics:
+  Movement Type: naval
+  Move Points: 11
+  Spot: 10
+  Camouflage: 6
+  Agility: 8
+  Armor: 14
+  Psy Defense: 14
+  Rank: 112
+Attacks:
+  Water: 10/20
+  Direct: 10/16
+  Close: 6/10
+Load aboard transport: YES
+Upkeep / Maintenance: 8
+Build Cost: 77
+Build Resource Requirements:
+  Food: 3
+  Energy: 28
+  Metal: 12
+  Trace: 15
+  Exotica: 4
+  Chemicals: 35
+  Biochems: 8
+  Electronics: 14
+  Ceramsteel: 14
+Build Fast Torpedo Boat in Well
+Time to Build / Upgrade: 3
+[4695] Technology Required to Build Unit (83):
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Naval Cutter
+Nick Name: NN-Cutter
+Scores & Strengths:
+  Tech Score: 1134
+  Unit Score: 1133
+  Average Score: 1134
+  Stat Strength: 668
+  Total Strength: 1133
+  Planet Strength: 1133
+  Space Strength: 0
+  Garrison Strength: 314
+Statistics:
+  Movement Type: naval
+  Move Points: 13
+  Spot: 8
+  Camouflage: 4
+  Agility: 9
+  Armor: 13
+  Psy Defense: 13
+  Rank: 112
+Attacks:
+  Water: 9/25
+  Air: 8/10
+  Direct: 10/16
+Load aboard transport: YES
+Upkeep / Maintenance: 8
+Build Cost: 84
+Build Resource Requirements:
+  Food: 3
+  Energy: 36
+  Metal: 10
+  Trace: 13
+  Exotica: 4
+  Chemicals: 44
+  Biochems: 8
+  Electronics: 12
+  Ceramsteel: 12
+Build Naval Cutter in Well
+Time to Build / Upgrade: 3
+[4695] Technology Required to Build Unit (83):
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

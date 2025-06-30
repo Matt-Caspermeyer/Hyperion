@@ -1,272 +1,145 @@
-All units of the unit class Space Cargo Shuttle are listed herein (6 in total):
+All units of the unit class Space Bulk Hauler are listed herein (3 in total):
 
 --1--
-Name: Space Cargo Shuttle
-Nick Name: SS-CS
+Name: Space Bulk Hauler
+Nick Name: SS-BH
 Scores & Strengths:
-  Tech Score: 690
-  Unit Score: 690
-  Average Score: 690
-  Stat Strength: 690
-  Total Strength: 690
+  Tech Score: 342
+  Unit Score: 682
+  Average Score: 512
+  Stat Strength: 498
+  Total Strength: 682
   Planet Strength: 0
-  Space Strength: 0
+  Space Strength: 682
   Garrison Strength: 0
 Statistics:
   Movement Type: space
   Move Points: 2
   Spot: 10
-  Camouflage: 2
-  Agility: 2
-  Armor: 17
-  Psy Defense: 17
-  Rank: 67
-Cargo Space: 1
+  Camouflage: 1
+  Agility: 1
+  Armor: 14
+  Psy Defense: 14
+  Rank: 169
+Attacks:
+  Direct Space: 7/17
+  Closed Space: 5/13
+Cargo Space: 4
 Immune to Plague
-Upkeep / Maintenance: 16
-Build Cost: 159
+Upkeep / Maintenance: 47
+Build Cost: 468
 Build Resource Requirements:
-  Food: 4
-  Energy: 1
-  Metal: 151
-  Trace: 6
-  Exotica: 3
-  Chemicals: 50
-  Electronics: 5
-Build Space Cargo Shuttle in Starport
-Time to Build / Upgrade: 3
-[2910] Technologies Required to Build Unit (91):
+  Food: 10
+  Energy: 46
+  Metal: 95
+  Trace: 23
+  Exotica: 9
+  Chemicals: 87
+  Electronics: 14
+Build Space Bulk Hauler in Starport
+Time to Build / Upgrade: 5
+[1170] Technologies Required to Build Unit (95):
+  [230] Hospitals (97)
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
-  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Space Transport
-Nick Name: SS-X
+Name: Jump Bulk Hauler
+Nick Name: JJ-BH
 Scores & Strengths:
-  Tech Score: 1943
-  Unit Score: 1941
-  Average Score: 1942
-  Stat Strength: 1853
-  Total Strength: 1941
+  Tech Score: 1168
+  Unit Score: 1167
+  Average Score: 1167
+  Stat Strength: 1082
+  Total Strength: 1167
   Planet Strength: 0
-  Space Strength: 1941
+  Space Strength: 1167
   Garrison Strength: 0
 Statistics:
-  Movement Type: space
-  Move Points: 5
-  Spot: 12
-  Camouflage: 4
-  Agility: 10
-  Armor: 28
-  Psy Defense: 28
-  Rank: 99
+  Movement Type: jump
+  Move Points: 3
+  Spot: 10
+  Camouflage: 2
+  Agility: 1
+  Armor: 22
+  Psy Defense: 22
+  Rank: 192
 Attacks:
-  Closed Space: 8/11
-Cargo Space: 3
+  Direct Space: 5/10
+  Closed Space: 5/7
+Cargo Space: 4
+Bulk Hauler - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 13
-Build Cost: 126
+Upkeep / Maintenance: 616
+Build Cost: 6163
 Build Resource Requirements:
-  Food: 2
-  Energy: 4
-  Metal: 28
-  Trace: 5
-  Exotica: 2
-  Chemicals: 11
-  Biochems: 3
-  Electronics: 7
+  Food: 3
+  Energy: 5
+  Metal: 22
+  Trace: 6
+  Exotica: 3
+  Chemicals: 16
+  Electronics: 9
   Ceramsteel: 32
-Build Space Transport in Starport
-Time to Build / Upgrade: 3
-[9620] Technology Required to Build Unit (86):
-  [9620] Space Warfare (86)
+  Monopols: 44
+S  ingularities: 2
+Build Jump Bulk Hauler in Starport
+Time to Build / Upgrade: 4
+[5975] Technologies Required to Build Unit (77):
+  [1690] Ceramsteel (84)
+  [4285] Jump Drives (70)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Space Transport Carrier
-Nick Name: SS-CVX
+Name: Gate Bulk Hauler
+Nick Name: GG-BH
 Scores & Strengths:
-  Tech Score: 2511
-  Unit Score: 2510
-  Average Score: 2511
-  Stat Strength: 2124
-  Total Strength: 2510
-  Planet Strength: 0
-  Space Strength: 2510
-  Garrison Strength: 0
+  Tech Score: 7257
+  Unit Score: 7256
+  Average Score: 7257
+  Stat Strength: 6061
+  Total Strength: 7256
+  Planet Strength: 6621
+  Space Strength: 6696
+  Garrison Strength: 1380
 Statistics:
-  Movement Type: space
-  Move Points: 8
-  Spot: 12
-  Camouflage: 4
-  Agility: 10
-  Armor: 30
-  Psy Defense: 30
-  Rank: 195
-Attacks:
-  Direct Space: 12/18
-  Closed Space: 10/17
-Cargo Space: 4
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 138
-Build Cost: 1375
-Build Resource Requirements:
-  Food: 1
-  Energy: 8
-  Metal: 14
-  Trace: 6
-  Exotica: 1
-  Chemicals: 15
-  Biochems: 20
-  Electronics: 8
-  Ceramsteel: 18
-  Monopols: 23
-Build Space Transport Carrier in Starport
-Time to Build / Upgrade: 3
-[13545] Technology Required to Build Unit (80):
-  [13545] Space Capital Ships (80)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: Colony Star
-Nick Name: Colony Star
-Scores & Strengths:
-  Tech Score: 3107
-  Unit Score: 3105
-  Average Score: 3106
-  Stat Strength: 3105
-  Total Strength: 3105
-  Planet Strength: 0
-  Space Strength: 0
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 16
-  Spot: 14
-  Camouflage: 5
-  Agility: 6
-  Armor: 36
-  Psy Defense: 36
-  Rank: 121
-Cargo Space: 4
-Immune to Plague
-Upkeep / Maintenance: 106
-Build Cost: 1056
-Build Resource Requirements:
-  Food: 2
-  Energy: 2
-  Metal: 16
-  Trace: 3
-  Exotica: 2
-  Chemicals: 6
-  Biochems: 16
-  Electronics: 4
-  Ceramsteel: 22
-  Monopols: 25
-Build Colony Star in Starport
-Time to Build / Upgrade: 3
-[17990] Technology Required to Build Unit (67):
-  [17990] Lander Transports (67)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Space Attack Transport
-Nick Name: SS-SAX
-Scores & Strengths:
-  Tech Score: 3107
-  Unit Score: 3107
-  Average Score: 3107
-  Stat Strength: 2564
-  Total Strength: 3107
-  Planet Strength: 0
-  Space Strength: 3107
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 10
-  Spot: 12
-  Camouflage: 4
-  Agility: 16
-  Armor: 32
-  Psy Defense: 32
-  Rank: 195
-Attacks:
-  Direct Space: 16/18
-  Closed Space: 15/17
-Cargo Space: 3
-Immune to Plague
-Upkeep / Maintenance: 96
-Build Cost: 957
-Build Resource Requirements:
-  Food: 1
-  Energy: 9
-  Metal: 13
-  Trace: 8
-  Exotica: 2
-  Chemicals: 15
-  Biochems: 21
-  Electronics: 12
-  Ceramsteel: 17
-  Monopols: 24
-Build Space Attack Transport in Starport
-Time to Build / Upgrade: 3
-[17990] Technology Required to Build Unit (67):
-  [17990] Lander Transports (67)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---6--
-Name: Jump High-Speed Transport
-Nick Name: Jump HHSSTT
-Scores & Strengths:
-  Tech Score: 6745
-  Unit Score: 6744
-  Average Score: 6744
-  Stat Strength: 5956
-  Total Strength: 6744
-  Planet Strength: 0
-  Space Strength: 6744
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 14
-  Spot: 14
-  Camouflage: 6
-  Agility: 36
+  Movement Type: gate
+  Move Points: 23
+  Spot: 16
+  Camouflage: 12
+  Agility: 30
   Armor: 46
   Psy Defense: 46
-  Rank: 253
+  Rank: 275
 Attacks:
-  Direct Space: 18/23
-  Closed Space: 17/22
-Cargo Space: 2
+  Direct Space: 14/25
+  Closed Space: 15/19
+  Direct: 14/23
+  Close: 14/17
+Cargo Space: 4
+Bulk Hauler - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 686
-Build Cost: 6856
+Upkeep / Maintenance: 2751
+Build Cost: 27514
 Build Resource Requirements:
   Food: 1
-  Energy: 9
-  Metal: 8
+  Energy: 13
+  Metal: 9
   Trace: 4
-  Exotica: 1
-  Chemicals: 16
-  Biochems: 19
-  Electronics: 11
-  Ceramsteel: 14
-  Wetware: 6
-  Monopols: 21
-S  ingularities: 4
-Build Jump High-Speed Transport in Starport
+  Exotica: 2
+  Chemicals: 22
+  Biochems: 24
+  Electronics: 12
+  Ceramsteel: 16
+  Wetware: 7
+  Monopols: 31
+S  ingularities: 5
+Build Gate Bulk Hauler in Starport
 Time to Build / Upgrade: 4
-[63000] Technologies Required to Build Unit (60):
-  [17990] Lander Transports (67)
-  [45010] Hover Navalcraft (52)
+[55760] Technology Required to Build Unit (49):
+  [55760] Gate Transports (49)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

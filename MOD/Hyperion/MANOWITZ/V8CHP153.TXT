@@ -1,45 +1,45 @@
-All units of the unit class Symbiot Arcer are listed herein (2 in total):
+All units of the unit class Symbiot Tank are listed herein (3 in total):
 
 --1--
-Name: Symbiot Arcer
-Nick Name: Arcer
+Name: Symbiot Tank
+Nick Name: Shuffler
 Scores & Strengths:
   Tech Score: 1530
   Unit Score: 1530
   Average Score: 1530
-  Stat Strength: 1284
+  Stat Strength: 1232
   Total Strength: 1530
   Planet Strength: 1530
   Space Strength: 0
-  Garrison Strength: 382
+  Garrison Strength: 408
 Statistics:
-  Movement Type: wheel
-  Move Points: 16
-  Spot: 14
-  Camouflage: 16
-  Agility: 16
-  Armor: 16
-  Psy Defense: 8
-  Rank: 140
+  Movement Type: tread
+  Move Points: 14
+  Spot: 12
+  Camouflage: 14
+  Agility: 14
+  Armor: 20
+  Psy Defense: 10
+  Rank: 85
 Attacks:
-  Air: 4/10
-  Indirect: 10/15
-  Close: 7/8
+  Indirect: 10/11
+  Direct: 10/10
+  Close: 11/8
 Load aboard transport: YES
 Immune to Plague
 Causes Tactical Plague
-Upkeep / Maintenance: 18
-Build Cost: 175
+Upkeep / Maintenance: 17
+Build Cost: 171
 Build Resource Requirements:
-  Food: 7
-  Energy: 67
-  Metal: 6
-  Trace: 10
-  Exotica: 8
-  Chemicals: 39
-  Biochems: 68
-  Electronics: 26
-Build Symbiot Arcer in Hive
+  Food: 5
+  Energy: 49
+  Metal: 9
+  Trace: 9
+  Exotica: 6
+  Chemicals: 37
+  Biochems: 73
+  Electronics: 23
+Build Symbiot Tank in Hive
 Time to Build / Upgrade: 3
 [6995] Technology Required to Build Unit (37):
   [6995] Symbiot Psychology (37)
@@ -48,46 +48,91 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Bazozad (Symbiot)
-Nick Name: Bazozad
+Name: Galka Setzo (Symbiot)
+Nick Name: Galka Setzo
 Scores & Strengths:
   Tech Score: 1530
   Unit Score: 1530
   Average Score: 1530
-  Stat Strength: 1094
+  Stat Strength: 1218
   Total Strength: 1530
   Planet Strength: 1530
   Space Strength: 0
   Garrison Strength: 408
 Statistics:
-  Movement Type: wheel
+  Movement Type: tread
   Move Points: 14
-  Spot: 13
-  Camouflage: 15
-  Agility: 18
-  Armor: 12
-  Psy Defense: 6
-  Rank: 114
+  Spot: 9
+  Camouflage: 11
+  Agility: 10
+  Armor: 24
+  Psy Defense: 12
+  Rank: 90
 Attacks:
-  Indirect: 8/16
-  Direct: 10/14
-  Close: 14/12
+  Indirect: 7/24
+  Direct: 9/16
 Load aboard transport: YES
 Immune to Plague
 Causes Tactical Plague
-Upkeep / Maintenance: 26
-Build Cost: 260
+Upkeep / Maintenance: 23
+Build Cost: 233
 Build Resource Requirements:
-  Food: 7
-  Energy: 99
-  Metal: 3
-  Trace: 12
-  Exotica: 8
-  Chemicals: 73
-  Biochems: 103
-  Electronics: 30
-Build Bazozad (Symbiot) in Hive
+  Food: 4
+  Energy: 134
+  Metal: 12
+  Trace: 5
+  Exotica: 5
+  Chemicals: 54
+  Biochems: 92
+  Electronics: 13
+Build Galka Setzo (Symbiot) in Hive
 Time to Build / Upgrade: 4
+[6995] Technology Required to Build Unit (37):
+  [6995] Symbiot Psychology (37)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Zaibo (Symbiot)
+Nick Name: Zaibo
+Scores & Strengths:
+  Tech Score: 1530
+  Unit Score: 1530
+  Average Score: 1530
+  Stat Strength: 1361
+  Total Strength: 1530
+  Planet Strength: 1530
+  Space Strength: 0
+  Garrison Strength: 351
+Statistics:
+  Movement Type: foot
+  Move Points: 19
+  Spot: 15
+  Camouflage: 17
+  Agility: 21
+  Armor: 6
+  Psy Defense: 3
+  Rank: 100
+Attacks:
+  Air: 5/5
+  Close: 12/12
+Load aboard transport: YES
+Immune to Plague
+Causes Tactical Plague
+Upkeep / Maintenance: 16
+Build Cost: 161
+Build Resource Requirements:
+  Food: 10
+  Energy: 35
+  Metal: 1
+  Trace: 14
+  Exotica: 12
+  Chemicals: 43
+  Biochems: 71
+  Electronics: 35
+Build Zaibo (Symbiot) in Hive
+Time to Build / Upgrade: 3
 [6995] Technology Required to Build Unit (37):
   [6995] Symbiot Psychology (37)
 Counts as planetary flock: YES

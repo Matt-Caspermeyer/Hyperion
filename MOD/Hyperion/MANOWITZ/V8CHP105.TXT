@@ -1,280 +1,42 @@
-All units of the unit class Amphibious Heavy Tank are listed herein (6 in total):
+All units of the unit class Underwater Barrier are listed herein (1 in total):
 
 --1--
-Name: Amphibious Heavy Tank
-Nick Name: N-ATH
+Name: Underwater Barrier
+Nick Name: Barrier
 Scores & Strengths:
-  Tech Score: 410
-  Unit Score: 409
-  Average Score: 410
-  Stat Strength: 311
-  Total Strength: 409
-  Planet Strength: 409
+  Tech Score: 406
+  Unit Score: 408
+  Average Score: 407
+  Stat Strength: 352
+  Total Strength: 408
+  Planet Strength: 408
   Space Strength: 0
-  Garrison Strength: 182
+  Garrison Strength: 510
 Statistics:
-  Movement Type: craft
-  Move Points: 5
-  Spot: 2
-  Camouflage: 2
-  Agility: 6
-  Armor: 11
-  Psy Defense: 11
-  Rank: 66
-Attacks:
-  Indirect: 6/8
-  Direct: 5/7
-  Close: 3/5
-Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 28
-Build Resource Requirements:
-  Food: 2
-  Energy: 12
-  Metal: 31
-  Trace: 5
-  Exotica: 2
-  Chemicals: 7
-  Electronics: 4
-Build Amphibious Heavy Tank in Factory
-Time to Build / Upgrade: 2
-[1595] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [1195] Naval Warfare (90)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---2--
-Name: Amphibious Light Tank
-Nick Name: N-ATL
-Scores & Strengths:
-  Tech Score: 410
-  Unit Score: 409
-  Average Score: 410
-  Stat Strength: 300
-  Total Strength: 409
-  Planet Strength: 409
-  Space Strength: 0
-  Garrison Strength: 154
-Statistics:
-  Movement Type: craft
-  Move Points: 7
-  Spot: 2
-  Camouflage: 2
-  Agility: 9
-  Armor: 9
-  Psy Defense: 9
-  Rank: 67
-Attacks:
-  Indirect: 8/6
-  Direct: 8/5
-  Close: 7/3
-Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 34
-Build Resource Requirements:
-  Food: 4
-  Energy: 10
-  Metal: 21
-  Trace: 12
-  Exotica: 4
-  Chemicals: 7
-  Electronics: 10
-Build Amphibious Light Tank in Factory
-Time to Build / Upgrade: 2
-[1595] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [1195] Naval Warfare (90)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---3--
-Name: Amphibious Medium Tank
-Nick Name: N-ATM
-Scores & Strengths:
-  Tech Score: 410
-  Unit Score: 409
-  Average Score: 410
-  Stat Strength: 308
-  Total Strength: 409
-  Planet Strength: 409
-  Space Strength: 0
-  Garrison Strength: 166
-Statistics:
-  Movement Type: craft
-  Move Points: 6
-  Spot: 2
-  Camouflage: 2
-  Agility: 8
-  Armor: 10
-  Psy Defense: 10
-  Rank: 66
-Attacks:
-  Indirect: 7/7
-  Direct: 6/6
-  Close: 4/4
-Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 29
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 25
-  Trace: 7
-  Exotica: 3
-  Chemicals: 7
-  Electronics: 5
-Build Amphibious Medium Tank in Factory
-Time to Build / Upgrade: 2
-[1595] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [1195] Naval Warfare (90)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---4--
-Name: Amphibious Medium Tank II
-Nick Name: N-ATM2
-Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 564
-  Average Score: 574
-  Stat Strength: 426
-  Total Strength: 564
-  Planet Strength: 564
-  Space Strength: 0
-  Garrison Strength: 213
-Statistics:
-  Movement Type: craft
-  Move Points: 7
-  Spot: 2
-  Camouflage: 2
-  Agility: 9
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 0
+  Camouflage: 8
+  Agility: 0
   Armor: 12
   Psy Defense: 12
-  Rank: 70
+  Rank: 4
 Attacks:
-  Indirect: 8/8
-  Direct: 7/7
-  Close: 5/5
+  Water: 4/14
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 38
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 6
+Build Cost: 56
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 28
-  Trace: 7
-  Exotica: 3
-  Chemicals: 8
-  Biochems: 5
-  Electronics: 6
-Build Amphibious Medium Tank II in Factory
+  Energy: 15
+  Metal: 42
+  Trace: 9
+  Chemicals: 15
+  Electronics: 7
+Build Underwater Barrier in Well
 Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Amphibious Heavy Tank II
-Nick Name: N-ATH2
-Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 573
-  Average Score: 579
-  Stat Strength: 431
-  Total Strength: 573
-  Planet Strength: 573
-  Space Strength: 0
-  Garrison Strength: 233
-Statistics:
-  Movement Type: craft
-  Move Points: 6
-  Spot: 2
-  Camouflage: 2
-  Agility: 7
-  Armor: 13
-  Psy Defense: 13
-  Rank: 70
-Attacks:
-  Indirect: 7/10
-  Direct: 6/8
-  Close: 4/6
-Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 35
-Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 32
-  Trace: 5
-  Exotica: 2
-  Chemicals: 8
-  Biochems: 4
-  Electronics: 4
-Build Amphibious Heavy Tank II in Factory
-Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Amphibious Light Tank II
-Nick Name: N-ATL2
-Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 576
-  Average Score: 580
-  Stat Strength: 414
-  Total Strength: 576
-  Planet Strength: 576
-  Space Strength: 0
-  Garrison Strength: 203
-Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 2
-  Camouflage: 2
-  Agility: 10
-  Armor: 11
-  Psy Defense: 11
-  Rank: 72
-Attacks:
-  Indirect: 10/7
-  Direct: 10/6
-  Close: 8/4
-Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 50
-Build Resource Requirements:
-  Food: 3
-  Energy: 10
-  Metal: 23
-  Trace: 13
-  Exotica: 3
-  Chemicals: 8
-  Biochems: 9
-  Electronics: 10
-Build Amphibious Light Tank II in Factory
-Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
-Counts as planetary flock: YES
-Unit Eats: YES
+[1305] Technologies Required to Build Unit (95):
+  [110] Structural Engineering (99)
+  [1195] Naval Warfare (90)
 Unit can be disbanded: YES

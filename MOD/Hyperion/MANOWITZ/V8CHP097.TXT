@@ -1,187 +1,132 @@
-All units of the unit class Space Monitor are listed herein (4 in total):
+All units of the unit class Naval Monitor are listed herein (3 in total):
 
 --1--
-Name: Space Monitor
-Nick Name: SS-BM
+Name: Naval Monitor
+Nick Name: NN-BM
 Scores & Strengths:
-  Tech Score: 369
-  Unit Score: 368
-  Average Score: 368
-  Stat Strength: 309
-  Total Strength: 368
-  Planet Strength: 0
-  Space Strength: 368
-  Garrison Strength: 0
+  Tech Score: 177
+  Unit Score: 351
+  Average Score: 264
+  Stat Strength: 330
+  Total Strength: 351
+  Planet Strength: 351
+  Space Strength: 0
+  Garrison Strength: 143
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
+  Movement Type: naval
+  Move Points: 6
+  Spot: 2
   Camouflage: 1
   Agility: 1
-  Armor: 11
-  Psy Defense: 11
-  Rank: 116
+  Armor: 12
+  Psy Defense: 12
+  Rank: 125
 Attacks:
-  Ranged Space: 1/11
-  Direct Space: 2/10
-  Closed Space: 4/7
-Immune to Plague
-Upkeep / Maintenance: 12
-Build Cost: 115
+  Indirect: 1/21
+Upkeep / Maintenance: 10
+Build Cost: 100
 Build Resource Requirements:
-  Food: 6
-  Energy: 15
-  Metal: 49
-  Trace: 10
-  Exotica: 5
-  Chemicals: 48
-  Electronics: 6
-Build Space Monitor in Starport
+  Food: 5
+  Energy: 89
+  Metal: 69
+  Trace: 4
+  Exotica: 4
+  Chemicals: 4
+Build Naval Monitor in Well
 Time to Build / Upgrade: 3
-[1270] Technologies Required to Build Unit (96):
+[605] Technologies Required to Build Unit (99):
   [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
+  [110] Structural Engineering (99)
   [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Space Battlestar
-Nick Name: SS-BB
+Name: Naval Dreadnought
+Nick Name: NN-BD
 Scores & Strengths:
-  Tech Score: 387
-  Unit Score: 965
-  Average Score: 676
-  Stat Strength: 828
-  Total Strength: 965
-  Planet Strength: 0
-  Space Strength: 965
-  Garrison Strength: 0
+  Tech Score: 775
+  Unit Score: 1546
+  Average Score: 1160
+  Stat Strength: 1273
+  Total Strength: 1546
+  Planet Strength: 1546
+  Space Strength: 0
+  Garrison Strength: 584
 Statistics:
-  Movement Type: space
-  Move Points: 2
-  Spot: 10
-  Camouflage: 1
-  Agility: 1
-  Armor: 19
-  Psy Defense: 19
-  Rank: 124
+  Movement Type: naval
+  Move Points: 7
+  Spot: 8
+  Camouflage: 2
+  Agility: 2
+  Armor: 24
+  Psy Defense: 24
+  Rank: 113
 Attacks:
-  Ranged Space: 3/17
-  Direct Space: 3/14
-  Closed Space: 4/11
-Immune to Plague
-Upkeep / Maintenance: 36
-Build Cost: 359
+  Indirect: 5/24
+  Direct: 6/20
+  Close: 3/11
+Upkeep / Maintenance: 11
+Build Cost: 109
 Build Resource Requirements:
-  Food: 8
-  Energy: 28
-  Metal: 129
-  Trace: 15
-  Exotica: 8
-  Chemicals: 101
-  Electronics: 8
-Build Space Battlestar in Starport
-Time to Build / Upgrade: 6
-[1500] Technologies Required to Build Unit (95):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [170] Fire Control System (89)
-  [795] Rocket Propulsion (90)
+  Food: 3
+  Energy: 47
+  Metal: 90
+  Trace: 7
+  Exotica: 3
+  Chemicals: 23
+  Biochems: 4
+  Electronics: 5
+Build Naval Dreadnought in Well
+Time to Build / Upgrade: 4
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
   [100] Psychosocial Engineering (100)
-  [60] Torpedo (98)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Space Fast Battlestar
-Nick Name: SS-BF
+Name: Naval Super Dreadnought
+Nick Name: NN-BSD
 Scores & Strengths:
-  Tech Score: 2511
-  Unit Score: 2510
-  Average Score: 2511
-  Stat Strength: 2330
-  Total Strength: 2510
-  Planet Strength: 0
-  Space Strength: 2510
-  Garrison Strength: 0
+  Tech Score: 775
+  Unit Score: 1546
+  Average Score: 1160
+  Stat Strength: 1358
+  Total Strength: 1546
+  Planet Strength: 1546
+  Space Strength: 0
+  Garrison Strength: 631
 Statistics:
-  Movement Type: space
-  Move Points: 16
-  Spot: 12
+  Movement Type: naval
+  Move Points: 6
+  Spot: 8
   Camouflage: 2
   Agility: 2
-  Armor: 31
-  Psy Defense: 31
-  Rank: 148
+  Armor: 25
+  Psy Defense: 25
+  Rank: 114
 Attacks:
-  Ranged Space: 2/24
-  Direct Space: 3/20
-  Closed Space: 4/18
-Immune to Plague
-Upkeep / Maintenance: 95
-Build Cost: 950
+  Indirect: 3/26
+  Direct: 5/22
+Upkeep / Maintenance: 11
+Build Cost: 108
 Build Resource Requirements:
-  Food: 2
-  Energy: 11
-  Metal: 15
-  Trace: 2
-  Exotica: 2
-  Chemicals: 25
-  Biochems: 23
-  Electronics: 3
-  Ceramsteel: 19
-  Monopols: 34
-Build Space Fast Battlestar in Starport
+  Food: 3
+  Energy: 49
+  Metal: 97
+  Trace: 6
+  Exotica: 3
+  Chemicals: 21
+  Biochems: 3
+  Electronics: 4
+Build Naval Super Dreadnought in Well
 Time to Build / Upgrade: 4
-[13545] Technology Required to Build Unit (80):
-  [13545] Space Capital Ships (80)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: Space Pocket Battlestar
-Nick Name: SS-BP
-Scores & Strengths:
-  Tech Score: 2511
-  Unit Score: 2510
-  Average Score: 2511
-  Stat Strength: 2160
-  Total Strength: 2510
-  Planet Strength: 0
-  Space Strength: 2510
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 9
-  Spot: 12
-  Camouflage: 2
-  Agility: 3
-  Armor: 31
-  Psy Defense: 31
-  Rank: 149
-Attacks:
-  Ranged Space: 9/22
-  Direct Space: 4/20
-  Closed Space: 4/18
-Immune to Plague
-Upkeep / Maintenance: 87
-Build Cost: 870
-Build Resource Requirements:
-  Food: 1
-  Energy: 10
-  Metal: 15
-  Trace: 3
-  Exotica: 1
-  Chemicals: 22
-  Biochems: 22
-  Electronics: 5
-  Ceramsteel: 19
-  Monopols: 31
-Build Space Pocket Battlestar in Starport
-Time to Build / Upgrade: 4
-[13545] Technology Required to Build Unit (80):
-  [13545] Space Capital Ships (80)
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

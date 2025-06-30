@@ -1,216 +1,83 @@
-All units of the unit class Heavy Tank Killer are listed herein (5 in total):
+All units of the unit class Powered Armor Legion are listed herein (2 in total):
 
 --1--
-Name: Heavy Tank Killer
-Nick Name: Direwolf
+Name: Powered Armor Legion
+Nick Name: Power Lgn
 Scores & Strengths:
-  Tech Score: 2728
-  Unit Score: 2728
-  Average Score: 2728
-  Stat Strength: 2358
-  Total Strength: 2728
-  Planet Strength: 2728
+  Tech Score: 2010
+  Unit Score: 2010
+  Average Score: 2010
+  Stat Strength: 1135
+  Total Strength: 2010
+  Planet Strength: 2010
   Space Strength: 0
-  Garrison Strength: 756
+  Garrison Strength: 537
 Statistics:
-  Movement Type: tread
-  Move Points: 13
-  Spot: 8
-  Camouflage: 6
+  Movement Type: foot
+  Move Points: 14
+  Spot: 10
+  Camouflage: 10
   Agility: 17
-  Armor: 30
-  Psy Defense: 30
-  Rank: 106
+  Armor: 15
+  Psy Defense: 15
+  Rank: 81
 Attacks:
-  Indirect: 8/27
-  Direct: 7/22
+  Air: 16/15
+  Direct: 15/21
+  Close: 20/16
 Load aboard transport: YES
-Upkeep / Maintenance: 29
-Build Cost: 234
+Upkeep / Maintenance: 30
+Build Cost: 287
 Build Resource Requirements:
-  Electronics: 13
-  Ceramsteel: 19
-  Monopols: 33
-Upgrade Tank Killer to Heavy Tank Killer at Factory
-Time to Build / Upgrade: 1
-[15130] Technology Required to Build Unit (68):
-  [15130] Fusion Battle Tanks (68)
+  Trace: 4
+  Chemicals: 13
+  Electronics: 41
+  Ceramsteel: 7
+  Monopols: 36
+Upgrade Infantry Legion to Powered Armor Legion at Fort
+Time to Build / Upgrade: 3
+[10065] Technology Required to Build Unit (79):
+  [10065] Powered-Armor Legion (79)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: 3rd-Republic Siege Tank
-Nick Name: Golem
+Name: Assault Legion
+Nick Name: Assault Lgn
 Scores & Strengths:
-  Tech Score: 2921
-  Unit Score: 2865
-  Average Score: 2893
-  Stat Strength: 2480
-  Total Strength: 2865
-  Planet Strength: 2865
+  Tech Score: 2370
+  Unit Score: 2296
+  Average Score: 2333
+  Stat Strength: 1282
+  Total Strength: 2296
+  Planet Strength: 2296
   Space Strength: 0
-  Garrison Strength: 794
+  Garrison Strength: 592
 Statistics:
-  Movement Type: hover
-  Move Points: 13
-  Spot: 8
-  Camouflage: 6
-  Agility: 17
-  Armor: 31
-  Psy Defense: 31
-  Rank: 84
-Attacks:
-  Indirect: 8/28
-  Direct: 7/23
-Load aboard transport: YES
-Upkeep / Maintenance: 24
-Build Cost: 235
-Build Resource Requirements:
-  Food: 1
-  Energy: 8
-  Metal: 7
-  Trace: 2
-  Exotica: 1
-  Chemicals: 11
-  Electronics: 8
-  Ceramsteel: 12
-  Monopols: 21
-Build 3rd-Republic Siege Tank in Factory
-Time to Build / Upgrade: 3
-[30105] Technologies Required to Build Unit (69):
-  [15130] Fusion Battle Tanks (68)
-  [14975] Power Hovertanks (70)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---3--
-Name: Shock Heavy Tank Killer
-Nick Name: Hellwolf
-Scores & Strengths:
-  Tech Score: 2921
-  Unit Score: 2865
-  Average Score: 2893
-  Stat Strength: 2480
-  Total Strength: 2865
-  Planet Strength: 2865
-  Space Strength: 0
-  Garrison Strength: 794
-Statistics:
-  Movement Type: tread
-  Move Points: 13
-  Spot: 8
-  Camouflage: 6
-  Agility: 17
-  Armor: 31
-  Psy Defense: 31
-  Rank: 109
-Attacks:
-  Indirect: 8/28
-  Direct: 7/23
-Load aboard transport: YES
-Upkeep / Maintenance: 18
-Build Resource Requirements:
-Upgrade Heavy Tank Killer to Shock Heavy Tank Killer at Factory
-Time to Build / Upgrade: 1
-[30105] Technologies Required to Build Unit (69):
-  [15130] Fusion Battle Tanks (68)
-  [14975] Power Hovertanks (70)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---4--
-Name: Stealth Heavy Tank Killer
-Nick Name: Cerberus
-Scores & Strengths:
-  Tech Score: 5358
-  Unit Score: 5454
-  Average Score: 5406
-  Stat Strength: 2454
-  Total Strength: 5454
-  Planet Strength: 5454
-  Space Strength: 0
-  Garrison Strength: 1363
-Statistics:
-  Movement Type: tread
-  Move Points: 16
+  Movement Type: foot
+  Move Points: 15
   Spot: 10
-  Camouflage: 20
-  Agility: 4
-  Armor: 29
-  Psy Defense: 29
-  Rank: 174
+  Camouflage: 11
+  Agility: 18
+  Armor: 16
+  Psy Defense: 16
+  Rank: 87
 Attacks:
-  Indirect: 30/60
-  Direct: 30/40
+  Air: 17/16
+  Direct: 16/23
+  Close: 22/17
 Load aboard transport: YES
-Upkeep / Maintenance: 25
-Build Cost: 250
+Upkeep / Maintenance: 28
 Build Resource Requirements:
-  Energy: 20
-  Metal: 5
-  Trace: 6
-  Exotica: 1
-  Chemicals: 10
-  Biochems: 21
-  Electronics: 15
-  Ceramsteel: 8
-  Wetware: 6
-  Monopols: 19
-Build Stealth Heavy Tank Killer in Factory
-Time to Build / Upgrade: 3
-[37210] Technology Required to Build Unit (34):
-  [37210] Neumonic Land Vehicles (34)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Psy Heavy Tank Killer
-Nick Name: Psywolf
-Scores & Strengths:
-  Tech Score: 2756
-  Unit Score: 5786
-  Average Score: 4271
-  Stat Strength: 5058
-  Total Strength: 5786
-  Planet Strength: 5786
-  Space Strength: 5366
-  Garrison Strength: 1604
-Statistics:
-  Movement Type: tread
-  Move Points: 13
-  Spot: 8
-  Camouflage: 6
-  Agility: 17
-  Armor: 30
-  Psy Defense: 60
-  Rank: 122
-Attacks:
-  Psychic: 14/22
-  Indirect: 9/28
-  Direct: 8/21
-Load aboard transport: YES
-Upkeep / Maintenance: 154
-Build Cost: 1542
-Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 28
-  Trace: 3
-  Exotica: 2
-  Chemicals: 26
-  Electronics: 24
-  Ceramsteel: 48
-  Monopols: 61
-  Gems: 95
-Build Psy Heavy Tank Killer in Factory
-Time to Build / Upgrade: 8
-[15460] Technologies Required to Build Unit (75):
-  [330] Holy Warriors (82)
-  [15130] Fusion Battle Tanks (68)
+  Energy: 2
+  Metal: 1
+  Chemicals: 2
+Upgrade Powered Armor Legion to Assault Legion at Fort
+Time to Build / Upgrade: 1
+[16075] Technologies Required to Build Unit (69):
+  [6010] Cyber Robotics (58)
+  [10065] Powered-Armor Legion (79)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

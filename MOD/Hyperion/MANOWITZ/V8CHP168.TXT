@@ -1,181 +1,216 @@
-All units of the unit class Starbase are listed herein (4 in total):
+All units of the unit class Heavy Tank Killer are listed herein (5 in total):
 
 --1--
-Name: Starbase
-Nick Name: Starbase
+Name: Heavy Tank Killer
+Nick Name: Direwolf
 Scores & Strengths:
-  Tech Score: 1943
-  Unit Score: 2912
-  Average Score: 2427
-  Stat Strength: 2436
-  Total Strength: 2912
-  Planet Strength: 0
-  Space Strength: 2912
-  Garrison Strength: 0
+  Tech Score: 2728
+  Unit Score: 2728
+  Average Score: 2728
+  Stat Strength: 2358
+  Total Strength: 2728
+  Planet Strength: 2728
+  Space Strength: 0
+  Garrison Strength: 756
 Statistics:
-  Movement Type: space
-  Move Points: 4
-  Spot: 10
-  Camouflage: 2
-  Agility: 2
-  Armor: 34
-  Psy Defense: 34
-  Rank: 857
+  Movement Type: tread
+  Move Points: 13
+  Spot: 8
+  Camouflage: 6
+  Agility: 17
+  Armor: 30
+  Psy Defense: 30
+  Rank: 106
 Attacks:
-  Ranged Space: 10/30
-  Direct Space: 11/16
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 55
-Build Cost: 550
+  Indirect: 8/27
+  Direct: 7/22
+Load aboard transport: YES
+Upkeep / Maintenance: 29
+Build Cost: 234
 Build Resource Requirements:
-  Food: 1
-  Energy: 5
-  Metal: 41
-  Trace: 6
-  Exotica: 1
-  Chemicals: 38
-  Biochems: 3
-  Electronics: 8
-  Ceramsteel: 48
-Build Starbase in Starport
-Time to Build / Upgrade: 4
-[9620] Technology Required to Build Unit (86):
-  [9620] Space Warfare (86)
+  Electronics: 13
+  Ceramsteel: 19
+  Monopols: 33
+Upgrade Tank Killer to Heavy Tank Killer at Factory
+Time to Build / Upgrade: 1
+[15130] Technology Required to Build Unit (68):
+  [15130] Fusion Battle Tanks (68)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Fusion Starbase
-Nick Name: SS-FS
+Name: 3rd-Republic Siege Tank
+Nick Name: Golem
 Scores & Strengths:
-  Tech Score: 2786
-  Unit Score: 3272
-  Average Score: 3029
-  Stat Strength: 2716
-  Total Strength: 3272
-  Planet Strength: 0
-  Space Strength: 3272
-  Garrison Strength: 0
+  Tech Score: 2921
+  Unit Score: 2865
+  Average Score: 2893
+  Stat Strength: 2480
+  Total Strength: 2865
+  Planet Strength: 2865
+  Space Strength: 0
+  Garrison Strength: 794
 Statistics:
-  Movement Type: space
-  Move Points: 4
-  Spot: 10
-  Camouflage: 2
-  Agility: 2
-  Armor: 36
-  Psy Defense: 36
-  Rank: 865
+  Movement Type: hover
+  Move Points: 13
+  Spot: 8
+  Camouflage: 6
+  Agility: 17
+  Armor: 31
+  Psy Defense: 31
+  Rank: 84
 Attacks:
-  Ranged Space: 11/32
-  Direct Space: 12/17
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 432
-Build Cost: 3773
+  Indirect: 8/28
+  Direct: 7/23
+Load aboard transport: YES
+Upkeep / Maintenance: 24
+Build Cost: 235
 Build Resource Requirements:
-  Monopols: 50
-Upgrade Starbase to Fusion Starbase at Starport
-Time to Build / Upgrade: 1
-[18235] Technologies Required to Build Unit (75):
-  [8615] Fusion Beam (63)
-  [9620] Space Warfare (86)
+  Food: 1
+  Energy: 8
+  Metal: 7
+  Trace: 2
+  Exotica: 1
+  Chemicals: 11
+  Electronics: 8
+  Ceramsteel: 12
+  Monopols: 21
+Build 3rd-Republic Siege Tank in Factory
+Time to Build / Upgrade: 3
+[30105] Technologies Required to Build Unit (69):
+  [15130] Fusion Battle Tanks (68)
+  [14975] Power Hovertanks (70)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Meson Starbase
-Nick Name: SS-MS
+Name: Shock Heavy Tank Killer
+Nick Name: Hellwolf
 Scores & Strengths:
-  Tech Score: 5475
-  Unit Score: 6478
-  Average Score: 5977
-  Stat Strength: 5395
-  Total Strength: 6478
-  Planet Strength: 0
-  Space Strength: 6478
-  Garrison Strength: 0
+  Tech Score: 2921
+  Unit Score: 2865
+  Average Score: 2893
+  Stat Strength: 2480
+  Total Strength: 2865
+  Planet Strength: 2865
+  Space Strength: 0
+  Garrison Strength: 794
 Statistics:
-  Movement Type: space
-  Move Points: 6
-  Spot: 12
-  Camouflage: 3
-  Agility: 2
-  Armor: 51
-  Psy Defense: 51
-  Rank: 907
+  Movement Type: tread
+  Move Points: 13
+  Spot: 8
+  Camouflage: 6
+  Agility: 17
+  Armor: 31
+  Psy Defense: 31
+  Rank: 109
 Attacks:
-  Ranged Space: 15/45
-  Direct Space: 17/24
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 262
+  Indirect: 8/28
+  Direct: 7/23
+Load aboard transport: YES
+Upkeep / Maintenance: 18
 Build Resource Requirements:
-  Biochems: 10
-  Electronics: 4
-Upgrade Fusion Starbase to Meson Starbase at Starport
+Upgrade Heavy Tank Killer to Shock Heavy Tank Killer at Factory
 Time to Build / Upgrade: 1
-[75715] Technologies Required to Build Unit (71):
-  [10065] Powered-Armor Legion (79)
-  [27875] PTS Meson Navalcraft (74)
-  [37775] Jump Capital Ships (61)
+[30105] Technologies Required to Build Unit (69):
+  [15130] Fusion Battle Tanks (68)
+  [14975] Power Hovertanks (70)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Doomstar
-Nick Name: Doomstar
+Name: Stealth Heavy Tank Killer
+Nick Name: Cerberus
 Scores & Strengths:
-  Tech Score: 6688
-  Unit Score: 6689
-  Average Score: 6688
-  Stat Strength: 5700
-  Total Strength: 6689
-  Planet Strength: 0
-  Space Strength: 6689
-  Garrison Strength: 0
+  Tech Score: 5358
+  Unit Score: 5454
+  Average Score: 5406
+  Stat Strength: 2454
+  Total Strength: 5454
+  Planet Strength: 5454
+  Space Strength: 0
+  Garrison Strength: 1363
 Statistics:
-  Movement Type: jump
-  Move Points: 8
-  Spot: 14
-  Camouflage: 4
+  Movement Type: tread
+  Move Points: 16
+  Spot: 10
+  Camouflage: 20
   Agility: 4
-  Armor: 52
-  Psy Defense: 52
-  Rank: 937
+  Armor: 29
+  Psy Defense: 29
+  Rank: 174
 Attacks:
-  Ranged Space: 15/41
-  Direct Space: 17/22
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 1531
-Build Cost: 15309
+  Indirect: 30/60
+  Direct: 30/40
+Load aboard transport: YES
+Upkeep / Maintenance: 25
+Build Cost: 250
 Build Resource Requirements:
-  Energy: 2
-  Metal: 12
-  Trace: 1
-  Chemicals: 17
-  Biochems: 22
-  Electronics: 9
-  Ceramsteel: 21
-  Wetware: 3
-  Monopols: 38
-S  ingularities: 3
-Build Doomstar in Starport
-Time to Build / Upgrade: 4
-[50005] Technology Required to Build Unit (53):
-  [50005] Doomstar (53)
+  Energy: 20
+  Metal: 5
+  Trace: 6
+  Exotica: 1
+  Chemicals: 10
+  Biochems: 21
+  Electronics: 15
+  Ceramsteel: 8
+  Wetware: 6
+  Monopols: 19
+Build Stealth Heavy Tank Killer in Factory
+Time to Build / Upgrade: 3
+[37210] Technology Required to Build Unit (34):
+  [37210] Neumonic Land Vehicles (34)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Psy Heavy Tank Killer
+Nick Name: Psywolf
+Scores & Strengths:
+  Tech Score: 2756
+  Unit Score: 5786
+  Average Score: 4271
+  Stat Strength: 5058
+  Total Strength: 5786
+  Planet Strength: 5786
+  Space Strength: 5366
+  Garrison Strength: 1604
+Statistics:
+  Movement Type: tread
+  Move Points: 13
+  Spot: 8
+  Camouflage: 6
+  Agility: 17
+  Armor: 30
+  Psy Defense: 60
+  Rank: 122
+Attacks:
+  Psychic: 14/22
+  Indirect: 9/28
+  Direct: 8/21
+Load aboard transport: YES
+Upkeep / Maintenance: 154
+Build Cost: 1542
+Build Resource Requirements:
+  Food: 2
+  Energy: 13
+  Metal: 28
+  Trace: 3
+  Exotica: 2
+  Chemicals: 26
+  Electronics: 24
+  Ceramsteel: 48
+  Monopols: 61
+  Gems: 95
+Build Psy Heavy Tank Killer in Factory
+Time to Build / Upgrade: 8
+[15460] Technologies Required to Build Unit (75):
+  [330] Holy Warriors (82)
+  [15130] Fusion Battle Tanks (68)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

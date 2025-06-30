@@ -1,241 +1,185 @@
-All units of the unit class Naval Carrier are listed herein (5 in total):
+All units of the unit class Reconnaissance Autogyro are listed herein (4 in total):
 
 --1--
-Name: Naval Carrier
-Nick Name: NN-CV
+Name: Reconnaissance Autogyro
+Nick Name: R-AutoGyro
 Scores & Strengths:
-  Tech Score: 250
-  Unit Score: 497
-  Average Score: 374
-  Stat Strength: 434
-  Total Strength: 497
-  Planet Strength: 497
+  Tech Score: 493
+  Unit Score: 490
+  Average Score: 491
+  Stat Strength: 490
+  Total Strength: 490
+  Planet Strength: 490
   Space Strength: 0
-  Garrison Strength: 202
+  Garrison Strength: 173
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 2
-  Camouflage: 1
-  Agility: 1
-  Armor: 14
-  Psy Defense: 14
-  Rank: 797
-Attacks:
-  Air: 3/5
-  Indirect: 2/14
-  Direct: 2/10
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Upkeep / Maintenance: 33
-Build Cost: 334
+  Movement Type: air
+  Move Points: 8
+  Spot: 8
+  Camouflage: 3
+  Agility: 15
+  Armor: 8
+  Psy Defense: 8
+  Rank: 80
+Load aboard transport: YES
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 5
+Build Cost: 51
 Build Resource Requirements:
-  Food: 5
-  Energy: 49
-  Metal: 123
-  Trace: 6
-  Exotica: 4
-  Chemicals: 24
-  Electronics: 3
-  Gems: 1
-Build Naval Carrier in Well
-Time to Build / Upgrade: 4
-[735] Technologies Required to Build Unit (98):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [525] Anti-Aircraft Weaponry (94)
+  Food: 10
+  Energy: 11
+  Metal: 62
+  Trace: 14
+  Exotica: 9
+  Chemicals: 11
+  Electronics: 11
+Build Reconnaissance Autogyro in Factory
+Time to Build / Upgrade: 2
+[1885] Technologies Required to Build Unit (87):
+  [485] Electromagnetic Servo (86)
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Escort Aircraft Carrier
-Nick Name: NN-CVE
+Name: Attack Autogyro
+Nick Name: At-Autogyro
 Scores & Strengths:
-  Tech Score: 679
-  Unit Score: 678
-  Average Score: 679
-  Stat Strength: 465
-  Total Strength: 678
-  Planet Strength: 678
+  Tech Score: 493
+  Unit Score: 492
+  Average Score: 492
+  Stat Strength: 413
+  Total Strength: 492
+  Planet Strength: 492
   Space Strength: 0
-  Garrison Strength: 256
+  Garrison Strength: 185
 Statistics:
-  Movement Type: naval
+  Movement Type: air
   Move Points: 7
-  Spot: 4
+  Spot: 6
   Camouflage: 2
-  Agility: 2
-  Armor: 14
-  Psy Defense: 14
-  Rank: 117
+  Agility: 14
+  Armor: 8
+  Psy Defense: 8
+  Rank: 112
 Attacks:
-  Air: 7/7
-  Indirect: 10/12
-  Direct: 4/11
-Cargo Space: 2
-Transports and Refuels (at end of turn) all Air Units
-Upkeep / Maintenance: 6
-Build Cost: 61
+  Air: 5/7
+  Indirect: 5/4
+  Direct: 3/4
+  Close: 3/4
+Load aboard transport: YES
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 5
+Build Cost: 51
 Build Resource Requirements:
-  Food: 2
-  Energy: 17
-  Metal: 35
-  Trace: 5
-  Exotica: 2
-  Chemicals: 10
-  Biochems: 4
-  Electronics: 4
-Build Escort Aircraft Carrier in Well
+  Food: 7
+  Energy: 15
+  Metal: 62
+  Trace: 14
+  Exotica: 7
+  Chemicals: 14
+  Electronics: 11
+Build Attack Autogyro in Factory
 Time to Build / Upgrade: 2
-[2480] Technologies Required to Build Unit (95):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2270] Naval Escort Ships (86)
+[1885] Technologies Required to Build Unit (87):
+  [485] Electromagnetic Servo (86)
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Naval Light Carrier
-Nick Name: NN-CVL
+Name: Assault Autogyro
+Nick Name: As-Autogyro
 Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1158
-  Average Score: 966
-  Stat Strength: 948
-  Total Strength: 1158
-  Planet Strength: 1158
+  Tech Score: 493
+  Unit Score: 492
+  Average Score: 492
+  Stat Strength: 400
+  Total Strength: 492
+  Planet Strength: 492
   Space Strength: 0
-  Garrison Strength: 409
+  Garrison Strength: 200
 Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 8
+  Movement Type: air
+  Move Points: 6
+  Spot: 6
   Camouflage: 2
-  Agility: 4
-  Armor: 20
-  Psy Defense: 20
-  Rank: 112
+  Agility: 14
+  Armor: 8
+  Psy Defense: 8
+  Rank: 117
 Attacks:
-  Air: 10/9
-  Indirect: 3/16
-  Direct: 9/8
-Cargo Space: 1
-Transports and Refuels (at end of turn) all Air Units
-Upkeep / Maintenance: 11
-Build Cost: 113
+  Indirect: 6/6
+  Direct: 6/6
+  Close: 4/5
+Load aboard transport: YES
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 5
+Build Cost: 50
 Build Resource Requirements:
-  Food: 3
-  Energy: 19
+  Food: 7
+  Energy: 15
   Metal: 62
-  Trace: 14
-  Exotica: 4
-  Chemicals: 9
-  Biochems: 9
-  Electronics: 10
-Build Naval Light Carrier in Well
-Time to Build / Upgrade: 3
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
+  Trace: 15
+  Exotica: 7
+  Chemicals: 12
+  Electronics: 11
+Build Assault Autogyro in Factory
+Time to Build / Upgrade: 2
+[1885] Technologies Required to Build Unit (87):
+  [485] Electromagnetic Servo (86)
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Naval Aircraft Carrier
-Nick Name: NN-CV2
+Name: Patrol Autogyro
+Nick Name: P-Autogyro
 Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1546
-  Average Score: 1160
-  Stat Strength: 1288
-  Total Strength: 1546
-  Planet Strength: 1546
+  Tech Score: 493
+  Unit Score: 492
+  Average Score: 492
+  Stat Strength: 389
+  Total Strength: 492
+  Planet Strength: 492
   Space Strength: 0
-  Garrison Strength: 546
+  Garrison Strength: 220
 Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 8
-  Camouflage: 2
-  Agility: 2
-  Armor: 24
-  Psy Defense: 24
-  Rank: 812
-Attacks:
-  Air: 9/10
-  Indirect: 4/20
-  Direct: 8/11
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Upkeep / Maintenance: 28
-Build Cost: 277
-Build Resource Requirements:
-  Food: 3
-  Energy: 28
-  Metal: 90
-  Trace: 12
-  Exotica: 3
-  Chemicals: 12
-  Biochems: 7
-  Electronics: 9
-Build Naval Aircraft Carrier in Well
-Time to Build / Upgrade: 4
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Interdiction Assault Ship
-Nick Name: NN-IAS
-Scores & Strengths:
-  Tech Score: 1670
-  Unit Score: 1669
-  Average Score: 1670
-  Stat Strength: 1271
-  Total Strength: 1669
-  Planet Strength: 1669
-  Space Strength: 0
-  Garrison Strength: 462
-Statistics:
-  Movement Type: naval
-  Move Points: 13
+  Movement Type: air
+  Move Points: 5
   Spot: 6
   Camouflage: 2
-  Agility: 2
-  Armor: 23
-  Psy Defense: 23
-  Rank: 150
+  Agility: 14
+  Armor: 8
+  Psy Defense: 8
+  Rank: 145
 Attacks:
-  Air: 7/21
-  Indirect: 5/31
-  Direct: 4/24
-Cargo Space: 3
-Transports and Refuels (at end of turn) all Air Units
-Upkeep / Maintenance: 12
-Build Cost: 122
+  Air: 7/7
+  Indirect: 6/9
+Load aboard transport: YES
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 5
+Build Cost: 50
 Build Resource Requirements:
-  Food: 2
-  Energy: 31
-  Metal: 27
-  Trace: 2
-  Exotica: 2
-  Chemicals: 26
-  Biochems: 2
-  Electronics: 2
-  Ceramsteel: 31
-Build Interdiction Assault Ship in Well
-Time to Build / Upgrade: 3
-[12910] Technologies Required to Build Unit (86):
-  [795] Missiles (86)
-  [1810] Jet-Propulsion Aircraft (86)
-  [1785] Rotary Autocannon (90)
-  [2665] V/STOL Aircraft (85)
-  [5855] Guided Missile Navalcraft (84)
+  Food: 7
+  Energy: 16
+  Metal: 62
+  Trace: 14
+  Exotica: 6
+  Chemicals: 11
+  Electronics: 11
+Build Patrol Autogyro in Factory
+Time to Build / Upgrade: 2
+[1885] Technologies Required to Build Unit (87):
+  [485] Electromagnetic Servo (86)
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

@@ -1,123 +1,270 @@
-All units of the unit class Cargo Plane are listed herein (3 in total):
+All units of the unit class PTS Missile Launcher are listed herein (6 in total):
 
 --1--
-Name: Cargo Plane
-Nick Name: A-PX
+Name: PTS Missile Launcher
+Nick Name: PTS Missile
 Scores & Strengths:
-  Tech Score: 591
-  Unit Score: 590
-  Average Score: 591
-  Stat Strength: 590
-  Total Strength: 590
-  Planet Strength: 590
-  Space Strength: 0
-  Garrison Strength: 163
+  Tech Score: 587
+  Unit Score: 585
+  Average Score: 586
+  Stat Strength: 440
+  Total Strength: 585
+  Planet Strength: 520
+  Space Strength: 505
+  Garrison Strength: 367
 Statistics:
-  Movement Type: air
-  Move Points: 13
+  Movement Type: tread
+  Move Points: 2
   Spot: 6
-  Camouflage: 4
-  Agility: 9
-  Armor: 12
-  Psy Defense: 12
-  Rank: 91
-Cargo Space: 1
-Upkeep / Maintenance: 7
-Build Cost: 67
+  Camouflage: 2
+  Agility: 2
+  Armor: 14
+  Psy Defense: 14
+  Rank: 95
+Attacks:
+  Ranged Space: 5/13
+  Air: 5/8
+  Indirect: 4/10
+Load aboard transport: YES
+Upkeep / Maintenance: 2
+Build Cost: 22
 Build Resource Requirements:
-  Food: 8
-  Energy: 14
-  Metal: 198
-  Trace: 7
-  Exotica: 8
-  Chemicals: 15
-  Electronics: 6
-Build Cargo Plane in Factory
-Time to Build / Upgrade: 3
-[1970] Technology Required to Build Unit (87):
-  [1970] Cargo Handling (87)
+  Food: 2
+  Energy: 11
+  Metal: 42
+  Trace: 6
+  Exotica: 2
+  Chemicals: 22
+  Electronics: 7
+Build PTS Missile Launcher in Factory
+Time to Build / Upgrade: 2
+[1950] Technology Required to Build Unit (88):
+  [1950] PTS Missile Launcher (88)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Medium Cargo Plane
-Nick Name: A-PX (M)
+Name: PTS Rocket Launcher
+Nick Name: PTS RL
 Scores & Strengths:
-  Tech Score: 677
-  Unit Score: 667
-  Average Score: 672
-  Stat Strength: 667
-  Total Strength: 667
-  Planet Strength: 667
-  Space Strength: 0
-  Garrison Strength: 178
+  Tech Score: 587
+  Unit Score: 586
+  Average Score: 586
+  Stat Strength: 211
+  Total Strength: 586
+  Planet Strength: 481
+  Space Strength: 316
+  Garrison Strength: 215
 Statistics:
-  Movement Type: air
-  Move Points: 14
-  Spot: 6
-  Camouflage: 4
-  Agility: 9
-  Armor: 13
-  Psy Defense: 13
-  Rank: 102
-Cargo Space: 2
+  Movement Type: tread
+  Move Points: 5
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
+  Armor: 9
+  Psy Defense: 9
+  Rank: 107
+Attacks:
+  Ranged Space: 5/21
+  Air: 11/15
+  Indirect: 5/21
+Load aboard transport: YES
 Upkeep / Maintenance: 4
-Build Cost: 35
+Build Cost: 42
 Build Resource Requirements:
-  Food: 7
-  Energy: 11
-  Metal: 63
-  Trace: 5
-  Exotica: 7
-  Chemicals: 11
-  Electronics: 5
-Build Medium Cargo Plane in Factory
-Time to Build / Upgrade: 2
-[2740] Technologies Required to Build Unit (90):
-  [770] Self-Propelled Weaponry (92)
-  [1970] Cargo Handling (87)
+  Food: 2
+  Energy: 42
+  Metal: 17
+  Trace: 11
+  Exotica: 2
+  Chemicals: 62
+  Electronics: 13
+Build PTS Rocket Launcher in Factory
+Time to Build / Upgrade: 3
+[1950] Technology Required to Build Unit (88):
+  [1950] PTS Missile Launcher (88)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Heavy Cargo Plane
-Nick Name: A-PX (H)
+Name: PTS Multi-Rocket Artillery
+Nick Name: PTS MRA
 Scores & Strengths:
-  Tech Score: 839
-  Unit Score: 791
-  Average Score: 815
-  Stat Strength: 791
-  Total Strength: 791
-  Planet Strength: 791
-  Space Strength: 0
-  Garrison Strength: 204
+  Tech Score: 641
+  Unit Score: 639
+  Average Score: 640
+  Stat Strength: 260
+  Total Strength: 639
+  Planet Strength: 571
+  Space Strength: 328
+  Garrison Strength: 233
 Statistics:
-  Movement Type: air
-  Move Points: 15
-  Spot: 7
-  Camouflage: 5
-  Agility: 10
-  Armor: 14
-  Psy Defense: 14
-  Rank: 113
-Cargo Space: 3
-Upkeep / Maintenance: 4
-Build Cost: 39
+  Movement Type: tread
+  Move Points: 6
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
+  Armor: 10
+  Psy Defense: 10
+  Rank: 117
+Attacks:
+  Ranged Space: 2/34
+  Air: 9/27
+  Indirect: 2/34
+Load aboard transport: YES
+Upkeep / Maintenance: 7
+Build Cost: 66
 Build Resource Requirements:
-  Food: 7
-  Energy: 10
-  Metal: 42
-  Trace: 5
-  Exotica: 7
-  Chemicals: 22
-  Electronics: 6
-Build Heavy Cargo Plane in Factory
-Time to Build / Upgrade: 2
-[3670] Technologies Required to Build Unit (88):
-  [1700] Main Battle Tank (88)
-  [1970] Cargo Handling (87)
+  Food: 2
+  Energy: 91
+  Metal: 17
+  Trace: 6
+  Exotica: 2
+  Chemicals: 113
+  Electronics: 7
+Build PTS Multi-Rocket Artillery in Factory
+Time to Build / Upgrade: 3
+[2720] Technologies Required to Build Unit (90):
+  [770] Self-Propelled Weaponry (92)
+  [1950] PTS Missile Launcher (88)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: PTS Rocket Artillery
+Nick Name: PTS RA
+Scores & Strengths:
+  Tech Score: 641
+  Unit Score: 640
+  Average Score: 641
+  Stat Strength: 260
+  Total Strength: 640
+  Planet Strength: 540
+  Space Strength: 360
+  Garrison Strength: 220
+Statistics:
+  Movement Type: tread
+  Move Points: 6
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
+  Armor: 10
+  Psy Defense: 10
+  Rank: 110
+Attacks:
+  Ranged Space: 4/25
+  Air: 9/20
+  Indirect: 4/25
+Load aboard transport: YES
+Upkeep / Maintenance: 4
+Build Cost: 40
+Build Resource Requirements:
+  Food: 2
+  Energy: 51
+  Metal: 17
+  Trace: 7
+  Exotica: 2
+  Chemicals: 62
+  Electronics: 7
+Build PTS Rocket Artillery in Factory
+Time to Build / Upgrade: 3
+[2720] Technologies Required to Build Unit (90):
+  [770] Self-Propelled Weaponry (92)
+  [1950] PTS Missile Launcher (88)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Rail Gun
+Nick Name: Rail Gun
+Scores & Strengths:
+  Tech Score: 1487
+  Unit Score: 1488
+  Average Score: 1487
+  Stat Strength: 1056
+  Total Strength: 1488
+  Planet Strength: 1272
+  Space Strength: 1272
+  Garrison Strength: 636
+Statistics:
+  Movement Type: tread
+  Move Points: 4
+  Spot: 8
+  Camouflage: 2
+  Agility: 2
+  Armor: 22
+  Psy Defense: 22
+  Rank: 120
+Attacks:
+  Ranged Space: 12/18
+  Indirect: 12/18
+Upkeep / Maintenance: 8
+Build Cost: 83
+Build Resource Requirements:
+  Food: 2
+  Energy: 10
+  Metal: 425
+  Trace: 7
+  Exotica: 1
+  Chemicals: 14
+  Electronics: 8
+Build Rail Gun in Factory
+Time to Build / Upgrade: 4
+[6735] Technology Required to Build Unit (83):
+  [6735] Rail Gun (83)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Imperial Missile Battery
+Nick Name: IM Battery
+Scores & Strengths:
+  Tech Score: 2013
+  Unit Score: 2011
+  Average Score: 2012
+  Stat Strength: 1453
+  Total Strength: 2011
+  Planet Strength: 1811
+  Space Strength: 1653
+  Garrison Strength: 2263
+Statistics:
+  Movement Type: tread
+  Move Points: 0
+  Spot: 10
+  Camouflage: 0
+  Agility: 1
+  Armor: 26
+  Psy Defense: 26
+  Rank: 124
+Attacks:
+  Ranged Space: 10/20
+  Air: 12/14
+  Indirect: 10/19
+Load aboard transport: YES
+Upkeep / Maintenance: 31
+Build Cost: 314
+Build Resource Requirements:
+  Food: 1
+  Energy: 7
+  Metal: 12
+  Trace: 5
+  Exotica: 1
+  Chemicals: 20
+  Biochems: 21
+  Electronics: 17
+  Ceramsteel: 23
+  Monopols: 33
+Build Imperial Missile Battery in Factory
+Time to Build / Upgrade: 4
+[12420] Technologies Required to Build Unit (69):
+  [835] Spore Delivery (27)
+  [325] Megachassis (94)
+  [8935] Powered Ceramsteel Armor (75)
+  [2325] Web Missiles (80)
 Unit Eats: YES
 Unit can be disbanded: YES

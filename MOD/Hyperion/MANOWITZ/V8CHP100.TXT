@@ -1,463 +1,175 @@
-All units of the unit class Naval Protected Cruiser are listed herein (10 in total):
+All units of the unit class Spacemen are listed herein (4 in total):
 
 --1--
-Name: Naval Protected Cruiser
-Nick Name: NN-CP
+Name: Spacemen
+Nick Name: Spacemen
 Scores & Strengths:
-  Tech Score: 189
-  Unit Score: 374
-  Average Score: 281
-  Stat Strength: 282
-  Total Strength: 374
-  Planet Strength: 374
-  Space Strength: 0
-  Garrison Strength: 132
+  Tech Score: 373
+  Unit Score: 370
+  Average Score: 371
+  Stat Strength: 298
+  Total Strength: 370
+  Planet Strength: 0
+  Space Strength: 370
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 4
-  Camouflage: 1
-  Agility: 1
-  Armor: 10
-  Psy Defense: 10
-  Rank: 95
+  Movement Type: space
+  Move Points: 1
+  Spot: 8
+  Camouflage: 12
+  Agility: 9
+  Armor: 2
+  Psy Defense: 2
+  Rank: 720
 Attacks:
-  Indirect: 2/20
-  Direct: 4/13
-Upkeep / Maintenance: 11
-Build Cost: 110
+  Closed Space: 9/8
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 29
+Build Cost: 291
 Build Resource Requirements:
-  Food: 7
-  Energy: 87
-  Metal: 41
-  Trace: 6
-  Exotica: 6
-  Chemicals: 28
-Build Naval Protected Cruiser in Well
-Time to Build / Upgrade: 4
-[790] Technologies Required to Build Unit (98):
-  [230] Hospitals (97)
-  [110] Structural Engineering (99)
-  [125] Mechanical Think Machines (93)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
+  Food: 9
+  Energy: 11
+  Metal: 2
+  Trace: 47
+  Exotica: 9
+  Chemicals: 14
+  Electronics: 30
+Build Spacemen in Starport
+Time to Build / Upgrade: 2
+[1175] Technologies Required to Build Unit (78):
+  [235] Bioreactors (48)
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Naval Armored Cruiser
-Nick Name: NN-CA
+Name: Marauder Legion
+Nick Name: Star Lgn
 Scores & Strengths:
-  Tech Score: 195
-  Unit Score: 388
-  Average Score: 292
-  Stat Strength: 324
-  Total Strength: 388
-  Planet Strength: 388
+  Tech Score: 4203
+  Unit Score: 4202
+  Average Score: 4202
+  Stat Strength: 3051
+  Total Strength: 4202
+  Planet Strength: 4202
   Space Strength: 0
-  Garrison Strength: 137
+  Garrison Strength: 840
 Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 4
-  Camouflage: 1
-  Agility: 1
-  Armor: 11
-  Psy Defense: 11
-  Rank: 129
+  Movement Type: mech
+  Move Points: 25
+  Spot: 20
+  Camouflage: 10
+  Agility: 26
+  Armor: 25
+  Psy Defense: 25
+  Rank: 127
 Attacks:
-  Air: 2/8
-  Indirect: 2/24
-Upkeep / Maintenance: 11
-Build Cost: 107
+  Air: 21/25
+  Direct: 17/18
+  Close: 20/16
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 160
+Build Cost: 1604
 Build Resource Requirements:
-  Food: 7
-  Energy: 97
-  Metal: 50
-  Trace: 4
-  Exotica: 6
-  Chemicals: 14
-Build Naval Armored Cruiser in Well
+  Food: 3
+  Energy: 13
+  Metal: 4
+  Trace: 6
+  Exotica: 3
+  Chemicals: 16
+  Biochems: 26
+  Electronics: 16
+  Ceramsteel: 7
+  Wetware: 13
+  Monopols: 28
+Build Marauder Legion in Fort
 Time to Build / Upgrade: 4
-[810] Technologies Required to Build Unit (97):
-  [230] Hospitals (97)
-  [110] Structural Engineering (99)
-  [145] Director (Auxilliary Predictor) (91)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
+[26915] Technology Required to Build Unit (47):
+  [26915] Rocket Legion (47)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Naval Battle-Cruiser
-Nick Name: NN-BC
+Name: Space Marines
+Nick Name: Space Lgn
 Scores & Strengths:
-  Tech Score: 224
-  Unit Score: 556
-  Average Score: 390
-  Stat Strength: 408
-  Total Strength: 556
-  Planet Strength: 556
-  Space Strength: 0
-  Garrison Strength: 196
+  Tech Score: 4607
+  Unit Score: 4606
+  Average Score: 4606
+  Stat Strength: 3706
+  Total Strength: 4606
+  Planet Strength: 0
+  Space Strength: 4606
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 2
-  Camouflage: 1
-  Agility: 1
-  Armor: 13
-  Psy Defense: 13
-  Rank: 95
+  Movement Type: space
+  Move Points: 30
+  Spot: 17
+  Camouflage: 18
+  Agility: 29
+  Armor: 26
+  Psy Defense: 26
+  Rank: 762
 Attacks:
-  Air: 6/9
-  Indirect: 3/22
-  Direct: 2/14
-Upkeep / Maintenance: 16
-Build Cost: 161
+  Closed Space: 30/30
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 208
+Build Cost: 478
 Build Resource Requirements:
-  Food: 6
-  Energy: 104
-  Metal: 70
-  Trace: 9
-  Exotica: 5
-  Chemicals: 41
-Build Naval Battle-Cruiser in Well
-Time to Build / Upgrade: 5
-[900] Technologies Required to Build Unit (96):
-  [230] Hospitals (97)
-  [110] Structural Engineering (99)
-  [235] Giro Directory Training (85)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
+  Energy: 13
+  Chemicals: 14
+  Biochems: 5
+Upgrade Marauder Legion to Space Marines at Starport
+Time to Build / Upgrade: 1
+[30420] Technology Required to Build Unit (35):
+  [30420] Space Marines (35)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Aircraft Cruiser
-Nick Name: NN-CVC
+Name: Wraith Space Marine
+Nick Name: Specter Lgn
 Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 773
-  Average Score: 774
-  Stat Strength: 605
-  Total Strength: 773
-  Planet Strength: 773
-  Space Strength: 0
-  Garrison Strength: 257
+  Tech Score: 5172
+  Unit Score: 5177
+  Average Score: 5174
+  Stat Strength: 4277
+  Total Strength: 5177
+  Planet Strength: 0
+  Space Strength: 5177
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 9
-  Spot: 2
-  Camouflage: 2
-  Agility: 2
-  Armor: 16
-  Psy Defense: 16
-  Rank: 120
+  Movement Type: space
+  Move Points: 30
+  Spot: 20
+  Camouflage: 28
+  Agility: 29
+  Armor: 26
+  Psy Defense: 26
+  Rank: 768
 Attacks:
-  Air: 6/11
-  Indirect: 3/24
-  Direct: 2/15
-Cargo Space: 2
-Transports and Refuels (at end of turn) all Air Units
-Upkeep / Maintenance: 8
-Build Cost: 80
+  Closed Space: 30/30
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 154
+Build Cost: 1064
 Build Resource Requirements:
-  Food: 2
-  Energy: 40
-  Metal: 40
-  Trace: 3
-  Exotica: 2
-  Chemicals: 17
-  Biochems: 3
-  Electronics: 2
-Build Aircraft Cruiser in Well
-Time to Build / Upgrade: 2
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Helicopter Cruiser
-Nick Name: NN-CHC
-Scores & Strengths:
-  Tech Score: 1070
-  Unit Score: 1068
-  Average Score: 1069
-  Stat Strength: 867
-  Total Strength: 1068
-  Planet Strength: 1068
-  Space Strength: 0
-  Garrison Strength: 322
-Statistics:
-  Movement Type: naval
-  Move Points: 11
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 19
-  Psy Defense: 19
-  Rank: 116
-Attacks:
-  Air: 6/14
-  Indirect: 3/27
-  Direct: 2/18
-Cargo Space: 1
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Can tow units that can be towed
-Upkeep / Maintenance: 8
-Build Cost: 75
-Build Resource Requirements:
-  Food: 2
-  Energy: 38
-  Metal: 54
-  Trace: 2
-  Exotica: 2
-  Chemicals: 18
-  Biochems: 2
-  Electronics: 2
-Build Helicopter Cruiser in Well
-Time to Build / Upgrade: 2
-[5025] Technologies Required to Build Unit (93):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2090] Rotorcraft (85)
-  [2725] Naval Capital Ships (88)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---6--
-Name: Naval Cruiser
-Nick Name: NN-CC
-Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1158
-  Average Score: 966
-  Stat Strength: 948
-  Total Strength: 1158
-  Planet Strength: 1158
-  Space Strength: 0
-  Garrison Strength: 409
-Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 8
-  Camouflage: 2
-  Agility: 4
-  Armor: 20
-  Psy Defense: 20
-  Rank: 99
-Attacks:
-  Water: 3/18
-  Air: 10/10
-  Indirect: 2/16
-  Direct: 2/12
-Upkeep / Maintenance: 9
-Build Cost: 90
-Build Resource Requirements:
-  Food: 3
-  Energy: 36
-  Metal: 62
-  Trace: 11
-  Exotica: 4
-  Chemicals: 26
-  Biochems: 7
-  Electronics: 7
-Build Naval Cruiser in Well
-Time to Build / Upgrade: 3
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---7--
-Name: Naval Light Armored Cruiser
-Nick Name: NN-CLA
-Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1159
-  Average Score: 967
-  Stat Strength: 896
-  Total Strength: 1159
-  Planet Strength: 1159
-  Space Strength: 0
-  Garrison Strength: 386
-Statistics:
-  Movement Type: naval
-  Move Points: 9
-  Spot: 8
-  Camouflage: 2
-  Agility: 5
-  Armor: 19
-  Psy Defense: 19
-  Rank: 99
-Attacks:
-  Water: 4/17
-  Air: 13/9
-  Indirect: 3/15
-  Direct: 3/11
-Upkeep / Maintenance: 10
-Build Cost: 95
-Build Resource Requirements:
-  Food: 4
-  Energy: 33
-  Metal: 56
-  Trace: 16
-  Exotica: 4
-  Chemicals: 23
-  Biochems: 9
-  Electronics: 11
-Build Naval Light Armored Cruiser in Well
-Time to Build / Upgrade: 3
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---8--
-Name: Naval Scout Cruiser
-Nick Name: NN-CS
-Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1160
-  Average Score: 967
-  Stat Strength: 888
-  Total Strength: 1160
-  Planet Strength: 1160
-  Space Strength: 0
-  Garrison Strength: 366
-Statistics:
-  Movement Type: naval
-  Move Points: 10
-  Spot: 10
-  Camouflage: 2
-  Agility: 6
-  Armor: 18
-  Psy Defense: 18
-  Rank: 100
-Attacks:
-  Water: 6/12
-  Air: 14/6
-  Indirect: 6/10
-  Direct: 7/8
-Upkeep / Maintenance: 10
-Build Cost: 97
-Build Resource Requirements:
-  Food: 5
-  Energy: 18
-  Metal: 51
-  Trace: 23
-  Exotica: 6
-  Chemicals: 14
-  Biochems: 13
-  Electronics: 16
-Build Naval Scout Cruiser in Well
-Time to Build / Upgrade: 3
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---9--
-Name: Naval Heavy Cruiser
-Nick Name: NN-CH
-Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1353
-  Average Score: 1064
-  Stat Strength: 1109
-  Total Strength: 1353
-  Planet Strength: 1353
-  Space Strength: 0
-  Garrison Strength: 478
-Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 8
-  Camouflage: 2
-  Agility: 3
-  Armor: 22
-  Psy Defense: 22
-  Rank: 105
-Attacks:
-  Water: 3/20
-  Air: 10/10
-  Indirect: 2/18
-  Direct: 3/16
-Upkeep / Maintenance: 11
-Build Cost: 114
-Build Resource Requirements:
-  Food: 3
-  Energy: 47
-  Metal: 76
-  Trace: 11
-  Exotica: 3
-  Chemicals: 33
-  Biochems: 7
-  Electronics: 8
-Build Naval Heavy Cruiser in Well
-Time to Build / Upgrade: 4
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---10--
-Name: Guided Missile Cruiser
-Nick Name: NN-CGM
-Scores & Strengths:
-  Tech Score: 1339
-  Unit Score: 1628
-  Average Score: 1483
-  Stat Strength: 1334
-  Total Strength: 1628
-  Planet Strength: 1628
-  Space Strength: 0
-  Garrison Strength: 542
-Statistics:
-  Movement Type: naval
-  Move Points: 9
-  Spot: 9
-  Camouflage: 2
-  Agility: 4
-  Armor: 24
-  Psy Defense: 24
-  Rank: 106
-Attacks:
-  Water: 4/21
-  Air: 12/12
-  Indirect: 2/19
-  Direct: 2/14
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 12
-Build Cost: 117
-Build Resource Requirements:
-  Food: 2
-  Energy: 33
-  Metal: 30
-  Trace: 7
-  Exotica: 2
-  Chemicals: 35
-  Biochems: 5
-  Electronics: 8
-  Ceramsteel: 37
-Build Guided Missile Cruiser in Well
-Time to Build / Upgrade: 4
-[5855] Technology Required to Build Unit (84):
-  [5855] Guided Missile Navalcraft (84)
+  Trace: 1
+  Electronics: 1
+Upgrade Space Marines to Wraith Space Marine at Starport
+Time to Build / Upgrade: 1
+[54550] Technologies Required to Build Unit (34):
+  [30420] Space Marines (35)
+  [24130] Neumonically-Enhanced Soldiers (32)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

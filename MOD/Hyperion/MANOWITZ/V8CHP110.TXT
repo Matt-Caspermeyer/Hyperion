@@ -1,130 +1,139 @@
-All units of the unit class Naval Battleship are listed herein (6 in total):
+All units of the unit class Naval Carrier are listed herein (5 in total):
 
 --1--
-Name: Naval Battleship
-Nick Name: NN-BB
+Name: Naval Carrier
+Nick Name: NN-CV
 Scores & Strengths:
-  Tech Score: 203
-  Unit Score: 505
-  Average Score: 354
-  Stat Strength: 447
-  Total Strength: 505
-  Planet Strength: 505
+  Tech Score: 250
+  Unit Score: 497
+  Average Score: 374
+  Stat Strength: 434
+  Total Strength: 497
+  Planet Strength: 497
   Space Strength: 0
-  Garrison Strength: 190
-Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 2
-  Camouflage: 1
-  Agility: 1
-  Armor: 14
-  Psy Defense: 14
-  Rank: 90
-Attacks:
-  Indirect: 2/24
-  Direct: 1/10
-Upkeep / Maintenance: 13
-Build Cost: 134
-Build Resource Requirements:
-  Food: 5
-  Energy: 98
-  Metal: 81
-  Trace: 4
-  Exotica: 4
-  Chemicals: 18
-Build Naval Battleship in Well
-Time to Build / Upgrade: 4
-[835] Technologies Required to Build Unit (97):
-  [230] Hospitals (97)
-  [110] Structural Engineering (99)
-  [170] Fire Control System (89)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---2--
-Name: Naval Dreadnought Battleship
-Nick Name: NN-BD
-Scores & Strengths:
-  Tech Score: 213
-  Unit Score: 634
-  Average Score: 424
-  Stat Strength: 554
-  Total Strength: 634
-  Planet Strength: 634
-  Space Strength: 0
-  Garrison Strength: 258
+  Garrison Strength: 202
 Statistics:
   Movement Type: naval
   Move Points: 6
   Spot: 2
   Camouflage: 1
   Agility: 1
-  Armor: 16
-  Psy Defense: 16
-  Rank: 92
+  Armor: 14
+  Psy Defense: 14
+  Rank: 797
 Attacks:
-  Indirect: 2/29
-  Direct: 2/11
-Upkeep / Maintenance: 19
-Build Cost: 189
+  Air: 3/5
+  Indirect: 2/14
+  Direct: 2/10
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 33
+Build Cost: 334
 Build Resource Requirements:
-  Food: 4
-  Energy: 136
-  Metal: 106
-  Trace: 5
-  Exotica: 3
-  Chemicals: 20
-Build Naval Dreadnought Battleship in Well
-Time to Build / Upgrade: 5
-[865] Technologies Required to Build Unit (97):
-  [230] Hospitals (97)
+  Food: 5
+  Energy: 49
+  Metal: 123
+  Trace: 6
+  Exotica: 4
+  Chemicals: 24
+  Electronics: 3
+  Gems: 1
+Build Naval Carrier in Well
+Time to Build / Upgrade: 4
+[735] Technologies Required to Build Unit (98):
   [110] Structural Engineering (99)
-  [200] Admiralty Fire Control Table (87)
   [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
+  [525] Anti-Aircraft Weaponry (94)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Escort Aircraft Carrier
+Nick Name: NN-CVE
+Scores & Strengths:
+  Tech Score: 679
+  Unit Score: 678
+  Average Score: 679
+  Stat Strength: 465
+  Total Strength: 678
+  Planet Strength: 678
+  Space Strength: 0
+  Garrison Strength: 256
+Statistics:
+  Movement Type: naval
+  Move Points: 7
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
+  Armor: 14
+  Psy Defense: 14
+  Rank: 117
+Attacks:
+  Air: 7/7
+  Indirect: 10/12
+  Direct: 4/11
+Cargo Space: 2
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 6
+Build Cost: 61
+Build Resource Requirements:
+  Food: 2
+  Energy: 17
+  Metal: 35
+  Trace: 5
+  Exotica: 2
+  Chemicals: 10
+  Biochems: 4
+  Electronics: 4
+Build Escort Aircraft Carrier in Well
+Time to Build / Upgrade: 2
+[2480] Technologies Required to Build Unit (95):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2270] Naval Escort Ships (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Naval Battleship II
-Nick Name: N-BB
+Name: Naval Light Carrier
+Nick Name: NN-CVL
 Scores & Strengths:
   Tech Score: 775
-  Unit Score: 1396
-  Average Score: 1085
-  Stat Strength: 1321
-  Total Strength: 1396
-  Planet Strength: 1396
+  Unit Score: 1158
+  Average Score: 966
+  Stat Strength: 948
+  Total Strength: 1158
+  Planet Strength: 1158
   Space Strength: 0
-  Garrison Strength: 441
+  Garrison Strength: 409
 Statistics:
   Movement Type: naval
-  Move Points: 10
+  Move Points: 8
   Spot: 8
-  Camouflage: 1
-  Agility: 2
-  Armor: 24
-  Psy Defense: 24
-  Rank: 139
+  Camouflage: 2
+  Agility: 4
+  Armor: 20
+  Psy Defense: 20
+  Rank: 112
 Attacks:
-  Indirect: 3/25
-Upkeep / Maintenance: 8
-Build Cost: 76
+  Air: 10/9
+  Indirect: 3/16
+  Direct: 9/8
+Cargo Space: 1
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 11
+Build Cost: 113
 Build Resource Requirements:
-  Food: 4
-  Energy: 29
-  Metal: 90
-  Trace: 4
+  Food: 3
+  Energy: 19
+  Metal: 62
+  Trace: 14
   Exotica: 4
-  Chemicals: 4
-  Biochems: 4
-  Electronics: 3
-Build Naval Battleship II in Well
+  Chemicals: 9
+  Biochems: 9
+  Electronics: 10
+Build Naval Light Carrier in Well
 Time to Build / Upgrade: 3
 [2935] Technologies Required to Build Unit (96):
   [110] Structural Engineering (99)
@@ -134,42 +143,45 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Naval Fast Battleship
-Nick Name: NN-BF
+Name: Naval Aircraft Carrier
+Nick Name: NN-CV2
 Scores & Strengths:
   Tech Score: 775
   Unit Score: 1546
   Average Score: 1160
-  Stat Strength: 1230
+  Stat Strength: 1288
   Total Strength: 1546
   Planet Strength: 1546
   Space Strength: 0
-  Garrison Strength: 488
+  Garrison Strength: 546
 Statistics:
   Movement Type: naval
-  Move Points: 10
+  Move Points: 8
   Spot: 8
   Camouflage: 2
   Agility: 2
-  Armor: 23
-  Psy Defense: 23
-  Rank: 115
+  Armor: 24
+  Psy Defense: 24
+  Rank: 812
 Attacks:
-  Indirect: 5/22
-  Direct: 10/18
-  Close: 2/13
-Upkeep / Maintenance: 12
-Build Cost: 115
+  Air: 9/10
+  Indirect: 4/20
+  Direct: 8/11
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 28
+Build Cost: 277
 Build Resource Requirements:
-  Food: 4
-  Energy: 44
-  Metal: 83
-  Trace: 10
-  Exotica: 4
-  Chemicals: 24
+  Food: 3
+  Energy: 28
+  Metal: 90
+  Trace: 12
+  Exotica: 3
+  Chemicals: 12
   Biochems: 7
-  Electronics: 7
-Build Naval Fast Battleship in Well
+  Electronics: 9
+Build Naval Aircraft Carrier in Well
 Time to Build / Upgrade: 4
 [2935] Technologies Required to Build Unit (96):
   [110] Structural Engineering (99)
@@ -179,91 +191,51 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Naval Pocket Battleship
-Nick Name: NN-BP
+Name: Interdiction Assault Ship
+Nick Name: NN-IAS
 Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1546
-  Average Score: 1160
-  Stat Strength: 1216
-  Total Strength: 1546
-  Planet Strength: 1546
+  Tech Score: 1670
+  Unit Score: 1669
+  Average Score: 1670
+  Stat Strength: 1271
+  Total Strength: 1669
+  Planet Strength: 1669
   Space Strength: 0
-  Garrison Strength: 515
+  Garrison Strength: 462
 Statistics:
   Movement Type: naval
-  Move Points: 9
-  Spot: 8
-  Camouflage: 2
-  Agility: 3
-  Armor: 23
-  Psy Defense: 23
-  Rank: 115
-Attacks:
-  Indirect: 5/24
-  Direct: 8/20
-  Close: 5/10
-Upkeep / Maintenance: 11
-Build Cost: 114
-Build Resource Requirements:
-  Food: 4
-  Energy: 47
-  Metal: 83
-  Trace: 9
-  Exotica: 4
-  Chemicals: 24
-  Biochems: 6
-  Electronics: 6
-Build Naval Pocket Battleship in Well
-Time to Build / Upgrade: 4
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---6--
-Name: Guided Missile Battleship
-Nick Name: NN-BGM
-Scores & Strengths:
-  Tech Score: 1339
-  Unit Score: 1800
-  Average Score: 1569
-  Stat Strength: 1443
-  Total Strength: 1800
-  Planet Strength: 1800
-  Space Strength: 0
-  Garrison Strength: 542
-Statistics:
-  Movement Type: naval
-  Move Points: 11
-  Spot: 8
+  Move Points: 13
+  Spot: 6
   Camouflage: 2
   Agility: 2
-  Armor: 25
-  Psy Defense: 25
-  Rank: 121
+  Armor: 23
+  Psy Defense: 23
+  Rank: 150
 Attacks:
-  Indirect: 5/24
-  Direct: 11/19
-  Close: 2/14
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+  Air: 7/21
+  Indirect: 5/31
+  Direct: 4/24
+Cargo Space: 3
+Transports and Refuels (at end of turn) all Air Units
 Upkeep / Maintenance: 12
-Build Cost: 121
+Build Cost: 122
 Build Resource Requirements:
   Food: 2
-  Energy: 33
-  Metal: 33
-  Trace: 5
+  Energy: 31
+  Metal: 27
+  Trace: 2
   Exotica: 2
-  Chemicals: 30
-  Biochems: 4
-  Electronics: 6
-  Ceramsteel: 40
-Build Guided Missile Battleship in Well
-Time to Build / Upgrade: 4
-[5855] Technology Required to Build Unit (84):
+  Chemicals: 26
+  Biochems: 2
+  Electronics: 2
+  Ceramsteel: 31
+Build Interdiction Assault Ship in Well
+Time to Build / Upgrade: 3
+[12910] Technologies Required to Build Unit (86):
+  [795] Missiles (86)
+  [1810] Jet-Propulsion Aircraft (86)
+  [1785] Rotary Autocannon (90)
+  [2665] V/STOL Aircraft (85)
   [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

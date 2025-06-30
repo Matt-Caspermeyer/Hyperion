@@ -1,231 +1,292 @@
-All units of the unit class Apprentice are listed herein (5 in total):
+All units of the unit class Jet-Propulsion Fighter are listed herein (6 in total):
 
 --1--
-Name: Apprentice
-Nick Name: Apprentice
+Name: Jet-Propulsion Fighter
+Nick Name: Tiger
 Scores & Strengths:
-  Tech Score: 1183
-  Unit Score: 1184
-  Average Score: 1183
-  Stat Strength: 773
-  Total Strength: 1184
-  Planet Strength: 1184
+  Tech Score: 1142
+  Unit Score: 1139
+  Average Score: 1140
+  Stat Strength: 745
+  Total Strength: 1139
+  Planet Strength: 1139
   Space Strength: 0
-  Garrison Strength: 374
+  Garrison Strength: 237
 Statistics:
-  Movement Type: foot
-  Move Points: 10
+  Movement Type: air
+  Move Points: 23
   Spot: 6
-  Camouflage: 6
-  Agility: 23
-  Armor: 6
-  Psy Defense: 6
-  Rank: 757
+  Camouflage: 4
+  Agility: 6
+  Armor: 8
+  Psy Defense: 8
+  Rank: 162
 Attacks:
-  Air: 10/9
-  Indirect: 11/11
-  Direct: 10/10
-  Close: 10/10
+  Air: 15/15
+  Indirect: 13/13
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Inquisitor
-Upkeep / Maintenance: 8
-Build Cost: 76
+Upkeep / Maintenance: 3
+Build Cost: 31
 Build Resource Requirements:
-  Food: 12
-  Energy: 37
-  Metal: 5
-  Trace: 14
-  Exotica: 12
-  Chemicals: 41
-  Electronics: 30
-  Ceramsteel: 6
-Build Apprentice in Church
-Time to Build / Upgrade: 3
-[6450] Technologies Required to Build Unit (87):
-  [4855] Myoelectric Prosthetics (71)
-  [145] Composite Armor (97)
-  [1340] Nanotechnology (79)
-  [110] Meditation (99)
+  Food: 6
+  Energy: 19
+  Metal: 9
+  Trace: 8
+  Exotica: 6
+  Chemicals: 17
+  Biochems: 8
+  Electronics: 7
+Build Jet-Propulsion Fighter in Factory
+Time to Build / Upgrade: 2
+[7115] Technologies Required to Build Unit (88):
+  [795] Missiles (86)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2725] Naval Capital Ships (88)
+  [1785] Rotary Autocannon (90)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Oblate
-Nick Name: Oblate
+Name: Atmospheric Fighter
+Nick Name: Gryphon
 Scores & Strengths:
-  Tech Score: 1309
-  Unit Score: 1310
-  Average Score: 1310
-  Stat Strength: 893
-  Total Strength: 1310
-  Planet Strength: 1310
+  Tech Score: 1650
+  Unit Score: 1687
+  Average Score: 1669
+  Stat Strength: 1107
+  Total Strength: 1687
+  Planet Strength: 1687
   Space Strength: 0
-  Garrison Strength: 394
+  Garrison Strength: 318
 Statistics:
-  Movement Type: foot
-  Move Points: 11
+  Movement Type: air
+  Move Points: 28
   Spot: 7
-  Camouflage: 7
-  Agility: 24
-  Armor: 7
-  Psy Defense: 7
-  Rank: 758
+  Camouflage: 5
+  Agility: 7
+  Armor: 10
+  Psy Defense: 10
+  Rank: 174
 Attacks:
-  Air: 10/9
-  Indirect: 11/12
-  Direct: 8/12
-  Close: 9/11
+  Air: 18/18
+  Indirect: 16/16
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Inquisitor
-Upkeep / Maintenance: 6
+Upkeep / Maintenance: 4
+Build Cost: 41
 Build Resource Requirements:
-Upgrade Apprentice to Oblate at Church
-Time to Build / Upgrade: 1
-[8715] Technologies Required to Build Unit (80):
-  [5425] Cybernetics (63)
-  [1690] Ceramsteel (84)
-  [1475] Monofilament (77)
-  [125] Parapsychology (94)
+  Food: 7
+  Energy: 23
+  Metal: 4
+  Trace: 8
+  Exotica: 7
+  Chemicals: 24
+  Biochems: 10
+  Electronics: 9
+  Ceramsteel: 5
+Build Atmospheric Fighter in Factory
+Time to Build / Upgrade: 2
+[10770] Technologies Required to Build Unit (85):
+  [1785] Rotary Autocannon (90)
+  [5855] Guided Missile Navalcraft (84)
+  [3130] Atmospheric Aircraft (82)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Acolyte
-Nick Name: Acolyte
+Name: Laser Fighter
+Nick Name: Pegasus
 Scores & Strengths:
-  Tech Score: 2187
-  Unit Score: 2186
-  Average Score: 2186
-  Stat Strength: 1322
-  Total Strength: 2186
-  Planet Strength: 2186
+  Tech Score: 4522
+  Unit Score: 4396
+  Average Score: 4459
+  Stat Strength: 2820
+  Total Strength: 4396
+  Planet Strength: 4396
   Space Strength: 0
-  Garrison Strength: 564
+  Garrison Strength: 648
 Statistics:
-  Movement Type: foot
-  Move Points: 15
+  Movement Type: air
+  Move Points: 46
   Spot: 8
   Camouflage: 8
-  Agility: 29
-  Armor: 8
-  Psy Defense: 8
-  Rank: 776
+  Agility: 8
+  Armor: 16
+  Psy Defense: 16
+  Rank: 222
 Attacks:
-  Air: 12/16
-  Indirect: 14/18
-  Direct: 12/17
-  Close: 18/12
+  Air: 30/30
+  Indirect: 26/26
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Inquisitor
-Upkeep / Maintenance: 41
-Build Cost: 407
+Upkeep / Maintenance: 27
+Build Cost: 272
 Build Resource Requirements:
-  Trace: 2
-  Electronics: 2
-  Monopols: 28
-Upgrade Oblate to Acolyte at Church
-Time to Build / Upgrade: 2
-[16140] Technologies Required to Build Unit (77):
-  [5425] Cybernetics (63)
-  [8935] Powered Ceramsteel Armor (75)
-  [1615] Wireblades (76)
-  [165] Theurgy (93)
+  Food: 5
+  Energy: 16
+  Metal: 1
+  Trace: 7
+  Exotica: 5
+  Chemicals: 19
+  Biochems: 7
+  Electronics: 12
+  Ceramsteel: 3
+  Monopols: 25
+Build Laser Fighter in Factory
+Time to Build / Upgrade: 3
+[41035] Technologies Required to Build Unit (81):
+  [1785] Rotary Autocannon (90)
+  [27875] PTS Meson Navalcraft (74)
+  [11375] Power Aircraft (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Brother Battle Mech
-Nick Name: BB Mech
+Name: Psy Laser Fighter
+Nick Name: Psy Fighter
 Scores & Strengths:
-  Tech Score: 2815
-  Unit Score: 2814
-  Average Score: 2814
-  Stat Strength: 1385
-  Total Strength: 2814
-  Planet Strength: 2814
-  Space Strength: 0
-  Garrison Strength: 663
+  Tech Score: 4546
+  Unit Score: 5681
+  Average Score: 5113
+  Stat Strength: 3748
+  Total Strength: 5681
+  Planet Strength: 5681
+  Space Strength: 4105
+  Garrison Strength: 837
 Statistics:
-  Movement Type: mech
-  Move Points: 18
-  Spot: 14
+  Movement Type: air
+  Move Points: 46
+  Spot: 12
   Camouflage: 8
-  Agility: 14
-  Armor: 11
-  Psy Defense: 22
-  Rank: 117
+  Agility: 12
+  Armor: 16
+  Psy Defense: 32
+  Rank: 228
 Attacks:
-  Air: 19/17
-  Indirect: 17/24
-  Direct: 18/21
-  Close: 20/16
+  Psychic: 17/21
+  Air: 30/30
+  Indirect: 26/26
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 111
-Build Cost: 1105
+Upkeep / Maintenance: 92
+Build Cost: 923
 Build Resource Requirements:
-  Food: 4
-  Energy: 20
-  Metal: 6
-  Trace: 14
-  Exotica: 4
-  Chemicals: 23
-  Biochems: 18
-  Electronics: 28
+  Food: 6
+  Energy: 16
+  Metal: 4
+  Trace: 7
+  Exotica: 6
+  Chemicals: 20
+  Biochems: 8
+  Electronics: 14
   Ceramsteel: 7
-  Monopols: 29
-Build Brother Battle Mech in Starport
+  Monopols: 30
+  Gems: 75
+Build Psy Laser Fighter in Factory
 Time to Build / Upgrade: 4
-[18820] Technologies Required to Build Unit (61):
-  [8600] Cybernetically-Enhanced Soldiers (48)
-  [10220] Mechanized Warriors (73)
+[41365] Technologies Required to Build Unit (81):
+  [330] Holy Warriors (82)
+  [1785] Rotary Autocannon (90)
+  [27875] PTS Meson Navalcraft (74)
+  [11375] Power Aircraft (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Master
-Nick Name: Master
+Name: Morph Fighter
+Nick Name: Wyvern
 Scores & Strengths:
-  Tech Score: 4541
-  Unit Score: 4540
-  Average Score: 4540
-  Stat Strength: 2492
-  Total Strength: 4540
-  Planet Strength: 4540
+  Tech Score: 8186
+  Unit Score: 8185
+  Average Score: 8186
+  Stat Strength: 5279
+  Total Strength: 8185
+  Planet Strength: 8185
   Space Strength: 0
-  Garrison Strength: 967
+  Garrison Strength: 1135
 Statistics:
-  Movement Type: foot
-  Move Points: 22
-  Spot: 16
-  Camouflage: 16
-  Agility: 36
-  Armor: 10
-  Psy Defense: 10
-  Rank: 816
+  Movement Type: air
+  Move Points: 52
+  Spot: 18
+  Camouflage: 13
+  Agility: 32
+  Armor: 23
+  Psy Defense: 23
+  Rank: 277
 Attacks:
-  Air: 19/24
-  Indirect: 22/26
-  Direct: 20/26
-  Close: 25/20
+  Air: 41/41
+  Indirect: 35/35
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Inquisitor
-Upkeep / Maintenance: 69
-Build Cost: 282
+Upkeep / Maintenance: 32
+Build Cost: 322
 Build Resource Requirements:
-  Biochems: 23
-  Wetware: 15
-  Monopols: 1
-Upgrade Acolyte to Master at Church
-Time to Build / Upgrade: 1
-[39305] Technologies Required to Build Unit (62):
-  [7825] Advanced Cybernetics (44)
-  [1615] Wireblades (76)
-  [220] Somatology (85)
-  [29645] Eschatology (42)
+  Food: 3
+  Energy: 12
+  Metal: 1
+  Trace: 5
+  Exotica: 3
+  Chemicals: 13
+  Biochems: 20
+  Electronics: 9
+  Ceramsteel: 3
+  Wetware: 7
+  Monopols: 20
+Build Morph Fighter in Factory
+Time to Build / Upgrade: 3
+[96885] Technologies Required to Build Unit (64):
+  [1785] Rotary Autocannon (90)
+  [45010] Hover Navalcraft (52)
+  [50090] Polymorphonic Patrolcraft (51)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Stealth Fighter
+Nick Name: Dragon
+Scores & Strengths:
+  Tech Score: 8419
+  Unit Score: 8417
+  Average Score: 8418
+  Stat Strength: 5575
+  Total Strength: 8417
+  Planet Strength: 8417
+  Space Strength: 0
+  Garrison Strength: 1167
+Statistics:
+  Movement Type: air
+  Move Points: 52
+  Spot: 18
+  Camouflage: 33
+  Agility: 20
+  Armor: 23
+  Psy Defense: 23
+  Rank: 276
+Attacks:
+  Air: 41/42
+  Indirect: 32/35
+Load aboard transport: YES
+Upkeep / Maintenance: 30
+Build Cost: 301
+Build Resource Requirements:
+  Food: 3
+  Energy: 12
+  Metal: 1
+  Trace: 8
+  Exotica: 3
+  Chemicals: 12
+  Biochems: 19
+  Electronics: 15
+  Ceramsteel: 3
+  Wetware: 6
+  Monopols: 19
+Build Stealth Fighter in Factory
+Time to Build / Upgrade: 3
+[98595] Technologies Required to Build Unit (59):
+  [1785] Rotary Autocannon (90)
+  [45010] Hover Navalcraft (52)
+  [51800] Neumonic Patrolcraft (36)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

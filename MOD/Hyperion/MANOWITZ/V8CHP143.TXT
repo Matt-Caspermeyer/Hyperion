@@ -1,86 +1,93 @@
-All units of the unit class Chemical Shock Legion are listed herein (2 in total):
+All units of the unit class Naval Frigate are listed herein (2 in total):
 
 --1--
-Name: Chemical Shock Legion
-Nick Name: Grimsons
+Name: Naval Frigate
+Nick Name: NN-FF
 Scores & Strengths:
-  Tech Score: 1367
-  Unit Score: 1367
-  Average Score: 1367
-  Stat Strength: 806
-  Total Strength: 1367
-  Planet Strength: 1367
+  Tech Score: 679
+  Unit Score: 1358
+  Average Score: 1019
+  Stat Strength: 952
+  Total Strength: 1358
+  Planet Strength: 1358
   Space Strength: 0
-  Garrison Strength: 394
+  Garrison Strength: 429
 Statistics:
-  Movement Type: foot
-  Move Points: 12
-  Spot: 8
-  Camouflage: 8
-  Agility: 22
-  Armor: 5
-  Psy Defense: 5
-  Rank: 67
+  Movement Type: naval
+  Move Points: 10
+  Spot: 10
+  Camouflage: 2
+  Agility: 10
+  Armor: 18
+  Psy Defense: 18
+  Rank: 103
 Attacks:
-  Air: 9/8
-  Indirect: 11/10
-  Direct: 16/12
-  Close: 17/11
-Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 56
+  Water: 9/16
+  Air: 13/5
+  Indirect: 8/15
+  Direct: 11/7
+Upkeep / Maintenance: 16
+Build Cost: 158
 Build Resource Requirements:
-  Trace: 14
+  Food: 7
+  Energy: 32
+  Metal: 57
+  Trace: 35
   Exotica: 7
-  Chemicals: 26
-  Biochems: 51
-  Electronics: 31
-  Ceramsteel: 1
-Upgrade Peasant to Chemical Shock Legion at Biochem Plant
-Time to Build / Upgrade: 2
-[6020] Technology Required to Build Unit (49):
-  [6020] Chemical Shock Legion (49)
+  Chemicals: 22
+  Biochems: 19
+  Electronics: 23
+Build Naval Frigate in Well
+Time to Build / Upgrade: 4
+[2480] Technologies Required to Build Unit (95):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2270] Naval Escort Ships (86)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Shock Legion
-Nick Name: Shock Lgn
+Name: Guided Missile Frigate
+Nick Name: NN-FGM
 Scores & Strengths:
-  Tech Score: 2509
-  Unit Score: 2271
-  Average Score: 2390
-  Stat Strength: 1232
-  Total Strength: 2271
-  Planet Strength: 2271
+  Tech Score: 1339
+  Unit Score: 1776
+  Average Score: 1557
+  Stat Strength: 1249
+  Total Strength: 1776
+  Planet Strength: 1776
   Space Strength: 0
-  Garrison Strength: 567
+  Garrison Strength: 535
 Statistics:
-  Movement Type: foot
-  Move Points: 16
-  Spot: 9
-  Camouflage: 11
-  Agility: 26
-  Armor: 7
-  Psy Defense: 7
-  Rank: 87
+  Movement Type: naval
+  Move Points: 11
+  Spot: 11
+  Camouflage: 2
+  Agility: 11
+  Armor: 21
+  Psy Defense: 21
+  Rank: 112
 Attacks:
-  Air: 12/11
-  Indirect: 15/14
-  Direct: 22/16
-  Close: 23/15
-Load aboard transport: YES
-Upkeep / Maintenance: 19
-Build Cost: 130
+  Water: 10/18
+  Air: 15/6
+  Indirect: 9/17
+  Direct: 13/8
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 13
+Build Cost: 131
 Build Resource Requirements:
-  Trace: 1
-  Monopols: 20
-Upgrade Chemical Shock Legion to Shock Legion at Fort
-Time to Build / Upgrade: 1
-[16085] Technologies Required to Build Unit (64):
-  [6020] Chemical Shock Legion (49)
-  [10065] Powered-Armor Legion (79)
+  Food: 3
+  Energy: 24
+  Metal: 23
+  Trace: 20
+  Exotica: 4
+  Chemicals: 25
+  Biochems: 11
+  Electronics: 21
+  Ceramsteel: 28
+Build Guided Missile Frigate in Well
+Time to Build / Upgrade: 4
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
