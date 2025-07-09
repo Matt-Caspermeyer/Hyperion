@@ -1,50 +1,182 @@
-All units of the unit class Vau Space Fighter are listed herein (1 in total):
+All units of the unit class Starbase are listed herein (4 in total):
 
 --1--
-Name: Vau Space Fighter
-Nick Name: Deathmate
+Name: Starbase
+Nick Name: Starbase
 Scores & Strengths:
-  Tech Score: 3886
-  Unit Score: 3885
-  Average Score: 3885
-  Stat Strength: 2388
-  Total Strength: 3885
-  Planet Strength: 3185
-  Space Strength: 3088
-  Garrison Strength: 1300
+  Tech Score: 2337
+  Unit Score: 2912
+  Average Score: 2625
+  Stat Strength: 2436
+  Total Strength: 2912
+  Planet Strength: 0
+  Space Strength: 2912
+  Garrison Strength: 0
 Statistics:
-  Movement Type: gate
-  Move Points: 6
-  Spot: 12
-  Camouflage: 8
-  Agility: 12
-  Armor: 20
-  Psy Defense: 40
-  Rank: 206
+  Movement Type: space
+  Move Points: 4
+  Spot: 10
+  Camouflage: 2
+  Agility: 2
+  Armor: 34
+  Psy Defense: 34
+  Rank: 859
 Attacks:
-  Closed Space: 25/28
-  Air: 17/21
-  Direct: 20/22
-Load aboard transport: YES
+  Ranged Space: 10/30
+  Direct Space: 11/16
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Heals units of same movement type
 Immune to Plague
-Upkeep / Maintenance: 1141
-Build Cost: 11405
+Upkeep / Maintenance: 81
+Build Cost: 812
 Build Resource Requirements:
   Food: 1
-  Energy: 26
-  Metal: 5
+  Energy: 4
+  Metal: 34
   Trace: 5
   Exotica: 1
-  Chemicals: 45
-  Biochems: 39
-  Electronics: 15
-  Ceramsteel: 10
-  Wetware: 11
-  Monopols: 23
-S  ingularities: 2
-Build Vau Space Fighter in Vau City
+  Chemicals: 32
+  Biochems: 3
+  Electronics: 7
+  Ceramsteel: 38
+Build Starbase in Starport
+Time to Build / Upgrade: 3
+[12310] Technology Required to Build Unit (86):
+  [12310] Space Warfare (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Fusion Starbase
+Nick Name: SS-FS
+Scores & Strengths:
+  Tech Score: 3125
+  Unit Score: 3863
+  Average Score: 3494
+  Stat Strength: 3196
+  Total Strength: 3863
+  Planet Strength: 0
+  Space Strength: 3863
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 5
+  Spot: 11
+  Camouflage: 2
+  Agility: 2
+  Armor: 39
+  Psy Defense: 39
+  Rank: 873
+Attacks:
+  Ranged Space: 12/35
+  Direct Space: 13/19
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 998
+Build Cost: 9167
+Build Resource Requirements:
+  Energy: 2
+  Monopols: 51
+Upgrade Starbase to Fusion Starbase at Starport
+Time to Build / Upgrade: 1
+[20925] Technologies Required to Build Unit (75):
+  [8615] Fusion Beam (63)
+  [12310] Space Warfare (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Doomstar
+Nick Name: Doomstar
+Scores & Strengths:
+  Tech Score: 6811
+  Unit Score: 6689
+  Average Score: 6750
+  Stat Strength: 5700
+  Total Strength: 6689
+  Planet Strength: 0
+  Space Strength: 6689
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 8
+  Spot: 14
+  Camouflage: 4
+  Agility: 4
+  Armor: 52
+  Psy Defense: 52
+  Rank: 938
+Attacks:
+  Ranged Space: 15/41
+  Direct Space: 17/22
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 1525
+Build Cost: 15253
+Build Resource Requirements:
+  Energy: 2
+  Metal: 13
+  Trace: 1
+  Chemicals: 16
+  Biochems: 21
+  Electronics: 9
+  Ceramsteel: 21
+  Wetware: 3
+  Monopols: 36
+S  ingularities: 3
+Build Doomstar in Starport
 Time to Build / Upgrade: 4
-[24245] Technology Required to Build Unit (50):
-  [24245] Vau Psychology (50)
+[51240] Technology Required to Build Unit (53):
+  [51240] Doomstar (53)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Meson Starbase
+Nick Name: SS-MS
+Scores & Strengths:
+  Tech Score: 5606
+  Unit Score: 6926
+  Average Score: 6266
+  Stat Strength: 5811
+  Total Strength: 6926
+  Planet Strength: 0
+  Space Strength: 6926
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 6
+  Spot: 12
+  Camouflage: 3
+  Agility: 2
+  Armor: 53
+  Psy Defense: 53
+  Rank: 911
+Attacks:
+  Ranged Space: 15/46
+  Direct Space: 17/25
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 833
+Build Resource Requirements:
+  Biochems: 10
+  Electronics: 3
+Upgrade Fusion Starbase to Meson Starbase at Starport
+Time to Build / Upgrade: 1
+[76940] Technologies Required to Build Unit (71):
+  [10065] Powered-Armor Legion (79)
+  [27875] PTS Meson Navalcraft (74)
+  [39000] Jump Capital Ships (61)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

@@ -25,8 +25,8 @@ Attacks:
   Indirect: 8/10
   Close: 1/1
 Load aboard transport: YES
-Upkeep / Maintenance: 1
-Build Cost: 3
+Upkeep / Maintenance: 2
+Build Cost: 6
 Build Resource Requirements:
   Energy: 7
   Metal: 9
@@ -67,8 +67,8 @@ Attacks:
   Close: 1/1
 Load aboard transport: YES
 May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 2
-Build Cost: 12
+Upkeep / Maintenance: 3
+Build Cost: 19
 Build Resource Requirements:
   Metal: 7
   Biochems: 2
@@ -106,8 +106,8 @@ Attacks:
   Indirect: 14/17
   Close: 2/2
 Load aboard transport: YES
-Upkeep / Maintenance: 2
-Build Cost: 14
+Upkeep / Maintenance: 4
+Build Cost: 29
 Build Resource Requirements:
   Energy: 3
   Metal: 6
@@ -147,8 +147,8 @@ Attacks:
   Indirect: 24/29
   Close: 3/3
 Load aboard transport: YES
-Upkeep / Maintenance: 2
-Build Cost: 14
+Upkeep / Maintenance: 4
+Build Cost: 34
 Build Resource Requirements:
   Metal: 39
   Biochems: 3
@@ -187,8 +187,8 @@ Attacks:
   Indirect: 29/36
   Close: 4/4
 Load aboard transport: YES
-Upkeep / Maintenance: 2
-Build Cost: 7
+Upkeep / Maintenance: 5
+Build Cost: 20
 Build Resource Requirements:
   Energy: 10
   Chemicals: 3
@@ -208,13 +208,13 @@ Name: Mortar Infantry (PA)
 Nick Name: Mtr Inf (PA)
 Scores & Strengths:
   Tech Score: 1405
-  Unit Score: 1493
-  Average Score: 1449
+  Unit Score: 1464
+  Average Score: 1435
   Stat Strength: 404
-  Total Strength: 1493
-  Planet Strength: 1493
+  Total Strength: 1464
+  Planet Strength: 1464
   Space Strength: 0
-  Garrison Strength: 564
+  Garrison Strength: 553
 Statistics:
   Movement Type: foot
   Move Points: 7
@@ -223,15 +223,15 @@ Statistics:
   Agility: 4
   Armor: 15
   Psy Defense: 7
-  Rank: 130
+  Rank: 129
 Attacks:
-  Indirect: 29/37
+  Indirect: 29/36
   Close: 4/4
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 21
+Upkeep / Maintenance: 9
+Build Cost: 60
 Build Resource Requirements:
-  Energy: 28
+  Energy: 24
   Chemicals: 13
   Electronics: 4
   Ceramsteel: 24
@@ -269,10 +269,10 @@ Attacks:
   Indirect: 33/42
   Close: 4/4
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 23
+Upkeep / Maintenance: 12
+Build Cost: 61
 Build Resource Requirements:
-  Energy: 17
+  Energy: 21
   Metal: 4
   Chemicals: 3
   Biochems: 1
@@ -311,8 +311,8 @@ Attacks:
   Indirect: 30/38
   Close: 4/4
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 30
+Upkeep / Maintenance: 8
+Build Cost: 76
 Build Resource Requirements:
   Food: 4
   Energy: 20
@@ -353,8 +353,8 @@ Attacks:
   Indirect: 34/42
   Close: 4/4
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 18
+Upkeep / Maintenance: 7
+Build Cost: 48
 Build Resource Requirements:
   Energy: 9
   Biochems: 2
@@ -373,13 +373,13 @@ Name: Mortar Infantry (MF)
 Nick Name: Mtr Inf (MF)
 Scores & Strengths:
   Tech Score: 3182
-  Unit Score: 3353
-  Average Score: 3268
+  Unit Score: 3342
+  Average Score: 3262
   Stat Strength: 897
-  Total Strength: 3353
-  Planet Strength: 3353
+  Total Strength: 3342
+  Planet Strength: 3342
   Space Strength: 0
-  Garrison Strength: 1010
+  Garrison Strength: 1007
 Statistics:
   Movement Type: foot
   Move Points: 11
@@ -391,15 +391,15 @@ Statistics:
   Rank: 182
 Attacks:
   Indirect: 44/55
-  Close: 6/6
+  Close: 5/5
 Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 92
+Upkeep / Maintenance: 37
+Build Cost: 306
 Build Resource Requirements:
   Energy: 10
   Biochems: 11
   Wetware: 1
-  Monopols: 10
+  Monopols: 9
 Upgrade Mortar Infantry (CE) to Mortar Infantry (MF) at Wetware
 Time to Build / Upgrade: 1
 [18805] Technologies Required to Build Unit (66):
@@ -434,8 +434,8 @@ Attacks:
   Indirect: 49/61
   Close: 6/6
 Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 54
+Upkeep / Maintenance: 26
+Build Cost: 212
 Build Resource Requirements:
   Trace: 1
   Electronics: 3

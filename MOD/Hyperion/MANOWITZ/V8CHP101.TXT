@@ -1,4 +1,4 @@
-All units of the unit class Naval Protected Cruiser are listed herein (10 in total):
+All units of the unit class Naval Protected Cruiser are listed herein (11 in total):
 
 --1--
 Name: Naval Protected Cruiser
@@ -24,8 +24,8 @@ Statistics:
 Attacks:
   Indirect: 2/20
   Direct: 4/13
-Upkeep / Maintenance: 11
-Build Cost: 110
+Upkeep / Maintenance: 27
+Build Cost: 271
 Build Resource Requirements:
   Food: 7
   Energy: 87
@@ -69,8 +69,8 @@ Statistics:
 Attacks:
   Air: 2/8
   Indirect: 2/24
-Upkeep / Maintenance: 11
-Build Cost: 107
+Upkeep / Maintenance: 26
+Build Cost: 264
 Build Resource Requirements:
   Food: 7
   Energy: 97
@@ -91,52 +91,6 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Naval Battle-Cruiser
-Nick Name: NN-BC
-Scores & Strengths:
-  Tech Score: 224
-  Unit Score: 556
-  Average Score: 390
-  Stat Strength: 408
-  Total Strength: 556
-  Planet Strength: 556
-  Space Strength: 0
-  Garrison Strength: 196
-Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 2
-  Camouflage: 1
-  Agility: 1
-  Armor: 13
-  Psy Defense: 13
-  Rank: 95
-Attacks:
-  Air: 6/9
-  Indirect: 3/22
-  Direct: 2/14
-Upkeep / Maintenance: 16
-Build Cost: 161
-Build Resource Requirements:
-  Food: 6
-  Energy: 104
-  Metal: 70
-  Trace: 9
-  Exotica: 5
-  Chemicals: 41
-Build Naval Battle-Cruiser in Well
-Time to Build / Upgrade: 5
-[900] Technologies Required to Build Unit (96):
-  [230] Hospitals (97)
-  [110] Structural Engineering (99)
-  [235] Giro Directory Training (85)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
 Name: Aircraft Cruiser
 Nick Name: NN-CVC
 Scores & Strengths:
@@ -163,8 +117,8 @@ Attacks:
   Direct: 2/15
 Cargo Space: 2
 Transports and Refuels (at end of turn) all Air Units
-Upkeep / Maintenance: 8
-Build Cost: 80
+Upkeep / Maintenance: 23
+Build Cost: 233
 Build Resource Requirements:
   Food: 2
   Energy: 40
@@ -183,7 +137,7 @@ Time to Build / Upgrade: 2
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---5--
+--4--
 Name: Helicopter Cruiser
 Nick Name: NN-CHC
 Scores & Strengths:
@@ -211,8 +165,8 @@ Attacks:
 Cargo Space: 1
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
 Can tow units that can be towed
-Upkeep / Maintenance: 8
-Build Cost: 75
+Upkeep / Maintenance: 25
+Build Cost: 249
 Build Resource Requirements:
   Food: 2
   Energy: 38
@@ -232,7 +186,7 @@ Time to Build / Upgrade: 2
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---6--
+--5--
 Name: Naval Cruiser
 Nick Name: NN-CC
 Scores & Strengths:
@@ -258,8 +212,8 @@ Attacks:
   Air: 10/10
   Indirect: 2/16
   Direct: 2/12
-Upkeep / Maintenance: 9
-Build Cost: 90
+Upkeep / Maintenance: 28
+Build Cost: 283
 Build Resource Requirements:
   Food: 3
   Energy: 36
@@ -278,7 +232,7 @@ Time to Build / Upgrade: 3
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---7--
+--6--
 Name: Naval Light Armored Cruiser
 Nick Name: NN-CLA
 Scores & Strengths:
@@ -304,8 +258,8 @@ Attacks:
   Air: 13/9
   Indirect: 3/15
   Direct: 3/11
-Upkeep / Maintenance: 10
-Build Cost: 95
+Upkeep / Maintenance: 30
+Build Cost: 300
 Build Resource Requirements:
   Food: 4
   Energy: 33
@@ -324,7 +278,7 @@ Time to Build / Upgrade: 3
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---8--
+--7--
 Name: Naval Scout Cruiser
 Nick Name: NN-CS
 Scores & Strengths:
@@ -350,8 +304,8 @@ Attacks:
   Air: 14/6
   Indirect: 6/10
   Direct: 7/8
-Upkeep / Maintenance: 10
-Build Cost: 97
+Upkeep / Maintenance: 31
+Build Cost: 305
 Build Resource Requirements:
   Food: 5
   Energy: 18
@@ -370,7 +324,7 @@ Time to Build / Upgrade: 3
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---9--
+--8--
 Name: Naval Heavy Cruiser
 Nick Name: NN-CH
 Scores & Strengths:
@@ -396,8 +350,8 @@ Attacks:
   Air: 10/10
   Indirect: 2/18
   Direct: 3/16
-Upkeep / Maintenance: 11
-Build Cost: 114
+Upkeep / Maintenance: 35
+Build Cost: 349
 Build Resource Requirements:
   Food: 3
   Energy: 47
@@ -416,48 +370,141 @@ Time to Build / Upgrade: 4
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---10--
+--9--
 Name: Guided Missile Cruiser
 Nick Name: NN-CGM
 Scores & Strengths:
   Tech Score: 1339
-  Unit Score: 1628
-  Average Score: 1483
-  Stat Strength: 1334
-  Total Strength: 1628
-  Planet Strength: 1628
+  Unit Score: 2678
+  Average Score: 2008
+  Stat Strength: 1886
+  Total Strength: 2678
+  Planet Strength: 2678
   Space Strength: 0
-  Garrison Strength: 542
+  Garrison Strength: 715
 Statistics:
   Movement Type: naval
-  Move Points: 9
+  Move Points: 14
   Spot: 9
-  Camouflage: 2
+  Camouflage: 5
   Agility: 4
-  Armor: 24
-  Psy Defense: 24
-  Rank: 106
+  Armor: 28
+  Psy Defense: 28
+  Rank: 120
 Attacks:
-  Water: 4/21
-  Air: 12/12
-  Indirect: 2/19
-  Direct: 2/14
+  Water: 6/27
+  Air: 18/18
+  Indirect: 8/24
+  Direct: 6/19
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 12
-Build Cost: 117
+Upkeep / Maintenance: 84
+Build Cost: 843
 Build Resource Requirements:
-  Food: 2
-  Energy: 33
-  Metal: 30
-  Trace: 7
-  Exotica: 2
-  Chemicals: 35
-  Biochems: 5
-  Electronics: 8
-  Ceramsteel: 37
+  Food: 3
+  Energy: 58
+  Metal: 41
+  Trace: 14
+  Exotica: 4
+  Chemicals: 62
+  Biochems: 10
+  Electronics: 16
+  Ceramsteel: 50
 Build Guided Missile Cruiser in Well
-Time to Build / Upgrade: 4
+Time to Build / Upgrade: 6
 [5855] Technology Required to Build Unit (84):
   [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: PTS Missile Cruiser
+Nick Name: NN-CPTS
+Scores & Strengths:
+  Tech Score: 1474
+  Unit Score: 3685
+  Average Score: 2579
+  Stat Strength: 2577
+  Total Strength: 3685
+  Planet Strength: 3559
+  Space Strength: 2703
+  Garrison Strength: 918
+Statistics:
+  Movement Type: naval
+  Move Points: 15
+  Spot: 10
+  Camouflage: 7
+  Agility: 5
+  Armor: 33
+  Psy Defense: 33
+  Rank: 128
+Attacks:
+  Ranged Space: 6/21
+  Water: 7/31
+  Air: 20/20
+  Indirect: 9/25
+  Direct: 7/20
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 126
+Build Cost: 1262
+Build Resource Requirements:
+  Food: 4
+  Energy: 64
+  Metal: 53
+  Trace: 17
+  Exotica: 4
+  Chemicals: 87
+  Biochems: 11
+  Electronics: 20
+  Ceramsteel: 66
+Build PTS Missile Cruiser in Well
+Time to Build / Upgrade: 7
+[6655] Technology Required to Build Unit (83):
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Nuclear Cruiser
+Nick Name: NN-CCN
+Scores & Strengths:
+  Tech Score: 1579
+  Unit Score: 4737
+  Average Score: 3158
+  Stat Strength: 3048
+  Total Strength: 4737
+  Planet Strength: 4737
+  Space Strength: 0
+  Garrison Strength: 1184
+Statistics:
+  Movement Type: naval
+  Move Points: 16
+  Spot: 10
+  Camouflage: 8
+  Agility: 6
+  Armor: 36
+  Psy Defense: 36
+  Rank: 146
+Attacks:
+  Water: 12/36
+  Air: 23/23
+  Indirect: 12/30
+  Direct: 16/23
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 178
+Build Cost: 1776
+Build Resource Requirements:
+  Food: 4
+  Energy: 80
+  Metal: 59
+  Trace: 28
+  Exotica: 4
+  Chemicals: 91
+  Biochems: 16
+  Electronics: 31
+  Ceramsteel: 75
+Build Nuclear Cruiser in Well
+Time to Build / Upgrade: 9
+[7295] Technology Required to Build Unit (81):
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

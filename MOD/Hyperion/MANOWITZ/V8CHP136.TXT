@@ -1,261 +1,87 @@
-All units of the unit class Hover Anti-Air Tank are listed herein (6 in total):
+All units of the unit class Spy Plane are listed herein (2 in total):
 
 --1--
-Name: Hover Anti-Air Tank
-Nick Name: Peregrine
+Name: Spy Plane
+Nick Name: Sage
 Scores & Strengths:
-  Tech Score: 988
-  Unit Score: 988
-  Average Score: 988
-  Stat Strength: 652
-  Total Strength: 988
-  Planet Strength: 988
+  Tech Score: 1725
+  Unit Score: 926
+  Average Score: 1325
+  Stat Strength: 926
+  Total Strength: 926
+  Planet Strength: 926
   Space Strength: 0
-  Garrison Strength: 247
+  Garrison Strength: 197
 Statistics:
-  Movement Type: hover
-  Move Points: 16
-  Spot: 6
-  Camouflage: 4
+  Movement Type: air
+  Move Points: 22
+  Spot: 10
+  Camouflage: 10
   Agility: 12
-  Armor: 10
-  Psy Defense: 10
-  Rank: 71
-Attacks:
-  Air: 16/16
-  Indirect: 5/6
-  Close: 10/5
+  Armor: 7
+  Psy Defense: 7
+  Rank: 88
 Load aboard transport: YES
-Upkeep / Maintenance: 40
-Build Cost: 395
+Upkeep / Maintenance: 4
+Build Cost: 42
 Build Resource Requirements:
   Food: 7
-  Energy: 14
-  Metal: 3
-  Trace: 29
+  Energy: 12
+  Metal: 1
+  Trace: 5
   Exotica: 7
-  Chemicals: 23
-  Electronics: 38
-  Ceramsteel: 6
-  Monopols: 33
-Build Hover Anti-Air Tank in Factory
-Time to Build / Upgrade: 4
-[3905] Technology Required to Build Unit (61):
-  [3905] Hovertech (61)
+  Chemicals: 18
+  Electronics: 9
+  Ceramsteel: 4
+Build Spy Plane in Factory
+Time to Build / Upgrade: 1
+[8210] Technology Required to Build Unit (74):
+  [8210] Aircraft Surveillance (74)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Power Hover Anti-Air Tank
-Nick Name: Powergrine
+Name: Stealth Spy Plane
+Nick Name: Seer
 Scores & Strengths:
-  Tech Score: 2707
-  Unit Score: 2484
-  Average Score: 2596
-  Stat Strength: 1592
-  Total Strength: 2484
-  Planet Strength: 2484
+  Tech Score: 7208
+  Unit Score: 6893
+  Average Score: 7051
+  Stat Strength: 6893
+  Total Strength: 6893
+  Planet Strength: 6893
   Space Strength: 0
-  Garrison Strength: 487
+  Garrison Strength: 1063
 Statistics:
-  Movement Type: hover
-  Move Points: 26
-  Spot: 8
-  Camouflage: 7
-  Agility: 15
-  Armor: 17
-  Psy Defense: 17
-  Rank: 94
-Attacks:
-  Air: 26/26
-  Indirect: 8/10
-  Close: 17/8
+  Movement Type: air
+  Move Points: 42
+  Spot: 16
+  Camouflage: 40
+  Agility: 31
+  Armor: 34
+  Psy Defense: 34
+  Rank: 146
 Load aboard transport: YES
-Upkeep / Maintenance: 35
-Build Resource Requirements:
-  Metal: 1
-Upgrade Hover Anti-Air Tank to Power Hover Anti-Air Tank at Factory
-Time to Build / Upgrade: 1
-[14975] Technology Required to Build Unit (70):
-  [14975] Power Hovertanks (70)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---3--
-Name: Psy Hover Anti-Air Tank
-Nick Name: Sacred Hawk
-Scores & Strengths:
-  Tech Score: 2735
-  Unit Score: 2734
-  Average Score: 2735
-  Stat Strength: 1853
-  Total Strength: 2734
-  Planet Strength: 2734
-  Space Strength: 2093
-  Garrison Strength: 582
-Statistics:
-  Movement Type: hover
-  Move Points: 22
-  Spot: 8
-  Camouflage: 6
-  Agility: 17
-  Armor: 14
-  Psy Defense: 28
-  Rank: 95
-Attacks:
-  Psychic: 15/16
-  Air: 22/22
-  Indirect: 10/8
-  Close: 11/7
-Load aboard transport: YES
-Upkeep / Maintenance: 71
-Build Cost: 714
-Build Resource Requirements:
-  Food: 4
-  Energy: 10
-  Metal: 6
-  Trace: 8
-  Exotica: 4
-  Chemicals: 19
-  Electronics: 22
-  Ceramsteel: 10
-  Monopols: 30
-  Gems: 52
-Build Psy Hover Anti-Air Tank in Factory
-Time to Build / Upgrade: 4
-[15305] Technologies Required to Build Unit (76):
-  [330] Holy Warriors (82)
-  [14975] Power Hovertanks (70)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---4--
-Name: 3rd-Republic Hover A-AT
-Nick Name: Impaler
-Scores & Strengths:
-  Tech Score: 2921
-  Unit Score: 2758
-  Average Score: 2839
-  Stat Strength: 1731
-  Total Strength: 2758
-  Planet Strength: 2758
-  Space Strength: 0
-  Garrison Strength: 521
-Statistics:
-  Movement Type: hover
-  Move Points: 28
-  Spot: 8
-  Camouflage: 7
-  Agility: 16
-  Armor: 17
-  Psy Defense: 17
-  Rank: 97
-Attacks:
-  Air: 28/28
-  Indirect: 9/10
-  Close: 17/9
-Load aboard transport: YES
-Upkeep / Maintenance: 24
-Build Cost: 240
+Upkeep / Maintenance: 97
+Build Cost: 966
 Build Resource Requirements:
   Food: 3
-  Energy: 9
-  Metal: 2
-  Trace: 8
+  Energy: 6
+  Metal: 5
+  Trace: 15
   Exotica: 3
-  Chemicals: 15
-  Electronics: 18
-  Ceramsteel: 4
-  Monopols: 21
-Build 3rd-Republic Hover A-AT in Factory
+  Chemicals: 10
+  Biochems: 15
+  Electronics: 26
+  Ceramsteel: 8
+  Wetware: 4
+  Monopols: 19
+Build Stealth Spy Plane in Factory
 Time to Build / Upgrade: 3
-[30105] Technologies Required to Build Unit (69):
-  [15130] Fusion Battle Tanks (68)
-  [14975] Power Hovertanks (70)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Morph Hover Anti-Air Tank
-Nick Name: Harrier
-Scores & Strengths:
-  Tech Score: 5176
-  Unit Score: 5176
-  Average Score: 5176
-  Stat Strength: 3512
-  Total Strength: 5176
-  Planet Strength: 5176
-  Space Strength: 0
-  Garrison Strength: 1015
-Statistics:
-  Movement Type: hover
-  Move Points: 26
-  Spot: 12
-  Camouflage: 10
-  Agility: 32
-  Armor: 28
-  Psy Defense: 28
-  Rank: 138
-Attacks:
-  Air: 34/34
-  Indirect: 12/24
-  Close: 20/11
-Load aboard transport: YES
-Upkeep / Maintenance: 46
-Build Cost: 462
-Build Resource Requirements:
-  Biochems: 28
-  Ceramsteel: 2
-  Wetware: 13
-Upgrade Power Hover Anti-Air Tank to Morph Hover Anti-Air Tank at Factory
-Time to Build / Upgrade: 1
-[35535] Technology Required to Build Unit (36):
-  [35535] Polymorphonic Land Vehicles (36)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Stealth Hover Anti-Air Tank
-Nick Name: Shadow Hawk
-Scores & Strengths:
-  Tech Score: 5358
-  Unit Score: 5358
-  Average Score: 5358
-  Stat Strength: 4286
-  Total Strength: 5358
-  Planet Strength: 5358
-  Space Strength: 0
-  Garrison Strength: 1093
-Statistics:
-  Movement Type: hover
-  Move Points: 24
-  Spot: 14
-  Camouflage: 26
-  Agility: 34
-  Armor: 29
-  Psy Defense: 29
-  Rank: 130
-Attacks:
-  Air: 26/26
-  Indirect: 12/14
-  Close: 19/12
-Load aboard transport: YES
-Upkeep / Maintenance: 40
-Build Cost: 401
-Build Resource Requirements:
-  Metal: 1
-  Biochems: 23
-  Ceramsteel: 2
-  Wetware: 11
-Upgrade Power Hover Anti-Air Tank to Stealth Hover Anti-Air Tank at Factory
-Time to Build / Upgrade: 1
-[37210] Technology Required to Build Unit (34):
-  [37210] Neumonic Land Vehicles (34)
+[63005] Technologies Required to Build Unit (55):
+  [8210] Aircraft Surveillance (74)
+  [54795] Neumonic Patrolcraft (35)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

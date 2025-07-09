@@ -1,271 +1,306 @@
-All units of the unit class Gunship are listed herein (5 in total):
+All units of the unit class Hover Tank are listed herein (7 in total):
 
 --1--
-Name: Gunship
-Nick Name: Dragonfly
+Name: Hover Tank
+Nick Name: Kestral
 Scores & Strengths:
-  Tech Score: 1262
-  Unit Score: 1260
-  Average Score: 1261
-  Stat Strength: 899
-  Total Strength: 1260
-  Planet Strength: 1260
+  Tech Score: 988
+  Unit Score: 986
+  Average Score: 987
+  Stat Strength: 640
+  Total Strength: 986
+  Planet Strength: 986
   Space Strength: 0
-  Garrison Strength: 281
+  Garrison Strength: 254
 Statistics:
-  Movement Type: air
-  Move Points: 20
-  Spot: 10
-  Camouflage: 6
+  Movement Type: hover
+  Move Points: 15
+  Spot: 6
+  Camouflage: 4
   Agility: 11
   Armor: 11
   Psy Defense: 11
-  Rank: 129
+  Rank: 59
 Attacks:
-  Water: 8/12
-  Air: 8/8
-  Indirect: 5/13
-  Direct: 8/8
-  Close: 9/8
+  Indirect: 9/12
+  Direct: 16/8
+  Close: 11/10
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 5
-Build Cost: 51
+Upkeep / Maintenance: 57
+Build Cost: 571
 Build Resource Requirements:
-  Food: 6
-  Energy: 19
-  Metal: 17
-  Trace: 13
-  Exotica: 6
-  Chemicals: 17
-  Biochems: 8
-  Electronics: 10
-Build Gunship in Factory
-Time to Build / Upgrade: 2
-[7970] Technologies Required to Build Unit (87):
-  [795] Missiles (86)
-  [2725] Naval Capital Ships (88)
-  [1785] Rotary Autocannon (90)
-  [2665] V/STOL Aircraft (85)
+  Food: 7
+  Energy: 13
+  Metal: 4
+  Trace: 30
+  Exotica: 7
+  Chemicals: 18
+  Electronics: 39
+  Ceramsteel: 7
+  Monopols: 27
+Build Hover Tank in Factory
+Time to Build / Upgrade: 3
+[3905] Technology Required to Build Unit (61):
+  [3905] Hovertech (61)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Killer Gunship
-Nick Name: Bumblebee
+Name: Hover Tank II
+Nick Name: Kestral II
 Scores & Strengths:
-  Tech Score: 4522
-  Unit Score: 4143
-  Average Score: 4333
-  Stat Strength: 2868
-  Total Strength: 4143
-  Planet Strength: 4143
+  Tech Score: 1600
+  Unit Score: 1518
+  Average Score: 1559
+  Stat Strength: 971
+  Total Strength: 1518
+  Planet Strength: 1518
   Space Strength: 0
-  Garrison Strength: 672
+  Garrison Strength: 348
 Statistics:
-  Movement Type: air
-  Move Points: 38
-  Spot: 14
-  Camouflage: 11
-  Agility: 15
-  Armor: 21
-  Psy Defense: 21
-  Rank: 173
+  Movement Type: hover
+  Move Points: 19
+  Spot: 7
+  Camouflage: 5
+  Agility: 12
+  Armor: 14
+  Psy Defense: 14
+  Rank: 71
 Attacks:
-  Water: 15/23
-  Air: 15/15
-  Indirect: 9/25
-  Direct: 15/15
-  Close: 17/15
+  Indirect: 11/15
+  Direct: 20/10
+  Close: 14/13
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 37
-Build Cost: 373
+Upkeep / Maintenance: 51
+Build Cost: 512
 Build Resource Requirements:
   Food: 4
-  Energy: 15
-  Metal: 3
-  Trace: 10
+  Energy: 12
+  Metal: 5
+  Trace: 19
   Exotica: 4
-  Chemicals: 18
-  Biochems: 7
-  Electronics: 16
-  Ceramsteel: 5
-  Monopols: 25
-Build Killer Gunship in Factory
+  Chemicals: 17
+  Electronics: 35
+  Ceramsteel: 7
+  Monopols: 23
+Build Hover Tank II in Factory
 Time to Build / Upgrade: 3
-[41035] Technologies Required to Build Unit (81):
-  [1785] Rotary Autocannon (90)
-  [27875] PTS Meson Navalcraft (74)
-  [11375] Power Aircraft (79)
+[7425] Technology Required to Build Unit (68):
+  [7425] Hovertanks (68)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Psy Killer Gunship
-Nick Name: Psy Gunship
+Name: Power Hover Tank
+Nick Name: Power Kestral
 Scores & Strengths:
-  Tech Score: 4952
-  Unit Score: 6074
-  Average Score: 5513
-  Stat Strength: 4572
-  Total Strength: 6074
-  Planet Strength: 6074
-  Space Strength: 4782
-  Garrison Strength: 985
+  Tech Score: 2707
+  Unit Score: 2526
+  Average Score: 2617
+  Stat Strength: 1582
+  Total Strength: 2526
+  Planet Strength: 2526
+  Space Strength: 0
+  Garrison Strength: 505
 Statistics:
-  Movement Type: air
-  Move Points: 38
-  Spot: 19
-  Camouflage: 11
-  Agility: 21
-  Armor: 21
-  Psy Defense: 42
-  Rank: 185
+  Movement Type: hover
+  Move Points: 25
+  Spot: 8
+  Camouflage: 7
+  Agility: 14
+  Armor: 18
+  Psy Defense: 18
+  Rank: 90
 Attacks:
-  Psychic: 15/14
-  Water: 15/23
-  Air: 15/15
-  Indirect: 9/25
-  Direct: 15/15
-  Close: 17/16
+  Indirect: 15/20
+  Direct: 26/13
+  Close: 18/17
 Load aboard transport: YES
-Upkeep / Maintenance: 45
-Build Cost: 450
+Upkeep / Maintenance: 68
+Build Cost: 104
 Build Resource Requirements:
-  Food: 6
-  Energy: 15
-  Metal: 6
-  Trace: 11
-  Exotica: 7
-  Chemicals: 20
-  Biochems: 16
-  Electronics: 19
-  Ceramsteel: 11
-  Monopols: 32
-  Gems: 7
-Build Psy Killer Gunship in Factory
-Time to Build / Upgrade: 4
-[48695] Technologies Required to Build Unit (72):
-  [330] Holy Warriors (82)
-  [1555] Dhechi (80)
-  [3050] Occult Science (44)
-  [2725] Visioning (56)
-  [1785] Rotary Autocannon (90)
-  [27875] PTS Meson Navalcraft (74)
-  [11375] Power Aircraft (79)
+Upgrade Hover Tank to Power Hover Tank at Factory
+Time to Build / Upgrade: 1
+[14975] Technology Required to Build Unit (70):
+  [14975] Power Hovertanks (70)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Morph Gunship
-Nick Name: Wasp
+Name: Psy Hover Tank
+Nick Name: Holy Kestral
 Scores & Strengths:
-  Tech Score: 8186
-  Unit Score: 8185
-  Average Score: 8186
-  Stat Strength: 5714
-  Total Strength: 8185
-  Planet Strength: 8185
-  Space Strength: 0
-  Garrison Strength: 1248
+  Tech Score: 2735
+  Unit Score: 2734
+  Average Score: 2735
+  Stat Strength: 1891
+  Total Strength: 2734
+  Planet Strength: 2734
+  Space Strength: 2060
+  Garrison Strength: 596
 Statistics:
-  Movement Type: air
-  Move Points: 43
-  Spot: 24
-  Camouflage: 16
-  Agility: 41
-  Armor: 26
-  Psy Defense: 26
-  Rank: 222
+  Movement Type: hover
+  Move Points: 21
+  Spot: 8
+  Camouflage: 6
+  Agility: 15
+  Armor: 15
+  Psy Defense: 30
+  Rank: 85
 Attacks:
-  Water: 30/28
-  Air: 20/20
-  Indirect: 13/30
-  Direct: 20/20
-  Close: 21/21
+  Psychic: 13/13
+  Indirect: 13/16
+  Direct: 22/11
+  Close: 16/14
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 52
-Build Cost: 516
+Upkeep / Maintenance: 124
+Build Cost: 1235
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 2
-  Trace: 8
-  Exotica: 3
-  Chemicals: 13
-  Biochems: 21
-  Electronics: 13
-  Ceramsteel: 3
-  Wetware: 11
-  Monopols: 20
-Build Morph Gunship in Factory
-Time to Build / Upgrade: 3
-[96885] Technologies Required to Build Unit (64):
-  [1785] Rotary Autocannon (90)
-  [45010] Hover Navalcraft (52)
-  [50090] Polymorphonic Patrolcraft (51)
+  Food: 4
+  Energy: 9
+  Metal: 7
+  Trace: 9
+  Exotica: 4
+  Chemicals: 15
+  Electronics: 25
+  Ceramsteel: 12
+  Monopols: 27
+  Gems: 35
+Build Psy Hover Tank in Factory
+Time to Build / Upgrade: 4
+[15305] Technologies Required to Build Unit (76):
+  [330] Holy Warriors (82)
+  [14975] Power Hovertanks (70)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Stealth Gunship
-Nick Name: Hornet
+Name: 3rd-Republic Hover Tank
+Nick Name: Ravager
 Scores & Strengths:
-  Tech Score: 8419
-  Unit Score: 8418
-  Average Score: 8418
-  Stat Strength: 5925
-  Total Strength: 8418
-  Planet Strength: 8418
+  Tech Score: 2921
+  Unit Score: 2737
+  Average Score: 2829
+  Stat Strength: 1707
+  Total Strength: 2737
+  Planet Strength: 2737
   Space Strength: 0
-  Garrison Strength: 1254
+  Garrison Strength: 536
 Statistics:
-  Movement Type: air
-  Move Points: 45
-  Spot: 24
-  Camouflage: 36
-  Agility: 26
-  Armor: 26
-  Psy Defense: 26
-  Rank: 226
+  Movement Type: hover
+  Move Points: 26
+  Spot: 8
+  Camouflage: 7
+  Agility: 14
+  Armor: 19
+  Psy Defense: 19
+  Rank: 95
 Attacks:
-  Water: 20/32
-  Air: 20/22
-  Indirect: 14/32
-  Direct: 20/22
-  Close: 25/21
+  Indirect: 15/21
+  Direct: 28/14
+  Close: 19/17
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 48
-Build Cost: 475
+Upkeep / Maintenance: 44
+Build Cost: 444
 Build Resource Requirements:
   Food: 2
-  Energy: 11
-  Metal: 2
-  Trace: 10
-  Exotica: 3
-  Chemicals: 13
-  Biochems: 21
-  Electronics: 18
-  Ceramsteel: 3
-  Wetware: 8
-  Monopols: 20
-Build Stealth Gunship in Factory
+  Energy: 8
+  Metal: 3
+  Trace: 8
+  Exotica: 2
+  Chemicals: 11
+  Electronics: 19
+  Ceramsteel: 5
+  Monopols: 17
+Build 3rd-Republic Hover Tank in Factory
 Time to Build / Upgrade: 3
-[98595] Technologies Required to Build Unit (59):
-  [1785] Rotary Autocannon (90)
-  [45010] Hover Navalcraft (52)
-  [51800] Neumonic Patrolcraft (36)
+[30105] Technologies Required to Build Unit (69):
+  [15130] Fusion Battle Tanks (68)
+  [14975] Power Hovertanks (70)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Morph Hover Tank
+Nick Name: Raptor
+Scores & Strengths:
+  Tech Score: 5176
+  Unit Score: 5176
+  Average Score: 5176
+  Stat Strength: 3512
+  Total Strength: 5176
+  Planet Strength: 5176
+  Space Strength: 0
+  Garrison Strength: 1035
+Statistics:
+  Movement Type: hover
+  Move Points: 25
+  Spot: 12
+  Camouflage: 10
+  Agility: 31
+  Armor: 29
+  Psy Defense: 29
+  Rank: 124
+Attacks:
+  Indirect: 20/25
+  Direct: 23/24
+  Close: 34/18
+Load aboard transport: YES
+Upkeep / Maintenance: 129
+Build Cost: 1184
+Build Resource Requirements:
+  Metal: 1
+  Biochems: 26
+  Ceramsteel: 1
+  Wetware: 13
+Upgrade Power Hover Tank to Morph Hover Tank at Factory
+Time to Build / Upgrade: 1
+[35535] Technology Required to Build Unit (36):
+  [35535] Polymorphonic Land Vehicles (36)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Stealth Hover Tank
+Nick Name: Kestral's Eye
+Scores & Strengths:
+  Tech Score: 5358
+  Unit Score: 5358
+  Average Score: 5358
+  Stat Strength: 4194
+  Total Strength: 5358
+  Planet Strength: 5358
+  Space Strength: 0
+  Garrison Strength: 1117
+Statistics:
+  Movement Type: hover
+  Move Points: 23
+  Spot: 14
+  Camouflage: 26
+  Agility: 35
+  Armor: 28
+  Psy Defense: 28
+  Rank: 123
+Attacks:
+  Indirect: 17/22
+  Direct: 28/16
+  Close: 19/18
+Load aboard transport: YES
+Upkeep / Maintenance: 115
+Build Cost: 1049
+Build Resource Requirements:
+  Biochems: 22
+  Wetware: 12
+Upgrade Power Hover Tank to Stealth Hover Tank at Factory
+Time to Build / Upgrade: 1
+[37210] Technology Required to Build Unit (34):
+  [37210] Neumonic Land Vehicles (34)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

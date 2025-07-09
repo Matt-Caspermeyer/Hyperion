@@ -25,8 +25,8 @@ Attacks:
   Indirect: 3/4
   Close: 6/5
 Load aboard transport: YES
-Upkeep / Maintenance: 2
-Build Cost: 9
+Upkeep / Maintenance: 4
+Build Cost: 19
 Build Resource Requirements:
   Metal: 1
   Trace: 16
@@ -68,8 +68,8 @@ Attacks:
   Close: 7/5
 Load aboard transport: YES
 May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 2
-Build Cost: 8
+Upkeep / Maintenance: 3
+Build Cost: 11
 Build Resource Requirements:
   Metal: 1
   Trace: 16
@@ -111,8 +111,8 @@ Attacks:
   Close: 9/7
 Load aboard transport: YES
 May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 3
-Build Cost: 25
+Upkeep / Maintenance: 6
+Build Cost: 41
 Build Resource Requirements:
   Metal: 1
   Trace: 1
@@ -153,8 +153,8 @@ Attacks:
   Indirect: 5/7
   Close: 10/8
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 28
+Upkeep / Maintenance: 8
+Build Cost: 63
 Build Resource Requirements:
   Energy: 3
   Metal: 3
@@ -198,8 +198,8 @@ Attacks:
   Indirect: 8/11
   Close: 17/14
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 22
+Upkeep / Maintenance: 8
+Build Cost: 64
 Build Resource Requirements:
   Metal: 13
   Chemicals: 1
@@ -241,8 +241,8 @@ Attacks:
   Indirect: 10/13
   Close: 21/17
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 15
+Upkeep / Maintenance: 11
+Build Cost: 43
 Build Resource Requirements:
   Energy: 4
   Trace: 1
@@ -286,8 +286,8 @@ Attacks:
   Indirect: 10/14
   Close: 21/17
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 18
+Upkeep / Maintenance: 13
+Build Cost: 71
 Build Resource Requirements:
   Energy: 9
   Chemicals: 17
@@ -310,13 +310,13 @@ Name: Infantry Legion (CE)
 Nick Name: Inf (CE)
 Scores & Strengths:
   Tech Score: 1788
-  Unit Score: 1292
-  Average Score: 1540
+  Unit Score: 1269
+  Average Score: 1529
   Stat Strength: 640
-  Total Strength: 1292
-  Planet Strength: 1292
+  Total Strength: 1269
+  Planet Strength: 1269
   Space Strength: 0
-  Garrison Strength: 372
+  Garrison Strength: 366
 Statistics:
   Movement Type: foot
   Move Points: 12
@@ -328,16 +328,16 @@ Statistics:
   Rank: 93
 Attacks:
   Indirect: 12/16
-  Close: 23/20
+  Close: 23/19
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 35
+Upkeep / Maintenance: 15
+Build Cost: 81
 Build Resource Requirements:
-  Energy: 8
+  Energy: 6
   Metal: 3
   Exotica: 1
-  Chemicals: 10
-  Biochems: 2
+  Chemicals: 7
+  Biochems: 1
   Ceramsteel: 4
 Upgrade Infantry Legion (PA) to Infantry Legion (CE) at Lab
 Time to Build / Upgrade: 1
@@ -375,8 +375,8 @@ Attacks:
   Indirect: 12/16
   Close: 24/20
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 28
+Upkeep / Maintenance: 13
+Build Cost: 86
 Build Resource Requirements:
   Energy: 4
   Chemicals: 4
@@ -417,8 +417,8 @@ Attacks:
   Indirect: 11/14
   Close: 21/18
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 35
+Upkeep / Maintenance: 11
+Build Cost: 92
 Build Resource Requirements:
   Food: 2
   Energy: 15
@@ -439,30 +439,31 @@ Name: Infantry Legion (MF)
 Nick Name: Inf (MF)
 Scores & Strengths:
   Tech Score: 3182
-  Unit Score: 2128
-  Average Score: 2655
-  Stat Strength: 986
-  Total Strength: 2128
-  Planet Strength: 2128
+  Unit Score: 2076
+  Average Score: 2629
+  Stat Strength: 955
+  Total Strength: 2076
+  Planet Strength: 2076
   Space Strength: 0
-  Garrison Strength: 532
+  Garrison Strength: 536
 Statistics:
   Movement Type: foot
-  Move Points: 16
+  Move Points: 15
   Spot: 5
   Camouflage: 10
   Agility: 18
   Armor: 16
   Psy Defense: 5
-  Rank: 114
+  Rank: 112
 Attacks:
-  Indirect: 16/21
+  Indirect: 15/21
   Close: 31/26
 Load aboard transport: YES
-Upkeep / Maintenance: 31
-Build Cost: 272
+Upkeep / Maintenance: 106
+Build Cost: 983
 Build Resource Requirements:
-  Biochems: 6
+  Energy: 2
+  Biochems: 7
   Wetware: 10
   Monopols: 32
 Upgrade Infantry Legion (CE) to Infantry Legion (MF) at Wetware
@@ -501,8 +502,8 @@ Attacks:
   Indirect: 17/23
   Close: 35/29
 Load aboard transport: YES
-Upkeep / Maintenance: 22
-Build Cost: 187
+Upkeep / Maintenance: 80
+Build Cost: 715
 Build Resource Requirements:
   Wetware: 11
   Monopols: 17

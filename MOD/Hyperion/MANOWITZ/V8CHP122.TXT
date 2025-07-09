@@ -1,236 +1,452 @@
-All units of the unit class Space Carrier are listed herein (5 in total):
+All units of the unit class Transport Helicopter are listed herein (10 in total):
 
 --1--
-Name: Space Carrier
-Nick Name: SS-CV
+Name: Transport Helicopter
+Nick Name: A-HX
 Scores & Strengths:
-  Tech Score: 337
-  Unit Score: 671
-  Average Score: 504
-  Stat Strength: 588
-  Total Strength: 671
-  Planet Strength: 0
-  Space Strength: 671
-  Garrison Strength: 0
+  Tech Score: 618
+  Unit Score: 620
+  Average Score: 619
+  Stat Strength: 620
+  Total Strength: 620
+  Planet Strength: 620
+  Space Strength: 0
+  Garrison Strength: 206
 Statistics:
-  Movement Type: space
-  Move Points: 2
-  Spot: 8
-  Camouflage: 2
-  Agility: 2
-  Armor: 16
-  Psy Defense: 16
-  Rank: 159
-Attacks:
-  Direct Space: 3/11
-  Closed Space: 5/10
-Cargo Space: 4
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 60
-Build Cost: 602
+  Movement Type: air
+  Move Points: 9
+  Spot: 6
+  Camouflage: 6
+  Agility: 15
+  Armor: 11
+  Psy Defense: 11
+  Rank: 91
+Cargo Space: 1
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 11
+Build Cost: 112
 Build Resource Requirements:
-  Food: 8
-  Energy: 25
-  Metal: 131
-  Trace: 16
+  Food: 7
+  Energy: 12
+  Metal: 166
+  Trace: 11
   Exotica: 7
-  Chemicals: 78
-  Electronics: 10
-  Gems: 1
-Build Space Carrier in Starport
-Time to Build / Upgrade: 5
-[1040] Technologies Required to Build Unit (96):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [100] Psychosocial Engineering (100)
+  Chemicals: 13
+  Electronics: 12
+Build Transport Helicopter in Factory
+Time to Build / Upgrade: 3
+[2090] Technology Required to Build Unit (85):
+  [2090] Rotorcraft (85)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Space Escort Carrier
-Nick Name: SS-CVE
+Name: Cargo Helicopter
+Nick Name: A-HCC
 Scores & Strengths:
-  Tech Score: 2166
-  Unit Score: 2164
-  Average Score: 2165
-  Stat Strength: 1768
-  Total Strength: 2164
-  Planet Strength: 0
-  Space Strength: 2164
-  Garrison Strength: 0
+  Tech Score: 729
+  Unit Score: 724
+  Average Score: 727
+  Stat Strength: 724
+  Total Strength: 724
+  Planet Strength: 724
+  Space Strength: 0
+  Garrison Strength: 255
 Statistics:
-  Movement Type: space
-  Move Points: 6
-  Spot: 12
-  Camouflage: 2
-  Agility: 4
-  Armor: 28
-  Psy Defense: 28
-  Rank: 172
-Attacks:
-  Direct Space: 12/18
-  Closed Space: 10/18
+  Movement Type: air
+  Move Points: 8
+  Spot: 6
+  Camouflage: 6
+  Agility: 14
+  Armor: 14
+  Psy Defense: 14
+  Rank: 102
 Cargo Space: 2
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 26
-Build Cost: 262
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 10
+Build Cost: 96
 Build Resource Requirements:
-  Food: 1
-  Energy: 11
-  Metal: 27
+  Food: 4
+  Energy: 6
+  Metal: 160
   Trace: 6
-  Exotica: 2
-  Chemicals: 21
-  Biochems: 25
-  Electronics: 9
-  Ceramsteel: 32
-Build Space Escort Carrier in Starport
+  Exotica: 4
+  Chemicals: 7
+  Electronics: 7
+Build Cargo Helicopter in Factory
 Time to Build / Upgrade: 3
-[11120] Technology Required to Build Unit (84):
-  [11120] Space Escorts (84)
+[4060] Technologies Required to Build Unit (86):
+  [2090] Rotorcraft (85)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Jump Carrier
-Nick Name: JJ-CV
+Name: Transport Helicopter II
+Nick Name: A-HX II
 Scores & Strengths:
-  Tech Score: 1933
-  Unit Score: 2416
-  Average Score: 2174
-  Stat Strength: 2084
-  Total Strength: 2416
-  Planet Strength: 0
-  Space Strength: 2416
-  Garrison Strength: 0
+  Tech Score: 1117
+  Unit Score: 996
+  Average Score: 1057
+  Stat Strength: 996
+  Total Strength: 996
+  Planet Strength: 996
+  Space Strength: 0
+  Garrison Strength: 287
 Statistics:
-  Movement Type: jump
-  Move Points: 4
-  Spot: 11
-  Camouflage: 4
-  Agility: 3
-  Armor: 31
-  Psy Defense: 31
-  Rank: 215
-Attacks:
-  Direct Space: 6/22
-  Closed Space: 10/20
-Cargo Space: 4
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 1099
-Build Cost: 10988
+  Movement Type: air
+  Move Points: 12
+  Spot: 7
+  Camouflage: 8
+  Agility: 17
+  Armor: 15
+  Psy Defense: 15
+  Rank: 96
+Cargo Space: 1
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 5
+Build Cost: 48
 Build Resource Requirements:
-  Food: 1
-  Energy: 27
-  Metal: 22
-  Trace: 5
-  Exotica: 1
-  Chemicals: 37
-  Electronics: 8
-  Monopols: 60
-S  ingularities: 2
-Build Jump Carrier in Starport
-Time to Build / Upgrade: 5
-[12900] Technologies Required to Build Unit (67):
-  [4285] Jump Drives (70)
-  [8615] Fusion Beam (63)
+  Food: 4
+  Energy: 6
+  Metal: 35
+  Trace: 6
+  Exotica: 4
+  Chemicals: 7
+  Biochems: 4
+  Electronics: 6
+Build Transport Helicopter II in Factory
+Time to Build / Upgrade: 2
+[6625] Technologies Required to Build Unit (86):
+  [2090] Rotorcraft (85)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Space Light Carrier
-Nick Name: SS-CLA
+Name: Cargo Helicopter II
+Nick Name: A-HCC II
 Scores & Strengths:
-  Tech Score: 2511
-  Unit Score: 2510
-  Average Score: 2511
-  Stat Strength: 2036
-  Total Strength: 2510
-  Planet Strength: 0
-  Space Strength: 2510
-  Garrison Strength: 0
+  Tech Score: 1146
+  Unit Score: 1117
+  Average Score: 1132
+  Stat Strength: 1117
+  Total Strength: 1117
+  Planet Strength: 1117
+  Space Strength: 0
+  Garrison Strength: 353
 Statistics:
-  Movement Type: space
-  Move Points: 16
-  Spot: 12
-  Camouflage: 2
-  Agility: 8
-  Armor: 28
-  Psy Defense: 28
-  Rank: 166
-Attacks:
-  Direct Space: 13/18
-  Closed Space: 15/16
-Cargo Space: 1
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 100
-Build Cost: 997
+  Movement Type: air
+  Move Points: 10
+  Spot: 7
+  Camouflage: 8
+  Agility: 16
+  Armor: 18
+  Psy Defense: 18
+  Rank: 106
+Cargo Space: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 5
+Build Cost: 48
 Build Resource Requirements:
-  Food: 2
-  Energy: 9
-  Metal: 12
-  Trace: 7
-  Exotica: 2
-  Chemicals: 15
-  Biochems: 22
-  Electronics: 11
-  Ceramsteel: 15
-  Monopols: 23
-Build Space Light Carrier in Starport
-Time to Build / Upgrade: 3
-[13545] Technology Required to Build Unit (80):
-  [13545] Space Capital Ships (80)
+  Food: 3
+  Energy: 4
+  Metal: 48
+  Trace: 5
+  Exotica: 3
+  Chemicals: 5
+  Biochems: 2
+  Electronics: 5
+Build Cargo Helicopter II in Factory
+Time to Build / Upgrade: 2
+[8595] Technologies Required to Build Unit (87):
+  [2090] Rotorcraft (85)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2725] Naval Capital Ships (88)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Jump Carrier MkII
-Nick Name: JJ-CV2
+Name: Transport Helicopter III
+Nick Name: A-HX III
 Scores & Strengths:
-  Tech Score: 5419
-  Unit Score: 6606
-  Average Score: 6013
-  Stat Strength: 5718
-  Total Strength: 6606
-  Planet Strength: 0
-  Space Strength: 6606
-  Garrison Strength: 0
+  Tech Score: 1496
+  Unit Score: 1265
+  Average Score: 1381
+  Stat Strength: 1265
+  Total Strength: 1265
+  Planet Strength: 1265
+  Space Strength: 0
+  Garrison Strength: 338
 Statistics:
-  Movement Type: jump
-  Move Points: 7
-  Spot: 14
-  Camouflage: 7
-  Agility: 4
-  Armor: 52
-  Psy Defense: 52
-  Rank: 271
-Attacks:
-  Direct Space: 10/36
-  Closed Space: 16/33
-Cargo Space: 4
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 1119
-Build Cost: 11193
+  Movement Type: air
+  Move Points: 14
+  Spot: 7
+  Camouflage: 9
+  Agility: 19
+  Armor: 17
+  Psy Defense: 17
+  Rank: 99
+Cargo Space: 1
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 8
+Build Cost: 78
 Build Resource Requirements:
-  Food: 1
-  Energy: 24
+  Food: 4
+  Energy: 8
   Metal: 18
-  Trace: 3
-  Exotica: 1
-  Chemicals: 41
-  Biochems: 30
-  Electronics: 15
-  Ceramsteel: 29
-  Monopols: 40
-S  ingularities: 3
-Build Jump Carrier MkII in Starport
-Time to Build / Upgrade: 5
-[37775] Technology Required to Build Unit (61):
-  [37775] Jump Capital Ships (61)
+  Trace: 7
+  Exotica: 5
+  Chemicals: 13
+  Biochems: 5
+  Electronics: 8
+  Ceramsteel: 20
+Build Transport Helicopter III in Factory
+Time to Build / Upgrade: 2
+[7360] Technologies Required to Build Unit (84):
+  [2665] V/STOL Aircraft (85)
+  [4695] Advanced Minor Watercraft (83)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Cargo Helicopter III
+Nick Name: A-HCC III
+Scores & Strengths:
+  Tech Score: 1522
+  Unit Score: 1363
+  Average Score: 1443
+  Stat Strength: 1363
+  Total Strength: 1363
+  Planet Strength: 1363
+  Space Strength: 0
+  Garrison Strength: 393
+Statistics:
+  Movement Type: air
+  Move Points: 12
+  Spot: 7
+  Camouflage: 9
+  Agility: 17
+  Armor: 20
+  Psy Defense: 20
+  Rank: 109
+Cargo Space: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 8
+Build Cost: 82
+Build Resource Requirements:
+  Food: 3
+  Energy: 5
+  Metal: 24
+  Trace: 5
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 3
+  Electronics: 6
+  Ceramsteel: 27
+Build Cargo Helicopter III in Factory
+Time to Build / Upgrade: 2
+[9330] Technologies Required to Build Unit (85):
+  [1970] Cargo Handling (87)
+  [2665] V/STOL Aircraft (85)
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Transport Helicopter IV
+Nick Name: A-HX IV
+Scores & Strengths:
+  Tech Score: 2251
+  Unit Score: 1797
+  Average Score: 2024
+  Stat Strength: 1797
+  Total Strength: 1797
+  Planet Strength: 1797
+  Space Strength: 0
+  Garrison Strength: 435
+Statistics:
+  Movement Type: air
+  Move Points: 17
+  Spot: 8
+  Camouflage: 11
+  Agility: 21
+  Armor: 21
+  Psy Defense: 21
+  Rank: 105
+Cargo Space: 1
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 8
+Build Cost: 77
+Build Resource Requirements:
+  Food: 4
+  Energy: 7
+  Metal: 13
+  Trace: 6
+  Exotica: 4
+  Chemicals: 13
+  Biochems: 4
+  Electronics: 8
+  Ceramsteel: 19
+Build Transport Helicopter IV in Factory
+Time to Build / Upgrade: 2
+[14125] Technologies Required to Build Unit (82):
+  [4695] Advanced Minor Watercraft (83)
+  [9430] Advanced V/STOL Aircraft (81)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Cargo Helicopter IV
+Nick Name: A-HCC IV
+Scores & Strengths:
+  Tech Score: 2274
+  Unit Score: 1992
+  Average Score: 2133
+  Stat Strength: 1992
+  Total Strength: 1992
+  Planet Strength: 1992
+  Space Strength: 0
+  Garrison Strength: 532
+Statistics:
+  Movement Type: air
+  Move Points: 14
+  Spot: 8
+  Camouflage: 11
+  Agility: 19
+  Armor: 25
+  Psy Defense: 25
+  Rank: 116
+Cargo Space: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 9
+Build Cost: 86
+Build Resource Requirements:
+  Food: 3
+  Energy: 5
+  Metal: 19
+  Trace: 5
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 3
+  Electronics: 6
+  Ceramsteel: 27
+Build Cargo Helicopter IV in Factory
+Time to Build / Upgrade: 2
+[16095] Technologies Required to Build Unit (84):
+  [1970] Cargo Handling (87)
+  [4695] Advanced Minor Watercraft (83)
+  [9430] Advanced V/STOL Aircraft (81)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Transport Helicopter V
+Nick Name: A-HX V
+Scores & Strengths:
+  Tech Score: 3278
+  Unit Score: 2497
+  Average Score: 2888
+  Stat Strength: 2497
+  Total Strength: 2497
+  Planet Strength: 2497
+  Space Strength: 0
+  Garrison Strength: 544
+Statistics:
+  Movement Type: air
+  Move Points: 21
+  Spot: 9
+  Camouflage: 14
+  Agility: 23
+  Armor: 25
+  Psy Defense: 25
+  Rank: 114
+Cargo Space: 1
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 54
+Build Cost: 537
+Build Resource Requirements:
+  Food: 3
+  Energy: 5
+  Metal: 7
+  Trace: 5
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 3
+  Electronics: 11
+  Ceramsteel: 11
+  Monopols: 18
+Build Transport Helicopter V in Factory
+Time to Build / Upgrade: 2
+[21740] Technologies Required to Build Unit (81):
+  [4695] Advanced Minor Watercraft (83)
+  [17045] Power V/STOL Aircraft (79)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Cargo Helicopter V
+Nick Name: A-HCC V
+Scores & Strengths:
+  Tech Score: 3298
+  Unit Score: 2739
+  Average Score: 3019
+  Stat Strength: 2739
+  Total Strength: 2739
+  Planet Strength: 2739
+  Space Strength: 0
+  Garrison Strength: 664
+Statistics:
+  Movement Type: air
+  Move Points: 17
+  Spot: 9
+  Camouflage: 13
+  Agility: 20
+  Armor: 30
+  Psy Defense: 30
+  Rank: 125
+Cargo Space: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 64
+Build Cost: 643
+Build Resource Requirements:
+  Food: 2
+  Energy: 4
+  Metal: 10
+  Trace: 4
+  Exotica: 2
+  Chemicals: 10
+  Biochems: 2
+  Electronics: 11
+  Ceramsteel: 16
+  Monopols: 20
+Build Cargo Helicopter V in Factory
+Time to Build / Upgrade: 3
+[23710] Technologies Required to Build Unit (83):
+  [1970] Cargo Handling (87)
+  [4695] Advanced Minor Watercraft (83)
+  [17045] Power V/STOL Aircraft (79)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

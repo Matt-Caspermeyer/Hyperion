@@ -1,261 +1,133 @@
-All units of the unit class Main Battle Tank are listed herein (6 in total):
+All units of the unit class PTS Guided Missile are listed herein (3 in total):
 
 --1--
-Name: Main Battle Tank
-Nick Name: MBT
+Name: PTS Guided Missile
+Nick Name: PTS GM
 Scores & Strengths:
-  Tech Score: 530
-  Unit Score: 528
-  Average Score: 529
-  Stat Strength: 380
-  Total Strength: 528
-  Planet Strength: 528
-  Space Strength: 0
-  Garrison Strength: 215
+  Tech Score: 522
+  Unit Score: 521
+  Average Score: 522
+  Stat Strength: 296
+  Total Strength: 521
+  Planet Strength: 296
+  Space Strength: 521
+  Garrison Strength: 85
 Statistics:
-  Movement Type: tread
-  Move Points: 6
-  Spot: 6
-  Camouflage: 2
-  Agility: 4
-  Armor: 12
-  Psy Defense: 12
-  Rank: 70
+  Movement Type: air
+  Move Points: 12
+  Spot: 0
+  Camouflage: 12
+  Agility: 0
+  Armor: 2
+  Psy Defense: 2
+  Rank: 85
 Attacks:
-  Indirect: 6/11
-  Direct: 5/10
-  Close: 4/8
+  Ranged Space: 15/15
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 28
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
 Build Resource Requirements:
-  Food: 4
-  Energy: 22
-  Metal: 33
-  Trace: 9
-  Exotica: 4
-  Chemicals: 26
-  Electronics: 10
-Build Main Battle Tank in Factory
+  Food: 6
+  Energy: 9
+  Metal: 5
+  Trace: 25
+  Exotica: 6
+  Chemicals: 35
+  Electronics: 30
+Build PTS Guided Missile in Chemical Plant
 Time to Build / Upgrade: 2
-[1700] Technology Required to Build Unit (88):
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
+[1670] Technology Required to Build Unit (83):
+  [1670] Guided Missiles (83)
 Unit can be disbanded: YES
 
 --2--
-Name: Amphibious Main Battle Tank
-Nick Name: N-ATMB
+Name: PTS Supersonic Missile
+Nick Name: PTS GM II
 Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 958
-  Average Score: 959
-  Stat Strength: 518
-  Total Strength: 958
-  Planet Strength: 958
-  Space Strength: 0
-  Garrison Strength: 338
+  Tech Score: 1038
+  Unit Score: 1037
+  Average Score: 1037
+  Stat Strength: 596
+  Total Strength: 1037
+  Planet Strength: 596
+  Space Strength: 1037
+  Garrison Strength: 144
 Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 8
-  Armor: 13
-  Psy Defense: 13
-  Rank: 84
+  Movement Type: air
+  Move Points: 17
+  Spot: 0
+  Camouflage: 17
+  Agility: 0
+  Armor: 3
+  Psy Defense: 3
+  Rank: 102
 Attacks:
-  Indirect: 12/15
-  Direct: 10/14
-  Close: 10/12
+  Ranged Space: 21/21
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 54
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
 Build Resource Requirements:
-  Food: 2
-  Energy: 20
-  Metal: 19
-  Trace: 12
-  Exotica: 2
-  Chemicals: 18
-  Biochems: 7
-  Electronics: 10
-Build Amphibious Main Battle Tank in Factory
+  Food: 5
+  Energy: 10
+  Metal: 11
+  Trace: 22
+  Exotica: 5
+  Chemicals: 33
+  Electronics: 25
+Build PTS Supersonic Missile in Chemical Plant
 Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
+[4170] Technology Required to Build Unit (84):
+  [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
 --3--
-Name: Mega Tank
-Nick Name: Mastiff
+Name: PTS Hypersonic Missile
+Nick Name: PTS GM III
 Scores & Strengths:
-  Tech Score: 2510
-  Unit Score: 2509
-  Average Score: 2509
-  Stat Strength: 1996
-  Total Strength: 2509
-  Planet Strength: 2509
-  Space Strength: 0
-  Garrison Strength: 724
+  Tech Score: 1548
+  Unit Score: 1576
+  Average Score: 1562
+  Stat Strength: 900
+  Total Strength: 1576
+  Planet Strength: 900
+  Space Strength: 1576
+  Garrison Strength: 196
 Statistics:
-  Movement Type: tread
-  Move Points: 12
-  Spot: 8
-  Camouflage: 6
-  Agility: 20
-  Armor: 26
-  Psy Defense: 26
-  Rank: 103
+  Movement Type: air
+  Move Points: 21
+  Spot: 0
+  Camouflage: 21
+  Agility: 0
+  Armor: 3
+  Psy Defense: 3
+  Rank: 118
 Attacks:
-  Indirect: 12/21
-  Direct: 9/19
-  Close: 6/15
+  Ranged Space: 26/26
 Load aboard transport: YES
-Upkeep / Maintenance: 29
-Build Cost: 259
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 15
 Build Resource Requirements:
-  Electronics: 5
-  Ceramsteel: 16
-  Monopols: 32
-Upgrade Main Battle Tank to Mega Tank at Factory
-Time to Build / Upgrade: 1
-[13535] Technology Required to Build Unit (74):
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---4--
-Name: Shock Mega Tank
-Nick Name: Hell Hound
-Scores & Strengths:
-  Tech Score: 3780
-  Unit Score: 3524
-  Average Score: 3652
-  Stat Strength: 2478
-  Total Strength: 3524
-  Planet Strength: 3524
-  Space Strength: 0
-  Garrison Strength: 881
-Statistics:
-  Movement Type: tread
-  Move Points: 16
-  Spot: 10
-  Camouflage: 5
-  Agility: 7
-  Armor: 32
-  Psy Defense: 32
-  Rank: 127
-Attacks:
-  Indirect: 16/29
-  Direct: 13/27
-  Close: 11/21
-Load aboard transport: YES
-Upkeep / Maintenance: 22
-Build Resource Requirements:
-  Biochems: 15
-  Wetware: 2
-Upgrade Mega Tank to Shock Mega Tank at Factory
-Time to Build / Upgrade: 1
-[46850] Technologies Required to Build Unit (54):
-  [16745] Wetware (23)
-  [15130] Fusion Battle Tanks (68)
-  [14975] Power Hovertanks (70)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Psy Mega Tank
-Nick Name: St. Bernard
-Scores & Strengths:
-  Tech Score: 2735
-  Unit Score: 4785
-  Average Score: 3760
-  Stat Strength: 4024
-  Total Strength: 4785
-  Planet Strength: 4785
-  Space Strength: 4284
-  Garrison Strength: 1381
-Statistics:
-  Movement Type: tread
-  Move Points: 12
-  Spot: 8
-  Camouflage: 6
-  Agility: 20
-  Armor: 26
-  Psy Defense: 52
-  Rank: 116
-Attacks:
-  Psychic: 13/20
-  Indirect: 12/20
-  Direct: 9/19
-  Close: 6/15
-Load aboard transport: YES
-Upkeep / Maintenance: 119
-Build Cost: 1187
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 21
-  Trace: 4
-  Exotica: 3
-  Chemicals: 25
-  Electronics: 22
-  Ceramsteel: 36
-  Monopols: 52
-  Gems: 79
-Build Psy Mega Tank in Factory
-Time to Build / Upgrade: 7
-[15305] Technologies Required to Build Unit (76):
-  [330] Holy Warriors (82)
-  [14975] Power Hovertanks (70)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Stealth Mega Tank
-Nick Name: Ghost Tank
-Scores & Strengths:
-  Tech Score: 5358
-  Unit Score: 5358
-  Average Score: 5358
-  Stat Strength: 3705
-  Total Strength: 5358
-  Planet Strength: 5358
-  Space Strength: 0
-  Garrison Strength: 1229
-Statistics:
-  Movement Type: tread
-  Move Points: 19
-  Spot: 14
-  Camouflage: 23
-  Agility: 21
-  Armor: 33
-  Psy Defense: 33
-  Rank: 151
-Attacks:
-  Indirect: 21/29
-  Direct: 20/27
-  Close: 21/24
-Load aboard transport: YES
-Upkeep / Maintenance: 29
-Build Cost: 30
-Build Resource Requirements:
-  Trace: 3
-  Biochems: 23
-  Electronics: 4
-  Wetware: 7
-Upgrade Mega Tank to Stealth Mega Tank at Factory
-Time to Build / Upgrade: 1
-[37210] Technology Required to Build Unit (34):
-  [37210] Neumonic Land Vehicles (34)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 5
+  Energy: 10
+  Metal: 11
+  Trace: 23
+  Exotica: 5
+  Chemicals: 38
+  Electronics: 28
+Build PTS Hypersonic Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[7105] Technology Required to Build Unit (77):
+  [7105] Hypercruise Missiles (77)
 Unit can be disbanded: YES

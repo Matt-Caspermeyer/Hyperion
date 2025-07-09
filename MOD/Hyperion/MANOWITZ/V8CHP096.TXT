@@ -1,4 +1,4 @@
-All units of the unit class Torpedo Boat Destroyer are listed herein (3 in total):
+All units of the unit class Torpedo Boat Destroyer are listed herein (5 in total):
 
 --1--
 Name: Torpedo Boat Destroyer
@@ -25,8 +25,8 @@ Attacks:
   Water: 2/22
   Indirect: 2/21
 Load aboard transport: YES
-Upkeep / Maintenance: 22
-Build Cost: 217
+Upkeep / Maintenance: 53
+Build Cost: 534
 Build Resource Requirements:
   Food: 6
   Energy: 186
@@ -73,8 +73,8 @@ Attacks:
   Indirect: 6/16
   Direct: 8/10
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 17
-Build Cost: 172
+Upkeep / Maintenance: 49
+Build Cost: 490
 Build Resource Requirements:
   Food: 6
   Energy: 39
@@ -98,43 +98,136 @@ Name: Guided Missile Destroyer
 Nick Name: NN-DGM
 Scores & Strengths:
   Tech Score: 1339
-  Unit Score: 1779
-  Average Score: 1559
-  Stat Strength: 1274
-  Total Strength: 1779
-  Planet Strength: 1779
+  Unit Score: 2678
+  Average Score: 2008
+  Stat Strength: 1739
+  Total Strength: 2678
+  Planet Strength: 2678
   Space Strength: 0
-  Garrison Strength: 562
+  Garrison Strength: 691
 Statistics:
   Movement Type: naval
-  Move Points: 10
+  Move Points: 15
   Spot: 11
-  Camouflage: 2
-  Agility: 9
-  Armor: 22
-  Psy Defense: 22
-  Rank: 111
+  Camouflage: 5
+  Agility: 4
+  Armor: 26
+  Psy Defense: 26
+  Rank: 124
 Attacks:
-  Water: 8/21
-  Air: 14/8
-  Indirect: 7/18
-  Direct: 9/11
+  Water: 11/27
+  Air: 17/12
+  Indirect: 10/23
+  Direct: 13/16
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 13
-Build Cost: 129
+Upkeep / Maintenance: 83
+Build Cost: 829
 Build Resource Requirements:
-  Food: 3
-  Energy: 29
-  Metal: 26
-  Trace: 15
-  Exotica: 3
-  Chemicals: 31
-  Biochems: 9
-  Electronics: 16
-  Ceramsteel: 31
+  Food: 4
+  Energy: 50
+  Metal: 36
+  Trace: 22
+  Exotica: 4
+  Chemicals: 52
+  Biochems: 13
+  Electronics: 23
+  Ceramsteel: 43
 Build Guided Missile Destroyer in Well
-Time to Build / Upgrade: 4
+Time to Build / Upgrade: 6
 [5855] Technology Required to Build Unit (84):
   [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: PTS Missile Destroyer
+Nick Name: NN-DPTS
+Scores & Strengths:
+  Tech Score: 1474
+  Unit Score: 3685
+  Average Score: 2579
+  Stat Strength: 2300
+  Total Strength: 3685
+  Planet Strength: 3545
+  Space Strength: 2440
+  Garrison Strength: 886
+Statistics:
+  Movement Type: naval
+  Move Points: 16
+  Spot: 12
+  Camouflage: 8
+  Agility: 6
+  Armor: 30
+  Psy Defense: 30
+  Rank: 132
+Attacks:
+  Ranged Space: 7/20
+  Water: 15/28
+  Air: 19/14
+  Indirect: 13/25
+  Direct: 13/18
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 122
+Build Cost: 1215
+Build Resource Requirements:
+  Food: 4
+  Energy: 54
+  Metal: 44
+  Trace: 29
+  Exotica: 5
+  Chemicals: 70
+  Biochems: 16
+  Electronics: 30
+  Ceramsteel: 54
+Build PTS Missile Destroyer in Well
+Time to Build / Upgrade: 7
+[6655] Technology Required to Build Unit (83):
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Nuclear Destroyer
+Nick Name: NN-DDN
+Scores & Strengths:
+  Tech Score: 1579
+  Unit Score: 4737
+  Average Score: 3158
+  Stat Strength: 2925
+  Total Strength: 4737
+  Planet Strength: 4737
+  Space Strength: 0
+  Garrison Strength: 1116
+Statistics:
+  Movement Type: naval
+  Move Points: 18
+  Spot: 12
+  Camouflage: 9
+  Agility: 8
+  Armor: 34
+  Psy Defense: 34
+  Rank: 148
+Attacks:
+  Water: 17/34
+  Air: 21/16
+  Indirect: 16/30
+  Direct: 19/22
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 174
+Build Cost: 1738
+Build Resource Requirements:
+  Food: 5
+  Energy: 72
+  Metal: 52
+  Trace: 36
+  Exotica: 5
+  Chemicals: 78
+  Biochems: 19
+  Electronics: 38
+  Ceramsteel: 67
+Build Nuclear Destroyer in Well
+Time to Build / Upgrade: 8
+[7295] Technology Required to Build Unit (81):
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

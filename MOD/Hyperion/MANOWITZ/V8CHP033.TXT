@@ -1,4 +1,4 @@
-All units of the unit class Coastal Artillery Transport are listed herein (5 in total):
+All units of the unit class Coastal Artillery Transport are listed herein (7 in total):
 
 --1--
 Name: Coastal Artillery Transport
@@ -23,7 +23,7 @@ Statistics:
   Rank: 51
 Load aboard transport: YES
 Can tow units that can be towed
-Upkeep / Maintenance: 1
+Upkeep / Maintenance: 2
 Build Resource Requirements:
   Food: 3
   Exotica: 2
@@ -65,8 +65,8 @@ Cargo Space: 2
 Can be towed
 Never Rebels
 Never Retreats
-Upkeep / Maintenance: 11
-Build Cost: 108
+Upkeep / Maintenance: 15
+Build Cost: 152
 Build Resource Requirements:
   Food: 3
   Energy: 45
@@ -106,8 +106,8 @@ Attacks:
 Cargo Space: 4
 Never Rebels
 Never Retreats
-Upkeep / Maintenance: 8
-Build Cost: 84
+Upkeep / Maintenance: 12
+Build Cost: 117
 Build Resource Requirements:
   Food: 1
   Energy: 102
@@ -152,8 +152,8 @@ Attacks:
 Cargo Space: 4
 Never Rebels
 Never Retreats
-Upkeep / Maintenance: 3
-Build Cost: 27
+Upkeep / Maintenance: 5
+Build Cost: 53
 Build Resource Requirements:
   Food: 1
   Energy: 13
@@ -196,8 +196,8 @@ Attacks:
 Cargo Space: 4
 Never Rebels
 Never Retreats
-Upkeep / Maintenance: 4
-Build Cost: 36
+Upkeep / Maintenance: 7
+Build Cost: 71
 Build Resource Requirements:
   Energy: 12
   Metal: 55
@@ -208,4 +208,90 @@ Build PTS Fortification in Any building
 Time to Build / Upgrade: 2
 [1950] Technology Required to Build Unit (88):
   [1950] PTS Missile Launcher (88)
+Unit can be disbanded: YES
+
+--6--
+Name: PTS Fortification II
+Nick Name: PTS Fort II
+Scores & Strengths:
+  Tech Score: 1087
+  Unit Score: 1108
+  Average Score: 1097
+  Stat Strength: 972
+  Total Strength: 1108
+  Planet Strength: 1060
+  Space Strength: 1020
+  Garrison Strength: 1325
+Statistics:
+  Movement Type: tread
+  Move Points: 0
+  Spot: 2
+  Camouflage: 0
+  Agility: 0
+  Armor: 22
+  Psy Defense: 22
+  Rank: 145
+Attacks:
+  Ranged Space: 3/16
+  Air: 4/10
+  Indirect: 3/16
+Cargo Space: 4
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 10
+Build Cost: 95
+Build Resource Requirements:
+  Energy: 10
+  Metal: 97
+  Trace: 1
+  Chemicals: 13
+  Electronics: 1
+Build PTS Fortification II in Any building
+Time to Build / Upgrade: 2
+[6120] Technologies Required to Build Unit (86):
+  [1950] PTS Missile Launcher (88)
+  [4170] Supercruise Missiles (84)
+Unit can be disbanded: YES
+
+--7--
+Name: PTS Fortification III
+Nick Name: PTS Fort III
+Scores & Strengths:
+  Tech Score: 1591
+  Unit Score: 1541
+  Average Score: 1566
+  Stat Strength: 1361
+  Total Strength: 1541
+  Planet Strength: 1481
+  Space Strength: 1421
+  Garrison Strength: 1851
+Statistics:
+  Movement Type: tread
+  Move Points: 0
+  Spot: 3
+  Camouflage: 0
+  Agility: 0
+  Armor: 26
+  Psy Defense: 26
+  Rank: 154
+Attacks:
+  Ranged Space: 3/20
+  Air: 5/12
+  Indirect: 3/20
+Cargo Space: 4
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 14
+Build Cost: 136
+Build Resource Requirements:
+  Energy: 11
+  Metal: 135
+  Trace: 1
+  Chemicals: 16
+  Electronics: 1
+Build PTS Fortification III in Any building
+Time to Build / Upgrade: 2
+[9055] Technologies Required to Build Unit (83):
+  [1950] PTS Missile Launcher (88)
+  [7105] Hypercruise Missiles (77)
 Unit can be disbanded: YES

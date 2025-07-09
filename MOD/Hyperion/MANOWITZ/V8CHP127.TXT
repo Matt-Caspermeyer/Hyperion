@@ -1,476 +1,368 @@
-All units of the unit class Pathfinder are listed herein (11 in total):
+All units of the unit class Space Cargo Shuttle are listed herein (8 in total):
 
 --1--
-Name: Pathfinder
-Nick Name: Pathfinder
+Name: Space Cargo Shuttle
+Nick Name: SS-CS
 Scores & Strengths:
-  Tech Score: 763
-  Unit Score: 763
-  Average Score: 763
-  Stat Strength: 656
-  Total Strength: 763
-  Planet Strength: 763
-  Space Strength: 721
-  Garrison Strength: 220
+  Tech Score: 690
+  Unit Score: 690
+  Average Score: 690
+  Stat Strength: 690
+  Total Strength: 690
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 12
-  Spot: 12
-  Camouflage: 12
-  Agility: 12
-  Armor: 4
-  Psy Defense: 8
-  Rank: 8
-Attacks:
-  Psychic: 13/5
-  Close: 6/7
-Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 104
+  Movement Type: space
+  Move Points: 2
+  Spot: 10
+  Camouflage: 2
+  Agility: 2
+  Armor: 17
+  Psy Defense: 17
+  Rank: 67
+Cargo Space: 1
+Immune to Plague
+Upkeep / Maintenance: 25
+Build Cost: 254
 Build Resource Requirements:
-  Metal: 2
-  Trace: 13
-  Exotica: 13
-  Chemicals: 17
-  Biochems: 34
-  Electronics: 25
-  Gems: 12
-Upgrade Peasant to Pathfinder at Fort
-Time to Build / Upgrade: 2
-[2875] Technologies Required to Build Unit (89):
-  [2605] Biotechnical Simulation (77)
+  Food: 4
+  Energy: 1
+  Metal: 151
+  Trace: 6
+  Exotica: 3
+  Chemicals: 50
+  Electronics: 5
+Build Space Cargo Shuttle in Starport
+Time to Build / Upgrade: 3
+[2910] Technologies Required to Build Unit (91):
   [145] Composite Armor (97)
-  [125] Parapsychology (94)
+  [795] Rocket Propulsion (90)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Vislock
-Nick Name: Vislock
+Name: Space Transport
+Nick Name: SS-X
 Scores & Strengths:
-  Tech Score: 966
-  Unit Score: 861
-  Average Score: 914
-  Stat Strength: 573
-  Total Strength: 861
-  Planet Strength: 861
-  Space Strength: 861
-  Garrison Strength: 304
+  Tech Score: 2337
+  Unit Score: 1941
+  Average Score: 2139
+  Stat Strength: 1853
+  Total Strength: 1941
+  Planet Strength: 0
+  Space Strength: 1941
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 8
-  Spot: 8
-  Camouflage: 8
-  Agility: 16
-  Armor: 5
-  Psy Defense: 10
-  Rank: 9
+  Movement Type: space
+  Move Points: 5
+  Spot: 12
+  Camouflage: 4
+  Agility: 10
+  Armor: 28
+  Psy Defense: 28
+  Rank: 101
 Attacks:
-  Psychic: 18/16
-Load aboard transport: YES
-Upkeep / Maintenance: 15
-Build Cost: 105
+  Closed Space: 8/11
+Cargo Space: 3
+Immune to Plague
+Upkeep / Maintenance: 19
+Build Cost: 185
 Build Resource Requirements:
-  Food: 16
-  Energy: 9
-  Metal: 13
-  Trace: 38
-  Exotica: 30
-  Chemicals: 33
-  Electronics: 54
-  Gems: 13
-Upgrade Clergy to Vislock at Church
+  Food: 1
+  Energy: 3
+  Metal: 23
+  Trace: 4
+  Exotica: 2
+  Chemicals: 9
+  Biochems: 2
+  Electronics: 6
+  Ceramsteel: 26
+Build Space Transport in Starport
 Time to Build / Upgrade: 2
-[3790] Technology Required to Build Unit (32):
-  [3790] Vislocks (32)
+[12310] Technology Required to Build Unit (86):
+  [12310] Space Warfare (86)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Occultist
-Nick Name: Occultist
+Name: Space Transport Carrier
+Nick Name: SS-CVX
 Scores & Strengths:
-  Tech Score: 1015
-  Unit Score: 909
-  Average Score: 962
-  Stat Strength: 624
-  Total Strength: 909
-  Planet Strength: 909
-  Space Strength: 909
-  Garrison Strength: 303
+  Tech Score: 2898
+  Unit Score: 2510
+  Average Score: 2704
+  Stat Strength: 2124
+  Total Strength: 2510
+  Planet Strength: 0
+  Space Strength: 2510
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 9
-  Spot: 9
-  Camouflage: 9
-  Agility: 16
-  Armor: 5
-  Psy Defense: 10
-  Rank: 10
+  Movement Type: space
+  Move Points: 8
+  Spot: 12
+  Camouflage: 4
+  Agility: 10
+  Armor: 30
+  Psy Defense: 30
+  Rank: 863
 Attacks:
-  Psychic: 19/15
-Load aboard transport: YES
-Upkeep / Maintenance: 14
-Build Cost: 99
+  Direct Space: 12/18
+  Closed Space: 10/17
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 326
+Build Cost: 3263
 Build Resource Requirements:
-  Food: 20
-  Energy: 11
+  Food: 1
+  Energy: 7
   Metal: 13
-  Trace: 43
-  Exotica: 35
-  Chemicals: 36
-  Electronics: 61
-  Gems: 10
-Upgrade Clergy to Occultist at Church
-Time to Build / Upgrade: 2
-[4050] Technology Required to Build Unit (48):
-  [4050] Occultists (48)
+  Trace: 5
+  Exotica: 1
+  Chemicals: 13
+  Biochems: 17
+  Electronics: 8
+  Ceramsteel: 15
+  Monopols: 20
+Build Space Transport Carrier in Starport
+Time to Build / Upgrade: 3
+[16400] Technology Required to Build Unit (80):
+  [16400] Space Capital Ships (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Pyrokinetic
-Nick Name: Pyrokinetic
+Name: Jump Transport
+Nick Name: JJ-X
 Scores & Strengths:
-  Tech Score: 1186
-  Unit Score: 1057
-  Average Score: 1121
-  Stat Strength: 657
-  Total Strength: 1057
-  Planet Strength: 1057
-  Space Strength: 1057
-  Garrison Strength: 352
+  Tech Score: 3328
+  Unit Score: 2659
+  Average Score: 2994
+  Stat Strength: 2529
+  Total Strength: 2659
+  Planet Strength: 0
+  Space Strength: 2659
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 9
-  Spot: 9
-  Camouflage: 9
-  Agility: 17
-  Armor: 5
-  Psy Defense: 10
-  Rank: 11
+  Movement Type: jump
+  Move Points: 6
+  Spot: 13
+  Camouflage: 5
+  Agility: 11
+  Armor: 33
+  Psy Defense: 33
+  Rank: 135
 Attacks:
-  Psychic: 20/20
-Load aboard transport: YES
-Upkeep / Maintenance: 18
-Build Cost: 137
+  Closed Space: 10/13
+Cargo Space: 3
+Immune to Plague
+Upkeep / Maintenance: 316
+Build Cost: 3158
 Build Resource Requirements:
-  Food: 22
-  Energy: 13
+  Food: 1
+  Energy: 3
   Metal: 13
-  Trace: 45
-  Exotica: 38
-  Chemicals: 39
-  Electronics: 64
-  Gems: 17
-Upgrade Clergy to Pyrokinetic at Church
+  Trace: 3
+  Exotica: 1
+  Chemicals: 7
+  Biochems: 13
+  Electronics: 5
+  Ceramsteel: 17
+  Monopols: 18
+S  ingularities: 3
+Build Jump Transport in Starport
 Time to Build / Upgrade: 3
-[4980] Technology Required to Build Unit (39):
-  [4980] Pyrokinetics (39)
+[19720] Technology Required to Build Unit (73):
+  [19720] Jump Transports (73)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Reflector
-Nick Name: Reflector
+Name: Colony Star
+Nick Name: Colony Star
 Scores & Strengths:
-  Tech Score: 1186
-  Unit Score: 1059
-  Average Score: 1122
-  Stat Strength: 736
-  Total Strength: 1059
-  Planet Strength: 1059
-  Space Strength: 1059
-  Garrison Strength: 334
+  Tech Score: 3468
+  Unit Score: 3105
+  Average Score: 3287
+  Stat Strength: 3105
+  Total Strength: 3105
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 10
-  Camouflage: 10
-  Agility: 16
-  Armor: 6
-  Psy Defense: 12
-  Rank: 11
-Attacks:
-  Psychic: 19/17
-Load aboard transport: YES
-Upkeep / Maintenance: 16
-Build Cost: 114
+  Movement Type: space
+  Move Points: 16
+  Spot: 14
+  Camouflage: 5
+  Agility: 6
+  Armor: 36
+  Psy Defense: 36
+  Rank: 123
+Cargo Space: 4
+Immune to Plague
+Upkeep / Maintenance: 197
+Build Cost: 1973
 Build Resource Requirements:
-  Food: 24
-  Energy: 13
-  Metal: 20
-  Trace: 48
-  Exotica: 41
-  Chemicals: 39
-  Electronics: 69
-  Gems: 11
-Upgrade Clergy to Reflector at Church
+  Food: 2
+  Energy: 2
+  Metal: 15
+  Trace: 2
+  Exotica: 2
+  Chemicals: 5
+  Biochems: 14
+  Electronics: 4
+  Ceramsteel: 19
+  Monopols: 22
+Build Colony Star in Starport
 Time to Build / Upgrade: 3
-[4980] Technology Required to Build Unit (41):
-  [4980] Psychic Turners (41)
+[20835] Technology Required to Build Unit (67):
+  [20835] Lander Transports (67)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Cryokinetic
-Nick Name: Cryokinetic
+Name: Space Attack Transport
+Nick Name: SS-SAX
 Scores & Strengths:
-  Tech Score: 1186
-  Unit Score: 1061
-  Average Score: 1123
-  Stat Strength: 665
-  Total Strength: 1061
-  Planet Strength: 1061
-  Space Strength: 1061
-  Garrison Strength: 401
+  Tech Score: 3468
+  Unit Score: 3107
+  Average Score: 3288
+  Stat Strength: 2564
+  Total Strength: 3107
+  Planet Strength: 0
+  Space Strength: 3107
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 7
-  Spot: 9
-  Camouflage: 11
-  Agility: 17
-  Armor: 5
-  Psy Defense: 10
-  Rank: 11
+  Movement Type: space
+  Move Points: 10
+  Spot: 12
+  Camouflage: 4
+  Agility: 16
+  Armor: 32
+  Psy Defense: 32
+  Rank: 197
 Attacks:
-  Psychic: 18/22
-Load aboard transport: YES
-Upkeep / Maintenance: 20
-Build Cost: 158
+  Direct Space: 16/18
+  Closed Space: 15/17
+Cargo Space: 3
+Immune to Plague
+Upkeep / Maintenance: 178
+Build Cost: 1781
 Build Resource Requirements:
-  Food: 18
-  Energy: 10
-  Metal: 13
-  Trace: 53
-  Exotica: 33
-  Chemicals: 34
-  Electronics: 75
-  Gems: 21
-Upgrade Clergy to Cryokinetic at Church
+  Food: 1
+  Energy: 7
+  Metal: 12
+  Trace: 7
+  Exotica: 1
+  Chemicals: 13
+  Biochems: 18
+  Electronics: 11
+  Ceramsteel: 15
+  Monopols: 21
+Build Space Attack Transport in Starport
 Time to Build / Upgrade: 3
-[4980] Technology Required to Build Unit (31):
-  [4980] Cryokinetics (31)
+[20835] Technology Required to Build Unit (67):
+  [20835] Lander Transports (67)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Electrokinetic
-Nick Name: E-Kinetic
+Name: Jump Transport Carrier
+Nick Name: JJ-CVX
 Scores & Strengths:
-  Tech Score: 1326
-  Unit Score: 1181
-  Average Score: 1253
-  Stat Strength: 749
-  Total Strength: 1181
-  Planet Strength: 1181
-  Space Strength: 1181
-  Garrison Strength: 373
+  Tech Score: 5550
+  Unit Score: 4786
+  Average Score: 5168
+  Stat Strength: 4025
+  Total Strength: 4786
+  Planet Strength: 0
+  Space Strength: 4786
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 10
-  Camouflage: 10
-  Agility: 18
-  Armor: 5
-  Psy Defense: 10
-  Rank: 13
+  Movement Type: jump
+  Move Points: 11
+  Spot: 14
+  Camouflage: 6
+  Agility: 12
+  Armor: 42
+  Psy Defense: 42
+  Rank: 925
 Attacks:
-  Psychic: 18/24
-Load aboard transport: YES
-Upkeep / Maintenance: 17
-Build Cost: 121
+  Direct Space: 17/25
+  Closed Space: 14/24
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 1143
+Build Cost: 11426
 Build Resource Requirements:
-  Food: 2
+  Food: 1
+  Energy: 11
   Metal: 12
-  Trace: 8
-  Exotica: 9
+  Trace: 4
+  Exotica: 1
   Chemicals: 21
-  Electronics: 22
-  Gems: 23
-Upgrade Clergy to Electrokinetic at Church
-Time to Build / Upgrade: 1
-[5780] Technology Required to Build Unit (20):
-  [5780] Electrokinetics (20)
+  Biochems: 18
+  Electronics: 13
+  Ceramsteel: 18
+  Monopols: 24
+S  ingularities: 3
+Build Jump Transport Carrier in Starport
+Time to Build / Upgrade: 3
+[39000] Technology Required to Build Unit (61):
+  [39000] Jump Capital Ships (61)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Wraith
-Nick Name: Wraith
+Name: Jump High-Speed Transport
+Nick Name: Jump HHSSTT
 Scores & Strengths:
-  Tech Score: 1241
-  Unit Score: 1241
-  Average Score: 1241
-  Stat Strength: 1016
-  Total Strength: 1241
-  Planet Strength: 1241
-  Space Strength: 1241
-  Garrison Strength: 392
+  Tech Score: 6861
+  Unit Score: 6744
+  Average Score: 6803
+  Stat Strength: 5956
+  Total Strength: 6744
+  Planet Strength: 0
+  Space Strength: 6744
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 12
-  Camouflage: 16
-  Agility: 14
-  Armor: 8
-  Psy Defense: 16
-  Rank: 678
-Attacks:
-  Psychic: 15/15
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 45
-Build Cost: 405
-Build Resource Requirements:
-  Food: 24
-  Energy: 9
-  Metal: 37
-  Trace: 78
-  Exotica: 41
-  Chemicals: 34
-  Electronics: 112
-  Gems: 7
-Upgrade Clergy to Wraith at Church
-Time to Build / Upgrade: 3
-[5290] Technology Required to Build Unit (29):
-  [5290] Wraiths (29)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---9--
-Name: Cyber Mage
-Nick Name: Cyber Mage
-Scores & Strengths:
-  Tech Score: 1819
-  Unit Score: 1735
-  Average Score: 1777
-  Stat Strength: 1119
-  Total Strength: 1735
-  Planet Strength: 1735
-  Space Strength: 1735
-  Garrison Strength: 463
-Statistics:
-  Movement Type: foot
+  Movement Type: jump
   Move Points: 14
-  Spot: 9
-  Camouflage: 9
-  Agility: 21
-  Armor: 8
-  Psy Defense: 16
-  Rank: 684
+  Spot: 14
+  Camouflage: 6
+  Agility: 36
+  Armor: 46
+  Psy Defense: 46
+  Rank: 254
 Attacks:
-  Psychic: 28/22
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 51
-Build Cost: 464
+  Direct Space: 18/23
+  Closed Space: 17/22
+Cargo Space: 2
+Immune to Plague
+Upkeep / Maintenance: 667
+Build Cost: 6670
 Build Resource Requirements:
-  Metal: 8
-  Trace: 9
-  Chemicals: 25
-  Electronics: 19
-  Ceramsteel: 14
-  Gems: 27
-Upgrade Clergy to Cyber Mage at Fort
-Time to Build / Upgrade: 2
-[9215] Technologies Required to Build Unit (48):
-  [3790] Vislocks (32)
-  [5425] Cybernetics (63)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---10--
-Name: Warlock
-Nick Name: Warlock
-Scores & Strengths:
-  Tech Score: 2660
-  Unit Score: 2497
-  Average Score: 2579
-  Stat Strength: 2097
-  Total Strength: 2497
-  Planet Strength: 2497
-  Space Strength: 2497
-  Garrison Strength: 588
-Statistics:
-  Movement Type: foot
-  Move Points: 18
-  Spot: 18
-  Camouflage: 18
-  Agility: 25
-  Armor: 10
-  Psy Defense: 20
-  Rank: 692
-Attacks:
-  Psychic: 20/20
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 26
-Build Cost: 218
-Build Resource Requirements:
-  Metal: 4
-  Trace: 14
-  Chemicals: 8
-  Biochems: 38
-  Electronics: 35
-  Gems: 5
-Upgrade Clergy to Warlock at Church
-Time to Build / Upgrade: 2
-[14630] Technology Required to Build Unit (7):
-  [14630] Warlocks (7)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---11--
-Name: Mechanized Demon
-Nick Name: Mech. Demon
-Scores & Strengths:
-  Tech Score: 3597
-  Unit Score: 3596
-  Average Score: 3597
-  Stat Strength: 3029
-  Total Strength: 3596
-  Planet Strength: 3596
-  Space Strength: 3596
-  Garrison Strength: 784
-Statistics:
-  Movement Type: foot
-  Move Points: 21
-  Spot: 22
-  Camouflage: 22
-  Agility: 30
-  Armor: 12
-  Psy Defense: 24
-  Rank: 702
-Attacks:
-  Psychic: 21/27
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 56
-Build Cost: 510
-Build Resource Requirements:
-  Metal: 1
-  Trace: 10
-  Chemicals: 11
-  Biochems: 19
-  Electronics: 22
-  Ceramsteel: 5
-  Monopols: 15
-  Gems: 8
-Upgrade Clergy to Mechanized Demon at Church
-Time to Build / Upgrade: 2
-[21875] Technology Required to Build Unit (4):
-  [21875] Mechanized Demons (4)
+  Food: 1
+  Energy: 8
+  Metal: 9
+  Trace: 4
+  Exotica: 1
+  Chemicals: 15
+  Biochems: 18
+  Electronics: 11
+  Ceramsteel: 13
+  Wetware: 5
+  Monopols: 20
+S  ingularities: 4
+Build Jump High-Speed Transport in Starport
+Time to Build / Upgrade: 3
+[65845] Technologies Required to Build Unit (60):
+  [20835] Lander Transports (67)
+  [45010] Hover Navalcraft (52)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

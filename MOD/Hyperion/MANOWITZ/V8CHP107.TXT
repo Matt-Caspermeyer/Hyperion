@@ -1,4 +1,4 @@
-All units of the unit class Naval Transport are listed herein (9 in total):
+All units of the unit class Naval Transport are listed herein (10 in total):
 
 --1--
 Name: Naval Transport
@@ -26,8 +26,8 @@ Attacks:
   Close: 7/7
 Cargo Space: 4
 Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 7
-Build Cost: 65
+Upkeep / Maintenance: 18
+Build Cost: 184
 Build Resource Requirements:
   Food: 2
   Energy: 14
@@ -65,17 +65,18 @@ Statistics:
   Agility: 2
   Armor: 16
   Psy Defense: 16
-  Rank: 125
+  Rank: 791
 Attacks:
   Air: 8/8
   Indirect: 5/16
   Direct: 11/10
   Close: 4/8
 Cargo Space: 2
+Officer - Provides stack combat bonuses
 Transports and Refuels (at end of turn) all Air Units
 Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 6
-Build Cost: 61
+Upkeep / Maintenance: 26
+Build Cost: 264
 Build Resource Requirements:
   Food: 1
   Energy: 13
@@ -121,8 +122,8 @@ Attacks:
 Cargo Space: 4
 Amphibious loading / unloading of cargo
 Can tow units that can be towed
-Upkeep / Maintenance: 8
-Build Cost: 81
+Upkeep / Maintenance: 26
+Build Cost: 255
 Build Resource Requirements:
   Food: 1
   Energy: 31
@@ -168,8 +169,8 @@ Attacks:
   Close: 8/11
 Cargo Space: 3
 Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 12
-Build Cost: 116
+Upkeep / Maintenance: 31
+Build Cost: 308
 Build Resource Requirements:
   Food: 2
   Energy: 20
@@ -214,8 +215,8 @@ Attacks:
 Cargo Space: 2
 Amphibious loading / unloading of cargo
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 12
-Build Cost: 116
+Upkeep / Maintenance: 31
+Build Cost: 307
 Build Resource Requirements:
   Food: 2
   Energy: 12
@@ -256,8 +257,8 @@ Statistics:
 Cargo Space: 4
 Transports and Refuels (at end of turn) all Air Units
 Heals units of same movement type
-Upkeep / Maintenance: 72
-Build Cost: 715
+Upkeep / Maintenance: 103
+Build Cost: 1032
 Build Resource Requirements:
   Food: 6
   Energy: 11
@@ -305,8 +306,8 @@ Attacks:
   Close: 11/10
 Cargo Space: 2
 Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 7
-Build Cost: 74
+Upkeep / Maintenance: 26
+Build Cost: 258
 Build Resource Requirements:
   Food: 1
   Energy: 17
@@ -353,8 +354,8 @@ Attacks:
 Cargo Space: 4
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
 Can tow units that can be towed
-Upkeep / Maintenance: 13
-Build Cost: 125
+Upkeep / Maintenance: 43
+Build Cost: 431
 Build Resource Requirements:
   Food: 2
   Energy: 29
@@ -375,6 +376,56 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --9--
+Name: Landing Platform Dock
+Nick Name: NN-LPD
+Scores & Strengths:
+  Tech Score: 1835
+  Unit Score: 1832
+  Average Score: 1833
+  Stat Strength: 1467
+  Total Strength: 1832
+  Planet Strength: 1832
+  Space Strength: 0
+  Garrison Strength: 552
+Statistics:
+  Movement Type: naval
+  Move Points: 11
+  Spot: 8
+  Camouflage: 4
+  Agility: 4
+  Armor: 25
+  Psy Defense: 25
+  Rank: 261
+Attacks:
+  Indirect: 5/31
+  Direct: 5/23
+  Close: 5/19
+Cargo Space: 4
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Can tow units that can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 49
+Build Cost: 492
+Build Resource Requirements:
+  Food: 1
+  Energy: 30
+  Metal: 28
+  Trace: 2
+  Exotica: 1
+  Chemicals: 23
+  Biochems: 2
+  Electronics: 2
+  Ceramsteel: 29
+Build Landing Platform Dock in Well
+Time to Build / Upgrade: 3
+[12175] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [2665] V/STOL Aircraft (85)
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
 Name: Landing Platform Helicopter
 Nick Name: NN-LPH
 Scores & Strengths:
@@ -394,7 +445,7 @@ Statistics:
   Agility: 4
   Armor: 25
   Psy Defense: 25
-  Rank: 155
+  Rank: 255
 Attacks:
   Indirect: 8/18
   Direct: 10/11
@@ -403,8 +454,9 @@ Cargo Space: 4
 Amphibious loading / unloading of cargo
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
 Can tow units that can be towed
-Upkeep / Maintenance: 13
-Build Cost: 132
+Heals units of same movement type
+Upkeep / Maintenance: 50
+Build Cost: 503
 Build Resource Requirements:
   Food: 2
   Energy: 11

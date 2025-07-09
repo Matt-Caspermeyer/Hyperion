@@ -1,49 +1,99 @@
-All units of the unit class Spore Ship are listed herein (1 in total):
+All units of the unit class Submarine Cruiser are listed herein (2 in total):
 
 --1--
-Name: Spore Ship
-Nick Name: Spore
+Name: Submarine Cruiser
+Nick Name: NSS-SC
 Scores & Strengths:
-  Tech Score: 1530
-  Unit Score: 1530
-  Average Score: 1530
-  Stat Strength: 1112
-  Total Strength: 1530
-  Planet Strength: 1354
-  Space Strength: 1288
-  Garrison Strength: 677
+  Tech Score: 658
+  Unit Score: 1316
+  Average Score: 987
+  Stat Strength: 789
+  Total Strength: 1316
+  Planet Strength: 1316
+  Space Strength: 0
+  Garrison Strength: 465
 Statistics:
-  Movement Type: gate
-  Move Points: 4
-  Spot: 12
-  Camouflage: 6
-  Agility: 14
-  Armor: 24
-  Psy Defense: 12
-  Rank: 160
+  Movement Type: underwater
+  Move Points: 8
+  Spot: 8
+  Camouflage: 10
+  Agility: 7
+  Armor: 16
+  Psy Defense: 16
+  Rank: 720
 Attacks:
-  Direct Space: 8/14
-  Closed Space: 8/8
-  Air: 8/10
-  Direct: 9/11
-  Close: 7/9
-Immune to Plague
-Causes Tactical Plague
-Upkeep / Maintenance: 1088
-Build Cost: 10876
+  Water: 5/25
+  Air: 6/16
+  Indirect: 4/24
+  Direct: 9/10
+  Close: 15/8
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 129
+Build Cost: 1287
+Build Resource Requirements:
+  Food: 4
+  Energy: 82
+  Metal: 49
+  Trace: 37
+  Exotica: 4
+  Chemicals: 55
+  Biochems: 18
+  Electronics: 27
+Build Submarine Cruiser in Well
+Time to Build / Upgrade: 5
+[2270] Technology Required to Build Unit (86):
+  [2270] Naval Escort Ships (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Submarine Aircraft Carrier
+Nick Name: N-SCV
+Scores & Strengths:
+  Tech Score: 1868
+  Unit Score: 1866
+  Average Score: 1867
+  Stat Strength: 1020
+  Total Strength: 1866
+  Planet Strength: 1866
+  Space Strength: 0
+  Garrison Strength: 590
+Statistics:
+  Movement Type: underwater
+  Move Points: 10
+  Spot: 16
+  Camouflage: 16
+  Agility: 4
+  Armor: 14
+  Psy Defense: 14
+  Rank: 736
+Attacks:
+  Water: 14/24
+  Air: 14/18
+  Direct: 10/16
+  Close: 7/14
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 65
+Build Cost: 654
 Build Resource Requirements:
   Food: 3
-  Energy: 90
-  Metal: 12
-  Trace: 7
-  Exotica: 4
-  Chemicals: 112
-  Biochems: 159
-  Electronics: 17
-S  ingularities: 2
-Build Spore Ship in Hive
-Time to Build / Upgrade: 5
-[6995] Technology Required to Build Unit (37):
-  [6995] Symbiot Psychology (37)
+  Energy: 23
+  Metal: 9
+  Trace: 19
+  Exotica: 3
+  Chemicals: 30
+  Biochems: 6
+  Electronics: 20
+  Ceramsteel: 11
+Build Submarine Aircraft Carrier in Well
+Time to Build / Upgrade: 3
+[11930] Technologies Required to Build Unit (84):
+  [2665] V/STOL Aircraft (85)
+  [1970] Cargo Handling (87)
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

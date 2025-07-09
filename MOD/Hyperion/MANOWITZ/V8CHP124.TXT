@@ -1,145 +1,440 @@
-All units of the unit class Space Bulk Hauler are listed herein (3 in total):
+All units of the unit class Space Carrier are listed herein (9 in total):
 
 --1--
-Name: Space Bulk Hauler
-Nick Name: SS-BH
+Name: Space Carrier
+Nick Name: SS-CV
 Scores & Strengths:
-  Tech Score: 342
-  Unit Score: 682
-  Average Score: 512
-  Stat Strength: 498
-  Total Strength: 682
+  Tech Score: 337
+  Unit Score: 671
+  Average Score: 504
+  Stat Strength: 588
+  Total Strength: 671
   Planet Strength: 0
-  Space Strength: 682
+  Space Strength: 671
   Garrison Strength: 0
 Statistics:
   Movement Type: space
   Move Points: 2
-  Spot: 10
-  Camouflage: 1
-  Agility: 1
-  Armor: 14
-  Psy Defense: 14
-  Rank: 169
+  Spot: 8
+  Camouflage: 2
+  Agility: 2
+  Armor: 16
+  Psy Defense: 16
+  Rank: 825
 Attacks:
-  Direct Space: 7/17
-  Closed Space: 5/13
+  Direct Space: 3/11
+  Closed Space: 5/10
 Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
 Immune to Plague
-Upkeep / Maintenance: 47
-Build Cost: 468
+Upkeep / Maintenance: 95
+Build Cost: 954
 Build Resource Requirements:
-  Food: 10
-  Energy: 46
-  Metal: 95
-  Trace: 23
-  Exotica: 9
-  Chemicals: 87
-  Electronics: 14
-Build Space Bulk Hauler in Starport
+  Food: 8
+  Energy: 25
+  Metal: 131
+  Trace: 16
+  Exotica: 7
+  Chemicals: 78
+  Electronics: 10
+  Gems: 1
+Build Space Carrier in Starport
 Time to Build / Upgrade: 5
-[1170] Technologies Required to Build Unit (95):
-  [230] Hospitals (97)
+[1040] Technologies Required to Build Unit (96):
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
+  [100] Psychosocial Engineering (100)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Jump Bulk Hauler
-Nick Name: JJ-BH
+Name: Jump Carrier
+Nick Name: JJ-CV
 Scores & Strengths:
-  Tech Score: 1168
-  Unit Score: 1167
-  Average Score: 1167
-  Stat Strength: 1082
-  Total Strength: 1167
+  Tech Score: 425
+  Unit Score: 826
+  Average Score: 626
+  Stat Strength: 724
+  Total Strength: 826
   Planet Strength: 0
-  Space Strength: 1167
+  Space Strength: 826
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
-  Move Points: 3
-  Spot: 10
+  Move Points: 2
+  Spot: 8
   Camouflage: 2
-  Agility: 1
-  Armor: 22
-  Psy Defense: 22
-  Rank: 192
+  Agility: 2
+  Armor: 18
+  Psy Defense: 18
+  Rank: 852
 Attacks:
-  Direct Space: 5/10
-  Closed Space: 5/7
+  Direct Space: 3/12
+  Closed Space: 6/11
 Cargo Space: 4
-Bulk Hauler - Used by the League to Resupply Agoras
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
 Immune to Plague
-Upkeep / Maintenance: 616
-Build Cost: 6163
+Upkeep / Maintenance: 412
+Build Cost: 4116
 Build Resource Requirements:
-  Food: 3
-  Energy: 5
-  Metal: 22
-  Trace: 6
-  Exotica: 3
-  Chemicals: 16
-  Electronics: 9
-  Ceramsteel: 32
-  Monopols: 44
+  Food: 7
+  Energy: 30
+  Metal: 135
+  Trace: 16
+  Exotica: 6
+  Chemicals: 96
+  Electronics: 11
+  Gems: 1
 S  ingularities: 2
-Build Jump Bulk Hauler in Starport
-Time to Build / Upgrade: 4
-[5975] Technologies Required to Build Unit (77):
-  [1690] Ceramsteel (84)
-  [4285] Jump Drives (70)
+Build Jump Carrier in Starport
+Time to Build / Upgrade: 5
+[1480] Technologies Required to Build Unit (91):
+  [145] Composite Armor (97)
+  [100] Psychosocial Engineering (100)
+  [1235] Jump Rocketry (76)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Gate Bulk Hauler
-Nick Name: GG-BH
+Name: Space Escort Carrier
+Nick Name: SS-CVE
 Scores & Strengths:
-  Tech Score: 7257
-  Unit Score: 7256
-  Average Score: 7257
-  Stat Strength: 6061
-  Total Strength: 7256
-  Planet Strength: 6621
-  Space Strength: 6696
-  Garrison Strength: 1380
+  Tech Score: 2563
+  Unit Score: 2164
+  Average Score: 2364
+  Stat Strength: 1768
+  Total Strength: 2164
+  Planet Strength: 0
+  Space Strength: 2164
+  Garrison Strength: 0
 Statistics:
-  Movement Type: gate
-  Move Points: 23
-  Spot: 16
-  Camouflage: 12
-  Agility: 30
-  Armor: 46
-  Psy Defense: 46
-  Rank: 275
+  Movement Type: space
+  Move Points: 6
+  Spot: 12
+  Camouflage: 2
+  Agility: 4
+  Armor: 28
+  Psy Defense: 28
+  Rank: 840
 Attacks:
-  Direct Space: 14/25
-  Closed Space: 15/19
-  Direct: 14/23
-  Close: 14/17
-Cargo Space: 4
-Bulk Hauler - Used by the League to Resupply Agoras
+  Direct Space: 12/18
+  Closed Space: 10/18
+Cargo Space: 2
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
 Immune to Plague
-Upkeep / Maintenance: 2751
-Build Cost: 27514
+Upkeep / Maintenance: 57
+Build Cost: 569
 Build Resource Requirements:
   Food: 1
-  Energy: 13
-  Metal: 9
-  Trace: 4
+  Energy: 9
+  Metal: 23
+  Trace: 5
+  Exotica: 1
+  Chemicals: 18
+  Biochems: 19
+  Electronics: 8
+  Ceramsteel: 25
+Build Space Escort Carrier in Starport
+Time to Build / Upgrade: 3
+[13920] Technology Required to Build Unit (84):
+  [13920] Space Escorts (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Space Light Carrier
+Nick Name: SS-CLA
+Scores & Strengths:
+  Tech Score: 2898
+  Unit Score: 2510
+  Average Score: 2704
+  Stat Strength: 2036
+  Total Strength: 2510
+  Planet Strength: 0
+  Space Strength: 2510
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 16
+  Spot: 12
+  Camouflage: 2
+  Agility: 8
+  Armor: 28
+  Psy Defense: 28
+  Rank: 834
+Attacks:
+  Direct Space: 13/18
+  Closed Space: 15/16
+Cargo Space: 1
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 252
+Build Cost: 2517
+Build Resource Requirements:
+  Food: 2
+  Energy: 8
+  Metal: 11
+  Trace: 6
   Exotica: 2
-  Chemicals: 22
-  Biochems: 24
-  Electronics: 12
+  Chemicals: 13
+  Biochems: 18
+  Electronics: 10
+  Ceramsteel: 13
+  Monopols: 20
+Build Space Light Carrier in Starport
+Time to Build / Upgrade: 3
+[16400] Technology Required to Build Unit (80):
+  [16400] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Jump Escort Carrier
+Nick Name: JJ-CVE
+Scores & Strengths:
+  Tech Score: 4262
+  Unit Score: 3530
+  Average Score: 3896
+  Stat Strength: 2886
+  Total Strength: 3530
+  Planet Strength: 0
+  Space Strength: 3530
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 8
+  Spot: 14
+  Camouflage: 3
+  Agility: 5
+  Armor: 36
+  Psy Defense: 36
+  Rank: 888
+Attacks:
+  Direct Space: 15/23
+  Closed Space: 13/23
+Cargo Space: 2
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 708
+Build Cost: 7081
+Build Resource Requirements:
+  Food: 1
+  Energy: 10
+  Metal: 12
+  Trace: 5
+  Exotica: 1
+  Chemicals: 20
+  Biochems: 19
+  Electronics: 14
   Ceramsteel: 16
-  Wetware: 7
-  Monopols: 31
+  Monopols: 22
+S  ingularities: 3
+Build Jump Escort Carrier in Starport
+Time to Build / Upgrade: 3
+[27420] Technology Required to Build Unit (75):
+  [27420] Jump Escorts (75)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Jump Carrier MkII
+Nick Name: JJ-CV2
+Scores & Strengths:
+  Tech Score: 1933
+  Unit Score: 3561
+  Average Score: 2747
+  Stat Strength: 3091
+  Total Strength: 3561
+  Planet Strength: 0
+  Space Strength: 3561
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 5
+  Spot: 12
+  Camouflage: 5
+  Agility: 3
+  Armor: 38
+  Psy Defense: 38
+  Rank: 891
+Attacks:
+  Direct Space: 7/26
+  Closed Space: 12/24
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 1341
+Build Cost: 13407
+Build Resource Requirements:
+  Food: 2
+  Energy: 38
+  Metal: 33
+  Trace: 6
+  Exotica: 2
+  Chemicals: 53
+  Electronics: 10
+  Monopols: 89
+S  ingularities: 2
+Build Jump Carrier MkII in Starport
+Time to Build / Upgrade: 7
+[12900] Technologies Required to Build Unit (67):
+  [4285] Jump Drives (70)
+  [8615] Fusion Beam (63)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Jump Light Carrier
+Nick Name: JJ-CLA
+Scores & Strengths:
+  Tech Score: 5550
+  Unit Score: 4724
+  Average Score: 5137
+  Stat Strength: 3812
+  Total Strength: 4724
+  Planet Strength: 0
+  Space Strength: 4724
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 22
+  Spot: 14
+  Camouflage: 3
+  Agility: 9
+  Armor: 39
+  Psy Defense: 39
+  Rank: 895
+Attacks:
+  Direct Space: 18/25
+  Closed Space: 21/22
+Cargo Space: 1
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 1148
+Build Cost: 11482
+Build Resource Requirements:
+  Food: 1
+  Energy: 11
+  Metal: 10
+  Trace: 5
+  Exotica: 2
+  Chemicals: 21
+  Biochems: 19
+  Electronics: 15
+  Ceramsteel: 15
+  Monopols: 24
 S  ingularities: 5
-Build Gate Bulk Hauler in Starport
+Build Jump Light Carrier in Starport
+Time to Build / Upgrade: 3
+[39000] Technology Required to Build Unit (61):
+  [39000] Jump Capital Ships (61)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Gate Carrier
+Nick Name: GG-CV
+Scores & Strengths:
+  Tech Score: 7640
+  Unit Score: 7515
+  Average Score: 7578
+  Stat Strength: 6617
+  Total Strength: 7515
+  Planet Strength: 7052
+  Space Strength: 7080
+  Garrison Strength: 1617
+Statistics:
+  Movement Type: gate
+  Move Points: 19
+  Spot: 16
+  Camouflage: 10
+  Agility: 30
+  Armor: 50
+  Psy Defense: 50
+  Rank: 941
+Attacks:
+  Direct Space: 9/27
+  Closed Space: 10/22
+  Direct: 9/25
+  Close: 10/21
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 1990
+Build Cost: 19900
+Build Resource Requirements:
+  Food: 1
+  Energy: 14
+  Metal: 11
+  Trace: 3
+  Exotica: 1
+  Chemicals: 25
+  Biochems: 24
+  Electronics: 10
+  Ceramsteel: 17
+  Wetware: 5
+  Monopols: 33
+S  ingularities: 4
+Build Gate Carrier in Starport
 Time to Build / Upgrade: 4
-[55760] Technology Required to Build Unit (49):
-  [55760] Gate Transports (49)
+[59720] Technology Required to Build Unit (53):
+  [59720] Gate Capital Ships (53)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Jump Carrier MkIII
+Nick Name: JJ-CV3
+Scores & Strengths:
+  Tech Score: 5550
+  Unit Score: 10210
+  Average Score: 7880
+  Stat Strength: 8850
+  Total Strength: 10210
+  Planet Strength: 0
+  Space Strength: 10210
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 8
+  Spot: 16
+  Camouflage: 8
+  Agility: 4
+  Armor: 65
+  Psy Defense: 65
+  Rank: 967
+Attacks:
+  Direct Space: 12/45
+  Closed Space: 20/41
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 2307
+Build Cost: 23072
+Build Resource Requirements:
+  Food: 1
+  Energy: 31
+  Metal: 29
+  Trace: 5
+  Exotica: 1
+  Chemicals: 58
+  Biochems: 42
+  Electronics: 21
+  Ceramsteel: 42
+  Monopols: 59
+S  ingularities: 3
+Build Jump Carrier MkIII in Starport
+Time to Build / Upgrade: 7
+[39000] Technology Required to Build Unit (61):
+  [39000] Jump Capital Ships (61)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

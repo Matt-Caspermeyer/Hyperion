@@ -1,188 +1,95 @@
-All units of the unit class Light Anti-Air Mech are listed herein (4 in total):
+All units of the unit class Symbiot Arcer are listed herein (2 in total):
 
 --1--
-Name: Light Anti-Air Mech
-Nick Name: Vindicator
+Name: Symbiot Arcer
+Nick Name: Arcer
 Scores & Strengths:
-  Tech Score: 1686
-  Unit Score: 1685
-  Average Score: 1686
-  Stat Strength: 1185
-  Total Strength: 1685
-  Planet Strength: 1685
+  Tech Score: 1530
+  Unit Score: 1530
+  Average Score: 1530
+  Stat Strength: 1284
+  Total Strength: 1530
+  Planet Strength: 1530
   Space Strength: 0
-  Garrison Strength: 450
+  Garrison Strength: 382
 Statistics:
-  Movement Type: mech
-  Move Points: 14
-  Spot: 10
-  Camouflage: 4
-  Agility: 19
+  Movement Type: wheel
+  Move Points: 16
+  Spot: 14
+  Camouflage: 16
+  Agility: 16
   Armor: 16
-  Psy Defense: 16
-  Rank: 123
+  Psy Defense: 8
+  Rank: 140
 Attacks:
-  Air: 20/13
-  Indirect: 16/15
+  Air: 4/10
+  Indirect: 10/15
+  Close: 7/8
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 13
-Build Cost: 131
+Causes Tactical Plague
+Upkeep / Maintenance: 37
+Build Cost: 369
 Build Resource Requirements:
-  Food: 5
-  Energy: 14
-  Metal: 10
-  Trace: 12
-  Exotica: 5
-  Chemicals: 20
-  Electronics: 24
-  Ceramsteel: 15
-Build Light Anti-Air Mech in Starport
+  Food: 7
+  Energy: 67
+  Metal: 6
+  Trace: 10
+  Exotica: 8
+  Chemicals: 39
+  Biochems: 68
+  Electronics: 26
+Build Symbiot Arcer in Hive
 Time to Build / Upgrade: 3
-[10330] Technologies Required to Build Unit (84):
-  [1690] Ceramsteel (84)
-  [2420] Rocket-Propelled Aircraft (87)
-  [6220] Mechanically-Enhanced Soldiers (80)
+[6995] Technology Required to Build Unit (37):
+  [6995] Symbiot Psychology (37)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Medium Anti-Air Mech
-Nick Name: Talisman
+Name: Bazozad (Symbiot)
+Nick Name: Bazozad
 Scores & Strengths:
-  Tech Score: 2033
-  Unit Score: 2032
-  Average Score: 2032
-  Stat Strength: 1387
-  Total Strength: 2032
-  Planet Strength: 2032
+  Tech Score: 1530
+  Unit Score: 1530
+  Average Score: 1530
+  Stat Strength: 1094
+  Total Strength: 1530
+  Planet Strength: 1530
   Space Strength: 0
-  Garrison Strength: 524
+  Garrison Strength: 408
 Statistics:
-  Movement Type: mech
-  Move Points: 15
-  Spot: 12
-  Camouflage: 6
-  Agility: 10
-  Armor: 21
-  Psy Defense: 21
-  Rank: 129
-Attacks:
-  Air: 21/17
-  Indirect: 18/16
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 78
-Build Cost: 784
-Build Resource Requirements:
-  Food: 3
-  Energy: 9
-  Metal: 9
-  Trace: 11
-  Exotica: 3
-  Chemicals: 13
-  Electronics: 22
-  Ceramsteel: 11
-  Monopols: 21
-Build Medium Anti-Air Mech in Starport
-Time to Build / Upgrade: 3
-[10220] Technology Required to Build Unit (73):
-  [10220] Mechanized Warriors (73)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---3--
-Name: Heavy Anti-Air Mech
-Nick Name: Avenger
-Scores & Strengths:
-  Tech Score: 4858
-  Unit Score: 4857
-  Average Score: 4858
-  Stat Strength: 2959
-  Total Strength: 4857
-  Planet Strength: 4857
-  Space Strength: 0
-  Garrison Strength: 1177
-Statistics:
-  Movement Type: mech
-  Move Points: 17
-  Spot: 14
-  Camouflage: 10
-  Agility: 14
-  Armor: 33
-  Psy Defense: 33
-  Rank: 137
-Attacks:
-  Air: 29/26
-  Indirect: 27/29
-  Direct: 19/19
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 101
-Build Cost: 1009
-Build Resource Requirements:
-  Food: 2
-  Energy: 12
-  Metal: 8
-  Trace: 16
-  Exotica: 2
-  Chemicals: 13
-  Biochems: 24
-  Electronics: 30
-  Ceramsteel: 13
-  Monopols: 25
-Build Heavy Anti-Air Mech in Starport
-Time to Build / Upgrade: 4
-[32655] Technology Required to Build Unit (65):
-  [32655] Advanced Mechanized Warriors (65)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: Assault Anti-Air Mech
-Nick Name: Phoenix
-Scores & Strengths:
-  Tech Score: 5451
-  Unit Score: 5450
-  Average Score: 5450
-  Stat Strength: 3397
-  Total Strength: 5450
-  Planet Strength: 5450
-  Space Strength: 0
-  Garrison Strength: 1250
-Statistics:
-  Movement Type: mech
-  Move Points: 19
-  Spot: 16
-  Camouflage: 12
+  Movement Type: wheel
+  Move Points: 14
+  Spot: 13
+  Camouflage: 15
   Agility: 18
-  Armor: 34
-  Psy Defense: 34
-  Rank: 145
+  Armor: 12
+  Psy Defense: 6
+  Rank: 114
 Attacks:
-  Air: 29/27
-  Indirect: 29/30
-  Direct: 20/20
+  Indirect: 8/16
+  Direct: 10/14
+  Close: 14/12
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 128
-Build Cost: 1281
+Causes Tactical Plague
+Upkeep / Maintenance: 55
+Build Cost: 547
 Build Resource Requirements:
-  Food: 1
-  Energy: 12
-  Metal: 7
-  Trace: 7
-  Exotica: 2
-  Chemicals: 13
-  Biochems: 23
-  Electronics: 15
-  Ceramsteel: 11
-  Wetware: 9
-  Monopols: 23
-Build Assault Anti-Air Mech in Starport
+  Food: 7
+  Energy: 99
+  Metal: 3
+  Trace: 12
+  Exotica: 8
+  Chemicals: 73
+  Biochems: 103
+  Electronics: 30
+Build Bazozad (Symbiot) in Hive
 Time to Build / Upgrade: 4
-[49400] Technologies Required to Build Unit (44):
-  [16745] Wetware (23)
-  [32655] Advanced Mechanized Warriors (65)
+[6995] Technology Required to Build Unit (37):
+  [6995] Symbiot Psychology (37)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

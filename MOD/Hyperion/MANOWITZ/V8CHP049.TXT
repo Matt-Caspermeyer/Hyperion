@@ -24,8 +24,8 @@ Statistics:
 Attacks:
   Air: 6/6
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 39
+Upkeep / Maintenance: 10
+Build Cost: 80
 Build Resource Requirements:
   Energy: 11
   Metal: 1
@@ -65,8 +65,8 @@ Attacks:
   Air: 7/7
 Load aboard transport: YES
 May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 4
-Build Cost: 31
+Upkeep / Maintenance: 7
+Build Cost: 49
 Build Resource Requirements:
   Energy: 2
   Trace: 38
@@ -106,8 +106,8 @@ Attacks:
   Air: 8/8
 Load aboard transport: YES
 May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 6
-Build Cost: 18
+Upkeep / Maintenance: 10
+Build Cost: 20
 Build Resource Requirements:
   Metal: 2
   Biochems: 35
@@ -144,8 +144,8 @@ Statistics:
 Attacks:
   Air: 10/10
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 25
+Upkeep / Maintenance: 14
+Build Cost: 60
 Build Resource Requirements:
   Biochems: 45
 Upgrade Security Specialist to Security Specialist (SE) at Hospital
@@ -162,18 +162,18 @@ Name: Security Specialist (DE)
 Nick Name: Special (DE)
 Scores & Strengths:
   Tech Score: 930
-  Unit Score: 679
-  Average Score: 804
-  Stat Strength: 439
-  Total Strength: 679
-  Planet Strength: 679
+  Unit Score: 721
+  Average Score: 825
+  Stat Strength: 481
+  Total Strength: 721
+  Planet Strength: 721
   Space Strength: 0
-  Garrison Strength: 214
+  Garrison Strength: 217
 Statistics:
   Movement Type: foot
-  Move Points: 10
+  Move Points: 11
   Spot: 6
-  Camouflage: 10
+  Camouflage: 11
   Agility: 13
   Armor: 5
   Psy Defense: 3
@@ -181,11 +181,12 @@ Statistics:
 Attacks:
   Air: 16/15
 Load aboard transport: YES
-Upkeep / Maintenance: 4
+Upkeep / Maintenance: 10
+Build Cost: 22
 Build Resource Requirements:
   Metal: 7
-  Biochems: 28
-  Electronics: 22
+  Biochems: 29
+  Electronics: 24
 Upgrade Security Specialist to Security Specialist (DE) at Biochem Plant
 Time to Build / Upgrade: 1
 [3760] Technologies Required to Build Unit (77):
@@ -219,14 +220,14 @@ Statistics:
 Attacks:
   Air: 20/19
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 43
+Upkeep / Maintenance: 12
+Build Cost: 101
 Build Resource Requirements:
   Energy: 2
-  Trace: 2
-  Chemicals: 6
-  Biochems: 10
-  Electronics: 4
+  Trace: 1
+  Chemicals: 5
+  Biochems: 9
+  Electronics: 2
   Ceramsteel: 1
 Upgrade Security Specialist (DE) to Security Specialist (GE) at Lab
 Time to Build / Upgrade: 1
@@ -261,8 +262,8 @@ Statistics:
 Attacks:
   Air: 20/20
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 32
+Upkeep / Maintenance: 16
+Build Cost: 103
 Build Resource Requirements:
   Energy: 5
   Chemicals: 16
@@ -301,8 +302,8 @@ Statistics:
 Attacks:
   Air: 22/22
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 27
+Upkeep / Maintenance: 18
+Build Cost: 75
 Build Resource Requirements:
   Food: 1
   Energy: 5
@@ -324,30 +325,30 @@ Name: Security Specialist (AVE)
 Nick Name: Special (AVE)
 Scores & Strengths:
   Tech Score: 1857
-  Unit Score: 1310
-  Average Score: 1584
-  Stat Strength: 804
-  Total Strength: 1310
-  Planet Strength: 1310
+  Unit Score: 1325
+  Average Score: 1591
+  Stat Strength: 819
+  Total Strength: 1325
+  Planet Strength: 1325
   Space Strength: 0
-  Garrison Strength: 338
+  Garrison Strength: 342
 Statistics:
   Movement Type: foot
   Move Points: 15
   Spot: 8
   Camouflage: 15
   Agility: 15
-  Armor: 7
+  Armor: 8
   Psy Defense: 4
   Rank: 136
 Attacks:
   Air: 23/22
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 5
+Upkeep / Maintenance: 15
+Build Cost: 46
 Build Resource Requirements:
   Energy: 3
-  Chemicals: 4
+  Chemicals: 5
   Biochems: 7
   Electronics: 2
 Upgrade Security Specialist (GE) to Security Specialist (AVE) at Lab
@@ -364,13 +365,13 @@ Name: Security Specialist (ME)
 Nick Name: Special (ME)
 Scores & Strengths:
   Tech Score: 1428
-  Unit Score: 1627
-  Average Score: 1527
+  Unit Score: 1668
+  Average Score: 1548
   Stat Strength: 1227
-  Total Strength: 1627
-  Planet Strength: 1627
+  Total Strength: 1668
+  Planet Strength: 1668
   Space Strength: 0
-  Garrison Strength: 332
+  Garrison Strength: 340
 Statistics:
   Movement Type: foot
   Move Points: 24
@@ -379,15 +380,15 @@ Statistics:
   Agility: 20
   Armor: 7
   Psy Defense: 3
-  Rank: 130
+  Rank: 132
 Attacks:
-  Air: 20/20
+  Air: 21/21
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 10
+Upkeep / Maintenance: 13
+Build Cost: 49
 Build Resource Requirements:
-  Chemicals: 15
-  Electronics: 33
+  Chemicals: 17
+  Electronics: 35
   Ceramsteel: 2
 Upgrade Security Specialist to Security Specialist (ME) at Factory
 Time to Build / Upgrade: 1
@@ -422,8 +423,8 @@ Statistics:
 Attacks:
   Air: 29/29
 Load aboard transport: YES
-Upkeep / Maintenance: 36
-Build Cost: 332
+Upkeep / Maintenance: 126
+Build Cost: 1187
 Build Resource Requirements:
   Biochems: 2
   Wetware: 9
@@ -442,30 +443,30 @@ Name: Security Specialist (NE)
 Nick Name: Special (NE)
 Scores & Strengths:
   Tech Score: 3876
-  Unit Score: 2717
-  Average Score: 3297
-  Stat Strength: 1628
-  Total Strength: 2717
-  Planet Strength: 2717
+  Unit Score: 2754
+  Average Score: 3315
+  Stat Strength: 1665
+  Total Strength: 2754
+  Planet Strength: 2754
   Space Strength: 0
-  Garrison Strength: 592
+  Garrison Strength: 600
 Statistics:
   Movement Type: foot
   Move Points: 21
   Spot: 9
   Camouflage: 25
-  Agility: 18
+  Agility: 19
   Armor: 11
   Psy Defense: 6
   Rank: 174
 Attacks:
   Air: 33/33
 Load aboard transport: YES
-Upkeep / Maintenance: 23
-Build Cost: 226
+Upkeep / Maintenance: 88
+Build Cost: 829
 Build Resource Requirements:
   Wetware: 10
-  Monopols: 20
+  Monopols: 21
 Upgrade Security Specialist (AVE) to Security Specialist (NE) at Fusorium
 Time to Build / Upgrade: 1
 [24450] Technologies Required to Build Unit (60):

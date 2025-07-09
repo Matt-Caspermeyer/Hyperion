@@ -1,8 +1,8 @@
-All units of the unit class Naval Carrier are listed herein (5 in total):
+All units of the unit class Naval Carrier are listed herein (8 in total):
 
 --1--
 Name: Naval Carrier
-Nick Name: NN-CV
+Nick Name: NN-CVV
 Scores & Strengths:
   Tech Score: 250
   Unit Score: 497
@@ -28,8 +28,8 @@ Attacks:
 Cargo Space: 4
 Officer - Provides stack combat bonuses
 Transports and Refuels (at end of turn) all Air Units
-Upkeep / Maintenance: 33
-Build Cost: 334
+Upkeep / Maintenance: 77
+Build Cost: 771
 Build Resource Requirements:
   Food: 5
   Energy: 49
@@ -68,15 +68,16 @@ Statistics:
   Agility: 2
   Armor: 14
   Psy Defense: 14
-  Rank: 117
+  Rank: 783
 Attacks:
   Air: 7/7
   Indirect: 10/12
   Direct: 4/11
 Cargo Space: 2
+Officer - Provides stack combat bonuses
 Transports and Refuels (at end of turn) all Air Units
-Upkeep / Maintenance: 6
-Build Cost: 61
+Upkeep / Maintenance: 26
+Build Cost: 261
 Build Resource Requirements:
   Food: 2
   Energy: 17
@@ -115,15 +116,16 @@ Statistics:
   Agility: 4
   Armor: 20
   Psy Defense: 20
-  Rank: 112
+  Rank: 778
 Attacks:
   Air: 10/9
   Indirect: 3/16
   Direct: 9/8
 Cargo Space: 1
+Officer - Provides stack combat bonuses
 Transports and Refuels (at end of turn) all Air Units
-Upkeep / Maintenance: 11
-Build Cost: 113
+Upkeep / Maintenance: 46
+Build Cost: 460
 Build Resource Requirements:
   Food: 3
   Energy: 19
@@ -144,7 +146,7 @@ Unit can be disbanded: YES
 
 --4--
 Name: Naval Aircraft Carrier
-Nick Name: NN-CV2
+Nick Name: NN-CV
 Scores & Strengths:
   Tech Score: 775
   Unit Score: 1546
@@ -170,8 +172,8 @@ Attacks:
 Cargo Space: 4
 Officer - Provides stack combat bonuses
 Transports and Refuels (at end of turn) all Air Units
-Upkeep / Maintenance: 28
-Build Cost: 277
+Upkeep / Maintenance: 76
+Build Cost: 759
 Build Resource Requirements:
   Food: 3
   Energy: 28
@@ -217,8 +219,8 @@ Attacks:
   Direct: 4/24
 Cargo Space: 3
 Transports and Refuels (at end of turn) all Air Units
-Upkeep / Maintenance: 12
-Build Cost: 122
+Upkeep / Maintenance: 40
+Build Cost: 403
 Build Resource Requirements:
   Food: 2
   Energy: 31
@@ -237,5 +239,147 @@ Time to Build / Upgrade: 3
   [1785] Rotary Autocannon (90)
   [2665] V/STOL Aircraft (85)
   [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Naval Aircraft Carrier (GM)
+Nick Name: NN-CVGM
+Scores & Strengths:
+  Tech Score: 1339
+  Unit Score: 2678
+  Average Score: 2008
+  Stat Strength: 1901
+  Total Strength: 2678
+  Planet Strength: 2678
+  Space Strength: 0
+  Garrison Strength: 742
+Statistics:
+  Movement Type: naval
+  Move Points: 13
+  Spot: 12
+  Camouflage: 4
+  Agility: 2
+  Armor: 28
+  Psy Defense: 28
+  Rank: 835
+Attacks:
+  Air: 14/17
+  Indirect: 10/25
+  Direct: 17/17
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 158
+Build Cost: 1581
+Build Resource Requirements:
+  Food: 4
+  Energy: 37
+  Metal: 41
+  Trace: 17
+  Exotica: 4
+  Chemicals: 34
+  Biochems: 11
+  Electronics: 20
+  Ceramsteel: 50
+Build Naval Aircraft Carrier (GM) in Well
+Time to Build / Upgrade: 5
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: PTS Aircraft Carrier
+Nick Name: NN-CVPTS
+Scores & Strengths:
+  Tech Score: 1474
+  Unit Score: 3685
+  Average Score: 2579
+  Stat Strength: 2577
+  Total Strength: 3685
+  Planet Strength: 3559
+  Space Strength: 2703
+  Garrison Strength: 951
+Statistics:
+  Movement Type: naval
+  Move Points: 14
+  Spot: 13
+  Camouflage: 5
+  Agility: 3
+  Armor: 33
+  Psy Defense: 33
+  Rank: 844
+Attacks:
+  Ranged Space: 7/18
+  Air: 16/19
+  Indirect: 12/28
+  Direct: 18/19
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 235
+Build Cost: 2353
+Build Resource Requirements:
+  Food: 4
+  Energy: 42
+  Metal: 53
+  Trace: 19
+  Exotica: 4
+  Chemicals: 51
+  Biochems: 13
+  Electronics: 24
+  Ceramsteel: 66
+Build PTS Aircraft Carrier in Well
+Time to Build / Upgrade: 7
+[6655] Technology Required to Build Unit (83):
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Nuclear Aircraft Carrier
+Nick Name: NN-CVN
+Scores & Strengths:
+  Tech Score: 1579
+  Unit Score: 4737
+  Average Score: 3158
+  Stat Strength: 3065
+  Total Strength: 4737
+  Planet Strength: 4737
+  Space Strength: 0
+  Garrison Strength: 1223
+Statistics:
+  Movement Type: naval
+  Move Points: 15
+  Spot: 14
+  Camouflage: 6
+  Agility: 4
+  Armor: 36
+  Psy Defense: 36
+  Rank: 862
+Attacks:
+  Air: 20/24
+  Indirect: 18/33
+  Direct: 23/26
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 336
+Build Cost: 3361
+Build Resource Requirements:
+  Food: 4
+  Energy: 59
+  Metal: 59
+  Trace: 26
+  Exotica: 5
+  Chemicals: 57
+  Biochems: 17
+  Electronics: 33
+  Ceramsteel: 75
+Build Nuclear Aircraft Carrier in Well
+Time to Build / Upgrade: 8
+[7295] Technology Required to Build Unit (81):
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

@@ -27,8 +27,8 @@ Attacks:
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 63
-Build Cost: 267
+Upkeep / Maintenance: 85
+Build Cost: 285
 Build Resource Requirements:
   Food: 16
   Energy: 36
@@ -70,8 +70,8 @@ Attacks:
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 5
-Build Cost: 44
+Upkeep / Maintenance: 8
+Build Cost: 63
 Build Resource Requirements:
   Trace: 17
   Exotica: 7
@@ -111,8 +111,8 @@ Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 6
-Build Cost: 47
+Upkeep / Maintenance: 7
+Build Cost: 52
 Build Resource Requirements:
   Trace: 16
   Exotica: 8
@@ -153,8 +153,8 @@ Attacks:
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 40
-Build Cost: 359
+Upkeep / Maintenance: 63
+Build Cost: 568
 Build Resource Requirements:
   Food: 1
   Energy: 3
@@ -195,7 +195,7 @@ Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 9
+Upkeep / Maintenance: 11
 Build Cost: 44
 Build Resource Requirements:
   Food: 1
@@ -236,8 +236,8 @@ Attacks:
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 9
-Build Cost: 42
+Upkeep / Maintenance: 13
+Build Cost: 66
 Build Resource Requirements:
   Food: 2
   Energy: 3
@@ -282,8 +282,8 @@ Attacks:
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 74
-Build Cost: 475
+Upkeep / Maintenance: 114
+Build Cost: 858
 Build Resource Requirements:
   Food: 5
   Energy: 23
@@ -301,6 +301,46 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
+Name: Saboteur (DE)
+Nick Name: Sab (DE)
+Scores & Strengths:
+  Tech Score: 977
+  Unit Score: 926
+  Average Score: 951
+  Stat Strength: 670
+  Total Strength: 926
+  Planet Strength: 926
+  Space Strength: 0
+  Garrison Strength: 292
+Statistics:
+  Movement Type: foot
+  Move Points: 10
+  Spot: 10
+  Camouflage: 14
+  Agility: 16
+  Armor: 3
+  Psy Defense: 3
+  Rank: 758
+Attacks:
+  Indirect: 16/16
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 11
+Build Cost: 46
+Build Resource Requirements:
+  Metal: 1
+  Biochems: 10
+  Electronics: 2
+Upgrade Saboteur to Saboteur (DE) at Biochem Plant
+Time to Build / Upgrade: 1
+[4635] Technologies Required to Build Unit (78):
+  [1195] Naval Warfare (90)
+  [3440] Drug-Enhanced Soldiers (65)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
 Name: Saboteur (Psy4)
 Nick Name: Sab (Psy4)
 Scores & Strengths:
@@ -327,8 +367,8 @@ Attacks:
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 71
-Build Cost: 234
+Upkeep / Maintenance: 115
+Build Cost: 294
 Build Resource Requirements:
   Food: 3
   Energy: 21
@@ -341,46 +381,6 @@ Upgrade Saboteur (Psy3) to Saboteur (Psy4) at Church
 Time to Build / Upgrade: 1
 [3140] Technology Required to Build Unit (38):
   [3140] Sympathic Soldiers (38)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---9--
-Name: Saboteur (DE)
-Nick Name: Sab (DE)
-Scores & Strengths:
-  Tech Score: 977
-  Unit Score: 942
-  Average Score: 959
-  Stat Strength: 670
-  Total Strength: 942
-  Planet Strength: 942
-  Space Strength: 0
-  Garrison Strength: 297
-Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 10
-  Camouflage: 14
-  Agility: 16
-  Armor: 3
-  Psy Defense: 3
-  Rank: 759
-Attacks:
-  Indirect: 16/17
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 6
-Build Cost: 19
-Build Resource Requirements:
-  Metal: 1
-  Biochems: 10
-  Electronics: 2
-Upgrade Saboteur to Saboteur (DE) at Biochem Plant
-Time to Build / Upgrade: 1
-[4635] Technologies Required to Build Unit (78):
-  [1195] Naval Warfare (90)
-  [3440] Drug-Enhanced Soldiers (65)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
@@ -411,8 +411,8 @@ Attacks:
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 90
-Build Cost: 668
+Upkeep / Maintenance: 149
+Build Cost: 1197
 Build Resource Requirements:
   Food: 4
   Energy: 12
@@ -454,10 +454,10 @@ Attacks:
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 7
-Build Cost: 52
+Upkeep / Maintenance: 13
+Build Cost: 88
 Build Resource Requirements:
-  Energy: 2
+  Energy: 3
   Trace: 2
   Chemicals: 1
   Biochems: 3
@@ -497,8 +497,8 @@ Attacks:
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 8
-Build Cost: 38
+Upkeep / Maintenance: 15
+Build Cost: 88
 Build Resource Requirements:
   Energy: 7
   Chemicals: 4
@@ -539,7 +539,7 @@ Attacks:
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 51
+Upkeep / Maintenance: 85
 Build Resource Requirements:
 Upgrade Saboteur (Psy5) to Saboteur (Psy6) at Church
 Time to Build / Upgrade: 1
@@ -577,8 +577,8 @@ Attacks:
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 52
-Build Cost: 524
+Upkeep / Maintenance: 92
+Build Cost: 921
 Build Resource Requirements:
   Food: 3
   Energy: 12
@@ -621,8 +621,8 @@ Attacks:
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 8
-Build Cost: 46
+Upkeep / Maintenance: 17
+Build Cost: 81
 Build Resource Requirements:
   Energy: 5
   Metal: 1
@@ -662,8 +662,8 @@ Attacks:
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 8
-Build Cost: 23
+Upkeep / Maintenance: 15
+Build Cost: 65
 Build Resource Requirements:
   Energy: 4
   Biochems: 1
@@ -702,8 +702,8 @@ Attacks:
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 26
-Build Cost: 214
+Upkeep / Maintenance: 63
+Build Cost: 547
 Build Resource Requirements:
   Biochems: 2
   Wetware: 4
@@ -743,8 +743,8 @@ Attacks:
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 54
-Build Cost: 19
+Upkeep / Maintenance: 104
+Build Cost: 119
 Build Resource Requirements:
   Energy: 5
   Metal: 1
@@ -785,8 +785,8 @@ Attacks:
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 25
-Build Cost: 224
+Upkeep / Maintenance: 64
+Build Cost: 574
 Build Resource Requirements:
   Wetware: 4
   Monopols: 6

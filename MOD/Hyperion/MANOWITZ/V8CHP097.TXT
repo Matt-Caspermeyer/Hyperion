@@ -1,4 +1,4 @@
-All units of the unit class Naval Monitor are listed herein (3 in total):
+All units of the unit class Naval Monitor are listed herein (7 in total):
 
 --1--
 Name: Naval Monitor
@@ -23,8 +23,8 @@ Statistics:
   Rank: 125
 Attacks:
   Indirect: 1/21
-Upkeep / Maintenance: 10
-Build Cost: 100
+Upkeep / Maintenance: 25
+Build Cost: 247
 Build Resource Requirements:
   Food: 5
   Energy: 89
@@ -43,6 +43,52 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
+Name: Naval Battle-Cruiser
+Nick Name: NN-BC
+Scores & Strengths:
+  Tech Score: 224
+  Unit Score: 556
+  Average Score: 390
+  Stat Strength: 408
+  Total Strength: 556
+  Planet Strength: 556
+  Space Strength: 0
+  Garrison Strength: 196
+Statistics:
+  Movement Type: naval
+  Move Points: 8
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 13
+  Psy Defense: 13
+  Rank: 95
+Attacks:
+  Air: 6/9
+  Indirect: 3/22
+  Direct: 2/14
+Upkeep / Maintenance: 38
+Build Cost: 383
+Build Resource Requirements:
+  Food: 6
+  Energy: 104
+  Metal: 70
+  Trace: 9
+  Exotica: 5
+  Chemicals: 41
+Build Naval Battle-Cruiser in Well
+Time to Build / Upgrade: 5
+[900] Technologies Required to Build Unit (96):
+  [230] Hospitals (97)
+  [110] Structural Engineering (99)
+  [235] Giro Directory Training (85)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
 Name: Naval Dreadnought
 Nick Name: NN-BD
 Scores & Strengths:
@@ -62,13 +108,14 @@ Statistics:
   Agility: 2
   Armor: 24
   Psy Defense: 24
-  Rank: 113
+  Rank: 779
 Attacks:
   Indirect: 5/24
   Direct: 6/20
   Close: 3/11
-Upkeep / Maintenance: 11
-Build Cost: 109
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 49
+Build Cost: 489
 Build Resource Requirements:
   Food: 3
   Energy: 47
@@ -87,7 +134,7 @@ Time to Build / Upgrade: 4
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---3--
+--4--
 Name: Naval Super Dreadnought
 Nick Name: NN-BSD
 Scores & Strengths:
@@ -107,12 +154,13 @@ Statistics:
   Agility: 2
   Armor: 25
   Psy Defense: 25
-  Rank: 114
+  Rank: 780
 Attacks:
   Indirect: 3/26
   Direct: 5/22
-Upkeep / Maintenance: 11
-Build Cost: 108
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 49
+Build Cost: 486
 Build Resource Requirements:
   Food: 3
   Energy: 49
@@ -128,5 +176,138 @@ Time to Build / Upgrade: 4
   [110] Structural Engineering (99)
   [100] Psychosocial Engineering (100)
   [2725] Naval Capital Ships (88)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Guided Missile Battle-Cruiser
+Nick Name: NN-BCGM
+Scores & Strengths:
+  Tech Score: 1339
+  Unit Score: 2678
+  Average Score: 2008
+  Stat Strength: 2000
+  Total Strength: 2678
+  Planet Strength: 2678
+  Space Strength: 0
+  Garrison Strength: 715
+Statistics:
+  Movement Type: naval
+  Move Points: 14
+  Spot: 9
+  Camouflage: 5
+  Agility: 4
+  Armor: 29
+  Psy Defense: 29
+  Rank: 126
+Attacks:
+  Air: 12/21
+  Indirect: 8/24
+  Direct: 13/18
+Upkeep / Maintenance: 63
+Build Cost: 634
+Build Resource Requirements:
+  Food: 3
+  Energy: 41
+  Metal: 44
+  Trace: 11
+  Exotica: 4
+  Chemicals: 42
+  Biochems: 8
+  Electronics: 13
+  Ceramsteel: 54
+Build Guided Missile Battle-Cruiser in Well
+Time to Build / Upgrade: 5
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: PTS Missile Battle-Cruiser
+Nick Name: NN-BCPTS
+Scores & Strengths:
+  Tech Score: 1474
+  Unit Score: 3685
+  Average Score: 2579
+  Stat Strength: 2711
+  Total Strength: 3685
+  Planet Strength: 3553
+  Space Strength: 2843
+  Garrison Strength: 917
+Statistics:
+  Movement Type: naval
+  Move Points: 15
+  Spot: 10
+  Camouflage: 7
+  Agility: 5
+  Armor: 34
+  Psy Defense: 34
+  Rank: 136
+Attacks:
+  Ranged Space: 6/22
+  Air: 14/22
+  Indirect: 9/26
+  Direct: 15/20
+Upkeep / Maintenance: 96
+Build Cost: 963
+Build Resource Requirements:
+  Food: 4
+  Energy: 44
+  Metal: 56
+  Trace: 15
+  Exotica: 4
+  Chemicals: 62
+  Biochems: 10
+  Electronics: 18
+  Ceramsteel: 70
+Build PTS Missile Battle-Cruiser in Well
+Time to Build / Upgrade: 7
+[6655] Technology Required to Build Unit (83):
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Nuclear Battle-Cruiser
+Nick Name: NN-BCN
+Scores & Strengths:
+  Tech Score: 1579
+  Unit Score: 4737
+  Average Score: 3158
+  Stat Strength: 3365
+  Total Strength: 4737
+  Planet Strength: 4737
+  Space Strength: 0
+  Garrison Strength: 1184
+Statistics:
+  Movement Type: naval
+  Move Points: 16
+  Spot: 11
+  Camouflage: 8
+  Agility: 6
+  Armor: 38
+  Psy Defense: 38
+  Rank: 149
+Attacks:
+  Air: 16/28
+  Indirect: 14/38
+  Direct: 14/28
+Upkeep / Maintenance: 135
+Build Cost: 1353
+Build Resource Requirements:
+  Food: 4
+  Energy: 75
+  Metal: 65
+  Trace: 15
+  Exotica: 4
+  Chemicals: 69
+  Biochems: 10
+  Electronics: 19
+  Ceramsteel: 84
+Build Nuclear Battle-Cruiser in Well
+Time to Build / Upgrade: 8
+[7295] Technology Required to Build Unit (81):
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

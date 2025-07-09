@@ -1,4 +1,4 @@
-All units of the unit class Seaplane Tender are listed herein (4 in total):
+All units of the unit class Seaplane Tender are listed herein (9 in total):
 
 --1--
 Name: Seaplane Tender
@@ -28,8 +28,8 @@ Attacks:
   Close: 3/6
 Transports and Refuels (at end of turn) all Air Units
 Can tow units that can be towed
-Upkeep / Maintenance: 15
-Build Cost: 151
+Upkeep / Maintenance: 35
+Build Cost: 347
 Build Resource Requirements:
   Food: 5
   Energy: 31
@@ -71,8 +71,8 @@ Attacks:
   Close: 2/2
 Cargo Space: 1
 Can tow units that can be towed
-Upkeep / Maintenance: 10
-Build Cost: 99
+Upkeep / Maintenance: 21
+Build Cost: 209
 Build Resource Requirements:
   Food: 6
   Energy: 5
@@ -119,8 +119,8 @@ Attacks:
   Close: 4/7
 Can tow units that can be towed
 Heals units of same movement type
-Upkeep / Maintenance: 6
-Build Cost: 60
+Upkeep / Maintenance: 20
+Build Cost: 204
 Build Resource Requirements:
   Food: 3
   Energy: 21
@@ -162,8 +162,8 @@ Attacks:
   Close: 5/5
 Can tow units that can be towed
 Heals units of same movement type
-Upkeep / Maintenance: 4
-Build Cost: 41
+Upkeep / Maintenance: 14
+Build Cost: 139
 Build Resource Requirements:
   Food: 3
   Energy: 5
@@ -177,5 +177,217 @@ Build Naval Repair Ship in Well
 Time to Build / Upgrade: 2
 [2270] Technology Required to Build Unit (86):
   [2270] Naval Escort Ships (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Naval Replenishment Tanker
+Nick Name: NN-AOR
+Scores & Strengths:
+  Tech Score: 658
+  Unit Score: 658
+  Average Score: 658
+  Stat Strength: 638
+  Total Strength: 658
+  Planet Strength: 658
+  Space Strength: 0
+  Garrison Strength: 268
+Statistics:
+  Movement Type: naval
+  Move Points: 6
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
+  Armor: 17
+  Psy Defense: 17
+  Rank: 97
+Attacks:
+  Close: 4/5
+Cargo Space: 4
+Upkeep / Maintenance: 13
+Build Cost: 125
+Build Resource Requirements:
+  Food: 1
+  Energy: 3
+  Metal: 56
+  Trace: 3
+  Exotica: 1
+  Chemicals: 3
+  Biochems: 2
+  Electronics: 2
+Build Naval Replenishment Tanker in Well
+Time to Build / Upgrade: 2
+[2270] Technology Required to Build Unit (86):
+  [2270] Naval Escort Ships (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Naval Radar Picket
+Nick Name: NN-BP
+Scores & Strengths:
+  Tech Score: 658
+  Unit Score: 659
+  Average Score: 658
+  Stat Strength: 596
+  Total Strength: 659
+  Planet Strength: 659
+  Space Strength: 0
+  Garrison Strength: 190
+Statistics:
+  Movement Type: naval
+  Move Points: 12
+  Spot: 12
+  Camouflage: 4
+  Agility: 2
+  Armor: 12
+  Psy Defense: 12
+  Rank: 57
+Attacks:
+  Close: 7/9
+Upkeep / Maintenance: 19
+Build Cost: 193
+Build Resource Requirements:
+  Food: 7
+  Energy: 10
+  Metal: 28
+  Trace: 13
+  Exotica: 8
+  Chemicals: 10
+  Biochems: 11
+  Electronics: 10
+Build Naval Radar Picket in Well
+Time to Build / Upgrade: 2
+[2270] Technology Required to Build Unit (86):
+  [2270] Naval Escort Ships (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Naval Tracking Ship
+Nick Name: NN-AGM
+Scores & Strengths:
+  Tech Score: 716
+  Unit Score: 718
+  Average Score: 717
+  Stat Strength: 658
+  Total Strength: 718
+  Planet Strength: 718
+  Space Strength: 0
+  Garrison Strength: 227
+Statistics:
+  Movement Type: naval
+  Move Points: 10
+  Spot: 10
+  Camouflage: 2
+  Agility: 2
+  Armor: 15
+  Psy Defense: 15
+  Rank: 57
+Attacks:
+  Close: 5/12
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 17
+Build Cost: 169
+Build Resource Requirements:
+  Food: 5
+  Energy: 10
+  Metal: 41
+  Trace: 7
+  Exotica: 5
+  Chemicals: 10
+  Biochems: 6
+  Electronics: 5
+Build Naval Tracking Ship in Well
+Time to Build / Upgrade: 2
+[3065] Technologies Required to Build Unit (86):
+  [2270] Naval Escort Ships (86)
+  [795] Missiles (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Light Replenishment Tanker
+Nick Name: NN-AOL
+Scores & Strengths:
+  Tech Score: 1579
+  Unit Score: 1157
+  Average Score: 1368
+  Stat Strength: 1132
+  Total Strength: 1157
+  Planet Strength: 1157
+  Space Strength: 0
+  Garrison Strength: 289
+Statistics:
+  Movement Type: naval
+  Move Points: 16
+  Spot: 6
+  Camouflage: 2
+  Agility: 6
+  Armor: 20
+  Psy Defense: 20
+  Rank: 84
+Attacks:
+  Close: 5/5
+Cargo Space: 2
+Upkeep / Maintenance: 19
+Build Cost: 187
+Build Resource Requirements:
+  Food: 3
+  Energy: 7
+  Metal: 18
+  Trace: 2
+  Exotica: 3
+  Chemicals: 13
+  Biochems: 4
+  Electronics: 2
+  Ceramsteel: 23
+Build Light Replenishment Tanker in Well
+Time to Build / Upgrade: 2
+[7295] Technology Required to Build Unit (81):
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Fast Combat Support Ship
+Nick Name: NN-AOE
+Scores & Strengths:
+  Tech Score: 1339
+  Unit Score: 1341
+  Average Score: 1340
+  Stat Strength: 1220
+  Total Strength: 1341
+  Planet Strength: 1341
+  Space Strength: 0
+  Garrison Strength: 358
+Statistics:
+  Movement Type: naval
+  Move Points: 14
+  Spot: 6
+  Camouflage: 2
+  Agility: 4
+  Armor: 22
+  Psy Defense: 22
+  Rank: 93
+Attacks:
+  Close: 11/11
+Cargo Space: 3
+Upkeep / Maintenance: 28
+Build Cost: 283
+Build Resource Requirements:
+  Food: 3
+  Energy: 8
+  Metal: 26
+  Trace: 4
+  Exotica: 3
+  Chemicals: 16
+  Biochems: 5
+  Electronics: 5
+  Ceramsteel: 31
+Build Fast Combat Support Ship in Well
+Time to Build / Upgrade: 3
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
