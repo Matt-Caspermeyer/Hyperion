@@ -1,4 +1,4 @@
-All units of the unit class Siege Mortar are listed herein (3 in total):
+All units of the unit class Siege Mortar are listed herein (6 in total):
 
 --1--
 Name: Siege Mortar
@@ -25,8 +25,8 @@ Attacks:
   Indirect: 4/16
 Load aboard transport: YES
 Can be towed
-Upkeep / Maintenance: 4
-Build Cost: 40
+Upkeep / Maintenance: 6
+Build Cost: 64
 Build Resource Requirements:
   Food: 4
   Energy: 83
@@ -66,8 +66,8 @@ Statistics:
 Attacks:
   Indirect: 5/10
 Load aboard transport: YES
-Upkeep / Maintenance: 2
-Build Cost: 17
+Upkeep / Maintenance: 3
+Build Cost: 32
 Build Resource Requirements:
   Food: 4
   Energy: 15
@@ -108,8 +108,8 @@ Statistics:
 Attacks:
   Indirect: 3/30
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 31
+Upkeep / Maintenance: 6
+Build Cost: 61
 Build Resource Requirements:
   Food: 2
   Energy: 100
@@ -122,6 +122,133 @@ Build Self-Propelled Siege Mortar in Factory
 Time to Build / Upgrade: 2
 [770] Technology Required to Build Unit (92):
   [770] Self-Propelled Weaponry (92)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Self-Propelled SM II
+Nick Name: SP SM II
+Scores & Strengths:
+  Tech Score: 530
+  Unit Score: 510
+  Average Score: 520
+  Stat Strength: 350
+  Total Strength: 510
+  Planet Strength: 510
+  Space Strength: 0
+  Garrison Strength: 228
+Statistics:
+  Movement Type: tread
+  Move Points: 5
+  Spot: 2
+  Camouflage: 1
+  Agility: 0
+  Armor: 16
+  Psy Defense: 8
+  Rank: 124
+Attacks:
+  Indirect: 4/40
+Load aboard transport: YES
+Upkeep / Maintenance: 8
+Build Cost: 76
+Build Resource Requirements:
+  Food: 1
+  Energy: 110
+  Metal: 36
+  Trace: 1
+  Exotica: 1
+  Chemicals: 18
+  Electronics: 1
+Build Self-Propelled SM II in Factory
+Time to Build / Upgrade: 2
+[1700] Technology Required to Build Unit (88):
+  [1700] Main Battle Tank (88)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Self-Propelled SM III
+Nick Name: SP SM III
+Scores & Strengths:
+  Tech Score: 1226
+  Unit Score: 1212
+  Average Score: 1219
+  Stat Strength: 846
+  Total Strength: 1212
+  Planet Strength: 1212
+  Space Strength: 0
+  Garrison Strength: 428
+Statistics:
+  Movement Type: tread
+  Move Points: 8
+  Spot: 3
+  Camouflage: 2
+  Agility: 0
+  Armor: 25
+  Psy Defense: 12
+  Rank: 154
+Attacks:
+  Indirect: 6/61
+Load aboard transport: YES
+Upkeep / Maintenance: 11
+Build Cost: 114
+Build Resource Requirements:
+  Food: 1
+  Energy: 106
+  Metal: 21
+  Exotica: 1
+  Chemicals: 15
+  Electronics: 14
+  Ceramsteel: 28
+Build Self-Propelled SM III in Factory
+Time to Build / Upgrade: 3
+[5205] Technology Required to Build Unit (84):
+  [5205] Advanced Battle Tanks (84)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Self-Propelled SM IV
+Nick Name: SP SM IV
+Scores & Strengths:
+  Tech Score: 2510
+  Unit Score: 2503
+  Average Score: 2506
+  Stat Strength: 1711
+  Total Strength: 2503
+  Planet Strength: 2503
+  Space Strength: 0
+  Garrison Strength: 722
+Statistics:
+  Movement Type: tread
+  Move Points: 12
+  Spot: 3
+  Camouflage: 3
+  Agility: 0
+  Armor: 35
+  Psy Defense: 18
+  Rank: 197
+Attacks:
+  Indirect: 9/88
+Load aboard transport: YES
+Upkeep / Maintenance: 54
+Build Cost: 540
+Build Resource Requirements:
+  Food: 1
+  Energy: 67
+  Metal: 11
+  Exotica: 1
+  Chemicals: 8
+  Electronics: 7
+  Ceramsteel: 18
+  Monopols: 21
+Build Self-Propelled SM IV in Factory
+Time to Build / Upgrade: 3
+[13535] Technology Required to Build Unit (74):
+  [13535] Powered Ceramsteel Tanks (74)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

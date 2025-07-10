@@ -1,4 +1,4 @@
-All units of the unit class Gun Carrier are listed herein (4 in total):
+All units of the unit class Gun Carrier are listed herein (9 in total):
 
 --1--
 Name: Gun Carrier
@@ -24,8 +24,8 @@ Statistics:
 Attacks:
   Indirect: 4/16
 Load aboard transport: YES
-Upkeep / Maintenance: 2
-Build Cost: 15
+Upkeep / Maintenance: 3
+Build Cost: 28
 Build Resource Requirements:
   Food: 2
   Energy: 29
@@ -67,8 +67,8 @@ Statistics:
 Attacks:
   Indirect: 3/23
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 25
+Upkeep / Maintenance: 5
+Build Cost: 48
 Build Resource Requirements:
   Food: 3
   Energy: 61
@@ -86,6 +86,48 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
+Name: Self-Propelled Artillery II
+Nick Name: Smyter II
+Scores & Strengths:
+  Tech Score: 530
+  Unit Score: 515
+  Average Score: 522
+  Stat Strength: 391
+  Total Strength: 515
+  Planet Strength: 515
+  Space Strength: 0
+  Garrison Strength: 194
+Statistics:
+  Movement Type: tread
+  Move Points: 7
+  Spot: 3
+  Camouflage: 3
+  Agility: 2
+  Armor: 16
+  Psy Defense: 8
+  Rank: 115
+Attacks:
+  Indirect: 4/31
+Load aboard transport: YES
+Upkeep / Maintenance: 6
+Build Cost: 63
+Build Resource Requirements:
+  Food: 3
+  Energy: 68
+  Metal: 36
+  Trace: 3
+  Exotica: 3
+  Chemicals: 20
+  Electronics: 3
+Build Self-Propelled Artillery II in Factory
+Time to Build / Upgrade: 2
+[1700] Technology Required to Build Unit (88):
+  [1700] Main Battle Tank (88)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
 Name: Howitzer Artillery
 Nick Name: Howitzer
 Scores & Strengths:
@@ -109,8 +151,8 @@ Statistics:
 Attacks:
   Indirect: 4/27
 Load aboard transport: YES
-Upkeep / Maintenance: 2
-Build Cost: 23
+Upkeep / Maintenance: 5
+Build Cost: 47
 Build Resource Requirements:
   Food: 3
   Energy: 46
@@ -128,7 +170,7 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---4--
+--5--
 Name: MRSI Artillery
 Nick Name: MRSI Art.
 Scores & Strengths:
@@ -152,8 +194,8 @@ Statistics:
 Attacks:
   Indirect: 9/35
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 26
+Upkeep / Maintenance: 5
+Build Cost: 53
 Build Resource Requirements:
   Food: 1
   Energy: 82
@@ -169,6 +211,181 @@ Time to Build / Upgrade: 2
   [995] Programmable Computer (80)
   [770] Self-Propelled Weaponry (92)
   [465] Recoilless Gun (93)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Self-Propelled Artillery III
+Nick Name: Smyter III
+Scores & Strengths:
+  Tech Score: 1226
+  Unit Score: 1192
+  Average Score: 1209
+  Stat Strength: 910
+  Total Strength: 1192
+  Planet Strength: 1192
+  Space Strength: 0
+  Garrison Strength: 376
+Statistics:
+  Movement Type: tread
+  Move Points: 10
+  Spot: 4
+  Camouflage: 4
+  Agility: 3
+  Armor: 25
+  Psy Defense: 12
+  Rank: 140
+Attacks:
+  Indirect: 6/47
+Load aboard transport: YES
+Upkeep / Maintenance: 10
+Build Cost: 97
+Build Resource Requirements:
+  Food: 2
+  Energy: 65
+  Metal: 21
+  Trace: 1
+  Exotica: 2
+  Chemicals: 17
+  Electronics: 15
+  Ceramsteel: 28
+Build Self-Propelled Artillery III in Factory
+Time to Build / Upgrade: 3
+[5205] Technology Required to Build Unit (84):
+  [5205] Advanced Battle Tanks (84)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Howitzer Artillery II
+Nick Name: Howitzer II
+Scores & Strengths:
+  Tech Score: 1226
+  Unit Score: 1219
+  Average Score: 1222
+  Stat Strength: 973
+  Total Strength: 1219
+  Planet Strength: 1219
+  Space Strength: 0
+  Garrison Strength: 351
+Statistics:
+  Movement Type: tread
+  Move Points: 12
+  Spot: 4
+  Camouflage: 3
+  Agility: 2
+  Armor: 20
+  Psy Defense: 20
+  Rank: 134
+Attacks:
+  Indirect: 6/41
+Load aboard transport: YES
+Upkeep / Maintenance: 9
+Build Cost: 91
+Build Resource Requirements:
+  Food: 3
+  Energy: 49
+  Metal: 22
+  Trace: 1
+  Exotica: 3
+  Chemicals: 18
+  Electronics: 14
+  Ceramsteel: 28
+Build Howitzer Artillery II in Factory
+Time to Build / Upgrade: 3
+[5670] Technologies Required to Build Unit (89):
+  [465] Recoilless Gun (93)
+  [5205] Advanced Battle Tanks (84)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Howitzer Artillery III
+Nick Name: Howitzer III
+Scores & Strengths:
+  Tech Score: 2510
+  Unit Score: 2429
+  Average Score: 2469
+  Stat Strength: 1898
+  Total Strength: 2429
+  Planet Strength: 2429
+  Space Strength: 0
+  Garrison Strength: 589
+Statistics:
+  Movement Type: tread
+  Move Points: 17
+  Spot: 4
+  Camouflage: 4
+  Agility: 3
+  Armor: 28
+  Psy Defense: 28
+  Rank: 168
+Attacks:
+  Indirect: 9/59
+Load aboard transport: YES
+Upkeep / Maintenance: 57
+Build Cost: 570
+Build Resource Requirements:
+  Food: 2
+  Energy: 33
+  Metal: 11
+  Exotica: 2
+  Chemicals: 10
+  Electronics: 8
+  Ceramsteel: 18
+  Monopols: 23
+Build Howitzer Artillery III in Factory
+Time to Build / Upgrade: 3
+[14000] Technologies Required to Build Unit (84):
+  [465] Recoilless Gun (93)
+  [13535] Powered Ceramsteel Tanks (74)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Self-Propelled Artillery IV
+Nick Name: Smyter IV
+Scores & Strengths:
+  Tech Score: 2510
+  Unit Score: 2447
+  Average Score: 2478
+  Stat Strength: 1844
+  Total Strength: 2447
+  Planet Strength: 2447
+  Space Strength: 0
+  Garrison Strength: 631
+Statistics:
+  Movement Type: tread
+  Move Points: 15
+  Spot: 5
+  Camouflage: 6
+  Agility: 3
+  Armor: 35
+  Psy Defense: 18
+  Rank: 176
+Attacks:
+  Indirect: 9/67
+Load aboard transport: YES
+Upkeep / Maintenance: 56
+Build Cost: 556
+Build Resource Requirements:
+  Food: 1
+  Energy: 40
+  Metal: 11
+  Trace: 1
+  Exotica: 1
+  Chemicals: 9
+  Electronics: 8
+  Ceramsteel: 18
+  Monopols: 22
+Build Self-Propelled Artillery IV in Factory
+Time to Build / Upgrade: 3
+[13535] Technology Required to Build Unit (74):
+  [13535] Powered Ceramsteel Tanks (74)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

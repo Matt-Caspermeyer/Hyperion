@@ -25,8 +25,8 @@ Attacks:
   Indirect: 3/13
   Direct: 4/10
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 24
+Upkeep / Maintenance: 7
+Build Cost: 50
 Build Resource Requirements:
   Energy: 41
   Metal: 6
@@ -67,8 +67,8 @@ Attacks:
   Direct: 6/13
 Load aboard transport: YES
 May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 6
-Build Cost: 35
+Upkeep / Maintenance: 10
+Build Cost: 49
 Build Resource Requirements:
   Metal: 3
   Biochems: 32
@@ -106,8 +106,8 @@ Attacks:
   Indirect: 5/20
   Direct: 6/16
 Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 41
+Upkeep / Maintenance: 14
+Build Cost: 85
 Build Resource Requirements:
   Energy: 7
   Metal: 2
@@ -147,8 +147,8 @@ Attacks:
   Indirect: 8/33
   Direct: 10/25
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 21
+Upkeep / Maintenance: 11
+Build Cost: 63
 Build Resource Requirements:
   Metal: 22
   Biochems: 32
@@ -163,6 +163,49 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
+Name: Anti-Tank Infantry (PA)
+Nick Name: AT Inf (PA)
+Scores & Strengths:
+  Tech Score: 1421
+  Unit Score: 1222
+  Average Score: 1322
+  Stat Strength: 437
+  Total Strength: 1222
+  Planet Strength: 1222
+  Space Strength: 0
+  Garrison Strength: 498
+Statistics:
+  Movement Type: foot
+  Move Points: 6
+  Spot: 4
+  Camouflage: 6
+  Agility: 12
+  Armor: 13
+  Psy Defense: 6
+  Rank: 83
+Attacks:
+  Indirect: 9/41
+  Direct: 13/32
+Load aboard transport: YES
+Upkeep / Maintenance: 24
+Build Cost: 153
+Build Resource Requirements:
+  Energy: 44
+  Metal: 2
+  Chemicals: 37
+  Biochems: 6
+  Electronics: 14
+  Ceramsteel: 17
+Upgrade Anti-Tank Infantry (SE) to Anti-Tank Infantry (PA) at Hospital
+Time to Build / Upgrade: 2
+[6525] Technologies Required to Build Unit (76):
+  [6175] Prosthetically-Augmented Soldiers (57)
+  [350] Anti-Tank Weaponry (95)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
 Name: Anti-Tank Infantry (GE)
 Nick Name: AT Inf (GE)
 Scores & Strengths:
@@ -187,8 +230,8 @@ Attacks:
   Indirect: 10/40
   Direct: 13/31
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 43
+Upkeep / Maintenance: 17
+Build Cost: 110
 Build Resource Requirements:
   Energy: 17
   Chemicals: 15
@@ -199,49 +242,6 @@ Upgrade Anti-Tank Infantry (DE) to Anti-Tank Infantry (GE) at Lab
 Time to Build / Upgrade: 1
 [6370] Technologies Required to Build Unit (72):
   [6020] Chemical Shock Legion (49)
-  [350] Anti-Tank Weaponry (95)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Anti-Tank Infantry (PA)
-Nick Name: AT Inf (PA)
-Scores & Strengths:
-  Tech Score: 1421
-  Unit Score: 1263
-  Average Score: 1342
-  Stat Strength: 437
-  Total Strength: 1263
-  Planet Strength: 1263
-  Space Strength: 0
-  Garrison Strength: 515
-Statistics:
-  Movement Type: foot
-  Move Points: 6
-  Spot: 4
-  Camouflage: 6
-  Agility: 12
-  Armor: 13
-  Psy Defense: 6
-  Rank: 83
-Attacks:
-  Indirect: 10/41
-  Direct: 13/32
-Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 48
-Build Resource Requirements:
-  Energy: 44
-  Metal: 2
-  Chemicals: 37
-  Biochems: 6
-  Electronics: 14
-  Ceramsteel: 17
-Upgrade Anti-Tank Infantry (SE) to Anti-Tank Infantry (PA) at Hospital
-Time to Build / Upgrade: 2
-[6525] Technologies Required to Build Unit (76):
-  [6175] Prosthetically-Augmented Soldiers (57)
   [350] Anti-Tank Weaponry (95)
 Counts as planetary flock: YES
 Unit Eats: YES
@@ -272,8 +272,8 @@ Attacks:
   Indirect: 11/47
   Direct: 14/36
 Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 59
+Upkeep / Maintenance: 31
+Build Cost: 154
 Build Resource Requirements:
   Energy: 33
   Metal: 4
@@ -314,8 +314,8 @@ Attacks:
   Indirect: 10/43
   Direct: 13/33
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 37
+Upkeep / Maintenance: 15
+Build Cost: 101
 Build Resource Requirements:
   Food: 2
   Energy: 26
@@ -337,34 +337,34 @@ Name: Anti-Tank Infantry (MF)
 Nick Name: AT Inf (MF)
 Scores & Strengths:
   Tech Score: 3194
-  Unit Score: 2663
-  Average Score: 2929
-  Stat Strength: 883
-  Total Strength: 2663
-  Planet Strength: 2663
+  Unit Score: 2625
+  Average Score: 2910
+  Stat Strength: 864
+  Total Strength: 2625
+  Planet Strength: 2625
   Space Strength: 0
-  Garrison Strength: 842
+  Garrison Strength: 875
 Statistics:
   Movement Type: foot
-  Move Points: 10
+  Move Points: 9
   Spot: 4
   Camouflage: 9
   Agility: 15
   Armor: 19
   Psy Defense: 10
-  Rank: 121
+  Rank: 120
 Attacks:
   Indirect: 14/62
-  Direct: 19/48
+  Direct: 19/47
 Load aboard transport: YES
-Upkeep / Maintenance: 77
-Build Cost: 709
+Upkeep / Maintenance: 250
+Build Cost: 2350
 Build Resource Requirements:
-  Energy: 26
-  Chemicals: 6
-  Biochems: 17
+  Energy: 23
+  Chemicals: 2
+  Biochems: 15
   Wetware: 5
-  Monopols: 94
+  Monopols: 90
 Upgrade Anti-Tank Infantry (CE) to Anti-Tank Infantry (MF) at Wetware
 Time to Build / Upgrade: 4
 [18925] Technologies Required to Build Unit (65):
@@ -379,13 +379,13 @@ Name: Anti-Tank Infantry (AVE)
 Nick Name: AT Inf (AVE)
 Scores & Strengths:
   Tech Score: 3641
-  Unit Score: 2932
-  Average Score: 3286
+  Unit Score: 2912
+  Average Score: 3276
   Stat Strength: 972
-  Total Strength: 2932
-  Planet Strength: 2932
+  Total Strength: 2912
+  Planet Strength: 2912
   Space Strength: 0
-  Garrison Strength: 927
+  Garrison Strength: 920
 Statistics:
   Movement Type: foot
   Move Points: 10
@@ -394,19 +394,19 @@ Statistics:
   Agility: 16
   Armor: 20
   Psy Defense: 10
-  Rank: 128
+  Rank: 127
 Attacks:
   Indirect: 15/64
-  Direct: 20/50
+  Direct: 20/49
 Load aboard transport: YES
-Upkeep / Maintenance: 46
-Build Cost: 419
+Upkeep / Maintenance: 160
+Build Cost: 1488
 Build Resource Requirements:
-  Energy: 39
-  Chemicals: 24
-  Biochems: 16
+  Energy: 38
+  Chemicals: 22
+  Biochems: 14
   Wetware: 4
-  Monopols: 53
+  Monopols: 51
 Upgrade Anti-Tank Infantry (GE) to Anti-Tank Infantry (AVE) at Lab
 Time to Build / Upgrade: 3
 [27475] Technologies Required to Build Unit (30):
@@ -441,7 +441,7 @@ Attacks:
   Indirect: 16/69
   Direct: 21/53
 Load aboard transport: YES
-Upkeep / Maintenance: 36
+Upkeep / Maintenance: 131
 Build Resource Requirements:
   Trace: 2
   Electronics: 5

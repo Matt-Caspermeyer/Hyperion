@@ -26,8 +26,8 @@ Attacks:
   Direct: 14/2
   Close: 9/4
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 21
+Upkeep / Maintenance: 6
+Build Cost: 46
 Build Resource Requirements:
   Metal: 1
   Trace: 46
@@ -70,8 +70,8 @@ Attacks:
   Close: 12/5
 Load aboard transport: YES
 May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 7
-Build Cost: 50
+Upkeep / Maintenance: 12
+Build Cost: 75
 Build Resource Requirements:
   Metal: 1
   Trace: 5
@@ -114,8 +114,8 @@ Attacks:
   Direct: 18/3
   Close: 11/5
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 41
+Upkeep / Maintenance: 13
+Build Cost: 81
 Build Resource Requirements:
   Food: 1
   Energy: 1
@@ -160,8 +160,8 @@ Attacks:
   Direct: 30/4
   Close: 19/8
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 43
+Upkeep / Maintenance: 16
+Build Cost: 114
 Build Resource Requirements:
   Metal: 7
   Biochems: 50
@@ -202,8 +202,8 @@ Attacks:
   Direct: 36/5
   Close: 23/10
 Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 34
+Upkeep / Maintenance: 20
+Build Cost: 90
 Build Resource Requirements:
   Energy: 2
   Trace: 1
@@ -247,8 +247,8 @@ Attacks:
   Direct: 35/5
   Close: 23/10
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 47
+Upkeep / Maintenance: 23
+Build Cost: 153
 Build Resource Requirements:
   Food: 1
   Energy: 8
@@ -273,13 +273,13 @@ Name: Light Infantry Legion (CE)
 Nick Name: Lt Inf (CE)
 Scores & Strengths:
   Tech Score: 1820
-  Unit Score: 1710
-  Average Score: 1765
+  Unit Score: 1670
+  Average Score: 1745
   Stat Strength: 668
-  Total Strength: 1710
-  Planet Strength: 1710
+  Total Strength: 1670
+  Planet Strength: 1670
   Space Strength: 0
-  Garrison Strength: 457
+  Garrison Strength: 446
 Statistics:
   Movement Type: foot
   Move Points: 14
@@ -288,19 +288,19 @@ Statistics:
   Agility: 15
   Armor: 9
   Psy Defense: 6
-  Rank: 89
+  Rank: 88
 Attacks:
-  Indirect: 35/14
+  Indirect: 34/14
   Direct: 40/6
-  Close: 26/12
+  Close: 26/11
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 38
+Upkeep / Maintenance: 23
+Build Cost: 81
 Build Resource Requirements:
-  Energy: 3
+  Energy: 2
   Metal: 1
   Exotica: 1
-  Chemicals: 4
+  Chemicals: 3
   Ceramsteel: 1
 Upgrade Light Infantry Legion (PA) to Light Infantry Legion (CE) at Lab
 Time to Build / Upgrade: 1
@@ -317,13 +317,13 @@ Name: Light Infantry Legion (AVE)
 Nick Name: Lt Inf (AVE)
 Scores & Strengths:
   Tech Score: 1869
-  Unit Score: 1767
-  Average Score: 1818
+  Unit Score: 1753
+  Average Score: 1811
   Stat Strength: 720
-  Total Strength: 1767
-  Planet Strength: 1767
+  Total Strength: 1753
+  Planet Strength: 1753
   Space Strength: 0
-  Garrison Strength: 456
+  Garrison Strength: 452
 Statistics:
   Movement Type: foot
   Move Points: 15
@@ -334,12 +334,12 @@ Statistics:
   Psy Defense: 6
   Rank: 90
 Attacks:
-  Indirect: 36/14
+  Indirect: 35/14
   Direct: 41/6
   Close: 27/11
 Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 47
+Upkeep / Maintenance: 23
+Build Cost: 140
 Build Resource Requirements:
   Energy: 2
   Chemicals: 1
@@ -360,16 +360,16 @@ Name: Light Infantry Legion (ME)
 Nick Name: Lt Inf (ME)
 Scores & Strengths:
   Tech Score: 1401
-  Unit Score: 2020
-  Average Score: 1710
-  Stat Strength: 1155
-  Total Strength: 2020
-  Planet Strength: 2020
+  Unit Score: 1973
+  Average Score: 1687
+  Stat Strength: 1108
+  Total Strength: 1973
+  Planet Strength: 1973
   Space Strength: 0
-  Garrison Strength: 412
+  Garrison Strength: 411
 Statistics:
   Movement Type: foot
-  Move Points: 24
+  Move Points: 23
   Spot: 3
   Camouflage: 9
   Agility: 20
@@ -381,14 +381,14 @@ Attacks:
   Direct: 37/5
   Close: 24/11
 Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 54
+Upkeep / Maintenance: 18
+Build Cost: 131
 Build Resource Requirements:
-  Food: 8
-  Energy: 15
+  Food: 7
+  Energy: 14
   Trace: 8
-  Exotica: 8
-  Chemicals: 24
+  Exotica: 7
+  Chemicals: 23
   Electronics: 50
   Ceramsteel: 3
 Upgrade Light Infantry Legion to Light Infantry Legion (ME) at Factory
@@ -406,31 +406,31 @@ Name: Light Infantry Legion (MF)
 Nick Name: Lt Inf (MF)
 Scores & Strengths:
   Tech Score: 3201
-  Unit Score: 2900
-  Average Score: 3051
-  Stat Strength: 1111
-  Total Strength: 2900
-  Planet Strength: 2900
+  Unit Score: 2865
+  Average Score: 3033
+  Stat Strength: 1076
+  Total Strength: 2865
+  Planet Strength: 2865
   Space Strength: 0
-  Garrison Strength: 665
+  Garrison Strength: 657
 Statistics:
   Movement Type: foot
   Move Points: 19
   Spot: 4
   Camouflage: 15
-  Agility: 18
+  Agility: 17
   Armor: 11
   Psy Defense: 8
-  Rank: 117
+  Rank: 116
 Attacks:
   Indirect: 45/19
   Direct: 53/8
   Close: 34/15
 Load aboard transport: YES
-Upkeep / Maintenance: 47
-Build Cost: 427
+Upkeep / Maintenance: 155
+Build Cost: 1468
 Build Resource Requirements:
-  Biochems: 1
+  Biochems: 2
   Wetware: 33
   Monopols: 17
 Upgrade Light Infantry Legion (CE) to Light Infantry Legion (MF) at Wetware
@@ -469,8 +469,8 @@ Attacks:
   Direct: 59/8
   Close: 38/17
 Load aboard transport: YES
-Upkeep / Maintenance: 47
-Build Cost: 421
+Upkeep / Maintenance: 170
+Build Cost: 1562
 Build Resource Requirements:
   Wetware: 38
   Monopols: 11

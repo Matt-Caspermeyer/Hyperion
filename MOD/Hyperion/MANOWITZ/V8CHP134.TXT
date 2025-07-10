@@ -1,259 +1,229 @@
-All units of the unit class Hover Tank are listed herein (6 in total):
+All units of the unit class Shantor Warrior are listed herein (5 in total):
 
 --1--
-Name: Hover Tank
-Nick Name: Kestral
+Name: Shantor Warrior
+Nick Name: Shantor War
 Scores & Strengths:
-  Tech Score: 988
-  Unit Score: 986
-  Average Score: 987
-  Stat Strength: 640
-  Total Strength: 986
-  Planet Strength: 986
+  Tech Score: 807
+  Unit Score: 805
+  Average Score: 806
+  Stat Strength: 580
+  Total Strength: 805
+  Planet Strength: 805
   Space Strength: 0
-  Garrison Strength: 254
+  Garrison Strength: 207
 Statistics:
-  Movement Type: hover
+  Movement Type: foot
   Move Points: 15
-  Spot: 6
+  Spot: 8
   Camouflage: 4
-  Agility: 11
-  Armor: 11
-  Psy Defense: 11
-  Rank: 59
+  Agility: 15
+  Armor: 5
+  Psy Defense: 5
+  Rank: 8
 Attacks:
-  Indirect: 9/12
-  Direct: 16/8
-  Close: 11/10
+  Close: 15/15
 Load aboard transport: YES
-Upkeep / Maintenance: 33
-Build Cost: 334
+Can tow units that can be towed
+Upkeep / Maintenance: 27
+Build Cost: 272
 Build Resource Requirements:
-  Food: 7
-  Energy: 13
-  Metal: 4
-  Trace: 30
-  Exotica: 7
-  Chemicals: 18
-  Electronics: 39
-  Ceramsteel: 7
-  Monopols: 27
-Build Hover Tank in Factory
-Time to Build / Upgrade: 3
-[3905] Technology Required to Build Unit (61):
-  [3905] Hovertech (61)
+  Food: 16
+  Energy: 51
+  Metal: 3
+  Trace: 11
+  Exotica: 17
+  Chemicals: 53
+  Biochems: 82
+  Electronics: 24
+Build Shantor Warrior in Farm
+Time to Build / Upgrade: 4
+[3105] Technologies Required to Build Unit (51):
+  [2980] Xenoimmunology (41)
+  [125] Xenopsychology (60)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Power Hover Tank
-Nick Name: Power Kestral
+Name: Shantor Rebel
+Nick Name: Shantor Rbl
 Scores & Strengths:
-  Tech Score: 2707
-  Unit Score: 2526
-  Average Score: 2617
-  Stat Strength: 1582
-  Total Strength: 2526
-  Planet Strength: 2526
+  Tech Score: 807
+  Unit Score: 805
+  Average Score: 806
+  Stat Strength: 584
+  Total Strength: 805
+  Planet Strength: 805
   Space Strength: 0
-  Garrison Strength: 505
+  Garrison Strength: 201
 Statistics:
-  Movement Type: hover
-  Move Points: 25
+  Movement Type: foot
+  Move Points: 16
   Spot: 8
-  Camouflage: 7
+  Camouflage: 6
   Agility: 14
-  Armor: 18
-  Psy Defense: 18
-  Rank: 90
+  Armor: 4
+  Psy Defense: 4
+  Rank: 8
 Attacks:
-  Indirect: 15/20
-  Direct: 26/13
-  Close: 18/17
+  Close: 17/13
 Load aboard transport: YES
-Upkeep / Maintenance: 30
+Can tow units that can be towed
+Upkeep / Maintenance: 25
+Build Cost: 251
 Build Resource Requirements:
-Upgrade Hover Tank to Power Hover Tank at Factory
-Time to Build / Upgrade: 1
-[14975] Technology Required to Build Unit (70):
-  [14975] Power Hovertanks (70)
+  Food: 17
+  Energy: 43
+  Metal: 2
+  Trace: 12
+  Exotica: 17
+  Chemicals: 44
+  Biochems: 74
+  Electronics: 27
+Build Shantor Rebel in Farm
+Time to Build / Upgrade: 4
+[3105] Technologies Required to Build Unit (51):
+  [2980] Xenoimmunology (41)
+  [125] Xenopsychology (60)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Psy Hover Tank
-Nick Name: Holy Kestral
+Name: Shantor Sun Runner
+Nick Name: Sun Runner
 Scores & Strengths:
-  Tech Score: 2735
-  Unit Score: 2734
-  Average Score: 2735
-  Stat Strength: 1891
-  Total Strength: 2734
-  Planet Strength: 2734
-  Space Strength: 2060
-  Garrison Strength: 596
+  Tech Score: 807
+  Unit Score: 806
+  Average Score: 806
+  Stat Strength: 606
+  Total Strength: 806
+  Planet Strength: 806
+  Space Strength: 706
+  Garrison Strength: 195
 Statistics:
-  Movement Type: hover
-  Move Points: 21
+  Movement Type: foot
+  Move Points: 17
   Spot: 8
-  Camouflage: 6
-  Agility: 15
-  Armor: 15
-  Psy Defense: 30
-  Rank: 85
+  Camouflage: 2
+  Agility: 13
+  Armor: 4
+  Psy Defense: 8
+  Rank: 708
 Attacks:
-  Psychic: 13/13
-  Indirect: 13/16
-  Direct: 22/11
-  Close: 16/14
+  Psychic: 10/10
+  Close: 10/10
 Load aboard transport: YES
-Upkeep / Maintenance: 56
-Build Cost: 559
+Clergy - Increases Tithe Skim and Converts Sects
+Can tow units that can be towed
+Upkeep / Maintenance: 66
+Build Cost: 660
 Build Resource Requirements:
-  Food: 4
-  Energy: 9
-  Metal: 7
-  Trace: 9
-  Exotica: 4
-  Chemicals: 15
-  Electronics: 25
-  Ceramsteel: 12
-  Monopols: 27
-  Gems: 35
-Build Psy Hover Tank in Factory
-Time to Build / Upgrade: 4
-[15305] Technologies Required to Build Unit (76):
-  [330] Holy Warriors (82)
-  [14975] Power Hovertanks (70)
+  Food: 18
+  Energy: 32
+  Metal: 5
+  Trace: 7
+  Exotica: 18
+  Chemicals: 34
+  Biochems: 60
+  Electronics: 15
+  Gems: 31
+Build Shantor Sun Runner in Church
+Time to Build / Upgrade: 3
+[3105] Technologies Required to Build Unit (51):
+  [2980] Xenoimmunology (41)
+  [125] Xenopsychology (60)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: 3rd-Republic Hover Tank
-Nick Name: Ravager
+Name: Shantor Darkwalker
+Nick Name: Darkwalker
 Scores & Strengths:
-  Tech Score: 2921
-  Unit Score: 2737
-  Average Score: 2829
-  Stat Strength: 1707
-  Total Strength: 2737
-  Planet Strength: 2737
+  Tech Score: 807
+  Unit Score: 809
+  Average Score: 808
+  Stat Strength: 588
+  Total Strength: 809
+  Planet Strength: 809
   Space Strength: 0
-  Garrison Strength: 536
+  Garrison Strength: 224
 Statistics:
-  Movement Type: hover
-  Move Points: 26
+  Movement Type: foot
+  Move Points: 13
   Spot: 8
-  Camouflage: 7
-  Agility: 14
-  Armor: 19
-  Psy Defense: 19
-  Rank: 95
+  Camouflage: 4
+  Agility: 17
+  Armor: 5
+  Psy Defense: 5
+  Rank: 8
 Attacks:
-  Indirect: 15/21
-  Direct: 28/14
-  Close: 19/17
+  Close: 17/13
 Load aboard transport: YES
-Upkeep / Maintenance: 20
-Build Cost: 195
+Can tow units that can be towed
+Upkeep / Maintenance: 25
+Build Cost: 246
 Build Resource Requirements:
-  Food: 2
-  Energy: 8
+  Food: 15
+  Energy: 41
   Metal: 3
-  Trace: 8
-  Exotica: 2
-  Chemicals: 11
-  Electronics: 19
-  Ceramsteel: 5
-  Monopols: 17
-Build 3rd-Republic Hover Tank in Factory
-Time to Build / Upgrade: 3
-[30105] Technologies Required to Build Unit (69):
-  [15130] Fusion Battle Tanks (68)
-  [14975] Power Hovertanks (70)
+  Trace: 13
+  Exotica: 15
+  Chemicals: 43
+  Biochems: 73
+  Electronics: 29
+Build Shantor Darkwalker in Farm
+Time to Build / Upgrade: 4
+[3105] Technologies Required to Build Unit (51):
+  [2980] Xenoimmunology (41)
+  [125] Xenopsychology (60)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Morph Hover Tank
-Nick Name: Raptor
+Name: Shantor Mercenary
+Nick Name: Shantor Merc
 Scores & Strengths:
-  Tech Score: 5176
-  Unit Score: 5176
-  Average Score: 5176
-  Stat Strength: 3512
-  Total Strength: 5176
-  Planet Strength: 5176
+  Tech Score: 807
+  Unit Score: 809
+  Average Score: 808
+  Stat Strength: 613
+  Total Strength: 809
+  Planet Strength: 809
   Space Strength: 0
-  Garrison Strength: 1035
+  Garrison Strength: 216
 Statistics:
-  Movement Type: hover
-  Move Points: 25
-  Spot: 12
-  Camouflage: 10
-  Agility: 31
-  Armor: 29
-  Psy Defense: 29
-  Rank: 124
+  Movement Type: foot
+  Move Points: 14
+  Spot: 8
+  Camouflage: 5
+  Agility: 16
+  Armor: 6
+  Psy Defense: 6
+  Rank: 8
 Attacks:
-  Indirect: 20/25
-  Direct: 23/24
-  Close: 34/18
+  Close: 14/14
 Load aboard transport: YES
-Upkeep / Maintenance: 44
-Build Cost: 443
+Can tow units that can be towed
+Upkeep / Maintenance: 26
+Build Cost: 255
 Build Resource Requirements:
-  Metal: 1
-  Biochems: 26
-  Ceramsteel: 1
-  Wetware: 13
-Upgrade Power Hover Tank to Morph Hover Tank at Factory
-Time to Build / Upgrade: 1
-[35535] Technology Required to Build Unit (36):
-  [35535] Polymorphonic Land Vehicles (36)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Stealth Hover Tank
-Nick Name: Kestral's Eye
-Scores & Strengths:
-  Tech Score: 5358
-  Unit Score: 5358
-  Average Score: 5358
-  Stat Strength: 4194
-  Total Strength: 5358
-  Planet Strength: 5358
-  Space Strength: 0
-  Garrison Strength: 1117
-Statistics:
-  Movement Type: hover
-  Move Points: 23
-  Spot: 14
-  Camouflage: 26
-  Agility: 35
-  Armor: 28
-  Psy Defense: 28
-  Rank: 123
-Attacks:
-  Indirect: 17/22
-  Direct: 28/16
-  Close: 19/18
-Load aboard transport: YES
-Upkeep / Maintenance: 39
-Build Cost: 390
-Build Resource Requirements:
-  Biochems: 22
-  Wetware: 12
-Upgrade Power Hover Tank to Stealth Hover Tank at Factory
-Time to Build / Upgrade: 1
-[37210] Technology Required to Build Unit (34):
-  [37210] Neumonic Land Vehicles (34)
+  Food: 15
+  Energy: 46
+  Metal: 4
+  Trace: 11
+  Exotica: 16
+  Chemicals: 48
+  Biochems: 76
+  Electronics: 24
+Build Shantor Mercenary in Farm
+Time to Build / Upgrade: 4
+[3105] Technologies Required to Build Unit (51):
+  [2980] Xenoimmunology (41)
+  [125] Xenopsychology (60)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

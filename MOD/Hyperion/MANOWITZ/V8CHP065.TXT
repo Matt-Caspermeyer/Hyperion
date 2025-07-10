@@ -26,8 +26,8 @@ Attacks:
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 11
-Build Cost: 77
+Upkeep / Maintenance: 13
+Build Cost: 62
 Build Resource Requirements:
   Food: 2
   Energy: 1
@@ -44,50 +44,6 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Spy (PE)
-Nick Name: Spy (PE)
-Scores & Strengths:
-  Tech Score: 187
-  Unit Score: 214
-  Average Score: 201
-  Stat Strength: 178
-  Total Strength: 214
-  Planet Strength: 214
-  Space Strength: 0
-  Garrison Strength: 80
-Statistics:
-  Movement Type: foot
-  Move Points: 7
-  Spot: 6
-  Camouflage: 7
-  Agility: 6
-  Armor: 2
-  Psy Defense: 2
-  Rank: 668
-Attacks:
-  Close: 9/4
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 9
-Build Cost: 86
-Build Resource Requirements:
-  Trace: 34
-  Exotica: 11
-  Chemicals: 9
-  Electronics: 26
-Upgrade Peasant to Spy (PE) at Biochem Plant
-Time to Build / Upgrade: 1
-[525] Technologies Required to Build Unit (95):
-  [110] Mechanical & Aerospace Engineering (98)
-  [110] Electrical Engineering (95)
-  [125] Psychoconditioning (97)
-  [180] Performance-Enhanced Soldiers (90)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---3--
 Name: Spy (Psy)
 Nick Name: Spy (Psy)
 Scores & Strengths:
@@ -114,8 +70,8 @@ Attacks:
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 18
-Build Cost: 103
+Upkeep / Maintenance: 23
+Build Cost: 165
 Build Resource Requirements:
   Food: 1
   Energy: 3
@@ -134,18 +90,18 @@ Time to Build / Upgrade: 1
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---4--
-Name: Spy (BE)
-Nick Name: Spy (BE)
+--3--
+Name: Spy (PE)
+Nick Name: Spy (PE)
 Scores & Strengths:
-  Tech Score: 232
-  Unit Score: 299
-  Average Score: 265
+  Tech Score: 187
+  Unit Score: 294
+  Average Score: 241
   Stat Strength: 244
-  Total Strength: 299
-  Planet Strength: 299
+  Total Strength: 294
+  Planet Strength: 294
   Space Strength: 0
-  Garrison Strength: 105
+  Garrison Strength: 103
 Statistics:
   Movement Type: foot
   Move Points: 8
@@ -154,20 +110,67 @@ Statistics:
   Agility: 7
   Armor: 3
   Psy Defense: 3
-  Rank: 669
+  Rank: 668
 Attacks:
-  Close: 11/5
+  Close: 10/5
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 18
-Build Cost: 102
+Upkeep / Maintenance: 15
+Build Cost: 131
 Build Resource Requirements:
   Metal: 3
-  Trace: 5
-  Biochems: 28
-  Electronics: 1
+  Trace: 43
+  Exotica: 15
+  Chemicals: 13
+  Electronics: 33
+Upgrade Peasant to Spy (PE) at Biochem Plant
+Time to Build / Upgrade: 2
+[525] Technologies Required to Build Unit (95):
+  [110] Mechanical & Aerospace Engineering (98)
+  [110] Electrical Engineering (95)
+  [125] Psychoconditioning (97)
+  [180] Performance-Enhanced Soldiers (90)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Spy (BE)
+Nick Name: Spy (BE)
+Scores & Strengths:
+  Tech Score: 232
+  Unit Score: 350
+  Average Score: 291
+  Stat Strength: 278
+  Total Strength: 350
+  Planet Strength: 350
+  Space Strength: 0
+  Garrison Strength: 116
+Statistics:
+  Movement Type: foot
+  Move Points: 9
+  Spot: 7
+  Camouflage: 9
+  Agility: 7
+  Armor: 3
+  Psy Defense: 3
+  Rank: 669
+Attacks:
+  Close: 12/6
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 24
+Build Cost: 174
+Build Resource Requirements:
+  Energy: 2
+  Metal: 3
+  Trace: 13
+  Chemicals: 2
+  Biochems: 33
+  Electronics: 7
 Upgrade Spy to Spy (BE) at Biochem Plant
 Time to Build / Upgrade: 1
 [765] Technologies Required to Build Unit (92):
@@ -183,41 +186,41 @@ Name: Spy (Psy2)
 Nick Name: Spy (Psy2)
 Scores & Strengths:
   Tech Score: 250
-  Unit Score: 317
-  Average Score: 284
-  Stat Strength: 231
-  Total Strength: 317
-  Planet Strength: 317
-  Space Strength: 267
-  Garrison Strength: 119
+  Unit Score: 372
+  Average Score: 311
+  Stat Strength: 257
+  Total Strength: 372
+  Planet Strength: 372
+  Space Strength: 306
+  Garrison Strength: 140
 Statistics:
   Movement Type: foot
   Move Points: 7
   Spot: 7
   Camouflage: 7
-  Agility: 8
+  Agility: 9
   Armor: 2
-  Psy Defense: 4
+  Psy Defense: 5
   Rank: 669
 Attacks:
-  Psychic: 6/6
-  Close: 10/5
+  Psychic: 7/7
+  Close: 11/6
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 36
-Build Cost: 255
+Upkeep / Maintenance: 61
+Build Cost: 449
 Build Resource Requirements:
-  Food: 14
-  Energy: 17
-  Metal: 3
-  Trace: 13
-  Exotica: 15
-  Chemicals: 20
-  Electronics: 34
-  Gems: 7
+  Food: 16
+  Energy: 24
+  Metal: 4
+  Trace: 19
+  Exotica: 17
+  Chemicals: 27
+  Electronics: 42
+  Gems: 10
 Upgrade Spy (Psy) to Spy (Psy2) at Church
-Time to Build / Upgrade: 2
+Time to Build / Upgrade: 3
 [625] Technology Required to Build Unit (60):
   [625] Psychokinetically-Enhanced Soldiers (60)
 Counts as planetary flock: YES
@@ -228,38 +231,40 @@ Name: Spy (SE)
 Nick Name: Spy (SE)
 Scores & Strengths:
   Tech Score: 306
-  Unit Score: 365
-  Average Score: 336
-  Stat Strength: 293
-  Total Strength: 365
-  Planet Strength: 365
+  Unit Score: 458
+  Average Score: 382
+  Stat Strength: 360
+  Total Strength: 458
+  Planet Strength: 458
   Space Strength: 0
-  Garrison Strength: 121
+  Garrison Strength: 144
 Statistics:
   Movement Type: foot
-  Move Points: 9
+  Move Points: 10
   Spot: 8
-  Camouflage: 9
-  Agility: 7
-  Armor: 3
-  Psy Defense: 3
-  Rank: 669
+  Camouflage: 10
+  Agility: 8
+  Armor: 4
+  Psy Defense: 4
+  Rank: 670
 Attacks:
-  Close: 12/6
+  Close: 14/7
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 18
-Build Cost: 103
+Upkeep / Maintenance: 33
+Build Cost: 271
 Build Resource Requirements:
-  Metal: 1
-  Trace: 14
-  Exotica: 1
-  Chemicals: 2
-  Biochems: 33
-  Electronics: 8
+  Food: 2
+  Energy: 3
+  Metal: 4
+  Trace: 26
+  Exotica: 3
+  Chemicals: 6
+  Biochems: 42
+  Electronics: 17
 Upgrade Spy to Spy (SE) at Hospital
-Time to Build / Upgrade: 1
+Time to Build / Upgrade: 2
 [1020] Technologies Required to Build Unit (91):
   [110] Mechanical & Aerospace Engineering (98)
   [110] Electrical Engineering (95)
@@ -273,38 +278,38 @@ Name: Spy (Psy3)
 Nick Name: Spy (Psy3)
 Scores & Strengths:
   Tech Score: 593
-  Unit Score: 648
-  Average Score: 620
-  Stat Strength: 429
-  Total Strength: 648
-  Planet Strength: 648
-  Space Strength: 528
-  Garrison Strength: 204
+  Unit Score: 776
+  Average Score: 684
+  Stat Strength: 524
+  Total Strength: 776
+  Planet Strength: 776
+  Space Strength: 623
+  Garrison Strength: 233
 Statistics:
   Movement Type: foot
-  Move Points: 10
-  Spot: 8
-  Camouflage: 10
-  Agility: 10
+  Move Points: 11
+  Spot: 9
+  Camouflage: 11
+  Agility: 11
   Armor: 4
-  Psy Defense: 7
-  Rank: 672
+  Psy Defense: 8
+  Rank: 673
 Attacks:
   Psychic: 9/11
-  Close: 15/8
+  Close: 17/9
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 44
-Build Cost: 186
+Upkeep / Maintenance: 80
+Build Cost: 355
 Build Resource Requirements:
-  Energy: 8
+  Food: 4
+  Energy: 10
   Metal: 4
-  Trace: 20
-  Exotica: 11
-  Chemicals: 16
-  Electronics: 26
-  Gems: 2
+  Trace: 31
+  Exotica: 17
+  Chemicals: 20
+  Electronics: 41
 Upgrade Spy (Psy2) to Spy (Psy3) at Church
 Time to Build / Upgrade: 1
 [1975] Technology Required to Build Unit (39):
@@ -313,83 +318,40 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Spy (Psy4)
-Nick Name: Spy (Psy4)
-Scores & Strengths:
-  Tech Score: 839
-  Unit Score: 894
-  Average Score: 866
-  Stat Strength: 570
-  Total Strength: 894
-  Planet Strength: 894
-  Space Strength: 714
-  Garrison Strength: 258
-Statistics:
-  Movement Type: foot
-  Move Points: 12
-  Spot: 9
-  Camouflage: 12
-  Agility: 11
-  Armor: 4
-  Psy Defense: 8
-  Rank: 675
-Attacks:
-  Psychic: 12/12
-  Close: 18/10
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 48
-Build Cost: 292
-Build Resource Requirements:
-  Food: 6
-  Energy: 16
-  Trace: 11
-  Exotica: 9
-  Chemicals: 21
-  Electronics: 24
-Upgrade Spy (Psy3) to Spy (Psy4) at Church
-Time to Build / Upgrade: 1
-[3140] Technology Required to Build Unit (38):
-  [3140] Sympathic Soldiers (38)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---9--
 Name: Spy (DE)
 Nick Name: Spy (DE)
 Scores & Strengths:
   Tech Score: 923
-  Unit Score: 972
-  Average Score: 947
-  Stat Strength: 762
-  Total Strength: 972
-  Planet Strength: 972
+  Unit Score: 1103
+  Average Score: 1013
+  Stat Strength: 850
+  Total Strength: 1103
+  Planet Strength: 1103
   Space Strength: 0
-  Garrison Strength: 243
+  Garrison Strength: 267
 Statistics:
   Movement Type: foot
-  Move Points: 16
+  Move Points: 17
   Spot: 10
-  Camouflage: 16
+  Camouflage: 17
   Agility: 10
-  Armor: 5
-  Psy Defense: 5
-  Rank: 675
+  Armor: 6
+  Psy Defense: 6
+  Rank: 676
 Attacks:
-  Close: 21/10
+  Close: 23/11
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 15
-Build Cost: 75
+Upkeep / Maintenance: 30
+Build Cost: 237
 Build Resource Requirements:
-  Metal: 8
-  Chemicals: 3
-  Biochems: 33
-  Electronics: 11
+  Metal: 13
+  Chemicals: 5
+  Biochems: 39
+  Electronics: 16
 Upgrade Spy to Spy (DE) at Biochem Plant
-Time to Build / Upgrade: 1
+Time to Build / Upgrade: 2
 [3785] Technologies Required to Build Unit (89):
   [110] Mechanical & Aerospace Engineering (98)
   [110] Electrical Engineering (95)
@@ -398,21 +360,21 @@ Time to Build / Upgrade: 1
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---10--
-Name: Spy (Psy5)
-Nick Name: Spy (Psy5)
+--9--
+Name: Spy (Psy4)
+Nick Name: Spy (Psy4)
 Scores & Strengths:
-  Tech Score: 936
-  Unit Score: 1065
-  Average Score: 1001
-  Stat Strength: 688
-  Total Strength: 1065
-  Planet Strength: 1065
-  Space Strength: 856
+  Tech Score: 839
+  Unit Score: 1104
+  Average Score: 971
+  Stat Strength: 715
+  Total Strength: 1104
+  Planet Strength: 1104
+  Space Strength: 884
   Garrison Strength: 295
 Statistics:
   Movement Type: foot
-  Move Points: 13
+  Move Points: 14
   Spot: 10
   Camouflage: 13
   Agility: 12
@@ -420,21 +382,64 @@ Statistics:
   Psy Defense: 9
   Rank: 676
 Attacks:
-  Psychic: 12/14
-  Close: 19/11
+  Psychic: 13/13
+  Close: 20/11
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 59
-Build Cost: 294
+Upkeep / Maintenance: 100
+Build Cost: 647
 Build Resource Requirements:
-  Food: 7
-  Energy: 11
-  Metal: 5
-  Trace: 12
-  Exotica: 10
-  Chemicals: 13
-  Electronics: 18
+  Food: 10
+  Energy: 22
+  Metal: 4
+  Trace: 11
+  Exotica: 15
+  Chemicals: 28
+  Electronics: 25
+  Gems: 1
+Upgrade Spy (Psy3) to Spy (Psy4) at Church
+Time to Build / Upgrade: 2
+[3140] Technology Required to Build Unit (38):
+  [3140] Sympathic Soldiers (38)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Spy (Psy5)
+Nick Name: Spy (Psy5)
+Scores & Strengths:
+  Tech Score: 936
+  Unit Score: 1208
+  Average Score: 1072
+  Stat Strength: 761
+  Total Strength: 1208
+  Planet Strength: 1208
+  Space Strength: 956
+  Garrison Strength: 322
+Statistics:
+  Movement Type: foot
+  Move Points: 14
+  Spot: 10
+  Camouflage: 14
+  Agility: 12
+  Armor: 5
+  Psy Defense: 10
+  Rank: 677
+Attacks:
+  Psychic: 13/15
+  Close: 21/12
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 113
+Build Cost: 478
+Build Resource Requirements:
+  Energy: 7
+  Metal: 1
+  Trace: 9
+  Chemicals: 8
+  Electronics: 14
   Gems: 2
 Upgrade Spy (Psy4) to Spy (Psy5) at Church
 Time to Build / Upgrade: 1
@@ -444,73 +449,34 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --11--
-Name: Assassin
-Nick Name: Assassin
-Scores & Strengths:
-  Tech Score: 1446
-  Unit Score: 1262
-  Average Score: 1354
-  Stat Strength: 962
-  Total Strength: 1262
-  Planet Strength: 1262
-  Space Strength: 0
-  Garrison Strength: 297
-Statistics:
-  Movement Type: foot
-  Move Points: 18
-  Spot: 11
-  Camouflage: 18
-  Agility: 11
-  Armor: 6
-  Psy Defense: 6
-  Rank: 680
-Attacks:
-  Close: 25/12
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 12
-Build Cost: 42
-Build Resource Requirements:
-  Biochems: 32
-  Electronics: 14
-  Ceramsteel: 1
-Upgrade Spy to Assassin at Fort
-Time to Build / Upgrade: 1
-[6490] Technology Required to Build Unit (48):
-  [6490] Assassin (48)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---12--
 Name: Spy (Psy6)
 Nick Name: Spy (Psy6)
 Scores & Strengths:
   Tech Score: 1142
-  Unit Score: 1301
-  Average Score: 1221
-  Stat Strength: 854
-  Total Strength: 1301
-  Planet Strength: 1301
-  Space Strength: 1049
-  Garrison Strength: 347
+  Unit Score: 1587
+  Average Score: 1364
+  Stat Strength: 1064
+  Total Strength: 1587
+  Planet Strength: 1587
+  Space Strength: 1288
+  Garrison Strength: 396
 Statistics:
   Movement Type: foot
-  Move Points: 14
-  Spot: 10
-  Camouflage: 17
-  Agility: 12
-  Armor: 5
-  Psy Defense: 10
-  Rank: 678
+  Move Points: 16
+  Spot: 11
+  Camouflage: 19
+  Agility: 13
+  Armor: 6
+  Psy Defense: 11
+  Rank: 680
 Attacks:
-  Psychic: 13/15
-  Close: 21/12
+  Psychic: 14/16
+  Close: 23/13
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 31
-Build Cost: 12
+Upkeep / Maintenance: 66
+Build Cost: 183
 Build Resource Requirements:
 Upgrade Spy (Psy5) to Spy (Psy6) at Church
 Time to Build / Upgrade: 1
@@ -521,34 +487,74 @@ Time to Build / Upgrade: 1
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
+--12--
+Name: Assassin
+Nick Name: Assassin
+Scores & Strengths:
+  Tech Score: 1446
+  Unit Score: 1600
+  Average Score: 1523
+  Stat Strength: 1222
+  Total Strength: 1600
+  Planet Strength: 1600
+  Space Strength: 0
+  Garrison Strength: 349
+Statistics:
+  Movement Type: foot
+  Move Points: 21
+  Spot: 11
+  Camouflage: 21
+  Agility: 11
+  Armor: 7
+  Psy Defense: 7
+  Rank: 681
+Attacks:
+  Close: 27/14
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 30
+Build Cost: 236
+Build Resource Requirements:
+  Energy: 1
+  Chemicals: 3
+  Biochems: 38
+  Electronics: 25
+  Ceramsteel: 2
+Upgrade Spy to Assassin at Fort
+Time to Build / Upgrade: 1
+[6490] Technology Required to Build Unit (48):
+  [6490] Assassin (48)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
 --13--
 Name: Doppleganger
 Nick Name: Doppleganger
 Scores & Strengths:
   Tech Score: 1565
-  Unit Score: 1374
-  Average Score: 1469
-  Stat Strength: 1036
-  Total Strength: 1374
-  Planet Strength: 1374
+  Unit Score: 1614
+  Average Score: 1589
+  Stat Strength: 1222
+  Total Strength: 1614
+  Planet Strength: 1614
   Space Strength: 0
-  Garrison Strength: 315
+  Garrison Strength: 352
 Statistics:
   Movement Type: foot
-  Move Points: 19
+  Move Points: 21
   Spot: 11
-  Camouflage: 19
+  Camouflage: 21
   Agility: 11
-  Armor: 6
-  Psy Defense: 6
-  Rank: 681
+  Armor: 7
+  Psy Defense: 7
+  Rank: 682
 Attacks:
-  Close: 26/13
+  Close: 28/14
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 9
-Build Cost: 49
+Upkeep / Maintenance: 22
 Build Resource Requirements:
 Upgrade Assassin to Doppleganger at Fort
 Time to Build / Upgrade: 1
@@ -559,86 +565,40 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --14--
-Name: Spy (GE)
-Nick Name: Spy (GE)
-Scores & Strengths:
-  Tech Score: 1388
-  Unit Score: 1374
-  Average Score: 1381
-  Stat Strength: 1036
-  Total Strength: 1374
-  Planet Strength: 1374
-  Space Strength: 0
-  Garrison Strength: 315
-Statistics:
-  Movement Type: foot
-  Move Points: 19
-  Spot: 11
-  Camouflage: 19
-  Agility: 11
-  Armor: 6
-  Psy Defense: 6
-  Rank: 680
-Attacks:
-  Close: 26/13
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 17
-Build Cost: 93
-Build Resource Requirements:
-  Energy: 1
-  Trace: 1
-  Chemicals: 3
-  Biochems: 10
-  Electronics: 5
-  Ceramsteel: 2
-Upgrade Spy (DE) to Spy (GE) at Lab
-Time to Build / Upgrade: 1
-[6365] Technologies Required to Build Unit (85):
-  [110] Mechanical & Aerospace Engineering (98)
-  [110] Electrical Engineering (95)
-  [125] Psychoconditioning (97)
-  [6020] Chemical Shock Legion (49)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---15--
 Name: Spy (PA)
 Nick Name: Spy (PA)
 Scores & Strengths:
   Tech Score: 1414
-  Unit Score: 1400
-  Average Score: 1407
-  Stat Strength: 1062
-  Total Strength: 1400
-  Planet Strength: 1400
+  Unit Score: 1628
+  Average Score: 1521
+  Stat Strength: 1222
+  Total Strength: 1628
+  Planet Strength: 1628
   Space Strength: 0
-  Garrison Strength: 321
+  Garrison Strength: 355
 Statistics:
   Movement Type: foot
-  Move Points: 19
+  Move Points: 21
   Spot: 11
-  Camouflage: 19
+  Camouflage: 21
   Agility: 11
   Armor: 7
   Psy Defense: 7
-  Rank: 680
+  Rank: 681
 Attacks:
-  Close: 26/13
+  Close: 29/14
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 21
-Build Cost: 104
+Upkeep / Maintenance: 47
+Build Cost: 196
 Build Resource Requirements:
-  Food: 2
-  Energy: 10
-  Metal: 2
-  Exotica: 2
-  Chemicals: 20
-  Biochems: 4
-  Electronics: 18
+  Food: 3
+  Energy: 11
+  Exotica: 3
+  Chemicals: 21
+  Biochems: 2
+  Electronics: 20
   Ceramsteel: 8
 Upgrade Spy (SE) to Spy (PA) at Hospital
 Time to Build / Upgrade: 1
@@ -650,42 +610,88 @@ Time to Build / Upgrade: 1
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
+--15--
+Name: Spy (GE)
+Nick Name: Spy (GE)
+Scores & Strengths:
+  Tech Score: 1388
+  Unit Score: 1628
+  Average Score: 1508
+  Stat Strength: 1222
+  Total Strength: 1628
+  Planet Strength: 1628
+  Space Strength: 0
+  Garrison Strength: 355
+Statistics:
+  Movement Type: foot
+  Move Points: 21
+  Spot: 11
+  Camouflage: 21
+  Agility: 11
+  Armor: 7
+  Psy Defense: 7
+  Rank: 681
+Attacks:
+  Close: 29/14
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 39
+Build Cost: 149
+Build Resource Requirements:
+  Energy: 2
+  Trace: 3
+  Exotica: 1
+  Chemicals: 4
+  Biochems: 13
+  Electronics: 9
+  Ceramsteel: 2
+Upgrade Spy (DE) to Spy (GE) at Lab
+Time to Build / Upgrade: 1
+[6365] Technologies Required to Build Unit (85):
+  [110] Mechanical & Aerospace Engineering (98)
+  [110] Electrical Engineering (95)
+  [125] Psychoconditioning (97)
+  [6020] Chemical Shock Legion (49)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
 --16--
 Name: Spy (Psy7)
 Nick Name: Spy (Psy7)
 Scores & Strengths:
   Tech Score: 1357
-  Unit Score: 1539
-  Average Score: 1448
-  Stat Strength: 1016
-  Total Strength: 1539
-  Planet Strength: 1539
-  Space Strength: 1240
-  Garrison Strength: 384
+  Unit Score: 1828
+  Average Score: 1593
+  Stat Strength: 1209
+  Total Strength: 1828
+  Planet Strength: 1828
+  Space Strength: 1464
+  Garrison Strength: 443
 Statistics:
   Movement Type: foot
-  Move Points: 16
-  Spot: 11
-  Camouflage: 18
-  Agility: 13
-  Armor: 5
-  Psy Defense: 11
-  Rank: 680
+  Move Points: 17
+  Spot: 12
+  Camouflage: 20
+  Agility: 14
+  Armor: 6
+  Psy Defense: 12
+  Rank: 682
 Attacks:
-  Psychic: 14/16
-  Close: 23/13
+  Psychic: 15/17
+  Close: 26/14
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 35
-Build Cost: 338
+Upkeep / Maintenance: 77
+Build Cost: 587
 Build Resource Requirements:
-  Food: 5
-  Energy: 7
-  Trace: 9
-  Exotica: 7
-  Chemicals: 9
-  Electronics: 12
+  Food: 4
+  Energy: 6
+  Trace: 12
+  Exotica: 5
+  Chemicals: 8
+  Electronics: 17
 Upgrade Spy (Psy6) to Spy (Psy7) at Church
 Time to Build / Upgrade: 1
 [12245] Technologies Required to Build Unit (35):
@@ -700,35 +706,37 @@ Name: Spy (CE)
 Nick Name: Spy (CE)
 Scores & Strengths:
   Tech Score: 1788
-  Unit Score: 1766
-  Average Score: 1777
-  Stat Strength: 1331
-  Total Strength: 1766
-  Planet Strength: 1766
+  Unit Score: 2080
+  Average Score: 1934
+  Stat Strength: 1568
+  Total Strength: 2080
+  Planet Strength: 2080
   Space Strength: 0
-  Garrison Strength: 376
+  Garrison Strength: 424
 Statistics:
   Movement Type: foot
-  Move Points: 22
+  Move Points: 24
   Spot: 12
-  Camouflage: 22
-  Agility: 11
-  Armor: 7
-  Psy Defense: 7
-  Rank: 684
+  Camouflage: 24
+  Agility: 12
+  Armor: 8
+  Psy Defense: 8
+  Rank: 685
 Attacks:
-  Close: 29/15
+  Close: 32/16
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 21
-Build Cost: 110
+Upkeep / Maintenance: 52
+Build Cost: 325
 Build Resource Requirements:
   Food: 3
-  Energy: 6
+  Energy: 7
+  Metal: 2
   Exotica: 3
-  Chemicals: 9
+  Chemicals: 11
   Biochems: 1
+  Ceramsteel: 2
 Upgrade Spy (PA) to Spy (CE) at Lab
 Time to Build / Upgrade: 1
 [8945] Technologies Required to Build Unit (85):
@@ -744,34 +752,35 @@ Name: Spy (AVE)
 Nick Name: Spy (AVE)
 Scores & Strengths:
   Tech Score: 1852
-  Unit Score: 1804
-  Average Score: 1828
-  Stat Strength: 1354
-  Total Strength: 1804
-  Planet Strength: 1804
+  Unit Score: 2194
+  Average Score: 2023
+  Stat Strength: 1666
+  Total Strength: 2194
+  Planet Strength: 2194
   Space Strength: 0
-  Garrison Strength: 384
+  Garrison Strength: 438
 Statistics:
   Movement Type: foot
-  Move Points: 22
+  Move Points: 25
   Spot: 12
-  Camouflage: 22
+  Camouflage: 25
   Agility: 12
-  Armor: 7
-  Psy Defense: 7
-  Rank: 684
+  Armor: 8
+  Psy Defense: 8
+  Rank: 686
 Attacks:
-  Close: 30/15
+  Close: 33/16
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 18
-Build Cost: 88
+Upkeep / Maintenance: 46
+Build Cost: 313
 Build Resource Requirements:
   Energy: 2
-  Chemicals: 2
-  Biochems: 5
-  Electronics: 3
+  Trace: 1
+  Chemicals: 3
+  Biochems: 6
+  Electronics: 6
 Upgrade Spy (GE) to Spy (AVE) at Lab
 Time to Build / Upgrade: 1
 [9245] Technologies Required to Build Unit (79):
@@ -787,33 +796,34 @@ Name: Spy (Psy8)
 Nick Name: Spy (Psy8)
 Scores & Strengths:
   Tech Score: 1949
-  Unit Score: 2352
-  Average Score: 2150
-  Stat Strength: 1547
-  Total Strength: 2352
-  Planet Strength: 2352
-  Space Strength: 1947
-  Garrison Strength: 539
+  Unit Score: 2869
+  Average Score: 2409
+  Stat Strength: 1858
+  Total Strength: 2869
+  Planet Strength: 2869
+  Space Strength: 2342
+  Garrison Strength: 626
 Statistics:
   Movement Type: foot
-  Move Points: 19
-  Spot: 13
-  Camouflage: 24
-  Agility: 14
-  Armor: 7
-  Psy Defense: 14
-  Rank: 688
+  Move Points: 21
+  Spot: 14
+  Camouflage: 26
+  Agility: 15
+  Armor: 8
+  Psy Defense: 16
+  Rank: 690
 Attacks:
-  Psychic: 20/20
-  Close: 27/15
+  Psychic: 22/22
+  Close: 31/17
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 31
+Upkeep / Maintenance: 79
+Build Cost: 198
 Build Resource Requirements:
-  Energy: 1
+  Energy: 5
   Metal: 4
-  Chemicals: 1
+  Chemicals: 6
   Gems: 1
 Upgrade Spy (Psy7) to Spy (Psy8) at Church
 Time to Build / Upgrade: 1
@@ -830,35 +840,35 @@ Name: Spy (MF)
 Nick Name: Spy (MF)
 Scores & Strengths:
   Tech Score: 3184
-  Unit Score: 2961
-  Average Score: 3073
-  Stat Strength: 2220
-  Total Strength: 2961
-  Planet Strength: 2961
+  Unit Score: 3585
+  Average Score: 3385
+  Stat Strength: 2682
+  Total Strength: 3585
+  Planet Strength: 3585
   Space Strength: 0
-  Garrison Strength: 549
+  Garrison Strength: 633
 Statistics:
   Movement Type: foot
-  Move Points: 29
-  Spot: 13
-  Camouflage: 29
-  Agility: 13
-  Armor: 10
-  Psy Defense: 10
-  Rank: 697
+  Move Points: 32
+  Spot: 14
+  Camouflage: 32
+  Agility: 14
+  Armor: 11
+  Psy Defense: 11
+  Rank: 700
 Attacks:
-  Close: 39/19
+  Close: 43/21
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 96
-Build Cost: 852
+Upkeep / Maintenance: 300
+Build Cost: 2670
 Build Resource Requirements:
-  Biochems: 2
-  Wetware: 14
-  Monopols: 25
+  Biochems: 4
+  Wetware: 17
+  Monopols: 31
 Upgrade Spy (CE) to Spy (MF) at Wetware
-Time to Build / Upgrade: 2
+Time to Build / Upgrade: 3
 [18920] Technologies Required to Build Unit (81):
   [110] Mechanical & Aerospace Engineering (98)
   [110] Electrical Engineering (95)
@@ -872,34 +882,34 @@ Name: Spy (NE)
 Nick Name: Spy (NE)
 Scores & Strengths:
   Tech Score: 3874
-  Unit Score: 3829
-  Average Score: 3851
-  Stat Strength: 2883
-  Total Strength: 3829
-  Planet Strength: 3829
+  Unit Score: 4636
+  Average Score: 4255
+  Stat Strength: 3484
+  Total Strength: 4636
+  Planet Strength: 4636
   Space Strength: 0
-  Garrison Strength: 676
+  Garrison Strength: 783
 Statistics:
   Movement Type: foot
-  Move Points: 32
-  Spot: 14
-  Camouflage: 35
-  Agility: 14
-  Armor: 11
-  Psy Defense: 11
-  Rank: 705
+  Move Points: 35
+  Spot: 15
+  Camouflage: 39
+  Agility: 15
+  Armor: 12
+  Psy Defense: 12
+  Rank: 709
 Attacks:
-  Close: 43/22
+  Close: 48/24
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 87
-Build Cost: 781
+Upkeep / Maintenance: 296
+Build Cost: 2643
 Build Resource Requirements:
-  Wetware: 16
-  Monopols: 18
+  Wetware: 20
+  Monopols: 22
 Upgrade Spy (AVE) to Spy (NE) at Factory
-Time to Build / Upgrade: 2
+Time to Build / Upgrade: 3
 [24255] Technologies Required to Build Unit (65):
   [125] Psychoconditioning (97)
   [24130] Neumonically-Enhanced Soldiers (32)

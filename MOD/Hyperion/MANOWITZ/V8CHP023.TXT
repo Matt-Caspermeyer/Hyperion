@@ -25,8 +25,8 @@ Attacks:
   Indirect: 1/4
   Close: 6/2
 Load aboard transport: YES
-Upkeep / Maintenance: 1
-Build Cost: 6
+Upkeep / Maintenance: 3
+Build Cost: 12
 Build Resource Requirements:
   Metal: 3
   Trace: 18
@@ -67,8 +67,8 @@ Attacks:
   Close: 8/2
 Load aboard transport: YES
 May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 2
-Build Cost: 16
+Upkeep / Maintenance: 4
+Build Cost: 24
 Build Resource Requirements:
   Metal: 12
   Trace: 30
@@ -109,8 +109,8 @@ Attacks:
   Close: 9/3
 Load aboard transport: YES
 May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 4
-Build Cost: 33
+Upkeep / Maintenance: 7
+Build Cost: 57
 Build Resource Requirements:
   Food: 1
   Energy: 3
@@ -153,8 +153,8 @@ Attacks:
   Indirect: 2/7
   Close: 11/4
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 40
+Upkeep / Maintenance: 10
+Build Cost: 88
 Build Resource Requirements:
   Food: 2
   Energy: 5
@@ -197,8 +197,8 @@ Attacks:
   Indirect: 3/13
   Close: 20/6
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 26
+Upkeep / Maintenance: 9
+Build Cost: 77
 Build Resource Requirements:
   Metal: 43
   Biochems: 23
@@ -237,8 +237,8 @@ Attacks:
   Indirect: 4/16
   Close: 25/8
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 2
+Upkeep / Maintenance: 13
+Build Cost: 41
 Build Resource Requirements:
   Energy: 3
   Chemicals: 7
@@ -278,8 +278,8 @@ Attacks:
   Indirect: 4/16
   Close: 25/8
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 7
+Upkeep / Maintenance: 10
+Build Cost: 24
 Build Resource Requirements:
   Energy: 2
   Chemicals: 2
@@ -320,8 +320,8 @@ Attacks:
   Indirect: 5/19
   Close: 28/9
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 41
+Upkeep / Maintenance: 14
+Build Cost: 95
 Build Resource Requirements:
   Energy: 5
   Metal: 3
@@ -361,8 +361,8 @@ Attacks:
   Indirect: 5/19
   Close: 29/9
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 27
+Upkeep / Maintenance: 11
+Build Cost: 86
 Build Resource Requirements:
   Energy: 2
   Chemicals: 1
@@ -401,8 +401,8 @@ Attacks:
   Indirect: 4/17
   Close: 26/9
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 37
+Upkeep / Maintenance: 11
+Build Cost: 99
 Build Resource Requirements:
   Food: 2
   Energy: 13
@@ -424,13 +424,13 @@ Name: Grenadier (MF)
 Nick Name: Gren (MF)
 Scores & Strengths:
   Tech Score: 3182
-  Unit Score: 1726
-  Average Score: 2454
-  Stat Strength: 1132
-  Total Strength: 1726
-  Planet Strength: 1726
+  Unit Score: 1701
+  Average Score: 2442
+  Stat Strength: 1107
+  Total Strength: 1701
+  Planet Strength: 1701
   Space Strength: 0
-  Garrison Strength: 498
+  Garrison Strength: 491
 Statistics:
   Movement Type: foot
   Move Points: 12
@@ -438,14 +438,14 @@ Statistics:
   Camouflage: 12
   Agility: 17
   Armor: 19
-  Psy Defense: 13
-  Rank: 106
+  Psy Defense: 12
+  Rank: 105
 Attacks:
   Indirect: 6/25
   Close: 37/12
 Load aboard transport: YES
-Upkeep / Maintenance: 20
-Build Cost: 154
+Upkeep / Maintenance: 71
+Build Cost: 610
 Build Resource Requirements:
   Biochems: 7
   Wetware: 13
@@ -464,13 +464,13 @@ Name: Grenadier (NE)
 Nick Name: Gren (NE)
 Scores & Strengths:
   Tech Score: 3872
-  Unit Score: 2290
-  Average Score: 3081
+  Unit Score: 2276
+  Average Score: 3074
   Stat Strength: 1506
-  Total Strength: 2290
-  Planet Strength: 2290
+  Total Strength: 2276
+  Planet Strength: 2276
   Space Strength: 0
-  Garrison Strength: 612
+  Garrison Strength: 608
 Statistics:
   Movement Type: foot
   Move Points: 14
@@ -482,12 +482,12 @@ Statistics:
   Rank: 116
 Attacks:
   Indirect: 7/28
-  Close: 42/14
+  Close: 41/14
 Load aboard transport: YES
-Upkeep / Maintenance: 18
-Build Cost: 157
+Upkeep / Maintenance: 68
+Build Cost: 596
 Build Resource Requirements:
-  Wetware: 15
+  Wetware: 14
   Monopols: 10
 Upgrade Grenadier (AVE) to Grenadier (NE) at Fusorium
 Time to Build / Upgrade: 1

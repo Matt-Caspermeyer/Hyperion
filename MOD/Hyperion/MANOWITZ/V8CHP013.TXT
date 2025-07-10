@@ -5,9 +5,9 @@ Name: Small Floating Barge
 Nick Name: SS Barge
 Scores & Strengths:
   Tech Score: 86
-  Unit Score: 76
-  Average Score: 81
-  Stat Strength: 76
+  Unit Score: 73
+  Average Score: 79
+  Stat Strength: 73
   Total Strength: 0
   Planet Strength: 0
   Space Strength: 0
@@ -16,7 +16,7 @@ Statistics:
   Movement Type: naval
   Move Points: 0
   Spot: 0
-  Camouflage: 2
+  Camouflage: 1
   Agility: 0
   Armor: 6
   Psy Defense: 6
@@ -26,13 +26,13 @@ Does not participate in combat
 Can be towed
 Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 2
-Build Cost: 20
+Upkeep / Maintenance: 3
+Build Cost: 26
 Build Resource Requirements:
   Food: 2
   Energy: 2
   Metal: 53
-  Trace: 10
+  Trace: 7
   Exotica: 1
   Chemicals: 2
 Build Small Floating Barge in Well
@@ -47,9 +47,9 @@ Name: Medium Floating Barge
 Nick Name: MM Barge
 Scores & Strengths:
   Tech Score: 98
-  Unit Score: 102
-  Average Score: 100
-  Stat Strength: 102
+  Unit Score: 73
+  Average Score: 86
+  Stat Strength: 73
   Total Strength: 0
   Planet Strength: 0
   Space Strength: 0
@@ -58,10 +58,10 @@ Statistics:
   Movement Type: naval
   Move Points: 0
   Spot: 0
-  Camouflage: 2
+  Camouflage: 1
   Agility: 0
-  Armor: 7
-  Psy Defense: 7
+  Armor: 6
+  Psy Defense: 6
   Rank: 571
 Cargo Space: 2
 Does not participate in combat
@@ -69,12 +69,12 @@ Can be towed
 Never Rebels
 Immune to Plague
 Upkeep / Maintenance: 2
-Build Cost: 18
+Build Cost: 16
 Build Resource Requirements:
   Food: 1
   Energy: 1
-  Metal: 48
-  Trace: 5
+  Metal: 35
+  Trace: 3
   Chemicals: 1
 Build Medium Floating Barge in Well
 Time to Build / Upgrade: 1
@@ -111,7 +111,7 @@ Amphibious loading / unloading of cargo
 Can be towed
 Never Rebels
 Immune to Plague
-Build Cost: 3
+Build Cost: 2
 Build Resource Requirements:
   Metal: 14
 Build Small Amphibious Trailer in Factory
@@ -125,9 +125,45 @@ Name: Medium Amphibious Trailer
 Nick Name: MA Trailer
 Scores & Strengths:
   Tech Score: 781
-  Unit Score: 297
-  Average Score: 539
-  Stat Strength: 297
+  Unit Score: 166
+  Average Score: 474
+  Stat Strength: 166
+  Total Strength: 0
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: craft
+  Move Points: 0
+  Spot: 0
+  Camouflage: 2
+  Agility: 0
+  Armor: 9
+  Psy Defense: 9
+  Rank: 550
+Cargo Space: 2
+Does not participate in combat
+Amphibious loading / unloading of cargo
+Can be towed
+Never Rebels
+Immune to Plague
+Build Cost: 2
+Build Resource Requirements:
+  Metal: 13
+Build Medium Amphibious Trailer in Factory
+Time to Build / Upgrade: 1
+[2855] Technology Required to Build Unit (87):
+  [2855] Naval Amphibious Ships (87)
+Unit can be disbanded: YES
+
+--5--
+Name: Long Amphibious Trailer
+Nick Name: LA Trailer
+Scores & Strengths:
+  Tech Score: 1570
+  Unit Score: 347
+  Average Score: 958
+  Stat Strength: 347
   Total Strength: 0
   Planet Strength: 0
   Space Strength: 0
@@ -138,10 +174,10 @@ Statistics:
   Spot: 0
   Camouflage: 3
   Agility: 0
-  Armor: 12
-  Psy Defense: 12
-  Rank: 550
-Cargo Space: 2
+  Armor: 13
+  Psy Defense: 13
+  Rank: 565
+Cargo Space: 3
 Does not participate in combat
 Amphibious loading / unloading of cargo
 Can be towed
@@ -150,22 +186,24 @@ Immune to Plague
 Upkeep / Maintenance: 1
 Build Cost: 6
 Build Resource Requirements:
-  Metal: 23
-  Trace: 1
-Build Medium Amphibious Trailer in Factory
+  Metal: 8
+  Chemicals: 2
+  Ceramsteel: 8
+Build Long Amphibious Trailer in Factory
 Time to Build / Upgrade: 1
-[2855] Technology Required to Build Unit (87):
+[9510] Technologies Required to Build Unit (85):
   [2855] Naval Amphibious Ships (87)
+  [6655] PTS Missile Navalcraft (83)
 Unit can be disbanded: YES
 
---5--
+--6--
 Name: Long Floating Barge
 Nick Name: LF Barge
 Scores & Strengths:
   Tech Score: 454
-  Unit Score: 417
-  Average Score: 436
-  Stat Strength: 417
+  Unit Score: 396
+  Average Score: 425
+  Stat Strength: 396
   Total Strength: 0
   Planet Strength: 0
   Space Strength: 0
@@ -174,7 +212,7 @@ Statistics:
   Movement Type: naval
   Move Points: 0
   Spot: 0
-  Camouflage: 5
+  Camouflage: 2
   Agility: 0
   Armor: 14
   Psy Defense: 14
@@ -184,13 +222,12 @@ Does not participate in combat
 Can be towed
 Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 2
-Build Cost: 23
+Upkeep / Maintenance: 3
+Build Cost: 29
 Build Resource Requirements:
   Metal: 44
-  Trace: 2
+  Trace: 1
   Chemicals: 12
-  Electronics: 2
 Build Long Floating Barge in Well
 Time to Build / Upgrade: 1
 [1870] Technologies Required to Build Unit (93):
@@ -200,54 +237,14 @@ Time to Build / Upgrade: 1
   [1195] Naval Warfare (90)
 Unit can be disbanded: YES
 
---6--
-Name: Long Amphibious Trailer
-Nick Name: LA Trailer
-Scores & Strengths:
-  Tech Score: 1570
-  Unit Score: 594
-  Average Score: 1082
-  Stat Strength: 594
-  Total Strength: 0
-  Planet Strength: 0
-  Space Strength: 0
-  Garrison Strength: 0
-Statistics:
-  Movement Type: craft
-  Move Points: 0
-  Spot: 0
-  Camouflage: 4
-  Agility: 0
-  Armor: 17
-  Psy Defense: 17
-  Rank: 566
-Cargo Space: 3
-Does not participate in combat
-Amphibious loading / unloading of cargo
-Can be towed
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 1
-Build Cost: 14
-Build Resource Requirements:
-  Metal: 13
-  Chemicals: 3
-  Ceramsteel: 13
-Build Long Amphibious Trailer in Factory
-Time to Build / Upgrade: 1
-[9510] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [6655] PTS Missile Navalcraft (83)
-Unit can be disbanded: YES
-
 --7--
 Name: Stretch Floating Barge
 Nick Name: SF Barge
 Scores & Strengths:
   Tech Score: 951
-  Unit Score: 931
-  Average Score: 941
-  Stat Strength: 931
+  Unit Score: 809
+  Average Score: 880
+  Stat Strength: 809
   Total Strength: 0
   Planet Strength: 0
   Space Strength: 0
@@ -256,26 +253,26 @@ Statistics:
   Movement Type: naval
   Move Points: 0
   Spot: 0
-  Camouflage: 7
+  Camouflage: 3
   Agility: 0
-  Armor: 21
-  Psy Defense: 21
+  Armor: 20
+  Psy Defense: 20
   Rank: 599
 Cargo Space: 4
 Does not participate in combat
 Can be towed
 Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 6
-Build Cost: 63
+Upkeep / Maintenance: 8
+Build Cost: 79
 Build Resource Requirements:
-  Metal: 44
-  Trace: 3
-  Chemicals: 11
-  Electronics: 2
-  Ceramsteel: 39
+  Metal: 40
+  Trace: 1
+  Chemicals: 10
+  Electronics: 1
+  Ceramsteel: 35
 Build Stretch Floating Barge in Well
-Time to Build / Upgrade: 3
+Time to Build / Upgrade: 2
 [4415] Technologies Required to Build Unit (86):
   [1690] Ceramsteel (84)
   [2725] Naval Capital Ships (88)
@@ -286,9 +283,9 @@ Name: Stretch Amphibious Trailer
 Nick Name: SSA Trailer
 Scores & Strengths:
   Tech Score: 4371
-  Unit Score: 1617
-  Average Score: 2994
-  Stat Strength: 1617
+  Unit Score: 993
+  Average Score: 2682
+  Stat Strength: 993
   Total Strength: 0
   Planet Strength: 0
   Space Strength: 0
@@ -297,25 +294,25 @@ Statistics:
   Movement Type: craft
   Move Points: 0
   Spot: 0
-  Camouflage: 7
+  Camouflage: 5
   Agility: 0
-  Armor: 28
-  Psy Defense: 28
-  Rank: 595
+  Armor: 22
+  Psy Defense: 22
+  Rank: 592
 Cargo Space: 4
 Does not participate in combat
 Amphibious loading / unloading of cargo
 Can be towed
 Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 16
-Build Cost: 156
+Upkeep / Maintenance: 7
+Build Cost: 74
 Build Resource Requirements:
-  Metal: 7
-  Chemicals: 3
-  Electronics: 4
-  Ceramsteel: 10
-  Monopols: 10
+  Metal: 4
+  Chemicals: 2
+  Electronics: 2
+  Ceramsteel: 6
+  Monopols: 6
 Build Stretch Amphibious Trailer in Factory
 Time to Build / Upgrade: 1
 [30730] Technologies Required to Build Unit (81):

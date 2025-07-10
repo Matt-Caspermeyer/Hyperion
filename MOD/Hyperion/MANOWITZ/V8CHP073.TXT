@@ -26,8 +26,8 @@ Attacks:
   Indirect: 11/7
   Direct: 7/6
 Load aboard transport: YES
-Upkeep / Maintenance: 2
-Build Cost: 14
+Upkeep / Maintenance: 5
+Build Cost: 29
 Build Resource Requirements:
   Metal: 7
   Trace: 28
@@ -70,8 +70,8 @@ Attacks:
   Direct: 9/7
 Load aboard transport: YES
 May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 5
-Build Cost: 37
+Upkeep / Maintenance: 9
+Build Cost: 57
 Build Resource Requirements:
   Energy: 1
   Metal: 3
@@ -114,8 +114,8 @@ Attacks:
   Indirect: 14/9
   Direct: 9/8
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 35
+Upkeep / Maintenance: 10
+Build Cost: 69
 Build Resource Requirements:
   Food: 1
   Energy: 3
@@ -160,8 +160,8 @@ Attacks:
   Indirect: 23/14
   Direct: 15/12
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 34
+Upkeep / Maintenance: 12
+Build Cost: 88
 Build Resource Requirements:
   Metal: 18
   Biochems: 35
@@ -202,8 +202,8 @@ Attacks:
   Indirect: 28/17
   Direct: 18/15
 Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 31
+Upkeep / Maintenance: 17
+Build Cost: 79
 Build Resource Requirements:
   Energy: 4
   Chemicals: 7
@@ -246,8 +246,8 @@ Attacks:
   Indirect: 28/18
   Direct: 18/15
 Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 43
+Upkeep / Maintenance: 20
+Build Cost: 132
 Build Resource Requirements:
   Energy: 12
   Metal: 3
@@ -270,13 +270,13 @@ Name: Heavy Infantry Legion (CE)
 Nick Name: Hvy Inf (CE)
 Scores & Strengths:
   Tech Score: 1820
-  Unit Score: 1940
-  Average Score: 1880
+  Unit Score: 1908
+  Average Score: 1864
   Stat Strength: 576
-  Total Strength: 1940
-  Planet Strength: 1940
+  Total Strength: 1908
+  Planet Strength: 1908
   Space Strength: 0
-  Garrison Strength: 646
+  Garrison Strength: 636
 Statistics:
   Movement Type: foot
   Move Points: 9
@@ -287,17 +287,17 @@ Statistics:
   Psy Defense: 9
   Rank: 81
 Attacks:
-  Air: 32/12
+  Air: 32/11
   Indirect: 32/20
   Direct: 20/17
 Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 40
+Upkeep / Maintenance: 22
+Build Cost: 92
 Build Resource Requirements:
   Food: 1
-  Energy: 7
+  Energy: 6
   Metal: 4
-  Chemicals: 8
+  Chemicals: 7
   Ceramsteel: 5
 Upgrade Heavy Infantry Legion (PA) to Heavy Infantry Legion (CE) at Lab
 Time to Build / Upgrade: 1
@@ -335,8 +335,8 @@ Attacks:
   Indirect: 33/20
   Direct: 21/17
 Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 41
+Upkeep / Maintenance: 20
+Build Cost: 121
 Build Resource Requirements:
   Energy: 4
   Chemicals: 3
@@ -357,20 +357,20 @@ Name: Heavy Infantry Legion (ME)
 Nick Name: Hvy Inf (ME)
 Scores & Strengths:
   Tech Score: 1401
-  Unit Score: 2081
-  Average Score: 1741
-  Stat Strength: 907
-  Total Strength: 2081
-  Planet Strength: 2081
+  Unit Score: 2054
+  Average Score: 1727
+  Stat Strength: 880
+  Total Strength: 2054
+  Planet Strength: 2054
   Space Strength: 0
-  Garrison Strength: 490
+  Garrison Strength: 484
 Statistics:
   Movement Type: foot
   Move Points: 18
   Spot: 3
   Camouflage: 5
   Agility: 17
-  Armor: 14
+  Armor: 13
   Psy Defense: 8
   Rank: 77
 Attacks:
@@ -378,16 +378,16 @@ Attacks:
   Indirect: 29/19
   Direct: 19/16
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 46
+Upkeep / Maintenance: 14
+Build Cost: 114
 Build Resource Requirements:
   Food: 5
   Energy: 16
   Trace: 5
   Exotica: 5
-  Chemicals: 24
+  Chemicals: 23
   Electronics: 35
-  Ceramsteel: 8
+  Ceramsteel: 7
 Upgrade Heavy Infantry Legion to Heavy Infantry Legion (ME) at Factory
 Time to Build / Upgrade: 2
 [7150] Technologies Required to Build Unit (89):
@@ -424,11 +424,11 @@ Attacks:
   Indirect: 42/26
   Direct: 26/23
 Load aboard transport: YES
-Upkeep / Maintenance: 49
-Build Cost: 449
+Upkeep / Maintenance: 164
+Build Cost: 1545
 Build Resource Requirements:
-  Energy: 5
-  Biochems: 9
+  Energy: 6
+  Biochems: 10
   Wetware: 20
   Monopols: 33
 Upgrade Heavy Infantry Legion (CE) to Heavy Infantry Legion (MF) at Wetware
@@ -467,8 +467,8 @@ Attacks:
   Indirect: 47/30
   Direct: 30/25
 Load aboard transport: YES
-Upkeep / Maintenance: 40
-Build Cost: 360
+Upkeep / Maintenance: 145
+Build Cost: 1333
 Build Resource Requirements:
   Wetware: 24
   Monopols: 17

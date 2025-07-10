@@ -1,4 +1,4 @@
-All units of the unit class Space Raider are listed herein (6 in total):
+All units of the unit class Space Raider are listed herein (8 in total):
 
 --1--
 Name: Space Raider
@@ -28,8 +28,8 @@ Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 Immune to Plague
-Upkeep / Maintenance: 30
-Build Cost: 298
+Upkeep / Maintenance: 34
+Build Cost: 341
 Build Resource Requirements:
   Food: 10
   Energy: 2
@@ -47,6 +47,54 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
+Name: Jump Raider
+Nick Name: JJ-FRaider
+Scores & Strengths:
+  Tech Score: 425
+  Unit Score: 410
+  Average Score: 418
+  Stat Strength: 368
+  Total Strength: 410
+  Planet Strength: 0
+  Space Strength: 410
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 1
+  Spot: 11
+  Camouflage: 12
+  Agility: 2
+  Armor: 7
+  Psy Defense: 7
+  Rank: 835
+Attacks:
+  Ranged Space: 2/13
+  Closed Space: 4/4
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 156
+Build Cost: 1563
+Build Resource Requirements:
+  Food: 11
+  Energy: 2
+  Metal: 24
+  Trace: 41
+  Exotica: 11
+  Chemicals: 37
+  Electronics: 32
+  Gems: 1
+S  ingularities: 1
+Build Jump Raider in Starport
+Time to Build / Upgrade: 3
+[1380] Technologies Required to Build Unit (87):
+  [145] Composite Armor (97)
+  [1235] Jump Rocketry (76)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
 Name: Space Scout
 Nick Name: Space Scout
 Scores & Strengths:
@@ -71,8 +119,8 @@ Attacks:
   Closed Space: 5/2
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 19
-Build Cost: 186
+Upkeep / Maintenance: 26
+Build Cost: 261
 Build Resource Requirements:
   Food: 23
   Energy: 11
@@ -89,7 +137,7 @@ Time to Build / Upgrade: 3
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---3--
+--4--
 Name: Space Raider Carrier
 Nick Name: SS-CVR
 Scores & Strengths:
@@ -115,10 +163,11 @@ Attacks:
 Cargo Space: 2
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
+Officer - Provides stack combat bonuses
 Deploys space units during space attacks
 Immune to Plague
-Upkeep / Maintenance: 132
-Build Cost: 1324
+Upkeep / Maintenance: 148
+Build Cost: 1475
 Build Resource Requirements:
   Food: 15
   Energy: 2
@@ -135,46 +184,95 @@ Time to Build / Upgrade: 5
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---4--
+--5--
+Name: Jump Raider Carrier
+Nick Name: JJ-CVR
+Scores & Strengths:
+  Tech Score: 425
+  Unit Score: 824
+  Average Score: 625
+  Stat Strength: 710
+  Total Strength: 824
+  Planet Strength: 0
+  Space Strength: 824
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 1
+  Spot: 13
+  Camouflage: 12
+  Agility: 2
+  Armor: 14
+  Psy Defense: 14
+  Rank: 867
+Attacks:
+  Ranged Space: 6/19
+Cargo Space: 2
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 526
+Build Cost: 5261
+Build Resource Requirements:
+  Food: 15
+  Energy: 1
+  Metal: 96
+  Trace: 49
+  Exotica: 15
+  Chemicals: 95
+  Electronics: 38
+  Gems: 1
+S  ingularities: 2
+Build Jump Raider Carrier in Starport
+Time to Build / Upgrade: 5
+[1380] Technologies Required to Build Unit (87):
+  [145] Composite Armor (97)
+  [1235] Jump Rocketry (76)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
 Name: Jump Fusion Raider
 Nick Name: JJ-FRaider
 Scores & Strengths:
   Tech Score: 1933
-  Unit Score: 1553
-  Average Score: 1743
-  Stat Strength: 1349
-  Total Strength: 1553
+  Unit Score: 1528
+  Average Score: 1730
+  Stat Strength: 1344
+  Total Strength: 1528
   Planet Strength: 0
-  Space Strength: 1553
+  Space Strength: 1528
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
-  Move Points: 3
+  Move Points: 2
   Spot: 16
   Camouflage: 25
   Agility: 3
   Armor: 15
   Psy Defense: 15
-  Rank: 866
+  Rank: 865
 Attacks:
-  Ranged Space: 5/28
-  Closed Space: 8/8
+  Ranged Space: 5/27
+  Closed Space: 7/7
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 Immune to Plague
-Upkeep / Maintenance: 769
-Build Cost: 7688
+Upkeep / Maintenance: 326
+Build Cost: 3263
 Build Resource Requirements:
   Food: 3
-  Energy: 6
+  Energy: 5
   Metal: 5
   Trace: 16
   Exotica: 3
-  Chemicals: 16
-  Electronics: 28
-  Monopols: 29
-S  ingularities: 2
+  Chemicals: 14
+  Electronics: 27
+  Monopols: 27
+S  ingularities: 1
 Build Jump Fusion Raider in Starport
 Time to Build / Upgrade: 3
 [12900] Technologies Required to Build Unit (67):
@@ -183,59 +281,62 @@ Time to Build / Upgrade: 3
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---5--
+--7--
 Name: 3rd-Republic Star Raider
 Nick Name: Charioteer
 Scores & Strengths:
-  Tech Score: 7370
-  Unit Score: 5373
-  Average Score: 6371
-  Stat Strength: 4608
-  Total Strength: 5373
+  Tech Score: 7678
+  Unit Score: 5600
+  Average Score: 6639
+  Stat Strength: 4825
+  Total Strength: 5600
   Planet Strength: 0
-  Space Strength: 5373
+  Space Strength: 5600
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
   Move Points: 5
   Spot: 22
-  Camouflage: 49
+  Camouflage: 50
   Agility: 4
-  Armor: 29
-  Psy Defense: 29
-  Rank: 278
+  Armor: 30
+  Psy Defense: 30
+  Rank: 947
 Attacks:
-  Ranged Space: 10/54
+  Ranged Space: 10/55
   Closed Space: 15/15
 Load aboard transport: YES
-Upkeep / Maintenance: 223
-Build Cost: 2231
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 652
+Build Cost: 6515
 Build Resource Requirements:
   Energy: 2
   Metal: 3
   Trace: 9
   Chemicals: 12
-  Biochems: 16
-  Electronics: 20
+  Biochems: 15
+  Electronics: 19
   Ceramsteel: 5
   Wetware: 3
   Monopols: 17
 S  ingularities: 2
 Build 3rd-Republic Star Raider in Starport
 Time to Build / Upgrade: 3
-[79020] Technologies Required to Build Unit (62):
-  [54495] Cloaked Escortcraft (49)
-  [24525] Jump Escorts (75)
+[85010] Technologies Required to Build Unit (62):
+  [57590] Cloaked Escortcraft (48)
+  [27420] Jump Escorts (75)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---6--
+--8--
 Name: Jump Stealth Ship
 Nick Name: JJ-SRaider
 Scores & Strengths:
-  Tech Score: 7133
+  Tech Score: 7435
   Unit Score: 7133
-  Average Score: 7133
+  Average Score: 7284
   Stat Strength: 6417
   Total Strength: 7133
   Planet Strength: 0
@@ -249,7 +350,7 @@ Statistics:
   Agility: 33
   Armor: 40
   Psy Defense: 40
-  Rank: 932
+  Rank: 934
 Attacks:
   Ranged Space: 8/37
   Closed Space: 20/21
@@ -257,24 +358,24 @@ Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 Immune to Plague
-Upkeep / Maintenance: 1868
-Build Cost: 18678
+Upkeep / Maintenance: 1507
+Build Cost: 15069
 Build Resource Requirements:
   Food: 1
   Energy: 6
   Metal: 7
-  Trace: 8
+  Trace: 7
   Exotica: 2
-  Chemicals: 16
-  Biochems: 25
-  Electronics: 19
-  Ceramsteel: 12
+  Chemicals: 15
+  Biochems: 24
+  Electronics: 18
+  Ceramsteel: 11
   Wetware: 5
-  Monopols: 25
+  Monopols: 24
 S  ingularities: 5
 Build Jump Stealth Ship in Starport
 Time to Build / Upgrade: 4
-[54495] Technology Required to Build Unit (49):
-  [54495] Cloaked Escortcraft (49)
+[57590] Technology Required to Build Unit (48):
+  [57590] Cloaked Escortcraft (48)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

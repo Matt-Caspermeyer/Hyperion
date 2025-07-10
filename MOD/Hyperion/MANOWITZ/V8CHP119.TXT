@@ -1,413 +1,864 @@
-All units of the unit class Light Assault Helicopter are listed herein (9 in total):
+All units of the unit class Cargo Plane are listed herein (20 in total):
 
 --1--
-Name: Light Assault Helicopter
-Nick Name: A-HLA
+Name: Cargo Plane
+Nick Name: A-PX
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 616
-  Average Score: 617
-  Stat Strength: 450
-  Total Strength: 616
-  Planet Strength: 616
+  Tech Score: 591
+  Unit Score: 590
+  Average Score: 591
+  Stat Strength: 590
+  Total Strength: 590
+  Planet Strength: 590
   Space Strength: 0
-  Garrison Strength: 205
+  Garrison Strength: 163
 Statistics:
   Movement Type: air
-  Move Points: 9
+  Move Points: 13
   Spot: 6
-  Camouflage: 6
-  Agility: 13
-  Armor: 8
-  Psy Defense: 8
-  Rank: 121
-Attacks:
-  Indirect: 12/6
-  Direct: 9/6
-  Close: 10/4
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 6
-Build Cost: 64
+  Camouflage: 4
+  Agility: 9
+  Armor: 12
+  Psy Defense: 12
+  Rank: 91
+Cargo Space: 1
+Upkeep / Maintenance: 11
+Build Cost: 105
 Build Resource Requirements:
-  Food: 6
+  Food: 8
   Energy: 14
-  Metal: 88
-  Trace: 19
-  Exotica: 6
-  Chemicals: 14
-  Electronics: 20
-Build Light Assault Helicopter in Factory
+  Metal: 198
+  Trace: 7
+  Exotica: 8
+  Chemicals: 15
+  Electronics: 6
+Build Cargo Plane in Factory
 Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+[1970] Technology Required to Build Unit (87):
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Reconnaissance Helicopter
-Nick Name: A-HR
+Name: Medium Cargo Plane
+Nick Name: A-PX (M)
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 617
-  Total Strength: 617
-  Planet Strength: 617
+  Tech Score: 677
+  Unit Score: 667
+  Average Score: 672
+  Stat Strength: 667
+  Total Strength: 667
+  Planet Strength: 667
   Space Strength: 0
-  Garrison Strength: 186
+  Garrison Strength: 178
 Statistics:
   Movement Type: air
-  Move Points: 11
-  Spot: 8
-  Camouflage: 6
-  Agility: 14
-  Armor: 10
-  Psy Defense: 10
-  Rank: 81
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 7
-Build Cost: 73
+  Move Points: 14
+  Spot: 6
+  Camouflage: 4
+  Agility: 9
+  Armor: 13
+  Psy Defense: 13
+  Rank: 102
+Cargo Space: 2
+Upkeep / Maintenance: 5
+Build Cost: 54
 Build Resource Requirements:
-  Food: 8
-  Energy: 13
-  Metal: 137
-  Trace: 12
-  Exotica: 8
-  Chemicals: 14
-  Electronics: 12
-Build Reconnaissance Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+  Food: 7
+  Energy: 11
+  Metal: 63
+  Trace: 5
+  Exotica: 7
+  Chemicals: 11
+  Electronics: 5
+Build Medium Cargo Plane in Factory
+Time to Build / Upgrade: 2
+[2740] Technologies Required to Build Unit (90):
+  [770] Self-Propelled Weaponry (92)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Anti-Submarine Helicopter
-Nick Name: A-HAS
+Name: Heavy Cargo Plane
+Nick Name: A-PX (H)
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 442
-  Total Strength: 617
-  Planet Strength: 617
+  Tech Score: 839
+  Unit Score: 791
+  Average Score: 815
+  Stat Strength: 791
+  Total Strength: 791
+  Planet Strength: 791
   Space Strength: 0
-  Garrison Strength: 218
+  Garrison Strength: 204
 Statistics:
   Movement Type: air
-  Move Points: 8
-  Spot: 6
-  Camouflage: 6
-  Agility: 8
-  Armor: 11
-  Psy Defense: 11
-  Rank: 153
-Attacks:
-  Water: 5/18
-  Indirect: 5/17
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 9
-Build Cost: 90
+  Move Points: 15
+  Spot: 7
+  Camouflage: 5
+  Agility: 10
+  Armor: 14
+  Psy Defense: 14
+  Rank: 113
+Cargo Space: 3
+Upkeep / Maintenance: 6
+Build Cost: 62
 Build Resource Requirements:
-  Food: 4
-  Energy: 40
-  Metal: 166
-  Trace: 10
-  Exotica: 4
-  Chemicals: 27
-  Electronics: 8
-Build Anti-Submarine Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+  Food: 7
+  Energy: 10
+  Metal: 42
+  Trace: 5
+  Exotica: 7
+  Chemicals: 22
+  Electronics: 6
+Build Heavy Cargo Plane in Factory
+Time to Build / Upgrade: 2
+[3670] Technologies Required to Build Unit (88):
+  [1700] Main Battle Tank (88)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Command Helicopter
-Nick Name: A-HC
+Name: Cargo Plane II
+Nick Name: A-PX II
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 436
-  Total Strength: 617
-  Planet Strength: 617
+  Tech Score: 911
+  Unit Score: 880
+  Average Score: 896
+  Stat Strength: 880
+  Total Strength: 880
+  Planet Strength: 880
   Space Strength: 0
-  Garrison Strength: 205
+  Garrison Strength: 220
 Statistics:
   Movement Type: air
-  Move Points: 9
-  Spot: 6
-  Camouflage: 6
-  Agility: 11
-  Armor: 9
-  Psy Defense: 9
-  Rank: 783
-Attacks:
-  Air: 5/5
-  Indirect: 11/12
-  Direct: 3/8
-Load aboard transport: YES
-Officer - Provides stack combat bonuses
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 9
-Build Cost: 85
+  Move Points: 16
+  Spot: 7
+  Camouflage: 5
+  Agility: 10
+  Armor: 15
+  Psy Defense: 15
+  Rank: 94
+Cargo Space: 1
+Upkeep / Maintenance: 10
+Build Cost: 97
 Build Resource Requirements:
-  Food: 5
-  Energy: 21
-  Metal: 111
-  Trace: 10
-  Exotica: 5
-  Chemicals: 15
-  Electronics: 10
-Build Command Helicopter in Factory
+  Food: 8
+  Energy: 12
+  Metal: 29
+  Trace: 5
+  Exotica: 8
+  Chemicals: 26
+  Electronics: 6
+  Ceramsteel: 44
+Build Cargo Plane II in Factory
 Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+[3660] Technologies Required to Build Unit (86):
+  [1690] Ceramsteel (84)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Heavy Assault Helicopter
-Nick Name: A-HHA
+Name: Medium Cargo Plane II
+Nick Name: A-PX (M) II
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 442
-  Total Strength: 617
-  Planet Strength: 617
+  Tech Score: 984
+  Unit Score: 913
+  Average Score: 949
+  Stat Strength: 913
+  Total Strength: 913
+  Planet Strength: 913
   Space Strength: 0
-  Garrison Strength: 233
+  Garrison Strength: 221
 Statistics:
   Movement Type: air
-  Move Points: 7
-  Spot: 6
-  Camouflage: 6
-  Agility: 11
-  Armor: 10
-  Psy Defense: 10
-  Rank: 119
-Attacks:
-  Indirect: 8/12
-  Direct: 3/10
-  Close: 7/7
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 7
-Build Cost: 73
+  Move Points: 17
+  Spot: 7
+  Camouflage: 5
+  Agility: 10
+  Armor: 15
+  Psy Defense: 15
+  Rank: 104
+Cargo Space: 2
+Upkeep / Maintenance: 9
+Build Cost: 85
 Build Resource Requirements:
-  Food: 5
-  Energy: 23
-  Metal: 137
-  Trace: 11
-  Exotica: 4
-  Chemicals: 17
-  Electronics: 12
-Build Heavy Assault Helicopter in Factory
+  Food: 8
+  Energy: 11
+  Metal: 29
+  Trace: 5
+  Exotica: 7
+  Chemicals: 21
+  Electronics: 5
+  Ceramsteel: 32
+Build Medium Cargo Plane II in Factory
 Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+[4430] Technologies Required to Build Unit (88):
+  [1690] Ceramsteel (84)
+  [770] Self-Propelled Weaponry (92)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Heavy Attack Helicopter
-Nick Name: A-HHAtk
+Name: Stretch Cargo Plane
+Nick Name: A-PX (S)
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 429
-  Total Strength: 617
-  Planet Strength: 617
+  Tech Score: 1127
+  Unit Score: 1108
+  Average Score: 1118
+  Stat Strength: 1108
+  Total Strength: 1108
+  Planet Strength: 1108
   Space Strength: 0
-  Garrison Strength: 251
+  Garrison Strength: 261
 Statistics:
   Movement Type: air
-  Move Points: 6
-  Spot: 6
+  Move Points: 18
+  Spot: 7
   Camouflage: 6
   Agility: 11
-  Armor: 10
-  Psy Defense: 10
-  Rank: 119
-Attacks:
-  Air: 8/11
-  Indirect: 6/6
-  Direct: 4/9
-  Close: 4/7
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 8
-Build Cost: 78
+  Armor: 17
+  Psy Defense: 17
+  Rank: 126
+Cargo Space: 4
+Upkeep / Maintenance: 11
+Build Cost: 106
 Build Resource Requirements:
-  Food: 4
-  Energy: 22
-  Metal: 137
-  Trace: 13
-  Exotica: 4
+  Food: 8
+  Energy: 10
+  Metal: 31
+  Trace: 5
+  Exotica: 8
   Chemicals: 22
-  Electronics: 14
-Build Heavy Attack Helicopter in Factory
+  Electronics: 5
+  Ceramsteel: 29
+Build Stretch Cargo Plane in Factory
 Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+[5530] Technologies Required to Build Unit (89):
+  [170] Reactive Armor (95)
+  [1690] Ceramsteel (84)
+  [1700] Main Battle Tank (88)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Light Attack Helicopter
-Nick Name: A-HLAtk
+Name: Heavy Cargo Plane II
+Nick Name: A-PX (H) II
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 433
-  Total Strength: 617
-  Planet Strength: 617
+  Tech Score: 1202
+  Unit Score: 1145
+  Average Score: 1173
+  Stat Strength: 1145
+  Total Strength: 1145
+  Planet Strength: 1145
   Space Strength: 0
-  Garrison Strength: 218
+  Garrison Strength: 262
 Statistics:
   Movement Type: air
-  Move Points: 8
-  Spot: 6
+  Move Points: 19
+  Spot: 7
   Camouflage: 6
-  Agility: 13
-  Armor: 8
-  Psy Defense: 8
+  Agility: 11
+  Armor: 17
+  Psy Defense: 17
   Rank: 117
-Attacks:
-  Air: 10/9
-  Indirect: 10/4
-  Direct: 6/5
-  Close: 6/4
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 7
-Build Cost: 66
+Cargo Space: 3
+Upkeep / Maintenance: 10
+Build Cost: 104
 Build Resource Requirements:
-  Food: 5
-  Energy: 16
-  Metal: 88
-  Trace: 18
-  Exotica: 5
-  Chemicals: 17
-  Electronics: 20
-Build Light Attack Helicopter in Factory
+  Food: 8
+  Energy: 10
+  Metal: 28
+  Trace: 4
+  Exotica: 8
+  Chemicals: 21
+  Electronics: 21
+  Ceramsteel: 26
+Build Heavy Cargo Plane II in Factory
 Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+[6875] Technologies Required to Build Unit (86):
+  [1690] Ceramsteel (84)
+  [260] Electronic Armor (90)
+  [1255] Digital Fly-by-Wire (81)
+  [1700] Main Battle Tank (88)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Medium Assault Helicopter
-Nick Name: A-HMA
+Name: Stretch Cargo Plane II
+Nick Name: A-PX (S) II
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 442
-  Total Strength: 617
-  Planet Strength: 617
+  Tech Score: 1408
+  Unit Score: 1328
+  Average Score: 1368
+  Stat Strength: 1328
+  Total Strength: 1328
+  Planet Strength: 1328
   Space Strength: 0
-  Garrison Strength: 218
+  Garrison Strength: 296
 Statistics:
   Movement Type: air
-  Move Points: 8
-  Spot: 6
+  Move Points: 20
+  Spot: 7
   Camouflage: 6
-  Agility: 12
-  Armor: 9
-  Psy Defense: 9
-  Rank: 119
-Attacks:
-  Indirect: 11/10
-  Direct: 5/8
-  Close: 5/5
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 6
-Build Cost: 64
+  Agility: 11
+  Armor: 19
+  Psy Defense: 19
+  Rank: 129
+Cargo Space: 4
+Upkeep / Maintenance: 14
+Build Cost: 143
 Build Resource Requirements:
-  Food: 5
-  Energy: 19
-  Metal: 111
-  Trace: 11
-  Exotica: 5
-  Chemicals: 14
-  Electronics: 12
-Build Medium Assault Helicopter in Factory
+  Food: 6
+  Energy: 9
+  Metal: 35
+  Trace: 3
+  Exotica: 6
+  Chemicals: 34
+  Electronics: 25
+  Ceramsteel: 33
+Build Stretch Cargo Plane II in Factory
 Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+[8710] Technologies Required to Build Unit (86):
+  [1690] Ceramsteel (84)
+  [3350] Active Protective Systems (83)
+  [1700] Main Battle Tank (88)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Medium Attack Helicopter
-Nick Name: A-HMAtk
+Name: Cargo Plane III
+Nick Name: A-PX III
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 427
-  Total Strength: 617
-  Planet Strength: 617
+  Tech Score: 1472
+  Unit Score: 1384
+  Average Score: 1428
+  Stat Strength: 1384
+  Total Strength: 1384
+  Planet Strength: 1384
   Space Strength: 0
-  Garrison Strength: 233
+  Garrison Strength: 302
 Statistics:
   Movement Type: air
-  Move Points: 7
-  Spot: 6
+  Move Points: 21
+  Spot: 8
   Camouflage: 6
+  Agility: 11
+  Armor: 19
+  Psy Defense: 19
+  Rank: 99
+Cargo Space: 1
+Upkeep / Maintenance: 9
+Build Cost: 90
+Build Resource Requirements:
+  Food: 7
+  Energy: 11
+  Metal: 20
+  Trace: 4
+  Exotica: 7
+  Chemicals: 27
+  Electronics: 17
+  Ceramsteel: 26
+Build Cargo Plane III in Factory
+Time to Build / Upgrade: 3
+[7175] Technologies Required to Build Unit (86):
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Medium Cargo Plane III
+Nick Name: A-PX (M) III
+Scores & Strengths:
+  Tech Score: 1674
+  Unit Score: 1541
+  Average Score: 1608
+  Stat Strength: 1541
+  Total Strength: 1541
+  Planet Strength: 1541
+  Space Strength: 0
+  Garrison Strength: 328
+Statistics:
+  Movement Type: air
+  Move Points: 22
+  Spot: 8
+  Camouflage: 7
   Agility: 12
-  Armor: 9
-  Psy Defense: 9
-  Rank: 118
-Attacks:
-  Air: 9/10
-  Indirect: 8/5
-  Direct: 5/7
-  Close: 5/5
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 7
-Build Cost: 70
+  Armor: 20
+  Psy Defense: 20
+  Rank: 111
+Cargo Space: 2
+Upkeep / Maintenance: 10
+Build Cost: 96
+Build Resource Requirements:
+  Food: 6
+  Energy: 10
+  Metal: 22
+  Trace: 3
+  Exotica: 6
+  Chemicals: 25
+  Electronics: 18
+  Ceramsteel: 28
+Build Medium Cargo Plane III in Factory
+Time to Build / Upgrade: 3
+[10375] Technologies Required to Build Unit (85):
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+  [3200] Supersonic Aircraft (85)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Heavy Cargo Plane III
+Nick Name: A-PX (H) III
+Scores & Strengths:
+  Tech Score: 1910
+  Unit Score: 1754
+  Average Score: 1832
+  Stat Strength: 1754
+  Total Strength: 1754
+  Planet Strength: 1754
+  Space Strength: 0
+  Garrison Strength: 365
+Statistics:
+  Movement Type: air
+  Move Points: 23
+  Spot: 8
+  Camouflage: 7
+  Agility: 12
+  Armor: 22
+  Psy Defense: 22
+  Rank: 123
+Cargo Space: 3
+Upkeep / Maintenance: 12
+Build Cost: 120
 Build Resource Requirements:
   Food: 5
-  Energy: 18
-  Metal: 111
-  Trace: 16
-  Exotica: 4
-  Chemicals: 19
-  Electronics: 17
-Build Medium Attack Helicopter in Factory
+  Energy: 9
+  Metal: 27
+  Trace: 3
+  Exotica: 5
+  Chemicals: 27
+  Electronics: 20
+  Ceramsteel: 34
+Build Heavy Cargo Plane III in Factory
 Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+[12840] Technologies Required to Build Unit (84):
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+  [5665] Hypersonic Aircraft (82)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Stretch Cargo Plane III
+Nick Name: A-PX (S) III
+Scores & Strengths:
+  Tech Score: 1979
+  Unit Score: 1801
+  Average Score: 1890
+  Stat Strength: 1801
+  Total Strength: 1801
+  Planet Strength: 1801
+  Space Strength: 0
+  Garrison Strength: 367
+Statistics:
+  Movement Type: air
+  Move Points: 24
+  Spot: 8
+  Camouflage: 7
+  Agility: 12
+  Armor: 22
+  Psy Defense: 22
+  Rank: 134
+Cargo Space: 4
+Upkeep / Maintenance: 9
+Build Cost: 92
+Build Resource Requirements:
+  Food: 5
+  Energy: 8
+  Metal: 13
+  Trace: 2
+  Exotica: 5
+  Chemicals: 20
+  Electronics: 12
+  Ceramsteel: 21
+Build Stretch Cargo Plane III in Factory
+Time to Build / Upgrade: 2
+[14785] Technologies Required to Build Unit (84):
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+  [7610] Atmospheric Aircraft (80)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--13--
+Name: Cargo Plane IV
+Nick Name: A-PX IV
+Scores & Strengths:
+  Tech Score: 2184
+  Unit Score: 1955
+  Average Score: 2069
+  Stat Strength: 1955
+  Total Strength: 1955
+  Planet Strength: 1955
+  Space Strength: 0
+  Garrison Strength: 391
+Statistics:
+  Movement Type: air
+  Move Points: 25
+  Spot: 8
+  Camouflage: 8
+  Agility: 12
+  Armor: 23
+  Psy Defense: 23
+  Rank: 106
+Cargo Space: 1
+Upkeep / Maintenance: 8
+Build Cost: 77
+Build Resource Requirements:
+  Food: 5
+  Energy: 8
+  Metal: 15
+  Trace: 3
+  Exotica: 5
+  Chemicals: 21
+  Electronics: 12
+  Ceramsteel: 23
+Build Cargo Plane IV in Factory
+Time to Build / Upgrade: 2
+[16605] Technologies Required to Build Unit (84):
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+  [9430] Advanced V/STOL Aircraft (81)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--14--
+Name: Medium Cargo Plane IV
+Nick Name: A-PX (M) IV
+Scores & Strengths:
+  Tech Score: 2349
+  Unit Score: 2125
+  Average Score: 2237
+  Stat Strength: 2125
+  Total Strength: 2125
+  Planet Strength: 2125
+  Space Strength: 0
+  Garrison Strength: 416
+Statistics:
+  Movement Type: air
+  Move Points: 26
+  Spot: 8
+  Camouflage: 8
+  Agility: 13
+  Armor: 24
+  Psy Defense: 24
+  Rank: 117
+Cargo Space: 2
+Upkeep / Maintenance: 9
+Build Cost: 87
+Build Resource Requirements:
+  Food: 5
+  Energy: 8
+  Metal: 16
+  Trace: 2
+  Exotica: 5
+  Chemicals: 22
+  Electronics: 13
+  Ceramsteel: 25
+Build Medium Cargo Plane IV in Factory
+Time to Build / Upgrade: 2
+[19100] Technologies Required to Build Unit (82):
+  [2495] Embedded Biosensors (75)
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+  [9430] Advanced V/STOL Aircraft (81)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--15--
+Name: Heavy Cargo Plane IV
+Nick Name: A-PX (H) IV
+Scores & Strengths:
+  Tech Score: 2615
+  Unit Score: 2293
+  Average Score: 2454
+  Stat Strength: 2293
+  Total Strength: 2293
+  Planet Strength: 2293
+  Space Strength: 0
+  Garrison Strength: 441
+Statistics:
+  Movement Type: air
+  Move Points: 27
+  Spot: 9
+  Camouflage: 8
+  Agility: 13
+  Armor: 25
+  Psy Defense: 25
+  Rank: 130
+Cargo Space: 3
+Upkeep / Maintenance: 10
+Build Cost: 99
+Build Resource Requirements:
+  Food: 5
+  Energy: 9
+  Metal: 16
+  Trace: 2
+  Exotica: 5
+  Chemicals: 22
+  Electronics: 13
+  Ceramsteel: 25
+Build Heavy Cargo Plane IV in Factory
+Time to Build / Upgrade: 2
+[22615] Technologies Required to Build Unit (78):
+  [6010] Cyber Robotics (58)
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+  [9430] Advanced V/STOL Aircraft (81)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--16--
+Name: Stretch Cargo Plane IV
+Nick Name: A-PX (S) IV
+Scores & Strengths:
+  Tech Score: 2688
+  Unit Score: 2467
+  Average Score: 2578
+  Stat Strength: 2467
+  Total Strength: 2467
+  Planet Strength: 2467
+  Space Strength: 0
+  Garrison Strength: 466
+Statistics:
+  Movement Type: air
+  Move Points: 28
+  Spot: 9
+  Camouflage: 9
+  Agility: 13
+  Armor: 26
+  Psy Defense: 26
+  Rank: 141
+Cargo Space: 4
+Upkeep / Maintenance: 12
+Build Cost: 122
+Build Resource Requirements:
+  Food: 6
+  Energy: 9
+  Metal: 17
+  Trace: 2
+  Exotica: 6
+  Chemicals: 24
+  Electronics: 13
+  Ceramsteel: 27
+Build Stretch Cargo Plane IV in Factory
+Time to Build / Upgrade: 3
+[23155] Technologies Required to Build Unit (80):
+  [6550] Advanced Nanotechnology (66)
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+  [9430] Advanced V/STOL Aircraft (81)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--17--
+Name: Cargo Plane V
+Nick Name: A-PX V
+Scores & Strengths:
+  Tech Score: 2928
+  Unit Score: 2630
+  Average Score: 2779
+  Stat Strength: 2630
+  Total Strength: 2630
+  Planet Strength: 2630
+  Space Strength: 0
+  Garrison Strength: 488
+Statistics:
+  Movement Type: air
+  Move Points: 29
+  Spot: 9
+  Camouflage: 9
+  Agility: 13
+  Armor: 27
+  Psy Defense: 27
+  Rank: 113
+Cargo Space: 1
+Upkeep / Maintenance: 55
+Build Cost: 550
+Build Resource Requirements:
+  Food: 4
+  Energy: 7
+  Metal: 9
+  Trace: 2
+  Exotica: 4
+  Chemicals: 16
+  Electronics: 9
+  Ceramsteel: 16
+  Monopols: 21
+Build Cargo Plane V in Factory
+Time to Build / Upgrade: 3
+[26670] Technologies Required to Build Unit (83):
+  [10065] Powered-Armor Legion (79)
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+  [9430] Advanced V/STOL Aircraft (81)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--18--
+Name: Medium Cargo Plane V
+Nick Name: A-PX (M) V
+Scores & Strengths:
+  Tech Score: 3107
+  Unit Score: 2826
+  Average Score: 2966
+  Stat Strength: 2826
+  Total Strength: 2826
+  Planet Strength: 2826
+  Space Strength: 0
+  Garrison Strength: 515
+Statistics:
+  Movement Type: air
+  Move Points: 30
+  Spot: 9
+  Camouflage: 9
+  Agility: 14
+  Armor: 28
+  Psy Defense: 28
+  Rank: 125
+Cargo Space: 2
+Upkeep / Maintenance: 64
+Build Cost: 638
+Build Resource Requirements:
+  Food: 4
+  Energy: 7
+  Metal: 8
+  Trace: 2
+  Exotica: 4
+  Chemicals: 15
+  Electronics: 9
+  Ceramsteel: 14
+  Monopols: 23
+Build Medium Cargo Plane V in Factory
+Time to Build / Upgrade: 3
+[24220] Technologies Required to Build Unit (83):
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+  [17045] Power V/STOL Aircraft (79)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--19--
+Name: Heavy Cargo Plane V
+Nick Name: A-PX (H) V
+Scores & Strengths:
+  Tech Score: 3391
+  Unit Score: 3020
+  Average Score: 3206
+  Stat Strength: 3020
+  Total Strength: 3020
+  Planet Strength: 3020
+  Space Strength: 0
+  Garrison Strength: 542
+Statistics:
+  Movement Type: air
+  Move Points: 31
+  Spot: 9
+  Camouflage: 10
+  Agility: 14
+  Armor: 29
+  Psy Defense: 29
+  Rank: 137
+Cargo Space: 3
+Upkeep / Maintenance: 85
+Build Cost: 845
+Build Resource Requirements:
+  Food: 4
+  Energy: 7
+  Metal: 8
+  Trace: 2
+  Exotica: 4
+  Chemicals: 16
+  Electronics: 10
+  Ceramsteel: 17
+  Monopols: 27
+Build Heavy Cargo Plane V in Factory
+Time to Build / Upgrade: 3
+[25565] Technologies Required to Build Unit (77):
+  [6550] Advanced Nanotechnology (66)
+  [1970] Cargo Handling (87)
+  [17045] Power V/STOL Aircraft (79)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--20--
+Name: Stretch Cargo Plane V
+Nick Name: A-PX (S) V
+Scores & Strengths:
+  Tech Score: 3570
+  Unit Score: 3083
+  Average Score: 3327
+  Stat Strength: 3083
+  Total Strength: 3083
+  Planet Strength: 3083
+  Space Strength: 0
+  Garrison Strength: 545
+Statistics:
+  Movement Type: air
+  Move Points: 32
+  Spot: 9
+  Camouflage: 10
+  Agility: 14
+  Armor: 29
+  Psy Defense: 29
+  Rank: 148
+Cargo Space: 4
+Upkeep / Maintenance: 70
+Build Cost: 698
+Build Resource Requirements:
+  Food: 3
+  Energy: 5
+  Metal: 6
+  Trace: 2
+  Exotica: 3
+  Chemicals: 12
+  Electronics: 7
+  Ceramsteel: 11
+  Monopols: 20
+Build Stretch Cargo Plane V in Factory
+Time to Build / Upgrade: 3
+[32550] Technologies Required to Build Unit (80):
+  [1970] Cargo Handling (87)
+  [13535] Powered Ceramsteel Tanks (74)
+  [17045] Power V/STOL Aircraft (79)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

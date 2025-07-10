@@ -1,46 +1,276 @@
-All units of the unit class Sceptor are listed herein (1 in total):
+All units of the unit class Space Minesweeper are listed herein (6 in total):
 
 --1--
-Name: Sceptor
-Nick Name: Sceptre
+Name: Space Minesweeper
+Nick Name: SS-MS
 Scores & Strengths:
-  Tech Score: 988
-  Unit Score: 986
-  Average Score: 987
-  Stat Strength: 986
-  Total Strength: 0
+  Tech Score: 396
+  Unit Score: 790
+  Average Score: 593
+  Stat Strength: 715
+  Total Strength: 790
+  Planet Strength: 0
+  Space Strength: 790
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 1
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 18
+  Psy Defense: 18
+  Rank: 130
+Attacks:
+  Direct Space: 9/5
+  Closed Space: 10/3
+Cargo Space: 1
+Immune to Plague
+Upkeep / Maintenance: 26
+Build Cost: 262
+Build Resource Requirements:
+  Food: 4
+  Energy: 3
+  Metal: 108
+  Trace: 21
+  Exotica: 4
+  Chemicals: 37
+  Electronics: 13
+Build Space Minesweeper in Starport
+Time to Build / Upgrade: 4
+[2125] Technologies Required to Build Unit (95):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
+  [795] Missiles (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Jump Minesweeper
+Nick Name: JJ-MS
+Scores & Strengths:
+  Tech Score: 481
+  Unit Score: 960
+  Average Score: 720
+  Stat Strength: 867
+  Total Strength: 960
+  Planet Strength: 0
+  Space Strength: 960
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 1
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 20
+  Psy Defense: 20
+  Rank: 158
+Attacks:
+  Direct Space: 10/6
+  Closed Space: 11/3
+Cargo Space: 1
+Immune to Plague
+Upkeep / Maintenance: 143
+Build Cost: 1432
+Build Resource Requirements:
+  Food: 4
+  Energy: 4
+  Metal: 118
+  Trace: 23
+  Exotica: 3
+  Chemicals: 46
+  Electronics: 16
+S  ingularities: 2
+Build Jump Minesweeper in Starport
+Time to Build / Upgrade: 4
+[2565] Technologies Required to Build Unit (92):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
+  [795] Missiles (86)
+  [1235] Jump Rocketry (76)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Space Repair Ship
+Nick Name: SS-RS
+Scores & Strengths:
+  Tech Score: 2563
+  Unit Score: 2160
+  Average Score: 2362
+  Stat Strength: 2160
+  Total Strength: 2160
   Planet Strength: 0
   Space Strength: 0
   Garrison Strength: 0
 Statistics:
-  Movement Type: hover
-  Move Points: 19
-  Spot: 0
-  Camouflage: 25
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 510
-Load aboard transport: YES
-Does not participate in combat
-Grants 1 Vote
-Never Rebels
+  Movement Type: space
+  Move Points: 10
+  Spot: 12
+  Camouflage: 4
+  Agility: 10
+  Armor: 30
+  Psy Defense: 30
+  Rank: 174
+Heals units of same movement type
 Immune to Plague
-Upkeep / Maintenance: 2353
-Build Cost: 23525
+Upkeep / Maintenance: 25
+Build Cost: 252
 Build Resource Requirements:
-  Food: 5021
-  Energy: 2527
-  Metal: 5000
-  Trace: 1090
-  Exotica: 512
-  Chemicals: 1043
-  Biochems: 250
-  Electronics: 830
-  Ceramsteel: 1000
-  Monopols: 123
-  Gems: 250
-Build Sceptor in Shield
-Time to Build / Upgrade: 50
-[3905] Technology Required to Build Unit (61):
-  [3905] Hovertech (61)
+  Food: 2
+  Energy: 2
+  Metal: 26
+  Trace: 3
+  Exotica: 2
+  Chemicals: 8
+  Biochems: 15
+  Electronics: 4
+  Ceramsteel: 29
+Build Space Repair Ship in Starport
+Time to Build / Upgrade: 2
+[13920] Technology Required to Build Unit (84):
+  [13920] Space Escorts (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Space Destroyer Tender
+Nick Name: SS-DT
+Scores & Strengths:
+  Tech Score: 2563
+  Unit Score: 2165
+  Average Score: 2364
+  Stat Strength: 1877
+  Total Strength: 2165
+  Planet Strength: 0
+  Space Strength: 2165
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 16
+  Spot: 12
+  Camouflage: 2
+  Agility: 11
+  Armor: 26
+  Psy Defense: 26
+  Rank: 250
+Attacks:
+  Direct Space: 10/16
+  Closed Space: 8/16
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 30
+Build Cost: 304
+Build Resource Requirements:
+  Food: 3
+  Energy: 11
+  Metal: 19
+  Trace: 5
+  Exotica: 3
+  Chemicals: 20
+  Biochems: 18
+  Electronics: 7
+  Ceramsteel: 22
+Build Space Destroyer Tender in Starport
+Time to Build / Upgrade: 2
+[13920] Technology Required to Build Unit (84):
+  [13920] Space Escorts (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Jump Repair Ship
+Nick Name: JJ-RS
+Scores & Strengths:
+  Tech Score: 4262
+  Unit Score: 3553
+  Average Score: 3907
+  Stat Strength: 3553
+  Total Strength: 3553
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 13
+  Spot: 14
+  Camouflage: 5
+  Agility: 11
+  Armor: 39
+  Psy Defense: 39
+  Rank: 214
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 457
+Build Cost: 4570
+Build Resource Requirements:
+  Food: 1
+  Energy: 1
+  Metal: 14
+  Trace: 2
+  Exotica: 1
+  Chemicals: 7
+  Biochems: 12
+  Electronics: 10
+  Ceramsteel: 19
+  Monopols: 21
+S  ingularities: 4
+Build Jump Repair Ship in Starport
+Time to Build / Upgrade: 3
+[27420] Technology Required to Build Unit (75):
+  [27420] Jump Escorts (75)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Jump Destroyer Tender
+Nick Name: JJ-DT
+Scores & Strengths:
+  Tech Score: 4262
+  Unit Score: 3585
+  Average Score: 3923
+  Stat Strength: 3102
+  Total Strength: 3585
+  Planet Strength: 0
+  Space Strength: 3585
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 21
+  Spot: 14
+  Camouflage: 3
+  Agility: 12
+  Armor: 34
+  Psy Defense: 34
+  Rank: 298
+Attacks:
+  Direct Space: 13/21
+  Closed Space: 10/21
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 567
+Build Cost: 5671
+Build Resource Requirements:
+  Food: 2
+  Energy: 11
+  Metal: 11
+  Trace: 4
+  Exotica: 2
+  Chemicals: 21
+  Biochems: 18
+  Electronics: 12
+  Ceramsteel: 14
+  Monopols: 23
+S  ingularities: 5
+Build Jump Destroyer Tender in Starport
+Time to Build / Upgrade: 3
+[27420] Technology Required to Build Unit (75):
+  [27420] Jump Escorts (75)
+Counts as planetary flock: YES
+Unit can be disbanded: YES

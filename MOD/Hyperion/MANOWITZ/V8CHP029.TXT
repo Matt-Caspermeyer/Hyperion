@@ -24,8 +24,8 @@ Statistics:
 Attacks:
   Close: 10/5
 Load aboard transport: YES
-Upkeep / Maintenance: 2
-Build Cost: 8
+Upkeep / Maintenance: 4
+Build Cost: 18
 Build Resource Requirements:
   Trace: 32
   Exotica: 5
@@ -64,8 +64,8 @@ Attacks:
   Close: 13/6
 Load aboard transport: YES
 May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 2
-Build Cost: 13
+Upkeep / Maintenance: 4
+Build Cost: 18
 Build Resource Requirements:
   Metal: 1
   Trace: 36
@@ -86,32 +86,31 @@ Name: Flame Thrower Infantry (BE)
 Nick Name: FT Inf (BE)
 Scores & Strengths:
   Tech Score: 199
-  Unit Score: 191
-  Average Score: 195
-  Stat Strength: 79
-  Total Strength: 191
-  Planet Strength: 191
+  Unit Score: 178
+  Average Score: 188
+  Stat Strength: 73
+  Total Strength: 178
+  Planet Strength: 178
   Space Strength: 0
-  Garrison Strength: 110
+  Garrison Strength: 102
 Statistics:
   Movement Type: foot
   Move Points: 3
   Spot: 2
-  Camouflage: 2
+  Camouflage: 1
   Agility: 7
   Armor: 3
-  Psy Defense: 2
+  Psy Defense: 1
   Rank: 2
 Attacks:
-  Close: 16/7
+  Close: 15/7
 Load aboard transport: YES
 May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 5
-Build Cost: 43
+Upkeep / Maintenance: 8
+Build Cost: 62
 Build Resource Requirements:
-  Metal: 3
-  Trace: 3
-  Biochems: 42
+  Metal: 2
+  Biochems: 38
 Upgrade Flame Thrower Infantry to Flame Thrower Infantry (BE) at Biochem Plant
 Time to Build / Upgrade: 1
 [710] Technologies Required to Build Unit (91):
@@ -146,8 +145,8 @@ Statistics:
 Attacks:
   Close: 18/9
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 52
+Upkeep / Maintenance: 13
+Build Cost: 112
 Build Resource Requirements:
   Energy: 3
   Metal: 3
@@ -189,8 +188,8 @@ Statistics:
 Attacks:
   Close: 32/15
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 46
+Upkeep / Maintenance: 14
+Build Cost: 123
 Build Resource Requirements:
   Metal: 10
   Chemicals: 2
@@ -207,6 +206,47 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
+Name: Flame Thrower Infantry (PA)
+Nick Name: FT Inf (PA)
+Scores & Strengths:
+  Tech Score: 1396
+  Unit Score: 1061
+  Average Score: 1228
+  Stat Strength: 320
+  Total Strength: 1061
+  Planet Strength: 1061
+  Space Strength: 0
+  Garrison Strength: 375
+Statistics:
+  Movement Type: foot
+  Move Points: 8
+  Spot: 4
+  Camouflage: 4
+  Agility: 12
+  Armor: 8
+  Psy Defense: 4
+  Rank: 12
+Attacks:
+  Close: 39/19
+Load aboard transport: YES
+Upkeep / Maintenance: 22
+Build Cost: 104
+Build Resource Requirements:
+  Energy: 6
+  Chemicals: 17
+  Electronics: 71
+  Ceramsteel: 7
+Upgrade Flame Thrower Infantry (SE) to Flame Thrower Infantry (PA) at Hospital
+Time to Build / Upgrade: 2
+[6465] Technologies Required to Build Unit (84):
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [6175] Prosthetically-Augmented Soldiers (57)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
 Name: Flame Thrower Infantry (GE)
 Nick Name: FT Inf (GE)
 Scores & Strengths:
@@ -230,8 +270,8 @@ Statistics:
 Attacks:
   Close: 39/19
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 18
+Upkeep / Maintenance: 18
+Build Cost: 56
 Build Resource Requirements:
   Energy: 3
   Chemicals: 6
@@ -248,60 +288,18 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---7--
-Name: Flame Thrower Infantry (PA)
-Nick Name: FT Inf (PA)
-Scores & Strengths:
-  Tech Score: 1396
-  Unit Score: 1100
-  Average Score: 1248
-  Stat Strength: 320
-  Total Strength: 1100
-  Planet Strength: 1100
-  Space Strength: 0
-  Garrison Strength: 388
-Statistics:
-  Movement Type: foot
-  Move Points: 8
-  Spot: 4
-  Camouflage: 4
-  Agility: 12
-  Armor: 8
-  Psy Defense: 4
-  Rank: 12
-Attacks:
-  Close: 39/20
-Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 28
-Build Resource Requirements:
-  Energy: 8
-  Chemicals: 19
-  Biochems: 1
-  Electronics: 71
-  Ceramsteel: 7
-Upgrade Flame Thrower Infantry (SE) to Flame Thrower Infantry (PA) at Hospital
-Time to Build / Upgrade: 2
-[6465] Technologies Required to Build Unit (84):
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [6175] Prosthetically-Augmented Soldiers (57)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
 --8--
 Name: Flame Thrower Infantry (CE)
 Nick Name: FT Inf (CE)
 Scores & Strengths:
   Tech Score: 1788
-  Unit Score: 1378
-  Average Score: 1583
-  Stat Strength: 388
-  Total Strength: 1378
-  Planet Strength: 1378
+  Unit Score: 1347
+  Average Score: 1568
+  Stat Strength: 379
+  Total Strength: 1347
+  Planet Strength: 1347
   Space Strength: 0
-  Garrison Strength: 459
+  Garrison Strength: 449
 Statistics:
   Movement Type: foot
   Move Points: 9
@@ -309,19 +307,19 @@ Statistics:
   Camouflage: 4
   Agility: 13
   Armor: 9
-  Psy Defense: 5
+  Psy Defense: 4
   Rank: 16
 Attacks:
-  Close: 45/22
+  Close: 44/22
 Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 50
+Upkeep / Maintenance: 22
+Build Cost: 119
 Build Resource Requirements:
-  Energy: 4
-  Metal: 2
+  Energy: 6
+  Metal: 1
   Exotica: 1
-  Chemicals: 6
-  Ceramsteel: 2
+  Chemicals: 8
+  Ceramsteel: 1
 Upgrade Flame Thrower Infantry (PA) to Flame Thrower Infantry (CE) at Lab
 Time to Build / Upgrade: 1
 [8890] Technologies Required to Build Unit (81):
@@ -337,32 +335,32 @@ Name: Flame Thrower Infantry (AVE)
 Nick Name: FT Inf (AVE)
 Scores & Strengths:
   Tech Score: 1837
-  Unit Score: 1409
-  Average Score: 1623
-  Stat Strength: 397
-  Total Strength: 1409
-  Planet Strength: 1409
+  Unit Score: 1369
+  Average Score: 1603
+  Stat Strength: 379
+  Total Strength: 1369
+  Planet Strength: 1369
   Space Strength: 0
-  Garrison Strength: 469
+  Garrison Strength: 456
 Statistics:
   Movement Type: foot
   Move Points: 9
   Spot: 4
-  Camouflage: 5
+  Camouflage: 4
   Agility: 13
   Armor: 9
-  Psy Defense: 5
+  Psy Defense: 4
   Rank: 16
 Attacks:
-  Close: 46/22
+  Close: 45/22
 Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 54
+Upkeep / Maintenance: 21
+Build Cost: 149
 Build Resource Requirements:
   Energy: 2
   Chemicals: 4
-  Biochems: 10
-  Electronics: 3
+  Biochems: 8
+  Electronics: 1
 Upgrade Flame Thrower Infantry (GE) to Flame Thrower Infantry (AVE) at Lab
 Time to Build / Upgrade: 1
 [9190] Technologies Required to Build Unit (73):
@@ -378,13 +376,13 @@ Name: Flame Thrower Infantry (ME)
 Nick Name: FT Inf (ME)
 Scores & Strengths:
   Tech Score: 1401
-  Unit Score: 1545
-  Average Score: 1473
+  Unit Score: 1525
+  Average Score: 1463
   Stat Strength: 725
-  Total Strength: 1545
-  Planet Strength: 1545
+  Total Strength: 1525
+  Planet Strength: 1525
   Space Strength: 0
-  Garrison Strength: 364
+  Garrison Strength: 359
 Statistics:
   Movement Type: foot
   Move Points: 18
@@ -395,17 +393,17 @@ Statistics:
   Psy Defense: 4
   Rank: 15
 Attacks:
-  Close: 41/20
+  Close: 40/20
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 51
+Upkeep / Maintenance: 15
+Build Cost: 128
 Build Resource Requirements:
   Food: 3
   Energy: 13
-  Trace: 9
+  Trace: 7
   Exotica: 3
   Chemicals: 29
-  Electronics: 78
+  Electronics: 74
   Ceramsteel: 3
 Upgrade Flame Thrower Infantry to Flame Thrower Infantry (ME) at Factory
 Time to Build / Upgrade: 2
@@ -420,13 +418,13 @@ Name: Flame Thrower Infantry (MF)
 Nick Name: FT Inf (MF)
 Scores & Strengths:
   Tech Score: 3182
-  Unit Score: 2380
-  Average Score: 2781
+  Unit Score: 2321
+  Average Score: 2752
   Stat Strength: 610
-  Total Strength: 2380
-  Planet Strength: 2380
+  Total Strength: 2321
+  Planet Strength: 2321
   Space Strength: 0
-  Garrison Strength: 687
+  Garrison Strength: 670
 Statistics:
   Movement Type: foot
   Move Points: 12
@@ -437,16 +435,15 @@ Statistics:
   Psy Defense: 6
   Rank: 28
 Attacks:
-  Close: 59/30
+  Close: 59/29
 Load aboard transport: YES
-Upkeep / Maintenance: 53
-Build Cost: 482
+Upkeep / Maintenance: 177
+Build Cost: 1647
 Build Resource Requirements:
-  Energy: 3
-  Chemicals: 1
+  Energy: 1
   Biochems: 3
   Wetware: 29
-  Monopols: 38
+  Monopols: 36
 Upgrade Flame Thrower Infantry (CE) to Flame Thrower Infantry (MF) at Wetware
 Time to Build / Upgrade: 3
 [18865] Technologies Required to Build Unit (77):
@@ -481,8 +478,8 @@ Statistics:
 Attacks:
   Close: 66/33
 Load aboard transport: YES
-Upkeep / Maintenance: 43
-Build Cost: 375
+Upkeep / Maintenance: 158
+Build Cost: 1434
 Build Resource Requirements:
   Wetware: 34
   Monopols: 18

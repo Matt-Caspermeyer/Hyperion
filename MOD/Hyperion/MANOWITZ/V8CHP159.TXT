@@ -1,236 +1,48 @@
-All units of the unit class Light Mech are listed herein (5 in total):
+All units of the unit class Symbiot Minder are listed herein (1 in total):
 
 --1--
-Name: Light Mech
-Nick Name: Berserker
+Name: Symbiot Minder
+Nick Name: Minder
 Scores & Strengths:
-  Tech Score: 1686
-  Unit Score: 1685
-  Average Score: 1686
-  Stat Strength: 1158
-  Total Strength: 1685
-  Planet Strength: 1685
-  Space Strength: 0
-  Garrison Strength: 467
+  Tech Score: 1530
+  Unit Score: 1530
+  Average Score: 1530
+  Stat Strength: 1283
+  Total Strength: 1530
+  Planet Strength: 1530
+  Space Strength: 1404
+  Garrison Strength: 395
 Statistics:
-  Movement Type: mech
-  Move Points: 13
-  Spot: 10
-  Camouflage: 4
-  Agility: 15
-  Armor: 18
-  Psy Defense: 18
-  Rank: 99
+  Movement Type: foot
+  Move Points: 15
+  Spot: 14
+  Camouflage: 16
+  Agility: 19
+  Armor: 7
+  Psy Defense: 14
+  Rank: 15
 Attacks:
-  Indirect: 16/17
-  Direct: 15/17
+  Psychic: 11/11
+  Close: 14/9
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 13
-Build Cost: 132
+Causes Tactical Plague
+Upkeep / Maintenance: 38
+Build Cost: 377
 Build Resource Requirements:
-  Food: 4
-  Energy: 16
-  Metal: 13
-  Trace: 8
-  Exotica: 4
+  Food: 8
+  Energy: 19
+  Metal: 3
+  Trace: 12
+  Exotica: 9
   Chemicals: 23
-  Electronics: 19
-  Ceramsteel: 18
-Build Light Mech in Starport
+  Biochems: 49
+  Electronics: 31
+  Gems: 5
+Build Symbiot Minder in Hive
 Time to Build / Upgrade: 3
-[10330] Technologies Required to Build Unit (84):
-  [1690] Ceramsteel (84)
-  [2420] Rocket-Propelled Aircraft (87)
-  [6220] Mechanically-Enhanced Soldiers (80)
+[6995] Technology Required to Build Unit (37):
+  [6995] Symbiot Psychology (37)
 Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---2--
-Name: Medium Mech
-Nick Name: Harbinger
-Scores & Strengths:
-  Tech Score: 2033
-  Unit Score: 2033
-  Average Score: 2033
-  Stat Strength: 1393
-  Total Strength: 2033
-  Planet Strength: 2033
-  Space Strength: 0
-  Garrison Strength: 543
-Statistics:
-  Movement Type: mech
-  Move Points: 14
-  Spot: 12
-  Camouflage: 6
-  Agility: 7
-  Armor: 22
-  Psy Defense: 22
-  Rank: 106
-Attacks:
-  Indirect: 16/20
-  Direct: 16/20
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 84
-Build Cost: 844
-Build Resource Requirements:
-  Food: 3
-  Energy: 12
-  Metal: 10
-  Trace: 8
-  Exotica: 3
-  Chemicals: 14
-  Electronics: 17
-  Ceramsteel: 12
-  Monopols: 23
-Build Medium Mech in Starport
-Time to Build / Upgrade: 3
-[10220] Technology Required to Build Unit (73):
-  [10220] Mechanized Warriors (73)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---3--
-Name: Heavy Mech
-Nick Name: Vanguard
-Scores & Strengths:
-  Tech Score: 4858
-  Unit Score: 4857
-  Average Score: 4858
-  Stat Strength: 2985
-  Total Strength: 4857
-  Planet Strength: 4857
-  Space Strength: 0
-  Garrison Strength: 1214
-Statistics:
-  Movement Type: mech
-  Move Points: 16
-  Spot: 14
-  Camouflage: 10
-  Agility: 11
-  Armor: 34
-  Psy Defense: 34
-  Rank: 154
-Attacks:
-  Indirect: 27/28
-  Direct: 27/28
-  Close: 18/20
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 105
-Build Cost: 1045
-Build Resource Requirements:
-  Food: 2
-  Energy: 12
-  Metal: 9
-  Trace: 14
-  Exotica: 2
-  Chemicals: 14
-  Biochems: 23
-  Electronics: 27
-  Ceramsteel: 13
-  Monopols: 27
-Build Heavy Mech in Starport
-Time to Build / Upgrade: 4
-[32655] Technology Required to Build Unit (65):
-  [32655] Advanced Mechanized Warriors (65)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: 3rd-Republic Mech
-Nick Name: Mangler
-Scores & Strengths:
-  Tech Score: 5174
-  Unit Score: 5179
-  Average Score: 5176
-  Stat Strength: 3156
-  Total Strength: 5179
-  Planet Strength: 5179
-  Space Strength: 0
-  Garrison Strength: 1256
-Statistics:
-  Movement Type: mech
-  Move Points: 17
-  Spot: 14
-  Camouflage: 10
-  Agility: 11
-  Armor: 35
-  Psy Defense: 35
-  Rank: 159
-Attacks:
-  Indirect: 28/29
-  Direct: 28/29
-  Close: 19/21
-Load aboard transport: YES
-Upkeep / Maintenance: 51
-Build Cost: 514
-Build Resource Requirements:
-  Food: 1
-  Energy: 8
-  Metal: 5
-  Trace: 7
-  Exotica: 1
-  Chemicals: 10
-  Biochems: 12
-  Electronics: 16
-  Ceramsteel: 9
-  Monopols: 18
-Build 3rd-Republic Mech in Factory
-Time to Build / Upgrade: 3
-[62760] Technologies Required to Build Unit (68):
-  [15130] Fusion Battle Tanks (68)
-  [14975] Power Hovertanks (70)
-  [32655] Advanced Mechanized Warriors (65)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Assault Mech
-Nick Name: Avatar
-Scores & Strengths:
-  Tech Score: 5451
-  Unit Score: 5450
-  Average Score: 5450
-  Stat Strength: 3370
-  Total Strength: 5450
-  Planet Strength: 5450
-  Space Strength: 0
-  Garrison Strength: 1284
-Statistics:
-  Movement Type: mech
-  Move Points: 18
-  Spot: 16
-  Camouflage: 12
-  Agility: 14
-  Armor: 35
-  Psy Defense: 35
-  Rank: 163
-Attacks:
-  Indirect: 28/30
-  Direct: 29/29
-  Close: 19/21
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 130
-Build Cost: 1296
-Build Resource Requirements:
-  Food: 1
-  Energy: 13
-  Metal: 7
-  Trace: 7
-  Exotica: 1
-  Chemicals: 14
-  Biochems: 23
-  Electronics: 15
-  Ceramsteel: 12
-  Wetware: 8
-  Monopols: 25
-Build Assault Mech in Starport
-Time to Build / Upgrade: 4
-[49400] Technologies Required to Build Unit (44):
-  [16745] Wetware (23)
-  [32655] Advanced Mechanized Warriors (65)
-Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

@@ -1,45 +1,272 @@
-All units of the unit class PTS Guided Missile are listed herein (1 in total):
+All units of the unit class Naval Corvette are listed herein (6 in total):
 
 --1--
-Name: PTS Guided Missile
-Nick Name: PTS GM
+Name: Naval Corvette
+Nick Name: NN-Corv
 Scores & Strengths:
-  Tech Score: 522
-  Unit Score: 521
-  Average Score: 522
-  Stat Strength: 296
-  Total Strength: 521
-  Planet Strength: 296
-  Space Strength: 521
-  Garrison Strength: 85
+  Tech Score: 520
+  Unit Score: 520
+  Average Score: 520
+  Stat Strength: 440
+  Total Strength: 520
+  Planet Strength: 520
+  Space Strength: 0
+  Garrison Strength: 183
 Statistics:
-  Movement Type: air
-  Move Points: 12
-  Spot: 0
-  Camouflage: 12
-  Agility: 0
-  Armor: 2
-  Psy Defense: 2
-  Rank: 85
+  Movement Type: naval
+  Move Points: 8
+  Spot: 6
+  Camouflage: 4
+  Agility: 6
+  Armor: 12
+  Psy Defense: 12
+  Rank: 94
 Attacks:
-  Ranged Space: 15/15
+  Indirect: 3/12
+  Direct: 2/12
+  Close: 2/10
 Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 4
-Build Cost: 35
+Upkeep / Maintenance: 17
+Build Cost: 170
 Build Resource Requirements:
-  Food: 6
-  Energy: 9
-  Metal: 5
-  Trace: 25
-  Exotica: 6
-  Chemicals: 35
-  Electronics: 30
-Build PTS Guided Missile in Chemical Plant
+  Food: 4
+  Energy: 28
+  Metal: 32
+  Trace: 5
+  Exotica: 4
+  Chemicals: 19
+  Biochems: 4
+  Electronics: 4
+Build Naval Corvette in Well
 Time to Build / Upgrade: 2
-[1670] Technology Required to Build Unit (83):
-  [1670] Guided Missiles (83)
+[1770] Technologies Required to Build Unit (95):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [1560] Naval Patrol Ships (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Naval Corvette II
+Nick Name: NN-Corv II
+Scores & Strengths:
+  Tech Score: 658
+  Unit Score: 594
+  Average Score: 626
+  Stat Strength: 507
+  Total Strength: 594
+  Planet Strength: 594
+  Space Strength: 0
+  Garrison Strength: 198
+Statistics:
+  Movement Type: naval
+  Move Points: 9
+  Spot: 6
+  Camouflage: 4
+  Agility: 6
+  Armor: 13
+  Psy Defense: 13
+  Rank: 96
+Attacks:
+  Indirect: 3/13
+  Direct: 2/13
+  Close: 2/11
+Load aboard transport: YES
+Upkeep / Maintenance: 16
+Build Cost: 159
+Build Resource Requirements:
+  Food: 3
+  Energy: 27
+  Metal: 33
+  Trace: 5
+  Exotica: 4
+  Chemicals: 19
+  Biochems: 4
+  Electronics: 4
+Build Naval Corvette II in Well
+Time to Build / Upgrade: 2
+[2270] Technology Required to Build Unit (86):
+  [2270] Naval Escort Ships (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Naval Corvette III
+Nick Name: NN-Corv III
+Scores & Strengths:
+  Tech Score: 1134
+  Unit Score: 1097
+  Average Score: 1116
+  Stat Strength: 926
+  Total Strength: 1097
+  Planet Strength: 1097
+  Space Strength: 0
+  Garrison Strength: 316
+Statistics:
+  Movement Type: naval
+  Move Points: 12
+  Spot: 7
+  Camouflage: 6
+  Agility: 7
+  Armor: 18
+  Psy Defense: 18
+  Rank: 107
+Attacks:
+  Indirect: 4/18
+  Direct: 3/18
+  Close: 3/15
+Load aboard transport: YES
+Upkeep / Maintenance: 26
+Build Cost: 255
+Build Resource Requirements:
+  Food: 3
+  Energy: 32
+  Metal: 20
+  Trace: 4
+  Exotica: 3
+  Chemicals: 30
+  Biochems: 4
+  Electronics: 4
+  Ceramsteel: 23
+Build Naval Corvette III in Well
+Time to Build / Upgrade: 3
+[4695] Technology Required to Build Unit (83):
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Guided Missile Corvette
+Nick Name: NN-CorvGM
+Scores & Strengths:
+  Tech Score: 1339
+  Unit Score: 1339
+  Average Score: 1339
+  Stat Strength: 1093
+  Total Strength: 1339
+  Planet Strength: 1339
+  Space Strength: 0
+  Garrison Strength: 386
+Statistics:
+  Movement Type: naval
+  Move Points: 12
+  Spot: 7
+  Camouflage: 6
+  Agility: 8
+  Armor: 20
+  Psy Defense: 20
+  Rank: 110
+Attacks:
+  Indirect: 6/19
+  Direct: 4/18
+  Close: 4/15
+Load aboard transport: YES
+Upkeep / Maintenance: 27
+Build Cost: 266
+Build Resource Requirements:
+  Food: 3
+  Energy: 29
+  Metal: 21
+  Trace: 4
+  Exotica: 3
+  Chemicals: 28
+  Biochems: 4
+  Electronics: 5
+  Ceramsteel: 26
+Build Guided Missile Corvette in Well
+Time to Build / Upgrade: 3
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: PTS Missile Corvette
+Nick Name: NN-CorvPTS
+Scores & Strengths:
+  Tech Score: 1474
+  Unit Score: 1843
+  Average Score: 1658
+  Stat Strength: 1245
+  Total Strength: 1843
+  Planet Strength: 1678
+  Space Strength: 1410
+  Garrison Strength: 465
+Statistics:
+  Movement Type: naval
+  Move Points: 13
+  Spot: 8
+  Camouflage: 7
+  Agility: 9
+  Armor: 21
+  Psy Defense: 21
+  Rank: 117
+Attacks:
+  Ranged Space: 11/15
+  Indirect: 9/21
+  Direct: 5/20
+  Close: 8/18
+Load aboard transport: YES
+Upkeep / Maintenance: 37
+Build Cost: 366
+Build Resource Requirements:
+  Food: 3
+  Energy: 33
+  Metal: 21
+  Trace: 8
+  Exotica: 3
+  Chemicals: 40
+  Biochems: 6
+  Electronics: 9
+  Ceramsteel: 27
+Build PTS Missile Corvette in Well
+Time to Build / Upgrade: 3
+[6655] Technology Required to Build Unit (83):
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Advanced Naval Corvette
+Nick Name: NN-CorvAdv
+Scores & Strengths:
+  Tech Score: 1579
+  Unit Score: 1973
+  Average Score: 1776
+  Stat Strength: 1409
+  Total Strength: 1973
+  Planet Strength: 1973
+  Space Strength: 0
+  Garrison Strength: 527
+Statistics:
+  Movement Type: naval
+  Move Points: 14
+  Spot: 9
+  Camouflage: 8
+  Agility: 10
+  Armor: 22
+  Psy Defense: 22
+  Rank: 122
+Attacks:
+  Indirect: 10/22
+  Direct: 7/22
+  Close: 10/19
+Load aboard transport: YES
+Upkeep / Maintenance: 38
+Build Cost: 377
+Build Resource Requirements:
+  Food: 3
+  Energy: 36
+  Metal: 22
+  Trace: 8
+  Exotica: 4
+  Chemicals: 37
+  Biochems: 6
+  Electronics: 10
+  Ceramsteel: 28
+Build Advanced Naval Corvette in Well
+Time to Build / Upgrade: 3
+[7295] Technology Required to Build Unit (81):
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
