@@ -1,450 +1,296 @@
-All units of the unit class Mortar Infantry are listed herein (11 in total):
+All units of the unit class Coastal Artillery Transport are listed herein (7 in total):
 
 --1--
-Name: Mortar Infantry
-Nick Name: Mtr Inf
+Name: Coastal Artillery Transport
+Nick Name: CA X-port
 Scores & Strengths:
-  Tech Score: 118
-  Unit Score: 117
-  Average Score: 118
-  Stat Strength: 36
-  Total Strength: 117
-  Planet Strength: 117
+  Tech Score: 106
+  Unit Score: 102
+  Average Score: 104
+  Stat Strength: 102
+  Total Strength: 102
+  Planet Strength: 102
   Space Strength: 0
-  Garrison Strength: 82
+  Garrison Strength: 51
 Statistics:
-  Movement Type: foot
-  Move Points: 2
+  Movement Type: wheel
+  Move Points: 4
   Spot: 2
-  Camouflage: 2
-  Agility: 2
-  Armor: 4
-  Psy Defense: 2
-  Rank: 69
-Attacks:
-  Indirect: 8/10
-  Close: 1/1
+  Camouflage: 1
+  Agility: 1
+  Armor: 8
+  Psy Defense: 4
+  Rank: 51
 Load aboard transport: YES
+Can tow units that can be towed
 Upkeep / Maintenance: 2
-Build Cost: 6
 Build Resource Requirements:
-  Energy: 7
-  Metal: 9
-  Trace: 5
+  Food: 3
   Exotica: 2
-  Chemicals: 2
-Upgrade Peasant to Mortar Infantry at Fort
+Upgrade Coastal Artillery to Coastal Artillery Transport at Factory
 Time to Build / Upgrade: 1
-[230] Technology Required to Build Unit (97):
-  [230] Advanced Artillery (97)
+[310] Technologies Required to Build Unit (98):
+  [110] Structural Engineering (99)
+  [200] Fortifications (97)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Mortar Infantry (BE)
-Nick Name: Mtr Inf (BE)
+Name: Bunker
+Nick Name: Bunker
 Scores & Strengths:
-  Tech Score: 208
-  Unit Score: 240
-  Average Score: 224
-  Stat Strength: 71
-  Total Strength: 240
-  Planet Strength: 240
+  Tech Score: 106
+  Unit Score: 208
+  Average Score: 157
+  Stat Strength: 132
+  Total Strength: 208
+  Planet Strength: 208
   Space Strength: 0
-  Garrison Strength: 138
+  Garrison Strength: 260
 Statistics:
-  Movement Type: foot
-  Move Points: 3
+  Movement Type: tread
+  Move Points: 0
   Spot: 2
-  Camouflage: 3
-  Agility: 2
-  Armor: 6
-  Psy Defense: 3
-  Rank: 78
+  Camouflage: 0
+  Agility: 0
+  Armor: 8
+  Psy Defense: 8
+  Rank: 86
 Attacks:
-  Indirect: 12/14
-  Close: 1/1
-Load aboard transport: YES
-May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 3
-Build Cost: 19
+  Direct: 4/10
+  Close: 6/6
+Cargo Space: 2
+Can be towed
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 15
+Build Cost: 152
 Build Resource Requirements:
-  Metal: 7
-  Biochems: 2
-Upgrade Mortar Infantry to Mortar Infantry (BE) at Biochem Plant
-Time to Build / Upgrade: 1
-[650] Technologies Required to Build Unit (87):
-  [420] Biochem-Enhanced Soldiers (77)
-  [230] Advanced Artillery (97)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 3
+  Energy: 45
+  Metal: 76
+  Trace: 30
+  Exotica: 2
+  Chemicals: 47
+Build Bunker in Any building
+Time to Build / Upgrade: 4
+[200] Technology Required to Build Unit (97):
+  [200] Fortifications (97)
 Unit can be disbanded: YES
 
 --3--
-Name: Mortar Infantry (SE)
-Nick Name: Mtr Inf (SE)
+Name: Coastal Artillery
+Nick Name: Coast Art
 Scores & Strengths:
-  Tech Score: 285
-  Unit Score: 343
-  Average Score: 314
-  Stat Strength: 101
-  Total Strength: 343
-  Planet Strength: 343
+  Tech Score: 116
+  Unit Score: 228
+  Average Score: 172
+  Stat Strength: 132
+  Total Strength: 228
+  Planet Strength: 228
   Space Strength: 0
-  Garrison Strength: 198
+  Garrison Strength: 228
 Statistics:
-  Movement Type: foot
-  Move Points: 3
-  Spot: 3
-  Camouflage: 3
-  Agility: 3
-  Armor: 7
-  Psy Defense: 4
-  Rank: 84
+  Movement Type: tread
+  Move Points: 1
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 5
+  Rank: 145
 Attacks:
-  Indirect: 14/17
-  Close: 2/2
-Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 29
+  Indirect: 4/24
+Cargo Space: 4
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 25
+Build Cost: 248
 Build Resource Requirements:
-  Energy: 3
-  Metal: 6
-  Trace: 2
-  Biochems: 4
-Upgrade Mortar Infantry to Mortar Infantry (SE) at Hospital
-Time to Build / Upgrade: 1
-[905] Technologies Required to Build Unit (86):
-  [230] Advanced Artillery (97)
-  [675] Surgically-Enhanced Soldiers (75)
+  Food: 1
+  Energy: 102
+  Metal: 43
+  Trace: 6
+  Exotica: 1
+  Chemicals: 106
+Build Coastal Artillery in Factory
+Time to Build / Upgrade: 5
+[435] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [125] Mechanical Think Machines (93)
+  [200] Fortifications (97)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Mortar Infantry (DE)
-Nick Name: Mtr Inf (DE)
+Name: Fortification
+Nick Name: Fortification
 Scores & Strengths:
-  Tech Score: 912
-  Unit Score: 975
-  Average Score: 944
-  Stat Strength: 270
-  Total Strength: 975
-  Planet Strength: 975
+  Tech Score: 424
+  Unit Score: 423
+  Average Score: 424
+  Stat Strength: 396
+  Total Strength: 423
+  Planet Strength: 423
   Space Strength: 0
-  Garrison Strength: 398
+  Garrison Strength: 528
 Statistics:
-  Movement Type: foot
-  Move Points: 6
-  Spot: 3
-  Camouflage: 6
-  Agility: 3
-  Armor: 12
-  Psy Defense: 6
-  Rank: 112
+  Movement Type: tread
+  Move Points: 0
+  Spot: 2
+  Camouflage: 0
+  Agility: 0
+  Armor: 14
+  Psy Defense: 14
+  Rank: 130
 Attacks:
-  Indirect: 24/29
-  Close: 3/3
-Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 34
+  Air: 1/7
+  Indirect: 1/10
+  Close: 2/5
+Cargo Space: 4
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 6
+Build Cost: 61
 Build Resource Requirements:
-  Metal: 39
-  Biochems: 3
-  Electronics: 4
-Upgrade Mortar Infantry to Mortar Infantry (DE) at Biochem Plant
-Time to Build / Upgrade: 1
-[3670] Technologies Required to Build Unit (81):
-  [3440] Drug-Enhanced Soldiers (65)
+  Food: 1
+  Energy: 13
+  Metal: 54
+  Trace: 1
+  Chemicals: 13
+  Electronics: 1
+Build Fortification in Any building
+Time to Build / Upgrade: 2
+[1425] Technologies Required to Build Unit (94):
   [230] Advanced Artillery (97)
-Counts as planetary flock: YES
-Unit Eats: YES
+  [1195] Naval Warfare (90)
 Unit can be disbanded: YES
 
 --5--
-Name: Mortar Infantry (GE)
-Nick Name: Mtr Inf (GE)
+Name: PTS Fortification
+Nick Name: PTS Fort
 Scores & Strengths:
-  Tech Score: 1379
-  Unit Score: 1435
-  Average Score: 1407
-  Stat Strength: 375
-  Total Strength: 1435
-  Planet Strength: 1435
-  Space Strength: 0
-  Garrison Strength: 542
+  Tech Score: 587
+  Unit Score: 585
+  Average Score: 586
+  Stat Strength: 516
+  Total Strength: 585
+  Planet Strength: 561
+  Space Strength: 540
+  Garrison Strength: 701
 Statistics:
-  Movement Type: foot
-  Move Points: 7
-  Spot: 4
-  Camouflage: 7
-  Agility: 4
-  Armor: 14
-  Psy Defense: 7
-  Rank: 129
+  Movement Type: tread
+  Move Points: 0
+  Spot: 2
+  Camouflage: 0
+  Agility: 0
+  Armor: 16
+  Psy Defense: 16
+  Rank: 135
 Attacks:
-  Indirect: 29/36
-  Close: 4/4
-Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 20
+  Ranged Space: 2/12
+  Air: 3/7
+  Indirect: 2/12
+Cargo Space: 4
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 9
+Build Cost: 94
 Build Resource Requirements:
-  Energy: 10
-  Chemicals: 3
-  Biochems: 8
-  Ceramsteel: 6
-Upgrade Mortar Infantry (DE) to Mortar Infantry (GE) at Lab
-Time to Build / Upgrade: 1
-[6250] Technologies Required to Build Unit (73):
-  [230] Advanced Artillery (97)
-  [6020] Chemical Shock Legion (49)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 21
+  Metal: 55
+  Trace: 2
+  Chemicals: 31
+  Electronics: 2
+Build PTS Fortification in Any building
+Time to Build / Upgrade: 2
+[1950] Technology Required to Build Unit (88):
+  [1950] PTS Missile Launcher (88)
 Unit can be disbanded: YES
 
 --6--
-Name: Mortar Infantry (PA)
-Nick Name: Mtr Inf (PA)
+Name: PTS Fortification II
+Nick Name: PTS Fort II
 Scores & Strengths:
-  Tech Score: 1405
-  Unit Score: 1464
-  Average Score: 1435
-  Stat Strength: 404
-  Total Strength: 1464
-  Planet Strength: 1464
-  Space Strength: 0
-  Garrison Strength: 553
+  Tech Score: 1087
+  Unit Score: 1108
+  Average Score: 1097
+  Stat Strength: 972
+  Total Strength: 1108
+  Planet Strength: 1060
+  Space Strength: 1020
+  Garrison Strength: 1325
 Statistics:
-  Movement Type: foot
-  Move Points: 7
-  Spot: 4
-  Camouflage: 7
-  Agility: 4
-  Armor: 15
-  Psy Defense: 7
-  Rank: 129
+  Movement Type: tread
+  Move Points: 0
+  Spot: 2
+  Camouflage: 0
+  Agility: 0
+  Armor: 22
+  Psy Defense: 22
+  Rank: 145
 Attacks:
-  Indirect: 29/36
-  Close: 4/4
-Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 60
+  Ranged Space: 3/16
+  Air: 4/10
+  Indirect: 3/16
+Cargo Space: 4
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 11
+Build Cost: 114
 Build Resource Requirements:
-  Energy: 24
-  Chemicals: 13
-  Electronics: 4
-  Ceramsteel: 24
-Upgrade Mortar Infantry (SE) to Mortar Infantry (PA) at Hospital
+  Energy: 16
+  Metal: 97
+  Trace: 1
+  Chemicals: 22
+  Electronics: 1
+Build PTS Fortification II in Any building
 Time to Build / Upgrade: 2
-[6405] Technologies Required to Build Unit (77):
-  [230] Advanced Artillery (97)
-  [6175] Prosthetically-Augmented Soldiers (57)
-Counts as planetary flock: YES
-Unit Eats: YES
+[6120] Technologies Required to Build Unit (86):
+  [1950] PTS Missile Launcher (88)
+  [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
 --7--
-Name: Mortar Infantry (CE)
-Nick Name: Mtr Inf (CE)
+Name: PTS Fortification III
+Nick Name: PTS Fort III
 Scores & Strengths:
-  Tech Score: 1797
-  Unit Score: 1915
-  Average Score: 1856
-  Stat Strength: 513
-  Total Strength: 1915
-  Planet Strength: 1915
-  Space Strength: 0
-  Garrison Strength: 677
+  Tech Score: 1591
+  Unit Score: 1541
+  Average Score: 1566
+  Stat Strength: 1361
+  Total Strength: 1541
+  Planet Strength: 1481
+  Space Strength: 1421
+  Garrison Strength: 1851
 Statistics:
-  Movement Type: foot
-  Move Points: 8
-  Spot: 4
-  Camouflage: 8
-  Agility: 4
-  Armor: 17
-  Psy Defense: 8
-  Rank: 144
+  Movement Type: tread
+  Move Points: 0
+  Spot: 3
+  Camouflage: 0
+  Agility: 0
+  Armor: 26
+  Psy Defense: 26
+  Rank: 154
 Attacks:
-  Indirect: 33/42
-  Close: 4/4
-Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 61
+  Ranged Space: 3/20
+  Air: 5/12
+  Indirect: 3/20
+Cargo Space: 4
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 16
+Build Cost: 160
 Build Resource Requirements:
-  Energy: 21
-  Metal: 4
-  Chemicals: 3
-  Biochems: 1
-  Ceramsteel: 6
-Upgrade Mortar Infantry (PA) to Mortar Infantry (CE) at Lab
-Time to Build / Upgrade: 1
-[8830] Technologies Required to Build Unit (73):
-  [230] Advanced Artillery (97)
-  [8600] Cybernetically-Enhanced Soldiers (48)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---8--
-Name: Mortar Infantry (ME)
-Nick Name: Mtr Inf (ME)
-Scores & Strengths:
-  Tech Score: 1401
-  Unit Score: 1915
-  Average Score: 1658
-  Stat Strength: 759
-  Total Strength: 1915
-  Planet Strength: 1915
-  Space Strength: 0
-  Garrison Strength: 451
-Statistics:
-  Movement Type: foot
-  Move Points: 18
-  Spot: 4
-  Camouflage: 7
-  Agility: 9
-  Armor: 15
-  Psy Defense: 8
-  Rank: 135
-Attacks:
-  Indirect: 30/38
-  Close: 4/4
-Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 76
-Build Resource Requirements:
-  Food: 4
-  Energy: 20
-  Exotica: 4
-  Chemicals: 19
-  Electronics: 10
-  Ceramsteel: 10
-Upgrade Mortar Infantry to Mortar Infantry (ME) at Factory
-Time to Build / Upgrade: 2
-[6220] Technology Required to Build Unit (80):
-  [6220] Mechanically-Enhanced Soldiers (80)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---9--
-Name: Mortar Infantry (AVE)
-Nick Name: Mtr Inf (AVE)
-Scores & Strengths:
-  Tech Score: 1843
-  Unit Score: 1957
-  Average Score: 1900
-  Stat Strength: 513
-  Total Strength: 1957
-  Planet Strength: 1957
-  Space Strength: 0
-  Garrison Strength: 691
-Statistics:
-  Movement Type: foot
-  Move Points: 8
-  Spot: 4
-  Camouflage: 8
-  Agility: 4
-  Armor: 17
-  Psy Defense: 8
-  Rank: 145
-Attacks:
-  Indirect: 34/42
-  Close: 4/4
-Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 48
-Build Resource Requirements:
-  Energy: 9
-  Biochems: 2
-  Electronics: 1
-Upgrade Mortar Infantry (GE) to Mortar Infantry (AVE) at Lab
-Time to Build / Upgrade: 1
-[9130] Technologies Required to Build Unit (61):
-  [230] Advanced Artillery (97)
-  [8900] Genetically-Enhanced Warriors (25)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---10--
-Name: Mortar Infantry (MF)
-Nick Name: Mtr Inf (MF)
-Scores & Strengths:
-  Tech Score: 3182
-  Unit Score: 3342
-  Average Score: 3262
-  Stat Strength: 897
-  Total Strength: 3342
-  Planet Strength: 3342
-  Space Strength: 0
-  Garrison Strength: 1007
-Statistics:
-  Movement Type: foot
-  Move Points: 11
-  Spot: 5
-  Camouflage: 11
-  Agility: 5
-  Armor: 22
-  Psy Defense: 11
-  Rank: 182
-Attacks:
-  Indirect: 44/55
-  Close: 5/5
-Load aboard transport: YES
-Upkeep / Maintenance: 37
-Build Cost: 306
-Build Resource Requirements:
-  Energy: 10
-  Biochems: 11
-  Wetware: 1
-  Monopols: 9
-Upgrade Mortar Infantry (CE) to Mortar Infantry (MF) at Wetware
-Time to Build / Upgrade: 1
-[18805] Technologies Required to Build Unit (66):
-  [230] Advanced Artillery (97)
-  [18575] Machine-Fused Soldiers (35)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---11--
-Name: Mortar Infantry (NE)
-Nick Name: Mtr Inf (NE)
-Scores & Strengths:
-  Tech Score: 3872
-  Unit Score: 4244
-  Average Score: 4058
-  Stat Strength: 1219
-  Total Strength: 4244
-  Planet Strength: 4244
-  Space Strength: 0
-  Garrison Strength: 1225
-Statistics:
-  Movement Type: foot
-  Move Points: 12
-  Spot: 5
-  Camouflage: 16
-  Agility: 5
-  Armor: 25
-  Psy Defense: 12
-  Rank: 201
-Attacks:
-  Indirect: 49/61
-  Close: 6/6
-Load aboard transport: YES
-Upkeep / Maintenance: 26
-Build Cost: 212
-Build Resource Requirements:
+  Energy: 18
+  Metal: 135
   Trace: 1
-  Electronics: 3
-  Wetware: 1
-  Monopols: 7
-Upgrade Mortar Infantry (AVE) to Mortar Infantry (NE) at Fusorium
-Time to Build / Upgrade: 1
-[24130] Technology Required to Build Unit (32):
-  [24130] Neumonically-Enhanced Soldiers (32)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Chemicals: 27
+  Electronics: 1
+Build PTS Fortification III in Any building
+Time to Build / Upgrade: 3
+[9055] Technologies Required to Build Unit (83):
+  [1950] PTS Missile Launcher (88)
+  [7105] Hypercruise Missiles (77)
 Unit can be disbanded: YES

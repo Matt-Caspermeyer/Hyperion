@@ -1,216 +1,392 @@
-All units of the unit class Heavy Tank are listed herein (5 in total):
+All units of the unit class Anti-Personnel Mine are listed herein (9 in total):
 
 --1--
-Name: Heavy Tank
-Nick Name: Heavy Tank
+Name: Anti-Personnel Mine
+Nick Name: AP Mine
 Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 157
-  Average Score: 132
-  Stat Strength: 118
-  Total Strength: 157
-  Planet Strength: 157
+  Tech Score: 151
+  Unit Score: 151
+  Average Score: 151
+  Stat Strength: 100
+  Total Strength: 151
+  Planet Strength: 151
   Space Strength: 0
-  Garrison Strength: 90
+  Garrison Strength: 188
 Statistics:
-  Movement Type: tread
-  Move Points: 3
-  Spot: 1
-  Camouflage: 1
-  Agility: 1
-  Armor: 9
-  Psy Defense: 5
-  Rank: 64
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 10
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Indirect: 1/12
-  Direct: 1/12
-  Close: 5/3
+  Indirect: 3/7
+  Close: 3/10
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 64
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 23
 Build Resource Requirements:
-  Food: 2
-  Energy: 60
-  Metal: 39
-  Trace: 8
-  Exotica: 1
-  Chemicals: 30
-Build Heavy Tank in Factory
+  Energy: 75
+  Trace: 102
+  Chemicals: 75
+Build Anti-Personnel Mine in Fort
 Time to Build / Upgrade: 3
-[400] Technologies Required to Build Unit (98):
-  [110] Structural Engineering (99)
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-Counts as planetary flock: YES
-Unit Eats: YES
+[320] Technology Required to Build Unit (88):
+  [320] Viper Militia (88)
 Unit can be disbanded: YES
 
 --2--
-Name: Super Heavy Tank
-Nick Name: S-Hvy Tank
+Name: Anti-Personnel Mine II
+Nick Name: AP Mine II
 Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 160
-  Average Score: 133
-  Stat Strength: 132
-  Total Strength: 160
-  Planet Strength: 160
+  Tech Score: 330
+  Unit Score: 325
+  Average Score: 328
+  Stat Strength: 225
+  Total Strength: 325
+  Planet Strength: 325
   Space Strength: 0
-  Garrison Strength: 113
+  Garrison Strength: 406
 Statistics:
-  Movement Type: tread
-  Move Points: 2
-  Spot: 1
-  Camouflage: 1
-  Agility: 1
-  Armor: 10
-  Psy Defense: 5
-  Rank: 66
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 15
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Indirect: 1/14
-  Direct: 1/14
+  Indirect: 4/10
+  Close: 4/15
 Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 76
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 26
 Build Resource Requirements:
-  Food: 1
-  Energy: 78
-  Metal: 46
-  Trace: 3
-  Exotica: 1
-  Chemicals: 38
-Build Super Heavy Tank in Factory
-Time to Build / Upgrade: 3
-[400] Technologies Required to Build Unit (98):
-  [110] Structural Engineering (99)
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 94
+  Trace: 33
+  Chemicals: 95
+  Electronics: 42
+Build Anti-Personnel Mine II in Fort
+Time to Build / Upgrade: 4
+[1015] Technologies Required to Build Unit (88):
+  [695] Piezoelectricity (87)
+  [320] Viper Militia (88)
 Unit can be disbanded: YES
 
 --3--
-Name: Heavy Tank II
-Nick Name: Hvy Tank II
+Name: Anti-Personnel Mine III
+Nick Name: AP Mine III
 Scores & Strengths:
-  Tech Score: 162
-  Unit Score: 230
-  Average Score: 196
-  Stat Strength: 176
-  Total Strength: 230
-  Planet Strength: 230
+  Tech Score: 580
+  Unit Score: 604
+  Average Score: 592
+  Stat Strength: 400
+  Total Strength: 604
+  Planet Strength: 604
   Space Strength: 0
-  Garrison Strength: 115
+  Garrison Strength: 755
 Statistics:
-  Movement Type: tread
-  Move Points: 4
-  Spot: 1
-  Camouflage: 1
-  Agility: 1
-  Armor: 11
-  Psy Defense: 6
-  Rank: 68
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 20
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Indirect: 1/15
-  Direct: 1/15
-  Close: 6/4
+  Indirect: 6/14
+  Close: 6/20
 Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 124
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 19
 Build Resource Requirements:
-  Food: 4
-  Energy: 107
-  Metal: 61
-  Trace: 15
-  Exotica: 3
-  Chemicals: 69
-Build Heavy Tank II in Factory
-Time to Build / Upgrade: 4
-[350] Technology Required to Build Unit (95):
-  [350] Tanks (95)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 38
+  Trace: 32
+  Chemicals: 59
+  Electronics: 49
+Build Anti-Personnel Mine III in Fort
+Time to Build / Upgrade: 3
+[2155] Technologies Required to Build Unit (87):
+  [1690] Ceramsteel (84)
+  [145] Prana Bindu (89)
+  [320] Viper Militia (88)
 Unit can be disbanded: YES
 
 --4--
-Name: Tank Killer
-Nick Name: Wolverine
+Name: Anti-Personnel Mine VI
+Nick Name: AP Mine VI
 Scores & Strengths:
-  Tech Score: 162
-  Unit Score: 240
-  Average Score: 201
-  Stat Strength: 217
-  Total Strength: 240
-  Planet Strength: 240
+  Tech Score: 2010
+  Unit Score: 1978
+  Average Score: 1994
+  Stat Strength: 1296
+  Total Strength: 1978
+  Planet Strength: 1978
   Space Strength: 0
-  Garrison Strength: 107
+  Garrison Strength: 2472
 Statistics:
-  Movement Type: tread
-  Move Points: 5
-  Spot: 2
-  Camouflage: 2
-  Agility: 2
-  Armor: 12
-  Psy Defense: 6
-  Rank: 64
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 36
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 7
 Attacks:
-  Indirect: 1/12
-  Direct: 1/11
+  Indirect: 11/26
+  Close: 11/36
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 92
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 18
+Build Cost: 177
 Build Resource Requirements:
-  Food: 6
-  Energy: 65
-  Metal: 79
-  Trace: 7
-  Exotica: 5
-  Chemicals: 40
-Build Tank Killer in Factory
-Time to Build / Upgrade: 3
-[350] Technology Required to Build Unit (95):
-  [350] Anti-Tank Weaponry (95)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 20
+  Trace: 25
+  Chemicals: 34
+  Electronics: 46
+  Monopols: 45
+Build Anti-Personnel Mine VI in Fort
+Time to Build / Upgrade: 4
+[10065] Technology Required to Build Unit (79):
+  [10065] Powered-Armor Legion (79)
 Unit can be disbanded: YES
 
 --5--
-Name: Shock Tank Killer
-Nick Name: Sabertooth
+Name: Anti-Personnel Mine VI
+Nick Name: AP Mine VI
 Scores & Strengths:
-  Tech Score: 1413
-  Unit Score: 2029
-  Average Score: 1721
-  Stat Strength: 1828
-  Total Strength: 2029
-  Planet Strength: 2029
+  Tech Score: 2010
+  Unit Score: 1978
+  Average Score: 1994
+  Stat Strength: 1296
+  Total Strength: 1978
+  Planet Strength: 1978
   Space Strength: 0
-  Garrison Strength: 523
+  Garrison Strength: 2472
 Statistics:
-  Movement Type: tread
-  Move Points: 15
-  Spot: 3
-  Camouflage: 6
-  Agility: 3
-  Armor: 35
-  Psy Defense: 18
-  Rank: 102
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 36
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 7
 Attacks:
-  Indirect: 3/35
-  Direct: 3/32
+  Indirect: 11/26
+  Close: 11/36
 Load aboard transport: YES
-Upkeep / Maintenance: 152
-Build Cost: 1424
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 18
+Build Cost: 177
 Build Resource Requirements:
-  Chemicals: 20
-  Electronics: 23
-  Ceramsteel: 45
-  Monopols: 63
-Upgrade Tank Killer to Shock Tank Killer at Factory
-Time to Build / Upgrade: 3
-[6950] Technologies Required to Build Unit (77):
-  [1745] Monopols (70)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 20
+  Trace: 25
+  Chemicals: 34
+  Electronics: 46
+  Monopols: 45
+Build Anti-Personnel Mine VI in Fort
+Time to Build / Upgrade: 4
+[10065] Technology Required to Build Unit (79):
+  [10065] Powered-Armor Legion (79)
+Unit can be disbanded: YES
+
+--6--
+Name: Anti-Personnel Mine VI
+Nick Name: AP Mine VI
+Scores & Strengths:
+  Tech Score: 2010
+  Unit Score: 1978
+  Average Score: 1994
+  Stat Strength: 1296
+  Total Strength: 1978
+  Planet Strength: 1978
+  Space Strength: 0
+  Garrison Strength: 2472
+Statistics:
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 36
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 7
+Attacks:
+  Indirect: 11/26
+  Close: 11/36
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 18
+Build Cost: 177
+Build Resource Requirements:
+  Energy: 20
+  Trace: 25
+  Chemicals: 34
+  Electronics: 46
+  Monopols: 45
+Build Anti-Personnel Mine VI in Fort
+Time to Build / Upgrade: 4
+[10065] Technology Required to Build Unit (79):
+  [10065] Powered-Armor Legion (79)
+Unit can be disbanded: YES
+
+--7--
+Name: Anti-Personnel Mine VII
+Nick Name: AP Mine VII
+Scores & Strengths:
+  Tech Score: 3023
+  Unit Score: 3013
+  Average Score: 3018
+  Stat Strength: 2025
+  Total Strength: 3013
+  Planet Strength: 3013
+  Space Strength: 0
+  Garrison Strength: 3766
+Statistics:
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 45
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 24
+Attacks:
+  Indirect: 13/31
+  Close: 13/45
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 18
+Build Cost: 180
+Build Resource Requirements:
+  Energy: 27
+  Trace: 20
+  Chemicals: 29
+  Biochems: 16
+  Electronics: 44
+  Monopols: 38
+Build Anti-Personnel Mine VII in Fort
+Time to Build / Upgrade: 4
+[17350] Technology Required to Build Unit (59):
+  [17350] Assault Legion (59)
+Unit can be disbanded: YES
+
+--8--
+Name: Anti-Personnel Mine VIII
+Nick Name: AP Mine VIII
+Scores & Strengths:
+  Tech Score: 3743
+  Unit Score: 3775
+  Average Score: 3759
+  Stat Strength: 2500
+  Total Strength: 3775
+  Planet Strength: 3775
+  Space Strength: 0
+  Garrison Strength: 4718
+Statistics:
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 50
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 38
+Attacks:
+  Indirect: 15/35
+  Close: 15/50
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 16
+Build Cost: 163
+Build Resource Requirements:
+  Energy: 19
+  Trace: 28
+  Chemicals: 28
+  Biochems: 11
+  Electronics: 61
+  Wetware: 1
+  Monopols: 28
+Build Anti-Personnel Mine VIII in Fort
+Time to Build / Upgrade: 4
+[23065] Technology Required to Build Unit (34):
+  [23065] Demolition (34)
+Unit can be disbanded: YES
+
+--9--
+Name: Anti-Personnel Mine IX
+Nick Name: AP Mine IX
+Scores & Strengths:
+  Tech Score: 4203
+  Unit Score: 4249
+  Average Score: 4226
+  Stat Strength: 2809
+  Total Strength: 4249
+  Planet Strength: 4249
+  Space Strength: 0
+  Garrison Strength: 5311
+Statistics:
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 53
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 45
+Attacks:
+  Indirect: 16/37
+  Close: 16/53
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 25
+Build Cost: 253
+Build Resource Requirements:
+  Energy: 29
+  Trace: 26
+  Chemicals: 31
+  Biochems: 16
+  Electronics: 58
+  Wetware: 2
+  Monopols: 45
+Build Anti-Personnel Mine IX in Fort
+Time to Build / Upgrade: 4
+[26915] Technology Required to Build Unit (47):
+  [26915] Rocket Legion (47)
 Unit can be disbanded: YES

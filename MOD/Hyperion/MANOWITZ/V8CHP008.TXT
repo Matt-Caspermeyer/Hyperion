@@ -1,4 +1,4 @@
-All units of the unit class Barrage Balloon are listed herein (1 in total):
+All units of the unit class Barrage Balloon are listed herein (2 in total):
 
 --1--
 Name: Barrage Balloon
@@ -25,11 +25,12 @@ Attacks:
   Air: 2/3
 Load aboard transport: YES
 Never needs refueling
+Can be towed
 Never Rebels
 Never Retreats
 Immune to Plague
 Upkeep / Maintenance: 6
-Build Cost: 61
+Build Cost: 64
 Build Resource Requirements:
   Food: 9
   Energy: 24
@@ -38,4 +39,49 @@ Build Barrage Balloon in Factory
 Time to Build / Upgrade: 2
 [50] Technology Required to Build Unit (100):
   [50] Applied Technology (100)
+Unit can be disbanded: YES
+
+--2--
+Name: Anti-Aircraft Balloon
+Nick Name: AA Balloon
+Scores & Strengths:
+  Tech Score: 106
+  Unit Score: 106
+  Average Score: 106
+  Stat Strength: 78
+  Total Strength: 106
+  Planet Strength: 106
+  Space Strength: 0
+  Garrison Strength: 74
+Statistics:
+  Movement Type: air
+  Move Points: 2
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
+  Armor: 5
+  Psy Defense: 5
+  Rank: 162
+Attacks:
+  Air: 4/7
+Load aboard transport: YES
+Never needs refueling
+Can be towed
+Upkeep / Maintenance: 4
+Build Cost: 38
+Build Resource Requirements:
+  Food: 4
+  Energy: 13
+  Metal: 21
+  Trace: 10
+  Exotica: 3
+  Chemicals: 12
+Build Anti-Aircraft Balloon in Factory
+Time to Build / Upgrade: 2
+[350] Technologies Required to Build Unit (97):
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [60] Aerial Reconnaissance (97)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

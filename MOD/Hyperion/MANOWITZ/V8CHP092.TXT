@@ -1,44 +1,251 @@
-All units of the unit class Space Mine are listed herein (1 in total):
+All units of the unit class Space Scout Rocket are listed herein (6 in total):
 
 --1--
-Name: Space Mine
-Nick Name: Space Mine
+Name: Space Scout Rocket
+Nick Name: S-SR
 Scores & Strengths:
-  Tech Score: 335
-  Unit Score: 334
-  Average Score: 335
-  Stat Strength: 226
-  Total Strength: 334
+  Tech Score: 327
+  Unit Score: 316
+  Average Score: 322
+  Stat Strength: 316
+  Total Strength: 316
   Planet Strength: 0
-  Space Strength: 334
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 2
+  Spot: 12
+  Camouflage: 10
+  Agility: 6
+  Armor: 4
+  Psy Defense: 4
+  Rank: 53
+Load aboard transport: YES
+Upkeep / Maintenance: 16
+Build Cost: 159
+Build Resource Requirements:
+  Food: 17
+  Energy: 3
+  Metal: 19
+  Trace: 48
+  Exotica: 17
+  Chemicals: 4
+  Electronics: 33
+Build Space Scout Rocket in Chemical Plant
+Time to Build / Upgrade: 2
+[895] Technology Required to Build Unit (90):
+  [895] Space Rocketry (90)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Space Capsule
+Nick Name: S-C
+Scores & Strengths:
+  Tech Score: 327
+  Unit Score: 326
+  Average Score: 327
+  Stat Strength: 326
+  Total Strength: 326
+  Planet Strength: 0
+  Space Strength: 0
   Garrison Strength: 0
 Statistics:
   Movement Type: space
   Move Points: 1
-  Spot: 0
-  Camouflage: 15
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 0
+  Spot: 10
+  Camouflage: 3
+  Agility: 4
+  Armor: 10
+  Psy Defense: 10
+  Rank: 63
+Cargo Space: 1
+Upkeep / Maintenance: 16
+Build Cost: 164
+Build Resource Requirements:
+  Food: 13
+  Energy: 3
+  Metal: 119
+  Trace: 23
+  Exotica: 12
+  Chemicals: 4
+  Electronics: 15
+Build Space Capsule in Chemical Plant
+Time to Build / Upgrade: 3
+[895] Technology Required to Build Unit (90):
+  [895] Space Rocketry (90)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Space Rocket
+Nick Name: S-R
+Scores & Strengths:
+  Tech Score: 327
+  Unit Score: 326
+  Average Score: 327
+  Stat Strength: 224
+  Total Strength: 326
+  Planet Strength: 0
+  Space Strength: 326
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 1
+  Spot: 10
+  Camouflage: 3
+  Agility: 4
+  Armor: 7
+  Psy Defense: 7
+  Rank: 51
 Attacks:
-  Closed Space: 6/18
+  Ranged Space: 6/17
 Load aboard transport: YES
 Never Rebels
 Never Retreats
 Immune to Plague
 Destroyed after combat
-Upkeep / Maintenance: 2
-Build Cost: 19
+Upkeep / Maintenance: 4
+Build Cost: 37
 Build Resource Requirements:
-  Energy: 22
-  Trace: 28
-  Chemicals: 29
-  Electronics: 19
-Build Space Mine in Starport
-Time to Build / Upgrade: 2
-[1735] Technologies Required to Build Unit (91):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [795] Missiles (86)
+  Food: 12
+  Energy: 37
+  Metal: 58
+  Trace: 26
+  Exotica: 12
+  Chemicals: 49
+  Electronics: 17
+Build Space Rocket in Chemical Plant
+Time to Build / Upgrade: 3
+[895] Technology Required to Build Unit (90):
+  [895] Space Rocketry (90)
+Unit can be disbanded: YES
+
+--4--
+Name: Jump Scout Rocket
+Nick Name: J-SR
+Scores & Strengths:
+  Tech Score: 417
+  Unit Score: 412
+  Average Score: 414
+  Stat Strength: 412
+  Total Strength: 412
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 2
+  Spot: 14
+  Camouflage: 12
+  Agility: 6
+  Armor: 4
+  Psy Defense: 4
+  Rank: 79
+Load aboard transport: YES
+Upkeep / Maintenance: 81
+Build Cost: 806
+Build Resource Requirements:
+  Food: 19
+  Energy: 2
+  Metal: 13
+  Trace: 55
+  Exotica: 19
+  Chemicals: 3
+  Electronics: 46
+  Gems: 1
+S  ingularities: 2
+Build Jump Scout Rocket in Chemical Plant
+Time to Build / Upgrade: 3
+[1235] Technology Required to Build Unit (76):
+  [1235] Jump Rocketry (76)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Jump Capsule
+Nick Name: J-C
+Scores & Strengths:
+  Tech Score: 417
+  Unit Score: 415
+  Average Score: 416
+  Stat Strength: 415
+  Total Strength: 415
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 2
+  Spot: 12
+  Camouflage: 3
+  Agility: 4
+  Armor: 11
+  Psy Defense: 11
+  Rank: 89
+Cargo Space: 1
+Upkeep / Maintenance: 105
+Build Cost: 1054
+Build Resource Requirements:
+  Food: 15
+  Energy: 2
+  Metal: 101
+  Trace: 25
+  Exotica: 14
+  Chemicals: 3
+  Electronics: 20
+  Gems: 1
+S  ingularities: 2
+Build Jump Capsule in Chemical Plant
+Time to Build / Upgrade: 3
+[1235] Technology Required to Build Unit (76):
+  [1235] Jump Rocketry (76)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Jump Rocket
+Nick Name: J-R
+Scores & Strengths:
+  Tech Score: 417
+  Unit Score: 415
+  Average Score: 416
+  Stat Strength: 263
+  Total Strength: 415
+  Planet Strength: 0
+  Space Strength: 415
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 1
+  Spot: 10
+  Camouflage: 3
+  Agility: 5
+  Armor: 8
+  Psy Defense: 8
+  Rank: 81
+Attacks:
+  Ranged Space: 8/19
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 14
+Build Cost: 138
+Build Resource Requirements:
+  Food: 11
+  Energy: 45
+  Metal: 53
+  Trace: 26
+  Exotica: 10
+  Chemicals: 61
+  Electronics: 21
+  Gems: 1
+S  ingularities: 1
+Build Jump Rocket in Chemical Plant
+Time to Build / Upgrade: 3
+[1235] Technology Required to Build Unit (76):
+  [1235] Jump Rocketry (76)
 Unit can be disbanded: YES

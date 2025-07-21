@@ -1,187 +1,144 @@
-All units of the unit class Scout Mech are listed herein (4 in total):
+All units of the unit class Symbiot Spitter are listed herein (3 in total):
 
 --1--
-Name: Scout Mech
-Nick Name: Locust
+Name: Symbiot Spitter
+Nick Name: Spitter
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 1535
-  Average Score: 1865
-  Stat Strength: 1245
-  Total Strength: 1535
-  Planet Strength: 1535
+  Tech Score: 1530
+  Unit Score: 1530
+  Average Score: 1530
+  Stat Strength: 1133
+  Total Strength: 1530
+  Planet Strength: 1530
   Space Strength: 0
-  Garrison Strength: 410
+  Garrison Strength: 360
 Statistics:
-  Movement Type: mech
-  Move Points: 14
-  Spot: 14
-  Camouflage: 9
+  Movement Type: air
+  Move Points: 18
+  Spot: 10
+  Camouflage: 10
   Agility: 22
-  Armor: 12
-  Psy Defense: 12
-  Rank: 96
+  Armor: 10
+  Psy Defense: 5
+  Rank: 165
 Attacks:
-  Direct: 12/15
-  Close: 10/11
+  Air: 9/17
+  Indirect: 8/17
+  Close: 12/9
 Load aboard transport: YES
+Never needs refueling
 Immune to Plague
-Upkeep / Maintenance: 10
-Build Cost: 100
+Causes Tactical Plague
+Upkeep / Maintenance: 105
+Build Cost: 1047
 Build Resource Requirements:
-  Food: 5
-  Energy: 10
-  Metal: 3
-  Trace: 9
-  Exotica: 5
-  Chemicals: 18
-  Electronics: 17
-  Ceramsteel: 6
-Build Scout Mech in Starport
-Time to Build / Upgrade: 2
-[16120] Technologies Required to Build Unit (79):
-  [1690] Ceramsteel (84)
-  [6220] Mechanically-Enhanced Soldiers (80)
-  [8210] Aircraft Surveillance (74)
+  Food: 9
+  Energy: 112
+  Metal: 2
+  Trace: 10
+  Exotica: 11
+  Chemicals: 139
+  Biochems: 173
+  Electronics: 23
+Build Symbiot Spitter in Hive
+Time to Build / Upgrade: 5
+[6995] Technology Required to Build Unit (37):
+  [6995] Symbiot Psychology (37)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Mech Commander
-Nick Name: Commodore
+Name: Wymgantai (Symbiot)
+Nick Name: Wymgantai
 Scores & Strengths:
-  Tech Score: 2398
-  Unit Score: 2032
-  Average Score: 2215
-  Stat Strength: 1448
-  Total Strength: 2032
-  Planet Strength: 2032
+  Tech Score: 1530
+  Unit Score: 1530
+  Average Score: 1530
+  Stat Strength: 1344
+  Total Strength: 1530
+  Planet Strength: 1530
   Space Strength: 0
-  Garrison Strength: 586
+  Garrison Strength: 342
 Statistics:
-  Movement Type: mech
-  Move Points: 12
+  Movement Type: air
+  Move Points: 20
   Spot: 12
-  Camouflage: 6
-  Agility: 18
-  Armor: 20
-  Psy Defense: 20
-  Rank: 103
+  Camouflage: 12
+  Agility: 24
+  Armor: 8
+  Psy Defense: 4
+  Rank: 160
 Attacks:
-  Air: 10/12
-  Indirect: 9/20
-  Direct: 8/23
-  Close: 10/10
+  Air: 10/9
+  Indirect: 8/12
 Load aboard transport: YES
+Never needs refueling
 Immune to Plague
-Upkeep / Maintenance: 107
-Build Cost: 1070
+Causes Tactical Plague
+Upkeep / Maintenance: 54
+Build Cost: 540
 Build Resource Requirements:
-  Food: 3
-  Energy: 13
-  Metal: 7
-  Trace: 8
-  Exotica: 3
-  Chemicals: 18
-  Electronics: 16
-  Ceramsteel: 8
-  Monopols: 25
-Build Mech Commander in Starport
-Time to Build / Upgrade: 3
-[12740] Technology Required to Build Unit (72):
-  [12740] Mechanized Warriors (72)
+  Food: 11
+  Energy: 45
+  Metal: 1
+  Trace: 11
+  Exotica: 13
+  Chemicals: 56
+  Biochems: 84
+  Electronics: 26
+Build Wymgantai (Symbiot) in Hive
+Time to Build / Upgrade: 4
+[6995] Technology Required to Build Unit (37):
+  [6995] Symbiot Psychology (37)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Power Scout Mech
-Nick Name: Katydid
+Name: Wymzeeset (Symbiot)
+Nick Name: Wymzeset
 Scores & Strengths:
-  Tech Score: 5183
-  Unit Score: 3015
-  Average Score: 4099
-  Stat Strength: 2346
-  Total Strength: 3015
-  Planet Strength: 3015
+  Tech Score: 1530
+  Unit Score: 1530
+  Average Score: 1530
+  Stat Strength: 964
+  Total Strength: 1530
+  Planet Strength: 1530
   Space Strength: 0
-  Garrison Strength: 642
+  Garrison Strength: 382
 Statistics:
-  Movement Type: mech
-  Move Points: 22
-  Spot: 17
-  Camouflage: 14
-  Agility: 27
-  Armor: 18
-  Psy Defense: 18
-  Rank: 132
+  Movement Type: air
+  Move Points: 16
+  Spot: 8
+  Camouflage: 8
+  Agility: 20
+  Armor: 12
+  Psy Defense: 6
+  Rank: 143
 Attacks:
-  Direct: 18/23
-  Close: 15/17
+  Air: 12/17
+  Indirect: 10/17
+  Direct: 12/16
 Load aboard transport: YES
+Never needs refueling
 Immune to Plague
-Upkeep / Maintenance: 95
-Build Cost: 950
+Causes Tactical Plague
+Upkeep / Maintenance: 124
+Build Cost: 1237
 Build Resource Requirements:
-  Food: 3
-  Energy: 9
-  Metal: 2
-  Trace: 12
-  Exotica: 4
-  Chemicals: 12
-  Biochems: 14
-  Electronics: 21
-  Ceramsteel: 3
-  Monopols: 18
-Build Power Scout Mech in Starport
-Time to Build / Upgrade: 2
-[35600] Technology Required to Build Unit (64):
-  [35600] Advanced Mechanized Warriors (64)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: Stealth Scout Mech
-Nick Name: Cicada
-Scores & Strengths:
-  Tech Score: 7163
-  Unit Score: 6866
-  Average Score: 7014
-  Stat Strength: 5952
-  Total Strength: 6866
-  Planet Strength: 6866
-  Space Strength: 0
-  Garrison Strength: 1297
-Statistics:
-  Movement Type: mech
-  Move Points: 28
-  Spot: 28
-  Camouflage: 36
-  Agility: 44
-  Armor: 24
-  Psy Defense: 24
-  Rank: 165
-Attacks:
-  Direct: 19/26
-  Close: 20/21
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 271
-Build Cost: 2709
-Build Resource Requirements:
-  Food: 3
-  Energy: 8
+  Food: 7
+  Energy: 138
   Metal: 3
-  Trace: 19
-  Exotica: 3
-  Chemicals: 12
-  Biochems: 21
-  Electronics: 33
-  Ceramsteel: 4
-  Wetware: 13
-  Monopols: 19
-Build Stealth Scout Mech in Starport
-Time to Build / Upgrade: 4
-[54795] Technology Required to Build Unit (35):
-  [54795] Neumonic Patrolcraft (35)
+  Trace: 9
+  Exotica: 9
+  Chemicals: 171
+  Biochems: 207
+  Electronics: 20
+Build Wymzeeset (Symbiot) in Hive
+Time to Build / Upgrade: 6
+[6995] Technology Required to Build Unit (37):
+  [6995] Symbiot Psychology (37)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

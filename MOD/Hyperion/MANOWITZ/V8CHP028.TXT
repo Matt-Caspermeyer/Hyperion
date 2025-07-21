@@ -1,40 +1,40 @@
-All units of the unit class Zeppelin are listed herein (5 in total):
+All units of the unit class Airship are listed herein (6 in total):
 
 --1--
-Name: Zeppelin
-Nick Name: A-Zeppelin
+Name: Airship
+Nick Name: A-Airship
 Scores & Strengths:
   Tech Score: 96
   Unit Score: 96
   Average Score: 96
-  Stat Strength: 94
+  Stat Strength: 88
   Total Strength: 96
   Planet Strength: 96
   Space Strength: 0
-  Garrison Strength: 36
+  Garrison Strength: 39
 Statistics:
   Movement Type: air
-  Move Points: 7
+  Move Points: 6
   Spot: 4
   Camouflage: 0
-  Agility: 3
+  Agility: 4
   Armor: 4
   Psy Defense: 2
-  Rank: 129
+  Rank: 132
 Attacks:
-  Indirect: 1/2
+  Indirect: 4/2
 Load aboard transport: YES
 Never needs refueling
 Upkeep / Maintenance: 5
-Build Cost: 51
+Build Cost: 53
 Build Resource Requirements:
-  Food: 17
-  Energy: 14
+  Food: 15
+  Energy: 12
   Metal: 15
-  Trace: 8
-  Exotica: 15
+  Trace: 16
+  Exotica: 14
   Chemicals: 11
-Build Zeppelin in Factory
+Build Airship in Factory
 Time to Build / Upgrade: 2
 [175] Technologies Required to Build Unit (99):
   [125] Compression Ignition Engine (97)
@@ -44,38 +44,38 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Reconnaissance Zeppelin
-Nick Name: A-ZR
+Name: Reconnaissance Airship
+Nick Name: A-AR
 Scores & Strengths:
   Tech Score: 100
-  Unit Score: 150
-  Average Score: 125
-  Stat Strength: 150
-  Total Strength: 150
-  Planet Strength: 150
+  Unit Score: 148
+  Average Score: 124
+  Stat Strength: 148
+  Total Strength: 148
+  Planet Strength: 148
   Space Strength: 0
-  Garrison Strength: 53
+  Garrison Strength: 55
 Statistics:
   Movement Type: air
-  Move Points: 8
+  Move Points: 7
   Spot: 6
   Camouflage: 1
-  Agility: 6
+  Agility: 7
   Armor: 3
   Psy Defense: 2
   Rank: 76
 Load aboard transport: YES
 Never needs refueling
 Upkeep / Maintenance: 8
-Build Cost: 81
+Build Cost: 80
 Build Resource Requirements:
-  Food: 28
-  Energy: 19
+  Food: 27
+  Energy: 18
   Metal: 10
-  Trace: 17
-  Exotica: 25
-  Chemicals: 18
-Build Reconnaissance Zeppelin in Factory
+  Trace: 19
+  Exotica: 24
+  Chemicals: 17
+Build Reconnaissance Airship in Factory
 Time to Build / Upgrade: 3
 [185] Technologies Required to Build Unit (97):
   [125] Compression Ignition Engine (97)
@@ -85,8 +85,8 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Bomber Zeppelin
-Nick Name: A-ZB
+Name: Bomber Airship
+Nick Name: A-AB
 Scores & Strengths:
   Tech Score: 106
   Unit Score: 157
@@ -95,31 +95,31 @@ Scores & Strengths:
   Total Strength: 157
   Planet Strength: 157
   Space Strength: 0
-  Garrison Strength: 64
+  Garrison Strength: 70
 Statistics:
   Movement Type: air
-  Move Points: 6
+  Move Points: 5
   Spot: 4
   Camouflage: 1
-  Agility: 5
+  Agility: 6
   Armor: 6
   Psy Defense: 3
-  Rank: 136
+  Rank: 137
 Attacks:
-  Air: 3/3
-  Indirect: 5/5
+  Air: 2/3
+  Indirect: 4/7
 Load aboard transport: YES
 Never needs refueling
-Upkeep / Maintenance: 4
-Build Cost: 44
+Upkeep / Maintenance: 6
+Build Cost: 57
 Build Resource Requirements:
-  Food: 10
-  Energy: 16
+  Food: 9
+  Energy: 21
   Metal: 19
-  Trace: 9
+  Trace: 13
   Exotica: 9
-  Chemicals: 9
-Build Bomber Zeppelin in Factory
+  Chemicals: 19
+Build Bomber Airship in Factory
 Time to Build / Upgrade: 2
 [350] Technologies Required to Build Unit (97):
   [125] Compression Ignition Engine (97)
@@ -130,41 +130,41 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Fighter Zeppelin
-Nick Name: A-ZF
+Name: Fighter Airship
+Nick Name: A-AF
 Scores & Strengths:
   Tech Score: 106
   Unit Score: 157
   Average Score: 132
-  Stat Strength: 111
+  Stat Strength: 118
   Total Strength: 157
   Planet Strength: 157
   Space Strength: 0
-  Garrison Strength: 59
+  Garrison Strength: 64
 Statistics:
   Movement Type: air
-  Move Points: 7
+  Move Points: 6
   Spot: 4
   Camouflage: 1
-  Agility: 5
-  Armor: 4
+  Agility: 6
+  Armor: 5
   Psy Defense: 2
-  Rank: 134
+  Rank: 130
 Attacks:
-  Air: 5/6
-  Indirect: 4/4
+  Air: 5/7
+  Indirect: 2/2
 Load aboard transport: YES
 Never needs refueling
-Upkeep / Maintenance: 5
-Build Cost: 53
+Upkeep / Maintenance: 6
+Build Cost: 58
 Build Resource Requirements:
   Food: 11
-  Energy: 22
-  Metal: 8
-  Trace: 12
+  Energy: 21
+  Metal: 12
+  Trace: 15
   Exotica: 10
-  Chemicals: 16
-Build Fighter Zeppelin in Factory
+  Chemicals: 19
+Build Fighter Airship in Factory
 Time to Build / Upgrade: 2
 [350] Technologies Required to Build Unit (97):
   [125] Compression Ignition Engine (97)
@@ -175,20 +175,20 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Patrol Zeppelin
-Nick Name: A-ZP
+Name: Patrol Airship
+Nick Name: A-AP
 Scores & Strengths:
   Tech Score: 106
   Unit Score: 157
   Average Score: 132
-  Stat Strength: 126
+  Stat Strength: 117
   Total Strength: 157
   Planet Strength: 157
   Space Strength: 0
-  Garrison Strength: 70
+  Garrison Strength: 78
 Statistics:
   Movement Type: air
-  Move Points: 5
+  Move Points: 4
   Spot: 4
   Camouflage: 1
   Agility: 8
@@ -196,20 +196,20 @@ Statistics:
   Psy Defense: 2
   Rank: 136
 Attacks:
-  Air: 5/2
-  Indirect: 7/3
+  Air: 4/4
+  Indirect: 4/6
 Load aboard transport: YES
 Never needs refueling
-Upkeep / Maintenance: 5
-Build Cost: 47
+Upkeep / Maintenance: 6
+Build Cost: 58
 Build Resource Requirements:
-  Food: 12
-  Energy: 13
+  Food: 11
+  Energy: 21
   Metal: 8
-  Trace: 16
-  Exotica: 11
-  Chemicals: 10
-Build Patrol Zeppelin in Factory
+  Trace: 18
+  Exotica: 10
+  Chemicals: 19
+Build Patrol Airship in Factory
 Time to Build / Upgrade: 2
 [350] Technologies Required to Build Unit (97):
   [125] Compression Ignition Engine (97)
@@ -217,4 +217,49 @@ Time to Build / Upgrade: 2
   [60] Aerial Reconnaissance (97)
 Counts as planetary flock: YES
 Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Airborne Aircraft Carrier
+Nick Name: A-CVA
+Scores & Strengths:
+  Tech Score: 458
+  Unit Score: 457
+  Average Score: 457
+  Stat Strength: 370
+  Total Strength: 457
+  Planet Strength: 457
+  Space Strength: 0
+  Garrison Strength: 172
+Statistics:
+  Movement Type: air
+  Move Points: 7
+  Spot: 6
+  Camouflage: 2
+  Agility: 9
+  Armor: 10
+  Psy Defense: 10
+  Rank: 808
+Attacks:
+  Air: 5/11
+  Indirect: 4/8
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Never needs refueling
+Upkeep / Maintenance: 21
+Build Cost: 210
+Build Resource Requirements:
+  Food: 6
+  Energy: 21
+  Metal: 137
+  Trace: 15
+  Exotica: 6
+  Chemicals: 21
+  Electronics: 7
+Build Airborne Aircraft Carrier in Factory
+Time to Build / Upgrade: 3
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

@@ -1,272 +1,477 @@
-All units of the unit class Naval Corvette are listed herein (6 in total):
+All units of the unit class Naval Transport are listed herein (10 in total):
 
 --1--
-Name: Naval Corvette
-Nick Name: NN-Corv
+Name: Naval Transport
+Nick Name: NN-X
 Scores & Strengths:
-  Tech Score: 520
-  Unit Score: 520
-  Average Score: 520
-  Stat Strength: 440
-  Total Strength: 520
-  Planet Strength: 520
+  Tech Score: 432
+  Unit Score: 432
+  Average Score: 432
+  Stat Strength: 343
+  Total Strength: 432
+  Planet Strength: 432
   Space Strength: 0
-  Garrison Strength: 183
+  Garrison Strength: 163
 Statistics:
   Movement Type: naval
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 6
+  Move Points: 7
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
   Armor: 12
   Psy Defense: 12
-  Rank: 94
+  Rank: 133
 Attacks:
-  Indirect: 3/12
-  Direct: 2/12
-  Close: 2/10
-Load aboard transport: YES
-Upkeep / Maintenance: 17
-Build Cost: 170
+  Direct: 4/10
+  Close: 7/7
+Cargo Space: 4
+Amphibious loading / unloading of cargo
+Upkeep / Maintenance: 18
+Build Cost: 184
 Build Resource Requirements:
-  Food: 4
-  Energy: 28
-  Metal: 32
-  Trace: 5
-  Exotica: 4
-  Chemicals: 19
-  Biochems: 4
-  Electronics: 4
-Build Naval Corvette in Well
+  Food: 2
+  Energy: 14
+  Metal: 38
+  Trace: 6
+  Exotica: 2
+  Chemicals: 14
+  Electronics: 5
+Build Naval Transport in Well
 Time to Build / Upgrade: 2
-[1770] Technologies Required to Build Unit (95):
+[1405] Technologies Required to Build Unit (96):
   [110] Structural Engineering (99)
   [100] Psychosocial Engineering (100)
-  [1560] Naval Patrol Ships (86)
+  [1195] Naval Warfare (90)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Naval Corvette II
-Nick Name: NN-Corv II
+Name: Naval Transport Carrier
+Nick Name: NN-CVX
 Scores & Strengths:
-  Tech Score: 658
-  Unit Score: 594
-  Average Score: 626
-  Stat Strength: 507
-  Total Strength: 594
-  Planet Strength: 594
+  Tech Score: 873
+  Unit Score: 871
+  Average Score: 872
+  Stat Strength: 585
+  Total Strength: 871
+  Planet Strength: 871
   Space Strength: 0
-  Garrison Strength: 198
+  Garrison Strength: 329
 Statistics:
   Movement Type: naval
-  Move Points: 9
-  Spot: 6
-  Camouflage: 4
-  Agility: 6
-  Armor: 13
-  Psy Defense: 13
-  Rank: 96
+  Move Points: 7
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
+  Armor: 16
+  Psy Defense: 16
+  Rank: 791
 Attacks:
-  Indirect: 3/13
-  Direct: 2/13
-  Close: 2/11
-Load aboard transport: YES
-Upkeep / Maintenance: 16
-Build Cost: 159
+  Air: 8/8
+  Indirect: 5/16
+  Direct: 11/10
+  Close: 4/8
+Cargo Space: 2
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Amphibious loading / unloading of cargo
+Upkeep / Maintenance: 30
+Build Cost: 299
 Build Resource Requirements:
-  Food: 3
-  Energy: 27
-  Metal: 33
-  Trace: 5
-  Exotica: 4
-  Chemicals: 19
-  Biochems: 4
-  Electronics: 4
-Build Naval Corvette II in Well
+  Food: 1
+  Energy: 13
+  Metal: 25
+  Trace: 8
+  Exotica: 1
+  Chemicals: 13
+  Biochems: 5
+  Electronics: 6
+Build Naval Transport Carrier in Well
 Time to Build / Upgrade: 2
-[2270] Technology Required to Build Unit (86):
-  [2270] Naval Escort Ships (86)
+[5580] Technologies Required to Build Unit (88):
+  [2855] Naval Amphibious Ships (87)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Naval Corvette III
-Nick Name: NN-Corv III
+Name: Landing Helicopter Assault
+Nick Name: NN-LHA
 Scores & Strengths:
-  Tech Score: 1134
-  Unit Score: 1097
-  Average Score: 1116
-  Stat Strength: 926
-  Total Strength: 1097
-  Planet Strength: 1097
+  Tech Score: 1159
+  Unit Score: 1157
+  Average Score: 1158
+  Stat Strength: 968
+  Total Strength: 1157
+  Planet Strength: 1157
   Space Strength: 0
-  Garrison Strength: 316
+  Garrison Strength: 365
 Statistics:
   Movement Type: naval
-  Move Points: 12
-  Spot: 7
-  Camouflage: 6
-  Agility: 7
-  Armor: 18
-  Psy Defense: 18
-  Rank: 107
+  Move Points: 10
+  Spot: 6
+  Camouflage: 4
+  Agility: 4
+  Armor: 20
+  Psy Defense: 20
+  Rank: 152
 Attacks:
-  Indirect: 4/18
-  Direct: 3/18
-  Close: 3/15
-Load aboard transport: YES
-Upkeep / Maintenance: 26
-Build Cost: 255
+  Indirect: 2/27
+  Direct: 4/21
+  Close: 3/17
+Cargo Space: 4
+Amphibious loading / unloading of cargo
+Can tow units that can be towed
+Upkeep / Maintenance: 31
+Build Cost: 311
 Build Resource Requirements:
-  Food: 3
-  Energy: 32
-  Metal: 20
-  Trace: 4
-  Exotica: 3
-  Chemicals: 30
-  Biochems: 4
-  Electronics: 4
-  Ceramsteel: 23
-Build Naval Corvette III in Well
-Time to Build / Upgrade: 3
-[4695] Technology Required to Build Unit (83):
-  [4695] Advanced Minor Watercraft (83)
+  Food: 1
+  Energy: 31
+  Metal: 38
+  Trace: 2
+  Exotica: 1
+  Chemicals: 32
+  Biochems: 2
+  Electronics: 2
+Build Landing Helicopter Assault in Well
+Time to Build / Upgrade: 2
+[7670] Technologies Required to Build Unit (87):
+  [2855] Naval Amphibious Ships (87)
+  [2090] Rotorcraft (85)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Guided Missile Corvette
-Nick Name: NN-CorvGM
+Name: Naval Attack Transport
+Nick Name: NN-AX
 Scores & Strengths:
-  Tech Score: 1339
-  Unit Score: 1339
-  Average Score: 1339
-  Stat Strength: 1093
-  Total Strength: 1339
-  Planet Strength: 1339
+  Tech Score: 781
+  Unit Score: 1170
+  Average Score: 976
+  Stat Strength: 888
+  Total Strength: 1170
+  Planet Strength: 1170
   Space Strength: 0
-  Garrison Strength: 386
+  Garrison Strength: 413
 Statistics:
   Movement Type: naval
-  Move Points: 12
-  Spot: 7
-  Camouflage: 6
-  Agility: 8
+  Move Points: 8
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
   Armor: 20
   Psy Defense: 20
-  Rank: 110
+  Rank: 136
 Attacks:
-  Indirect: 6/19
-  Direct: 4/18
-  Close: 4/15
-Load aboard transport: YES
-Upkeep / Maintenance: 27
-Build Cost: 266
+  Indirect: 6/14
+  Direct: 11/10
+  Close: 8/11
+Cargo Space: 3
+Amphibious loading / unloading of cargo
+Upkeep / Maintenance: 34
+Build Cost: 338
 Build Resource Requirements:
-  Food: 3
-  Energy: 29
-  Metal: 21
-  Trace: 4
-  Exotica: 3
-  Chemicals: 28
-  Biochems: 4
-  Electronics: 5
-  Ceramsteel: 26
-Build Guided Missile Corvette in Well
+  Food: 2
+  Energy: 20
+  Metal: 65
+  Trace: 14
+  Exotica: 2
+  Chemicals: 20
+  Biochems: 8
+  Electronics: 9
+Build Naval Attack Transport in Well
 Time to Build / Upgrade: 3
-[5855] Technology Required to Build Unit (84):
-  [5855] Guided Missile Navalcraft (84)
+[2855] Technology Required to Build Unit (87):
+  [2855] Naval Amphibious Ships (87)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: PTS Missile Corvette
-Nick Name: NN-CorvPTS
+Name: Amphibious Assault Ship
+Nick Name: NN-AA
 Scores & Strengths:
-  Tech Score: 1474
-  Unit Score: 1843
-  Average Score: 1658
-  Stat Strength: 1245
-  Total Strength: 1843
-  Planet Strength: 1678
-  Space Strength: 1410
-  Garrison Strength: 465
+  Tech Score: 781
+  Unit Score: 1170
+  Average Score: 976
+  Stat Strength: 970
+  Total Strength: 1170
+  Planet Strength: 1170
+  Space Strength: 0
+  Garrison Strength: 413
 Statistics:
   Movement Type: naval
-  Move Points: 13
-  Spot: 8
-  Camouflage: 7
-  Agility: 9
+  Move Points: 8
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
   Armor: 21
   Psy Defense: 21
-  Rank: 117
+  Rank: 124
 Attacks:
-  Ranged Space: 11/15
-  Indirect: 9/21
-  Direct: 5/20
-  Close: 8/18
-Load aboard transport: YES
-Upkeep / Maintenance: 37
-Build Cost: 366
+  Indirect: 6/10
+  Direct: 12/7
+  Close: 7/8
+Cargo Space: 2
+Amphibious loading / unloading of cargo
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 33
+Build Cost: 326
 Build Resource Requirements:
-  Food: 3
-  Energy: 33
-  Metal: 21
-  Trace: 8
-  Exotica: 3
-  Chemicals: 40
-  Biochems: 6
+  Food: 2
+  Energy: 12
+  Metal: 71
+  Trace: 15
+  Exotica: 2
+  Chemicals: 12
+  Biochems: 8
   Electronics: 9
-  Ceramsteel: 27
-Build PTS Missile Corvette in Well
+Build Amphibious Assault Ship in Well
 Time to Build / Upgrade: 3
-[6655] Technology Required to Build Unit (83):
-  [6655] PTS Missile Navalcraft (83)
+[2855] Technology Required to Build Unit (87):
+  [2855] Naval Amphibious Ships (87)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Advanced Naval Corvette
-Nick Name: NN-CorvAdv
+Name: Hover Tanker
+Nick Name: Replenisher
 Scores & Strengths:
-  Tech Score: 1579
-  Unit Score: 1973
-  Average Score: 1776
-  Stat Strength: 1409
-  Total Strength: 1973
-  Planet Strength: 1973
+  Tech Score: 1289
+  Unit Score: 1287
+  Average Score: 1288
+  Stat Strength: 1287
+  Total Strength: 1287
+  Planet Strength: 1287
   Space Strength: 0
-  Garrison Strength: 527
+  Garrison Strength: 268
+Statistics:
+  Movement Type: hover
+  Move Points: 23
+  Spot: 5
+  Camouflage: 2
+  Agility: 9
+  Armor: 18
+  Psy Defense: 18
+  Rank: 153
+Cargo Space: 4
+Transports and Refuels (at end of turn) all Air Units
+Heals units of same movement type
+Upkeep / Maintenance: 103
+Build Cost: 1032
+Build Resource Requirements:
+  Food: 6
+  Energy: 11
+  Metal: 14
+  Trace: 2
+  Exotica: 7
+  Chemicals: 16
+  Biochems: 7
+  Electronics: 2
+  Ceramsteel: 15
+  Monopols: 27
+Build Hover Tanker in Factory
+Time to Build / Upgrade: 3
+[6630] Technologies Required to Build Unit (75):
+  [3905] Hovertech (61)
+  [2725] Naval Capital Ships (88)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Naval High-Speed Transport
+Nick Name: NN-HSX
+Scores & Strengths:
+  Tech Score: 1673
+  Unit Score: 1671
+  Average Score: 1672
+  Stat Strength: 1169
+  Total Strength: 1671
+  Planet Strength: 1671
+  Space Strength: 0
+  Garrison Strength: 482
+Statistics:
+  Movement Type: naval
+  Move Points: 12
+  Spot: 5
+  Camouflage: 4
+  Agility: 4
+  Armor: 22
+  Psy Defense: 22
+  Rank: 136
+Attacks:
+  Indirect: 12/22
+  Direct: 8/16
+  Close: 11/10
+Cargo Space: 2
+Amphibious loading / unloading of cargo
+Upkeep / Maintenance: 30
+Build Cost: 295
+Build Resource Requirements:
+  Food: 1
+  Energy: 17
+  Metal: 20
+  Trace: 7
+  Exotica: 1
+  Chemicals: 24
+  Biochems: 4
+  Electronics: 5
+  Ceramsteel: 22
+Build Naval High-Speed Transport in Well
+Time to Build / Upgrade: 3
+[10150] Technologies Required to Build Unit (84):
+  [2855] Naval Amphibious Ships (87)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Landing Helicopter Dock
+Nick Name: NN-LHD
+Scores & Strengths:
+  Tech Score: 1712
+  Unit Score: 1712
+  Average Score: 1712
+  Stat Strength: 1392
+  Total Strength: 1712
+  Planet Strength: 1712
+  Space Strength: 0
+  Garrison Strength: 494
+Statistics:
+  Movement Type: naval
+  Move Points: 12
+  Spot: 8
+  Camouflage: 4
+  Agility: 4
+  Armor: 24
+  Psy Defense: 24
+  Rank: 159
+Attacks:
+  Indirect: 4/30
+  Direct: 5/22
+  Close: 5/18
+Cargo Space: 4
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Can tow units that can be towed
+Upkeep / Maintenance: 50
+Build Cost: 498
+Build Resource Requirements:
+  Food: 2
+  Energy: 29
+  Metal: 27
+  Trace: 3
+  Exotica: 2
+  Chemicals: 38
+  Biochems: 2
+  Electronics: 3
+  Ceramsteel: 27
+Build Landing Helicopter Dock in Well
+Time to Build / Upgrade: 3
+[11375] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [2665] V/STOL Aircraft (85)
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Landing Platform Dock
+Nick Name: NN-LPD
+Scores & Strengths:
+  Tech Score: 1835
+  Unit Score: 1832
+  Average Score: 1833
+  Stat Strength: 1467
+  Total Strength: 1832
+  Planet Strength: 1832
+  Space Strength: 0
+  Garrison Strength: 552
+Statistics:
+  Movement Type: naval
+  Move Points: 11
+  Spot: 8
+  Camouflage: 4
+  Agility: 4
+  Armor: 25
+  Psy Defense: 25
+  Rank: 261
+Attacks:
+  Indirect: 5/31
+  Direct: 5/23
+  Close: 5/19
+Cargo Space: 4
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Can tow units that can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 57
+Build Cost: 570
+Build Resource Requirements:
+  Food: 1
+  Energy: 30
+  Metal: 28
+  Trace: 3
+  Exotica: 1
+  Chemicals: 40
+  Biochems: 2
+  Electronics: 2
+  Ceramsteel: 29
+Build Landing Platform Dock in Well
+Time to Build / Upgrade: 3
+[12175] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [2665] V/STOL Aircraft (85)
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Landing Platform Helicopter
+Nick Name: NN-LPH
+Scores & Strengths:
+  Tech Score: 1933
+  Unit Score: 1931
+  Average Score: 1932
+  Stat Strength: 1578
+  Total Strength: 1931
+  Planet Strength: 1931
+  Space Strength: 0
+  Garrison Strength: 516
 Statistics:
   Movement Type: naval
   Move Points: 14
-  Spot: 9
-  Camouflage: 8
-  Agility: 10
-  Armor: 22
-  Psy Defense: 22
-  Rank: 122
+  Spot: 10
+  Camouflage: 4
+  Agility: 4
+  Armor: 25
+  Psy Defense: 25
+  Rank: 255
 Attacks:
-  Indirect: 10/22
-  Direct: 7/22
-  Close: 10/19
-Load aboard transport: YES
-Upkeep / Maintenance: 38
-Build Cost: 377
+  Indirect: 8/18
+  Direct: 10/11
+  Close: 11/9
+Cargo Space: 4
+Amphibious loading / unloading of cargo
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Can tow units that can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 54
+Build Cost: 537
 Build Resource Requirements:
-  Food: 3
-  Energy: 36
-  Metal: 22
-  Trace: 8
-  Exotica: 4
-  Chemicals: 37
-  Biochems: 6
-  Electronics: 10
+  Food: 2
+  Energy: 11
+  Metal: 26
+  Trace: 6
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 4
+  Electronics: 6
   Ceramsteel: 28
-Build Advanced Naval Corvette in Well
+Build Landing Platform Helicopter in Well
 Time to Build / Upgrade: 3
-[7295] Technology Required to Build Unit (81):
+[12815] Technologies Required to Build Unit (84):
+  [2855] Naval Amphibious Ships (87)
+  [2665] V/STOL Aircraft (85)
   [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

@@ -1,188 +1,187 @@
-All units of the unit class Light Anti-Air Mech are listed herein (4 in total):
+All units of the unit class Scout Mech are listed herein (4 in total):
 
 --1--
-Name: Light Anti-Air Mech
-Nick Name: Vindicator
+Name: Scout Mech
+Nick Name: Locust
 Scores & Strengths:
-  Tech Score: 1686
-  Unit Score: 1685
-  Average Score: 1686
-  Stat Strength: 1185
-  Total Strength: 1685
-  Planet Strength: 1685
+  Tech Score: 2194
+  Unit Score: 1535
+  Average Score: 1865
+  Stat Strength: 1245
+  Total Strength: 1535
+  Planet Strength: 1535
   Space Strength: 0
-  Garrison Strength: 450
+  Garrison Strength: 410
 Statistics:
   Movement Type: mech
   Move Points: 14
-  Spot: 10
-  Camouflage: 4
-  Agility: 19
-  Armor: 16
-  Psy Defense: 16
-  Rank: 123
+  Spot: 14
+  Camouflage: 9
+  Agility: 22
+  Armor: 12
+  Psy Defense: 12
+  Rank: 96
 Attacks:
-  Air: 20/13
-  Indirect: 16/15
+  Direct: 12/15
+  Close: 10/11
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 15
-Build Cost: 151
+Upkeep / Maintenance: 10
+Build Cost: 100
 Build Resource Requirements:
   Food: 5
-  Energy: 14
-  Metal: 10
-  Trace: 12
+  Energy: 10
+  Metal: 3
+  Trace: 9
   Exotica: 5
-  Chemicals: 20
-  Electronics: 24
-  Ceramsteel: 15
-Build Light Anti-Air Mech in Starport
-Time to Build / Upgrade: 3
-[10330] Technologies Required to Build Unit (84):
+  Chemicals: 18
+  Electronics: 17
+  Ceramsteel: 6
+Build Scout Mech in Starport
+Time to Build / Upgrade: 2
+[16120] Technologies Required to Build Unit (79):
   [1690] Ceramsteel (84)
-  [2420] Rocket-Propelled Aircraft (87)
   [6220] Mechanically-Enhanced Soldiers (80)
+  [8210] Aircraft Surveillance (74)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Medium Anti-Air Mech
-Nick Name: Talisman
+Name: Mech Commander
+Nick Name: Commodore
 Scores & Strengths:
-  Tech Score: 2398
+  Tech Score: 2414
   Unit Score: 2032
-  Average Score: 2215
-  Stat Strength: 1387
+  Average Score: 2223
+  Stat Strength: 1448
   Total Strength: 2032
   Planet Strength: 2032
   Space Strength: 0
-  Garrison Strength: 524
+  Garrison Strength: 586
 Statistics:
   Movement Type: mech
-  Move Points: 15
+  Move Points: 12
   Spot: 12
   Camouflage: 6
-  Agility: 10
-  Armor: 21
-  Psy Defense: 21
-  Rank: 131
+  Agility: 18
+  Armor: 20
+  Psy Defense: 20
+  Rank: 103
 Attacks:
-  Air: 21/17
-  Indirect: 18/16
+  Air: 10/12
+  Indirect: 9/20
+  Direct: 8/23
+  Close: 10/10
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 77
-Build Cost: 774
+Upkeep / Maintenance: 131
+Build Cost: 1305
 Build Resource Requirements:
-  Food: 2
-  Energy: 7
-  Metal: 8
+  Food: 3
+  Energy: 13
+  Metal: 7
   Trace: 9
-  Exotica: 2
-  Chemicals: 11
-  Electronics: 19
-  Ceramsteel: 9
-  Monopols: 17
-Build Medium Anti-Air Mech in Starport
+  Exotica: 3
+  Chemicals: 23
+  Electronics: 16
+  Ceramsteel: 8
+  Monopols: 31
+Build Mech Commander in Starport
 Time to Build / Upgrade: 3
-[12740] Technology Required to Build Unit (72):
-  [12740] Mechanized Warriors (72)
+[12850] Technology Required to Build Unit (71):
+  [12850] Mechanized Warriors (71)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Heavy Anti-Air Mech
-Nick Name: Avenger
+Name: Power Scout Mech
+Nick Name: Katydid
 Scores & Strengths:
-  Tech Score: 5183
-  Unit Score: 4857
-  Average Score: 5020
-  Stat Strength: 2959
-  Total Strength: 4857
-  Planet Strength: 4857
+  Tech Score: 5223
+  Unit Score: 3112
+  Average Score: 4168
+  Stat Strength: 2420
+  Total Strength: 3112
+  Planet Strength: 3112
   Space Strength: 0
-  Garrison Strength: 1177
+  Garrison Strength: 663
 Statistics:
   Movement Type: mech
-  Move Points: 17
-  Spot: 14
-  Camouflage: 10
-  Agility: 14
-  Armor: 33
-  Psy Defense: 33
-  Rank: 138
+  Move Points: 22
+  Spot: 17
+  Camouflage: 14
+  Agility: 27
+  Armor: 19
+  Psy Defense: 19
+  Rank: 134
 Attacks:
-  Air: 29/26
-  Indirect: 27/29
-  Direct: 19/19
+  Direct: 19/23
+  Close: 15/17
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 156
-Build Cost: 1562
+Upkeep / Maintenance: 98
+Build Cost: 976
 Build Resource Requirements:
-  Food: 2
-  Energy: 11
-  Metal: 8
-  Trace: 15
-  Exotica: 2
+  Food: 3
+  Energy: 8
+  Metal: 3
+  Trace: 12
+  Exotica: 3
   Chemicals: 12
-  Biochems: 21
-  Electronics: 27
-  Ceramsteel: 12
-  Monopols: 23
-Build Heavy Anti-Air Mech in Starport
-Time to Build / Upgrade: 3
-[35600] Technology Required to Build Unit (64):
-  [35600] Advanced Mechanized Warriors (64)
+  Biochems: 15
+  Electronics: 21
+  Ceramsteel: 4
+  Monopols: 18
+Build Power Scout Mech in Starport
+Time to Build / Upgrade: 2
+[35965] Technology Required to Build Unit (64):
+  [35965] Advanced Mechanized Warriors (64)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Assault Anti-Air Mech
-Nick Name: Phoenix
+Name: Stealth Scout Mech
+Nick Name: Cicada
 Scores & Strengths:
-  Tech Score: 5764
-  Unit Score: 5450
-  Average Score: 5607
-  Stat Strength: 3397
-  Total Strength: 5450
-  Planet Strength: 5450
+  Tech Score: 7200
+  Unit Score: 6866
+  Average Score: 7033
+  Stat Strength: 5952
+  Total Strength: 6866
+  Planet Strength: 6866
   Space Strength: 0
-  Garrison Strength: 1250
+  Garrison Strength: 1297
 Statistics:
   Movement Type: mech
-  Move Points: 19
-  Spot: 16
-  Camouflage: 12
-  Agility: 18
-  Armor: 34
-  Psy Defense: 34
-  Rank: 146
+  Move Points: 28
+  Spot: 28
+  Camouflage: 36
+  Agility: 44
+  Armor: 24
+  Psy Defense: 24
+  Rank: 165
 Attacks:
-  Air: 29/27
-  Indirect: 29/30
-  Direct: 20/20
+  Direct: 19/26
+  Close: 20/21
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 217
-Build Cost: 2165
+Upkeep / Maintenance: 269
+Build Cost: 2693
 Build Resource Requirements:
-  Food: 1
-  Energy: 11
-  Metal: 7
-  Trace: 7
-  Exotica: 2
+  Food: 3
+  Energy: 8
+  Metal: 3
+  Trace: 19
+  Exotica: 3
   Chemicals: 12
   Biochems: 21
-  Electronics: 15
-  Ceramsteel: 10
-  Wetware: 9
-  Monopols: 22
-Build Assault Anti-Air Mech in Starport
+  Electronics: 32
+  Ceramsteel: 4
+  Wetware: 13
+  Monopols: 19
+Build Stealth Scout Mech in Starport
 Time to Build / Upgrade: 3
-[52345] Technologies Required to Build Unit (44):
-  [16745] Wetware (23)
-  [35600] Advanced Mechanized Warriors (64)
+[55170] Technology Required to Build Unit (35):
+  [55170] Neumonic Patrolcraft (35)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

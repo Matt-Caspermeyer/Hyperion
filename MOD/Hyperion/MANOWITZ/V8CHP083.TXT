@@ -1,133 +1,346 @@
-All units of the unit class PTS Rocket are listed herein (3 in total):
+All units of the unit class Reconnaissance Monoplane are listed herein (8 in total):
 
 --1--
-Name: PTS Rocket
-Nick Name: PTS Rocket
+Name: Reconnaissance Monoplane
+Nick Name: A-MR
 Scores & Strengths:
-  Tech Score: 299
-  Unit Score: 298
-  Average Score: 299
-  Stat Strength: 202
-  Total Strength: 298
-  Planet Strength: 202
-  Space Strength: 298
-  Garrison Strength: 63
+  Tech Score: 194
+  Unit Score: 287
+  Average Score: 240
+  Stat Strength: 287
+  Total Strength: 287
+  Planet Strength: 287
+  Space Strength: 0
+  Garrison Strength: 86
 Statistics:
   Movement Type: air
-  Move Points: 10
-  Spot: 0
-  Camouflage: 10
-  Agility: 0
-  Armor: 1
-  Psy Defense: 1
-  Rank: 73
-Attacks:
-  Ranged Space: 8/12
+  Move Points: 11
+  Spot: 8
+  Camouflage: 3
+  Agility: 8
+  Armor: 5
+  Psy Defense: 2
+  Rank: 77
 Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 11
+Upkeep / Maintenance: 9
+Build Cost: 91
 Build Resource Requirements:
-  Food: 8
-  Energy: 10
-  Metal: 1
-  Trace: 28
-  Exotica: 8
-  Chemicals: 37
-  Electronics: 18
-Build PTS Rocket in Chemical Plant
-Time to Build / Upgrade: 2
-[795] Technology Required to Build Unit (86):
-  [795] Missiles (86)
+  Food: 26
+  Energy: 23
+  Metal: 20
+  Trace: 21
+  Exotica: 26
+  Chemicals: 27
+  Electronics: 16
+Build Reconnaissance Monoplane in Factory
+Time to Build / Upgrade: 3
+[445] Technology Required to Build Unit (94):
+  [445] Monoplane (94)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: PTS Rocket II
-Nick Name: PTS Rocket II
+Name: Attack Fighter Monoplane
+Nick Name: A-MAF
 Scores & Strengths:
-  Tech Score: 1038
-  Unit Score: 1060
-  Average Score: 1049
-  Stat Strength: 730
-  Total Strength: 1060
-  Planet Strength: 730
-  Space Strength: 1060
-  Garrison Strength: 167
+  Tech Score: 194
+  Unit Score: 384
+  Average Score: 289
+  Stat Strength: 321
+  Total Strength: 384
+  Planet Strength: 384
+  Space Strength: 0
+  Garrison Strength: 135
 Statistics:
   Movement Type: air
-  Move Points: 19
-  Spot: 0
-  Camouflage: 19
-  Agility: 0
-  Armor: 2
-  Psy Defense: 2
-  Rank: 97
+  Move Points: 8
+  Spot: 8
+  Camouflage: 2
+  Agility: 12
+  Armor: 6
+  Psy Defense: 3
+  Rank: 112
 Attacks:
-  Ranged Space: 15/22
+  Air: 4/5
+  Indirect: 5/5
+  Direct: 3/6
 Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 13
+Upkeep / Maintenance: 13
+Build Cost: 133
 Build Resource Requirements:
-  Food: 6
-  Energy: 12
-  Metal: 5
-  Trace: 19
-  Exotica: 6
-  Chemicals: 38
-  Electronics: 22
-Build PTS Rocket II in Chemical Plant
-Time to Build / Upgrade: 2
-[4170] Technology Required to Build Unit (84):
-  [4170] Supercruise Missiles (84)
+  Food: 26
+  Energy: 37
+  Metal: 31
+  Trace: 38
+  Exotica: 25
+  Chemicals: 43
+  Electronics: 25
+Build Attack Fighter Monoplane in Factory
+Time to Build / Upgrade: 4
+[445] Technology Required to Build Unit (94):
+  [445] Monoplane (94)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: PTS Rocket III
-Nick Name: PTS Rocket III
+Name: Bomber Monoplane
+Nick Name: A-MB
 Scores & Strengths:
-  Tech Score: 1548
-  Unit Score: 1552
-  Average Score: 1550
-  Stat Strength: 1066
-  Total Strength: 1552
-  Planet Strength: 1066
-  Space Strength: 1552
-  Garrison Strength: 222
+  Tech Score: 194
+  Unit Score: 384
+  Average Score: 289
+  Stat Strength: 284
+  Total Strength: 384
+  Planet Strength: 384
+  Space Strength: 0
+  Garrison Strength: 121
 Statistics:
   Movement Type: air
-  Move Points: 23
-  Spot: 0
-  Camouflage: 23
-  Agility: 0
-  Armor: 2
-  Psy Defense: 2
-  Rank: 110
+  Move Points: 10
+  Spot: 6
+  Camouflage: 2
+  Agility: 8
+  Armor: 8
+  Psy Defense: 4
+  Rank: 152
 Attacks:
-  Ranged Space: 18/27
+  Air: 2/10
+  Indirect: 4/20
 Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 14
+Upkeep / Maintenance: 21
+Build Cost: 209
 Build Resource Requirements:
-  Food: 6
-  Energy: 12
-  Metal: 5
-  Trace: 18
-  Exotica: 6
-  Chemicals: 43
-  Electronics: 24
-Build PTS Rocket III in Chemical Plant
-Time to Build / Upgrade: 2
-[7105] Technology Required to Build Unit (77):
-  [7105] Hypercruise Missiles (77)
+  Food: 21
+  Energy: 111
+  Metal: 55
+  Trace: 20
+  Exotica: 21
+  Chemicals: 129
+  Electronics: 12
+Build Bomber Monoplane in Factory
+Time to Build / Upgrade: 6
+[445] Technology Required to Build Unit (94):
+  [445] Monoplane (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Fighter Monoplane
+Nick Name: A-MF
+Scores & Strengths:
+  Tech Score: 194
+  Unit Score: 384
+  Average Score: 289
+  Stat Strength: 315
+  Total Strength: 384
+  Planet Strength: 384
+  Space Strength: 0
+  Garrison Strength: 128
+Statistics:
+  Movement Type: air
+  Move Points: 9
+  Spot: 8
+  Camouflage: 2
+  Agility: 11
+  Armor: 6
+  Psy Defense: 3
+  Rank: 134
+Attacks:
+  Air: 6/10
+  Indirect: 3/3
+Load aboard transport: YES
+Upkeep / Maintenance: 14
+Build Cost: 138
+Build Resource Requirements:
+  Food: 26
+  Energy: 42
+  Metal: 31
+  Trace: 35
+  Exotica: 26
+  Chemicals: 49
+  Electronics: 25
+Build Fighter Monoplane in Factory
+Time to Build / Upgrade: 4
+[445] Technology Required to Build Unit (94):
+  [445] Monoplane (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Trench Strafer Monoplane
+Nick Name: A-MTS
+Scores & Strengths:
+  Tech Score: 194
+  Unit Score: 384
+  Average Score: 289
+  Stat Strength: 303
+  Total Strength: 384
+  Planet Strength: 384
+  Space Strength: 0
+  Garrison Strength: 145
+Statistics:
+  Movement Type: air
+  Move Points: 7
+  Spot: 6
+  Camouflage: 2
+  Agility: 13
+  Armor: 6
+  Psy Defense: 3
+  Rank: 115
+Attacks:
+  Air: 2/6
+  Direct: 3/9
+  Close: 7/6
+Load aboard transport: YES
+Upkeep / Maintenance: 15
+Build Cost: 146
+Build Resource Requirements:
+  Food: 22
+  Energy: 50
+  Metal: 31
+  Trace: 38
+  Exotica: 22
+  Chemicals: 58
+  Electronics: 28
+Build Trench Strafer Monoplane in Factory
+Time to Build / Upgrade: 5
+[445] Technology Required to Build Unit (94):
+  [445] Monoplane (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Battle Monoplane
+Nick Name: A-MBttl
+Scores & Strengths:
+  Tech Score: 265
+  Unit Score: 527
+  Average Score: 396
+  Stat Strength: 422
+  Total Strength: 527
+  Planet Strength: 527
+  Space Strength: 0
+  Garrison Strength: 175
+Statistics:
+  Movement Type: air
+  Move Points: 9
+  Spot: 6
+  Camouflage: 2
+  Agility: 16
+  Armor: 6
+  Psy Defense: 3
+  Rank: 143
+Attacks:
+  Air: 7/8
+  Indirect: 7/7
+Load aboard transport: YES
+Upkeep / Maintenance: 10
+Build Cost: 99
+Build Resource Requirements:
+  Food: 17
+  Energy: 29
+  Metal: 17
+  Trace: 30
+  Exotica: 17
+  Chemicals: 35
+  Electronics: 17
+Build Battle Monoplane in Factory
+Time to Build / Upgrade: 4
+[1055] Technologies Required to Build Unit (94):
+  [445] Monoplane (94)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Large Bomber Monoplane
+Nick Name: A-MLB
+Scores & Strengths:
+  Tech Score: 265
+  Unit Score: 527
+  Average Score: 396
+  Stat Strength: 410
+  Total Strength: 527
+  Planet Strength: 527
+  Space Strength: 0
+  Garrison Strength: 158
+Statistics:
+  Movement Type: air
+  Move Points: 11
+  Spot: 6
+  Camouflage: 2
+  Agility: 13
+  Armor: 8
+  Psy Defense: 4
+  Rank: 152
+Attacks:
+  Air: 3/5
+  Indirect: 6/17
+Load aboard transport: YES
+Upkeep / Maintenance: 12
+Build Cost: 117
+Build Resource Requirements:
+  Food: 16
+  Energy: 48
+  Metal: 30
+  Trace: 19
+  Exotica: 16
+  Chemicals: 58
+  Electronics: 11
+Build Large Bomber Monoplane in Factory
+Time to Build / Upgrade: 4
+[1055] Technologies Required to Build Unit (94):
+  [445] Monoplane (94)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Giant Bomber Monoplane
+Nick Name: A-MGB
+Scores & Strengths:
+  Tech Score: 265
+  Unit Score: 528
+  Average Score: 396
+  Stat Strength: 409
+  Total Strength: 528
+  Planet Strength: 528
+  Space Strength: 0
+  Garrison Strength: 152
+Statistics:
+  Movement Type: air
+  Move Points: 12
+  Spot: 6
+  Camouflage: 2
+  Agility: 10
+  Armor: 10
+  Psy Defense: 5
+  Rank: 153
+Attacks:
+  Indirect: 7/17
+Load aboard transport: YES
+Upkeep / Maintenance: 11
+Build Cost: 113
+Build Resource Requirements:
+  Food: 15
+  Energy: 44
+  Metal: 47
+  Trace: 16
+  Exotica: 15
+  Chemicals: 53
+  Electronics: 7
+Build Giant Bomber Monoplane in Factory
+Time to Build / Upgrade: 4
+[1055] Technologies Required to Build Unit (94):
+  [445] Monoplane (94)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

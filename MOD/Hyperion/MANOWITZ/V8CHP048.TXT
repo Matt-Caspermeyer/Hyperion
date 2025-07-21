@@ -1,487 +1,387 @@
-All units of the unit class Land Mine Detector are listed herein (12 in total):
+All units of the unit class Anti-Tank Mine are listed herein (9 in total):
 
 --1--
-Name: Land Mine Detector
-Nick Name: LM Detector
+Name: Anti-Tank Mine
+Nick Name: AT Mine
 Scores & Strengths:
-  Tech Score: 151
-  Unit Score: 151
-  Average Score: 151
-  Stat Strength: 141
-  Total Strength: 151
-  Planet Strength: 151
+  Tech Score: 144
+  Unit Score: 144
+  Average Score: 144
+  Stat Strength: 100
+  Total Strength: 144
+  Planet Strength: 144
   Space Strength: 0
-  Garrison Strength: 106
+  Garrison Strength: 180
 Statistics:
   Movement Type: foot
-  Move Points: 2
-  Spot: 11
-  Camouflage: 2
-  Agility: 2
-  Armor: 2
-  Psy Defense: 2
-  Rank: 2
+  Move Points: 0
+  Spot: 0
+  Camouflage: 10
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Close: 2/5
+  Indirect: 2/10
+  Direct: 2/12
 Load aboard transport: YES
-Upkeep / Maintenance: 10
-Build Cost: 83
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 16
 Build Resource Requirements:
-  Food: 12
-  Metal: 3
+  Energy: 59
   Trace: 47
-  Exotica: 41
-  Chemicals: 15
-  Gems: 1
-Upgrade Peasant to Land Mine Detector at Farm
-Time to Build / Upgrade: 1
-[320] Technology Required to Build Unit (88):
-  [320] Viper Militia (88)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Chemicals: 69
+Build Anti-Tank Mine in Factory
+Time to Build / Upgrade: 3
+[300] Technology Required to Build Unit (95):
+  [300] Mechanized Warfare (95)
 Unit can be disbanded: YES
 
 --2--
-Name: Land Mine Detector (PE)
-Nick Name: LM Det. (PE)
+Name: Anti-Tank Mine II
+Nick Name: AT Mine II
 Scores & Strengths:
-  Tech Score: 195
-  Unit Score: 176
-  Average Score: 186
-  Stat Strength: 164
-  Total Strength: 176
-  Planet Strength: 176
+  Tech Score: 292
+  Unit Score: 289
+  Average Score: 291
+  Stat Strength: 196
+  Total Strength: 289
+  Planet Strength: 289
   Space Strength: 0
-  Garrison Strength: 124
+  Garrison Strength: 361
 Statistics:
   Movement Type: foot
-  Move Points: 2
-  Spot: 12
-  Camouflage: 2
-  Agility: 2
-  Armor: 2
-  Psy Defense: 2
-  Rank: 2
+  Move Points: 0
+  Spot: 0
+  Camouflage: 14
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Close: 2/6
+  Indirect: 3/14
+  Direct: 3/17
 Load aboard transport: YES
-May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 6
-Build Cost: 45
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 18
 Build Resource Requirements:
-  Metal: 1
-  Trace: 29
-  Exotica: 28
-  Chemicals: 12
-Upgrade Peasant to Land Mine Detector (PE) at Farm
-Time to Build / Upgrade: 1
-[500] Technologies Required to Build Unit (89):
-  [320] Viper Militia (88)
-  [180] Performance-Enhanced Soldiers (90)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 52
+  Trace: 48
+  Chemicals: 52
+  Electronics: 33
+Build Anti-Tank Mine II in Factory
+Time to Build / Upgrade: 3
+[770] Technology Required to Build Unit (92):
+  [770] Self-Propelled Weaponry (92)
 Unit can be disbanded: YES
 
 --3--
-Name: Land Mine Detector (BE)
-Nick Name: LM Det. (BE)
+Name: Anti-Tank Mine III
+Nick Name: AT Mine III
 Scores & Strengths:
-  Tech Score: 239
-  Unit Score: 230
-  Average Score: 235
-  Stat Strength: 209
-  Total Strength: 230
-  Planet Strength: 230
+  Tech Score: 530
+  Unit Score: 529
+  Average Score: 529
+  Stat Strength: 361
+  Total Strength: 529
+  Planet Strength: 529
   Space Strength: 0
-  Garrison Strength: 132
+  Garrison Strength: 661
 Statistics:
   Movement Type: foot
-  Move Points: 3
-  Spot: 13
-  Camouflage: 3
-  Agility: 2
-  Armor: 3
-  Psy Defense: 3
-  Rank: 2
+  Move Points: 0
+  Spot: 0
+  Camouflage: 19
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Close: 3/7
+  Indirect: 4/19
+  Direct: 4/23
 Load aboard transport: YES
-May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 10
-Build Cost: 81
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 23
 Build Resource Requirements:
-  Metal: 5
-  Trace: 26
-  Exotica: 21
-  Chemicals: 10
-  Biochems: 34
-  Gems: 1
-Upgrade Peasant to Land Mine Detector (BE) at Biochem Plant
-Time to Build / Upgrade: 1
-[740] Technologies Required to Build Unit (83):
-  [320] Viper Militia (88)
-  [420] Biochem-Enhanced Soldiers (77)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 60
+  Trace: 44
+  Chemicals: 73
+  Electronics: 47
+Build Anti-Tank Mine III in Factory
+Time to Build / Upgrade: 3
+[1700] Technology Required to Build Unit (88):
+  [1700] Main Battle Tank (88)
 Unit can be disbanded: YES
 
 --4--
-Name: Land Mine Detector (SE)
-Nick Name: LM Det. (SE)
+Name: Anti-Tank Mine VII
+Nick Name: AT Mine VII
 Scores & Strengths:
-  Tech Score: 313
-  Unit Score: 265
-  Average Score: 289
-  Stat Strength: 241
-  Total Strength: 265
-  Planet Strength: 265
+  Tech Score: 2510
+  Unit Score: 2500
+  Average Score: 2505
+  Stat Strength: 1764
+  Total Strength: 2500
+  Planet Strength: 2500
   Space Strength: 0
-  Garrison Strength: 152
+  Garrison Strength: 3125
 Statistics:
   Movement Type: foot
-  Move Points: 3
-  Spot: 14
-  Camouflage: 3
-  Agility: 3
-  Armor: 3
-  Psy Defense: 3
-  Rank: 3
+  Move Points: 0
+  Spot: 0
+  Camouflage: 42
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 8
 Attacks:
-  Close: 3/8
+  Indirect: 8/42
+  Direct: 8/50
 Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 101
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 31
+Build Cost: 307
 Build Resource Requirements:
-  Metal: 2
-  Trace: 29
-  Exotica: 24
-  Chemicals: 12
-  Biochems: 37
-Upgrade Peasant to Land Mine Detector (SE) at Hospital
-Time to Build / Upgrade: 1
-[995] Technologies Required to Build Unit (82):
-  [320] Viper Militia (88)
-  [675] Surgically-Enhanced Soldiers (75)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 36
+  Trace: 21
+  Chemicals: 59
+  Electronics: 44
+  Monopols: 75
+Build Anti-Tank Mine VII in Factory
+Time to Build / Upgrade: 5
+[13535] Technology Required to Build Unit (74):
+  [13535] Powered Ceramsteel Tanks (74)
 Unit can be disbanded: YES
 
 --5--
-Name: Land Mine Detector (DE)
-Nick Name: LM Det. (DE)
+Name: Anti-Tank Mine VI
+Nick Name: AT Mine VI
 Scores & Strengths:
-  Tech Score: 930
-  Unit Score: 498
-  Average Score: 714
-  Stat Strength: 433
-  Total Strength: 498
-  Planet Strength: 498
+  Tech Score: 2707
+  Unit Score: 2704
+  Average Score: 2706
+  Stat Strength: 1849
+  Total Strength: 2704
+  Planet Strength: 2704
   Space Strength: 0
-  Garrison Strength: 222
+  Garrison Strength: 3380
 Statistics:
   Movement Type: foot
-  Move Points: 5
-  Spot: 18
-  Camouflage: 5
-  Agility: 3
-  Armor: 5
-  Psy Defense: 5
-  Rank: 7
+  Move Points: 0
+  Spot: 0
+  Camouflage: 43
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 13
 Attacks:
-  Close: 5/13
+  Indirect: 9/43
+  Direct: 9/52
 Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 54
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 32
+Build Cost: 321
 Build Resource Requirements:
-  Metal: 12
-  Trace: 8
-  Exotica: 7
-  Chemicals: 8
-  Biochems: 21
-  Electronics: 14
-Upgrade Peasant to Land Mine Detector (DE) at Biochem Plant
-Time to Build / Upgrade: 1
-[3760] Technologies Required to Build Unit (77):
-  [320] Viper Militia (88)
-  [3440] Drug-Enhanced Soldiers (65)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 36
+  Trace: 20
+  Chemicals: 58
+  Electronics: 43
+  Monopols: 76
+Build Anti-Tank Mine VI in Factory
+Time to Build / Upgrade: 5
+[14975] Technology Required to Build Unit (70):
+  [14975] Power Hovertanks (70)
 Unit can be disbanded: YES
 
 --6--
-Name: Land Mine Detector (GE)
-Nick Name: LM Det. (GE)
+Name: Anti-Tank Mine VI
+Nick Name: AT Mine VI
 Scores & Strengths:
-  Tech Score: 1394
-  Unit Score: 672
-  Average Score: 1033
-  Stat Strength: 560
-  Total Strength: 672
-  Planet Strength: 672
+  Tech Score: 2707
+  Unit Score: 2704
+  Average Score: 2706
+  Stat Strength: 1849
+  Total Strength: 2704
+  Planet Strength: 2704
   Space Strength: 0
-  Garrison Strength: 274
+  Garrison Strength: 3380
 Statistics:
   Movement Type: foot
-  Move Points: 6
-  Spot: 20
-  Camouflage: 6
-  Agility: 4
-  Armor: 6
-  Psy Defense: 6
-  Rank: 10
+  Move Points: 0
+  Spot: 0
+  Camouflage: 43
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 13
 Attacks:
-  Close: 7/16
+  Indirect: 9/43
+  Direct: 9/52
 Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 23
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 32
+Build Cost: 321
 Build Resource Requirements:
-  Energy: 2
-  Chemicals: 4
-  Biochems: 6
-  Ceramsteel: 2
-Upgrade Land Mine Detector (DE) to Land Mine Detector (GE) at Lab
-Time to Build / Upgrade: 1
-[6340] Technologies Required to Build Unit (69):
-  [320] Viper Militia (88)
-  [6020] Chemical Shock Legion (49)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 36
+  Trace: 20
+  Chemicals: 58
+  Electronics: 43
+  Monopols: 76
+Build Anti-Tank Mine VI in Factory
+Time to Build / Upgrade: 5
+[14975] Technology Required to Build Unit (70):
+  [14975] Power Hovertanks (70)
 Unit can be disbanded: YES
 
 --7--
-Name: Land Mine Detector (PA)
-Nick Name: LM Det. (PA)
+Name: Anti-Tank Mine VI
+Nick Name: AT Mine VI
 Scores & Strengths:
-  Tech Score: 1420
-  Unit Score: 711
-  Average Score: 1066
-  Stat Strength: 599
-  Total Strength: 711
-  Planet Strength: 711
+  Tech Score: 2707
+  Unit Score: 2704
+  Average Score: 2706
+  Stat Strength: 1849
+  Total Strength: 2704
+  Planet Strength: 2704
   Space Strength: 0
-  Garrison Strength: 268
+  Garrison Strength: 3380
 Statistics:
   Movement Type: foot
-  Move Points: 7
-  Spot: 20
-  Camouflage: 6
-  Agility: 4
-  Armor: 7
-  Psy Defense: 7
-  Rank: 11
+  Move Points: 0
+  Spot: 0
+  Camouflage: 43
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 13
 Attacks:
-  Close: 7/16
+  Indirect: 9/43
+  Direct: 9/52
 Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 5
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 32
+Build Cost: 321
 Build Resource Requirements:
-  Energy: 4
-  Metal: 1
-  Chemicals: 11
-  Electronics: 22
-  Ceramsteel: 9
-Upgrade Land Mine Detector (SE) to Land Mine Detector (PA) at Hospital
-Time to Build / Upgrade: 1
-[6495] Technologies Required to Build Unit (73):
-  [320] Viper Militia (88)
-  [6175] Prosthetically-Augmented Soldiers (57)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 36
+  Trace: 20
+  Chemicals: 58
+  Electronics: 43
+  Monopols: 76
+Build Anti-Tank Mine VI in Factory
+Time to Build / Upgrade: 5
+[14975] Technology Required to Build Unit (70):
+  [14975] Power Hovertanks (70)
 Unit can be disbanded: YES
 
 --8--
-Name: Land Mine Detector (CE)
-Nick Name: LM Det. (CE)
+Name: Anti-Tank Mine VIII
+Nick Name: AT Mine VIII
 Scores & Strengths:
-  Tech Score: 1792
-  Unit Score: 779
-  Average Score: 1285
-  Stat Strength: 653
-  Total Strength: 779
-  Planet Strength: 779
+  Tech Score: 2921
+  Unit Score: 2916
+  Average Score: 2918
+  Stat Strength: 2025
+  Total Strength: 2916
+  Planet Strength: 2916
   Space Strength: 0
-  Garrison Strength: 294
+  Garrison Strength: 3645
 Statistics:
   Movement Type: foot
-  Move Points: 7
-  Spot: 21
-  Camouflage: 7
-  Agility: 4
-  Armor: 7
-  Psy Defense: 7
-  Rank: 13
+  Move Points: 0
+  Spot: 0
+  Camouflage: 45
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 17
 Attacks:
-  Close: 7/18
+  Indirect: 9/45
+  Direct: 9/54
 Load aboard transport: YES
-Upkeep / Maintenance: 10
-Build Cost: 95
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 21
+Build Cost: 212
 Build Resource Requirements:
-  Energy: 3
-  Chemicals: 4
-Upgrade Land Mine Detector (PA) to Land Mine Detector (CE) at Lab
-Time to Build / Upgrade: 1
-[8920] Technologies Required to Build Unit (68):
-  [320] Viper Militia (88)
-  [8600] Cybernetically-Enhanced Soldiers (48)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 23
+  Trace: 13
+  Chemicals: 38
+  Electronics: 28
+  Monopols: 49
+Build Anti-Tank Mine VIII in Factory
+Time to Build / Upgrade: 4
+[30105] Technologies Required to Build Unit (69):
+  [15130] Fusion Battle Tanks (68)
+  [14975] Power Hovertanks (70)
 Unit can be disbanded: YES
 
 --9--
-Name: Land Mine Detector (AVE)
-Nick Name: LM Det. (AVE)
+Name: Anti-Tank Mine IX
+Nick Name: AT Mine IX
 Scores & Strengths:
-  Tech Score: 1857
-  Unit Score: 865
-  Average Score: 1361
-  Stat Strength: 713
-  Total Strength: 865
-  Planet Strength: 865
+  Tech Score: 3824
+  Unit Score: 3844
+  Average Score: 3834
+  Stat Strength: 2704
+  Total Strength: 3844
+  Planet Strength: 3844
   Space Strength: 0
-  Garrison Strength: 305
+  Garrison Strength: 4805
 Statistics:
   Movement Type: foot
-  Move Points: 8
-  Spot: 21
-  Camouflage: 8
-  Agility: 4
-  Armor: 8
-  Psy Defense: 8
-  Rank: 14
+  Move Points: 0
+  Spot: 0
+  Camouflage: 52
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 35
 Attacks:
-  Close: 8/19
+  Indirect: 10/52
+  Direct: 10/62
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 67
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 27
+Build Cost: 266
 Build Resource Requirements:
-  Energy: 2
-  Metal: 1
-  Chemicals: 4
-  Biochems: 4
-Upgrade Land Mine Detector (GE) to Land Mine Detector (AVE) at Lab
-Time to Build / Upgrade: 1
-[9220] Technologies Required to Build Unit (57):
-  [320] Viper Militia (88)
-  [8900] Genetically-Enhanced Warriors (25)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---10--
-Name: Land Mine Detector (ME)
-Nick Name: LM Det. (ME)
-Scores & Strengths:
-  Tech Score: 1428
-  Unit Score: 1023
-  Average Score: 1225
-  Stat Strength: 904
-  Total Strength: 1023
-  Planet Strength: 1023
-  Space Strength: 0
-  Garrison Strength: 248
-Statistics:
-  Movement Type: foot
-  Move Points: 17
-  Spot: 20
-  Camouflage: 6
-  Agility: 9
-  Armor: 7
-  Psy Defense: 7
-  Rank: 12
-Attacks:
-  Close: 7/17
-Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 57
-Build Resource Requirements:
-  Trace: 12
-  Exotica: 13
-  Chemicals: 28
-  Electronics: 22
-  Ceramsteel: 3
-Upgrade Peasant to Land Mine Detector (ME) at Factory
-Time to Build / Upgrade: 1
-[6540] Technologies Required to Build Unit (84):
-  [320] Viper Militia (88)
-  [6220] Mechanically-Enhanced Soldiers (80)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---11--
-Name: Land Mine Detector (MF)
-Nick Name: LM Det. (MF)
-Scores & Strengths:
-  Tech Score: 3187
-  Unit Score: 1232
-  Average Score: 2209
-  Stat Strength: 992
-  Total Strength: 1232
-  Planet Strength: 1232
-  Space Strength: 0
-  Garrison Strength: 389
-Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 24
-  Camouflage: 10
-  Agility: 4
-  Armor: 10
-  Psy Defense: 10
-  Rank: 22
-Attacks:
-  Close: 10/24
-Load aboard transport: YES
-Upkeep / Maintenance: 69
-Build Cost: 595
-Build Resource Requirements:
-  Energy: 2
-  Biochems: 3
-  Wetware: 5
-  Monopols: 26
-Upgrade Land Mine Detector (CE) to Land Mine Detector (MF) at Wetware
-Time to Build / Upgrade: 1
-[18895] Technologies Required to Build Unit (62):
-  [320] Viper Militia (88)
-  [18575] Machine-Fused Soldiers (35)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---12--
-Name: Land Mine Detector (NE)
-Nick Name: LM Det. (NE)
-Scores & Strengths:
-  Tech Score: 3876
-  Unit Score: 1586
-  Average Score: 2731
-  Stat Strength: 1289
-  Total Strength: 1586
-  Planet Strength: 1586
-  Space Strength: 0
-  Garrison Strength: 478
-Statistics:
-  Movement Type: foot
-  Move Points: 11
-  Spot: 26
-  Camouflage: 15
-  Agility: 5
-  Armor: 11
-  Psy Defense: 11
-  Rank: 27
-Attacks:
-  Close: 11/27
-Load aboard transport: YES
-Upkeep / Maintenance: 43
-Build Cost: 361
-Build Resource Requirements:
-  Wetware: 6
-  Monopols: 12
-Upgrade Land Mine Detector (AVE) to Land Mine Detector (NE) at Fusorium
-Time to Build / Upgrade: 1
-[24450] Technologies Required to Build Unit (60):
-  [320] Viper Militia (88)
-  [24130] Neumonically-Enhanced Soldiers (32)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 33
+  Trace: 16
+  Chemicals: 39
+  Biochems: 17
+  Electronics: 35
+  Monopols: 53
+Build Anti-Tank Mine IX in Factory
+Time to Build / Upgrade: 4
+[37265] Technologies Required to Build Unit (52):
+  [14975] Power Hovertanks (70)
+  [22290] Bio-Anti Infantry Tanks (34)
 Unit can be disbanded: YES

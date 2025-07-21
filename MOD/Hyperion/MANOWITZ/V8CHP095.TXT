@@ -1,322 +1,485 @@
-All units of the unit class U-Boat are listed herein (7 in total):
+All units of the unit class Satellite are listed herein (12 in total):
 
 --1--
-Name: U-Boat
-Nick Name: U-Boat
+Name: Satellite
+Nick Name: Satellite
 Scores & Strengths:
-  Tech Score: 174
-  Unit Score: 344
-  Average Score: 259
-  Stat Strength: 297
-  Total Strength: 344
-  Planet Strength: 344
+  Tech Score: 327
+  Unit Score: 327
+  Average Score: 327
+  Stat Strength: 327
+  Total Strength: 327
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 140
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 6
-  Spot: 4
-  Camouflage: 6
-  Agility: 3
-  Armor: 10
-  Psy Defense: 10
-  Rank: 700
-Attacks:
-  Water: 2/19
-  Direct: 3/3
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 70
-Build Cost: 697
+  Movement Type: space
+  Move Points: 0
+  Spot: 17
+  Camouflage: 4
+  Agility: 2
+  Armor: 3
+  Psy Defense: 3
+  Rank: 53
+Load aboard transport: YES
+Upkeep / Maintenance: 19
+Build Cost: 190
 Build Resource Requirements:
-  Food: 7
-  Energy: 77
-  Metal: 53
-  Trace: 20
-  Exotica: 6
-  Chemicals: 65
-  Gems: 1
-Build U-Boat in Well
-Time to Build / Upgrade: 4
-[535] Technologies Required to Build Unit (99):
-  [100] Medical & Biological (100)
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
-Counts as planetary flock: YES
+  Food: 31
+  Metal: 11
+  Trace: 51
+  Exotica: 31
+  Chemicals: 1
+  Electronics: 36
+Build Satellite in Chemical Plant
+Time to Build / Upgrade: 3
+[895] Technology Required to Build Unit (90):
+  [895] Space Rocketry (90)
 Unit can be disbanded: YES
 
 --2--
-Name: Submarine
-Nick Name: NSS
+Name: Satellite II
+Nick Name: Satellite II
 Scores & Strengths:
-  Tech Score: 520
-  Unit Score: 1042
-  Average Score: 781
-  Stat Strength: 817
-  Total Strength: 1042
-  Planet Strength: 1042
+  Tech Score: 782
+  Unit Score: 531
+  Average Score: 657
+  Stat Strength: 531
+  Total Strength: 531
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 329
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 10
-  Spot: 10
-  Camouflage: 12
-  Agility: 9
-  Armor: 14
-  Psy Defense: 14
-  Rank: 717
-Attacks:
-  Water: 6/24
-  Direct: 9/9
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 85
-Build Cost: 850
+  Movement Type: space
+  Move Points: 0
+  Spot: 21
+  Camouflage: 6
+  Agility: 2
+  Armor: 5
+  Psy Defense: 5
+  Rank: 57
+Load aboard transport: YES
+Upkeep / Maintenance: 10
+Build Cost: 98
 Build Resource Requirements:
-  Food: 9
-  Energy: 46
-  Metal: 42
-  Trace: 30
-  Exotica: 9
-  Chemicals: 45
-  Biochems: 12
-  Electronics: 22
-Build Submarine in Well
-Time to Build / Upgrade: 4
-[1870] Technologies Required to Build Unit (96):
-  [100] Medical & Biological (100)
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [1560] Naval Patrol Ships (86)
-Counts as planetary flock: YES
+  Food: 10
+  Metal: 14
+  Trace: 20
+  Exotica: 10
+  Electronics: 21
+Build Satellite II in Chemical Plant
+Time to Build / Upgrade: 1
+[3655] Technologies Required to Build Unit (82):
+  [1235] Jump Rocketry (76)
+  [2420] Rocket-Propelled Aircraft (87)
 Unit can be disbanded: YES
 
 --3--
-Name: Attack Submarine
-Nick Name: NSS-AS
+Name: Satellite III
+Nick Name: Satellite III
 Scores & Strengths:
-  Tech Score: 932
-  Unit Score: 1398
-  Average Score: 1165
-  Stat Strength: 940
-  Total Strength: 1398
-  Planet Strength: 1398
+  Tech Score: 1380
+  Unit Score: 721
+  Average Score: 1050
+  Stat Strength: 721
+  Total Strength: 721
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 403
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 12
-  Spot: 8
-  Camouflage: 12
-  Agility: 14
-  Armor: 14
-  Psy Defense: 14
-  Rank: 759
-Attacks:
-  Water: 14/17
-  Indirect: 11/20
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 72
-Build Cost: 723
+  Movement Type: space
+  Move Points: 0
+  Spot: 24
+  Camouflage: 8
+  Agility: 3
+  Armor: 6
+  Psy Defense: 6
+  Rank: 61
+Load aboard transport: YES
+Upkeep / Maintenance: 10
+Build Cost: 96
 Build Resource Requirements:
-  Food: 6
-  Energy: 38
-  Metal: 32
-  Trace: 39
-  Exotica: 7
-  Chemicals: 22
-  Biochems: 13
-  Electronics: 21
-Build Attack Submarine in Well
-Time to Build / Upgrade: 3
-[3615] Technology Required to Build Unit (87):
-  [3615] Submarine Warfare (87)
-Counts as planetary flock: YES
+  Food: 8
+  Metal: 20
+  Trace: 16
+  Exotica: 8
+  Electronics: 22
+Build Satellite III in Chemical Plant
+Time to Build / Upgrade: 1
+[6900] Technologies Required to Build Unit (79):
+  [1235] Jump Rocketry (76)
+  [5665] Hypersonic Aircraft (82)
 Unit can be disbanded: YES
 
 --4--
-Name: Attack Submarine II
-Nick Name: NSS-AS II
+Name: Satellite IV
+Nick Name: Satellite IV
 Scores & Strengths:
-  Tech Score: 1292
-  Unit Score: 1842
-  Average Score: 1567
-  Stat Strength: 1210
-  Total Strength: 1842
-  Planet Strength: 1842
+  Tech Score: 1771
+  Unit Score: 864
+  Average Score: 1318
+  Stat Strength: 864
+  Total Strength: 864
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 492
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 14
-  Spot: 9
-  Camouflage: 14
-  Agility: 15
-  Armor: 16
-  Psy Defense: 16
-  Rank: 769
-Attacks:
-  Water: 16/20
-  Indirect: 13/24
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 57
-Build Cost: 567
+  Movement Type: space
+  Move Points: 0
+  Spot: 26
+  Camouflage: 9
+  Agility: 3
+  Armor: 7
+  Psy Defense: 7
+  Rank: 63
+Load aboard transport: YES
+Upkeep / Maintenance: 8
+Build Cost: 75
 Build Resource Requirements:
-  Food: 4
-  Energy: 27
-  Metal: 14
-  Trace: 21
-  Exotica: 4
-  Chemicals: 18
-  Biochems: 8
-  Electronics: 15
-  Ceramsteel: 13
-Build Attack Submarine II in Well
-Time to Build / Upgrade: 3
-[8310] Technologies Required to Build Unit (85):
-  [3615] Submarine Warfare (87)
-  [4695] Advanced Minor Watercraft (83)
-Counts as planetary flock: YES
+  Food: 7
+  Metal: 2
+  Trace: 15
+  Exotica: 7
+  Electronics: 21
+  Ceramsteel: 2
+Build Satellite IV in Chemical Plant
+Time to Build / Upgrade: 1
+[9410] Technologies Required to Build Unit (80):
+  [1235] Jump Rocketry (76)
+  [8175] Spacecraft (84)
 Unit can be disbanded: YES
 
 --5--
-Name: Attack Submarine III
-Nick Name: NSS-AS III
+Name: Satellite V
+Nick Name: Satellite V
 Scores & Strengths:
-  Tech Score: 1563
-  Unit Score: 2257
-  Average Score: 1910
-  Stat Strength: 1497
-  Total Strength: 2257
-  Planet Strength: 2257
+  Tech Score: 2400
+  Unit Score: 1042
+  Average Score: 1721
+  Stat Strength: 1042
+  Total Strength: 1042
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 564
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 16
-  Spot: 9
-  Camouflage: 16
-  Agility: 16
-  Armor: 18
-  Psy Defense: 18
-  Rank: 775
-Attacks:
-  Water: 18/22
-  Indirect: 14/26
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 91
-Build Cost: 914
+  Movement Type: space
+  Move Points: 0
+  Spot: 28
+  Camouflage: 11
+  Agility: 3
+  Armor: 8
+  Psy Defense: 8
+  Rank: 67
+Load aboard transport: YES
+Upkeep / Maintenance: 9
+Build Cost: 87
 Build Resource Requirements:
-  Food: 5
-  Energy: 41
-  Metal: 17
-  Trace: 29
+  Food: 6
+  Metal: 2
+  Trace: 13
   Exotica: 6
-  Chemicals: 31
-  Biochems: 11
-  Electronics: 24
-  Ceramsteel: 20
-Build Attack Submarine III in Well
-Time to Build / Upgrade: 4
-[7200] Technology Required to Build Unit (85):
-  [7200] Air-Independent Propulsion (85)
-Counts as planetary flock: YES
+  Biochems: 6
+  Electronics: 18
+  Ceramsteel: 2
+Build Satellite V in Chemical Plant
+Time to Build / Upgrade: 1
+[13660] Technologies Required to Build Unit (81):
+  [1235] Jump Rocketry (76)
+  [12425] Space Warfare (86)
 Unit can be disbanded: YES
 
 --6--
-Name: Attack Submarine IV
-Nick Name: NSS-AS IV
+Name: Satellite VI
+Nick Name: Satellite VI
 Scores & Strengths:
-  Tech Score: 1692
-  Unit Score: 2413
-  Average Score: 2052
-  Stat Strength: 1571
-  Total Strength: 2413
-  Planet Strength: 2413
+  Tech Score: 2959
+  Unit Score: 1156
+  Average Score: 2058
+  Stat Strength: 1156
+  Total Strength: 1156
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 603
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 16
-  Spot: 9
-  Camouflage: 16
-  Agility: 16
-  Armor: 19
-  Psy Defense: 19
-  Rank: 779
-Attacks:
-  Water: 19/23
-  Indirect: 15/27
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 57
-Build Cost: 572
+  Movement Type: space
+  Move Points: 0
+  Spot: 29
+  Camouflage: 12
+  Agility: 3
+  Armor: 9
+  Psy Defense: 9
+  Rank: 71
+Load aboard transport: YES
+Upkeep / Maintenance: 14
+Build Cost: 135
 Build Resource Requirements:
-  Food: 3
-  Energy: 25
-  Metal: 11
-  Trace: 17
-  Exotica: 3
-  Chemicals: 19
-  Biochems: 7
-  Electronics: 15
-  Ceramsteel: 13
-Build Attack Submarine IV in Well
-Time to Build / Upgrade: 3
-[13855] Technologies Required to Build Unit (84):
-  [7200] Air-Independent Propulsion (85)
-  [6655] PTS Missile Navalcraft (83)
-Counts as planetary flock: YES
+  Food: 4
+  Metal: 1
+  Trace: 11
+  Exotica: 5
+  Biochems: 9
+  Electronics: 16
+  Ceramsteel: 1
+  Monopols: 1
+Build Satellite VI in Chemical Plant
+Time to Build / Upgrade: 1
+[17765] Technologies Required to Build Unit (78):
+  [1235] Jump Rocketry (76)
+  [16530] Space Capital Ships (80)
 Unit can be disbanded: YES
 
 --7--
-Name: Attack Submarine V
-Nick Name: NSS-AS V
+Name: Orbital Listening Post
+Nick Name: SS-LP
 Scores & Strengths:
-  Tech Score: 1792
-  Unit Score: 2513
-  Average Score: 2153
-  Stat Strength: 1637
-  Total Strength: 2513
-  Planet Strength: 2513
+  Tech Score: 1888
+  Unit Score: 1874
+  Average Score: 1881
+  Stat Strength: 1874
+  Total Strength: 1874
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 609
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 17
-  Spot: 9
-  Camouflage: 17
-  Agility: 16
+  Movement Type: space
+  Move Points: 0
+  Spot: 24
+  Camouflage: 24
+  Agility: 0
   Armor: 19
   Psy Defense: 19
-  Rank: 781
-Attacks:
-  Water: 19/24
-  Indirect: 15/28
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 59
-Build Cost: 588
+  Rank: 69
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 12
+Build Cost: 123
+Build Resource Requirements:
+  Food: 4
+  Metal: 9
+  Trace: 13
+  Exotica: 4
+  Chemicals: 2
+  Electronics: 20
+  Ceramsteel: 11
+Build Orbital Listening Post in Starport
+Time to Build / Upgrade: 2
+[17990] Technologies Required to Build Unit (79):
+  [1605] Imaging Radar (78)
+  [8175] Spacecraft (84)
+  [8210] Aircraft Surveillance (74)
+Unit can be disbanded: YES
+
+--8--
+Name: Orbital Listening Post II
+Nick Name: SS-LP II
+Scores & Strengths:
+  Tech Score: 2516
+  Unit Score: 2428
+  Average Score: 2472
+  Stat Strength: 2428
+  Total Strength: 2428
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 0
+  Spot: 26
+  Camouflage: 28
+  Agility: 0
+  Armor: 22
+  Psy Defense: 22
+  Rank: 75
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 16
+Build Cost: 160
 Build Resource Requirements:
   Food: 3
-  Energy: 26
   Metal: 10
-  Trace: 17
+  Trace: 14
   Exotica: 3
-  Chemicals: 20
-  Biochems: 7
-  Electronics: 15
+  Chemicals: 2
+  Biochems: 3
+  Electronics: 21
   Ceramsteel: 13
-Build Attack Submarine V in Well
-Time to Build / Upgrade: 3
-[14495] Technologies Required to Build Unit (83):
-  [7200] Air-Independent Propulsion (85)
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
+Build Orbital Listening Post II in Starport
+Time to Build / Upgrade: 2
+[22535] Technologies Required to Build Unit (79):
+  [1900] LASER (76)
+  [8210] Aircraft Surveillance (74)
+  [12425] Space Warfare (86)
+Unit can be disbanded: YES
+
+--9--
+Name: Orbital Listening Post III
+Nick Name: SS-LP III
+Scores & Strengths:
+  Tech Score: 3172
+  Unit Score: 2940
+  Average Score: 3056
+  Stat Strength: 2940
+  Total Strength: 2940
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 0
+  Spot: 27
+  Camouflage: 31
+  Agility: 0
+  Armor: 25
+  Psy Defense: 25
+  Rank: 81
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 70
+Build Cost: 700
+Build Resource Requirements:
+  Food: 3
+  Metal: 7
+  Trace: 13
+  Exotica: 3
+  Chemicals: 2
+  Biochems: 9
+  Electronics: 21
+  Ceramsteel: 10
+  Monopols: 9
+Build Orbital Listening Post III in Starport
+Time to Build / Upgrade: 2
+[28520] Technologies Required to Build Unit (78):
+  [3780] Beam Control (79)
+  [8210] Aircraft Surveillance (74)
+  [16530] Space Capital Ships (80)
+Unit can be disbanded: YES
+
+--10--
+Name: Orbital Listening Post IV
+Nick Name: SS-LP IV
+Scores & Strengths:
+  Tech Score: 3737
+  Unit Score: 3398
+  Average Score: 3568
+  Stat Strength: 3398
+  Total Strength: 3398
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 0
+  Spot: 28
+  Camouflage: 34
+  Agility: 0
+  Armor: 27
+  Psy Defense: 27
+  Rank: 86
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 78
+Build Cost: 781
+Build Resource Requirements:
+  Food: 3
+  Metal: 8
+  Trace: 13
+  Exotica: 3
+  Chemicals: 2
+  Biochems: 9
+  Electronics: 22
+  Ceramsteel: 10
+  Monopols: 9
+Build Orbital Listening Post IV in Starport
+Time to Build / Upgrade: 2
+[33040] Technologies Required to Build Unit (74):
+  [4610] Wavelength-Tunable LASER (75)
+  [8210] Aircraft Surveillance (74)
+  [20220] Jump Transports (72)
+Unit can be disbanded: YES
+
+--11--
+Name: Orbital Listening Post V
+Nick Name: SS-LP V
+Scores & Strengths:
+  Tech Score: 4124
+  Unit Score: 3634
+  Average Score: 3879
+  Stat Strength: 3634
+  Total Strength: 3634
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 0
+  Spot: 29
+  Camouflage: 35
+  Agility: 0
+  Armor: 28
+  Psy Defense: 28
+  Rank: 89
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 55
+Build Cost: 547
+Build Resource Requirements:
+  Food: 2
+  Metal: 5
+  Trace: 10
+  Exotica: 2
+  Chemicals: 2
+  Biochems: 7
+  Electronics: 18
+  Ceramsteel: 6
+  Monopols: 6
+Build Orbital Listening Post V in Starport
+Time to Build / Upgrade: 2
+[51895] Technologies Required to Build Unit (74):
+  [8210] Aircraft Surveillance (74)
+  [20220] Jump Transports (72)
+  [23465] Advanced Spacecraft (75)
+Unit can be disbanded: YES
+
+--12--
+Name: Orbital Listening Post VI
+Nick Name: SS-LP VI
+Scores & Strengths:
+  Tech Score: 5825
+  Unit Score: 4966
+  Average Score: 5396
+  Stat Strength: 4966
+  Total Strength: 4966
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 0
+  Spot: 32
+  Camouflage: 42
+  Agility: 0
+  Armor: 33
+  Psy Defense: 33
+  Rank: 104
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 51
+Build Cost: 514
+Build Resource Requirements:
+  Food: 1
+  Metal: 4
+  Trace: 7
+  Exotica: 1
+  Chemicals: 1
+  Biochems: 5
+  Electronics: 15
+  Ceramsteel: 5
+  Monopols: 5
+Build Orbital Listening Post VI in Starport
+Time to Build / Upgrade: 2
+[107150] Technologies Required to Build Unit (70):
+  [8210] Aircraft Surveillance (74)
+  [23465] Advanced Spacecraft (75)
+  [36110] Starbase MK M (70)
+  [39365] Jump Capital Ships (61)
 Unit can be disbanded: YES

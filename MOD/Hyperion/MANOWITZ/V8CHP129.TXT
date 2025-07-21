@@ -1,368 +1,393 @@
-All units of the unit class Gunship are listed herein (7 in total):
+All units of the unit class Torpedo Bomber Aircraft are listed herein (9 in total):
 
 --1--
-Name: Gunship
-Nick Name: Dragonfly
+Name: Torpedo Bomber Aircraft
+Nick Name: A-ATB
 Scores & Strengths:
-  Tech Score: 742
-  Unit Score: 743
-  Average Score: 742
-  Stat Strength: 643
-  Total Strength: 743
-  Planet Strength: 743
+  Tech Score: 671
+  Unit Score: 670
+  Average Score: 670
+  Stat Strength: 485
+  Total Strength: 670
+  Planet Strength: 670
   Space Strength: 0
-  Garrison Strength: 214
+  Garrison Strength: 185
 Statistics:
   Movement Type: air
-  Move Points: 12
-  Spot: 10
-  Camouflage: 6
-  Agility: 11
-  Armor: 11
-  Psy Defense: 11
-  Rank: 117
+  Move Points: 13
+  Spot: 6
+  Camouflage: 4
+  Agility: 8
+  Armor: 10
+  Psy Defense: 10
+  Rank: 113
 Attacks:
-  Water: 1/12
-  Air: 6/6
-  Indirect: 1/12
-  Direct: 2/8
-  Close: 4/6
+  Water: 4/20
+  Air: 8/2
+  Indirect: 4/20
+  Direct: 3/3
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 14
-Build Cost: 139
+Upkeep / Maintenance: 8
+Build Cost: 80
 Build Resource Requirements:
-  Food: 8
-  Energy: 31
-  Metal: 166
-  Trace: 13
-  Exotica: 7
-  Chemicals: 28
-  Electronics: 14
-Build Gunship in Factory
+  Food: 6
+  Energy: 44
+  Metal: 28
+  Trace: 11
+  Exotica: 6
+  Chemicals: 44
+  Electronics: 8
+Build Torpedo Bomber Aircraft in Factory
 Time to Build / Upgrade: 3
-[2665] Technology Required to Build Unit (85):
-  [2665] V/STOL Aircraft (85)
+[2595] Technologies Required to Build Unit (89):
+  [1195] Naval Warfare (90)
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Gunship II
-Nick Name: Dragonfly II
+Name: Heavy Bomber
+Nick Name: A-BH
 Scores & Strengths:
-  Tech Score: 1262
-  Unit Score: 1168
-  Average Score: 1215
-  Stat Strength: 1002
-  Total Strength: 1168
-  Planet Strength: 1168
+  Tech Score: 458
+  Unit Score: 686
+  Average Score: 572
+  Stat Strength: 574
+  Total Strength: 686
+  Planet Strength: 686
   Space Strength: 0
-  Garrison Strength: 292
+  Garrison Strength: 190
 Statistics:
   Movement Type: air
-  Move Points: 16
-  Spot: 11
-  Camouflage: 8
-  Agility: 13
-  Armor: 14
-  Psy Defense: 14
-  Rank: 125
+  Move Points: 13
+  Spot: 8
+  Camouflage: 2
+  Agility: 7
+  Armor: 12
+  Psy Defense: 12
+  Rank: 149
 Attacks:
-  Water: 1/16
-  Air: 8/8
-  Indirect: 1/16
-  Direct: 3/10
-  Close: 5/8
+  Air: 7/8
+  Indirect: 4/14
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 7
-Build Cost: 74
+Upkeep / Maintenance: 14
+Build Cost: 144
 Build Resource Requirements:
-  Food: 5
-  Energy: 22
-  Metal: 28
-  Trace: 9
-  Exotica: 5
-  Chemicals: 18
-  Biochems: 5
-  Electronics: 8
-Build Gunship II in Factory
-Time to Build / Upgrade: 2
-[7970] Technologies Required to Build Unit (87):
-  [795] Missiles (86)
-  [2725] Naval Capital Ships (88)
-  [1785] Rotary Autocannon (90)
-  [2665] V/STOL Aircraft (85)
+  Food: 11
+  Energy: 33
+  Metal: 198
+  Trace: 21
+  Exotica: 11
+  Chemicals: 33
+  Electronics: 10
+Build Heavy Bomber in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Advanced Gunship
-Nick Name: Dragonfly III
+Name: Heavy Fighter
+Nick Name: A-FH
 Scores & Strengths:
-  Tech Score: 1914
-  Unit Score: 1749
-  Average Score: 1831
-  Stat Strength: 1474
-  Total Strength: 1749
-  Planet Strength: 1749
+  Tech Score: 458
+  Unit Score: 686
+  Average Score: 572
+  Stat Strength: 554
+  Total Strength: 686
+  Planet Strength: 686
   Space Strength: 0
-  Garrison Strength: 401
+  Garrison Strength: 198
 Statistics:
   Movement Type: air
-  Move Points: 19
-  Spot: 13
-  Camouflage: 10
-  Agility: 14
-  Armor: 18
-  Psy Defense: 18
-  Rank: 134
+  Move Points: 12
+  Spot: 8
+  Camouflage: 2
+  Agility: 10
+  Armor: 11
+  Psy Defense: 11
+  Rank: 147
 Attacks:
-  Water: 2/19
-  Air: 10/10
-  Indirect: 2/19
-  Direct: 3/13
-  Close: 6/10
+  Air: 11/7
+  Indirect: 5/11
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 12
-Build Cost: 124
+Upkeep / Maintenance: 14
+Build Cost: 137
 Build Resource Requirements:
-  Food: 6
-  Energy: 28
-  Metal: 10
-  Trace: 10
-  Exotica: 6
-  Chemicals: 39
-  Electronics: 16
-  Ceramsteel: 24
-Build Advanced Gunship in Factory
-Time to Build / Upgrade: 3
-[9430] Technology Required to Build Unit (81):
-  [9430] Advanced V/STOL Aircraft (81)
+  Food: 12
+  Energy: 27
+  Metal: 166
+  Trace: 32
+  Exotica: 11
+  Chemicals: 27
+  Electronics: 15
+Build Heavy Fighter in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Killer Gunship
-Nick Name: Bumblebee
+Name: Light Fighter
+Nick Name: A-FL
 Scores & Strengths:
-  Tech Score: 4843
-  Unit Score: 3995
-  Average Score: 4419
-  Stat Strength: 3334
-  Total Strength: 3995
-  Planet Strength: 3995
+  Tech Score: 458
+  Unit Score: 686
+  Average Score: 572
+  Stat Strength: 536
+  Total Strength: 686
+  Planet Strength: 686
   Space Strength: 0
-  Garrison Strength: 717
+  Garrison Strength: 183
 Statistics:
   Movement Type: air
-  Move Points: 31
-  Spot: 16
-  Camouflage: 15
-  Agility: 18
-  Armor: 28
-  Psy Defense: 28
-  Rank: 169
+  Move Points: 14
+  Spot: 8
+  Camouflage: 2
+  Agility: 12
+  Armor: 8
+  Psy Defense: 8
+  Rank: 148
 Attacks:
-  Water: 3/31
-  Air: 15/15
-  Indirect: 3/31
-  Direct: 5/20
-  Close: 10/15
+  Air: 13/6
+  Indirect: 9/8
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 90
-Build Cost: 898
+Upkeep / Maintenance: 12
+Build Cost: 123
 Build Resource Requirements:
-  Food: 3
-  Energy: 15
-  Metal: 4
-  Trace: 5
-  Exotica: 3
-  Chemicals: 18
-  Biochems: 4
-  Electronics: 11
-  Ceramsteel: 8
-  Monopols: 27
-Build Killer Gunship in Factory
-Time to Build / Upgrade: 3
-[46705] Technologies Required to Build Unit (81):
-  [1785] Rotary Autocannon (90)
-  [27875] PTS Meson Navalcraft (74)
-  [17045] Power V/STOL Aircraft (79)
+  Food: 14
+  Energy: 27
+  Metal: 88
+  Trace: 45
+  Exotica: 14
+  Chemicals: 27
+  Electronics: 19
+Build Light Fighter in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Psy Killer Gunship
-Nick Name: Psy Gunship
+Name: Fighter Bomber
+Nick Name: A-BF
 Scores & Strengths:
-  Tech Score: 5089
-  Unit Score: 6074
-  Average Score: 5581
-  Stat Strength: 4572
-  Total Strength: 6074
-  Planet Strength: 6074
-  Space Strength: 4782
-  Garrison Strength: 985
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 533
+  Total Strength: 687
+  Planet Strength: 687
+  Space Strength: 0
+  Garrison Strength: 198
 Statistics:
   Movement Type: air
-  Move Points: 38
-  Spot: 19
-  Camouflage: 11
-  Agility: 21
-  Armor: 21
-  Psy Defense: 42
-  Rank: 186
+  Move Points: 12
+  Spot: 8
+  Camouflage: 2
+  Agility: 11
+  Armor: 10
+  Psy Defense: 10
+  Rank: 148
 Attacks:
-  Psychic: 15/14
-  Water: 15/23
-  Air: 15/15
-  Indirect: 9/25
-  Direct: 15/15
-  Close: 17/16
+  Air: 8/11
+  Indirect: 6/11
 Load aboard transport: YES
-Upkeep / Maintenance: 128
-Build Cost: 1281
+Upkeep / Maintenance: 13
+Build Cost: 129
 Build Resource Requirements:
-  Food: 5
-  Energy: 14
-  Metal: 6
-  Trace: 11
-  Exotica: 6
-  Chemicals: 19
-  Biochems: 15
-  Electronics: 19
-  Ceramsteel: 10
-  Monopols: 29
-  Gems: 7
-Build Psy Killer Gunship in Factory
+  Food: 12
+  Energy: 33
+  Metal: 137
+  Trace: 27
+  Exotica: 11
+  Chemicals: 33
+  Electronics: 12
+Build Fighter Bomber in Factory
 Time to Build / Upgrade: 4
-[52760] Technologies Required to Build Unit (72):
-  [330] Holy Warriors (82)
-  [1555] Dhechi (80)
-  [3050] Occult Science (44)
-  [2725] Visioning (56)
-  [1785] Rotary Autocannon (90)
-  [27875] PTS Meson Navalcraft (74)
-  [15440] Power Aircraft (79)
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Morph Gunship
-Nick Name: Wasp
+Name: Ground-Attack Fighter
+Nick Name: A-FGA
 Scores & Strengths:
-  Tech Score: 8309
-  Unit Score: 8185
-  Average Score: 8247
-  Stat Strength: 5714
-  Total Strength: 8185
-  Planet Strength: 8185
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 585
+  Total Strength: 687
+  Planet Strength: 687
   Space Strength: 0
-  Garrison Strength: 1248
+  Garrison Strength: 207
 Statistics:
   Movement Type: air
-  Move Points: 43
-  Spot: 24
-  Camouflage: 16
-  Agility: 41
-  Armor: 26
-  Psy Defense: 26
-  Rank: 222
+  Move Points: 11
+  Spot: 8
+  Camouflage: 2
+  Agility: 14
+  Armor: 10
+  Psy Defense: 10
+  Rank: 115
 Attacks:
-  Water: 30/28
-  Air: 20/20
-  Indirect: 13/30
-  Direct: 20/20
-  Close: 21/21
+  Air: 6/6
+  Indirect: 5/6
+  Direct: 3/6
+  Close: 6/3
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 168
-Build Cost: 1675
+Upkeep / Maintenance: 13
+Build Cost: 126
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 2
-  Trace: 8
-  Exotica: 3
-  Chemicals: 13
-  Biochems: 21
-  Electronics: 13
-  Ceramsteel: 3
-  Wetware: 10
-  Monopols: 20
-Build Morph Gunship in Factory
-Time to Build / Upgrade: 3
-[99880] Technologies Required to Build Unit (64):
-  [1785] Rotary Autocannon (90)
-  [45010] Hover Navalcraft (52)
-  [53085] Polymorphonic Patrolcraft (50)
+  Food: 13
+  Energy: 26
+  Metal: 137
+  Trace: 31
+  Exotica: 12
+  Chemicals: 26
+  Electronics: 15
+Build Ground-Attack Fighter in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Stealth Gunship
-Nick Name: Hornet
+Name: Light Bomber
+Nick Name: A-BL
 Scores & Strengths:
-  Tech Score: 8541
-  Unit Score: 8418
-  Average Score: 8479
-  Stat Strength: 5925
-  Total Strength: 8418
-  Planet Strength: 8418
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 558
+  Total Strength: 687
+  Planet Strength: 687
   Space Strength: 0
-  Garrison Strength: 1254
+  Garrison Strength: 207
 Statistics:
   Movement Type: air
-  Move Points: 45
-  Spot: 24
-  Camouflage: 36
-  Agility: 26
-  Armor: 26
-  Psy Defense: 26
-  Rank: 227
+  Move Points: 11
+  Spot: 8
+  Camouflage: 2
+  Agility: 13
+  Armor: 10
+  Psy Defense: 10
+  Rank: 150
 Attacks:
-  Water: 20/32
-  Air: 20/22
-  Indirect: 14/32
-  Direct: 20/22
-  Close: 25/21
+  Air: 13/3
+  Indirect: 9/10
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 157
-Build Cost: 1567
+Upkeep / Maintenance: 14
+Build Cost: 136
 Build Resource Requirements:
-  Food: 2
-  Energy: 11
-  Metal: 2
-  Trace: 10
-  Exotica: 3
-  Chemicals: 13
-  Biochems: 20
+  Food: 12
+  Energy: 24
+  Metal: 137
+  Trace: 46
+  Exotica: 12
+  Chemicals: 24
+  Electronics: 20
+Build Light Bomber in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Medium Bomber
+Nick Name: A-BM
+Scores & Strengths:
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 575
+  Total Strength: 687
+  Planet Strength: 687
+  Space Strength: 0
+  Garrison Strength: 198
+Statistics:
+  Movement Type: air
+  Move Points: 12
+  Spot: 8
+  Camouflage: 2
+  Agility: 11
+  Armor: 11
+  Psy Defense: 11
+  Rank: 148
+Attacks:
+  Air: 7/6
+  Indirect: 10/7
+Load aboard transport: YES
+Upkeep / Maintenance: 13
+Build Cost: 130
+Build Resource Requirements:
+  Food: 12
+  Energy: 22
+  Metal: 166
+  Trace: 33
+  Exotica: 11
+  Chemicals: 22
+  Electronics: 11
+Build Medium Bomber in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Medium Fighter
+Nick Name: A-FM
+Scores & Strengths:
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 558
+  Total Strength: 687
+  Planet Strength: 687
+  Space Strength: 0
+  Garrison Strength: 190
+Statistics:
+  Movement Type: air
+  Move Points: 13
+  Spot: 8
+  Camouflage: 2
+  Agility: 11
+  Armor: 10
+  Psy Defense: 10
+  Rank: 145
+Attacks:
+  Air: 12/7
+  Indirect: 5/9
+Load aboard transport: YES
+Upkeep / Maintenance: 13
+Build Cost: 131
+Build Resource Requirements:
+  Food: 13
+  Energy: 26
+  Metal: 137
+  Trace: 35
+  Exotica: 12
+  Chemicals: 26
   Electronics: 17
-  Ceramsteel: 3
-  Wetware: 8
-  Monopols: 20
-Build Stealth Gunship in Factory
-Time to Build / Upgrade: 3
-[101590] Technologies Required to Build Unit (59):
-  [1785] Rotary Autocannon (90)
-  [45010] Hover Navalcraft (52)
-  [54795] Neumonic Patrolcraft (35)
+Build Medium Fighter in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

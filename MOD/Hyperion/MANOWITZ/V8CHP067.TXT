@@ -1,389 +1,175 @@
-All units of the unit class Reconnaissance Triplane are listed herein (9 in total):
+All units of the unit class Naval Mine are listed herein (4 in total):
 
 --1--
-Name: Reconnaissance Triplane
-Nick Name: A-TR
+Name: Naval Mine
+Nick Name: Naval Mine
 Scores & Strengths:
-  Tech Score: 216
-  Unit Score: 213
-  Average Score: 215
-  Stat Strength: 213
-  Total Strength: 213
-  Planet Strength: 213
+  Tech Score: 172
+  Unit Score: 172
+  Average Score: 172
+  Stat Strength: 100
+  Total Strength: 172
+  Planet Strength: 172
   Space Strength: 0
-  Garrison Strength: 75
+  Garrison Strength: 215
 Statistics:
-  Movement Type: air
-  Move Points: 8
-  Spot: 8
-  Camouflage: 1
-  Agility: 8
-  Armor: 4
-  Psy Defense: 2
-  Rank: 77
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 0
+  Camouflage: 10
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
+Attacks:
+  Water: 3/24
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 61
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 9
+Build Cost: 93
 Build Resource Requirements:
-  Food: 18
-  Energy: 14
-  Metal: 14
-  Trace: 18
-  Exotica: 18
-  Chemicals: 16
-  Electronics: 13
-Build Reconnaissance Triplane in Factory
-Time to Build / Upgrade: 2
-[515] Technology Required to Build Unit (93):
-  [515] Triplane (93)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 143
+  Trace: 62
+  Chemicals: 125
+Build Naval Mine in Well
+Time to Build / Upgrade: 4
+[490] Technologies Required to Build Unit (99):
+  [230] Hospitals (97)
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [50] Applied Technology (100)
 Unit can be disbanded: YES
 
 --2--
-Name: Attack Fighter Triplane
-Nick Name: A-TAF
+Name: Limpet Mine
+Nick Name: Limpet
 Scores & Strengths:
-  Tech Score: 216
-  Unit Score: 429
-  Average Score: 323
-  Stat Strength: 346
-  Total Strength: 429
-  Planet Strength: 429
+  Tech Score: 406
+  Unit Score: 406
+  Average Score: 406
+  Stat Strength: 258
+  Total Strength: 406
+  Planet Strength: 406
   Space Strength: 0
-  Garrison Strength: 151
+  Garrison Strength: 406
 Statistics:
-  Movement Type: air
-  Move Points: 8
-  Spot: 8
-  Camouflage: 2
-  Agility: 13
-  Armor: 6
-  Psy Defense: 3
-  Rank: 113
+  Movement Type: underwater
+  Move Points: 1
+  Spot: 0
+  Camouflage: 16
+  Agility: 1
+  Armor: 0
+  Psy Defense: 0
+  Rank: 740
 Attacks:
-  Air: 4/8
-  Indirect: 5/6
-  Direct: 3/7
+  Water: 3/28
+  Indirect: 4/16
 Load aboard transport: YES
-Upkeep / Maintenance: 14
-Build Cost: 139
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 12
+Build Cost: 121
 Build Resource Requirements:
-  Food: 25
-  Energy: 47
-  Metal: 31
-  Trace: 34
-  Exotica: 25
-  Chemicals: 49
-  Electronics: 24
-Build Attack Fighter Triplane in Factory
-Time to Build / Upgrade: 4
-[515] Technology Required to Build Unit (93):
-  [515] Triplane (93)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 81
+  Trace: 26
+  Chemicals: 81
+  Electronics: 22
+Build Limpet Mine in Well
+Time to Build / Upgrade: 3
+[1195] Technology Required to Build Unit (90):
+  [1195] Naval Warfare (90)
 Unit can be disbanded: YES
 
 --3--
-Name: Bomber Triplane
-Nick Name: A-TB
+Name: Naval Mine II
+Nick Name: Naval Mine II
 Scores & Strengths:
-  Tech Score: 216
-  Unit Score: 429
-  Average Score: 323
-  Stat Strength: 301
-  Total Strength: 429
-  Planet Strength: 429
+  Tech Score: 406
+  Unit Score: 410
+  Average Score: 408
+  Stat Strength: 225
+  Total Strength: 410
+  Planet Strength: 410
   Space Strength: 0
-  Garrison Strength: 135
+  Garrison Strength: 512
 Statistics:
-  Movement Type: air
-  Move Points: 10
-  Spot: 6
-  Camouflage: 2
-  Agility: 9
-  Armor: 8
-  Psy Defense: 4
-  Rank: 153
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 0
+  Camouflage: 15
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Air: 4/7
-  Indirect: 5/20
+  Water: 5/37
 Load aboard transport: YES
-Upkeep / Maintenance: 14
-Build Cost: 137
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 8
+Build Cost: 78
 Build Resource Requirements:
-  Food: 21
-  Energy: 94
-  Metal: 55
-  Trace: 20
-  Exotica: 20
-  Chemicals: 34
-  Electronics: 14
-Build Bomber Triplane in Factory
+  Energy: 106
+  Trace: 23
+  Chemicals: 106
+  Electronics: 21
+Build Naval Mine II in Well
 Time to Build / Upgrade: 4
-[515] Technology Required to Build Unit (93):
-  [515] Triplane (93)
-Counts as planetary flock: YES
-Unit Eats: YES
+[1195] Technology Required to Build Unit (90):
+  [1195] Naval Warfare (90)
 Unit can be disbanded: YES
 
 --4--
-Name: Fighter Triplane
-Nick Name: A-TF
+Name: Naval Mine III
+Nick Name: Naval Mine III
 Scores & Strengths:
-  Tech Score: 216
-  Unit Score: 429
-  Average Score: 323
-  Stat Strength: 338
-  Total Strength: 429
-  Planet Strength: 429
+  Tech Score: 754
+  Unit Score: 741
+  Average Score: 748
+  Stat Strength: 441
+  Total Strength: 741
+  Planet Strength: 741
   Space Strength: 0
-  Garrison Strength: 143
+  Garrison Strength: 926
 Statistics:
-  Movement Type: air
-  Move Points: 9
-  Spot: 8
-  Camouflage: 2
-  Agility: 12
-  Armor: 6
-  Psy Defense: 3
-  Rank: 138
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 0
+  Camouflage: 21
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Air: 6/11
-  Indirect: 5/5
+  Water: 6/50
 Load aboard transport: YES
-Upkeep / Maintenance: 14
-Build Cost: 140
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 9
+Build Cost: 85
 Build Resource Requirements:
-  Food: 25
-  Energy: 46
-  Metal: 31
-  Trace: 34
-  Exotica: 25
-  Chemicals: 51
-  Electronics: 24
-Build Fighter Triplane in Factory
-Time to Build / Upgrade: 5
-[515] Technology Required to Build Unit (93):
-  [515] Triplane (93)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Trench Strafer Triplane
-Nick Name: A-TTS
-Scores & Strengths:
-  Tech Score: 216
-  Unit Score: 429
-  Average Score: 323
-  Stat Strength: 330
-  Total Strength: 429
-  Planet Strength: 429
-  Space Strength: 0
-  Garrison Strength: 162
-Statistics:
-  Movement Type: air
-  Move Points: 7
-  Spot: 6
-  Camouflage: 2
-  Agility: 14
-  Armor: 6
-  Psy Defense: 3
-  Rank: 118
-Attacks:
-  Air: 2/7
-  Direct: 3/12
-  Close: 7/7
-Load aboard transport: YES
-Upkeep / Maintenance: 17
-Build Cost: 165
-Build Resource Requirements:
-  Food: 22
-  Energy: 62
-  Metal: 31
-  Trace: 39
-  Exotica: 22
-  Chemicals: 75
-  Electronics: 28
-Build Trench Strafer Triplane in Factory
-Time to Build / Upgrade: 5
-[515] Technology Required to Build Unit (93):
-  [515] Triplane (93)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Zeppelin Interceptor
-Nick Name: A-TZI
-Scores & Strengths:
-  Tech Score: 216
-  Unit Score: 429
-  Average Score: 323
-  Stat Strength: 354
-  Total Strength: 429
-  Planet Strength: 429
-  Space Strength: 0
-  Garrison Strength: 135
-Statistics:
-  Movement Type: air
-  Move Points: 10
-  Spot: 6
-  Camouflage: 2
-  Agility: 13
-  Armor: 6
-  Psy Defense: 3
-  Rank: 136
-Attacks:
-  Air: 6/10
-  Indirect: 3/5
-Load aboard transport: YES
-Upkeep / Maintenance: 14
-Build Cost: 139
-Build Resource Requirements:
-  Food: 26
-  Energy: 47
-  Metal: 31
-  Trace: 31
-  Exotica: 25
-  Chemicals: 52
-  Electronics: 22
-Build Zeppelin Interceptor in Factory
+  Energy: 105
+  Trace: 30
+  Chemicals: 105
+  Biochems: 1
+  Electronics: 23
+Build Naval Mine III in Well
 Time to Build / Upgrade: 4
-[515] Technology Required to Build Unit (93):
-  [515] Triplane (93)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---7--
-Name: Giant Bomber Triplane
-Nick Name: A-TGB
-Scores & Strengths:
-  Tech Score: 285
-  Unit Score: 567
-  Average Score: 426
-  Stat Strength: 455
-  Total Strength: 567
-  Planet Strength: 567
-  Space Strength: 0
-  Garrison Strength: 157
-Statistics:
-  Movement Type: air
-  Move Points: 13
-  Spot: 6
-  Camouflage: 2
-  Agility: 11
-  Armor: 10
-  Psy Defense: 5
-  Rank: 161
-Attacks:
-  Indirect: 4/28
-Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 113
-Build Resource Requirements:
-  Food: 17
-  Energy: 91
-  Metal: 47
-  Trace: 11
-  Exotica: 17
-  Chemicals: 23
-  Electronics: 8
-Build Giant Bomber Triplane in Factory
-Time to Build / Upgrade: 4
-[1125] Technologies Required to Build Unit (94):
-  [515] Triplane (93)
-  [610] Air-Air Rockets (94)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---8--
-Name: Battle Triplane
-Nick Name: A-TBttl
-Scores & Strengths:
-  Tech Score: 285
-  Unit Score: 568
-  Average Score: 427
-  Stat Strength: 474
-  Total Strength: 568
-  Planet Strength: 568
-  Space Strength: 0
-  Garrison Strength: 179
-Statistics:
-  Movement Type: air
-  Move Points: 10
-  Spot: 6
-  Camouflage: 2
-  Agility: 17
-  Armor: 6
-  Psy Defense: 3
-  Rank: 142
-Attacks:
-  Air: 6/9
-  Indirect: 5/8
-Load aboard transport: YES
-Upkeep / Maintenance: 10
-Build Cost: 100
-Build Resource Requirements:
-  Food: 18
-  Energy: 33
-  Metal: 17
-  Trace: 24
-  Exotica: 18
-  Chemicals: 34
-  Electronics: 17
-Build Battle Triplane in Factory
-Time to Build / Upgrade: 4
-[1125] Technologies Required to Build Unit (94):
-  [515] Triplane (93)
-  [610] Air-Air Rockets (94)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---9--
-Name: Large Bomber Triplane
-Nick Name: A-TLB
-Scores & Strengths:
-  Tech Score: 285
-  Unit Score: 568
-  Average Score: 427
-  Stat Strength: 460
-  Total Strength: 568
-  Planet Strength: 568
-  Space Strength: 0
-  Garrison Strength: 163
-Statistics:
-  Movement Type: air
-  Move Points: 12
-  Spot: 6
-  Camouflage: 2
-  Agility: 14
-  Armor: 8
-  Psy Defense: 4
-  Rank: 152
-Attacks:
-  Air: 3/6
-  Indirect: 5/18
-Load aboard transport: YES
-Upkeep / Maintenance: 10
-Build Cost: 100
-Build Resource Requirements:
-  Food: 18
-  Energy: 53
-  Metal: 30
-  Trace: 16
-  Exotica: 18
-  Chemicals: 28
-  Electronics: 11
-Build Large Bomber Triplane in Factory
-Time to Build / Upgrade: 4
-[1125] Technologies Required to Build Unit (94):
-  [515] Triplane (93)
-  [610] Air-Air Rockets (94)
-Counts as planetary flock: YES
-Unit Eats: YES
+[2725] Technology Required to Build Unit (88):
+  [2725] Naval Capital Ships (88)
 Unit can be disbanded: YES

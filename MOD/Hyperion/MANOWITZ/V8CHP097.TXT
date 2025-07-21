@@ -1,313 +1,390 @@
-All units of the unit class Naval Monitor are listed herein (7 in total):
+All units of the unit class Space Mine are listed herein (9 in total):
 
 --1--
-Name: Naval Monitor
-Nick Name: NN-BM
+Name: Space Mine
+Nick Name: Space Mine
 Scores & Strengths:
-  Tech Score: 177
-  Unit Score: 351
-  Average Score: 264
-  Stat Strength: 330
-  Total Strength: 351
-  Planet Strength: 351
-  Space Strength: 0
-  Garrison Strength: 143
+  Tech Score: 335
+  Unit Score: 334
+  Average Score: 335
+  Stat Strength: 226
+  Total Strength: 334
+  Planet Strength: 0
+  Space Strength: 334
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 2
-  Camouflage: 1
-  Agility: 1
-  Armor: 12
-  Psy Defense: 12
-  Rank: 125
+  Movement Type: space
+  Move Points: 1
+  Spot: 0
+  Camouflage: 15
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Indirect: 1/21
-Upkeep / Maintenance: 25
-Build Cost: 247
+  Closed Space: 6/18
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 19
 Build Resource Requirements:
-  Food: 5
-  Energy: 89
-  Metal: 69
-  Trace: 4
-  Exotica: 4
-  Chemicals: 4
-Build Naval Monitor in Well
-Time to Build / Upgrade: 3
-[605] Technologies Required to Build Unit (99):
-  [230] Hospitals (97)
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-Counts as planetary flock: YES
+  Energy: 22
+  Trace: 28
+  Chemicals: 29
+  Electronics: 19
+Build Space Mine in Starport
+Time to Build / Upgrade: 2
+[1735] Technologies Required to Build Unit (91):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [795] Missiles (86)
 Unit can be disbanded: YES
 
 --2--
-Name: Naval Battle-Cruiser
-Nick Name: NN-BC
+Name: Space Mine II
+Nick Name: Space Mine II
 Scores & Strengths:
-  Tech Score: 224
-  Unit Score: 556
-  Average Score: 390
-  Stat Strength: 408
-  Total Strength: 556
-  Planet Strength: 556
-  Space Strength: 0
-  Garrison Strength: 196
+  Tech Score: 698
+  Unit Score: 719
+  Average Score: 708
+  Stat Strength: 485
+  Total Strength: 719
+  Planet Strength: 0
+  Space Strength: 719
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 2
-  Camouflage: 1
-  Agility: 1
-  Armor: 13
-  Psy Defense: 13
-  Rank: 95
+  Movement Type: space
+  Move Points: 1
+  Spot: 0
+  Camouflage: 22
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Air: 6/9
-  Indirect: 3/22
-  Direct: 2/14
-Upkeep / Maintenance: 38
-Build Cost: 383
+  Closed Space: 9/26
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 28
 Build Resource Requirements:
-  Food: 6
-  Energy: 104
-  Metal: 70
-  Trace: 9
-  Exotica: 5
-  Chemicals: 41
-Build Naval Battle-Cruiser in Well
-Time to Build / Upgrade: 5
-[900] Technologies Required to Build Unit (96):
-  [230] Hospitals (97)
-  [110] Structural Engineering (99)
-  [235] Giro Directory Training (85)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
-Counts as planetary flock: YES
+  Energy: 27
+  Trace: 28
+  Chemicals: 42
+  Electronics: 31
+Build Space Mine II in Starport
+Time to Build / Upgrade: 3
+[3265] Technologies Required to Build Unit (89):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [2325] Web Missiles (80)
 Unit can be disbanded: YES
 
 --3--
-Name: Naval Dreadnought
-Nick Name: NN-BD
+Name: Space Mine III
+Nick Name: Space Mine III
 Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1546
-  Average Score: 1160
-  Stat Strength: 1273
-  Total Strength: 1546
-  Planet Strength: 1546
-  Space Strength: 0
-  Garrison Strength: 584
+  Tech Score: 877
+  Unit Score: 870
+  Average Score: 873
+  Stat Strength: 580
+  Total Strength: 870
+  Planet Strength: 0
+  Space Strength: 870
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 8
-  Camouflage: 2
-  Agility: 2
-  Armor: 24
-  Psy Defense: 24
-  Rank: 779
+  Movement Type: space
+  Move Points: 2
+  Spot: 0
+  Camouflage: 24
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Indirect: 5/24
-  Direct: 6/20
-  Close: 3/11
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 49
-Build Cost: 489
+  Closed Space: 10/29
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 25
 Build Resource Requirements:
-  Food: 3
-  Energy: 47
-  Metal: 90
-  Trace: 7
-  Exotica: 3
-  Chemicals: 23
-  Biochems: 4
-  Electronics: 5
-Build Naval Dreadnought in Well
-Time to Build / Upgrade: 4
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
-Counts as planetary flock: YES
+  Energy: 25
+  Trace: 23
+  Chemicals: 38
+  Electronics: 26
+Build Space Mine III in Starport
+Time to Build / Upgrade: 2
+[4935] Technologies Required to Build Unit (88):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [1670] Guided Missiles (83)
+  [2325] Web Missiles (80)
 Unit can be disbanded: YES
 
 --4--
-Name: Naval Super Dreadnought
-Nick Name: NN-BSD
+Name: Space Mine IV
+Nick Name: Space Mine IV
 Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1546
-  Average Score: 1160
-  Stat Strength: 1358
-  Total Strength: 1546
-  Planet Strength: 1546
-  Space Strength: 0
-  Garrison Strength: 631
+  Tech Score: 1143
+  Unit Score: 1151
+  Average Score: 1147
+  Stat Strength: 788
+  Total Strength: 1151
+  Planet Strength: 0
+  Space Strength: 1151
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 8
-  Camouflage: 2
-  Agility: 2
-  Armor: 25
-  Psy Defense: 25
-  Rank: 780
+  Movement Type: space
+  Move Points: 2
+  Spot: 0
+  Camouflage: 28
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Indirect: 3/26
-  Direct: 5/22
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 49
-Build Cost: 486
+  Closed Space: 11/33
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 4
+Build Cost: 36
 Build Resource Requirements:
-  Food: 3
-  Energy: 49
-  Metal: 97
-  Trace: 6
-  Exotica: 3
-  Chemicals: 21
-  Biochems: 3
-  Electronics: 4
-Build Naval Super Dreadnought in Well
-Time to Build / Upgrade: 4
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
-Counts as planetary flock: YES
+  Energy: 41
+  Trace: 28
+  Chemicals: 51
+  Electronics: 37
+Build Space Mine IV in Starport
+Time to Build / Upgrade: 3
+[4900] Technologies Required to Build Unit (81):
+  [1220] Finite Element Methods (77)
+  [3680] Supersonic Missiles (84)
 Unit can be disbanded: YES
 
 --5--
-Name: Guided Missile Battle-Cruiser
-Nick Name: NN-BCGM
+Name: Space Mine V
+Nick Name: Space Mine V
 Scores & Strengths:
-  Tech Score: 1339
-  Unit Score: 2678
-  Average Score: 2008
-  Stat Strength: 2000
-  Total Strength: 2678
-  Planet Strength: 2678
-  Space Strength: 0
-  Garrison Strength: 715
+  Tech Score: 1372
+  Unit Score: 1336
+  Average Score: 1354
+  Stat Strength: 904
+  Total Strength: 1336
+  Planet Strength: 0
+  Space Strength: 1336
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 14
-  Spot: 9
-  Camouflage: 5
-  Agility: 4
-  Armor: 29
-  Psy Defense: 29
-  Rank: 126
+  Movement Type: space
+  Move Points: 2
+  Spot: 0
+  Camouflage: 30
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Air: 12/21
-  Indirect: 8/24
-  Direct: 13/18
-Upkeep / Maintenance: 63
-Build Cost: 634
+  Closed Space: 12/36
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 25
 Build Resource Requirements:
-  Food: 3
-  Energy: 41
-  Metal: 44
-  Trace: 11
-  Exotica: 4
-  Chemicals: 42
-  Biochems: 8
-  Electronics: 13
-  Ceramsteel: 54
-Build Guided Missile Battle-Cruiser in Well
-Time to Build / Upgrade: 5
-[5855] Technology Required to Build Unit (84):
-  [5855] Guided Missile Navalcraft (84)
-Counts as planetary flock: YES
+  Energy: 24
+  Trace: 21
+  Chemicals: 32
+  Electronics: 27
+Build Space Mine V in Starport
+Time to Build / Upgrade: 2
+[9800] Technologies Required to Build Unit (86):
+  [1535] Carbon Nanotubes (85)
+  [895] Space Rocketry (90)
+  [3200] Supersonic Aircraft (85)
+  [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
 --6--
-Name: PTS Missile Battle-Cruiser
-Nick Name: NN-BCPTS
+Name: Space Mine VI
+Nick Name: Space Mine VI
 Scores & Strengths:
-  Tech Score: 1474
-  Unit Score: 3685
-  Average Score: 2579
-  Stat Strength: 2711
-  Total Strength: 3685
-  Planet Strength: 3553
-  Space Strength: 2843
-  Garrison Strength: 917
+  Tech Score: 1909
+  Unit Score: 1902
+  Average Score: 1906
+  Stat Strength: 1300
+  Total Strength: 1902
+  Planet Strength: 0
+  Space Strength: 1902
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 15
-  Spot: 10
-  Camouflage: 7
-  Agility: 5
-  Armor: 34
-  Psy Defense: 34
-  Rank: 136
+  Movement Type: space
+  Move Points: 2
+  Spot: 0
+  Camouflage: 36
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Ranged Space: 6/22
-  Air: 14/22
-  Indirect: 9/26
-  Direct: 15/20
-Upkeep / Maintenance: 96
-Build Cost: 963
+  Closed Space: 14/43
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 29
 Build Resource Requirements:
-  Food: 4
-  Energy: 44
-  Metal: 56
-  Trace: 15
-  Exotica: 4
-  Chemicals: 62
-  Biochems: 10
-  Electronics: 18
-  Ceramsteel: 70
-Build PTS Missile Battle-Cruiser in Well
-Time to Build / Upgrade: 7
-[6655] Technology Required to Build Unit (83):
-  [6655] PTS Missile Navalcraft (83)
-Counts as planetary flock: YES
+  Energy: 25
+  Trace: 20
+  Chemicals: 37
+  Electronics: 30
+Build Space Mine VI in Starport
+Time to Build / Upgrade: 2
+[14480] Technologies Required to Build Unit (84):
+  [8175] Spacecraft (84)
+  [6305] Hypersonic Missiles (83)
 Unit can be disbanded: YES
 
 --7--
-Name: Nuclear Battle-Cruiser
-Nick Name: NN-BCN
+Name: Space Mine VII
+Nick Name: Space Mine VII
 Scores & Strengths:
-  Tech Score: 1579
-  Unit Score: 4737
-  Average Score: 3158
-  Stat Strength: 3365
-  Total Strength: 4737
-  Planet Strength: 4737
-  Space Strength: 0
-  Garrison Strength: 1184
+  Tech Score: 2545
+  Unit Score: 2540
+  Average Score: 2543
+  Stat Strength: 1690
+  Total Strength: 2540
+  Planet Strength: 0
+  Space Strength: 2540
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 16
-  Spot: 11
-  Camouflage: 8
-  Agility: 6
-  Armor: 38
-  Psy Defense: 38
-  Rank: 149
+  Movement Type: space
+  Move Points: 3
+  Spot: 0
+  Camouflage: 41
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Air: 16/28
-  Indirect: 14/38
-  Direct: 14/28
-Upkeep / Maintenance: 135
-Build Cost: 1353
+  Closed Space: 17/50
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 4
+Build Cost: 35
 Build Resource Requirements:
-  Food: 4
-  Energy: 75
-  Metal: 65
-  Trace: 15
-  Exotica: 4
-  Chemicals: 69
-  Biochems: 10
-  Electronics: 19
-  Ceramsteel: 84
-Build Nuclear Battle-Cruiser in Well
-Time to Build / Upgrade: 8
-[7295] Technology Required to Build Unit (81):
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
+  Energy: 27
+  Trace: 21
+  Chemicals: 40
+  Biochems: 2
+  Electronics: 31
+Build Space Mine VII in Starport
+Time to Build / Upgrade: 3
+[19530] Technologies Required to Build Unit (82):
+  [7105] Hypercruise Missiles (77)
+  [12425] Space Warfare (86)
+Unit can be disbanded: YES
+
+--8--
+Name: Space Mine VIII
+Nick Name: Space Mine VIII
+Scores & Strengths:
+  Tech Score: 3094
+  Unit Score: 3115
+  Average Score: 3105
+  Stat Strength: 2125
+  Total Strength: 3115
+  Planet Strength: 0
+  Space Strength: 3115
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 0
+  Camouflage: 46
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
+Attacks:
+  Closed Space: 18/55
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 25
+Build Cost: 254
+Build Resource Requirements:
+  Energy: 18
+  Trace: 22
+  Chemicals: 27
+  Biochems: 12
+  Electronics: 34
+  Monopols: 26
+Build Space Mine VIII in Starport
+Time to Build / Upgrade: 3
+[23635] Technologies Required to Build Unit (79):
+  [7105] Hypercruise Missiles (77)
+  [16530] Space Capital Ships (80)
+Unit can be disbanded: YES
+
+--9--
+Name: Space Mine IX
+Nick Name: Space Mine IX
+Scores & Strengths:
+  Tech Score: 3956
+  Unit Score: 4015
+  Average Score: 3986
+  Stat Strength: 2713
+  Total Strength: 4015
+  Planet Strength: 0
+  Space Strength: 4015
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 0
+  Camouflage: 52
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
+Attacks:
+  Closed Space: 21/62
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 33
+Build Cost: 331
+Build Resource Requirements:
+  Energy: 20
+  Trace: 23
+  Chemicals: 30
+  Biochems: 13
+  Electronics: 38
+  Monopols: 31
+Build Space Mine IX in Starport
+Time to Build / Upgrade: 4
+[30570] Technologies Required to Build Unit (76):
+  [7105] Hypercruise Missiles (77)
+  [23465] Advanced Spacecraft (75)
 Unit can be disbanded: YES

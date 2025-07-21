@@ -1,346 +1,256 @@
-All units of the unit class Reconnaissance Biplane are listed herein (8 in total):
+All units of the unit class Siege Mortar are listed herein (6 in total):
 
 --1--
-Name: Reconnaissance Biplane
-Nick Name: A-BR
+Name: Siege Mortar
+Nick Name: Siege Mortar
 Scores & Strengths:
-  Tech Score: 172
-  Unit Score: 170
-  Average Score: 171
-  Stat Strength: 170
-  Total Strength: 170
-  Planet Strength: 170
+  Tech Score: 106
+  Unit Score: 157
+  Average Score: 132
+  Stat Strength: 93
+  Total Strength: 157
+  Planet Strength: 157
   Space Strength: 0
-  Garrison Strength: 60
+  Garrison Strength: 111
 Statistics:
-  Movement Type: air
-  Move Points: 8
-  Spot: 6
+  Movement Type: wheel
+  Move Points: 2
+  Spot: 2
   Camouflage: 1
-  Agility: 7
-  Armor: 4
-  Psy Defense: 2
-  Rank: 77
+  Agility: 2
+  Armor: 8
+  Psy Defense: 4
+  Rank: 121
+Attacks:
+  Indirect: 4/16
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 62
+Can be towed
+Upkeep / Maintenance: 12
+Build Cost: 124
 Build Resource Requirements:
-  Food: 19
-  Energy: 15
-  Metal: 14
-  Trace: 14
-  Exotica: 19
-  Chemicals: 17
-  Electronics: 13
-Build Reconnaissance Biplane in Factory
-Time to Build / Upgrade: 2
-[380] Technology Required to Build Unit (93):
-  [380] Biplane (93)
+  Food: 4
+  Energy: 83
+  Metal: 48
+  Trace: 13
+  Exotica: 3
+  Chemicals: 87
+Build Siege Mortar in Factory
+Time to Build / Upgrade: 4
+[200] Technology Required to Build Unit (97):
+  [200] Fortifications (97)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Attack Fighter Biplane
-Nick Name: A-BAF
+Name: Mortar Carrier
+Nick Name: Mortar Carr
 Scores & Strengths:
-  Tech Score: 172
-  Unit Score: 341
-  Average Score: 257
-  Stat Strength: 293
-  Total Strength: 341
-  Planet Strength: 341
+  Tech Score: 292
+  Unit Score: 290
+  Average Score: 291
+  Stat Strength: 240
+  Total Strength: 290
+  Planet Strength: 290
   Space Strength: 0
-  Garrison Strength: 139
+  Garrison Strength: 118
 Statistics:
-  Movement Type: air
+  Movement Type: tread
   Move Points: 6
-  Spot: 8
+  Spot: 4
   Camouflage: 2
-  Agility: 12
-  Armor: 6
-  Psy Defense: 3
-  Rank: 112
+  Agility: 2
+  Armor: 12
+  Psy Defense: 6
+  Rank: 93
 Attacks:
-  Air: 2/5
-  Indirect: 4/5
-  Direct: 3/6
+  Indirect: 5/10
 Load aboard transport: YES
-Upkeep / Maintenance: 14
-Build Cost: 140
+Upkeep / Maintenance: 4
+Build Cost: 42
 Build Resource Requirements:
-  Food: 30
-  Energy: 39
-  Metal: 31
-  Trace: 35
-  Exotica: 30
-  Chemicals: 38
-  Electronics: 33
-Build Attack Fighter Biplane in Factory
-Time to Build / Upgrade: 4
-[380] Technology Required to Build Unit (93):
-  [380] Biplane (93)
+  Food: 4
+  Energy: 15
+  Metal: 39
+  Trace: 10
+  Exotica: 4
+  Chemicals: 15
+  Electronics: 3
+Build Mortar Carrier in Factory
+Time to Build / Upgrade: 2
+[770] Technology Required to Build Unit (92):
+  [770] Self-Propelled Weaponry (92)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Bomber Biplane
-Nick Name: A-BB
+Name: Self-Propelled Siege Mortar
+Nick Name: SP SM
 Scores & Strengths:
-  Tech Score: 172
-  Unit Score: 341
-  Average Score: 257
-  Stat Strength: 248
-  Total Strength: 341
-  Planet Strength: 341
+  Tech Score: 292
+  Unit Score: 291
+  Average Score: 292
+  Stat Strength: 201
+  Total Strength: 291
+  Planet Strength: 291
   Space Strength: 0
-  Garrison Strength: 120
+  Garrison Strength: 145
 Statistics:
-  Movement Type: air
-  Move Points: 8
-  Spot: 6
-  Camouflage: 2
-  Agility: 8
-  Armor: 8
-  Psy Defense: 4
-  Rank: 150
+  Movement Type: tread
+  Move Points: 4
+  Spot: 2
+  Camouflage: 1
+  Agility: 0
+  Armor: 12
+  Psy Defense: 6
+  Rank: 111
 Attacks:
-  Air: 2/4
-  Indirect: 5/17
+  Indirect: 3/30
 Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 124
+Upkeep / Maintenance: 13
+Build Cost: 125
 Build Resource Requirements:
-  Food: 22
-  Energy: 79
-  Metal: 55
-  Trace: 20
-  Exotica: 21
-  Chemicals: 24
-  Electronics: 17
-Build Bomber Biplane in Factory
-Time to Build / Upgrade: 4
-[380] Technology Required to Build Unit (93):
-  [380] Biplane (93)
+  Food: 2
+  Energy: 100
+  Metal: 39
+  Trace: 4
+  Exotica: 2
+  Chemicals: 100
+  Electronics: 1
+Build Self-Propelled Siege Mortar in Factory
+Time to Build / Upgrade: 3
+[770] Technology Required to Build Unit (92):
+  [770] Self-Propelled Weaponry (92)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Fighter Biplane
-Nick Name: A-BF
+Name: Self-Propelled SM II
+Nick Name: SP SM II
 Scores & Strengths:
-  Tech Score: 172
-  Unit Score: 341
-  Average Score: 257
-  Stat Strength: 306
-  Total Strength: 341
-  Planet Strength: 341
+  Tech Score: 530
+  Unit Score: 510
+  Average Score: 520
+  Stat Strength: 350
+  Total Strength: 510
+  Planet Strength: 510
   Space Strength: 0
-  Garrison Strength: 128
+  Garrison Strength: 228
 Statistics:
-  Movement Type: air
-  Move Points: 7
-  Spot: 8
-  Camouflage: 2
-  Agility: 12
-  Armor: 6
-  Psy Defense: 3
-  Rank: 132
+  Movement Type: tread
+  Move Points: 5
+  Spot: 2
+  Camouflage: 1
+  Agility: 0
+  Armor: 16
+  Psy Defense: 8
+  Rank: 124
 Attacks:
-  Air: 4/8
-  Indirect: 1/3
+  Indirect: 4/40
 Load aboard transport: YES
-Upkeep / Maintenance: 15
-Build Cost: 145
+Upkeep / Maintenance: 17
+Build Cost: 166
 Build Resource Requirements:
-  Food: 32
-  Energy: 39
-  Metal: 31
-  Trace: 36
-  Exotica: 31
-  Chemicals: 41
-  Electronics: 34
-Build Fighter Biplane in Factory
-Time to Build / Upgrade: 5
-[380] Technology Required to Build Unit (93):
-  [380] Biplane (93)
+  Food: 1
+  Energy: 110
+  Metal: 36
+  Trace: 3
+  Exotica: 1
+  Chemicals: 149
+  Electronics: 1
+Build Self-Propelled SM II in Factory
+Time to Build / Upgrade: 4
+[1700] Technology Required to Build Unit (88):
+  [1700] Main Battle Tank (88)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Trench Strafer Biplane
-Nick Name: A-BTS
+Name: Self-Propelled SM III
+Nick Name: SP SM III
 Scores & Strengths:
-  Tech Score: 172
-  Unit Score: 341
-  Average Score: 257
-  Stat Strength: 286
-  Total Strength: 341
-  Planet Strength: 341
+  Tech Score: 1226
+  Unit Score: 1212
+  Average Score: 1219
+  Stat Strength: 846
+  Total Strength: 1212
+  Planet Strength: 1212
   Space Strength: 0
-  Garrison Strength: 152
+  Garrison Strength: 428
 Statistics:
-  Movement Type: air
-  Move Points: 5
-  Spot: 4
+  Movement Type: tread
+  Move Points: 8
+  Spot: 3
   Camouflage: 2
-  Agility: 14
-  Armor: 6
-  Psy Defense: 3
-  Rank: 112
+  Agility: 0
+  Armor: 25
+  Psy Defense: 12
+  Rank: 154
 Attacks:
-  Air: 3/3
-  Direct: 3/6
-  Close: 7/4
+  Indirect: 6/61
 Load aboard transport: YES
-Upkeep / Maintenance: 15
-Build Cost: 146
+Upkeep / Maintenance: 24
+Build Cost: 242
 Build Resource Requirements:
-  Food: 24
-  Energy: 38
-  Metal: 31
-  Trace: 45
-  Exotica: 24
-  Chemicals: 43
-  Electronics: 42
-Build Trench Strafer Biplane in Factory
+  Food: 1
+  Energy: 106
+  Metal: 21
+  Trace: 1
+  Exotica: 1
+  Chemicals: 183
+  Electronics: 14
+  Ceramsteel: 28
+Build Self-Propelled SM III in Factory
 Time to Build / Upgrade: 5
-[380] Technology Required to Build Unit (93):
-  [380] Biplane (93)
+[5205] Technology Required to Build Unit (84):
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Battle Biplane
-Nick Name: A-BBttl
+Name: Self-Propelled SM IV
+Nick Name: SP SM IV
 Scores & Strengths:
-  Tech Score: 245
-  Unit Score: 488
-  Average Score: 367
-  Stat Strength: 405
-  Total Strength: 488
-  Planet Strength: 488
+  Tech Score: 2510
+  Unit Score: 2503
+  Average Score: 2506
+  Stat Strength: 1711
+  Total Strength: 2503
+  Planet Strength: 2503
   Space Strength: 0
-  Garrison Strength: 172
+  Garrison Strength: 722
 Statistics:
-  Movement Type: air
-  Move Points: 8
-  Spot: 6
-  Camouflage: 2
-  Agility: 16
-  Armor: 6
-  Psy Defense: 3
-  Rank: 143
+  Movement Type: tread
+  Move Points: 12
+  Spot: 3
+  Camouflage: 3
+  Agility: 0
+  Armor: 35
+  Psy Defense: 18
+  Rank: 197
 Attacks:
-  Air: 5/7
-  Indirect: 6/8
+  Indirect: 9/88
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 91
+Upkeep / Maintenance: 364
+Build Cost: 3643
 Build Resource Requirements:
-  Food: 17
-  Energy: 30
-  Metal: 17
-  Trace: 23
-  Exotica: 17
-  Chemicals: 28
-  Electronics: 18
-Build Battle Biplane in Factory
-Time to Build / Upgrade: 4
-[990] Technologies Required to Build Unit (94):
-  [380] Biplane (93)
-  [610] Air-Air Rockets (94)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---7--
-Name: Giant Bomber Biplane
-Nick Name: A-BGB
-Scores & Strengths:
-  Tech Score: 245
-  Unit Score: 488
-  Average Score: 367
-  Stat Strength: 386
-  Total Strength: 488
-  Planet Strength: 488
-  Space Strength: 0
-  Garrison Strength: 147
-Statistics:
-  Movement Type: air
-  Move Points: 11
-  Spot: 6
-  Camouflage: 2
-  Agility: 10
-  Armor: 10
-  Psy Defense: 5
-  Rank: 152
-Attacks:
-  Indirect: 6/17
-Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 85
-Build Resource Requirements:
-  Food: 15
-  Energy: 44
-  Metal: 47
-  Trace: 11
-  Exotica: 15
-  Chemicals: 18
-  Electronics: 8
-Build Giant Bomber Biplane in Factory
-Time to Build / Upgrade: 3
-[990] Technologies Required to Build Unit (94):
-  [380] Biplane (93)
-  [610] Air-Air Rockets (94)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---8--
-Name: Large Bomber Biplane
-Nick Name: A-BLB
-Scores & Strengths:
-  Tech Score: 245
-  Unit Score: 488
-  Average Score: 367
-  Stat Strength: 389
-  Total Strength: 488
-  Planet Strength: 488
-  Space Strength: 0
-  Garrison Strength: 154
-Statistics:
-  Movement Type: air
-  Move Points: 10
-  Spot: 6
-  Camouflage: 2
-  Agility: 13
-  Armor: 8
-  Psy Defense: 4
-  Rank: 149
-Attacks:
-  Air: 3/5
-  Indirect: 6/14
-Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 87
-Build Resource Requirements:
-  Food: 16
-  Energy: 39
-  Metal: 30
-  Trace: 16
-  Exotica: 16
-  Chemicals: 23
-  Electronics: 12
-Build Large Bomber Biplane in Factory
-Time to Build / Upgrade: 4
-[990] Technologies Required to Build Unit (94):
-  [380] Biplane (93)
-  [610] Air-Air Rockets (94)
+  Food: 1
+  Energy: 67
+  Metal: 11
+  Trace: 1
+  Exotica: 1
+  Chemicals: 115
+  Electronics: 7
+  Ceramsteel: 18
+  Monopols: 156
+Build Self-Propelled SM IV in Factory
+Time to Build / Upgrade: 7
+[13535] Technology Required to Build Unit (74):
+  [13535] Powered Ceramsteel Tanks (74)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

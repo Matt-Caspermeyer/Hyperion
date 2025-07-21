@@ -1,229 +1,423 @@
-All units of the unit class Shantor Warrior are listed herein (5 in total):
+All units of the unit class Jet-Propulsion Fighter are listed herein (9 in total):
 
 --1--
-Name: Shantor Warrior
-Nick Name: Shantor War
+Name: Jet-Propulsion Fighter
+Nick Name: Tiger
 Scores & Strengths:
-  Tech Score: 807
-  Unit Score: 805
-  Average Score: 806
-  Stat Strength: 580
-  Total Strength: 805
-  Planet Strength: 805
+  Tech Score: 555
+  Unit Score: 694
+  Average Score: 624
+  Stat Strength: 540
+  Total Strength: 694
+  Planet Strength: 694
   Space Strength: 0
-  Garrison Strength: 207
+  Garrison Strength: 163
 Statistics:
-  Movement Type: foot
-  Move Points: 15
-  Spot: 8
+  Movement Type: air
+  Move Points: 18
+  Spot: 6
   Camouflage: 4
-  Agility: 15
-  Armor: 5
-  Psy Defense: 5
-  Rank: 8
+  Agility: 6
+  Armor: 8
+  Psy Defense: 8
+  Rank: 150
 Attacks:
-  Close: 15/15
+  Air: 10/7
+  Indirect: 12/7
 Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 27
-Build Cost: 272
+Upkeep / Maintenance: 10
+Build Cost: 98
 Build Resource Requirements:
-  Food: 16
-  Energy: 51
-  Metal: 3
-  Trace: 11
-  Exotica: 17
-  Chemicals: 53
-  Biochems: 82
-  Electronics: 24
-Build Shantor Warrior in Farm
-Time to Build / Upgrade: 4
-[3105] Technologies Required to Build Unit (51):
-  [2980] Xenoimmunology (41)
-  [125] Xenopsychology (60)
+  Food: 11
+  Energy: 26
+  Metal: 88
+  Trace: 19
+  Exotica: 11
+  Chemicals: 28
+  Electronics: 11
+Build Jet-Propulsion Fighter in Factory
+Time to Build / Upgrade: 3
+[1810] Technology Required to Build Unit (86):
+  [1810] Jet-Propulsion Aircraft (86)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Shantor Rebel
-Nick Name: Shantor Rbl
+Name: Jet-Propulsion Fighter II
+Nick Name: Tiger II
 Scores & Strengths:
-  Tech Score: 807
-  Unit Score: 805
-  Average Score: 806
-  Stat Strength: 584
-  Total Strength: 805
-  Planet Strength: 805
+  Tech Score: 1142
+  Unit Score: 1362
+  Average Score: 1252
+  Stat Strength: 1052
+  Total Strength: 1362
+  Planet Strength: 1362
   Space Strength: 0
-  Garrison Strength: 201
+  Garrison Strength: 267
 Statistics:
-  Movement Type: foot
-  Move Points: 16
-  Spot: 8
+  Movement Type: air
+  Move Points: 26
+  Spot: 7
   Camouflage: 6
-  Agility: 14
-  Armor: 4
-  Psy Defense: 4
-  Rank: 8
+  Agility: 7
+  Armor: 11
+  Psy Defense: 11
+  Rank: 165
 Attacks:
-  Close: 17/13
+  Air: 14/10
+  Indirect: 17/10
 Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 25
-Build Cost: 251
+Upkeep / Maintenance: 8
+Build Cost: 77
 Build Resource Requirements:
-  Food: 17
-  Energy: 43
-  Metal: 2
-  Trace: 12
-  Exotica: 17
-  Chemicals: 44
-  Biochems: 74
-  Electronics: 27
-Build Shantor Rebel in Farm
-Time to Build / Upgrade: 4
-[3105] Technologies Required to Build Unit (51):
-  [2980] Xenoimmunology (41)
-  [125] Xenopsychology (60)
+  Food: 8
+  Energy: 18
+  Metal: 17
+  Trace: 16
+  Exotica: 8
+  Chemicals: 19
+  Biochems: 9
+  Electronics: 7
+Build Jet-Propulsion Fighter II in Factory
+Time to Build / Upgrade: 2
+[7115] Technologies Required to Build Unit (88):
+  [795] Missiles (86)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2725] Naval Capital Ships (88)
+  [1785] Rotary Autocannon (90)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Shantor Sun Runner
-Nick Name: Sun Runner
+Name: Atmospheric Fighter
+Nick Name: Gryphon
 Scores & Strengths:
-  Tech Score: 807
-  Unit Score: 806
-  Average Score: 806
-  Stat Strength: 606
-  Total Strength: 806
-  Planet Strength: 806
-  Space Strength: 706
-  Garrison Strength: 195
+  Tech Score: 1630
+  Unit Score: 1986
+  Average Score: 1808
+  Stat Strength: 1530
+  Total Strength: 1986
+  Planet Strength: 1986
+  Space Strength: 0
+  Garrison Strength: 356
 Statistics:
-  Movement Type: foot
-  Move Points: 17
+  Movement Type: air
+  Move Points: 31
   Spot: 8
-  Camouflage: 2
-  Agility: 13
-  Armor: 4
-  Psy Defense: 8
-  Rank: 708
+  Camouflage: 7
+  Agility: 8
+  Armor: 14
+  Psy Defense: 14
+  Rank: 176
 Attacks:
-  Psychic: 10/10
-  Close: 10/10
+  Air: 17/12
+  Indirect: 21/12
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Can tow units that can be towed
-Upkeep / Maintenance: 66
-Build Cost: 660
+Upkeep / Maintenance: 12
+Build Cost: 118
 Build Resource Requirements:
-  Food: 18
-  Energy: 32
-  Metal: 5
-  Trace: 7
-  Exotica: 18
-  Chemicals: 34
-  Biochems: 60
-  Electronics: 15
-  Gems: 31
-Build Shantor Sun Runner in Church
+  Food: 11
+  Energy: 27
+  Metal: 6
+  Trace: 19
+  Exotica: 11
+  Chemicals: 44
+  Electronics: 14
+  Ceramsteel: 15
+Build Atmospheric Fighter in Factory
 Time to Build / Upgrade: 3
-[3105] Technologies Required to Build Unit (51):
-  [2980] Xenoimmunology (41)
-  [125] Xenopsychology (60)
+[7610] Technology Required to Build Unit (80):
+  [7610] Atmospheric Aircraft (80)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Shantor Darkwalker
-Nick Name: Darkwalker
+Name: Adv. Atmospheric Fighter
+Nick Name: Gryphon II
 Scores & Strengths:
-  Tech Score: 807
-  Unit Score: 809
-  Average Score: 808
-  Stat Strength: 588
-  Total Strength: 809
-  Planet Strength: 809
+  Tech Score: 1774
+  Unit Score: 2100
+  Average Score: 1937
+  Stat Strength: 1593
+  Total Strength: 2100
+  Planet Strength: 2100
   Space Strength: 0
-  Garrison Strength: 224
+  Garrison Strength: 371
 Statistics:
-  Movement Type: foot
-  Move Points: 13
+  Movement Type: air
+  Move Points: 32
   Spot: 8
-  Camouflage: 4
-  Agility: 17
-  Armor: 5
-  Psy Defense: 5
-  Rank: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 14
+  Psy Defense: 14
+  Rank: 178
 Attacks:
-  Close: 17/13
+  Air: 18/13
+  Indirect: 21/13
 Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 25
-Build Cost: 246
+Upkeep / Maintenance: 12
+Build Cost: 119
 Build Resource Requirements:
-  Food: 15
-  Energy: 41
-  Metal: 3
-  Trace: 13
-  Exotica: 15
-  Chemicals: 43
-  Biochems: 73
-  Electronics: 29
-Build Shantor Darkwalker in Farm
-Time to Build / Upgrade: 4
-[3105] Technologies Required to Build Unit (51):
-  [2980] Xenoimmunology (41)
-  [125] Xenopsychology (60)
+  Food: 11
+  Energy: 27
+  Metal: 6
+  Trace: 18
+  Exotica: 11
+  Chemicals: 45
+  Electronics: 14
+  Ceramsteel: 15
+Build Adv. Atmospheric Fighter in Factory
+Time to Build / Upgrade: 3
+[8520] Technology Required to Build Unit (79):
+  [8520] Advanced Atmospheric Aircraft (79)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Shantor Mercenary
-Nick Name: Shantor Merc
+Name: Atmospheric Fighter II
+Nick Name: Gryphon III
 Scores & Strengths:
-  Tech Score: 807
-  Unit Score: 809
-  Average Score: 808
-  Stat Strength: 613
-  Total Strength: 809
-  Planet Strength: 809
+  Tech Score: 2126
+  Unit Score: 2531
+  Average Score: 2329
+  Stat Strength: 1929
+  Total Strength: 2531
+  Planet Strength: 2531
   Space Strength: 0
-  Garrison Strength: 216
+  Garrison Strength: 427
 Statistics:
-  Movement Type: foot
-  Move Points: 14
+  Movement Type: air
+  Move Points: 35
   Spot: 8
-  Camouflage: 5
-  Agility: 16
-  Armor: 6
-  Psy Defense: 6
-  Rank: 8
+  Camouflage: 8
+  Agility: 8
+  Armor: 16
+  Psy Defense: 16
+  Rank: 185
 Attacks:
-  Close: 14/14
+  Air: 20/14
+  Indirect: 23/14
 Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 26
-Build Cost: 255
+Upkeep / Maintenance: 12
+Build Cost: 115
 Build Resource Requirements:
-  Food: 15
-  Energy: 46
-  Metal: 4
-  Trace: 11
-  Exotica: 16
-  Chemicals: 48
-  Biochems: 76
-  Electronics: 24
-Build Shantor Mercenary in Farm
+  Food: 8
+  Energy: 21
+  Metal: 7
+  Trace: 15
+  Exotica: 8
+  Chemicals: 29
+  Biochems: 10
+  Electronics: 10
+  Ceramsteel: 10
+Build Atmospheric Fighter II in Factory
+Time to Build / Upgrade: 3
+[15250] Technologies Required to Build Unit (85):
+  [1785] Rotary Autocannon (90)
+  [5855] Guided Missile Navalcraft (84)
+  [7610] Atmospheric Aircraft (80)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Laser Fighter
+Nick Name: Pegasus
+Scores & Strengths:
+  Tech Score: 4663
+  Unit Score: 5386
+  Average Score: 5024
+  Stat Strength: 4106
+  Total Strength: 5386
+  Planet Strength: 5386
+  Space Strength: 0
+  Garrison Strength: 746
+Statistics:
+  Movement Type: air
+  Move Points: 52
+  Spot: 10
+  Camouflage: 12
+  Agility: 10
+  Armor: 23
+  Psy Defense: 23
+  Rank: 230
+Attacks:
+  Air: 29/20
+  Indirect: 35/20
+Load aboard transport: YES
+Upkeep / Maintenance: 100
+Build Cost: 1001
+Build Resource Requirements:
+  Food: 5
+  Energy: 14
+  Metal: 3
+  Trace: 15
+  Exotica: 6
+  Chemicals: 21
+  Biochems: 8
+  Electronics: 13
+  Ceramsteel: 5
+  Monopols: 28
+Build Laser Fighter in Factory
+Time to Build / Upgrade: 3
+[45100] Technologies Required to Build Unit (81):
+  [1785] Rotary Autocannon (90)
+  [27875] PTS Meson Navalcraft (74)
+  [15440] Power Aircraft (79)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Psy Laser Fighter
+Nick Name: Psy Fighter
+Scores & Strengths:
+  Tech Score: 4686
+  Unit Score: 5681
+  Average Score: 5184
+  Stat Strength: 3748
+  Total Strength: 5681
+  Planet Strength: 5681
+  Space Strength: 4105
+  Garrison Strength: 837
+Statistics:
+  Movement Type: air
+  Move Points: 46
+  Spot: 12
+  Camouflage: 8
+  Agility: 12
+  Armor: 16
+  Psy Defense: 32
+  Rank: 229
+Attacks:
+  Psychic: 17/21
+  Air: 30/30
+  Indirect: 26/26
+Load aboard transport: YES
+Upkeep / Maintenance: 277
+Build Cost: 2769
+Build Resource Requirements:
+  Food: 5
+  Energy: 15
+  Metal: 3
+  Trace: 12
+  Exotica: 5
+  Chemicals: 22
+  Biochems: 7
+  Electronics: 14
+  Ceramsteel: 6
+  Monopols: 31
+  Gems: 75
+Build Psy Laser Fighter in Factory
 Time to Build / Upgrade: 4
-[3105] Technologies Required to Build Unit (51):
-  [2980] Xenoimmunology (41)
-  [125] Xenopsychology (60)
+[45430] Technologies Required to Build Unit (81):
+  [330] Holy Warriors (82)
+  [1785] Rotary Autocannon (90)
+  [27875] PTS Meson Navalcraft (74)
+  [15440] Power Aircraft (79)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Morph Fighter
+Nick Name: Wyvern
+Scores & Strengths:
+  Tech Score: 8344
+  Unit Score: 8185
+  Average Score: 8265
+  Stat Strength: 5279
+  Total Strength: 8185
+  Planet Strength: 8185
+  Space Strength: 0
+  Garrison Strength: 1135
+Statistics:
+  Movement Type: air
+  Move Points: 52
+  Spot: 18
+  Camouflage: 13
+  Agility: 32
+  Armor: 23
+  Psy Defense: 23
+  Rank: 278
+Attacks:
+  Air: 41/41
+  Indirect: 35/35
+Load aboard transport: YES
+Upkeep / Maintenance: 146
+Build Cost: 1456
+Build Resource Requirements:
+  Food: 3
+  Energy: 12
+  Metal: 1
+  Trace: 7
+  Exotica: 3
+  Chemicals: 16
+  Biochems: 22
+  Electronics: 9
+  Ceramsteel: 3
+  Wetware: 7
+  Monopols: 24
+Build Morph Fighter in Factory
+Time to Build / Upgrade: 3
+[100255] Technologies Required to Build Unit (64):
+  [1785] Rotary Autocannon (90)
+  [45010] Hover Navalcraft (52)
+  [53460] Polymorphonic Patrolcraft (50)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Stealth Fighter
+Nick Name: Dragon
+Scores & Strengths:
+  Tech Score: 8575
+  Unit Score: 8417
+  Average Score: 8496
+  Stat Strength: 5575
+  Total Strength: 8417
+  Planet Strength: 8417
+  Space Strength: 0
+  Garrison Strength: 1167
+Statistics:
+  Movement Type: air
+  Move Points: 52
+  Spot: 18
+  Camouflage: 33
+  Agility: 20
+  Armor: 23
+  Psy Defense: 23
+  Rank: 277
+Attacks:
+  Air: 41/42
+  Indirect: 32/35
+Load aboard transport: YES
+Upkeep / Maintenance: 140
+Build Cost: 1397
+Build Resource Requirements:
+  Food: 2
+  Energy: 11
+  Metal: 1
+  Trace: 9
+  Exotica: 3
+  Chemicals: 15
+  Biochems: 21
+  Electronics: 14
+  Ceramsteel: 2
+  Wetware: 6
+  Monopols: 23
+Build Stealth Fighter in Factory
+Time to Build / Upgrade: 3
+[101965] Technologies Required to Build Unit (59):
+  [1785] Rotary Autocannon (90)
+  [45010] Hover Navalcraft (52)
+  [55170] Neumonic Patrolcraft (35)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

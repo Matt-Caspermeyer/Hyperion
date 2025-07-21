@@ -1,456 +1,489 @@
-All units of the unit class Anti-Tank Infantry are listed herein (11 in total):
+All units of the unit class Infantry Tank are listed herein (11 in total):
 
 --1--
-Name: Anti-Tank Infantry
-Nick Name: AT Inf
+Name: Infantry Tank
+Nick Name: Infantry Tank
 Scores & Strengths:
-  Tech Score: 162
-  Unit Score: 160
-  Average Score: 161
-  Stat Strength: 81
-  Total Strength: 160
-  Planet Strength: 160
+  Tech Score: 106
+  Unit Score: 157
+  Average Score: 132
+  Stat Strength: 120
+  Total Strength: 157
+  Planet Strength: 157
   Space Strength: 0
-  Garrison Strength: 113
+  Garrison Strength: 78
 Statistics:
-  Movement Type: foot
-  Move Points: 2
+  Movement Type: tread
+  Move Points: 4
   Spot: 2
   Camouflage: 2
-  Agility: 7
-  Armor: 4
-  Psy Defense: 2
-  Rank: 41
+  Agility: 4
+  Armor: 8
+  Psy Defense: 4
+  Rank: 57
 Attacks:
-  Indirect: 3/13
-  Direct: 4/10
+  Indirect: 3/4
+  Direct: 3/3
+  Close: 4/4
 Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 50
+Upkeep / Maintenance: 3
+Build Cost: 33
 Build Resource Requirements:
-  Energy: 41
-  Metal: 6
-  Trace: 14
-  Exotica: 6
-  Chemicals: 34
-Upgrade Peasant to Anti-Tank Infantry at Fort
-Time to Build / Upgrade: 1
-[350] Technology Required to Build Unit (95):
-  [350] Anti-Tank Weaponry (95)
+  Food: 4
+  Energy: 12
+  Metal: 30
+  Trace: 12
+  Exotica: 4
+  Chemicals: 11
+Build Infantry Tank in Factory
+Time to Build / Upgrade: 2
+[400] Technologies Required to Build Unit (98):
+  [110] Structural Engineering (99)
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Anti-Tank Infantry (BE)
-Nick Name: AT Inf (BE)
+Name: Anti-infantry Tank
+Nick Name: AI Tank
 Scores & Strengths:
-  Tech Score: 245
-  Unit Score: 266
-  Average Score: 256
-  Stat Strength: 120
-  Total Strength: 266
-  Planet Strength: 266
+  Tech Score: 162
+  Unit Score: 160
+  Average Score: 161
+  Stat Strength: 110
+  Total Strength: 160
+  Planet Strength: 160
   Space Strength: 0
-  Garrison Strength: 153
+  Garrison Strength: 80
 Statistics:
-  Movement Type: foot
-  Move Points: 3
+  Movement Type: tread
+  Move Points: 4
   Spot: 2
-  Camouflage: 3
-  Agility: 8
-  Armor: 5
-  Psy Defense: 3
-  Rank: 47
+  Camouflage: 1
+  Agility: 3
+  Armor: 8
+  Psy Defense: 4
+  Rank: 86
 Attacks:
-  Indirect: 4/17
-  Direct: 6/13
+  Indirect: 4/5
+  Close: 10/3
 Load aboard transport: YES
-May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 10
-Build Cost: 49
+Upkeep / Maintenance: 5
+Build Cost: 50
 Build Resource Requirements:
-  Metal: 3
-  Biochems: 32
-Upgrade Anti-Tank Infantry to Anti-Tank Infantry (BE) at Biochem Plant
-Time to Build / Upgrade: 1
-[770] Technologies Required to Build Unit (86):
-  [420] Biochem-Enhanced Soldiers (77)
-  [350] Anti-Tank Weaponry (95)
+  Food: 5
+  Energy: 12
+  Metal: 31
+  Trace: 39
+  Exotica: 4
+  Chemicals: 14
+Build Anti-infantry Tank in Factory
+Time to Build / Upgrade: 2
+[350] Technology Required to Build Unit (95):
+  [350] Tanks (95)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Anti-Tank Infantry (SE)
-Nick Name: AT Inf (SE)
+Name: Infantry Fighting Vehicle
+Nick Name: Inf. FV
 Scores & Strengths:
-  Tech Score: 319
-  Unit Score: 349
-  Average Score: 334
-  Stat Strength: 153
-  Total Strength: 349
-  Planet Strength: 349
+  Tech Score: 192
+  Unit Score: 191
+  Average Score: 192
+  Stat Strength: 133
+  Total Strength: 191
+  Planet Strength: 191
   Space Strength: 0
-  Garrison Strength: 201
+  Garrison Strength: 67
 Statistics:
-  Movement Type: foot
-  Move Points: 3
-  Spot: 3
-  Camouflage: 3
-  Agility: 9
+  Movement Type: wheel
+  Move Points: 8
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
   Armor: 6
   Psy Defense: 3
-  Rank: 50
+  Rank: 88
 Attacks:
-  Indirect: 5/20
-  Direct: 6/16
+  Direct: 5/6
+  Close: 7/4
 Load aboard transport: YES
-Upkeep / Maintenance: 14
-Build Cost: 85
+Can tow units that can be towed
+Upkeep / Maintenance: 5
+Build Cost: 53
 Build Resource Requirements:
-  Energy: 7
-  Metal: 2
-  Chemicals: 6
-  Biochems: 38
-Upgrade Anti-Tank Infantry to Anti-Tank Infantry (SE) at Hospital
-Time to Build / Upgrade: 1
-[1025] Technologies Required to Build Unit (85):
-  [675] Surgically-Enhanced Soldiers (75)
-  [350] Anti-Tank Weaponry (95)
+  Food: 9
+  Energy: 15
+  Metal: 12
+  Trace: 20
+  Exotica: 9
+  Chemicals: 25
+Build Infantry Fighting Vehicle in Factory
+Time to Build / Upgrade: 2
+[550] Technologies Required to Build Unit (96):
+  [145] Composite Armor (97)
+  [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Anti-Tank Infantry (DE)
-Nick Name: AT Inf (DE)
+Name: Anti-infantry Tank II
+Nick Name: AI Tank II
 Scores & Strengths:
-  Tech Score: 933
-  Unit Score: 819
-  Average Score: 876
-  Stat Strength: 305
-  Total Strength: 819
-  Planet Strength: 819
+  Tech Score: 292
+  Unit Score: 272
+  Average Score: 282
+  Stat Strength: 185
+  Total Strength: 272
+  Planet Strength: 272
   Space Strength: 0
-  Garrison Strength: 366
+  Garrison Strength: 121
 Statistics:
-  Movement Type: foot
+  Movement Type: tread
   Move Points: 5
-  Spot: 3
-  Camouflage: 5
-  Agility: 11
-  Armor: 10
+  Spot: 2
+  Camouflage: 1
+  Agility: 3
+  Armor: 11
   Psy Defense: 5
-  Rank: 69
+  Rank: 90
 Attacks:
-  Indirect: 8/33
-  Direct: 10/25
+  Indirect: 5/7
+  Close: 13/4
 Load aboard transport: YES
-Upkeep / Maintenance: 11
+Upkeep / Maintenance: 6
 Build Cost: 63
 Build Resource Requirements:
-  Metal: 22
-  Biochems: 32
-  Electronics: 8
-Upgrade Anti-Tank Infantry to Anti-Tank Infantry (DE) at Biochem Plant
-Time to Build / Upgrade: 1
-[3790] Technologies Required to Build Unit (80):
-  [3440] Drug-Enhanced Soldiers (65)
-  [350] Anti-Tank Weaponry (95)
+  Food: 3
+  Energy: 11
+  Metal: 32
+  Trace: 41
+  Exotica: 2
+  Chemicals: 11
+  Electronics: 25
+Build Anti-infantry Tank II in Factory
+Time to Build / Upgrade: 2
+[770] Technology Required to Build Unit (92):
+  [770] Self-Propelled Weaponry (92)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Anti-Tank Infantry (PA)
-Nick Name: AT Inf (PA)
+Name: Anti-infantry Tank III
+Nick Name: AI Tank III
 Scores & Strengths:
-  Tech Score: 1421
-  Unit Score: 1222
-  Average Score: 1322
-  Stat Strength: 437
-  Total Strength: 1222
-  Planet Strength: 1222
+  Tech Score: 530
+  Unit Score: 476
+  Average Score: 503
+  Stat Strength: 323
+  Total Strength: 476
+  Planet Strength: 476
   Space Strength: 0
-  Garrison Strength: 498
+  Garrison Strength: 179
 Statistics:
-  Movement Type: foot
-  Move Points: 6
-  Spot: 4
-  Camouflage: 6
-  Agility: 12
-  Armor: 13
-  Psy Defense: 6
-  Rank: 83
+  Movement Type: tread
+  Move Points: 7
+  Spot: 3
+  Camouflage: 2
+  Agility: 4
+  Armor: 14
+  Psy Defense: 7
+  Rank: 96
 Attacks:
-  Indirect: 9/41
-  Direct: 13/32
+  Indirect: 7/9
+  Close: 18/5
 Load aboard transport: YES
-Upkeep / Maintenance: 24
-Build Cost: 153
+Upkeep / Maintenance: 9
+Build Cost: 85
 Build Resource Requirements:
-  Energy: 44
-  Metal: 2
-  Chemicals: 37
-  Biochems: 6
-  Electronics: 14
-  Ceramsteel: 17
-Upgrade Anti-Tank Infantry (SE) to Anti-Tank Infantry (PA) at Hospital
-Time to Build / Upgrade: 2
-[6525] Technologies Required to Build Unit (76):
-  [6175] Prosthetically-Augmented Soldiers (57)
-  [350] Anti-Tank Weaponry (95)
+  Food: 3
+  Energy: 11
+  Metal: 27
+  Trace: 41
+  Exotica: 3
+  Chemicals: 25
+  Electronics: 40
+Build Anti-infantry Tank III in Factory
+Time to Build / Upgrade: 3
+[1700] Technology Required to Build Unit (88):
+  [1700] Main Battle Tank (88)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Anti-Tank Infantry (GE)
-Nick Name: AT Inf (GE)
+Name: Reaper Field Tank
+Nick Name: Reaper
 Scores & Strengths:
-  Tech Score: 1397
-  Unit Score: 1240
-  Average Score: 1319
-  Stat Strength: 437
-  Total Strength: 1240
-  Planet Strength: 1240
+  Tech Score: 1799
+  Unit Score: 1668
+  Average Score: 1733
+  Stat Strength: 1117
+  Total Strength: 1668
+  Planet Strength: 1668
   Space Strength: 0
-  Garrison Strength: 506
+  Garrison Strength: 462
 Statistics:
-  Movement Type: foot
-  Move Points: 6
+  Movement Type: tread
+  Move Points: 13
   Spot: 4
-  Camouflage: 6
-  Agility: 12
-  Armor: 13
-  Psy Defense: 6
-  Rank: 82
+  Camouflage: 3
+  Agility: 5
+  Armor: 27
+  Psy Defense: 13
+  Rank: 122
 Attacks:
-  Indirect: 10/40
-  Direct: 13/31
+  Indirect: 13/17
+  Close: 33/10
 Load aboard transport: YES
-Upkeep / Maintenance: 17
-Build Cost: 110
+Upkeep / Maintenance: 88
+Build Cost: 883
 Build Resource Requirements:
-  Energy: 17
-  Chemicals: 15
-  Biochems: 21
-  Electronics: 1
-  Ceramsteel: 5
-Upgrade Anti-Tank Infantry (DE) to Anti-Tank Infantry (GE) at Lab
-Time to Build / Upgrade: 1
-[6370] Technologies Required to Build Unit (72):
-  [6020] Chemical Shock Legion (49)
-  [350] Anti-Tank Weaponry (95)
+  Food: 2
+  Energy: 7
+  Metal: 13
+  Trace: 20
+  Exotica: 2
+  Chemicals: 19
+  Electronics: 33
+  Ceramsteel: 18
+  Monopols: 40
+Build Reaper Field Tank in Factory
+Time to Build / Upgrade: 4
+[9775] Technologies Required to Build Unit (80):
+  [1690] Ceramsteel (84)
+  [8085] Fusion Rifles (75)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Anti-Tank Infantry (CE)
-Nick Name: AT Inf (CE)
+Name: Reaper Field Tank II
+Nick Name: Reaper II
 Scores & Strengths:
-  Tech Score: 1812
-  Unit Score: 1578
-  Average Score: 1695
-  Stat Strength: 557
-  Total Strength: 1578
-  Planet Strength: 1578
+  Tech Score: 1975
+  Unit Score: 1825
+  Average Score: 1900
+  Stat Strength: 1237
+  Total Strength: 1825
+  Planet Strength: 1825
   Space Strength: 0
-  Garrison Strength: 596
+  Garrison Strength: 487
 Statistics:
-  Movement Type: foot
-  Move Points: 7
+  Movement Type: tread
+  Move Points: 14
   Spot: 4
-  Camouflage: 7
-  Agility: 13
-  Armor: 15
-  Psy Defense: 7
-  Rank: 92
+  Camouflage: 3
+  Agility: 6
+  Armor: 28
+  Psy Defense: 14
+  Rank: 125
 Attacks:
-  Indirect: 11/47
-  Direct: 14/36
+  Indirect: 14/17
+  Close: 35/10
 Load aboard transport: YES
-Upkeep / Maintenance: 31
-Build Cost: 154
+Upkeep / Maintenance: 69
+Build Cost: 692
 Build Resource Requirements:
-  Energy: 33
-  Metal: 4
-  Chemicals: 19
-  Biochems: 9
-  Ceramsteel: 5
-Upgrade Anti-Tank Infantry (PA) to Anti-Tank Infantry (CE) at Lab
-Time to Build / Upgrade: 1
-[8950] Technologies Required to Build Unit (72):
-  [350] Anti-Tank Weaponry (95)
-  [8600] Cybernetically-Enhanced Soldiers (48)
+  Food: 2
+  Energy: 7
+  Metal: 13
+  Trace: 18
+  Exotica: 2
+  Chemicals: 18
+  Electronics: 37
+  Ceramsteel: 17
+  Monopols: 30
+Build Reaper Field Tank II in Factory
+Time to Build / Upgrade: 3
+[13290] Technologies Required to Build Unit (80):
+  [8085] Fusion Rifles (75)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Anti-Tank Infantry (ME)
-Nick Name: AT Inf (ME)
+Name: Reaper Field Tank III
+Nick Name: Reaper III
 Scores & Strengths:
-  Tech Score: 1401
-  Unit Score: 1742
-  Average Score: 1571
-  Stat Strength: 883
-  Total Strength: 1742
-  Planet Strength: 1742
+  Tech Score: 2573
+  Unit Score: 2404
+  Average Score: 2489
+  Stat Strength: 1604
+  Total Strength: 2404
+  Planet Strength: 2404
   Space Strength: 0
-  Garrison Strength: 422
+  Garrison Strength: 601
 Statistics:
-  Movement Type: foot
-  Move Points: 17
+  Movement Type: tread
+  Move Points: 16
   Spot: 4
-  Camouflage: 6
-  Agility: 18
-  Armor: 13
-  Psy Defense: 7
-  Rank: 87
+  Camouflage: 4
+  Agility: 6
+  Armor: 32
+  Psy Defense: 16
+  Rank: 136
 Attacks:
-  Indirect: 10/43
-  Direct: 13/33
+  Indirect: 16/20
+  Close: 40/12
 Load aboard transport: YES
-Upkeep / Maintenance: 15
-Build Cost: 101
+Upkeep / Maintenance: 59
+Build Cost: 590
 Build Resource Requirements:
-  Food: 2
-  Energy: 26
-  Exotica: 2
-  Chemicals: 33
-  Electronics: 18
-  Ceramsteel: 7
-Upgrade Anti-Tank Infantry to Anti-Tank Infantry (ME) at Factory
-Time to Build / Upgrade: 2
-[6570] Technologies Required to Build Unit (88):
-  [350] Anti-Tank Weaponry (95)
-  [6220] Mechanically-Enhanced Soldiers (80)
+  Food: 1
+  Energy: 5
+  Metal: 7
+  Trace: 15
+  Exotica: 1
+  Chemicals: 12
+  Electronics: 32
+  Ceramsteel: 12
+  Monopols: 24
+Build Reaper Field Tank III in Factory
+Time to Build / Upgrade: 3
+[21620] Technologies Required to Build Unit (75):
+  [8085] Fusion Rifles (75)
+  [13535] Powered Ceramsteel Tanks (74)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Anti-Tank Infantry (MF)
-Nick Name: AT Inf (MF)
+Name: Grim Reaper Tank
+Nick Name: Grim Reaper
 Scores & Strengths:
-  Tech Score: 3194
-  Unit Score: 2625
-  Average Score: 2910
-  Stat Strength: 864
-  Total Strength: 2625
-  Planet Strength: 2625
+  Tech Score: 3648
+  Unit Score: 3648
+  Average Score: 3648
+  Stat Strength: 2437
+  Total Strength: 3648
+  Planet Strength: 3648
   Space Strength: 0
-  Garrison Strength: 875
+  Garrison Strength: 815
 Statistics:
-  Movement Type: foot
-  Move Points: 9
-  Spot: 4
-  Camouflage: 9
-  Agility: 15
-  Armor: 19
-  Psy Defense: 10
-  Rank: 120
+  Movement Type: tread
+  Move Points: 20
+  Spot: 12
+  Camouflage: 10
+  Agility: 21
+  Armor: 26
+  Psy Defense: 26
+  Rank: 150
 Attacks:
-  Indirect: 14/62
-  Direct: 19/47
+  Indirect: 17/22
+  Close: 31/27
 Load aboard transport: YES
-Upkeep / Maintenance: 250
-Build Cost: 2350
+Immune to Plague
+Upkeep / Maintenance: 110
+Build Cost: 1103
 Build Resource Requirements:
-  Energy: 23
-  Chemicals: 2
-  Biochems: 15
-  Wetware: 5
-  Monopols: 90
-Upgrade Anti-Tank Infantry (CE) to Anti-Tank Infantry (MF) at Wetware
-Time to Build / Upgrade: 4
-[18925] Technologies Required to Build Unit (65):
-  [350] Anti-Tank Weaponry (95)
-  [18575] Machine-Fused Soldiers (35)
+  Food: 2
+  Energy: 13
+  Metal: 6
+  Trace: 7
+  Exotica: 2
+  Chemicals: 17
+  Biochems: 27
+  Electronics: 17
+  Ceramsteel: 10
+  Monopols: 29
+Build Grim Reaper Tank in Factory
+Time to Build / Upgrade: 3
+[22290] Technology Required to Build Unit (34):
+  [22290] Bio-Anti Infantry Tanks (34)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Anti-Tank Infantry (AVE)
-Nick Name: AT Inf (AVE)
+Name: Shock Grim Reaper Tank
+Nick Name: Grimlock
 Scores & Strengths:
-  Tech Score: 3641
-  Unit Score: 2912
-  Average Score: 3276
-  Stat Strength: 972
-  Total Strength: 2912
-  Planet Strength: 2912
+  Tech Score: 4383
+  Unit Score: 4302
+  Average Score: 4343
+  Stat Strength: 2826
+  Total Strength: 4302
+  Planet Strength: 4302
   Space Strength: 0
-  Garrison Strength: 920
+  Garrison Strength: 917
 Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 4
-  Camouflage: 10
-  Agility: 16
-  Armor: 20
-  Psy Defense: 10
-  Rank: 127
+  Movement Type: tread
+  Move Points: 22
+  Spot: 13
+  Camouflage: 11
+  Agility: 22
+  Armor: 28
+  Psy Defense: 28
+  Rank: 161
 Attacks:
-  Indirect: 15/64
-  Direct: 20/49
+  Indirect: 19/24
+  Close: 34/30
 Load aboard transport: YES
-Upkeep / Maintenance: 160
-Build Cost: 1488
+Immune to Plague
+Upkeep / Maintenance: 112
+Build Cost: 1038
 Build Resource Requirements:
-  Energy: 38
-  Chemicals: 22
-  Biochems: 14
-  Wetware: 4
-  Monopols: 51
-Upgrade Anti-Tank Infantry (GE) to Anti-Tank Infantry (AVE) at Lab
-Time to Build / Upgrade: 3
-[27475] Technologies Required to Build Unit (30):
-  [8900] Genetically-Enhanced Warriors (25)
-  [18575] Machine-Fused Soldiers (35)
+  Biochems: 19
+  Ceramsteel: 7
+  Wetware: 6
+  Monopols: 21
+Upgrade Anti-infantry Tank III to Shock Grim Reaper Tank at Factory
+Time to Build / Upgrade: 1
+[54010] Technologies Required to Build Unit (42):
+  [16745] Wetware (23)
+  [14975] Power Hovertanks (70)
+  [22290] Bio-Anti Infantry Tanks (34)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --11--
-Name: Anti-Tank Infantry (NE)
-Nick Name: AT Inf (NE)
+Name: Stealth Reaper Tank
+Nick Name: Ghost Grim
 Scores & Strengths:
-  Tech Score: 3884
-  Unit Score: 3428
-  Average Score: 3656
-  Stat Strength: 1211
-  Total Strength: 3428
-  Planet Strength: 3428
+  Tech Score: 5358
+  Unit Score: 5355
+  Average Score: 5357
+  Stat Strength: 3724
+  Total Strength: 5355
+  Planet Strength: 5355
   Space Strength: 0
-  Garrison Strength: 1084
+  Garrison Strength: 1141
 Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 5
-  Camouflage: 15
-  Agility: 16
-  Armor: 22
-  Psy Defense: 11
-  Rank: 136
+  Movement Type: tread
+  Move Points: 22
+  Spot: 14
+  Camouflage: 30
+  Agility: 24
+  Armor: 28
+  Psy Defense: 28
+  Rank: 176
 Attacks:
-  Indirect: 16/69
-  Direct: 21/53
+  Indirect: 21/26
+  Close: 35/31
 Load aboard transport: YES
-Upkeep / Maintenance: 131
+Immune to Plague
+Upkeep / Maintenance: 153
+Build Cost: 1470
 Build Resource Requirements:
-  Trace: 2
-  Electronics: 5
-  Wetware: 1
-Upgrade Anti-Tank Infantry (AVE) to Anti-Tank Infantry (NE) at Fusorium
+  Chemicals: 2
+  Biochems: 25
+  Electronics: 2
+  Ceramsteel: 7
+  Wetware: 10
+  Monopols: 22
+Upgrade Anti-infantry Tank II to Stealth Reaper Tank at Factory
 Time to Build / Upgrade: 1
-[24480] Technologies Required to Build Unit (64):
-  [350] Anti-Tank Weaponry (95)
-  [24130] Neumonically-Enhanced Soldiers (32)
+[37210] Technology Required to Build Unit (34):
+  [37210] Neumonic Land Vehicles (34)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

@@ -1,47 +1,188 @@
-All units of the unit class Genetic Warrior Legion are listed herein (1 in total):
+All units of the unit class Light Grappler Mech are listed herein (4 in total):
 
 --1--
-Name: Genetic Warrior Legion
-Nick Name: Gen War Lgn
+Name: Light Grappler Mech
+Nick Name: Grapnel
 Scores & Strengths:
-  Tech Score: 1833
-  Unit Score: 1833
-  Average Score: 1833
-  Stat Strength: 992
-  Total Strength: 1833
-  Planet Strength: 1833
+  Tech Score: 1686
+  Unit Score: 1685
+  Average Score: 1686
+  Stat Strength: 1194
+  Total Strength: 1685
+  Planet Strength: 1685
   Space Strength: 0
-  Garrison Strength: 529
+  Garrison Strength: 486
 Statistics:
-  Movement Type: foot
+  Movement Type: mech
   Move Points: 12
   Spot: 10
-  Camouflage: 8
+  Camouflage: 4
   Agility: 22
-  Armor: 10
-  Psy Defense: 10
-  Rank: 83
+  Armor: 15
+  Psy Defense: 15
+  Rank: 125
 Attacks:
-  Direct: 20/20
-  Close: 21/21
+  Indirect: 19/14
+  Close: 15/15
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 30
-Build Cost: 302
+Upkeep / Maintenance: 16
+Build Cost: 157
 Build Resource Requirements:
   Food: 5
-  Energy: 19
-  Metal: 3
-  Trace: 12
-  Exotica: 6
-  Chemicals: 44
-  Biochems: 75
-  Electronics: 29
-  Ceramsteel: 4
-Build Genetic Warrior Legion in Lab
+  Energy: 15
+  Metal: 9
+  Trace: 16
+  Exotica: 5
+  Chemicals: 27
+  Electronics: 20
+  Ceramsteel: 13
+Build Light Grappler Mech in Starport
 Time to Build / Upgrade: 3
-[8900] Technology Required to Build Unit (25):
-  [8900] Genetically-Enhanced Warriors (25)
+[10330] Technologies Required to Build Unit (84):
+  [1690] Ceramsteel (84)
+  [2420] Rocket-Propelled Aircraft (87)
+  [6220] Mechanically-Enhanced Soldiers (80)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Medium Grappler Mech
+Nick Name: Gargoyle
+Scores & Strengths:
+  Tech Score: 2414
+  Unit Score: 2032
+  Average Score: 2223
+  Stat Strength: 1402
+  Total Strength: 2032
+  Planet Strength: 2032
+  Space Strength: 0
+  Garrison Strength: 563
+Statistics:
+  Movement Type: mech
+  Move Points: 13
+  Spot: 12
+  Camouflage: 8
+  Agility: 15
+  Armor: 20
+  Psy Defense: 20
+  Rank: 132
+Attacks:
+  Indirect: 20/15
+  Close: 22/15
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 86
+Build Cost: 857
+Build Resource Requirements:
+  Food: 2
+  Energy: 7
+  Metal: 7
+  Trace: 16
+  Exotica: 2
+  Chemicals: 13
+  Electronics: 21
+  Ceramsteel: 8
+  Monopols: 19
+Build Medium Grappler Mech in Starport
+Time to Build / Upgrade: 3
+[12850] Technology Required to Build Unit (71):
+  [12850] Mechanized Warriors (71)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Heavy Grappler Mech
+Nick Name: Executioner
+Scores & Strengths:
+  Tech Score: 5223
+  Unit Score: 4856
+  Average Score: 5040
+  Stat Strength: 3010
+  Total Strength: 4856
+  Planet Strength: 4856
+  Space Strength: 0
+  Garrison Strength: 1253
+Statistics:
+  Movement Type: mech
+  Move Points: 15
+  Spot: 14
+  Camouflage: 10
+  Agility: 21
+  Armor: 32
+  Psy Defense: 32
+  Rank: 136
+Attacks:
+  Indirect: 29/26
+  Direct: 18/18
+  Close: 32/24
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 184
+Build Cost: 1835
+Build Resource Requirements:
+  Food: 2
+  Energy: 10
+  Metal: 7
+  Trace: 24
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 24
+  Electronics: 30
+  Ceramsteel: 11
+  Monopols: 27
+Build Heavy Grappler Mech in Starport
+Time to Build / Upgrade: 3
+[35965] Technology Required to Build Unit (64):
+  [35965] Advanced Mechanized Warriors (64)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Assault Grappler Mech
+Nick Name: Excruciator
+Scores & Strengths:
+  Tech Score: 5803
+  Unit Score: 5450
+  Average Score: 5626
+  Stat Strength: 3396
+  Total Strength: 5450
+  Planet Strength: 5450
+  Space Strength: 0
+  Garrison Strength: 1321
+Statistics:
+  Movement Type: mech
+  Move Points: 17
+  Spot: 16
+  Camouflage: 12
+  Agility: 23
+  Armor: 33
+  Psy Defense: 33
+  Rank: 144
+Attacks:
+  Indirect: 31/28
+  Direct: 19/19
+  Close: 33/25
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 256
+Build Cost: 2560
+Build Resource Requirements:
+  Food: 1
+  Energy: 10
+  Metal: 7
+  Trace: 11
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 24
+  Electronics: 17
+  Ceramsteel: 10
+  Wetware: 10
+  Monopols: 26
+Build Assault Grappler Mech in Starport
+Time to Build / Upgrade: 4
+[52710] Technologies Required to Build Unit (44):
+  [16745] Wetware (23)
+  [35965] Advanced Mechanized Warriors (64)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

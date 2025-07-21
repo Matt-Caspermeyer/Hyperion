@@ -1,346 +1,484 @@
-All units of the unit class Reconnaissance Sesquiplane are listed herein (8 in total):
+All units of the unit class Light Infantry Legion are listed herein (11 in total):
 
 --1--
-Name: Reconnaissance Sesquiplane
-Nick Name: A-SR
+Name: Light Infantry Legion
+Nick Name: Lt Inf
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 289
-  Average Score: 241
-  Stat Strength: 289
-  Total Strength: 289
-  Planet Strength: 289
+  Tech Score: 265
+  Unit Score: 263
+  Average Score: 264
+  Stat Strength: 139
+  Total Strength: 263
+  Planet Strength: 263
   Space Strength: 0
-  Garrison Strength: 91
+  Garrison Strength: 117
 Statistics:
-  Movement Type: air
-  Move Points: 10
-  Spot: 8
-  Camouflage: 2
+  Movement Type: foot
+  Move Points: 5
+  Spot: 2
+  Camouflage: 4
   Agility: 9
-  Armor: 6
+  Armor: 3
   Psy Defense: 2
-  Rank: 77
+  Rank: 44
+Attacks:
+  Indirect: 12/5
+  Direct: 14/2
+  Close: 9/4
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 91
+Upkeep / Maintenance: 8
+Build Cost: 59
 Build Resource Requirements:
-  Food: 25
-  Energy: 22
-  Metal: 27
-  Trace: 22
-  Exotica: 25
-  Chemicals: 25
-  Electronics: 16
-Build Reconnaissance Sesquiplane in Factory
-Time to Build / Upgrade: 3
-[445] Technology Required to Build Unit (94):
-  [445] Sesquiplane (94)
+  Metal: 1
+  Trace: 66
+  Exotica: 5
+  Chemicals: 13
+  Electronics: 29
+Upgrade Peasant to Light Infantry Legion at Fort
+Time to Build / Upgrade: 1
+[930] Technologies Required to Build Unit (94):
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Attack Fighter Sesquiplane
-Nick Name: A-SAF
+Name: Light Infantry Legion (BE)
+Nick Name: Lt Inf (BE)
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 331
-  Total Strength: 384
-  Planet Strength: 384
+  Tech Score: 338
+  Unit Score: 371
+  Average Score: 355
+  Stat Strength: 185
+  Total Strength: 371
+  Planet Strength: 371
   Space Strength: 0
-  Garrison Strength: 145
+  Garrison Strength: 151
 Statistics:
-  Movement Type: air
-  Move Points: 7
-  Spot: 8
-  Camouflage: 2
-  Agility: 13
-  Armor: 6
-  Psy Defense: 3
-  Rank: 112
+  Movement Type: foot
+  Move Points: 6
+  Spot: 2
+  Camouflage: 5
+  Agility: 10
+  Armor: 4
+  Psy Defense: 2
+  Rank: 49
 Attacks:
-  Air: 3/5
-  Indirect: 4/5
-  Direct: 3/6
+  Indirect: 15/6
+  Direct: 18/2
+  Close: 12/5
 Load aboard transport: YES
-Upkeep / Maintenance: 13
-Build Cost: 128
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 14
+Build Cost: 78
 Build Resource Requirements:
-  Food: 26
-  Energy: 37
-  Metal: 31
-  Trace: 34
-  Exotica: 25
-  Chemicals: 38
-  Electronics: 25
-Build Attack Fighter Sesquiplane in Factory
-Time to Build / Upgrade: 4
-[445] Technology Required to Build Unit (94):
-  [445] Sesquiplane (94)
+  Metal: 1
+  Trace: 6
+  Exotica: 1
+  Biochems: 44
+  Electronics: 2
+Upgrade Light Infantry Legion to Light Infantry Legion (BE) at Biochem Plant
+Time to Build / Upgrade: 1
+[1350] Technologies Required to Build Unit (88):
+  [420] Biochem-Enhanced Soldiers (77)
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Bomber Sesquiplane
-Nick Name: A-SB
+Name: Light Infantry Legion (SE)
+Nick Name: Lt Inf (SE)
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 282
-  Total Strength: 384
-  Planet Strength: 384
+  Tech Score: 334
+  Unit Score: 389
+  Average Score: 362
+  Stat Strength: 190
+  Total Strength: 389
+  Planet Strength: 389
   Space Strength: 0
-  Garrison Strength: 128
+  Garrison Strength: 158
 Statistics:
-  Movement Type: air
-  Move Points: 9
-  Spot: 6
-  Camouflage: 2
-  Agility: 9
-  Armor: 8
-  Psy Defense: 4
-  Rank: 151
+  Movement Type: foot
+  Move Points: 6
+  Spot: 2
+  Camouflage: 5
+  Agility: 10
+  Armor: 4
+  Psy Defense: 3
+  Rank: 50
 Attacks:
-  Air: 2/6
-  Indirect: 5/18
+  Indirect: 15/6
+  Direct: 18/3
+  Close: 11/5
 Load aboard transport: YES
-Upkeep / Maintenance: 13
-Build Cost: 127
+Upkeep / Maintenance: 15
+Build Cost: 87
 Build Resource Requirements:
-  Food: 20
-  Energy: 85
-  Metal: 55
-  Trace: 18
-  Exotica: 20
-  Chemicals: 30
-  Electronics: 13
-Build Bomber Sesquiplane in Factory
-Time to Build / Upgrade: 4
-[445] Technology Required to Build Unit (94):
-  [445] Sesquiplane (94)
+  Food: 1
+  Energy: 1
+  Metal: 1
+  Trace: 14
+  Exotica: 1
+  Chemicals: 2
+  Biochems: 50
+Upgrade Light Infantry Legion to Light Infantry Legion (SE) at Hospital
+Time to Build / Upgrade: 1
+[1430] Technologies Required to Build Unit (88):
+  [675] Surgically-Enhanced Soldiers (75)
+  [350] Anti-Tank Weaponry (95)
+  [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Fighter Sesquiplane
-Nick Name: A-SF
+Name: Light Infantry Legion (DE)
+Nick Name: Lt Inf (DE)
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 321
-  Total Strength: 384
-  Planet Strength: 384
+  Tech Score: 987
+  Unit Score: 926
+  Average Score: 957
+  Stat Strength: 394
+  Total Strength: 926
+  Planet Strength: 926
   Space Strength: 0
-  Garrison Strength: 135
+  Garrison Strength: 292
 Statistics:
-  Movement Type: air
-  Move Points: 8
-  Spot: 8
-  Camouflage: 2
-  Agility: 12
+  Movement Type: foot
+  Move Points: 10
+  Spot: 3
+  Camouflage: 8
+  Agility: 13
   Armor: 6
-  Psy Defense: 3
-  Rank: 134
+  Psy Defense: 4
+  Rank: 69
 Attacks:
-  Air: 6/9
-  Indirect: 3/3
+  Indirect: 26/10
+  Direct: 30/4
+  Close: 19/8
 Load aboard transport: YES
-Upkeep / Maintenance: 13
-Build Cost: 132
+Upkeep / Maintenance: 18
+Build Cost: 119
 Build Resource Requirements:
-  Food: 26
-  Energy: 38
-  Metal: 31
-  Trace: 36
-  Exotica: 25
-  Chemicals: 42
-  Electronics: 26
-Build Fighter Sesquiplane in Factory
-Time to Build / Upgrade: 4
-[445] Technology Required to Build Unit (94):
-  [445] Sesquiplane (94)
+  Metal: 7
+  Biochems: 54
+  Electronics: 17
+Upgrade Light Infantry Legion to Light Infantry Legion (DE) at Biochem Plant
+Time to Build / Upgrade: 1
+[4370] Technologies Required to Build Unit (84):
+  [3440] Drug-Enhanced Soldiers (65)
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Trench Strafer Sesquiplane
-Nick Name: A-STS
+Name: Light Infantry Legion (GE)
+Nick Name: Lt Inf (GE)
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 297
-  Total Strength: 384
-  Planet Strength: 384
+  Tech Score: 1407
+  Unit Score: 1345
+  Average Score: 1376
+  Stat Strength: 563
+  Total Strength: 1345
+  Planet Strength: 1345
   Space Strength: 0
-  Garrison Strength: 156
+  Garrison Strength: 373
 Statistics:
-  Movement Type: air
-  Move Points: 6
-  Spot: 4
-  Camouflage: 2
+  Movement Type: foot
+  Move Points: 13
+  Spot: 3
+  Camouflage: 10
   Agility: 14
-  Armor: 6
-  Psy Defense: 3
-  Rank: 115
+  Armor: 8
+  Psy Defense: 5
+  Rank: 80
 Attacks:
-  Air: 3/5
-  Direct: 4/8
-  Close: 8/5
+  Indirect: 31/12
+  Direct: 36/5
+  Close: 23/10
 Load aboard transport: YES
-Upkeep / Maintenance: 14
-Build Cost: 140
+Upkeep / Maintenance: 23
+Build Cost: 108
 Build Resource Requirements:
-  Food: 20
-  Energy: 43
-  Metal: 31
-  Trace: 43
-  Exotica: 20
-  Chemicals: 50
-  Electronics: 32
-Build Trench Strafer Sesquiplane in Factory
-Time to Build / Upgrade: 5
-[445] Technology Required to Build Unit (94):
-  [445] Sesquiplane (94)
+  Energy: 2
+  Chemicals: 4
+  Biochems: 15
+  Electronics: 5
+  Ceramsteel: 2
+Upgrade Light Infantry Legion (DE) to Light Infantry Legion (GE) at Lab
+Time to Build / Upgrade: 1
+[6775] Technologies Required to Build Unit (79):
+  [6020] Chemical Shock Legion (49)
+  [350] Anti-Tank Weaponry (95)
+  [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Battle Sesquiplane
-Nick Name: A-SBttl
+Name: Light Infantry Legion (PA)
+Nick Name: Lt Inf (PA)
 Scores & Strengths:
-  Tech Score: 265
-  Unit Score: 527
-  Average Score: 396
-  Stat Strength: 455
-  Total Strength: 527
-  Planet Strength: 527
+  Tech Score: 1430
+  Unit Score: 1358
+  Average Score: 1394
+  Stat Strength: 563
+  Total Strength: 1358
+  Planet Strength: 1358
   Space Strength: 0
-  Garrison Strength: 175
+  Garrison Strength: 376
 Statistics:
-  Movement Type: air
-  Move Points: 9
-  Spot: 6
-  Camouflage: 2
-  Agility: 17
-  Armor: 6
-  Psy Defense: 3
-  Rank: 142
+  Movement Type: foot
+  Move Points: 13
+  Spot: 3
+  Camouflage: 10
+  Agility: 14
+  Armor: 8
+  Psy Defense: 5
+  Rank: 79
 Attacks:
-  Air: 4/8
-  Indirect: 5/8
+  Indirect: 30/13
+  Direct: 35/5
+  Close: 23/10
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 94
+Upkeep / Maintenance: 27
+Build Cost: 179
 Build Resource Requirements:
-  Food: 18
-  Energy: 32
-  Metal: 17
-  Trace: 22
-  Exotica: 18
-  Chemicals: 31
-  Electronics: 16
-Build Battle Sesquiplane in Factory
-Time to Build / Upgrade: 4
-[1055] Technologies Required to Build Unit (94):
-  [445] Sesquiplane (94)
-  [610] Air-Air Rockets (94)
+  Food: 1
+  Energy: 8
+  Metal: 1
+  Exotica: 1
+  Chemicals: 16
+  Biochems: 5
+  Electronics: 80
+  Ceramsteel: 7
+Upgrade Light Infantry Legion (SE) to Light Infantry Legion (PA) at Hospital
+Time to Build / Upgrade: 2
+[6930] Technologies Required to Build Unit (82):
+  [6175] Prosthetically-Augmented Soldiers (57)
+  [350] Anti-Tank Weaponry (95)
+  [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Large Bomber Sesquiplane
-Nick Name: A-SLB
+Name: Light Infantry Legion (CE)
+Nick Name: Lt Inf (CE)
 Scores & Strengths:
-  Tech Score: 265
-  Unit Score: 529
-  Average Score: 397
-  Stat Strength: 437
-  Total Strength: 529
-  Planet Strength: 529
+  Tech Score: 1820
+  Unit Score: 1670
+  Average Score: 1745
+  Stat Strength: 668
+  Total Strength: 1670
+  Planet Strength: 1670
   Space Strength: 0
-  Garrison Strength: 159
+  Garrison Strength: 446
 Statistics:
-  Movement Type: air
-  Move Points: 11
-  Spot: 6
-  Camouflage: 2
-  Agility: 14
-  Armor: 8
-  Psy Defense: 4
-  Rank: 150
+  Movement Type: foot
+  Move Points: 14
+  Spot: 3
+  Camouflage: 11
+  Agility: 15
+  Armor: 9
+  Psy Defense: 6
+  Rank: 88
 Attacks:
-  Air: 2/6
-  Indirect: 5/16
+  Indirect: 34/14
+  Direct: 40/6
+  Close: 26/11
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 94
+Upkeep / Maintenance: 27
+Build Cost: 89
 Build Resource Requirements:
-  Food: 17
-  Energy: 47
-  Metal: 30
-  Trace: 16
-  Exotica: 17
-  Chemicals: 27
-  Electronics: 11
-Build Large Bomber Sesquiplane in Factory
-Time to Build / Upgrade: 4
-[1055] Technologies Required to Build Unit (94):
-  [445] Sesquiplane (94)
-  [610] Air-Air Rockets (94)
+  Energy: 2
+  Metal: 1
+  Exotica: 1
+  Chemicals: 5
+  Ceramsteel: 1
+Upgrade Light Infantry Legion (PA) to Light Infantry Legion (CE) at Lab
+Time to Build / Upgrade: 1
+[9355] Technologies Required to Build Unit (79):
+  [350] Anti-Tank Weaponry (95)
+  [8600] Cybernetically-Enhanced Soldiers (48)
+  [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Giant Bomber Sesquiplane
-Nick Name: A-SGB
+Name: Light Infantry Legion (AVE)
+Nick Name: Lt Inf (AVE)
 Scores & Strengths:
-  Tech Score: 265
-  Unit Score: 530
-  Average Score: 397
-  Stat Strength: 430
-  Total Strength: 530
-  Planet Strength: 530
+  Tech Score: 1869
+  Unit Score: 1753
+  Average Score: 1811
+  Stat Strength: 720
+  Total Strength: 1753
+  Planet Strength: 1753
   Space Strength: 0
-  Garrison Strength: 152
+  Garrison Strength: 452
 Statistics:
-  Movement Type: air
-  Move Points: 12
-  Spot: 6
-  Camouflage: 2
-  Agility: 11
-  Armor: 10
-  Psy Defense: 5
-  Rank: 154
+  Movement Type: foot
+  Move Points: 15
+  Spot: 3
+  Camouflage: 12
+  Agility: 15
+  Armor: 9
+  Psy Defense: 6
+  Rank: 90
 Attacks:
-  Indirect: 5/20
+  Indirect: 35/14
+  Direct: 41/6
+  Close: 27/11
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 94
+Upkeep / Maintenance: 26
+Build Cost: 151
 Build Resource Requirements:
-  Food: 16
-  Energy: 56
-  Metal: 47
-  Trace: 12
-  Exotica: 16
-  Chemicals: 21
-  Electronics: 8
-Build Giant Bomber Sesquiplane in Factory
-Time to Build / Upgrade: 4
-[1055] Technologies Required to Build Unit (94):
-  [445] Sesquiplane (94)
-  [610] Air-Air Rockets (94)
+  Energy: 2
+  Chemicals: 3
+  Biochems: 8
+  Electronics: 2
+Upgrade Light Infantry Legion (GE) to Light Infantry Legion (AVE) at Lab
+Time to Build / Upgrade: 1
+[9655] Technologies Required to Build Unit (71):
+  [350] Anti-Tank Weaponry (95)
+  [405] Recoilless Rifle (94)
+  [8900] Genetically-Enhanced Warriors (25)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Light Infantry Legion (ME)
+Nick Name: Lt Inf (ME)
+Scores & Strengths:
+  Tech Score: 1401
+  Unit Score: 1973
+  Average Score: 1687
+  Stat Strength: 1108
+  Total Strength: 1973
+  Planet Strength: 1973
+  Space Strength: 0
+  Garrison Strength: 411
+Statistics:
+  Movement Type: foot
+  Move Points: 23
+  Spot: 3
+  Camouflage: 9
+  Agility: 20
+  Armor: 8
+  Psy Defense: 5
+  Rank: 84
+Attacks:
+  Indirect: 32/13
+  Direct: 37/5
+  Close: 24/11
+Load aboard transport: YES
+Upkeep / Maintenance: 20
+Build Cost: 141
+Build Resource Requirements:
+  Food: 7
+  Energy: 14
+  Trace: 13
+  Exotica: 7
+  Chemicals: 26
+  Electronics: 50
+  Ceramsteel: 3
+Upgrade Light Infantry Legion to Light Infantry Legion (ME) at Factory
+Time to Build / Upgrade: 2
+[7150] Technologies Required to Build Unit (89):
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+  [6220] Mechanically-Enhanced Soldiers (80)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Light Infantry Legion (MF)
+Nick Name: Lt Inf (MF)
+Scores & Strengths:
+  Tech Score: 3201
+  Unit Score: 2865
+  Average Score: 3033
+  Stat Strength: 1076
+  Total Strength: 2865
+  Planet Strength: 2865
+  Space Strength: 0
+  Garrison Strength: 657
+Statistics:
+  Movement Type: foot
+  Move Points: 19
+  Spot: 4
+  Camouflage: 15
+  Agility: 17
+  Armor: 11
+  Psy Defense: 8
+  Rank: 116
+Attacks:
+  Indirect: 45/19
+  Direct: 53/8
+  Close: 34/15
+Load aboard transport: YES
+Upkeep / Maintenance: 187
+Build Cost: 1781
+Build Resource Requirements:
+  Biochems: 4
+  Wetware: 33
+  Monopols: 29
+Upgrade Light Infantry Legion (CE) to Light Infantry Legion (MF) at Wetware
+Time to Build / Upgrade: 3
+[19330] Technologies Required to Build Unit (75):
+  [350] Anti-Tank Weaponry (95)
+  [405] Recoilless Rifle (94)
+  [18575] Machine-Fused Soldiers (35)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Light Infantry Legion (NE)
+Nick Name: Lt Inf (NE)
+Scores & Strengths:
+  Tech Score: 3890
+  Unit Score: 3620
+  Average Score: 3755
+  Stat Strength: 1431
+  Total Strength: 3620
+  Planet Strength: 3620
+  Space Strength: 0
+  Garrison Strength: 789
+Statistics:
+  Movement Type: foot
+  Move Points: 21
+  Spot: 4
+  Camouflage: 20
+  Agility: 18
+  Armor: 13
+  Psy Defense: 9
+  Rank: 130
+Attacks:
+  Indirect: 51/21
+  Direct: 59/8
+  Close: 38/17
+Load aboard transport: YES
+Upkeep / Maintenance: 186
+Build Cost: 1708
+Build Resource Requirements:
+  Wetware: 38
+  Monopols: 17
+Upgrade Light Infantry Legion (AVE) to Light Infantry Legion (NE) at Fusorium
+Time to Build / Upgrade: 3
+[25060] Technologies Required to Build Unit (73):
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+  [24130] Neumonically-Enhanced Soldiers (32)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

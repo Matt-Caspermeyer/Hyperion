@@ -1,476 +1,368 @@
-All units of the unit class Supersonic Fighter are listed herein (10 in total):
+All units of the unit class Gunship are listed herein (7 in total):
 
 --1--
-Name: Supersonic Fighter
-Nick Name: Jaguar
+Name: Gunship
+Nick Name: Dragonfly
 Scores & Strengths:
-  Tech Score: 851
-  Unit Score: 851
-  Average Score: 851
-  Stat Strength: 590
-  Total Strength: 851
-  Planet Strength: 851
+  Tech Score: 742
+  Unit Score: 743
+  Average Score: 742
+  Stat Strength: 643
+  Total Strength: 743
+  Planet Strength: 743
   Space Strength: 0
-  Garrison Strength: 195
+  Garrison Strength: 214
 Statistics:
   Movement Type: air
-  Move Points: 19
-  Spot: 6
-  Camouflage: 4
-  Agility: 7
-  Armor: 8
-  Psy Defense: 8
-  Rank: 158
+  Move Points: 12
+  Spot: 10
+  Camouflage: 6
+  Agility: 11
+  Armor: 11
+  Psy Defense: 11
+  Rank: 117
 Attacks:
-  Air: 11/11
-  Indirect: 14/10
+  Water: 1/12
+  Air: 6/6
+  Indirect: 1/12
+  Direct: 2/8
+  Close: 4/6
 Load aboard transport: YES
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 10
-Build Cost: 98
+Upkeep / Maintenance: 15
+Build Cost: 146
 Build Resource Requirements:
-  Food: 9
-  Energy: 25
-  Metal: 76
-  Trace: 10
-  Exotica: 9
-  Chemicals: 26
-  Electronics: 11
-Build Supersonic Fighter in Factory
+  Food: 8
+  Energy: 31
+  Metal: 166
+  Trace: 13
+  Exotica: 7
+  Chemicals: 36
+  Electronics: 14
+Build Gunship in Factory
 Time to Build / Upgrade: 3
-[3200] Technology Required to Build Unit (85):
-  [3200] Supersonic Aircraft (85)
+[2665] Technology Required to Build Unit (85):
+  [2665] V/STOL Aircraft (85)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Rocket Fighter
-Nick Name: Cheetah
+Name: Gunship II
+Nick Name: Dragonfly II
 Scores & Strengths:
-  Tech Score: 690
-  Unit Score: 863
-  Average Score: 777
-  Stat Strength: 745
-  Total Strength: 863
-  Planet Strength: 863
+  Tech Score: 1262
+  Unit Score: 1168
+  Average Score: 1215
+  Stat Strength: 1002
+  Total Strength: 1168
+  Planet Strength: 1168
   Space Strength: 0
-  Garrison Strength: 179
+  Garrison Strength: 292
 Statistics:
   Movement Type: air
-  Move Points: 23
-  Spot: 6
-  Camouflage: 4
-  Agility: 6
-  Armor: 8
-  Psy Defense: 8
-  Rank: 150
+  Move Points: 16
+  Spot: 11
+  Camouflage: 8
+  Agility: 13
+  Armor: 14
+  Psy Defense: 14
+  Rank: 125
 Attacks:
-  Air: 6/8
-  Indirect: 7/10
+  Water: 1/16
+  Air: 8/8
+  Indirect: 1/16
+  Direct: 3/10
+  Close: 5/8
 Load aboard transport: YES
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 11
-Build Cost: 114
+Upkeep / Maintenance: 8
+Build Cost: 78
 Build Resource Requirements:
-  Food: 15
-  Energy: 35
-  Metal: 76
-  Trace: 6
-  Exotica: 15
-  Chemicals: 35
-  Electronics: 6
-Build Rocket Fighter in Factory
-Time to Build / Upgrade: 3
-[2420] Technology Required to Build Unit (87):
-  [2420] Rocket-Propelled Aircraft (87)
+  Food: 5
+  Energy: 22
+  Metal: 28
+  Trace: 9
+  Exotica: 5
+  Chemicals: 23
+  Biochems: 5
+  Electronics: 8
+Build Gunship II in Factory
+Time to Build / Upgrade: 2
+[7970] Technologies Required to Build Unit (87):
+  [795] Missiles (86)
+  [2725] Naval Capital Ships (88)
+  [1785] Rotary Autocannon (90)
+  [2665] V/STOL Aircraft (85)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Hypersonic Fighter
-Nick Name: Puma
+Name: Advanced Gunship
+Nick Name: Dragonfly III
 Scores & Strengths:
-  Tech Score: 1306
-  Unit Score: 1307
-  Average Score: 1306
-  Stat Strength: 830
-  Total Strength: 1307
-  Planet Strength: 1307
+  Tech Score: 1914
+  Unit Score: 1749
+  Average Score: 1831
+  Stat Strength: 1474
+  Total Strength: 1749
+  Planet Strength: 1749
   Space Strength: 0
-  Garrison Strength: 285
+  Garrison Strength: 401
 Statistics:
   Movement Type: air
-  Move Points: 21
-  Spot: 8
-  Camouflage: 5
-  Agility: 10
-  Armor: 10
-  Psy Defense: 10
-  Rank: 170
+  Move Points: 19
+  Spot: 13
+  Camouflage: 10
+  Agility: 14
+  Armor: 18
+  Psy Defense: 18
+  Rank: 134
 Attacks:
-  Air: 15/15
-  Indirect: 18/14
+  Water: 2/19
+  Air: 10/10
+  Indirect: 2/19
+  Direct: 3/13
+  Close: 6/10
 Load aboard transport: YES
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 13
-Build Cost: 127
+Build Cost: 134
 Build Resource Requirements:
-  Food: 8
-  Energy: 25
-  Metal: 119
+  Food: 6
+  Energy: 28
+  Metal: 10
   Trace: 10
-  Exotica: 8
-  Chemicals: 28
-  Electronics: 14
-Build Hypersonic Fighter in Factory
+  Exotica: 6
+  Chemicals: 49
+  Electronics: 16
+  Ceramsteel: 24
+Build Advanced Gunship in Factory
 Time to Build / Upgrade: 3
-[5665] Technology Required to Build Unit (82):
-  [5665] Hypersonic Aircraft (82)
+[9430] Technology Required to Build Unit (81):
+  [9430] Advanced V/STOL Aircraft (81)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Supersonic Fighter II
-Nick Name: Jaguar II
+Name: Killer Gunship
+Nick Name: Bumblebee
 Scores & Strengths:
-  Tech Score: 1773
-  Unit Score: 1702
-  Average Score: 1737
-  Stat Strength: 1166
-  Total Strength: 1702
-  Planet Strength: 1702
+  Tech Score: 4843
+  Unit Score: 3995
+  Average Score: 4419
+  Stat Strength: 3334
+  Total Strength: 3995
+  Planet Strength: 3995
   Space Strength: 0
-  Garrison Strength: 327
+  Garrison Strength: 717
 Statistics:
   Movement Type: air
-  Move Points: 27
-  Spot: 7
-  Camouflage: 6
-  Agility: 8
-  Armor: 12
-  Psy Defense: 12
-  Rank: 176
+  Move Points: 31
+  Spot: 16
+  Camouflage: 15
+  Agility: 18
+  Armor: 28
+  Psy Defense: 28
+  Rank: 169
 Attacks:
-  Air: 16/16
-  Indirect: 20/14
+  Water: 3/31
+  Air: 15/15
+  Indirect: 3/31
+  Direct: 5/20
+  Close: 10/15
 Load aboard transport: YES
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 9
-Build Cost: 90
+Upkeep / Maintenance: 109
+Build Cost: 1092
 Build Resource Requirements:
-  Food: 6
-  Energy: 20
-  Metal: 7
-  Trace: 7
-  Exotica: 7
-  Chemicals: 21
-  Biochems: 8
-  Electronics: 8
-  Ceramsteel: 9
-Build Supersonic Fighter II in Factory
-Time to Build / Upgrade: 2
-[10840] Technologies Required to Build Unit (86):
+  Food: 3
+  Energy: 15
+  Metal: 4
+  Trace: 5
+  Exotica: 3
+  Chemicals: 23
+  Biochems: 4
+  Electronics: 11
+  Ceramsteel: 8
+  Monopols: 33
+Build Killer Gunship in Factory
+Time to Build / Upgrade: 3
+[46705] Technologies Required to Build Unit (81):
   [1785] Rotary Autocannon (90)
-  [3200] Supersonic Aircraft (85)
-  [5855] Guided Missile Navalcraft (84)
+  [27875] PTS Meson Navalcraft (74)
+  [17045] Power V/STOL Aircraft (79)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Advanced Supersonic Fighter
-Nick Name: Jaguar III
+Name: Psy Killer Gunship
+Nick Name: Psy Gunship
 Scores & Strengths:
-  Tech Score: 1979
-  Unit Score: 1899
-  Average Score: 1939
-  Stat Strength: 1295
-  Total Strength: 1899
-  Planet Strength: 1899
-  Space Strength: 0
-  Garrison Strength: 352
+  Tech Score: 5089
+  Unit Score: 6074
+  Average Score: 5581
+  Stat Strength: 4572
+  Total Strength: 6074
+  Planet Strength: 6074
+  Space Strength: 4782
+  Garrison Strength: 985
 Statistics:
   Movement Type: air
-  Move Points: 29
-  Spot: 7
-  Camouflage: 6
-  Agility: 9
-  Armor: 12
-  Psy Defense: 12
-  Rank: 180
+  Move Points: 38
+  Spot: 19
+  Camouflage: 11
+  Agility: 21
+  Armor: 21
+  Psy Defense: 42
+  Rank: 186
 Attacks:
-  Air: 17/17
-  Indirect: 21/15
+  Psychic: 15/14
+  Water: 15/23
+  Air: 15/15
+  Indirect: 9/25
+  Direct: 15/15
+  Close: 17/16
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 8
-Build Cost: 81
+Upkeep / Maintenance: 142
+Build Cost: 1421
 Build Resource Requirements:
-  Food: 6
-  Energy: 17
-  Metal: 7
-  Trace: 6
+  Food: 5
+  Energy: 14
+  Metal: 6
+  Trace: 10
   Exotica: 6
-  Chemicals: 19
-  Biochems: 7
-  Electronics: 7
-  Ceramsteel: 8
-Build Advanced Supersonic Fighter in Factory
-Time to Build / Upgrade: 2
-[15810] Technologies Required to Build Unit (86):
+  Chemicals: 22
+  Biochems: 16
+  Electronics: 19
+  Ceramsteel: 10
+  Monopols: 33
+  Gems: 7
+Build Psy Killer Gunship in Factory
+Time to Build / Upgrade: 4
+[52760] Technologies Required to Build Unit (72):
+  [330] Holy Warriors (82)
+  [1555] Dhechi (80)
+  [3050] Occult Science (44)
+  [2725] Visioning (56)
   [1785] Rotary Autocannon (90)
-  [3200] Supersonic Aircraft (85)
-  [6655] PTS Missile Navalcraft (83)
-  [4170] Supercruise Missiles (84)
+  [27875] PTS Meson Navalcraft (74)
+  [15440] Power Aircraft (79)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Hypersonic Fighter II
-Nick Name: Puma III
+Name: Morph Gunship
+Nick Name: Wasp
 Scores & Strengths:
-  Tech Score: 2021
-  Unit Score: 1937
-  Average Score: 1979
-  Stat Strength: 1202
-  Total Strength: 1937
-  Planet Strength: 1937
+  Tech Score: 8344
+  Unit Score: 8185
+  Average Score: 8265
+  Stat Strength: 5714
+  Total Strength: 8185
+  Planet Strength: 8185
   Space Strength: 0
-  Garrison Strength: 379
+  Garrison Strength: 1248
 Statistics:
   Movement Type: air
-  Move Points: 26
-  Spot: 9
-  Camouflage: 6
-  Agility: 11
-  Armor: 12
-  Psy Defense: 12
-  Rank: 184
+  Move Points: 43
+  Spot: 24
+  Camouflage: 16
+  Agility: 41
+  Armor: 26
+  Psy Defense: 26
+  Rank: 223
 Attacks:
-  Air: 19/19
-  Indirect: 22/17
+  Water: 30/28
+  Air: 20/20
+  Indirect: 13/30
+  Direct: 20/20
+  Close: 21/21
 Load aboard transport: YES
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 9
-Build Cost: 94
+Upkeep / Maintenance: 183
+Build Cost: 1829
 Build Resource Requirements:
-  Food: 6
-  Energy: 20
-  Metal: 7
-  Trace: 8
-  Exotica: 6
-  Chemicals: 21
-  Biochems: 8
-  Electronics: 10
-  Ceramsteel: 9
-Build Hypersonic Fighter II in Factory
-Time to Build / Upgrade: 2
-[13305] Technologies Required to Build Unit (85):
+  Food: 3
+  Energy: 11
+  Metal: 2
+  Trace: 7
+  Exotica: 3
+  Chemicals: 15
+  Biochems: 23
+  Electronics: 13
+  Ceramsteel: 3
+  Wetware: 10
+  Monopols: 23
+Build Morph Gunship in Factory
+Time to Build / Upgrade: 3
+[100255] Technologies Required to Build Unit (64):
   [1785] Rotary Autocannon (90)
-  [5855] Guided Missile Navalcraft (84)
-  [5665] Hypersonic Aircraft (82)
+  [45010] Hover Navalcraft (52)
+  [53460] Polymorphonic Patrolcraft (50)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Rocket Fighter II
-Nick Name: Cheetah III
+Name: Stealth Gunship
+Nick Name: Hornet
 Scores & Strengths:
-  Tech Score: 1650
-  Unit Score: 1991
-  Average Score: 1820
-  Stat Strength: 1718
-  Total Strength: 1991
-  Planet Strength: 1991
+  Tech Score: 8575
+  Unit Score: 8418
+  Average Score: 8497
+  Stat Strength: 5925
+  Total Strength: 8418
+  Planet Strength: 8418
   Space Strength: 0
-  Garrison Strength: 331
+  Garrison Strength: 1254
 Statistics:
   Movement Type: air
-  Move Points: 36
-  Spot: 7
-  Camouflage: 6
-  Agility: 7
-  Armor: 12
-  Psy Defense: 12
-  Rank: 169
+  Move Points: 45
+  Spot: 24
+  Camouflage: 36
+  Agility: 26
+  Armor: 26
+  Psy Defense: 26
+  Rank: 227
 Attacks:
-  Air: 9/12
-  Indirect: 11/15
+  Water: 20/32
+  Air: 20/22
+  Indirect: 14/32
+  Direct: 20/22
+  Close: 25/21
 Load aboard transport: YES
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 12
-Build Cost: 120
+Upkeep / Maintenance: 175
+Build Cost: 1748
 Build Resource Requirements:
-  Food: 11
-  Energy: 28
-  Metal: 7
-  Trace: 4
-  Exotica: 12
-  Chemicals: 30
-  Biochems: 11
-  Electronics: 4
-  Ceramsteel: 9
-Build Rocket Fighter II in Factory
-Time to Build / Upgrade: 3
-[10060] Technologies Required to Build Unit (87):
-  [1785] Rotary Autocannon (90)
-  [2420] Rocket-Propelled Aircraft (87)
-  [5855] Guided Missile Navalcraft (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---8--
-Name: Advanced Hypersonic Fighter
-Nick Name: Puma III
-Scores & Strengths:
-  Tech Score: 2335
-  Unit Score: 2252
-  Average Score: 2293
-  Stat Strength: 1396
-  Total Strength: 2252
-  Planet Strength: 2252
-  Space Strength: 0
-  Garrison Strength: 425
-Statistics:
-  Movement Type: air
-  Move Points: 28
-  Spot: 9
-  Camouflage: 7
-  Agility: 12
-  Armor: 13
-  Psy Defense: 13
-  Rank: 191
-Attacks:
-  Air: 20/20
-  Indirect: 24/19
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 9
-Build Cost: 85
-Build Resource Requirements:
-  Food: 5
-  Energy: 16
-  Metal: 8
-  Trace: 6
-  Exotica: 5
-  Chemicals: 18
-  Biochems: 6
-  Electronics: 8
-  Ceramsteel: 10
-Build Advanced Hypersonic Fighter in Factory
-Time to Build / Upgrade: 2
-[21210] Technologies Required to Build Unit (83):
-  [1785] Rotary Autocannon (90)
-  [6655] PTS Missile Navalcraft (83)
-  [5665] Hypersonic Aircraft (82)
-  [7105] Hypercruise Missiles (77)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---9--
-Name: Advanced Rocket Fighter
-Nick Name: Cheetah II
-Scores & Strengths:
-  Tech Score: 1989
-  Unit Score: 2434
-  Average Score: 2211
-  Stat Strength: 2090
-  Total Strength: 2434
-  Planet Strength: 2434
-  Space Strength: 0
-  Garrison Strength: 389
-Statistics:
-  Movement Type: air
-  Move Points: 39
-  Spot: 8
-  Camouflage: 7
-  Agility: 8
-  Armor: 14
-  Psy Defense: 14
-  Rank: 176
-Attacks:
-  Air: 10/14
-  Indirect: 12/17
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 14
-Build Cost: 143
-Build Resource Requirements:
-  Food: 14
-  Energy: 34
-  Metal: 6
-  Trace: 4
-  Exotica: 14
-  Chemicals: 51
-  Electronics: 7
-  Ceramsteel: 15
-Build Advanced Rocket Fighter in Factory
-Time to Build / Upgrade: 3
-[9925] Technology Required to Build Unit (83):
-  [9925] Advanced Rocket-Propelled Aircraft (83)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---10--
-Name: Power Rocket Fighter
-Nick Name: Cheetah IV
-Scores & Strengths:
-  Tech Score: 3140
-  Unit Score: 3758
-  Average Score: 3449
-  Stat Strength: 3222
-  Total Strength: 3758
-  Planet Strength: 3758
-  Space Strength: 0
-  Garrison Strength: 536
-Statistics:
-  Movement Type: air
-  Move Points: 49
-  Spot: 9
-  Camouflage: 9
-  Agility: 9
-  Armor: 17
-  Psy Defense: 17
-  Rank: 195
-Attacks:
-  Air: 13/17
-  Indirect: 15/21
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 130
-Build Cost: 1297
-Build Resource Requirements:
-  Food: 9
-  Energy: 21
+  Food: 2
+  Energy: 11
   Metal: 2
-  Trace: 4
-  Exotica: 9
-  Chemicals: 31
-  Electronics: 9
-  Ceramsteel: 6
-  Monopols: 40
-Build Power Rocket Fighter in Factory
-Time to Build / Upgrade: 4
-[18245] Technology Required to Build Unit (80):
-  [18245] Power Rocket Aircraft (80)
+  Trace: 10
+  Exotica: 3
+  Chemicals: 15
+  Biochems: 22
+  Electronics: 17
+  Ceramsteel: 3
+  Wetware: 8
+  Monopols: 23
+Build Stealth Gunship in Factory
+Time to Build / Upgrade: 3
+[101965] Technologies Required to Build Unit (59):
+  [1785] Rotary Autocannon (90)
+  [45010] Hover Navalcraft (52)
+  [55170] Neumonic Patrolcraft (35)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

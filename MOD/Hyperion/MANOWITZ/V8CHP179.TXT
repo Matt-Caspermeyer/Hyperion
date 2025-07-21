@@ -1,182 +1,288 @@
-All units of the unit class Starbase are listed herein (4 in total):
+All units of the unit class Amphibious Combat Vehicle (R) are listed herein (6 in total):
 
 --1--
-Name: Starbase
-Nick Name: Starbase
+Name: Amphibious Combat Vehicle (R)
+Nick Name: ACV (R)
 Scores & Strengths:
-  Tech Score: 2337
-  Unit Score: 2912
-  Average Score: 2625
-  Stat Strength: 2436
-  Total Strength: 2912
-  Planet Strength: 0
-  Space Strength: 2912
-  Garrison Strength: 0
+  Tech Score: 1717
+  Unit Score: 1714
+  Average Score: 1716
+  Stat Strength: 1021
+  Total Strength: 1714
+  Planet Strength: 1714
+  Space Strength: 0
+  Garrison Strength: 458
 Statistics:
-  Movement Type: space
-  Move Points: 4
-  Spot: 10
-  Camouflage: 2
-  Agility: 2
-  Armor: 34
-  Psy Defense: 34
-  Rank: 859
+  Movement Type: craft
+  Move Points: 14
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 18
+  Psy Defense: 18
+  Rank: 152
 Attacks:
-  Ranged Space: 10/30
-  Direct Space: 11/16
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
+  Close: 33/21
+Cargo Space: 1
+Can be towed
 Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 81
-Build Cost: 812
+Upkeep / Maintenance: 13
+Build Cost: 126
 Build Resource Requirements:
-  Food: 1
-  Energy: 4
-  Metal: 34
-  Trace: 5
-  Exotica: 1
-  Chemicals: 32
-  Biochems: 3
-  Electronics: 7
-  Ceramsteel: 38
-Build Starbase in Starport
+  Food: 2
+  Energy: 10
+  Metal: 11
+  Trace: 19
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 12
+  Electronics: 27
+  Ceramsteel: 12
+Build Amphibious Combat Vehicle (R) in Factory
 Time to Build / Upgrade: 3
-[12310] Technology Required to Build Unit (86):
-  [12310] Space Warfare (86)
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Fusion Starbase
-Nick Name: SS-FS
+Name: Amphibious Combat Vehicle (E)
+Nick Name: ACV (E)
 Scores & Strengths:
-  Tech Score: 3125
-  Unit Score: 3863
-  Average Score: 3494
-  Stat Strength: 3196
-  Total Strength: 3863
-  Planet Strength: 0
-  Space Strength: 3863
-  Garrison Strength: 0
+  Tech Score: 1717
+  Unit Score: 1717
+  Average Score: 1717
+  Stat Strength: 1157
+  Total Strength: 1717
+  Planet Strength: 1717
+  Space Strength: 0
+  Garrison Strength: 495
 Statistics:
-  Movement Type: space
-  Move Points: 5
-  Spot: 11
-  Camouflage: 2
-  Agility: 2
-  Armor: 39
-  Psy Defense: 39
-  Rank: 873
+  Movement Type: craft
+  Move Points: 12
+  Spot: 10
+  Camouflage: 7
+  Agility: 8
+  Armor: 20
+  Psy Defense: 20
+  Rank: 52
 Attacks:
-  Ranged Space: 12/35
-  Direct Space: 13/19
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 998
-Build Cost: 9167
+  Close: 28/20
+Cargo Space: 1
+Can tow units that can be towed
+Upkeep / Maintenance: 11
+Build Cost: 109
 Build Resource Requirements:
-  Energy: 2
-  Monopols: 51
-Upgrade Starbase to Fusion Starbase at Starport
-Time to Build / Upgrade: 1
-[20925] Technologies Required to Build Unit (75):
-  [8615] Fusion Beam (63)
-  [12310] Space Warfare (86)
+  Food: 2
+  Energy: 8
+  Metal: 13
+  Trace: 15
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 9
+  Electronics: 23
+  Ceramsteel: 14
+Build Amphibious Combat Vehicle (E) in Factory
+Time to Build / Upgrade: 3
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Doomstar
-Nick Name: Doomstar
+Name: Amphibious Combat Vehicle (P)
+Nick Name: ACV (P)
 Scores & Strengths:
-  Tech Score: 6811
-  Unit Score: 6689
-  Average Score: 6750
-  Stat Strength: 5700
-  Total Strength: 6689
-  Planet Strength: 0
-  Space Strength: 6689
-  Garrison Strength: 0
+  Tech Score: 1717
+  Unit Score: 1719
+  Average Score: 1718
+  Stat Strength: 711
+  Total Strength: 1719
+  Planet Strength: 1719
+  Space Strength: 0
+  Garrison Strength: 459
 Statistics:
-  Movement Type: jump
-  Move Points: 8
-  Spot: 14
-  Camouflage: 4
-  Agility: 4
-  Armor: 52
-  Psy Defense: 52
-  Rank: 938
+  Movement Type: craft
+  Move Points: 14
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 13
+  Psy Defense: 13
+  Rank: 125
 Attacks:
-  Ranged Space: 15/41
-  Direct Space: 17/22
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 1525
-Build Cost: 15253
+  Direct: 28/20
+  Close: 28/16
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 13
+Build Cost: 130
 Build Resource Requirements:
-  Energy: 2
-  Metal: 13
-  Trace: 1
-  Chemicals: 16
-  Biochems: 21
-  Electronics: 9
-  Ceramsteel: 21
-  Wetware: 3
-  Monopols: 36
-S  ingularities: 3
-Build Doomstar in Starport
-Time to Build / Upgrade: 4
-[51240] Technology Required to Build Unit (53):
-  [51240] Doomstar (53)
+  Food: 2
+  Energy: 13
+  Metal: 6
+  Trace: 27
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 16
+  Electronics: 33
+  Ceramsteel: 6
+Build Amphibious Combat Vehicle (P) in Factory
+Time to Build / Upgrade: 3
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Meson Starbase
-Nick Name: SS-MS
+Name: Amphibious Combat Vehicle (C)
+Nick Name: ACV (C)
 Scores & Strengths:
-  Tech Score: 5606
-  Unit Score: 6926
-  Average Score: 6266
-  Stat Strength: 5811
-  Total Strength: 6926
-  Planet Strength: 0
-  Space Strength: 6926
-  Garrison Strength: 0
+  Tech Score: 1717
+  Unit Score: 1719
+  Average Score: 1718
+  Stat Strength: 711
+  Total Strength: 1719
+  Planet Strength: 1719
+  Space Strength: 0
+  Garrison Strength: 459
 Statistics:
-  Movement Type: space
-  Move Points: 6
-  Spot: 12
-  Camouflage: 3
-  Agility: 2
-  Armor: 53
-  Psy Defense: 53
-  Rank: 911
+  Movement Type: craft
+  Move Points: 14
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 13
+  Psy Defense: 13
+  Rank: 146
 Attacks:
-  Ranged Space: 15/46
-  Direct Space: 17/25
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 833
+  Water: 28/20
+  Indirect: 28/16
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 10
+Build Cost: 101
 Build Resource Requirements:
-  Biochems: 10
-  Electronics: 3
-Upgrade Fusion Starbase to Meson Starbase at Starport
-Time to Build / Upgrade: 1
-[76940] Technologies Required to Build Unit (71):
-  [10065] Powered-Armor Legion (79)
-  [27875] PTS Meson Navalcraft (74)
-  [39000] Jump Capital Ships (61)
+  Food: 2
+  Energy: 13
+  Metal: 6
+  Trace: 27
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 9
+  Electronics: 19
+  Ceramsteel: 6
+Build Amphibious Combat Vehicle (C) in Factory
+Time to Build / Upgrade: 2
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Amphibious Combat Vehicle (H)
+Nick Name: ACV (H)
+Scores & Strengths:
+  Tech Score: 1717
+  Unit Score: 1719
+  Average Score: 1718
+  Stat Strength: 711
+  Total Strength: 1719
+  Planet Strength: 1719
+  Space Strength: 0
+  Garrison Strength: 459
+Statistics:
+  Movement Type: craft
+  Move Points: 14
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 13
+  Psy Defense: 13
+  Rank: 121
+Attacks:
+  Indirect: 28/20
+  Direct: 28/16
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 10
+Build Cost: 101
+Build Resource Requirements:
+  Food: 2
+  Energy: 13
+  Metal: 6
+  Trace: 27
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 9
+  Electronics: 19
+  Ceramsteel: 6
+Build Amphibious Combat Vehicle (H) in Factory
+Time to Build / Upgrade: 2
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Amphibious Combat Vehicle (A)
+Nick Name: ACV (A)
+Scores & Strengths:
+  Tech Score: 1717
+  Unit Score: 1719
+  Average Score: 1718
+  Stat Strength: 711
+  Total Strength: 1719
+  Planet Strength: 1719
+  Space Strength: 0
+  Garrison Strength: 459
+Statistics:
+  Movement Type: craft
+  Move Points: 14
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 13
+  Psy Defense: 13
+  Rank: 121
+Attacks:
+  Air: 28/20
+  Direct: 28/16
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 13
+Build Cost: 130
+Build Resource Requirements:
+  Food: 2
+  Energy: 13
+  Metal: 6
+  Trace: 27
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 16
+  Electronics: 33
+  Ceramsteel: 6
+Build Amphibious Combat Vehicle (A) in Factory
+Time to Build / Upgrade: 3
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

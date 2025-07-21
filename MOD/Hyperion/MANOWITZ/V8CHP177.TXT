@@ -1,172 +1,251 @@
-All units of the unit class Mega Tank are listed herein (4 in total):
+All units of the unit class Strategic Bomber are listed herein (5 in total):
 
 --1--
-Name: Mega Tank
-Nick Name: Mastiff
+Name: Strategic Bomber
+Nick Name: Devastator
 Scores & Strengths:
-  Tech Score: 2510
-  Unit Score: 2509
-  Average Score: 2509
-  Stat Strength: 1996
-  Total Strength: 2509
-  Planet Strength: 2509
+  Tech Score: 1142
+  Unit Score: 1710
+  Average Score: 1426
+  Stat Strength: 1401
+  Total Strength: 1710
+  Planet Strength: 1710
   Space Strength: 0
-  Garrison Strength: 724
+  Garrison Strength: 323
 Statistics:
-  Movement Type: tread
-  Move Points: 12
-  Spot: 8
-  Camouflage: 6
-  Agility: 20
-  Armor: 26
-  Psy Defense: 26
-  Rank: 103
+  Movement Type: air
+  Move Points: 28
+  Spot: 10
+  Camouflage: 5
+  Agility: 10
+  Armor: 14
+  Psy Defense: 14
+  Rank: 175
 Attacks:
-  Indirect: 12/21
-  Direct: 9/19
-  Close: 6/15
+  Air: 6/11
+  Indirect: 9/27
 Load aboard transport: YES
-Upkeep / Maintenance: 79
-Build Cost: 734
+Upkeep / Maintenance: 11
+Build Cost: 107
 Build Resource Requirements:
+  Food: 10
+  Energy: 35
+  Metal: 28
+  Trace: 8
+  Exotica: 10
+  Chemicals: 37
+  Biochems: 9
   Electronics: 5
-  Ceramsteel: 16
-  Monopols: 32
-Upgrade Main Battle Tank to Mega Tank at Factory
-Time to Build / Upgrade: 1
-[13535] Technology Required to Build Unit (74):
-  [13535] Powered Ceramsteel Tanks (74)
+Build Strategic Bomber in Factory
+Time to Build / Upgrade: 3
+[7115] Technologies Required to Build Unit (88):
+  [795] Missiles (86)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2725] Naval Capital Ships (88)
+  [1785] Rotary Autocannon (90)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Psy Mega Tank
-Nick Name: St. Bernard
+Name: Neutron Bomber
+Nick Name: Desolator
 Scores & Strengths:
-  Tech Score: 2735
-  Unit Score: 4785
-  Average Score: 3760
-  Stat Strength: 4024
-  Total Strength: 4785
-  Planet Strength: 4785
-  Space Strength: 4284
-  Garrison Strength: 1381
+  Tech Score: 3125
+  Unit Score: 2583
+  Average Score: 2854
+  Stat Strength: 1788
+  Total Strength: 2583
+  Planet Strength: 2583
+  Space Strength: 0
+  Garrison Strength: 456
 Statistics:
-  Movement Type: tread
-  Move Points: 12
-  Spot: 8
-  Camouflage: 6
-  Agility: 20
-  Armor: 26
-  Psy Defense: 52
-  Rank: 116
+  Movement Type: air
+  Move Points: 32
+  Spot: 12
+  Camouflage: 7
+  Agility: 11
+  Armor: 15
+  Psy Defense: 15
+  Rank: 166
 Attacks:
-  Psychic: 13/20
-  Indirect: 12/20
-  Direct: 9/19
-  Close: 6/15
+  Air: 7/12
+  Indirect: 11/28
+  Direct: 11/26
+  Close: 13/9
 Load aboard transport: YES
-Upkeep / Maintenance: 336
-Build Cost: 3355
+Upkeep / Maintenance: 101
+Build Cost: 1014
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 21
-  Trace: 4
-  Exotica: 3
-  Chemicals: 25
-  Electronics: 22
-  Ceramsteel: 36
-  Monopols: 52
-  Gems: 79
-Build Psy Mega Tank in Factory
-Time to Build / Upgrade: 7
-[15305] Technologies Required to Build Unit (76):
-  [330] Holy Warriors (82)
-  [14975] Power Hovertanks (70)
+  Food: 6
+  Energy: 20
+  Metal: 2
+  Trace: 8
+  Exotica: 6
+  Chemicals: 32
+  Biochems: 29
+  Electronics: 12
+  Ceramsteel: 4
+  Monopols: 39
+Build Neutron Bomber in Factory
+Time to Build / Upgrade: 3
+[19925] Technologies Required to Build Unit (39):
+  [3650] Viral DNA (11)
+  [835] Spore Delivery (27)
+  [15440] Power Aircraft (79)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Stealth Mega Tank
-Nick Name: Ghost Tank
+Name: Stigmata MegaFortress
+Nick Name: MegaFortress
 Scores & Strengths:
-  Tech Score: 5358
-  Unit Score: 5358
-  Average Score: 5358
-  Stat Strength: 3705
-  Total Strength: 5358
-  Planet Strength: 5358
+  Tech Score: 4697
+  Unit Score: 4696
+  Average Score: 4696
+  Stat Strength: 2674
+  Total Strength: 4696
+  Planet Strength: 4696
   Space Strength: 0
-  Garrison Strength: 1229
+  Garrison Strength: 733
 Statistics:
-  Movement Type: tread
-  Move Points: 19
-  Spot: 14
-  Camouflage: 23
-  Agility: 21
-  Armor: 33
-  Psy Defense: 33
-  Rank: 151
+  Movement Type: air
+  Move Points: 41
+  Spot: 10
+  Camouflage: 7
+  Agility: 14
+  Armor: 18
+  Psy Defense: 18
+  Rank: 196
 Attacks:
-  Indirect: 21/29
-  Direct: 20/27
-  Close: 21/24
+  Air: 17/31
+  Indirect: 16/35
+  Direct: 15/34
+  Close: 17/25
 Load aboard transport: YES
-Upkeep / Maintenance: 110
-Build Cost: 364
+Never needs refueling
+Upkeep / Maintenance: 211
+Build Cost: 2107
 Build Resource Requirements:
-  Trace: 3
-  Biochems: 23
-  Electronics: 4
-  Wetware: 7
-Upgrade Mega Tank to Stealth Mega Tank at Factory
-Time to Build / Upgrade: 1
-[37210] Technology Required to Build Unit (34):
-  [37210] Neumonic Land Vehicles (34)
+  Food: 3
+  Energy: 21
+  Metal: 2
+  Trace: 4
+  Exotica: 4
+  Chemicals: 35
+  Biochems: 25
+  Electronics: 8
+  Ceramsteel: 3
+  Wetware: 6
+  Monopols: 46
+Build Stigmata MegaFortress in Factory
+Time to Build / Upgrade: 4
+[38900] Technologies Required to Build Unit (51):
+  [23395] Advanced Hovertech (37)
+  [15505] Meson Cannon (65)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Stealth Tank
-Nick Name: Wraith
+Name: Stealth Bomber
+Nick Name: Pulverizer
 Scores & Strengths:
-  Tech Score: 5358
-  Unit Score: 5358
-  Average Score: 5358
-  Stat Strength: 4644
-  Total Strength: 5358
-  Planet Strength: 5358
+  Tech Score: 8575
+  Unit Score: 8417
+  Average Score: 8496
+  Stat Strength: 6357
+  Total Strength: 8417
+  Planet Strength: 8417
   Space Strength: 0
-  Garrison Strength: 1198
+  Garrison Strength: 1105
 Statistics:
-  Movement Type: tread
-  Move Points: 20
-  Spot: 14
-  Camouflage: 40
+  Movement Type: air
+  Move Points: 58
+  Spot: 20
+  Camouflage: 25
   Agility: 20
-  Armor: 32
-  Psy Defense: 32
-  Rank: 139
+  Armor: 28
+  Psy Defense: 28
+  Rank: 285
 Attacks:
-  Indirect: 11/26
-  Direct: 15/20
-  Close: 8/16
+  Air: 24/31
+  Indirect: 28/47
 Load aboard transport: YES
-Upkeep / Maintenance: 84
-Build Cost: 106
+Upkeep / Maintenance: 141
+Build Cost: 1406
 Build Resource Requirements:
-  Trace: 11
-  Biochems: 17
-  Electronics: 22
-  Wetware: 4
-Upgrade Mega Tank to Stealth Tank at Factory
-Time to Build / Upgrade: 1
-[37210] Technology Required to Build Unit (34):
-  [37210] Neumonic Land Vehicles (34)
+  Food: 3
+  Energy: 13
+  Metal: 2
+  Trace: 6
+  Exotica: 3
+  Chemicals: 17
+  Biochems: 22
+  Electronics: 9
+  Ceramsteel: 4
+  Wetware: 3
+  Monopols: 27
+Build Stealth Bomber in Factory
+Time to Build / Upgrade: 3
+[101965] Technologies Required to Build Unit (59):
+  [1785] Rotary Autocannon (90)
+  [45010] Hover Navalcraft (52)
+  [55170] Neumonic Patrolcraft (35)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Stealth Neutron Bomber
+Nick Name: Punisher
+Scores & Strengths:
+  Tech Score: 8575
+  Unit Score: 8418
+  Average Score: 8497
+  Stat Strength: 6293
+  Total Strength: 8418
+  Planet Strength: 8418
+  Space Strength: 0
+  Garrison Strength: 1114
+Statistics:
+  Movement Type: air
+  Move Points: 57
+  Spot: 20
+  Camouflage: 26
+  Agility: 20
+  Armor: 28
+  Psy Defense: 28
+  Rank: 241
+Attacks:
+  Air: 14/23
+  Indirect: 18/38
+  Direct: 20/36
+  Close: 21/19
+Load aboard transport: YES
+Upkeep / Maintenance: 150
+Build Cost: 1504
+Build Resource Requirements:
+  Food: 3
+  Energy: 13
+  Metal: 2
+  Trace: 6
+  Exotica: 4
+  Chemicals: 18
+  Biochems: 24
+  Electronics: 10
+  Ceramsteel: 4
+  Wetware: 5
+  Monopols: 28
+Build Stealth Neutron Bomber in Factory
+Time to Build / Upgrade: 3
+[106450] Technologies Required to Build Unit (43):
+  [3650] Viral DNA (11)
+  [835] Spore Delivery (27)
+  [1785] Rotary Autocannon (90)
+  [45010] Hover Navalcraft (52)
+  [55170] Neumonic Patrolcraft (35)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

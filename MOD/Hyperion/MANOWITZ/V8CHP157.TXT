@@ -1,50 +1,86 @@
-All units of the unit class Pod Ship are listed herein (1 in total):
+All units of the unit class Chemical Shock Legion are listed herein (2 in total):
 
 --1--
-Name: Pod Ship
-Nick Name: Pod Ship
+Name: Chemical Shock Legion
+Nick Name: Grimsons
 Scores & Strengths:
-  Tech Score: 1530
-  Unit Score: 1530
-  Average Score: 1530
-  Stat Strength: 1165
-  Total Strength: 1530
-  Planet Strength: 1393
-  Space Strength: 1302
-  Garrison Strength: 696
+  Tech Score: 1367
+  Unit Score: 1367
+  Average Score: 1367
+  Stat Strength: 806
+  Total Strength: 1367
+  Planet Strength: 1367
+  Space Strength: 0
+  Garrison Strength: 394
 Statistics:
-  Movement Type: gate
-  Move Points: 4
-  Spot: 12
-  Camouflage: 4
-  Agility: 12
-  Armor: 26
-  Psy Defense: 13
-  Rank: 198
+  Movement Type: foot
+  Move Points: 12
+  Spot: 8
+  Camouflage: 8
+  Agility: 22
+  Armor: 5
+  Psy Defense: 5
+  Rank: 67
 Attacks:
-  Ranged Space: 5/13
-  Direct Space: 6/12
-  Air: 7/13
-  Indirect: 5/13
-  Direct: 6/12
-Cargo Space: 4
-Immune to Plague
-Causes Tactical Plague
-Upkeep / Maintenance: 344
-Build Cost: 3437
+  Air: 9/8
+  Indirect: 11/10
+  Direct: 16/12
+  Close: 17/11
+Load aboard transport: YES
+Upkeep / Maintenance: 18
+Build Cost: 160
 Build Resource Requirements:
-  Food: 3
-  Energy: 100
-  Metal: 15
-  Trace: 4
-  Exotica: 3
-  Chemicals: 124
-  Biochems: 171
-  Electronics: 10
-S  ingularities: 2
-Build Pod Ship in Hive
-Time to Build / Upgrade: 5
-[6995] Technology Required to Build Unit (37):
-  [6995] Symbiot Psychology (37)
+  Trace: 15
+  Exotica: 7
+  Chemicals: 30
+  Biochems: 55
+  Electronics: 31
+  Ceramsteel: 1
+Upgrade Peasant to Chemical Shock Legion at Biochem Plant
+Time to Build / Upgrade: 2
+[6020] Technology Required to Build Unit (49):
+  [6020] Chemical Shock Legion (49)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Shock Legion
+Nick Name: Shock Lgn
+Scores & Strengths:
+  Tech Score: 2509
+  Unit Score: 2271
+  Average Score: 2390
+  Stat Strength: 1232
+  Total Strength: 2271
+  Planet Strength: 2271
+  Space Strength: 0
+  Garrison Strength: 567
+Statistics:
+  Movement Type: foot
+  Move Points: 16
+  Spot: 9
+  Camouflage: 11
+  Agility: 26
+  Armor: 7
+  Psy Defense: 7
+  Rank: 87
+Attacks:
+  Air: 12/11
+  Indirect: 15/14
+  Direct: 22/16
+  Close: 23/15
+Load aboard transport: YES
+Upkeep / Maintenance: 66
+Build Cost: 496
+Build Resource Requirements:
+  Trace: 2
+  Monopols: 24
+Upgrade Chemical Shock Legion to Shock Legion at Fort
+Time to Build / Upgrade: 1
+[16085] Technologies Required to Build Unit (64):
+  [6020] Chemical Shock Legion (49)
+  [10065] Powered-Armor Legion (79)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

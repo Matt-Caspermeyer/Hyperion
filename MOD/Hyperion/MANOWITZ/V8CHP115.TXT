@@ -1,96 +1,385 @@
-All units of the unit class Zodiac are listed herein (2 in total):
+All units of the unit class Naval Carrier are listed herein (8 in total):
 
 --1--
-Name: Zodiac
-Nick Name: Zodiac
+Name: Naval Carrier
+Nick Name: NN-CVV
 Scores & Strengths:
-  Tech Score: 730
-  Unit Score: 549
-  Average Score: 640
-  Stat Strength: 401
-  Total Strength: 549
-  Planet Strength: 500
-  Space Strength: 500
-  Garrison Strength: 250
+  Tech Score: 250
+  Unit Score: 497
+  Average Score: 374
+  Stat Strength: 434
+  Total Strength: 497
+  Planet Strength: 497
+  Space Strength: 0
+  Garrison Strength: 202
 Statistics:
-  Movement Type: lander
-  Move Points: 4
-  Spot: 8
-  Camouflage: 4
-  Agility: 15
-  Armor: 4
-  Psy Defense: 8
-  Rank: 106
+  Movement Type: naval
+  Move Points: 6
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 14
+  Psy Defense: 14
+  Rank: 797
 Attacks:
-  Closed Space: 7/7
-  Psychic: 10/5
-  Close: 7/7
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 144
-Build Cost: 1439
+  Air: 3/5
+  Indirect: 2/14
+  Direct: 2/10
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 93
+Build Cost: 926
 Build Resource Requirements:
-  Food: 24
-  Energy: 45
-  Metal: 9
-  Trace: 32
-  Exotica: 30
-  Chemicals: 47
-  Electronics: 45
-  Gems: 3
-S  ingularities: 2
-Build Zodiac in Church
-Time to Build / Upgrade: 3
-[2795] Technologies Required to Build Unit (59):
-  [330] Holy Warriors (82)
-  [2465] Sathra (36)
+  Food: 5
+  Energy: 49
+  Metal: 123
+  Trace: 7
+  Exotica: 4
+  Chemicals: 53
+  Electronics: 3
+  Gems: 1
+Build Naval Carrier in Well
+Time to Build / Upgrade: 4
+[735] Technologies Required to Build Unit (98):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [525] Anti-Aircraft Weaponry (94)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Sathraist
-Nick Name: Sathraist
+Name: Escort Aircraft Carrier
+Nick Name: NN-CVE
 Scores & Strengths:
-  Tech Score: 956
-  Unit Score: 848
-  Average Score: 902
-  Stat Strength: 522
-  Total Strength: 848
-  Planet Strength: 767
-  Space Strength: 735
-  Garrison Strength: 313
+  Tech Score: 679
+  Unit Score: 678
+  Average Score: 679
+  Stat Strength: 465
+  Total Strength: 678
+  Planet Strength: 678
+  Space Strength: 0
+  Garrison Strength: 256
 Statistics:
-  Movement Type: lander
-  Move Points: 6
-  Spot: 10
-  Camouflage: 6
-  Agility: 15
-  Armor: 5
-  Psy Defense: 10
-  Rank: 196
+  Movement Type: naval
+  Move Points: 7
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
+  Armor: 14
+  Psy Defense: 14
+  Rank: 783
 Attacks:
-  Closed Space: 9/9
-  Psychic: 11/12
-  Air: 8/4
-  Close: 9/9
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 200
-Build Cost: 2001
+  Air: 7/7
+  Indirect: 10/12
+  Direct: 4/11
+Cargo Space: 2
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 31
+Build Cost: 309
 Build Resource Requirements:
-  Food: 30
-  Energy: 69
-  Metal: 13
-  Trace: 51
-  Exotica: 37
-  Chemicals: 72
-  Electronics: 73
-  Gems: 10
-S  ingularities: 3
-Build Sathraist in Church
+  Food: 2
+  Energy: 17
+  Metal: 35
+  Trace: 11
+  Exotica: 2
+  Chemicals: 17
+  Biochems: 4
+  Electronics: 4
+Build Escort Aircraft Carrier in Well
+Time to Build / Upgrade: 2
+[2480] Technologies Required to Build Unit (95):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2270] Naval Escort Ships (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Naval Light Carrier
+Nick Name: NN-CVL
+Scores & Strengths:
+  Tech Score: 775
+  Unit Score: 1158
+  Average Score: 966
+  Stat Strength: 948
+  Total Strength: 1158
+  Planet Strength: 1158
+  Space Strength: 0
+  Garrison Strength: 409
+Statistics:
+  Movement Type: naval
+  Move Points: 8
+  Spot: 8
+  Camouflage: 2
+  Agility: 4
+  Armor: 20
+  Psy Defense: 20
+  Rank: 778
+Attacks:
+  Air: 10/9
+  Indirect: 3/16
+  Direct: 9/8
+Cargo Space: 1
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 51
+Build Cost: 508
+Build Resource Requirements:
+  Food: 3
+  Energy: 19
+  Metal: 62
+  Trace: 14
+  Exotica: 4
+  Chemicals: 19
+  Biochems: 9
+  Electronics: 10
+Build Naval Light Carrier in Well
+Time to Build / Upgrade: 3
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2725] Naval Capital Ships (88)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Naval Aircraft Carrier
+Nick Name: NN-CV
+Scores & Strengths:
+  Tech Score: 775
+  Unit Score: 1546
+  Average Score: 1160
+  Stat Strength: 1288
+  Total Strength: 1546
+  Planet Strength: 1546
+  Space Strength: 0
+  Garrison Strength: 546
+Statistics:
+  Movement Type: naval
+  Move Points: 8
+  Spot: 8
+  Camouflage: 2
+  Agility: 2
+  Armor: 24
+  Psy Defense: 24
+  Rank: 812
+Attacks:
+  Air: 9/10
+  Indirect: 4/20
+  Direct: 8/11
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 87
+Build Cost: 865
+Build Resource Requirements:
+  Food: 3
+  Energy: 28
+  Metal: 90
+  Trace: 13
+  Exotica: 3
+  Chemicals: 28
+  Biochems: 7
+  Electronics: 9
+Build Naval Aircraft Carrier in Well
 Time to Build / Upgrade: 4
-[3920] Technologies Required to Build Unit (54):
-  [330] Holy Warriors (82)
-  [3590] Sathraists (26)
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2725] Naval Capital Ships (88)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Interdiction Assault Ship
+Nick Name: NN-IAS
+Scores & Strengths:
+  Tech Score: 1670
+  Unit Score: 1669
+  Average Score: 1670
+  Stat Strength: 1271
+  Total Strength: 1669
+  Planet Strength: 1669
+  Space Strength: 0
+  Garrison Strength: 462
+Statistics:
+  Movement Type: naval
+  Move Points: 13
+  Spot: 6
+  Camouflage: 2
+  Agility: 2
+  Armor: 23
+  Psy Defense: 23
+  Rank: 150
+Attacks:
+  Air: 7/21
+  Indirect: 5/31
+  Direct: 4/24
+Cargo Space: 3
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 46
+Build Cost: 463
+Build Resource Requirements:
+  Food: 2
+  Energy: 31
+  Metal: 27
+  Trace: 2
+  Exotica: 2
+  Chemicals: 42
+  Biochems: 2
+  Electronics: 2
+  Ceramsteel: 31
+Build Interdiction Assault Ship in Well
+Time to Build / Upgrade: 3
+[12910] Technologies Required to Build Unit (86):
+  [795] Missiles (86)
+  [1810] Jet-Propulsion Aircraft (86)
+  [1785] Rotary Autocannon (90)
+  [2665] V/STOL Aircraft (85)
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Naval Aircraft Carrier (GM)
+Nick Name: NN-CVGM
+Scores & Strengths:
+  Tech Score: 1339
+  Unit Score: 2678
+  Average Score: 2008
+  Stat Strength: 1901
+  Total Strength: 2678
+  Planet Strength: 2678
+  Space Strength: 0
+  Garrison Strength: 742
+Statistics:
+  Movement Type: naval
+  Move Points: 13
+  Spot: 12
+  Camouflage: 4
+  Agility: 2
+  Armor: 28
+  Psy Defense: 28
+  Rank: 835
+Attacks:
+  Air: 14/17
+  Indirect: 10/25
+  Direct: 17/17
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 175
+Build Cost: 1746
+Build Resource Requirements:
+  Food: 4
+  Energy: 37
+  Metal: 41
+  Trace: 19
+  Exotica: 4
+  Chemicals: 54
+  Biochems: 11
+  Electronics: 20
+  Ceramsteel: 50
+Build Naval Aircraft Carrier (GM) in Well
+Time to Build / Upgrade: 6
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: PTS Aircraft Carrier
+Nick Name: NN-CVPTS
+Scores & Strengths:
+  Tech Score: 1474
+  Unit Score: 3685
+  Average Score: 2579
+  Stat Strength: 2577
+  Total Strength: 3685
+  Planet Strength: 3559
+  Space Strength: 2703
+  Garrison Strength: 951
+Statistics:
+  Movement Type: naval
+  Move Points: 14
+  Spot: 13
+  Camouflage: 5
+  Agility: 3
+  Armor: 33
+  Psy Defense: 33
+  Rank: 844
+Attacks:
+  Ranged Space: 7/18
+  Air: 16/19
+  Indirect: 12/28
+  Direct: 18/19
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 263
+Build Cost: 2631
+Build Resource Requirements:
+  Food: 4
+  Energy: 49
+  Metal: 53
+  Trace: 23
+  Exotica: 4
+  Chemicals: 74
+  Biochems: 13
+  Electronics: 24
+  Ceramsteel: 66
+Build PTS Aircraft Carrier in Well
+Time to Build / Upgrade: 7
+[6655] Technology Required to Build Unit (83):
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Nuclear Aircraft Carrier
+Nick Name: NN-CVN
+Scores & Strengths:
+  Tech Score: 1579
+  Unit Score: 4737
+  Average Score: 3158
+  Stat Strength: 3065
+  Total Strength: 4737
+  Planet Strength: 4737
+  Space Strength: 0
+  Garrison Strength: 1223
+Statistics:
+  Movement Type: naval
+  Move Points: 15
+  Spot: 14
+  Camouflage: 6
+  Agility: 4
+  Armor: 36
+  Psy Defense: 36
+  Rank: 862
+Attacks:
+  Air: 20/24
+  Indirect: 18/33
+  Direct: 23/26
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 375
+Build Cost: 3746
+Build Resource Requirements:
+  Food: 4
+  Energy: 59
+  Metal: 59
+  Trace: 33
+  Exotica: 5
+  Chemicals: 89
+  Biochems: 17
+  Electronics: 33
+  Ceramsteel: 75
+Build Nuclear Aircraft Carrier in Well
+Time to Build / Upgrade: 9
+[7295] Technology Required to Build Unit (81):
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

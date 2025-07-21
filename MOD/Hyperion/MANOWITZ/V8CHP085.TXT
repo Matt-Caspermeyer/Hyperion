@@ -1,219 +1,172 @@
-All units of the unit class Heavy Space Fighter are listed herein (5 in total):
+All units of the unit class Self-Propelled Anti-Air Gun are listed herein (4 in total):
 
 --1--
-Name: Heavy Space Fighter
-Nick Name: SS-HF
+Name: Self-Propelled Anti-Air Gun
+Nick Name: Tornado
 Scores & Strengths:
-  Tech Score: 309
-  Unit Score: 308
-  Average Score: 309
-  Stat Strength: 274
-  Total Strength: 308
-  Planet Strength: 0
-  Space Strength: 308
-  Garrison Strength: 0
+  Tech Score: 292
+  Unit Score: 291
+  Average Score: 292
+  Stat Strength: 227
+  Total Strength: 291
+  Planet Strength: 291
+  Space Strength: 0
+  Garrison Strength: 130
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
-  Camouflage: 4
-  Agility: 11
-  Armor: 6
+  Movement Type: tread
+  Move Points: 5
+  Spot: 3
+  Camouflage: 2
+  Agility: 3
+  Armor: 12
   Psy Defense: 6
-  Rank: 114
+  Rank: 123
 Attacks:
-  Direct Space: 2/9
-  Closed Space: 4/4
+  Air: 4/16
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 182
+Upkeep / Maintenance: 6
+Build Cost: 57
 Build Resource Requirements:
-  Food: 12
-  Energy: 17
-  Metal: 24
-  Trace: 23
-  Exotica: 12
-  Chemicals: 30
-  Electronics: 15
-Build Heavy Space Fighter in Starport
+  Food: 3
+  Energy: 31
+  Metal: 39
+  Trace: 7
+  Exotica: 3
+  Chemicals: 31
+  Electronics: 5
+Build Self-Propelled Anti-Air Gun in Factory
 Time to Build / Upgrade: 2
-[940] Technologies Required to Build Unit (94):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
+[770] Technology Required to Build Unit (92):
+  [770] Self-Propelled Weaponry (92)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Light Space Fighter
-Nick Name: SS-LF
+Name: Self-Propelled AAG II
+Nick Name: Tornado II
 Scores & Strengths:
-  Tech Score: 309
-  Unit Score: 308
-  Average Score: 309
-  Stat Strength: 268
-  Total Strength: 308
-  Planet Strength: 0
-  Space Strength: 308
-  Garrison Strength: 0
+  Tech Score: 530
+  Unit Score: 506
+  Average Score: 518
+  Stat Strength: 396
+  Total Strength: 506
+  Planet Strength: 506
+  Space Strength: 0
+  Garrison Strength: 191
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
-  Camouflage: 4
-  Agility: 13
-  Armor: 3
-  Psy Defense: 3
-  Rank: 113
+  Movement Type: tread
+  Move Points: 7
+  Spot: 3
+  Camouflage: 3
+  Agility: 3
+  Armor: 16
+  Psy Defense: 8
+  Rank: 132
 Attacks:
-  Direct Space: 6/4
-  Closed Space: 8/2
+  Air: 5/22
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 182
+Upkeep / Maintenance: 8
+Build Cost: 79
 Build Resource Requirements:
-  Food: 14
-  Energy: 11
-  Metal: 6
-  Trace: 38
-  Exotica: 14
-  Chemicals: 17
-  Electronics: 25
-Build Light Space Fighter in Starport
-Time to Build / Upgrade: 2
-[940] Technologies Required to Build Unit (94):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
+  Food: 3
+  Energy: 36
+  Metal: 36
+  Trace: 5
+  Exotica: 3
+  Chemicals: 60
+  Electronics: 6
+Build Self-Propelled AAG II in Factory
+Time to Build / Upgrade: 3
+[1700] Technology Required to Build Unit (88):
+  [1700] Main Battle Tank (88)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Space Attack Fighter
-Nick Name: SS-AF
+Name: Self-Propelled AAG III
+Nick Name: Tornado III
 Scores & Strengths:
-  Tech Score: 309
-  Unit Score: 308
-  Average Score: 309
-  Stat Strength: 257
-  Total Strength: 308
-  Planet Strength: 0
-  Space Strength: 308
-  Garrison Strength: 0
+  Tech Score: 1226
+  Unit Score: 1181
+  Average Score: 1203
+  Stat Strength: 917
+  Total Strength: 1181
+  Planet Strength: 1181
+  Space Strength: 0
+  Garrison Strength: 373
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
+  Movement Type: tread
+  Move Points: 10
+  Spot: 4
   Camouflage: 4
-  Agility: 12
-  Armor: 4
-  Psy Defense: 4
-  Rank: 114
+  Agility: 4
+  Armor: 25
+  Psy Defense: 12
+  Rank: 153
 Attacks:
-  Direct Space: 5/6
-  Closed Space: 7/3
+  Air: 8/33
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 176
+Upkeep / Maintenance: 12
+Build Cost: 122
 Build Resource Requirements:
-  Food: 13
-  Energy: 13
-  Metal: 11
-  Trace: 32
-  Exotica: 13
-  Chemicals: 20
-  Electronics: 22
-Build Space Attack Fighter in Starport
-Time to Build / Upgrade: 2
-[940] Technologies Required to Build Unit (94):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
+  Food: 2
+  Energy: 33
+  Metal: 21
+  Trace: 3
+  Exotica: 2
+  Chemicals: 66
+  Electronics: 18
+  Ceramsteel: 28
+Build Self-Propelled AAG III in Factory
+Time to Build / Upgrade: 3
+[5205] Technology Required to Build Unit (84):
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Space Fighter
-Nick Name: Seraphim
+Name: Self-Propelled AAG IV
+Nick Name: Tornado IV
 Scores & Strengths:
-  Tech Score: 543
-  Unit Score: 542
-  Average Score: 543
-  Stat Strength: 445
-  Total Strength: 542
-  Planet Strength: 0
-  Space Strength: 542
-  Garrison Strength: 0
+  Tech Score: 2510
+  Unit Score: 2424
+  Average Score: 2467
+  Stat Strength: 1860
+  Total Strength: 2424
+  Planet Strength: 2424
+  Space Strength: 0
+  Garrison Strength: 625
 Statistics:
-  Movement Type: space
-  Move Points: 2
-  Spot: 8
-  Camouflage: 4
-  Agility: 17
-  Armor: 6
-  Psy Defense: 6
-  Rank: 122
-Attacks:
-  Direct Space: 7/10
-  Closed Space: 9/3
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 14
-Build Cost: 144
-Build Resource Requirements:
-  Food: 8
-  Energy: 14
-  Metal: 9
-  Trace: 22
-  Exotica: 8
-  Chemicals: 18
-  Electronics: 19
-Build Space Fighter in Starport
-Time to Build / Upgrade: 2
-[2135] Technologies Required to Build Unit (92):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [1195] Naval Warfare (90)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Cyber Fighter
-Nick Name: Archangel
-Scores & Strengths:
-  Tech Score: 4891
-  Unit Score: 2738
-  Average Score: 3814
-  Stat Strength: 1865
-  Total Strength: 2738
-  Planet Strength: 0
-  Space Strength: 2738
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 6
-  Spot: 14
-  Camouflage: 12
-  Agility: 29
-  Armor: 18
+  Movement Type: tread
+  Move Points: 15
+  Spot: 5
+  Camouflage: 6
+  Agility: 5
+  Armor: 35
   Psy Defense: 18
-  Rank: 189
+  Rank: 184
 Attacks:
-  Direct Space: 21/30
-  Closed Space: 27/9
+  Air: 12/47
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 164
-Build Cost: 1499
+Upkeep / Maintenance: 143
+Build Cost: 1425
 Build Resource Requirements:
-  Biochems: 16
-  Ceramsteel: 3
-  Wetware: 9
-  Monopols: 14
-Upgrade Space Fighter to Cyber Fighter at Starport
-Time to Build / Upgrade: 1
-[40795] Technologies Required to Build Unit (52):
-  [17465] Cyberpilot (28)
-  [23330] Advanced Spacecraft (75)
+  Food: 1
+  Energy: 21
+  Metal: 11
+  Trace: 2
+  Exotica: 1
+  Chemicals: 40
+  Electronics: 12
+  Ceramsteel: 18
+  Monopols: 61
+Build Self-Propelled AAG IV in Factory
+Time to Build / Upgrade: 4
+[13535] Technology Required to Build Unit (74):
+  [13535] Powered Ceramsteel Tanks (74)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

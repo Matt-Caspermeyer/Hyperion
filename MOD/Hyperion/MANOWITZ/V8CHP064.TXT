@@ -1,215 +1,346 @@
-All units of the unit class Noble are listed herein (5 in total):
+All units of the unit class Reconnaissance Biplane are listed herein (8 in total):
 
 --1--
-Name: Noble
-Nick Name: Noble
+Name: Reconnaissance Biplane
+Nick Name: A-BR
 Scores & Strengths:
-  Tech Score: 182
-  Unit Score: 181
-  Average Score: 182
-  Stat Strength: 120
-  Total Strength: 181
-  Planet Strength: 181
+  Tech Score: 172
+  Unit Score: 170
+  Average Score: 171
+  Stat Strength: 170
+  Total Strength: 170
+  Planet Strength: 170
   Space Strength: 0
-  Garrison Strength: 90
+  Garrison Strength: 60
 Statistics:
-  Movement Type: foot
-  Move Points: 4
-  Spot: 4
-  Camouflage: 4
-  Agility: 8
-  Armor: 2
+  Movement Type: air
+  Move Points: 8
+  Spot: 6
+  Camouflage: 1
+  Agility: 7
+  Armor: 4
   Psy Defense: 2
-  Rank: 700
-Attacks:
-  Direct: 4/3
-  Close: 7/7
+  Rank: 77
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Noble - Provides stack combat and other bonuses
-Upkeep / Maintenance: 767
-Build Cost: 6469
+Upkeep / Maintenance: 6
+Build Cost: 62
 Build Resource Requirements:
-  Food: 234
-  Energy: 117
-  Metal: 241
-Upgrade Adolescent Noble to Noble at Palace
-Time to Build / Upgrade: 1
-[510] Technologies Required to Build Unit (99):
-  [100] Medical & Biological (100)
-  [100] Physics & Energy (100)
-  [110] Meditation (99)
-  [200] Fortifications (97)
+  Food: 19
+  Energy: 15
+  Metal: 14
+  Trace: 14
+  Exotica: 19
+  Chemicals: 17
+  Electronics: 13
+Build Reconnaissance Biplane in Factory
+Time to Build / Upgrade: 2
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
 
 --2--
-Name: Blademaster
-Nick Name: Blademaster
+Name: Attack Fighter Biplane
+Nick Name: A-BAF
 Scores & Strengths:
-  Tech Score: 510
-  Unit Score: 420
-  Average Score: 465
-  Stat Strength: 241
-  Total Strength: 420
-  Planet Strength: 420
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 293
+  Total Strength: 341
+  Planet Strength: 341
   Space Strength: 0
-  Garrison Strength: 158
+  Garrison Strength: 139
 Statistics:
-  Movement Type: foot
-  Move Points: 7
-  Spot: 5
-  Camouflage: 7
-  Agility: 10
-  Armor: 3
-  Psy Defense: 3
-  Rank: 708
-Attacks:
-  Direct: 7/5
-  Close: 12/12
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Noble - Provides stack combat and other bonuses
-Upkeep / Maintenance: 828
-Build Cost: 1813
-Build Resource Requirements:
-  Food: 16
-  Energy: 55
-  Metal: 16
-  Exotica: 11
-  Chemicals: 82
-  Electronics: 50
-Upgrade Noble to Blademaster at Palace
-Time to Build / Upgrade: 2
-[1615] Technology Required to Build Unit (76):
-  [1615] Wireblades (76)
-Counts as planetary flock: YES
-
---3--
-Name: Psy-master
-Nick Name: Psy-master
-Scores & Strengths:
-  Tech Score: 1174
-  Unit Score: 1081
-  Average Score: 1128
-  Stat Strength: 516
-  Total Strength: 1081
-  Planet Strength: 1081
-  Space Strength: 741
-  Garrison Strength: 382
-Statistics:
-  Movement Type: foot
-  Move Points: 8
+  Movement Type: air
+  Move Points: 6
   Spot: 8
-  Camouflage: 8
+  Camouflage: 2
   Agility: 12
   Armor: 6
-  Psy Defense: 12
-  Rank: 677
+  Psy Defense: 3
+  Rank: 112
 Attacks:
-  Psychic: 15/15
-  Close: 20/17
+  Air: 2/5
+  Indirect: 4/5
+  Direct: 3/6
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Noble - Provides stack combat and other bonuses
-Upkeep / Maintenance: 534
-Build Cost: 3528
+Upkeep / Maintenance: 15
+Build Cost: 146
 Build Resource Requirements:
-  Electronics: 1
-  Gems: 16
-Upgrade Blademaster to Psy-master at Palace
-Time to Build / Upgrade: 1
-[5250] Technologies Required to Build Unit (62):
-  [1615] Wireblades (76)
-  [3635] Dervishes (48)
+  Food: 30
+  Energy: 39
+  Metal: 31
+  Trace: 40
+  Exotica: 30
+  Chemicals: 44
+  Electronics: 33
+Build Attack Fighter Biplane in Factory
+Time to Build / Upgrade: 5
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Bomber Biplane
+Nick Name: A-BB
+Scores & Strengths:
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 248
+  Total Strength: 341
+  Planet Strength: 341
+  Space Strength: 0
+  Garrison Strength: 120
+Statistics:
+  Movement Type: air
+  Move Points: 8
+  Spot: 6
+  Camouflage: 2
+  Agility: 8
+  Armor: 8
+  Psy Defense: 4
+  Rank: 150
+Attacks:
+  Air: 2/4
+  Indirect: 5/17
+Load aboard transport: YES
+Upkeep / Maintenance: 17
+Build Cost: 173
+Build Resource Requirements:
+  Food: 22
+  Energy: 79
+  Metal: 55
+  Trace: 26
+  Exotica: 21
+  Chemicals: 88
+  Electronics: 17
+Build Bomber Biplane in Factory
+Time to Build / Upgrade: 5
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
 
 --4--
-Name: Rogue Noble
-Nick Name: Rogue Noble
+Name: Fighter Biplane
+Nick Name: A-BF
 Scores & Strengths:
-  Tech Score: 1429
-  Unit Score: 1429
-  Average Score: 1429
-  Stat Strength: 696
-  Total Strength: 1429
-  Planet Strength: 1429
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 306
+  Total Strength: 341
+  Planet Strength: 341
   Space Strength: 0
-  Garrison Strength: 451
+  Garrison Strength: 128
 Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 10
-  Camouflage: 10
-  Agility: 14
-  Armor: 10
-  Psy Defense: 10
-  Rank: 729
+  Movement Type: air
+  Move Points: 7
+  Spot: 8
+  Camouflage: 2
+  Agility: 12
+  Armor: 6
+  Psy Defense: 3
+  Rank: 132
 Attacks:
-  Air: 20/11
-  Indirect: 18/11
-  Direct: 15/9
-  Close: 18/10
+  Air: 4/8
+  Indirect: 1/3
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Noble - Provides stack combat and other bonuses
-Upkeep / Maintenance: 49
-Build Cost: 491
+Upkeep / Maintenance: 15
+Build Cost: 146
 Build Resource Requirements:
-  Food: 4
-  Energy: 15
-  Metal: 6
-  Trace: 22
-  Exotica: 4
-  Chemicals: 14
-  Biochems: 43
-  Electronics: 47
-  Ceramsteel: 5
-Build Rogue Noble in Palace
-Time to Build / Upgrade: 3
-[7730] Technologies Required to Build Unit (60):
-  [1615] Wireblades (76)
-  [6115] Xenoenvironment Mastery (44)
+  Food: 32
+  Energy: 39
+  Metal: 31
+  Trace: 36
+  Exotica: 31
+  Chemicals: 43
+  Electronics: 34
+Build Fighter Biplane in Factory
+Time to Build / Upgrade: 5
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
 
 --5--
-Name: Noblesse Elitesse
-Nick Name: Elite
+Name: Trench Strafer Biplane
+Nick Name: A-BTS
 Scores & Strengths:
-  Tech Score: 5036
-  Unit Score: 4713
-  Average Score: 4875
-  Stat Strength: 1773
-  Total Strength: 4713
-  Planet Strength: 4713
-  Space Strength: 2449
-  Garrison Strength: 1178
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 286
+  Total Strength: 341
+  Planet Strength: 341
+  Space Strength: 0
+  Garrison Strength: 152
 Statistics:
-  Movement Type: foot
-  Move Points: 16
-  Spot: 10
-  Camouflage: 11
-  Agility: 24
-  Armor: 12
-  Psy Defense: 24
-  Rank: 782
+  Movement Type: air
+  Move Points: 5
+  Spot: 4
+  Camouflage: 2
+  Agility: 14
+  Armor: 6
+  Psy Defense: 3
+  Rank: 112
 Attacks:
-  Psychic: 26/26
-  Air: 18/21
-  Indirect: 24/29
-  Direct: 20/22
-  Close: 30/25
+  Air: 3/3
+  Direct: 3/6
+  Close: 7/4
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Noble - Provides stack combat and other bonuses
-Upkeep / Maintenance: 362
-Build Cost: 87
+Upkeep / Maintenance: 15
+Build Cost: 146
 Build Resource Requirements:
-  Monopols: 18
-Upgrade Psy-master to Noblesse Elitesse at Palace
-Time to Build / Upgrade: 1
-[42145] Technologies Required to Build Unit (58):
-  [1615] Wireblades (76)
-  [6995] Symbiot Psychology (37)
-  [6115] Xenoenvironment Mastery (44)
-  [27420] Jump Escorts (75)
+  Food: 24
+  Energy: 38
+  Metal: 31
+  Trace: 45
+  Exotica: 24
+  Chemicals: 43
+  Electronics: 42
+Build Trench Strafer Biplane in Factory
+Time to Build / Upgrade: 5
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Battle Biplane
+Nick Name: A-BBttl
+Scores & Strengths:
+  Tech Score: 245
+  Unit Score: 488
+  Average Score: 367
+  Stat Strength: 405
+  Total Strength: 488
+  Planet Strength: 488
+  Space Strength: 0
+  Garrison Strength: 172
+Statistics:
+  Movement Type: air
+  Move Points: 8
+  Spot: 6
+  Camouflage: 2
+  Agility: 16
+  Armor: 6
+  Psy Defense: 3
+  Rank: 143
+Attacks:
+  Air: 5/7
+  Indirect: 6/8
+Load aboard transport: YES
+Upkeep / Maintenance: 10
+Build Cost: 99
+Build Resource Requirements:
+  Food: 17
+  Energy: 30
+  Metal: 17
+  Trace: 28
+  Exotica: 17
+  Chemicals: 35
+  Electronics: 18
+Build Battle Biplane in Factory
+Time to Build / Upgrade: 4
+[990] Technologies Required to Build Unit (94):
+  [380] Biplane (93)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Giant Bomber Biplane
+Nick Name: A-BGB
+Scores & Strengths:
+  Tech Score: 245
+  Unit Score: 488
+  Average Score: 367
+  Stat Strength: 386
+  Total Strength: 488
+  Planet Strength: 488
+  Space Strength: 0
+  Garrison Strength: 147
+Statistics:
+  Movement Type: air
+  Move Points: 11
+  Spot: 6
+  Camouflage: 2
+  Agility: 10
+  Armor: 10
+  Psy Defense: 5
+  Rank: 152
+Attacks:
+  Indirect: 6/17
+Load aboard transport: YES
+Upkeep / Maintenance: 11
+Build Cost: 112
+Build Resource Requirements:
+  Food: 15
+  Energy: 44
+  Metal: 47
+  Trace: 16
+  Exotica: 15
+  Chemicals: 53
+  Electronics: 8
+Build Giant Bomber Biplane in Factory
+Time to Build / Upgrade: 4
+[990] Technologies Required to Build Unit (94):
+  [380] Biplane (93)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Large Bomber Biplane
+Nick Name: A-BLB
+Scores & Strengths:
+  Tech Score: 245
+  Unit Score: 488
+  Average Score: 367
+  Stat Strength: 389
+  Total Strength: 488
+  Planet Strength: 488
+  Space Strength: 0
+  Garrison Strength: 154
+Statistics:
+  Movement Type: air
+  Move Points: 10
+  Spot: 6
+  Camouflage: 2
+  Agility: 13
+  Armor: 8
+  Psy Defense: 4
+  Rank: 149
+Attacks:
+  Air: 3/5
+  Indirect: 6/14
+Load aboard transport: YES
+Upkeep / Maintenance: 11
+Build Cost: 107
+Build Resource Requirements:
+  Food: 16
+  Energy: 39
+  Metal: 30
+  Trace: 21
+  Exotica: 16
+  Chemicals: 47
+  Electronics: 12
+Build Large Bomber Biplane in Factory
+Time to Build / Upgrade: 4
+[990] Technologies Required to Build Unit (94):
+  [380] Biplane (93)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES

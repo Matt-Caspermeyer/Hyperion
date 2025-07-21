@@ -1,281 +1,440 @@
-All units of the unit class Fighter Divebomber are listed herein (6 in total):
+All units of the unit class Space Carrier are listed herein (9 in total):
 
 --1--
-Name: Fighter Divebomber
-Nick Name: A-FDB
+Name: Space Carrier
+Nick Name: SS-CV
 Scores & Strengths:
-  Tech Score: 498
-  Unit Score: 745
-  Average Score: 621
-  Stat Strength: 555
-  Total Strength: 745
-  Planet Strength: 745
-  Space Strength: 0
-  Garrison Strength: 235
+  Tech Score: 337
+  Unit Score: 671
+  Average Score: 504
+  Stat Strength: 588
+  Total Strength: 671
+  Planet Strength: 0
+  Space Strength: 671
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 10
+  Movement Type: space
+  Move Points: 2
   Spot: 8
   Camouflage: 2
-  Agility: 15
-  Armor: 9
-  Psy Defense: 9
-  Rank: 156
+  Agility: 2
+  Armor: 16
+  Psy Defense: 16
+  Rank: 825
 Attacks:
-  Air: 4/10
-  Indirect: 15/10
-Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 92
+  Direct Space: 3/11
+  Closed Space: 5/10
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 95
+Build Cost: 954
 Build Resource Requirements:
-  Food: 13
-  Energy: 27
-  Metal: 78
-  Trace: 18
-  Exotica: 12
-  Chemicals: 21
+  Food: 8
+  Energy: 25
+  Metal: 131
+  Trace: 16
+  Exotica: 7
+  Chemicals: 78
   Electronics: 10
-Build Fighter Divebomber in Factory
-Time to Build / Upgrade: 3
-[1675] Technologies Required to Build Unit (86):
-  [275] Artifical Line of Sight (84)
-  [1400] Aerial Warfare (87)
+  Gems: 1
+Build Space Carrier in Starport
+Time to Build / Upgrade: 5
+[1040] Technologies Required to Build Unit (96):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [100] Psychosocial Engineering (100)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Divebomber
-Nick Name: Wailer
+Name: Jump Carrier
+Nick Name: JJ-CV
 Scores & Strengths:
-  Tech Score: 498
-  Unit Score: 746
-  Average Score: 622
-  Stat Strength: 538
-  Total Strength: 746
-  Planet Strength: 746
-  Space Strength: 0
-  Garrison Strength: 224
+  Tech Score: 425
+  Unit Score: 826
+  Average Score: 626
+  Stat Strength: 724
+  Total Strength: 826
+  Planet Strength: 0
+  Space Strength: 826
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 11
+  Movement Type: jump
+  Move Points: 2
   Spot: 8
-  Camouflage: 3
-  Agility: 12
-  Armor: 10
-  Psy Defense: 10
-  Rank: 159
+  Camouflage: 2
+  Agility: 2
+  Armor: 18
+  Psy Defense: 18
+  Rank: 852
 Attacks:
-  Air: 2/8
-  Indirect: 16/12
-Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 90
+  Direct Space: 3/12
+  Closed Space: 6/11
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 412
+Build Cost: 4116
 Build Resource Requirements:
-  Food: 12
-  Energy: 26
-  Metal: 96
-  Trace: 15
-  Exotica: 11
-  Chemicals: 17
-  Electronics: 8
-Build Divebomber in Factory
-Time to Build / Upgrade: 3
-[1675] Technologies Required to Build Unit (86):
-  [275] Artifical Line of Sight (84)
-  [1400] Aerial Warfare (87)
+  Food: 7
+  Energy: 30
+  Metal: 135
+  Trace: 16
+  Exotica: 6
+  Chemicals: 96
+  Electronics: 11
+  Gems: 1
+S  ingularities: 2
+Build Jump Carrier in Starport
+Time to Build / Upgrade: 5
+[1480] Technologies Required to Build Unit (91):
+  [145] Composite Armor (97)
+  [100] Psychosocial Engineering (100)
+  [1235] Jump Rocketry (76)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Power Divebomber
-Nick Name: Banshee
+Name: Space Escort Carrier
+Nick Name: SS-CVE
 Scores & Strengths:
-  Tech Score: 2770
-  Unit Score: 3504
-  Average Score: 3137
-  Stat Strength: 2345
-  Total Strength: 3504
-  Planet Strength: 3504
-  Space Strength: 0
-  Garrison Strength: 687
+  Tech Score: 2580
+  Unit Score: 2164
+  Average Score: 2372
+  Stat Strength: 1768
+  Total Strength: 2164
+  Planet Strength: 0
+  Space Strength: 2164
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 26
+  Movement Type: space
+  Move Points: 6
   Spot: 12
-  Camouflage: 7
-  Agility: 18
-  Armor: 24
-  Psy Defense: 24
-  Rank: 222
+  Camouflage: 2
+  Agility: 4
+  Armor: 28
+  Psy Defense: 28
+  Rank: 840
 Attacks:
-  Air: 5/19
-  Indirect: 38/28
-Load aboard transport: YES
-Upkeep / Maintenance: 86
-Build Cost: 855
+  Direct Space: 12/18
+  Closed Space: 10/18
+Cargo Space: 2
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 57
+Build Cost: 565
 Build Resource Requirements:
-  Food: 5
-  Energy: 16
-  Metal: 5
-  Trace: 6
-  Exotica: 5
-  Chemicals: 19
-  Electronics: 14
-  Ceramsteel: 13
-  Monopols: 30
-Build Power Divebomber in Factory
-Time to Build / Upgrade: 4
-[15440] Technology Required to Build Unit (79):
-  [15440] Power Aircraft (79)
+  Food: 1
+  Energy: 9
+  Metal: 22
+  Trace: 5
+  Exotica: 1
+  Chemicals: 18
+  Biochems: 19
+  Electronics: 8
+  Ceramsteel: 25
+Build Space Escort Carrier in Starport
+Time to Build / Upgrade: 3
+[14045] Technology Required to Build Unit (84):
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: 3rd-Republic Hyper Bomber
-Nick Name: Salvonator
+Name: Space Light Carrier
+Nick Name: SS-CLA
 Scores & Strengths:
-  Tech Score: 4818
-  Unit Score: 4355
-  Average Score: 4586
-  Stat Strength: 2313
-  Total Strength: 4355
-  Planet Strength: 4355
-  Space Strength: 0
-  Garrison Strength: 697
+  Tech Score: 2916
+  Unit Score: 2510
+  Average Score: 2713
+  Stat Strength: 2036
+  Total Strength: 2510
+  Planet Strength: 0
+  Space Strength: 2510
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 39
-  Spot: 10
-  Camouflage: 6
-  Agility: 12
-  Armor: 16
-  Psy Defense: 16
-  Rank: 261
+  Movement Type: space
+  Move Points: 16
+  Spot: 12
+  Camouflage: 2
+  Agility: 8
+  Armor: 28
+  Psy Defense: 28
+  Rank: 834
 Attacks:
-  Air: 11/22
-  Indirect: 30/60
-Load aboard transport: YES
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 61
-Build Cost: 608
+  Direct Space: 13/18
+  Closed Space: 15/16
+Cargo Space: 1
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 276
+Build Cost: 2764
 Build Resource Requirements:
-  Food: 3
-  Energy: 24
-  Metal: 1
-  Trace: 1
-  Exotica: 3
+  Food: 2
+  Energy: 6
+  Metal: 11
+  Trace: 6
+  Exotica: 2
   Chemicals: 11
-  Biochems: 11
-  Electronics: 3
-  Ceramsteel: 2
-  Wetware: 2
-  Monopols: 15
-Build 3rd-Republic Hyper Bomber in Factory
-Time to Build / Upgrade: 2
-[42355] Technologies Required to Build Unit (63):
-  [26915] Rocket Legion (47)
-  [15440] Power Aircraft (79)
+  Biochems: 17
+  Electronics: 10
+  Ceramsteel: 13
+  Monopols: 22
+Build Space Light Carrier in Starport
+Time to Build / Upgrade: 3
+[16530] Technology Required to Build Unit (80):
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Morph Divebomber
-Nick Name: Bansheewolf
+Name: Jump Escort Carrier
+Nick Name: JJ-CVE
 Scores & Strengths:
-  Tech Score: 8309
-  Unit Score: 8183
-  Average Score: 8246
-  Stat Strength: 6407
-  Total Strength: 8183
-  Planet Strength: 8183
-  Space Strength: 0
-  Garrison Strength: 1219
+  Tech Score: 4325
+  Unit Score: 3553
+  Average Score: 3939
+  Stat Strength: 2886
+  Total Strength: 3553
+  Planet Strength: 0
+  Space Strength: 3553
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 45
-  Spot: 26
-  Camouflage: 15
-  Agility: 41
-  Armor: 30
-  Psy Defense: 30
-  Rank: 282
+  Movement Type: jump
+  Move Points: 8
+  Spot: 14
+  Camouflage: 3
+  Agility: 5
+  Armor: 36
+  Psy Defense: 36
+  Rank: 889
 Attacks:
-  Air: 15/26
-  Indirect: 42/33
-Load aboard transport: YES
-Upkeep / Maintenance: 102
-Build Cost: 1023
+  Direct Space: 16/23
+  Closed Space: 13/23
+Cargo Space: 2
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 734
+Build Cost: 7341
 Build Resource Requirements:
-  Food: 3
-  Energy: 9
-  Metal: 2
-  Trace: 4
-  Exotica: 3
-  Chemicals: 10
-  Biochems: 14
-  Electronics: 8
-  Ceramsteel: 4
-  Wetware: 5
-  Monopols: 16
-Build Morph Divebomber in Factory
+  Food: 1
+  Energy: 6
+  Metal: 12
+  Trace: 5
+  Exotica: 1
+  Chemicals: 13
+  Biochems: 16
+  Electronics: 14
+  Ceramsteel: 16
+  Monopols: 26
+S  ingularities: 3
+Build Jump Escort Carrier in Starport
 Time to Build / Upgrade: 3
-[99880] Technologies Required to Build Unit (64):
-  [1785] Rotary Autocannon (90)
-  [45010] Hover Navalcraft (52)
-  [53085] Polymorphonic Patrolcraft (50)
+[27965] Technology Required to Build Unit (75):
+  [27965] Jump Escorts (75)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Stealth Divebomber
-Nick Name: Spirit Wolf
+Name: Jump Carrier MkII
+Nick Name: JJ-CV2
 Scores & Strengths:
-  Tech Score: 8541
-  Unit Score: 8416
-  Average Score: 8478
-  Stat Strength: 6394
-  Total Strength: 8416
-  Planet Strength: 8416
-  Space Strength: 0
-  Garrison Strength: 1227
+  Tech Score: 1933
+  Unit Score: 3561
+  Average Score: 2747
+  Stat Strength: 3091
+  Total Strength: 3561
+  Planet Strength: 0
+  Space Strength: 3561
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 47
-  Spot: 26
-  Camouflage: 35
-  Agility: 22
-  Armor: 30
-  Psy Defense: 30
-  Rank: 288
+  Movement Type: jump
+  Move Points: 5
+  Spot: 12
+  Camouflage: 5
+  Agility: 3
+  Armor: 38
+  Psy Defense: 38
+  Rank: 891
 Attacks:
-  Air: 17/30
-  Indirect: 42/36
-Load aboard transport: YES
-Upkeep / Maintenance: 93
-Build Cost: 925
+  Direct Space: 7/26
+  Closed Space: 12/24
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 1425
+Build Cost: 14250
 Build Resource Requirements:
   Food: 2
-  Energy: 9
-  Metal: 2
-  Trace: 7
-  Exotica: 3
-  Chemicals: 9
-  Biochems: 14
-  Electronics: 13
-  Ceramsteel: 4
-  Wetware: 4
-  Monopols: 16
-Build Stealth Divebomber in Factory
-Time to Build / Upgrade: 3
-[101590] Technologies Required to Build Unit (59):
-  [1785] Rotary Autocannon (90)
-  [45010] Hover Navalcraft (52)
-  [54795] Neumonic Patrolcraft (35)
+  Energy: 13
+  Metal: 33
+  Trace: 6
+  Exotica: 2
+  Chemicals: 18
+  Electronics: 10
+  Monopols: 101
+S  ingularities: 2
+Build Jump Carrier MkII in Starport
+Time to Build / Upgrade: 7
+[12900] Technologies Required to Build Unit (67):
+  [4285] Jump Drives (70)
+  [8615] Fusion Beam (63)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Jump Light Carrier
+Nick Name: JJ-CLA
+Scores & Strengths:
+  Tech Score: 5589
+  Unit Score: 4724
+  Average Score: 5157
+  Stat Strength: 3812
+  Total Strength: 4724
+  Planet Strength: 0
+  Space Strength: 4724
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 22
+  Spot: 14
+  Camouflage: 3
+  Agility: 9
+  Armor: 39
+  Psy Defense: 39
+  Rank: 896
+Attacks:
+  Direct Space: 18/25
+  Closed Space: 21/22
+Cargo Space: 1
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 1168
+Build Cost: 11681
+Build Resource Requirements:
+  Food: 1
+  Energy: 7
+  Metal: 10
+  Trace: 5
+  Exotica: 2
+  Chemicals: 14
+  Biochems: 16
+  Electronics: 14
+  Ceramsteel: 15
+  Monopols: 28
+S  ingularities: 5
+Build Jump Light Carrier in Starport
+Time to Build / Upgrade: 3
+[39365] Technology Required to Build Unit (61):
+  [39365] Jump Capital Ships (61)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Gate Carrier
+Nick Name: GG-CV
+Scores & Strengths:
+  Tech Score: 7682
+  Unit Score: 7515
+  Average Score: 7599
+  Stat Strength: 6617
+  Total Strength: 7515
+  Planet Strength: 7052
+  Space Strength: 7080
+  Garrison Strength: 1617
+Statistics:
+  Movement Type: gate
+  Move Points: 19
+  Spot: 16
+  Camouflage: 10
+  Agility: 30
+  Armor: 50
+  Psy Defense: 50
+  Rank: 941
+Attacks:
+  Direct Space: 9/27
+  Closed Space: 10/22
+  Direct: 9/25
+  Close: 10/21
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 2014
+Build Cost: 20141
+Build Resource Requirements:
+  Food: 1
+  Energy: 9
+  Metal: 11
+  Trace: 3
+  Exotica: 1
+  Chemicals: 17
+  Biochems: 21
+  Electronics: 10
+  Ceramsteel: 17
+  Wetware: 5
+  Monopols: 36
+S  ingularities: 4
+Build Gate Carrier in Starport
+Time to Build / Upgrade: 4
+[60155] Technology Required to Build Unit (53):
+  [60155] Gate Capital Ships (53)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Jump Carrier MkIII
+Nick Name: JJ-CV3
+Scores & Strengths:
+  Tech Score: 5589
+  Unit Score: 10210
+  Average Score: 7900
+  Stat Strength: 8850
+  Total Strength: 10210
+  Planet Strength: 0
+  Space Strength: 10210
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 8
+  Spot: 16
+  Camouflage: 8
+  Agility: 4
+  Armor: 65
+  Psy Defense: 65
+  Rank: 967
+Attacks:
+  Direct Space: 12/45
+  Closed Space: 20/41
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 2457
+Build Cost: 24570
+Build Resource Requirements:
+  Food: 1
+  Energy: 15
+  Metal: 28
+  Trace: 5
+  Exotica: 1
+  Chemicals: 34
+  Biochems: 33
+  Electronics: 21
+  Ceramsteel: 42
+  Monopols: 72
+S  ingularities: 3
+Build Jump Carrier MkIII in Starport
+Time to Build / Upgrade: 7
+[39365] Technology Required to Build Unit (61):
+  [39365] Jump Capital Ships (61)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

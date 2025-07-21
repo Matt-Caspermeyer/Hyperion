@@ -1,125 +1,236 @@
-All units of the unit class Inquisitor are listed herein (3 in total):
+All units of the unit class Light Mech are listed herein (5 in total):
 
 --1--
-Name: Inquisitor
-Nick Name: Inquisitor
+Name: Light Mech
+Nick Name: Berserker
 Scores & Strengths:
-  Tech Score: 1757
-  Unit Score: 1756
-  Average Score: 1757
-  Stat Strength: 973
-  Total Strength: 1756
-  Planet Strength: 1756
-  Space Strength: 1168
-  Garrison Strength: 555
+  Tech Score: 1686
+  Unit Score: 1685
+  Average Score: 1686
+  Stat Strength: 1158
+  Total Strength: 1685
+  Planet Strength: 1685
+  Space Strength: 0
+  Garrison Strength: 467
 Statistics:
-  Movement Type: foot
-  Move Points: 10
+  Movement Type: mech
+  Move Points: 13
   Spot: 10
-  Camouflage: 8
-  Agility: 23
-  Armor: 6
-  Psy Defense: 12
-  Rank: 70
+  Camouflage: 4
+  Agility: 15
+  Armor: 18
+  Psy Defense: 18
+  Rank: 99
 Attacks:
-  Psychic: 13/15
-  Indirect: 14/16
-  Direct: 13/14
-  Close: 14/13
+  Indirect: 16/17
+  Direct: 15/17
 Load aboard transport: YES
-Inquisitor
-Upkeep / Maintenance: 167
-Build Cost: 1594
+Immune to Plague
+Upkeep / Maintenance: 17
+Build Cost: 169
 Build Resource Requirements:
-  Trace: 14
-  Chemicals: 14
-  Electronics: 26
-  Monopols: 28
-  Gems: 60
-Upgrade Clergy to Inquisitor at Church
+  Food: 4
+  Energy: 16
+  Metal: 13
+  Trace: 12
+  Exotica: 4
+  Chemicals: 31
+  Electronics: 19
+  Ceramsteel: 18
+Build Light Mech in Starport
 Time to Build / Upgrade: 3
-[8415] Technologies Required to Build Unit (79):
-  [8085] Fusion Rifles (75)
-  [330] Holy Warriors (82)
+[10330] Technologies Required to Build Unit (84):
+  [1690] Ceramsteel (84)
+  [2420] Rocket-Propelled Aircraft (87)
+  [6220] Mechanically-Enhanced Soldiers (80)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Syneculla Agent
-Nick Name: Syn Agent
+Name: Medium Mech
+Nick Name: Harbinger
 Scores & Strengths:
-  Tech Score: 1767
-  Unit Score: 1768
-  Average Score: 1768
-  Stat Strength: 990
-  Total Strength: 1768
-  Planet Strength: 1768
-  Space Strength: 1351
-  Garrison Strength: 533
+  Tech Score: 2414
+  Unit Score: 2033
+  Average Score: 2223
+  Stat Strength: 1393
+  Total Strength: 2033
+  Planet Strength: 2033
+  Space Strength: 0
+  Garrison Strength: 543
 Statistics:
-  Movement Type: foot
-  Move Points: 11
-  Spot: 14
-  Camouflage: 13
-  Agility: 18
-  Armor: 6
-  Psy Defense: 12
-  Rank: 92
+  Movement Type: mech
+  Move Points: 14
+  Spot: 12
+  Camouflage: 6
+  Agility: 7
+  Armor: 22
+  Psy Defense: 22
+  Rank: 108
 Attacks:
-  Psychic: 19/19
-  Indirect: 16/8
-  Close: 17/17
+  Indirect: 16/20
+  Direct: 16/20
 Load aboard transport: YES
-Inquisitor
-Upkeep / Maintenance: 158
+Immune to Plague
+Upkeep / Maintenance: 107
+Build Cost: 1071
 Build Resource Requirements:
-  Gems: 2
-Upgrade Inquisitor to Syneculla Agent at Church
-Time to Build / Upgrade: 1
-[8715] Technologies Required to Build Unit (74):
-  [8085] Fusion Rifles (75)
-  [300] Fractal Metaphysics (64)
-  [330] Holy Warriors (82)
+  Food: 2
+  Energy: 9
+  Metal: 8
+  Trace: 10
+  Exotica: 2
+  Chemicals: 17
+  Electronics: 14
+  Ceramsteel: 9
+  Monopols: 25
+Build Medium Mech in Starport
+Time to Build / Upgrade: 3
+[12850] Technology Required to Build Unit (71):
+  [12850] Mechanized Warriors (71)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Kalinthi
-Nick Name: Kalinthi
+Name: Heavy Mech
+Nick Name: Vanguard
 Scores & Strengths:
-  Tech Score: 1860
-  Unit Score: 1861
-  Average Score: 1861
-  Stat Strength: 1021
-  Total Strength: 1861
-  Planet Strength: 1861
-  Space Strength: 1501
-  Garrison Strength: 588
+  Tech Score: 5223
+  Unit Score: 4857
+  Average Score: 5040
+  Stat Strength: 2985
+  Total Strength: 4857
+  Planet Strength: 4857
+  Space Strength: 0
+  Garrison Strength: 1214
 Statistics:
-  Movement Type: foot
-  Move Points: 10
+  Movement Type: mech
+  Move Points: 16
   Spot: 14
-  Camouflage: 16
-  Agility: 17
-  Armor: 6
-  Psy Defense: 12
-  Rank: 19
+  Camouflage: 10
+  Agility: 11
+  Armor: 34
+  Psy Defense: 34
+  Rank: 155
 Attacks:
-  Psychic: 24/20
+  Indirect: 27/28
+  Direct: 27/28
   Close: 18/20
 Load aboard transport: YES
-Inquisitor
-Upkeep / Maintenance: 119
+Immune to Plague
+Upkeep / Maintenance: 198
+Build Cost: 1978
 Build Resource Requirements:
-  Trace: 1
+  Food: 1
+  Energy: 11
+  Metal: 8
+  Trace: 19
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 22
+  Electronics: 25
+  Ceramsteel: 12
+  Monopols: 30
+Build Heavy Mech in Starport
+Time to Build / Upgrade: 4
+[35965] Technology Required to Build Unit (64):
+  [35965] Advanced Mechanized Warriors (64)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: 3rd-Republic Mech
+Nick Name: Mangler
+Scores & Strengths:
+  Tech Score: 5531
+  Unit Score: 5146
+  Average Score: 5339
+  Stat Strength: 3123
+  Total Strength: 5146
+  Planet Strength: 5146
+  Space Strength: 0
+  Garrison Strength: 1286
+Statistics:
+  Movement Type: mech
+  Move Points: 16
+  Spot: 14
+  Camouflage: 10
+  Agility: 11
+  Armor: 35
+  Psy Defense: 35
+  Rank: 160
+Attacks:
+  Indirect: 28/29
+  Direct: 28/29
+  Close: 19/21
+Load aboard transport: YES
+Upkeep / Maintenance: 111
+Build Cost: 1111
+Build Resource Requirements:
+  Food: 1
+  Energy: 7
+  Metal: 5
+  Trace: 10
   Exotica: 1
-  Electronics: 2
-Upgrade Inquisitor to Kalinthi at Church
-Time to Build / Upgrade: 1
-[9960] Technologies Required to Build Unit (63):
-  [8085] Fusion Rifles (75)
-  [300] Fractal Metaphysics (64)
-  [1245] Weird Science (32)
-  [330] Holy Warriors (82)
+  Chemicals: 13
+  Biochems: 12
+  Electronics: 15
+  Ceramsteel: 8
+  Monopols: 21
+Build 3rd-Republic Mech in Factory
+Time to Build / Upgrade: 3
+[66070] Technologies Required to Build Unit (67):
+  [15130] Fusion Battle Tanks (68)
+  [14975] Power Hovertanks (70)
+  [35965] Advanced Mechanized Warriors (64)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Assault Mech
+Nick Name: Avatar
+Scores & Strengths:
+  Tech Score: 5803
+  Unit Score: 5450
+  Average Score: 5626
+  Stat Strength: 3370
+  Total Strength: 5450
+  Planet Strength: 5450
+  Space Strength: 0
+  Garrison Strength: 1284
+Statistics:
+  Movement Type: mech
+  Move Points: 18
+  Spot: 16
+  Camouflage: 12
+  Agility: 14
+  Armor: 35
+  Psy Defense: 35
+  Rank: 164
+Attacks:
+  Indirect: 28/30
+  Direct: 29/29
+  Close: 19/21
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 259
+Build Cost: 2589
+Build Resource Requirements:
+  Food: 1
+  Energy: 11
+  Metal: 7
+  Trace: 9
+  Exotica: 1
+  Chemicals: 18
+  Biochems: 24
+  Electronics: 14
+  Ceramsteel: 11
+  Wetware: 8
+  Monopols: 29
+Build Assault Mech in Starport
+Time to Build / Upgrade: 4
+[52710] Technologies Required to Build Unit (44):
+  [16745] Wetware (23)
+  [35965] Advanced Mechanized Warriors (64)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

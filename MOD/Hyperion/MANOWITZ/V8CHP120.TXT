@@ -1,410 +1,96 @@
-All units of the unit class PTS Tank are listed herein (9 in total):
+All units of the unit class Zodiac are listed herein (2 in total):
 
 --1--
-Name: PTS Tank
-Nick Name: PTS Tank
+Name: Zodiac
+Nick Name: Zodiac
 Scores & Strengths:
-  Tech Score: 608
-  Unit Score: 606
-  Average Score: 607
-  Stat Strength: 368
-  Total Strength: 606
-  Planet Strength: 528
-  Space Strength: 446
-  Garrison Strength: 215
+  Tech Score: 730
+  Unit Score: 549
+  Average Score: 640
+  Stat Strength: 401
+  Total Strength: 549
+  Planet Strength: 500
+  Space Strength: 500
+  Garrison Strength: 250
 Statistics:
-  Movement Type: tread
-  Move Points: 6
-  Spot: 2
-  Camouflage: 2
-  Agility: 6
-  Armor: 12
-  Psy Defense: 12
-  Rank: 72
+  Movement Type: lander
+  Move Points: 4
+  Spot: 8
+  Camouflage: 4
+  Agility: 15
+  Armor: 4
+  Psy Defense: 8
+  Rank: 106
 Attacks:
-  Ranged Space: 6/13
-  Indirect: 6/13
-  Direct: 5/11
-  Close: 3/9
+  Closed Space: 7/7
+  Psychic: 10/5
+  Close: 7/7
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 53
+Immune to Plague
+Upkeep / Maintenance: 144
+Build Cost: 1439
 Build Resource Requirements:
-  Food: 2
-  Energy: 23
-  Metal: 27
-  Trace: 6
-  Exotica: 2
-  Chemicals: 32
-  Electronics: 7
-Build PTS Tank in Factory
-Time to Build / Upgrade: 2
-[2300] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1950] PTS Missile Launcher (88)
+  Food: 24
+  Energy: 45
+  Metal: 9
+  Trace: 32
+  Exotica: 30
+  Chemicals: 47
+  Electronics: 45
+  Gems: 3
+S  ingularities: 2
+Build Zodiac in Church
+Time to Build / Upgrade: 3
+[2795] Technologies Required to Build Unit (59):
+  [330] Holy Warriors (82)
+  [2465] Sathra (36)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: PTS Tank II
-Nick Name: PTS Tank II
+Name: Sathraist
+Nick Name: Sathraist
 Scores & Strengths:
-  Tech Score: 1132
-  Unit Score: 1079
-  Average Score: 1105
-  Stat Strength: 638
-  Total Strength: 1079
-  Planet Strength: 935
-  Space Strength: 782
-  Garrison Strength: 330
+  Tech Score: 956
+  Unit Score: 848
+  Average Score: 902
+  Stat Strength: 522
+  Total Strength: 848
+  Planet Strength: 767
+  Space Strength: 735
+  Garrison Strength: 313
 Statistics:
-  Movement Type: tread
-  Move Points: 8
-  Spot: 2
-  Camouflage: 3
-  Agility: 7
-  Armor: 16
-  Psy Defense: 16
-  Rank: 83
-Attacks:
-  Ranged Space: 8/18
-  Indirect: 8/18
-  Direct: 7/15
-  Close: 4/12
-Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 50
-Build Resource Requirements:
-  Food: 1
-  Energy: 19
-  Metal: 41
-  Trace: 4
-  Exotica: 1
-  Chemicals: 24
-  Electronics: 4
-Build PTS Tank II in Factory
-Time to Build / Upgrade: 2
-[6890] Technologies Required to Build Unit (88):
-  [770] Self-Propelled Weaponry (92)
-  [1950] PTS Missile Launcher (88)
-  [4170] Supercruise Missiles (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---3--
-Name: Symbiot PTS Weapon
-Nick Name: Fumerole
-Scores & Strengths:
-  Tech Score: 1530
-  Unit Score: 1530
-  Average Score: 1530
-  Stat Strength: 724
-  Total Strength: 1530
-  Planet Strength: 1370
-  Space Strength: 884
-  Garrison Strength: 395
-Statistics:
-  Movement Type: tread
-  Move Points: 12
-  Spot: 8
-  Camouflage: 8
-  Agility: 8
-  Armor: 18
-  Psy Defense: 8
-  Rank: 91
-Attacks:
-  Ranged Space: 10/16
-  Air: 11/15
-  Indirect: 9/17
-  Direct: 10/16
-  Close: 12/14
-Load aboard transport: YES
-Upkeep / Maintenance: 68
-Build Cost: 683
-Build Resource Requirements:
-  Food: 3
-  Energy: 155
-  Metal: 7
-  Trace: 7
-  Exotica: 4
-  Chemicals: 185
-  Biochems: 227
-  Electronics: 20
-Build Symbiot PTS Weapon in Hive
-Time to Build / Upgrade: 6
-[6995] Technology Required to Build Unit (37):
-  [6995] Symbiot Psychology (37)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---4--
-Name: PTS Tank III
-Nick Name: PTS Tank III
-Scores & Strengths:
-  Tech Score: 1685
-  Unit Score: 1641
-  Average Score: 1663
-  Stat Strength: 982
-  Total Strength: 1641
-  Planet Strength: 1421
-  Space Strength: 1202
-  Garrison Strength: 449
-Statistics:
-  Movement Type: tread
-  Move Points: 10
-  Spot: 3
-  Camouflage: 3
-  Agility: 8
-  Armor: 20
-  Psy Defense: 20
-  Rank: 93
-Attacks:
-  Ranged Space: 10/22
-  Indirect: 10/22
-  Direct: 8/18
-  Close: 5/15
-Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 72
-Build Resource Requirements:
-  Food: 1
-  Energy: 20
-  Metal: 51
-  Trace: 4
-  Exotica: 1
-  Chemicals: 39
-  Electronics: 5
-Build PTS Tank III in Factory
-Time to Build / Upgrade: 2
-[10755] Technologies Required to Build Unit (84):
-  [1700] Main Battle Tank (88)
-  [1950] PTS Missile Launcher (88)
-  [7105] Hypercruise Missiles (77)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: PTS Laser Cannon
-Nick Name: PTS Laser
-Scores & Strengths:
-  Tech Score: 2044
-  Unit Score: 2043
-  Average Score: 2044
-  Stat Strength: 1422
-  Total Strength: 2043
-  Planet Strength: 1753
-  Space Strength: 1712
-  Garrison Strength: 619
-Statistics:
-  Movement Type: tread
-  Move Points: 8
-  Spot: 10
-  Camouflage: 2
-  Agility: 2
-  Armor: 25
-  Psy Defense: 25
-  Rank: 98
-Attacks:
-  Ranged Space: 10/29
-  Air: 9/15
-  Direct: 14/14
-Load aboard transport: YES
-Upkeep / Maintenance: 114
-Build Cost: 1140
-Build Resource Requirements:
-  Food: 2
-  Energy: 10
-  Metal: 12
-  Trace: 9
-  Exotica: 2
-  Chemicals: 25
-  Electronics: 16
-  Ceramsteel: 18
-  Monopols: 51
-Build PTS Laser Cannon in Factory
-Time to Build / Upgrade: 4
-[10295] Technology Required to Build Unit (76):
-  [10295] PTS Fusion Cannon (76)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: PTS Meson Cannon
-Nick Name: PTS Meson
-Scores & Strengths:
-  Tech Score: 3737
-  Unit Score: 3737
-  Average Score: 3737
-  Stat Strength: 2590
-  Total Strength: 3737
-  Planet Strength: 3191
-  Space Strength: 3136
-  Garrison Strength: 962
-Statistics:
-  Movement Type: tread
-  Move Points: 11
-  Spot: 12
-  Camouflage: 3
-  Agility: 2
-  Armor: 34
-  Psy Defense: 34
-  Rank: 125
-Attacks:
-  Ranged Space: 14/39
-  Air: 12/20
-  Direct: 19/19
-Load aboard transport: YES
-Upkeep / Maintenance: 127
-Build Cost: 131
-Build Resource Requirements:
-  Chemicals: 3
-  Electronics: 4
-  Ceramsteel: 1
-Upgrade PTS Laser Cannon to PTS Meson Cannon at Factory
-Time to Build / Upgrade: 1
-[23015] Technology Required to Build Unit (70):
-  [23015] PTS Meson Cannon (70)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---7--
-Name: Vau PTS Weapon
-Nick Name: Atomizer
-Scores & Strengths:
-  Tech Score: 3886
-  Unit Score: 3880
-  Average Score: 3883
-  Stat Strength: 2232
-  Total Strength: 3880
-  Planet Strength: 3280
-  Space Strength: 2832
-  Garrison Strength: 876
-Statistics:
-  Movement Type: tread
-  Move Points: 14
+  Movement Type: lander
+  Move Points: 6
   Spot: 10
   Camouflage: 6
-  Agility: 10
-  Armor: 30
-  Psy Defense: 30
-  Rank: 164
+  Agility: 15
+  Armor: 5
+  Psy Defense: 10
+  Rank: 196
 Attacks:
-  Ranged Space: 20/30
-  Air: 16/28
-  Indirect: 20/30
+  Closed Space: 9/9
+  Psychic: 11/12
+  Air: 8/4
+  Close: 9/9
 Load aboard transport: YES
-Upkeep / Maintenance: 128
-Build Cost: 1278
+Immune to Plague
+Upkeep / Maintenance: 200
+Build Cost: 2001
 Build Resource Requirements:
-  Food: 1
-  Energy: 11
-  Metal: 5
-  Trace: 3
-  Exotica: 1
-  Chemicals: 19
-  Biochems: 22
-  Electronics: 10
-  Ceramsteel: 10
-  Wetware: 8
-  Monopols: 34
-Build Vau PTS Weapon in Vau City
+  Food: 30
+  Energy: 69
+  Metal: 13
+  Trace: 51
+  Exotica: 37
+  Chemicals: 72
+  Electronics: 73
+  Gems: 10
+S  ingularities: 3
+Build Sathraist in Church
 Time to Build / Upgrade: 4
-[24245] Technology Required to Build Unit (50):
-  [24245] Vau Psychology (50)
+[3920] Technologies Required to Build Unit (54):
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
 Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---8--
-Name: Discontinuity Cannon
-Nick Name: PTS Beam
-Scores & Strengths:
-  Tech Score: 4120
-  Unit Score: 3975
-  Average Score: 4047
-  Stat Strength: 2728
-  Total Strength: 3975
-  Planet Strength: 3401
-  Space Strength: 3302
-  Garrison Strength: 1025
-Statistics:
-  Movement Type: tread
-  Move Points: 11
-  Spot: 12
-  Camouflage: 3
-  Agility: 2
-  Armor: 35
-  Psy Defense: 35
-  Rank: 130
-Attacks:
-  Ranged Space: 14/41
-  Air: 13/21
-  Direct: 20/20
-Load aboard transport: YES
-Upkeep / Maintenance: 132
-Build Cost: 177
-Build Resource Requirements:
-  Chemicals: 3
-  Electronics: 4
-Upgrade PTS Laser Cannon to Discontinuity Cannon at Factory
-Time to Build / Upgrade: 1
-[26210] Technology Required to Build Unit (54):
-  [26210] PTS Beam Cannon (54)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---9--
-Name: Omicron Ray
-Nick Name: Omicron Ray
-Scores & Strengths:
-  Tech Score: 5202
-  Unit Score: 5201
-  Average Score: 5201
-  Stat Strength: 3650
-  Total Strength: 5201
-  Planet Strength: 4201
-  Space Strength: 4650
-  Garrison Strength: 1212
-Statistics:
-  Movement Type: tread
-  Move Points: 12
-  Spot: 16
-  Camouflage: 5
-  Agility: 5
-  Armor: 40
-  Psy Defense: 40
-  Rank: 162
-Attacks:
-  Ranged Space: 20/50
-  Air: 25/11
-  Indirect: 12/23
-Load aboard transport: YES
-Upkeep / Maintenance: 142
-Build Cost: 1418
-Build Resource Requirements:
-  Food: 1
-  Energy: 3
-  Metal: 7
-  Trace: 4
-  Exotica: 1
-  Chemicals: 18
-  Biochems: 20
-  Electronics: 12
-  Ceramsteel: 13
-  Wetware: 8
-  Monopols: 32
-Build Omicron Ray in Factory
-Time to Build / Upgrade: 4
-[49605] Technologies Required to Build Unit (46):
-  [23395] Advanced Hovertech (37)
-  [26210] PTS Beam Cannon (54)
-Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

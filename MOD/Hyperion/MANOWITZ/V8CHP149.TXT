@@ -1,99 +1,305 @@
-All units of the unit class Submarine Cruiser are listed herein (2 in total):
+All units of the unit class Hover Tank Killer are listed herein (7 in total):
 
 --1--
-Name: Submarine Cruiser
-Nick Name: NSS-SC
+Name: Hover Tank Killer
+Nick Name: Eagle
 Scores & Strengths:
-  Tech Score: 658
-  Unit Score: 1316
-  Average Score: 987
-  Stat Strength: 789
-  Total Strength: 1316
-  Planet Strength: 1316
+  Tech Score: 988
+  Unit Score: 988
+  Average Score: 988
+  Stat Strength: 636
+  Total Strength: 988
+  Planet Strength: 988
   Space Strength: 0
-  Garrison Strength: 465
+  Garrison Strength: 264
 Statistics:
-  Movement Type: underwater
-  Move Points: 8
-  Spot: 8
-  Camouflage: 10
-  Agility: 7
-  Armor: 16
-  Psy Defense: 16
-  Rank: 720
+  Movement Type: hover
+  Move Points: 14
+  Spot: 6
+  Camouflage: 4
+  Agility: 10
+  Armor: 12
+  Psy Defense: 12
+  Rank: 59
 Attacks:
-  Water: 5/25
-  Air: 6/16
-  Indirect: 4/24
-  Direct: 9/10
-  Close: 15/8
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 129
-Build Cost: 1287
+  Indirect: 8/16
+  Direct: 12/12
+  Close: 10/8
+Load aboard transport: YES
+Upkeep / Maintenance: 79
+Build Cost: 789
 Build Resource Requirements:
-  Food: 4
-  Energy: 82
-  Metal: 49
-  Trace: 37
-  Exotica: 4
-  Chemicals: 55
-  Biochems: 18
+  Food: 6
+  Energy: 16
+  Metal: 4
+  Trace: 25
+  Exotica: 6
+  Chemicals: 27
   Electronics: 27
-Build Submarine Cruiser in Well
-Time to Build / Upgrade: 5
-[2270] Technology Required to Build Unit (86):
-  [2270] Naval Escort Ships (86)
+  Ceramsteel: 9
+  Monopols: 40
+Build Hover Tank Killer in Factory
+Time to Build / Upgrade: 4
+[3905] Technology Required to Build Unit (61):
+  [3905] Hovertech (61)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Submarine Aircraft Carrier
-Nick Name: N-SCV
+Name: Hover Tank Killer II
+Nick Name: Eagle II
 Scores & Strengths:
-  Tech Score: 1868
-  Unit Score: 1866
-  Average Score: 1867
-  Stat Strength: 1020
-  Total Strength: 1866
-  Planet Strength: 1866
+  Tech Score: 1600
+  Unit Score: 1524
+  Average Score: 1562
+  Stat Strength: 969
+  Total Strength: 1524
+  Planet Strength: 1524
   Space Strength: 0
-  Garrison Strength: 590
+  Garrison Strength: 359
 Statistics:
-  Movement Type: underwater
-  Move Points: 10
-  Spot: 16
-  Camouflage: 16
-  Agility: 4
-  Armor: 14
-  Psy Defense: 14
-  Rank: 736
+  Movement Type: hover
+  Move Points: 18
+  Spot: 7
+  Camouflage: 5
+  Agility: 11
+  Armor: 15
+  Psy Defense: 15
+  Rank: 71
 Attacks:
-  Water: 14/24
-  Air: 14/18
-  Direct: 10/16
-  Close: 7/14
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 65
-Build Cost: 654
+  Indirect: 10/20
+  Direct: 15/15
+  Close: 13/10
+Load aboard transport: YES
+Upkeep / Maintenance: 70
+Build Cost: 702
+Build Resource Requirements:
+  Food: 4
+  Energy: 14
+  Metal: 5
+  Trace: 16
+  Exotica: 4
+  Chemicals: 26
+  Electronics: 26
+  Ceramsteel: 8
+  Monopols: 32
+Build Hover Tank Killer II in Factory
+Time to Build / Upgrade: 3
+[7425] Technology Required to Build Unit (68):
+  [7425] Hovertanks (68)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Power Hover Tank Killer
+Nick Name: Power Eagle
+Scores & Strengths:
+  Tech Score: 2707
+  Unit Score: 2570
+  Average Score: 2639
+  Stat Strength: 1611
+  Total Strength: 2570
+  Planet Strength: 2570
+  Space Strength: 0
+  Garrison Strength: 535
+Statistics:
+  Movement Type: hover
+  Move Points: 23
+  Spot: 8
+  Camouflage: 7
+  Agility: 13
+  Armor: 20
+  Psy Defense: 20
+  Rank: 91
+Attacks:
+  Indirect: 13/26
+  Direct: 20/20
+  Close: 17/13
+Load aboard transport: YES
+Upkeep / Maintenance: 97
+Build Cost: 184
+Build Resource Requirements:
+  Metal: 1
+Upgrade Hover Tank Killer to Power Hover Tank Killer at Factory
+Time to Build / Upgrade: 1
+[14975] Technology Required to Build Unit (70):
+  [14975] Power Hovertanks (70)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Psy Hover Tank Killer
+Nick Name: Divine Eagle
+Scores & Strengths:
+  Tech Score: 2735
+  Unit Score: 2734
+  Average Score: 2735
+  Stat Strength: 1937
+  Total Strength: 2734
+  Planet Strength: 2734
+  Space Strength: 2049
+  Garrison Strength: 627
+Statistics:
+  Movement Type: hover
+  Move Points: 19
+  Spot: 8
+  Camouflage: 6
+  Agility: 14
+  Armor: 16
+  Psy Defense: 32
+  Rank: 86
+Attacks:
+  Psychic: 8/14
+  Indirect: 11/22
+  Direct: 17/17
+  Close: 14/11
+Load aboard transport: YES
+Upkeep / Maintenance: 153
+Build Cost: 1525
 Build Resource Requirements:
   Food: 3
-  Energy: 23
-  Metal: 9
-  Trace: 19
+  Energy: 11
+  Metal: 8
+  Trace: 8
   Exotica: 3
-  Chemicals: 30
-  Biochems: 6
+  Chemicals: 22
   Electronics: 20
-  Ceramsteel: 11
-Build Submarine Aircraft Carrier in Well
-Time to Build / Upgrade: 3
-[11930] Technologies Required to Build Unit (84):
-  [2665] V/STOL Aircraft (85)
-  [1970] Cargo Handling (87)
-  [7295] Nuclear-Powered Navalcraft (81)
+  Ceramsteel: 14
+  Monopols: 36
+  Gems: 39
+Build Psy Hover Tank Killer in Factory
+Time to Build / Upgrade: 4
+[15305] Technologies Required to Build Unit (76):
+  [330] Holy Warriors (82)
+  [14975] Power Hovertanks (70)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: 3rd-Republic Hover TK
+Nick Name: Crusher
+Scores & Strengths:
+  Tech Score: 2921
+  Unit Score: 2811
+  Average Score: 2866
+  Stat Strength: 1740
+  Total Strength: 2811
+  Planet Strength: 2811
+  Space Strength: 0
+  Garrison Strength: 573
+Statistics:
+  Movement Type: hover
+  Move Points: 24
+  Spot: 8
+  Camouflage: 7
+  Agility: 13
+  Armor: 21
+  Psy Defense: 21
+  Rank: 96
+Attacks:
+  Indirect: 14/28
+  Direct: 21/21
+  Close: 17/14
+Load aboard transport: YES
+Upkeep / Maintenance: 66
+Build Cost: 663
+Build Resource Requirements:
+  Food: 2
+  Energy: 10
+  Metal: 3
+  Trace: 7
+  Exotica: 2
+  Chemicals: 18
+  Electronics: 14
+  Ceramsteel: 6
+  Monopols: 26
+Build 3rd-Republic Hover TK in Factory
+Time to Build / Upgrade: 3
+[30105] Technologies Required to Build Unit (69):
+  [15130] Fusion Battle Tanks (68)
+  [14975] Power Hovertanks (70)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Morph Hover Tank Killer
+Nick Name: Golden Eagle
+Scores & Strengths:
+  Tech Score: 5176
+  Unit Score: 5176
+  Average Score: 5176
+  Stat Strength: 3520
+  Total Strength: 5176
+  Planet Strength: 5176
+  Space Strength: 0
+  Garrison Strength: 1056
+Statistics:
+  Movement Type: hover
+  Move Points: 24
+  Spot: 12
+  Camouflage: 10
+  Agility: 30
+  Armor: 30
+  Psy Defense: 30
+  Rank: 130
+Attacks:
+  Indirect: 18/33
+  Direct: 26/27
+  Close: 20/18
+Load aboard transport: YES
+Upkeep / Maintenance: 140
+Build Cost: 1211
+Build Resource Requirements:
+  Biochems: 30
+  Wetware: 10
+Upgrade Power Hover Tank Killer to Morph Hover Tank Killer at Factory
+Time to Build / Upgrade: 1
+[35535] Technology Required to Build Unit (36):
+  [35535] Polymorphonic Land Vehicles (36)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Stealth Hover Tank Killer
+Nick Name: Ghost Eagle
+Scores & Strengths:
+  Tech Score: 5358
+  Unit Score: 5358
+  Average Score: 5358
+  Stat Strength: 4202
+  Total Strength: 5358
+  Planet Strength: 5358
+  Space Strength: 0
+  Garrison Strength: 1169
+Statistics:
+  Movement Type: hover
+  Move Points: 21
+  Spot: 14
+  Camouflage: 26
+  Agility: 33
+  Armor: 30
+  Psy Defense: 30
+  Rank: 122
+Attacks:
+  Indirect: 15/30
+  Direct: 18/25
+  Close: 16/16
+Load aboard transport: YES
+Upkeep / Maintenance: 125
+Build Cost: 1070
+Build Resource Requirements:
+  Biochems: 25
+  Wetware: 8
+Upgrade Power Hover Tank Killer to Stealth Hover Tank Killer at Factory
+Time to Build / Upgrade: 1
+[37210] Technology Required to Build Unit (34):
+  [37210] Neumonic Land Vehicles (34)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

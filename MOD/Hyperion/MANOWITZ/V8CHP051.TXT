@@ -1,261 +1,471 @@
-All units of the unit class Medium Tank are listed herein (6 in total):
+All units of the unit class Sharp Shooter are listed herein (12 in total):
 
 --1--
-Name: Medium Tank
-Nick Name: Wolfen
+Name: Sharp Shooter
+Nick Name: SShot
 Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 157
-  Average Score: 132
-  Stat Strength: 119
-  Total Strength: 157
-  Planet Strength: 157
+  Tech Score: 151
+  Unit Score: 151
+  Average Score: 151
+  Stat Strength: 99
+  Total Strength: 151
+  Planet Strength: 151
   Space Strength: 0
-  Garrison Strength: 78
+  Garrison Strength: 106
 Statistics:
-  Movement Type: tread
-  Move Points: 4
-  Spot: 1
-  Camouflage: 1
-  Agility: 2
-  Armor: 9
-  Psy Defense: 4
-  Rank: 62
+  Movement Type: foot
+  Move Points: 2
+  Spot: 4
+  Camouflage: 5
+  Agility: 7
+  Armor: 2
+  Psy Defense: 1
+  Rank: 668
 Attacks:
-  Indirect: 1/10
-  Direct: 1/10
-  Close: 6/3
+  Close: 13/4
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 54
+Duels High-Ranking (>=666) Units During Combat
+Upkeep / Maintenance: 17
+Build Cost: 148
 Build Resource Requirements:
-  Food: 3
-  Energy: 44
-  Metal: 36
-  Trace: 10
-  Exotica: 2
-  Chemicals: 23
-Build Medium Tank in Factory
-Time to Build / Upgrade: 3
-[400] Technologies Required to Build Unit (98):
-  [110] Structural Engineering (99)
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
+  Metal: 1
+  Trace: 121
+  Exotica: 16
+  Chemicals: 19
+Upgrade Peasant to Sharp Shooter at Farm
+Time to Build / Upgrade: 2
+[320] Technology Required to Build Unit (88):
+  [320] Viper Militia (88)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Medium Tank II
-Nick Name: Med Tank II
+Name: Sharp Shooter (PE)
+Nick Name: SShot (PE)
 Scores & Strengths:
-  Tech Score: 162
-  Unit Score: 229
-  Average Score: 195
-  Stat Strength: 177
-  Total Strength: 229
-  Planet Strength: 229
+  Tech Score: 195
+  Unit Score: 200
+  Average Score: 198
+  Stat Strength: 125
+  Total Strength: 200
+  Planet Strength: 200
   Space Strength: 0
-  Garrison Strength: 102
+  Garrison Strength: 141
 Statistics:
-  Movement Type: tread
-  Move Points: 5
-  Spot: 1
-  Camouflage: 1
-  Agility: 2
-  Armor: 11
-  Psy Defense: 5
-  Rank: 65
+  Movement Type: foot
+  Move Points: 2
+  Spot: 4
+  Camouflage: 6
+  Agility: 8
+  Armor: 2
+  Psy Defense: 1
+  Rank: 668
 Attacks:
-  Indirect: 1/12
-  Direct: 1/12
-  Close: 7/4
+  Close: 15/5
 Load aboard transport: YES
-Upkeep / Maintenance: 10
-Build Cost: 99
+Duels High-Ranking (>=666) Units During Combat
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 11
+Build Cost: 91
 Build Resource Requirements:
-  Food: 5
-  Energy: 73
-  Metal: 57
-  Trace: 19
-  Exotica: 5
-  Chemicals: 50
-Build Medium Tank II in Factory
-Time to Build / Upgrade: 3
-[350] Technology Required to Build Unit (95):
-  [350] Tanks (95)
+  Trace: 86
+  Exotica: 11
+  Chemicals: 15
+Upgrade Peasant to Sharp Shooter (PE) at Farm
+Time to Build / Upgrade: 1
+[500] Technologies Required to Build Unit (89):
+  [320] Viper Militia (88)
+  [180] Performance-Enhanced Soldiers (90)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Assault Tank
-Nick Name: Pitbull
+Name: Sharp Shooter (BE)
+Nick Name: SShot (BE)
 Scores & Strengths:
-  Tech Score: 162
-  Unit Score: 240
-  Average Score: 201
-  Stat Strength: 178
-  Total Strength: 240
-  Planet Strength: 240
+  Tech Score: 239
+  Unit Score: 247
+  Average Score: 243
+  Stat Strength: 157
+  Total Strength: 247
+  Planet Strength: 247
   Space Strength: 0
-  Garrison Strength: 97
+  Garrison Strength: 142
 Statistics:
-  Movement Type: tread
-  Move Points: 6
-  Spot: 2
-  Camouflage: 2
-  Agility: 3
-  Armor: 10
-  Psy Defense: 5
-  Rank: 61
+  Movement Type: foot
+  Move Points: 3
+  Spot: 5
+  Camouflage: 7
+  Agility: 8
+  Armor: 3
+  Psy Defense: 1
+  Rank: 668
 Attacks:
-  Indirect: 3/8
-  Direct: 3/6
-  Close: 5/4
+  Close: 18/5
 Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 65
+Duels High-Ranking (>=666) Units During Combat
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 23
+Build Cost: 80
 Build Resource Requirements:
-  Food: 8
-  Energy: 33
-  Metal: 49
-  Trace: 17
-  Exotica: 7
-  Chemicals: 23
-Build Assault Tank in Factory
-Time to Build / Upgrade: 3
-[350] Technology Required to Build Unit (95):
-  [350] Tanks (95)
+  Metal: 2
+  Biochems: 66
+Upgrade Sharp Shooter to Sharp Shooter (BE) at Biochem Plant
+Time to Build / Upgrade: 1
+[740] Technologies Required to Build Unit (83):
+  [320] Viper Militia (88)
+  [420] Biochem-Enhanced Soldiers (77)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Cruiser Tank
-Nick Name: Cruiser Tank
+Name: Sharp Shooter (SE)
+Nick Name: SShot (SE)
 Scores & Strengths:
-  Tech Score: 167
-  Unit Score: 248
-  Average Score: 208
-  Stat Strength: 183
-  Total Strength: 248
-  Planet Strength: 248
+  Tech Score: 313
+  Unit Score: 318
+  Average Score: 316
+  Stat Strength: 192
+  Total Strength: 318
+  Planet Strength: 318
   Space Strength: 0
-  Garrison Strength: 110
+  Garrison Strength: 183
 Statistics:
-  Movement Type: tread
-  Move Points: 5
-  Spot: 2
-  Camouflage: 2
-  Agility: 2
-  Armor: 11
-  Psy Defense: 5
-  Rank: 66
+  Movement Type: foot
+  Move Points: 3
+  Spot: 5
+  Camouflage: 8
+  Agility: 9
+  Armor: 3
+  Psy Defense: 2
+  Rank: 669
 Attacks:
-  Indirect: 2/13
-  Direct: 2/12
-  Close: 3/5
+  Close: 21/6
 Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 77
+Duels High-Ranking (>=666) Units During Combat
+Upkeep / Maintenance: 32
+Build Cost: 175
 Build Resource Requirements:
-  Food: 4
-  Energy: 62
-  Metal: 46
-  Trace: 7
-  Exotica: 4
-  Chemicals: 38
-Build Cruiser Tank in Factory
-Time to Build / Upgrade: 3
-[475] Technologies Required to Build Unit (97):
-  [125] Plastics (98)
-  [350] Tanks (95)
+  Biochems: 85
+Upgrade Sharp Shooter to Sharp Shooter (SE) at Hospital
+Time to Build / Upgrade: 1
+[995] Technologies Required to Build Unit (82):
+  [320] Viper Militia (88)
+  [675] Surgically-Enhanced Soldiers (75)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Shock Assault Tank
-Nick Name: Razorbull
+Name: Sharp Shooter (DE)
+Nick Name: SShot (DE)
 Scores & Strengths:
-  Tech Score: 1226
-  Unit Score: 1805
-  Average Score: 1515
-  Stat Strength: 1339
-  Total Strength: 1805
-  Planet Strength: 1805
+  Tech Score: 930
+  Unit Score: 735
+  Average Score: 832
+  Stat Strength: 385
+  Total Strength: 735
+  Planet Strength: 735
   Space Strength: 0
-  Garrison Strength: 437
+  Garrison Strength: 328
 Statistics:
-  Movement Type: tread
-  Move Points: 17
-  Spot: 3
-  Camouflage: 6
-  Agility: 5
-  Armor: 28
-  Psy Defense: 14
-  Rank: 90
+  Movement Type: foot
+  Move Points: 5
+  Spot: 6
+  Camouflage: 13
+  Agility: 11
+  Armor: 5
+  Psy Defense: 3
+  Rank: 674
 Attacks:
-  Indirect: 8/22
-  Direct: 8/17
-  Close: 14/11
+  Close: 35/10
 Load aboard transport: YES
-Upkeep / Maintenance: 15
-Build Cost: 88
+Duels High-Ranking (>=666) Units During Combat
+Upkeep / Maintenance: 26
+Build Cost: 107
 Build Resource Requirements:
-  Chemicals: 25
-  Electronics: 32
-  Ceramsteel: 36
-Upgrade Assault Tank to Shock Assault Tank at Factory
+  Metal: 7
+  Biochems: 55
+  Electronics: 61
+Upgrade Sharp Shooter to Sharp Shooter (DE) at Biochem Plant
 Time to Build / Upgrade: 1
-[5205] Technology Required to Build Unit (84):
-  [5205] Advanced Battle Tanks (84)
+[3760] Technologies Required to Build Unit (77):
+  [320] Viper Militia (88)
+  [3440] Drug-Enhanced Soldiers (65)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Shock Medium Tank
-Nick Name: Wolfenrot
+Name: Sharp Shooter (GE)
+Nick Name: SShot (GE)
 Scores & Strengths:
-  Tech Score: 1413
-  Unit Score: 2105
-  Average Score: 1759
-  Stat Strength: 1575
-  Total Strength: 2105
-  Planet Strength: 2105
+  Tech Score: 1394
+  Unit Score: 1114
+  Average Score: 1254
+  Stat Strength: 555
+  Total Strength: 1114
+  Planet Strength: 1114
   Space Strength: 0
-  Garrison Strength: 543
+  Garrison Strength: 454
 Statistics:
-  Movement Type: tread
-  Move Points: 15
-  Spot: 2
-  Camouflage: 4
-  Agility: 4
-  Armor: 33
-  Psy Defense: 15
-  Rank: 108
+  Movement Type: foot
+  Move Points: 6
+  Spot: 7
+  Camouflage: 16
+  Agility: 13
+  Armor: 6
+  Psy Defense: 3
+  Rank: 679
 Attacks:
-  Indirect: 4/36
-  Direct: 4/36
-  Close: 22/11
+  Close: 43/13
 Load aboard transport: YES
-Upkeep / Maintenance: 165
-Build Cost: 1594
+Duels High-Ranking (>=666) Units During Combat
+Upkeep / Maintenance: 31
+Build Cost: 201
 Build Resource Requirements:
-  Energy: 16
+  Energy: 1
   Trace: 2
-  Exotica: 1
-  Chemicals: 46
-  Electronics: 37
-  Ceramsteel: 38
-  Monopols: 67
-Upgrade Medium Tank to Shock Medium Tank at Factory
-Time to Build / Upgrade: 4
-[6950] Technologies Required to Build Unit (77):
-  [1745] Monopols (70)
-  [5205] Advanced Battle Tanks (84)
+  Chemicals: 3
+  Biochems: 13
+  Electronics: 7
+  Ceramsteel: 1
+Upgrade Sharp Shooter (DE) to Sharp Shooter (GE) at Lab
+Time to Build / Upgrade: 1
+[6340] Technologies Required to Build Unit (69):
+  [320] Viper Militia (88)
+  [6020] Chemical Shock Legion (49)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Sharp Shooter (PA)
+Nick Name: SShot (PA)
+Scores & Strengths:
+  Tech Score: 1420
+  Unit Score: 1127
+  Average Score: 1274
+  Stat Strength: 581
+  Total Strength: 1127
+  Planet Strength: 1127
+  Space Strength: 0
+  Garrison Strength: 425
+Statistics:
+  Movement Type: foot
+  Move Points: 7
+  Spot: 7
+  Camouflage: 16
+  Agility: 13
+  Armor: 7
+  Psy Defense: 3
+  Rank: 679
+Attacks:
+  Close: 42/13
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Upkeep / Maintenance: 36
+Build Cost: 181
+Build Resource Requirements:
+  Energy: 1
+  Chemicals: 8
+  Electronics: 100
+  Ceramsteel: 5
+Upgrade Sharp Shooter (SE) to Sharp Shooter (PA) at Hospital
+Time to Build / Upgrade: 2
+[6495] Technologies Required to Build Unit (73):
+  [320] Viper Militia (88)
+  [6175] Prosthetically-Augmented Soldiers (57)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Sharp Shooter (CE)
+Nick Name: SShot (CE)
+Scores & Strengths:
+  Tech Score: 1792
+  Unit Score: 1391
+  Average Score: 1591
+  Stat Strength: 671
+  Total Strength: 1391
+  Planet Strength: 1391
+  Space Strength: 0
+  Garrison Strength: 525
+Statistics:
+  Movement Type: foot
+  Move Points: 7
+  Spot: 8
+  Camouflage: 18
+  Agility: 13
+  Armor: 7
+  Psy Defense: 4
+  Rank: 682
+Attacks:
+  Close: 48/15
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Upkeep / Maintenance: 33
+Build Cost: 151
+Build Resource Requirements:
+  Energy: 2
+  Chemicals: 2
+  Ceramsteel: 1
+Upgrade Sharp Shooter (PA) to Sharp Shooter (CE) at Lab
+Time to Build / Upgrade: 1
+[8920] Technologies Required to Build Unit (68):
+  [320] Viper Militia (88)
+  [8600] Cybernetically-Enhanced Soldiers (48)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Sharp Shooter (AVE)
+Nick Name: SShot (AVE)
+Scores & Strengths:
+  Tech Score: 1857
+  Unit Score: 1500
+  Average Score: 1679
+  Stat Strength: 765
+  Total Strength: 1500
+  Planet Strength: 1500
+  Space Strength: 0
+  Garrison Strength: 530
+Statistics:
+  Movement Type: foot
+  Move Points: 8
+  Spot: 8
+  Camouflage: 19
+  Agility: 14
+  Armor: 8
+  Psy Defense: 4
+  Rank: 683
+Attacks:
+  Close: 49/15
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Upkeep / Maintenance: 35
+Build Cost: 147
+Build Resource Requirements:
+  Energy: 2
+  Chemicals: 2
+  Biochems: 5
+  Electronics: 2
+Upgrade Sharp Shooter (GE) to Sharp Shooter (AVE) at Lab
+Time to Build / Upgrade: 1
+[9220] Technologies Required to Build Unit (57):
+  [320] Viper Militia (88)
+  [8900] Genetically-Enhanced Warriors (25)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Sharp Shooter (ME)
+Nick Name: SShot (ME)
+Scores & Strengths:
+  Tech Score: 1428
+  Unit Score: 1561
+  Average Score: 1494
+  Stat Strength: 945
+  Total Strength: 1561
+  Planet Strength: 1561
+  Space Strength: 0
+  Garrison Strength: 378
+Statistics:
+  Movement Type: foot
+  Move Points: 17
+  Spot: 7
+  Camouflage: 15
+  Agility: 18
+  Armor: 7
+  Psy Defense: 3
+  Rank: 681
+Attacks:
+  Close: 44/14
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Upkeep / Maintenance: 24
+Build Cost: 95
+Build Resource Requirements:
+  Chemicals: 9
+  Electronics: 96
+  Ceramsteel: 2
+Upgrade Sharp Shooter to Sharp Shooter (ME) at Factory
+Time to Build / Upgrade: 1
+[6540] Technologies Required to Build Unit (84):
+  [320] Viper Militia (88)
+  [6220] Mechanically-Enhanced Soldiers (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Sharp Shooter (MF)
+Nick Name: SShot (MF)
+Scores & Strengths:
+  Tech Score: 3187
+  Unit Score: 2387
+  Average Score: 2787
+  Stat Strength: 1107
+  Total Strength: 2387
+  Planet Strength: 2387
+  Space Strength: 0
+  Garrison Strength: 754
+Statistics:
+  Movement Type: foot
+  Move Points: 10
+  Spot: 9
+  Camouflage: 24
+  Agility: 15
+  Armor: 10
+  Psy Defense: 5
+  Rank: 694
+Attacks:
+  Close: 64/20
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Upkeep / Maintenance: 233
+Build Cost: 2180
+Build Resource Requirements:
+  Wetware: 34
+  Monopols: 19
+Upgrade Sharp Shooter (CE) to Sharp Shooter (MF) at Wetware
+Time to Build / Upgrade: 2
+[18895] Technologies Required to Build Unit (62):
+  [320] Viper Militia (88)
+  [18575] Machine-Fused Soldiers (35)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Sharp Shooter (NE)
+Nick Name: SShot (NE)
+Scores & Strengths:
+  Tech Score: 3876
+  Unit Score: 3077
+  Average Score: 3477
+  Stat Strength: 1515
+  Total Strength: 3077
+  Planet Strength: 3077
+  Space Strength: 0
+  Garrison Strength: 927
+Statistics:
+  Movement Type: foot
+  Move Points: 11
+  Spot: 9
+  Camouflage: 30
+  Agility: 16
+  Armor: 11
+  Psy Defense: 6
+  Rank: 701
+Attacks:
+  Close: 71/22
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Upkeep / Maintenance: 241
+Build Cost: 2261
+Build Resource Requirements:
+  Wetware: 39
+  Monopols: 9
+Upgrade Sharp Shooter (AVE) to Sharp Shooter (NE) at Fusorium
+Time to Build / Upgrade: 2
+[24450] Technologies Required to Build Unit (60):
+  [320] Viper Militia (88)
+  [24130] Neumonically-Enhanced Soldiers (32)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

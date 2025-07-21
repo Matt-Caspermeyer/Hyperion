@@ -1,16 +1,16 @@
-All units of the unit class Noviate are listed herein (6 in total):
+All units of the unit class Grenadier are listed herein (12 in total):
 
 --1--
-Name: Noviate
-Nick Name: Noviate
+Name: Grenadier
+Nick Name: Grenadier
 Scores & Strengths:
-  Tech Score: 90
+  Tech Score: 92
   Unit Score: 90
-  Average Score: 90
-  Stat Strength: 81
+  Average Score: 91
+  Stat Strength: 74
   Total Strength: 90
   Planet Strength: 90
-  Space Strength: 90
+  Space Strength: 0
   Garrison Strength: 63
 Statistics:
   Movement Type: foot
@@ -18,237 +18,483 @@ Statistics:
   Spot: 2
   Camouflage: 2
   Agility: 7
-  Armor: 2
-  Psy Defense: 4
-  Rank: 701
+  Armor: 3
+  Psy Defense: 2
+  Rank: 56
 Attacks:
-  Psychic: 3/3
+  Indirect: 1/4
+  Close: 6/2
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Upkeep / Maintenance: 10
-Build Cost: 34
+Upkeep / Maintenance: 3
+Build Cost: 14
 Build Resource Requirements:
-  Food: 1
-  Metal: 7
-  Gems: 1
-Upgrade Tertiary to Noviate at Church
+  Metal: 3
+  Trace: 19
+  Exotica: 6
+  Chemicals: 11
+Upgrade Peasant to Grenadier at Fort
 Time to Build / Upgrade: 1
-[160] Technologies Required to Build Unit (100):
-  [110] Meditation (99)
-  [50] Applied Technology (100)
+[265] Technologies Required to Build Unit (99):
+  [100] Physics & Energy (100)
+  [165] Autocannon (98)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Canon
-Nick Name: Canon
+Name: Grenadier (PE)
+Nick Name: Gren (PE)
 Scores & Strengths:
-  Tech Score: 126
-  Unit Score: 125
-  Average Score: 125
-  Stat Strength: 113
-  Total Strength: 125
-  Planet Strength: 125
-  Space Strength: 125
-  Garrison Strength: 88
+  Tech Score: 137
+  Unit Score: 132
+  Average Score: 134
+  Stat Strength: 111
+  Total Strength: 132
+  Planet Strength: 132
+  Space Strength: 0
+  Garrison Strength: 76
 Statistics:
   Movement Type: foot
-  Move Points: 2
+  Move Points: 3
   Spot: 2
-  Camouflage: 2
-  Agility: 9
-  Armor: 2
-  Psy Defense: 4
-  Rank: 701
+  Camouflage: 3
+  Agility: 8
+  Armor: 4
+  Psy Defense: 3
+  Rank: 57
 Attacks:
-  Psychic: 3/4
+  Indirect: 1/5
+  Close: 8/2
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Upkeep / Maintenance: 13
-Build Cost: 98
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 5
+Build Cost: 28
 Build Resource Requirements:
-  Trace: 15
-  Chemicals: 11
-  Gems: 2
-Upgrade Noviate to Canon at Church
+  Metal: 12
+  Trace: 30
+  Exotica: 10
+  Chemicals: 17
+Upgrade Peasant to Grenadier (PE) at Fort
 Time to Build / Upgrade: 1
-[250] Technologies Required to Build Unit (95):
-  [125] Mechanical Think Machines (93)
-  [125] Psychoconditioning (97)
+[280] Technologies Required to Build Unit (95):
+  [100] Physics & Energy (100)
+  [180] Performance-Enhanced Soldiers (90)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Deacon
-Nick Name: Deacon
+Name: Grenadier (BE)
+Nick Name: Gren (BE)
 Scores & Strengths:
-  Tech Score: 192
-  Unit Score: 192
-  Average Score: 192
-  Stat Strength: 142
-  Total Strength: 192
-  Planet Strength: 192
-  Space Strength: 192
-  Garrison Strength: 110
+  Tech Score: 186
+  Unit Score: 176
+  Average Score: 181
+  Stat Strength: 137
+  Total Strength: 176
+  Planet Strength: 176
+  Space Strength: 0
+  Garrison Strength: 101
 Statistics:
   Movement Type: foot
   Move Points: 3
-  Spot: 4
-  Camouflage: 4
+  Spot: 2
+  Camouflage: 3
   Agility: 9
-  Armor: 2
-  Psy Defense: 4
-  Rank: 702
+  Armor: 5
+  Psy Defense: 3
+  Rank: 60
 Attacks:
-  Psychic: 10/5
+  Indirect: 2/6
+  Close: 9/3
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Upkeep / Maintenance: 15
-Build Cost: 47
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 8
+Build Cost: 67
 Build Resource Requirements:
-  Gems: 2
-Upgrade Canon to Deacon at Church
+  Food: 1
+  Energy: 3
+  Metal: 13
+  Trace: 6
+  Exotica: 2
+  Chemicals: 4
+  Biochems: 30
+Upgrade Grenadier to Grenadier (BE) at Fort
 Time to Build / Upgrade: 1
-[540] Technologies Required to Build Unit (96):
-  [125] Scholastic Medicine (98)
-  [125] Mechanical Think Machines (93)
-  [145] Composite Armor (97)
-  [145] Psychosonic Manipulation (95)
+[520] Technologies Required to Build Unit (89):
+  [100] Physics & Energy (100)
+  [420] Biochem-Enhanced Soldiers (77)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Priest
-Nick Name: Priest
+Name: Grenadier (SE)
+Nick Name: Gren (SE)
 Scores & Strengths:
-  Tech Score: 227
-  Unit Score: 227
-  Average Score: 227
-  Stat Strength: 179
-  Total Strength: 227
-  Planet Strength: 227
-  Space Strength: 227
-  Garrison Strength: 131
+  Tech Score: 265
+  Unit Score: 251
+  Average Score: 258
+  Stat Strength: 193
+  Total Strength: 251
+  Planet Strength: 251
+  Space Strength: 0
+  Garrison Strength: 125
 Statistics:
   Movement Type: foot
-  Move Points: 3
-  Spot: 4
-  Camouflage: 3
+  Move Points: 4
+  Spot: 3
+  Camouflage: 4
   Agility: 10
-  Armor: 3
-  Psy Defense: 6
-  Rank: 702
+  Armor: 6
+  Psy Defense: 4
+  Rank: 62
 Attacks:
-  Psychic: 8/6
+  Indirect: 2/7
+  Close: 11/4
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Upkeep / Maintenance: 17
-Build Cost: 121
+Upkeep / Maintenance: 12
+Build Cost: 102
 Build Resource Requirements:
-  Food: 1
-  Energy: 1
-  Metal: 5
-  Exotica: 1
-  Chemicals: 3
-  Gems: 1
-Upgrade Deacon to Priest at Church
+  Food: 2
+  Energy: 5
+  Metal: 11
+  Trace: 16
+  Exotica: 4
+  Chemicals: 9
+  Biochems: 39
+Upgrade Grenadier to Grenadier (SE) at Hospital
 Time to Build / Upgrade: 1
-[650] Technologies Required to Build Unit (93):
-  [160] Transfusion (92)
-  [125] Mechanical Think Machines (93)
-  [145] Composite Armor (97)
-  [220] Indoctrination (91)
+[775] Technologies Required to Build Unit (88):
+  [100] Physics & Energy (100)
+  [675] Surgically-Enhanced Soldiers (75)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Bishop
-Nick Name: Bishop
+Name: Grenadier (DE)
+Nick Name: Gren (DE)
 Scores & Strengths:
-  Tech Score: 318
-  Unit Score: 319
-  Average Score: 318
-  Stat Strength: 265
-  Total Strength: 319
-  Planet Strength: 319
-  Space Strength: 319
-  Garrison Strength: 130
+  Tech Score: 898
+  Unit Score: 591
+  Average Score: 745
+  Stat Strength: 432
+  Total Strength: 591
+  Planet Strength: 591
+  Space Strength: 0
+  Garrison Strength: 223
 Statistics:
   Movement Type: foot
-  Move Points: 6
-  Spot: 6
-  Camouflage: 2
-  Agility: 12
-  Armor: 3
-  Psy Defense: 6
-  Rank: 703
+  Move Points: 7
+  Spot: 4
+  Camouflage: 7
+  Agility: 13
+  Armor: 10
+  Psy Defense: 7
+  Rank: 73
 Attacks:
-  Psychic: 9/6
+  Indirect: 3/13
+  Close: 20/6
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Upkeep / Maintenance: 20
-Build Cost: 82
+Upkeep / Maintenance: 10
+Build Cost: 90
 Build Resource Requirements:
-  Food: 4
-  Energy: 3
-  Exotica: 4
-  Chemicals: 1
-  Biochems: 20
-Upgrade Priest to Bishop at Church
+  Metal: 43
+  Chemicals: 3
+  Biochems: 30
+  Electronics: 23
+Upgrade Grenadier to Grenadier (DE) at Biochem Plant
 Time to Build / Upgrade: 1
-[1070] Technologies Required to Build Unit (91):
-  [540] Organ Transplants (83)
-  [125] Mechanical Think Machines (93)
-  [145] Composite Armor (97)
-  [260] Liturgical Ritual (90)
+[3540] Technologies Required to Build Unit (83):
+  [100] Physics & Energy (100)
+  [3440] Drug-Enhanced Soldiers (65)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Archbishop
-Nick Name: Archbishop
+Name: Grenadier (PA)
+Nick Name: Gren (PA)
 Scores & Strengths:
-  Tech Score: 564
-  Unit Score: 564
-  Average Score: 564
-  Stat Strength: 420
-  Total Strength: 564
-  Planet Strength: 564
-  Space Strength: 564
-  Garrison Strength: 199
+  Tech Score: 1393
+  Unit Score: 812
+  Average Score: 1103
+  Stat Strength: 548
+  Total Strength: 812
+  Planet Strength: 812
+  Space Strength: 0
+  Garrison Strength: 287
 Statistics:
   Movement Type: foot
   Move Points: 8
-  Spot: 8
-  Camouflage: 4
+  Spot: 4
+  Camouflage: 8
   Agility: 14
-  Armor: 4
+  Armor: 12
   Psy Defense: 8
-  Rank: 706
+  Rank: 81
 Attacks:
-  Psychic: 8/18
+  Indirect: 4/16
+  Close: 25/8
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Upkeep / Maintenance: 92
-Build Cost: 836
+Upkeep / Maintenance: 16
+Build Cost: 56
 Build Resource Requirements:
-  Metal: 2
-  Chemicals: 5
-  Electronics: 14
-  Gems: 55
-Upgrade Bishop to Archbishop at Church
+  Energy: 3
+  Chemicals: 17
+  Electronics: 38
+  Ceramsteel: 19
+Upgrade Grenadier (SE) to Grenadier (PA) at Hospital
 Time to Build / Upgrade: 1
-[2325] Technologies Required to Build Unit (87):
-  [540] Organ Transplants (83)
-  [1130] Medical Sensing (85)
-  [125] Mechanical Think Machines (93)
-  [200] Explosive Armor (93)
-  [330] Holy Warriors (82)
+[6275] Technologies Required to Build Unit (79):
+  [100] Physics & Energy (100)
+  [6175] Prosthetically-Augmented Soldiers (57)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Grenadier (GE)
+Nick Name: Gren (GE)
+Scores & Strengths:
+  Tech Score: 1367
+  Unit Score: 812
+  Average Score: 1089
+  Stat Strength: 548
+  Total Strength: 812
+  Planet Strength: 812
+  Space Strength: 0
+  Garrison Strength: 287
+Statistics:
+  Movement Type: foot
+  Move Points: 8
+  Spot: 4
+  Camouflage: 8
+  Agility: 14
+  Armor: 12
+  Psy Defense: 8
+  Rank: 81
+Attacks:
+  Indirect: 4/16
+  Close: 25/8
+Load aboard transport: YES
+Upkeep / Maintenance: 13
+Build Cost: 35
+Build Resource Requirements:
+  Energy: 2
+  Chemicals: 5
+  Biochems: 14
+  Electronics: 1
+  Ceramsteel: 5
+Upgrade Grenadier (DE) to Grenadier (GE) at Lab
+Time to Build / Upgrade: 1
+[6120] Technologies Required to Build Unit (75):
+  [100] Physics & Energy (100)
+  [6020] Chemical Shock Legion (49)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Grenadier (CE)
+Nick Name: Gren (CE)
+Scores & Strengths:
+  Tech Score: 1786
+  Unit Score: 1027
+  Average Score: 1407
+  Stat Strength: 680
+  Total Strength: 1027
+  Planet Strength: 1027
+  Space Strength: 0
+  Garrison Strength: 342
+Statistics:
+  Movement Type: foot
+  Move Points: 9
+  Spot: 4
+  Camouflage: 9
+  Agility: 15
+  Armor: 14
+  Psy Defense: 9
+  Rank: 88
+Attacks:
+  Indirect: 5/19
+  Close: 28/9
+Load aboard transport: YES
+Upkeep / Maintenance: 18
+Build Cost: 122
+Build Resource Requirements:
+  Energy: 5
+  Metal: 3
+  Chemicals: 11
+  Biochems: 1
+  Ceramsteel: 5
+Upgrade Grenadier (PA) to Grenadier (CE) at Lab
+Time to Build / Upgrade: 1
+[8700] Technologies Required to Build Unit (74):
+  [100] Physics & Energy (100)
+  [8600] Cybernetically-Enhanced Soldiers (48)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Grenadier (AVE)
+Nick Name: Gen (AV)
+Scores & Strengths:
+  Tech Score: 1833
+  Unit Score: 1036
+  Average Score: 1434
+  Stat Strength: 680
+  Total Strength: 1036
+  Planet Strength: 1036
+  Space Strength: 0
+  Garrison Strength: 345
+Statistics:
+  Movement Type: foot
+  Move Points: 9
+  Spot: 4
+  Camouflage: 9
+  Agility: 15
+  Armor: 14
+  Psy Defense: 9
+  Rank: 88
+Attacks:
+  Indirect: 5/19
+  Close: 29/9
+Load aboard transport: YES
+Upkeep / Maintenance: 15
+Build Cost: 110
+Build Resource Requirements:
+  Energy: 2
+  Chemicals: 5
+  Biochems: 7
+Upgrade Grenadier (GE) to Grenadier (AVE) at Lab
+Time to Build / Upgrade: 1
+[9000] Technologies Required to Build Unit (63):
+  [100] Physics & Energy (100)
+  [8900] Genetically-Enhanced Warriors (25)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Grenadier (ME)
+Nick Name: Gren (ME)
+Scores & Strengths:
+  Tech Score: 1401
+  Unit Score: 1393
+  Average Score: 1397
+  Stat Strength: 1091
+  Total Strength: 1393
+  Planet Strength: 1393
+  Space Strength: 0
+  Garrison Strength: 319
+Statistics:
+  Movement Type: foot
+  Move Points: 19
+  Spot: 4
+  Camouflage: 8
+  Agility: 20
+  Armor: 13
+  Psy Defense: 9
+  Rank: 85
+Attacks:
+  Indirect: 4/17
+  Close: 26/9
+Load aboard transport: YES
+Upkeep / Maintenance: 12
+Build Cost: 108
+Build Resource Requirements:
+  Food: 2
+  Energy: 13
+  Trace: 3
+  Exotica: 3
+  Chemicals: 33
+  Electronics: 44
+  Ceramsteel: 8
+Upgrade Grenadier to Grenadier (ME) at Factory
+Time to Build / Upgrade: 2
+[6220] Technology Required to Build Unit (80):
+  [6220] Mechanically-Enhanced Soldiers (80)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Grenadier (MF)
+Nick Name: Gren (MF)
+Scores & Strengths:
+  Tech Score: 3182
+  Unit Score: 1701
+  Average Score: 2442
+  Stat Strength: 1107
+  Total Strength: 1701
+  Planet Strength: 1701
+  Space Strength: 0
+  Garrison Strength: 491
+Statistics:
+  Movement Type: foot
+  Move Points: 12
+  Spot: 5
+  Camouflage: 12
+  Agility: 17
+  Armor: 19
+  Psy Defense: 12
+  Rank: 105
+Attacks:
+  Indirect: 6/25
+  Close: 37/12
+Load aboard transport: YES
+Upkeep / Maintenance: 124
+Build Cost: 1122
+Build Resource Requirements:
+  Biochems: 9
+  Wetware: 13
+  Monopols: 39
+Upgrade Grenadier (CE) to Grenadier (MF) at Wetware
+Time to Build / Upgrade: 2
+[18675] Technologies Required to Build Unit (68):
+  [100] Physics & Energy (100)
+  [18575] Machine-Fused Soldiers (35)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Grenadier (NE)
+Nick Name: Gren (NE)
+Scores & Strengths:
+  Tech Score: 3872
+  Unit Score: 2276
+  Average Score: 3074
+  Stat Strength: 1506
+  Total Strength: 2276
+  Planet Strength: 2276
+  Space Strength: 0
+  Garrison Strength: 608
+Statistics:
+  Movement Type: foot
+  Move Points: 14
+  Spot: 5
+  Camouflage: 18
+  Agility: 18
+  Armor: 21
+  Psy Defense: 14
+  Rank: 116
+Attacks:
+  Indirect: 7/28
+  Close: 41/14
+Load aboard transport: YES
+Upkeep / Maintenance: 91
+Build Cost: 802
+Build Resource Requirements:
+  Wetware: 14
+  Monopols: 20
+Upgrade Grenadier (AVE) to Grenadier (NE) at Fusorium
+Time to Build / Upgrade: 1
+[24130] Technology Required to Build Unit (32):
+  [24130] Neumonically-Enhanced Soldiers (32)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

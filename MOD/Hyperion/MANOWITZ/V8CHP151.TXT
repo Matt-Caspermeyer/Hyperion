@@ -1,86 +1,431 @@
-All units of the unit class Chemical Shock Legion are listed herein (2 in total):
+All units of the unit class Ballistic Submarine are listed herein (9 in total):
 
 --1--
-Name: Chemical Shock Legion
-Nick Name: Grimsons
+Name: Ballistic Submarine
+Nick Name: Mauler
 Scores & Strengths:
-  Tech Score: 1367
-  Unit Score: 1367
-  Average Score: 1367
-  Stat Strength: 806
-  Total Strength: 1367
-  Planet Strength: 1367
-  Space Strength: 0
-  Garrison Strength: 394
+  Tech Score: 997
+  Unit Score: 993
+  Average Score: 995
+  Stat Strength: 712
+  Total Strength: 993
+  Planet Strength: 893
+  Space Strength: 812
+  Garrison Strength: 297
 Statistics:
-  Movement Type: foot
-  Move Points: 12
-  Spot: 8
-  Camouflage: 8
-  Agility: 22
-  Armor: 5
-  Psy Defense: 5
-  Rank: 67
+  Movement Type: underwater
+  Move Points: 9
+  Spot: 10
+  Camouflage: 12
+  Agility: 7
+  Armor: 13
+  Psy Defense: 13
+  Rank: 719
 Attacks:
-  Air: 9/8
-  Indirect: 11/10
-  Direct: 16/12
-  Close: 17/11
-Load aboard transport: YES
-Upkeep / Maintenance: 17
-Build Cost: 149
+  Ranged Space: 5/20
+  Water: 5/20
+  Direct: 9/9
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 45
+Build Cost: 454
 Build Resource Requirements:
-  Trace: 14
-  Exotica: 7
-  Chemicals: 26
-  Biochems: 51
-  Electronics: 31
-  Ceramsteel: 1
-Upgrade Peasant to Chemical Shock Legion at Biochem Plant
+  Food: 3
+  Energy: 30
+  Metal: 19
+  Trace: 15
+  Exotica: 4
+  Chemicals: 33
+  Biochems: 6
+  Electronics: 14
+Build Ballistic Submarine in Well
 Time to Build / Upgrade: 2
-[6020] Technology Required to Build Unit (49):
-  [6020] Chemical Shock Legion (49)
+[4675] Technologies Required to Build Unit (88):
+  [2725] Naval Capital Ships (88)
+  [1950] PTS Missile Launcher (88)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Shock Legion
-Nick Name: Shock Lgn
+Name: Ballistic Submarine II
+Nick Name: Mauler II
 Scores & Strengths:
-  Tech Score: 2509
-  Unit Score: 2271
-  Average Score: 2390
-  Stat Strength: 1232
-  Total Strength: 2271
-  Planet Strength: 2271
-  Space Strength: 0
-  Garrison Strength: 567
+  Tech Score: 1383
+  Unit Score: 1361
+  Average Score: 1372
+  Stat Strength: 952
+  Total Strength: 1361
+  Planet Strength: 1217
+  Space Strength: 1096
+  Garrison Strength: 366
 Statistics:
-  Movement Type: foot
-  Move Points: 16
-  Spot: 9
-  Camouflage: 11
-  Agility: 26
-  Armor: 7
-  Psy Defense: 7
-  Rank: 87
+  Movement Type: underwater
+  Move Points: 11
+  Spot: 11
+  Camouflage: 14
+  Agility: 8
+  Armor: 15
+  Psy Defense: 15
+  Rank: 727
 Attacks:
-  Air: 12/11
-  Indirect: 15/14
-  Direct: 22/16
-  Close: 23/15
-Load aboard transport: YES
-Upkeep / Maintenance: 58
-Build Cost: 430
+  Ranged Space: 6/24
+  Water: 6/24
+  Direct: 11/11
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 54
+Build Cost: 540
 Build Resource Requirements:
-  Trace: 1
-  Monopols: 20
-Upgrade Chemical Shock Legion to Shock Legion at Fort
-Time to Build / Upgrade: 1
-[16085] Technologies Required to Build Unit (64):
-  [6020] Chemical Shock Legion (49)
-  [10065] Powered-Armor Legion (79)
+  Food: 3
+  Energy: 31
+  Metal: 11
+  Trace: 11
+  Exotica: 3
+  Chemicals: 41
+  Biochems: 5
+  Electronics: 14
+  Ceramsteel: 12
+Build Ballistic Submarine II in Well
+Time to Build / Upgrade: 3
+[7805] Technologies Required to Build Unit (86):
+  [5855] Guided Missile Navalcraft (84)
+  [1950] PTS Missile Launcher (88)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Cruise Missile Submarine
+Nick Name: NSS-CM
+Scores & Strengths:
+  Tech Score: 1113
+  Unit Score: 1670
+  Average Score: 1392
+  Stat Strength: 828
+  Total Strength: 1670
+  Planet Strength: 1670
+  Space Strength: 0
+  Garrison Strength: 528
+Statistics:
+  Movement Type: underwater
+  Move Points: 10
+  Spot: 10
+  Camouflage: 14
+  Agility: 12
+  Armor: 12
+  Psy Defense: 12
+  Rank: 769
+Attacks:
+  Water: 10/16
+  Air: 16/19
+  Indirect: 18/21
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 80
+Build Cost: 797
+Build Resource Requirements:
+  Food: 4
+  Energy: 38
+  Metal: 22
+  Trace: 39
+  Exotica: 5
+  Chemicals: 41
+  Biochems: 11
+  Electronics: 24
+Build Cruise Missile Submarine in Well
+Time to Build / Upgrade: 4
+[5285] Technologies Required to Build Unit (85):
+  [1670] Guided Missiles (83)
+  [3615] Submarine Warfare (87)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Ballistic Submarine III
+Nick Name: Mauler III
+Scores & Strengths:
+  Tech Score: 1692
+  Unit Score: 1671
+  Average Score: 1681
+  Stat Strength: 1163
+  Total Strength: 1671
+  Planet Strength: 1489
+  Space Strength: 1345
+  Garrison Strength: 429
+Statistics:
+  Movement Type: underwater
+  Move Points: 12
+  Spot: 11
+  Camouflage: 16
+  Agility: 8
+  Armor: 17
+  Psy Defense: 17
+  Rank: 732
+Attacks:
+  Ranged Space: 7/26
+  Water: 7/26
+  Direct: 12/12
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 46
+Build Cost: 464
+Build Resource Requirements:
+  Food: 2
+  Energy: 25
+  Metal: 9
+  Trace: 9
+  Exotica: 2
+  Chemicals: 33
+  Biochems: 4
+  Electronics: 11
+  Ceramsteel: 11
+Build Ballistic Submarine III in Well
+Time to Build / Upgrade: 2
+[13855] Technologies Required to Build Unit (84):
+  [7200] Air-Independent Propulsion (85)
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Mini Submarine
+Nick Name: Mite
+Scores & Strengths:
+  Tech Score: 1931
+  Unit Score: 1931
+  Average Score: 1931
+  Stat Strength: 1413
+  Total Strength: 1931
+  Planet Strength: 1803
+  Space Strength: 1541
+  Garrison Strength: 450
+Statistics:
+  Movement Type: underwater
+  Move Points: 16
+  Spot: 12
+  Camouflage: 14
+  Agility: 13
+  Armor: 18
+  Psy Defense: 18
+  Rank: 754
+Attacks:
+  Ranged Space: 8/16
+  Water: 11/16
+  Air: 12/12
+  Indirect: 5/14
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Can be towed
+Upkeep / Maintenance: 377
+Build Cost: 3769
+Build Resource Requirements:
+  Food: 3
+  Energy: 10
+  Metal: 4
+  Trace: 7
+  Exotica: 3
+  Chemicals: 18
+  Electronics: 17
+  Ceramsteel: 8
+  Monopols: 28
+Build Mini Submarine in Well
+Time to Build / Upgrade: 3
+[18360] Technologies Required to Build Unit (76):
+  [1340] Nanotechnology (79)
+  [8935] Powered Ceramsteel Armor (75)
+  [8085] Fusion Rifles (75)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Ballistic Submarine IV
+Nick Name: Mauler IV
+Scores & Strengths:
+  Tech Score: 2165
+  Unit Score: 1998
+  Average Score: 2082
+  Stat Strength: 1423
+  Total Strength: 1998
+  Planet Strength: 1795
+  Space Strength: 1626
+  Garrison Strength: 497
+Statistics:
+  Movement Type: underwater
+  Move Points: 13
+  Spot: 12
+  Camouflage: 18
+  Agility: 8
+  Armor: 19
+  Psy Defense: 19
+  Rank: 738
+Attacks:
+  Ranged Space: 7/29
+  Water: 7/29
+  Direct: 13/13
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 49
+Build Cost: 490
+Build Resource Requirements:
+  Food: 2
+  Energy: 24
+  Metal: 10
+  Trace: 9
+  Exotica: 2
+  Chemicals: 33
+  Biochems: 4
+  Electronics: 11
+  Ceramsteel: 13
+Build Ballistic Submarine IV in Well
+Time to Build / Upgrade: 2
+[18665] Technologies Required to Build Unit (83):
+  [7200] Air-Independent Propulsion (85)
+  [4170] Supercruise Missiles (84)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Cruise Missile Submarine II
+Nick Name: NSS-CM II
+Scores & Strengths:
+  Tech Score: 1619
+  Unit Score: 2330
+  Average Score: 1975
+  Stat Strength: 1115
+  Total Strength: 2330
+  Planet Strength: 2330
+  Space Strength: 0
+  Garrison Strength: 672
+Statistics:
+  Movement Type: underwater
+  Move Points: 12
+  Spot: 11
+  Camouflage: 17
+  Agility: 13
+  Armor: 14
+  Psy Defense: 14
+  Rank: 783
+Attacks:
+  Water: 12/19
+  Air: 19/23
+  Indirect: 22/25
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 76
+Build Cost: 763
+Build Resource Requirements:
+  Food: 3
+  Energy: 31
+  Metal: 9
+  Trace: 29
+  Exotica: 3
+  Chemicals: 38
+  Biochems: 9
+  Electronics: 21
+  Ceramsteel: 9
+Build Cruise Missile Submarine II in Well
+Time to Build / Upgrade: 3
+[10270] Technologies Required to Build Unit (85):
+  [3615] Submarine Warfare (87)
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Cruise Missile Submarine III
+Nick Name: NSS-CM III
+Scores & Strengths:
+  Tech Score: 2165
+  Unit Score: 3119
+  Average Score: 2642
+  Stat Strength: 1514
+  Total Strength: 3119
+  Planet Strength: 3119
+  Space Strength: 0
+  Garrison Strength: 833
+Statistics:
+  Movement Type: underwater
+  Move Points: 14
+  Spot: 12
+  Camouflage: 20
+  Agility: 14
+  Armor: 17
+  Psy Defense: 17
+  Rank: 796
+Attacks:
+  Water: 14/22
+  Air: 22/26
+  Indirect: 25/29
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 75
+Build Cost: 745
+Build Resource Requirements:
+  Food: 2
+  Energy: 27
+  Metal: 8
+  Trace: 22
+  Exotica: 2
+  Chemicals: 36
+  Biochems: 7
+  Electronics: 19
+  Ceramsteel: 10
+Build Cruise Missile Submarine III in Well
+Time to Build / Upgrade: 3
+[18665] Technologies Required to Build Unit (83):
+  [7200] Air-Independent Propulsion (85)
+  [4170] Supercruise Missiles (84)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Morph Missile Submarine
+Nick Name: Banisher
+Scores & Strengths:
+  Tech Score: 7032
+  Unit Score: 6680
+  Average Score: 6856
+  Stat Strength: 2312
+  Total Strength: 6680
+  Planet Strength: 5240
+  Space Strength: 3752
+  Garrison Strength: 1235
+Statistics:
+  Movement Type: underwater
+  Move Points: 18
+  Spot: 16
+  Camouflage: 18
+  Agility: 16
+  Armor: 24
+  Psy Defense: 24
+  Rank: 838
+Attacks:
+  Ranged Space: 30/48
+  Water: 31/48
+  Direct: 30/48
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 1241
+Build Cost: 12409
+Build Resource Requirements:
+  Food: 1
+  Energy: 21
+  Metal: 3
+  Trace: 11
+  Exotica: 1
+  Chemicals: 29
+  Biochems: 41
+  Electronics: 17
+  Ceramsteel: 4
+  Wetware: 14
+  Monopols: 39
+Build Morph Missile Submarine in Well
+Time to Build / Upgrade: 4
+[60115] Technologies Required to Build Unit (67):
+  [6655] PTS Missile Navalcraft (83)
+  [53460] Polymorphonic Patrolcraft (50)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

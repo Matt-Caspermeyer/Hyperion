@@ -1,269 +1,253 @@
-All units of the unit class Space Missile Platform are listed herein (6 in total):
+All units of the unit class Sonobuoy are listed herein (6 in total):
 
 --1--
-Name: Space Missile Platform
-Nick Name: SS-MP
+Name: Sonobuoy
+Nick Name: Sonobuoy
 Scores & Strengths:
-  Tech Score: 335
-  Unit Score: 335
-  Average Score: 335
-  Stat Strength: 267
-  Total Strength: 335
-  Planet Strength: 0
-  Space Strength: 335
-  Garrison Strength: 0
+  Tech Score: 326
+  Unit Score: 320
+  Average Score: 323
+  Stat Strength: 320
+  Total Strength: 320
+  Planet Strength: 320
+  Space Strength: 0
+  Garrison Strength: 400
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 10
-  Psy Defense: 10
-  Rank: 149
-Attacks:
-  Ranged Space: 4/17
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 12
+  Camouflage: 12
+  Agility: 0
+  Armor: 4
+  Psy Defense: 4
+  Rank: 3
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 14
-Build Cost: 141
+Can be towed
+Upkeep / Maintenance: 23
+Build Cost: 229
 Build Resource Requirements:
-  Food: 4
+  Food: 13
   Energy: 1
-  Metal: 50
-  Trace: 8
-  Exotica: 4
-  Chemicals: 42
-  Electronics: 5
-Build Space Missile Platform in Starport
+  Metal: 32
+  Trace: 28
+  Exotica: 12
+  Chemicals: 1
+  Electronics: 46
+Build Sonobuoy in Well
 Time to Build / Upgrade: 2
-[1735] Technologies Required to Build Unit (91):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [795] Missiles (86)
-Counts as planetary flock: YES
+[890] Technology Required to Build Unit (86):
+  [890] Sonobouy (86)
 Unit can be disbanded: YES
 
 --2--
-Name: Space Artillery
-Nick Name: SS-Artillery
+Name: Sonobuoy II
+Nick Name: Sonobuoy II
 Scores & Strengths:
-  Tech Score: 366
-  Unit Score: 365
-  Average Score: 366
-  Stat Strength: 275
-  Total Strength: 365
-  Planet Strength: 0
-  Space Strength: 365
-  Garrison Strength: 0
+  Tech Score: 613
+  Unit Score: 502
+  Average Score: 557
+  Stat Strength: 502
+  Total Strength: 502
+  Planet Strength: 502
+  Space Strength: 0
+  Garrison Strength: 627
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 3
-  Armor: 10
-  Psy Defense: 10
-  Rank: 162
-Attacks:
-  Ranged Space: 3/30
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 14
+  Camouflage: 16
+  Agility: 0
+  Armor: 5
+  Psy Defense: 5
+  Rank: 6
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 25
-Build Cost: 251
+Can be towed
+Upkeep / Maintenance: 12
+Build Cost: 116
 Build Resource Requirements:
   Food: 5
-  Energy: 1
-  Metal: 45
-  Trace: 9
+  Metal: 5
+  Trace: 17
   Exotica: 5
-  Chemicals: 108
-  Electronics: 5
-Build Space Artillery in Starport
-Time to Build / Upgrade: 3
-[1405] Technologies Required to Build Unit (93):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [465] Recoilless Gun (93)
-Counts as planetary flock: YES
+  Biochems: 4
+  Electronics: 20
+Build Sonobuoy II in Well
+Time to Build / Upgrade: 1
+[3965] Technologies Required to Build Unit (85):
+  [1130] Medical Sensing (85)
+  [890] Sonobouy (86)
+  [385] Phased-Array Radar (84)
+  [1560] Naval Patrol Ships (86)
 Unit can be disbanded: YES
 
 --3--
-Name: Space Battery
-Nick Name: SS-Battery
+Name: Sonobuoy III
+Nick Name: Sonobuoy III
 Scores & Strengths:
-  Tech Score: 366
-  Unit Score: 365
-  Average Score: 366
-  Stat Strength: 267
-  Total Strength: 365
-  Planet Strength: 0
-  Space Strength: 365
-  Garrison Strength: 0
+  Tech Score: 948
+  Unit Score: 754
+  Average Score: 851
+  Stat Strength: 754
+  Total Strength: 754
+  Planet Strength: 754
+  Space Strength: 0
+  Garrison Strength: 942
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 10
-  Psy Defense: 10
-  Rank: 121
-Attacks:
-  Ranged Space: 4/14
-  Direct Space: 3/14
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 16
+  Camouflage: 20
+  Agility: 0
+  Armor: 7
+  Psy Defense: 7
+  Rank: 9
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 184
+Can be towed
+Upkeep / Maintenance: 13
+Build Cost: 132
 Build Resource Requirements:
-  Food: 5
-  Energy: 16
-  Metal: 45
-  Trace: 10
-  Exotica: 5
-  Chemicals: 55
-  Electronics: 6
-Build Space Battery in Starport
-Time to Build / Upgrade: 3
-[1405] Technologies Required to Build Unit (93):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [465] Recoilless Gun (93)
-Counts as planetary flock: YES
+  Food: 4
+  Metal: 8
+  Trace: 19
+  Exotica: 4
+  Biochems: 4
+  Electronics: 22
+Build Sonobuoy III in Well
+Time to Build / Upgrade: 2
+[6315] Technologies Required to Build Unit (82):
+  [1690] Computerized Medical Imaging (76)
+  [890] Sonobouy (86)
+  [1465] Airborne-Pulse Radar (78)
+  [2270] Naval Escort Ships (86)
 Unit can be disbanded: YES
 
 --4--
-Name: Space Turret
-Nick Name: SS-Turret
+Name: Sonobuoy IV
+Nick Name: Sonobuoy IV
 Scores & Strengths:
-  Tech Score: 636
-  Unit Score: 634
-  Average Score: 635
-  Stat Strength: 472
-  Total Strength: 634
-  Planet Strength: 0
-  Space Strength: 634
-  Garrison Strength: 0
+  Tech Score: 1437
+  Unit Score: 1042
+  Average Score: 1239
+  Stat Strength: 1042
+  Total Strength: 1042
+  Planet Strength: 1042
+  Space Strength: 0
+  Garrison Strength: 1302
 Statistics:
-  Movement Type: space
-  Move Points: 2
-  Spot: 8
-  Camouflage: 4
-  Agility: 10
-  Armor: 12
-  Psy Defense: 12
-  Rank: 133
-Attacks:
-  Direct Space: 9/18
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 17
+  Camouflage: 25
+  Agility: 0
+  Armor: 8
+  Psy Defense: 8
+  Rank: 12
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 20
-Build Cost: 197
+Can be towed
+Upkeep / Maintenance: 13
+Build Cost: 128
 Build Resource Requirements:
-  Food: 5
-  Energy: 18
-  Metal: 65
+  Food: 3
+  Metal: 6
   Trace: 15
-  Exotica: 4
-  Chemicals: 40
-  Electronics: 8
-Build Space Turret in Starport
-Time to Build / Upgrade: 3
-[2725] Technologies Required to Build Unit (92):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [1785] Rotary Autocannon (90)
-Counts as planetary flock: YES
+  Exotica: 3
+  Chemicals: 1
+  Biochems: 2
+  Electronics: 20
+  Ceramsteel: 5
+Build Sonobuoy IV in Well
+Time to Build / Upgrade: 2
+[12480] Technologies Required to Build Unit (78):
+  [1845] Deep Tissue Imaging (72)
+  [1845] Computational Microscopy (67)
+  [890] Sonobouy (86)
+  [1605] Imaging Radar (78)
+  [3570] Robotics (76)
+  [2725] Naval Capital Ships (88)
 Unit can be disbanded: YES
 
 --5--
-Name: Space Point Defense
-Nick Name: SS-PD
+Name: Sonobuoy V
+Nick Name: Sonobuoy V
 Scores & Strengths:
-  Tech Score: 636
-  Unit Score: 635
-  Average Score: 635
-  Stat Strength: 453
-  Total Strength: 635
-  Planet Strength: 0
-  Space Strength: 635
-  Garrison Strength: 0
+  Tech Score: 1903
+  Unit Score: 1402
+  Average Score: 1653
+  Stat Strength: 1402
+  Total Strength: 1402
+  Planet Strength: 1402
+  Space Strength: 0
+  Garrison Strength: 1752
 Statistics:
-  Movement Type: space
-  Move Points: 2
-  Spot: 8
-  Camouflage: 4
-  Agility: 13
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 19
+  Camouflage: 29
+  Agility: 0
   Armor: 10
   Psy Defense: 10
-  Rank: 56
-Attacks:
-  Closed Space: 14/13
+  Rank: 17
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 181
+Can be towed
+Upkeep / Maintenance: 19
+Build Cost: 193
 Build Resource Requirements:
-  Food: 6
-  Energy: 13
-  Metal: 45
-  Trace: 25
-  Exotica: 6
-  Chemicals: 28
-  Electronics: 14
-Build Space Point Defense in Starport
+  Food: 4
+  Metal: 9
+  Trace: 21
+  Exotica: 4
+  Chemicals: 2
+  Biochems: 3
+  Electronics: 28
+  Ceramsteel: 8
+Build Sonobuoy V in Well
 Time to Build / Upgrade: 2
-[2725] Technologies Required to Build Unit (92):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [1785] Rotary Autocannon (90)
-Counts as planetary flock: YES
+[12600] Technologies Required to Build Unit (79):
+  [6490] Real-Time Medical Imaging (65)
+  [890] Sonobouy (86)
+  [1605] Imaging Radar (78)
+  [3615] Submarine Warfare (87)
 Unit can be disbanded: YES
 
 --6--
-Name: Space Defense Platform
-Nick Name: SS-DP
+Name: Sonobuoy VI
+Nick Name: Sonobuoy VI
 Scores & Strengths:
-  Tech Score: 832
-  Unit Score: 1245
-  Average Score: 1038
-  Stat Strength: 985
-  Total Strength: 1245
-  Planet Strength: 0
-  Space Strength: 1245
-  Garrison Strength: 0
+  Tech Score: 2352
+  Unit Score: 1666
+  Average Score: 2009
+  Stat Strength: 1666
+  Total Strength: 1666
+  Planet Strength: 1666
+  Space Strength: 0
+  Garrison Strength: 2082
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 10
-  Camouflage: 1
-  Agility: 1
-  Armor: 21
-  Psy Defense: 21
-  Rank: 127
-Attacks:
-  Ranged Space: 8/25
-  Direct Space: 5/12
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 20
+  Camouflage: 32
+  Agility: 0
+  Armor: 11
+  Psy Defense: 11
+  Rank: 20
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 30
-Build Cost: 304
+Can be towed
+Upkeep / Maintenance: 16
+Build Cost: 159
 Build Resource Requirements:
   Food: 3
-  Energy: 5
-  Metal: 134
-  Trace: 8
-  Exotica: 2
-  Chemicals: 67
-  Electronics: 6
-Build Space Defense Platform in Starport
-Time to Build / Upgrade: 4
-[4860] Technologies Required to Build Unit (91):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [465] Recoilless Gun (93)
-  [1785] Rotary Autocannon (90)
-  [1670] Guided Missiles (83)
-Counts as planetary flock: YES
+  Metal: 5
+  Trace: 17
+  Exotica: 3
+  Chemicals: 1
+  Biochems: 2
+  Electronics: 25
+  Ceramsteel: 6
+Build Sonobuoy VI in Well
+Time to Build / Upgrade: 2
+[18360] Technologies Required to Build Unit (79):
+  [6490] Real-Time Medical Imaging (65)
+  [890] Sonobouy (86)
+  [3780] Beam Control (79)
+  [7200] Air-Independent Propulsion (85)
 Unit can be disbanded: YES

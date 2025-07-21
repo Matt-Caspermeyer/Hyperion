@@ -1,251 +1,136 @@
-All units of the unit class Strategic Bomber are listed herein (5 in total):
+All units of the unit class Jump Frigate are listed herein (3 in total):
 
 --1--
-Name: Strategic Bomber
-Nick Name: Devastator
+Name: Jump Frigate
+Nick Name: JJ-FF
 Scores & Strengths:
-  Tech Score: 1142
-  Unit Score: 1710
-  Average Score: 1426
-  Stat Strength: 1401
-  Total Strength: 1710
-  Planet Strength: 1710
-  Space Strength: 0
-  Garrison Strength: 323
+  Tech Score: 1757
+  Unit Score: 1536
+  Average Score: 1647
+  Stat Strength: 1201
+  Total Strength: 1536
+  Planet Strength: 0
+  Space Strength: 1536
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 28
-  Spot: 10
-  Camouflage: 5
-  Agility: 10
-  Armor: 14
-  Psy Defense: 14
-  Rank: 175
+  Movement Type: jump
+  Move Points: 13
+  Spot: 11
+  Camouflage: 2
+  Agility: 5
+  Armor: 21
+  Psy Defense: 21
+  Rank: 168
 Attacks:
-  Air: 6/11
-  Indirect: 9/27
-Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 92
+  Direct Space: 17/10
+  Closed Space: 11/15
+Immune to Plague
+Upkeep / Maintenance: 347
+Build Cost: 3471
 Build Resource Requirements:
-  Food: 10
-  Energy: 35
-  Metal: 28
-  Trace: 6
-  Exotica: 10
-  Chemicals: 20
-  Biochems: 9
-  Electronics: 5
-Build Strategic Bomber in Factory
+  Food: 3
+  Energy: 6
+  Metal: 11
+  Trace: 11
+  Exotica: 3
+  Chemicals: 8
+  Electronics: 17
+  Monopols: 36
+S  ingularities: 4
+Build Jump Frigate in Starport
 Time to Build / Upgrade: 3
-[7115] Technologies Required to Build Unit (88):
-  [795] Missiles (86)
-  [1810] Jet-Propulsion Aircraft (86)
-  [2725] Naval Capital Ships (88)
-  [1785] Rotary Autocannon (90)
+[11760] Technologies Required to Build Unit (68):
+  [4285] Jump Drives (70)
+  [7475] Cold Fusion Cells (66)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Neutron Bomber
-Nick Name: Desolator
+Name: Space Frigate
+Nick Name: SS-FF
 Scores & Strengths:
-  Tech Score: 3125
-  Unit Score: 2583
-  Average Score: 2854
-  Stat Strength: 1788
-  Total Strength: 2583
-  Planet Strength: 2583
-  Space Strength: 0
-  Garrison Strength: 456
+  Tech Score: 2580
+  Unit Score: 2164
+  Average Score: 2372
+  Stat Strength: 1690
+  Total Strength: 2164
+  Planet Strength: 0
+  Space Strength: 2164
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 32
+  Movement Type: space
+  Move Points: 16
   Spot: 12
-  Camouflage: 7
-  Agility: 11
-  Armor: 15
-  Psy Defense: 15
-  Rank: 166
+  Camouflage: 2
+  Agility: 6
+  Armor: 25
+  Psy Defense: 25
+  Rank: 156
 Attacks:
-  Air: 7/12
-  Indirect: 11/28
-  Direct: 11/26
-  Close: 13/9
-Load aboard transport: YES
-Upkeep / Maintenance: 76
-Build Cost: 762
+  Direct Space: 20/12
+  Closed Space: 13/18
+Immune to Plague
+Upkeep / Maintenance: 29
+Build Cost: 294
 Build Resource Requirements:
-  Food: 6
-  Energy: 20
-  Metal: 2
-  Trace: 6
-  Exotica: 6
-  Chemicals: 23
-  Biochems: 24
-  Electronics: 12
-  Ceramsteel: 4
-  Monopols: 29
-Build Neutron Bomber in Factory
+  Food: 2
+  Energy: 10
+  Metal: 18
+  Trace: 10
+  Exotica: 3
+  Chemicals: 18
+  Biochems: 20
+  Electronics: 15
+  Ceramsteel: 20
+Build Space Frigate in Starport
 Time to Build / Upgrade: 3
-[19925] Technologies Required to Build Unit (39):
-  [3650] Viral DNA (11)
-  [835] Spore Delivery (27)
-  [15440] Power Aircraft (79)
+[14045] Technology Required to Build Unit (84):
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Stigmata MegaFortress
-Nick Name: MegaFortress
+Name: Jump Frigate II
+Nick Name: JJ-FF2
 Scores & Strengths:
-  Tech Score: 4697
-  Unit Score: 4696
-  Average Score: 4696
-  Stat Strength: 2674
-  Total Strength: 4696
-  Planet Strength: 4696
-  Space Strength: 0
-  Garrison Strength: 733
+  Tech Score: 4325
+  Unit Score: 3550
+  Average Score: 3938
+  Stat Strength: 2743
+  Total Strength: 3550
+  Planet Strength: 0
+  Space Strength: 3550
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 41
-  Spot: 10
-  Camouflage: 7
-  Agility: 14
-  Armor: 18
-  Psy Defense: 18
-  Rank: 196
+  Movement Type: jump
+  Move Points: 21
+  Spot: 14
+  Camouflage: 3
+  Agility: 7
+  Armor: 32
+  Psy Defense: 32
+  Rank: 206
 Attacks:
-  Air: 17/31
-  Indirect: 16/35
-  Direct: 15/34
-  Close: 17/25
-Load aboard transport: YES
-Never needs refueling
-Upkeep / Maintenance: 174
-Build Cost: 1742
+  Direct Space: 26/16
+  Closed Space: 17/23
+Immune to Plague
+Upkeep / Maintenance: 515
+Build Cost: 5150
 Build Resource Requirements:
-  Food: 3
-  Energy: 21
-  Metal: 2
-  Trace: 4
-  Exotica: 4
-  Chemicals: 27
-  Biochems: 22
-  Electronics: 8
-  Ceramsteel: 3
-  Wetware: 6
-  Monopols: 36
-Build Stigmata MegaFortress in Factory
-Time to Build / Upgrade: 4
-[38900] Technologies Required to Build Unit (51):
-  [23395] Advanced Hovertech (37)
-  [15505] Meson Cannon (65)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---4--
-Name: Stealth Bomber
-Nick Name: Pulverizer
-Scores & Strengths:
-  Tech Score: 8541
-  Unit Score: 8417
-  Average Score: 8479
-  Stat Strength: 6357
-  Total Strength: 8417
-  Planet Strength: 8417
-  Space Strength: 0
-  Garrison Strength: 1105
-Statistics:
-  Movement Type: air
-  Move Points: 58
-  Spot: 20
-  Camouflage: 25
-  Agility: 20
-  Armor: 28
-  Psy Defense: 28
-  Rank: 285
-Attacks:
-  Air: 24/31
-  Indirect: 28/47
-Load aboard transport: YES
-Upkeep / Maintenance: 106
-Build Cost: 1060
-Build Resource Requirements:
-  Food: 3
-  Energy: 13
-  Metal: 2
-  Trace: 4
-  Exotica: 3
-  Chemicals: 12
-  Biochems: 16
-  Electronics: 9
-  Ceramsteel: 4
-  Wetware: 3
-  Monopols: 19
-Build Stealth Bomber in Factory
+  Food: 2
+  Energy: 6
+  Metal: 9
+  Trace: 10
+  Exotica: 2
+  Chemicals: 13
+  Biochems: 19
+  Electronics: 20
+  Ceramsteel: 13
+  Monopols: 24
+S  ingularities: 5
+Build Jump Frigate II in Starport
 Time to Build / Upgrade: 3
-[101590] Technologies Required to Build Unit (59):
-  [1785] Rotary Autocannon (90)
-  [45010] Hover Navalcraft (52)
-  [54795] Neumonic Patrolcraft (35)
+[27965] Technology Required to Build Unit (75):
+  [27965] Jump Escorts (75)
 Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Stealth Neutron Bomber
-Nick Name: Punisher
-Scores & Strengths:
-  Tech Score: 8541
-  Unit Score: 8418
-  Average Score: 8479
-  Stat Strength: 6293
-  Total Strength: 8418
-  Planet Strength: 8418
-  Space Strength: 0
-  Garrison Strength: 1114
-Statistics:
-  Movement Type: air
-  Move Points: 57
-  Spot: 20
-  Camouflage: 26
-  Agility: 20
-  Armor: 28
-  Psy Defense: 28
-  Rank: 241
-Attacks:
-  Air: 14/23
-  Indirect: 18/38
-  Direct: 20/36
-  Close: 21/19
-Load aboard transport: YES
-Upkeep / Maintenance: 128
-Build Cost: 1281
-Build Resource Requirements:
-  Food: 3
-  Energy: 13
-  Metal: 2
-  Trace: 5
-  Exotica: 4
-  Chemicals: 14
-  Biochems: 20
-  Electronics: 10
-  Ceramsteel: 4
-  Wetware: 5
-  Monopols: 22
-Build Stealth Neutron Bomber in Factory
-Time to Build / Upgrade: 3
-[106075] Technologies Required to Build Unit (43):
-  [3650] Viral DNA (11)
-  [835] Spore Delivery (27)
-  [1785] Rotary Autocannon (90)
-  [45010] Hover Navalcraft (52)
-  [54795] Neumonic Patrolcraft (35)
-Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

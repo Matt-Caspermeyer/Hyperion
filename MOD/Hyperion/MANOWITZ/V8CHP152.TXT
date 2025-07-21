@@ -1,467 +1,418 @@
-All units of the unit class Space Lander Assault are listed herein (10 in total):
+All units of the unit class Tracker Legion are listed herein (10 in total):
 
 --1--
-Name: Space Lander Assault
-Nick Name: MM-LA
+Name: Tracker Legion
+Nick Name: Tracker
 Scores & Strengths:
-  Tech Score: 1814
-  Unit Score: 1383
-  Average Score: 1599
-  Stat Strength: 975
-  Total Strength: 1383
-  Planet Strength: 1179
-  Space Strength: 1179
-  Garrison Strength: 445
+  Tech Score: 1019
+  Unit Score: 1018
+  Average Score: 1019
+  Stat Strength: 678
+  Total Strength: 1018
+  Planet Strength: 1018
+  Space Strength: 0
+  Garrison Strength: 321
 Statistics:
-  Movement Type: mech
-  Move Points: 7
-  Spot: 10
-  Camouflage: 5
-  Agility: 17
-  Armor: 16
-  Psy Defense: 16
-  Rank: 97
+  Movement Type: foot
+  Move Points: 10
+  Spot: 11
+  Camouflage: 11
+  Agility: 16
+  Armor: 4
+  Psy Defense: 8
+  Rank: 60
 Attacks:
-  Direct Space: 8/13
-  Closed Space: 10/10
-  Direct: 8/13
-  Close: 10/10
-Cargo Space: 1
-Immune to Plague
-Upkeep / Maintenance: 13
-Build Cost: 127
+  Direct: 10/15
+  Close: 19/10
+Load aboard transport: YES
+Upkeep / Maintenance: 16
+Build Cost: 140
 Build Resource Requirements:
-  Food: 3
-  Energy: 14
-  Metal: 10
-  Trace: 12
-  Exotica: 3
-  Chemicals: 24
-  Electronics: 19
-  Ceramsteel: 10
-Build Space Lander Assault in Starport
+  Trace: 18
+  Exotica: 7
+  Chemicals: 29
+  Biochems: 43
+  Electronics: 41
+  Ceramsteel: 2
+Upgrade Peasant to Tracker Legion at Fort
 Time to Build / Upgrade: 2
-[8780] Technology Required to Build Unit (86):
-  [8780] Space Transports (86)
+[4070] Technology Required to Build Unit (69):
+  [4070] Tracker Legion (69)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Space Lander Infantry
-Nick Name: MM-LI
+Name: Tracker Legion (BE)
+Nick Name: Tracker (BE)
 Scores & Strengths:
-  Tech Score: 1814
-  Unit Score: 1386
-  Average Score: 1600
-  Stat Strength: 978
-  Total Strength: 1386
-  Planet Strength: 1182
-  Space Strength: 1182
-  Garrison Strength: 482
+  Tech Score: 1042
+  Unit Score: 1229
+  Average Score: 1135
+  Stat Strength: 795
+  Total Strength: 1229
+  Planet Strength: 1229
+  Space Strength: 0
+  Garrison Strength: 370
 Statistics:
-  Movement Type: mech
-  Move Points: 6
-  Spot: 10
-  Camouflage: 5
-  Agility: 13
-  Armor: 18
-  Psy Defense: 18
-  Rank: 108
+  Movement Type: foot
+  Move Points: 11
+  Spot: 12
+  Camouflage: 12
+  Agility: 17
+  Armor: 4
+  Psy Defense: 9
+  Rank: 64
 Attacks:
-  Direct Space: 7/15
-  Closed Space: 9/11
-  Direct: 7/15
-  Close: 9/11
-Cargo Space: 2
-Immune to Plague
-Upkeep / Maintenance: 14
-Build Cost: 136
+  Direct: 12/16
+  Close: 22/11
+Load aboard transport: YES
+Upkeep / Maintenance: 19
+Build Cost: 54
 Build Resource Requirements:
-  Food: 2
-  Energy: 16
-  Metal: 12
-  Trace: 9
+  Food: 1
+  Energy: 2
+  Trace: 6
   Exotica: 2
-  Chemicals: 27
-  Electronics: 15
-  Ceramsteel: 12
-Build Space Lander Infantry in Starport
-Time to Build / Upgrade: 2
-[8780] Technology Required to Build Unit (86):
-  [8780] Space Transports (86)
+  Chemicals: 2
+  Biochems: 9
+  Electronics: 6
+Upgrade Tracker Legion to Tracker Legion (BE) at Biochem Plant
+Time to Build / Upgrade: 1
+[4490] Technologies Required to Build Unit (73):
+  [4070] Tracker Legion (69)
+  [420] Biochem-Enhanced Soldiers (77)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Space Assault Lander
-Nick Name: MM-ATL
+Name: Tracker Legion (SE)
+Nick Name: Tracker (SE)
 Scores & Strengths:
-  Tech Score: 1814
-  Unit Score: 1387
-  Average Score: 1601
-  Stat Strength: 851
-  Total Strength: 1387
-  Planet Strength: 1179
-  Space Strength: 1059
-  Garrison Strength: 416
+  Tech Score: 1086
+  Unit Score: 1326
+  Average Score: 1206
+  Stat Strength: 846
+  Total Strength: 1326
+  Planet Strength: 1326
+  Space Strength: 0
+  Garrison Strength: 382
 Statistics:
-  Movement Type: mech
-  Move Points: 8
-  Spot: 10
-  Camouflage: 5
-  Agility: 18
-  Armor: 13
-  Psy Defense: 13
-  Rank: 95
+  Movement Type: foot
+  Move Points: 12
+  Spot: 12
+  Camouflage: 12
+  Agility: 17
+  Armor: 5
+  Psy Defense: 10
+  Rank: 67
 Attacks:
-  Direct Space: 8/11
-  Closed Space: 10/12
-  Air: 10/12
-  Direct: 8/11
-  Close: 10/12
-Cargo Space: 1
-Immune to Plague
-Upkeep / Maintenance: 14
-Build Cost: 137
+  Direct: 12/18
+  Close: 22/12
+Load aboard transport: YES
+Upkeep / Maintenance: 21
+Build Cost: 69
 Build Resource Requirements:
-  Food: 3
-  Energy: 17
-  Metal: 6
-  Trace: 14
-  Exotica: 3
-  Chemicals: 28
-  Electronics: 22
-  Ceramsteel: 6
-Build Space Assault Lander in Starport
-Time to Build / Upgrade: 2
-[8780] Technology Required to Build Unit (86):
-  [8780] Space Transports (86)
+  Food: 1
+  Energy: 4
+  Metal: 1
+  Trace: 6
+  Exotica: 2
+  Chemicals: 6
+  Biochems: 12
+  Electronics: 6
+  Ceramsteel: 1
+Upgrade Tracker Legion to Tracker Legion (SE) at Hospital
+Time to Build / Upgrade: 1
+[4745] Technologies Required to Build Unit (72):
+  [4070] Tracker Legion (69)
+  [675] Surgically-Enhanced Soldiers (75)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Space Lander Tank
-Nick Name: MM-LT
+Name: Tracker Legion (DE)
+Nick Name: Tracker (DE)
 Scores & Strengths:
-  Tech Score: 1814
-  Unit Score: 1388
-  Average Score: 1601
-  Stat Strength: 1388
-  Total Strength: 1388
-  Planet Strength: 1388
+  Tech Score: 1378
+  Unit Score: 1608
+  Average Score: 1493
+  Stat Strength: 1004
+  Total Strength: 1608
+  Planet Strength: 1608
   Space Strength: 0
-  Garrison Strength: 801
+  Garrison Strength: 445
 Statistics:
-  Movement Type: mech
-  Move Points: 3
-  Spot: 10
-  Camouflage: 2
-  Agility: 5
-  Armor: 25
-  Psy Defense: 25
-  Rank: 81
-Cargo Space: 4
-Immune to Plague
-Upkeep / Maintenance: 11
-Build Cost: 109
+  Movement Type: foot
+  Move Points: 13
+  Spot: 13
+  Camouflage: 14
+  Agility: 18
+  Armor: 5
+  Psy Defense: 11
+  Rank: 73
+Attacks:
+  Direct: 14/19
+  Close: 26/13
+Load aboard transport: YES
+Upkeep / Maintenance: 18
+Build Cost: 38
 Build Resource Requirements:
-  Food: 1
-  Energy: 1
-  Metal: 24
-  Trace: 2
-  Exotica: 1
-  Chemicals: 5
-  Electronics: 4
-  Ceramsteel: 23
-Build Space Lander Tank in Starport
-Time to Build / Upgrade: 2
-[8780] Technology Required to Build Unit (86):
-  [8780] Space Transports (86)
+  Metal: 2
+  Biochems: 6
+  Ceramsteel: 2
+Upgrade Tracker Legion to Tracker Legion (DE) at Biochem Plant
+Time to Build / Upgrade: 1
+[7510] Technologies Required to Build Unit (67):
+  [4070] Tracker Legion (69)
+  [3440] Drug-Enhanced Soldiers (65)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Space Lander Mechanized
-Nick Name: MM-LM
+Name: Tracker Legion (GE)
+Nick Name: Tracker (GE)
 Scores & Strengths:
-  Tech Score: 1814
-  Unit Score: 1389
-  Average Score: 1602
-  Stat Strength: 981
-  Total Strength: 1389
-  Planet Strength: 1185
-  Space Strength: 1185
-  Garrison Strength: 592
+  Tech Score: 1439
+  Unit Score: 1739
+  Average Score: 1589
+  Stat Strength: 1108
+  Total Strength: 1739
+  Planet Strength: 1739
+  Space Strength: 0
+  Garrison Strength: 464
 Statistics:
-  Movement Type: mech
-  Move Points: 4
-  Spot: 10
-  Camouflage: 4
-  Agility: 7
-  Armor: 20
-  Psy Defense: 20
-  Rank: 120
+  Movement Type: foot
+  Move Points: 14
+  Spot: 13
+  Camouflage: 15
+  Agility: 19
+  Armor: 6
+  Psy Defense: 11
+  Rank: 75
 Attacks:
-  Direct Space: 6/18
-  Closed Space: 8/12
-  Direct: 6/18
-  Close: 8/12
-Cargo Space: 3
-Immune to Plague
-Upkeep / Maintenance: 16
-Build Cost: 157
+  Direct: 14/20
+  Close: 27/13
+Load aboard transport: YES
+Upkeep / Maintenance: 17
+Build Cost: 133
 Build Resource Requirements:
-  Food: 1
-  Energy: 19
-  Metal: 15
-  Trace: 7
-  Exotica: 1
-  Chemicals: 32
-  Electronics: 11
-  Ceramsteel: 15
-Build Space Lander Mechanized in Starport
-Time to Build / Upgrade: 2
-[8780] Technology Required to Build Unit (86):
-  [8780] Space Transports (86)
+  Chemicals: 1
+Upgrade Tracker Legion (DE) to Tracker Legion (GE) at Lab
+Time to Build / Upgrade: 1
+[10090] Technologies Required to Build Unit (59):
+  [4070] Tracker Legion (69)
+  [6020] Chemical Shock Legion (49)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Lander Assault
-Nick Name: LL-LA
+Name: Tracker Legion (PA)
+Nick Name: Tracker (PA)
 Scores & Strengths:
-  Tech Score: 3468
-  Unit Score: 2449
-  Average Score: 2959
-  Stat Strength: 1661
-  Total Strength: 2449
-  Planet Strength: 2055
-  Space Strength: 2055
-  Garrison Strength: 649
+  Tech Score: 1723
+  Unit Score: 2037
+  Average Score: 1880
+  Stat Strength: 1257
+  Total Strength: 2037
+  Planet Strength: 2037
+  Space Strength: 0
+  Garrison Strength: 525
 Statistics:
-  Movement Type: lander
-  Move Points: 10
-  Spot: 12
-  Camouflage: 7
+  Movement Type: foot
+  Move Points: 15
+  Spot: 14
+  Camouflage: 16
   Agility: 20
-  Armor: 22
-  Psy Defense: 22
-  Rank: 194
+  Armor: 6
+  Psy Defense: 12
+  Rank: 82
 Attacks:
-  Direct Space: 11/18
-  Closed Space: 14/14
-  Direct: 11/18
-  Close: 14/14
-Cargo Space: 1
-Immune to Plague
-Upkeep / Maintenance: 325
-Build Cost: 3246
+  Direct: 15/23
+  Close: 29/15
+Load aboard transport: YES
+Upkeep / Maintenance: 24
+Build Cost: 170
 Build Resource Requirements:
-  Food: 1
-  Energy: 10
-  Metal: 6
-  Trace: 9
-  Exotica: 2
-  Chemicals: 16
-  Biochems: 17
-  Electronics: 15
-  Ceramsteel: 7
-  Monopols: 19
-S  ingularities: 3
-Build Lander Assault in Starport
-Time to Build / Upgrade: 3
-[20835] Technology Required to Build Unit (67):
-  [20835] Lander Transports (67)
+  Energy: 5
+  Metal: 1
+  Chemicals: 6
+  Electronics: 4
+  Ceramsteel: 1
+Upgrade Tracker Legion (SE) to Tracker Legion (PA) at Hospital
+Time to Build / Upgrade: 1
+[10245] Technologies Required to Build Unit (63):
+  [4070] Tracker Legion (69)
+  [6175] Prosthetically-Augmented Soldiers (57)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Lander Infantry
-Nick Name: LL-LI
+Name: Tracker Legion (AVE)
+Nick Name: Tracker (AVE)
 Scores & Strengths:
-  Tech Score: 3468
-  Unit Score: 2512
-  Average Score: 2990
-  Stat Strength: 1732
-  Total Strength: 2512
-  Planet Strength: 2122
-  Space Strength: 2122
-  Garrison Strength: 750
+  Tech Score: 1898
+  Unit Score: 2284
+  Average Score: 2091
+  Stat Strength: 1381
+  Total Strength: 2284
+  Planet Strength: 2284
+  Space Strength: 0
+  Garrison Strength: 571
 Statistics:
-  Movement Type: lander
-  Move Points: 8
-  Spot: 12
-  Camouflage: 7
-  Agility: 15
-  Armor: 25
-  Psy Defense: 25
-  Rank: 206
+  Movement Type: foot
+  Move Points: 16
+  Spot: 14
+  Camouflage: 18
+  Agility: 20
+  Armor: 6
+  Psy Defense: 13
+  Rank: 86
 Attacks:
-  Direct Space: 10/21
-  Closed Space: 12/15
-  Direct: 10/21
-  Close: 12/15
-Cargo Space: 2
-Immune to Plague
-Upkeep / Maintenance: 329
-Build Cost: 3288
+  Direct: 17/23
+  Close: 32/16
+Load aboard transport: YES
+Upkeep / Maintenance: 22
+Build Cost: 88
 Build Resource Requirements:
-  Food: 1
-  Energy: 11
-  Metal: 7
-  Trace: 7
-  Exotica: 1
-  Chemicals: 18
-  Biochems: 17
-  Electronics: 12
-  Ceramsteel: 9
-  Monopols: 22
-S  ingularities: 3
-Build Lander Infantry in Starport
-Time to Build / Upgrade: 3
-[20835] Technology Required to Build Unit (67):
-  [20835] Lander Transports (67)
+  Energy: 3
+  Trace: 2
+  Chemicals: 6
+  Biochems: 11
+  Electronics: 6
+  Ceramsteel: 1
+Upgrade Tracker Legion (GE) to Tracker Legion (AVE) at Lab
+Time to Build / Upgrade: 1
+[12970] Technologies Required to Build Unit (47):
+  [4070] Tracker Legion (69)
+  [8900] Genetically-Enhanced Warriors (25)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Lander Mechanized
-Nick Name: LL-LM
+Name: Tracker Legion (CE)
+Nick Name: Tracker (CE)
 Scores & Strengths:
-  Tech Score: 3468
-  Unit Score: 2622
-  Average Score: 3045
-  Stat Strength: 1848
-  Total Strength: 2622
-  Planet Strength: 2235
-  Space Strength: 2235
-  Garrison Strength: 912
+  Tech Score: 2074
+  Unit Score: 2464
+  Average Score: 2269
+  Stat Strength: 1495
+  Total Strength: 2464
+  Planet Strength: 2464
+  Space Strength: 0
+  Garrison Strength: 597
 Statistics:
-  Movement Type: lander
-  Move Points: 6
-  Spot: 12
-  Camouflage: 6
-  Agility: 8
-  Armor: 28
-  Psy Defense: 28
-  Rank: 218
+  Movement Type: foot
+  Move Points: 17
+  Spot: 14
+  Camouflage: 18
+  Agility: 21
+  Armor: 7
+  Psy Defense: 14
+  Rank: 90
 Attacks:
-  Direct Space: 8/25
-  Closed Space: 11/17
-  Direct: 8/25
-  Close: 11/17
-Cargo Space: 3
-Immune to Plague
-Upkeep / Maintenance: 349
-Build Cost: 3490
+  Direct: 17/25
+  Close: 32/17
+Load aboard transport: YES
+Upkeep / Maintenance: 27
+Build Cost: 99
 Build Resource Requirements:
-  Food: 1
-  Energy: 14
-  Metal: 9
-  Trace: 5
-  Exotica: 1
-  Chemicals: 22
-  Biochems: 19
-  Electronics: 9
-  Ceramsteel: 12
-  Monopols: 28
-S  ingularities: 3
-Build Lander Mechanized in Starport
-Time to Build / Upgrade: 3
-[20835] Technology Required to Build Unit (67):
-  [20835] Lander Transports (67)
+  Energy: 4
+  Metal: 1
+  Chemicals: 8
+  Biochems: 3
+  Ceramsteel: 2
+Upgrade Tracker Legion (PA) to Tracker Legion (CE) at Lab
+Time to Build / Upgrade: 1
+[12670] Technologies Required to Build Unit (59):
+  [4070] Tracker Legion (69)
+  [8600] Cybernetically-Enhanced Soldiers (48)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Lander Tank
-Nick Name: LL-LT
+Name: Tracker Legion (MF)
+Nick Name: Tracker (MF)
 Scores & Strengths:
-  Tech Score: 3468
-  Unit Score: 2655
-  Average Score: 3062
-  Stat Strength: 2655
-  Total Strength: 2655
-  Planet Strength: 2655
+  Tech Score: 3221
+  Unit Score: 3550
+  Average Score: 3385
+  Stat Strength: 2080
+  Total Strength: 3550
+  Planet Strength: 3550
   Space Strength: 0
-  Garrison Strength: 1327
+  Garrison Strength: 774
 Statistics:
-  Movement Type: lander
-  Move Points: 4
-  Spot: 12
-  Camouflage: 3
-  Agility: 6
-  Armor: 35
-  Psy Defense: 35
-  Rank: 171
-Cargo Space: 4
-Immune to Plague
-Upkeep / Maintenance: 308
-Build Cost: 3078
+  Movement Type: foot
+  Move Points: 21
+  Spot: 16
+  Camouflage: 22
+  Agility: 23
+  Armor: 9
+  Psy Defense: 17
+  Rank: 111
+Attacks:
+  Direct: 21/31
+  Close: 39/21
+Load aboard transport: YES
+Upkeep / Maintenance: 186
+Build Cost: 1757
 Build Resource Requirements:
-  Food: 1
-  Metal: 14
-  Trace: 2
-  Exotica: 1
-  Chemicals: 3
-  Biochems: 11
-  Electronics: 3
-  Ceramsteel: 18
-  Monopols: 18
-S  ingularities: 2
-Build Lander Tank in Starport
+  Energy: 1
+  Chemicals: 1
+  Wetware: 19
+  Monopols: 39
+Upgrade Tracker Legion (CE) to Tracker Legion (MF) at Wetware
 Time to Build / Upgrade: 3
-[20835] Technology Required to Build Unit (67):
-  [20835] Lander Transports (67)
+[22645] Technologies Required to Build Unit (52):
+  [4070] Tracker Legion (69)
+  [18575] Machine-Fused Soldiers (35)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Assault Lander
-Nick Name: LL-ATL
+Name: Tracker Legion (NE)
+Nick Name: Tracker (NE)
 Scores & Strengths:
-  Tech Score: 3468
-  Unit Score: 3105
-  Average Score: 3287
-  Stat Strength: 2097
-  Total Strength: 3105
-  Planet Strength: 2721
-  Space Strength: 2481
-  Garrison Strength: 608
+  Tech Score: 3908
+  Unit Score: 4543
+  Average Score: 4226
+  Stat Strength: 2623
+  Total Strength: 4543
+  Planet Strength: 4543
+  Space Strength: 0
+  Garrison Strength: 947
 Statistics:
-  Movement Type: lander
-  Move Points: 20
-  Spot: 14
-  Camouflage: 7
-  Agility: 10
-  Armor: 26
-  Psy Defense: 26
-  Rank: 207
+  Movement Type: foot
+  Move Points: 23
+  Spot: 17
+  Camouflage: 27
+  Agility: 24
+  Armor: 10
+  Psy Defense: 20
+  Rank: 126
 Attacks:
-  Direct Space: 12/16
-  Closed Space: 16/12
-  Air: 14/16
-  Direct: 13/16
-  Close: 16/12
-Cargo Space: 2
-Immune to Plague
-Upkeep / Maintenance: 518
-Build Cost: 5183
+  Direct: 24/35
+  Close: 45/24
+Load aboard transport: YES
+Upkeep / Maintenance: 186
+Build Cost: 1774
 Build Resource Requirements:
-  Food: 2
-  Energy: 10
-  Metal: 8
-  Trace: 12
-  Exotica: 2
-  Chemicals: 17
-  Biochems: 22
-  Electronics: 20
-  Ceramsteel: 10
-  Monopols: 24
-S  ingularities: 5
-Build Assault Lander in Starport
+  Wetware: 22
+  Monopols: 30
+Upgrade Tracker Legion (AVE) to Tracker Legion (NE) at Fusorium
 Time to Build / Upgrade: 3
-[20835] Technology Required to Build Unit (67):
-  [20835] Lander Transports (67)
+[28200] Technologies Required to Build Unit (51):
+  [4070] Tracker Legion (69)
+  [24130] Neumonically-Enhanced Soldiers (32)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

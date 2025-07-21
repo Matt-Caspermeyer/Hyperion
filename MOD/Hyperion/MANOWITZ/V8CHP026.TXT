@@ -1,265 +1,373 @@
-All units of the unit class Airship are listed herein (6 in total):
+All units of the unit class Land Mine are listed herein (9 in total):
 
 --1--
-Name: Airship
-Nick Name: A-Airship
+Name: Land Mine
+Nick Name: Land Mine
 Scores & Strengths:
-  Tech Score: 96
-  Unit Score: 96
-  Average Score: 96
-  Stat Strength: 88
-  Total Strength: 96
-  Planet Strength: 96
+  Tech Score: 92
+  Unit Score: 92
+  Average Score: 92
+  Stat Strength: 64
+  Total Strength: 92
+  Planet Strength: 92
   Space Strength: 0
-  Garrison Strength: 39
+  Garrison Strength: 115
 Statistics:
-  Movement Type: air
-  Move Points: 6
-  Spot: 4
-  Camouflage: 0
-  Agility: 4
-  Armor: 4
-  Psy Defense: 2
-  Rank: 132
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 8
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Indirect: 4/2
+  Indirect: 2/14
 Load aboard transport: YES
-Never needs refueling
-Upkeep / Maintenance: 5
-Build Cost: 47
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 18
 Build Resource Requirements:
-  Food: 15
-  Energy: 12
-  Metal: 15
-  Trace: 9
-  Exotica: 14
-  Chemicals: 10
-Build Airship in Factory
-Time to Build / Upgrade: 2
-[175] Technologies Required to Build Unit (99):
-  [125] Compression Ignition Engine (97)
-  [50] Applied Technology (100)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 84
+  Trace: 46
+  Chemicals: 74
+Build Land Mine in Factory
+Time to Build / Upgrade: 3
+[165] Technology Required to Build Unit (98):
+  [165] Autocannon (98)
 Unit can be disbanded: YES
 
 --2--
-Name: Reconnaissance Airship
-Nick Name: A-AR
+Name: Land Mine II
+Nick Name: Land Mine II
 Scores & Strengths:
-  Tech Score: 100
-  Unit Score: 148
-  Average Score: 124
-  Stat Strength: 148
-  Total Strength: 148
-  Planet Strength: 148
+  Tech Score: 144
+  Unit Score: 154
+  Average Score: 149
+  Stat Strength: 100
+  Total Strength: 154
+  Planet Strength: 154
   Space Strength: 0
-  Garrison Strength: 55
+  Garrison Strength: 192
 Statistics:
-  Movement Type: air
-  Move Points: 7
-  Spot: 6
-  Camouflage: 1
-  Agility: 7
-  Armor: 3
-  Psy Defense: 2
-  Rank: 76
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 10
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
+Attacks:
+  Indirect: 3/18
 Load aboard transport: YES
-Never needs refueling
-Upkeep / Maintenance: 8
-Build Cost: 80
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 20
 Build Resource Requirements:
-  Food: 27
-  Energy: 18
-  Metal: 10
-  Trace: 19
-  Exotica: 24
-  Chemicals: 17
-Build Reconnaissance Airship in Factory
+  Energy: 79
+  Trace: 47
+  Chemicals: 92
+Build Land Mine II in Factory
 Time to Build / Upgrade: 3
-[185] Technologies Required to Build Unit (97):
-  [125] Compression Ignition Engine (97)
-  [60] Aerial Reconnaissance (97)
-Counts as planetary flock: YES
-Unit Eats: YES
+[300] Technology Required to Build Unit (95):
+  [300] Mechanized Warfare (95)
 Unit can be disbanded: YES
 
 --3--
-Name: Bomber Airship
-Nick Name: A-AB
+Name: Land Mine III
+Nick Name: Land Mine III
 Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 157
-  Average Score: 132
-  Stat Strength: 123
-  Total Strength: 157
-  Planet Strength: 157
+  Tech Score: 292
+  Unit Score: 296
+  Average Score: 294
+  Stat Strength: 196
+  Total Strength: 296
+  Planet Strength: 296
   Space Strength: 0
-  Garrison Strength: 70
+  Garrison Strength: 370
 Statistics:
-  Movement Type: air
-  Move Points: 5
-  Spot: 4
-  Camouflage: 1
-  Agility: 6
-  Armor: 6
-  Psy Defense: 3
-  Rank: 137
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 14
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Air: 2/3
-  Indirect: 4/7
+  Indirect: 4/25
 Load aboard transport: YES
-Never needs refueling
-Upkeep / Maintenance: 5
-Build Cost: 46
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 21
 Build Resource Requirements:
-  Food: 9
-  Energy: 21
-  Metal: 19
-  Trace: 9
-  Exotica: 9
-  Chemicals: 9
-Build Bomber Airship in Factory
-Time to Build / Upgrade: 2
-[350] Technologies Required to Build Unit (97):
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [60] Aerial Reconnaissance (97)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 68
+  Trace: 47
+  Chemicals: 68
+  Electronics: 32
+Build Land Mine III in Factory
+Time to Build / Upgrade: 3
+[770] Technology Required to Build Unit (92):
+  [770] Self-Propelled Weaponry (92)
 Unit can be disbanded: YES
 
 --4--
-Name: Fighter Airship
-Nick Name: A-AF
+Name: Land Mine IV
+Nick Name: Land Mine IV
 Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 157
-  Average Score: 132
-  Stat Strength: 118
-  Total Strength: 157
-  Planet Strength: 157
+  Tech Score: 530
+  Unit Score: 531
+  Average Score: 530
+  Stat Strength: 361
+  Total Strength: 531
+  Planet Strength: 531
   Space Strength: 0
-  Garrison Strength: 64
+  Garrison Strength: 663
 Statistics:
-  Movement Type: air
-  Move Points: 6
-  Spot: 4
-  Camouflage: 1
-  Agility: 6
-  Armor: 5
-  Psy Defense: 2
-  Rank: 130
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 19
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Air: 5/7
-  Indirect: 2/2
+  Indirect: 5/34
 Load aboard transport: YES
-Never needs refueling
-Upkeep / Maintenance: 6
-Build Cost: 56
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 27
 Build Resource Requirements:
-  Food: 11
-  Energy: 21
-  Metal: 12
-  Trace: 14
-  Exotica: 10
-  Chemicals: 18
-Build Fighter Airship in Factory
-Time to Build / Upgrade: 2
-[350] Technologies Required to Build Unit (97):
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [60] Aerial Reconnaissance (97)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 78
+  Trace: 43
+  Chemicals: 95
+  Electronics: 45
+Build Land Mine IV in Factory
+Time to Build / Upgrade: 4
+[1700] Technology Required to Build Unit (88):
+  [1700] Main Battle Tank (88)
 Unit can be disbanded: YES
 
 --5--
-Name: Patrol Airship
-Nick Name: A-AP
+Name: Land Mine V
+Nick Name: Land Mine V
 Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 157
-  Average Score: 132
-  Stat Strength: 117
-  Total Strength: 157
-  Planet Strength: 157
+  Tech Score: 1226
+  Unit Score: 1198
+  Average Score: 1212
+  Stat Strength: 841
+  Total Strength: 1198
+  Planet Strength: 1198
   Space Strength: 0
-  Garrison Strength: 78
+  Garrison Strength: 1497
 Statistics:
-  Movement Type: air
-  Move Points: 4
-  Spot: 4
-  Camouflage: 1
-  Agility: 8
-  Armor: 4
-  Psy Defense: 2
-  Rank: 136
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 29
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 20
 Attacks:
-  Air: 4/4
-  Indirect: 4/6
+  Indirect: 7/51
 Load aboard transport: YES
-Never needs refueling
-Upkeep / Maintenance: 5
-Build Cost: 50
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 29
 Build Resource Requirements:
-  Food: 11
-  Energy: 21
-  Metal: 8
-  Trace: 14
-  Exotica: 10
-  Chemicals: 11
-Build Patrol Airship in Factory
-Time to Build / Upgrade: 2
-[350] Technologies Required to Build Unit (97):
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [60] Aerial Reconnaissance (97)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 73
+  Trace: 23
+  Chemicals: 117
+  Electronics: 39
+Build Land Mine V in Factory
+Time to Build / Upgrade: 4
+[5205] Technology Required to Build Unit (84):
+  [5205] Advanced Battle Tanks (84)
 Unit can be disbanded: YES
 
 --6--
-Name: Airborne Aircraft Carrier
-Nick Name: A-CVA
+Name: Land Mine VI
+Nick Name: Land Mine VI
 Scores & Strengths:
-  Tech Score: 458
-  Unit Score: 457
-  Average Score: 457
-  Stat Strength: 370
-  Total Strength: 457
-  Planet Strength: 457
+  Tech Score: 2123
+  Unit Score: 2114
+  Average Score: 2119
+  Stat Strength: 1444
+  Total Strength: 2114
+  Planet Strength: 2114
   Space Strength: 0
-  Garrison Strength: 172
+  Garrison Strength: 2642
 Statistics:
-  Movement Type: air
-  Move Points: 7
-  Spot: 6
-  Camouflage: 2
-  Agility: 9
-  Armor: 10
-  Psy Defense: 10
-  Rank: 808
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 38
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 48
 Attacks:
-  Air: 5/11
-  Indirect: 4/8
+  Indirect: 10/67
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Never needs refueling
-Upkeep / Maintenance: 20
-Build Cost: 201
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 26
+Build Cost: 257
 Build Resource Requirements:
-  Food: 6
-  Energy: 21
-  Metal: 137
+  Energy: 33
+  Trace: 29
+  Chemicals: 65
+  Electronics: 49
+  Monopols: 65
+Build Land Mine VI in Factory
+Time to Build / Upgrade: 5
+[10830] Technology Required to Build Unit (80):
+  [10830] Violator Assault Gunnery (80)
+Unit can be disbanded: YES
+
+--7--
+Name: Land Mine VIII
+Nick Name: Land Mine VIII
+Scores & Strengths:
+  Tech Score: 2510
+  Unit Score: 2494
+  Average Score: 2502
+  Stat Strength: 1764
+  Total Strength: 2494
+  Planet Strength: 2494
+  Space Strength: 0
+  Garrison Strength: 3117
+Statistics:
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 42
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 58
+Attacks:
+  Indirect: 10/73
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 38
+Build Cost: 381
+Build Resource Requirements:
+  Energy: 45
+  Trace: 21
+  Chemicals: 73
+  Electronics: 43
+  Monopols: 93
+Build Land Mine VIII in Factory
+Time to Build / Upgrade: 5
+[13535] Technology Required to Build Unit (74):
+  [13535] Powered Ceramsteel Tanks (74)
+Unit can be disbanded: YES
+
+--8--
+Name: Land Mine VII
+Nick Name: Land Mine VII
+Scores & Strengths:
+  Tech Score: 2707
+  Unit Score: 2685
+  Average Score: 2696
+  Stat Strength: 1849
+  Total Strength: 2685
+  Planet Strength: 2685
+  Space Strength: 0
+  Garrison Strength: 3356
+Statistics:
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 43
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 64
+Attacks:
+  Indirect: 11/76
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 40
+Build Cost: 403
+Build Resource Requirements:
+  Energy: 46
+  Trace: 20
+  Chemicals: 74
+  Electronics: 42
+  Monopols: 96
+Build Land Mine VII in Factory
+Time to Build / Upgrade: 5
+[14975] Technology Required to Build Unit (70):
+  [14975] Power Hovertanks (70)
+Unit can be disbanded: YES
+
+--9--
+Name: Land Mine IX
+Nick Name: Land Mine IX
+Scores & Strengths:
+  Tech Score: 2921
+  Unit Score: 2894
+  Average Score: 2907
+  Stat Strength: 2025
+  Total Strength: 2894
+  Planet Strength: 2894
+  Space Strength: 0
+  Garrison Strength: 3617
+Statistics:
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 45
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 69
+Attacks:
+  Indirect: 11/79
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 27
+Build Cost: 265
+Build Resource Requirements:
+  Energy: 29
   Trace: 13
-  Exotica: 6
-  Chemicals: 16
-  Electronics: 7
-Build Airborne Aircraft Carrier in Factory
-Time to Build / Upgrade: 3
-[1400] Technology Required to Build Unit (87):
-  [1400] Aerial Warfare (87)
-Counts as planetary flock: YES
+  Chemicals: 47
+  Electronics: 27
+  Monopols: 62
+Build Land Mine IX in Factory
+Time to Build / Upgrade: 4
+[30105] Technologies Required to Build Unit (69):
+  [15130] Fusion Battle Tanks (68)
+  [14975] Power Hovertanks (70)
 Unit can be disbanded: YES

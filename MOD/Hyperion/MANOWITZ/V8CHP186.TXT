@@ -1,52 +1,126 @@
-All units of the unit class Vau Cruiser are listed herein (1 in total):
+All units of the unit class Pestulator Artillery are listed herein (3 in total):
 
 --1--
-Name: Vau Cruiser
-Nick Name: Veil Seeker
+Name: Pestulator Artillery
+Nick Name: Pestulator
 Scores & Strengths:
-  Tech Score: 3886
-  Unit Score: 3885
-  Average Score: 3885
-  Stat Strength: 2953
-  Total Strength: 3885
-  Planet Strength: 3537
-  Space Strength: 3301
-  Garrison Strength: 1443
+  Tech Score: 3200
+  Unit Score: 3199
+  Average Score: 3199
+  Stat Strength: 2179
+  Total Strength: 3199
+  Planet Strength: 3199
+  Space Strength: 0
+  Garrison Strength: 754
 Statistics:
-  Movement Type: gate
-  Move Points: 6
+  Movement Type: tread
+  Move Points: 18
   Spot: 12
-  Camouflage: 8
-  Agility: 8
-  Armor: 23
-  Psy Defense: 46
-  Rank: 188
+  Camouflage: 10
+  Agility: 19
+  Armor: 25
+  Psy Defense: 25
+  Rank: 178
 Attacks:
-  Ranged Space: 6/22
-  Direct Space: 7/18
-  Closed Space: 15/6
-  Air: 15/19
-  Indirect: 5/21
-  Direct: 7/17
-  Close: 15/5
+  Indirect: 20/51
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 395
-Build Cost: 3949
+Causes Tactical Plague
+Upkeep / Maintenance: 252
+Build Cost: 2517
 Build Resource Requirements:
-  Energy: 9
-  Metal: 7
+  Food: 2
+  Energy: 21
+  Metal: 11
   Trace: 4
-  Exotica: 1
-  Chemicals: 19
-  Biochems: 25
+  Exotica: 2
+  Chemicals: 48
+  Biochems: 36
   Electronics: 12
-  Ceramsteel: 13
-  Wetware: 7
-  Monopols: 33
-S  ingularities: 3
-Build Vau Cruiser in Vau City
-Time to Build / Upgrade: 4
-[24245] Technology Required to Build Unit (50):
-  [24245] Vau Psychology (50)
+  Ceramsteel: 14
+  Monopols: 59
+Build Pestulator Artillery in Factory
+Time to Build / Upgrade: 5
+[18710] Technology Required to Build Unit (29):
+  [18710] Bio-Payload Artillery (29)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Shock Pestulator Artillery
+Nick Name: Shockulator
+Scores & Strengths:
+  Tech Score: 4099
+  Unit Score: 3992
+  Average Score: 4046
+  Stat Strength: 2658
+  Total Strength: 3992
+  Planet Strength: 3992
+  Space Strength: 0
+  Garrison Strength: 892
+Statistics:
+  Movement Type: tread
+  Move Points: 20
+  Spot: 13
+  Camouflage: 11
+  Agility: 20
+  Armor: 28
+  Psy Defense: 28
+  Rank: 196
+Attacks:
+  Indirect: 23/58
+Load aboard transport: YES
+Immune to Plague
+Causes Tactical Plague
+Upkeep / Maintenance: 195
+Build Resource Requirements:
+  Wetware: 2
+Upgrade Pestulator Artillery to Shock Pestulator Artillery at Factory
+Time to Build / Upgrade: 1
+[50430] Technologies Required to Build Unit (41):
+  [16745] Wetware (23)
+  [14975] Power Hovertanks (70)
+  [18710] Bio-Payload Artillery (29)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Stealth Pestulator Artillery
+Nick Name: Ghostulator
+Scores & Strengths:
+  Tech Score: 5358
+  Unit Score: 5359
+  Average Score: 5359
+  Stat Strength: 4039
+  Total Strength: 5359
+  Planet Strength: 5359
+  Space Strength: 0
+  Garrison Strength: 1229
+Statistics:
+  Movement Type: tread
+  Move Points: 19
+  Spot: 14
+  Camouflage: 30
+  Agility: 30
+  Armor: 29
+  Psy Defense: 29
+  Rank: 208
+Attacks:
+  Indirect: 24/55
+Load aboard transport: YES
+Immune to Plague
+Causes Tactical Plague
+Upkeep / Maintenance: 203
+Build Resource Requirements:
+  Trace: 7
+  Electronics: 11
+  Wetware: 4
+Upgrade Pestulator Artillery to Stealth Pestulator Artillery at Factory
+Time to Build / Upgrade: 1
+[37210] Technology Required to Build Unit (34):
+  [37210] Neumonic Land Vehicles (34)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

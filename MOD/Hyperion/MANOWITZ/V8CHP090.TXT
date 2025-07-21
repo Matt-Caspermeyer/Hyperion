@@ -1,79 +1,219 @@
-All units of the unit class Satellite are listed herein (2 in total):
+All units of the unit class Heavy Space Fighter are listed herein (5 in total):
 
 --1--
-Name: Satellite
-Nick Name: Satellite
+Name: Heavy Space Fighter
+Nick Name: SS-HF
 Scores & Strengths:
-  Tech Score: 327
-  Unit Score: 327
-  Average Score: 327
-  Stat Strength: 327
-  Total Strength: 327
+  Tech Score: 309
+  Unit Score: 308
+  Average Score: 309
+  Stat Strength: 274
+  Total Strength: 308
   Planet Strength: 0
-  Space Strength: 0
+  Space Strength: 308
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 0
-  Spot: 17
+  Move Points: 1
+  Spot: 8
   Camouflage: 4
-  Agility: 2
-  Armor: 3
-  Psy Defense: 3
-  Rank: 53
+  Agility: 11
+  Armor: 6
+  Psy Defense: 6
+  Rank: 114
+Attacks:
+  Direct Space: 2/9
+  Closed Space: 4/4
 Load aboard transport: YES
-Upkeep / Maintenance: 19
-Build Cost: 190
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 182
 Build Resource Requirements:
-  Food: 31
-  Metal: 11
-  Trace: 51
-  Exotica: 31
-  Chemicals: 1
-  Electronics: 36
-Build Satellite in Chemical Plant
-Time to Build / Upgrade: 3
-[895] Technology Required to Build Unit (90):
-  [895] Space Rocketry (90)
+  Food: 12
+  Energy: 17
+  Metal: 24
+  Trace: 23
+  Exotica: 12
+  Chemicals: 30
+  Electronics: 15
+Build Heavy Space Fighter in Starport
+Time to Build / Upgrade: 2
+[940] Technologies Required to Build Unit (94):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Orbital Listening Post
-Nick Name: SS-LP
+Name: Light Space Fighter
+Nick Name: SS-LF
 Scores & Strengths:
-  Tech Score: 1872
-  Unit Score: 1448
-  Average Score: 1660
-  Stat Strength: 1448
-  Total Strength: 1448
+  Tech Score: 309
+  Unit Score: 308
+  Average Score: 309
+  Stat Strength: 268
+  Total Strength: 308
   Planet Strength: 0
-  Space Strength: 0
+  Space Strength: 308
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 0
-  Spot: 18
-  Camouflage: 18
-  Agility: 0
-  Armor: 20
-  Psy Defense: 20
-  Rank: 67
+  Move Points: 1
+  Spot: 8
+  Camouflage: 4
+  Agility: 13
+  Armor: 3
+  Psy Defense: 3
+  Rank: 113
+Attacks:
+  Direct Space: 6/4
+  Closed Space: 8/2
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 9
-Build Cost: 87
+Upkeep / Maintenance: 18
+Build Cost: 182
 Build Resource Requirements:
-  Food: 2
-  Metal: 10
-  Trace: 7
-  Exotica: 2
-  Chemicals: 2
-  Electronics: 11
-  Ceramsteel: 12
-Build Orbital Listening Post in Starport
+  Food: 14
+  Energy: 11
+  Metal: 6
+  Trace: 38
+  Exotica: 14
+  Chemicals: 17
+  Electronics: 25
+Build Light Space Fighter in Starport
 Time to Build / Upgrade: 2
-[17885] Technologies Required to Build Unit (79):
-  [1605] Imaging Radar (78)
-  [8070] Spacecraft (86)
-  [8210] Aircraft Surveillance (74)
+[940] Technologies Required to Build Unit (94):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Space Attack Fighter
+Nick Name: SS-AF
+Scores & Strengths:
+  Tech Score: 309
+  Unit Score: 308
+  Average Score: 309
+  Stat Strength: 257
+  Total Strength: 308
+  Planet Strength: 0
+  Space Strength: 308
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 1
+  Spot: 8
+  Camouflage: 4
+  Agility: 12
+  Armor: 4
+  Psy Defense: 4
+  Rank: 114
+Attacks:
+  Direct Space: 5/6
+  Closed Space: 7/3
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 176
+Build Resource Requirements:
+  Food: 13
+  Energy: 13
+  Metal: 11
+  Trace: 32
+  Exotica: 13
+  Chemicals: 20
+  Electronics: 22
+Build Space Attack Fighter in Starport
+Time to Build / Upgrade: 2
+[940] Technologies Required to Build Unit (94):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Space Fighter
+Nick Name: Seraphim
+Scores & Strengths:
+  Tech Score: 543
+  Unit Score: 542
+  Average Score: 543
+  Stat Strength: 445
+  Total Strength: 542
+  Planet Strength: 0
+  Space Strength: 542
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 2
+  Spot: 8
+  Camouflage: 4
+  Agility: 17
+  Armor: 6
+  Psy Defense: 6
+  Rank: 122
+Attacks:
+  Direct Space: 7/10
+  Closed Space: 9/3
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 14
+Build Cost: 144
+Build Resource Requirements:
+  Food: 8
+  Energy: 14
+  Metal: 9
+  Trace: 22
+  Exotica: 8
+  Chemicals: 18
+  Electronics: 19
+Build Space Fighter in Starport
+Time to Build / Upgrade: 2
+[2135] Technologies Required to Build Unit (92):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [1195] Naval Warfare (90)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Cyber Fighter
+Nick Name: Archangel
+Scores & Strengths:
+  Tech Score: 4906
+  Unit Score: 2738
+  Average Score: 3822
+  Stat Strength: 1865
+  Total Strength: 2738
+  Planet Strength: 0
+  Space Strength: 2738
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 6
+  Spot: 14
+  Camouflage: 12
+  Agility: 29
+  Armor: 18
+  Psy Defense: 18
+  Rank: 189
+Attacks:
+  Direct Space: 21/30
+  Closed Space: 27/9
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 167
+Build Cost: 1530
+Build Resource Requirements:
+  Biochems: 15
+  Ceramsteel: 3
+  Wetware: 9
+  Monopols: 15
+Upgrade Space Fighter to Cyber Fighter at Starport
+Time to Build / Upgrade: 1
+[40930] Technologies Required to Build Unit (52):
+  [17465] Cyberpilot (28)
+  [23465] Advanced Spacecraft (75)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

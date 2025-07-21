@@ -1,1717 +1,476 @@
-All units of the unit class Light Armored Vehicle (P) are listed herein (36 in total):
+All units of the unit class Pathfinder are listed herein (11 in total):
 
 --1--
-Name: Light Armored Vehicle (P)
-Nick Name: LAV (P)
+Name: Pathfinder
+Nick Name: Pathfinder
 Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 957
-  Average Score: 958
-  Stat Strength: 597
-  Total Strength: 957
-  Planet Strength: 957
-  Space Strength: 0
-  Garrison Strength: 247
+  Tech Score: 763
+  Unit Score: 763
+  Average Score: 763
+  Stat Strength: 656
+  Total Strength: 763
+  Planet Strength: 763
+  Space Strength: 721
+  Garrison Strength: 220
 Statistics:
-  Movement Type: craft
-  Move Points: 15
-  Spot: 6
-  Camouflage: 6
-  Agility: 10
-  Armor: 10
-  Psy Defense: 10
-  Rank: 86
+  Movement Type: foot
+  Move Points: 12
+  Spot: 12
+  Camouflage: 12
+  Agility: 12
+  Armor: 4
+  Psy Defense: 8
+  Rank: 8
 Attacks:
-  Direct: 10/16
-  Close: 20/10
+  Psychic: 13/5
+  Close: 6/7
 Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 11
-Build Cost: 112
+Upkeep / Maintenance: 26
+Build Cost: 247
 Build Resource Requirements:
-  Food: 5
-  Energy: 19
-  Metal: 11
-  Trace: 27
-  Exotica: 5
-  Chemicals: 22
-  Biochems: 16
-  Electronics: 22
-Build Light Armored Vehicle (P) in Factory
+  Metal: 2
+  Trace: 13
+  Exotica: 13
+  Chemicals: 17
+  Biochems: 34
+  Electronics: 25
+  Gems: 12
+Upgrade Peasant to Pathfinder at Fort
 Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
+[2875] Technologies Required to Build Unit (89):
+  [2605] Biotechnical Simulation (77)
+  [145] Composite Armor (97)
+  [125] Parapsychology (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Light Armored Vehicle (ATG)
-Nick Name: LAV (ATG)
+Name: Vislock
+Nick Name: Vislock
 Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 957
-  Average Score: 958
-  Stat Strength: 597
-  Total Strength: 957
-  Planet Strength: 957
-  Space Strength: 0
-  Garrison Strength: 247
+  Tech Score: 966
+  Unit Score: 861
+  Average Score: 914
+  Stat Strength: 573
+  Total Strength: 861
+  Planet Strength: 861
+  Space Strength: 861
+  Garrison Strength: 304
 Statistics:
-  Movement Type: craft
-  Move Points: 15
-  Spot: 6
-  Camouflage: 6
-  Agility: 10
-  Armor: 10
+  Movement Type: foot
+  Move Points: 8
+  Spot: 8
+  Camouflage: 8
+  Agility: 16
+  Armor: 5
   Psy Defense: 10
-  Rank: 90
+  Rank: 9
 Attacks:
-  Indirect: 10/16
-  Direct: 20/10
+  Psychic: 18/16
 Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 10
-Build Cost: 95
+Upkeep / Maintenance: 38
+Build Cost: 304
 Build Resource Requirements:
-  Food: 5
-  Energy: 19
-  Metal: 11
-  Trace: 22
-  Exotica: 5
-  Chemicals: 14
-  Biochems: 14
-  Electronics: 19
-Build Light Armored Vehicle (ATG) in Factory
+  Food: 16
+  Energy: 9
+  Metal: 13
+  Trace: 38
+  Exotica: 30
+  Chemicals: 33
+  Electronics: 54
+  Gems: 13
+Upgrade Clergy to Vislock at Church
 Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
+[3790] Technology Required to Build Unit (32):
+  [3790] Vislocks (32)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Light Armored Vehicle (C)
-Nick Name: LAV (C)
+Name: Occultist
+Nick Name: Occultist
 Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 957
-  Average Score: 958
-  Stat Strength: 597
-  Total Strength: 957
-  Planet Strength: 957
-  Space Strength: 0
-  Garrison Strength: 247
+  Tech Score: 1015
+  Unit Score: 909
+  Average Score: 962
+  Stat Strength: 624
+  Total Strength: 909
+  Planet Strength: 909
+  Space Strength: 909
+  Garrison Strength: 303
 Statistics:
-  Movement Type: craft
-  Move Points: 15
-  Spot: 6
-  Camouflage: 6
-  Agility: 10
-  Armor: 10
+  Movement Type: foot
+  Move Points: 9
+  Spot: 9
+  Camouflage: 9
+  Agility: 16
+  Armor: 5
   Psy Defense: 10
-  Rank: 777
+  Rank: 10
 Attacks:
-  Water: 10/20
-  Indirect: 10/16
+  Psychic: 19/15
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Can be towed
-Upkeep / Maintenance: 12
-Build Cost: 118
+Upkeep / Maintenance: 37
+Build Cost: 293
 Build Resource Requirements:
-  Food: 5
-  Energy: 28
-  Metal: 11
-  Trace: 14
-  Exotica: 5
-  Chemicals: 24
-  Biochems: 7
-  Electronics: 8
-Build Light Armored Vehicle (C) in Factory
+  Food: 20
+  Energy: 11
+  Metal: 13
+  Trace: 43
+  Exotica: 35
+  Chemicals: 36
+  Electronics: 61
+  Gems: 10
+Upgrade Clergy to Occultist at Church
 Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
+[4050] Technology Required to Build Unit (48):
+  [4050] Occultists (48)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Light Armored Vehicle (AD)
-Nick Name: LAV (AD)
+Name: Pyrokinetic
+Nick Name: Pyrokinetic
 Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 957
-  Average Score: 958
-  Stat Strength: 597
-  Total Strength: 957
-  Planet Strength: 957
-  Space Strength: 0
-  Garrison Strength: 247
+  Tech Score: 1186
+  Unit Score: 1057
+  Average Score: 1121
+  Stat Strength: 657
+  Total Strength: 1057
+  Planet Strength: 1057
+  Space Strength: 1057
+  Garrison Strength: 352
 Statistics:
-  Movement Type: craft
-  Move Points: 15
-  Spot: 6
-  Camouflage: 6
-  Agility: 10
-  Armor: 10
+  Movement Type: foot
+  Move Points: 9
+  Spot: 9
+  Camouflage: 9
+  Agility: 17
+  Armor: 5
   Psy Defense: 10
-  Rank: 90
+  Rank: 11
 Attacks:
-  Air: 10/16
-  Direct: 20/10
+  Psychic: 20/20
 Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 11
-Build Cost: 112
+Upkeep / Maintenance: 48
+Build Cost: 402
 Build Resource Requirements:
-  Food: 5
-  Energy: 19
-  Metal: 11
-  Trace: 27
-  Exotica: 5
-  Chemicals: 22
-  Biochems: 16
-  Electronics: 22
-Build Light Armored Vehicle (AD) in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
+  Food: 22
+  Energy: 13
+  Metal: 13
+  Trace: 45
+  Exotica: 38
+  Chemicals: 39
+  Electronics: 64
+  Gems: 17
+Upgrade Clergy to Pyrokinetic at Church
+Time to Build / Upgrade: 3
+[4980] Technology Required to Build Unit (39):
+  [4980] Pyrokinetics (39)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Light Armored Vehicle (AG)
-Nick Name: LAV (AG)
+Name: Reflector
+Nick Name: Reflector
 Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 957
-  Average Score: 958
-  Stat Strength: 597
-  Total Strength: 957
-  Planet Strength: 957
-  Space Strength: 0
-  Garrison Strength: 247
+  Tech Score: 1186
+  Unit Score: 1059
+  Average Score: 1122
+  Stat Strength: 736
+  Total Strength: 1059
+  Planet Strength: 1059
+  Space Strength: 1059
+  Garrison Strength: 334
 Statistics:
-  Movement Type: craft
-  Move Points: 15
-  Spot: 6
-  Camouflage: 6
-  Agility: 10
-  Armor: 10
-  Psy Defense: 10
-  Rank: 124
+  Movement Type: foot
+  Move Points: 10
+  Spot: 10
+  Camouflage: 10
+  Agility: 16
+  Armor: 6
+  Psy Defense: 12
+  Rank: 11
 Attacks:
-  Indirect: 15/24
+  Psychic: 19/17
 Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 5
-Build Cost: 53
+Upkeep / Maintenance: 42
+Build Cost: 342
 Build Resource Requirements:
-  Food: 5
-  Energy: 25
-  Metal: 11
-  Trace: 5
-  Exotica: 5
-  Chemicals: 11
-  Biochems: 5
-  Electronics: 4
-Build Light Armored Vehicle (AG) in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
+  Food: 24
+  Energy: 13
+  Metal: 20
+  Trace: 48
+  Exotica: 41
+  Chemicals: 39
+  Electronics: 69
+  Gems: 11
+Upgrade Clergy to Reflector at Church
+Time to Build / Upgrade: 3
+[4980] Technology Required to Build Unit (41):
+  [4980] Psychic Turners (41)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Light Armored Vehicle (FS)
-Nick Name: LAV (FS)
+Name: Cryokinetic
+Nick Name: Cryokinetic
 Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 957
-  Average Score: 958
-  Stat Strength: 597
-  Total Strength: 957
-  Planet Strength: 957
-  Space Strength: 0
-  Garrison Strength: 247
+  Tech Score: 1186
+  Unit Score: 1061
+  Average Score: 1123
+  Stat Strength: 665
+  Total Strength: 1061
+  Planet Strength: 1061
+  Space Strength: 1061
+  Garrison Strength: 401
 Statistics:
-  Movement Type: craft
-  Move Points: 15
-  Spot: 6
-  Camouflage: 6
-  Agility: 10
-  Armor: 10
+  Movement Type: foot
+  Move Points: 7
+  Spot: 9
+  Camouflage: 11
+  Agility: 17
+  Armor: 5
   Psy Defense: 10
-  Rank: 746
+  Rank: 11
 Attacks:
-  Indirect: 16/10
-  Direct: 10/10
-  Close: 10/10
+  Psychic: 18/22
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can be towed
-Upkeep / Maintenance: 11
-Build Cost: 113
+Upkeep / Maintenance: 53
+Build Cost: 455
 Build Resource Requirements:
-  Food: 5
-  Energy: 17
-  Metal: 11
-  Trace: 14
-  Exotica: 5
-  Chemicals: 17
-  Biochems: 10
-  Electronics: 11
-Build Light Armored Vehicle (FS) in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
+  Food: 18
+  Energy: 10
+  Metal: 13
+  Trace: 53
+  Exotica: 33
+  Chemicals: 34
+  Electronics: 75
+  Gems: 21
+Upgrade Clergy to Cryokinetic at Church
+Time to Build / Upgrade: 3
+[4980] Technology Required to Build Unit (31):
+  [4980] Cryokinetics (31)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Light Armored Vehicle (S)
-Nick Name: LAV (S)
+Name: Electrokinetic
+Nick Name: E-Kinetic
 Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 958
-  Average Score: 959
-  Stat Strength: 916
-  Total Strength: 958
-  Planet Strength: 958
-  Space Strength: 0
-  Garrison Strength: 214
+  Tech Score: 1326
+  Unit Score: 1181
+  Average Score: 1253
+  Stat Strength: 749
+  Total Strength: 1181
+  Planet Strength: 1181
+  Space Strength: 1181
+  Garrison Strength: 373
 Statistics:
-  Movement Type: craft
-  Move Points: 20
-  Spot: 12
+  Movement Type: foot
+  Move Points: 10
+  Spot: 10
   Camouflage: 10
-  Agility: 12
-  Armor: 8
-  Psy Defense: 8
-  Rank: 35
+  Agility: 18
+  Armor: 5
+  Psy Defense: 10
+  Rank: 13
 Attacks:
-  Close: 7/6
+  Psychic: 18/24
 Load aboard transport: YES
-Can attack on Byzantium Secundus
-Can be towed
-Upkeep / Maintenance: 11
-Build Cost: 109
+Upkeep / Maintenance: 44
+Build Cost: 368
 Build Resource Requirements:
-  Food: 10
-  Energy: 15
-  Metal: 7
-  Trace: 16
-  Exotica: 10
-  Chemicals: 17
-  Biochems: 11
-  Electronics: 13
-Build Light Armored Vehicle (S) in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
+  Food: 2
+  Metal: 12
+  Trace: 8
+  Exotica: 9
+  Chemicals: 21
+  Electronics: 22
+  Gems: 23
+Upgrade Clergy to Electrokinetic at Church
+Time to Build / Upgrade: 1
+[5780] Technology Required to Build Unit (20):
+  [5780] Electrokinetics (20)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Light Armored Vehicle (R)
-Nick Name: LAV (R)
+Name: Wraith
+Nick Name: Wraith
 Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 958
-  Average Score: 959
-  Stat Strength: 789
-  Total Strength: 958
-  Planet Strength: 958
-  Space Strength: 0
-  Garrison Strength: 247
+  Tech Score: 1241
+  Unit Score: 1241
+  Average Score: 1241
+  Stat Strength: 1016
+  Total Strength: 1241
+  Planet Strength: 1241
+  Space Strength: 1241
+  Garrison Strength: 392
 Statistics:
-  Movement Type: craft
-  Move Points: 15
-  Spot: 6
-  Camouflage: 6
-  Agility: 10
-  Armor: 14
-  Psy Defense: 14
-  Rank: 135
+  Movement Type: foot
+  Move Points: 10
+  Spot: 12
+  Camouflage: 16
+  Agility: 14
+  Armor: 8
+  Psy Defense: 16
+  Rank: 678
 Attacks:
-  Close: 13/13
+  Psychic: 15/15
 Load aboard transport: YES
-Can be towed
-Heals units of same movement type
-Upkeep / Maintenance: 8
-Build Cost: 83
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 81
+Build Cost: 732
 Build Resource Requirements:
-  Food: 5
-  Energy: 13
-  Metal: 22
-  Trace: 12
-  Exotica: 5
-  Chemicals: 18
-  Biochems: 9
-  Electronics: 10
-Build Light Armored Vehicle (R) in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
+  Food: 24
+  Energy: 9
+  Metal: 37
+  Trace: 78
+  Exotica: 41
+  Chemicals: 34
+  Electronics: 112
+  Gems: 7
+Upgrade Clergy to Wraith at Church
+Time to Build / Upgrade: 3
+[5290] Technology Required to Build Unit (29):
+  [5290] Wraiths (29)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Light Armored Vehicle (F)
-Nick Name: LAV (F)
+Name: Cyber Mage
+Nick Name: Cyber Mage
 Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 959
-  Average Score: 959
-  Stat Strength: 597
-  Total Strength: 959
-  Planet Strength: 959
-  Space Strength: 0
-  Garrison Strength: 247
+  Tech Score: 1819
+  Unit Score: 1735
+  Average Score: 1777
+  Stat Strength: 1119
+  Total Strength: 1735
+  Planet Strength: 1735
+  Space Strength: 1735
+  Garrison Strength: 463
 Statistics:
-  Movement Type: craft
-  Move Points: 15
-  Spot: 6
-  Camouflage: 6
-  Agility: 10
-  Armor: 10
-  Psy Defense: 10
-  Rank: 82
+  Movement Type: foot
+  Move Points: 14
+  Spot: 9
+  Camouflage: 9
+  Agility: 21
+  Armor: 8
+  Psy Defense: 16
+  Rank: 684
 Attacks:
-  Indirect: 10/14
-  Direct: 12/10
-  Close: 17/6
+  Psychic: 28/22
 Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 10
-Build Cost: 99
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 101
+Build Cost: 933
 Build Resource Requirements:
-  Food: 5
-  Energy: 18
-  Metal: 11
-  Trace: 24
-  Exotica: 5
-  Chemicals: 15
-  Biochems: 15
-  Electronics: 20
-Build Light Armored Vehicle (F) in Factory
+  Metal: 8
+  Trace: 9
+  Chemicals: 25
+  Electronics: 19
+  Ceramsteel: 14
+  Gems: 27
+Upgrade Clergy to Cyber Mage at Fort
 Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
+[9215] Technologies Required to Build Unit (48):
+  [3790] Vislocks (32)
+  [5425] Cybernetics (63)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Light Armored Vehicle (M)
-Nick Name: LAV (M)
+Name: Warlock
+Nick Name: Warlock
 Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 961
-  Average Score: 960
-  Stat Strength: 597
-  Total Strength: 961
-  Planet Strength: 961
-  Space Strength: 0
-  Garrison Strength: 248
+  Tech Score: 2660
+  Unit Score: 2497
+  Average Score: 2579
+  Stat Strength: 2097
+  Total Strength: 2497
+  Planet Strength: 2497
+  Space Strength: 2497
+  Garrison Strength: 588
 Statistics:
-  Movement Type: craft
-  Move Points: 15
-  Spot: 6
-  Camouflage: 6
-  Agility: 10
+  Movement Type: foot
+  Move Points: 18
+  Spot: 18
+  Camouflage: 18
+  Agility: 25
   Armor: 10
-  Psy Defense: 10
-  Rank: 786
+  Psy Defense: 20
+  Rank: 692
 Attacks:
-  Indirect: 15/20
-  Close: 8/8
+  Psychic: 20/20
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
-Can be towed
-Upkeep / Maintenance: 9
-Build Cost: 90
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 58
+Build Cost: 509
 Build Resource Requirements:
-  Food: 5
-  Energy: 22
-  Metal: 11
-  Trace: 8
-  Exotica: 5
-  Chemicals: 13
-  Biochems: 6
-  Electronics: 6
-Build Light Armored Vehicle (M) in Factory
+  Metal: 4
+  Trace: 14
+  Chemicals: 8
+  Biochems: 38
+  Electronics: 35
+  Gems: 5
+Upgrade Clergy to Warlock at Church
 Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
+[14630] Technology Required to Build Unit (7):
+  [14630] Warlocks (7)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --11--
-Name: Light Armored Vehicle (L)
-Nick Name: LAV (L)
+Name: Mechanized Demon
+Nick Name: Mech. Demon
 Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 963
-  Average Score: 961
-  Stat Strength: 682
-  Total Strength: 963
-  Planet Strength: 963
-  Space Strength: 0
-  Garrison Strength: 233
+  Tech Score: 3924
+  Unit Score: 3596
+  Average Score: 3760
+  Stat Strength: 3029
+  Total Strength: 3596
+  Planet Strength: 3596
+  Space Strength: 3596
+  Garrison Strength: 784
 Statistics:
-  Movement Type: craft
-  Move Points: 17
-  Spot: 6
-  Camouflage: 6
-  Agility: 11
-  Armor: 10
-  Psy Defense: 10
-  Rank: 82
-Attacks:
-  Direct: 11/11
-  Close: 16/10
-Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 11
-Build Cost: 106
-Build Resource Requirements:
-  Food: 6
-  Energy: 17
-  Metal: 11
-  Trace: 22
-  Exotica: 6
-  Chemicals: 20
-  Biochems: 15
-  Electronics: 18
-Build Light Armored Vehicle (L) in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---12--
-Name: Light Armored Vehicle (EW)
-Nick Name: LAV (EW)
-Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 963
-  Average Score: 961
-  Stat Strength: 813
-  Total Strength: 963
-  Planet Strength: 963
-  Space Strength: 0
-  Garrison Strength: 248
-Statistics:
-  Movement Type: craft
-  Move Points: 15
-  Spot: 10
-  Camouflage: 10
-  Agility: 10
+  Movement Type: foot
+  Move Points: 21
+  Spot: 22
+  Camouflage: 22
+  Agility: 30
   Armor: 12
-  Psy Defense: 12
-  Rank: 801
+  Psy Defense: 24
+  Rank: 704
 Attacks:
-  Air: 15/10
+  Psychic: 21/27
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Can be towed
-Upkeep / Maintenance: 17
-Build Cost: 165
+Upkeep / Maintenance: 123
+Build Cost: 1158
 Build Resource Requirements:
-  Food: 6
-  Energy: 11
-  Metal: 16
-  Trace: 21
-  Exotica: 6
-  Chemicals: 15
-  Biochems: 12
-  Electronics: 17
-Build Light Armored Vehicle (EW) in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---13--
-Name: Light Armored Vehicle (S2)
-Nick Name: LAV (S2)
-Scores & Strengths:
-  Tech Score: 1817
-  Unit Score: 1694
-  Average Score: 1756
-  Stat Strength: 1614
-  Total Strength: 1694
-  Planet Strength: 1694
-  Space Strength: 0
-  Garrison Strength: 320
-Statistics:
-  Movement Type: craft
-  Move Points: 28
-  Spot: 14
-  Camouflage: 14
-  Agility: 14
-  Armor: 11
-  Psy Defense: 11
-  Rank: 43
-Attacks:
-  Close: 10/8
-Load aboard transport: YES
-Can attack on Byzantium Secundus
-Can be towed
-Upkeep / Maintenance: 10
-Build Cost: 103
-Build Resource Requirements:
-  Food: 7
-  Energy: 13
-  Metal: 4
+  Metal: 1
   Trace: 9
-  Exotica: 7
-  Chemicals: 17
-  Biochems: 9
-  Electronics: 12
-  Ceramsteel: 4
-Build Light Armored Vehicle (S2) in Factory
-Time to Build / Upgrade: 2
-[13915] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---14--
-Name: Light Armored Vehicle (L2)
-Nick Name: LAV (L2)
-Scores & Strengths:
-  Tech Score: 1817
-  Unit Score: 1736
-  Average Score: 1777
-  Stat Strength: 1203
-  Total Strength: 1736
-  Planet Strength: 1736
-  Space Strength: 0
-  Garrison Strength: 361
-Statistics:
-  Movement Type: craft
-  Move Points: 23
-  Spot: 7
-  Camouflage: 8
-  Agility: 13
-  Armor: 14
-  Psy Defense: 14
-  Rank: 98
-Attacks:
-  Direct: 15/15
-  Close: 22/14
-Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 10
-Build Cost: 104
-Build Resource Requirements:
-  Food: 4
-  Energy: 14
-  Metal: 6
-  Trace: 13
-  Exotica: 5
-  Chemicals: 20
-  Biochems: 10
-  Electronics: 18
-  Ceramsteel: 7
-Build Light Armored Vehicle (L2) in Factory
-Time to Build / Upgrade: 2
-[13915] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---15--
-Name: Light Armored Vehicle (R2)
-Nick Name: LAV (R2)
-Scores & Strengths:
-  Tech Score: 1817
-  Unit Score: 1744
-  Average Score: 1781
-  Stat Strength: 1420
-  Total Strength: 1744
-  Planet Strength: 1744
-  Space Strength: 0
-  Garrison Strength: 380
-Statistics:
-  Movement Type: craft
-  Move Points: 21
-  Spot: 7
-  Camouflage: 8
-  Agility: 12
-  Armor: 19
-  Psy Defense: 19
-  Rank: 143
-Attacks:
-  Close: 18/18
-Load aboard transport: YES
-Can be towed
-Heals units of same movement type
-Upkeep / Maintenance: 10
-Build Cost: 96
-Build Resource Requirements:
-  Food: 4
-  Energy: 11
-  Metal: 11
-  Trace: 8
-  Exotica: 4
-  Chemicals: 19
-  Biochems: 7
-  Electronics: 14
-  Ceramsteel: 12
-Build Light Armored Vehicle (R2) in Factory
-Time to Build / Upgrade: 2
-[13915] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---16--
-Name: Light Armored Vehicle (F2)
-Nick Name: LAV (F2)
-Scores & Strengths:
-  Tech Score: 1817
-  Unit Score: 1778
-  Average Score: 1798
-  Stat Strength: 1090
-  Total Strength: 1778
-  Planet Strength: 1778
-  Space Strength: 0
-  Garrison Strength: 387
-Statistics:
-  Movement Type: craft
-  Move Points: 21
-  Spot: 7
-  Camouflage: 8
-  Agility: 12
-  Armor: 14
-  Psy Defense: 14
-  Rank: 99
-Attacks:
-  Indirect: 14/19
-  Direct: 17/14
-  Close: 23/8
-Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 10
-Build Cost: 98
-Build Resource Requirements:
-  Food: 4
-  Energy: 15
-  Metal: 6
-  Trace: 15
-  Exotica: 4
-  Chemicals: 15
-  Biochems: 11
-  Electronics: 20
-  Ceramsteel: 7
-Build Light Armored Vehicle (F2) in Factory
-Time to Build / Upgrade: 2
-[13915] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---17--
-Name: Light Armored Vehicle (AG2)
-Nick Name: LAV (AG2)
-Scores & Strengths:
-  Tech Score: 1817
-  Unit Score: 1783
-  Average Score: 1800
-  Stat Strength: 1090
-  Total Strength: 1783
-  Planet Strength: 1783
-  Space Strength: 0
-  Garrison Strength: 389
-Statistics:
-  Movement Type: craft
-  Move Points: 21
-  Spot: 7
-  Camouflage: 8
-  Agility: 12
-  Armor: 14
-  Psy Defense: 14
-  Rank: 147
-Attacks:
-  Indirect: 21/33
-Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 6
-Build Cost: 60
-Build Resource Requirements:
-  Food: 4
-  Energy: 22
-  Metal: 6
-  Trace: 3
-  Exotica: 4
-  Chemicals: 11
-  Biochems: 4
-  Electronics: 6
-  Ceramsteel: 7
-Build Light Armored Vehicle (AG2) in Factory
-Time to Build / Upgrade: 2
-[13915] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---18--
-Name: Light Armored Vehicle (P2)
-Nick Name: LAV (P2)
-Scores & Strengths:
-  Tech Score: 1817
-  Unit Score: 1790
-  Average Score: 1804
-  Stat Strength: 1090
-  Total Strength: 1790
-  Planet Strength: 1790
-  Space Strength: 0
-  Garrison Strength: 390
-Statistics:
-  Movement Type: craft
-  Move Points: 21
-  Spot: 7
-  Camouflage: 8
-  Agility: 12
-  Armor: 14
-  Psy Defense: 14
-  Rank: 104
-Attacks:
-  Direct: 14/22
-  Close: 28/14
-Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 11
-Build Cost: 113
-Build Resource Requirements:
-  Food: 4
-  Energy: 16
-  Metal: 6
-  Trace: 17
-  Exotica: 4
-  Chemicals: 22
-  Biochems: 12
-  Electronics: 23
-  Ceramsteel: 7
-Build Light Armored Vehicle (P2) in Factory
-Time to Build / Upgrade: 2
-[13915] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---19--
-Name: Light Armored Vehicle (ATG2)
-Nick Name: LAV (ATG2)
-Scores & Strengths:
-  Tech Score: 1817
-  Unit Score: 1790
-  Average Score: 1804
-  Stat Strength: 1090
-  Total Strength: 1790
-  Planet Strength: 1790
-  Space Strength: 0
-  Garrison Strength: 390
-Statistics:
-  Movement Type: craft
-  Move Points: 21
-  Spot: 7
-  Camouflage: 8
-  Agility: 12
-  Armor: 14
-  Psy Defense: 14
-  Rank: 110
-Attacks:
-  Indirect: 14/22
-  Direct: 28/14
-Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 10
-Build Cost: 96
-Build Resource Requirements:
-  Food: 4
-  Energy: 16
-  Metal: 6
-  Trace: 14
-  Exotica: 4
-  Chemicals: 14
-  Biochems: 10
-  Electronics: 20
-  Ceramsteel: 7
-Build Light Armored Vehicle (ATG2) in Factory
-Time to Build / Upgrade: 2
-[13915] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---20--
-Name: Light Armored Vehicle (C2)
-Nick Name: LAV (C2)
-Scores & Strengths:
-  Tech Score: 1817
-  Unit Score: 1790
-  Average Score: 1804
-  Stat Strength: 1090
-  Total Strength: 1790
-  Planet Strength: 1790
-  Space Strength: 0
-  Garrison Strength: 390
-Statistics:
-  Movement Type: craft
-  Move Points: 21
-  Spot: 7
-  Camouflage: 8
-  Agility: 12
-  Armor: 14
-  Psy Defense: 14
-  Rank: 795
-Attacks:
-  Water: 14/28
-  Indirect: 14/22
-Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Can be towed
-Upkeep / Maintenance: 13
-Build Cost: 129
-Build Resource Requirements:
-  Food: 4
-  Energy: 24
-  Metal: 6
-  Trace: 9
-  Exotica: 4
-  Chemicals: 24
-  Biochems: 6
-  Electronics: 9
-  Ceramsteel: 7
-Build Light Armored Vehicle (C2) in Factory
-Time to Build / Upgrade: 2
-[13915] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---21--
-Name: Light Armored Vehicle (AD2)
-Nick Name: LAV (AD2)
-Scores & Strengths:
-  Tech Score: 1817
-  Unit Score: 1790
-  Average Score: 1804
-  Stat Strength: 1090
-  Total Strength: 1790
-  Planet Strength: 1790
-  Space Strength: 0
-  Garrison Strength: 390
-Statistics:
-  Movement Type: craft
-  Move Points: 21
-  Spot: 7
-  Camouflage: 8
-  Agility: 12
-  Armor: 14
-  Psy Defense: 14
-  Rank: 110
-Attacks:
-  Air: 14/22
-  Direct: 28/14
-Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 11
-Build Cost: 113
-Build Resource Requirements:
-  Food: 4
-  Energy: 16
-  Metal: 6
-  Trace: 17
-  Exotica: 4
-  Chemicals: 22
-  Biochems: 12
-  Electronics: 23
-  Ceramsteel: 7
-Build Light Armored Vehicle (AD2) in Factory
-Time to Build / Upgrade: 2
-[13915] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---22--
-Name: Light Armored Vehicle (FS2)
-Nick Name: LAV (FS2)
-Scores & Strengths:
-  Tech Score: 1817
-  Unit Score: 1790
-  Average Score: 1804
-  Stat Strength: 1090
-  Total Strength: 1790
-  Planet Strength: 1790
-  Space Strength: 0
-  Garrison Strength: 390
-Statistics:
-  Movement Type: craft
-  Move Points: 21
-  Spot: 7
-  Camouflage: 8
-  Agility: 12
-  Armor: 14
-  Psy Defense: 14
-  Rank: 762
-Attacks:
-  Indirect: 22/14
-  Direct: 14/14
-  Close: 14/14
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can be towed
-Upkeep / Maintenance: 12
-Build Cost: 121
-Build Resource Requirements:
-  Food: 4
-  Energy: 15
-  Metal: 6
-  Trace: 9
-  Exotica: 4
-  Chemicals: 18
-  Biochems: 7
-  Electronics: 13
-  Ceramsteel: 7
-Build Light Armored Vehicle (FS2) in Factory
-Time to Build / Upgrade: 2
-[13915] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---23--
-Name: Light Armored Vehicle (EW2)
-Nick Name: LAV (EW2)
-Scores & Strengths:
-  Tech Score: 1817
-  Unit Score: 1797
-  Average Score: 1807
-  Stat Strength: 1503
-  Total Strength: 1797
-  Planet Strength: 1797
-  Space Strength: 0
-  Garrison Strength: 392
-Statistics:
-  Movement Type: craft
-  Move Points: 21
-  Spot: 12
-  Camouflage: 14
-  Agility: 12
-  Armor: 17
-  Psy Defense: 17
-  Rank: 819
-Attacks:
-  Air: 21/14
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Can be towed
-Upkeep / Maintenance: 18
-Build Cost: 176
-Build Resource Requirements:
-  Food: 4
-  Energy: 10
-  Metal: 9
-  Trace: 13
-  Exotica: 5
-  Chemicals: 16
-  Biochems: 8
-  Electronics: 19
-  Ceramsteel: 10
-Build Light Armored Vehicle (EW2) in Factory
-Time to Build / Upgrade: 2
-[13915] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---24--
-Name: Light Armored Vehicle (M2)
-Nick Name: LAV (M2)
-Scores & Strengths:
-  Tech Score: 1817
-  Unit Score: 1799
-  Average Score: 1808
-  Stat Strength: 1090
-  Total Strength: 1799
-  Planet Strength: 1799
-  Space Strength: 0
-  Garrison Strength: 392
-Statistics:
-  Movement Type: craft
-  Move Points: 21
-  Spot: 7
-  Camouflage: 8
-  Agility: 12
-  Armor: 14
-  Psy Defense: 14
-  Rank: 808
-Attacks:
-  Indirect: 21/28
-  Close: 11/11
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can be towed
-Upkeep / Maintenance: 10
-Build Cost: 100
-Build Resource Requirements:
-  Food: 4
-  Energy: 19
-  Metal: 6
-  Trace: 5
-  Exotica: 4
-  Chemicals: 13
-  Biochems: 5
-  Electronics: 8
-  Ceramsteel: 7
-Build Light Armored Vehicle (M2) in Factory
-Time to Build / Upgrade: 2
-[13915] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---25--
-Name: Adv. Recon. Vehicle (S)
-Nick Name: ARV (S)
-Scores & Strengths:
-  Tech Score: 3114
-  Unit Score: 2667
-  Average Score: 2891
-  Stat Strength: 2524
-  Total Strength: 2667
-  Planet Strength: 2667
-  Space Strength: 0
-  Garrison Strength: 444
-Statistics:
-  Movement Type: craft
-  Move Points: 36
-  Spot: 16
-  Camouflage: 18
-  Agility: 16
-  Armor: 14
-  Psy Defense: 14
-  Rank: 54
-Attacks:
-  Close: 13/11
-Load aboard transport: YES
-Can attack on Byzantium Secundus
-Can be towed
-Upkeep / Maintenance: 69
-Build Cost: 692
-Build Resource Requirements:
-  Food: 6
-  Energy: 12
-  Metal: 3
-  Trace: 9
-  Exotica: 7
-  Chemicals: 16
-  Biochems: 8
-  Electronics: 13
-  Ceramsteel: 4
-  Monopols: 18
-Build Adv. Recon. Vehicle (S) in Factory
-Time to Build / Upgrade: 3
-[23685] Technologies Required to Build Unit (81):
-  [2855] Naval Amphibious Ships (87)
-  [7295] Nuclear-Powered Navalcraft (81)
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---26--
-Name: Adv. Recon. Vehicle (EW)
-Nick Name: ARV (EW)
-Scores & Strengths:
-  Tech Score: 3114
-  Unit Score: 2845
-  Average Score: 2980
-  Stat Strength: 2359
-  Total Strength: 2845
-  Planet Strength: 2845
-  Space Strength: 0
-  Garrison Strength: 547
-Statistics:
-  Movement Type: craft
-  Move Points: 27
-  Spot: 13
-  Camouflage: 18
-  Agility: 13
-  Armor: 22
-  Psy Defense: 22
-  Rank: 841
-Attacks:
-  Air: 27/18
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Can be towed
-Upkeep / Maintenance: 113
-Build Cost: 1128
-Build Resource Requirements:
-  Food: 4
-  Energy: 9
-  Metal: 7
-  Trace: 13
-  Exotica: 4
-  Chemicals: 14
-  Biochems: 8
-  Electronics: 20
-  Ceramsteel: 9
-  Monopols: 19
-Build Adv. Recon. Vehicle (EW) in Factory
-Time to Build / Upgrade: 3
-[23685] Technologies Required to Build Unit (81):
-  [2855] Naval Amphibious Ships (87)
-  [7295] Nuclear-Powered Navalcraft (81)
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---27--
-Name: Adv. Recon. Vehicle (R)
-Nick Name: ARV (R)
-Scores & Strengths:
-  Tech Score: 3114
-  Unit Score: 2862
-  Average Score: 2988
-  Stat Strength: 2333
-  Total Strength: 2862
-  Planet Strength: 2862
-  Space Strength: 0
-  Garrison Strength: 550
-Statistics:
-  Movement Type: craft
-  Move Points: 27
-  Spot: 8
-  Camouflage: 11
-  Agility: 13
-  Armor: 25
-  Psy Defense: 25
-  Rank: 155
-Attacks:
-  Close: 23/23
-Load aboard transport: YES
-Can be towed
-Heals units of same movement type
-Upkeep / Maintenance: 78
-Build Cost: 780
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 9
-  Trace: 8
-  Exotica: 4
-  Chemicals: 17
-  Biochems: 7
-  Electronics: 14
-  Ceramsteel: 11
-  Monopols: 23
-Build Adv. Recon. Vehicle (R) in Factory
-Time to Build / Upgrade: 3
-[23685] Technologies Required to Build Unit (81):
-  [2855] Naval Amphibious Ships (87)
-  [7295] Nuclear-Powered Navalcraft (81)
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---28--
-Name: Adv. Recon. Vehicle (AG)
-Nick Name: ARV (AG)
-Scores & Strengths:
-  Tech Score: 3114
-  Unit Score: 2892
-  Average Score: 3003
-  Stat Strength: 1731
-  Total Strength: 2892
-  Planet Strength: 2892
-  Space Strength: 0
-  Garrison Strength: 556
-Statistics:
-  Movement Type: craft
-  Move Points: 27
-  Spot: 8
-  Camouflage: 11
-  Agility: 13
-  Armor: 18
-  Psy Defense: 18
-  Rank: 175
-Attacks:
-  Indirect: 27/43
-Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 41
-Build Cost: 412
-Build Resource Requirements:
-  Food: 3
-  Energy: 21
-  Metal: 4
-  Trace: 3
-  Exotica: 4
   Chemicals: 10
-  Biochems: 4
-  Electronics: 5
-  Ceramsteel: 6
-  Monopols: 13
-Build Adv. Recon. Vehicle (AG) in Factory
+  Biochems: 16
+  Electronics: 20
+  Ceramsteel: 4
+  Monopols: 14
+  Gems: 7
+Upgrade Clergy to Mechanized Demon at Church
 Time to Build / Upgrade: 2
-[23685] Technologies Required to Build Unit (81):
-  [2855] Naval Amphibious Ships (87)
-  [7295] Nuclear-Powered Navalcraft (81)
-  [13535] Powered Ceramsteel Tanks (74)
+[24560] Technology Required to Build Unit (3):
+  [24560] Mechanized Demons (3)
 Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---29--
-Name: Adv. Recon. Vehicle (M)
-Nick Name: ARV (M)
-Scores & Strengths:
-  Tech Score: 3114
-  Unit Score: 2899
-  Average Score: 3007
-  Stat Strength: 1731
-  Total Strength: 2899
-  Planet Strength: 2899
-  Space Strength: 0
-  Garrison Strength: 557
-Statistics:
-  Movement Type: craft
-  Move Points: 27
-  Spot: 8
-  Camouflage: 11
-  Agility: 13
-  Armor: 18
-  Psy Defense: 18
-  Rank: 834
-Attacks:
-  Indirect: 27/36
-  Close: 14/14
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can be towed
-Upkeep / Maintenance: 71
-Build Cost: 706
-Build Resource Requirements:
-  Food: 3
-  Energy: 18
-  Metal: 4
-  Trace: 4
-  Exotica: 4
-  Chemicals: 12
-  Biochems: 5
-  Electronics: 8
-  Ceramsteel: 6
-  Monopols: 15
-Build Adv. Recon. Vehicle (M) in Factory
-Time to Build / Upgrade: 2
-[23685] Technologies Required to Build Unit (81):
-  [2855] Naval Amphibious Ships (87)
-  [7295] Nuclear-Powered Navalcraft (81)
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---30--
-Name: Adv. Recon. Vehicle (P)
-Nick Name: ARV (P)
-Scores & Strengths:
-  Tech Score: 3114
-  Unit Score: 2901
-  Average Score: 3008
-  Stat Strength: 1731
-  Total Strength: 2901
-  Planet Strength: 2901
-  Space Strength: 0
-  Garrison Strength: 558
-Statistics:
-  Movement Type: craft
-  Move Points: 27
-  Spot: 8
-  Camouflage: 11
-  Agility: 13
-  Armor: 18
-  Psy Defense: 18
-  Rank: 127
-Attacks:
-  Direct: 18/29
-  Close: 36/18
-Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 79
-Build Cost: 786
-Build Resource Requirements:
-  Food: 3
-  Energy: 16
-  Metal: 4
-  Trace: 18
-  Exotica: 4
-  Chemicals: 22
-  Biochems: 12
-  Electronics: 27
-  Ceramsteel: 6
-  Monopols: 24
-Build Adv. Recon. Vehicle (P) in Factory
-Time to Build / Upgrade: 3
-[23685] Technologies Required to Build Unit (81):
-  [2855] Naval Amphibious Ships (87)
-  [7295] Nuclear-Powered Navalcraft (81)
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---31--
-Name: Adv. Recon. Vehicle (ATG)
-Nick Name: ARV (ATG)
-Scores & Strengths:
-  Tech Score: 3114
-  Unit Score: 2901
-  Average Score: 3008
-  Stat Strength: 1731
-  Total Strength: 2901
-  Planet Strength: 2901
-  Space Strength: 0
-  Garrison Strength: 558
-Statistics:
-  Movement Type: craft
-  Move Points: 27
-  Spot: 8
-  Camouflage: 11
-  Agility: 13
-  Armor: 18
-  Psy Defense: 18
-  Rank: 134
-Attacks:
-  Indirect: 18/29
-  Direct: 36/18
-Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 55
-Build Cost: 545
-Build Resource Requirements:
-  Food: 3
-  Energy: 16
-  Metal: 4
-  Trace: 15
-  Exotica: 4
-  Chemicals: 13
-  Biochems: 11
-  Electronics: 23
-  Ceramsteel: 6
-  Monopols: 16
-Build Adv. Recon. Vehicle (ATG) in Factory
-Time to Build / Upgrade: 3
-[23685] Technologies Required to Build Unit (81):
-  [2855] Naval Amphibious Ships (87)
-  [7295] Nuclear-Powered Navalcraft (81)
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---32--
-Name: Adv. Recon. Vehicle (C)
-Nick Name: ARV (C)
-Scores & Strengths:
-  Tech Score: 3114
-  Unit Score: 2901
-  Average Score: 3008
-  Stat Strength: 1731
-  Total Strength: 2901
-  Planet Strength: 2901
-  Space Strength: 0
-  Garrison Strength: 558
-Statistics:
-  Movement Type: craft
-  Move Points: 27
-  Spot: 8
-  Camouflage: 11
-  Agility: 13
-  Armor: 18
-  Psy Defense: 18
-  Rank: 818
-Attacks:
-  Water: 18/36
-  Indirect: 18/29
-Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Can be towed
-Upkeep / Maintenance: 117
-Build Cost: 1172
-Build Resource Requirements:
-  Food: 3
-  Energy: 24
-  Metal: 4
-  Trace: 9
-  Exotica: 4
-  Chemicals: 23
-  Biochems: 5
-  Electronics: 10
-  Ceramsteel: 6
-  Monopols: 25
-Build Adv. Recon. Vehicle (C) in Factory
-Time to Build / Upgrade: 3
-[23685] Technologies Required to Build Unit (81):
-  [2855] Naval Amphibious Ships (87)
-  [7295] Nuclear-Powered Navalcraft (81)
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---33--
-Name: Adv. Recon. Vehicle (AD)
-Nick Name: ARV (AD)
-Scores & Strengths:
-  Tech Score: 3114
-  Unit Score: 2901
-  Average Score: 3008
-  Stat Strength: 1731
-  Total Strength: 2901
-  Planet Strength: 2901
-  Space Strength: 0
-  Garrison Strength: 558
-Statistics:
-  Movement Type: craft
-  Move Points: 27
-  Spot: 8
-  Camouflage: 11
-  Agility: 13
-  Armor: 18
-  Psy Defense: 18
-  Rank: 134
-Attacks:
-  Air: 18/29
-  Direct: 36/18
-Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 79
-Build Cost: 786
-Build Resource Requirements:
-  Food: 3
-  Energy: 16
-  Metal: 4
-  Trace: 18
-  Exotica: 4
-  Chemicals: 22
-  Biochems: 12
-  Electronics: 27
-  Ceramsteel: 6
-  Monopols: 24
-Build Adv. Recon. Vehicle (AD) in Factory
-Time to Build / Upgrade: 3
-[23685] Technologies Required to Build Unit (81):
-  [2855] Naval Amphibious Ships (87)
-  [7295] Nuclear-Powered Navalcraft (81)
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---34--
-Name: Adv. Recon. Vehicle (FS)
-Nick Name: ARV (FS)
-Scores & Strengths:
-  Tech Score: 3114
-  Unit Score: 2901
-  Average Score: 3008
-  Stat Strength: 1731
-  Total Strength: 2901
-  Planet Strength: 2901
-  Space Strength: 0
-  Garrison Strength: 558
-Statistics:
-  Movement Type: craft
-  Move Points: 27
-  Spot: 8
-  Camouflage: 11
-  Agility: 13
-  Armor: 18
-  Psy Defense: 18
-  Rank: 782
-Attacks:
-  Indirect: 29/18
-  Direct: 18/18
-  Close: 18/18
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can be towed
-Upkeep / Maintenance: 91
-Build Cost: 912
-Build Resource Requirements:
-  Food: 3
-  Energy: 14
-  Metal: 4
-  Trace: 9
-  Exotica: 4
-  Chemicals: 16
-  Biochems: 7
-  Electronics: 14
-  Ceramsteel: 6
-  Monopols: 19
-Build Adv. Recon. Vehicle (FS) in Factory
-Time to Build / Upgrade: 3
-[23685] Technologies Required to Build Unit (81):
-  [2855] Naval Amphibious Ships (87)
-  [7295] Nuclear-Powered Navalcraft (81)
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---35--
-Name: Adv. Recon. Vehicle (F)
-Nick Name: ARV (F)
-Scores & Strengths:
-  Tech Score: 3114
-  Unit Score: 2918
-  Average Score: 3016
-  Stat Strength: 1731
-  Total Strength: 2918
-  Planet Strength: 2918
-  Space Strength: 0
-  Garrison Strength: 561
-Statistics:
-  Movement Type: craft
-  Move Points: 27
-  Spot: 8
-  Camouflage: 11
-  Agility: 13
-  Armor: 18
-  Psy Defense: 18
-  Rank: 120
-Attacks:
-  Indirect: 18/25
-  Direct: 22/18
-  Close: 31/11
-Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 59
-Build Cost: 585
-Build Resource Requirements:
-  Food: 3
-  Energy: 15
-  Metal: 4
-  Trace: 17
-  Exotica: 4
-  Chemicals: 14
-  Biochems: 11
-  Electronics: 25
-  Ceramsteel: 6
-  Monopols: 17
-Build Adv. Recon. Vehicle (F) in Factory
-Time to Build / Upgrade: 3
-[23685] Technologies Required to Build Unit (81):
-  [2855] Naval Amphibious Ships (87)
-  [7295] Nuclear-Powered Navalcraft (81)
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---36--
-Name: Adv. Recon. Vehicle (L)
-Nick Name: ARV (L)
-Scores & Strengths:
-  Tech Score: 3114
-  Unit Score: 2941
-  Average Score: 3028
-  Stat Strength: 2019
-  Total Strength: 2941
-  Planet Strength: 2941
-  Space Strength: 0
-  Garrison Strength: 528
-Statistics:
-  Movement Type: craft
-  Move Points: 31
-  Spot: 8
-  Camouflage: 11
-  Agility: 15
-  Armor: 18
-  Psy Defense: 18
-  Rank: 120
-Attacks:
-  Direct: 20/20
-  Close: 29/18
-Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 76
-Build Cost: 764
-Build Resource Requirements:
-  Food: 4
-  Energy: 14
-  Metal: 4
-  Trace: 15
-  Exotica: 5
-  Chemicals: 20
-  Biochems: 11
-  Electronics: 22
-  Ceramsteel: 6
-  Monopols: 22
-Build Adv. Recon. Vehicle (L) in Factory
-Time to Build / Upgrade: 3
-[23685] Technologies Required to Build Unit (81):
-  [2855] Naval Amphibious Ships (87)
-  [7295] Nuclear-Powered Navalcraft (81)
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
