@@ -1,4 +1,4 @@
-All units of the unit class Powered Armor Legion are listed herein (2 in total):
+All units of the unit class Powered Armor Legion are listed herein (4 in total):
 
 --1--
 Name: Powered Armor Legion
@@ -46,39 +46,122 @@ Unit can be disbanded: YES
 Name: Assault Legion
 Nick Name: Assault Lgn
 Scores & Strengths:
-  Tech Score: 2370
-  Unit Score: 2296
-  Average Score: 2333
-  Stat Strength: 1282
-  Total Strength: 2296
-  Planet Strength: 2296
+  Tech Score: 2623
+  Unit Score: 2528
+  Average Score: 2575
+  Stat Strength: 1400
+  Total Strength: 2528
+  Planet Strength: 2528
   Space Strength: 0
-  Garrison Strength: 592
+  Garrison Strength: 632
 Statistics:
   Movement Type: foot
-  Move Points: 15
-  Spot: 10
+  Move Points: 16
+  Spot: 11
   Camouflage: 11
   Agility: 18
-  Armor: 16
-  Psy Defense: 16
-  Rank: 87
+  Armor: 17
+  Psy Defense: 17
+  Rank: 92
 Attacks:
-  Air: 17/16
-  Direct: 16/23
-  Close: 22/17
+  Air: 18/17
+  Direct: 17/24
+  Close: 23/18
 Load aboard transport: YES
-Upkeep / Maintenance: 84
-Build Cost: 14
+Upkeep / Maintenance: 82
 Build Resource Requirements:
   Energy: 2
   Metal: 1
   Chemicals: 2
+  Ceramsteel: 1
 Upgrade Powered Armor Legion to Assault Legion at Fort
 Time to Build / Upgrade: 1
-[16075] Technologies Required to Build Unit (69):
+[23900] Technologies Required to Build Unit (60):
+  [7825] Advanced Cybernetics (44)
   [6010] Cyber Robotics (58)
   [10065] Powered-Armor Legion (79)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Genetic Power Legion
+Nick Name: Gen PL
+Scores & Strengths:
+  Tech Score: 2900
+  Unit Score: 2811
+  Average Score: 2855
+  Stat Strength: 1563
+  Total Strength: 2811
+  Planet Strength: 2811
+  Space Strength: 0
+  Garrison Strength: 681
+Statistics:
+  Movement Type: foot
+  Move Points: 17
+  Spot: 11
+  Camouflage: 12
+  Agility: 19
+  Armor: 18
+  Psy Defense: 18
+  Rank: 97
+Attacks:
+  Air: 19/18
+  Direct: 18/25
+  Close: 24/19
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 123
+Build Cost: 404
+Build Resource Requirements:
+  Chemicals: 2
+  Biochems: 47
+Upgrade Powered Armor Legion to Genetic Power Legion at Lab
+Time to Build / Upgrade: 1
+[18965] Technologies Required to Build Unit (52):
+  [8900] Genetically-Enhanced Warriors (25)
+  [10065] Powered-Armor Legion (79)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Genetic Assault Legion
+Nick Name: Gen AL
+Scores & Strengths:
+  Tech Score: 3749
+  Unit Score: 3515
+  Average Score: 3632
+  Stat Strength: 1901
+  Total Strength: 3515
+  Planet Strength: 3515
+  Space Strength: 0
+  Garrison Strength: 806
+Statistics:
+  Movement Type: foot
+  Move Points: 19
+  Spot: 12
+  Camouflage: 14
+  Agility: 20
+  Armor: 20
+  Psy Defense: 20
+  Rank: 110
+Attacks:
+  Air: 22/20
+  Direct: 20/29
+  Close: 27/22
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 111
+Build Cost: 1112
+Build Resource Requirements:
+  Energy: 1
+  Biochems: 37
+Upgrade Assault Legion to Genetic Assault Legion at Lab
+Time to Build / Upgrade: 1
+[26250] Technologies Required to Build Unit (42):
+  [8900] Genetically-Enhanced Warriors (25)
+  [17350] Assault Legion (59)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

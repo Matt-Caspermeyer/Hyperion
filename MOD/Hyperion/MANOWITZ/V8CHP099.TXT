@@ -1,4 +1,4 @@
-All units of the unit class Covert Legion are listed herein (13 in total):
+All units of the unit class Covert Legion are listed herein (11 in total):
 
 --1--
 Name: Covert Legion
@@ -318,46 +318,6 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Special Forces
-Nick Name: SPF LGN
-Scores & Strengths:
-  Tech Score: 2106
-  Unit Score: 1577
-  Average Score: 1841
-  Stat Strength: 987
-  Total Strength: 1577
-  Planet Strength: 1577
-  Space Strength: 0
-  Garrison Strength: 407
-Statistics:
-  Movement Type: foot
-  Move Points: 15
-  Spot: 9
-  Camouflage: 15
-  Agility: 16
-  Armor: 10
-  Psy Defense: 10
-  Rank: 65
-Attacks:
-  Air: 12/15
-  Indirect: 10/20
-  Direct: 7/15
-  Close: 15/7
-Load aboard transport: YES
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 82
-Build Cost: 711
-Build Resource Requirements:
-  Ceramsteel: 3
-  Monopols: 31
-Upgrade Covert Legion to Special Forces at Fort
-Time to Build / Upgrade: 1
-[10710] Technology Required to Build Unit (79):
-  [10710] Special Forces (79)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---9--
 Name: Covert Legion (CE)
 Nick Name: Cov Lgn (CE)
 Scores & Strengths:
@@ -405,7 +365,7 @@ Time to Build / Upgrade: 1
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---10--
+--9--
 Name: Covert Legion (AVE)
 Nick Name: Cov Lgn (AVE)
 Scores & Strengths:
@@ -433,8 +393,9 @@ Attacks:
   Close: 16/8
 Load aboard transport: YES
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 27
-Build Cost: 109
+Immune to Plague
+Upkeep / Maintenance: 34
+Build Cost: 177
 Build Resource Requirements:
   Energy: 6
   Trace: 1
@@ -451,52 +412,7 @@ Time to Build / Upgrade: 1
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---11--
-Name: Cybercorp
-Nick Name: CYB LGN
-Scores & Strengths:
-  Tech Score: 2788
-  Unit Score: 2006
-  Average Score: 2397
-  Stat Strength: 1209
-  Total Strength: 2006
-  Planet Strength: 2006
-  Space Strength: 0
-  Garrison Strength: 486
-Statistics:
-  Movement Type: foot
-  Move Points: 17
-  Spot: 10
-  Camouflage: 17
-  Agility: 17
-  Armor: 11
-  Psy Defense: 11
-  Rank: 75
-Attacks:
-  Air: 14/17
-  Indirect: 11/23
-  Direct: 9/17
-  Close: 17/9
-Load aboard transport: YES
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 113
-Build Cost: 415
-Build Resource Requirements:
-  Food: 1
-  Energy: 4
-  Trace: 3
-  Exotica: 2
-  Chemicals: 6
-  Electronics: 7
-  Monopols: 9
-Upgrade Special Forces to Cybercorp at Hospital
-Time to Build / Upgrade: 1
-[15575] Technology Required to Build Unit (52):
-  [15575] Cybercorp (52)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---12--
+--10--
 Name: Covert Legion (MF)
 Nick Name: Cov Lgn (MF)
 Scores & Strengths:
@@ -541,7 +457,7 @@ Time to Build / Upgrade: 3
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---13--
+--11--
 Name: Covert Legion (NE)
 Nick Name: Cov Lgn (NE)
 Scores & Strengths:
@@ -569,8 +485,9 @@ Attacks:
   Close: 23/11
 Load aboard transport: YES
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 174
-Build Cost: 1627
+Immune to Plague
+Upkeep / Maintenance: 217
+Build Cost: 1993
 Build Resource Requirements:
   Wetware: 10
   Monopols: 36

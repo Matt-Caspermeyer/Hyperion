@@ -1,172 +1,170 @@
-All units of the unit class Mega Tank are listed herein (4 in total):
+All units of the unit class Special Forces are listed herein (4 in total):
 
 --1--
-Name: Mega Tank
-Nick Name: Mastiff
+Name: Special Forces
+Nick Name: SPF LGN
 Scores & Strengths:
-  Tech Score: 2510
-  Unit Score: 2509
-  Average Score: 2509
-  Stat Strength: 1996
-  Total Strength: 2509
-  Planet Strength: 2509
+  Tech Score: 2106
+  Unit Score: 2105
+  Average Score: 2105
+  Stat Strength: 1116
+  Total Strength: 2105
+  Planet Strength: 2105
   Space Strength: 0
-  Garrison Strength: 724
+  Garrison Strength: 562
 Statistics:
-  Movement Type: tread
-  Move Points: 12
-  Spot: 8
-  Camouflage: 6
+  Movement Type: foot
+  Move Points: 14
+  Spot: 14
+  Camouflage: 14
   Agility: 20
-  Armor: 26
-  Psy Defense: 26
-  Rank: 103
+  Armor: 8
+  Psy Defense: 8
+  Rank: 77
 Attacks:
-  Indirect: 12/21
-  Direct: 9/19
-  Close: 6/15
+  Air: 17/15
+  Indirect: 16/16
+  Direct: 15/16
+  Close: 17/14
 Load aboard transport: YES
-Upkeep / Maintenance: 97
-Build Cost: 904
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 95
+Build Cost: 835
 Build Resource Requirements:
-  Electronics: 5
-  Ceramsteel: 16
-  Monopols: 40
-Upgrade Main Battle Tank to Mega Tank at Factory
-Time to Build / Upgrade: 2
-[13535] Technology Required to Build Unit (74):
-  [13535] Powered Ceramsteel Tanks (74)
+  Trace: 1
+  Electronics: 12
+  Ceramsteel: 2
+  Monopols: 32
+Upgrade Covert Legion to Special Forces at Fort
+Time to Build / Upgrade: 1
+[10710] Technology Required to Build Unit (79):
+  [10710] Special Forces (79)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Psy Mega Tank
-Nick Name: St. Bernard
+Name: Cybercorp
+Nick Name: CYB LGN
 Scores & Strengths:
-  Tech Score: 2735
-  Unit Score: 4785
-  Average Score: 3760
-  Stat Strength: 4024
-  Total Strength: 4785
-  Planet Strength: 4785
-  Space Strength: 4284
-  Garrison Strength: 1381
+  Tech Score: 2788
+  Unit Score: 2630
+  Average Score: 2709
+  Stat Strength: 1340
+  Total Strength: 2630
+  Planet Strength: 2630
+  Space Strength: 0
+  Garrison Strength: 657
 Statistics:
-  Movement Type: tread
-  Move Points: 12
-  Spot: 8
-  Camouflage: 6
-  Agility: 20
-  Armor: 26
-  Psy Defense: 52
-  Rank: 116
+  Movement Type: foot
+  Move Points: 16
+  Spot: 15
+  Camouflage: 16
+  Agility: 21
+  Armor: 9
+  Psy Defense: 9
+  Rank: 87
 Attacks:
-  Psychic: 13/20
-  Indirect: 12/20
-  Direct: 9/19
-  Close: 6/15
+  Air: 20/17
+  Indirect: 18/18
+  Direct: 17/18
+  Close: 20/16
 Load aboard transport: YES
-Upkeep / Maintenance: 356
-Build Cost: 3563
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 128
+Build Cost: 440
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 21
-  Trace: 5
-  Exotica: 3
-  Chemicals: 30
-  Electronics: 22
-  Ceramsteel: 36
-  Monopols: 59
-  Gems: 79
-Build Psy Mega Tank in Factory
-Time to Build / Upgrade: 7
-[15305] Technologies Required to Build Unit (76):
-  [330] Holy Warriors (82)
-  [14975] Power Hovertanks (70)
+  Energy: 3
+  Trace: 7
+  Exotica: 1
+  Chemicals: 6
+  Electronics: 11
+  Monopols: 8
+Upgrade Special Forces to Cybercorp at Hospital
+Time to Build / Upgrade: 1
+[15575] Technology Required to Build Unit (52):
+  [15575] Cybercorp (52)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Stealth Mega Tank
-Nick Name: Ghost Tank
+Name: Genetic Special Forces
+Nick Name: Gen SF
 Scores & Strengths:
-  Tech Score: 5358
-  Unit Score: 5358
-  Average Score: 5358
-  Stat Strength: 3705
-  Total Strength: 5358
-  Planet Strength: 5358
+  Tech Score: 2985
+  Unit Score: 2890
+  Average Score: 2937
+  Stat Strength: 1487
+  Total Strength: 2890
+  Planet Strength: 2890
   Space Strength: 0
-  Garrison Strength: 1229
+  Garrison Strength: 700
 Statistics:
-  Movement Type: tread
-  Move Points: 19
-  Spot: 14
-  Camouflage: 23
-  Agility: 21
-  Armor: 33
-  Psy Defense: 33
-  Rank: 151
+  Movement Type: foot
+  Move Points: 17
+  Spot: 15
+  Camouflage: 17
+  Agility: 22
+  Armor: 10
+  Psy Defense: 10
+  Rank: 91
 Attacks:
-  Indirect: 21/29
-  Direct: 20/27
-  Close: 21/24
+  Air: 20/18
+  Indirect: 19/19
+  Direct: 18/19
+  Close: 20/17
 Load aboard transport: YES
-Upkeep / Maintenance: 127
-Build Cost: 368
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 139
+Build Cost: 556
 Build Resource Requirements:
-  Trace: 2
-  Biochems: 27
-  Electronics: 4
-  Wetware: 7
-Upgrade Mega Tank to Stealth Mega Tank at Factory
+  Chemicals: 2
+  Biochems: 41
+Upgrade Special Forces to Genetic Special Forces at Lab
 Time to Build / Upgrade: 1
-[37210] Technology Required to Build Unit (34):
-  [37210] Neumonic Land Vehicles (34)
+[19610] Technologies Required to Build Unit (52):
+  [8900] Genetically-Enhanced Warriors (25)
+  [10710] Special Forces (79)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Stealth Tank
-Nick Name: Wraith
+Name: Genetic Cybercorp
+Nick Name: Gen Cc
 Scores & Strengths:
-  Tech Score: 5358
-  Unit Score: 5358
-  Average Score: 5358
-  Stat Strength: 4644
-  Total Strength: 5358
-  Planet Strength: 5358
+  Tech Score: 3516
+  Unit Score: 3287
+  Average Score: 3401
+  Stat Strength: 1633
+  Total Strength: 3287
+  Planet Strength: 3287
   Space Strength: 0
-  Garrison Strength: 1198
+  Garrison Strength: 774
 Statistics:
-  Movement Type: tread
-  Move Points: 20
-  Spot: 14
-  Camouflage: 40
-  Agility: 20
-  Armor: 32
-  Psy Defense: 32
-  Rank: 139
+  Movement Type: foot
+  Move Points: 18
+  Spot: 16
+  Camouflage: 18
+  Agility: 23
+  Armor: 10
+  Psy Defense: 10
+  Rank: 99
 Attacks:
-  Indirect: 11/26
-  Direct: 15/20
-  Close: 8/16
+  Air: 22/19
+  Indirect: 21/21
+  Direct: 19/21
+  Close: 22/18
 Load aboard transport: YES
-Upkeep / Maintenance: 98
-Build Cost: 75
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 167
+Build Cost: 1233
 Build Resource Requirements:
-  Trace: 10
-  Biochems: 20
-  Electronics: 22
-  Wetware: 4
-Upgrade Mega Tank to Stealth Tank at Factory
+  Biochems: 47
+Upgrade Cybercorp to Genetic Cybercorp at Lab
 Time to Build / Upgrade: 1
-[37210] Technology Required to Build Unit (34):
-  [37210] Neumonic Land Vehicles (34)
+[24475] Technologies Required to Build Unit (39):
+  [8900] Genetically-Enhanced Warriors (25)
+  [15575] Cybercorp (52)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
