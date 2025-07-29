@@ -1,136 +1,236 @@
-All units of the unit class Jump Frigate are listed herein (3 in total):
+All units of the unit class Light Mech are listed herein (5 in total):
 
 --1--
-Name: Jump Frigate
-Nick Name: JJ-FF
+Name: Light Mech
+Nick Name: Berserker
 Scores & Strengths:
-  Tech Score: 1757
-  Unit Score: 1536
-  Average Score: 1647
-  Stat Strength: 1201
-  Total Strength: 1536
-  Planet Strength: 0
-  Space Strength: 1536
-  Garrison Strength: 0
+  Tech Score: 1686
+  Unit Score: 1685
+  Average Score: 1686
+  Stat Strength: 1158
+  Total Strength: 1685
+  Planet Strength: 1685
+  Space Strength: 0
+  Garrison Strength: 467
 Statistics:
-  Movement Type: jump
+  Movement Type: mech
   Move Points: 13
-  Spot: 11
-  Camouflage: 2
-  Agility: 5
-  Armor: 21
-  Psy Defense: 21
-  Rank: 168
+  Spot: 10
+  Camouflage: 4
+  Agility: 15
+  Armor: 18
+  Psy Defense: 18
+  Rank: 99
 Attacks:
-  Direct Space: 17/10
-  Closed Space: 11/15
+  Indirect: 16/17
+  Direct: 15/17
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 347
-Build Cost: 3471
+Upkeep / Maintenance: 17
+Build Cost: 169
 Build Resource Requirements:
-  Food: 3
-  Energy: 6
-  Metal: 11
-  Trace: 11
-  Exotica: 3
-  Chemicals: 8
-  Electronics: 17
-  Monopols: 36
-S  ingularities: 4
-Build Jump Frigate in Starport
+  Food: 4
+  Energy: 16
+  Metal: 13
+  Trace: 12
+  Exotica: 4
+  Chemicals: 31
+  Electronics: 19
+  Ceramsteel: 18
+Build Light Mech in Starport
 Time to Build / Upgrade: 3
-[11760] Technologies Required to Build Unit (68):
-  [4285] Jump Drives (70)
-  [7475] Cold Fusion Cells (66)
+[10330] Technologies Required to Build Unit (84):
+  [1690] Ceramsteel (84)
+  [2420] Rocket-Propelled Aircraft (87)
+  [6220] Mechanically-Enhanced Soldiers (80)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Space Frigate
-Nick Name: SS-FF
+Name: Medium Mech
+Nick Name: Harbinger
 Scores & Strengths:
-  Tech Score: 2580
-  Unit Score: 2164
-  Average Score: 2372
-  Stat Strength: 1690
-  Total Strength: 2164
-  Planet Strength: 0
-  Space Strength: 2164
-  Garrison Strength: 0
+  Tech Score: 2414
+  Unit Score: 2413
+  Average Score: 2413
+  Stat Strength: 1580
+  Total Strength: 2413
+  Planet Strength: 2413
+  Space Strength: 0
+  Garrison Strength: 623
 Statistics:
-  Movement Type: space
-  Move Points: 16
-  Spot: 12
-  Camouflage: 2
-  Agility: 6
-  Armor: 25
-  Psy Defense: 25
-  Rank: 156
+  Movement Type: mech
+  Move Points: 15
+  Spot: 13
+  Camouflage: 8
+  Agility: 8
+  Armor: 23
+  Psy Defense: 23
+  Rank: 114
 Attacks:
-  Direct Space: 20/12
-  Closed Space: 13/18
+  Indirect: 19/23
+  Direct: 18/22
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 29
-Build Cost: 294
+Upkeep / Maintenance: 135
+Build Cost: 1349
 Build Resource Requirements:
   Food: 2
-  Energy: 10
-  Metal: 18
-  Trace: 10
-  Exotica: 3
-  Chemicals: 18
-  Biochems: 20
-  Electronics: 15
-  Ceramsteel: 20
-Build Space Frigate in Starport
+  Energy: 11
+  Metal: 9
+  Trace: 13
+  Exotica: 2
+  Chemicals: 21
+  Electronics: 18
+  Ceramsteel: 10
+  Monopols: 30
+Build Medium Mech in Starport
 Time to Build / Upgrade: 3
-[14045] Technology Required to Build Unit (84):
-  [14045] Space Escorts (84)
+[12850] Technology Required to Build Unit (71):
+  [12850] Mechanized Warriors (71)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Jump Frigate II
-Nick Name: JJ-FF2
+Name: Heavy Mech
+Nick Name: Vanguard
 Scores & Strengths:
-  Tech Score: 4325
-  Unit Score: 3550
-  Average Score: 3938
-  Stat Strength: 2743
-  Total Strength: 3550
-  Planet Strength: 0
-  Space Strength: 3550
-  Garrison Strength: 0
+  Tech Score: 5401
+  Unit Score: 5401
+  Average Score: 5401
+  Stat Strength: 3085
+  Total Strength: 5401
+  Planet Strength: 5401
+  Space Strength: 0
+  Garrison Strength: 1309
 Statistics:
-  Movement Type: jump
-  Move Points: 21
+  Movement Type: mech
+  Move Points: 17
   Spot: 14
-  Camouflage: 3
-  Agility: 7
-  Armor: 32
-  Psy Defense: 32
-  Rank: 206
+  Camouflage: 12
+  Agility: 12
+  Armor: 34
+  Psy Defense: 34
+  Rank: 161
 Attacks:
-  Direct Space: 26/16
-  Closed Space: 17/23
+  Indirect: 31/33
+  Direct: 27/30
+  Close: 21/23
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 515
-Build Cost: 5150
+Upkeep / Maintenance: 236
+Build Cost: 2357
 Build Resource Requirements:
-  Food: 2
-  Energy: 6
-  Metal: 9
-  Trace: 10
+  Food: 1
+  Energy: 13
+  Metal: 8
+  Trace: 23
   Exotica: 2
-  Chemicals: 13
-  Biochems: 19
-  Electronics: 20
-  Ceramsteel: 13
+  Chemicals: 21
+  Biochems: 24
+  Electronics: 27
+  Ceramsteel: 12
+  Monopols: 34
+Build Heavy Mech in Starport
+Time to Build / Upgrade: 4
+[35965] Technology Required to Build Unit (64):
+  [35965] Advanced Mechanized Warriors (64)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: 3rd-Republic Mech
+Nick Name: Mangler
+Scores & Strengths:
+  Tech Score: 5663
+  Unit Score: 5707
+  Average Score: 5685
+  Stat Strength: 3223
+  Total Strength: 5707
+  Planet Strength: 5707
+  Space Strength: 0
+  Garrison Strength: 1384
+Statistics:
+  Movement Type: mech
+  Move Points: 17
+  Spot: 14
+  Camouflage: 12
+  Agility: 12
+  Armor: 35
+  Psy Defense: 35
+  Rank: 166
+Attacks:
+  Indirect: 32/34
+  Direct: 28/31
+  Close: 22/24
+Load aboard transport: YES
+Upkeep / Maintenance: 133
+Build Cost: 1332
+Build Resource Requirements:
+  Food: 1
+  Energy: 9
+  Metal: 5
+  Trace: 12
+  Exotica: 1
+  Chemicals: 15
+  Biochems: 13
+  Electronics: 17
+  Ceramsteel: 8
   Monopols: 24
-S  ingularities: 5
-Build Jump Frigate II in Starport
+Build 3rd-Republic Mech in Factory
 Time to Build / Upgrade: 3
-[27965] Technology Required to Build Unit (75):
-  [27965] Jump Escorts (75)
+[66070] Technologies Required to Build Unit (67):
+  [15130] Fusion Battle Tanks (68)
+  [14975] Power Hovertanks (70)
+  [35965] Advanced Mechanized Warriors (64)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Assault Mech
+Nick Name: Avatar
+Scores & Strengths:
+  Tech Score: 5809
+  Unit Score: 5809
+  Average Score: 5809
+  Stat Strength: 3436
+  Total Strength: 5809
+  Planet Strength: 5809
+  Space Strength: 0
+  Garrison Strength: 1332
+Statistics:
+  Movement Type: mech
+  Move Points: 19
+  Spot: 16
+  Camouflage: 12
+  Agility: 15
+  Armor: 35
+  Psy Defense: 35
+  Rank: 169
+Attacks:
+  Indirect: 30/32
+  Direct: 30/31
+  Close: 21/23
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 289
+Build Cost: 2894
+Build Resource Requirements:
+  Food: 1
+  Energy: 13
+  Metal: 7
+  Trace: 10
+  Exotica: 1
+  Chemicals: 20
+  Biochems: 25
+  Electronics: 15
+  Ceramsteel: 11
+  Wetware: 9
+  Monopols: 32
+Build Assault Mech in Starport
+Time to Build / Upgrade: 4
+[52710] Technologies Required to Build Unit (44):
+  [16745] Wetware (23)
+  [35965] Advanced Mechanized Warriors (64)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

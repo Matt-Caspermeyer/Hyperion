@@ -1,476 +1,251 @@
-All units of the unit class Supersonic Fighter are listed herein (10 in total):
+All units of the unit class Airborne Warning Aircraft are listed herein (6 in total):
 
 --1--
-Name: Supersonic Fighter
-Nick Name: Jaguar
+Name: Airborne Warning Aircraft
+Nick Name: AWACS
 Scores & Strengths:
-  Tech Score: 851
-  Unit Score: 851
-  Average Score: 851
-  Stat Strength: 590
-  Total Strength: 851
-  Planet Strength: 851
+  Tech Score: 835
+  Unit Score: 837
+  Average Score: 836
+  Stat Strength: 837
+  Total Strength: 837
+  Planet Strength: 837
   Space Strength: 0
-  Garrison Strength: 195
+  Garrison Strength: 252
 Statistics:
   Movement Type: air
-  Move Points: 19
-  Spot: 6
+  Move Points: 11
+  Spot: 20
   Camouflage: 4
-  Agility: 7
-  Armor: 8
-  Psy Defense: 8
-  Rank: 158
-Attacks:
-  Air: 11/11
-  Indirect: 14/10
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 11
-Build Cost: 109
-Build Resource Requirements:
-  Food: 9
-  Energy: 25
-  Metal: 76
-  Trace: 20
-  Exotica: 9
-  Chemicals: 31
-  Electronics: 11
-Build Supersonic Fighter in Factory
-Time to Build / Upgrade: 3
-[3200] Technology Required to Build Unit (85):
-  [3200] Supersonic Aircraft (85)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---2--
-Name: Rocket Fighter
-Nick Name: Cheetah
-Scores & Strengths:
-  Tech Score: 690
-  Unit Score: 863
-  Average Score: 777
-  Stat Strength: 745
-  Total Strength: 863
-  Planet Strength: 863
-  Space Strength: 0
-  Garrison Strength: 179
-Statistics:
-  Movement Type: air
-  Move Points: 23
-  Spot: 6
-  Camouflage: 4
-  Agility: 6
-  Armor: 8
-  Psy Defense: 8
-  Rank: 150
-Attacks:
-  Air: 6/8
-  Indirect: 7/10
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 12
-Build Cost: 121
-Build Resource Requirements:
-  Food: 15
-  Energy: 35
-  Metal: 76
-  Trace: 8
-  Exotica: 15
-  Chemicals: 40
-  Electronics: 6
-Build Rocket Fighter in Factory
-Time to Build / Upgrade: 3
-[2420] Technology Required to Build Unit (87):
-  [2420] Rocket-Propelled Aircraft (87)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---3--
-Name: Hypersonic Fighter
-Nick Name: Puma
-Scores & Strengths:
-  Tech Score: 1306
-  Unit Score: 1307
-  Average Score: 1306
-  Stat Strength: 830
-  Total Strength: 1307
-  Planet Strength: 1307
-  Space Strength: 0
-  Garrison Strength: 285
-Statistics:
-  Movement Type: air
-  Move Points: 21
-  Spot: 8
-  Camouflage: 5
   Agility: 10
   Armor: 10
   Psy Defense: 10
-  Rank: 170
-Attacks:
-  Air: 15/15
-  Indirect: 18/14
+  Rank: 749
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Officer - Provides stack combat bonuses
 Upkeep / Maintenance: 14
-Build Cost: 140
+Build Cost: 141
 Build Resource Requirements:
-  Food: 8
-  Energy: 25
-  Metal: 119
+  Food: 15
+  Energy: 9
+  Metal: 96
   Trace: 19
-  Exotica: 8
-  Chemicals: 36
-  Electronics: 14
-Build Hypersonic Fighter in Factory
+  Exotica: 14
+  Chemicals: 10
+  Electronics: 22
+Build Airborne Warning Aircraft in Factory
 Time to Build / Upgrade: 3
-[5665] Technology Required to Build Unit (82):
-  [5665] Hypersonic Aircraft (82)
+[3275] Technologies Required to Build Unit (82):
+  [1465] Airborne-Pulse Radar (78)
+  [1810] Jet-Propulsion Aircraft (86)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
---4--
-Name: Supersonic Fighter II
-Nick Name: Jaguar II
+--2--
+Name: Airborne Warning Aircraft II
+Nick Name: AWACS II
 Scores & Strengths:
-  Tech Score: 1773
-  Unit Score: 1702
-  Average Score: 1737
-  Stat Strength: 1166
-  Total Strength: 1702
-  Planet Strength: 1702
+  Tech Score: 1126
+  Unit Score: 1087
+  Average Score: 1107
+  Stat Strength: 1087
+  Total Strength: 1087
+  Planet Strength: 1087
   Space Strength: 0
-  Garrison Strength: 327
+  Garrison Strength: 301
 Statistics:
   Movement Type: air
-  Move Points: 27
-  Spot: 7
-  Camouflage: 6
-  Agility: 8
-  Armor: 12
-  Psy Defense: 12
-  Rank: 176
-Attacks:
-  Air: 16/16
-  Indirect: 20/14
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 10
-Build Cost: 99
-Build Resource Requirements:
-  Food: 6
-  Energy: 20
-  Metal: 7
-  Trace: 14
-  Exotica: 7
-  Chemicals: 25
-  Biochems: 8
-  Electronics: 8
-  Ceramsteel: 9
-Build Supersonic Fighter II in Factory
-Time to Build / Upgrade: 2
-[10840] Technologies Required to Build Unit (86):
-  [1785] Rotary Autocannon (90)
-  [3200] Supersonic Aircraft (85)
-  [5855] Guided Missile Navalcraft (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Advanced Supersonic Fighter
-Nick Name: Jaguar III
-Scores & Strengths:
-  Tech Score: 1979
-  Unit Score: 1899
-  Average Score: 1939
-  Stat Strength: 1295
-  Total Strength: 1899
-  Planet Strength: 1899
-  Space Strength: 0
-  Garrison Strength: 352
-Statistics:
-  Movement Type: air
-  Move Points: 29
-  Spot: 7
-  Camouflage: 6
-  Agility: 9
-  Armor: 12
-  Psy Defense: 12
-  Rank: 180
-Attacks:
-  Air: 17/17
-  Indirect: 21/15
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 9
-Build Cost: 90
-Build Resource Requirements:
-  Food: 6
-  Energy: 17
-  Metal: 7
-  Trace: 12
-  Exotica: 6
-  Chemicals: 23
-  Biochems: 7
-  Electronics: 7
-  Ceramsteel: 8
-Build Advanced Supersonic Fighter in Factory
-Time to Build / Upgrade: 2
-[15810] Technologies Required to Build Unit (86):
-  [1785] Rotary Autocannon (90)
-  [3200] Supersonic Aircraft (85)
-  [6655] PTS Missile Navalcraft (83)
-  [4170] Supercruise Missiles (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Hypersonic Fighter II
-Nick Name: Puma III
-Scores & Strengths:
-  Tech Score: 2021
-  Unit Score: 1937
-  Average Score: 1979
-  Stat Strength: 1202
-  Total Strength: 1937
-  Planet Strength: 1937
-  Space Strength: 0
-  Garrison Strength: 379
-Statistics:
-  Movement Type: air
-  Move Points: 26
-  Spot: 9
-  Camouflage: 6
+  Move Points: 13
+  Spot: 22
+  Camouflage: 5
   Agility: 11
   Armor: 12
   Psy Defense: 12
-  Rank: 184
-Attacks:
-  Air: 19/19
-  Indirect: 22/17
+  Rank: 752
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 11
-Build Cost: 105
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 17
+Build Cost: 170
 Build Resource Requirements:
-  Food: 6
-  Energy: 20
-  Metal: 7
-  Trace: 16
-  Exotica: 6
-  Chemicals: 26
-  Biochems: 8
-  Electronics: 10
-  Ceramsteel: 9
-Build Hypersonic Fighter II in Factory
-Time to Build / Upgrade: 2
-[13305] Technologies Required to Build Unit (85):
-  [1785] Rotary Autocannon (90)
-  [5855] Guided Missile Navalcraft (84)
-  [5665] Hypersonic Aircraft (82)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---7--
-Name: Rocket Fighter II
-Nick Name: Cheetah III
-Scores & Strengths:
-  Tech Score: 1650
-  Unit Score: 1991
-  Average Score: 1820
-  Stat Strength: 1718
-  Total Strength: 1991
-  Planet Strength: 1991
-  Space Strength: 0
-  Garrison Strength: 331
-Statistics:
-  Movement Type: air
-  Move Points: 36
-  Spot: 7
-  Camouflage: 6
-  Agility: 7
-  Armor: 12
-  Psy Defense: 12
-  Rank: 169
-Attacks:
-  Air: 9/12
-  Indirect: 11/15
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 13
-Build Cost: 126
-Build Resource Requirements:
-  Food: 11
-  Energy: 28
-  Metal: 7
-  Trace: 6
-  Exotica: 12
-  Chemicals: 35
-  Biochems: 11
-  Electronics: 4
-  Ceramsteel: 9
-Build Rocket Fighter II in Factory
+  Food: 15
+  Energy: 9
+  Metal: 126
+  Trace: 20
+  Exotica: 15
+  Chemicals: 11
+  Electronics: 25
+Build Airborne Warning Aircraft II in Factory
 Time to Build / Upgrade: 3
-[10060] Technologies Required to Build Unit (87):
-  [1785] Rotary Autocannon (90)
-  [2420] Rocket-Propelled Aircraft (87)
-  [5855] Guided Missile Navalcraft (84)
+[4805] Technologies Required to Build Unit (82):
+  [1605] Imaging Radar (78)
+  [3200] Supersonic Aircraft (85)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
---8--
-Name: Advanced Hypersonic Fighter
-Nick Name: Puma III
+--3--
+Name: Airborne Warning Aircraft III
+Nick Name: AWACS III
 Scores & Strengths:
-  Tech Score: 2335
-  Unit Score: 2252
-  Average Score: 2293
-  Stat Strength: 1396
-  Total Strength: 2252
-  Planet Strength: 2252
+  Tech Score: 1441
+  Unit Score: 1209
+  Average Score: 1325
+  Stat Strength: 1209
+  Total Strength: 1209
+  Planet Strength: 1209
   Space Strength: 0
-  Garrison Strength: 425
+  Garrison Strength: 323
 Statistics:
   Movement Type: air
-  Move Points: 28
-  Spot: 9
-  Camouflage: 7
-  Agility: 12
+  Move Points: 14
+  Spot: 23
+  Camouflage: 5
+  Agility: 11
   Armor: 13
   Psy Defense: 13
-  Rank: 191
-Attacks:
-  Air: 20/20
-  Indirect: 24/19
+  Rank: 754
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 10
-Build Cost: 95
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 16
+Build Cost: 159
 Build Resource Requirements:
-  Food: 5
-  Energy: 16
-  Metal: 8
-  Trace: 12
-  Exotica: 5
-  Chemicals: 23
-  Biochems: 6
-  Electronics: 8
-  Ceramsteel: 10
-Build Advanced Hypersonic Fighter in Factory
-Time to Build / Upgrade: 2
-[21210] Technologies Required to Build Unit (83):
-  [1785] Rotary Autocannon (90)
-  [6655] PTS Missile Navalcraft (83)
-  [5665] Hypersonic Aircraft (82)
-  [7105] Hypercruise Missiles (77)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---9--
-Name: Advanced Rocket Fighter
-Nick Name: Cheetah II
-Scores & Strengths:
-  Tech Score: 1989
-  Unit Score: 2434
-  Average Score: 2211
-  Stat Strength: 2090
-  Total Strength: 2434
-  Planet Strength: 2434
-  Space Strength: 0
-  Garrison Strength: 389
-Statistics:
-  Movement Type: air
-  Move Points: 39
-  Spot: 8
-  Camouflage: 7
-  Agility: 8
-  Armor: 14
-  Psy Defense: 14
-  Rank: 176
-Attacks:
-  Air: 10/14
-  Indirect: 12/17
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 15
-Build Cost: 154
-Build Resource Requirements:
-  Food: 14
-  Energy: 34
-  Metal: 6
-  Trace: 7
-  Exotica: 14
-  Chemicals: 59
-  Electronics: 7
-  Ceramsteel: 15
-Build Advanced Rocket Fighter in Factory
+  Food: 11
+  Energy: 7
+  Metal: 148
+  Trace: 13
+  Exotica: 11
+  Chemicals: 10
+  Electronics: 20
+Build Airborne Warning Aircraft III in Factory
 Time to Build / Upgrade: 3
-[9925] Technology Required to Build Unit (83):
-  [9925] Advanced Rocket-Propelled Aircraft (83)
+[7565] Technologies Required to Build Unit (79):
+  [1900] LASER (76)
+  [5665] Hypersonic Aircraft (82)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
---10--
-Name: Power Rocket Fighter
-Nick Name: Cheetah IV
+--4--
+Name: Airborne Warning Aircraft IV
+Nick Name: AWACS IV
 Scores & Strengths:
-  Tech Score: 3140
-  Unit Score: 3758
-  Average Score: 3449
-  Stat Strength: 3222
-  Total Strength: 3758
-  Planet Strength: 3758
+  Tech Score: 1767
+  Unit Score: 1462
+  Average Score: 1614
+  Stat Strength: 1462
+  Total Strength: 1462
+  Planet Strength: 1462
   Space Strength: 0
-  Garrison Strength: 536
+  Garrison Strength: 365
 Statistics:
   Movement Type: air
-  Move Points: 49
-  Spot: 9
-  Camouflage: 9
-  Agility: 9
-  Armor: 17
-  Psy Defense: 17
-  Rank: 195
-Attacks:
-  Air: 13/17
-  Indirect: 15/21
+  Move Points: 16
+  Spot: 24
+  Camouflage: 6
+  Agility: 12
+  Armor: 15
+  Psy Defense: 15
+  Rank: 757
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 147
-Build Cost: 1471
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 11
+Build Cost: 108
+Build Resource Requirements:
+  Food: 10
+  Energy: 7
+  Metal: 7
+  Trace: 12
+  Exotica: 10
+  Chemicals: 13
+  Electronics: 19
+  Ceramsteel: 17
+Build Airborne Warning Aircraft IV in Factory
+Time to Build / Upgrade: 2
+[9710] Technologies Required to Build Unit (80):
+  [2100] High-Power LASER (80)
+  [7610] Atmospheric Aircraft (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Airborne Warning Aircraft V
+Nick Name: AWACS V
+Scores & Strengths:
+  Tech Score: 1946
+  Unit Score: 1544
+  Average Score: 1745
+  Stat Strength: 1544
+  Total Strength: 1544
+  Planet Strength: 1544
+  Space Strength: 0
+  Garrison Strength: 374
+Statistics:
+  Movement Type: air
+  Move Points: 17
+  Spot: 25
+  Camouflage: 6
+  Agility: 12
+  Armor: 15
+  Psy Defense: 15
+  Rank: 758
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 11
+Build Cost: 106
 Build Resource Requirements:
   Food: 9
-  Energy: 21
-  Metal: 2
-  Trace: 6
+  Energy: 7
+  Metal: 7
+  Trace: 11
   Exotica: 9
-  Chemicals: 36
-  Electronics: 9
-  Ceramsteel: 6
-  Monopols: 45
-Build Power Rocket Fighter in Factory
-Time to Build / Upgrade: 4
-[18245] Technology Required to Build Unit (80):
-  [18245] Power Rocket Aircraft (80)
+  Chemicals: 13
+  Electronics: 18
+  Ceramsteel: 17
+Build Airborne Warning Aircraft V in Factory
+Time to Build / Upgrade: 2
+[11510] Technologies Required to Build Unit (80):
+  [2990] Adaptive Optics (81)
+  [8520] Advanced Atmospheric Aircraft (79)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Airborne Warning Aircraft VI
+Nick Name: AWACS VI
+Scores & Strengths:
+  Tech Score: 2770
+  Unit Score: 1995
+  Average Score: 2383
+  Stat Strength: 1995
+  Total Strength: 1995
+  Planet Strength: 1995
+  Space Strength: 0
+  Garrison Strength: 446
+Statistics:
+  Movement Type: air
+  Move Points: 20
+  Spot: 27
+  Camouflage: 7
+  Agility: 13
+  Armor: 18
+  Psy Defense: 18
+  Rank: 765
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 52
+Build Cost: 518
+Build Resource Requirements:
+  Food: 8
+  Energy: 4
+  Metal: 3
+  Trace: 11
+  Exotica: 8
+  Chemicals: 8
+  Electronics: 22
+  Ceramsteel: 7
+  Monopols: 14
+Build Airborne Warning Aircraft VI in Factory
+Time to Build / Upgrade: 2
+[19220] Technologies Required to Build Unit (79):
+  [3780] Beam Control (79)
+  [15440] Power Aircraft (79)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

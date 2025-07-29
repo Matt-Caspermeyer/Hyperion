@@ -1,48 +1,187 @@
-All units of the unit class Symbiot Reaver are listed herein (1 in total):
+All units of the unit class Scout Mech are listed herein (4 in total):
 
 --1--
-Name: Symbiot Reaver
-Nick Name: Reaver
+Name: Scout Mech
+Nick Name: Locust
 Scores & Strengths:
-  Tech Score: 1530
-  Unit Score: 1530
-  Average Score: 1530
-  Stat Strength: 1250
-  Total Strength: 1530
-  Planet Strength: 1530
+  Tech Score: 2194
+  Unit Score: 1535
+  Average Score: 1865
+  Stat Strength: 1245
+  Total Strength: 1535
+  Planet Strength: 1535
   Space Strength: 0
-  Garrison Strength: 382
+  Garrison Strength: 410
 Statistics:
-  Movement Type: foot
-  Move Points: 16
-  Spot: 15
-  Camouflage: 17
-  Agility: 20
-  Armor: 8
-  Psy Defense: 4
-  Rank: 59
+  Movement Type: mech
+  Move Points: 14
+  Spot: 14
+  Camouflage: 9
+  Agility: 22
+  Armor: 12
+  Psy Defense: 12
+  Rank: 96
 Attacks:
-  Air: 9/10
-  Direct: 6/13
-  Close: 14/8
+  Direct: 12/15
+  Close: 10/11
 Load aboard transport: YES
 Immune to Plague
-Causes Tactical Plague
-Upkeep / Maintenance: 53
-Build Cost: 533
+Upkeep / Maintenance: 10
+Build Cost: 100
 Build Resource Requirements:
-  Food: 9
-  Energy: 59
-  Metal: 1
-  Trace: 15
-  Exotica: 10
-  Chemicals: 73
-  Biochems: 104
-  Electronics: 37
-Build Symbiot Reaver in Hive
-Time to Build / Upgrade: 4
-[6995] Technology Required to Build Unit (37):
-  [6995] Symbiot Psychology (37)
+  Food: 5
+  Energy: 10
+  Metal: 3
+  Trace: 9
+  Exotica: 5
+  Chemicals: 18
+  Electronics: 17
+  Ceramsteel: 6
+Build Scout Mech in Starport
+Time to Build / Upgrade: 2
+[16120] Technologies Required to Build Unit (79):
+  [1690] Ceramsteel (84)
+  [6220] Mechanically-Enhanced Soldiers (80)
+  [8210] Aircraft Surveillance (74)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Mech Commander
+Nick Name: Commodore
+Scores & Strengths:
+  Tech Score: 2414
+  Unit Score: 2414
+  Average Score: 2414
+  Stat Strength: 1630
+  Total Strength: 2414
+  Planet Strength: 2414
+  Space Strength: 0
+  Garrison Strength: 669
+Statistics:
+  Movement Type: mech
+  Move Points: 13
+  Spot: 13
+  Camouflage: 7
+  Agility: 19
+  Armor: 21
+  Psy Defense: 21
+  Rank: 107
+Attacks:
+  Air: 12/14
+  Indirect: 11/22
+  Direct: 10/23
+  Close: 12/12
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 158
+Build Cost: 1580
+Build Resource Requirements:
+  Food: 3
+  Energy: 15
+  Metal: 8
+  Trace: 12
+  Exotica: 3
+  Chemicals: 26
+  Electronics: 21
+  Ceramsteel: 9
+  Monopols: 35
+Build Mech Commander in Starport
+Time to Build / Upgrade: 4
+[12850] Technology Required to Build Unit (71):
+  [12850] Mechanized Warriors (71)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Power Scout Mech
+Nick Name: Katydid
+Scores & Strengths:
+  Tech Score: 5401
+  Unit Score: 3238
+  Average Score: 4320
+  Stat Strength: 2510
+  Total Strength: 3238
+  Planet Strength: 3238
+  Space Strength: 0
+  Garrison Strength: 690
+Statistics:
+  Movement Type: mech
+  Move Points: 22
+  Spot: 18
+  Camouflage: 14
+  Agility: 28
+  Armor: 19
+  Psy Defense: 19
+  Rank: 136
+Attacks:
+  Direct: 19/24
+  Close: 16/17
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 101
+Build Cost: 1014
+Build Resource Requirements:
+  Food: 3
+  Energy: 9
+  Metal: 3
+  Trace: 13
+  Exotica: 4
+  Chemicals: 12
+  Biochems: 15
+  Electronics: 22
+  Ceramsteel: 4
+  Monopols: 18
+Build Power Scout Mech in Starport
+Time to Build / Upgrade: 2
+[35965] Technology Required to Build Unit (64):
+  [35965] Advanced Mechanized Warriors (64)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Stealth Scout Mech
+Nick Name: Cicada
+Scores & Strengths:
+  Tech Score: 7207
+  Unit Score: 6866
+  Average Score: 7037
+  Stat Strength: 5952
+  Total Strength: 6866
+  Planet Strength: 6866
+  Space Strength: 0
+  Garrison Strength: 1297
+Statistics:
+  Movement Type: mech
+  Move Points: 28
+  Spot: 28
+  Camouflage: 36
+  Agility: 44
+  Armor: 24
+  Psy Defense: 24
+  Rank: 165
+Attacks:
+  Direct: 19/26
+  Close: 20/21
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 267
+Build Cost: 2674
+Build Resource Requirements:
+  Food: 3
+  Energy: 8
+  Metal: 3
+  Trace: 19
+  Exotica: 3
+  Chemicals: 12
+  Biochems: 21
+  Electronics: 32
+  Ceramsteel: 4
+  Wetware: 13
+  Monopols: 19
+Build Stealth Scout Mech in Starport
+Time to Build / Upgrade: 3
+[55170] Technology Required to Build Unit (35):
+  [55170] Neumonic Patrolcraft (35)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

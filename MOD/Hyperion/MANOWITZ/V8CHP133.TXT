@@ -1,368 +1,303 @@
-All units of the unit class Space Cargo Shuttle are listed herein (8 in total):
+All units of the unit class Motorized Submersible Canoe (R) are listed herein (7 in total):
 
 --1--
-Name: Space Cargo Shuttle
-Nick Name: SS-CS
+Name: Motorized Submersible Canoe (R)
+Nick Name: MSC (R)
 Scores & Strengths:
-  Tech Score: 690
-  Unit Score: 690
-  Average Score: 690
-  Stat Strength: 690
-  Total Strength: 690
-  Planet Strength: 0
+  Tech Score: 658
+  Unit Score: 657
+  Average Score: 657
+  Stat Strength: 657
+  Total Strength: 657
+  Planet Strength: 657
   Space Strength: 0
-  Garrison Strength: 0
+  Garrison Strength: 189
 Statistics:
-  Movement Type: space
-  Move Points: 2
-  Spot: 10
-  Camouflage: 2
-  Agility: 2
-  Armor: 17
-  Psy Defense: 17
-  Rank: 67
-Cargo Space: 1
-Immune to Plague
-Upkeep / Maintenance: 25
-Build Cost: 254
+  Movement Type: underwater
+  Move Points: 12
+  Spot: 14
+  Camouflage: 14
+  Agility: 7
+  Armor: 6
+  Psy Defense: 6
+  Rank: 7
+Upkeep / Maintenance: 22
+Build Cost: 220
 Build Resource Requirements:
-  Food: 4
-  Energy: 1
-  Metal: 151
-  Trace: 6
-  Exotica: 3
-  Chemicals: 50
-  Electronics: 5
-Build Space Cargo Shuttle in Starport
-Time to Build / Upgrade: 3
-[2910] Technologies Required to Build Unit (91):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [1970] Cargo Handling (87)
+  Food: 9
+  Energy: 8
+  Metal: 7
+  Trace: 27
+  Exotica: 10
+  Chemicals: 8
+  Biochems: 11
+  Electronics: 21
+Build Motorized Submersible Canoe (R) in Well
+Time to Build / Upgrade: 2
+[2270] Technology Required to Build Unit (86):
+  [2270] Naval Escort Ships (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Space Transport
-Nick Name: SS-X
+Name: Motorized Submersible Canoe (A)
+Nick Name: MSC (A)
 Scores & Strengths:
-  Tech Score: 2354
-  Unit Score: 1941
-  Average Score: 2147
-  Stat Strength: 1853
-  Total Strength: 1941
-  Planet Strength: 0
-  Space Strength: 1941
-  Garrison Strength: 0
+  Tech Score: 658
+  Unit Score: 658
+  Average Score: 658
+  Stat Strength: 408
+  Total Strength: 658
+  Planet Strength: 658
+  Space Strength: 0
+  Garrison Strength: 232
 Statistics:
-  Movement Type: space
-  Move Points: 5
-  Spot: 12
-  Camouflage: 4
-  Agility: 10
-  Armor: 28
-  Psy Defense: 28
-  Rank: 101
+  Movement Type: underwater
+  Move Points: 8
+  Spot: 6
+  Camouflage: 12
+  Agility: 6
+  Armor: 8
+  Psy Defense: 8
+  Rank: 742
 Attacks:
-  Closed Space: 8/11
-Cargo Space: 3
-Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 184
+  Water: 10/16
+  Indirect: 9/10
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 39
+Build Cost: 388
 Build Resource Requirements:
-  Food: 1
-  Energy: 3
-  Metal: 23
-  Trace: 4
-  Exotica: 2
-  Chemicals: 9
-  Biochems: 2
-  Electronics: 6
-  Ceramsteel: 25
-Build Space Transport in Starport
+  Food: 3
+  Energy: 21
+  Metal: 12
+  Trace: 25
+  Exotica: 3
+  Chemicals: 21
+  Biochems: 7
+  Electronics: 15
+Build Motorized Submersible Canoe (A) in Well
 Time to Build / Upgrade: 2
-[12425] Technology Required to Build Unit (86):
-  [12425] Space Warfare (86)
+[2270] Technology Required to Build Unit (86):
+  [2270] Naval Escort Ships (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Space Transport Carrier
-Nick Name: SS-CVX
+Name: Midget Submarine
+Nick Name: NSS-MS
 Scores & Strengths:
-  Tech Score: 2916
-  Unit Score: 2510
-  Average Score: 2713
-  Stat Strength: 2124
-  Total Strength: 2510
-  Planet Strength: 0
-  Space Strength: 2510
-  Garrison Strength: 0
+  Tech Score: 932
+  Unit Score: 932
+  Average Score: 932
+  Stat Strength: 860
+  Total Strength: 932
+  Planet Strength: 932
+  Space Strength: 0
+  Garrison Strength: 249
 Statistics:
-  Movement Type: space
-  Move Points: 8
-  Spot: 12
-  Camouflage: 4
-  Agility: 10
-  Armor: 30
-  Psy Defense: 30
-  Rank: 863
+  Movement Type: underwater
+  Move Points: 14
+  Spot: 6
+  Camouflage: 14
+  Agility: 12
+  Armor: 12
+  Psy Defense: 12
+  Rank: 685
 Attacks:
-  Direct Space: 12/18
-  Closed Space: 10/17
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 363
-Build Cost: 3625
+  Water: 6/12
+Cargo Space: 1
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Can be towed
+Upkeep / Maintenance: 44
+Build Cost: 442
 Build Resource Requirements:
-  Food: 1
-  Energy: 5
-  Metal: 13
-  Trace: 5
-  Exotica: 1
-  Chemicals: 10
-  Biochems: 16
-  Electronics: 7
-  Ceramsteel: 15
-  Monopols: 23
-Build Space Transport Carrier in Starport
-Time to Build / Upgrade: 3
-[16530] Technology Required to Build Unit (80):
-  [16530] Space Capital Ships (80)
+  Food: 5
+  Energy: 17
+  Metal: 23
+  Trace: 20
+  Exotica: 6
+  Chemicals: 17
+  Biochems: 8
+  Electronics: 15
+Build Midget Submarine in Well
+Time to Build / Upgrade: 2
+[3615] Technology Required to Build Unit (87):
+  [3615] Submarine Warfare (87)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Jump Transport
-Nick Name: JJ-X
+Name: Human Torpedo
+Nick Name: NSS-HT
 Scores & Strengths:
-  Tech Score: 3391
-  Unit Score: 2793
-  Average Score: 3092
-  Stat Strength: 2663
-  Total Strength: 2793
-  Planet Strength: 0
-  Space Strength: 2793
-  Garrison Strength: 0
+  Tech Score: 932
+  Unit Score: 932
+  Average Score: 932
+  Stat Strength: 752
+  Total Strength: 932
+  Planet Strength: 932
+  Space Strength: 0
+  Garrison Strength: 380
 Statistics:
-  Movement Type: jump
+  Movement Type: underwater
   Move Points: 6
-  Spot: 13
-  Camouflage: 5
-  Agility: 11
-  Armor: 34
-  Psy Defense: 34
-  Rank: 136
+  Spot: 6
+  Camouflage: 18
+  Agility: 18
+  Armor: 4
+  Psy Defense: 4
+  Rank: 685
 Attacks:
-  Closed Space: 10/13
-Cargo Space: 3
-Immune to Plague
-Upkeep / Maintenance: 330
-Build Cost: 3297
+  Water: 18/10
+Cargo Space: 1
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Can be towed
+Upkeep / Maintenance: 63
+Build Cost: 634
 Build Resource Requirements:
-  Food: 1
-  Energy: 2
-  Metal: 14
-  Trace: 3
-  Exotica: 1
-  Chemicals: 5
-  Biochems: 13
-  Electronics: 5
-  Ceramsteel: 17
-  Monopols: 20
-S  ingularities: 3
-Build Jump Transport in Starport
+  Food: 5
+  Energy: 13
+  Metal: 3
+  Trace: 47
+  Exotica: 5
+  Chemicals: 13
+  Biochems: 16
+  Electronics: 35
+Build Human Torpedo in Well
 Time to Build / Upgrade: 3
-[20220] Technology Required to Build Unit (72):
-  [20220] Jump Transports (72)
+[3615] Technology Required to Build Unit (87):
+  [3615] Submarine Warfare (87)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Colony Star
-Nick Name: Colony Star
+Name: Diver Propulsion Vehicle
+Nick Name: DPV
 Scores & Strengths:
-  Tech Score: 3536
-  Unit Score: 3105
-  Average Score: 3320
-  Stat Strength: 3105
-  Total Strength: 3105
+  Tech Score: 1489
+  Unit Score: 1500
+  Average Score: 1494
+  Stat Strength: 1500
+  Total Strength: 0
   Planet Strength: 0
   Space Strength: 0
   Garrison Strength: 0
 Statistics:
-  Movement Type: space
-  Move Points: 16
-  Spot: 14
-  Camouflage: 5
-  Agility: 6
-  Armor: 36
-  Psy Defense: 36
-  Rank: 123
-Cargo Space: 4
-Immune to Plague
-Upkeep / Maintenance: 194
-Build Cost: 1937
+  Movement Type: underwater
+  Move Points: 20
+  Spot: 10
+  Camouflage: 20
+  Agility: 20
+  Armor: 10
+  Psy Defense: 10
+  Rank: 515
+Load aboard transport: YES
+Does not participate in combat
+Can tow units that can be towed
+Upkeep / Maintenance: 6
+Build Cost: 57
 Build Resource Requirements:
-  Food: 1
-  Energy: 2
-  Metal: 15
-  Trace: 2
-  Exotica: 2
-  Chemicals: 5
-  Biochems: 13
-  Electronics: 4
-  Ceramsteel: 19
-  Monopols: 21
-Build Colony Star in Starport
-Time to Build / Upgrade: 3
-[21375] Technology Required to Build Unit (67):
-  [21375] Lander Transports (67)
-Counts as planetary flock: YES
+  Food: 6
+  Energy: 11
+  Metal: 5
+  Trace: 15
+  Exotica: 7
+  Chemicals: 13
+  Biochems: 7
+  Electronics: 16
+  Ceramsteel: 5
+Build Diver Propulsion Vehicle in Well
+Time to Build / Upgrade: 2
+[9470] Technologies Required to Build Unit (86):
+  [3615] Submarine Warfare (87)
+  [5855] Guided Missile Navalcraft (84)
 Unit can be disbanded: YES
 
 --6--
-Name: Space Attack Transport
-Nick Name: SS-SAX
+Name: Swimmer Delivery Vehicle
+Nick Name: SDV
 Scores & Strengths:
-  Tech Score: 3536
-  Unit Score: 3107
-  Average Score: 3321
-  Stat Strength: 2564
-  Total Strength: 3107
+  Tech Score: 1619
+  Unit Score: 1621
+  Average Score: 1620
+  Stat Strength: 1621
+  Total Strength: 0
   Planet Strength: 0
-  Space Strength: 3107
+  Space Strength: 0
   Garrison Strength: 0
 Statistics:
-  Movement Type: space
-  Move Points: 10
-  Spot: 12
-  Camouflage: 4
-  Agility: 16
-  Armor: 32
-  Psy Defense: 32
-  Rank: 197
-Attacks:
-  Direct Space: 16/18
-  Closed Space: 15/17
-Cargo Space: 3
-Immune to Plague
-Upkeep / Maintenance: 193
-Build Cost: 1931
+  Movement Type: underwater
+  Move Points: 22
+  Spot: 13
+  Camouflage: 14
+  Agility: 22
+  Armor: 12
+  Psy Defense: 12
+  Rank: 526
+Cargo Space: 1
+Does not participate in combat
+Can tow units that can be towed
+Upkeep / Maintenance: 7
+Build Cost: 65
 Build Resource Requirements:
-  Food: 1
-  Energy: 5
-  Metal: 12
-  Trace: 7
-  Exotica: 1
-  Chemicals: 10
-  Biochems: 17
-  Electronics: 11
-  Ceramsteel: 15
-  Monopols: 23
-Build Space Attack Transport in Starport
-Time to Build / Upgrade: 3
-[21375] Technology Required to Build Unit (67):
-  [21375] Lander Transports (67)
-Counts as planetary flock: YES
+  Food: 7
+  Energy: 13
+  Metal: 6
+  Trace: 12
+  Exotica: 8
+  Chemicals: 16
+  Biochems: 9
+  Electronics: 13
+  Ceramsteel: 7
+Build Swimmer Delivery Vehicle in Well
+Time to Build / Upgrade: 2
+[10270] Technologies Required to Build Unit (85):
+  [3615] Submarine Warfare (87)
+  [6655] PTS Missile Navalcraft (83)
 Unit can be disbanded: YES
 
 --7--
-Name: Jump Transport Carrier
-Nick Name: JJ-CVX
+Name: Advanced SDV
+Nick Name: Adv. SDV
 Scores & Strengths:
-  Tech Score: 5589
-  Unit Score: 4786
-  Average Score: 5188
-  Stat Strength: 4025
-  Total Strength: 4786
+  Tech Score: 1792
+  Unit Score: 1790
+  Average Score: 1791
+  Stat Strength: 1790
+  Total Strength: 0
   Planet Strength: 0
-  Space Strength: 4786
+  Space Strength: 0
   Garrison Strength: 0
 Statistics:
-  Movement Type: jump
-  Move Points: 11
+  Movement Type: underwater
+  Move Points: 24
   Spot: 14
-  Camouflage: 6
-  Agility: 12
-  Armor: 42
-  Psy Defense: 42
-  Rank: 925
-Attacks:
-  Direct Space: 17/25
-  Closed Space: 14/24
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 1174
-Build Cost: 11739
-Build Resource Requirements:
-  Food: 1
-  Energy: 6
-  Metal: 12
-  Trace: 4
-  Exotica: 1
-  Chemicals: 13
-  Biochems: 15
-  Electronics: 13
-  Ceramsteel: 18
-  Monopols: 29
-S  ingularities: 3
-Build Jump Transport Carrier in Starport
-Time to Build / Upgrade: 3
-[39365] Technology Required to Build Unit (61):
-  [39365] Jump Capital Ships (61)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---8--
-Name: Jump High-Speed Transport
-Nick Name: Jump HHSSTT
-Scores & Strengths:
-  Tech Score: 6896
-  Unit Score: 6744
-  Average Score: 6820
-  Stat Strength: 5956
-  Total Strength: 6744
-  Planet Strength: 0
-  Space Strength: 6744
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 14
-  Spot: 14
-  Camouflage: 6
-  Agility: 36
-  Armor: 46
-  Psy Defense: 46
-  Rank: 254
-Attacks:
-  Direct Space: 18/23
-  Closed Space: 17/22
+  Camouflage: 14
+  Agility: 22
+  Armor: 13
+  Psy Defense: 13
+  Rank: 538
 Cargo Space: 2
-Immune to Plague
-Upkeep / Maintenance: 676
-Build Cost: 6759
+Does not participate in combat
+Can tow units that can be towed
+Upkeep / Maintenance: 6
+Build Cost: 62
 Build Resource Requirements:
-  Food: 1
-  Energy: 5
-  Metal: 9
-  Trace: 4
-  Exotica: 1
-  Chemicals: 11
-  Biochems: 16
-  Electronics: 10
-  Ceramsteel: 13
-  Wetware: 5
-  Monopols: 23
-S  ingularities: 4
-Build Jump High-Speed Transport in Starport
-Time to Build / Upgrade: 3
-[66385] Technologies Required to Build Unit (60):
-  [21375] Lander Transports (67)
-  [45010] Hover Navalcraft (52)
-Counts as planetary flock: YES
+  Food: 6
+  Energy: 11
+  Metal: 5
+  Trace: 9
+  Exotica: 7
+  Chemicals: 15
+  Biochems: 8
+  Electronics: 11
+  Ceramsteel: 6
+Build Advanced SDV in Well
+Time to Build / Upgrade: 2
+[14495] Technologies Required to Build Unit (83):
+  [7200] Air-Independent Propulsion (85)
+  [7295] Nuclear-Powered Navalcraft (81)
 Unit can be disbanded: YES

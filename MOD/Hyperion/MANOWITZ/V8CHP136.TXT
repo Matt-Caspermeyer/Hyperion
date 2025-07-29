@@ -1,227 +1,369 @@
-All units of the unit class Fighter Divebomber are listed herein (6 in total):
+All units of the unit class Jet-Propulsion Fighter are listed herein (9 in total):
 
 --1--
-Name: Fighter Divebomber
-Nick Name: A-FDB
+Name: Jet-Propulsion Fighter
+Nick Name: Tiger
 Scores & Strengths:
-  Tech Score: 498
-  Unit Score: 745
-  Average Score: 621
-  Stat Strength: 555
-  Total Strength: 745
-  Planet Strength: 745
+  Tech Score: 555
+  Unit Score: 694
+  Average Score: 624
+  Stat Strength: 540
+  Total Strength: 694
+  Planet Strength: 694
   Space Strength: 0
-  Garrison Strength: 235
+  Garrison Strength: 163
 Statistics:
   Movement Type: air
-  Move Points: 10
-  Spot: 8
-  Camouflage: 2
-  Agility: 15
-  Armor: 9
-  Psy Defense: 9
-  Rank: 156
+  Move Points: 18
+  Spot: 6
+  Camouflage: 4
+  Agility: 6
+  Armor: 8
+  Psy Defense: 8
+  Rank: 150
 Attacks:
-  Air: 4/10
-  Indirect: 15/10
+  Air: 10/7
+  Indirect: 12/7
 Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 111
+Upkeep / Maintenance: 10
+Build Cost: 98
 Build Resource Requirements:
-  Food: 13
-  Energy: 27
-  Metal: 78
-  Trace: 42
-  Exotica: 12
+  Food: 11
+  Energy: 26
+  Metal: 88
+  Trace: 19
+  Exotica: 11
   Chemicals: 28
-  Electronics: 10
-Build Fighter Divebomber in Factory
+  Electronics: 11
+Build Jet-Propulsion Fighter in Factory
 Time to Build / Upgrade: 3
-[1675] Technologies Required to Build Unit (86):
-  [275] Artifical Line of Sight (84)
-  [1400] Aerial Warfare (87)
+[1810] Technology Required to Build Unit (86):
+  [1810] Jet-Propulsion Aircraft (86)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Divebomber
-Nick Name: Wailer
+Name: Jet-Propulsion Fighter II
+Nick Name: Tiger II
 Scores & Strengths:
-  Tech Score: 498
-  Unit Score: 746
-  Average Score: 622
-  Stat Strength: 538
-  Total Strength: 746
-  Planet Strength: 746
+  Tech Score: 1142
+  Unit Score: 1362
+  Average Score: 1252
+  Stat Strength: 1052
+  Total Strength: 1362
+  Planet Strength: 1362
   Space Strength: 0
-  Garrison Strength: 224
+  Garrison Strength: 267
 Statistics:
   Movement Type: air
-  Move Points: 11
-  Spot: 8
-  Camouflage: 3
-  Agility: 12
-  Armor: 10
-  Psy Defense: 10
-  Rank: 159
+  Move Points: 26
+  Spot: 7
+  Camouflage: 6
+  Agility: 7
+  Armor: 11
+  Psy Defense: 11
+  Rank: 165
 Attacks:
-  Air: 2/8
-  Indirect: 16/12
+  Air: 14/10
+  Indirect: 17/10
 Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 113
+Upkeep / Maintenance: 8
+Build Cost: 77
 Build Resource Requirements:
-  Food: 12
-  Energy: 26
-  Metal: 96
-  Trace: 42
-  Exotica: 11
-  Chemicals: 27
-  Electronics: 8
-Build Divebomber in Factory
-Time to Build / Upgrade: 4
-[1675] Technologies Required to Build Unit (86):
-  [275] Artifical Line of Sight (84)
-  [1400] Aerial Warfare (87)
+  Food: 8
+  Energy: 18
+  Metal: 17
+  Trace: 16
+  Exotica: 8
+  Chemicals: 19
+  Biochems: 9
+  Electronics: 7
+Build Jet-Propulsion Fighter II in Factory
+Time to Build / Upgrade: 2
+[7115] Technologies Required to Build Unit (88):
+  [795] Missiles (86)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2725] Naval Capital Ships (88)
+  [1785] Rotary Autocannon (90)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Power Divebomber
-Nick Name: Banshee
+Name: Atmospheric Fighter
+Nick Name: Gryphon
 Scores & Strengths:
-  Tech Score: 2770
-  Unit Score: 3504
-  Average Score: 3137
-  Stat Strength: 2345
-  Total Strength: 3504
-  Planet Strength: 3504
+  Tech Score: 1630
+  Unit Score: 1986
+  Average Score: 1808
+  Stat Strength: 1530
+  Total Strength: 1986
+  Planet Strength: 1986
   Space Strength: 0
-  Garrison Strength: 687
+  Garrison Strength: 356
 Statistics:
   Movement Type: air
-  Move Points: 26
-  Spot: 12
+  Move Points: 31
+  Spot: 8
   Camouflage: 7
-  Agility: 18
-  Armor: 24
-  Psy Defense: 24
-  Rank: 222
+  Agility: 8
+  Armor: 14
+  Psy Defense: 14
+  Rank: 176
 Attacks:
-  Air: 5/19
-  Indirect: 38/28
+  Air: 17/12
+  Indirect: 21/12
 Load aboard transport: YES
-Upkeep / Maintenance: 117
-Build Cost: 1165
+Upkeep / Maintenance: 12
+Build Cost: 118
 Build Resource Requirements:
-  Food: 5
-  Energy: 16
-  Metal: 5
-  Trace: 33
-  Exotica: 5
-  Chemicals: 29
+  Food: 11
+  Energy: 27
+  Metal: 6
+  Trace: 19
+  Exotica: 11
+  Chemicals: 44
   Electronics: 14
-  Ceramsteel: 13
-  Monopols: 41
-Build Power Divebomber in Factory
-Time to Build / Upgrade: 4
-[15440] Technology Required to Build Unit (79):
-  [15440] Power Aircraft (79)
+  Ceramsteel: 15
+Build Atmospheric Fighter in Factory
+Time to Build / Upgrade: 3
+[7610] Technology Required to Build Unit (80):
+  [7610] Atmospheric Aircraft (80)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: 3rd-Republic Hyper Bomber
-Nick Name: Salvonator
+Name: Adv. Atmospheric Fighter
+Nick Name: Gryphon II
 Scores & Strengths:
-  Tech Score: 4822
-  Unit Score: 4355
-  Average Score: 4589
-  Stat Strength: 2313
-  Total Strength: 4355
-  Planet Strength: 4355
+  Tech Score: 1774
+  Unit Score: 2100
+  Average Score: 1937
+  Stat Strength: 1593
+  Total Strength: 2100
+  Planet Strength: 2100
   Space Strength: 0
-  Garrison Strength: 697
+  Garrison Strength: 371
 Statistics:
   Movement Type: air
-  Move Points: 39
-  Spot: 10
-  Camouflage: 6
-  Agility: 12
-  Armor: 16
-  Psy Defense: 16
-  Rank: 261
+  Move Points: 32
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 14
+  Psy Defense: 14
+  Rank: 178
 Attacks:
-  Air: 11/22
-  Indirect: 30/60
+  Air: 18/13
+  Indirect: 21/13
 Load aboard transport: YES
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 144
-Build Cost: 1437
+Upkeep / Maintenance: 12
+Build Cost: 119
 Build Resource Requirements:
-  Food: 3
-  Energy: 24
-  Metal: 1
-  Trace: 4
-  Exotica: 3
-  Chemicals: 30
-  Biochems: 18
-  Electronics: 3
-  Ceramsteel: 2
-  Wetware: 2
-  Monopols: 41
-Build 3rd-Republic Hyper Bomber in Factory
+  Food: 11
+  Energy: 27
+  Metal: 6
+  Trace: 18
+  Exotica: 11
+  Chemicals: 45
+  Electronics: 14
+  Ceramsteel: 15
+Build Adv. Atmospheric Fighter in Factory
 Time to Build / Upgrade: 3
-[42355] Technologies Required to Build Unit (63):
-  [26915] Rocket Legion (47)
-  [15440] Power Aircraft (79)
+[8520] Technology Required to Build Unit (79):
+  [8520] Advanced Atmospheric Aircraft (79)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Morph Divebomber
-Nick Name: Bansheewolf
+Name: Atmospheric Fighter II
+Nick Name: Gryphon III
 Scores & Strengths:
-  Tech Score: 8352
-  Unit Score: 8183
-  Average Score: 8267
-  Stat Strength: 6407
-  Total Strength: 8183
-  Planet Strength: 8183
+  Tech Score: 2126
+  Unit Score: 2531
+  Average Score: 2329
+  Stat Strength: 1929
+  Total Strength: 2531
+  Planet Strength: 2531
   Space Strength: 0
-  Garrison Strength: 1219
+  Garrison Strength: 427
 Statistics:
   Movement Type: air
-  Move Points: 45
-  Spot: 26
-  Camouflage: 15
-  Agility: 41
-  Armor: 30
-  Psy Defense: 30
-  Rank: 283
+  Move Points: 35
+  Spot: 8
+  Camouflage: 8
+  Agility: 8
+  Armor: 16
+  Psy Defense: 16
+  Rank: 185
 Attacks:
-  Air: 15/26
-  Indirect: 42/33
+  Air: 20/14
+  Indirect: 23/14
 Load aboard transport: YES
-Upkeep / Maintenance: 119
-Build Cost: 1189
+Upkeep / Maintenance: 12
+Build Cost: 115
+Build Resource Requirements:
+  Food: 8
+  Energy: 21
+  Metal: 7
+  Trace: 15
+  Exotica: 8
+  Chemicals: 29
+  Biochems: 10
+  Electronics: 10
+  Ceramsteel: 10
+Build Atmospheric Fighter II in Factory
+Time to Build / Upgrade: 3
+[15250] Technologies Required to Build Unit (85):
+  [1785] Rotary Autocannon (90)
+  [5855] Guided Missile Navalcraft (84)
+  [7610] Atmospheric Aircraft (80)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Laser Fighter
+Nick Name: Pegasus
+Scores & Strengths:
+  Tech Score: 4663
+  Unit Score: 5386
+  Average Score: 5024
+  Stat Strength: 4106
+  Total Strength: 5386
+  Planet Strength: 5386
+  Space Strength: 0
+  Garrison Strength: 746
+Statistics:
+  Movement Type: air
+  Move Points: 52
+  Spot: 10
+  Camouflage: 12
+  Agility: 10
+  Armor: 23
+  Psy Defense: 23
+  Rank: 230
+Attacks:
+  Air: 29/20
+  Indirect: 35/20
+Load aboard transport: YES
+Upkeep / Maintenance: 100
+Build Cost: 1001
+Build Resource Requirements:
+  Food: 5
+  Energy: 14
+  Metal: 3
+  Trace: 15
+  Exotica: 6
+  Chemicals: 21
+  Biochems: 8
+  Electronics: 13
+  Ceramsteel: 5
+  Monopols: 28
+Build Laser Fighter in Factory
+Time to Build / Upgrade: 3
+[45100] Technologies Required to Build Unit (81):
+  [1785] Rotary Autocannon (90)
+  [27875] PTS Meson Navalcraft (74)
+  [15440] Power Aircraft (79)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Psy Laser Fighter
+Nick Name: Psy Fighter
+Scores & Strengths:
+  Tech Score: 4686
+  Unit Score: 5681
+  Average Score: 5184
+  Stat Strength: 3748
+  Total Strength: 5681
+  Planet Strength: 5681
+  Space Strength: 4105
+  Garrison Strength: 837
+Statistics:
+  Movement Type: air
+  Move Points: 46
+  Spot: 12
+  Camouflage: 8
+  Agility: 12
+  Armor: 16
+  Psy Defense: 32
+  Rank: 229
+Attacks:
+  Psychic: 17/21
+  Air: 30/30
+  Indirect: 26/26
+Load aboard transport: YES
+Upkeep / Maintenance: 277
+Build Cost: 2769
+Build Resource Requirements:
+  Food: 5
+  Energy: 15
+  Metal: 3
+  Trace: 12
+  Exotica: 5
+  Chemicals: 22
+  Biochems: 7
+  Electronics: 14
+  Ceramsteel: 6
+  Monopols: 31
+  Gems: 75
+Build Psy Laser Fighter in Factory
+Time to Build / Upgrade: 4
+[45430] Technologies Required to Build Unit (81):
+  [330] Holy Warriors (82)
+  [1785] Rotary Autocannon (90)
+  [27875] PTS Meson Navalcraft (74)
+  [15440] Power Aircraft (79)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Morph Fighter
+Nick Name: Wyvern
+Scores & Strengths:
+  Tech Score: 8352
+  Unit Score: 8185
+  Average Score: 8268
+  Stat Strength: 5279
+  Total Strength: 8185
+  Planet Strength: 8185
+  Space Strength: 0
+  Garrison Strength: 1135
+Statistics:
+  Movement Type: air
+  Move Points: 52
+  Spot: 18
+  Camouflage: 13
+  Agility: 32
+  Armor: 23
+  Psy Defense: 23
+  Rank: 278
+Attacks:
+  Air: 41/41
+  Indirect: 35/35
+Load aboard transport: YES
+Upkeep / Maintenance: 145
+Build Cost: 1450
 Build Resource Requirements:
   Food: 3
-  Energy: 9
-  Metal: 2
+  Energy: 12
+  Metal: 1
   Trace: 7
   Exotica: 3
-  Chemicals: 13
-  Biochems: 17
-  Electronics: 8
-  Ceramsteel: 4
-  Wetware: 5
-  Monopols: 20
-Build Morph Divebomber in Factory
+  Chemicals: 16
+  Biochems: 22
+  Electronics: 9
+  Ceramsteel: 2
+  Wetware: 7
+  Monopols: 24
+Build Morph Fighter in Factory
 Time to Build / Upgrade: 3
 [100255] Technologies Required to Build Unit (64):
   [1785] Rotary Autocannon (90)
@@ -231,46 +373,46 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---6--
-Name: Stealth Divebomber
-Nick Name: Spirit Wolf
+--9--
+Name: Stealth Fighter
+Nick Name: Dragon
 Scores & Strengths:
   Tech Score: 8583
-  Unit Score: 8416
-  Average Score: 8499
-  Stat Strength: 6394
-  Total Strength: 8416
-  Planet Strength: 8416
+  Unit Score: 8417
+  Average Score: 8500
+  Stat Strength: 5575
+  Total Strength: 8417
+  Planet Strength: 8417
   Space Strength: 0
-  Garrison Strength: 1227
+  Garrison Strength: 1167
 Statistics:
   Movement Type: air
-  Move Points: 47
-  Spot: 26
-  Camouflage: 35
-  Agility: 22
-  Armor: 30
-  Psy Defense: 30
-  Rank: 288
+  Move Points: 52
+  Spot: 18
+  Camouflage: 33
+  Agility: 20
+  Armor: 23
+  Psy Defense: 23
+  Rank: 277
 Attacks:
-  Air: 17/30
-  Indirect: 42/36
+  Air: 41/42
+  Indirect: 32/35
 Load aboard transport: YES
-Upkeep / Maintenance: 113
-Build Cost: 1126
+Upkeep / Maintenance: 139
+Build Cost: 1391
 Build Resource Requirements:
   Food: 2
-  Energy: 9
-  Metal: 2
-  Trace: 10
+  Energy: 11
+  Metal: 1
+  Trace: 9
   Exotica: 3
-  Chemicals: 12
-  Biochems: 17
-  Electronics: 13
-  Ceramsteel: 4
-  Wetware: 3
-  Monopols: 20
-Build Stealth Divebomber in Factory
+  Chemicals: 15
+  Biochems: 21
+  Electronics: 14
+  Ceramsteel: 2
+  Wetware: 6
+  Monopols: 23
+Build Stealth Fighter in Factory
 Time to Build / Upgrade: 3
 [101965] Technologies Required to Build Unit (59):
   [1785] Rotary Autocannon (90)

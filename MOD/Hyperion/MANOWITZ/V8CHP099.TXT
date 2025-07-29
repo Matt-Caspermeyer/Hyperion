@@ -1,500 +1,443 @@
-All units of the unit class Covert Legion are listed herein (11 in total):
+All units of the unit class Space Carrier are listed herein (9 in total):
 
 --1--
-Name: Covert Legion
-Nick Name: Covert Lgn
+Name: Space Carrier
+Nick Name: SS-CV
 Scores & Strengths:
-  Tech Score: 338
-  Unit Score: 338
-  Average Score: 338
-  Stat Strength: 240
-  Total Strength: 338
-  Planet Strength: 338
-  Space Strength: 0
-  Garrison Strength: 137
+  Tech Score: 337
+  Unit Score: 337
+  Average Score: 337
+  Stat Strength: 229
+  Total Strength: 337
+  Planet Strength: 0
+  Space Strength: 337
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 6
-  Spot: 6
-  Camouflage: 6
-  Agility: 10
-  Armor: 4
-  Psy Defense: 4
-  Rank: 37
+  Movement Type: space
+  Move Points: 1
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 9
+  Psy Defense: 9
+  Rank: 827
 Attacks:
-  Air: 5/6
-  Indirect: 4/8
-  Direct: 3/6
-  Close: 6/3
-Load aboard transport: YES
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 13
-Build Cost: 113
+  Direct Space: 6/12
+  Closed Space: 4/9
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 51
+Build Cost: 509
 Build Resource Requirements:
-  Energy: 21
-  Metal: 6
-  Trace: 21
-  Exotica: 13
-  Chemicals: 47
-  Electronics: 27
-Upgrade Peasant to Covert Legion at Fort
-Time to Build / Upgrade: 2
-[1035] Technologies Required to Build Unit (94):
+  Food: 6
+  Energy: 24
+  Metal: 42
+  Trace: 16
+  Exotica: 6
+  Chemicals: 44
+  Electronics: 10
+  Gems: 1
+Build Space Carrier in Starport
+Time to Build / Upgrade: 3
+[1040] Technologies Required to Build Unit (96):
   [145] Composite Armor (97)
-  [790] Crystal Oscillator (86)
+  [795] Rocket Propulsion (90)
   [100] Psychosocial Engineering (100)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Covert Legion (PE)
-Nick Name: Cov Lgn (PE)
+Name: Jump Carrier
+Nick Name: JJ-CV
 Scores & Strengths:
-  Tech Score: 360
-  Unit Score: 338
-  Average Score: 349
-  Stat Strength: 240
-  Total Strength: 338
-  Planet Strength: 338
-  Space Strength: 0
-  Garrison Strength: 137
+  Tech Score: 425
+  Unit Score: 398
+  Average Score: 412
+  Stat Strength: 267
+  Total Strength: 398
+  Planet Strength: 0
+  Space Strength: 398
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 6
-  Spot: 6
-  Camouflage: 6
-  Agility: 10
-  Armor: 4
-  Psy Defense: 4
-  Rank: 37
+  Movement Type: jump
+  Move Points: 1
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 10
+  Rank: 855
 Attacks:
-  Air: 5/6
-  Indirect: 4/8
-  Direct: 3/6
-  Close: 6/3
-Load aboard transport: YES
-Can attack on Byzantium Secundus
-May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 10
-Build Cost: 79
+  Direct Space: 7/13
+  Closed Space: 4/10
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 224
+Build Cost: 2240
 Build Resource Requirements:
-  Energy: 11
-  Metal: 5
-  Trace: 19
-  Exotica: 11
-  Chemicals: 37
-  Electronics: 22
-Upgrade Peasant to Covert Legion (PE) at Fort
-Time to Build / Upgrade: 1
-[1215] Technologies Required to Build Unit (93):
+  Food: 6
+  Energy: 29
+  Metal: 42
+  Trace: 16
+  Exotica: 5
+  Chemicals: 53
+  Electronics: 12
+  Gems: 1
+S  ingularities: 1
+Build Jump Carrier in Starport
+Time to Build / Upgrade: 3
+[1480] Technologies Required to Build Unit (91):
   [145] Composite Armor (97)
-  [790] Crystal Oscillator (86)
   [100] Psychosocial Engineering (100)
-  [180] Performance-Enhanced Soldiers (90)
+  [1235] Jump Rocketry (76)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Covert Legion (BE)
-Nick Name: Cov Lgn (BE)
+Name: Space Escort Carrier
+Nick Name: SS-CVE
 Scores & Strengths:
-  Tech Score: 394
-  Unit Score: 454
-  Average Score: 424
-  Stat Strength: 318
-  Total Strength: 454
-  Planet Strength: 454
-  Space Strength: 0
-  Garrison Strength: 171
+  Tech Score: 2580
+  Unit Score: 2580
+  Average Score: 2580
+  Stat Strength: 2244
+  Total Strength: 2580
+  Planet Strength: 0
+  Space Strength: 2580
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 7
-  Spot: 7
-  Camouflage: 7
-  Agility: 11
-  Armor: 5
-  Psy Defense: 5
-  Rank: 40
+  Movement Type: space
+  Move Points: 14
+  Spot: 12
+  Camouflage: 2
+  Agility: 10
+  Armor: 30
+  Psy Defense: 30
+  Rank: 845
 Attacks:
-  Air: 6/7
-  Indirect: 5/9
-  Direct: 4/7
-  Close: 7/3
-Load aboard transport: YES
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 20
-Build Cost: 88
+  Direct Space: 8/25
+  Closed Space: 8/17
+Cargo Space: 2
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 75
+Build Cost: 748
 Build Resource Requirements:
-  Metal: 4
-  Trace: 1
-  Biochems: 42
-Upgrade Covert Legion to Covert Legion (BE) at Biochem Plant
-Time to Build / Upgrade: 1
-[1455] Technologies Required to Build Unit (90):
-  [145] Composite Armor (97)
-  [790] Crystal Oscillator (86)
-  [100] Psychosocial Engineering (100)
-  [420] Biochem-Enhanced Soldiers (77)
+  Food: 2
+  Energy: 16
+  Metal: 26
+  Trace: 4
+  Exotica: 3
+  Chemicals: 28
+  Biochems: 23
+  Electronics: 7
+  Ceramsteel: 29
+Build Space Escort Carrier in Starport
+Time to Build / Upgrade: 3
+[14045] Technology Required to Build Unit (84):
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Covert Legion (SE)
-Nick Name: Cov Lgn (SE)
+Name: Space Light Carrier
+Nick Name: SS-CLA
 Scores & Strengths:
-  Tech Score: 454
-  Unit Score: 518
-  Average Score: 486
-  Stat Strength: 348
-  Total Strength: 518
-  Planet Strength: 518
-  Space Strength: 0
-  Garrison Strength: 183
+  Tech Score: 2916
+  Unit Score: 2916
+  Average Score: 2916
+  Stat Strength: 2500
+  Total Strength: 2916
+  Planet Strength: 0
+  Space Strength: 2916
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 8
-  Spot: 7
-  Camouflage: 8
-  Agility: 11
-  Armor: 5
-  Psy Defense: 5
-  Rank: 42
+  Movement Type: space
+  Move Points: 18
+  Spot: 12
+  Camouflage: 6
+  Agility: 14
+  Armor: 30
+  Psy Defense: 30
+  Rank: 847
 Attacks:
-  Air: 7/8
-  Indirect: 5/10
-  Direct: 4/8
-  Close: 8/4
-Load aboard transport: YES
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 22
-Build Cost: 108
+  Direct Space: 16/16
+  Closed Space: 16/10
+Cargo Space: 2
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 330
+Build Cost: 3299
 Build Resource Requirements:
-  Metal: 1
-  Trace: 5
-  Biochems: 46
-  Electronics: 3
-Upgrade Covert Legion to Covert Legion (SE) at Hospital
-Time to Build / Upgrade: 1
-[1710] Technologies Required to Build Unit (90):
-  [145] Composite Armor (97)
-  [790] Crystal Oscillator (86)
-  [100] Psychosocial Engineering (100)
-  [675] Surgically-Enhanced Soldiers (75)
+  Food: 2
+  Energy: 5
+  Metal: 13
+  Trace: 8
+  Exotica: 2
+  Chemicals: 10
+  Biochems: 19
+  Electronics: 13
+  Ceramsteel: 15
+  Monopols: 23
+Build Space Light Carrier in Starport
+Time to Build / Upgrade: 3
+[16530] Technology Required to Build Unit (80):
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Covert Legion (DE)
-Nick Name: Cov Lgn (DE)
+Name: Jump Carrier MkII
+Nick Name: JJ-CV2
 Scores & Strengths:
-  Tech Score: 922
-  Unit Score: 891
-  Average Score: 906
-  Stat Strength: 573
-  Total Strength: 891
-  Planet Strength: 891
-  Space Strength: 0
-  Garrison Strength: 268
+  Tech Score: 3755
+  Unit Score: 3237
+  Average Score: 3496
+  Stat Strength: 2047
+  Total Strength: 3237
+  Planet Strength: 0
+  Space Strength: 3237
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 11
-  Spot: 8
-  Camouflage: 11
-  Agility: 13
-  Armor: 7
-  Psy Defense: 7
-  Rank: 51
+  Movement Type: jump
+  Move Points: 3
+  Spot: 15
+  Camouflage: 3
+  Agility: 2
+  Armor: 30
+  Psy Defense: 30
+  Rank: 926
 Attacks:
-  Air: 9/11
-  Indirect: 7/14
-  Direct: 6/11
-  Close: 11/5
-Load aboard transport: YES
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 16
-Build Cost: 50
+  Direct Space: 20/40
+  Closed Space: 13/30
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 691
+Build Cost: 6910
 Build Resource Requirements:
-  Metal: 11
-  Biochems: 35
-Upgrade Covert Legion to Covert Legion (DE) at Biochem Plant
-Time to Build / Upgrade: 1
-[4475] Technologies Required to Build Unit (87):
-  [145] Composite Armor (97)
-  [790] Crystal Oscillator (86)
-  [100] Psychosocial Engineering (100)
-  [3440] Drug-Enhanced Soldiers (65)
+  Food: 1
+  Energy: 12
+  Metal: 10
+  Trace: 6
+  Exotica: 1
+  Chemicals: 20
+  Biochems: 18
+  Electronics: 10
+  Ceramsteel: 11
+  Monopols: 34
+S  ingularities: 2
+Build Jump Carrier MkII in Starport
+Time to Build / Upgrade: 3
+[29430] Technologies Required to Build Unit (71):
+  [4285] Jump Drives (70)
+  [8615] Fusion Beam (63)
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Covert Legion (GE)
-Nick Name: Cov Lgn (GE)
+Name: Jump Escort Carrier
+Nick Name: JJ-CVE
 Scores & Strengths:
-  Tech Score: 1384
-  Unit Score: 1291
-  Average Score: 1337
-  Stat Strength: 806
-  Total Strength: 1291
-  Planet Strength: 1291
-  Space Strength: 0
-  Garrison Strength: 358
+  Tech Score: 4325
+  Unit Score: 4232
+  Average Score: 4279
+  Stat Strength: 3692
+  Total Strength: 4232
+  Planet Strength: 0
+  Space Strength: 4232
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 13
-  Spot: 9
-  Camouflage: 13
-  Agility: 15
-  Armor: 9
-  Psy Defense: 9
-  Rank: 58
+  Movement Type: jump
+  Move Points: 18
+  Spot: 14
+  Camouflage: 3
+  Agility: 11
+  Armor: 39
+  Psy Defense: 39
+  Rank: 896
 Attacks:
-  Air: 11/13
-  Indirect: 9/17
-  Direct: 7/13
-  Close: 14/7
-Load aboard transport: YES
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 21
-Build Cost: 163
+  Direct Space: 10/32
+  Closed Space: 10/22
+Cargo Space: 2
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 1152
+Build Cost: 11521
 Build Resource Requirements:
-  Energy: 5
-  Trace: 1
-  Chemicals: 3
-  Biochems: 16
-  Electronics: 3
-  Ceramsteel: 4
-Upgrade Covert Legion (DE) to Covert Legion (GE) at Lab
-Time to Build / Upgrade: 1
-[7055] Technologies Required to Build Unit (83):
-  [145] Composite Armor (97)
-  [790] Crystal Oscillator (86)
-  [100] Psychosocial Engineering (100)
-  [6020] Chemical Shock Legion (49)
+  Food: 2
+  Energy: 10
+  Metal: 14
+  Trace: 4
+  Exotica: 2
+  Chemicals: 20
+  Biochems: 19
+  Electronics: 12
+  Ceramsteel: 19
+  Monopols: 36
+S  ingularities: 4
+Build Jump Escort Carrier in Starport
+Time to Build / Upgrade: 4
+[27965] Technology Required to Build Unit (75):
+  [27965] Jump Escorts (75)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Covert Legion (PA)
-Nick Name: Cov Lgn (PA)
+Name: Jump Carrier MkIII
+Nick Name: JJ-CV3
 Scores & Strengths:
-  Tech Score: 1410
-  Unit Score: 1293
-  Average Score: 1352
-  Stat Strength: 806
-  Total Strength: 1293
-  Planet Strength: 1293
-  Space Strength: 0
-  Garrison Strength: 358
+  Tech Score: 5589
+  Unit Score: 4798
+  Average Score: 5194
+  Stat Strength: 3030
+  Total Strength: 4798
+  Planet Strength: 0
+  Space Strength: 4798
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 13
-  Spot: 9
-  Camouflage: 13
-  Agility: 15
-  Armor: 9
-  Psy Defense: 9
-  Rank: 59
+  Movement Type: jump
+  Move Points: 4
+  Spot: 16
+  Camouflage: 4
+  Agility: 2
+  Armor: 37
+  Psy Defense: 37
+  Rank: 956
 Attacks:
-  Air: 11/13
-  Indirect: 9/18
-  Direct: 7/13
-  Close: 13/7
-Load aboard transport: YES
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 26
-Build Cost: 154
+  Direct Space: 24/49
+  Closed Space: 16/37
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 979
+Build Cost: 9794
 Build Resource Requirements:
-  Energy: 4
-  Chemicals: 17
-  Ceramsteel: 13
-Upgrade Covert Legion (SE) to Covert Legion (PA) at Hospital
-Time to Build / Upgrade: 1
-[7210] Technologies Required to Build Unit (85):
-  [145] Composite Armor (97)
-  [790] Crystal Oscillator (86)
-  [100] Psychosocial Engineering (100)
-  [6175] Prosthetically-Augmented Soldiers (57)
+  Food: 1
+  Energy: 15
+  Metal: 9
+  Trace: 6
+  Exotica: 1
+  Chemicals: 27
+  Biochems: 21
+  Electronics: 15
+  Ceramsteel: 14
+  Monopols: 44
+S  ingularities: 2
+Build Jump Carrier MkIII in Starport
+Time to Build / Upgrade: 4
+[39365] Technology Required to Build Unit (61):
+  [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Covert Legion (CE)
-Nick Name: Cov Lgn (CE)
+Name: Jump Light Carrier
+Nick Name: JJ-CLA
 Scores & Strengths:
-  Tech Score: 1786
-  Unit Score: 1641
-  Average Score: 1714
-  Stat Strength: 1006
-  Total Strength: 1641
-  Planet Strength: 1641
-  Space Strength: 0
-  Garrison Strength: 423
+  Tech Score: 5589
+  Unit Score: 5461
+  Average Score: 5525
+  Stat Strength: 4669
+  Total Strength: 5461
+  Planet Strength: 0
+  Space Strength: 5461
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 15
-  Spot: 10
-  Camouflage: 15
+  Movement Type: jump
+  Move Points: 25
+  Spot: 14
+  Camouflage: 8
   Agility: 16
-  Armor: 10
-  Psy Defense: 10
-  Rank: 65
+  Armor: 42
+  Psy Defense: 42
+  Rank: 900
 Attacks:
-  Air: 13/15
-  Indirect: 10/20
-  Direct: 8/15
-  Close: 15/8
-Load aboard transport: YES
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 32
-Build Cost: 165
+  Direct Space: 22/22
+  Closed Space: 22/14
+Cargo Space: 1
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 1341
+Build Cost: 13413
 Build Resource Requirements:
-  Food: 1
-  Energy: 10
-  Metal: 2
-  Exotica: 1
-  Chemicals: 16
-  Biochems: 7
-  Ceramsteel: 2
-Upgrade Covert Legion (PA) to Covert Legion (CE) at Lab
-Time to Build / Upgrade: 1
-[9635] Technologies Required to Build Unit (83):
-  [145] Composite Armor (97)
-  [790] Crystal Oscillator (86)
-  [100] Psychosocial Engineering (100)
-  [8600] Cybernetically-Enhanced Soldiers (48)
+  Food: 2
+  Energy: 6
+  Metal: 12
+  Trace: 7
+  Exotica: 2
+  Chemicals: 13
+  Biochems: 18
+  Electronics: 19
+  Ceramsteel: 18
+  Monopols: 29
+S  ingularities: 5
+Build Jump Light Carrier in Starport
+Time to Build / Upgrade: 4
+[39365] Technology Required to Build Unit (61):
+  [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Covert Legion (AVE)
-Nick Name: Cov Lgn (AVE)
+Name: Gate Carrier
+Nick Name: GG-CV
 Scores & Strengths:
-  Tech Score: 1848
-  Unit Score: 1731
-  Average Score: 1790
-  Stat Strength: 1068
-  Total Strength: 1731
-  Planet Strength: 1731
-  Space Strength: 0
-  Garrison Strength: 432
+  Tech Score: 7682
+  Unit Score: 7515
+  Average Score: 7599
+  Stat Strength: 6617
+  Total Strength: 7515
+  Planet Strength: 7052
+  Space Strength: 7080
+  Garrison Strength: 1617
 Statistics:
-  Movement Type: foot
-  Move Points: 16
-  Spot: 10
-  Camouflage: 16
-  Agility: 16
-  Armor: 10
-  Psy Defense: 10
-  Rank: 66
+  Movement Type: gate
+  Move Points: 19
+  Spot: 16
+  Camouflage: 10
+  Agility: 30
+  Armor: 50
+  Psy Defense: 50
+  Rank: 941
 Attacks:
-  Air: 13/15
-  Indirect: 11/20
-  Direct: 8/15
-  Close: 16/8
-Load aboard transport: YES
-Can attack on Byzantium Secundus
+  Direct Space: 9/27
+  Closed Space: 10/22
+  Direct: 9/25
+  Close: 10/21
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
 Immune to Plague
-Upkeep / Maintenance: 34
-Build Cost: 177
+Upkeep / Maintenance: 2014
+Build Cost: 20141
 Build Resource Requirements:
-  Energy: 6
-  Trace: 1
-  Chemicals: 9
-  Biochems: 12
-  Electronics: 3
-Upgrade Covert Legion (GE) to Covert Legion (AVE) at Lab
-Time to Build / Upgrade: 1
-[9935] Technologies Required to Build Unit (77):
-  [145] Composite Armor (97)
-  [790] Crystal Oscillator (86)
-  [100] Psychosocial Engineering (100)
-  [8900] Genetically-Enhanced Warriors (25)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---10--
-Name: Covert Legion (MF)
-Nick Name: Cov Lgn (MF)
-Scores & Strengths:
-  Tech Score: 3182
-  Unit Score: 2728
-  Average Score: 2955
-  Stat Strength: 1637
-  Total Strength: 2728
-  Planet Strength: 2728
-  Space Strength: 0
-  Garrison Strength: 609
-Statistics:
-  Movement Type: foot
-  Move Points: 20
-  Spot: 11
-  Camouflage: 20
-  Agility: 18
-  Armor: 14
-  Psy Defense: 14
-  Rank: 85
-Attacks:
-  Air: 17/20
-  Indirect: 13/27
-  Direct: 10/20
-  Close: 20/10
-Load aboard transport: YES
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 268
-Build Cost: 2518
-Build Resource Requirements:
-  Energy: 2
-  Biochems: 13
-  Wetware: 9
-  Monopols: 70
-Upgrade Covert Legion (CE) to Covert Legion (MF) at Wetware
-Time to Build / Upgrade: 3
-[19610] Technologies Required to Build Unit (80):
-  [145] Composite Armor (97)
-  [790] Crystal Oscillator (86)
-  [100] Psychosocial Engineering (100)
-  [18575] Machine-Fused Soldiers (35)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---11--
-Name: Covert Legion (NE)
-Nick Name: Cov Lgn (NE)
-Scores & Strengths:
-  Tech Score: 3872
-  Unit Score: 3519
-  Average Score: 3696
-  Stat Strength: 2126
-  Total Strength: 3519
-  Planet Strength: 3519
-  Space Strength: 0
-  Garrison Strength: 750
-Statistics:
-  Movement Type: foot
-  Move Points: 22
-  Spot: 12
-  Camouflage: 25
-  Agility: 19
-  Armor: 16
-  Psy Defense: 16
-  Rank: 96
-Attacks:
-  Air: 19/23
-  Indirect: 15/30
-  Direct: 11/23
-  Close: 23/11
-Load aboard transport: YES
-Can attack on Byzantium Secundus
-Immune to Plague
-Upkeep / Maintenance: 217
-Build Cost: 1993
-Build Resource Requirements:
-  Wetware: 10
+  Food: 1
+  Energy: 9
+  Metal: 11
+  Trace: 3
+  Exotica: 1
+  Chemicals: 17
+  Biochems: 21
+  Electronics: 10
+  Ceramsteel: 17
+  Wetware: 5
   Monopols: 36
-Upgrade Covert Legion (AVE) to Covert Legion (NE) at Fusorium
-Time to Build / Upgrade: 2
-[24230] Technologies Required to Build Unit (66):
-  [100] Psychosocial Engineering (100)
-  [24130] Neumonically-Enhanced Soldiers (32)
+S  ingularities: 4
+Build Gate Carrier in Starport
+Time to Build / Upgrade: 4
+[60155] Technology Required to Build Unit (53):
+  [60155] Gate Capital Ships (53)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

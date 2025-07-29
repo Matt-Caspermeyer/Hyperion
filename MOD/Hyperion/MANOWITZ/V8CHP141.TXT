@@ -1,251 +1,229 @@
-All units of the unit class Airborne Warning Aircraft are listed herein (6 in total):
+All units of the unit class Shantor Warrior are listed herein (5 in total):
 
 --1--
-Name: Airborne Warning Aircraft
-Nick Name: AWACS
+Name: Shantor Warrior
+Nick Name: Shantor War
 Scores & Strengths:
-  Tech Score: 835
-  Unit Score: 837
-  Average Score: 836
-  Stat Strength: 837
-  Total Strength: 837
-  Planet Strength: 837
+  Tech Score: 807
+  Unit Score: 805
+  Average Score: 806
+  Stat Strength: 580
+  Total Strength: 805
+  Planet Strength: 805
   Space Strength: 0
-  Garrison Strength: 252
+  Garrison Strength: 207
 Statistics:
-  Movement Type: air
-  Move Points: 11
-  Spot: 20
+  Movement Type: foot
+  Move Points: 15
+  Spot: 8
   Camouflage: 4
-  Agility: 10
-  Armor: 10
-  Psy Defense: 10
-  Rank: 749
+  Agility: 15
+  Armor: 5
+  Psy Defense: 5
+  Rank: 8
+Attacks:
+  Close: 15/15
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 14
-Build Cost: 141
+Can tow units that can be towed
+Upkeep / Maintenance: 27
+Build Cost: 272
 Build Resource Requirements:
-  Food: 15
-  Energy: 9
-  Metal: 96
-  Trace: 19
-  Exotica: 14
-  Chemicals: 10
-  Electronics: 22
-Build Airborne Warning Aircraft in Factory
-Time to Build / Upgrade: 3
-[3275] Technologies Required to Build Unit (82):
-  [1465] Airborne-Pulse Radar (78)
-  [1810] Jet-Propulsion Aircraft (86)
+  Food: 16
+  Energy: 51
+  Metal: 3
+  Trace: 11
+  Exotica: 17
+  Chemicals: 53
+  Biochems: 82
+  Electronics: 24
+Build Shantor Warrior in Farm
+Time to Build / Upgrade: 4
+[3105] Technologies Required to Build Unit (51):
+  [2980] Xenoimmunology (41)
+  [125] Xenopsychology (60)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Airborne Warning Aircraft II
-Nick Name: AWACS II
+Name: Shantor Rebel
+Nick Name: Shantor Rbl
 Scores & Strengths:
-  Tech Score: 1126
-  Unit Score: 1087
-  Average Score: 1107
-  Stat Strength: 1087
-  Total Strength: 1087
-  Planet Strength: 1087
+  Tech Score: 807
+  Unit Score: 805
+  Average Score: 806
+  Stat Strength: 584
+  Total Strength: 805
+  Planet Strength: 805
   Space Strength: 0
-  Garrison Strength: 301
+  Garrison Strength: 201
 Statistics:
-  Movement Type: air
-  Move Points: 13
-  Spot: 22
-  Camouflage: 5
-  Agility: 11
-  Armor: 12
-  Psy Defense: 12
-  Rank: 752
+  Movement Type: foot
+  Move Points: 16
+  Spot: 8
+  Camouflage: 6
+  Agility: 14
+  Armor: 4
+  Psy Defense: 4
+  Rank: 8
+Attacks:
+  Close: 17/13
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 17
-Build Cost: 170
+Can tow units that can be towed
+Upkeep / Maintenance: 25
+Build Cost: 251
 Build Resource Requirements:
-  Food: 15
-  Energy: 9
-  Metal: 126
-  Trace: 20
-  Exotica: 15
-  Chemicals: 11
-  Electronics: 25
-Build Airborne Warning Aircraft II in Factory
-Time to Build / Upgrade: 3
-[4805] Technologies Required to Build Unit (82):
-  [1605] Imaging Radar (78)
-  [3200] Supersonic Aircraft (85)
+  Food: 17
+  Energy: 43
+  Metal: 2
+  Trace: 12
+  Exotica: 17
+  Chemicals: 44
+  Biochems: 74
+  Electronics: 27
+Build Shantor Rebel in Farm
+Time to Build / Upgrade: 4
+[3105] Technologies Required to Build Unit (51):
+  [2980] Xenoimmunology (41)
+  [125] Xenopsychology (60)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Airborne Warning Aircraft III
-Nick Name: AWACS III
+Name: Shantor Sun Runner
+Nick Name: Sun Runner
 Scores & Strengths:
-  Tech Score: 1441
-  Unit Score: 1209
-  Average Score: 1325
-  Stat Strength: 1209
-  Total Strength: 1209
-  Planet Strength: 1209
-  Space Strength: 0
-  Garrison Strength: 323
+  Tech Score: 807
+  Unit Score: 806
+  Average Score: 806
+  Stat Strength: 606
+  Total Strength: 806
+  Planet Strength: 806
+  Space Strength: 706
+  Garrison Strength: 195
 Statistics:
-  Movement Type: air
-  Move Points: 14
-  Spot: 23
-  Camouflage: 5
-  Agility: 11
-  Armor: 13
-  Psy Defense: 13
-  Rank: 754
+  Movement Type: foot
+  Move Points: 17
+  Spot: 8
+  Camouflage: 2
+  Agility: 13
+  Armor: 4
+  Psy Defense: 8
+  Rank: 708
+Attacks:
+  Psychic: 10/10
+  Close: 10/10
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 16
-Build Cost: 159
+Clergy - Increases Tithe Skim and Converts Sects
+Can tow units that can be towed
+Upkeep / Maintenance: 66
+Build Cost: 660
 Build Resource Requirements:
-  Food: 11
-  Energy: 7
-  Metal: 148
-  Trace: 13
-  Exotica: 11
-  Chemicals: 10
-  Electronics: 20
-Build Airborne Warning Aircraft III in Factory
+  Food: 18
+  Energy: 32
+  Metal: 5
+  Trace: 7
+  Exotica: 18
+  Chemicals: 34
+  Biochems: 60
+  Electronics: 15
+  Gems: 31
+Build Shantor Sun Runner in Church
 Time to Build / Upgrade: 3
-[7565] Technologies Required to Build Unit (79):
-  [1900] LASER (76)
-  [5665] Hypersonic Aircraft (82)
+[3105] Technologies Required to Build Unit (51):
+  [2980] Xenoimmunology (41)
+  [125] Xenopsychology (60)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Airborne Warning Aircraft IV
-Nick Name: AWACS IV
+Name: Shantor Darkwalker
+Nick Name: Darkwalker
 Scores & Strengths:
-  Tech Score: 1767
-  Unit Score: 1462
-  Average Score: 1614
-  Stat Strength: 1462
-  Total Strength: 1462
-  Planet Strength: 1462
+  Tech Score: 807
+  Unit Score: 809
+  Average Score: 808
+  Stat Strength: 588
+  Total Strength: 809
+  Planet Strength: 809
   Space Strength: 0
-  Garrison Strength: 365
+  Garrison Strength: 224
 Statistics:
-  Movement Type: air
-  Move Points: 16
-  Spot: 24
-  Camouflage: 6
-  Agility: 12
-  Armor: 15
-  Psy Defense: 15
-  Rank: 757
+  Movement Type: foot
+  Move Points: 13
+  Spot: 8
+  Camouflage: 4
+  Agility: 17
+  Armor: 5
+  Psy Defense: 5
+  Rank: 8
+Attacks:
+  Close: 17/13
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 11
-Build Cost: 108
+Can tow units that can be towed
+Upkeep / Maintenance: 25
+Build Cost: 246
 Build Resource Requirements:
-  Food: 10
-  Energy: 7
-  Metal: 7
-  Trace: 12
-  Exotica: 10
-  Chemicals: 13
-  Electronics: 19
-  Ceramsteel: 17
-Build Airborne Warning Aircraft IV in Factory
-Time to Build / Upgrade: 2
-[9710] Technologies Required to Build Unit (80):
-  [2100] High-Power LASER (80)
-  [7610] Atmospheric Aircraft (80)
+  Food: 15
+  Energy: 41
+  Metal: 3
+  Trace: 13
+  Exotica: 15
+  Chemicals: 43
+  Biochems: 73
+  Electronics: 29
+Build Shantor Darkwalker in Farm
+Time to Build / Upgrade: 4
+[3105] Technologies Required to Build Unit (51):
+  [2980] Xenoimmunology (41)
+  [125] Xenopsychology (60)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Airborne Warning Aircraft V
-Nick Name: AWACS V
+Name: Shantor Mercenary
+Nick Name: Shantor Merc
 Scores & Strengths:
-  Tech Score: 1946
-  Unit Score: 1544
-  Average Score: 1745
-  Stat Strength: 1544
-  Total Strength: 1544
-  Planet Strength: 1544
+  Tech Score: 807
+  Unit Score: 809
+  Average Score: 808
+  Stat Strength: 613
+  Total Strength: 809
+  Planet Strength: 809
   Space Strength: 0
-  Garrison Strength: 374
+  Garrison Strength: 216
 Statistics:
-  Movement Type: air
-  Move Points: 17
-  Spot: 25
-  Camouflage: 6
-  Agility: 12
-  Armor: 15
-  Psy Defense: 15
-  Rank: 758
+  Movement Type: foot
+  Move Points: 14
+  Spot: 8
+  Camouflage: 5
+  Agility: 16
+  Armor: 6
+  Psy Defense: 6
+  Rank: 8
+Attacks:
+  Close: 14/14
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 11
-Build Cost: 106
+Can tow units that can be towed
+Upkeep / Maintenance: 26
+Build Cost: 255
 Build Resource Requirements:
-  Food: 9
-  Energy: 7
-  Metal: 7
+  Food: 15
+  Energy: 46
+  Metal: 4
   Trace: 11
-  Exotica: 9
-  Chemicals: 13
-  Electronics: 18
-  Ceramsteel: 17
-Build Airborne Warning Aircraft V in Factory
-Time to Build / Upgrade: 2
-[11510] Technologies Required to Build Unit (80):
-  [2990] Adaptive Optics (81)
-  [8520] Advanced Atmospheric Aircraft (79)
+  Exotica: 16
+  Chemicals: 48
+  Biochems: 76
+  Electronics: 24
+Build Shantor Mercenary in Farm
+Time to Build / Upgrade: 4
+[3105] Technologies Required to Build Unit (51):
+  [2980] Xenoimmunology (41)
+  [125] Xenopsychology (60)
 Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---6--
-Name: Airborne Warning Aircraft VI
-Nick Name: AWACS VI
-Scores & Strengths:
-  Tech Score: 2770
-  Unit Score: 1995
-  Average Score: 2383
-  Stat Strength: 1995
-  Total Strength: 1995
-  Planet Strength: 1995
-  Space Strength: 0
-  Garrison Strength: 446
-Statistics:
-  Movement Type: air
-  Move Points: 20
-  Spot: 27
-  Camouflage: 7
-  Agility: 13
-  Armor: 18
-  Psy Defense: 18
-  Rank: 765
-Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 52
-Build Cost: 518
-Build Resource Requirements:
-  Food: 8
-  Energy: 4
-  Metal: 3
-  Trace: 11
-  Exotica: 8
-  Chemicals: 8
-  Electronics: 22
-  Ceramsteel: 7
-  Monopols: 14
-Build Airborne Warning Aircraft VI in Factory
-Time to Build / Upgrade: 2
-[19220] Technologies Required to Build Unit (79):
-  [3780] Beam Control (79)
-  [15440] Power Aircraft (79)
-Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

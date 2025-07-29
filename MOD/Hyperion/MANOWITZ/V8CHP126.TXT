@@ -1,1382 +1,826 @@
-All units of the unit class Light Assault Helicopter are listed herein (29 in total):
+All units of the unit class Landing Vehicle, Tracked (P) are listed herein (18 in total):
 
 --1--
-Name: Light Assault Helicopter
-Nick Name: A-HLA
+Name: Landing Vehicle, Tracked (P)
+Nick Name: LVT (P)
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 616
-  Average Score: 617
-  Stat Strength: 450
-  Total Strength: 616
-  Planet Strength: 616
+  Tech Score: 585
+  Unit Score: 584
+  Average Score: 584
+  Stat Strength: 332
+  Total Strength: 584
+  Planet Strength: 584
   Space Strength: 0
-  Garrison Strength: 205
+  Garrison Strength: 206
 Statistics:
-  Movement Type: air
-  Move Points: 9
+  Movement Type: craft
+  Move Points: 8
   Spot: 6
-  Camouflage: 6
-  Agility: 13
-  Armor: 8
-  Psy Defense: 8
-  Rank: 121
+  Camouflage: 4
+  Agility: 4
+  Armor: 10
+  Psy Defense: 10
+  Rank: 90
 Attacks:
-  Indirect: 12/6
-  Direct: 9/6
-  Close: 10/4
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+  Direct: 14/10
+  Close: 14/8
+Cargo Space: 1
+Can be towed
 Upkeep / Maintenance: 10
-Build Cost: 98
+Build Cost: 96
 Build Resource Requirements:
-  Food: 6
-  Energy: 14
-  Metal: 88
-  Trace: 27
-  Exotica: 6
-  Chemicals: 16
-  Electronics: 20
-Build Light Assault Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+  Food: 3
+  Energy: 11
+  Metal: 19
+  Trace: 28
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 17
+  Electronics: 21
+Build Landing Vehicle, Tracked (P) in Factory
+Time to Build / Upgrade: 2
+[2290] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Reconnaissance Helicopter
-Nick Name: A-HR
+Name: Landing Vehicle, Tracked (C)
+Nick Name: LVT (C)
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 617
-  Total Strength: 617
-  Planet Strength: 617
+  Tech Score: 585
+  Unit Score: 584
+  Average Score: 584
+  Stat Strength: 332
+  Total Strength: 584
+  Planet Strength: 584
   Space Strength: 0
-  Garrison Strength: 186
+  Garrison Strength: 206
 Statistics:
-  Movement Type: air
-  Move Points: 11
-  Spot: 8
-  Camouflage: 6
-  Agility: 14
+  Movement Type: craft
+  Move Points: 8
+  Spot: 6
+  Camouflage: 4
+  Agility: 4
   Armor: 10
   Psy Defense: 10
-  Rank: 81
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 10
-Build Cost: 103
+  Rank: 113
+Attacks:
+  Water: 14/10
+  Indirect: 14/8
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 8
+Build Cost: 75
 Build Resource Requirements:
-  Food: 8
-  Energy: 13
-  Metal: 137
-  Trace: 12
-  Exotica: 8
-  Chemicals: 14
+  Food: 3
+  Energy: 11
+  Metal: 19
+  Trace: 28
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 10
   Electronics: 12
-Build Reconnaissance Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+Build Landing Vehicle, Tracked (C) in Factory
+Time to Build / Upgrade: 2
+[2290] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Anti-Submarine Helicopter
-Nick Name: A-HAS
+Name: Landing Vehicle, Tracked (H)
+Nick Name: LVT (H)
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 442
-  Total Strength: 617
-  Planet Strength: 617
+  Tech Score: 585
+  Unit Score: 584
+  Average Score: 584
+  Stat Strength: 332
+  Total Strength: 584
+  Planet Strength: 584
   Space Strength: 0
-  Garrison Strength: 218
+  Garrison Strength: 206
 Statistics:
-  Movement Type: air
+  Movement Type: craft
   Move Points: 8
   Spot: 6
-  Camouflage: 6
-  Agility: 8
-  Armor: 11
-  Psy Defense: 11
-  Rank: 153
+  Camouflage: 4
+  Agility: 4
+  Armor: 10
+  Psy Defense: 10
+  Rank: 88
 Attacks:
-  Water: 5/18
-  Indirect: 5/17
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 14
-Build Cost: 142
+  Indirect: 14/10
+  Direct: 14/8
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 8
+Build Cost: 75
 Build Resource Requirements:
-  Food: 4
-  Energy: 40
-  Metal: 166
-  Trace: 10
-  Exotica: 4
-  Chemicals: 45
-  Electronics: 8
-Build Anti-Submarine Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+  Food: 3
+  Energy: 11
+  Metal: 19
+  Trace: 28
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 10
+  Electronics: 12
+Build Landing Vehicle, Tracked (H) in Factory
+Time to Build / Upgrade: 2
+[2290] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Command Helicopter
-Nick Name: A-HC
+Name: Landing Vehicle, Tracked (A)
+Nick Name: LVT (A)
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 436
-  Total Strength: 617
-  Planet Strength: 617
+  Tech Score: 585
+  Unit Score: 584
+  Average Score: 584
+  Stat Strength: 332
+  Total Strength: 584
+  Planet Strength: 584
   Space Strength: 0
-  Garrison Strength: 205
+  Garrison Strength: 206
 Statistics:
-  Movement Type: air
-  Move Points: 9
+  Movement Type: craft
+  Move Points: 8
   Spot: 6
-  Camouflage: 6
-  Agility: 11
-  Armor: 9
-  Psy Defense: 9
-  Rank: 783
+  Camouflage: 4
+  Agility: 4
+  Armor: 10
+  Psy Defense: 10
+  Rank: 88
 Attacks:
-  Air: 5/5
-  Indirect: 11/12
-  Direct: 3/8
-Load aboard transport: YES
-Officer - Provides stack combat bonuses
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 15
-Build Cost: 152
+  Air: 14/10
+  Direct: 14/8
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 10
+Build Cost: 96
 Build Resource Requirements:
-  Food: 5
-  Energy: 21
-  Metal: 111
-  Trace: 16
-  Exotica: 5
-  Chemicals: 24
-  Electronics: 10
-Build Command Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+  Food: 3
+  Energy: 11
+  Metal: 19
+  Trace: 28
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 17
+  Electronics: 21
+Build Landing Vehicle, Tracked (A) in Factory
+Time to Build / Upgrade: 2
+[2290] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Heavy Assault Helicopter
-Nick Name: A-HHAST
+Name: Landing Vehicle, Tracked (R)
+Nick Name: LVT (R)
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 442
-  Total Strength: 617
-  Planet Strength: 617
+  Tech Score: 585
+  Unit Score: 587
+  Average Score: 586
+  Stat Strength: 470
+  Total Strength: 587
+  Planet Strength: 587
   Space Strength: 0
-  Garrison Strength: 233
+  Garrison Strength: 207
 Statistics:
-  Movement Type: air
-  Move Points: 7
+  Movement Type: craft
+  Move Points: 8
   Spot: 6
-  Camouflage: 6
-  Agility: 11
-  Armor: 10
-  Psy Defense: 10
-  Rank: 119
+  Camouflage: 4
+  Agility: 4
+  Armor: 13
+  Psy Defense: 13
+  Rank: 141
 Attacks:
-  Indirect: 8/12
-  Direct: 3/10
-  Close: 7/7
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 11
-Build Cost: 113
+  Close: 13/9
+Cargo Space: 1
+Can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 7
+Build Cost: 70
 Build Resource Requirements:
-  Food: 5
-  Energy: 23
-  Metal: 137
-  Trace: 15
-  Exotica: 4
-  Chemicals: 26
-  Electronics: 12
-Build Heavy Assault Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+  Food: 3
+  Energy: 7
+  Metal: 32
+  Trace: 14
+  Exotica: 3
+  Chemicals: 7
+  Biochems: 9
+  Electronics: 11
+Build Landing Vehicle, Tracked (R) in Factory
+Time to Build / Upgrade: 2
+[2290] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Heavy Attack Helicopter
-Nick Name: A-HHATT
+Name: Landing Vehicle, Tracked (E)
+Nick Name: LVT (E)
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 429
-  Total Strength: 617
-  Planet Strength: 617
+  Tech Score: 585
+  Unit Score: 587
+  Average Score: 586
+  Stat Strength: 524
+  Total Strength: 587
+  Planet Strength: 587
   Space Strength: 0
-  Garrison Strength: 251
+  Garrison Strength: 239
 Statistics:
-  Movement Type: air
+  Movement Type: craft
   Move Points: 6
-  Spot: 6
-  Camouflage: 6
-  Agility: 11
-  Armor: 10
-  Psy Defense: 10
-  Rank: 119
+  Spot: 8
+  Camouflage: 4
+  Agility: 4
+  Armor: 14
+  Psy Defense: 14
+  Rank: 41
 Attacks:
-  Air: 8/11
-  Indirect: 6/6
-  Direct: 4/9
-  Close: 4/7
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 11
-Build Cost: 113
+  Close: 9/7
+Cargo Space: 1
+Can tow units that can be towed
+Upkeep / Maintenance: 5
+Build Cost: 54
 Build Resource Requirements:
-  Food: 4
-  Energy: 22
-  Metal: 137
-  Trace: 15
-  Exotica: 4
-  Chemicals: 24
-  Electronics: 14
-Build Heavy Attack Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+  Food: 3
+  Energy: 5
+  Metal: 37
+  Trace: 11
+  Exotica: 3
+  Chemicals: 5
+  Biochems: 6
+  Electronics: 8
+Build Landing Vehicle, Tracked (E) in Factory
+Time to Build / Upgrade: 2
+[2290] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Light Attack Helicopter
-Nick Name: A-HLATT
+Name: Landing Vehicle, Tracked (E2)
+Nick Name: LVT (E2)
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 433
-  Total Strength: 617
-  Planet Strength: 617
+  Tech Score: 660
+  Unit Score: 652
+  Average Score: 656
+  Stat Strength: 582
+  Total Strength: 652
+  Planet Strength: 652
   Space Strength: 0
-  Garrison Strength: 218
+  Garrison Strength: 266
 Statistics:
-  Movement Type: air
-  Move Points: 8
-  Spot: 6
-  Camouflage: 6
-  Agility: 13
-  Armor: 8
-  Psy Defense: 8
-  Rank: 117
+  Movement Type: craft
+  Move Points: 6
+  Spot: 8
+  Camouflage: 4
+  Agility: 4
+  Armor: 15
+  Psy Defense: 15
+  Rank: 42
 Attacks:
-  Air: 10/9
-  Indirect: 10/4
-  Direct: 6/5
-  Close: 6/4
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 10
-Build Cost: 98
+  Close: 10/7
+Cargo Space: 1
+Can tow units that can be towed
+Upkeep / Maintenance: 5
+Build Cost: 54
 Build Resource Requirements:
-  Food: 5
-  Energy: 16
-  Metal: 88
-  Trace: 24
-  Exotica: 5
-  Chemicals: 18
-  Electronics: 20
-Build Light Attack Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+  Food: 3
+  Energy: 4
+  Metal: 38
+  Trace: 11
+  Exotica: 3
+  Chemicals: 4
+  Biochems: 6
+  Electronics: 8
+Build Landing Vehicle, Tracked (E2) in Factory
+Time to Build / Upgrade: 2
+[2710] Technologies Required to Build Unit (91):
+  [770] Self-Propelled Weaponry (92)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Medium Assault Helicopter
-Nick Name: A-HMAST
+Name: Landing Vehicle, Tracked (P2)
+Nick Name: LVT (P2)
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 442
-  Total Strength: 617
-  Planet Strength: 617
+  Tech Score: 660
+  Unit Score: 659
+  Average Score: 659
+  Stat Strength: 374
+  Total Strength: 659
+  Planet Strength: 659
   Space Strength: 0
-  Garrison Strength: 218
+  Garrison Strength: 232
 Statistics:
-  Movement Type: air
+  Movement Type: craft
   Move Points: 8
   Spot: 6
-  Camouflage: 6
-  Agility: 12
-  Armor: 9
-  Psy Defense: 9
-  Rank: 119
+  Camouflage: 4
+  Agility: 4
+  Armor: 11
+  Psy Defense: 11
+  Rank: 93
 Attacks:
-  Indirect: 11/10
-  Direct: 5/8
-  Close: 5/5
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+  Direct: 15/11
+  Close: 15/8
+Cargo Space: 1
+Can be towed
 Upkeep / Maintenance: 10
-Build Cost: 100
+Build Cost: 99
 Build Resource Requirements:
-  Food: 5
-  Energy: 19
-  Metal: 111
-  Trace: 18
-  Exotica: 5
-  Chemicals: 21
-  Electronics: 12
-Build Medium Assault Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+  Food: 3
+  Energy: 11
+  Metal: 20
+  Trace: 29
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 17
+  Electronics: 23
+Build Landing Vehicle, Tracked (P2) in Factory
+Time to Build / Upgrade: 2
+[2710] Technologies Required to Build Unit (91):
+  [770] Self-Propelled Weaponry (92)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Medium Attack Helicopter
-Nick Name: A-HMATT
+Name: Landing Vehicle, Tracked (C2)
+Nick Name: LVT (C2)
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 617
-  Average Score: 618
-  Stat Strength: 427
-  Total Strength: 617
-  Planet Strength: 617
+  Tech Score: 660
+  Unit Score: 659
+  Average Score: 659
+  Stat Strength: 374
+  Total Strength: 659
+  Planet Strength: 659
   Space Strength: 0
-  Garrison Strength: 233
+  Garrison Strength: 232
 Statistics:
-  Movement Type: air
-  Move Points: 7
+  Movement Type: craft
+  Move Points: 8
   Spot: 6
-  Camouflage: 6
-  Agility: 12
-  Armor: 9
-  Psy Defense: 9
-  Rank: 118
+  Camouflage: 4
+  Agility: 4
+  Armor: 11
+  Psy Defense: 11
+  Rank: 115
 Attacks:
-  Air: 9/10
-  Indirect: 8/5
-  Direct: 5/7
-  Close: 5/5
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 10
-Build Cost: 103
+  Water: 15/11
+  Indirect: 15/8
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 8
+Build Cost: 77
 Build Resource Requirements:
-  Food: 5
-  Energy: 18
-  Metal: 111
-  Trace: 19
-  Exotica: 4
-  Chemicals: 20
-  Electronics: 17
-Build Medium Attack Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+  Food: 3
+  Energy: 11
+  Metal: 20
+  Trace: 29
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 10
+  Electronics: 13
+Build Landing Vehicle, Tracked (C2) in Factory
+Time to Build / Upgrade: 2
+[2710] Technologies Required to Build Unit (91):
+  [770] Self-Propelled Weaponry (92)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Reconnaissance Helicopter II
-Nick Name: A-HR II
+Name: Landing Vehicle, Tracked (H2)
+Nick Name: LVT (H2)
 Scores & Strengths:
-  Tech Score: 1117
-  Unit Score: 964
-  Average Score: 1041
-  Stat Strength: 964
-  Total Strength: 964
-  Planet Strength: 964
+  Tech Score: 660
+  Unit Score: 659
+  Average Score: 659
+  Stat Strength: 374
+  Total Strength: 659
+  Planet Strength: 659
   Space Strength: 0
-  Garrison Strength: 248
+  Garrison Strength: 232
 Statistics:
-  Movement Type: air
-  Move Points: 15
-  Spot: 9
-  Camouflage: 8
-  Agility: 16
-  Armor: 13
-  Psy Defense: 13
-  Rank: 85
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 5
-Build Cost: 49
+  Movement Type: craft
+  Move Points: 8
+  Spot: 6
+  Camouflage: 4
+  Agility: 4
+  Armor: 11
+  Psy Defense: 11
+  Rank: 90
+Attacks:
+  Indirect: 15/11
+  Direct: 15/8
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 8
+Build Cost: 77
 Build Resource Requirements:
-  Food: 5
-  Energy: 8
-  Metal: 26
-  Trace: 7
-  Exotica: 5
-  Chemicals: 8
-  Biochems: 5
-  Electronics: 6
-Build Reconnaissance Helicopter II in Factory
+  Food: 3
+  Energy: 11
+  Metal: 20
+  Trace: 29
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 10
+  Electronics: 13
+Build Landing Vehicle, Tracked (H2) in Factory
 Time to Build / Upgrade: 2
-[6625] Technologies Required to Build Unit (86):
-  [2090] Rotorcraft (85)
-  [1810] Jet-Propulsion Aircraft (86)
-  [2725] Naval Capital Ships (88)
+[2710] Technologies Required to Build Unit (91):
+  [770] Self-Propelled Weaponry (92)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --11--
-Name: Command Helicopter II
-Nick Name: A-HC II
+Name: Landing Vehicle, Tracked (A2)
+Nick Name: LVT (A2)
 Scores & Strengths:
-  Tech Score: 1117
-  Unit Score: 1047
-  Average Score: 1082
-  Stat Strength: 714
-  Total Strength: 1047
-  Planet Strength: 1047
+  Tech Score: 660
+  Unit Score: 659
+  Average Score: 659
+  Stat Strength: 374
+  Total Strength: 659
+  Planet Strength: 659
   Space Strength: 0
-  Garrison Strength: 302
+  Garrison Strength: 232
 Statistics:
-  Movement Type: air
-  Move Points: 12
-  Spot: 7
-  Camouflage: 8
-  Agility: 13
-  Armor: 12
-  Psy Defense: 12
-  Rank: 792
+  Movement Type: craft
+  Move Points: 8
+  Spot: 6
+  Camouflage: 4
+  Agility: 4
+  Armor: 11
+  Psy Defense: 11
+  Rank: 90
 Attacks:
-  Air: 7/7
-  Indirect: 15/16
-  Direct: 4/11
-Load aboard transport: YES
-Officer - Provides stack combat bonuses
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 9
-Build Cost: 86
+  Air: 15/11
+  Direct: 15/8
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 10
+Build Cost: 99
 Build Resource Requirements:
   Food: 3
-  Energy: 15
-  Metal: 22
-  Trace: 12
+  Energy: 11
+  Metal: 20
+  Trace: 29
   Exotica: 3
-  Chemicals: 15
-  Biochems: 4
-  Electronics: 6
-Build Command Helicopter II in Factory
+  Chemicals: 11
+  Biochems: 17
+  Electronics: 23
+Build Landing Vehicle, Tracked (A2) in Factory
 Time to Build / Upgrade: 2
-[6625] Technologies Required to Build Unit (86):
-  [2090] Rotorcraft (85)
-  [1810] Jet-Propulsion Aircraft (86)
-  [2725] Naval Capital Ships (88)
+[2710] Technologies Required to Build Unit (91):
+  [770] Self-Propelled Weaponry (92)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --12--
-Name: Anti-Submarine Helicopter II
-Nick Name: A-HAS II
+Name: Landing Vehicle, Tracked (R2)
+Nick Name: LVT (R2)
 Scores & Strengths:
-  Tech Score: 1117
-  Unit Score: 1094
-  Average Score: 1106
-  Stat Strength: 765
-  Total Strength: 1094
-  Planet Strength: 1094
+  Tech Score: 660
+  Unit Score: 664
+  Average Score: 662
+  Stat Strength: 524
+  Total Strength: 664
+  Planet Strength: 664
   Space Strength: 0
-  Garrison Strength: 329
+  Garrison Strength: 234
 Statistics:
-  Movement Type: air
-  Move Points: 11
-  Spot: 7
-  Camouflage: 8
-  Agility: 9
-  Armor: 15
-  Psy Defense: 15
-  Rank: 166
+  Movement Type: craft
+  Move Points: 8
+  Spot: 6
+  Camouflage: 4
+  Agility: 4
+  Armor: 14
+  Psy Defense: 14
+  Rank: 142
 Attacks:
-  Water: 7/24
-  Indirect: 7/23
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 8
-Build Cost: 75
+  Close: 14/10
+Cargo Space: 1
+Can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 7
+Build Cost: 71
 Build Resource Requirements:
-  Food: 2
-  Energy: 28
-  Metal: 35
-  Trace: 6
-  Exotica: 2
-  Chemicals: 30
-  Biochems: 3
-  Electronics: 5
-Build Anti-Submarine Helicopter II in Factory
+  Food: 3
+  Energy: 7
+  Metal: 33
+  Trace: 15
+  Exotica: 3
+  Chemicals: 7
+  Biochems: 9
+  Electronics: 12
+Build Landing Vehicle, Tracked (R2) in Factory
 Time to Build / Upgrade: 2
-[6625] Technologies Required to Build Unit (86):
-  [2090] Rotorcraft (85)
-  [1810] Jet-Propulsion Aircraft (86)
-  [2725] Naval Capital Ships (88)
+[2710] Technologies Required to Build Unit (91):
+  [770] Self-Propelled Weaponry (92)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --13--
-Name: Assault Helicopter II
-Nick Name: A-HAST II
+Name: Amphibious Assault Vehicle (P)
+Nick Name: AAV (P)
 Scores & Strengths:
-  Tech Score: 1117
-  Unit Score: 1117
-  Average Score: 1117
-  Stat Strength: 712
-  Total Strength: 1117
-  Planet Strength: 1117
+  Tech Score: 959
+  Unit Score: 951
+  Average Score: 955
+  Stat Strength: 537
+  Total Strength: 951
+  Planet Strength: 951
   Space Strength: 0
-  Garrison Strength: 353
+  Garrison Strength: 300
 Statistics:
-  Movement Type: air
+  Movement Type: craft
   Move Points: 10
-  Spot: 8
-  Camouflage: 8
-  Agility: 14
-  Armor: 12
-  Psy Defense: 12
-  Rank: 132
+  Spot: 7
+  Camouflage: 5
+  Agility: 5
+  Armor: 13
+  Psy Defense: 13
+  Rank: 101
 Attacks:
-  Indirect: 15/15
-  Direct: 9/12
-  Close: 8/9
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 6
-Build Cost: 64
+  Direct: 18/13
+  Close: 18/10
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 11
+Build Cost: 114
 Build Resource Requirements:
   Food: 3
-  Energy: 15
-  Metal: 22
-  Trace: 15
+  Energy: 11
+  Metal: 19
+  Trace: 32
   Exotica: 3
-  Chemicals: 15
-  Biochems: 4
-  Electronics: 9
-Build Assault Helicopter II in Factory
+  Chemicals: 16
+  Biochems: 18
+  Electronics: 27
+Build Amphibious Assault Vehicle (P) in Factory
 Time to Build / Upgrade: 2
-[6625] Technologies Required to Build Unit (86):
-  [2090] Rotorcraft (85)
-  [1810] Jet-Propulsion Aircraft (86)
-  [2725] Naval Capital Ships (88)
+[4555] Technologies Required to Build Unit (88):
+  [2855] Naval Amphibious Ships (87)
+  [1700] Main Battle Tank (88)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --14--
-Name: Attack Helicopter II
-Nick Name: A-HATT II
+Name: Amphibious Assault Vehicle (C)
+Nick Name: AAV (C)
 Scores & Strengths:
-  Tech Score: 1117
-  Unit Score: 1117
-  Average Score: 1117
-  Stat Strength: 647
-  Total Strength: 1117
-  Planet Strength: 1117
+  Tech Score: 959
+  Unit Score: 951
+  Average Score: 955
+  Stat Strength: 537
+  Total Strength: 951
+  Planet Strength: 951
   Space Strength: 0
-  Garrison Strength: 372
+  Garrison Strength: 300
 Statistics:
-  Movement Type: air
-  Move Points: 9
-  Spot: 8
-  Camouflage: 8
-  Agility: 14
-  Armor: 11
-  Psy Defense: 11
-  Rank: 131
+  Movement Type: craft
+  Move Points: 10
+  Spot: 7
+  Camouflage: 5
+  Agility: 5
+  Armor: 13
+  Psy Defense: 13
+  Rank: 123
 Attacks:
-  Air: 13/14
-  Indirect: 12/9
-  Direct: 9/11
-  Close: 9/9
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 7
-Build Cost: 72
+  Water: 18/13
+  Indirect: 18/10
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 9
+Build Cost: 89
 Build Resource Requirements:
   Food: 3
-  Energy: 15
+  Energy: 11
   Metal: 19
-  Trace: 17
+  Trace: 32
   Exotica: 3
-  Chemicals: 15
-  Biochems: 6
-  Electronics: 13
-Build Attack Helicopter II in Factory
+  Chemicals: 16
+  Biochems: 10
+  Electronics: 15
+Build Amphibious Assault Vehicle (C) in Factory
 Time to Build / Upgrade: 2
-[6625] Technologies Required to Build Unit (86):
-  [2090] Rotorcraft (85)
-  [1810] Jet-Propulsion Aircraft (86)
-  [2725] Naval Capital Ships (88)
+[4555] Technologies Required to Build Unit (88):
+  [2855] Naval Amphibious Ships (87)
+  [1700] Main Battle Tank (88)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --15--
-Name: Reconnaissance Helicopter III
-Nick Name: A-HR III
+Name: Amphibious Assault Vehicle (H)
+Nick Name: AAV (H)
 Scores & Strengths:
-  Tech Score: 1496
-  Unit Score: 1271
-  Average Score: 1384
-  Stat Strength: 1271
-  Total Strength: 1271
-  Planet Strength: 1271
+  Tech Score: 959
+  Unit Score: 951
+  Average Score: 955
+  Stat Strength: 537
+  Total Strength: 951
+  Planet Strength: 951
   Space Strength: 0
-  Garrison Strength: 308
+  Garrison Strength: 300
 Statistics:
-  Movement Type: air
-  Move Points: 17
-  Spot: 10
-  Camouflage: 9
-  Agility: 17
-  Armor: 16
-  Psy Defense: 16
-  Rank: 89
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 8
-Build Cost: 79
+  Movement Type: craft
+  Move Points: 10
+  Spot: 7
+  Camouflage: 5
+  Agility: 5
+  Armor: 13
+  Psy Defense: 13
+  Rank: 98
+Attacks:
+  Indirect: 18/13
+  Direct: 18/10
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 9
+Build Cost: 89
 Build Resource Requirements:
-  Food: 5
-  Energy: 9
-  Metal: 16
-  Trace: 7
-  Exotica: 6
-  Chemicals: 14
-  Biochems: 6
-  Electronics: 8
-  Ceramsteel: 18
-Build Reconnaissance Helicopter III in Factory
+  Food: 3
+  Energy: 11
+  Metal: 19
+  Trace: 32
+  Exotica: 3
+  Chemicals: 16
+  Biochems: 10
+  Electronics: 15
+Build Amphibious Assault Vehicle (H) in Factory
 Time to Build / Upgrade: 2
-[7360] Technologies Required to Build Unit (84):
-  [2665] V/STOL Aircraft (85)
-  [4695] Advanced Minor Watercraft (83)
+[4555] Technologies Required to Build Unit (88):
+  [2855] Naval Amphibious Ships (87)
+  [1700] Main Battle Tank (88)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --16--
-Name: Command Helicopter III
-Nick Name: A-HC III
+Name: Amphibious Assault Vehicle (E)
+Nick Name: AAV (E)
 Scores & Strengths:
-  Tech Score: 1496
-  Unit Score: 1361
-  Average Score: 1429
-  Stat Strength: 914
-  Total Strength: 1361
-  Planet Strength: 1361
+  Tech Score: 959
+  Unit Score: 951
+  Average Score: 955
+  Stat Strength: 843
+  Total Strength: 951
+  Planet Strength: 951
   Space Strength: 0
-  Garrison Strength: 363
+  Garrison Strength: 336
 Statistics:
-  Movement Type: air
-  Move Points: 14
-  Spot: 7
-  Camouflage: 9
-  Agility: 14
-  Armor: 14
-  Psy Defense: 14
-  Rank: 797
+  Movement Type: craft
+  Move Points: 8
+  Spot: 9
+  Camouflage: 5
+  Agility: 5
+  Armor: 18
+  Psy Defense: 18
+  Rank: 45
 Attacks:
-  Air: 8/8
-  Indirect: 17/19
-  Direct: 5/12
-Load aboard transport: YES
-Officer - Provides stack combat bonuses
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 13
-Build Cost: 131
+  Close: 12/9
+Cargo Space: 1
+Can tow units that can be towed
+Upkeep / Maintenance: 7
+Build Cost: 66
 Build Resource Requirements:
   Food: 3
-  Energy: 19
-  Metal: 12
-  Trace: 13
-  Exotica: 4
-  Chemicals: 24
-  Biochems: 5
-  Electronics: 8
-  Ceramsteel: 13
-Build Command Helicopter III in Factory
+  Energy: 5
+  Metal: 36
+  Trace: 12
+  Exotica: 3
+  Chemicals: 13
+  Biochems: 6
+  Electronics: 9
+Build Amphibious Assault Vehicle (E) in Factory
 Time to Build / Upgrade: 2
-[7360] Technologies Required to Build Unit (84):
-  [2665] V/STOL Aircraft (85)
-  [4695] Advanced Minor Watercraft (83)
+[4555] Technologies Required to Build Unit (88):
+  [2855] Naval Amphibious Ships (87)
+  [1700] Main Battle Tank (88)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --17--
-Name: Anti-Submarine Helicopter III
-Nick Name: A-HAS III
+Name: Amphibious Assault Vehicle (A)
+Nick Name: AAV (A)
 Scores & Strengths:
-  Tech Score: 1496
-  Unit Score: 1384
-  Average Score: 1440
-  Stat Strength: 952
-  Total Strength: 1384
-  Planet Strength: 1384
+  Tech Score: 959
+  Unit Score: 951
+  Average Score: 955
+  Stat Strength: 537
+  Total Strength: 951
+  Planet Strength: 951
   Space Strength: 0
-  Garrison Strength: 399
+  Garrison Strength: 300
 Statistics:
-  Movement Type: air
-  Move Points: 12
+  Movement Type: craft
+  Move Points: 10
   Spot: 7
-  Camouflage: 9
-  Agility: 10
-  Armor: 17
-  Psy Defense: 17
-  Rank: 173
+  Camouflage: 5
+  Agility: 5
+  Armor: 13
+  Psy Defense: 13
+  Rank: 98
 Attacks:
-  Water: 8/28
-  Indirect: 8/26
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 12
-Build Cost: 117
+  Air: 18/13
+  Direct: 18/10
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 11
+Build Cost: 114
 Build Resource Requirements:
-  Food: 2
-  Energy: 36
-  Metal: 18
-  Trace: 7
+  Food: 3
+  Energy: 11
+  Metal: 19
+  Trace: 32
   Exotica: 3
-  Chemicals: 46
-  Biochems: 3
-  Electronics: 6
-  Ceramsteel: 20
-Build Anti-Submarine Helicopter III in Factory
-Time to Build / Upgrade: 3
-[7360] Technologies Required to Build Unit (84):
-  [2665] V/STOL Aircraft (85)
-  [4695] Advanced Minor Watercraft (83)
+  Chemicals: 16
+  Biochems: 18
+  Electronics: 27
+Build Amphibious Assault Vehicle (A) in Factory
+Time to Build / Upgrade: 2
+[4555] Technologies Required to Build Unit (88):
+  [2855] Naval Amphibious Ships (87)
+  [1700] Main Battle Tank (88)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --18--
-Name: Attack Helicopter III
-Nick Name: A-HATT III
+Name: Amphibious Assault Vehicle (R)
+Nick Name: AAV (R)
 Scores & Strengths:
-  Tech Score: 1496
-  Unit Score: 1435
-  Average Score: 1466
-  Stat Strength: 825
-  Total Strength: 1435
-  Planet Strength: 1435
+  Tech Score: 959
+  Unit Score: 981
+  Average Score: 970
+  Stat Strength: 777
+  Total Strength: 981
+  Planet Strength: 981
   Space Strength: 0
-  Garrison Strength: 453
+  Garrison Strength: 310
 Statistics:
-  Movement Type: air
+  Movement Type: craft
   Move Points: 10
-  Spot: 9
-  Camouflage: 9
-  Agility: 15
-  Armor: 13
-  Psy Defense: 13
-  Rank: 138
+  Spot: 7
+  Camouflage: 5
+  Agility: 5
+  Armor: 17
+  Psy Defense: 17
+  Rank: 145
 Attacks:
-  Air: 15/16
-  Indirect: 14/10
-  Direct: 10/13
-  Close: 10/10
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 10
-Build Cost: 103
+  Close: 17/12
+Cargo Space: 1
+Can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 9
+Build Cost: 87
 Build Resource Requirements:
   Food: 3
-  Energy: 18
-  Metal: 10
-  Trace: 19
-  Exotica: 3
-  Chemicals: 24
-  Biochems: 8
-  Electronics: 17
-  Ceramsteel: 12
-Build Attack Helicopter III in Factory
-Time to Build / Upgrade: 2
-[7360] Technologies Required to Build Unit (84):
-  [2665] V/STOL Aircraft (85)
-  [4695] Advanced Minor Watercraft (83)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---19--
-Name: Assault Helicopter III
-Nick Name: A-HAST III
-Scores & Strengths:
-  Tech Score: 1496
-  Unit Score: 1442
-  Average Score: 1469
-  Stat Strength: 923
-  Total Strength: 1442
-  Planet Strength: 1442
-  Space Strength: 0
-  Garrison Strength: 416
-Statistics:
-  Movement Type: air
-  Move Points: 12
-  Spot: 9
-  Camouflage: 9
-  Agility: 15
-  Armor: 14
-  Psy Defense: 14
-  Rank: 139
-Attacks:
-  Indirect: 17/17
-  Direct: 10/14
-  Close: 9/10
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 10
-Build Cost: 95
-Build Resource Requirements:
-  Food: 3
-  Energy: 18
-  Metal: 12
-  Trace: 16
-  Exotica: 4
-  Chemicals: 24
-  Biochems: 5
-  Electronics: 11
-  Ceramsteel: 13
-Build Assault Helicopter III in Factory
-Time to Build / Upgrade: 2
-[7360] Technologies Required to Build Unit (84):
-  [2665] V/STOL Aircraft (85)
-  [4695] Advanced Minor Watercraft (83)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---20--
-Name: Reconnaissance Helicopter IV
-Nick Name: A-HR IV
-Scores & Strengths:
-  Tech Score: 2251
-  Unit Score: 1766
-  Average Score: 2009
-  Stat Strength: 1766
-  Total Strength: 1766
-  Planet Strength: 1766
-  Space Strength: 0
-  Garrison Strength: 385
-Statistics:
-  Movement Type: air
-  Move Points: 21
-  Spot: 11
-  Camouflage: 11
-  Agility: 19
-  Armor: 19
-  Psy Defense: 19
-  Rank: 95
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 8
-Build Cost: 77
-Build Resource Requirements:
-  Food: 5
   Energy: 8
-  Metal: 11
-  Trace: 6
-  Exotica: 5
-  Chemicals: 15
-  Biochems: 5
-  Electronics: 8
-  Ceramsteel: 16
-Build Reconnaissance Helicopter IV in Factory
-Time to Build / Upgrade: 2
-[14125] Technologies Required to Build Unit (82):
-  [4695] Advanced Minor Watercraft (83)
-  [9430] Advanced V/STOL Aircraft (81)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---21--
-Name: Command Helicopter IV
-Nick Name: A-HC IV
-Scores & Strengths:
-  Tech Score: 2251
-  Unit Score: 1950
-  Average Score: 2101
-  Stat Strength: 1277
-  Total Strength: 1950
-  Planet Strength: 1950
-  Space Strength: 0
-  Garrison Strength: 472
-Statistics:
-  Movement Type: air
-  Move Points: 17
-  Spot: 8
-  Camouflage: 11
-  Agility: 15
-  Armor: 17
-  Psy Defense: 17
-  Rank: 808
-Attacks:
-  Air: 10/10
-  Indirect: 21/23
-  Direct: 6/15
-Load aboard transport: YES
-Officer - Provides stack combat bonuses
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 14
-Build Cost: 137
-Build Resource Requirements:
-  Food: 3
-  Energy: 17
-  Metal: 9
-  Trace: 12
-  Exotica: 3
-  Chemicals: 26
-  Biochems: 4
-  Electronics: 8
-  Ceramsteel: 13
-Build Command Helicopter IV in Factory
-Time to Build / Upgrade: 2
-[14125] Technologies Required to Build Unit (82):
-  [4695] Advanced Minor Watercraft (83)
-  [9430] Advanced V/STOL Aircraft (81)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---22--
-Name: Anti-Submarine Helicopter IV
-Nick Name: A-HAS IV
-Scores & Strengths:
-  Tech Score: 2251
-  Unit Score: 2073
-  Average Score: 2162
-  Stat Strength: 1413
-  Total Strength: 2073
-  Planet Strength: 2073
-  Space Strength: 0
-  Garrison Strength: 535
-Statistics:
-  Movement Type: air
-  Move Points: 15
-  Spot: 8
-  Camouflage: 11
-  Agility: 11
-  Armor: 21
-  Psy Defense: 21
-  Rank: 189
-Attacks:
-  Water: 10/34
-  Indirect: 10/32
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 13
-Build Cost: 129
-Build Resource Requirements:
-  Food: 2
-  Energy: 34
-  Metal: 13
-  Trace: 6
-  Exotica: 2
-  Chemicals: 50
-  Biochems: 3
-  Electronics: 7
-  Ceramsteel: 19
-Build Anti-Submarine Helicopter IV in Factory
-Time to Build / Upgrade: 3
-[14125] Technologies Required to Build Unit (82):
-  [4695] Advanced Minor Watercraft (83)
-  [9430] Advanced V/STOL Aircraft (81)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---23--
-Name: Assault Helicopter IV
-Nick Name: A-HAST IV
-Scores & Strengths:
-  Tech Score: 2251
-  Unit Score: 2089
-  Average Score: 2170
-  Stat Strength: 1284
-  Total Strength: 2089
-  Planet Strength: 2089
-  Space Strength: 0
-  Garrison Strength: 558
-Statistics:
-  Movement Type: air
-  Move Points: 14
-  Spot: 10
-  Camouflage: 11
-  Agility: 17
-  Armor: 17
-  Psy Defense: 17
-  Rank: 152
-Attacks:
-  Indirect: 21/21
-  Direct: 13/17
-  Close: 11/13
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 10
-Build Cost: 102
-Build Resource Requirements:
-  Food: 3
-  Energy: 17
-  Metal: 9
-  Trace: 16
-  Exotica: 3
-  Chemicals: 26
-  Biochems: 5
-  Electronics: 12
-  Ceramsteel: 13
-Build Assault Helicopter IV in Factory
-Time to Build / Upgrade: 2
-[14125] Technologies Required to Build Unit (82):
-  [4695] Advanced Minor Watercraft (83)
-  [9430] Advanced V/STOL Aircraft (81)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---24--
-Name: Attack Helicopter IV
-Nick Name: A-HATT IV
-Scores & Strengths:
-  Tech Score: 2251
-  Unit Score: 2149
-  Average Score: 2200
-  Stat Strength: 1191
-  Total Strength: 2149
-  Planet Strength: 2149
-  Space Strength: 0
-  Garrison Strength: 596
-Statistics:
-  Movement Type: air
-  Move Points: 13
-  Spot: 10
-  Camouflage: 11
-  Agility: 17
-  Armor: 16
-  Psy Defense: 16
-  Rank: 151
-Attacks:
-  Air: 18/20
-  Indirect: 17/13
-  Direct: 13/16
-  Close: 13/13
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 12
-Build Cost: 117
-Build Resource Requirements:
-  Food: 3
-  Energy: 18
-  Metal: 8
-  Trace: 19
-  Exotica: 3
-  Chemicals: 27
-  Biochems: 8
-  Electronics: 20
-  Ceramsteel: 11
-Build Attack Helicopter IV in Factory
-Time to Build / Upgrade: 3
-[14125] Technologies Required to Build Unit (82):
-  [4695] Advanced Minor Watercraft (83)
-  [9430] Advanced V/STOL Aircraft (81)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---25--
-Name: Reconnaissance Helicopter V
-Nick Name: A-HR V
-Scores & Strengths:
-  Tech Score: 3278
-  Unit Score: 2464
-  Average Score: 2871
-  Stat Strength: 2464
-  Total Strength: 2464
-  Planet Strength: 2464
-  Space Strength: 0
-  Garrison Strength: 492
-Statistics:
-  Movement Type: air
-  Move Points: 25
-  Spot: 12
-  Camouflage: 14
-  Agility: 21
-  Armor: 23
-  Psy Defense: 23
-  Rank: 104
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 52
-Build Cost: 518
-Build Resource Requirements:
-  Food: 4
-  Energy: 6
-  Metal: 6
-  Trace: 5
-  Exotica: 4
-  Chemicals: 12
-  Biochems: 4
-  Electronics: 11
-  Ceramsteel: 10
-  Monopols: 18
-Build Reconnaissance Helicopter V in Factory
-Time to Build / Upgrade: 2
-[21740] Technologies Required to Build Unit (81):
-  [4695] Advanced Minor Watercraft (83)
-  [17045] Power V/STOL Aircraft (79)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---26--
-Name: Command Helicopter V
-Nick Name: A-HC V
-Scores & Strengths:
-  Tech Score: 3278
-  Unit Score: 2859
-  Average Score: 3069
-  Stat Strength: 1889
-  Total Strength: 2859
-  Planet Strength: 2859
-  Space Strength: 0
-  Garrison Strength: 623
-Statistics:
-  Movement Type: air
-  Move Points: 21
-  Spot: 9
-  Camouflage: 14
-  Agility: 17
-  Armor: 21
-  Psy Defense: 21
-  Rank: 822
-Attacks:
-  Air: 12/12
-  Indirect: 25/28
-  Direct: 7/18
-Load aboard transport: YES
-Officer - Provides stack combat bonuses
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 119
-Build Cost: 1188
-Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 5
-  Trace: 12
-  Exotica: 3
-  Chemicals: 21
-  Biochems: 3
-  Electronics: 11
-  Ceramsteel: 8
-  Monopols: 26
-Build Command Helicopter V in Factory
-Time to Build / Upgrade: 3
-[21740] Technologies Required to Build Unit (81):
-  [4695] Advanced Minor Watercraft (83)
-  [17045] Power V/STOL Aircraft (79)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---27--
-Name: Attack Helicopter V
-Nick Name: A-HATT V
-Scores & Strengths:
-  Tech Score: 3278
-  Unit Score: 2920
-  Average Score: 3099
-  Stat Strength: 1567
-  Total Strength: 2920
-  Planet Strength: 2920
-  Space Strength: 0
-  Garrison Strength: 753
-Statistics:
-  Movement Type: air
-  Move Points: 15
-  Spot: 10
-  Camouflage: 14
-  Agility: 18
-  Armor: 19
-  Psy Defense: 19
-  Rank: 165
-Attacks:
-  Air: 22/24
-  Indirect: 21/15
-  Direct: 15/19
-  Close: 15/15
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 77
-Build Cost: 766
-Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 4
+  Metal: 32
   Trace: 17
-  Exotica: 2
-  Chemicals: 20
-  Biochems: 6
-  Electronics: 22
-  Ceramsteel: 7
-  Monopols: 25
-Build Attack Helicopter V in Factory
-Time to Build / Upgrade: 3
-[21740] Technologies Required to Build Unit (81):
-  [4695] Advanced Minor Watercraft (83)
-  [17045] Power V/STOL Aircraft (79)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---28--
-Name: Anti-Submarine Helicopter V
-Nick Name: A-HAS V
-Scores & Strengths:
-  Tech Score: 3278
-  Unit Score: 2955
-  Average Score: 3117
-  Stat Strength: 1995
-  Total Strength: 2955
-  Planet Strength: 2955
-  Space Strength: 0
-  Garrison Strength: 696
-Statistics:
-  Movement Type: air
-  Move Points: 18
-  Spot: 9
-  Camouflage: 14
-  Agility: 12
-  Armor: 25
-  Psy Defense: 25
-  Rank: 207
-Attacks:
-  Water: 12/41
-  Indirect: 12/39
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 140
-Build Cost: 1400
-Build Resource Requirements:
-  Food: 2
-  Energy: 26
-  Metal: 7
-  Trace: 6
-  Exotica: 2
-  Chemicals: 39
-  Biochems: 3
-  Electronics: 11
-  Ceramsteel: 11
-  Monopols: 48
-Build Anti-Submarine Helicopter V in Factory
-Time to Build / Upgrade: 4
-[21740] Technologies Required to Build Unit (81):
-  [4695] Advanced Minor Watercraft (83)
-  [17045] Power V/STOL Aircraft (79)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---29--
-Name: Assault Helicopter V
-Nick Name: A-HAST V
-Scores & Strengths:
-  Tech Score: 3278
-  Unit Score: 2992
-  Average Score: 3135
-  Stat Strength: 1791
-  Total Strength: 2992
-  Planet Strength: 2992
-  Space Strength: 0
-  Garrison Strength: 725
-Statistics:
-  Movement Type: air
-  Move Points: 17
-  Spot: 10
-  Camouflage: 14
-  Agility: 18
-  Armor: 21
-  Psy Defense: 21
-  Rank: 167
-Attacks:
-  Indirect: 26/26
-  Direct: 15/21
-  Close: 14/15
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 80
-Build Cost: 803
-Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 5
-  Trace: 15
-  Exotica: 2
-  Chemicals: 20
-  Biochems: 4
-  Electronics: 15
-  Ceramsteel: 8
-  Monopols: 26
-Build Assault Helicopter V in Factory
-Time to Build / Upgrade: 3
-[21740] Technologies Required to Build Unit (81):
-  [4695] Advanced Minor Watercraft (83)
-  [17045] Power V/STOL Aircraft (79)
+  Exotica: 3
+  Chemicals: 15
+  Biochems: 9
+  Electronics: 14
+Build Amphibious Assault Vehicle (R) in Factory
+Time to Build / Upgrade: 2
+[4555] Technologies Required to Build Unit (88):
+  [2855] Naval Amphibious Ships (87)
+  [1700] Main Battle Tank (88)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

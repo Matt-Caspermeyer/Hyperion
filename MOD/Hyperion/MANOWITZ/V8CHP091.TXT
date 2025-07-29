@@ -1,4 +1,4 @@
-All units of the unit class Space Fighter Bomber are listed herein (4 in total):
+All units of the unit class Space Fighter Bomber are listed herein (28 in total):
 
 --1--
 Name: Space Fighter Bomber
@@ -88,43 +88,134 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
+Name: Space Fighter Bomber II
+Nick Name: SS-FB II
+Scores & Strengths:
+  Tech Score: 626
+  Unit Score: 491
+  Average Score: 558
+  Stat Strength: 431
+  Total Strength: 491
+  Planet Strength: 0
+  Space Strength: 491
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 1
+  Spot: 10
+  Camouflage: 6
+  Agility: 14
+  Armor: 7
+  Psy Defense: 7
+  Rank: 119
+Attacks:
+  Ranged Space: 1/18
+  Direct Space: 7/6
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 17
+Build Cost: 171
+Build Resource Requirements:
+  Food: 6
+  Energy: 22
+  Metal: 10
+  Trace: 16
+  Exotica: 6
+  Chemicals: 26
+  Biochems: 8
+  Electronics: 13
+Build Space Fighter Bomber II in Starport
+Time to Build / Upgrade: 2
+[2500] Technologies Required to Build Unit (91):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [1560] Naval Patrol Ships (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Space Divebomber II
+Nick Name: SS-DB II
+Scores & Strengths:
+  Tech Score: 626
+  Unit Score: 540
+  Average Score: 583
+  Stat Strength: 468
+  Total Strength: 540
+  Planet Strength: 0
+  Space Strength: 540
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 1
+  Spot: 10
+  Camouflage: 6
+  Agility: 13
+  Armor: 9
+  Psy Defense: 9
+  Rank: 158
+Attacks:
+  Ranged Space: 3/24
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 19
+Build Cost: 193
+Build Resource Requirements:
+  Food: 6
+  Energy: 32
+  Metal: 17
+  Trace: 13
+  Exotica: 6
+  Chemicals: 38
+  Biochems: 6
+  Electronics: 10
+Build Space Divebomber II in Starport
+Time to Build / Upgrade: 2
+[2500] Technologies Required to Build Unit (91):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [1560] Naval Patrol Ships (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
 Name: Space Torpedo Bomber
 Nick Name: Prophet
 Scores & Strengths:
   Tech Score: 543
-  Unit Score: 542
+  Unit Score: 543
   Average Score: 543
-  Stat Strength: 468
-  Total Strength: 542
+  Stat Strength: 382
+  Total Strength: 543
   Planet Strength: 0
-  Space Strength: 542
+  Space Strength: 543
   Garrison Strength: 0
 Statistics:
   Movement Type: space
   Move Points: 2
-  Spot: 8
-  Camouflage: 4
-  Agility: 16
-  Armor: 8
-  Psy Defense: 8
-  Rank: 116
+  Spot: 10
+  Camouflage: 6
+  Agility: 12
+  Armor: 7
+  Psy Defense: 7
+  Rank: 118
 Attacks:
-  Ranged Space: 5/10
-  Direct Space: 3/8
+  Ranged Space: 5/25
+  Direct Space: 4/9
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 14
-Build Cost: 136
+Upkeep / Maintenance: 21
+Build Cost: 209
 Build Resource Requirements:
   Food: 7
-  Energy: 16
-  Metal: 16
-  Trace: 15
+  Energy: 42
+  Metal: 12
+  Trace: 16
   Exotica: 7
-  Chemicals: 22
-  Electronics: 12
+  Chemicals: 49
+  Electronics: 13
 Build Space Torpedo Bomber in Starport
-Time to Build / Upgrade: 2
+Time to Build / Upgrade: 3
 [2135] Technologies Required to Build Unit (92):
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
@@ -132,44 +223,1098 @@ Time to Build / Upgrade: 2
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---4--
-Name: Martyr Torpedo Bomber
-Nick Name: Martyr
+--6--
+Name: Space Divebomber III
+Nick Name: SS-DB III
 Scores & Strengths:
-  Tech Score: 1771
-  Unit Score: 1332
-  Average Score: 1552
-  Stat Strength: 949
-  Total Strength: 1332
+  Tech Score: 1128
+  Unit Score: 784
+  Average Score: 956
+  Stat Strength: 656
+  Total Strength: 784
   Planet Strength: 0
-  Space Strength: 1332
+  Space Strength: 784
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 2
+  Spot: 11
+  Camouflage: 8
+  Agility: 15
+  Armor: 11
+  Psy Defense: 11
+  Rank: 171
+Attacks:
+  Ranged Space: 4/32
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 15
+Build Cost: 151
+Build Resource Requirements:
+  Food: 4
+  Energy: 26
+  Metal: 17
+  Trace: 9
+  Exotica: 4
+  Chemicals: 32
+  Biochems: 3
+  Electronics: 7
+Build Space Divebomber III in Starport
+Time to Build / Upgrade: 2
+[7130] Technologies Required to Build Unit (90):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [2270] Naval Escort Ships (86)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [1670] Guided Missiles (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Space Fighter Bomber III
+Nick Name: SS-FB III
+Scores & Strengths:
+  Tech Score: 1128
+  Unit Score: 808
+  Average Score: 968
+  Stat Strength: 678
+  Total Strength: 808
+  Planet Strength: 0
+  Space Strength: 808
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 2
+  Spot: 11
+  Camouflage: 8
+  Agility: 17
+  Armor: 10
+  Psy Defense: 10
+  Rank: 128
+Attacks:
+  Ranged Space: 2/25
+  Direct Space: 10/8
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 15
+Build Cost: 145
+Build Resource Requirements:
+  Food: 4
+  Energy: 19
+  Metal: 14
+  Trace: 12
+  Exotica: 4
+  Chemicals: 24
+  Biochems: 5
+  Electronics: 10
+Build Space Fighter Bomber III in Starport
+Time to Build / Upgrade: 2
+[7130] Technologies Required to Build Unit (90):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [2270] Naval Escort Ships (86)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [1670] Guided Missiles (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Space Torpedo Bomber II
+Nick Name: Prophet II
+Scores & Strengths:
+  Tech Score: 1128
+  Unit Score: 960
+  Average Score: 1044
+  Stat Strength: 630
+  Total Strength: 960
+  Planet Strength: 0
+  Space Strength: 960
   Garrison Strength: 0
 Statistics:
   Movement Type: space
   Move Points: 3
-  Spot: 10
-  Camouflage: 4
-  Agility: 18
+  Spot: 12
+  Camouflage: 9
+  Agility: 14
   Armor: 10
-  Psy Defense: 20
-  Rank: 138
+  Psy Defense: 10
+  Rank: 129
 Attacks:
-  Ranged Space: 6/25
-  Direct Space: 7/15
-  Psychic: 8/16
+  Ranged Space: 7/36
+  Direct Space: 6/13
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 246
-Build Cost: 2328
+Upkeep / Maintenance: 20
+Build Cost: 195
 Build Resource Requirements:
-  Energy: 5
-  Chemicals: 10
+  Food: 4
+  Energy: 35
+  Metal: 14
+  Trace: 11
+  Exotica: 4
+  Chemicals: 42
+  Biochems: 4
+  Electronics: 9
+Build Space Torpedo Bomber II in Starport
+Time to Build / Upgrade: 2
+[7130] Technologies Required to Build Unit (90):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [2270] Naval Escort Ships (86)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [1670] Guided Missiles (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Space Fighter Bomber IV
+Nick Name: SS-FB IV
+Scores & Strengths:
+  Tech Score: 1660
+  Unit Score: 1009
+  Average Score: 1334
+  Stat Strength: 841
+  Total Strength: 1009
+  Planet Strength: 0
+  Space Strength: 1009
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 2
+  Spot: 12
+  Camouflage: 9
+  Agility: 18
+  Armor: 12
+  Psy Defense: 12
+  Rank: 134
+Attacks:
+  Ranged Space: 2/30
+  Direct Space: 12/9
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 14
+Build Cost: 141
+Build Resource Requirements:
+  Food: 3
+  Energy: 18
+  Metal: 8
+  Trace: 9
+  Exotica: 3
+  Chemicals: 23
+  Biochems: 3
+  Electronics: 9
+  Ceramsteel: 7
+Build Space Fighter Bomber IV in Starport
+Time to Build / Upgrade: 2
+[12535] Technologies Required to Build Unit (86):
+  [1220] Finite Element Methods (77)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [2420] Rocket-Propelled Aircraft (87)
+  [4695] Advanced Minor Watercraft (83)
+  [1950] PTS Missile Launcher (88)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Space Divebomber IV
+Nick Name: SS-DB IV
+Scores & Strengths:
+  Tech Score: 1660
+  Unit Score: 1105
+  Average Score: 1382
+  Stat Strength: 910
+  Total Strength: 1105
+  Planet Strength: 0
+  Space Strength: 1105
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 2
+  Spot: 12
+  Camouflage: 9
+  Agility: 17
+  Armor: 14
+  Psy Defense: 14
+  Rank: 183
+Attacks:
+  Ranged Space: 5/39
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 17
+Build Cost: 168
+Build Resource Requirements:
+  Food: 2
+  Energy: 27
+  Metal: 10
+  Trace: 6
+  Exotica: 3
+  Chemicals: 33
+  Biochems: 2
+  Electronics: 7
+  Ceramsteel: 10
+Build Space Divebomber IV in Starport
+Time to Build / Upgrade: 2
+[12535] Technologies Required to Build Unit (86):
+  [1220] Finite Element Methods (77)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [2420] Rocket-Propelled Aircraft (87)
+  [4695] Advanced Minor Watercraft (83)
+  [1950] PTS Missile Launcher (88)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Space Fighter Bomber V
+Nick Name: SS-FB V
+Scores & Strengths:
+  Tech Score: 2150
+  Unit Score: 1243
+  Average Score: 1696
+  Stat Strength: 998
+  Total Strength: 1243
+  Planet Strength: 0
+  Space Strength: 1243
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 13
+  Camouflage: 11
+  Agility: 19
+  Armor: 13
+  Psy Defense: 13
+  Rank: 141
+Attacks:
+  Ranged Space: 3/34
+  Direct Space: 13/11
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 14
+Build Cost: 138
+Build Resource Requirements:
+  Food: 2
+  Energy: 18
+  Metal: 5
+  Trace: 8
+  Exotica: 2
+  Chemicals: 24
+  Biochems: 3
+  Electronics: 10
+  Ceramsteel: 5
+Build Space Fighter Bomber V in Starport
+Time to Build / Upgrade: 2
+[16790] Technologies Required to Build Unit (87):
+  [4695] Advanced Minor Watercraft (83)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [1670] Guided Missiles (83)
+  [8175] Spacecraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Space Torpedo Bomber III
+Nick Name: Prophet III
+Scores & Strengths:
+  Tech Score: 1660
+  Unit Score: 1330
+  Average Score: 1495
+  Stat Strength: 822
+  Total Strength: 1330
+  Planet Strength: 0
+  Space Strength: 1330
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 13
+  Camouflage: 10
+  Agility: 16
+  Armor: 12
+  Psy Defense: 12
+  Rank: 138
+Attacks:
+  Ranged Space: 9/44
+  Direct Space: 7/16
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 21
+Build Cost: 212
+Build Resource Requirements:
+  Food: 3
+  Energy: 37
+  Metal: 8
+  Trace: 8
+  Exotica: 3
+  Chemicals: 45
+  Biochems: 3
+  Electronics: 9
+  Ceramsteel: 7
+Build Space Torpedo Bomber III in Starport
+Time to Build / Upgrade: 2
+[12535] Technologies Required to Build Unit (86):
+  [1220] Finite Element Methods (77)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [2420] Rocket-Propelled Aircraft (87)
+  [4695] Advanced Minor Watercraft (83)
+  [1950] PTS Missile Launcher (88)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--13--
+Name: Space Divebomber V
+Nick Name: SS-DB V
+Scores & Strengths:
+  Tech Score: 2150
+  Unit Score: 1360
+  Average Score: 1755
+  Stat Strength: 1135
+  Total Strength: 1360
+  Planet Strength: 0
+  Space Strength: 1360
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 13
+  Camouflage: 11
+  Agility: 18
+  Armor: 16
+  Psy Defense: 16
+  Rank: 193
+Attacks:
+  Ranged Space: 5/45
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 17
+Build Cost: 169
+Build Resource Requirements:
+  Food: 2
+  Energy: 27
+  Metal: 7
+  Trace: 6
+  Exotica: 2
+  Chemicals: 36
+  Biochems: 2
+  Electronics: 7
+  Ceramsteel: 7
+Build Space Divebomber V in Starport
+Time to Build / Upgrade: 2
+[16790] Technologies Required to Build Unit (87):
+  [4695] Advanced Minor Watercraft (83)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [1670] Guided Missiles (83)
+  [8175] Spacecraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--14--
+Name: Space Fighter Bomber VI
+Nick Name: SS-FB VI
+Scores & Strengths:
+  Tech Score: 2606
+  Unit Score: 1493
+  Average Score: 2049
+  Stat Strength: 1199
+  Total Strength: 1493
+  Planet Strength: 0
+  Space Strength: 1493
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 14
+  Camouflage: 12
+  Agility: 20
+  Armor: 15
+  Psy Defense: 15
+  Rank: 147
+Attacks:
+  Ranged Space: 3/38
+  Direct Space: 15/12
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 15
+Build Cost: 147
+Build Resource Requirements:
+  Food: 2
+  Energy: 18
+  Metal: 5
+  Trace: 8
+  Exotica: 2
+  Chemicals: 25
+  Biochems: 3
+  Electronics: 10
+  Ceramsteel: 5
+Build Space Fighter Bomber VI in Starport
+Time to Build / Upgrade: 2
+[21970] Technologies Required to Build Unit (88):
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [7295] Nuclear-Powered Navalcraft (81)
+  [12425] Space Warfare (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--15--
+Name: Space Divebomber VI
+Nick Name: SS-DB VI
+Scores & Strengths:
+  Tech Score: 2606
+  Unit Score: 1582
+  Average Score: 2094
+  Stat Strength: 1288
+  Total Strength: 1582
+  Planet Strength: 0
+  Space Strength: 1582
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 14
+  Camouflage: 12
+  Agility: 19
+  Armor: 17
+  Psy Defense: 17
+  Rank: 201
+Attacks:
+  Ranged Space: 6/49
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 17
+Build Cost: 171
+Build Resource Requirements:
+  Food: 2
+  Energy: 26
+  Metal: 6
+  Trace: 6
+  Exotica: 2
+  Chemicals: 36
+  Biochems: 2
+  Electronics: 7
+  Ceramsteel: 7
+Build Space Divebomber VI in Starport
+Time to Build / Upgrade: 2
+[21970] Technologies Required to Build Unit (88):
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [7295] Nuclear-Powered Navalcraft (81)
+  [12425] Space Warfare (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--16--
+Name: Space Torpedo Bomber IV
+Nick Name: Prophet IV
+Scores & Strengths:
+  Tech Score: 2150
+  Unit Score: 1681
+  Average Score: 1915
+  Stat Strength: 1037
+  Total Strength: 1681
+  Planet Strength: 0
+  Space Strength: 1681
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 4
+  Spot: 14
+  Camouflage: 12
+  Agility: 17
+  Armor: 14
+  Psy Defense: 14
+  Rank: 145
+Attacks:
+  Ranged Space: 10/50
+  Direct Space: 8/18
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 22
+Build Cost: 222
+Build Resource Requirements:
+  Food: 2
+  Energy: 37
+  Metal: 5
+  Trace: 8
+  Exotica: 2
+  Chemicals: 48
+  Biochems: 3
+  Electronics: 9
+  Ceramsteel: 5
+Build Space Torpedo Bomber IV in Starport
+Time to Build / Upgrade: 2
+[16790] Technologies Required to Build Unit (87):
+  [4695] Advanced Minor Watercraft (83)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [1670] Guided Missiles (83)
+  [8175] Spacecraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--17--
+Name: Space Fighter Bomber VII
+Nick Name: SS-FB VII
+Scores & Strengths:
+  Tech Score: 3210
+  Unit Score: 1704
+  Average Score: 2457
+  Stat Strength: 1370
+  Total Strength: 1704
+  Planet Strength: 0
+  Space Strength: 1704
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 14
+  Camouflage: 13
+  Agility: 22
+  Armor: 16
+  Psy Defense: 16
+  Rank: 154
+Attacks:
+  Ranged Space: 3/42
+  Direct Space: 16/13
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 103
+Build Cost: 1025
+Build Resource Requirements:
+  Food: 2
+  Energy: 12
+  Metal: 3
+  Trace: 6
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 10
+  Electronics: 10
+  Ceramsteel: 3
+  Monopols: 18
+Build Space Fighter Bomber VII in Starport
+Time to Build / Upgrade: 2
+[31280] Technologies Required to Build Unit (86):
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [5205] Advanced Battle Tanks (84)
+  [7295] Nuclear-Powered Navalcraft (81)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--18--
+Name: Martyr Torpedo Bomber
+Nick Name: Martyr
+Scores & Strengths:
+  Tech Score: 1771
+  Unit Score: 1770
+  Average Score: 1771
+  Stat Strength: 1144
+  Total Strength: 1770
+  Planet Strength: 0
+  Space Strength: 1770
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 8
+  Spot: 12
+  Camouflage: 6
+  Agility: 20
+  Armor: 10
+  Psy Defense: 20
+  Rank: 145
+Attacks:
+  Ranged Space: 8/27
+  Direct Space: 10/17
+  Psychic: 12/20
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 409
+Build Cost: 3885
+Build Resource Requirements:
+  Electronics: 4
   Ceramsteel: 9
-  Gems: 72
+  Gems: 112
 Upgrade Space Torpedo Bomber to Martyr Torpedo Bomber at Starport
 Time to Build / Upgrade: 1
 [8505] Technologies Required to Build Unit (83):
   [330] Holy Warriors (82)
   [8175] Spacecraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--19--
+Name: Space Divebomber VII
+Nick Name: SS-DB VII
+Scores & Strengths:
+  Tech Score: 3210
+  Unit Score: 1826
+  Average Score: 2518
+  Stat Strength: 1496
+  Total Strength: 1826
+  Planet Strength: 0
+  Space Strength: 1826
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 14
+  Camouflage: 13
+  Agility: 20
+  Armor: 19
+  Psy Defense: 19
+  Rank: 211
+Attacks:
+  Ranged Space: 6/55
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 149
+Build Cost: 1486
+Build Resource Requirements:
+  Food: 1
+  Energy: 18
+  Metal: 4
+  Trace: 4
+  Exotica: 1
+  Chemicals: 27
+  Biochems: 12
+  Electronics: 7
+  Ceramsteel: 5
+  Monopols: 26
+Build Space Divebomber VII in Starport
+Time to Build / Upgrade: 2
+[31280] Technologies Required to Build Unit (86):
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [5205] Advanced Battle Tanks (84)
+  [7295] Nuclear-Powered Navalcraft (81)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--20--
+Name: Space Torpedo Bomber V
+Nick Name: Prophet V
+Scores & Strengths:
+  Tech Score: 2606
+  Unit Score: 1969
+  Average Score: 2287
+  Stat Strength: 1184
+  Total Strength: 1969
+  Planet Strength: 0
+  Space Strength: 1969
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 4
+  Spot: 15
+  Camouflage: 13
+  Agility: 18
+  Armor: 15
+  Psy Defense: 15
+  Rank: 152
+Attacks:
+  Ranged Space: 11/55
+  Direct Space: 9/20
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 23
+Build Cost: 231
+Build Resource Requirements:
+  Food: 2
+  Energy: 36
+  Metal: 5
+  Trace: 8
+  Exotica: 2
+  Chemicals: 49
+  Biochems: 3
+  Electronics: 9
+  Ceramsteel: 5
+Build Space Torpedo Bomber V in Starport
+Time to Build / Upgrade: 2
+[21970] Technologies Required to Build Unit (88):
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [7295] Nuclear-Powered Navalcraft (81)
+  [12425] Space Warfare (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--21--
+Name: Space Fighter Bomber VIII
+Nick Name: SS-FB VII
+Scores & Strengths:
+  Tech Score: 3905
+  Unit Score: 2050
+  Average Score: 2978
+  Stat Strength: 1614
+  Total Strength: 2050
+  Planet Strength: 0
+  Space Strength: 2050
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 4
+  Spot: 15
+  Camouflage: 14
+  Agility: 23
+  Armor: 18
+  Psy Defense: 18
+  Rank: 162
+Attacks:
+  Ranged Space: 4/46
+  Direct Space: 18/14
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 121
+Build Cost: 1206
+Build Resource Requirements:
+  Food: 1
+  Energy: 10
+  Metal: 3
+  Trace: 6
+  Exotica: 2
+  Chemicals: 17
+  Biochems: 10
+  Electronics: 11
+  Ceramsteel: 3
+  Monopols: 20
+Build Space Fighter Bomber VIII in Starport
+Time to Build / Upgrade: 2
+[37655] Technologies Required to Build Unit (79):
+  [10830] Violator Assault Gunnery (80)
+  [10295] PTS Fusion Cannon (76)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--22--
+Name: Martyr Torpedo Bomber II
+Nick Name: Martyr II
+Scores & Strengths:
+  Tech Score: 2198
+  Unit Score: 2110
+  Average Score: 2154
+  Stat Strength: 1345
+  Total Strength: 2110
+  Planet Strength: 0
+  Space Strength: 2110
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 9
+  Spot: 13
+  Camouflage: 7
+  Agility: 21
+  Armor: 11
+  Psy Defense: 22
+  Rank: 152
+Attacks:
+  Ranged Space: 9/30
+  Direct Space: 11/19
+  Psychic: 13/22
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 347
+Build Cost: 3257
+Build Resource Requirements:
+  Biochems: 4
+  Ceramsteel: 8
+  Gems: 91
+Upgrade Space Torpedo Bomber to Martyr Torpedo Bomber II at Starport
+Time to Build / Upgrade: 1
+[17120] Technologies Required to Build Unit (86):
+  [330] Holy Warriors (82)
+  [4695] Advanced Minor Watercraft (83)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [1670] Guided Missiles (83)
+  [8175] Spacecraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--23--
+Name: Space Divebomber VIII
+Nick Name: SS-DB VII
+Scores & Strengths:
+  Tech Score: 3905
+  Unit Score: 2180
+  Average Score: 3043
+  Stat Strength: 1760
+  Total Strength: 2180
+  Planet Strength: 0
+  Space Strength: 2180
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 4
+  Spot: 15
+  Camouflage: 14
+  Agility: 21
+  Armor: 21
+  Psy Defense: 21
+  Rank: 222
+Attacks:
+  Ranged Space: 7/60
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 173
+Build Cost: 1730
+Build Resource Requirements:
+  Food: 1
+  Energy: 14
+  Metal: 3
+  Trace: 4
+  Exotica: 1
+  Chemicals: 24
+  Biochems: 11
+  Electronics: 8
+  Ceramsteel: 4
+  Monopols: 30
+Build Space Divebomber VIII in Starport
+Time to Build / Upgrade: 2
+[37655] Technologies Required to Build Unit (79):
+  [10830] Violator Assault Gunnery (80)
+  [10295] PTS Fusion Cannon (76)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--24--
+Name: Space Torpedo Bomber VI
+Nick Name: Prophet VI
+Scores & Strengths:
+  Tech Score: 3210
+  Unit Score: 2397
+  Average Score: 2803
+  Stat Strength: 1445
+  Total Strength: 2397
+  Planet Strength: 0
+  Space Strength: 2397
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 5
+  Spot: 16
+  Camouflage: 15
+  Agility: 19
+  Armor: 17
+  Psy Defense: 17
+  Rank: 160
+Attacks:
+  Ranged Space: 12/61
+  Direct Space: 10/22
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 206
+Build Cost: 2055
+Build Resource Requirements:
+  Food: 2
+  Energy: 25
+  Metal: 3
+  Trace: 7
+  Exotica: 2
+  Chemicals: 35
+  Biochems: 16
+  Electronics: 10
+  Ceramsteel: 4
+  Monopols: 33
+Build Space Torpedo Bomber VI in Starport
+Time to Build / Upgrade: 3
+[31280] Technologies Required to Build Unit (86):
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [5205] Advanced Battle Tanks (84)
+  [7295] Nuclear-Powered Navalcraft (81)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--25--
+Name: Martyr Torpedo Bomber III
+Nick Name: Martyr III
+Scores & Strengths:
+  Tech Score: 2651
+  Unit Score: 2464
+  Average Score: 2557
+  Stat Strength: 1522
+  Total Strength: 2464
+  Planet Strength: 0
+  Space Strength: 2464
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 10
+  Spot: 13
+  Camouflage: 7
+  Agility: 22
+  Armor: 12
+  Psy Defense: 24
+  Rank: 159
+Attacks:
+  Ranged Space: 10/33
+  Direct Space: 12/21
+  Psychic: 15/24
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 463
+Build Cost: 4421
+Build Resource Requirements:
+  Biochems: 4
+  Ceramsteel: 9
+  Gems: 117
+Upgrade Space Torpedo Bomber to Martyr Torpedo Bomber III at Starport
+Time to Build / Upgrade: 1
+[22300] Technologies Required to Build Unit (86):
+  [330] Holy Warriors (82)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [7295] Nuclear-Powered Navalcraft (81)
+  [12425] Space Warfare (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--26--
+Name: Space Torpedo Bomber VII
+Nick Name: Prophet VI
+Scores & Strengths:
+  Tech Score: 3905
+  Unit Score: 2794
+  Average Score: 3350
+  Stat Strength: 1659
+  Total Strength: 2794
+  Planet Strength: 0
+  Space Strength: 2794
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 5
+  Spot: 16
+  Camouflage: 16
+  Agility: 20
+  Armor: 19
+  Psy Defense: 19
+  Rank: 168
+Attacks:
+  Ranged Space: 13/67
+  Direct Space: 11/24
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 242
+Build Cost: 2422
+Build Resource Requirements:
+  Food: 1
+  Energy: 19
+  Metal: 3
+  Trace: 6
+  Exotica: 1
+  Chemicals: 33
+  Biochems: 15
+  Electronics: 11
+  Ceramsteel: 4
+  Monopols: 38
+Build Space Torpedo Bomber VII in Starport
+Time to Build / Upgrade: 3
+[37655] Technologies Required to Build Unit (79):
+  [10830] Violator Assault Gunnery (80)
+  [10295] PTS Fusion Cannon (76)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--27--
+Name: Martyr Torpedo Bomber IV
+Nick Name: Martyr IV
+Scores & Strengths:
+  Tech Score: 3252
+  Unit Score: 2996
+  Average Score: 3124
+  Stat Strength: 1835
+  Total Strength: 2996
+  Planet Strength: 0
+  Space Strength: 2996
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 11
+  Spot: 14
+  Camouflage: 8
+  Agility: 23
+  Armor: 14
+  Psy Defense: 27
+  Rank: 168
+Attacks:
+  Ranged Space: 11/37
+  Direct Space: 14/23
+  Psychic: 16/27
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 697
+Build Cost: 6762
+Build Resource Requirements:
+  Biochems: 12
+  Ceramsteel: 6
+  Monopols: 21
+  Gems: 136
+Upgrade Space Torpedo Bomber to Martyr Torpedo Bomber IV at Starport
+Time to Build / Upgrade: 1
+[31610] Technologies Required to Build Unit (85):
+  [330] Holy Warriors (82)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [5205] Advanced Battle Tanks (84)
+  [7295] Nuclear-Powered Navalcraft (81)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--28--
+Name: Martyr Torpedo Bomber V
+Nick Name: Martyr V
+Scores & Strengths:
+  Tech Score: 3945
+  Unit Score: 3546
+  Average Score: 3745
+  Stat Strength: 2151
+  Total Strength: 3546
+  Planet Strength: 0
+  Space Strength: 3546
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 12
+  Spot: 15
+  Camouflage: 9
+  Agility: 24
+  Armor: 15
+  Psy Defense: 30
+  Rank: 177
+Attacks:
+  Ranged Space: 12/40
+  Direct Space: 15/25
+  Psychic: 18/30
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 1033
+Build Cost: 10122
+Build Resource Requirements:
+  Biochems: 11
+  Ceramsteel: 6
+  Monopols: 23
+  Gems: 199
+Upgrade Space Torpedo Bomber to Martyr Torpedo Bomber V at Starport
+Time to Build / Upgrade: 2
+[37985] Technologies Required to Build Unit (80):
+  [330] Holy Warriors (82)
+  [10830] Violator Assault Gunnery (80)
+  [10295] PTS Fusion Cannon (76)
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

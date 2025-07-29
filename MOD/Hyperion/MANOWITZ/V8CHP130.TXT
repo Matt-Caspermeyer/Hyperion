@@ -1,440 +1,410 @@
-All units of the unit class Space Carrier are listed herein (9 in total):
+All units of the unit class PTS Tank are listed herein (9 in total):
 
 --1--
-Name: Space Carrier
-Nick Name: SS-CV
+Name: PTS Tank
+Nick Name: PTS Tank
 Scores & Strengths:
-  Tech Score: 337
-  Unit Score: 671
-  Average Score: 504
-  Stat Strength: 588
-  Total Strength: 671
-  Planet Strength: 0
-  Space Strength: 671
-  Garrison Strength: 0
+  Tech Score: 608
+  Unit Score: 606
+  Average Score: 607
+  Stat Strength: 368
+  Total Strength: 606
+  Planet Strength: 528
+  Space Strength: 446
+  Garrison Strength: 215
 Statistics:
-  Movement Type: space
-  Move Points: 2
-  Spot: 8
+  Movement Type: tread
+  Move Points: 6
+  Spot: 2
   Camouflage: 2
-  Agility: 2
-  Armor: 16
-  Psy Defense: 16
-  Rank: 825
+  Agility: 6
+  Armor: 12
+  Psy Defense: 12
+  Rank: 72
 Attacks:
-  Direct Space: 3/11
-  Closed Space: 5/10
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 95
-Build Cost: 954
+  Ranged Space: 6/13
+  Indirect: 6/13
+  Direct: 5/11
+  Close: 3/9
+Load aboard transport: YES
+Upkeep / Maintenance: 7
+Build Cost: 67
 Build Resource Requirements:
-  Food: 8
-  Energy: 25
-  Metal: 131
-  Trace: 16
-  Exotica: 7
-  Chemicals: 78
-  Electronics: 10
-  Gems: 1
-Build Space Carrier in Starport
-Time to Build / Upgrade: 5
-[1040] Technologies Required to Build Unit (96):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [100] Psychosocial Engineering (100)
+  Food: 2
+  Energy: 32
+  Metal: 27
+  Trace: 8
+  Exotica: 2
+  Chemicals: 45
+  Electronics: 7
+Build PTS Tank in Factory
+Time to Build / Upgrade: 2
+[2300] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1950] PTS Missile Launcher (88)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Jump Carrier
-Nick Name: JJ-CV
+Name: PTS Tank II
+Nick Name: PTS Tank II
 Scores & Strengths:
-  Tech Score: 425
-  Unit Score: 826
-  Average Score: 626
-  Stat Strength: 724
-  Total Strength: 826
-  Planet Strength: 0
-  Space Strength: 826
-  Garrison Strength: 0
+  Tech Score: 1132
+  Unit Score: 1079
+  Average Score: 1105
+  Stat Strength: 638
+  Total Strength: 1079
+  Planet Strength: 935
+  Space Strength: 782
+  Garrison Strength: 330
 Statistics:
-  Movement Type: jump
-  Move Points: 2
-  Spot: 8
-  Camouflage: 2
-  Agility: 2
-  Armor: 18
-  Psy Defense: 18
-  Rank: 852
+  Movement Type: tread
+  Move Points: 8
+  Spot: 2
+  Camouflage: 3
+  Agility: 7
+  Armor: 16
+  Psy Defense: 16
+  Rank: 83
 Attacks:
-  Direct Space: 3/12
-  Closed Space: 6/11
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 412
-Build Cost: 4116
+  Ranged Space: 8/18
+  Indirect: 8/18
+  Direct: 7/15
+  Close: 4/12
+Load aboard transport: YES
+Upkeep / Maintenance: 6
+Build Cost: 62
 Build Resource Requirements:
-  Food: 7
-  Energy: 30
-  Metal: 135
-  Trace: 16
-  Exotica: 6
-  Chemicals: 96
-  Electronics: 11
-  Gems: 1
-S  ingularities: 2
-Build Jump Carrier in Starport
-Time to Build / Upgrade: 5
-[1480] Technologies Required to Build Unit (91):
-  [145] Composite Armor (97)
-  [100] Psychosocial Engineering (100)
-  [1235] Jump Rocketry (76)
+  Food: 1
+  Energy: 26
+  Metal: 41
+  Trace: 6
+  Exotica: 1
+  Chemicals: 34
+  Electronics: 4
+Build PTS Tank II in Factory
+Time to Build / Upgrade: 2
+[6890] Technologies Required to Build Unit (88):
+  [770] Self-Propelled Weaponry (92)
+  [1950] PTS Missile Launcher (88)
+  [4170] Supercruise Missiles (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Space Escort Carrier
-Nick Name: SS-CVE
+Name: Symbiot PTS Weapon
+Nick Name: Fumerole
 Scores & Strengths:
-  Tech Score: 2580
-  Unit Score: 2164
-  Average Score: 2372
-  Stat Strength: 1768
-  Total Strength: 2164
-  Planet Strength: 0
-  Space Strength: 2164
-  Garrison Strength: 0
+  Tech Score: 1530
+  Unit Score: 1530
+  Average Score: 1530
+  Stat Strength: 724
+  Total Strength: 1530
+  Planet Strength: 1370
+  Space Strength: 884
+  Garrison Strength: 395
 Statistics:
-  Movement Type: space
-  Move Points: 6
-  Spot: 12
-  Camouflage: 2
-  Agility: 4
-  Armor: 28
-  Psy Defense: 28
-  Rank: 840
+  Movement Type: tread
+  Move Points: 12
+  Spot: 8
+  Camouflage: 8
+  Agility: 8
+  Armor: 18
+  Psy Defense: 8
+  Rank: 91
 Attacks:
-  Direct Space: 12/18
-  Closed Space: 10/18
-Cargo Space: 2
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 57
-Build Cost: 565
+  Ranged Space: 10/16
+  Air: 11/15
+  Indirect: 9/17
+  Direct: 10/16
+  Close: 12/14
+Load aboard transport: YES
+Upkeep / Maintenance: 86
+Build Cost: 862
 Build Resource Requirements:
-  Food: 1
-  Energy: 9
-  Metal: 22
-  Trace: 5
-  Exotica: 1
-  Chemicals: 18
-  Biochems: 19
-  Electronics: 8
-  Ceramsteel: 25
-Build Space Escort Carrier in Starport
-Time to Build / Upgrade: 3
-[14045] Technology Required to Build Unit (84):
-  [14045] Space Escorts (84)
+  Food: 3
+  Energy: 195
+  Metal: 7
+  Trace: 7
+  Exotica: 4
+  Chemicals: 241
+  Biochems: 287
+  Electronics: 20
+Build Symbiot PTS Weapon in Hive
+Time to Build / Upgrade: 7
+[6995] Technology Required to Build Unit (37):
+  [6995] Symbiot Psychology (37)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Space Light Carrier
-Nick Name: SS-CLA
+Name: PTS Tank III
+Nick Name: PTS Tank III
 Scores & Strengths:
-  Tech Score: 2916
-  Unit Score: 2510
-  Average Score: 2713
-  Stat Strength: 2036
-  Total Strength: 2510
-  Planet Strength: 0
-  Space Strength: 2510
-  Garrison Strength: 0
+  Tech Score: 1685
+  Unit Score: 1641
+  Average Score: 1663
+  Stat Strength: 982
+  Total Strength: 1641
+  Planet Strength: 1421
+  Space Strength: 1202
+  Garrison Strength: 449
 Statistics:
-  Movement Type: space
-  Move Points: 16
-  Spot: 12
-  Camouflage: 2
+  Movement Type: tread
+  Move Points: 10
+  Spot: 3
+  Camouflage: 3
   Agility: 8
-  Armor: 28
-  Psy Defense: 28
-  Rank: 834
+  Armor: 20
+  Psy Defense: 20
+  Rank: 93
 Attacks:
-  Direct Space: 13/18
-  Closed Space: 15/16
-Cargo Space: 1
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 276
-Build Cost: 2764
+  Ranged Space: 10/22
+  Indirect: 10/22
+  Direct: 8/18
+  Close: 5/15
+Load aboard transport: YES
+Upkeep / Maintenance: 9
+Build Cost: 87
 Build Resource Requirements:
-  Food: 2
-  Energy: 6
-  Metal: 11
+  Food: 1
+  Energy: 28
+  Metal: 51
   Trace: 6
-  Exotica: 2
-  Chemicals: 11
-  Biochems: 17
-  Electronics: 10
-  Ceramsteel: 13
-  Monopols: 22
-Build Space Light Carrier in Starport
+  Exotica: 1
+  Chemicals: 51
+  Electronics: 5
+Build PTS Tank III in Factory
 Time to Build / Upgrade: 3
-[16530] Technology Required to Build Unit (80):
-  [16530] Space Capital Ships (80)
+[10755] Technologies Required to Build Unit (84):
+  [1700] Main Battle Tank (88)
+  [1950] PTS Missile Launcher (88)
+  [7105] Hypercruise Missiles (77)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Jump Escort Carrier
-Nick Name: JJ-CVE
+Name: PTS Laser Cannon
+Nick Name: PTS Laser
 Scores & Strengths:
-  Tech Score: 4325
-  Unit Score: 3553
-  Average Score: 3939
-  Stat Strength: 2886
-  Total Strength: 3553
-  Planet Strength: 0
-  Space Strength: 3553
-  Garrison Strength: 0
+  Tech Score: 2044
+  Unit Score: 2043
+  Average Score: 2044
+  Stat Strength: 1422
+  Total Strength: 2043
+  Planet Strength: 1753
+  Space Strength: 1712
+  Garrison Strength: 619
 Statistics:
-  Movement Type: jump
+  Movement Type: tread
   Move Points: 8
-  Spot: 14
-  Camouflage: 3
-  Agility: 5
-  Armor: 36
-  Psy Defense: 36
-  Rank: 889
+  Spot: 10
+  Camouflage: 2
+  Agility: 2
+  Armor: 25
+  Psy Defense: 25
+  Rank: 98
 Attacks:
-  Direct Space: 16/23
-  Closed Space: 13/23
-Cargo Space: 2
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 734
-Build Cost: 7341
+  Ranged Space: 10/29
+  Air: 9/15
+  Direct: 14/14
+Load aboard transport: YES
+Upkeep / Maintenance: 114
+Build Cost: 1143
 Build Resource Requirements:
-  Food: 1
-  Energy: 6
+  Food: 2
+  Energy: 15
   Metal: 12
-  Trace: 5
-  Exotica: 1
-  Chemicals: 13
-  Biochems: 16
-  Electronics: 14
-  Ceramsteel: 16
-  Monopols: 26
-S  ingularities: 3
-Build Jump Escort Carrier in Starport
-Time to Build / Upgrade: 3
-[27965] Technology Required to Build Unit (75):
-  [27965] Jump Escorts (75)
+  Trace: 9
+  Exotica: 2
+  Chemicals: 25
+  Electronics: 16
+  Ceramsteel: 18
+  Monopols: 51
+Build PTS Laser Cannon in Factory
+Time to Build / Upgrade: 4
+[10295] Technology Required to Build Unit (76):
+  [10295] PTS Fusion Cannon (76)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Jump Carrier MkII
-Nick Name: JJ-CV2
+Name: PTS Meson Cannon
+Nick Name: PTS Meson
 Scores & Strengths:
-  Tech Score: 1933
-  Unit Score: 3561
-  Average Score: 2747
-  Stat Strength: 3091
-  Total Strength: 3561
-  Planet Strength: 0
-  Space Strength: 3561
-  Garrison Strength: 0
+  Tech Score: 3737
+  Unit Score: 3737
+  Average Score: 3737
+  Stat Strength: 2590
+  Total Strength: 3737
+  Planet Strength: 3191
+  Space Strength: 3136
+  Garrison Strength: 962
 Statistics:
-  Movement Type: jump
-  Move Points: 5
+  Movement Type: tread
+  Move Points: 11
   Spot: 12
-  Camouflage: 5
-  Agility: 3
-  Armor: 38
-  Psy Defense: 38
-  Rank: 891
+  Camouflage: 3
+  Agility: 2
+  Armor: 34
+  Psy Defense: 34
+  Rank: 125
 Attacks:
-  Direct Space: 7/26
-  Closed Space: 12/24
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 1425
-Build Cost: 14250
+  Ranged Space: 14/39
+  Air: 12/20
+  Direct: 19/19
+Load aboard transport: YES
+Upkeep / Maintenance: 128
+Build Cost: 133
 Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 33
-  Trace: 6
-  Exotica: 2
-  Chemicals: 18
-  Electronics: 10
-  Monopols: 101
-S  ingularities: 2
-Build Jump Carrier MkII in Starport
-Time to Build / Upgrade: 7
-[12900] Technologies Required to Build Unit (67):
-  [4285] Jump Drives (70)
-  [8615] Fusion Beam (63)
+  Chemicals: 3
+  Electronics: 4
+  Ceramsteel: 1
+Upgrade PTS Laser Cannon to PTS Meson Cannon at Factory
+Time to Build / Upgrade: 1
+[23015] Technology Required to Build Unit (70):
+  [23015] PTS Meson Cannon (70)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Jump Light Carrier
-Nick Name: JJ-CLA
+Name: Vau PTS Weapon
+Nick Name: Atomizer
 Scores & Strengths:
-  Tech Score: 5589
-  Unit Score: 4724
-  Average Score: 5157
-  Stat Strength: 3812
-  Total Strength: 4724
-  Planet Strength: 0
-  Space Strength: 4724
-  Garrison Strength: 0
+  Tech Score: 3886
+  Unit Score: 3880
+  Average Score: 3883
+  Stat Strength: 2232
+  Total Strength: 3880
+  Planet Strength: 3280
+  Space Strength: 2832
+  Garrison Strength: 876
 Statistics:
-  Movement Type: jump
-  Move Points: 22
-  Spot: 14
-  Camouflage: 3
-  Agility: 9
-  Armor: 39
-  Psy Defense: 39
-  Rank: 896
+  Movement Type: tread
+  Move Points: 14
+  Spot: 10
+  Camouflage: 6
+  Agility: 10
+  Armor: 30
+  Psy Defense: 30
+  Rank: 164
 Attacks:
-  Direct Space: 18/25
-  Closed Space: 21/22
-Cargo Space: 1
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 1168
-Build Cost: 11681
-Build Resource Requirements:
-  Food: 1
-  Energy: 7
-  Metal: 10
-  Trace: 5
-  Exotica: 2
-  Chemicals: 14
-  Biochems: 16
-  Electronics: 14
-  Ceramsteel: 15
-  Monopols: 28
-S  ingularities: 5
-Build Jump Light Carrier in Starport
-Time to Build / Upgrade: 3
-[39365] Technology Required to Build Unit (61):
-  [39365] Jump Capital Ships (61)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---8--
-Name: Gate Carrier
-Nick Name: GG-CV
-Scores & Strengths:
-  Tech Score: 7682
-  Unit Score: 7515
-  Average Score: 7599
-  Stat Strength: 6617
-  Total Strength: 7515
-  Planet Strength: 7052
-  Space Strength: 7080
-  Garrison Strength: 1617
-Statistics:
-  Movement Type: gate
-  Move Points: 19
-  Spot: 16
-  Camouflage: 10
-  Agility: 30
-  Armor: 50
-  Psy Defense: 50
-  Rank: 941
-Attacks:
-  Direct Space: 9/27
-  Closed Space: 10/22
-  Direct: 9/25
-  Close: 10/21
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 2014
-Build Cost: 20141
-Build Resource Requirements:
-  Food: 1
-  Energy: 9
-  Metal: 11
-  Trace: 3
-  Exotica: 1
-  Chemicals: 17
-  Biochems: 21
-  Electronics: 10
-  Ceramsteel: 17
-  Wetware: 5
-  Monopols: 36
-S  ingularities: 4
-Build Gate Carrier in Starport
-Time to Build / Upgrade: 4
-[60155] Technology Required to Build Unit (53):
-  [60155] Gate Capital Ships (53)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---9--
-Name: Jump Carrier MkIII
-Nick Name: JJ-CV3
-Scores & Strengths:
-  Tech Score: 5589
-  Unit Score: 10210
-  Average Score: 7900
-  Stat Strength: 8850
-  Total Strength: 10210
-  Planet Strength: 0
-  Space Strength: 10210
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 8
-  Spot: 16
-  Camouflage: 8
-  Agility: 4
-  Armor: 65
-  Psy Defense: 65
-  Rank: 967
-Attacks:
-  Direct Space: 12/45
-  Closed Space: 20/41
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 2457
-Build Cost: 24570
+  Ranged Space: 20/30
+  Air: 16/28
+  Indirect: 20/30
+Load aboard transport: YES
+Upkeep / Maintenance: 161
+Build Cost: 1606
 Build Resource Requirements:
   Food: 1
   Energy: 15
-  Metal: 28
-  Trace: 5
+  Metal: 5
+  Trace: 4
   Exotica: 1
-  Chemicals: 34
-  Biochems: 33
-  Electronics: 21
-  Ceramsteel: 42
-  Monopols: 72
-S  ingularities: 3
-Build Jump Carrier MkIII in Starport
-Time to Build / Upgrade: 7
-[39365] Technology Required to Build Unit (61):
-  [39365] Jump Capital Ships (61)
+  Chemicals: 27
+  Biochems: 26
+  Electronics: 10
+  Ceramsteel: 10
+  Wetware: 8
+  Monopols: 45
+Build Vau PTS Weapon in Vau City
+Time to Build / Upgrade: 4
+[24245] Technology Required to Build Unit (50):
+  [24245] Vau Psychology (50)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Discontinuity Cannon
+Nick Name: PTS Beam
+Scores & Strengths:
+  Tech Score: 4120
+  Unit Score: 3975
+  Average Score: 4047
+  Stat Strength: 2728
+  Total Strength: 3975
+  Planet Strength: 3401
+  Space Strength: 3302
+  Garrison Strength: 1025
+Statistics:
+  Movement Type: tread
+  Move Points: 11
+  Spot: 12
+  Camouflage: 3
+  Agility: 2
+  Armor: 35
+  Psy Defense: 35
+  Rank: 130
+Attacks:
+  Ranged Space: 14/41
+  Air: 13/21
+  Direct: 20/20
+Load aboard transport: YES
+Upkeep / Maintenance: 132
+Build Cost: 179
+Build Resource Requirements:
+  Chemicals: 3
+  Electronics: 4
+Upgrade PTS Laser Cannon to Discontinuity Cannon at Factory
+Time to Build / Upgrade: 1
+[26210] Technology Required to Build Unit (54):
+  [26210] PTS Beam Cannon (54)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Omicron Ray
+Nick Name: Omicron Ray
+Scores & Strengths:
+  Tech Score: 5202
+  Unit Score: 5201
+  Average Score: 5201
+  Stat Strength: 3650
+  Total Strength: 5201
+  Planet Strength: 4201
+  Space Strength: 4650
+  Garrison Strength: 1212
+Statistics:
+  Movement Type: tread
+  Move Points: 12
+  Spot: 16
+  Camouflage: 5
+  Agility: 5
+  Armor: 40
+  Psy Defense: 40
+  Rank: 162
+Attacks:
+  Ranged Space: 20/50
+  Air: 25/11
+  Indirect: 12/23
+Load aboard transport: YES
+Upkeep / Maintenance: 154
+Build Cost: 1542
+Build Resource Requirements:
+  Food: 1
+  Energy: 10
+  Metal: 7
+  Trace: 4
+  Exotica: 1
+  Chemicals: 21
+  Biochems: 21
+  Electronics: 12
+  Ceramsteel: 13
+  Wetware: 8
+  Monopols: 36
+Build Omicron Ray in Factory
+Time to Build / Upgrade: 4
+[49605] Technologies Required to Build Unit (46):
+  [23395] Advanced Hovertech (37)
+  [26210] PTS Beam Cannon (54)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

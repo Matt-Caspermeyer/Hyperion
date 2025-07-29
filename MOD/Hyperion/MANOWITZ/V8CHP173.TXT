@@ -1,196 +1,188 @@
-All units of the unit class Cyber-Transhumanist are listed herein (4 in total):
+All units of the unit class Light Anti-Air Mech are listed herein (4 in total):
 
 --1--
-Name: Cyber-Transhumanist
-Nick Name: Transhumanist
+Name: Light Anti-Air Mech
+Nick Name: Vindicator
 Scores & Strengths:
-  Tech Score: 1607
-  Unit Score: 1607
-  Average Score: 1607
-  Stat Strength: 977
-  Total Strength: 1607
-  Planet Strength: 1607
+  Tech Score: 1686
+  Unit Score: 1685
+  Average Score: 1686
+  Stat Strength: 1185
+  Total Strength: 1685
+  Planet Strength: 1685
   Space Strength: 0
-  Garrison Strength: 445
+  Garrison Strength: 450
 Statistics:
-  Movement Type: foot
-  Move Points: 13
-  Spot: 13
-  Camouflage: 10
-  Agility: 21
-  Armor: 7
-  Psy Defense: 7
-  Rank: 67
+  Movement Type: mech
+  Move Points: 14
+  Spot: 10
+  Camouflage: 4
+  Agility: 19
+  Armor: 16
+  Psy Defense: 16
+  Rank: 123
 Attacks:
-  Air: 14/12
-  Direct: 12/14
-  Close: 21/14
+  Air: 20/13
+  Indirect: 16/15
 Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 109
+Immune to Plague
+Upkeep / Maintenance: 17
+Build Cost: 166
 Build Resource Requirements:
-  Food: 9
-  Energy: 27
-  Metal: 4
-  Trace: 13
-  Exotica: 9
-  Chemicals: 42
-  Electronics: 35
-  Ceramsteel: 5
-Build Cyber-Transhumanist in Lab
+  Food: 5
+  Energy: 14
+  Metal: 10
+  Trace: 16
+  Exotica: 5
+  Chemicals: 26
+  Electronics: 24
+  Ceramsteel: 15
+Build Light Anti-Air Mech in Starport
 Time to Build / Upgrade: 3
-[12450] Technologies Required to Build Unit (63):
-  [4855] Myoelectric Prosthetics (71)
-  [7375] Nano Implants (28)
-  [220] Indoctrination (91)
+[10330] Technologies Required to Build Unit (84):
+  [1690] Ceramsteel (84)
+  [2420] Rocket-Propelled Aircraft (87)
+  [6220] Mechanically-Enhanced Soldiers (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Cyber-Evolutionary
-Nick Name: Evolutionary
+Name: Medium Anti-Air Mech
+Nick Name: Talisman
 Scores & Strengths:
-  Tech Score: 1818
-  Unit Score: 1818
-  Average Score: 1818
-  Stat Strength: 1065
-  Total Strength: 1818
-  Planet Strength: 1818
+  Tech Score: 2414
+  Unit Score: 2414
+  Average Score: 2414
+  Stat Strength: 1578
+  Total Strength: 2414
+  Planet Strength: 2414
   Space Strength: 0
-  Garrison Strength: 454
+  Garrison Strength: 603
 Statistics:
-  Movement Type: foot
+  Movement Type: mech
   Move Points: 16
-  Spot: 16
+  Spot: 13
   Camouflage: 8
-  Agility: 19
-  Armor: 8
-  Psy Defense: 8
-  Rank: 70
+  Agility: 11
+  Armor: 22
+  Psy Defense: 22
+  Rank: 139
 Attacks:
-  Air: 17/15
-  Direct: 9/18
-  Close: 16/21
+  Air: 23/19
+  Indirect: 21/19
 Load aboard transport: YES
-Upkeep / Maintenance: 32
-Build Cost: 324
+Immune to Plague
+Upkeep / Maintenance: 118
+Build Cost: 1178
 Build Resource Requirements:
-  Food: 14
-  Energy: 59
-  Metal: 7
-  Trace: 14
-  Exotica: 16
-  Chemicals: 91
-  Biochems: 66
-  Electronics: 39
-  Ceramsteel: 10
-Build Cyber-Evolutionary in Lab
-Time to Build / Upgrade: 4
-[8930] Technologies Required to Build Unit (65):
-  [330] Holy Warriors (82)
-  [8600] Cybernetically-Enhanced Soldiers (48)
+  Food: 3
+  Energy: 9
+  Metal: 8
+  Trace: 17
+  Exotica: 3
+  Chemicals: 17
+  Electronics: 23
+  Ceramsteel: 9
+  Monopols: 25
+Build Medium Anti-Air Mech in Starport
+Time to Build / Upgrade: 3
+[12850] Technology Required to Build Unit (71):
+  [12850] Mechanized Warriors (71)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Cyber-Spiritualist
-Nick Name: Spiritualist
+Name: Heavy Anti-Air Mech
+Nick Name: Avenger
 Scores & Strengths:
-  Tech Score: 1995
-  Unit Score: 1892
-  Average Score: 1944
-  Stat Strength: 1092
-  Total Strength: 1892
-  Planet Strength: 1892
-  Space Strength: 1492
-  Garrison Strength: 505
+  Tech Score: 5401
+  Unit Score: 5401
+  Average Score: 5401
+  Stat Strength: 3067
+  Total Strength: 5401
+  Planet Strength: 5401
+  Space Strength: 0
+  Garrison Strength: 1273
 Statistics:
-  Movement Type: foot
-  Move Points: 14
-  Spot: 16
-  Camouflage: 8
-  Agility: 16
-  Armor: 8
-  Psy Defense: 16
-  Rank: 78
+  Movement Type: mech
+  Move Points: 18
+  Spot: 14
+  Camouflage: 12
+  Agility: 15
+  Armor: 33
+  Psy Defense: 33
+  Rank: 149
 Attacks:
-  Psychic: 20/20
-  Direct: 18/16
-  Close: 14/8
+  Air: 31/28
+  Indirect: 30/32
+  Direct: 22/23
 Load aboard transport: YES
-Upkeep / Maintenance: 49
-Build Cost: 487
+Immune to Plague
+Upkeep / Maintenance: 230
+Build Cost: 2298
 Build Resource Requirements:
-  Food: 7
-  Energy: 16
-  Metal: 9
-  Trace: 8
-  Exotica: 9
-  Chemicals: 26
-  Electronics: 21
-  Ceramsteel: 12
-  Gems: 29
-Build Cyber-Spiritualist in Lab
-Time to Build / Upgrade: 3
-[18125] Technologies Required to Build Unit (52):
-  [7825] Neurocellular Surgery (28)
-  [7825] Advanced Cybernetics (44)
-  [220] Indoctrination (91)
-  [2255] Sympathy (Bonding) (45)
+  Food: 2
+  Energy: 13
+  Metal: 8
+  Trace: 25
+  Exotica: 2
+  Chemicals: 20
+  Biochems: 26
+  Electronics: 31
+  Ceramsteel: 11
+  Monopols: 33
+Build Heavy Anti-Air Mech in Starport
+Time to Build / Upgrade: 4
+[35965] Technology Required to Build Unit (64):
+  [35965] Advanced Mechanized Warriors (64)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Cyber-Revolutionary
-Nick Name: Cyb-Rev
+Name: Assault Anti-Air Mech
+Nick Name: Phoenix
 Scores & Strengths:
-  Tech Score: 3386
-  Unit Score: 3304
-  Average Score: 3345
-  Stat Strength: 1926
-  Total Strength: 3304
-  Planet Strength: 3304
-  Space Strength: 2388
-  Garrison Strength: 826
+  Tech Score: 5809
+  Unit Score: 5809
+  Average Score: 5809
+  Stat Strength: 3473
+  Total Strength: 5809
+  Planet Strength: 5809
+  Space Strength: 0
+  Garrison Strength: 1298
 Statistics:
-  Movement Type: foot
-  Move Points: 16
-  Spot: 18
-  Camouflage: 10
-  Agility: 29
-  Armor: 9
-  Psy Defense: 18
-  Rank: 96
+  Movement Type: mech
+  Move Points: 20
+  Spot: 16
+  Camouflage: 12
+  Agility: 19
+  Armor: 34
+  Psy Defense: 34
+  Rank: 153
 Attacks:
-  Psychic: 22/21
-  Indirect: 18/22
-  Direct: 20/18
-  Close: 16/10
+  Air: 30/29
+  Indirect: 30/32
+  Direct: 22/23
 Load aboard transport: YES
-Upkeep / Maintenance: 230
-Build Cost: 2299
+Immune to Plague
+Upkeep / Maintenance: 289
+Build Cost: 2893
 Build Resource Requirements:
-  Food: 5
-  Energy: 31
-  Metal: 3
-  Trace: 8
-  Exotica: 6
-  Chemicals: 46
-  Biochems: 46
-  Electronics: 15
-  Ceramsteel: 4
-  Wetware: 13
-  Monopols: 45
-  Gems: 34
-Build Cyber-Revolutionary in Lab
-Time to Build / Upgrade: 5
-[21160] Technologies Required to Build Unit (54):
-  [330] Holy Warriors (82)
-  [2255] Sympathy (Bonding) (45)
-  [18575] Machine-Fused Soldiers (35)
+  Food: 1
+  Energy: 12
+  Metal: 7
+  Trace: 10
+  Exotica: 2
+  Chemicals: 20
+  Biochems: 25
+  Electronics: 16
+  Ceramsteel: 10
+  Wetware: 9
+  Monopols: 31
+Build Assault Anti-Air Mech in Starport
+Time to Build / Upgrade: 4
+[52710] Technologies Required to Build Unit (44):
+  [16745] Wetware (23)
+  [35965] Advanced Mechanized Warriors (64)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

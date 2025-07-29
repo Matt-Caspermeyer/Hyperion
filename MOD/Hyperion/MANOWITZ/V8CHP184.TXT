@@ -1,172 +1,139 @@
-All units of the unit class Mega Tank are listed herein (4 in total):
+All units of the unit class Space Destroyer are listed herein (3 in total):
 
 --1--
-Name: Mega Tank
-Nick Name: Mastiff
+Name: Space Destroyer
+Nick Name: SS-DD
 Scores & Strengths:
-  Tech Score: 2510
-  Unit Score: 2509
-  Average Score: 2509
-  Stat Strength: 1996
-  Total Strength: 2509
-  Planet Strength: 2509
-  Space Strength: 0
-  Garrison Strength: 724
+  Tech Score: 2580
+  Unit Score: 2580
+  Average Score: 2580
+  Stat Strength: 1810
+  Total Strength: 2580
+  Planet Strength: 0
+  Space Strength: 2580
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 12
-  Spot: 8
-  Camouflage: 6
-  Agility: 20
-  Armor: 26
-  Psy Defense: 26
-  Rank: 103
+  Movement Type: space
+  Move Points: 16
+  Spot: 12
+  Camouflage: 4
+  Agility: 12
+  Armor: 25
+  Psy Defense: 25
+  Rank: 170
 Attacks:
-  Indirect: 12/21
-  Direct: 9/19
-  Close: 6/15
-Load aboard transport: YES
-Upkeep / Maintenance: 97
-Build Cost: 904
+  Direct Space: 16/28
+  Closed Space: 14/23
+Immune to Plague
+Upkeep / Maintenance: 41
+Build Cost: 405
 Build Resource Requirements:
-  Electronics: 5
-  Ceramsteel: 16
-  Monopols: 40
-Upgrade Main Battle Tank to Mega Tank at Factory
-Time to Build / Upgrade: 2
-[13535] Technology Required to Build Unit (74):
-  [13535] Powered Ceramsteel Tanks (74)
+  Food: 3
+  Energy: 22
+  Metal: 18
+  Trace: 9
+  Exotica: 3
+  Chemicals: 36
+  Biochems: 26
+  Electronics: 14
+  Ceramsteel: 20
+Build Space Destroyer in Starport
+Time to Build / Upgrade: 3
+[14045] Technology Required to Build Unit (84):
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Psy Mega Tank
-Nick Name: St. Bernard
+Name: Jump Destroyer
+Nick Name: JJ-DD
 Scores & Strengths:
-  Tech Score: 2735
-  Unit Score: 4785
-  Average Score: 3760
-  Stat Strength: 4024
-  Total Strength: 4785
-  Planet Strength: 4785
-  Space Strength: 4284
-  Garrison Strength: 1381
+  Tech Score: 3399
+  Unit Score: 3361
+  Average Score: 3380
+  Stat Strength: 2369
+  Total Strength: 3361
+  Planet Strength: 0
+  Space Strength: 3361
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 12
-  Spot: 8
-  Camouflage: 6
-  Agility: 20
-  Armor: 26
-  Psy Defense: 52
-  Rank: 116
+  Movement Type: jump
+  Move Points: 18
+  Spot: 13
+  Camouflage: 5
+  Agility: 13
+  Armor: 29
+  Psy Defense: 29
+  Rank: 209
 Attacks:
-  Psychic: 13/20
-  Indirect: 12/20
-  Direct: 9/19
-  Close: 6/15
-Load aboard transport: YES
-Upkeep / Maintenance: 356
-Build Cost: 3563
+  Direct Space: 18/32
+  Closed Space: 16/26
+Immune to Plague
+Upkeep / Maintenance: 525
+Build Cost: 5250
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 21
-  Trace: 5
+  Food: 2
+  Energy: 16
+  Metal: 15
+  Trace: 8
   Exotica: 3
-  Chemicals: 30
-  Electronics: 22
-  Ceramsteel: 36
-  Monopols: 59
-  Gems: 79
-Build Psy Mega Tank in Factory
-Time to Build / Upgrade: 7
-[15305] Technologies Required to Build Unit (76):
-  [330] Holy Warriors (82)
-  [14975] Power Hovertanks (70)
+  Chemicals: 26
+  Biochems: 20
+  Electronics: 12
+  Ceramsteel: 17
+  Monopols: 38
+S  ingularities: 4
+Build Jump Destroyer in Starport
+Time to Build / Upgrade: 4
+[26415] Technologies Required to Build Unit (76):
+  [4285] Jump Drives (70)
+  [8085] Fusion Rifles (75)
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Stealth Mega Tank
-Nick Name: Ghost Tank
+Name: Jump Destroyer II
+Nick Name: JJ-DD
 Scores & Strengths:
-  Tech Score: 5364
-  Unit Score: 5358
-  Average Score: 5361
-  Stat Strength: 3705
-  Total Strength: 5358
-  Planet Strength: 5358
-  Space Strength: 0
-  Garrison Strength: 1229
+  Tech Score: 4325
+  Unit Score: 4202
+  Average Score: 4264
+  Stat Strength: 2906
+  Total Strength: 4202
+  Planet Strength: 0
+  Space Strength: 4202
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 19
+  Movement Type: jump
+  Move Points: 21
   Spot: 14
-  Camouflage: 23
-  Agility: 21
-  Armor: 33
-  Psy Defense: 33
-  Rank: 151
-Attacks:
-  Indirect: 21/29
-  Direct: 20/27
-  Close: 21/24
-Load aboard transport: YES
-Upkeep / Maintenance: 126
-Build Cost: 360
-Build Resource Requirements:
-  Trace: 2
-  Biochems: 27
-  Electronics: 4
-  Wetware: 7
-Upgrade Mega Tank to Stealth Mega Tank at Factory
-Time to Build / Upgrade: 1
-[37210] Technology Required to Build Unit (34):
-  [37210] Neumonic Land Vehicles (34)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---4--
-Name: Stealth Tank
-Nick Name: Wraith
-Scores & Strengths:
-  Tech Score: 5364
-  Unit Score: 5358
-  Average Score: 5361
-  Stat Strength: 4644
-  Total Strength: 5358
-  Planet Strength: 5358
-  Space Strength: 0
-  Garrison Strength: 1198
-Statistics:
-  Movement Type: tread
-  Move Points: 20
-  Spot: 14
-  Camouflage: 40
-  Agility: 20
+  Camouflage: 5
+  Agility: 14
   Armor: 32
   Psy Defense: 32
-  Rank: 139
+  Rank: 225
 Attacks:
-  Indirect: 11/26
-  Direct: 15/20
-  Close: 8/16
-Load aboard transport: YES
-Upkeep / Maintenance: 97
-Build Cost: 69
+  Direct Space: 21/36
+  Closed Space: 18/30
+Immune to Plague
+Upkeep / Maintenance: 607
+Build Cost: 6066
 Build Resource Requirements:
+  Food: 2
+  Energy: 14
+  Metal: 9
   Trace: 9
-  Biochems: 20
-  Electronics: 21
-  Wetware: 4
-Upgrade Mega Tank to Stealth Tank at Factory
-Time to Build / Upgrade: 1
-[37210] Technology Required to Build Unit (34):
-  [37210] Neumonic Land Vehicles (34)
+  Exotica: 2
+  Chemicals: 25
+  Biochems: 23
+  Electronics: 19
+  Ceramsteel: 13
+  Monopols: 37
+S  ingularities: 5
+Build Jump Destroyer II in Starport
+Time to Build / Upgrade: 4
+[27965] Technology Required to Build Unit (75):
+  [27965] Jump Escorts (75)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

@@ -1,313 +1,191 @@
-All units of the unit class Naval Monitor are listed herein (7 in total):
+All units of the unit class Space Bulk Hauler are listed herein (4 in total):
 
 --1--
-Name: Naval Monitor
-Nick Name: NN-BM
+Name: Space Bulk Hauler
+Nick Name: SS-BH
 Scores & Strengths:
-  Tech Score: 177
-  Unit Score: 351
-  Average Score: 264
+  Tech Score: 342
+  Unit Score: 342
+  Average Score: 342
   Stat Strength: 330
-  Total Strength: 351
-  Planet Strength: 351
-  Space Strength: 0
-  Garrison Strength: 143
+  Total Strength: 342
+  Planet Strength: 0
+  Space Strength: 342
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 2
+  Movement Type: space
+  Move Points: 2
+  Spot: 6
   Camouflage: 1
   Agility: 1
   Armor: 12
   Psy Defense: 12
-  Rank: 125
+  Rank: 93
 Attacks:
-  Indirect: 1/21
-Upkeep / Maintenance: 40
-Build Cost: 404
+  Closed Space: 1/12
+Cargo Space: 4
+Immune to Plague
+Upkeep / Maintenance: 22
+Build Cost: 219
 Build Resource Requirements:
-  Food: 5
-  Energy: 89
-  Metal: 69
-  Trace: 4
+  Food: 4
+  Energy: 15
+  Metal: 70
+  Trace: 6
   Exotica: 4
-  Chemicals: 80
-Build Naval Monitor in Well
-Time to Build / Upgrade: 5
-[605] Technologies Required to Build Unit (99):
+  Chemicals: 41
+  Electronics: 3
+Build Space Bulk Hauler in Starport
+Time to Build / Upgrade: 2
+[1170] Technologies Required to Build Unit (95):
   [230] Hospitals (97)
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Naval Battle-Cruiser
-Nick Name: NN-BC
+Name: Jump Bulk Hauler
+Nick Name: JJ-BH
 Scores & Strengths:
-  Tech Score: 224
-  Unit Score: 556
-  Average Score: 390
-  Stat Strength: 408
-  Total Strength: 556
-  Planet Strength: 556
-  Space Strength: 0
-  Garrison Strength: 196
+  Tech Score: 455
+  Unit Score: 448
+  Average Score: 452
+  Stat Strength: 434
+  Total Strength: 448
+  Planet Strength: 0
+  Space Strength: 448
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 2
+  Movement Type: jump
+  Move Points: 2
+  Spot: 6
   Camouflage: 1
   Agility: 1
-  Armor: 13
-  Psy Defense: 13
-  Rank: 95
+  Armor: 14
+  Psy Defense: 14
+  Rank: 120
 Attacks:
-  Air: 6/9
-  Indirect: 3/22
-  Direct: 2/14
-Upkeep / Maintenance: 53
-Build Cost: 525
+  Closed Space: 1/14
+Cargo Space: 4
+Bulk Hauler - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 161
+Build Cost: 1609
 Build Resource Requirements:
-  Food: 6
-  Energy: 104
-  Metal: 70
-  Trace: 10
-  Exotica: 5
-  Chemicals: 104
-Build Naval Battle-Cruiser in Well
-Time to Build / Upgrade: 6
-[900] Technologies Required to Build Unit (96):
+  Food: 4
+  Energy: 20
+  Metal: 77
+  Trace: 5
+  Exotica: 3
+  Chemicals: 55
+  Electronics: 3
+  Gems: 1
+S  ingularities: 2
+Build Jump Bulk Hauler in Starport
+Time to Build / Upgrade: 3
+[1610] Technologies Required to Build Unit (90):
   [230] Hospitals (97)
-  [110] Structural Engineering (99)
-  [235] Giro Directory Training (85)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
+  [145] Composite Armor (97)
+  [1235] Jump Rocketry (76)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Naval Dreadnought
-Nick Name: NN-BD
+Name: Armored Bulk Hauler
+Nick Name: JJ-AABH
 Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1546
-  Average Score: 1160
-  Stat Strength: 1273
-  Total Strength: 1546
-  Planet Strength: 1546
-  Space Strength: 0
-  Garrison Strength: 584
+  Tech Score: 1168
+  Unit Score: 1167
+  Average Score: 1167
+  Stat Strength: 1082
+  Total Strength: 1167
+  Planet Strength: 0
+  Space Strength: 1167
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 8
+  Movement Type: jump
+  Move Points: 3
+  Spot: 10
   Camouflage: 2
-  Agility: 2
-  Armor: 24
-  Psy Defense: 24
-  Rank: 779
+  Agility: 1
+  Armor: 22
+  Psy Defense: 22
+  Rank: 192
 Attacks:
-  Indirect: 5/24
-  Direct: 6/20
-  Close: 3/11
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 58
-Build Cost: 581
+  Direct Space: 5/10
+  Closed Space: 5/7
+Cargo Space: 4
+Bulk Hauler - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 320
+Build Cost: 3199
 Build Resource Requirements:
   Food: 3
-  Energy: 47
-  Metal: 90
-  Trace: 8
+  Energy: 3
+  Metal: 22
+  Trace: 6
   Exotica: 3
-  Chemicals: 46
-  Biochems: 4
-  Electronics: 5
-Build Naval Dreadnought in Well
+  Chemicals: 14
+  Electronics: 9
+  Ceramsteel: 32
+  Monopols: 46
+S  ingularities: 2
+Build Armored Bulk Hauler in Starport
 Time to Build / Upgrade: 4
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
+[5975] Technologies Required to Build Unit (77):
+  [1690] Ceramsteel (84)
+  [4285] Jump Drives (70)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Naval Super Dreadnought
-Nick Name: NN-BSD
+Name: Gate Bulk Hauler
+Nick Name: GG-BH
 Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1546
-  Average Score: 1160
-  Stat Strength: 1358
-  Total Strength: 1546
-  Planet Strength: 1546
-  Space Strength: 0
-  Garrison Strength: 631
+  Tech Score: 7423
+  Unit Score: 7256
+  Average Score: 7339
+  Stat Strength: 6061
+  Total Strength: 7256
+  Planet Strength: 6621
+  Space Strength: 6696
+  Garrison Strength: 1380
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 8
-  Camouflage: 2
-  Agility: 2
-  Armor: 25
-  Psy Defense: 25
-  Rank: 780
+  Movement Type: gate
+  Move Points: 23
+  Spot: 16
+  Camouflage: 12
+  Agility: 30
+  Armor: 46
+  Psy Defense: 46
+  Rank: 275
 Attacks:
-  Indirect: 3/26
-  Direct: 5/22
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 59
-Build Cost: 591
+  Direct Space: 14/25
+  Closed Space: 15/19
+  Direct: 14/23
+  Close: 14/17
+Cargo Space: 4
+Bulk Hauler - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 1117
+Build Cost: 11169
 Build Resource Requirements:
-  Food: 3
-  Energy: 49
-  Metal: 97
-  Trace: 6
-  Exotica: 3
-  Chemicals: 48
-  Biochems: 3
-  Electronics: 4
-Build Naval Super Dreadnought in Well
+  Food: 1
+  Energy: 8
+  Metal: 9
+  Trace: 4
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 21
+  Electronics: 12
+  Ceramsteel: 15
+  Wetware: 7
+  Monopols: 32
+S  ingularities: 5
+Build Gate Bulk Hauler in Starport
 Time to Build / Upgrade: 4
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Guided Missile Battle-Cruiser
-Nick Name: NN-BCGM
-Scores & Strengths:
-  Tech Score: 1339
-  Unit Score: 2678
-  Average Score: 2008
-  Stat Strength: 2000
-  Total Strength: 2678
-  Planet Strength: 2678
-  Space Strength: 0
-  Garrison Strength: 715
-Statistics:
-  Movement Type: naval
-  Move Points: 14
-  Spot: 9
-  Camouflage: 5
-  Agility: 4
-  Armor: 29
-  Psy Defense: 29
-  Rank: 126
-Attacks:
-  Air: 12/21
-  Indirect: 8/24
-  Direct: 13/18
-Upkeep / Maintenance: 69
-Build Cost: 694
-Build Resource Requirements:
-  Food: 3
-  Energy: 41
-  Metal: 44
-  Trace: 13
-  Exotica: 4
-  Chemicals: 60
-  Biochems: 8
-  Electronics: 13
-  Ceramsteel: 54
-Build Guided Missile Battle-Cruiser in Well
-Time to Build / Upgrade: 6
-[5855] Technology Required to Build Unit (84):
-  [5855] Guided Missile Navalcraft (84)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---6--
-Name: PTS Missile Battle-Cruiser
-Nick Name: NN-BCPTS
-Scores & Strengths:
-  Tech Score: 1474
-  Unit Score: 3685
-  Average Score: 2579
-  Stat Strength: 2711
-  Total Strength: 3685
-  Planet Strength: 3553
-  Space Strength: 2843
-  Garrison Strength: 917
-Statistics:
-  Movement Type: naval
-  Move Points: 15
-  Spot: 10
-  Camouflage: 7
-  Agility: 5
-  Armor: 34
-  Psy Defense: 34
-  Rank: 136
-Attacks:
-  Ranged Space: 6/22
-  Air: 14/22
-  Indirect: 9/26
-  Direct: 15/20
-Upkeep / Maintenance: 107
-Build Cost: 1069
-Build Resource Requirements:
-  Food: 4
-  Energy: 56
-  Metal: 56
-  Trace: 16
-  Exotica: 4
-  Chemicals: 83
-  Biochems: 10
-  Electronics: 18
-  Ceramsteel: 70
-Build PTS Missile Battle-Cruiser in Well
-Time to Build / Upgrade: 7
-[6655] Technology Required to Build Unit (83):
-  [6655] PTS Missile Navalcraft (83)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---7--
-Name: Nuclear Battle-Cruiser
-Nick Name: NN-BCN
-Scores & Strengths:
-  Tech Score: 1579
-  Unit Score: 4737
-  Average Score: 3158
-  Stat Strength: 3365
-  Total Strength: 4737
-  Planet Strength: 4737
-  Space Strength: 0
-  Garrison Strength: 1184
-Statistics:
-  Movement Type: naval
-  Move Points: 16
-  Spot: 11
-  Camouflage: 8
-  Agility: 6
-  Armor: 38
-  Psy Defense: 38
-  Rank: 149
-Attacks:
-  Air: 16/28
-  Indirect: 14/38
-  Direct: 14/28
-Upkeep / Maintenance: 154
-Build Cost: 1542
-Build Resource Requirements:
-  Food: 4
-  Energy: 75
-  Metal: 65
-  Trace: 19
-  Exotica: 4
-  Chemicals: 111
-  Biochems: 10
-  Electronics: 19
-  Ceramsteel: 84
-Build Nuclear Battle-Cruiser in Well
-Time to Build / Upgrade: 9
-[7295] Technology Required to Build Unit (81):
-  [7295] Nuclear-Powered Navalcraft (81)
+[57460] Technology Required to Build Unit (49):
+  [57460] Gate Transports (49)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

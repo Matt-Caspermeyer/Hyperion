@@ -1,233 +1,191 @@
-All units of the unit class Torpedo Boat Destroyer are listed herein (5 in total):
+All units of the unit class Space Freighter are listed herein (4 in total):
 
 --1--
-Name: Torpedo Boat Destroyer
-Nick Name: NN-DTB
+Name: Space Freighter
+Nick Name: SS-TV
 Scores & Strengths:
-  Tech Score: 174
-  Unit Score: 344
-  Average Score: 259
-  Stat Strength: 258
-  Total Strength: 344
-  Planet Strength: 344
-  Space Strength: 0
-  Garrison Strength: 130
+  Tech Score: 342
+  Unit Score: 342
+  Average Score: 342
+  Stat Strength: 321
+  Total Strength: 342
+  Planet Strength: 0
+  Space Strength: 342
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 2
-  Camouflage: 1
-  Agility: 2
+  Movement Type: space
+  Move Points: 2
+  Spot: 8
+  Camouflage: 2
+  Agility: 7
   Armor: 10
   Psy Defense: 10
-  Rank: 126
+  Rank: 73
 Attacks:
-  Water: 2/22
-  Indirect: 2/21
-Load aboard transport: YES
-Upkeep / Maintenance: 68
-Build Cost: 684
+  Closed Space: 3/7
+Cargo Space: 2
+Immune to Plague
+Upkeep / Maintenance: 16
+Build Cost: 157
 Build Resource Requirements:
-  Food: 6
-  Energy: 186
-  Metal: 53
-  Trace: 5
-  Exotica: 5
-  Chemicals: 156
-  Gems: 1
-Build Torpedo Boat Destroyer in Well
-Time to Build / Upgrade: 6
-[535] Technologies Required to Build Unit (99):
-  [100] Medical & Biological (100)
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
+  Food: 8
+  Energy: 8
+  Metal: 48
+  Trace: 13
+  Exotica: 8
+  Chemicals: 25
+  Electronics: 8
+Build Space Freighter in Starport
+Time to Build / Upgrade: 2
+[1170] Technologies Required to Build Unit (95):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Naval Destroyer
-Nick Name: NN-DD
+Name: Jump Freighter
+Nick Name: JJ-TV
 Scores & Strengths:
-  Tech Score: 679
-  Unit Score: 1357
-  Average Score: 1018
-  Stat Strength: 971
-  Total Strength: 1357
-  Planet Strength: 1357
-  Space Strength: 0
-  Garrison Strength: 452
+  Tech Score: 455
+  Unit Score: 465
+  Average Score: 460
+  Stat Strength: 441
+  Total Strength: 465
+  Planet Strength: 0
+  Space Strength: 465
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 9
-  Spot: 10
+  Movement Type: jump
+  Move Points: 2
+  Spot: 9
   Camouflage: 2
   Agility: 8
-  Armor: 19
-  Psy Defense: 19
-  Rank: 103
+  Armor: 12
+  Psy Defense: 12
+  Rank: 100
 Attacks:
-  Water: 7/18
-  Air: 12/7
-  Indirect: 6/16
-  Direct: 8/10
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 52
-Build Cost: 521
+  Closed Space: 3/8
+Cargo Space: 2
+Space Freighter - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 124
+Build Cost: 1238
 Build Resource Requirements:
-  Food: 6
-  Energy: 39
-  Metal: 64
-  Trace: 25
-  Exotica: 6
-  Chemicals: 38
-  Biochems: 15
-  Electronics: 17
-Build Naval Destroyer in Well
-Time to Build / Upgrade: 4
-[2480] Technologies Required to Build Unit (95):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2270] Naval Escort Ships (86)
+  Food: 9
+  Energy: 10
+  Metal: 56
+  Trace: 14
+  Exotica: 9
+  Chemicals: 34
+  Electronics: 10
+  Gems: 1
+S  ingularities: 2
+Build Jump Freighter in Starport
+Time to Build / Upgrade: 3
+[1610] Technologies Required to Build Unit (90):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [1235] Jump Rocketry (76)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Guided Missile Destroyer
-Nick Name: NN-DGM
+Name: Armored Freighter
+Nick Name: JJ-AATV
 Scores & Strengths:
-  Tech Score: 1339
-  Unit Score: 2678
-  Average Score: 2008
-  Stat Strength: 1739
-  Total Strength: 2678
-  Planet Strength: 2678
-  Space Strength: 0
-  Garrison Strength: 691
+  Tech Score: 1168
+  Unit Score: 1167
+  Average Score: 1167
+  Stat Strength: 1095
+  Total Strength: 1167
+  Planet Strength: 0
+  Space Strength: 1167
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 15
-  Spot: 11
-  Camouflage: 5
-  Agility: 4
-  Armor: 26
-  Psy Defense: 26
-  Rank: 124
+  Movement Type: jump
+  Move Points: 3
+  Spot: 10
+  Camouflage: 2
+  Agility: 10
+  Armor: 21
+  Psy Defense: 21
+  Rank: 170
 Attacks:
-  Water: 11/27
-  Air: 17/12
-  Indirect: 10/23
-  Direct: 13/16
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 89
-Build Cost: 886
+  Direct Space: 6/7
+  Closed Space: 5/6
+Cargo Space: 2
+Space Freighter - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 252
+Build Cost: 2515
 Build Resource Requirements:
   Food: 4
-  Energy: 50
-  Metal: 36
-  Trace: 21
+  Energy: 3
+  Metal: 20
+  Trace: 8
   Exotica: 4
-  Chemicals: 69
-  Biochems: 13
-  Electronics: 23
-  Ceramsteel: 43
-Build Guided Missile Destroyer in Well
-Time to Build / Upgrade: 6
-[5855] Technology Required to Build Unit (84):
-  [5855] Guided Missile Navalcraft (84)
+  Chemicals: 13
+  Electronics: 11
+  Ceramsteel: 29
+  Monopols: 42
+S  ingularities: 2
+Build Armored Freighter in Starport
+Time to Build / Upgrade: 4
+[5975] Technologies Required to Build Unit (77):
+  [1690] Ceramsteel (84)
+  [4285] Jump Drives (70)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: PTS Missile Destroyer
-Nick Name: NN-DPTS
+Name: Gate Freighter
+Nick Name: GG-TV
 Scores & Strengths:
-  Tech Score: 1474
-  Unit Score: 3685
-  Average Score: 2579
-  Stat Strength: 2300
-  Total Strength: 3685
-  Planet Strength: 3545
-  Space Strength: 2440
-  Garrison Strength: 886
+  Tech Score: 7423
+  Unit Score: 7256
+  Average Score: 7339
+  Stat Strength: 6227
+  Total Strength: 7256
+  Planet Strength: 6709
+  Space Strength: 6774
+  Garrison Strength: 1398
 Statistics:
-  Movement Type: naval
-  Move Points: 16
-  Spot: 12
-  Camouflage: 8
-  Agility: 6
-  Armor: 30
-  Psy Defense: 30
-  Rank: 132
+  Movement Type: gate
+  Move Points: 23
+  Spot: 16
+  Camouflage: 12
+  Agility: 40
+  Armor: 43
+  Psy Defense: 43
+  Rank: 251
 Attacks:
-  Ranged Space: 7/20
-  Water: 15/28
-  Air: 19/14
-  Indirect: 13/25
-  Direct: 13/18
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 131
-Build Cost: 1314
+  Direct Space: 17/19
+  Closed Space: 14/16
+  Direct: 16/17
+  Close: 14/15
+Cargo Space: 2
+Space Freighter - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 904
+Build Cost: 9042
 Build Resource Requirements:
-  Food: 4
-  Energy: 63
-  Metal: 44
-  Trace: 28
-  Exotica: 5
-  Chemicals: 89
-  Biochems: 16
-  Electronics: 30
-  Ceramsteel: 54
-Build PTS Missile Destroyer in Well
-Time to Build / Upgrade: 7
-[6655] Technology Required to Build Unit (83):
-  [6655] PTS Missile Navalcraft (83)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Nuclear Destroyer
-Nick Name: NN-DDN
-Scores & Strengths:
-  Tech Score: 1579
-  Unit Score: 4737
-  Average Score: 3158
-  Stat Strength: 2925
-  Total Strength: 4737
-  Planet Strength: 4737
-  Space Strength: 0
-  Garrison Strength: 1116
-Statistics:
-  Movement Type: naval
-  Move Points: 18
-  Spot: 12
-  Camouflage: 9
-  Agility: 8
-  Armor: 34
-  Psy Defense: 34
-  Rank: 148
-Attacks:
-  Water: 17/34
-  Air: 21/16
-  Indirect: 16/30
-  Direct: 19/22
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 186
-Build Cost: 1860
-Build Resource Requirements:
-  Food: 5
-  Energy: 72
-  Metal: 52
-  Trace: 35
-  Exotica: 5
-  Chemicals: 104
-  Biochems: 19
-  Electronics: 38
-  Ceramsteel: 67
-Build Nuclear Destroyer in Well
-Time to Build / Upgrade: 9
-[7295] Technology Required to Build Unit (81):
-  [7295] Nuclear-Powered Navalcraft (81)
+  Food: 2
+  Energy: 7
+  Metal: 8
+  Trace: 5
+  Exotica: 2
+  Chemicals: 13
+  Biochems: 20
+  Electronics: 13
+  Ceramsteel: 13
+  Wetware: 9
+  Monopols: 28
+S  ingularities: 5
+Build Gate Freighter in Starport
+Time to Build / Upgrade: 4
+[57460] Technology Required to Build Unit (49):
+  [57460] Gate Transports (49)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

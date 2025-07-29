@@ -1,511 +1,233 @@
-All units of the unit class Space Sloop are listed herein (11 in total):
+All units of the unit class Torpedo Boat Destroyer are listed herein (5 in total):
 
 --1--
-Name: Space Sloop
-Nick Name: SS-Sl
+Name: Torpedo Boat Destroyer
+Nick Name: NN-DTB
 Scores & Strengths:
-  Tech Score: 369
-  Unit Score: 368
-  Average Score: 368
-  Stat Strength: 291
-  Total Strength: 368
-  Planet Strength: 0
-  Space Strength: 368
-  Garrison Strength: 0
+  Tech Score: 174
+  Unit Score: 344
+  Average Score: 259
+  Stat Strength: 258
+  Total Strength: 344
+  Planet Strength: 344
+  Space Strength: 0
+  Garrison Strength: 130
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
+  Movement Type: naval
+  Move Points: 7
+  Spot: 2
   Camouflage: 1
-  Agility: 5
+  Agility: 2
   Armor: 10
   Psy Defense: 10
-  Rank: 117
+  Rank: 126
 Attacks:
-  Direct Space: 6/7
-  Closed Space: 5/7
+  Water: 2/22
+  Indirect: 2/21
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 16
-Build Cost: 160
+Upkeep / Maintenance: 68
+Build Cost: 684
 Build Resource Requirements:
-  Food: 7
-  Energy: 11
-  Metal: 40
-  Trace: 16
-  Exotica: 6
-  Chemicals: 26
-  Electronics: 10
-Build Space Sloop in Starport
-Time to Build / Upgrade: 2
-[1270] Technologies Required to Build Unit (96):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
+  Food: 6
+  Energy: 186
+  Metal: 53
+  Trace: 5
+  Exotica: 5
+  Chemicals: 156
+  Gems: 1
+Build Torpedo Boat Destroyer in Well
+Time to Build / Upgrade: 6
+[535] Technologies Required to Build Unit (99):
+  [100] Medical & Biological (100)
+  [110] Structural Engineering (99)
   [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Jump Sloop
-Nick Name: JJ-Sl
+Name: Naval Destroyer
+Nick Name: NN-DD
 Scores & Strengths:
-  Tech Score: 455
-  Unit Score: 437
-  Average Score: 446
-  Stat Strength: 333
-  Total Strength: 437
-  Planet Strength: 0
-  Space Strength: 437
-  Garrison Strength: 0
+  Tech Score: 679
+  Unit Score: 1357
+  Average Score: 1018
+  Stat Strength: 971
+  Total Strength: 1357
+  Planet Strength: 1357
+  Space Strength: 0
+  Garrison Strength: 452
 Statistics:
-  Movement Type: jump
-  Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 5
-  Armor: 11
-  Psy Defense: 11
-  Rank: 144
+  Movement Type: naval
+  Move Points: 9
+  Spot: 10
+  Camouflage: 2
+  Agility: 8
+  Armor: 19
+  Psy Defense: 19
+  Rank: 103
 Attacks:
-  Direct Space: 7/8
-  Closed Space: 6/8
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 89
-Build Cost: 888
+  Water: 7/18
+  Air: 12/7
+  Indirect: 6/16
+  Direct: 8/10
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 52
+Build Cost: 521
 Build Resource Requirements:
   Food: 6
-  Energy: 14
-  Metal: 42
-  Trace: 17
+  Energy: 39
+  Metal: 64
+  Trace: 25
   Exotica: 6
-  Chemicals: 33
-  Electronics: 13
-S  ingularities: 1
-Build Jump Sloop in Starport
-Time to Build / Upgrade: 2
-[1710] Technologies Required to Build Unit (93):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
+  Chemicals: 38
+  Biochems: 15
+  Electronics: 17
+Build Naval Destroyer in Well
+Time to Build / Upgrade: 4
+[2480] Technologies Required to Build Unit (95):
+  [110] Structural Engineering (99)
   [100] Psychosocial Engineering (100)
-  [1235] Jump Rocketry (76)
+  [2270] Naval Escort Ships (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Space Corsair
-Nick Name: SS-Corsair
+Name: Guided Missile Destroyer
+Nick Name: NN-DGM
 Scores & Strengths:
-  Tech Score: 626
-  Unit Score: 625
-  Average Score: 625
-  Stat Strength: 447
-  Total Strength: 625
-  Planet Strength: 0
-  Space Strength: 625
-  Garrison Strength: 0
+  Tech Score: 1339
+  Unit Score: 2678
+  Average Score: 2008
+  Stat Strength: 1739
+  Total Strength: 2678
+  Planet Strength: 2678
+  Space Strength: 0
+  Garrison Strength: 691
 Statistics:
-  Movement Type: space
-  Move Points: 2
-  Spot: 8
-  Camouflage: 4
-  Agility: 11
-  Armor: 11
-  Psy Defense: 11
-  Rank: 126
+  Movement Type: naval
+  Move Points: 15
+  Spot: 11
+  Camouflage: 5
+  Agility: 4
+  Armor: 26
+  Psy Defense: 26
+  Rank: 124
 Attacks:
-  Direct Space: 10/10
-  Closed Space: 13/6
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 19
-Build Cost: 194
+  Water: 11/27
+  Air: 17/12
+  Indirect: 10/23
+  Direct: 13/16
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 89
+Build Cost: 886
 Build Resource Requirements:
   Food: 4
-  Energy: 10
-  Metal: 26
-  Trace: 23
+  Energy: 50
+  Metal: 36
+  Trace: 21
   Exotica: 4
-  Chemicals: 17
+  Chemicals: 69
   Biochems: 13
-  Electronics: 19
-Build Space Corsair in Starport
-Time to Build / Upgrade: 2
-[2500] Technologies Required to Build Unit (91):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [1560] Naval Patrol Ships (86)
+  Electronics: 23
+  Ceramsteel: 43
+Build Guided Missile Destroyer in Well
+Time to Build / Upgrade: 6
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Jump Corsair
-Nick Name: JJ-Corsair
+Name: PTS Missile Destroyer
+Nick Name: NN-DPTS
 Scores & Strengths:
-  Tech Score: 719
-  Unit Score: 698
-  Average Score: 708
-  Stat Strength: 493
-  Total Strength: 698
-  Planet Strength: 0
-  Space Strength: 698
-  Garrison Strength: 0
+  Tech Score: 1474
+  Unit Score: 3685
+  Average Score: 2579
+  Stat Strength: 2300
+  Total Strength: 3685
+  Planet Strength: 3545
+  Space Strength: 2440
+  Garrison Strength: 886
 Statistics:
-  Movement Type: jump
-  Move Points: 2
-  Spot: 8
-  Camouflage: 4
-  Agility: 11
-  Armor: 12
-  Psy Defense: 12
-  Rank: 154
+  Movement Type: naval
+  Move Points: 16
+  Spot: 12
+  Camouflage: 8
+  Agility: 6
+  Armor: 30
+  Psy Defense: 30
+  Rank: 132
 Attacks:
-  Direct Space: 11/11
-  Closed Space: 14/6
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 110
-Build Cost: 1098
+  Ranged Space: 7/20
+  Water: 15/28
+  Air: 19/14
+  Indirect: 13/25
+  Direct: 13/18
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 131
+Build Cost: 1314
 Build Resource Requirements:
   Food: 4
-  Energy: 11
-  Metal: 28
-  Trace: 25
-  Exotica: 4
-  Chemicals: 19
-  Biochems: 14
-  Electronics: 21
-S  ingularities: 2
-Build Jump Corsair in Starport
-Time to Build / Upgrade: 2
-[2940] Technologies Required to Build Unit (86):
-  [145] Composite Armor (97)
-  [1560] Naval Patrol Ships (86)
-  [1235] Jump Rocketry (76)
+  Energy: 63
+  Metal: 44
+  Trace: 28
+  Exotica: 5
+  Chemicals: 89
+  Biochems: 16
+  Electronics: 30
+  Ceramsteel: 54
+Build PTS Missile Destroyer in Well
+Time to Build / Upgrade: 7
+[6655] Technology Required to Build Unit (83):
+  [6655] PTS Missile Navalcraft (83)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Space Corvette
-Nick Name: SS-Corvette
+Name: Nuclear Destroyer
+Nick Name: NN-DDN
 Scores & Strengths:
-  Tech Score: 2456
-  Unit Score: 2041
-  Average Score: 2248
-  Stat Strength: 1817
-  Total Strength: 2041
-  Planet Strength: 0
-  Space Strength: 2041
-  Garrison Strength: 0
+  Tech Score: 1579
+  Unit Score: 4737
+  Average Score: 3158
+  Stat Strength: 2925
+  Total Strength: 4737
+  Planet Strength: 4737
+  Space Strength: 0
+  Garrison Strength: 1116
 Statistics:
-  Movement Type: space
-  Move Points: 8
-  Spot: 12
-  Camouflage: 4
-  Agility: 21
-  Armor: 24
-  Psy Defense: 24
-  Rank: 149
-Attacks:
-  Direct Space: 8/19
-  Closed Space: 6/12
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 26
-Build Cost: 256
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 16
-  Trace: 7
-  Exotica: 3
-  Chemicals: 20
-  Biochems: 16
-  Electronics: 10
-  Ceramsteel: 18
-Build Space Corvette in Starport
-Time to Build / Upgrade: 2
-[13150] Technology Required to Build Unit (86):
-  [13150] Space Patrol Ships (86)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---6--
-Name: Space Patrol Star
-Nick Name: SS-PS
-Scores & Strengths:
-  Tech Score: 2456
-  Unit Score: 2041
-  Average Score: 2248
-  Stat Strength: 1811
-  Total Strength: 2041
-  Planet Strength: 0
-  Space Strength: 2041
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 8
-  Spot: 12
-  Camouflage: 4
-  Agility: 23
-  Armor: 23
-  Psy Defense: 23
-  Rank: 148
-Attacks:
-  Direct Space: 10/16
-  Closed Space: 5/14
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 25
-Build Cost: 253
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 15
-  Trace: 8
-  Exotica: 3
-  Chemicals: 19
-  Biochems: 16
-  Electronics: 11
-  Ceramsteel: 17
-Build Space Patrol Star in Starport
-Time to Build / Upgrade: 2
-[13150] Technology Required to Build Unit (86):
-  [13150] Space Patrol Ships (86)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---7--
-Name: Space Cutter
-Nick Name: SS-Cutter
-Scores & Strengths:
-  Tech Score: 2580
-  Unit Score: 2165
-  Average Score: 2373
-  Stat Strength: 1984
-  Total Strength: 2165
-  Planet Strength: 0
-  Space Strength: 2165
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
+  Movement Type: naval
   Move Points: 18
   Spot: 12
-  Camouflage: 8
-  Agility: 22
-  Armor: 22
-  Psy Defense: 22
-  Rank: 144
+  Camouflage: 9
+  Agility: 8
+  Armor: 34
+  Psy Defense: 34
+  Rank: 148
 Attacks:
-  Direct Space: 7/13
-  Closed Space: 9/10
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 26
-Build Cost: 256
+  Water: 17/34
+  Air: 21/16
+  Indirect: 16/30
+  Direct: 19/22
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 186
+Build Cost: 1860
 Build Resource Requirements:
-  Food: 4
-  Energy: 11
-  Metal: 14
-  Trace: 8
+  Food: 5
+  Energy: 72
+  Metal: 52
+  Trace: 35
   Exotica: 5
-  Chemicals: 19
-  Biochems: 15
-  Electronics: 12
-  Ceramsteel: 15
-Build Space Cutter in Starport
-Time to Build / Upgrade: 2
-[14045] Technology Required to Build Unit (84):
-  [14045] Space Escorts (84)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---8--
-Name: Fast Torpedo Star
-Nick Name: SS-FTS
-Scores & Strengths:
-  Tech Score: 3536
-  Unit Score: 3105
-  Average Score: 3320
-  Stat Strength: 2184
-  Total Strength: 3105
-  Planet Strength: 0
-  Space Strength: 3105
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 20
-  Spot: 14
-  Camouflage: 6
-  Agility: 20
-  Armor: 24
-  Psy Defense: 24
-  Rank: 193
-Attacks:
-  Ranged Space: 15/20
-  Direct Space: 17/18
-  Closed Space: 15/21
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 485
-Build Cost: 4854
-Build Resource Requirements:
-  Food: 2
-  Energy: 11
-  Metal: 7
-  Trace: 10
-  Exotica: 3
-  Chemicals: 17
-  Biochems: 20
-  Electronics: 17
-  Ceramsteel: 8
-  Monopols: 26
-S  ingularities: 4
-Build Fast Torpedo Star in Starport
-Time to Build / Upgrade: 3
-[21375] Technology Required to Build Unit (67):
-  [21375] Lander Transports (67)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---9--
-Name: Jump Cutter
-Nick Name: JJ-Cutter
-Scores & Strengths:
-  Tech Score: 4325
-  Unit Score: 3327
-  Average Score: 3826
-  Stat Strength: 3018
-  Total Strength: 3327
-  Planet Strength: 0
-  Space Strength: 3327
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 23
-  Spot: 14
-  Camouflage: 10
-  Agility: 25
-  Armor: 28
-  Psy Defense: 28
-  Rank: 189
-Attacks:
-  Direct Space: 9/17
-  Closed Space: 12/13
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 510
-Build Cost: 5099
-Build Resource Requirements:
-  Food: 3
-  Energy: 7
-  Metal: 7
-  Trace: 6
-  Exotica: 3
-  Chemicals: 13
-  Biochems: 13
-  Electronics: 14
-  Ceramsteel: 10
-  Monopols: 22
-S  ingularities: 5
-Build Jump Cutter in Starport
-Time to Build / Upgrade: 3
-[27965] Technology Required to Build Unit (75):
-  [27965] Jump Escorts (75)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---10--
-Name: Jump Patrol Star
-Nick Name: JJ-PS
-Scores & Strengths:
-  Tech Score: 4325
-  Unit Score: 3346
-  Average Score: 3836
-  Stat Strength: 2940
-  Total Strength: 3346
-  Planet Strength: 0
-  Space Strength: 3346
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 11
-  Spot: 14
-  Camouflage: 5
-  Agility: 26
-  Armor: 31
-  Psy Defense: 31
-  Rank: 197
-Attacks:
-  Direct Space: 13/21
-  Closed Space: 7/19
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 387
-Build Cost: 3866
-Build Resource Requirements:
-  Food: 2
-  Energy: 7
-  Metal: 9
-  Trace: 6
-  Exotica: 2
-  Chemicals: 14
-  Biochems: 14
-  Electronics: 13
-  Ceramsteel: 12
-  Monopols: 24
-S  ingularities: 3
-Build Jump Patrol Star in Starport
-Time to Build / Upgrade: 3
-[27965] Technology Required to Build Unit (75):
-  [27965] Jump Escorts (75)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---11--
-Name: Jump Corvette
-Nick Name: JJ-Corvette
-Scores & Strengths:
-  Tech Score: 4325
-  Unit Score: 3369
-  Average Score: 3847
-  Stat Strength: 2966
-  Total Strength: 3369
-  Planet Strength: 0
-  Space Strength: 3369
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 11
-  Spot: 14
-  Camouflage: 5
-  Agility: 24
-  Armor: 32
-  Psy Defense: 32
-  Rank: 199
-Attacks:
-  Direct Space: 11/25
-  Closed Space: 8/16
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 391
-Build Cost: 3909
-Build Resource Requirements:
-  Food: 2
-  Energy: 7
-  Metal: 9
-  Trace: 5
-  Exotica: 2
-  Chemicals: 14
-  Biochems: 14
-  Electronics: 13
-  Ceramsteel: 13
-  Monopols: 25
-S  ingularities: 3
-Build Jump Corvette in Starport
-Time to Build / Upgrade: 3
-[27965] Technology Required to Build Unit (75):
-  [27965] Jump Escorts (75)
+  Chemicals: 104
+  Biochems: 19
+  Electronics: 38
+  Ceramsteel: 67
+Build Nuclear Destroyer in Well
+Time to Build / Upgrade: 9
+[7295] Technology Required to Build Unit (81):
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

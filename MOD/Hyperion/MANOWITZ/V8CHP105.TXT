@@ -1,172 +1,313 @@
-All units of the unit class Spacemen are listed herein (4 in total):
+All units of the unit class Naval Monitor are listed herein (7 in total):
 
 --1--
-Name: Spacemen
-Nick Name: Spacemen
+Name: Naval Monitor
+Nick Name: NN-BM
 Scores & Strengths:
-  Tech Score: 373
-  Unit Score: 370
-  Average Score: 371
-  Stat Strength: 298
-  Total Strength: 370
-  Planet Strength: 0
-  Space Strength: 370
-  Garrison Strength: 0
+  Tech Score: 177
+  Unit Score: 351
+  Average Score: 264
+  Stat Strength: 330
+  Total Strength: 351
+  Planet Strength: 351
+  Space Strength: 0
+  Garrison Strength: 143
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
-  Camouflage: 12
-  Agility: 9
-  Armor: 2
-  Psy Defense: 2
-  Rank: 720
+  Movement Type: naval
+  Move Points: 6
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 12
+  Psy Defense: 12
+  Rank: 125
 Attacks:
-  Closed Space: 9/8
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Immune to Plague
-Upkeep / Maintenance: 34
-Build Cost: 337
+  Indirect: 1/21
+Upkeep / Maintenance: 40
+Build Cost: 404
 Build Resource Requirements:
-  Food: 9
-  Energy: 11
-  Metal: 2
-  Trace: 47
-  Exotica: 9
-  Chemicals: 14
-  Electronics: 30
-Build Spacemen in Starport
-Time to Build / Upgrade: 2
-[1175] Technologies Required to Build Unit (78):
-  [235] Bioreactors (48)
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
+  Food: 5
+  Energy: 89
+  Metal: 69
+  Trace: 4
+  Exotica: 4
+  Chemicals: 80
+Build Naval Monitor in Well
+Time to Build / Upgrade: 5
+[605] Technologies Required to Build Unit (99):
+  [230] Hospitals (97)
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Marauder Legion
-Nick Name: Star Lgn
+Name: Naval Battle-Cruiser
+Nick Name: NN-BC
 Scores & Strengths:
-  Tech Score: 4207
-  Unit Score: 4202
-  Average Score: 4205
-  Stat Strength: 3051
-  Total Strength: 4202
-  Planet Strength: 4202
+  Tech Score: 224
+  Unit Score: 556
+  Average Score: 390
+  Stat Strength: 408
+  Total Strength: 556
+  Planet Strength: 556
   Space Strength: 0
-  Garrison Strength: 840
+  Garrison Strength: 196
 Statistics:
-  Movement Type: mech
-  Move Points: 25
-  Spot: 20
-  Camouflage: 10
-  Agility: 26
-  Armor: 25
-  Psy Defense: 25
-  Rank: 127
+  Movement Type: naval
+  Move Points: 8
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 13
+  Psy Defense: 13
+  Rank: 95
 Attacks:
-  Air: 21/25
-  Direct: 17/18
-  Close: 20/16
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 251
-Build Cost: 2512
+  Air: 6/9
+  Indirect: 3/22
+  Direct: 2/14
+Upkeep / Maintenance: 53
+Build Cost: 525
 Build Resource Requirements:
-  Food: 3
-  Energy: 13
-  Metal: 4
-  Trace: 6
-  Exotica: 3
-  Chemicals: 16
-  Biochems: 25
-  Electronics: 16
-  Ceramsteel: 7
-  Wetware: 13
-  Monopols: 28
-Build Marauder Legion in Fort
-Time to Build / Upgrade: 4
-[26915] Technology Required to Build Unit (47):
-  [26915] Rocket Legion (47)
+  Food: 6
+  Energy: 104
+  Metal: 70
+  Trace: 10
+  Exotica: 5
+  Chemicals: 104
+Build Naval Battle-Cruiser in Well
+Time to Build / Upgrade: 6
+[900] Technologies Required to Build Unit (96):
+  [230] Hospitals (97)
+  [110] Structural Engineering (99)
+  [235] Giro Directory Training (85)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Space Marines
-Nick Name: Space Lgn
+Name: Naval Dreadnought
+Nick Name: NN-BD
 Scores & Strengths:
-  Tech Score: 4611
-  Unit Score: 4606
-  Average Score: 4609
-  Stat Strength: 3706
-  Total Strength: 4606
-  Planet Strength: 0
-  Space Strength: 4606
-  Garrison Strength: 0
+  Tech Score: 775
+  Unit Score: 1546
+  Average Score: 1160
+  Stat Strength: 1273
+  Total Strength: 1546
+  Planet Strength: 1546
+  Space Strength: 0
+  Garrison Strength: 584
 Statistics:
-  Movement Type: space
-  Move Points: 30
-  Spot: 17
-  Camouflage: 18
-  Agility: 29
-  Armor: 26
-  Psy Defense: 26
-  Rank: 762
+  Movement Type: naval
+  Move Points: 7
+  Spot: 8
+  Camouflage: 2
+  Agility: 2
+  Armor: 24
+  Psy Defense: 24
+  Rank: 779
 Attacks:
-  Closed Space: 30/30
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Immune to Plague
-Upkeep / Maintenance: 521
-Build Cost: 2702
+  Indirect: 5/24
+  Direct: 6/20
+  Close: 3/11
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 58
+Build Cost: 581
 Build Resource Requirements:
-Upgrade Marauder Legion to Space Marines at Starport
-Time to Build / Upgrade: 1
-[30420] Technology Required to Build Unit (35):
-  [30420] Space Marines (35)
+  Food: 3
+  Energy: 47
+  Metal: 90
+  Trace: 8
+  Exotica: 3
+  Chemicals: 46
+  Biochems: 4
+  Electronics: 5
+Build Naval Dreadnought in Well
+Time to Build / Upgrade: 4
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Wraith Space Marine
-Nick Name: Specter Lgn
+Name: Naval Super Dreadnought
+Nick Name: NN-BSD
 Scores & Strengths:
-  Tech Score: 5176
-  Unit Score: 5177
-  Average Score: 5177
-  Stat Strength: 4277
-  Total Strength: 5177
-  Planet Strength: 0
-  Space Strength: 5177
-  Garrison Strength: 0
+  Tech Score: 775
+  Unit Score: 1546
+  Average Score: 1160
+  Stat Strength: 1358
+  Total Strength: 1546
+  Planet Strength: 1546
+  Space Strength: 0
+  Garrison Strength: 631
 Statistics:
-  Movement Type: space
-  Move Points: 30
-  Spot: 20
-  Camouflage: 28
-  Agility: 29
-  Armor: 26
-  Psy Defense: 26
-  Rank: 768
+  Movement Type: naval
+  Move Points: 6
+  Spot: 8
+  Camouflage: 2
+  Agility: 2
+  Armor: 25
+  Psy Defense: 25
+  Rank: 780
 Attacks:
-  Closed Space: 30/30
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Immune to Plague
-Upkeep / Maintenance: 397
-Build Cost: 1264
+  Indirect: 3/26
+  Direct: 5/22
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 59
+Build Cost: 591
 Build Resource Requirements:
-  Trace: 1
-  Electronics: 1
-Upgrade Space Marines to Wraith Space Marine at Starport
-Time to Build / Upgrade: 1
-[54550] Technologies Required to Build Unit (34):
-  [30420] Space Marines (35)
-  [24130] Neumonically-Enhanced Soldiers (32)
+  Food: 3
+  Energy: 49
+  Metal: 97
+  Trace: 6
+  Exotica: 3
+  Chemicals: 48
+  Biochems: 3
+  Electronics: 4
+Build Naval Super Dreadnought in Well
+Time to Build / Upgrade: 4
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2725] Naval Capital Ships (88)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Guided Missile Battle-Cruiser
+Nick Name: NN-BCGM
+Scores & Strengths:
+  Tech Score: 1339
+  Unit Score: 2678
+  Average Score: 2008
+  Stat Strength: 2000
+  Total Strength: 2678
+  Planet Strength: 2678
+  Space Strength: 0
+  Garrison Strength: 715
+Statistics:
+  Movement Type: naval
+  Move Points: 14
+  Spot: 9
+  Camouflage: 5
+  Agility: 4
+  Armor: 29
+  Psy Defense: 29
+  Rank: 126
+Attacks:
+  Air: 12/21
+  Indirect: 8/24
+  Direct: 13/18
+Upkeep / Maintenance: 69
+Build Cost: 694
+Build Resource Requirements:
+  Food: 3
+  Energy: 41
+  Metal: 44
+  Trace: 13
+  Exotica: 4
+  Chemicals: 60
+  Biochems: 8
+  Electronics: 13
+  Ceramsteel: 54
+Build Guided Missile Battle-Cruiser in Well
+Time to Build / Upgrade: 6
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: PTS Missile Battle-Cruiser
+Nick Name: NN-BCPTS
+Scores & Strengths:
+  Tech Score: 1474
+  Unit Score: 3685
+  Average Score: 2579
+  Stat Strength: 2711
+  Total Strength: 3685
+  Planet Strength: 3553
+  Space Strength: 2843
+  Garrison Strength: 917
+Statistics:
+  Movement Type: naval
+  Move Points: 15
+  Spot: 10
+  Camouflage: 7
+  Agility: 5
+  Armor: 34
+  Psy Defense: 34
+  Rank: 136
+Attacks:
+  Ranged Space: 6/22
+  Air: 14/22
+  Indirect: 9/26
+  Direct: 15/20
+Upkeep / Maintenance: 107
+Build Cost: 1069
+Build Resource Requirements:
+  Food: 4
+  Energy: 56
+  Metal: 56
+  Trace: 16
+  Exotica: 4
+  Chemicals: 83
+  Biochems: 10
+  Electronics: 18
+  Ceramsteel: 70
+Build PTS Missile Battle-Cruiser in Well
+Time to Build / Upgrade: 7
+[6655] Technology Required to Build Unit (83):
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Nuclear Battle-Cruiser
+Nick Name: NN-BCN
+Scores & Strengths:
+  Tech Score: 1579
+  Unit Score: 4737
+  Average Score: 3158
+  Stat Strength: 3365
+  Total Strength: 4737
+  Planet Strength: 4737
+  Space Strength: 0
+  Garrison Strength: 1184
+Statistics:
+  Movement Type: naval
+  Move Points: 16
+  Spot: 11
+  Camouflage: 8
+  Agility: 6
+  Armor: 38
+  Psy Defense: 38
+  Rank: 149
+Attacks:
+  Air: 16/28
+  Indirect: 14/38
+  Direct: 14/28
+Upkeep / Maintenance: 154
+Build Cost: 1542
+Build Resource Requirements:
+  Food: 4
+  Energy: 75
+  Metal: 65
+  Trace: 19
+  Exotica: 4
+  Chemicals: 111
+  Biochems: 10
+  Electronics: 19
+  Ceramsteel: 84
+Build Nuclear Battle-Cruiser in Well
+Time to Build / Upgrade: 9
+[7295] Technology Required to Build Unit (81):
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

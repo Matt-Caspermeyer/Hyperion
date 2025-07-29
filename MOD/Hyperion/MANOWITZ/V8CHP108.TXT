@@ -1,309 +1,172 @@
-All units of the unit class Float Plane are listed herein (7 in total):
+All units of the unit class Spacemen are listed herein (4 in total):
 
 --1--
-Name: Float Plane
-Nick Name: A-NFP
+Name: Spacemen
+Nick Name: Spacemen
 Scores & Strengths:
-  Tech Score: 199
-  Unit Score: 394
-  Average Score: 296
-  Stat Strength: 350
-  Total Strength: 394
-  Planet Strength: 394
-  Space Strength: 0
-  Garrison Strength: 139
+  Tech Score: 373
+  Unit Score: 370
+  Average Score: 371
+  Stat Strength: 298
+  Total Strength: 370
+  Planet Strength: 0
+  Space Strength: 370
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 8
-  Spot: 6
-  Camouflage: 2
-  Agility: 14
-  Armor: 5
-  Psy Defense: 5
-  Rank: 138
+  Movement Type: space
+  Move Points: 1
+  Spot: 8
+  Camouflage: 12
+  Agility: 9
+  Armor: 2
+  Psy Defense: 2
+  Rank: 720
 Attacks:
-  Water: 2/10
-  Air: 2/4
-  Indirect: 2/8
+  Closed Space: 9/8
 Load aboard transport: YES
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 17
-Build Cost: 169
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 34
+Build Cost: 337
 Build Resource Requirements:
-  Food: 25
-  Energy: 58
-  Metal: 34
-  Trace: 30
-  Exotica: 25
-  Chemicals: 68
-  Electronics: 21
-Build Float Plane in Factory
-Time to Build / Upgrade: 5
-[460] Technology Required to Build Unit (94):
-  [460] Seaplane (94)
+  Food: 9
+  Energy: 11
+  Metal: 2
+  Trace: 47
+  Exotica: 9
+  Chemicals: 14
+  Electronics: 30
+Build Spacemen in Starport
+Time to Build / Upgrade: 2
+[1175] Technologies Required to Build Unit (78):
+  [235] Bioreactors (48)
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Flying Boat
-Nick Name: A-NFB
+Name: Marauder Legion
+Nick Name: Star Lgn
 Scores & Strengths:
-  Tech Score: 199
-  Unit Score: 394
-  Average Score: 296
-  Stat Strength: 308
-  Total Strength: 394
-  Planet Strength: 394
+  Tech Score: 4207
+  Unit Score: 4202
+  Average Score: 4205
+  Stat Strength: 3051
+  Total Strength: 4202
+  Planet Strength: 4202
   Space Strength: 0
-  Garrison Strength: 176
+  Garrison Strength: 840
 Statistics:
-  Movement Type: air
-  Move Points: 5
-  Spot: 6
-  Camouflage: 2
-  Agility: 9
-  Armor: 9
-  Psy Defense: 9
-  Rank: 118
+  Movement Type: mech
+  Move Points: 25
+  Spot: 20
+  Camouflage: 10
+  Agility: 26
+  Armor: 25
+  Psy Defense: 25
+  Rank: 127
 Attacks:
-  Indirect: 3/12
-  Direct: 5/10
+  Air: 21/25
+  Direct: 17/18
+  Close: 20/16
 Load aboard transport: YES
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 17
-Build Cost: 172
+Immune to Plague
+Upkeep / Maintenance: 251
+Build Cost: 2512
 Build Resource Requirements:
-  Food: 15
-  Energy: 56
-  Metal: 111
-  Trace: 26
-  Exotica: 13
-  Chemicals: 65
-  Electronics: 17
-Build Flying Boat in Factory
-Time to Build / Upgrade: 5
-[460] Technology Required to Build Unit (94):
-  [460] Seaplane (94)
+  Food: 3
+  Energy: 13
+  Metal: 4
+  Trace: 6
+  Exotica: 3
+  Chemicals: 16
+  Biochems: 25
+  Electronics: 16
+  Ceramsteel: 7
+  Wetware: 13
+  Monopols: 28
+Build Marauder Legion in Fort
+Time to Build / Upgrade: 4
+[26915] Technology Required to Build Unit (47):
+  [26915] Rocket Legion (47)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Patrol Seaplane
-Nick Name: A-NPS
+Name: Space Marines
+Nick Name: Space Lgn
 Scores & Strengths:
-  Tech Score: 199
-  Unit Score: 394
-  Average Score: 296
-  Stat Strength: 332
-  Total Strength: 394
-  Planet Strength: 394
-  Space Strength: 0
-  Garrison Strength: 176
+  Tech Score: 4611
+  Unit Score: 4606
+  Average Score: 4609
+  Stat Strength: 3706
+  Total Strength: 4606
+  Planet Strength: 0
+  Space Strength: 4606
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 5
-  Spot: 6
-  Camouflage: 2
-  Agility: 13
-  Armor: 7
-  Psy Defense: 7
-  Rank: 113
+  Movement Type: space
+  Move Points: 30
+  Spot: 17
+  Camouflage: 18
+  Agility: 29
+  Armor: 26
+  Psy Defense: 26
+  Rank: 762
 Attacks:
-  Water: 2/8
-  Air: 2/3
-  Indirect: 2/8
-  Direct: 4/6
+  Closed Space: 30/30
 Load aboard transport: YES
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 16
-Build Cost: 163
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 521
+Build Cost: 2702
 Build Resource Requirements:
-  Food: 20
-  Energy: 50
-  Metal: 67
-  Trace: 32
-  Exotica: 19
-  Chemicals: 58
-  Electronics: 22
-Build Patrol Seaplane in Factory
-Time to Build / Upgrade: 5
-[460] Technology Required to Build Unit (94):
-  [460] Seaplane (94)
+Upgrade Marauder Legion to Space Marines at Starport
+Time to Build / Upgrade: 1
+[30420] Technology Required to Build Unit (35):
+  [30420] Space Marines (35)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Seaplane
-Nick Name: A-NS
+Name: Wraith Space Marine
+Nick Name: Specter Lgn
 Scores & Strengths:
-  Tech Score: 199
-  Unit Score: 394
-  Average Score: 296
-  Stat Strength: 325
-  Total Strength: 394
-  Planet Strength: 394
-  Space Strength: 0
-  Garrison Strength: 160
+  Tech Score: 5176
+  Unit Score: 5177
+  Average Score: 5177
+  Stat Strength: 4277
+  Total Strength: 5177
+  Planet Strength: 0
+  Space Strength: 5177
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 6
-  Spot: 6
-  Camouflage: 2
-  Agility: 11
-  Armor: 8
-  Psy Defense: 8
-  Rank: 141
+  Movement Type: space
+  Move Points: 30
+  Spot: 20
+  Camouflage: 28
+  Agility: 29
+  Armor: 26
+  Psy Defense: 26
+  Rank: 768
 Attacks:
-  Water: 3/10
-  Air: 3/3
-  Indirect: 3/10
+  Closed Space: 30/30
 Load aboard transport: YES
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 17
-Build Cost: 168
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 397
+Build Cost: 1264
 Build Resource Requirements:
-  Food: 18
-  Energy: 54
-  Metal: 88
-  Trace: 28
-  Exotica: 17
-  Chemicals: 63
-  Electronics: 18
-Build Seaplane in Factory
-Time to Build / Upgrade: 5
-[460] Technology Required to Build Unit (94):
-  [460] Seaplane (94)
+  Trace: 1
+  Electronics: 1
+Upgrade Space Marines to Wraith Space Marine at Starport
+Time to Build / Upgrade: 1
+[54550] Technologies Required to Build Unit (34):
+  [30420] Space Marines (35)
+  [24130] Neumonically-Enhanced Soldiers (32)
 Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Torpedo Bomber Seaplane
-Nick Name: A-NTB
-Scores & Strengths:
-  Tech Score: 199
-  Unit Score: 394
-  Average Score: 296
-  Stat Strength: 305
-  Total Strength: 394
-  Planet Strength: 394
-  Space Strength: 0
-  Garrison Strength: 148
-Statistics:
-  Movement Type: air
-  Move Points: 7
-  Spot: 6
-  Camouflage: 2
-  Agility: 12
-  Armor: 6
-  Psy Defense: 6
-  Rank: 142
-Attacks:
-  Water: 4/10
-  Indirect: 7/7
-Load aboard transport: YES
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 15
-Build Cost: 153
-Build Resource Requirements:
-  Food: 20
-  Energy: 46
-  Metal: 49
-  Trace: 37
-  Exotica: 20
-  Chemicals: 54
-  Electronics: 19
-Build Torpedo Bomber Seaplane in Factory
-Time to Build / Upgrade: 5
-[460] Technology Required to Build Unit (94):
-  [460] Seaplane (94)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Zeppelin Fighter
-Nick Name: A-TZF
-Scores & Strengths:
-  Tech Score: 199
-  Unit Score: 394
-  Average Score: 296
-  Stat Strength: 337
-  Total Strength: 394
-  Planet Strength: 394
-  Space Strength: 0
-  Garrison Strength: 131
-Statistics:
-  Movement Type: air
-  Move Points: 9
-  Spot: 6
-  Camouflage: 2
-  Agility: 12
-  Armor: 6
-  Psy Defense: 6
-  Rank: 135
-Attacks:
-  Air: 5/9
-  Indirect: 3/4
-Load aboard transport: YES
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 15
-Build Cost: 148
-Build Resource Requirements:
-  Food: 24
-  Energy: 41
-  Metal: 49
-  Trace: 30
-  Exotica: 23
-  Chemicals: 49
-  Electronics: 21
-Build Zeppelin Fighter in Factory
-Time to Build / Upgrade: 4
-[460] Technology Required to Build Unit (94):
-  [460] Seaplane (94)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---7--
-Name: Reconnaissance Seaplane
-Nick Name: A-NRS
-Scores & Strengths:
-  Tech Score: 199
-  Unit Score: 494
-  Average Score: 346
-  Stat Strength: 494
-  Total Strength: 494
-  Planet Strength: 494
-  Space Strength: 0
-  Garrison Strength: 164
-Statistics:
-  Movement Type: air
-  Move Points: 9
-  Spot: 8
-  Camouflage: 5
-  Agility: 14
-  Armor: 8
-  Psy Defense: 8
-  Rank: 78
-Load aboard transport: YES
-Upkeep / Maintenance: 16
-Build Cost: 164
-Build Resource Requirements:
-  Food: 31
-  Energy: 29
-  Metal: 88
-  Trace: 40
-  Exotica: 31
-  Chemicals: 34
-  Electronics: 28
-Build Reconnaissance Seaplane in Factory
-Time to Build / Upgrade: 5
-[460] Technology Required to Build Unit (94):
-  [460] Seaplane (94)
-Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

@@ -1,188 +1,581 @@
-All units of the unit class Light Grappler Mech are listed herein (4 in total):
+All units of the unit class Expeditionary Assault Vehicle (P) are listed herein (12 in total):
 
 --1--
-Name: Light Grappler Mech
-Nick Name: Grapnel
+Name: Expeditionary Assault Vehicle (P)
+Nick Name: EAV (P)
 Scores & Strengths:
-  Tech Score: 1686
-  Unit Score: 1685
-  Average Score: 1686
-  Stat Strength: 1194
-  Total Strength: 1685
-  Planet Strength: 1685
+  Tech Score: 1717
+  Unit Score: 1714
+  Average Score: 1716
+  Stat Strength: 769
+  Total Strength: 1714
+  Planet Strength: 1714
   Space Strength: 0
-  Garrison Strength: 486
+  Garrison Strength: 516
 Statistics:
-  Movement Type: mech
-  Move Points: 12
-  Spot: 10
-  Camouflage: 4
-  Agility: 22
-  Armor: 15
-  Psy Defense: 15
-  Rank: 125
+  Movement Type: craft
+  Move Points: 11
+  Spot: 8
+  Camouflage: 6
+  Agility: 6
+  Armor: 16
+  Psy Defense: 16
+  Rank: 123
 Attacks:
-  Indirect: 19/14
-  Close: 15/15
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 16
-Build Cost: 157
+  Direct: 21/25
+  Close: 20/21
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 11
+Build Cost: 107
 Build Resource Requirements:
-  Food: 5
-  Energy: 15
-  Metal: 9
-  Trace: 16
-  Exotica: 5
-  Chemicals: 27
-  Electronics: 20
-  Ceramsteel: 13
-Build Light Grappler Mech in Starport
+  Food: 1
+  Energy: 18
+  Metal: 8
+  Trace: 15
+  Exotica: 2
+  Chemicals: 25
+  Biochems: 9
+  Electronics: 21
+  Ceramsteel: 9
+Build Expeditionary Assault Vehicle (P) in Factory
 Time to Build / Upgrade: 3
-[10330] Technologies Required to Build Unit (84):
-  [1690] Ceramsteel (84)
-  [2420] Rocket-Propelled Aircraft (87)
-  [6220] Mechanically-Enhanced Soldiers (80)
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Medium Grappler Mech
-Nick Name: Gargoyle
+Name: Expeditionary Assault Vehicle (C)
+Nick Name: EAV (C)
 Scores & Strengths:
-  Tech Score: 2414
-  Unit Score: 2032
-  Average Score: 2223
-  Stat Strength: 1402
-  Total Strength: 2032
-  Planet Strength: 2032
+  Tech Score: 1717
+  Unit Score: 1714
+  Average Score: 1716
+  Stat Strength: 769
+  Total Strength: 1714
+  Planet Strength: 1714
   Space Strength: 0
-  Garrison Strength: 563
+  Garrison Strength: 516
 Statistics:
-  Movement Type: mech
-  Move Points: 13
-  Spot: 12
-  Camouflage: 8
-  Agility: 15
-  Armor: 20
-  Psy Defense: 20
-  Rank: 132
+  Movement Type: craft
+  Move Points: 11
+  Spot: 8
+  Camouflage: 6
+  Agility: 6
+  Armor: 16
+  Psy Defense: 16
+  Rank: 143
 Attacks:
-  Indirect: 20/15
-  Close: 22/15
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 86
-Build Cost: 857
+  Water: 21/25
+  Indirect: 20/21
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 9
+Build Cost: 92
 Build Resource Requirements:
-  Food: 2
-  Energy: 7
-  Metal: 7
-  Trace: 16
+  Food: 1
+  Energy: 18
+  Metal: 8
+  Trace: 15
   Exotica: 2
-  Chemicals: 13
-  Electronics: 21
-  Ceramsteel: 8
-  Monopols: 19
-Build Medium Grappler Mech in Starport
-Time to Build / Upgrade: 3
-[12850] Technology Required to Build Unit (71):
-  [12850] Mechanized Warriors (71)
+  Chemicals: 25
+  Biochems: 5
+  Electronics: 14
+  Ceramsteel: 9
+Build Expeditionary Assault Vehicle (C) in Factory
+Time to Build / Upgrade: 2
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Heavy Grappler Mech
-Nick Name: Executioner
+Name: Expeditionary Assault Vehicle (H)
+Nick Name: EAV (H)
 Scores & Strengths:
-  Tech Score: 5401
-  Unit Score: 4856
-  Average Score: 5129
-  Stat Strength: 3010
-  Total Strength: 4856
-  Planet Strength: 4856
+  Tech Score: 1717
+  Unit Score: 1714
+  Average Score: 1716
+  Stat Strength: 769
+  Total Strength: 1714
+  Planet Strength: 1714
   Space Strength: 0
-  Garrison Strength: 1253
+  Garrison Strength: 516
 Statistics:
-  Movement Type: mech
-  Move Points: 15
-  Spot: 14
-  Camouflage: 10
-  Agility: 21
-  Armor: 32
-  Psy Defense: 32
-  Rank: 137
+  Movement Type: craft
+  Move Points: 11
+  Spot: 8
+  Camouflage: 6
+  Agility: 6
+  Armor: 16
+  Psy Defense: 16
+  Rank: 118
 Attacks:
-  Indirect: 29/26
-  Direct: 18/18
-  Close: 32/24
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 180
-Build Cost: 1797
+  Indirect: 21/25
+  Direct: 20/21
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 9
+Build Cost: 90
 Build Resource Requirements:
-  Food: 2
-  Energy: 10
-  Metal: 7
-  Trace: 24
+  Food: 1
+  Energy: 18
+  Metal: 8
+  Trace: 15
   Exotica: 2
-  Chemicals: 16
-  Biochems: 23
-  Electronics: 30
-  Ceramsteel: 11
-  Monopols: 27
-Build Heavy Grappler Mech in Starport
-Time to Build / Upgrade: 3
-[35965] Technology Required to Build Unit (64):
-  [35965] Advanced Mechanized Warriors (64)
+  Chemicals: 25
+  Biochems: 5
+  Electronics: 13
+  Ceramsteel: 9
+Build Expeditionary Assault Vehicle (H) in Factory
+Time to Build / Upgrade: 2
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Assault Grappler Mech
-Nick Name: Excruciator
+Name: Expeditionary Assault Vehicle (R)
+Nick Name: EAV (R)
 Scores & Strengths:
-  Tech Score: 5809
-  Unit Score: 5450
-  Average Score: 5630
-  Stat Strength: 3396
-  Total Strength: 5450
-  Planet Strength: 5450
+  Tech Score: 1717
+  Unit Score: 1714
+  Average Score: 1716
+  Stat Strength: 1139
+  Total Strength: 1714
+  Planet Strength: 1714
   Space Strength: 0
-  Garrison Strength: 1321
+  Garrison Strength: 516
 Statistics:
-  Movement Type: mech
-  Move Points: 17
-  Spot: 16
-  Camouflage: 12
-  Agility: 23
-  Armor: 33
-  Psy Defense: 33
-  Rank: 144
+  Movement Type: craft
+  Move Points: 11
+  Spot: 8
+  Camouflage: 6
+  Agility: 6
+  Armor: 21
+  Psy Defense: 21
+  Rank: 152
 Attacks:
-  Indirect: 31/28
-  Direct: 19/19
-  Close: 33/25
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 253
-Build Cost: 2528
+  Close: 23/25
+Cargo Space: 1
+Can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 11
+Build Cost: 106
+Build Resource Requirements:
+  Food: 1
+  Energy: 11
+  Metal: 15
+  Trace: 10
+  Exotica: 2
+  Chemicals: 20
+  Biochems: 6
+  Electronics: 18
+  Ceramsteel: 16
+Build Expeditionary Assault Vehicle (R) in Factory
+Time to Build / Upgrade: 3
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Expeditionary Assault Vehicle (A)
+Nick Name: EAV (A)
+Scores & Strengths:
+  Tech Score: 1717
+  Unit Score: 1714
+  Average Score: 1716
+  Stat Strength: 769
+  Total Strength: 1714
+  Planet Strength: 1714
+  Space Strength: 0
+  Garrison Strength: 516
+Statistics:
+  Movement Type: craft
+  Move Points: 11
+  Spot: 8
+  Camouflage: 6
+  Agility: 6
+  Armor: 16
+  Psy Defense: 16
+  Rank: 118
+Attacks:
+  Air: 21/25
+  Direct: 20/21
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 11
+Build Cost: 107
+Build Resource Requirements:
+  Food: 1
+  Energy: 18
+  Metal: 8
+  Trace: 15
+  Exotica: 2
+  Chemicals: 25
+  Biochems: 9
+  Electronics: 21
+  Ceramsteel: 9
+Build Expeditionary Assault Vehicle (A) in Factory
+Time to Build / Upgrade: 3
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Expeditionary Assault Vehicle (E)
+Nick Name: EAV (E)
+Scores & Strengths:
+  Tech Score: 1717
+  Unit Score: 1719
+  Average Score: 1718
+  Stat Strength: 1311
+  Total Strength: 1719
+  Planet Strength: 1719
+  Space Strength: 0
+  Garrison Strength: 573
+Statistics:
+  Movement Type: craft
+  Move Points: 9
+  Spot: 10
+  Camouflage: 6
+  Agility: 6
+  Armor: 23
+  Psy Defense: 23
+  Rank: 52
+Attacks:
+  Close: 17/24
+Cargo Space: 1
+Can tow units that can be towed
+Upkeep / Maintenance: 10
+Build Cost: 95
 Build Resource Requirements:
   Food: 1
   Energy: 10
-  Metal: 6
-  Trace: 11
+  Metal: 17
+  Trace: 7
   Exotica: 2
-  Chemicals: 16
-  Biochems: 23
+  Chemicals: 19
+  Biochems: 4
   Electronics: 16
-  Ceramsteel: 9
-  Wetware: 10
-  Monopols: 26
-Build Assault Grappler Mech in Starport
-Time to Build / Upgrade: 4
-[52710] Technologies Required to Build Unit (44):
-  [16745] Wetware (23)
-  [35965] Advanced Mechanized Warriors (64)
+  Ceramsteel: 19
+Build Expeditionary Assault Vehicle (E) in Factory
+Time to Build / Upgrade: 3
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Amphibious Fighting Vehicle (R)
+Nick Name: AFV (R)
+Scores & Strengths:
+  Tech Score: 2944
+  Unit Score: 2838
+  Average Score: 2891
+  Stat Strength: 1848
+  Total Strength: 2838
+  Planet Strength: 2838
+  Space Strength: 0
+  Garrison Strength: 758
+Statistics:
+  Movement Type: craft
+  Move Points: 14
+  Spot: 9
+  Camouflage: 8
+  Agility: 7
+  Armor: 27
+  Psy Defense: 27
+  Rank: 164
+Attacks:
+  Close: 30/33
+Cargo Space: 1
+Can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 88
+Build Cost: 877
+Build Resource Requirements:
+  Food: 1
+  Energy: 11
+  Metal: 10
+  Trace: 11
+  Exotica: 1
+  Chemicals: 18
+  Biochems: 6
+  Electronics: 19
+  Ceramsteel: 13
+  Monopols: 25
+Build Amphibious Fighting Vehicle (R) in Factory
+Time to Build / Upgrade: 3
+[22245] Technologies Required to Build Unit (82):
+  [2855] Naval Amphibious Ships (87)
+  [5855] Guided Missile Navalcraft (84)
+  [13535] Powered Ceramsteel Tanks (74)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Amphibious Fighting Vehicle (E)
+Nick Name: AFV (E)
+Scores & Strengths:
+  Tech Score: 2944
+  Unit Score: 2860
+  Average Score: 2902
+  Stat Strength: 2178
+  Total Strength: 2860
+  Planet Strength: 2860
+  Space Strength: 0
+  Garrison Strength: 825
+Statistics:
+  Movement Type: craft
+  Move Points: 12
+  Spot: 11
+  Camouflage: 8
+  Agility: 7
+  Armor: 30
+  Psy Defense: 30
+  Rank: 64
+Attacks:
+  Close: 22/31
+Cargo Space: 1
+Can tow units that can be towed
+Upkeep / Maintenance: 86
+Build Cost: 858
+Build Resource Requirements:
+  Food: 1
+  Energy: 9
+  Metal: 13
+  Trace: 7
+  Exotica: 1
+  Chemicals: 17
+  Biochems: 4
+  Electronics: 15
+  Ceramsteel: 16
+  Monopols: 26
+Build Amphibious Fighting Vehicle (E) in Factory
+Time to Build / Upgrade: 3
+[22245] Technologies Required to Build Unit (82):
+  [2855] Naval Amphibious Ships (87)
+  [5855] Guided Missile Navalcraft (84)
+  [13535] Powered Ceramsteel Tanks (74)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Amphibious Fighting Vehicle (P)
+Nick Name: AFV (P)
+Scores & Strengths:
+  Tech Score: 2944
+  Unit Score: 2865
+  Average Score: 2905
+  Stat Strength: 1272
+  Total Strength: 2865
+  Planet Strength: 2865
+  Space Strength: 0
+  Garrison Strength: 765
+Statistics:
+  Movement Type: craft
+  Move Points: 14
+  Spot: 9
+  Camouflage: 8
+  Agility: 7
+  Armor: 21
+  Psy Defense: 21
+  Rank: 149
+Attacks:
+  Direct: 27/33
+  Close: 26/27
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 89
+Build Cost: 889
+Build Resource Requirements:
+  Food: 1
+  Energy: 17
+  Metal: 6
+  Trace: 16
+  Exotica: 1
+  Chemicals: 23
+  Biochems: 9
+  Electronics: 24
+  Ceramsteel: 8
+  Monopols: 28
+Build Amphibious Fighting Vehicle (P) in Factory
+Time to Build / Upgrade: 3
+[22245] Technologies Required to Build Unit (82):
+  [2855] Naval Amphibious Ships (87)
+  [5855] Guided Missile Navalcraft (84)
+  [13535] Powered Ceramsteel Tanks (74)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Amphibious Fighting Vehicle (C)
+Nick Name: AFV (C)
+Scores & Strengths:
+  Tech Score: 2944
+  Unit Score: 2865
+  Average Score: 2905
+  Stat Strength: 1272
+  Total Strength: 2865
+  Planet Strength: 2865
+  Space Strength: 0
+  Garrison Strength: 765
+Statistics:
+  Movement Type: craft
+  Move Points: 14
+  Spot: 9
+  Camouflage: 8
+  Agility: 7
+  Armor: 21
+  Psy Defense: 21
+  Rank: 167
+Attacks:
+  Water: 27/33
+  Indirect: 26/27
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 87
+Build Cost: 869
+Build Resource Requirements:
+  Food: 1
+  Energy: 17
+  Metal: 6
+  Trace: 16
+  Exotica: 1
+  Chemicals: 23
+  Biochems: 5
+  Electronics: 15
+  Ceramsteel: 8
+  Monopols: 28
+Build Amphibious Fighting Vehicle (C) in Factory
+Time to Build / Upgrade: 3
+[22245] Technologies Required to Build Unit (82):
+  [2855] Naval Amphibious Ships (87)
+  [5855] Guided Missile Navalcraft (84)
+  [13535] Powered Ceramsteel Tanks (74)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Amphibious Fighting Vehicle (H)
+Nick Name: AFV (H)
+Scores & Strengths:
+  Tech Score: 2944
+  Unit Score: 2865
+  Average Score: 2905
+  Stat Strength: 1272
+  Total Strength: 2865
+  Planet Strength: 2865
+  Space Strength: 0
+  Garrison Strength: 765
+Statistics:
+  Movement Type: craft
+  Move Points: 14
+  Spot: 9
+  Camouflage: 8
+  Agility: 7
+  Armor: 21
+  Psy Defense: 21
+  Rank: 142
+Attacks:
+  Indirect: 27/33
+  Direct: 26/27
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 87
+Build Cost: 867
+Build Resource Requirements:
+  Food: 1
+  Energy: 17
+  Metal: 6
+  Trace: 16
+  Exotica: 1
+  Chemicals: 23
+  Biochems: 5
+  Electronics: 14
+  Ceramsteel: 8
+  Monopols: 28
+Build Amphibious Fighting Vehicle (H) in Factory
+Time to Build / Upgrade: 3
+[22245] Technologies Required to Build Unit (82):
+  [2855] Naval Amphibious Ships (87)
+  [5855] Guided Missile Navalcraft (84)
+  [13535] Powered Ceramsteel Tanks (74)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Amphibious Fighting Vehicle (A)
+Nick Name: AFV (A)
+Scores & Strengths:
+  Tech Score: 2944
+  Unit Score: 2865
+  Average Score: 2905
+  Stat Strength: 1272
+  Total Strength: 2865
+  Planet Strength: 2865
+  Space Strength: 0
+  Garrison Strength: 765
+Statistics:
+  Movement Type: craft
+  Move Points: 14
+  Spot: 9
+  Camouflage: 8
+  Agility: 7
+  Armor: 21
+  Psy Defense: 21
+  Rank: 142
+Attacks:
+  Air: 27/33
+  Direct: 26/27
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 89
+Build Cost: 889
+Build Resource Requirements:
+  Food: 1
+  Energy: 17
+  Metal: 6
+  Trace: 16
+  Exotica: 1
+  Chemicals: 23
+  Biochems: 9
+  Electronics: 24
+  Ceramsteel: 8
+  Monopols: 28
+Build Amphibious Fighting Vehicle (A) in Factory
+Time to Build / Upgrade: 3
+[22245] Technologies Required to Build Unit (82):
+  [2855] Naval Amphibious Ships (87)
+  [5855] Guided Missile Navalcraft (84)
+  [13535] Powered Ceramsteel Tanks (74)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

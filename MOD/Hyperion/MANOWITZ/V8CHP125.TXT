@@ -1,410 +1,441 @@
-All units of the unit class PTS Tank are listed herein (9 in total):
+All units of the unit class Rebel Soldier Legion are listed herein (10 in total):
 
 --1--
-Name: PTS Tank
-Nick Name: PTS Tank
+Name: Rebel Soldier Legion
+Nick Name: R. Sldr
 Scores & Strengths:
-  Tech Score: 608
-  Unit Score: 606
-  Average Score: 607
-  Stat Strength: 368
-  Total Strength: 606
-  Planet Strength: 528
-  Space Strength: 446
-  Garrison Strength: 215
+  Tech Score: 558
+  Unit Score: 558
+  Average Score: 558
+  Stat Strength: 284
+  Total Strength: 558
+  Planet Strength: 558
+  Space Strength: 0
+  Garrison Strength: 227
 Statistics:
-  Movement Type: tread
+  Movement Type: foot
   Move Points: 6
-  Spot: 2
-  Camouflage: 2
-  Agility: 6
-  Armor: 12
-  Psy Defense: 12
-  Rank: 72
+  Spot: 6
+  Camouflage: 6
+  Agility: 12
+  Armor: 4
+  Psy Defense: 4
+  Rank: 48
 Attacks:
-  Ranged Space: 6/13
-  Indirect: 6/13
-  Direct: 5/11
-  Close: 3/9
+  Air: 11/6
+  Indirect: 8/8
+  Direct: 9/8
+  Close: 12/6
 Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 67
+Upkeep / Maintenance: 15
+Build Cost: 136
 Build Resource Requirements:
-  Food: 2
-  Energy: 32
-  Metal: 27
-  Trace: 8
-  Exotica: 2
-  Chemicals: 45
-  Electronics: 7
-Build PTS Tank in Factory
-Time to Build / Upgrade: 2
-[2300] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1950] PTS Missile Launcher (88)
+  Energy: 31
+  Metal: 12
+  Trace: 35
+  Exotica: 13
+  Chemicals: 63
+  Electronics: 52
+  Gems: 1
+Upgrade Peasant to Rebel Soldier Legion at Fort
+Time to Build / Upgrade: 3
+[1935] Technologies Required to Build Unit (82):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: PTS Tank II
-Nick Name: PTS Tank II
+Name: Rebel Soldier Legion (BE)
+Nick Name: R. Sldr (BE)
 Scores & Strengths:
-  Tech Score: 1132
-  Unit Score: 1079
-  Average Score: 1105
-  Stat Strength: 638
-  Total Strength: 1079
-  Planet Strength: 935
-  Space Strength: 782
-  Garrison Strength: 330
+  Tech Score: 597
+  Unit Score: 722
+  Average Score: 660
+  Stat Strength: 353
+  Total Strength: 722
+  Planet Strength: 722
+  Space Strength: 0
+  Garrison Strength: 272
 Statistics:
-  Movement Type: tread
-  Move Points: 8
-  Spot: 2
-  Camouflage: 3
-  Agility: 7
-  Armor: 16
-  Psy Defense: 16
-  Rank: 83
+  Movement Type: foot
+  Move Points: 7
+  Spot: 6
+  Camouflage: 7
+  Agility: 13
+  Armor: 5
+  Psy Defense: 5
+  Rank: 52
 Attacks:
-  Ranged Space: 8/18
-  Indirect: 8/18
-  Direct: 7/15
-  Close: 4/12
+  Air: 13/7
+  Indirect: 9/9
+  Direct: 11/9
+  Close: 14/7
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 62
+Upkeep / Maintenance: 26
+Build Cost: 120
 Build Resource Requirements:
-  Food: 1
-  Energy: 26
-  Metal: 41
-  Trace: 6
-  Exotica: 1
-  Chemicals: 34
-  Electronics: 4
-Build PTS Tank II in Factory
-Time to Build / Upgrade: 2
-[6890] Technologies Required to Build Unit (88):
-  [770] Self-Propelled Weaponry (92)
-  [1950] PTS Missile Launcher (88)
-  [4170] Supercruise Missiles (84)
+  Metal: 3
+  Trace: 4
+  Biochems: 70
+Upgrade Rebel Soldier Legion to Rebel Soldier Legion (BE) at Biochem Plant
+Time to Build / Upgrade: 1
+[2355] Technologies Required to Build Unit (80):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
+  [420] Biochem-Enhanced Soldiers (77)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Symbiot PTS Weapon
-Nick Name: Fumerole
+Name: Rebel Soldier Legion (SE)
+Nick Name: R. Sldr (SE)
 Scores & Strengths:
-  Tech Score: 1530
-  Unit Score: 1530
-  Average Score: 1530
-  Stat Strength: 724
-  Total Strength: 1530
-  Planet Strength: 1370
-  Space Strength: 884
-  Garrison Strength: 395
+  Tech Score: 653
+  Unit Score: 779
+  Average Score: 716
+  Stat Strength: 366
+  Total Strength: 779
+  Planet Strength: 779
+  Space Strength: 0
+  Garrison Strength: 294
 Statistics:
-  Movement Type: tread
-  Move Points: 12
-  Spot: 8
-  Camouflage: 8
-  Agility: 8
-  Armor: 18
-  Psy Defense: 8
-  Rank: 91
+  Movement Type: foot
+  Move Points: 7
+  Spot: 7
+  Camouflage: 7
+  Agility: 13
+  Armor: 5
+  Psy Defense: 5
+  Rank: 53
 Attacks:
-  Ranged Space: 10/16
-  Air: 11/15
-  Indirect: 9/17
-  Direct: 10/16
-  Close: 12/14
+  Air: 14/7
+  Indirect: 10/10
+  Direct: 11/10
+  Close: 15/7
 Load aboard transport: YES
-Upkeep / Maintenance: 86
-Build Cost: 862
+Upkeep / Maintenance: 26
+Build Cost: 126
 Build Resource Requirements:
-  Food: 3
-  Energy: 195
-  Metal: 7
-  Trace: 7
-  Exotica: 4
-  Chemicals: 241
-  Biochems: 287
-  Electronics: 20
-Build Symbiot PTS Weapon in Hive
-Time to Build / Upgrade: 7
-[6995] Technology Required to Build Unit (37):
-  [6995] Symbiot Psychology (37)
+  Trace: 8
+  Biochems: 71
+  Electronics: 5
+Upgrade Rebel Soldier Legion to Rebel Soldier Legion (SE) at Hospital
+Time to Build / Upgrade: 1
+[2610] Technologies Required to Build Unit (80):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
+  [675] Surgically-Enhanced Soldiers (75)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: PTS Tank III
-Nick Name: PTS Tank III
+Name: Rebel Soldier Legion (DE)
+Nick Name: R. Sldr (DE)
 Scores & Strengths:
-  Tech Score: 1685
-  Unit Score: 1641
-  Average Score: 1663
-  Stat Strength: 982
-  Total Strength: 1641
-  Planet Strength: 1421
-  Space Strength: 1202
-  Garrison Strength: 449
+  Tech Score: 1030
+  Unit Score: 1144
+  Average Score: 1087
+  Stat Strength: 508
+  Total Strength: 1144
+  Planet Strength: 1144
+  Space Strength: 0
+  Garrison Strength: 381
 Statistics:
-  Movement Type: tread
-  Move Points: 10
-  Spot: 3
-  Camouflage: 3
-  Agility: 8
-  Armor: 20
-  Psy Defense: 20
-  Rank: 93
+  Movement Type: foot
+  Move Points: 9
+  Spot: 7
+  Camouflage: 9
+  Agility: 15
+  Armor: 6
+  Psy Defense: 6
+  Rank: 62
 Attacks:
-  Ranged Space: 10/22
-  Indirect: 10/22
-  Direct: 8/18
-  Close: 5/15
+  Air: 17/9
+  Indirect: 12/12
+  Direct: 14/12
+  Close: 19/9
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 87
+Upkeep / Maintenance: 18
+Build Cost: 40
 Build Resource Requirements:
-  Food: 1
-  Energy: 28
-  Metal: 51
-  Trace: 6
-  Exotica: 1
-  Chemicals: 51
-  Electronics: 5
-Build PTS Tank III in Factory
-Time to Build / Upgrade: 3
-[10755] Technologies Required to Build Unit (84):
-  [1700] Main Battle Tank (88)
-  [1950] PTS Missile Launcher (88)
-  [7105] Hypercruise Missiles (77)
+  Metal: 3
+  Biochems: 51
+Upgrade Rebel Soldier Legion to Rebel Soldier Legion (DE) at Biochem Plant
+Time to Build / Upgrade: 1
+[5375] Technologies Required to Build Unit (76):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
+  [3440] Drug-Enhanced Soldiers (65)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: PTS Laser Cannon
-Nick Name: PTS Laser
+Name: Rebel Soldier Legion (GE)
+Nick Name: R. Sldr (GE)
 Scores & Strengths:
-  Tech Score: 2044
-  Unit Score: 2043
-  Average Score: 2044
-  Stat Strength: 1422
-  Total Strength: 2043
-  Planet Strength: 1753
-  Space Strength: 1712
-  Garrison Strength: 619
+  Tech Score: 1440
+  Unit Score: 1570
+  Average Score: 1505
+  Stat Strength: 660
+  Total Strength: 1570
+  Planet Strength: 1570
+  Space Strength: 0
+  Garrison Strength: 473
 Statistics:
-  Movement Type: tread
-  Move Points: 8
-  Spot: 10
-  Camouflage: 2
-  Agility: 2
-  Armor: 25
-  Psy Defense: 25
-  Rank: 98
+  Movement Type: foot
+  Move Points: 11
+  Spot: 8
+  Camouflage: 11
+  Agility: 16
+  Armor: 7
+  Psy Defense: 7
+  Rank: 71
 Attacks:
-  Ranged Space: 10/29
-  Air: 9/15
-  Direct: 14/14
+  Air: 20/11
+  Indirect: 15/14
+  Direct: 17/14
+  Close: 22/11
 Load aboard transport: YES
-Upkeep / Maintenance: 114
-Build Cost: 1143
+Upkeep / Maintenance: 22
+Build Cost: 176
 Build Resource Requirements:
-  Food: 2
-  Energy: 15
-  Metal: 12
-  Trace: 9
-  Exotica: 2
-  Chemicals: 25
-  Electronics: 16
-  Ceramsteel: 18
-  Monopols: 51
-Build PTS Laser Cannon in Factory
-Time to Build / Upgrade: 4
-[10295] Technology Required to Build Unit (76):
-  [10295] PTS Fusion Cannon (76)
+  Energy: 3
+  Trace: 1
+  Chemicals: 7
+  Biochems: 14
+  Electronics: 2
+  Ceramsteel: 2
+Upgrade Rebel Soldier Legion (DE) to Rebel Soldier Legion (GE) at Lab
+Time to Build / Upgrade: 1
+[7955] Technologies Required to Build Unit (71):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
+  [6020] Chemical Shock Legion (49)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: PTS Meson Cannon
-Nick Name: PTS Meson
+Name: Rebel Soldier Legion (PA)
+Nick Name: R. Sldr (PA)
 Scores & Strengths:
-  Tech Score: 3737
-  Unit Score: 3737
-  Average Score: 3737
-  Stat Strength: 2590
-  Total Strength: 3737
-  Planet Strength: 3191
-  Space Strength: 3136
-  Garrison Strength: 962
+  Tech Score: 1466
+  Unit Score: 1587
+  Average Score: 1527
+  Stat Strength: 660
+  Total Strength: 1587
+  Planet Strength: 1587
+  Space Strength: 0
+  Garrison Strength: 478
 Statistics:
-  Movement Type: tread
+  Movement Type: foot
   Move Points: 11
-  Spot: 12
-  Camouflage: 3
-  Agility: 2
-  Armor: 34
-  Psy Defense: 34
-  Rank: 125
+  Spot: 8
+  Camouflage: 11
+  Agility: 16
+  Armor: 7
+  Psy Defense: 7
+  Rank: 71
 Attacks:
-  Ranged Space: 14/39
-  Air: 12/20
-  Direct: 19/19
+  Air: 20/11
+  Indirect: 15/15
+  Direct: 16/15
+  Close: 22/11
 Load aboard transport: YES
-Upkeep / Maintenance: 128
-Build Cost: 133
+Upkeep / Maintenance: 26
+Build Cost: 134
 Build Resource Requirements:
-  Chemicals: 3
-  Electronics: 4
-  Ceramsteel: 1
-Upgrade PTS Laser Cannon to PTS Meson Cannon at Factory
+  Chemicals: 9
+  Ceramsteel: 8
+Upgrade Rebel Soldier Legion (SE) to Rebel Soldier Legion (PA) at Hospital
 Time to Build / Upgrade: 1
-[23015] Technology Required to Build Unit (70):
-  [23015] PTS Meson Cannon (70)
+[8110] Technologies Required to Build Unit (74):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
+  [6175] Prosthetically-Augmented Soldiers (57)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Vau PTS Weapon
-Nick Name: Atomizer
+Name: Rebel Soldier Legion (CE)
+Nick Name: R. Sldr (CE)
 Scores & Strengths:
-  Tech Score: 3886
-  Unit Score: 3880
-  Average Score: 3883
-  Stat Strength: 2232
-  Total Strength: 3880
-  Planet Strength: 3280
-  Space Strength: 2832
-  Garrison Strength: 876
+  Tech Score: 1813
+  Unit Score: 1906
+  Average Score: 1860
+  Stat Strength: 786
+  Total Strength: 1906
+  Planet Strength: 1906
+  Space Strength: 0
+  Garrison Strength: 550
 Statistics:
-  Movement Type: tread
-  Move Points: 14
-  Spot: 10
-  Camouflage: 6
-  Agility: 10
-  Armor: 30
-  Psy Defense: 30
-  Rank: 164
+  Movement Type: foot
+  Move Points: 12
+  Spot: 9
+  Camouflage: 12
+  Agility: 17
+  Armor: 8
+  Psy Defense: 8
+  Rank: 78
 Attacks:
-  Ranged Space: 20/30
-  Air: 16/28
-  Indirect: 20/30
+  Air: 23/12
+  Indirect: 16/16
+  Direct: 18/16
+  Close: 25/12
 Load aboard transport: YES
-Upkeep / Maintenance: 161
-Build Cost: 1606
+Upkeep / Maintenance: 28
+Build Cost: 148
 Build Resource Requirements:
-  Food: 1
-  Energy: 15
-  Metal: 5
-  Trace: 4
-  Exotica: 1
-  Chemicals: 27
-  Biochems: 26
-  Electronics: 10
-  Ceramsteel: 10
-  Wetware: 8
-  Monopols: 45
-Build Vau PTS Weapon in Vau City
-Time to Build / Upgrade: 4
-[24245] Technology Required to Build Unit (50):
-  [24245] Vau Psychology (50)
+  Energy: 5
+  Metal: 2
+  Chemicals: 7
+  Biochems: 1
+  Ceramsteel: 2
+Upgrade Rebel Soldier Legion (PA) to Rebel Soldier Legion (CE) at Lab
+Time to Build / Upgrade: 1
+[10535] Technologies Required to Build Unit (71):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
+  [8600] Cybernetically-Enhanced Soldiers (48)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Discontinuity Cannon
-Nick Name: PTS Beam
+Name: Rebel Soldier Legion (AVE)
+Nick Name: R. Sldr (AVE)
 Scores & Strengths:
-  Tech Score: 4120
-  Unit Score: 3975
-  Average Score: 4047
-  Stat Strength: 2728
-  Total Strength: 3975
-  Planet Strength: 3401
-  Space Strength: 3302
-  Garrison Strength: 1025
+  Tech Score: 1899
+  Unit Score: 2012
+  Average Score: 1956
+  Stat Strength: 836
+  Total Strength: 2012
+  Planet Strength: 2012
+  Space Strength: 0
+  Garrison Strength: 558
 Statistics:
-  Movement Type: tread
-  Move Points: 11
-  Spot: 12
-  Camouflage: 3
-  Agility: 2
-  Armor: 35
-  Psy Defense: 35
-  Rank: 130
+  Movement Type: foot
+  Move Points: 13
+  Spot: 9
+  Camouflage: 13
+  Agility: 17
+  Armor: 8
+  Psy Defense: 8
+  Rank: 80
 Attacks:
-  Ranged Space: 14/41
-  Air: 13/21
-  Direct: 20/20
+  Air: 24/12
+  Indirect: 17/16
+  Direct: 19/16
+  Close: 26/12
 Load aboard transport: YES
-Upkeep / Maintenance: 132
-Build Cost: 179
+Immune to Plague
+Upkeep / Maintenance: 33
+Build Cost: 152
 Build Resource Requirements:
-  Chemicals: 3
-  Electronics: 4
-Upgrade PTS Laser Cannon to Discontinuity Cannon at Factory
+  Energy: 4
+  Chemicals: 6
+  Biochems: 12
+  Electronics: 3
+Upgrade Rebel Soldier Legion (GE) to Rebel Soldier Legion (AVE) at Lab
 Time to Build / Upgrade: 1
-[26210] Technology Required to Build Unit (54):
-  [26210] PTS Beam Cannon (54)
+[10835] Technologies Required to Build Unit (63):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
+  [8900] Genetically-Enhanced Warriors (25)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Omicron Ray
-Nick Name: Omicron Ray
+Name: Rebel Soldier Legion (MF)
+Nick Name: R. Sldr (MF)
 Scores & Strengths:
-  Tech Score: 5202
-  Unit Score: 5201
-  Average Score: 5201
-  Stat Strength: 3650
-  Total Strength: 5201
-  Planet Strength: 4201
-  Space Strength: 4650
-  Garrison Strength: 1212
+  Tech Score: 3205
+  Unit Score: 3258
+  Average Score: 3231
+  Stat Strength: 1254
+  Total Strength: 3258
+  Planet Strength: 3258
+  Space Strength: 0
+  Garrison Strength: 814
 Statistics:
-  Movement Type: tread
-  Move Points: 12
-  Spot: 16
-  Camouflage: 5
-  Agility: 5
-  Armor: 40
-  Psy Defense: 40
-  Rank: 162
+  Movement Type: foot
+  Move Points: 16
+  Spot: 10
+  Camouflage: 16
+  Agility: 20
+  Armor: 11
+  Psy Defense: 11
+  Rank: 103
 Attacks:
-  Ranged Space: 20/50
-  Air: 25/11
-  Indirect: 12/23
+  Air: 30/16
+  Indirect: 22/22
+  Direct: 24/22
+  Close: 32/16
 Load aboard transport: YES
-Upkeep / Maintenance: 154
-Build Cost: 1542
+Upkeep / Maintenance: 252
+Build Cost: 2375
 Build Resource Requirements:
-  Food: 1
-  Energy: 10
-  Metal: 7
-  Trace: 4
-  Exotica: 1
-  Chemicals: 21
-  Biochems: 21
-  Electronics: 12
-  Ceramsteel: 13
-  Wetware: 8
-  Monopols: 36
-Build Omicron Ray in Factory
+  Energy: 3
+  Chemicals: 4
+  Biochems: 10
+  Wetware: 22
+  Monopols: 62
+Upgrade Rebel Soldier Legion (CE) to Rebel Soldier Legion (MF) at Wetware
 Time to Build / Upgrade: 4
-[49605] Technologies Required to Build Unit (46):
-  [23395] Advanced Hovertech (37)
-  [26210] PTS Beam Cannon (54)
+[20510] Technologies Required to Build Unit (66):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
+  [18575] Machine-Fused Soldiers (35)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Rebel Soldier Legion (NE)
+Nick Name: R. Sldr (NE)
+Scores & Strengths:
+  Tech Score: 3893
+  Unit Score: 4131
+  Average Score: 4012
+  Stat Strength: 1665
+  Total Strength: 4131
+  Planet Strength: 4131
+  Space Strength: 0
+  Garrison Strength: 973
+Statistics:
+  Movement Type: foot
+  Move Points: 18
+  Spot: 11
+  Camouflage: 21
+  Agility: 21
+  Armor: 13
+  Psy Defense: 13
+  Rank: 116
+Attacks:
+  Air: 33/18
+  Indirect: 24/24
+  Direct: 27/24
+  Close: 36/18
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 235
+Build Cost: 2201
+Build Resource Requirements:
+  Wetware: 25
+  Monopols: 30
+Upgrade Rebel Soldier Legion (AVE) to Rebel Soldier Legion (NE) at Fusorium
+Time to Build / Upgrade: 3
+[26065] Technologies Required to Build Unit (65):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
+  [24130] Neumonically-Enhanced Soldiers (32)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

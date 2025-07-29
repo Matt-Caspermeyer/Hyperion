@@ -1,188 +1,288 @@
-All units of the unit class Light Anti-Air Mech are listed herein (4 in total):
+All units of the unit class Amphibious Combat Vehicle (R) are listed herein (6 in total):
 
 --1--
-Name: Light Anti-Air Mech
-Nick Name: Vindicator
+Name: Amphibious Combat Vehicle (R)
+Nick Name: ACV (R)
 Scores & Strengths:
-  Tech Score: 1686
-  Unit Score: 1685
-  Average Score: 1686
-  Stat Strength: 1185
-  Total Strength: 1685
-  Planet Strength: 1685
+  Tech Score: 1717
+  Unit Score: 1714
+  Average Score: 1716
+  Stat Strength: 1021
+  Total Strength: 1714
+  Planet Strength: 1714
   Space Strength: 0
-  Garrison Strength: 450
+  Garrison Strength: 458
 Statistics:
-  Movement Type: mech
+  Movement Type: craft
   Move Points: 14
-  Spot: 10
-  Camouflage: 4
-  Agility: 19
-  Armor: 16
-  Psy Defense: 16
-  Rank: 123
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 18
+  Psy Defense: 18
+  Rank: 152
 Attacks:
-  Air: 20/13
-  Indirect: 16/15
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 17
-Build Cost: 166
+  Close: 33/21
+Cargo Space: 1
+Can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 13
+Build Cost: 126
 Build Resource Requirements:
-  Food: 5
-  Energy: 14
-  Metal: 10
-  Trace: 16
-  Exotica: 5
-  Chemicals: 26
-  Electronics: 24
-  Ceramsteel: 15
-Build Light Anti-Air Mech in Starport
+  Food: 2
+  Energy: 10
+  Metal: 11
+  Trace: 19
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 12
+  Electronics: 27
+  Ceramsteel: 12
+Build Amphibious Combat Vehicle (R) in Factory
 Time to Build / Upgrade: 3
-[10330] Technologies Required to Build Unit (84):
-  [1690] Ceramsteel (84)
-  [2420] Rocket-Propelled Aircraft (87)
-  [6220] Mechanically-Enhanced Soldiers (80)
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Medium Anti-Air Mech
-Nick Name: Talisman
+Name: Amphibious Combat Vehicle (E)
+Nick Name: ACV (E)
 Scores & Strengths:
-  Tech Score: 2414
-  Unit Score: 2032
-  Average Score: 2223
-  Stat Strength: 1387
-  Total Strength: 2032
-  Planet Strength: 2032
+  Tech Score: 1717
+  Unit Score: 1717
+  Average Score: 1717
+  Stat Strength: 1157
+  Total Strength: 1717
+  Planet Strength: 1717
   Space Strength: 0
-  Garrison Strength: 524
+  Garrison Strength: 495
 Statistics:
-  Movement Type: mech
-  Move Points: 15
-  Spot: 12
-  Camouflage: 6
-  Agility: 10
-  Armor: 21
-  Psy Defense: 21
-  Rank: 131
+  Movement Type: craft
+  Move Points: 12
+  Spot: 10
+  Camouflage: 7
+  Agility: 8
+  Armor: 20
+  Psy Defense: 20
+  Rank: 52
 Attacks:
-  Air: 21/17
-  Indirect: 18/16
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 93
-Build Cost: 928
+  Close: 28/20
+Cargo Space: 1
+Can tow units that can be towed
+Upkeep / Maintenance: 11
+Build Cost: 109
 Build Resource Requirements:
   Food: 2
-  Energy: 7
-  Metal: 8
-  Trace: 13
+  Energy: 8
+  Metal: 13
+  Trace: 15
   Exotica: 2
-  Chemicals: 14
-  Electronics: 19
-  Ceramsteel: 9
-  Monopols: 21
-Build Medium Anti-Air Mech in Starport
+  Chemicals: 16
+  Biochems: 9
+  Electronics: 23
+  Ceramsteel: 14
+Build Amphibious Combat Vehicle (E) in Factory
 Time to Build / Upgrade: 3
-[12850] Technology Required to Build Unit (71):
-  [12850] Mechanized Warriors (71)
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Heavy Anti-Air Mech
-Nick Name: Avenger
+Name: Amphibious Combat Vehicle (P)
+Nick Name: ACV (P)
 Scores & Strengths:
-  Tech Score: 5401
-  Unit Score: 4857
-  Average Score: 5129
-  Stat Strength: 2959
-  Total Strength: 4857
-  Planet Strength: 4857
+  Tech Score: 1717
+  Unit Score: 1719
+  Average Score: 1718
+  Stat Strength: 711
+  Total Strength: 1719
+  Planet Strength: 1719
   Space Strength: 0
-  Garrison Strength: 1177
+  Garrison Strength: 459
 Statistics:
-  Movement Type: mech
-  Move Points: 17
-  Spot: 14
-  Camouflage: 10
-  Agility: 14
-  Armor: 33
-  Psy Defense: 33
-  Rank: 139
+  Movement Type: craft
+  Move Points: 14
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 13
+  Psy Defense: 13
+  Rank: 125
 Attacks:
-  Air: 29/26
-  Indirect: 27/29
-  Direct: 19/19
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 191
-Build Cost: 1905
+  Direct: 28/20
+  Close: 28/16
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 13
+Build Cost: 130
 Build Resource Requirements:
   Food: 2
-  Energy: 11
-  Metal: 8
-  Trace: 21
+  Energy: 13
+  Metal: 6
+  Trace: 27
   Exotica: 2
-  Chemicals: 17
-  Biochems: 23
-  Electronics: 27
-  Ceramsteel: 11
-  Monopols: 29
-Build Heavy Anti-Air Mech in Starport
+  Chemicals: 18
+  Biochems: 16
+  Electronics: 33
+  Ceramsteel: 6
+Build Amphibious Combat Vehicle (P) in Factory
 Time to Build / Upgrade: 3
-[35965] Technology Required to Build Unit (64):
-  [35965] Advanced Mechanized Warriors (64)
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Assault Anti-Air Mech
-Nick Name: Phoenix
+Name: Amphibious Combat Vehicle (C)
+Nick Name: ACV (C)
 Scores & Strengths:
-  Tech Score: 5809
-  Unit Score: 5450
-  Average Score: 5630
-  Stat Strength: 3397
-  Total Strength: 5450
-  Planet Strength: 5450
+  Tech Score: 1717
+  Unit Score: 1719
+  Average Score: 1718
+  Stat Strength: 711
+  Total Strength: 1719
+  Planet Strength: 1719
   Space Strength: 0
-  Garrison Strength: 1250
+  Garrison Strength: 459
 Statistics:
-  Movement Type: mech
-  Move Points: 19
-  Spot: 16
-  Camouflage: 12
-  Agility: 18
-  Armor: 34
-  Psy Defense: 34
+  Movement Type: craft
+  Move Points: 14
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 13
+  Psy Defense: 13
   Rank: 146
 Attacks:
-  Air: 29/27
-  Indirect: 29/30
-  Direct: 20/20
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 253
-Build Cost: 2531
+  Water: 28/20
+  Indirect: 28/16
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 10
+Build Cost: 101
 Build Resource Requirements:
-  Food: 1
-  Energy: 11
-  Metal: 7
-  Trace: 10
+  Food: 2
+  Energy: 13
+  Metal: 6
+  Trace: 27
   Exotica: 2
-  Chemicals: 17
-  Biochems: 23
-  Electronics: 15
-  Ceramsteel: 10
-  Wetware: 9
-  Monopols: 28
-Build Assault Anti-Air Mech in Starport
-Time to Build / Upgrade: 4
-[52710] Technologies Required to Build Unit (44):
-  [16745] Wetware (23)
-  [35965] Advanced Mechanized Warriors (64)
+  Chemicals: 18
+  Biochems: 9
+  Electronics: 19
+  Ceramsteel: 6
+Build Amphibious Combat Vehicle (C) in Factory
+Time to Build / Upgrade: 2
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Amphibious Combat Vehicle (H)
+Nick Name: ACV (H)
+Scores & Strengths:
+  Tech Score: 1717
+  Unit Score: 1719
+  Average Score: 1718
+  Stat Strength: 711
+  Total Strength: 1719
+  Planet Strength: 1719
+  Space Strength: 0
+  Garrison Strength: 459
+Statistics:
+  Movement Type: craft
+  Move Points: 14
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 13
+  Psy Defense: 13
+  Rank: 121
+Attacks:
+  Indirect: 28/20
+  Direct: 28/16
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 10
+Build Cost: 101
+Build Resource Requirements:
+  Food: 2
+  Energy: 13
+  Metal: 6
+  Trace: 27
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 9
+  Electronics: 19
+  Ceramsteel: 6
+Build Amphibious Combat Vehicle (H) in Factory
+Time to Build / Upgrade: 2
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Amphibious Combat Vehicle (A)
+Nick Name: ACV (A)
+Scores & Strengths:
+  Tech Score: 1717
+  Unit Score: 1719
+  Average Score: 1718
+  Stat Strength: 711
+  Total Strength: 1719
+  Planet Strength: 1719
+  Space Strength: 0
+  Garrison Strength: 459
+Statistics:
+  Movement Type: craft
+  Move Points: 14
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 13
+  Psy Defense: 13
+  Rank: 121
+Attacks:
+  Air: 28/20
+  Direct: 28/16
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 13
+Build Cost: 130
+Build Resource Requirements:
+  Food: 2
+  Energy: 13
+  Metal: 6
+  Trace: 27
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 16
+  Electronics: 33
+  Ceramsteel: 6
+Build Amphibious Combat Vehicle (A) in Factory
+Time to Build / Upgrade: 3
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

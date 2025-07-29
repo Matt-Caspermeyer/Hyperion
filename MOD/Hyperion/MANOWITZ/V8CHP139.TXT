@@ -1,276 +1,281 @@
-All units of the unit class Space Minesweeper are listed herein (6 in total):
+All units of the unit class Fighter Divebomber are listed herein (6 in total):
 
 --1--
-Name: Space Minesweeper
-Nick Name: SS-MS
+Name: Fighter Divebomber
+Nick Name: A-FDB
 Scores & Strengths:
-  Tech Score: 396
-  Unit Score: 790
-  Average Score: 593
-  Stat Strength: 715
-  Total Strength: 790
-  Planet Strength: 0
-  Space Strength: 790
-  Garrison Strength: 0
+  Tech Score: 498
+  Unit Score: 745
+  Average Score: 621
+  Stat Strength: 555
+  Total Strength: 745
+  Planet Strength: 745
+  Space Strength: 0
+  Garrison Strength: 235
 Statistics:
-  Movement Type: space
-  Move Points: 1
+  Movement Type: air
+  Move Points: 10
   Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 18
-  Psy Defense: 18
-  Rank: 130
+  Camouflage: 2
+  Agility: 15
+  Armor: 9
+  Psy Defense: 9
+  Rank: 156
 Attacks:
-  Direct Space: 9/5
-  Closed Space: 10/3
-Cargo Space: 1
-Immune to Plague
-Upkeep / Maintenance: 26
-Build Cost: 262
+  Air: 4/10
+  Indirect: 15/10
+Load aboard transport: YES
+Upkeep / Maintenance: 11
+Build Cost: 111
 Build Resource Requirements:
-  Food: 4
-  Energy: 3
-  Metal: 108
-  Trace: 21
-  Exotica: 4
-  Chemicals: 37
-  Electronics: 13
-Build Space Minesweeper in Starport
-Time to Build / Upgrade: 4
-[2125] Technologies Required to Build Unit (95):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [100] Psychosocial Engineering (100)
-  [60] Torpedo (98)
-  [795] Missiles (86)
+  Food: 13
+  Energy: 27
+  Metal: 78
+  Trace: 42
+  Exotica: 12
+  Chemicals: 28
+  Electronics: 10
+Build Fighter Divebomber in Factory
+Time to Build / Upgrade: 3
+[1675] Technologies Required to Build Unit (86):
+  [275] Artifical Line of Sight (84)
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Jump Minesweeper
-Nick Name: JJ-MS
+Name: Divebomber
+Nick Name: Wailer
 Scores & Strengths:
-  Tech Score: 481
-  Unit Score: 960
-  Average Score: 720
-  Stat Strength: 867
-  Total Strength: 960
-  Planet Strength: 0
-  Space Strength: 960
-  Garrison Strength: 0
+  Tech Score: 498
+  Unit Score: 746
+  Average Score: 622
+  Stat Strength: 538
+  Total Strength: 746
+  Planet Strength: 746
+  Space Strength: 0
+  Garrison Strength: 224
 Statistics:
-  Movement Type: jump
-  Move Points: 1
+  Movement Type: air
+  Move Points: 11
   Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 20
-  Psy Defense: 20
-  Rank: 158
+  Camouflage: 3
+  Agility: 12
+  Armor: 10
+  Psy Defense: 10
+  Rank: 159
 Attacks:
-  Direct Space: 10/6
-  Closed Space: 11/3
-Cargo Space: 1
-Immune to Plague
-Upkeep / Maintenance: 143
-Build Cost: 1432
+  Air: 2/8
+  Indirect: 16/12
+Load aboard transport: YES
+Upkeep / Maintenance: 11
+Build Cost: 113
 Build Resource Requirements:
-  Food: 4
-  Energy: 4
-  Metal: 118
-  Trace: 23
-  Exotica: 3
-  Chemicals: 46
-  Electronics: 16
-S  ingularities: 2
-Build Jump Minesweeper in Starport
+  Food: 12
+  Energy: 26
+  Metal: 96
+  Trace: 42
+  Exotica: 11
+  Chemicals: 27
+  Electronics: 8
+Build Divebomber in Factory
 Time to Build / Upgrade: 4
-[2565] Technologies Required to Build Unit (92):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [100] Psychosocial Engineering (100)
-  [60] Torpedo (98)
-  [795] Missiles (86)
-  [1235] Jump Rocketry (76)
+[1675] Technologies Required to Build Unit (86):
+  [275] Artifical Line of Sight (84)
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Space Repair Ship
-Nick Name: SS-RS
+Name: Power Divebomber
+Nick Name: Banshee
 Scores & Strengths:
-  Tech Score: 2580
-  Unit Score: 2160
-  Average Score: 2370
-  Stat Strength: 2160
-  Total Strength: 2160
-  Planet Strength: 0
+  Tech Score: 2770
+  Unit Score: 3504
+  Average Score: 3137
+  Stat Strength: 2345
+  Total Strength: 3504
+  Planet Strength: 3504
   Space Strength: 0
-  Garrison Strength: 0
+  Garrison Strength: 687
 Statistics:
-  Movement Type: space
-  Move Points: 10
+  Movement Type: air
+  Move Points: 26
   Spot: 12
-  Camouflage: 4
-  Agility: 10
-  Armor: 30
-  Psy Defense: 30
-  Rank: 174
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 25
-Build Cost: 250
+  Camouflage: 7
+  Agility: 18
+  Armor: 24
+  Psy Defense: 24
+  Rank: 222
+Attacks:
+  Air: 5/19
+  Indirect: 38/28
+Load aboard transport: YES
+Upkeep / Maintenance: 117
+Build Cost: 1165
 Build Resource Requirements:
-  Food: 2
-  Energy: 2
-  Metal: 26
-  Trace: 3
-  Exotica: 2
-  Chemicals: 8
-  Biochems: 14
-  Electronics: 4
-  Ceramsteel: 29
-Build Space Repair Ship in Starport
-Time to Build / Upgrade: 2
-[14045] Technology Required to Build Unit (84):
-  [14045] Space Escorts (84)
+  Food: 5
+  Energy: 16
+  Metal: 5
+  Trace: 33
+  Exotica: 5
+  Chemicals: 29
+  Electronics: 14
+  Ceramsteel: 13
+  Monopols: 41
+Build Power Divebomber in Factory
+Time to Build / Upgrade: 4
+[15440] Technology Required to Build Unit (79):
+  [15440] Power Aircraft (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Space Destroyer Tender
-Nick Name: SS-DT
+Name: 3rd-Republic Hyper Bomber
+Nick Name: Salvonator
 Scores & Strengths:
-  Tech Score: 2580
-  Unit Score: 2165
-  Average Score: 2373
-  Stat Strength: 1877
-  Total Strength: 2165
-  Planet Strength: 0
-  Space Strength: 2165
-  Garrison Strength: 0
+  Tech Score: 4822
+  Unit Score: 4355
+  Average Score: 4589
+  Stat Strength: 2313
+  Total Strength: 4355
+  Planet Strength: 4355
+  Space Strength: 0
+  Garrison Strength: 697
 Statistics:
-  Movement Type: space
-  Move Points: 16
-  Spot: 12
-  Camouflage: 2
-  Agility: 11
-  Armor: 26
-  Psy Defense: 26
-  Rank: 250
+  Movement Type: air
+  Move Points: 39
+  Spot: 10
+  Camouflage: 6
+  Agility: 12
+  Armor: 16
+  Psy Defense: 16
+  Rank: 261
 Attacks:
-  Direct Space: 10/16
-  Closed Space: 8/16
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 30
-Build Cost: 301
+  Air: 11/22
+  Indirect: 30/60
+Load aboard transport: YES
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 144
+Build Cost: 1437
 Build Resource Requirements:
   Food: 3
-  Energy: 11
-  Metal: 19
-  Trace: 5
+  Energy: 24
+  Metal: 1
+  Trace: 4
   Exotica: 3
-  Chemicals: 20
+  Chemicals: 30
   Biochems: 18
-  Electronics: 7
-  Ceramsteel: 21
-Build Space Destroyer Tender in Starport
-Time to Build / Upgrade: 2
-[14045] Technology Required to Build Unit (84):
-  [14045] Space Escorts (84)
+  Electronics: 3
+  Ceramsteel: 2
+  Wetware: 2
+  Monopols: 41
+Build 3rd-Republic Hyper Bomber in Factory
+Time to Build / Upgrade: 3
+[42355] Technologies Required to Build Unit (63):
+  [26915] Rocket Legion (47)
+  [15440] Power Aircraft (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Jump Repair Ship
-Nick Name: JJ-RS
+Name: Morph Divebomber
+Nick Name: Bansheewolf
 Scores & Strengths:
-  Tech Score: 4325
-  Unit Score: 3553
-  Average Score: 3939
-  Stat Strength: 3553
-  Total Strength: 3553
-  Planet Strength: 0
+  Tech Score: 8352
+  Unit Score: 8183
+  Average Score: 8267
+  Stat Strength: 6407
+  Total Strength: 8183
+  Planet Strength: 8183
   Space Strength: 0
-  Garrison Strength: 0
+  Garrison Strength: 1219
 Statistics:
-  Movement Type: jump
-  Move Points: 13
-  Spot: 14
-  Camouflage: 5
-  Agility: 11
-  Armor: 39
-  Psy Defense: 39
-  Rank: 214
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 456
-Build Cost: 4555
+  Movement Type: air
+  Move Points: 45
+  Spot: 26
+  Camouflage: 15
+  Agility: 41
+  Armor: 30
+  Psy Defense: 30
+  Rank: 283
+Attacks:
+  Air: 15/26
+  Indirect: 42/33
+Load aboard transport: YES
+Upkeep / Maintenance: 119
+Build Cost: 1189
 Build Resource Requirements:
-  Food: 1
-  Energy: 1
-  Metal: 14
-  Trace: 2
-  Exotica: 1
-  Chemicals: 7
-  Biochems: 12
-  Electronics: 10
-  Ceramsteel: 19
-  Monopols: 21
-S  ingularities: 4
-Build Jump Repair Ship in Starport
+  Food: 3
+  Energy: 9
+  Metal: 2
+  Trace: 7
+  Exotica: 3
+  Chemicals: 13
+  Biochems: 17
+  Electronics: 8
+  Ceramsteel: 4
+  Wetware: 5
+  Monopols: 20
+Build Morph Divebomber in Factory
 Time to Build / Upgrade: 3
-[27965] Technology Required to Build Unit (75):
-  [27965] Jump Escorts (75)
+[100255] Technologies Required to Build Unit (64):
+  [1785] Rotary Autocannon (90)
+  [45010] Hover Navalcraft (52)
+  [53460] Polymorphonic Patrolcraft (50)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Jump Destroyer Tender
-Nick Name: JJ-DT
+Name: Stealth Divebomber
+Nick Name: Spirit Wolf
 Scores & Strengths:
-  Tech Score: 4325
-  Unit Score: 3610
-  Average Score: 3968
-  Stat Strength: 3127
-  Total Strength: 3610
-  Planet Strength: 0
-  Space Strength: 3610
-  Garrison Strength: 0
+  Tech Score: 8583
+  Unit Score: 8416
+  Average Score: 8499
+  Stat Strength: 6394
+  Total Strength: 8416
+  Planet Strength: 8416
+  Space Strength: 0
+  Garrison Strength: 1227
 Statistics:
-  Movement Type: jump
-  Move Points: 21
-  Spot: 14
-  Camouflage: 3
-  Agility: 13
-  Armor: 34
-  Psy Defense: 34
-  Rank: 299
+  Movement Type: air
+  Move Points: 47
+  Spot: 26
+  Camouflage: 35
+  Agility: 22
+  Armor: 30
+  Psy Defense: 30
+  Rank: 288
 Attacks:
-  Direct Space: 13/21
-  Closed Space: 10/21
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 580
-Build Cost: 5799
+  Air: 17/30
+  Indirect: 42/36
+Load aboard transport: YES
+Upkeep / Maintenance: 113
+Build Cost: 1126
 Build Resource Requirements:
   Food: 2
-  Energy: 7
-  Metal: 10
-  Trace: 4
-  Exotica: 2
-  Chemicals: 15
-  Biochems: 16
-  Electronics: 12
-  Ceramsteel: 14
-  Monopols: 27
-S  ingularities: 5
-Build Jump Destroyer Tender in Starport
+  Energy: 9
+  Metal: 2
+  Trace: 10
+  Exotica: 3
+  Chemicals: 12
+  Biochems: 17
+  Electronics: 13
+  Ceramsteel: 4
+  Wetware: 3
+  Monopols: 20
+Build Stealth Divebomber in Factory
 Time to Build / Upgrade: 3
-[27965] Technology Required to Build Unit (75):
-  [27965] Jump Escorts (75)
+[101965] Technologies Required to Build Unit (59):
+  [1785] Rotary Autocannon (90)
+  [45010] Hover Navalcraft (52)
+  [55170] Neumonic Patrolcraft (35)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

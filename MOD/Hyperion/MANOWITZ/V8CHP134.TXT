@@ -1,423 +1,393 @@
-All units of the unit class Jet-Propulsion Fighter are listed herein (9 in total):
+All units of the unit class Torpedo Bomber Aircraft are listed herein (9 in total):
 
 --1--
-Name: Jet-Propulsion Fighter
-Nick Name: Tiger
+Name: Torpedo Bomber Aircraft
+Nick Name: A-ATB
 Scores & Strengths:
-  Tech Score: 555
-  Unit Score: 694
-  Average Score: 624
-  Stat Strength: 540
-  Total Strength: 694
-  Planet Strength: 694
+  Tech Score: 671
+  Unit Score: 670
+  Average Score: 670
+  Stat Strength: 485
+  Total Strength: 670
+  Planet Strength: 670
   Space Strength: 0
-  Garrison Strength: 163
+  Garrison Strength: 185
 Statistics:
   Movement Type: air
-  Move Points: 18
+  Move Points: 13
   Spot: 6
   Camouflage: 4
-  Agility: 6
-  Armor: 8
-  Psy Defense: 8
-  Rank: 150
+  Agility: 8
+  Armor: 10
+  Psy Defense: 10
+  Rank: 113
 Attacks:
-  Air: 10/7
-  Indirect: 12/7
+  Water: 4/20
+  Air: 8/2
+  Indirect: 4/20
+  Direct: 3/3
 Load aboard transport: YES
-Upkeep / Maintenance: 10
-Build Cost: 98
+Upkeep / Maintenance: 8
+Build Cost: 80
 Build Resource Requirements:
-  Food: 11
-  Energy: 26
-  Metal: 88
-  Trace: 19
-  Exotica: 11
-  Chemicals: 28
-  Electronics: 11
-Build Jet-Propulsion Fighter in Factory
+  Food: 6
+  Energy: 44
+  Metal: 28
+  Trace: 11
+  Exotica: 6
+  Chemicals: 44
+  Electronics: 8
+Build Torpedo Bomber Aircraft in Factory
 Time to Build / Upgrade: 3
-[1810] Technology Required to Build Unit (86):
-  [1810] Jet-Propulsion Aircraft (86)
+[2595] Technologies Required to Build Unit (89):
+  [1195] Naval Warfare (90)
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Jet-Propulsion Fighter II
-Nick Name: Tiger II
+Name: Heavy Bomber
+Nick Name: A-BH
 Scores & Strengths:
-  Tech Score: 1142
-  Unit Score: 1362
-  Average Score: 1252
-  Stat Strength: 1052
-  Total Strength: 1362
-  Planet Strength: 1362
+  Tech Score: 458
+  Unit Score: 686
+  Average Score: 572
+  Stat Strength: 574
+  Total Strength: 686
+  Planet Strength: 686
   Space Strength: 0
-  Garrison Strength: 267
+  Garrison Strength: 190
 Statistics:
   Movement Type: air
-  Move Points: 26
-  Spot: 7
-  Camouflage: 6
+  Move Points: 13
+  Spot: 8
+  Camouflage: 2
   Agility: 7
-  Armor: 11
-  Psy Defense: 11
-  Rank: 165
+  Armor: 12
+  Psy Defense: 12
+  Rank: 149
 Attacks:
-  Air: 14/10
-  Indirect: 17/10
+  Air: 7/8
+  Indirect: 4/14
 Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 77
+Upkeep / Maintenance: 14
+Build Cost: 144
 Build Resource Requirements:
-  Food: 8
-  Energy: 18
-  Metal: 17
-  Trace: 16
-  Exotica: 8
-  Chemicals: 19
-  Biochems: 9
-  Electronics: 7
-Build Jet-Propulsion Fighter II in Factory
-Time to Build / Upgrade: 2
-[7115] Technologies Required to Build Unit (88):
-  [795] Missiles (86)
-  [1810] Jet-Propulsion Aircraft (86)
-  [2725] Naval Capital Ships (88)
-  [1785] Rotary Autocannon (90)
+  Food: 11
+  Energy: 33
+  Metal: 198
+  Trace: 21
+  Exotica: 11
+  Chemicals: 33
+  Electronics: 10
+Build Heavy Bomber in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Atmospheric Fighter
-Nick Name: Gryphon
+Name: Heavy Fighter
+Nick Name: A-FH
 Scores & Strengths:
-  Tech Score: 1630
-  Unit Score: 1986
-  Average Score: 1808
-  Stat Strength: 1530
-  Total Strength: 1986
-  Planet Strength: 1986
+  Tech Score: 458
+  Unit Score: 686
+  Average Score: 572
+  Stat Strength: 554
+  Total Strength: 686
+  Planet Strength: 686
   Space Strength: 0
-  Garrison Strength: 356
+  Garrison Strength: 198
 Statistics:
   Movement Type: air
-  Move Points: 31
+  Move Points: 12
   Spot: 8
-  Camouflage: 7
-  Agility: 8
-  Armor: 14
-  Psy Defense: 14
-  Rank: 176
+  Camouflage: 2
+  Agility: 10
+  Armor: 11
+  Psy Defense: 11
+  Rank: 147
 Attacks:
-  Air: 17/12
-  Indirect: 21/12
+  Air: 11/7
+  Indirect: 5/11
 Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 118
+Upkeep / Maintenance: 14
+Build Cost: 137
 Build Resource Requirements:
-  Food: 11
+  Food: 12
   Energy: 27
-  Metal: 6
-  Trace: 19
+  Metal: 166
+  Trace: 32
   Exotica: 11
-  Chemicals: 44
-  Electronics: 14
-  Ceramsteel: 15
-Build Atmospheric Fighter in Factory
-Time to Build / Upgrade: 3
-[7610] Technology Required to Build Unit (80):
-  [7610] Atmospheric Aircraft (80)
+  Chemicals: 27
+  Electronics: 15
+Build Heavy Fighter in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Adv. Atmospheric Fighter
-Nick Name: Gryphon II
+Name: Light Fighter
+Nick Name: A-FL
 Scores & Strengths:
-  Tech Score: 1774
-  Unit Score: 2100
-  Average Score: 1937
-  Stat Strength: 1593
-  Total Strength: 2100
-  Planet Strength: 2100
+  Tech Score: 458
+  Unit Score: 686
+  Average Score: 572
+  Stat Strength: 536
+  Total Strength: 686
+  Planet Strength: 686
   Space Strength: 0
-  Garrison Strength: 371
+  Garrison Strength: 183
 Statistics:
   Movement Type: air
-  Move Points: 32
+  Move Points: 14
   Spot: 8
-  Camouflage: 7
-  Agility: 8
-  Armor: 14
-  Psy Defense: 14
-  Rank: 178
+  Camouflage: 2
+  Agility: 12
+  Armor: 8
+  Psy Defense: 8
+  Rank: 148
 Attacks:
-  Air: 18/13
-  Indirect: 21/13
+  Air: 13/6
+  Indirect: 9/8
 Load aboard transport: YES
 Upkeep / Maintenance: 12
-Build Cost: 119
+Build Cost: 123
 Build Resource Requirements:
-  Food: 11
+  Food: 14
   Energy: 27
-  Metal: 6
-  Trace: 18
-  Exotica: 11
-  Chemicals: 45
-  Electronics: 14
-  Ceramsteel: 15
-Build Adv. Atmospheric Fighter in Factory
-Time to Build / Upgrade: 3
-[8520] Technology Required to Build Unit (79):
-  [8520] Advanced Atmospheric Aircraft (79)
+  Metal: 88
+  Trace: 45
+  Exotica: 14
+  Chemicals: 27
+  Electronics: 19
+Build Light Fighter in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Atmospheric Fighter II
-Nick Name: Gryphon III
+Name: Fighter Bomber
+Nick Name: A-BF
 Scores & Strengths:
-  Tech Score: 2126
-  Unit Score: 2531
-  Average Score: 2329
-  Stat Strength: 1929
-  Total Strength: 2531
-  Planet Strength: 2531
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 533
+  Total Strength: 687
+  Planet Strength: 687
   Space Strength: 0
-  Garrison Strength: 427
+  Garrison Strength: 198
 Statistics:
   Movement Type: air
-  Move Points: 35
+  Move Points: 12
   Spot: 8
-  Camouflage: 8
-  Agility: 8
-  Armor: 16
-  Psy Defense: 16
-  Rank: 185
+  Camouflage: 2
+  Agility: 11
+  Armor: 10
+  Psy Defense: 10
+  Rank: 148
 Attacks:
-  Air: 20/14
-  Indirect: 23/14
+  Air: 8/11
+  Indirect: 6/11
 Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 115
+Upkeep / Maintenance: 13
+Build Cost: 129
 Build Resource Requirements:
-  Food: 8
-  Energy: 21
-  Metal: 7
-  Trace: 15
-  Exotica: 8
-  Chemicals: 29
-  Biochems: 10
-  Electronics: 10
-  Ceramsteel: 10
-Build Atmospheric Fighter II in Factory
-Time to Build / Upgrade: 3
-[15250] Technologies Required to Build Unit (85):
-  [1785] Rotary Autocannon (90)
-  [5855] Guided Missile Navalcraft (84)
-  [7610] Atmospheric Aircraft (80)
+  Food: 12
+  Energy: 33
+  Metal: 137
+  Trace: 27
+  Exotica: 11
+  Chemicals: 33
+  Electronics: 12
+Build Fighter Bomber in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Laser Fighter
-Nick Name: Pegasus
+Name: Ground-Attack Fighter
+Nick Name: A-FGA
 Scores & Strengths:
-  Tech Score: 4663
-  Unit Score: 5386
-  Average Score: 5024
-  Stat Strength: 4106
-  Total Strength: 5386
-  Planet Strength: 5386
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 585
+  Total Strength: 687
+  Planet Strength: 687
   Space Strength: 0
-  Garrison Strength: 746
+  Garrison Strength: 207
 Statistics:
   Movement Type: air
-  Move Points: 52
-  Spot: 10
-  Camouflage: 12
-  Agility: 10
-  Armor: 23
-  Psy Defense: 23
-  Rank: 230
+  Move Points: 11
+  Spot: 8
+  Camouflage: 2
+  Agility: 14
+  Armor: 10
+  Psy Defense: 10
+  Rank: 115
 Attacks:
-  Air: 29/20
-  Indirect: 35/20
+  Air: 6/6
+  Indirect: 5/6
+  Direct: 3/6
+  Close: 6/3
 Load aboard transport: YES
-Upkeep / Maintenance: 100
-Build Cost: 1001
+Upkeep / Maintenance: 13
+Build Cost: 126
 Build Resource Requirements:
-  Food: 5
-  Energy: 14
-  Metal: 3
-  Trace: 15
-  Exotica: 6
-  Chemicals: 21
-  Biochems: 8
-  Electronics: 13
-  Ceramsteel: 5
-  Monopols: 28
-Build Laser Fighter in Factory
-Time to Build / Upgrade: 3
-[45100] Technologies Required to Build Unit (81):
-  [1785] Rotary Autocannon (90)
-  [27875] PTS Meson Navalcraft (74)
-  [15440] Power Aircraft (79)
+  Food: 13
+  Energy: 26
+  Metal: 137
+  Trace: 31
+  Exotica: 12
+  Chemicals: 26
+  Electronics: 15
+Build Ground-Attack Fighter in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Psy Laser Fighter
-Nick Name: Psy Fighter
+Name: Light Bomber
+Nick Name: A-BL
 Scores & Strengths:
-  Tech Score: 4686
-  Unit Score: 5681
-  Average Score: 5184
-  Stat Strength: 3748
-  Total Strength: 5681
-  Planet Strength: 5681
-  Space Strength: 4105
-  Garrison Strength: 837
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 558
+  Total Strength: 687
+  Planet Strength: 687
+  Space Strength: 0
+  Garrison Strength: 207
 Statistics:
   Movement Type: air
-  Move Points: 46
-  Spot: 12
-  Camouflage: 8
-  Agility: 12
-  Armor: 16
-  Psy Defense: 32
-  Rank: 229
+  Move Points: 11
+  Spot: 8
+  Camouflage: 2
+  Agility: 13
+  Armor: 10
+  Psy Defense: 10
+  Rank: 150
 Attacks:
-  Psychic: 17/21
-  Air: 30/30
-  Indirect: 26/26
+  Air: 13/3
+  Indirect: 9/10
 Load aboard transport: YES
-Upkeep / Maintenance: 277
-Build Cost: 2769
+Upkeep / Maintenance: 14
+Build Cost: 136
 Build Resource Requirements:
-  Food: 5
-  Energy: 15
-  Metal: 3
-  Trace: 12
-  Exotica: 5
-  Chemicals: 22
-  Biochems: 7
-  Electronics: 14
-  Ceramsteel: 6
-  Monopols: 31
-  Gems: 75
-Build Psy Laser Fighter in Factory
+  Food: 12
+  Energy: 24
+  Metal: 137
+  Trace: 46
+  Exotica: 12
+  Chemicals: 24
+  Electronics: 20
+Build Light Bomber in Factory
 Time to Build / Upgrade: 4
-[45430] Technologies Required to Build Unit (81):
-  [330] Holy Warriors (82)
-  [1785] Rotary Autocannon (90)
-  [27875] PTS Meson Navalcraft (74)
-  [15440] Power Aircraft (79)
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Morph Fighter
-Nick Name: Wyvern
+Name: Medium Bomber
+Nick Name: A-BM
 Scores & Strengths:
-  Tech Score: 8352
-  Unit Score: 8185
-  Average Score: 8268
-  Stat Strength: 5279
-  Total Strength: 8185
-  Planet Strength: 8185
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 575
+  Total Strength: 687
+  Planet Strength: 687
   Space Strength: 0
-  Garrison Strength: 1135
+  Garrison Strength: 198
 Statistics:
   Movement Type: air
-  Move Points: 52
-  Spot: 18
-  Camouflage: 13
-  Agility: 32
-  Armor: 23
-  Psy Defense: 23
-  Rank: 278
+  Move Points: 12
+  Spot: 8
+  Camouflage: 2
+  Agility: 11
+  Armor: 11
+  Psy Defense: 11
+  Rank: 148
 Attacks:
-  Air: 41/41
-  Indirect: 35/35
+  Air: 7/6
+  Indirect: 10/7
 Load aboard transport: YES
-Upkeep / Maintenance: 145
-Build Cost: 1450
+Upkeep / Maintenance: 13
+Build Cost: 130
 Build Resource Requirements:
-  Food: 3
-  Energy: 12
-  Metal: 1
-  Trace: 7
-  Exotica: 3
-  Chemicals: 16
-  Biochems: 22
-  Electronics: 9
-  Ceramsteel: 2
-  Wetware: 7
-  Monopols: 24
-Build Morph Fighter in Factory
-Time to Build / Upgrade: 3
-[100255] Technologies Required to Build Unit (64):
-  [1785] Rotary Autocannon (90)
-  [45010] Hover Navalcraft (52)
-  [53460] Polymorphonic Patrolcraft (50)
+  Food: 12
+  Energy: 22
+  Metal: 166
+  Trace: 33
+  Exotica: 11
+  Chemicals: 22
+  Electronics: 11
+Build Medium Bomber in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Stealth Fighter
-Nick Name: Dragon
+Name: Medium Fighter
+Nick Name: A-FM
 Scores & Strengths:
-  Tech Score: 8583
-  Unit Score: 8417
-  Average Score: 8500
-  Stat Strength: 5575
-  Total Strength: 8417
-  Planet Strength: 8417
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 558
+  Total Strength: 687
+  Planet Strength: 687
   Space Strength: 0
-  Garrison Strength: 1167
+  Garrison Strength: 190
 Statistics:
   Movement Type: air
-  Move Points: 52
-  Spot: 18
-  Camouflage: 33
-  Agility: 20
-  Armor: 23
-  Psy Defense: 23
-  Rank: 277
+  Move Points: 13
+  Spot: 8
+  Camouflage: 2
+  Agility: 11
+  Armor: 10
+  Psy Defense: 10
+  Rank: 145
 Attacks:
-  Air: 41/42
-  Indirect: 32/35
+  Air: 12/7
+  Indirect: 5/9
 Load aboard transport: YES
-Upkeep / Maintenance: 139
-Build Cost: 1391
+Upkeep / Maintenance: 13
+Build Cost: 131
 Build Resource Requirements:
-  Food: 2
-  Energy: 11
-  Metal: 1
-  Trace: 9
-  Exotica: 3
-  Chemicals: 15
-  Biochems: 21
-  Electronics: 14
-  Ceramsteel: 2
-  Wetware: 6
-  Monopols: 23
-Build Stealth Fighter in Factory
-Time to Build / Upgrade: 3
-[101965] Technologies Required to Build Unit (59):
-  [1785] Rotary Autocannon (90)
-  [45010] Hover Navalcraft (52)
-  [55170] Neumonic Patrolcraft (35)
+  Food: 13
+  Energy: 26
+  Metal: 137
+  Trace: 35
+  Exotica: 12
+  Chemicals: 26
+  Electronics: 17
+Build Medium Fighter in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
