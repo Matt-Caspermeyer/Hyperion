@@ -3,7 +3,7 @@
 //
 // PlayerTable.DAT - this file defines all the player tables that the game uses
 //
-// 0 = TRUE, 0 = FALSE
+// 1 = TRUE, 0 = FALSE
 //
 //   L   H   D   H   a   L   C   S   V   G   F   S   E   R
 //   i   a   e   a   l   e   h   y   a   r   l   t   y   e
@@ -50,7 +50,10 @@
 //                             MODder may decide that they want B2 players to build cities on that planet. After the designated year, the human
 //                             or AI player will be able to build cities on B2.
 //
+// Hyperion Changes:
+//
 // All AI players produce, build cities, and do research
 // The League & Church now eat / consume food
 // No players skip their turn
-// Rebels are 100% productive
+// Rebels are 10% productive
+// Remove B2 restrictions on AI and city building
