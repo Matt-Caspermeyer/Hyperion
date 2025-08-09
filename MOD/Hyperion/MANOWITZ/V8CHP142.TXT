@@ -1,251 +1,423 @@
-All units of the unit class Airborne Warning Aircraft are listed herein (6 in total):
+All units of the unit class Jet-Propulsion Fighter are listed herein (9 in total):
 
 --1--
-Name: Airborne Warning Aircraft
-Nick Name: AWACS
+Name: Jet-Propulsion Fighter
+Nick Name: Tiger
 Scores & Strengths:
-  Tech Score: 835
-  Unit Score: 837
-  Average Score: 836
-  Stat Strength: 837
-  Total Strength: 837
-  Planet Strength: 837
+  Tech Score: 555
+  Unit Score: 694
+  Average Score: 624
+  Stat Strength: 540
+  Total Strength: 694
+  Planet Strength: 694
   Space Strength: 0
-  Garrison Strength: 252
+  Garrison Strength: 163
 Statistics:
   Movement Type: air
-  Move Points: 11
-  Spot: 20
+  Move Points: 18
+  Spot: 6
   Camouflage: 4
-  Agility: 10
-  Armor: 10
-  Psy Defense: 10
-  Rank: 749
+  Agility: 6
+  Armor: 8
+  Psy Defense: 8
+  Rank: 150
+Attacks:
+  Air: 10/7
+  Indirect: 12/7
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 14
-Build Cost: 141
+Upkeep / Maintenance: 10
+Build Cost: 98
 Build Resource Requirements:
-  Food: 15
-  Energy: 9
-  Metal: 96
+  Food: 11
+  Energy: 26
+  Metal: 88
   Trace: 19
-  Exotica: 14
-  Chemicals: 10
-  Electronics: 22
-Build Airborne Warning Aircraft in Factory
+  Exotica: 11
+  Chemicals: 28
+  Electronics: 11
+Build Jet-Propulsion Fighter in Factory
 Time to Build / Upgrade: 3
-[3275] Technologies Required to Build Unit (82):
-  [1465] Airborne-Pulse Radar (78)
+[1810] Technology Required to Build Unit (86):
   [1810] Jet-Propulsion Aircraft (86)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Airborne Warning Aircraft II
-Nick Name: AWACS II
+Name: Jet-Propulsion Fighter II
+Nick Name: Tiger II
 Scores & Strengths:
-  Tech Score: 1126
-  Unit Score: 1087
-  Average Score: 1107
-  Stat Strength: 1087
-  Total Strength: 1087
-  Planet Strength: 1087
+  Tech Score: 1142
+  Unit Score: 1362
+  Average Score: 1252
+  Stat Strength: 1052
+  Total Strength: 1362
+  Planet Strength: 1362
   Space Strength: 0
-  Garrison Strength: 301
+  Garrison Strength: 267
 Statistics:
   Movement Type: air
-  Move Points: 13
-  Spot: 22
-  Camouflage: 5
-  Agility: 11
-  Armor: 12
-  Psy Defense: 12
-  Rank: 752
+  Move Points: 26
+  Spot: 7
+  Camouflage: 6
+  Agility: 7
+  Armor: 11
+  Psy Defense: 11
+  Rank: 165
+Attacks:
+  Air: 14/10
+  Indirect: 17/10
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 17
-Build Cost: 170
+Upkeep / Maintenance: 8
+Build Cost: 77
 Build Resource Requirements:
-  Food: 15
-  Energy: 9
-  Metal: 126
-  Trace: 20
-  Exotica: 15
-  Chemicals: 11
-  Electronics: 25
-Build Airborne Warning Aircraft II in Factory
-Time to Build / Upgrade: 3
-[4805] Technologies Required to Build Unit (82):
-  [1605] Imaging Radar (78)
-  [3200] Supersonic Aircraft (85)
+  Food: 8
+  Energy: 18
+  Metal: 17
+  Trace: 16
+  Exotica: 8
+  Chemicals: 19
+  Biochems: 9
+  Electronics: 7
+Build Jet-Propulsion Fighter II in Factory
+Time to Build / Upgrade: 2
+[7115] Technologies Required to Build Unit (88):
+  [795] Missiles (86)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2725] Naval Capital Ships (88)
+  [1785] Rotary Autocannon (90)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Airborne Warning Aircraft III
-Nick Name: AWACS III
+Name: Atmospheric Fighter
+Nick Name: Gryphon
 Scores & Strengths:
-  Tech Score: 1441
-  Unit Score: 1209
-  Average Score: 1325
-  Stat Strength: 1209
-  Total Strength: 1209
-  Planet Strength: 1209
+  Tech Score: 1630
+  Unit Score: 1986
+  Average Score: 1808
+  Stat Strength: 1530
+  Total Strength: 1986
+  Planet Strength: 1986
   Space Strength: 0
-  Garrison Strength: 323
+  Garrison Strength: 356
 Statistics:
   Movement Type: air
-  Move Points: 14
-  Spot: 23
-  Camouflage: 5
-  Agility: 11
-  Armor: 13
-  Psy Defense: 13
-  Rank: 754
+  Move Points: 31
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 14
+  Psy Defense: 14
+  Rank: 176
+Attacks:
+  Air: 17/12
+  Indirect: 21/12
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 16
-Build Cost: 159
+Upkeep / Maintenance: 12
+Build Cost: 118
 Build Resource Requirements:
   Food: 11
-  Energy: 7
-  Metal: 148
-  Trace: 13
+  Energy: 27
+  Metal: 6
+  Trace: 19
   Exotica: 11
-  Chemicals: 10
-  Electronics: 20
-Build Airborne Warning Aircraft III in Factory
+  Chemicals: 44
+  Electronics: 14
+  Ceramsteel: 15
+Build Atmospheric Fighter in Factory
 Time to Build / Upgrade: 3
-[7565] Technologies Required to Build Unit (79):
-  [1900] LASER (76)
-  [5665] Hypersonic Aircraft (82)
+[7610] Technology Required to Build Unit (80):
+  [7610] Atmospheric Aircraft (80)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Airborne Warning Aircraft IV
-Nick Name: AWACS IV
+Name: Adv. Atmospheric Fighter
+Nick Name: Gryphon II
 Scores & Strengths:
-  Tech Score: 1767
-  Unit Score: 1462
-  Average Score: 1614
-  Stat Strength: 1462
-  Total Strength: 1462
-  Planet Strength: 1462
+  Tech Score: 1774
+  Unit Score: 2100
+  Average Score: 1937
+  Stat Strength: 1593
+  Total Strength: 2100
+  Planet Strength: 2100
   Space Strength: 0
-  Garrison Strength: 365
+  Garrison Strength: 371
 Statistics:
   Movement Type: air
-  Move Points: 16
-  Spot: 24
-  Camouflage: 6
-  Agility: 12
-  Armor: 15
-  Psy Defense: 15
-  Rank: 757
+  Move Points: 32
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 14
+  Psy Defense: 14
+  Rank: 178
+Attacks:
+  Air: 18/13
+  Indirect: 21/13
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 11
-Build Cost: 108
+Upkeep / Maintenance: 12
+Build Cost: 119
 Build Resource Requirements:
-  Food: 10
-  Energy: 7
-  Metal: 7
-  Trace: 12
-  Exotica: 10
-  Chemicals: 13
-  Electronics: 19
-  Ceramsteel: 17
-Build Airborne Warning Aircraft IV in Factory
-Time to Build / Upgrade: 2
-[9710] Technologies Required to Build Unit (80):
-  [2100] High-Power LASER (80)
-  [7610] Atmospheric Aircraft (80)
+  Food: 11
+  Energy: 27
+  Metal: 6
+  Trace: 18
+  Exotica: 11
+  Chemicals: 45
+  Electronics: 14
+  Ceramsteel: 15
+Build Adv. Atmospheric Fighter in Factory
+Time to Build / Upgrade: 3
+[8520] Technology Required to Build Unit (79):
+  [8520] Advanced Atmospheric Aircraft (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Airborne Warning Aircraft V
-Nick Name: AWACS V
+Name: Atmospheric Fighter II
+Nick Name: Gryphon III
 Scores & Strengths:
-  Tech Score: 1946
-  Unit Score: 1544
-  Average Score: 1745
-  Stat Strength: 1544
-  Total Strength: 1544
-  Planet Strength: 1544
+  Tech Score: 2126
+  Unit Score: 2531
+  Average Score: 2329
+  Stat Strength: 1929
+  Total Strength: 2531
+  Planet Strength: 2531
   Space Strength: 0
-  Garrison Strength: 374
+  Garrison Strength: 427
 Statistics:
   Movement Type: air
-  Move Points: 17
-  Spot: 25
-  Camouflage: 6
-  Agility: 12
-  Armor: 15
-  Psy Defense: 15
-  Rank: 758
+  Move Points: 35
+  Spot: 8
+  Camouflage: 8
+  Agility: 8
+  Armor: 16
+  Psy Defense: 16
+  Rank: 185
+Attacks:
+  Air: 20/14
+  Indirect: 23/14
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 11
-Build Cost: 106
+Upkeep / Maintenance: 12
+Build Cost: 115
 Build Resource Requirements:
-  Food: 9
-  Energy: 7
+  Food: 8
+  Energy: 21
   Metal: 7
-  Trace: 11
-  Exotica: 9
-  Chemicals: 13
-  Electronics: 18
-  Ceramsteel: 17
-Build Airborne Warning Aircraft V in Factory
-Time to Build / Upgrade: 2
-[11510] Technologies Required to Build Unit (80):
-  [2990] Adaptive Optics (81)
-  [8520] Advanced Atmospheric Aircraft (79)
+  Trace: 15
+  Exotica: 8
+  Chemicals: 29
+  Biochems: 10
+  Electronics: 10
+  Ceramsteel: 10
+Build Atmospheric Fighter II in Factory
+Time to Build / Upgrade: 3
+[15250] Technologies Required to Build Unit (85):
+  [1785] Rotary Autocannon (90)
+  [5855] Guided Missile Navalcraft (84)
+  [7610] Atmospheric Aircraft (80)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Airborne Warning Aircraft VI
-Nick Name: AWACS VI
+Name: Laser Fighter
+Nick Name: Pegasus
 Scores & Strengths:
-  Tech Score: 2770
-  Unit Score: 1995
-  Average Score: 2383
-  Stat Strength: 1995
-  Total Strength: 1995
-  Planet Strength: 1995
+  Tech Score: 4663
+  Unit Score: 5386
+  Average Score: 5024
+  Stat Strength: 4106
+  Total Strength: 5386
+  Planet Strength: 5386
   Space Strength: 0
-  Garrison Strength: 446
+  Garrison Strength: 746
 Statistics:
   Movement Type: air
-  Move Points: 20
-  Spot: 27
-  Camouflage: 7
-  Agility: 13
-  Armor: 18
-  Psy Defense: 18
-  Rank: 765
+  Move Points: 52
+  Spot: 10
+  Camouflage: 12
+  Agility: 10
+  Armor: 23
+  Psy Defense: 23
+  Rank: 230
+Attacks:
+  Air: 29/20
+  Indirect: 35/20
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 52
-Build Cost: 518
+Upkeep / Maintenance: 100
+Build Cost: 1001
 Build Resource Requirements:
-  Food: 8
-  Energy: 4
+  Food: 5
+  Energy: 14
   Metal: 3
-  Trace: 11
-  Exotica: 8
-  Chemicals: 8
-  Electronics: 22
-  Ceramsteel: 7
-  Monopols: 14
-Build Airborne Warning Aircraft VI in Factory
-Time to Build / Upgrade: 2
-[19220] Technologies Required to Build Unit (79):
-  [3780] Beam Control (79)
+  Trace: 15
+  Exotica: 6
+  Chemicals: 21
+  Biochems: 8
+  Electronics: 13
+  Ceramsteel: 5
+  Monopols: 28
+Build Laser Fighter in Factory
+Time to Build / Upgrade: 3
+[45100] Technologies Required to Build Unit (81):
+  [1785] Rotary Autocannon (90)
+  [27875] PTS Meson Navalcraft (74)
   [15440] Power Aircraft (79)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Psy Laser Fighter
+Nick Name: Psy Fighter
+Scores & Strengths:
+  Tech Score: 4686
+  Unit Score: 5681
+  Average Score: 5184
+  Stat Strength: 3748
+  Total Strength: 5681
+  Planet Strength: 5681
+  Space Strength: 4105
+  Garrison Strength: 837
+Statistics:
+  Movement Type: air
+  Move Points: 46
+  Spot: 12
+  Camouflage: 8
+  Agility: 12
+  Armor: 16
+  Psy Defense: 32
+  Rank: 229
+Attacks:
+  Psychic: 17/21
+  Air: 30/30
+  Indirect: 26/26
+Load aboard transport: YES
+Upkeep / Maintenance: 277
+Build Cost: 2769
+Build Resource Requirements:
+  Food: 5
+  Energy: 15
+  Metal: 3
+  Trace: 12
+  Exotica: 5
+  Chemicals: 22
+  Biochems: 7
+  Electronics: 14
+  Ceramsteel: 6
+  Monopols: 31
+  Gems: 75
+Build Psy Laser Fighter in Factory
+Time to Build / Upgrade: 4
+[45430] Technologies Required to Build Unit (81):
+  [330] Holy Warriors (82)
+  [1785] Rotary Autocannon (90)
+  [27875] PTS Meson Navalcraft (74)
+  [15440] Power Aircraft (79)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Morph Fighter
+Nick Name: Wyvern
+Scores & Strengths:
+  Tech Score: 8352
+  Unit Score: 8185
+  Average Score: 8268
+  Stat Strength: 5279
+  Total Strength: 8185
+  Planet Strength: 8185
+  Space Strength: 0
+  Garrison Strength: 1135
+Statistics:
+  Movement Type: air
+  Move Points: 52
+  Spot: 18
+  Camouflage: 13
+  Agility: 32
+  Armor: 23
+  Psy Defense: 23
+  Rank: 278
+Attacks:
+  Air: 41/41
+  Indirect: 35/35
+Load aboard transport: YES
+Upkeep / Maintenance: 145
+Build Cost: 1450
+Build Resource Requirements:
+  Food: 3
+  Energy: 12
+  Metal: 1
+  Trace: 7
+  Exotica: 3
+  Chemicals: 16
+  Biochems: 22
+  Electronics: 9
+  Ceramsteel: 2
+  Wetware: 7
+  Monopols: 24
+Build Morph Fighter in Factory
+Time to Build / Upgrade: 3
+[100255] Technologies Required to Build Unit (64):
+  [1785] Rotary Autocannon (90)
+  [45010] Hover Navalcraft (52)
+  [53460] Polymorphonic Patrolcraft (50)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Stealth Fighter
+Nick Name: Dragon
+Scores & Strengths:
+  Tech Score: 8583
+  Unit Score: 8417
+  Average Score: 8500
+  Stat Strength: 5575
+  Total Strength: 8417
+  Planet Strength: 8417
+  Space Strength: 0
+  Garrison Strength: 1167
+Statistics:
+  Movement Type: air
+  Move Points: 52
+  Spot: 18
+  Camouflage: 33
+  Agility: 20
+  Armor: 23
+  Psy Defense: 23
+  Rank: 277
+Attacks:
+  Air: 41/42
+  Indirect: 32/35
+Load aboard transport: YES
+Upkeep / Maintenance: 139
+Build Cost: 1391
+Build Resource Requirements:
+  Food: 2
+  Energy: 11
+  Metal: 1
+  Trace: 9
+  Exotica: 3
+  Chemicals: 15
+  Biochems: 21
+  Electronics: 14
+  Ceramsteel: 2
+  Wetware: 6
+  Monopols: 23
+Build Stealth Fighter in Factory
+Time to Build / Upgrade: 3
+[101965] Technologies Required to Build Unit (59):
+  [1785] Rotary Autocannon (90)
+  [45010] Hover Navalcraft (52)
+  [55170] Neumonic Patrolcraft (35)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

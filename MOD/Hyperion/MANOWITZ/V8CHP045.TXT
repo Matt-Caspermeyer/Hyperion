@@ -1,516 +1,832 @@
-All units of the unit class Infantry Legion are listed herein (12 in total):
+All units of the unit class Officer Corp are listed herein (20 in total):
 
 --1--
-Name: Infantry Legion
-Nick Name: Infantry
+Name: Officer Corp
+Nick Name: Officer
 Scores & Strengths:
-  Tech Score: 135
-  Unit Score: 133
-  Average Score: 134
-  Stat Strength: 91
-  Total Strength: 133
-  Planet Strength: 133
+  Tech Score: 129
+  Unit Score: 129
+  Average Score: 129
+  Stat Strength: 102
+  Total Strength: 129
+  Planet Strength: 129
   Space Strength: 0
-  Garrison Strength: 76
-Statistics:
-  Movement Type: foot
-  Move Points: 3
-  Spot: 2
-  Camouflage: 2
-  Agility: 8
-  Armor: 3
-  Psy Defense: 1
-  Rank: 58
-Attacks:
-  Indirect: 3/4
-  Close: 6/5
-Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 22
-Build Resource Requirements:
-  Metal: 1
-  Trace: 18
-  Exotica: 7
-  Chemicals: 15
-Upgrade Peasant to Infantry Legion at Fort
-Time to Build / Upgrade: 1
-[375] Technologies Required to Build Unit (99):
-  [110] Mechanical & Aerospace Engineering (98)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---2--
-Name: Infantry Legion (PE)
-Nick Name: Inf (PE)
-Scores & Strengths:
-  Tech Score: 146
-  Unit Score: 138
-  Average Score: 142
-  Stat Strength: 91
-  Total Strength: 138
-  Planet Strength: 138
-  Space Strength: 0
-  Garrison Strength: 79
-Statistics:
-  Movement Type: foot
-  Move Points: 3
-  Spot: 2
-  Camouflage: 2
-  Agility: 8
-  Armor: 3
-  Psy Defense: 1
-  Rank: 58
-Attacks:
-  Indirect: 3/4
-  Close: 7/5
-Load aboard transport: YES
-May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 3
-Build Cost: 13
-Build Resource Requirements:
-  Metal: 1
-  Trace: 18
-  Exotica: 7
-  Chemicals: 14
-Upgrade Peasant to Infantry Legion (PE) at Fort
-Time to Build / Upgrade: 1
-[455] Technologies Required to Build Unit (95):
-  [110] Mechanical & Aerospace Engineering (98)
-  [165] Autocannon (98)
-  [180] Performance-Enhanced Soldiers (90)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---3--
-Name: Infantry Legion (BE)
-Nick Name: Inf (BE)
-Scores & Strengths:
-  Tech Score: 226
-  Unit Score: 210
-  Average Score: 218
-  Stat Strength: 127
-  Total Strength: 210
-  Planet Strength: 210
-  Space Strength: 0
-  Garrison Strength: 105
+  Garrison Strength: 64
 Statistics:
   Movement Type: foot
   Move Points: 4
-  Spot: 2
-  Camouflage: 3
-  Agility: 9
-  Armor: 4
-  Psy Defense: 1
-  Rank: 61
+  Spot: 4
+  Camouflage: 4
+  Agility: 6
+  Armor: 3
+  Psy Defense: 3
+  Rank: 667
 Attacks:
-  Indirect: 4/5
-  Close: 9/7
+  Close: 9/3
 Load aboard transport: YES
-May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 7
-Build Cost: 44
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 9
+Build Cost: 70
 Build Resource Requirements:
-  Metal: 1
-  Trace: 1
-  Biochems: 24
-Upgrade Infantry Legion to Infantry Legion (BE) at Biochem Plant
+  Metal: 5
+  Trace: 51
+  Exotica: 11
+  Chemicals: 9
+Upgrade Peasant to Officer Corp at Fort
 Time to Build / Upgrade: 1
-[795] Technologies Required to Build Unit (93):
-  [110] Mechanical & Aerospace Engineering (98)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [420] Biochem-Enhanced Soldiers (77)
+[260] Technologies Required to Build Unit (100):
+  [100] Physics & Energy (100)
+  [110] Meditation (99)
+  [50] Applied Technology (100)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
---4--
-Name: Infantry Legion (SE)
-Nick Name: Inf (SE)
+--2--
+Name: Officer Corp (Psy)
+Nick Name: Officer (Psy)
 Scores & Strengths:
-  Tech Score: 301
-  Unit Score: 287
-  Average Score: 294
-  Stat Strength: 172
-  Total Strength: 287
-  Planet Strength: 287
+  Tech Score: 162
+  Unit Score: 162
+  Average Score: 162
+  Stat Strength: 129
+  Total Strength: 162
+  Planet Strength: 162
+  Space Strength: 141
+  Garrison Strength: 81
+Statistics:
+  Movement Type: foot
+  Move Points: 4
+  Spot: 4
+  Camouflage: 4
+  Agility: 6
+  Armor: 3
+  Psy Defense: 6
+  Rank: 668
+Attacks:
+  Psychic: 4/3
+  Close: 7/3
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 15
+Build Cost: 83
+Build Resource Requirements:
+  Food: 1
+  Energy: 1
+  Metal: 7
+  Exotica: 1
+  Chemicals: 1
+  Gems: 5
+Upgrade Officer Corp to Officer Corp (Psy) at Church
+Time to Build / Upgrade: 1
+[350] Technologies Required to Build Unit (93):
+  [100] Physics & Energy (100)
+  [250] Psychically-Enhanced Soldiers (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Officer Corp (PE)
+Nick Name: Officer (PE)
+Scores & Strengths:
+  Tech Score: 181
+  Unit Score: 191
+  Average Score: 186
+  Stat Strength: 147
+  Total Strength: 191
+  Planet Strength: 191
   Space Strength: 0
-  Garrison Strength: 128
+  Garrison Strength: 85
 Statistics:
   Movement Type: foot
   Move Points: 5
-  Spot: 3
-  Camouflage: 3
-  Agility: 10
-  Armor: 5
-  Psy Defense: 2
-  Rank: 65
+  Spot: 4
+  Camouflage: 5
+  Agility: 7
+  Armor: 4
+  Psy Defense: 4
+  Rank: 668
 Attacks:
-  Indirect: 5/7
-  Close: 10/8
+  Close: 11/4
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 72
+Officer - Provides stack combat bonuses
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 8
+Build Cost: 63
 Build Resource Requirements:
-  Energy: 3
-  Metal: 3
-  Trace: 5
-  Exotica: 1
-  Chemicals: 6
-  Biochems: 30
-Upgrade Infantry Legion to Infantry Legion (SE) at Hospital
+  Metal: 9
+  Trace: 47
+  Exotica: 10
+  Chemicals: 11
+Upgrade Peasant to Officer Corp (PE) at Fort
 Time to Build / Upgrade: 1
-[1050] Technologies Required to Build Unit (93):
-  [110] Mechanical & Aerospace Engineering (98)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [675] Surgically-Enhanced Soldiers (75)
+[405] Technologies Required to Build Unit (96):
+  [100] Physics & Energy (100)
+  [125] Psychoconditioning (97)
+  [180] Performance-Enhanced Soldiers (90)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Officer Corp (BE)
+Nick Name: Officer (BE)
+Scores & Strengths:
+  Tech Score: 226
+  Unit Score: 230
+  Average Score: 228
+  Stat Strength: 178
+  Total Strength: 230
+  Planet Strength: 230
+  Space Strength: 0
+  Garrison Strength: 93
+Statistics:
+  Movement Type: foot
+  Move Points: 6
+  Spot: 5
+  Camouflage: 6
+  Agility: 7
+  Armor: 4
+  Psy Defense: 4
+  Rank: 668
+Attacks:
+  Close: 13/4
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 17
+Build Cost: 96
+Build Resource Requirements:
+  Metal: 4
+  Biochems: 37
+Upgrade Officer Corp to Officer Corp (BE) at Biochem Plant
+Time to Build / Upgrade: 1
+[645] Technologies Required to Build Unit (91):
+  [100] Physics & Energy (100)
+  [125] Psychoconditioning (97)
+  [420] Biochem-Enhanced Soldiers (77)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Infantry Legion (DE)
-Nick Name: Inf (DE)
+Name: Officer Corp (Psy2)
+Nick Name: Off (Psy2)
 Scores & Strengths:
-  Tech Score: 921
-  Unit Score: 677
-  Average Score: 799
-  Stat Strength: 351
-  Total Strength: 677
-  Planet Strength: 677
-  Space Strength: 0
-  Garrison Strength: 239
+  Tech Score: 250
+  Unit Score: 260
+  Average Score: 255
+  Stat Strength: 189
+  Total Strength: 260
+  Planet Strength: 260
+  Space Strength: 224
+  Garrison Strength: 116
 Statistics:
   Movement Type: foot
-  Move Points: 8
-  Spot: 3
-  Camouflage: 6
-  Agility: 13
-  Armor: 8
-  Psy Defense: 3
-  Rank: 77
+  Move Points: 5
+  Spot: 5
+  Camouflage: 5
+  Agility: 7
+  Armor: 4
+  Psy Defense: 7
+  Rank: 669
 Attacks:
-  Indirect: 8/11
-  Close: 17/14
+  Psychic: 7/5
+  Close: 9/4
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 72
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 28
+Build Cost: 201
 Build Resource Requirements:
-  Metal: 13
-  Chemicals: 2
-  Biochems: 29
-  Electronics: 16
-Upgrade Infantry Legion to Infantry Legion (DE) at Biochem Plant
+  Food: 5
+  Energy: 9
+  Metal: 9
+  Exotica: 5
+  Chemicals: 11
+  Electronics: 43
+  Gems: 3
+Upgrade Officer Corp (Psy) to Officer Corp (Psy2) at Church
 Time to Build / Upgrade: 1
-[3815] Technologies Required to Build Unit (90):
-  [110] Mechanical & Aerospace Engineering (98)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [3440] Drug-Enhanced Soldiers (65)
+[625] Technology Required to Build Unit (60):
+  [625] Psychokinetically-Enhanced Soldiers (60)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Infantry Legion (GE)
-Nick Name: Inf (GE)
+Name: Officer Corp (SE)
+Nick Name: Officer (SE)
 Scores & Strengths:
-  Tech Score: 1386
-  Unit Score: 986
-  Average Score: 1186
-  Stat Strength: 499
-  Total Strength: 986
-  Planet Strength: 986
+  Tech Score: 301
+  Unit Score: 299
+  Average Score: 300
+  Stat Strength: 224
+  Total Strength: 299
+  Planet Strength: 299
   Space Strength: 0
-  Garrison Strength: 311
+  Garrison Strength: 113
 Statistics:
   Movement Type: foot
-  Move Points: 10
-  Spot: 4
-  Camouflage: 7
-  Agility: 15
-  Armor: 10
-  Psy Defense: 3
-  Rank: 85
+  Move Points: 7
+  Spot: 5
+  Camouflage: 6
+  Agility: 8
+  Armor: 5
+  Psy Defense: 5
+  Rank: 669
 Attacks:
-  Indirect: 10/13
-  Close: 21/17
+  Close: 15/5
 Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 52
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 20
+Build Cost: 132
 Build Resource Requirements:
-  Energy: 4
-  Chemicals: 7
-  Biochems: 12
-  Electronics: 2
-  Ceramsteel: 3
-Upgrade Infantry Legion (DE) to Infantry Legion (GE) at Lab
+  Metal: 5
+  Trace: 4
+  Chemicals: 3
+  Biochems: 47
+Upgrade Officer Corp to Officer Corp (SE) at Hospital
 Time to Build / Upgrade: 1
-[6395] Technologies Required to Build Unit (86):
-  [110] Mechanical & Aerospace Engineering (98)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [6020] Chemical Shock Legion (49)
+[900] Technologies Required to Build Unit (91):
+  [100] Physics & Energy (100)
+  [125] Psychoconditioning (97)
+  [675] Surgically-Enhanced Soldiers (75)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Infantry Legion (PA)
-Nick Name: Inf (PA)
+Name: Officer Corp (Psy3)
+Nick Name: Off (Psy3)
 Scores & Strengths:
-  Tech Score: 1413
-  Unit Score: 996
-  Average Score: 1204
-  Stat Strength: 499
-  Total Strength: 996
-  Planet Strength: 996
-  Space Strength: 0
-  Garrison Strength: 314
+  Tech Score: 593
+  Unit Score: 576
+  Average Score: 584
+  Stat Strength: 408
+  Total Strength: 576
+  Planet Strength: 576
+  Space Strength: 498
+  Garrison Strength: 203
 Statistics:
   Movement Type: foot
-  Move Points: 10
-  Spot: 4
-  Camouflage: 7
-  Agility: 15
-  Armor: 10
-  Psy Defense: 3
-  Rank: 86
+  Move Points: 8
+  Spot: 6
+  Camouflage: 8
+  Agility: 8
+  Armor: 6
+  Psy Defense: 12
+  Rank: 672
 Attacks:
-  Indirect: 10/14
-  Close: 21/17
+  Psychic: 10/9
+  Close: 13/6
 Load aboard transport: YES
-Upkeep / Maintenance: 16
-Build Cost: 83
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 38
+Build Cost: 174
 Build Resource Requirements:
-  Energy: 9
-  Chemicals: 23
-  Biochems: 4
-  Electronics: 28
-  Ceramsteel: 9
-Upgrade Infantry Legion (SE) to Infantry Legion (PA) at Hospital
+  Energy: 3
+  Metal: 3
+  Trace: 13
+  Exotica: 7
+  Chemicals: 9
+  Electronics: 19
+  Gems: 2
+Upgrade Officer Corp (Psy2) to Officer Corp (Psy3) at Church
 Time to Build / Upgrade: 1
-[6550] Technologies Required to Build Unit (88):
-  [110] Mechanical & Aerospace Engineering (98)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [6175] Prosthetically-Augmented Soldiers (57)
+[1975] Technology Required to Build Unit (39):
+  [1975] Telepathic Soldiers (39)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Infantry Legion (CE)
-Nick Name: Inf (CE)
+Name: Officer Corp (DE)
+Nick Name: Officer (DE)
 Scores & Strengths:
-  Tech Score: 1788
-  Unit Score: 1269
-  Average Score: 1529
-  Stat Strength: 640
-  Total Strength: 1269
-  Planet Strength: 1269
+  Tech Score: 923
+  Unit Score: 727
+  Average Score: 825
+  Stat Strength: 519
+  Total Strength: 727
+  Planet Strength: 727
   Space Strength: 0
-  Garrison Strength: 366
+  Garrison Strength: 219
 Statistics:
   Movement Type: foot
-  Move Points: 12
-  Spot: 4
-  Camouflage: 8
-  Agility: 16
-  Armor: 12
-  Psy Defense: 4
-  Rank: 93
+  Move Points: 11
+  Spot: 7
+  Camouflage: 11
+  Agility: 10
+  Armor: 8
+  Psy Defense: 8
+  Rank: 674
 Attacks:
-  Indirect: 12/16
-  Close: 23/19
+  Close: 26/8
 Load aboard transport: YES
-Upkeep / Maintenance: 18
-Build Cost: 98
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 19
+Build Cost: 122
 Build Resource Requirements:
-  Energy: 6
-  Metal: 3
-  Exotica: 1
-  Chemicals: 11
-  Biochems: 3
-  Ceramsteel: 4
-Upgrade Infantry Legion (PA) to Infantry Legion (CE) at Lab
+  Metal: 25
+  Biochems: 36
+  Electronics: 37
+Upgrade Officer Corp to Officer Corp (DE) at Biochem Plant
 Time to Build / Upgrade: 1
-[8975] Technologies Required to Build Unit (86):
-  [110] Mechanical & Aerospace Engineering (98)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [8600] Cybernetically-Enhanced Soldiers (48)
+[3665] Technologies Required to Build Unit (87):
+  [100] Physics & Energy (100)
+  [125] Psychoconditioning (97)
+  [3440] Drug-Enhanced Soldiers (65)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Infantry Legion (AVE)
-Nick Name: Inf (AVE)
+Name: Officer Corp (Psy4)
+Nick Name: Off (Psy4)
 Scores & Strengths:
-  Tech Score: 1850
-  Unit Score: 1312
-  Average Score: 1581
-  Stat Strength: 640
-  Total Strength: 1312
-  Planet Strength: 1312
-  Space Strength: 0
-  Garrison Strength: 378
+  Tech Score: 839
+  Unit Score: 766
+  Average Score: 802
+  Stat Strength: 524
+  Total Strength: 766
+  Planet Strength: 766
+  Space Strength: 654
+  Garrison Strength: 255
 Statistics:
   Movement Type: foot
-  Move Points: 12
-  Spot: 4
-  Camouflage: 8
-  Agility: 16
-  Armor: 12
-  Psy Defense: 4
-  Rank: 94
+  Move Points: 9
+  Spot: 6
+  Camouflage: 9
+  Agility: 9
+  Armor: 7
+  Psy Defense: 14
+  Rank: 674
 Attacks:
-  Indirect: 12/16
-  Close: 24/20
+  Psychic: 13/10
+  Close: 16/7
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 19
-Build Cost: 141
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 41
+Build Cost: 239
 Build Resource Requirements:
-  Energy: 4
-  Chemicals: 7
-  Biochems: 9
-Upgrade Infantry Legion (GE) to Infantry Legion (AVE) at Lab
+  Food: 3
+  Energy: 7
+  Metal: 6
+  Trace: 7
+  Exotica: 4
+  Chemicals: 8
+  Electronics: 14
+Upgrade Officer Corp (Psy3) to Officer Corp (Psy4) at Church
 Time to Build / Upgrade: 1
-[9275] Technologies Required to Build Unit (80):
-  [110] Mechanical & Aerospace Engineering (98)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [8900] Genetically-Enhanced Warriors (25)
+[3140] Technology Required to Build Unit (38):
+  [3140] Sympathic Soldiers (38)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Infantry Legion (ME)
-Nick Name: Inf (ME)
+Name: Officer Corp (Psy5)
+Nick Name: Off (Psy5)
 Scores & Strengths:
-  Tech Score: 1401
-  Unit Score: 1562
-  Average Score: 1481
-  Stat Strength: 1030
-  Total Strength: 1562
-  Planet Strength: 1562
-  Space Strength: 0
-  Garrison Strength: 340
+  Tech Score: 936
+  Unit Score: 937
+  Average Score: 937
+  Stat Strength: 650
+  Total Strength: 937
+  Planet Strength: 937
+  Space Strength: 818
+  Garrison Strength: 296
 Statistics:
   Movement Type: foot
-  Move Points: 21
-  Spot: 4
-  Camouflage: 6
-  Agility: 20
-  Armor: 11
-  Psy Defense: 4
-  Rank: 90
+  Move Points: 10
+  Spot: 7
+  Camouflage: 10
+  Agility: 9
+  Armor: 8
+  Psy Defense: 16
+  Rank: 675
 Attacks:
-  Indirect: 11/14
-  Close: 21/18
+  Psychic: 14/12
+  Close: 17/7
 Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 98
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 51
+Build Cost: 268
+Build Resource Requirements:
+  Food: 4
+  Energy: 2
+  Metal: 9
+  Trace: 8
+  Exotica: 5
+  Chemicals: 3
+  Electronics: 13
+  Gems: 2
+Upgrade Officer Corp (Psy4) to Officer Corp (Psy5) at Church
+Time to Build / Upgrade: 1
+[3635] Technology Required to Build Unit (48):
+  [3635] Dervishes (48)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Officer Corp (GE)
+Nick Name: Officer (GE)
+Scores & Strengths:
+  Tech Score: 1388
+  Unit Score: 1082
+  Average Score: 1235
+  Stat Strength: 762
+  Total Strength: 1082
+  Planet Strength: 1082
+  Space Strength: 0
+  Garrison Strength: 289
+Statistics:
+  Movement Type: foot
+  Move Points: 14
+  Spot: 7
+  Camouflage: 14
+  Agility: 11
+  Armor: 10
+  Psy Defense: 10
+  Rank: 678
+Attacks:
+  Close: 32/10
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 23
+Build Cost: 110
+Build Resource Requirements:
+  Energy: 1
+  Trace: 1
+  Chemicals: 3
+  Biochems: 13
+  Electronics: 5
+  Ceramsteel: 5
+Upgrade Officer Corp (DE) to Officer Corp (GE) at Lab
+Time to Build / Upgrade: 1
+[6245] Technologies Required to Build Unit (82):
+  [100] Physics & Energy (100)
+  [125] Psychoconditioning (97)
+  [6020] Chemical Shock Legion (49)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Officer Corp (Psy6)
+Nick Name: Off (Psy6)
+Scores & Strengths:
+  Tech Score: 1142
+  Unit Score: 1141
+  Average Score: 1141
+  Stat Strength: 809
+  Total Strength: 1141
+  Planet Strength: 1141
+  Space Strength: 989
+  Garrison Strength: 344
+Statistics:
+  Movement Type: foot
+  Move Points: 11
+  Spot: 7
+  Camouflage: 13
+  Agility: 10
+  Armor: 9
+  Psy Defense: 17
+  Rank: 677
+Attacks:
+  Psychic: 15/12
+  Close: 19/8
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 27
+Build Cost: 2
+Build Resource Requirements:
+Upgrade Officer Corp (Psy5) to Officer Corp (Psy6) at Church
+Time to Build / Upgrade: 1
+[11015] Technologies Required to Build Unit (35):
+  [3790] Vislocks (32)
+  [3635] Dervishes (48)
+  [3590] Sathraists (26)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--13--
+Name: Officer Corp (PA)
+Nick Name: Officer (PA)
+Scores & Strengths:
+  Tech Score: 1414
+  Unit Score: 1171
+  Average Score: 1293
+  Stat Strength: 819
+  Total Strength: 1171
+  Planet Strength: 1171
+  Space Strength: 0
+  Garrison Strength: 312
+Statistics:
+  Movement Type: foot
+  Move Points: 14
+  Spot: 8
+  Camouflage: 14
+  Agility: 11
+  Armor: 11
+  Psy Defense: 11
+  Rank: 679
+Attacks:
+  Close: 32/11
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 31
+Build Cost: 174
+Build Resource Requirements:
+  Energy: 4
+  Metal: 3
+  Chemicals: 15
+  Electronics: 62
+  Ceramsteel: 21
+Upgrade Officer Corp (SE) to Officer Corp (PA) at Hospital
+Time to Build / Upgrade: 2
+[6400] Technologies Required to Build Unit (85):
+  [100] Physics & Energy (100)
+  [125] Psychoconditioning (97)
+  [6175] Prosthetically-Augmented Soldiers (57)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--14--
+Name: Officer Corp (Psy7)
+Nick Name: Off (Psy7)
+Scores & Strengths:
+  Tech Score: 1357
+  Unit Score: 1334
+  Average Score: 1346
+  Stat Strength: 946
+  Total Strength: 1334
+  Planet Strength: 1334
+  Space Strength: 1154
+  Garrison Strength: 385
+Statistics:
+  Movement Type: foot
+  Move Points: 12
+  Spot: 8
+  Camouflage: 14
+  Agility: 10
+  Armor: 9
+  Psy Defense: 19
+  Rank: 679
+Attacks:
+  Psychic: 16/13
+  Close: 20/9
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 31
+Build Cost: 309
 Build Resource Requirements:
   Food: 2
-  Energy: 15
-  Exotica: 3
-  Chemicals: 38
-  Electronics: 31
-  Ceramsteel: 5
-Upgrade Infantry Legion to Infantry Legion (ME) at Factory
+  Energy: 4
+  Metal: 1
+  Trace: 5
+  Exotica: 2
+  Chemicals: 4
+  Electronics: 7
+Upgrade Officer Corp (Psy6) to Officer Corp (Psy7) at Church
+Time to Build / Upgrade: 1
+[12245] Technologies Required to Build Unit (35):
+  [4050] Occultists (48)
+  [4110] Visioneers (46)
+  [4085] Sathra Patrol Ships (12)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--15--
+Name: Officer Corp (CE)
+Nick Name: Officer (CE)
+Scores & Strengths:
+  Tech Score: 1788
+  Unit Score: 1440
+  Average Score: 1614
+  Stat Strength: 1008
+  Total Strength: 1440
+  Planet Strength: 1440
+  Space Strength: 0
+  Garrison Strength: 360
+Statistics:
+  Movement Type: foot
+  Move Points: 16
+  Spot: 8
+  Camouflage: 16
+  Agility: 12
+  Armor: 12
+  Psy Defense: 12
+  Rank: 682
+Attacks:
+  Close: 36/12
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 31
+Build Cost: 137
+Build Resource Requirements:
+  Food: 1
+  Energy: 3
+  Metal: 2
+  Exotica: 1
+  Chemicals: 5
+  Ceramsteel: 2
+Upgrade Officer Corp (PA) to Officer Corp (CE) at Lab
+Time to Build / Upgrade: 1
+[8825] Technologies Required to Build Unit (82):
+  [100] Physics & Energy (100)
+  [125] Psychoconditioning (97)
+  [8600] Cybernetically-Enhanced Soldiers (48)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--16--
+Name: Officer Corp (AVE)
+Nick Name: Officer (AVE)
+Scores & Strengths:
+  Tech Score: 1852
+  Unit Score: 1452
+  Average Score: 1652
+  Stat Strength: 1008
+  Total Strength: 1452
+  Planet Strength: 1452
+  Space Strength: 0
+  Garrison Strength: 363
+Statistics:
+  Movement Type: foot
+  Move Points: 16
+  Spot: 8
+  Camouflage: 16
+  Agility: 12
+  Armor: 12
+  Psy Defense: 12
+  Rank: 683
+Attacks:
+  Close: 37/12
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 33
+Build Cost: 222
+Build Resource Requirements:
+  Energy: 1
+  Chemicals: 1
+  Biochems: 6
+  Electronics: 2
+Upgrade Officer Corp (GE) to Officer Corp (AVE) at Lab
+Time to Build / Upgrade: 1
+[9125] Technologies Required to Build Unit (74):
+  [100] Physics & Energy (100)
+  [125] Psychoconditioning (97)
+  [8900] Genetically-Enhanced Warriors (25)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--17--
+Name: Officer Corp (ME)
+Nick Name: Officer (ME)
+Scores & Strengths:
+  Tech Score: 1419
+  Unit Score: 1752
+  Average Score: 1586
+  Stat Strength: 1389
+  Total Strength: 1752
+  Planet Strength: 1752
+  Space Strength: 0
+  Garrison Strength: 350
+Statistics:
+  Movement Type: foot
+  Move Points: 25
+  Spot: 8
+  Camouflage: 13
+  Agility: 17
+  Armor: 11
+  Psy Defense: 11
+  Rank: 16
+Attacks:
+  Close: 33/11
+Load aboard transport: YES
+Upkeep / Maintenance: 16
+Build Cost: 90
+Build Resource Requirements:
+  Food: 4
+  Energy: 13
+  Exotica: 4
+  Chemicals: 32
+  Electronics: 63
+  Ceramsteel: 8
+Upgrade Officer Corp to Officer Corp (ME) at Factory
 Time to Build / Upgrade: 2
-[6220] Technology Required to Build Unit (80):
+[6330] Technologies Required to Build Unit (90):
+  [110] Meditation (99)
   [6220] Mechanically-Enhanced Soldiers (80)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---11--
-Name: Infantry Legion (MF)
-Nick Name: Inf (MF)
+--18--
+Name: Officer Corp (Psy8)
+Nick Name: Off (Psy8)
 Scores & Strengths:
-  Tech Score: 3182
-  Unit Score: 2076
-  Average Score: 2629
-  Stat Strength: 955
-  Total Strength: 2076
-  Planet Strength: 2076
-  Space Strength: 0
-  Garrison Strength: 536
+  Tech Score: 1949
+  Unit Score: 2034
+  Average Score: 1991
+  Stat Strength: 1442
+  Total Strength: 2034
+  Planet Strength: 2034
+  Space Strength: 1794
+  Garrison Strength: 543
 Statistics:
   Movement Type: foot
-  Move Points: 15
-  Spot: 5
-  Camouflage: 10
-  Agility: 18
-  Armor: 16
-  Psy Defense: 5
-  Rank: 112
+  Move Points: 14
+  Spot: 9
+  Camouflage: 18
+  Agility: 11
+  Armor: 12
+  Psy Defense: 24
+  Rank: 686
 Attacks:
-  Indirect: 15/21
-  Close: 31/26
+  Psychic: 22/16
+  Close: 24/10
 Load aboard transport: YES
-Upkeep / Maintenance: 144
-Build Cost: 1342
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 29
 Build Resource Requirements:
-  Energy: 2
-  Biochems: 8
-  Wetware: 10
-  Monopols: 48
-Upgrade Infantry Legion (CE) to Infantry Legion (MF) at Wetware
-Time to Build / Upgrade: 2
-[18950] Technologies Required to Build Unit (83):
-  [110] Mechanical & Aerospace Engineering (98)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [18575] Machine-Fused Soldiers (35)
+  Metal: 8
+Upgrade Officer Corp (Psy7) to Officer Corp (Psy8) at Church
+Time to Build / Upgrade: 1
+[20390] Technologies Required to Build Unit (24):
+  [4980] Psychic Turners (41)
+  [5780] Electrokinetics (20)
+  [5290] Wraiths (29)
+  [4340] Sathra Escorts (7)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
---12--
-Name: Infantry Legion (NE)
-Nick Name: Inf (NE)
+--19--
+Name: Officer Corp (MF)
+Nick Name: Officer (MF)
 Scores & Strengths:
-  Tech Score: 3872
-  Unit Score: 2697
-  Average Score: 3285
-  Stat Strength: 1291
-  Total Strength: 2697
-  Planet Strength: 2697
+  Tech Score: 3184
+  Unit Score: 2423
+  Average Score: 2804
+  Stat Strength: 1671
+  Total Strength: 2423
+  Planet Strength: 2423
   Space Strength: 0
-  Garrison Strength: 654
+  Garrison Strength: 528
 Statistics:
   Movement Type: foot
-  Move Points: 17
-  Spot: 5
-  Camouflage: 16
-  Agility: 19
-  Armor: 18
-  Psy Defense: 6
-  Rank: 123
+  Move Points: 21
+  Spot: 9
+  Camouflage: 21
+  Agility: 14
+  Armor: 16
+  Psy Defense: 16
+  Rank: 694
 Attacks:
-  Indirect: 17/23
-  Close: 35/29
+  Close: 47/16
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 174
+Build Cost: 1606
+Build Resource Requirements:
+  Biochems: 6
+  Wetware: 19
+  Monopols: 21
+Upgrade Officer Corp (CE) to Officer Corp (MF) at Wetware
+Time to Build / Upgrade: 2
+[18800] Technologies Required to Build Unit (77):
+  [100] Physics & Energy (100)
+  [125] Psychoconditioning (97)
+  [18575] Machine-Fused Soldiers (35)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--20--
+Name: Officer Corp (NE)
+Nick Name: Officer (NE)
+Scores & Strengths:
+  Tech Score: 3872
+  Unit Score: 3156
+  Average Score: 3514
+  Stat Strength: 2202
+  Total Strength: 3156
+  Planet Strength: 3156
+  Space Strength: 0
+  Garrison Strength: 658
+Statistics:
+  Movement Type: foot
+  Move Points: 23
+  Spot: 10
+  Camouflage: 27
+  Agility: 14
+  Armor: 18
+  Psy Defense: 18
+  Rank: 35
+Attacks:
+  Close: 53/18
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 121
-Build Cost: 1066
+Upkeep / Maintenance: 147
+Build Cost: 1249
 Build Resource Requirements:
-  Wetware: 11
-  Monopols: 24
-Upgrade Infantry Legion (AVE) to Infantry Legion (NE) at Fusorium
-Time to Build / Upgrade: 1
-[24130] Technology Required to Build Unit (32):
+  Wetware: 23
+  Monopols: 14
+Upgrade Officer Corp (AVE) to Officer Corp (NE) at Fusorium
+Time to Build / Upgrade: 2
+[24240] Technologies Required to Build Unit (66):
+  [110] Meditation (99)
   [24130] Neumonically-Enhanced Soldiers (32)
 Counts as planetary flock: YES
 Unit Eats: YES

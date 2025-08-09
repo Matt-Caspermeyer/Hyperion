@@ -1,383 +1,172 @@
-All units of the unit class Space Raider are listed herein (8 in total):
+All units of the unit class Self-Propelled Anti-Air Gun are listed herein (4 in total):
 
 --1--
-Name: Space Raider
-Nick Name: SS-Raider
+Name: Self-Propelled Anti-Air Gun
+Nick Name: Tornado
 Scores & Strengths:
-  Tech Score: 309
-  Unit Score: 308
-  Average Score: 309
-  Stat Strength: 277
-  Total Strength: 308
-  Planet Strength: 0
-  Space Strength: 308
-  Garrison Strength: 0
+  Tech Score: 292
+  Unit Score: 291
+  Average Score: 292
+  Stat Strength: 227
+  Total Strength: 291
+  Planet Strength: 291
+  Space Strength: 0
+  Garrison Strength: 130
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 10
-  Camouflage: 10
-  Agility: 2
-  Armor: 6
+  Movement Type: tread
+  Move Points: 5
+  Spot: 3
+  Camouflage: 2
+  Agility: 3
+  Armor: 12
   Psy Defense: 6
-  Rank: 807
+  Rank: 123
 Attacks:
-  Ranged Space: 2/11
-  Closed Space: 3/3
+  Air: 4/16
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Immune to Plague
-Upkeep / Maintenance: 37
-Build Cost: 367
+Upkeep / Maintenance: 6
+Build Cost: 57
 Build Resource Requirements:
-  Food: 10
-  Energy: 14
-  Metal: 24
-  Trace: 35
-  Exotica: 10
-  Chemicals: 27
-  Electronics: 23
-Build Space Raider in Starport
-Time to Build / Upgrade: 3
-[940] Technologies Required to Build Unit (94):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
+  Food: 3
+  Energy: 31
+  Metal: 39
+  Trace: 7
+  Exotica: 3
+  Chemicals: 31
+  Electronics: 5
+Build Self-Propelled Anti-Air Gun in Factory
+Time to Build / Upgrade: 2
+[770] Technology Required to Build Unit (92):
+  [770] Self-Propelled Weaponry (92)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Space Raider Carrier
-Nick Name: SS-CVR
+Name: Self-Propelled AAG II
+Nick Name: Tornado II
 Scores & Strengths:
-  Tech Score: 309
-  Unit Score: 309
-  Average Score: 309
-  Stat Strength: 258
-  Total Strength: 309
-  Planet Strength: 0
-  Space Strength: 309
-  Garrison Strength: 0
+  Tech Score: 530
+  Unit Score: 506
+  Average Score: 518
+  Stat Strength: 396
+  Total Strength: 506
+  Planet Strength: 506
+  Space Strength: 0
+  Garrison Strength: 191
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
-  Camouflage: 8
-  Agility: 1
-  Armor: 8
+  Movement Type: tread
+  Move Points: 7
+  Spot: 3
+  Camouflage: 3
+  Agility: 3
+  Armor: 16
   Psy Defense: 8
-  Rank: 799
+  Rank: 132
 Attacks:
-  Ranged Space: 3/10
-  Direct Space: 3/7
-Cargo Space: 2
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 72
-Build Cost: 724
+  Air: 5/22
+Load aboard transport: YES
+Upkeep / Maintenance: 8
+Build Cost: 79
 Build Resource Requirements:
-  Food: 7
-  Energy: 17
-  Metal: 43
-  Trace: 24
-  Exotica: 6
-  Chemicals: 36
-  Electronics: 16
-Build Space Raider Carrier in Starport
+  Food: 3
+  Energy: 36
+  Metal: 36
+  Trace: 5
+  Exotica: 3
+  Chemicals: 60
+  Electronics: 6
+Build Self-Propelled AAG II in Factory
 Time to Build / Upgrade: 3
-[940] Technologies Required to Build Unit (94):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
+[1700] Technology Required to Build Unit (88):
+  [1700] Main Battle Tank (88)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Space Scout
-Nick Name: Space Scout
+Name: Self-Propelled AAG III
+Nick Name: Tornado III
 Scores & Strengths:
-  Tech Score: 309
-  Unit Score: 309
-  Average Score: 309
-  Stat Strength: 303
-  Total Strength: 309
-  Planet Strength: 0
-  Space Strength: 309
-  Garrison Strength: 0
+  Tech Score: 1226
+  Unit Score: 1181
+  Average Score: 1203
+  Stat Strength: 917
+  Total Strength: 1181
+  Planet Strength: 1181
+  Space Strength: 0
+  Garrison Strength: 373
 Statistics:
-  Movement Type: space
-  Move Points: 3
-  Spot: 12
-  Camouflage: 8
-  Agility: 6
-  Armor: 5
-  Psy Defense: 5
-  Rank: 53
+  Movement Type: tread
+  Move Points: 10
+  Spot: 4
+  Camouflage: 4
+  Agility: 4
+  Armor: 25
+  Psy Defense: 12
+  Rank: 153
 Attacks:
-  Closed Space: 3/2
+  Air: 8/33
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 17
-Build Cost: 171
+Upkeep / Maintenance: 12
+Build Cost: 122
 Build Resource Requirements:
-  Food: 16
-  Energy: 3
-  Metal: 17
-  Trace: 35
-  Exotica: 16
-  Chemicals: 10
-  Electronics: 23
-Build Space Scout in Starport
-Time to Build / Upgrade: 2
-[940] Technologies Required to Build Unit (94):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
+  Food: 2
+  Energy: 33
+  Metal: 21
+  Trace: 3
+  Exotica: 2
+  Chemicals: 66
+  Electronics: 18
+  Ceramsteel: 28
+Build Self-Propelled AAG III in Factory
+Time to Build / Upgrade: 3
+[5205] Technology Required to Build Unit (84):
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Jump Raider Carrier
-Nick Name: JJ-CVR
+Name: Self-Propelled AAG IV
+Nick Name: Tornado IV
 Scores & Strengths:
-  Tech Score: 425
-  Unit Score: 406
-  Average Score: 416
-  Stat Strength: 326
-  Total Strength: 406
-  Planet Strength: 0
-  Space Strength: 406
-  Garrison Strength: 0
+  Tech Score: 2510
+  Unit Score: 2424
+  Average Score: 2467
+  Stat Strength: 1860
+  Total Strength: 2424
+  Planet Strength: 2424
+  Space Strength: 0
+  Garrison Strength: 625
 Statistics:
-  Movement Type: jump
-  Move Points: 1
-  Spot: 9
-  Camouflage: 9
-  Agility: 1
-  Armor: 9
-  Psy Defense: 9
-  Rank: 827
+  Movement Type: tread
+  Move Points: 15
+  Spot: 5
+  Camouflage: 6
+  Agility: 5
+  Armor: 35
+  Psy Defense: 18
+  Rank: 184
 Attacks:
-  Ranged Space: 4/12
-  Direct Space: 4/8
-Cargo Space: 2
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 345
-Build Cost: 3446
-Build Resource Requirements:
-  Food: 7
-  Energy: 23
-  Metal: 40
-  Trace: 27
-  Exotica: 7
-  Chemicals: 47
-  Electronics: 21
-  Gems: 1
-S  ingularities: 1
-Build Jump Raider Carrier in Starport
-Time to Build / Upgrade: 3
-[1380] Technologies Required to Build Unit (87):
-  [145] Composite Armor (97)
-  [1235] Jump Rocketry (76)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Jump Raider
-Nick Name: JJ-FRaider
-Scores & Strengths:
-  Tech Score: 425
-  Unit Score: 410
-  Average Score: 418
-  Stat Strength: 368
-  Total Strength: 410
-  Planet Strength: 0
-  Space Strength: 410
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 1
-  Spot: 11
-  Camouflage: 12
-  Agility: 2
-  Armor: 7
-  Psy Defense: 7
-  Rank: 835
-Attacks:
-  Ranged Space: 2/13
-  Closed Space: 4/4
+  Air: 12/47
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Immune to Plague
-Upkeep / Maintenance: 158
-Build Cost: 1581
-Build Resource Requirements:
-  Food: 11
-  Energy: 20
-  Metal: 24
-  Trace: 41
-  Exotica: 11
-  Chemicals: 37
-  Electronics: 32
-  Gems: 1
-S  ingularities: 1
-Build Jump Raider in Starport
-Time to Build / Upgrade: 3
-[1380] Technologies Required to Build Unit (87):
-  [145] Composite Armor (97)
-  [1235] Jump Rocketry (76)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---6--
-Name: Jump Fusion Raider
-Nick Name: JJ-FRaider
-Scores & Strengths:
-  Tech Score: 1933
-  Unit Score: 1528
-  Average Score: 1730
-  Stat Strength: 1344
-  Total Strength: 1528
-  Planet Strength: 0
-  Space Strength: 1528
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 2
-  Spot: 16
-  Camouflage: 25
-  Agility: 3
-  Armor: 15
-  Psy Defense: 15
-  Rank: 865
-Attacks:
-  Ranged Space: 5/27
-  Closed Space: 7/7
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Immune to Plague
-Upkeep / Maintenance: 331
-Build Cost: 3308
-Build Resource Requirements:
-  Food: 3
-  Energy: 8
-  Metal: 5
-  Trace: 16
-  Exotica: 3
-  Chemicals: 11
-  Electronics: 27
-  Monopols: 28
-S  ingularities: 1
-Build Jump Fusion Raider in Starport
-Time to Build / Upgrade: 3
-[12900] Technologies Required to Build Unit (67):
-  [8615] Fusion Beam (63)
-  [4285] Jump Drives (70)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---7--
-Name: 3rd-Republic Star Raider
-Nick Name: Charioteer
-Scores & Strengths:
-  Tech Score: 7728
-  Unit Score: 5600
-  Average Score: 6664
-  Stat Strength: 4825
-  Total Strength: 5600
-  Planet Strength: 0
-  Space Strength: 5600
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 5
-  Spot: 22
-  Camouflage: 50
-  Agility: 4
-  Armor: 30
-  Psy Defense: 30
-  Rank: 948
-Attacks:
-  Ranged Space: 10/55
-  Closed Space: 15/15
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Immune to Plague
-Upkeep / Maintenance: 657
-Build Cost: 6565
-Build Resource Requirements:
-  Energy: 7
-  Metal: 3
-  Trace: 9
-  Chemicals: 11
-  Biochems: 14
-  Electronics: 19
-  Ceramsteel: 5
-  Wetware: 2
-  Monopols: 17
-S  ingularities: 2
-Build 3rd-Republic Star Raider in Starport
-Time to Build / Upgrade: 3
-[85950] Technologies Required to Build Unit (62):
-  [57985] Cloaked Escortcraft (48)
-  [27965] Jump Escorts (75)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---8--
-Name: Jump Stealth Ship
-Nick Name: JJ-SRaider
-Scores & Strengths:
-  Tech Score: 7481
-  Unit Score: 7133
-  Average Score: 7307
-  Stat Strength: 6417
-  Total Strength: 7133
-  Planet Strength: 0
-  Space Strength: 7133
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 24
-  Spot: 16
-  Camouflage: 36
-  Agility: 33
-  Armor: 40
-  Psy Defense: 40
-  Rank: 934
-Attacks:
-  Ranged Space: 8/37
-  Closed Space: 20/21
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Immune to Plague
-Upkeep / Maintenance: 1521
-Build Cost: 15206
+Upkeep / Maintenance: 143
+Build Cost: 1425
 Build Resource Requirements:
   Food: 1
-  Energy: 8
-  Metal: 7
-  Trace: 7
+  Energy: 21
+  Metal: 11
+  Trace: 2
   Exotica: 1
-  Chemicals: 13
-  Biochems: 21
-  Electronics: 18
-  Ceramsteel: 11
-  Wetware: 5
-  Monopols: 26
-S  ingularities: 5
-Build Jump Stealth Ship in Starport
+  Chemicals: 40
+  Electronics: 12
+  Ceramsteel: 18
+  Monopols: 61
+Build Self-Propelled AAG IV in Factory
 Time to Build / Upgrade: 4
-[57985] Technology Required to Build Unit (48):
-  [57985] Cloaked Escortcraft (48)
+[13535] Technology Required to Build Unit (74):
+  [13535] Powered Ceramsteel Tanks (74)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

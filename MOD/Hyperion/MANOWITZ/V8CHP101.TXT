@@ -1,191 +1,495 @@
-All units of the unit class Space Freighter are listed herein (4 in total):
+All units of the unit class Gunboat are listed herein (11 in total):
 
 --1--
-Name: Space Freighter
-Nick Name: SS-TV
+Name: Gunboat
+Nick Name: NN-GB
 Scores & Strengths:
-  Tech Score: 342
-  Unit Score: 342
-  Average Score: 342
-  Stat Strength: 321
-  Total Strength: 342
-  Planet Strength: 0
-  Space Strength: 342
-  Garrison Strength: 0
+  Tech Score: 167
+  Unit Score: 331
+  Average Score: 249
+  Stat Strength: 281
+  Total Strength: 331
+  Planet Strength: 331
+  Space Strength: 0
+  Garrison Strength: 135
 Statistics:
-  Movement Type: space
-  Move Points: 2
-  Spot: 8
+  Movement Type: naval
+  Move Points: 6
+  Spot: 4
   Camouflage: 2
-  Agility: 7
+  Agility: 5
   Armor: 10
   Psy Defense: 10
-  Rank: 73
+  Rank: 86
 Attacks:
-  Closed Space: 3/7
-Cargo Space: 2
-Immune to Plague
-Upkeep / Maintenance: 16
-Build Cost: 157
+  Indirect: 2/6
+  Direct: 3/6
+  Close: 4/5
+Load aboard transport: YES
+Upkeep / Maintenance: 22
+Build Cost: 220
 Build Resource Requirements:
   Food: 8
-  Energy: 8
-  Metal: 48
+  Energy: 28
+  Metal: 58
   Trace: 13
   Exotica: 8
-  Chemicals: 25
-  Electronics: 8
-Build Space Freighter in Starport
-Time to Build / Upgrade: 2
-[1170] Technologies Required to Build Unit (95):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
+  Chemicals: 23
+  Gems: 1
+Build Gunboat in Well
+Time to Build / Upgrade: 3
+[465] Technologies Required to Build Unit (100):
+  [100] Medical & Biological (100)
+  [100] Physics & Energy (100)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Jump Freighter
-Nick Name: JJ-TV
+Name: Torpedo Boat
+Nick Name: NN-TP
 Scores & Strengths:
-  Tech Score: 455
-  Unit Score: 465
-  Average Score: 460
-  Stat Strength: 441
-  Total Strength: 465
-  Planet Strength: 0
-  Space Strength: 465
-  Garrison Strength: 0
+  Tech Score: 174
+  Unit Score: 344
+  Average Score: 259
+  Stat Strength: 290
+  Total Strength: 344
+  Planet Strength: 344
+  Space Strength: 0
+  Garrison Strength: 130
 Statistics:
-  Movement Type: jump
-  Move Points: 2
-  Spot: 9
-  Camouflage: 2
-  Agility: 8
-  Armor: 12
-  Psy Defense: 12
-  Rank: 100
+  Movement Type: naval
+  Move Points: 7
+  Spot: 4
+  Camouflage: 3
+  Agility: 4
+  Armor: 10
+  Psy Defense: 10
+  Rank: 53
 Attacks:
-  Closed Space: 3/8
-Cargo Space: 2
-Space Freighter - Used by the League to Resupply Agoras
-Immune to Plague
-Upkeep / Maintenance: 124
-Build Cost: 1238
+  Water: 3/14
+  Close: 3/4
+Load aboard transport: YES
+Upkeep / Maintenance: 27
+Build Cost: 273
 Build Resource Requirements:
-  Food: 9
-  Energy: 10
-  Metal: 56
-  Trace: 14
-  Exotica: 9
-  Chemicals: 34
-  Electronics: 10
+  Food: 8
+  Energy: 48
+  Metal: 53
+  Trace: 11
+  Exotica: 7
+  Chemicals: 40
   Gems: 1
-S  ingularities: 2
-Build Jump Freighter in Starport
-Time to Build / Upgrade: 3
-[1610] Technologies Required to Build Unit (90):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [1235] Jump Rocketry (76)
+Build Torpedo Boat in Well
+Time to Build / Upgrade: 4
+[535] Technologies Required to Build Unit (99):
+  [100] Medical & Biological (100)
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Armored Freighter
-Nick Name: JJ-AATV
+Name: Submarine Chaser
+Nick Name: NN-SC
 Scores & Strengths:
-  Tech Score: 1168
-  Unit Score: 1167
-  Average Score: 1167
-  Stat Strength: 1095
-  Total Strength: 1167
-  Planet Strength: 0
-  Space Strength: 1167
-  Garrison Strength: 0
+  Tech Score: 174
+  Unit Score: 344
+  Average Score: 259
+  Stat Strength: 290
+  Total Strength: 344
+  Planet Strength: 344
+  Space Strength: 0
+  Garrison Strength: 130
 Statistics:
-  Movement Type: jump
-  Move Points: 3
-  Spot: 10
-  Camouflage: 2
-  Agility: 10
-  Armor: 21
-  Psy Defense: 21
-  Rank: 170
+  Movement Type: naval
+  Move Points: 7
+  Spot: 6
+  Camouflage: 1
+  Agility: 2
+  Armor: 10
+  Psy Defense: 10
+  Rank: 118
 Attacks:
-  Direct Space: 6/7
-  Closed Space: 5/6
-Cargo Space: 2
-Space Freighter - Used by the League to Resupply Agoras
-Immune to Plague
-Upkeep / Maintenance: 252
-Build Cost: 2515
+  Water: 2/14
+  Indirect: 2/13
+Load aboard transport: YES
+Upkeep / Maintenance: 36
+Build Cost: 364
 Build Resource Requirements:
-  Food: 4
-  Energy: 3
-  Metal: 20
+  Food: 10
+  Energy: 77
+  Metal: 53
   Trace: 8
-  Exotica: 4
-  Chemicals: 13
-  Electronics: 11
-  Ceramsteel: 29
-  Monopols: 42
-S  ingularities: 2
-Build Armored Freighter in Starport
+  Exotica: 9
+  Chemicals: 65
+  Gems: 1
+Build Submarine Chaser in Well
 Time to Build / Upgrade: 4
-[5975] Technologies Required to Build Unit (77):
-  [1690] Ceramsteel (84)
-  [4285] Jump Drives (70)
+[535] Technologies Required to Build Unit (99):
+  [100] Medical & Biological (100)
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Gate Freighter
-Nick Name: GG-TV
+Name: Naval Sloop
+Nick Name: NN-Sloop
 Scores & Strengths:
-  Tech Score: 7423
-  Unit Score: 7256
-  Average Score: 7339
-  Stat Strength: 6227
-  Total Strength: 7256
-  Planet Strength: 6709
-  Space Strength: 6774
-  Garrison Strength: 1398
+  Tech Score: 177
+  Unit Score: 351
+  Average Score: 264
+  Stat Strength: 260
+  Total Strength: 351
+  Planet Strength: 351
+  Space Strength: 0
+  Garrison Strength: 143
 Statistics:
-  Movement Type: gate
-  Move Points: 23
-  Spot: 16
-  Camouflage: 12
-  Agility: 40
-  Armor: 43
-  Psy Defense: 43
-  Rank: 251
+  Movement Type: naval
+  Move Points: 6
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
+  Armor: 10
+  Psy Defense: 10
+  Rank: 88
 Attacks:
-  Direct Space: 17/19
-  Closed Space: 14/16
-  Direct: 16/17
-  Close: 14/15
-Cargo Space: 2
-Space Freighter - Used by the League to Resupply Agoras
-Immune to Plague
-Upkeep / Maintenance: 904
-Build Cost: 9042
+  Indirect: 3/10
+  Direct: 3/7
+  Close: 8/5
+Load aboard transport: YES
+Upkeep / Maintenance: 25
+Build Cost: 249
 Build Resource Requirements:
-  Food: 2
-  Energy: 7
-  Metal: 8
-  Trace: 5
-  Exotica: 2
-  Chemicals: 13
-  Biochems: 20
+  Food: 6
+  Energy: 38
+  Metal: 48
+  Trace: 21
+  Exotica: 6
+  Chemicals: 34
+Build Naval Sloop in Well
+Time to Build / Upgrade: 4
+[605] Technologies Required to Build Unit (99):
+  [230] Hospitals (97)
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Patrol Boat
+Nick Name: NN-PB
+Scores & Strengths:
+  Tech Score: 520
+  Unit Score: 520
+  Average Score: 520
+  Stat Strength: 453
+  Total Strength: 520
+  Planet Strength: 520
+  Space Strength: 0
+  Garrison Strength: 183
+Statistics:
+  Movement Type: naval
+  Move Points: 8
+  Spot: 6
+  Camouflage: 4
+  Agility: 7
+  Armor: 12
+  Psy Defense: 12
+  Rank: 90
+Attacks:
+  Indirect: 3/6
+  Direct: 4/6
+  Close: 5/5
+Load aboard transport: YES
+Upkeep / Maintenance: 16
+Build Cost: 157
+Build Resource Requirements:
+  Food: 4
+  Energy: 11
+  Metal: 34
+  Trace: 9
+  Exotica: 4
+  Chemicals: 11
+  Biochems: 7
+  Electronics: 7
+Build Patrol Boat in Well
+Time to Build / Upgrade: 2
+[1660] Technologies Required to Build Unit (93):
+  [100] Psychosocial Engineering (100)
+  [1560] Naval Patrol Ships (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Advanced Gunboat
+Nick Name: N-Gunboat2
+Scores & Strengths:
+  Tech Score: 406
+  Unit Score: 783
+  Average Score: 595
+  Stat Strength: 663
+  Total Strength: 783
+  Planet Strength: 783
+  Space Strength: 0
+  Garrison Strength: 261
+Statistics:
+  Movement Type: naval
+  Move Points: 9
+  Spot: 5
+  Camouflage: 3
+  Agility: 6
+  Armor: 16
+  Psy Defense: 16
+  Rank: 95
+Attacks:
+  Indirect: 3/9
+  Direct: 5/9
+  Close: 6/8
+Load aboard transport: YES
+Upkeep / Maintenance: 25
+Build Cost: 251
+Build Resource Requirements:
+  Food: 6
+  Energy: 26
+  Metal: 80
+  Trace: 12
+  Exotica: 5
+  Chemicals: 26
+  Electronics: 9
+Advanced Gunboat cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Fast Torpedo Boat
+Nick Name: NN-FTB
+Scores & Strengths:
+  Tech Score: 1134
+  Unit Score: 1133
+  Average Score: 1134
+  Stat Strength: 713
+  Total Strength: 1133
+  Planet Strength: 1133
+  Space Strength: 0
+  Garrison Strength: 341
+Statistics:
+  Movement Type: naval
+  Move Points: 11
+  Spot: 10
+  Camouflage: 6
+  Agility: 8
+  Armor: 14
+  Psy Defense: 14
+  Rank: 112
+Attacks:
+  Water: 10/20
+  Direct: 10/16
+  Close: 6/10
+Load aboard transport: YES
+Upkeep / Maintenance: 29
+Build Cost: 285
+Build Resource Requirements:
+  Food: 3
+  Energy: 28
+  Metal: 12
+  Trace: 12
+  Exotica: 4
+  Chemicals: 35
+  Biochems: 8
+  Electronics: 14
+  Ceramsteel: 14
+Build Fast Torpedo Boat in Well
+Time to Build / Upgrade: 3
+[4695] Technology Required to Build Unit (83):
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Naval Cutter
+Nick Name: NN-Cutter
+Scores & Strengths:
+  Tech Score: 1134
+  Unit Score: 1133
+  Average Score: 1134
+  Stat Strength: 668
+  Total Strength: 1133
+  Planet Strength: 1133
+  Space Strength: 0
+  Garrison Strength: 314
+Statistics:
+  Movement Type: naval
+  Move Points: 13
+  Spot: 8
+  Camouflage: 4
+  Agility: 9
+  Armor: 13
+  Psy Defense: 13
+  Rank: 112
+Attacks:
+  Water: 9/25
+  Air: 8/10
+  Direct: 10/16
+Load aboard transport: YES
+Upkeep / Maintenance: 31
+Build Cost: 310
+Build Resource Requirements:
+  Food: 3
+  Energy: 36
+  Metal: 10
+  Trace: 11
+  Exotica: 4
+  Chemicals: 44
+  Biochems: 8
+  Electronics: 12
+  Ceramsteel: 12
+Build Naval Cutter in Well
+Time to Build / Upgrade: 3
+[4695] Technology Required to Build Unit (83):
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Fast Attack Craft
+Nick Name: NN-Cutter
+Scores & Strengths:
+  Tech Score: 1134
+  Unit Score: 1134
+  Average Score: 1134
+  Stat Strength: 704
+  Total Strength: 1134
+  Planet Strength: 1134
+  Space Strength: 0
+  Garrison Strength: 327
+Statistics:
+  Movement Type: naval
+  Move Points: 12
+  Spot: 8
+  Camouflage: 8
+  Agility: 12
+  Armor: 12
+  Psy Defense: 12
+  Rank: 96
+Attacks:
+  Water: 12/12
+  Air: 11/11
+  Indirect: 12/12
+  Direct: 3/7
+Load aboard transport: YES
+Upkeep / Maintenance: 26
+Build Cost: 264
+Build Resource Requirements:
+  Food: 4
+  Energy: 20
+  Metal: 9
+  Trace: 18
+  Exotica: 4
+  Chemicals: 26
+  Biochems: 9
+  Electronics: 16
+  Ceramsteel: 10
+Build Fast Attack Craft in Well
+Time to Build / Upgrade: 3
+[4695] Technology Required to Build Unit (83):
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Naval Missile Cutter
+Nick Name: NN-CM
+Scores & Strengths:
+  Tech Score: 1339
+  Unit Score: 1339
+  Average Score: 1339
+  Stat Strength: 858
+  Total Strength: 1339
+  Planet Strength: 1339
+  Space Strength: 0
+  Garrison Strength: 357
+Statistics:
+  Movement Type: naval
+  Move Points: 14
+  Spot: 10
+  Camouflage: 7
+  Agility: 11
+  Armor: 14
+  Psy Defense: 14
+  Rank: 145
+Attacks:
+  Air: 15/15
+  Indirect: 16/16
+Load aboard transport: YES
+Upkeep / Maintenance: 27
+Build Cost: 272
+Build Resource Requirements:
+  Food: 4
+  Energy: 19
+  Metal: 10
+  Trace: 18
+  Exotica: 5
+  Chemicals: 26
+  Biochems: 8
   Electronics: 13
   Ceramsteel: 13
-  Wetware: 9
-  Monopols: 28
-S  ingularities: 5
-Build Gate Freighter in Starport
-Time to Build / Upgrade: 4
-[57460] Technology Required to Build Unit (49):
-  [57460] Gate Transports (49)
+Build Naval Missile Cutter in Well
+Time to Build / Upgrade: 3
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Fast Attack Craft II
+Nick Name: NN-Cutter II
+Scores & Strengths:
+  Tech Score: 1579
+  Unit Score: 1512
+  Average Score: 1545
+  Stat Strength: 919
+  Total Strength: 1512
+  Planet Strength: 1512
+  Space Strength: 0
+  Garrison Strength: 404
+Statistics:
+  Movement Type: naval
+  Move Points: 14
+  Spot: 9
+  Camouflage: 9
+  Agility: 13
+  Armor: 14
+  Psy Defense: 14
+  Rank: 102
+Attacks:
+  Water: 14/14
+  Air: 13/13
+  Indirect: 14/14
+  Direct: 4/8
+Load aboard transport: YES
+Upkeep / Maintenance: 29
+Build Cost: 294
+Build Resource Requirements:
+  Food: 3
+  Energy: 20
+  Metal: 9
+  Trace: 18
+  Exotica: 4
+  Chemicals: 28
+  Biochems: 9
+  Electronics: 18
+  Ceramsteel: 11
+Build Fast Attack Craft II in Well
+Time to Build / Upgrade: 3
+[7295] Technology Required to Build Unit (81):
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

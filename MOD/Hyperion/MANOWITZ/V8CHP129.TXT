@@ -1,387 +1,133 @@
-All units of the unit class Space Dreadnought Battlestar are listed herein (8 in total):
+All units of the unit class PTS Guided Missile are listed herein (3 in total):
 
 --1--
-Name: Space Dreadnought Battlestar
-Nick Name: SS-BDB
+Name: PTS Guided Missile
+Nick Name: PTS GM
 Scores & Strengths:
-  Tech Score: 395
-  Unit Score: 591
-  Average Score: 493
-  Stat Strength: 405
-  Total Strength: 591
-  Planet Strength: 0
-  Space Strength: 591
-  Garrison Strength: 0
+  Tech Score: 522
+  Unit Score: 521
+  Average Score: 522
+  Stat Strength: 296
+  Total Strength: 521
+  Planet Strength: 296
+  Space Strength: 521
+  Garrison Strength: 85
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 13
-  Psy Defense: 13
-  Rank: 797
+  Movement Type: air
+  Move Points: 12
+  Spot: 0
+  Camouflage: 12
+  Agility: 0
+  Armor: 2
+  Psy Defense: 2
+  Rank: 85
 Attacks:
-  Ranged Space: 3/27
-  Direct Space: 5/21
-Officer - Provides stack combat bonuses
+  Ranged Space: 15/15
+Load aboard transport: YES
+Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 68
-Build Cost: 678
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 14
 Build Resource Requirements:
-  Food: 5
-  Energy: 97
-  Metal: 60
-  Trace: 10
-  Exotica: 5
-  Chemicals: 132
-  Electronics: 6
-Build Space Dreadnought Battlestar in Starport
-Time to Build / Upgrade: 5
-[1530] Technologies Required to Build Unit (95):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [200] Admiralty Fire Control Table (87)
-  [795] Rocket Propulsion (90)
-  [100] Psychosocial Engineering (100)
-  [60] Torpedo (98)
-Counts as planetary flock: YES
+  Food: 6
+  Energy: 24
+  Metal: 5
+  Trace: 25
+  Exotica: 6
+  Chemicals: 35
+  Electronics: 30
+Build PTS Guided Missile in Chemical Plant
+Time to Build / Upgrade: 3
+[1670] Technology Required to Build Unit (83):
+  [1670] Guided Missiles (83)
 Unit can be disbanded: YES
 
 --2--
-Name: Jump Dreadnought Battlestar
-Nick Name: JJ-BDB
+Name: PTS Supersonic Missile
+Nick Name: PTS GM II
 Scores & Strengths:
-  Tech Score: 480
-  Unit Score: 687
-  Average Score: 583
-  Stat Strength: 459
-  Total Strength: 687
-  Planet Strength: 0
-  Space Strength: 687
-  Garrison Strength: 0
+  Tech Score: 1038
+  Unit Score: 1037
+  Average Score: 1037
+  Stat Strength: 596
+  Total Strength: 1037
+  Planet Strength: 596
+  Space Strength: 1037
+  Garrison Strength: 144
 Statistics:
-  Movement Type: jump
-  Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 14
-  Psy Defense: 14
-  Rank: 826
+  Movement Type: air
+  Move Points: 17
+  Spot: 0
+  Camouflage: 17
+  Agility: 0
+  Armor: 3
+  Psy Defense: 3
+  Rank: 102
 Attacks:
-  Ranged Space: 3/30
-  Direct Space: 6/23
-Officer - Provides stack combat bonuses
+  Ranged Space: 21/21
+Load aboard transport: YES
+Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 181
-Build Cost: 1810
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 14
 Build Resource Requirements:
   Food: 5
-  Energy: 119
-  Metal: 61
-  Trace: 10
-  Exotica: 4
-  Chemicals: 160
-  Electronics: 7
-S  ingularities: 1
-Build Jump Dreadnought Battlestar in Starport
-Time to Build / Upgrade: 5
-[1970] Technologies Required to Build Unit (93):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [200] Admiralty Fire Control Table (87)
-  [100] Psychosocial Engineering (100)
-  [60] Torpedo (98)
-  [1235] Jump Rocketry (76)
-Counts as planetary flock: YES
+  Energy: 25
+  Metal: 11
+  Trace: 22
+  Exotica: 5
+  Chemicals: 33
+  Electronics: 25
+Build PTS Supersonic Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[4170] Technology Required to Build Unit (84):
+  [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
 --3--
-Name: Space Dreadnought
-Nick Name: SS-BD
+Name: PTS Hypersonic Missile
+Nick Name: PTS GM III
 Scores & Strengths:
-  Tech Score: 2916
-  Unit Score: 2916
-  Average Score: 2916
-  Stat Strength: 2534
-  Total Strength: 2916
-  Planet Strength: 0
-  Space Strength: 2916
-  Garrison Strength: 0
+  Tech Score: 1548
+  Unit Score: 1576
+  Average Score: 1562
+  Stat Strength: 900
+  Total Strength: 1576
+  Planet Strength: 900
+  Space Strength: 1576
+  Garrison Strength: 196
 Statistics:
-  Movement Type: space
-  Move Points: 12
-  Spot: 12
-  Camouflage: 2
-  Agility: 8
-  Armor: 33
-  Psy Defense: 33
-  Rank: 834
+  Movement Type: air
+  Move Points: 21
+  Spot: 0
+  Camouflage: 21
+  Agility: 0
+  Armor: 3
+  Psy Defense: 3
+  Rank: 118
 Attacks:
-  Ranged Space: 4/46
-  Direct Space: 6/33
-Officer - Provides stack combat bonuses
+  Ranged Space: 26/26
+Load aboard transport: YES
+Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 532
-Build Cost: 5316
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 16
 Build Resource Requirements:
-  Food: 1
-  Energy: 23
-  Metal: 15
-  Trace: 2
-  Exotica: 1
-  Chemicals: 37
-  Biochems: 26
-  Electronics: 4
-  Ceramsteel: 18
-  Monopols: 54
-Build Space Dreadnought in Starport
-Time to Build / Upgrade: 4
-[16530] Technology Required to Build Unit (80):
-  [16530] Space Capital Ships (80)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: Space Super Dreadnought
-Nick Name: SS-BSD
-Scores & Strengths:
-  Tech Score: 2916
-  Unit Score: 2916
-  Average Score: 2916
-  Stat Strength: 2630
-  Total Strength: 2916
-  Planet Strength: 0
-  Space Strength: 2916
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 11
-  Spot: 12
-  Camouflage: 2
-  Agility: 7
-  Armor: 34
-  Psy Defense: 34
-  Rank: 829
-Attacks:
-  Ranged Space: 3/47
-  Direct Space: 5/29
-Officer - Provides stack combat bonuses
-Immune to Plague
-Upkeep / Maintenance: 523
-Build Cost: 5231
-Build Resource Requirements:
-  Food: 1
-  Energy: 22
-  Metal: 16
-  Trace: 2
-  Exotica: 1
-  Chemicals: 36
-  Biochems: 26
-  Electronics: 3
-  Ceramsteel: 19
-  Monopols: 53
-Build Space Super Dreadnought in Starport
-Time to Build / Upgrade: 4
-[16530] Technology Required to Build Unit (80):
-  [16530] Space Capital Ships (80)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Jump Super Dreadnought
-Nick Name: JJ-BSD
-Scores & Strengths:
-  Tech Score: 4184
-  Unit Score: 4202
-  Average Score: 4193
-  Stat Strength: 3768
-  Total Strength: 4202
-  Planet Strength: 0
-  Space Strength: 4202
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 13
-  Spot: 13
-  Camouflage: 2
-  Agility: 8
-  Armor: 41
-  Psy Defense: 41
-  Rank: 874
-Attacks:
-  Ranged Space: 4/56
-  Direct Space: 6/35
-Officer - Provides stack combat bonuses
-Immune to Plague
-Upkeep / Maintenance: 851
-Build Cost: 8506
-Build Resource Requirements:
-  Food: 1
-  Energy: 18
-  Metal: 16
-  Trace: 2
-  Exotica: 1
-  Chemicals: 31
-  Biochems: 22
-  Electronics: 3
-  Ceramsteel: 19
-  Monopols: 53
-S  ingularities: 4
-Build Jump Super Dreadnought in Starport
-Time to Build / Upgrade: 4
-[36320] Technologies Required to Build Unit (72):
-  [16530] Space Capital Ships (80)
-  [4285] Jump Drives (70)
-  [15505] Meson Cannon (65)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---6--
-Name: Jump Dreadnought
-Nick Name: JJ-BD
-Scores & Strengths:
-  Tech Score: 4184
-  Unit Score: 4205
-  Average Score: 4194
-  Stat Strength: 3650
-  Total Strength: 4205
-  Planet Strength: 0
-  Space Strength: 4205
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 14
-  Spot: 13
-  Camouflage: 2
-  Agility: 9
-  Armor: 40
-  Psy Defense: 40
-  Rank: 880
-Attacks:
-  Ranged Space: 5/55
-  Direct Space: 7/40
-Officer - Provides stack combat bonuses
-Immune to Plague
-Upkeep / Maintenance: 875
-Build Cost: 8753
-Build Resource Requirements:
-  Food: 1
-  Energy: 19
-  Metal: 15
-  Trace: 2
-  Exotica: 1
-  Chemicals: 32
-  Biochems: 22
-  Electronics: 3
-  Ceramsteel: 18
-  Monopols: 54
-S  ingularities: 4
-Build Jump Dreadnought in Starport
-Time to Build / Upgrade: 4
-[36320] Technologies Required to Build Unit (72):
-  [4285] Jump Drives (70)
-  [15505] Meson Cannon (65)
-  [16530] Space Capital Ships (80)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---7--
-Name: Jump (Cadiz) Dreadnought
-Nick Name: JJ-BD2
-Scores & Strengths:
-  Tech Score: 5828
-  Unit Score: 5418
-  Average Score: 5623
-  Stat Strength: 4629
-  Total Strength: 5418
-  Planet Strength: 0
-  Space Strength: 5418
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 13
-  Spot: 14
-  Camouflage: 4
-  Agility: 4
-  Armor: 46
-  Psy Defense: 46
-  Rank: 886
-Attacks:
-  Ranged Space: 10/36
-  Direct Space: 11/28
-  Closed Space: 11/11
-Officer - Provides stack combat bonuses
-Immune to Plague
-Upkeep / Maintenance: 795
-Build Cost: 7949
-Build Resource Requirements:
-  Food: 1
-  Energy: 6
-  Metal: 9
-  Trace: 2
-  Exotica: 1
-  Chemicals: 14
-  Biochems: 11
-  Electronics: 9
-  Ceramsteel: 15
-  Monopols: 28
-S  ingularities: 4
-Build Jump (Cadiz) Dreadnought in Starport
-Time to Build / Upgrade: 3
-[65575] Technologies Required to Build Unit (58):
-  [26210] PTS Beam Cannon (54)
-  [39365] Jump Capital Ships (61)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---8--
-Name: Gate Dreadnought
-Nick Name: JJ-BD
-Scores & Strengths:
-  Tech Score: 7682
-  Unit Score: 7520
-  Average Score: 7601
-  Stat Strength: 5832
-  Total Strength: 7520
-  Planet Strength: 0
-  Space Strength: 6731
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 14
-  Spot: 14
-  Camouflage: 4
-  Agility: 4
-  Armor: 52
-  Psy Defense: 52
-  Rank: 864
-Attacks:
-  Ranged Space: 11/37
-  Direct Space: 12/29
-  Closed Space: 12/12
-  Air: 11/28
-  Indirect: 10/36
-  Direct: 11/11
-Officer - Provides stack combat bonuses
-Immune to Plague
-Upkeep / Maintenance: 1184
-Build Cost: 11840
-Build Resource Requirements:
-  Energy: 14
+  Food: 5
+  Energy: 25
   Metal: 11
-  Trace: 2
-  Chemicals: 26
-  Biochems: 24
-  Electronics: 8
-  Ceramsteel: 19
-  Wetware: 4
-  Monopols: 49
-S  ingularities: 4
-Build Gate Dreadnought in Starport
-Time to Build / Upgrade: 4
-[60155] Technology Required to Build Unit (53):
-  [60155] Gate Capital Ships (53)
-Counts as planetary flock: YES
+  Trace: 23
+  Exotica: 5
+  Chemicals: 38
+  Electronics: 28
+Build PTS Hypersonic Missile in Chemical Plant
+Time to Build / Upgrade: 3
+[7105] Technology Required to Build Unit (77):
+  [7105] Hypercruise Missiles (77)
 Unit can be disbanded: YES

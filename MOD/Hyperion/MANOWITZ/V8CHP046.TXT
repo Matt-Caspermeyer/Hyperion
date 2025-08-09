@@ -1,293 +1,517 @@
-All units of the unit class Forward Observer are listed herein (7 in total):
+All units of the unit class Infantry Legion are listed herein (12 in total):
 
 --1--
-Name: Forward Observer
-Nick Name: FO
+Name: Infantry Legion
+Nick Name: Infantry
 Scores & Strengths:
-  Tech Score: 90
+  Tech Score: 135
   Unit Score: 133
-  Average Score: 111
-  Stat Strength: 131
+  Average Score: 134
+  Stat Strength: 91
   Total Strength: 133
   Planet Strength: 133
   Space Strength: 0
-  Garrison Strength: 59
+  Garrison Strength: 76
 Statistics:
   Movement Type: foot
-  Move Points: 5
-  Spot: 4
-  Camouflage: 6
-  Agility: 7
-  Armor: 2
+  Move Points: 3
+  Spot: 2
+  Camouflage: 2
+  Agility: 8
+  Armor: 3
   Psy Defense: 1
-  Rank: 667
+  Rank: 58
 Attacks:
-  Close: 1/2
+  Indirect: 3/4
+  Close: 6/5
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 7
-Build Cost: 55
+Upkeep / Maintenance: 4
+Build Cost: 22
 Build Resource Requirements:
-  Exotica: 25
-Upgrade Peasant to Forward Observer at Fort
+  Metal: 1
+  Trace: 18
+  Exotica: 7
+  Chemicals: 15
+Upgrade Peasant to Infantry Legion at Fort
 Time to Build / Upgrade: 1
-[160] Technologies Required to Build Unit (100):
-  [110] Meditation (99)
-  [50] Applied Technology (100)
+[375] Technologies Required to Build Unit (99):
+  [110] Mechanical & Aerospace Engineering (98)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Forward Observer (Psy)
-Nick Name: FO (Psy)
+Name: Infantry Legion (PE)
+Nick Name: Inf (PE)
 Scores & Strengths:
-  Tech Score: 126
-  Unit Score: 189
-  Average Score: 157
-  Stat Strength: 177
-  Total Strength: 189
-  Planet Strength: 189
-  Space Strength: 185
-  Garrison Strength: 77
+  Tech Score: 146
+  Unit Score: 138
+  Average Score: 142
+  Stat Strength: 91
+  Total Strength: 138
+  Planet Strength: 138
+  Space Strength: 0
+  Garrison Strength: 79
 Statistics:
   Movement Type: foot
-  Move Points: 6
-  Spot: 6
-  Camouflage: 6
-  Agility: 7
-  Armor: 2
-  Psy Defense: 4
-  Rank: 668
+  Move Points: 3
+  Spot: 2
+  Camouflage: 2
+  Agility: 8
+  Armor: 3
+  Psy Defense: 1
+  Rank: 58
 Attacks:
-  Psychic: 2/4
-  Close: 2/2
+  Indirect: 3/4
+  Close: 7/5
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 23
-Build Cost: 179
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 3
+Build Cost: 13
 Build Resource Requirements:
-  Food: 19
-  Energy: 9
-  Metal: 6
-  Exotica: 22
-  Gems: 7
-Upgrade Forward Observer to Forward Observer (Psy) at Church
+  Metal: 1
+  Trace: 18
+  Exotica: 7
+  Chemicals: 14
+Upgrade Peasant to Infantry Legion (PE) at Fort
 Time to Build / Upgrade: 1
-[250] Technology Required to Build Unit (86):
-  [250] Psychically-Enhanced Soldiers (86)
+[455] Technologies Required to Build Unit (95):
+  [110] Mechanical & Aerospace Engineering (98)
+  [165] Autocannon (98)
+  [180] Performance-Enhanced Soldiers (90)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Forward Observer (Psy4)
-Nick Name: FO (Psy4)
+Name: Infantry Legion (BE)
+Nick Name: Inf (BE)
 Scores & Strengths:
-  Tech Score: 839
-  Unit Score: 971
-  Average Score: 905
-  Stat Strength: 848
-  Total Strength: 971
-  Planet Strength: 971
-  Space Strength: 946
-  Garrison Strength: 242
+  Tech Score: 226
+  Unit Score: 210
+  Average Score: 218
+  Stat Strength: 127
+  Total Strength: 210
+  Planet Strength: 210
+  Space Strength: 0
+  Garrison Strength: 105
 Statistics:
   Movement Type: foot
-  Move Points: 16
-  Spot: 10
-  Camouflage: 15
-  Agility: 11
-  Armor: 5
-  Psy Defense: 11
-  Rank: 675
+  Move Points: 4
+  Spot: 2
+  Camouflage: 3
+  Agility: 9
+  Armor: 4
+  Psy Defense: 1
+  Rank: 61
 Attacks:
-  Psychic: 7/14
-  Close: 5/5
+  Indirect: 4/5
+  Close: 9/7
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 70
-Build Cost: 517
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 7
+Build Cost: 44
 Build Resource Requirements:
-  Food: 3
-  Energy: 15
-  Metal: 9
-  Trace: 65
-  Exotica: 23
-  Chemicals: 59
-  Electronics: 93
-  Gems: 8
-Upgrade Forward Observer (Psy) to Forward Observer (Psy4) at Church
-Time to Build / Upgrade: 3
-[3140] Technology Required to Build Unit (38):
-  [3140] Sympathic Soldiers (38)
+  Metal: 1
+  Trace: 1
+  Biochems: 24
+Upgrade Infantry Legion to Infantry Legion (BE) at Biochem Plant
+Time to Build / Upgrade: 1
+[795] Technologies Required to Build Unit (93):
+  [110] Mechanical & Aerospace Engineering (98)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [420] Biochem-Enhanced Soldiers (77)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Forward Observer (Psy5)
-Nick Name: FO (Psy5)
+Name: Infantry Legion (SE)
+Nick Name: Inf (SE)
 Scores & Strengths:
-  Tech Score: 936
-  Unit Score: 1101
-  Average Score: 1019
-  Stat Strength: 957
-  Total Strength: 1101
-  Planet Strength: 1101
-  Space Strength: 1076
-  Garrison Strength: 275
+  Tech Score: 301
+  Unit Score: 287
+  Average Score: 294
+  Stat Strength: 172
+  Total Strength: 287
+  Planet Strength: 287
+  Space Strength: 0
+  Garrison Strength: 128
 Statistics:
   Movement Type: foot
-  Move Points: 16
-  Spot: 11
-  Camouflage: 16
-  Agility: 12
-  Armor: 6
-  Psy Defense: 12
-  Rank: 676
+  Move Points: 5
+  Spot: 3
+  Camouflage: 3
+  Agility: 10
+  Armor: 5
+  Psy Defense: 2
+  Rank: 65
 Attacks:
-  Psychic: 7/17
-  Close: 5/5
+  Indirect: 5/7
+  Close: 10/8
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 84
-Build Cost: 325
+Upkeep / Maintenance: 9
+Build Cost: 72
 Build Resource Requirements:
-  Food: 4
-  Energy: 1
-  Metal: 6
-  Trace: 10
-  Exotica: 5
-  Chemicals: 2
-  Electronics: 14
-  Gems: 5
-Upgrade Forward Observer (Psy4) to Forward Observer (Psy5) at Church
+  Energy: 3
+  Metal: 3
+  Trace: 5
+  Exotica: 1
+  Chemicals: 6
+  Biochems: 30
+Upgrade Infantry Legion to Infantry Legion (SE) at Hospital
 Time to Build / Upgrade: 1
-[3635] Technology Required to Build Unit (48):
-  [3635] Dervishes (48)
+[1050] Technologies Required to Build Unit (93):
+  [110] Mechanical & Aerospace Engineering (98)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [675] Surgically-Enhanced Soldiers (75)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Forward Observer (Psy6)
-Nick Name: FO (Psy6)
+Name: Infantry Legion (DE)
+Nick Name: Inf (DE)
 Scores & Strengths:
-  Tech Score: 1142
-  Unit Score: 1415
-  Average Score: 1278
-  Stat Strength: 1235
-  Total Strength: 1415
-  Planet Strength: 1415
-  Space Strength: 1379
-  Garrison Strength: 333
+  Tech Score: 921
+  Unit Score: 677
+  Average Score: 799
+  Stat Strength: 351
+  Total Strength: 677
+  Planet Strength: 677
+  Space Strength: 0
+  Garrison Strength: 239
 Statistics:
   Movement Type: foot
-  Move Points: 18
-  Spot: 11
-  Camouflage: 21
-  Agility: 12
-  Armor: 6
-  Psy Defense: 13
-  Rank: 679
+  Move Points: 8
+  Spot: 3
+  Camouflage: 6
+  Agility: 13
+  Armor: 8
+  Psy Defense: 3
+  Rank: 77
 Attacks:
-  Psychic: 8/18
-  Close: 6/6
+  Indirect: 8/11
+  Close: 17/14
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 48
-Build Cost: 150
+Upkeep / Maintenance: 9
+Build Cost: 72
 Build Resource Requirements:
-Upgrade Forward Observer (Psy5) to Forward Observer (Psy6) at Church
+  Metal: 13
+  Chemicals: 2
+  Biochems: 29
+  Electronics: 16
+Upgrade Infantry Legion to Infantry Legion (DE) at Biochem Plant
 Time to Build / Upgrade: 1
-[11015] Technologies Required to Build Unit (35):
-  [3790] Vislocks (32)
-  [3635] Dervishes (48)
-  [3590] Sathraists (26)
+[3815] Technologies Required to Build Unit (90):
+  [110] Mechanical & Aerospace Engineering (98)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [3440] Drug-Enhanced Soldiers (65)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Forward Observer (Psy7)
-Nick Name: FO (Psy7)
+Name: Infantry Legion (GE)
+Nick Name: Inf (GE)
 Scores & Strengths:
-  Tech Score: 1357
-  Unit Score: 1707
-  Average Score: 1532
-  Stat Strength: 1487
-  Total Strength: 1707
-  Planet Strength: 1707
-  Space Strength: 1658
-  Garrison Strength: 381
+  Tech Score: 1386
+  Unit Score: 986
+  Average Score: 1186
+  Stat Strength: 499
+  Total Strength: 986
+  Planet Strength: 986
+  Space Strength: 0
+  Garrison Strength: 311
 Statistics:
   Movement Type: foot
-  Move Points: 20
-  Spot: 12
-  Camouflage: 23
-  Agility: 13
-  Armor: 7
-  Psy Defense: 14
-  Rank: 681
+  Move Points: 10
+  Spot: 4
+  Camouflage: 7
+  Agility: 15
+  Armor: 10
+  Psy Defense: 3
+  Rank: 85
 Attacks:
-  Psychic: 9/19
-  Close: 7/7
+  Indirect: 10/13
+  Close: 21/17
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 57
-Build Cost: 418
+Upkeep / Maintenance: 12
+Build Cost: 52
 Build Resource Requirements:
-  Food: 6
-  Energy: 6
-  Metal: 3
-  Trace: 9
-  Exotica: 8
-  Chemicals: 8
-  Electronics: 14
-Upgrade Forward Observer (Psy6) to Forward Observer (Psy7) at Church
+  Energy: 4
+  Chemicals: 7
+  Biochems: 12
+  Electronics: 2
+  Ceramsteel: 3
+Upgrade Infantry Legion (DE) to Infantry Legion (GE) at Lab
 Time to Build / Upgrade: 1
-[12245] Technologies Required to Build Unit (35):
-  [4050] Occultists (48)
-  [4110] Visioneers (46)
-  [4085] Sathra Patrol Ships (12)
+[6395] Technologies Required to Build Unit (86):
+  [110] Mechanical & Aerospace Engineering (98)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [6020] Chemical Shock Legion (49)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Forward Observer (Psy8)
-Nick Name: FO (Psy8)
+Name: Infantry Legion (PA)
+Nick Name: Inf (PA)
 Scores & Strengths:
-  Tech Score: 1949
-  Unit Score: 2654
-  Average Score: 2301
-  Stat Strength: 2302
-  Total Strength: 2654
-  Planet Strength: 2654
-  Space Strength: 2590
-  Garrison Strength: 541
+  Tech Score: 1413
+  Unit Score: 996
+  Average Score: 1204
+  Stat Strength: 499
+  Total Strength: 996
+  Planet Strength: 996
+  Space Strength: 0
+  Garrison Strength: 314
 Statistics:
   Movement Type: foot
-  Move Points: 24
-  Spot: 15
-  Camouflage: 30
-  Agility: 14
-  Armor: 9
-  Psy Defense: 18
-  Rank: 689
+  Move Points: 10
+  Spot: 4
+  Camouflage: 7
+  Agility: 15
+  Armor: 10
+  Psy Defense: 3
+  Rank: 86
 Attacks:
-  Psychic: 12/24
-  Close: 8/8
+  Indirect: 10/14
+  Close: 21/17
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 58
-Build Cost: 160
+Upkeep / Maintenance: 16
+Build Cost: 83
 Build Resource Requirements:
-  Energy: 1
-  Metal: 4
-  Chemicals: 1
-  Gems: 1
-Upgrade Forward Observer (Psy7) to Forward Observer (Psy8) at Church
+  Energy: 9
+  Chemicals: 23
+  Biochems: 4
+  Electronics: 28
+  Ceramsteel: 9
+Upgrade Infantry Legion (SE) to Infantry Legion (PA) at Hospital
 Time to Build / Upgrade: 1
-[20390] Technologies Required to Build Unit (24):
-  [4980] Psychic Turners (41)
-  [5780] Electrokinetics (20)
-  [5290] Wraiths (29)
-  [4340] Sathra Escorts (7)
+[6550] Technologies Required to Build Unit (88):
+  [110] Mechanical & Aerospace Engineering (98)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [6175] Prosthetically-Augmented Soldiers (57)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Infantry Legion (CE)
+Nick Name: Inf (CE)
+Scores & Strengths:
+  Tech Score: 1788
+  Unit Score: 1269
+  Average Score: 1529
+  Stat Strength: 640
+  Total Strength: 1269
+  Planet Strength: 1269
+  Space Strength: 0
+  Garrison Strength: 366
+Statistics:
+  Movement Type: foot
+  Move Points: 12
+  Spot: 4
+  Camouflage: 8
+  Agility: 16
+  Armor: 12
+  Psy Defense: 4
+  Rank: 93
+Attacks:
+  Indirect: 12/16
+  Close: 23/19
+Load aboard transport: YES
+Upkeep / Maintenance: 18
+Build Cost: 98
+Build Resource Requirements:
+  Energy: 6
+  Metal: 3
+  Exotica: 1
+  Chemicals: 11
+  Biochems: 3
+  Ceramsteel: 4
+Upgrade Infantry Legion (PA) to Infantry Legion (CE) at Lab
+Time to Build / Upgrade: 1
+[8975] Technologies Required to Build Unit (86):
+  [110] Mechanical & Aerospace Engineering (98)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [8600] Cybernetically-Enhanced Soldiers (48)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Infantry Legion (AVE)
+Nick Name: Inf (AVE)
+Scores & Strengths:
+  Tech Score: 1850
+  Unit Score: 1312
+  Average Score: 1581
+  Stat Strength: 640
+  Total Strength: 1312
+  Planet Strength: 1312
+  Space Strength: 0
+  Garrison Strength: 378
+Statistics:
+  Movement Type: foot
+  Move Points: 12
+  Spot: 4
+  Camouflage: 8
+  Agility: 16
+  Armor: 12
+  Psy Defense: 4
+  Rank: 94
+Attacks:
+  Indirect: 12/16
+  Close: 24/20
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 19
+Build Cost: 141
+Build Resource Requirements:
+  Energy: 4
+  Chemicals: 7
+  Biochems: 9
+Upgrade Infantry Legion (GE) to Infantry Legion (AVE) at Lab
+Time to Build / Upgrade: 1
+[9275] Technologies Required to Build Unit (80):
+  [110] Mechanical & Aerospace Engineering (98)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [8900] Genetically-Enhanced Warriors (25)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Infantry Legion (ME)
+Nick Name: Inf (ME)
+Scores & Strengths:
+  Tech Score: 1401
+  Unit Score: 1562
+  Average Score: 1481
+  Stat Strength: 1030
+  Total Strength: 1562
+  Planet Strength: 1562
+  Space Strength: 0
+  Garrison Strength: 340
+Statistics:
+  Movement Type: foot
+  Move Points: 21
+  Spot: 4
+  Camouflage: 6
+  Agility: 20
+  Armor: 11
+  Psy Defense: 4
+  Rank: 90
+Attacks:
+  Indirect: 11/14
+  Close: 21/18
+Load aboard transport: YES
+Upkeep / Maintenance: 12
+Build Cost: 98
+Build Resource Requirements:
+  Food: 2
+  Energy: 15
+  Exotica: 3
+  Chemicals: 38
+  Electronics: 31
+  Ceramsteel: 5
+Upgrade Infantry Legion to Infantry Legion (ME) at Factory
+Time to Build / Upgrade: 2
+[6220] Technology Required to Build Unit (80):
+  [6220] Mechanically-Enhanced Soldiers (80)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Infantry Legion (MF)
+Nick Name: Inf (MF)
+Scores & Strengths:
+  Tech Score: 3182
+  Unit Score: 2076
+  Average Score: 2629
+  Stat Strength: 955
+  Total Strength: 2076
+  Planet Strength: 2076
+  Space Strength: 0
+  Garrison Strength: 536
+Statistics:
+  Movement Type: foot
+  Move Points: 15
+  Spot: 5
+  Camouflage: 10
+  Agility: 18
+  Armor: 16
+  Psy Defense: 5
+  Rank: 112
+Attacks:
+  Indirect: 15/21
+  Close: 31/26
+Load aboard transport: YES
+Upkeep / Maintenance: 144
+Build Cost: 1342
+Build Resource Requirements:
+  Energy: 2
+  Biochems: 8
+  Wetware: 10
+  Monopols: 48
+Upgrade Infantry Legion (CE) to Infantry Legion (MF) at Wetware
+Time to Build / Upgrade: 2
+[18950] Technologies Required to Build Unit (83):
+  [110] Mechanical & Aerospace Engineering (98)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [18575] Machine-Fused Soldiers (35)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Infantry Legion (NE)
+Nick Name: Inf (NE)
+Scores & Strengths:
+  Tech Score: 3872
+  Unit Score: 2697
+  Average Score: 3285
+  Stat Strength: 1291
+  Total Strength: 2697
+  Planet Strength: 2697
+  Space Strength: 0
+  Garrison Strength: 654
+Statistics:
+  Movement Type: foot
+  Move Points: 17
+  Spot: 5
+  Camouflage: 16
+  Agility: 19
+  Armor: 18
+  Psy Defense: 6
+  Rank: 123
+Attacks:
+  Indirect: 17/23
+  Close: 35/29
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 121
+Build Cost: 1066
+Build Resource Requirements:
+  Wetware: 11
+  Monopols: 24
+Upgrade Infantry Legion (AVE) to Infantry Legion (NE) at Fusorium
+Time to Build / Upgrade: 1
+[24130] Technology Required to Build Unit (32):
+  [24130] Neumonically-Enhanced Soldiers (32)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

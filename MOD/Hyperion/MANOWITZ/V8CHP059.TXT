@@ -1,256 +1,216 @@
-All units of the unit class Siege Mortar are listed herein (6 in total):
+All units of the unit class Heavy Tank are listed herein (5 in total):
 
 --1--
-Name: Siege Mortar
-Nick Name: Siege Mortar
+Name: Heavy Tank
+Nick Name: Heavy Tank
 Scores & Strengths:
   Tech Score: 106
   Unit Score: 157
   Average Score: 132
-  Stat Strength: 93
+  Stat Strength: 118
   Total Strength: 157
   Planet Strength: 157
   Space Strength: 0
-  Garrison Strength: 111
+  Garrison Strength: 90
 Statistics:
-  Movement Type: wheel
-  Move Points: 2
-  Spot: 2
+  Movement Type: tread
+  Move Points: 3
+  Spot: 1
   Camouflage: 1
-  Agility: 2
-  Armor: 8
-  Psy Defense: 4
-  Rank: 121
+  Agility: 1
+  Armor: 9
+  Psy Defense: 5
+  Rank: 64
 Attacks:
-  Indirect: 4/16
+  Indirect: 1/12
+  Direct: 1/12
+  Close: 5/3
 Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 12
-Build Cost: 124
+Upkeep / Maintenance: 8
+Build Cost: 82
 Build Resource Requirements:
-  Food: 4
-  Energy: 83
-  Metal: 48
-  Trace: 13
-  Exotica: 3
-  Chemicals: 87
-Build Siege Mortar in Factory
-Time to Build / Upgrade: 4
-[200] Technology Required to Build Unit (97):
-  [200] Fortifications (97)
+  Food: 2
+  Energy: 60
+  Metal: 39
+  Trace: 8
+  Exotica: 1
+  Chemicals: 57
+Build Heavy Tank in Factory
+Time to Build / Upgrade: 3
+[400] Technologies Required to Build Unit (98):
+  [110] Structural Engineering (99)
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Mortar Carrier
-Nick Name: Mortar Carr
+Name: Super Heavy Tank
+Nick Name: S-Hvy Tank
 Scores & Strengths:
-  Tech Score: 292
-  Unit Score: 290
-  Average Score: 291
-  Stat Strength: 240
-  Total Strength: 290
-  Planet Strength: 290
+  Tech Score: 106
+  Unit Score: 160
+  Average Score: 133
+  Stat Strength: 132
+  Total Strength: 160
+  Planet Strength: 160
   Space Strength: 0
-  Garrison Strength: 118
+  Garrison Strength: 113
 Statistics:
   Movement Type: tread
-  Move Points: 6
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 12
-  Psy Defense: 6
-  Rank: 93
+  Move Points: 2
+  Spot: 1
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 5
+  Rank: 66
 Attacks:
-  Indirect: 5/10
+  Indirect: 1/14
+  Direct: 1/14
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 42
+Upkeep / Maintenance: 10
+Build Cost: 100
 Build Resource Requirements:
-  Food: 4
-  Energy: 15
-  Metal: 39
-  Trace: 10
-  Exotica: 4
-  Chemicals: 15
-  Electronics: 3
-Build Mortar Carrier in Factory
-Time to Build / Upgrade: 2
-[770] Technology Required to Build Unit (92):
-  [770] Self-Propelled Weaponry (92)
+  Food: 1
+  Energy: 78
+  Metal: 46
+  Trace: 3
+  Exotica: 1
+  Chemicals: 75
+Build Super Heavy Tank in Factory
+Time to Build / Upgrade: 4
+[400] Technologies Required to Build Unit (98):
+  [110] Structural Engineering (99)
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Self-Propelled Siege Mortar
-Nick Name: SP SM
+Name: Heavy Tank II
+Nick Name: Hvy Tank II
 Scores & Strengths:
-  Tech Score: 292
-  Unit Score: 291
-  Average Score: 292
-  Stat Strength: 201
-  Total Strength: 291
-  Planet Strength: 291
+  Tech Score: 162
+  Unit Score: 230
+  Average Score: 196
+  Stat Strength: 176
+  Total Strength: 230
+  Planet Strength: 230
   Space Strength: 0
-  Garrison Strength: 145
+  Garrison Strength: 115
 Statistics:
   Movement Type: tread
   Move Points: 4
-  Spot: 2
+  Spot: 1
   Camouflage: 1
-  Agility: 0
-  Armor: 12
+  Agility: 1
+  Armor: 11
   Psy Defense: 6
-  Rank: 111
+  Rank: 68
 Attacks:
-  Indirect: 3/30
+  Indirect: 1/15
+  Direct: 1/15
+  Close: 6/4
 Load aboard transport: YES
-Upkeep / Maintenance: 13
-Build Cost: 125
+Upkeep / Maintenance: 16
+Build Cost: 163
 Build Resource Requirements:
-  Food: 2
-  Energy: 100
-  Metal: 39
-  Trace: 4
-  Exotica: 2
-  Chemicals: 100
-  Electronics: 1
-Build Self-Propelled Siege Mortar in Factory
-Time to Build / Upgrade: 3
-[770] Technology Required to Build Unit (92):
-  [770] Self-Propelled Weaponry (92)
+  Food: 4
+  Energy: 107
+  Metal: 61
+  Trace: 16
+  Exotica: 3
+  Chemicals: 129
+Build Heavy Tank II in Factory
+Time to Build / Upgrade: 5
+[350] Technology Required to Build Unit (95):
+  [350] Tanks (95)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Self-Propelled SM II
-Nick Name: SP SM II
+Name: Tank Killer
+Nick Name: Wolverine
 Scores & Strengths:
-  Tech Score: 530
-  Unit Score: 510
-  Average Score: 520
-  Stat Strength: 350
-  Total Strength: 510
-  Planet Strength: 510
+  Tech Score: 162
+  Unit Score: 240
+  Average Score: 201
+  Stat Strength: 217
+  Total Strength: 240
+  Planet Strength: 240
   Space Strength: 0
-  Garrison Strength: 228
+  Garrison Strength: 107
 Statistics:
   Movement Type: tread
   Move Points: 5
   Spot: 2
-  Camouflage: 1
-  Agility: 0
-  Armor: 16
-  Psy Defense: 8
-  Rank: 124
+  Camouflage: 2
+  Agility: 2
+  Armor: 12
+  Psy Defense: 6
+  Rank: 64
 Attacks:
-  Indirect: 4/40
+  Indirect: 1/12
+  Direct: 1/11
 Load aboard transport: YES
-Upkeep / Maintenance: 17
-Build Cost: 166
+Upkeep / Maintenance: 12
+Build Cost: 117
 Build Resource Requirements:
-  Food: 1
-  Energy: 110
-  Metal: 36
-  Trace: 3
-  Exotica: 1
-  Chemicals: 149
-  Electronics: 1
-Build Self-Propelled SM II in Factory
+  Food: 6
+  Energy: 65
+  Metal: 79
+  Trace: 8
+  Exotica: 5
+  Chemicals: 78
+Build Tank Killer in Factory
 Time to Build / Upgrade: 4
-[1700] Technology Required to Build Unit (88):
-  [1700] Main Battle Tank (88)
+[350] Technology Required to Build Unit (95):
+  [350] Anti-Tank Weaponry (95)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Self-Propelled SM III
-Nick Name: SP SM III
+Name: Shock Tank Killer
+Nick Name: Sabertooth
 Scores & Strengths:
-  Tech Score: 1226
-  Unit Score: 1212
-  Average Score: 1219
-  Stat Strength: 846
-  Total Strength: 1212
-  Planet Strength: 1212
+  Tech Score: 1413
+  Unit Score: 2029
+  Average Score: 1721
+  Stat Strength: 1828
+  Total Strength: 2029
+  Planet Strength: 2029
   Space Strength: 0
-  Garrison Strength: 428
+  Garrison Strength: 523
 Statistics:
   Movement Type: tread
-  Move Points: 8
+  Move Points: 15
   Spot: 3
-  Camouflage: 2
-  Agility: 0
-  Armor: 25
-  Psy Defense: 12
-  Rank: 154
-Attacks:
-  Indirect: 6/61
-Load aboard transport: YES
-Upkeep / Maintenance: 24
-Build Cost: 242
-Build Resource Requirements:
-  Food: 1
-  Energy: 106
-  Metal: 21
-  Trace: 1
-  Exotica: 1
-  Chemicals: 183
-  Electronics: 14
-  Ceramsteel: 28
-Build Self-Propelled SM III in Factory
-Time to Build / Upgrade: 5
-[5205] Technology Required to Build Unit (84):
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Self-Propelled SM IV
-Nick Name: SP SM IV
-Scores & Strengths:
-  Tech Score: 2510
-  Unit Score: 2503
-  Average Score: 2506
-  Stat Strength: 1711
-  Total Strength: 2503
-  Planet Strength: 2503
-  Space Strength: 0
-  Garrison Strength: 722
-Statistics:
-  Movement Type: tread
-  Move Points: 12
-  Spot: 3
-  Camouflage: 3
-  Agility: 0
+  Camouflage: 6
+  Agility: 3
   Armor: 35
   Psy Defense: 18
-  Rank: 197
+  Rank: 102
 Attacks:
-  Indirect: 9/88
+  Indirect: 3/35
+  Direct: 3/32
 Load aboard transport: YES
-Upkeep / Maintenance: 364
-Build Cost: 3643
+Upkeep / Maintenance: 216
+Build Cost: 2039
 Build Resource Requirements:
-  Food: 1
-  Energy: 67
-  Metal: 11
-  Trace: 1
-  Exotica: 1
-  Chemicals: 115
-  Electronics: 7
-  Ceramsteel: 18
-  Monopols: 156
-Build Self-Propelled SM IV in Factory
-Time to Build / Upgrade: 7
-[13535] Technology Required to Build Unit (74):
-  [13535] Powered Ceramsteel Tanks (74)
+  Chemicals: 20
+  Electronics: 23
+  Ceramsteel: 45
+  Monopols: 92
+Upgrade Tank Killer to Shock Tank Killer at Factory
+Time to Build / Upgrade: 3
+[6950] Technologies Required to Build Unit (77):
+  [1745] Monopols (70)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

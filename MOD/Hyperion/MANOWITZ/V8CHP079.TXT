@@ -1,486 +1,819 @@
-All units of the unit class Light Infantry Legion are listed herein (11 in total):
+All units of the unit class Air-Air Rocket are listed herein (18 in total):
 
 --1--
-Name: Light Infantry Legion
-Nick Name: Lt Inf
+Name: Air-Air Rocket
+Nick Name: A-A Rocket
 Scores & Strengths:
-  Tech Score: 265
-  Unit Score: 263
-  Average Score: 264
-  Stat Strength: 139
-  Total Strength: 263
-  Planet Strength: 263
+  Tech Score: 245
+  Unit Score: 245
+  Average Score: 245
+  Stat Strength: 200
+  Total Strength: 245
+  Planet Strength: 245
   Space Strength: 0
-  Garrison Strength: 117
+  Garrison Strength: 245
 Statistics:
-  Movement Type: foot
-  Move Points: 5
-  Spot: 2
-  Camouflage: 4
-  Agility: 9
-  Armor: 3
-  Psy Defense: 2
-  Rank: 44
+  Movement Type: air
+  Move Points: 1
+  Spot: 0
+  Camouflage: 1
+  Agility: 14
+  Armor: 1
+  Psy Defense: 1
+  Rank: 66
 Attacks:
-  Indirect: 12/5
-  Direct: 14/2
-  Close: 9/4
+  Air: 5/9
 Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 59
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
 Build Resource Requirements:
+  Food: 11
+  Energy: 26
   Metal: 1
-  Trace: 66
-  Exotica: 5
-  Chemicals: 13
-  Electronics: 29
-Upgrade Peasant to Light Infantry Legion at Fort
-Time to Build / Upgrade: 1
-[930] Technologies Required to Build Unit (94):
-  [525] Anti-Aircraft Weaponry (94)
-  [405] Recoilless Rifle (94)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Trace: 22
+  Exotica: 11
+  Chemicals: 32
+  Electronics: 15
+Build Air-Air Rocket in Chemical Plant
+Time to Build / Upgrade: 2
+[610] Technology Required to Build Unit (94):
+  [610] Air-Air Rockets (94)
 Unit can be disbanded: YES
 
 --2--
-Name: Light Infantry Legion (BE)
-Nick Name: Lt Inf (BE)
+Name: Surface-Air Rocket
+Nick Name: S-A Rocket
 Scores & Strengths:
-  Tech Score: 338
-  Unit Score: 371
-  Average Score: 355
-  Stat Strength: 185
-  Total Strength: 371
-  Planet Strength: 371
+  Tech Score: 272
+  Unit Score: 270
+  Average Score: 271
+  Stat Strength: 198
+  Total Strength: 270
+  Planet Strength: 270
   Space Strength: 0
-  Garrison Strength: 151
+  Garrison Strength: 135
 Statistics:
-  Movement Type: foot
-  Move Points: 6
-  Spot: 2
-  Camouflage: 5
-  Agility: 10
-  Armor: 4
-  Psy Defense: 2
-  Rank: 49
+  Movement Type: air
+  Move Points: 4
+  Spot: 0
+  Camouflage: 6
+  Agility: 12
+  Armor: 1
+  Psy Defense: 1
+  Rank: 71
 Attacks:
-  Indirect: 15/6
-  Direct: 18/2
-  Close: 12/5
+  Air: 6/12
 Load aboard transport: YES
-May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 14
-Build Cost: 78
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
 Build Resource Requirements:
+  Food: 9
+  Energy: 30
   Metal: 1
-  Trace: 6
-  Exotica: 1
-  Biochems: 44
-  Electronics: 2
-Upgrade Light Infantry Legion to Light Infantry Legion (BE) at Biochem Plant
-Time to Build / Upgrade: 1
-[1350] Technologies Required to Build Unit (88):
-  [420] Biochem-Enhanced Soldiers (77)
-  [525] Anti-Aircraft Weaponry (94)
-  [405] Recoilless Rifle (94)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Trace: 25
+  Exotica: 8
+  Chemicals: 37
+  Electronics: 17
+Build Surface-Air Rocket in Chemical Plant
+Time to Build / Upgrade: 2
+[760] Technologies Required to Build Unit (94):
+  [700] Rockets (90)
+  [60] Aerial Reconnaissance (97)
 Unit can be disbanded: YES
 
 --3--
-Name: Light Infantry Legion (SE)
-Nick Name: Lt Inf (SE)
+Name: Anti-Aircraft Rocket
+Nick Name: AA Rocket
 Scores & Strengths:
-  Tech Score: 334
-  Unit Score: 389
-  Average Score: 362
-  Stat Strength: 190
-  Total Strength: 389
-  Planet Strength: 389
+  Tech Score: 534
+  Unit Score: 534
+  Average Score: 534
+  Stat Strength: 406
+  Total Strength: 534
+  Planet Strength: 534
   Space Strength: 0
-  Garrison Strength: 158
+  Garrison Strength: 267
 Statistics:
-  Movement Type: foot
-  Move Points: 6
-  Spot: 2
-  Camouflage: 5
-  Agility: 10
-  Armor: 4
-  Psy Defense: 3
-  Rank: 50
+  Movement Type: air
+  Move Points: 4
+  Spot: 0
+  Camouflage: 8
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 79
 Attacks:
-  Indirect: 15/6
-  Direct: 18/3
-  Close: 11/5
+  Air: 8/16
 Load aboard transport: YES
-Upkeep / Maintenance: 15
-Build Cost: 87
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 10
 Build Resource Requirements:
-  Food: 1
-  Energy: 1
+  Food: 6
+  Energy: 25
   Metal: 1
-  Trace: 14
-  Exotica: 1
-  Chemicals: 2
-  Biochems: 50
-Upgrade Light Infantry Legion to Light Infantry Legion (SE) at Hospital
-Time to Build / Upgrade: 1
-[1430] Technologies Required to Build Unit (88):
-  [675] Surgically-Enhanced Soldiers (75)
-  [350] Anti-Tank Weaponry (95)
-  [405] Recoilless Rifle (94)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Trace: 22
+  Exotica: 6
+  Chemicals: 26
+  Electronics: 14
+Build Anti-Aircraft Rocket in Chemical Plant
+Time to Build / Upgrade: 2
+[2100] Technologies Required to Build Unit (89):
+  [700] Rockets (90)
+  [1400] Aerial Warfare (87)
 Unit can be disbanded: YES
 
 --4--
-Name: Light Infantry Legion (DE)
-Nick Name: Lt Inf (DE)
+Name: Surface-Air Missile
+Nick Name: S-A Missile
 Scores & Strengths:
-  Tech Score: 987
-  Unit Score: 926
-  Average Score: 957
-  Stat Strength: 394
-  Total Strength: 926
-  Planet Strength: 926
+  Tech Score: 556
+  Unit Score: 554
+  Average Score: 555
+  Stat Strength: 330
+  Total Strength: 554
+  Planet Strength: 554
   Space Strength: 0
-  Garrison Strength: 292
+  Garrison Strength: 226
 Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 3
-  Camouflage: 8
-  Agility: 13
-  Armor: 6
-  Psy Defense: 4
-  Rank: 69
+  Movement Type: air
+  Move Points: 6
+  Spot: 0
+  Camouflage: 6
+  Agility: 16
+  Armor: 1
+  Psy Defense: 1
+  Rank: 86
 Attacks:
-  Indirect: 26/10
-  Direct: 30/4
-  Close: 19/8
+  Air: 14/16
 Load aboard transport: YES
-Upkeep / Maintenance: 18
-Build Cost: 119
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
 Build Resource Requirements:
-  Metal: 7
-  Biochems: 54
-  Electronics: 17
-Upgrade Light Infantry Legion to Light Infantry Legion (DE) at Biochem Plant
-Time to Build / Upgrade: 1
-[4370] Technologies Required to Build Unit (84):
-  [3440] Drug-Enhanced Soldiers (65)
-  [525] Anti-Aircraft Weaponry (94)
-  [405] Recoilless Rifle (94)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 6
+  Energy: 23
+  Metal: 1
+  Trace: 27
+  Exotica: 6
+  Chemicals: 25
+  Electronics: 16
+Build Surface-Air Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[2195] Technologies Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
+  [795] Missiles (86)
 Unit can be disbanded: YES
 
 --5--
-Name: Light Infantry Legion (GE)
-Nick Name: Lt Inf (GE)
+Name: Anti-Aircraft Missile
+Nick Name: AA Missile
 Scores & Strengths:
-  Tech Score: 1407
-  Unit Score: 1345
-  Average Score: 1376
-  Stat Strength: 563
-  Total Strength: 1345
-  Planet Strength: 1345
+  Tech Score: 556
+  Unit Score: 556
+  Average Score: 556
+  Stat Strength: 426
+  Total Strength: 556
+  Planet Strength: 556
   Space Strength: 0
-  Garrison Strength: 373
+  Garrison Strength: 226
 Statistics:
-  Movement Type: foot
-  Move Points: 13
-  Spot: 3
-  Camouflage: 10
-  Agility: 14
-  Armor: 8
-  Psy Defense: 5
-  Rank: 80
+  Movement Type: air
+  Move Points: 6
+  Spot: 0
+  Camouflage: 8
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 79
 Attacks:
-  Indirect: 31/12
-  Direct: 36/5
-  Close: 23/10
+  Air: 10/13
 Load aboard transport: YES
-Upkeep / Maintenance: 23
-Build Cost: 108
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 10
 Build Resource Requirements:
-  Energy: 2
-  Chemicals: 4
-  Biochems: 15
-  Electronics: 5
-  Ceramsteel: 2
-Upgrade Light Infantry Legion (DE) to Light Infantry Legion (GE) at Lab
-Time to Build / Upgrade: 1
-[6775] Technologies Required to Build Unit (79):
-  [6020] Chemical Shock Legion (49)
-  [350] Anti-Tank Weaponry (95)
-  [405] Recoilless Rifle (94)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 7
+  Energy: 20
+  Metal: 1
+  Trace: 24
+  Exotica: 7
+  Chemicals: 22
+  Electronics: 15
+Build Anti-Aircraft Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[2195] Technologies Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
+  [795] Missiles (86)
 Unit can be disbanded: YES
 
 --6--
-Name: Light Infantry Legion (PA)
-Nick Name: Lt Inf (PA)
+Name: Air-Air Missile
+Nick Name: A-A Missile
 Scores & Strengths:
-  Tech Score: 1430
-  Unit Score: 1358
-  Average Score: 1394
-  Stat Strength: 563
-  Total Strength: 1358
-  Planet Strength: 1358
+  Tech Score: 556
+  Unit Score: 556
+  Average Score: 556
+  Stat Strength: 358
+  Total Strength: 556
+  Planet Strength: 556
   Space Strength: 0
-  Garrison Strength: 376
+  Garrison Strength: 278
 Statistics:
-  Movement Type: foot
-  Move Points: 13
-  Spot: 3
-  Camouflage: 10
-  Agility: 14
-  Armor: 8
-  Psy Defense: 5
-  Rank: 79
+  Movement Type: air
+  Move Points: 4
+  Spot: 0
+  Camouflage: 4
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 85
 Attacks:
-  Indirect: 30/13
-  Direct: 35/5
-  Close: 23/10
+  Air: 11/18
 Load aboard transport: YES
-Upkeep / Maintenance: 27
-Build Cost: 179
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
 Build Resource Requirements:
-  Food: 1
-  Energy: 8
+  Food: 6
+  Energy: 27
   Metal: 1
-  Exotica: 1
-  Chemicals: 16
-  Biochems: 5
-  Electronics: 80
-  Ceramsteel: 7
-Upgrade Light Infantry Legion (SE) to Light Infantry Legion (PA) at Hospital
+  Trace: 22
+  Exotica: 6
+  Chemicals: 30
+  Electronics: 13
+Build Air-Air Missile in Chemical Plant
 Time to Build / Upgrade: 2
-[6930] Technologies Required to Build Unit (82):
-  [6175] Prosthetically-Augmented Soldiers (57)
-  [350] Anti-Tank Weaponry (95)
-  [405] Recoilless Rifle (94)
-Counts as planetary flock: YES
-Unit Eats: YES
+[2195] Technologies Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
+  [795] Missiles (86)
 Unit can be disbanded: YES
 
 --7--
-Name: Light Infantry Legion (CE)
-Nick Name: Lt Inf (CE)
+Name: Air-Air Guided Missile
+Nick Name: A-A Missile
 Scores & Strengths:
-  Tech Score: 1820
-  Unit Score: 1670
-  Average Score: 1745
-  Stat Strength: 668
-  Total Strength: 1670
-  Planet Strength: 1670
+  Tech Score: 1041
+  Unit Score: 1041
+  Average Score: 1041
+  Stat Strength: 887
+  Total Strength: 1041
+  Planet Strength: 1041
   Space Strength: 0
-  Garrison Strength: 446
+  Garrison Strength: 260
 Statistics:
-  Movement Type: foot
-  Move Points: 14
-  Spot: 3
-  Camouflage: 11
-  Agility: 15
-  Armor: 9
-  Psy Defense: 6
-  Rank: 88
+  Movement Type: air
+  Move Points: 16
+  Spot: 0
+  Camouflage: 10
+  Agility: 23
+  Armor: 1
+  Psy Defense: 1
+  Rank: 89
 Attacks:
-  Indirect: 34/14
-  Direct: 40/6
-  Close: 26/11
+  Air: 22/7
 Load aboard transport: YES
-Upkeep / Maintenance: 27
-Build Cost: 89
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 10
 Build Resource Requirements:
-  Energy: 2
+  Food: 7
+  Energy: 13
   Metal: 1
-  Exotica: 1
-  Chemicals: 5
-  Ceramsteel: 1
-Upgrade Light Infantry Legion (PA) to Light Infantry Legion (CE) at Lab
-Time to Build / Upgrade: 1
-[9355] Technologies Required to Build Unit (79):
-  [350] Anti-Tank Weaponry (95)
-  [8600] Cybernetically-Enhanced Soldiers (48)
-  [405] Recoilless Rifle (94)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Trace: 19
+  Exotica: 7
+  Chemicals: 16
+  Electronics: 24
+Build Air-Air Guided Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[7355] Technologies Required to Build Unit (84):
+  [1255] Digital Fly-by-Wire (81)
+  [2420] Rocket-Propelled Aircraft (87)
+  [3680] Supersonic Missiles (84)
 Unit can be disbanded: YES
 
 --8--
-Name: Light Infantry Legion (AVE)
-Nick Name: Lt Inf (AVE)
+Name: Surface-Air Guided Missile
+Nick Name: S-A Missile
 Scores & Strengths:
-  Tech Score: 1869
-  Unit Score: 1753
-  Average Score: 1811
-  Stat Strength: 720
-  Total Strength: 1753
-  Planet Strength: 1753
+  Tech Score: 1041
+  Unit Score: 1041
+  Average Score: 1041
+  Stat Strength: 650
+  Total Strength: 1041
+  Planet Strength: 1041
   Space Strength: 0
-  Garrison Strength: 452
+  Garrison Strength: 329
 Statistics:
-  Movement Type: foot
-  Move Points: 15
-  Spot: 3
-  Camouflage: 12
-  Agility: 15
-  Armor: 9
-  Psy Defense: 6
-  Rank: 90
+  Movement Type: air
+  Move Points: 10
+  Spot: 0
+  Camouflage: 8
+  Agility: 22
+  Armor: 1
+  Psy Defense: 1
+  Rank: 100
 Attacks:
-  Indirect: 35/14
-  Direct: 41/6
-  Close: 27/11
+  Air: 23/17
 Load aboard transport: YES
+Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 32
-Build Cost: 216
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 10
 Build Resource Requirements:
-  Energy: 2
-  Chemicals: 3
-  Biochems: 8
-  Electronics: 2
-Upgrade Light Infantry Legion (GE) to Light Infantry Legion (AVE) at Lab
-Time to Build / Upgrade: 1
-[9655] Technologies Required to Build Unit (71):
-  [350] Anti-Tank Weaponry (95)
-  [405] Recoilless Rifle (94)
-  [8900] Genetically-Enhanced Warriors (25)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 4
+  Energy: 15
+  Metal: 1
+  Trace: 19
+  Exotica: 4
+  Chemicals: 18
+  Electronics: 23
+Build Surface-Air Guided Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[7355] Technologies Required to Build Unit (84):
+  [1255] Digital Fly-by-Wire (81)
+  [2420] Rocket-Propelled Aircraft (87)
+  [3680] Supersonic Missiles (84)
 Unit can be disbanded: YES
 
 --9--
-Name: Light Infantry Legion (ME)
-Nick Name: Lt Inf (ME)
+Name: Anti-Aircraft Guided Missile
+Nick Name: AA Missile
 Scores & Strengths:
-  Tech Score: 1401
-  Unit Score: 1973
-  Average Score: 1687
-  Stat Strength: 1108
-  Total Strength: 1973
-  Planet Strength: 1973
+  Tech Score: 1041
+  Unit Score: 1042
+  Average Score: 1041
+  Stat Strength: 782
+  Total Strength: 1042
+  Planet Strength: 1042
   Space Strength: 0
-  Garrison Strength: 411
+  Garrison Strength: 278
 Statistics:
-  Movement Type: foot
-  Move Points: 23
-  Spot: 3
-  Camouflage: 9
-  Agility: 20
-  Armor: 8
-  Psy Defense: 5
-  Rank: 84
+  Movement Type: air
+  Move Points: 14
+  Spot: 0
+  Camouflage: 10
+  Agility: 22
+  Armor: 1
+  Psy Defense: 1
+  Rank: 93
 Attacks:
-  Indirect: 32/13
-  Direct: 37/5
-  Close: 24/11
+  Air: 20/13
 Load aboard transport: YES
-Upkeep / Maintenance: 20
-Build Cost: 141
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 9
 Build Resource Requirements:
-  Food: 7
+  Food: 6
   Energy: 14
-  Trace: 13
-  Exotica: 7
-  Chemicals: 26
-  Electronics: 50
-  Ceramsteel: 3
-Upgrade Light Infantry Legion to Light Infantry Legion (ME) at Factory
+  Metal: 1
+  Trace: 17
+  Exotica: 6
+  Chemicals: 17
+  Electronics: 21
+Build Anti-Aircraft Guided Missile in Chemical Plant
 Time to Build / Upgrade: 2
-[7150] Technologies Required to Build Unit (89):
-  [525] Anti-Aircraft Weaponry (94)
-  [405] Recoilless Rifle (94)
-  [6220] Mechanically-Enhanced Soldiers (80)
-Counts as planetary flock: YES
-Unit Eats: YES
+[7355] Technologies Required to Build Unit (84):
+  [1255] Digital Fly-by-Wire (81)
+  [2420] Rocket-Propelled Aircraft (87)
+  [3680] Supersonic Missiles (84)
 Unit can be disbanded: YES
 
 --10--
-Name: Light Infantry Legion (MF)
-Nick Name: Lt Inf (MF)
+Name: Anti-Air Supercruise Missile
+Nick Name: AA Missile
 Scores & Strengths:
-  Tech Score: 3201
-  Unit Score: 2865
-  Average Score: 3033
-  Stat Strength: 1076
-  Total Strength: 2865
-  Planet Strength: 2865
+  Tech Score: 1247
+  Unit Score: 1185
+  Average Score: 1216
+  Stat Strength: 877
+  Total Strength: 1185
+  Planet Strength: 1185
   Space Strength: 0
-  Garrison Strength: 657
+  Garrison Strength: 305
 Statistics:
-  Movement Type: foot
-  Move Points: 19
-  Spot: 4
-  Camouflage: 15
-  Agility: 17
-  Armor: 11
-  Psy Defense: 8
-  Rank: 116
+  Movement Type: air
+  Move Points: 15
+  Spot: 0
+  Camouflage: 11
+  Agility: 23
+  Armor: 1
+  Psy Defense: 1
+  Rank: 98
 Attacks:
-  Indirect: 45/19
-  Direct: 53/8
-  Close: 34/15
+  Air: 22/14
 Load aboard transport: YES
-Upkeep / Maintenance: 187
-Build Cost: 1781
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 10
 Build Resource Requirements:
-  Biochems: 4
-  Wetware: 33
-  Monopols: 29
-Upgrade Light Infantry Legion (CE) to Light Infantry Legion (MF) at Wetware
-Time to Build / Upgrade: 3
-[19330] Technologies Required to Build Unit (75):
-  [350] Anti-Tank Weaponry (95)
-  [405] Recoilless Rifle (94)
-  [18575] Machine-Fused Soldiers (35)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 5
+  Energy: 13
+  Metal: 1
+  Trace: 17
+  Exotica: 5
+  Chemicals: 17
+  Electronics: 23
+Build Anti-Air Supercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[9060] Technologies Required to Build Unit (82):
+  [1690] Fly-by-Wireless (76)
+  [3200] Supersonic Aircraft (85)
+  [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
 --11--
-Name: Light Infantry Legion (NE)
-Nick Name: Lt Inf (NE)
+Name: Surf-Air Supercruise Missile
+Nick Name: S-A Missile
 Scores & Strengths:
-  Tech Score: 3890
-  Unit Score: 3620
-  Average Score: 3755
-  Stat Strength: 1431
-  Total Strength: 3620
-  Planet Strength: 3620
+  Tech Score: 1247
+  Unit Score: 1208
+  Average Score: 1227
+  Stat Strength: 733
+  Total Strength: 1208
+  Planet Strength: 1208
   Space Strength: 0
-  Garrison Strength: 789
+  Garrison Strength: 364
 Statistics:
-  Movement Type: foot
-  Move Points: 21
-  Spot: 4
-  Camouflage: 20
-  Agility: 18
-  Armor: 13
-  Psy Defense: 9
-  Rank: 130
+  Movement Type: air
+  Move Points: 11
+  Spot: 0
+  Camouflage: 9
+  Agility: 23
+  Armor: 1
+  Psy Defense: 1
+  Rank: 106
 Attacks:
-  Indirect: 51/21
-  Direct: 59/8
-  Close: 38/17
+  Air: 25/19
 Load aboard transport: YES
+Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 232
-Build Cost: 2108
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 10
 Build Resource Requirements:
-  Wetware: 38
-  Monopols: 17
-Upgrade Light Infantry Legion (AVE) to Light Infantry Legion (NE) at Fusorium
-Time to Build / Upgrade: 3
-[25060] Technologies Required to Build Unit (73):
-  [525] Anti-Aircraft Weaponry (94)
-  [405] Recoilless Rifle (94)
-  [24130] Neumonically-Enhanced Soldiers (32)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 4
+  Energy: 15
+  Metal: 1
+  Trace: 19
+  Exotica: 4
+  Chemicals: 19
+  Electronics: 25
+Build Surf-Air Supercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[9060] Technologies Required to Build Unit (82):
+  [1690] Fly-by-Wireless (76)
+  [3200] Supersonic Aircraft (85)
+  [4170] Supercruise Missiles (84)
+Unit can be disbanded: YES
+
+--12--
+Name: Air-Air Supercruise Missile
+Nick Name: A-A Missile
+Scores & Strengths:
+  Tech Score: 1247
+  Unit Score: 1215
+  Average Score: 1231
+  Stat Strength: 1023
+  Total Strength: 1215
+  Planet Strength: 1215
+  Space Strength: 0
+  Garrison Strength: 286
+Statistics:
+  Movement Type: air
+  Move Points: 18
+  Spot: 0
+  Camouflage: 11
+  Agility: 24
+  Armor: 1
+  Psy Defense: 1
+  Rank: 94
+Attacks:
+  Air: 24/8
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
+Build Resource Requirements:
+  Food: 7
+  Energy: 13
+  Metal: 1
+  Trace: 20
+  Exotica: 7
+  Chemicals: 17
+  Electronics: 26
+Build Air-Air Supercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[9060] Technologies Required to Build Unit (82):
+  [1690] Fly-by-Wireless (76)
+  [3200] Supersonic Aircraft (85)
+  [4170] Supercruise Missiles (84)
+Unit can be disbanded: YES
+
+--13--
+Name: Air-Air Hypersonic Missile
+Nick Name: A-A Missile
+Scores & Strengths:
+  Tech Score: 1767
+  Unit Score: 1549
+  Average Score: 1658
+  Stat Strength: 1288
+  Total Strength: 1549
+  Planet Strength: 1549
+  Space Strength: 0
+  Garrison Strength: 338
+Statistics:
+  Movement Type: air
+  Move Points: 21
+  Spot: 0
+  Camouflage: 13
+  Agility: 26
+  Armor: 1
+  Psy Defense: 1
+  Rank: 105
+Attacks:
+  Air: 29/9
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
+Build Resource Requirements:
+  Food: 6
+  Energy: 12
+  Metal: 1
+  Trace: 17
+  Exotica: 6
+  Chemicals: 17
+  Electronics: 26
+Build Air-Air Hypersonic Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[14905] Technologies Required to Build Unit (79):
+  [2935] Intelligent FCS (73)
+  [5665] Hypersonic Aircraft (82)
+  [6305] Hypersonic Missiles (83)
+Unit can be disbanded: YES
+
+--14--
+Name: Surf-Air Hypersonic Missile
+Nick Name: S-A Missile
+Scores & Strengths:
+  Tech Score: 1767
+  Unit Score: 1556
+  Average Score: 1662
+  Stat Strength: 896
+  Total Strength: 1556
+  Planet Strength: 1556
+  Space Strength: 0
+  Garrison Strength: 431
+Statistics:
+  Movement Type: air
+  Move Points: 13
+  Spot: 0
+  Camouflage: 10
+  Agility: 25
+  Armor: 1
+  Psy Defense: 1
+  Rank: 119
+Attacks:
+  Air: 30/22
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 10
+Build Resource Requirements:
+  Food: 4
+  Energy: 13
+  Metal: 1
+  Trace: 17
+  Exotica: 4
+  Chemicals: 19
+  Electronics: 26
+Build Surf-Air Hypersonic Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[14905] Technologies Required to Build Unit (79):
+  [2935] Intelligent FCS (73)
+  [5665] Hypersonic Aircraft (82)
+  [6305] Hypersonic Missiles (83)
+Unit can be disbanded: YES
+
+--15--
+Name: Anti-Air Hypersonic Missile
+Nick Name: AA Missile
+Scores & Strengths:
+  Tech Score: 1767
+  Unit Score: 1562
+  Average Score: 1665
+  Stat Strength: 1120
+  Total Strength: 1562
+  Planet Strength: 1562
+  Space Strength: 0
+  Garrison Strength: 368
+Statistics:
+  Movement Type: air
+  Move Points: 18
+  Spot: 0
+  Camouflage: 13
+  Agility: 25
+  Armor: 1
+  Psy Defense: 1
+  Rank: 110
+Attacks:
+  Air: 26/17
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 10
+Build Resource Requirements:
+  Food: 5
+  Energy: 13
+  Metal: 1
+  Trace: 15
+  Exotica: 5
+  Chemicals: 18
+  Electronics: 23
+Build Anti-Air Hypersonic Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[14905] Technologies Required to Build Unit (79):
+  [2935] Intelligent FCS (73)
+  [5665] Hypersonic Aircraft (82)
+  [6305] Hypersonic Missiles (83)
+Unit can be disbanded: YES
+
+--16--
+Name: Surf-Air Hypercruise  Missile
+Nick Name: S-A Missile
+Scores & Strengths:
+  Tech Score: 2505
+  Unit Score: 2073
+  Average Score: 2289
+  Stat Strength: 1137
+  Total Strength: 2073
+  Planet Strength: 2073
+  Space Strength: 0
+  Garrison Strength: 518
+Statistics:
+  Movement Type: air
+  Move Points: 16
+  Spot: 0
+  Camouflage: 12
+  Agility: 27
+  Armor: 2
+  Psy Defense: 2
+  Rank: 135
+Attacks:
+  Air: 36/26
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
+Build Resource Requirements:
+  Food: 4
+  Energy: 15
+  Trace: 17
+  Exotica: 4
+  Chemicals: 22
+  Electronics: 28
+Build Surf-Air Hypercruise  Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[21815] Technologies Required to Build Unit (68):
+  [7100] Artificial Intelligence (46)
+  [7610] Atmospheric Aircraft (80)
+  [7105] Hypercruise Missiles (77)
+Unit can be disbanded: YES
+
+--17--
+Name: Anti-Air Hypercruise  Missile
+Nick Name: AA Missile
+Scores & Strengths:
+  Tech Score: 2505
+  Unit Score: 2097
+  Average Score: 2301
+  Stat Strength: 1477
+  Total Strength: 2097
+  Planet Strength: 2097
+  Space Strength: 0
+  Garrison Strength: 447
+Statistics:
+  Movement Type: air
+  Move Points: 22
+  Spot: 0
+  Camouflage: 16
+  Agility: 27
+  Armor: 2
+  Psy Defense: 2
+  Rank: 124
+Attacks:
+  Air: 31/20
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
+Build Resource Requirements:
+  Food: 5
+  Energy: 14
+  Trace: 15
+  Exotica: 5
+  Chemicals: 21
+  Electronics: 25
+Build Anti-Air Hypercruise  Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[21815] Technologies Required to Build Unit (68):
+  [7100] Artificial Intelligence (46)
+  [7610] Atmospheric Aircraft (80)
+  [7105] Hypercruise Missiles (77)
+Unit can be disbanded: YES
+
+--18--
+Name: Air-Air Hypercruise  Missile
+Nick Name: A-A Missile
+Scores & Strengths:
+  Tech Score: 2505
+  Unit Score: 2104
+  Average Score: 2304
+  Stat Strength: 1730
+  Total Strength: 2104
+  Planet Strength: 2104
+  Space Strength: 0
+  Garrison Strength: 420
+Statistics:
+  Movement Type: air
+  Move Points: 25
+  Spot: 0
+  Camouflage: 16
+  Agility: 29
+  Armor: 2
+  Psy Defense: 2
+  Rank: 118
+Attacks:
+  Air: 34/11
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 13
+Build Resource Requirements:
+  Food: 6
+  Energy: 13
+  Trace: 17
+  Exotica: 6
+  Chemicals: 20
+  Electronics: 29
+Build Air-Air Hypercruise  Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[21815] Technologies Required to Build Unit (68):
+  [7100] Artificial Intelligence (46)
+  [7610] Atmospheric Aircraft (80)
+  [7105] Hypercruise Missiles (77)
 Unit can be disbanded: YES

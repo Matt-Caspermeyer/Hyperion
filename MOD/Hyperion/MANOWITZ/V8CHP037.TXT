@@ -1,92 +1,396 @@
-All units of the unit class Beast Grenadier are listed herein (2 in total):
+All units of the unit class Anti-Air Mine are listed herein (9 in total):
 
 --1--
-Name: Beast Grenadier
-Nick Name: Beast Gren.
+Name: Anti-Air Mine
+Nick Name: AA Mine
 Scores & Strengths:
-  Tech Score: 150
-  Unit Score: 110
-  Average Score: 130
-  Stat Strength: 88
-  Total Strength: 110
-  Planet Strength: 110
+  Tech Score: 106
+  Unit Score: 106
+  Average Score: 106
+  Stat Strength: 64
+  Total Strength: 106
+  Planet Strength: 106
   Space Strength: 0
-  Garrison Strength: 49
+  Garrison Strength: 132
 Statistics:
   Movement Type: foot
-  Move Points: 5
-  Spot: 4
-  Camouflage: 1
-  Agility: 6
-  Armor: 3
-  Psy Defense: 1
-  Rank: 56
+  Move Points: 0
+  Spot: 0
+  Camouflage: 8
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Indirect: 2/3
-  Close: 8/2
+  Air: 3/14
 Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 4
-Build Cost: 41
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
 Build Resource Requirements:
-  Food: 10
-  Energy: 11
-  Metal: 4
-  Trace: 23
-  Exotica: 10
-  Chemicals: 8
-Build Beast Grenadier in Farm
-Time to Build / Upgrade: 1
-[415] Technologies Required to Build Unit (85):
-  [125] Xenopsychology (60)
-  [125] Psychoconditioning (97)
+  Energy: 50
+  Trace: 21
+  Chemicals: 44
+  Electronics: 17
+Build Anti-Air Mine in Fort
+Time to Build / Upgrade: 3
+[350] Technologies Required to Build Unit (96):
+  [125] Radar (93)
   [165] Autocannon (98)
-Counts as planetary flock: YES
-Unit Eats: YES
+  [60] Aerial Reconnaissance (97)
 Unit can be disbanded: YES
 
 --2--
-Name: Beast Cavalry
-Nick Name: Beast Cav
+Name: Anti-Air Mine II
+Nick Name: AA Mine II
 Scores & Strengths:
-  Tech Score: 162
-  Unit Score: 162
-  Average Score: 162
-  Stat Strength: 114
-  Total Strength: 162
-  Planet Strength: 162
+  Tech Score: 224
+  Unit Score: 224
+  Average Score: 224
+  Stat Strength: 144
+  Total Strength: 224
+  Planet Strength: 224
   Space Strength: 0
-  Garrison Strength: 72
+  Garrison Strength: 280
 Statistics:
   Movement Type: foot
-  Move Points: 5
-  Spot: 4
-  Camouflage: 2
-  Agility: 7
-  Armor: 4
-  Psy Defense: 2
-  Rank: 38
+  Move Points: 0
+  Spot: 0
+  Camouflage: 12
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 1
 Attacks:
-  Direct: 8/3
-  Close: 8/3
+  Air: 4/20
 Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 5
-Build Cost: 51
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 16
 Build Resource Requirements:
-  Food: 10
-  Energy: 13
-  Metal: 7
-  Trace: 34
-  Exotica: 10
-  Chemicals: 9
-Build Beast Cavalry in Farm
-Time to Build / Upgrade: 2
-[450] Technologies Required to Build Unit (89):
-  [100] Medical & Biological (100)
-  [100] Physics & Energy (100)
-  [125] Psychoconditioning (97)
-  [125] Xenopsychology (60)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Energy: 56
+  Trace: 28
+  Chemicals: 65
+  Electronics: 22
+Build Anti-Air Mine II in Fort
+Time to Build / Upgrade: 3
+[650] Technologies Required to Build Unit (94):
+  [125] Radar (93)
+  [525] Anti-Aircraft Weaponry (94)
+Unit can be disbanded: YES
+
+--3--
+Name: Anti-Air Mine III
+Nick Name: AA Mine III
+Scores & Strengths:
+  Tech Score: 538
+  Unit Score: 541
+  Average Score: 539
+  Stat Strength: 324
+  Total Strength: 541
+  Planet Strength: 541
+  Space Strength: 0
+  Garrison Strength: 676
+Statistics:
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 18
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 18
+Attacks:
+  Air: 7/31
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 15
+Build Resource Requirements:
+  Energy: 50
+  Trace: 31
+  Chemicals: 53
+  Electronics: 21
+Build Anti-Air Mine III in Fort
+Time to Build / Upgrade: 3
+[2225] Technologies Required to Build Unit (90):
+  [125] Radar (93)
+  [700] Rockets (90)
+  [1400] Aerial Warfare (87)
+Unit can be disbanded: YES
+
+--4--
+Name: Anti-Air Mine IV
+Nick Name: AA Mine IV
+Scores & Strengths:
+  Tech Score: 970
+  Unit Score: 954
+  Average Score: 962
+  Stat Strength: 576
+  Total Strength: 954
+  Planet Strength: 954
+  Space Strength: 0
+  Garrison Strength: 1192
+Statistics:
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 24
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 36
+Attacks:
+  Air: 9/42
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 20
+Build Resource Requirements:
+  Energy: 60
+  Trace: 21
+  Chemicals: 75
+  Electronics: 25
+Build Anti-Air Mine IV in Fort
+Time to Build / Upgrade: 3
+[4390] Technologies Required to Build Unit (85):
+  [255] Doppler Frequency Radar (88)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2325] Web Missiles (80)
+Unit can be disbanded: YES
+
+--5--
+Name: Anti-Air Mine V
+Nick Name: AA Mine V
+Scores & Strengths:
+  Tech Score: 1240
+  Unit Score: 1209
+  Average Score: 1224
+  Stat Strength: 729
+  Total Strength: 1209
+  Planet Strength: 1209
+  Space Strength: 0
+  Garrison Strength: 1511
+Statistics:
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 27
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 45
+Attacks:
+  Air: 10/48
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 15
+Build Resource Requirements:
+  Energy: 44
+  Trace: 15
+  Chemicals: 56
+  Electronics: 18
+Build Anti-Air Mine V in Fort
+Time to Build / Upgrade: 3
+[9465] Technologies Required to Build Unit (84):
+  [385] Phased-Array Radar (84)
+  [1670] Guided Missiles (83)
+  [2325] Web Missiles (80)
+  [2665] V/STOL Aircraft (85)
+  [2420] Rocket-Propelled Aircraft (87)
+Unit can be disbanded: YES
+
+--6--
+Name: Anti-Air Mine VI
+Nick Name: AA Mine VI
+Scores & Strengths:
+  Tech Score: 1726
+  Unit Score: 1696
+  Average Score: 1711
+  Stat Strength: 1024
+  Total Strength: 1696
+  Planet Strength: 1696
+  Space Strength: 0
+  Garrison Strength: 2120
+Statistics:
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 32
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 60
+Attacks:
+  Air: 12/56
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 17
+Build Resource Requirements:
+  Energy: 43
+  Trace: 15
+  Chemicals: 57
+  Electronics: 20
+Build Anti-Air Mine VI in Fort
+Time to Build / Upgrade: 3
+[15800] Technologies Required to Build Unit (82):
+  [1465] Airborne-Pulse Radar (78)
+  [2325] Web Missiles (80)
+  [3680] Supersonic Missiles (84)
+  [2665] V/STOL Aircraft (85)
+  [5665] Hypersonic Aircraft (82)
+Unit can be disbanded: YES
+
+--7--
+Name: Anti-Air Mine VII
+Nick Name: AA Mine VII
+Scores & Strengths:
+  Tech Score: 2161
+  Unit Score: 2178
+  Average Score: 2170
+  Stat Strength: 1296
+  Total Strength: 2178
+  Planet Strength: 2178
+  Space Strength: 0
+  Garrison Strength: 2722
+Statistics:
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 36
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 74
+Attacks:
+  Air: 14/63
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 22
+Build Resource Requirements:
+  Energy: 49
+  Trace: 18
+  Chemicals: 74
+  Electronics: 26
+Build Anti-Air Mine VII in Fort
+Time to Build / Upgrade: 3
+[17530] Technologies Required to Build Unit (81):
+  [1605] Imaging Radar (78)
+  [2325] Web Missiles (80)
+  [4170] Supercruise Missiles (84)
+  [9430] Advanced V/STOL Aircraft (81)
+Unit can be disbanded: YES
+
+--8--
+Name: Anti-Air Mine VIII
+Nick Name: AA Mine VII
+Scores & Strengths:
+  Tech Score: 2485
+  Unit Score: 2541
+  Average Score: 2513
+  Stat Strength: 1521
+  Total Strength: 2541
+  Planet Strength: 2541
+  Space Strength: 0
+  Garrison Strength: 3176
+Statistics:
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 39
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 83
+Attacks:
+  Air: 15/68
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 19
+Build Resource Requirements:
+  Energy: 39
+  Trace: 13
+  Chemicals: 59
+  Electronics: 20
+Build Anti-Air Mine VIII in Fort
+Time to Build / Upgrade: 3
+[30545] Technologies Required to Build Unit (80):
+  [3780] Beam Control (79)
+  [2325] Web Missiles (80)
+  [6305] Hypersonic Missiles (83)
+  [9925] Advanced Rocket-Propelled Aircraft (83)
+  [8210] Aircraft Surveillance (74)
+Unit can be disbanded: YES
+
+--9--
+Name: Anti-Air Mine IX
+Nick Name: AA Mine IX
+Scores & Strengths:
+  Tech Score: 3392
+  Unit Score: 3368
+  Average Score: 3380
+  Stat Strength: 2025
+  Total Strength: 3368
+  Planet Strength: 3368
+  Space Strength: 0
+  Garrison Strength: 4210
+Statistics:
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 45
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 105
+Attacks:
+  Air: 17/79
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 26
+Build Cost: 257
+Build Resource Requirements:
+  Energy: 36
+  Trace: 17
+  Chemicals: 56
+  Electronics: 28
+  Monopols: 55
+Build Anti-Air Mine IX in Fort
+Time to Build / Upgrade: 4
+[31455] Technologies Required to Build Unit (79):
+  [3780] Beam Control (79)
+  [2325] Web Missiles (80)
+  [18245] Power Rocket Aircraft (80)
+  [7105] Hypercruise Missiles (77)
 Unit can be disbanded: YES

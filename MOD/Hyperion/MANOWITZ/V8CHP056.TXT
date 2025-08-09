@@ -1,41 +1,41 @@
-All units of the unit class Medium Tank are listed herein (6 in total):
+All units of the unit class Light Tank are listed herein (5 in total):
 
 --1--
-Name: Medium Tank
-Nick Name: Wolfen
+Name: Light Tank
+Nick Name: Light Tank
 Scores & Strengths:
   Tech Score: 106
   Unit Score: 157
   Average Score: 132
-  Stat Strength: 119
+  Stat Strength: 116
   Total Strength: 157
   Planet Strength: 157
   Space Strength: 0
-  Garrison Strength: 78
+  Garrison Strength: 70
 Statistics:
   Movement Type: tread
-  Move Points: 4
+  Move Points: 5
   Spot: 1
   Camouflage: 1
-  Agility: 2
-  Armor: 9
+  Agility: 3
+  Armor: 8
   Psy Defense: 4
-  Rank: 62
+  Rank: 61
 Attacks:
-  Indirect: 1/10
-  Direct: 1/10
-  Close: 6/3
+  Indirect: 2/8
+  Direct: 2/8
+  Close: 3/3
 Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 66
+Upkeep / Maintenance: 5
+Build Cost: 50
 Build Resource Requirements:
-  Food: 3
-  Energy: 44
-  Metal: 36
-  Trace: 10
-  Exotica: 2
-  Chemicals: 42
-Build Medium Tank in Factory
+  Food: 4
+  Energy: 31
+  Metal: 30
+  Trace: 6
+  Exotica: 4
+  Chemicals: 30
+Build Light Tank in Factory
 Time to Build / Upgrade: 3
 [400] Technologies Required to Build Unit (98):
   [110] Structural Engineering (99)
@@ -46,41 +46,41 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Medium Tank II
-Nick Name: Med Tank II
+Name: Light Tank II
+Nick Name: Light Tank II
 Scores & Strengths:
   Tech Score: 162
-  Unit Score: 229
+  Unit Score: 228
   Average Score: 195
-  Stat Strength: 177
-  Total Strength: 229
-  Planet Strength: 229
+  Stat Strength: 172
+  Total Strength: 228
+  Planet Strength: 228
   Space Strength: 0
-  Garrison Strength: 102
+  Garrison Strength: 93
 Statistics:
   Movement Type: tread
-  Move Points: 5
+  Move Points: 6
   Spot: 1
   Camouflage: 1
-  Agility: 2
-  Armor: 11
+  Agility: 3
+  Armor: 10
   Psy Defense: 5
-  Rank: 65
+  Rank: 64
 Attacks:
-  Indirect: 1/12
-  Direct: 1/12
-  Close: 7/4
+  Indirect: 2/10
+  Direct: 2/10
+  Close: 4/4
 Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 124
+Upkeep / Maintenance: 10
+Build Cost: 99
 Build Resource Requirements:
-  Food: 5
-  Energy: 73
-  Metal: 57
-  Trace: 20
-  Exotica: 5
-  Chemicals: 88
-Build Medium Tank II in Factory
+  Food: 7
+  Energy: 55
+  Metal: 49
+  Trace: 12
+  Exotica: 7
+  Chemicals: 67
+Build Light Tank II in Factory
 Time to Build / Upgrade: 4
 [350] Technology Required to Build Unit (95):
   [350] Tanks (95)
@@ -89,13 +89,13 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Assault Tank
-Nick Name: Pitbull
+Name: Scout Tank
+Nick Name: Greyhound
 Scores & Strengths:
   Tech Score: 162
   Unit Score: 240
   Average Score: 201
-  Stat Strength: 178
+  Stat Strength: 172
   Total Strength: 240
   Planet Strength: 240
   Space Strength: 0
@@ -103,27 +103,27 @@ Scores & Strengths:
 Statistics:
   Movement Type: tread
   Move Points: 6
-  Spot: 2
-  Camouflage: 2
-  Agility: 3
-  Armor: 10
-  Psy Defense: 5
-  Rank: 61
+  Spot: 6
+  Camouflage: 4
+  Agility: 2
+  Armor: 8
+  Psy Defense: 4
+  Rank: 62
 Attacks:
-  Indirect: 3/8
-  Direct: 3/6
-  Close: 5/4
+  Indirect: 7/4
+  Direct: 6/4
+  Close: 8/2
 Load aboard transport: YES
 Upkeep / Maintenance: 8
-Build Cost: 77
+Build Cost: 79
 Build Resource Requirements:
-  Food: 8
-  Energy: 33
-  Metal: 49
-  Trace: 19
-  Exotica: 7
-  Chemicals: 40
-Build Assault Tank in Factory
+  Food: 13
+  Energy: 15
+  Metal: 31
+  Trace: 63
+  Exotica: 12
+  Chemicals: 18
+Build Scout Tank in Factory
 Time to Build / Upgrade: 3
 [350] Technology Required to Build Unit (95):
   [350] Tanks (95)
@@ -132,130 +132,93 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Cruiser Tank
-Nick Name: Cruiser Tank
+Name: Tankette
+Nick Name: Tankette
 Scores & Strengths:
-  Tech Score: 167
-  Unit Score: 248
-  Average Score: 208
-  Stat Strength: 183
-  Total Strength: 248
-  Planet Strength: 248
+  Tech Score: 174
+  Unit Score: 258
+  Average Score: 216
+  Stat Strength: 140
+  Total Strength: 258
+  Planet Strength: 258
   Space Strength: 0
-  Garrison Strength: 110
+  Garrison Strength: 105
 Statistics:
   Movement Type: tread
-  Move Points: 5
-  Spot: 2
+  Move Points: 6
+  Spot: 4
   Camouflage: 2
   Agility: 2
-  Armor: 11
-  Psy Defense: 5
+  Armor: 8
+  Psy Defense: 4
   Rank: 66
 Attacks:
-  Indirect: 2/13
-  Direct: 2/12
-  Close: 3/5
+  Indirect: 7/6
+  Direct: 8/6
+  Close: 7/4
 Load aboard transport: YES
-Upkeep / Maintenance: 10
-Build Cost: 100
+Upkeep / Maintenance: 7
+Build Cost: 68
 Build Resource Requirements:
-  Food: 4
-  Energy: 62
-  Metal: 46
-  Trace: 8
-  Exotica: 4
-  Chemicals: 72
-Build Cruiser Tank in Factory
-Time to Build / Upgrade: 4
-[475] Technologies Required to Build Unit (97):
-  [125] Plastics (98)
+  Food: 7
+  Energy: 19
+  Metal: 20
+  Trace: 42
+  Exotica: 6
+  Chemicals: 34
+Build Tankette in Factory
+Time to Build / Upgrade: 3
+[495] Technologies Required to Build Unit (96):
+  [145] Composite Armor (97)
   [350] Tanks (95)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Shock Assault Tank
-Nick Name: Razorbull
+Name: Stealth Scout Tank
+Nick Name: Bloodhound
 Scores & Strengths:
-  Tech Score: 1226
-  Unit Score: 1805
-  Average Score: 1515
-  Stat Strength: 1339
-  Total Strength: 1805
-  Planet Strength: 1805
+  Tech Score: 5364
+  Unit Score: 5358
+  Average Score: 5361
+  Stat Strength: 3975
+  Total Strength: 5358
+  Planet Strength: 5358
   Space Strength: 0
-  Garrison Strength: 437
+  Garrison Strength: 1012
 Statistics:
   Movement Type: tread
-  Move Points: 17
-  Spot: 3
-  Camouflage: 6
-  Agility: 5
-  Armor: 28
-  Psy Defense: 14
-  Rank: 90
+  Move Points: 28
+  Spot: 14
+  Camouflage: 24
+  Agility: 31
+  Armor: 27
+  Psy Defense: 27
+  Rank: 144
 Attacks:
-  Indirect: 8/22
-  Direct: 8/17
-  Close: 14/11
+  Indirect: 28/18
+  Direct: 24/16
+  Close: 33/15
 Load aboard transport: YES
-Upkeep / Maintenance: 17
-Build Cost: 96
+Upkeep / Maintenance: 127
+Build Cost: 1274
 Build Resource Requirements:
-  Chemicals: 29
-  Electronics: 32
-  Ceramsteel: 36
-Upgrade Assault Tank to Shock Assault Tank at Factory
-Time to Build / Upgrade: 1
-[5205] Technology Required to Build Unit (84):
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Shock Medium Tank
-Nick Name: Wolfenrot
-Scores & Strengths:
-  Tech Score: 1413
-  Unit Score: 2105
-  Average Score: 1759
-  Stat Strength: 1575
-  Total Strength: 2105
-  Planet Strength: 2105
-  Space Strength: 0
-  Garrison Strength: 543
-Statistics:
-  Movement Type: tread
-  Move Points: 15
-  Spot: 2
-  Camouflage: 4
-  Agility: 4
-  Armor: 33
-  Psy Defense: 15
-  Rank: 108
-Attacks:
-  Indirect: 4/36
-  Direct: 4/36
-  Close: 22/11
-Load aboard transport: YES
-Upkeep / Maintenance: 234
-Build Cost: 2270
-Build Resource Requirements:
-  Energy: 16
-  Trace: 3
-  Exotica: 1
-  Chemicals: 68
-  Electronics: 37
-  Ceramsteel: 38
-  Monopols: 97
-Upgrade Medium Tank to Shock Medium Tank at Factory
-Time to Build / Upgrade: 5
-[6950] Technologies Required to Build Unit (77):
-  [1745] Monopols (70)
-  [5205] Advanced Battle Tanks (84)
+  Food: 2
+  Energy: 7
+  Metal: 4
+  Trace: 12
+  Exotica: 2
+  Chemicals: 11
+  Biochems: 25
+  Electronics: 24
+  Ceramsteel: 7
+  Wetware: 13
+  Monopols: 19
+Build Stealth Scout Tank in Factory
+Time to Build / Upgrade: 4
+[37210] Technology Required to Build Unit (34):
+  [37210] Neumonic Land Vehicles (34)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

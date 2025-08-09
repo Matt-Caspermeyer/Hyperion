@@ -1,410 +1,385 @@
-All units of the unit class PTS Tank are listed herein (9 in total):
+All units of the unit class Main Battle Tank are listed herein (9 in total):
 
 --1--
-Name: PTS Tank
-Nick Name: PTS Tank
+Name: Main Battle Tank
+Nick Name: MBT
 Scores & Strengths:
-  Tech Score: 608
-  Unit Score: 606
-  Average Score: 607
-  Stat Strength: 368
-  Total Strength: 606
+  Tech Score: 530
+  Unit Score: 528
+  Average Score: 529
+  Stat Strength: 380
+  Total Strength: 528
   Planet Strength: 528
-  Space Strength: 446
+  Space Strength: 0
   Garrison Strength: 215
 Statistics:
   Movement Type: tread
   Move Points: 6
-  Spot: 2
+  Spot: 6
   Camouflage: 2
-  Agility: 6
+  Agility: 4
   Armor: 12
   Psy Defense: 12
-  Rank: 72
+  Rank: 70
 Attacks:
-  Ranged Space: 6/13
-  Indirect: 6/13
-  Direct: 5/11
-  Close: 3/9
+  Indirect: 6/11
+  Direct: 5/10
+  Close: 4/8
 Load aboard transport: YES
 Upkeep / Maintenance: 7
-Build Cost: 67
+Build Cost: 65
 Build Resource Requirements:
-  Food: 2
-  Energy: 32
-  Metal: 27
-  Trace: 8
-  Exotica: 2
-  Chemicals: 45
-  Electronics: 7
-Build PTS Tank in Factory
+  Food: 4
+  Energy: 22
+  Metal: 33
+  Trace: 13
+  Exotica: 4
+  Chemicals: 36
+  Electronics: 10
+Build Main Battle Tank in Factory
 Time to Build / Upgrade: 2
-[2300] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1950] PTS Missile Launcher (88)
+[1700] Technology Required to Build Unit (88):
+  [1700] Main Battle Tank (88)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: PTS Tank II
-Nick Name: PTS Tank II
+Name: Main Battle Tank (RA)
+Nick Name: MBT (RA)
 Scores & Strengths:
-  Tech Score: 1132
-  Unit Score: 1079
-  Average Score: 1105
-  Stat Strength: 638
-  Total Strength: 1079
-  Planet Strength: 935
-  Space Strength: 782
-  Garrison Strength: 330
+  Tech Score: 768
+  Unit Score: 723
+  Average Score: 745
+  Stat Strength: 510
+  Total Strength: 723
+  Planet Strength: 723
+  Space Strength: 0
+  Garrison Strength: 273
 Statistics:
   Movement Type: tread
-  Move Points: 8
-  Spot: 2
-  Camouflage: 3
-  Agility: 7
-  Armor: 16
-  Psy Defense: 16
-  Rank: 83
+  Move Points: 7
+  Spot: 7
+  Camouflage: 2
+  Agility: 4
+  Armor: 14
+  Psy Defense: 14
+  Rank: 75
 Attacks:
-  Ranged Space: 8/18
-  Indirect: 8/18
-  Direct: 7/15
-  Close: 4/12
+  Indirect: 7/13
+  Direct: 6/12
+  Close: 5/10
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 62
+Upkeep / Maintenance: 8
+Build Cost: 10
 Build Resource Requirements:
-  Food: 1
-  Energy: 26
-  Metal: 41
-  Trace: 6
-  Exotica: 1
-  Chemicals: 34
-  Electronics: 4
-Build PTS Tank II in Factory
-Time to Build / Upgrade: 2
-[6890] Technologies Required to Build Unit (88):
-  [770] Self-Propelled Weaponry (92)
-  [1950] PTS Missile Launcher (88)
-  [4170] Supercruise Missiles (84)
+  Energy: 6
+  Metal: 6
+  Chemicals: 9
+Upgrade Main Battle Tank to Main Battle Tank (RA) at Factory
+Time to Build / Upgrade: 1
+[3090] Technologies Required to Build Unit (86):
+  [1220] Predictive Algorithms (76)
+  [1700] Main Battle Tank (88)
+  [170] Reactive Armor (95)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Symbiot PTS Weapon
-Nick Name: Fumerole
+Name: Main Battle Tank (ExA)
+Nick Name: MBT (ExA)
 Scores & Strengths:
-  Tech Score: 1530
-  Unit Score: 1530
-  Average Score: 1530
-  Stat Strength: 724
-  Total Strength: 1530
-  Planet Strength: 1370
-  Space Strength: 884
-  Garrison Strength: 395
+  Tech Score: 826
+  Unit Score: 788
+  Average Score: 807
+  Stat Strength: 568
+  Total Strength: 788
+  Planet Strength: 788
+  Space Strength: 0
+  Garrison Strength: 297
 Statistics:
   Movement Type: tread
-  Move Points: 12
-  Spot: 8
-  Camouflage: 8
-  Agility: 8
-  Armor: 18
-  Psy Defense: 8
-  Rank: 91
+  Move Points: 7
+  Spot: 7
+  Camouflage: 2
+  Agility: 4
+  Armor: 15
+  Psy Defense: 15
+  Rank: 76
 Attacks:
-  Ranged Space: 10/16
-  Air: 11/15
-  Indirect: 9/17
-  Direct: 10/16
-  Close: 12/14
+  Indirect: 7/14
+  Direct: 6/12
+  Close: 5/10
 Load aboard transport: YES
-Upkeep / Maintenance: 86
-Build Cost: 862
+Upkeep / Maintenance: 9
+Build Cost: 22
 Build Resource Requirements:
-  Food: 3
-  Energy: 195
-  Metal: 7
-  Trace: 7
-  Exotica: 4
-  Chemicals: 241
-  Biochems: 287
-  Electronics: 20
-Build Symbiot PTS Weapon in Hive
-Time to Build / Upgrade: 7
-[6995] Technology Required to Build Unit (37):
-  [6995] Symbiot Psychology (37)
+  Energy: 6
+  Metal: 9
+  Chemicals: 24
+Upgrade Main Battle Tank to Main Battle Tank (ExA) at Factory
+Time to Build / Upgrade: 1
+[3375] Technologies Required to Build Unit (86):
+  [1475] Monofilament (77)
+  [1700] Main Battle Tank (88)
+  [200] Explosive Armor (93)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: PTS Tank III
-Nick Name: PTS Tank III
+Name: Main Battle Tank (ElA)
+Nick Name: MBT (ElA)
 Scores & Strengths:
-  Tech Score: 1685
-  Unit Score: 1641
-  Average Score: 1663
-  Stat Strength: 982
-  Total Strength: 1641
-  Planet Strength: 1421
-  Space Strength: 1202
-  Garrison Strength: 449
+  Tech Score: 979
+  Unit Score: 932
+  Average Score: 956
+  Stat Strength: 659
+  Total Strength: 932
+  Planet Strength: 932
+  Space Strength: 0
+  Garrison Strength: 329
 Statistics:
   Movement Type: tread
-  Move Points: 10
-  Spot: 3
+  Move Points: 8
+  Spot: 7
   Camouflage: 3
-  Agility: 8
-  Armor: 20
-  Psy Defense: 20
-  Rank: 93
+  Agility: 5
+  Armor: 16
+  Psy Defense: 16
+  Rank: 81
 Attacks:
-  Ranged Space: 10/22
-  Indirect: 10/22
-  Direct: 8/18
-  Close: 5/15
+  Indirect: 8/15
+  Direct: 7/14
+  Close: 5/11
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 87
+Upkeep / Maintenance: 11
+Build Cost: 40
 Build Resource Requirements:
-  Food: 1
-  Energy: 28
-  Metal: 51
-  Trace: 6
-  Exotica: 1
-  Chemicals: 51
-  Electronics: 5
-Build PTS Tank III in Factory
-Time to Build / Upgrade: 3
-[10755] Technologies Required to Build Unit (84):
+  Energy: 12
+  Metal: 10
+  Chemicals: 18
+  Electronics: 23
+Upgrade Main Battle Tank to Main Battle Tank (ElA) at Factory
+Time to Build / Upgrade: 1
+[4245] Technologies Required to Build Unit (87):
+  [2285] Surgical LASER (82)
   [1700] Main Battle Tank (88)
-  [1950] PTS Missile Launcher (88)
-  [7105] Hypercruise Missiles (77)
+  [260] Electronic Armor (90)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: PTS Laser Cannon
-Nick Name: PTS Laser
+Name: Amphibious Main Battle Tank
+Nick Name: N-ATMB
 Scores & Strengths:
-  Tech Score: 2044
-  Unit Score: 2043
-  Average Score: 2044
-  Stat Strength: 1422
-  Total Strength: 2043
-  Planet Strength: 1753
-  Space Strength: 1712
-  Garrison Strength: 619
+  Tech Score: 959
+  Unit Score: 958
+  Average Score: 959
+  Stat Strength: 518
+  Total Strength: 958
+  Planet Strength: 958
+  Space Strength: 0
+  Garrison Strength: 338
 Statistics:
-  Movement Type: tread
+  Movement Type: craft
   Move Points: 8
-  Spot: 10
-  Camouflage: 2
-  Agility: 2
-  Armor: 25
-  Psy Defense: 25
-  Rank: 98
+  Spot: 6
+  Camouflage: 4
+  Agility: 8
+  Armor: 13
+  Psy Defense: 13
+  Rank: 84
 Attacks:
-  Ranged Space: 10/29
-  Air: 9/15
-  Direct: 14/14
+  Indirect: 12/15
+  Direct: 10/14
+  Close: 10/12
 Load aboard transport: YES
-Upkeep / Maintenance: 114
-Build Cost: 1143
+Upkeep / Maintenance: 8
+Build Cost: 76
 Build Resource Requirements:
   Food: 2
-  Energy: 15
-  Metal: 12
-  Trace: 9
+  Energy: 20
+  Metal: 19
+  Trace: 19
   Exotica: 2
   Chemicals: 25
-  Electronics: 16
-  Ceramsteel: 18
-  Monopols: 51
-Build PTS Laser Cannon in Factory
-Time to Build / Upgrade: 4
-[10295] Technology Required to Build Unit (76):
-  [10295] PTS Fusion Cannon (76)
+  Biochems: 7
+  Electronics: 10
+Build Amphibious Main Battle Tank in Factory
+Time to Build / Upgrade: 2
+[4555] Technologies Required to Build Unit (88):
+  [2855] Naval Amphibious Ships (87)
+  [1700] Main Battle Tank (88)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: PTS Meson Cannon
-Nick Name: PTS Meson
+Name: Main Battle Tank (APS)
+Nick Name: MBT (APS)
 Scores & Strengths:
-  Tech Score: 3737
-  Unit Score: 3737
-  Average Score: 3737
-  Stat Strength: 2590
-  Total Strength: 3737
-  Planet Strength: 3191
-  Space Strength: 3136
-  Garrison Strength: 962
+  Tech Score: 1484
+  Unit Score: 1405
+  Average Score: 1445
+  Stat Strength: 998
+  Total Strength: 1405
+  Planet Strength: 1405
+  Space Strength: 0
+  Garrison Strength: 444
 Statistics:
   Movement Type: tread
-  Move Points: 11
-  Spot: 12
+  Move Points: 10
+  Spot: 8
   Camouflage: 3
-  Agility: 2
-  Armor: 34
-  Psy Defense: 34
-  Rank: 125
+  Agility: 5
+  Armor: 20
+  Psy Defense: 20
+  Rank: 89
 Attacks:
-  Ranged Space: 14/39
-  Air: 12/20
-  Direct: 19/19
+  Indirect: 10/18
+  Direct: 8/17
+  Close: 7/13
 Load aboard transport: YES
-Upkeep / Maintenance: 128
-Build Cost: 133
+Upkeep / Maintenance: 14
+Build Cost: 71
 Build Resource Requirements:
-  Chemicals: 3
-  Electronics: 4
-  Ceramsteel: 1
-Upgrade PTS Laser Cannon to PTS Meson Cannon at Factory
+  Metal: 6
+  Chemicals: 19
+  Electronics: 19
+  Ceramsteel: 36
+Upgrade Main Battle Tank to Main Battle Tank (APS) at Factory
 Time to Build / Upgrade: 1
-[23015] Technology Required to Build Unit (70):
-  [23015] PTS Meson Cannon (70)
+[9905] Technologies Required to Build Unit (81):
+  [4855] Myoelectric Prosthetics (71)
+  [1700] Main Battle Tank (88)
+  [3350] Active Protective Systems (83)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Vau PTS Weapon
-Nick Name: Atomizer
+Name: Main Battle Tank (Ce)
+Nick Name: MBT (Ce)
 Scores & Strengths:
-  Tech Score: 3886
-  Unit Score: 3880
-  Average Score: 3883
-  Stat Strength: 2232
-  Total Strength: 3880
-  Planet Strength: 3280
-  Space Strength: 2832
-  Garrison Strength: 876
+  Tech Score: 1080
+  Unit Score: 1487
+  Average Score: 1283
+  Stat Strength: 1080
+  Total Strength: 1487
+  Planet Strength: 1487
+  Space Strength: 0
+  Garrison Strength: 470
 Statistics:
   Movement Type: tread
-  Move Points: 14
-  Spot: 10
-  Camouflage: 6
-  Agility: 10
-  Armor: 30
-  Psy Defense: 30
-  Rank: 164
+  Move Points: 10
+  Spot: 8
+  Camouflage: 3
+  Agility: 5
+  Armor: 21
+  Psy Defense: 21
+  Rank: 88
 Attacks:
-  Ranged Space: 20/30
-  Air: 16/28
-  Indirect: 20/30
+  Indirect: 10/18
+  Direct: 8/17
+  Close: 7/13
 Load aboard transport: YES
-Upkeep / Maintenance: 161
-Build Cost: 1606
+Upkeep / Maintenance: 13
+Build Cost: 60
 Build Resource Requirements:
-  Food: 1
-  Energy: 15
-  Metal: 5
-  Trace: 4
-  Exotica: 1
-  Chemicals: 27
-  Biochems: 26
-  Electronics: 10
-  Ceramsteel: 10
-  Wetware: 8
-  Monopols: 45
-Build Vau PTS Weapon in Vau City
-Time to Build / Upgrade: 4
-[24245] Technology Required to Build Unit (50):
-  [24245] Vau Psychology (50)
+  Energy: 5
+  Chemicals: 12
+  Ceramsteel: 38
+Upgrade Main Battle Tank to Main Battle Tank (Ce) at Factory
+Time to Build / Upgrade: 1
+[6960] Technologies Required to Build Unit (83):
+  [3570] Robotics (76)
+  [1700] Main Battle Tank (88)
+  [1690] Ceramsteel (84)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Discontinuity Cannon
-Nick Name: PTS Beam
+Name: Universal Combat Platform
+Nick Name: MBT-UCP
 Scores & Strengths:
-  Tech Score: 4120
-  Unit Score: 3975
-  Average Score: 4047
-  Stat Strength: 2728
-  Total Strength: 3975
-  Planet Strength: 3401
-  Space Strength: 3302
-  Garrison Strength: 1025
+  Tech Score: 1639
+  Unit Score: 1577
+  Average Score: 1608
+  Stat Strength: 1108
+  Total Strength: 1577
+  Planet Strength: 1577
+  Space Strength: 0
+  Garrison Strength: 475
 Statistics:
   Movement Type: tread
   Move Points: 11
-  Spot: 12
-  Camouflage: 3
-  Agility: 2
-  Armor: 35
-  Psy Defense: 35
-  Rank: 130
+  Spot: 8
+  Camouflage: 4
+  Agility: 5
+  Armor: 21
+  Psy Defense: 21
+  Rank: 93
 Attacks:
-  Ranged Space: 14/41
-  Air: 13/21
-  Direct: 20/20
+  Indirect: 11/19
+  Direct: 9/18
+  Close: 7/14
 Load aboard transport: YES
-Upkeep / Maintenance: 132
-Build Cost: 179
+Upkeep / Maintenance: 11
+Build Cost: 41
 Build Resource Requirements:
-  Chemicals: 3
-  Electronics: 4
-Upgrade PTS Laser Cannon to Discontinuity Cannon at Factory
+  Chemicals: 10
+  Electronics: 8
+  Ceramsteel: 27
+Upgrade Main Battle Tank to Universal Combat Platform at Factory
 Time to Build / Upgrade: 1
-[26210] Technology Required to Build Unit (54):
-  [26210] PTS Beam Cannon (54)
+[10630] Technologies Required to Build Unit (74):
+  [5425] Cybernetics (63)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Omicron Ray
-Nick Name: Omicron Ray
+Name: Shock Mega Tank
+Nick Name: Hell Hound
 Scores & Strengths:
-  Tech Score: 5202
-  Unit Score: 5201
-  Average Score: 5201
-  Stat Strength: 3650
-  Total Strength: 5201
-  Planet Strength: 4201
-  Space Strength: 4650
-  Garrison Strength: 1212
+  Tech Score: 3780
+  Unit Score: 3524
+  Average Score: 3652
+  Stat Strength: 2478
+  Total Strength: 3524
+  Planet Strength: 3524
+  Space Strength: 0
+  Garrison Strength: 881
 Statistics:
   Movement Type: tread
-  Move Points: 12
-  Spot: 16
+  Move Points: 16
+  Spot: 10
   Camouflage: 5
-  Agility: 5
-  Armor: 40
-  Psy Defense: 40
-  Rank: 162
+  Agility: 7
+  Armor: 32
+  Psy Defense: 32
+  Rank: 127
 Attacks:
-  Ranged Space: 20/50
-  Air: 25/11
-  Indirect: 12/23
+  Indirect: 16/29
+  Direct: 13/27
+  Close: 11/21
 Load aboard transport: YES
-Upkeep / Maintenance: 154
-Build Cost: 1542
+Upkeep / Maintenance: 93
+Build Cost: 24
 Build Resource Requirements:
-  Food: 1
-  Energy: 10
-  Metal: 7
-  Trace: 4
-  Exotica: 1
-  Chemicals: 21
-  Biochems: 21
-  Electronics: 12
-  Ceramsteel: 13
-  Wetware: 8
-  Monopols: 36
-Build Omicron Ray in Factory
-Time to Build / Upgrade: 4
-[49605] Technologies Required to Build Unit (46):
-  [23395] Advanced Hovertech (37)
-  [26210] PTS Beam Cannon (54)
+  Biochems: 17
+  Wetware: 2
+Upgrade Mega Tank to Shock Mega Tank at Factory
+Time to Build / Upgrade: 1
+[46850] Technologies Required to Build Unit (54):
+  [16745] Wetware (23)
+  [15130] Fusion Battle Tanks (68)
+  [14975] Power Hovertanks (70)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

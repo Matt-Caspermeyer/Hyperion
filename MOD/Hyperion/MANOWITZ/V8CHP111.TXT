@@ -1,393 +1,371 @@
-All units of the unit class Seaplane Tender are listed herein (9 in total):
+All units of the unit class Space Monitor are listed herein (8 in total):
 
 --1--
-Name: Seaplane Tender
-Nick Name: NN-CVT
+Name: Space Monitor
+Nick Name: SS-BM
 Scores & Strengths:
-  Tech Score: 199
-  Unit Score: 394
-  Average Score: 296
-  Stat Strength: 330
-  Total Strength: 394
-  Planet Strength: 394
-  Space Strength: 0
-  Garrison Strength: 160
+  Tech Score: 369
+  Unit Score: 368
+  Average Score: 368
+  Stat Strength: 309
+  Total Strength: 368
+  Planet Strength: 0
+  Space Strength: 368
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 2
+  Movement Type: space
+  Move Points: 1
+  Spot: 8
   Camouflage: 1
   Agility: 1
-  Armor: 12
-  Psy Defense: 12
-  Rank: 86
+  Armor: 11
+  Psy Defense: 11
+  Rank: 116
 Attacks:
-  Air: 4/4
-  Indirect: 2/9
-  Direct: 2/6
-  Close: 3/6
-Transports and Refuels (at end of turn) all Air Units
-Can tow units that can be towed
-Upkeep / Maintenance: 39
-Build Cost: 385
+  Ranged Space: 1/11
+  Direct Space: 2/10
+  Closed Space: 4/7
+Immune to Plague
+Upkeep / Maintenance: 20
+Build Cost: 201
 Build Resource Requirements:
-  Food: 5
-  Energy: 31
-  Metal: 118
-  Trace: 9
-  Exotica: 4
-  Chemicals: 33
-  Electronics: 5
-Build Seaplane Tender in Well
-Time to Build / Upgrade: 4
-[625] Technologies Required to Build Unit (96):
-  [165] Autocannon (98)
-  [460] Seaplane (94)
+  Food: 6
+  Energy: 27
+  Metal: 49
+  Trace: 10
+  Exotica: 5
+  Chemicals: 48
+  Electronics: 6
+Build Space Monitor in Starport
+Time to Build / Upgrade: 3
+[1270] Technologies Required to Build Unit (96):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [100] Psychosocial Engineering (100)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Naval Minesweeper
-Nick Name: NN-MS
+Name: Jump Monitor
+Nick Name: JJ-BM
 Scores & Strengths:
-  Tech Score: 181
-  Unit Score: 447
-  Average Score: 314
-  Stat Strength: 443
-  Total Strength: 447
-  Planet Strength: 447
-  Space Strength: 0
-  Garrison Strength: 182
+  Tech Score: 455
+  Unit Score: 421
+  Average Score: 438
+  Stat Strength: 355
+  Total Strength: 421
+  Planet Strength: 0
+  Space Strength: 421
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 4
-  Camouflage: 7
-  Agility: 2
-  Armor: 13
-  Psy Defense: 13
-  Rank: 63
+  Movement Type: jump
+  Move Points: 1
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 12
+  Psy Defense: 12
+  Rank: 142
 Attacks:
-  Close: 2/2
-Cargo Space: 1
-Can tow units that can be towed
-Upkeep / Maintenance: 21
-Build Cost: 209
+  Ranged Space: 1/12
+  Direct Space: 2/11
+  Closed Space: 4/8
+Immune to Plague
+Upkeep / Maintenance: 94
+Build Cost: 940
 Build Resource Requirements:
-  Food: 6
-  Energy: 5
-  Metal: 77
-  Trace: 22
+  Food: 5
+  Energy: 32
+  Metal: 50
+  Trace: 9
   Exotica: 5
-  Chemicals: 5
-Build Naval Minesweeper in Well
+  Chemicals: 57
+  Electronics: 7
+S  ingularities: 1
+Build Jump Monitor in Starport
 Time to Build / Upgrade: 3
-[665] Technologies Required to Build Unit (98):
+[1710] Technologies Required to Build Unit (93):
   [230] Hospitals (97)
-  [110] Structural Engineering (99)
+  [145] Composite Armor (97)
   [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
+  [1235] Jump Rocketry (76)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Naval Destroyer Tender
-Nick Name: NN-DT
+Name: Space Battlestar
+Nick Name: SS-BB
 Scores & Strengths:
-  Tech Score: 658
-  Unit Score: 657
-  Average Score: 657
-  Stat Strength: 475
-  Total Strength: 657
-  Planet Strength: 657
-  Space Strength: 0
-  Garrison Strength: 219
+  Tech Score: 387
+  Unit Score: 581
+  Average Score: 484
+  Stat Strength: 355
+  Total Strength: 581
+  Planet Strength: 0
+  Space Strength: 581
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 9
-  Spot: 6
-  Camouflage: 2
-  Agility: 4
-  Armor: 13
-  Psy Defense: 13
-  Rank: 197
+  Movement Type: space
+  Move Points: 1
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 12
+  Psy Defense: 12
+  Rank: 130
 Attacks:
-  Air: 7/8
-  Indirect: 4/12
-  Direct: 5/10
-  Close: 4/7
-Can tow units that can be towed
-Heals units of same movement type
-Upkeep / Maintenance: 22
-Build Cost: 224
+  Ranged Space: 4/25
+  Direct Space: 7/18
+Immune to Plague
+Upkeep / Maintenance: 39
+Build Cost: 387
 Build Resource Requirements:
-  Food: 3
-  Energy: 21
-  Metal: 33
-  Trace: 10
-  Exotica: 3
-  Chemicals: 21
-  Biochems: 7
-  Electronics: 7
-Build Naval Destroyer Tender in Well
-Time to Build / Upgrade: 2
-[2270] Technology Required to Build Unit (86):
-  [2270] Naval Escort Ships (86)
+  Food: 5
+  Energy: 79
+  Metal: 52
+  Trace: 13
+  Exotica: 5
+  Chemicals: 108
+  Electronics: 8
+Build Space Battlestar in Starport
+Time to Build / Upgrade: 4
+[1500] Technologies Required to Build Unit (95):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [170] Fire Control System (89)
+  [795] Rocket Propulsion (90)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Naval Repair Ship
-Nick Name: NN-RS
+Name: Jump Battlestar
+Nick Name: JJ-BB
 Scores & Strengths:
-  Tech Score: 658
-  Unit Score: 657
-  Average Score: 657
-  Stat Strength: 632
-  Total Strength: 657
-  Planet Strength: 657
-  Space Strength: 0
-  Garrison Strength: 232
+  Tech Score: 472
+  Unit Score: 677
+  Average Score: 575
+  Stat Strength: 405
+  Total Strength: 677
+  Planet Strength: 0
+  Space Strength: 677
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 6
-  Camouflage: 2
-  Agility: 4
-  Armor: 16
-  Psy Defense: 16
-  Rank: 157
+  Movement Type: jump
+  Move Points: 1
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 13
+  Psy Defense: 13
+  Rank: 159
 Attacks:
-  Close: 5/5
-Can tow units that can be towed
-Heals units of same movement type
-Upkeep / Maintenance: 14
-Build Cost: 139
+  Ranged Space: 4/28
+  Direct Space: 8/20
+Immune to Plague
+Upkeep / Maintenance: 113
+Build Cost: 1133
 Build Resource Requirements:
-  Food: 3
-  Energy: 5
-  Metal: 49
-  Trace: 5
-  Exotica: 3
-  Chemicals: 5
-  Biochems: 4
-  Electronics: 4
-Build Naval Repair Ship in Well
-Time to Build / Upgrade: 2
-[2270] Technology Required to Build Unit (86):
-  [2270] Naval Escort Ships (86)
+  Food: 5
+  Energy: 98
+  Metal: 53
+  Trace: 13
+  Exotica: 4
+  Chemicals: 134
+  Electronics: 10
+S  ingularities: 1
+Build Jump Battlestar in Starport
+Time to Build / Upgrade: 5
+[1940] Technologies Required to Build Unit (93):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [170] Fire Control System (89)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
+  [1235] Jump Rocketry (76)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Naval Replenishment Tanker
-Nick Name: NN-AOR
+Name: Space Fast Battlestar
+Nick Name: SS-BF
 Scores & Strengths:
-  Tech Score: 658
-  Unit Score: 658
-  Average Score: 658
-  Stat Strength: 638
-  Total Strength: 658
-  Planet Strength: 658
-  Space Strength: 0
-  Garrison Strength: 268
+  Tech Score: 2916
+  Unit Score: 2916
+  Average Score: 2916
+  Stat Strength: 2400
+  Total Strength: 2916
+  Planet Strength: 0
+  Space Strength: 2916
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 17
-  Psy Defense: 17
-  Rank: 97
+  Movement Type: space
+  Move Points: 15
+  Spot: 12
+  Camouflage: 3
+  Agility: 10
+  Armor: 31
+  Psy Defense: 31
+  Rank: 169
 Attacks:
-  Close: 4/5
-Cargo Space: 4
-Upkeep / Maintenance: 13
-Build Cost: 125
+  Ranged Space: 6/36
+  Direct Space: 10/30
+Immune to Plague
+Upkeep / Maintenance: 280
+Build Cost: 2795
 Build Resource Requirements:
   Food: 1
-  Energy: 3
-  Metal: 56
-  Trace: 3
-  Exotica: 1
-  Chemicals: 3
-  Biochems: 2
-  Electronics: 2
-Build Naval Replenishment Tanker in Well
-Time to Build / Upgrade: 2
-[2270] Technology Required to Build Unit (86):
-  [2270] Naval Escort Ships (86)
+  Energy: 17
+  Metal: 13
+  Trace: 4
+  Exotica: 2
+  Chemicals: 28
+  Biochems: 22
+  Electronics: 6
+  Ceramsteel: 16
+  Monopols: 42
+Build Space Fast Battlestar in Starport
+Time to Build / Upgrade: 4
+[16530] Technology Required to Build Unit (80):
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Naval Radar Picket
-Nick Name: NN-BP
+Name: Space Pocket Battlestar
+Nick Name: SS-BP
 Scores & Strengths:
-  Tech Score: 658
-  Unit Score: 659
-  Average Score: 658
-  Stat Strength: 596
-  Total Strength: 659
-  Planet Strength: 659
-  Space Strength: 0
-  Garrison Strength: 190
+  Tech Score: 2916
+  Unit Score: 2917
+  Average Score: 2916
+  Stat Strength: 2451
+  Total Strength: 2917
+  Planet Strength: 0
+  Space Strength: 2917
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 12
+  Movement Type: space
+  Move Points: 13
   Spot: 12
-  Camouflage: 4
-  Agility: 2
-  Armor: 12
-  Psy Defense: 12
-  Rank: 57
+  Camouflage: 3
+  Agility: 9
+  Armor: 32
+  Psy Defense: 32
+  Rank: 169
 Attacks:
-  Close: 7/9
-Upkeep / Maintenance: 19
-Build Cost: 193
+  Ranged Space: 5/42
+  Direct Space: 8/32
+Immune to Plague
+Upkeep / Maintenance: 322
+Build Cost: 3217
 Build Resource Requirements:
-  Food: 7
-  Energy: 10
-  Metal: 28
-  Trace: 13
-  Exotica: 8
-  Chemicals: 10
-  Biochems: 11
-  Electronics: 10
-Build Naval Radar Picket in Well
-Time to Build / Upgrade: 2
-[2270] Technology Required to Build Unit (86):
-  [2270] Naval Escort Ships (86)
+  Food: 1
+  Energy: 20
+  Metal: 14
+  Trace: 3
+  Exotica: 2
+  Chemicals: 33
+  Biochems: 24
+  Electronics: 5
+  Ceramsteel: 17
+  Monopols: 49
+Build Space Pocket Battlestar in Starport
+Time to Build / Upgrade: 4
+[16530] Technology Required to Build Unit (80):
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Naval Tracking Ship
-Nick Name: NN-AGM
+Name: Jump Pocket Battlestar
+Nick Name: JJ-BP
 Scores & Strengths:
-  Tech Score: 716
-  Unit Score: 718
-  Average Score: 717
-  Stat Strength: 658
-  Total Strength: 718
-  Planet Strength: 718
-  Space Strength: 0
-  Garrison Strength: 227
+  Tech Score: 5589
+  Unit Score: 5419
+  Average Score: 5504
+  Stat Strength: 4529
+  Total Strength: 5419
+  Planet Strength: 0
+  Space Strength: 5419
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 10
-  Spot: 10
-  Camouflage: 2
-  Agility: 2
-  Armor: 15
-  Psy Defense: 15
-  Rank: 57
+  Movement Type: jump
+  Move Points: 18
+  Spot: 14
+  Camouflage: 4
+  Agility: 11
+  Armor: 44
+  Psy Defense: 44
+  Rank: 235
 Attacks:
-  Close: 5/12
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 17
-Build Cost: 169
+  Ranged Space: 7/58
+  Direct Space: 11/44
+Immune to Plague
+Upkeep / Maintenance: 757
+Build Cost: 7566
 Build Resource Requirements:
-  Food: 5
-  Energy: 10
-  Metal: 41
-  Trace: 7
-  Exotica: 5
-  Chemicals: 10
-  Biochems: 6
-  Electronics: 5
-Build Naval Tracking Ship in Well
-Time to Build / Upgrade: 2
-[3065] Technologies Required to Build Unit (86):
-  [2270] Naval Escort Ships (86)
-  [795] Missiles (86)
+  Food: 1
+  Energy: 23
+  Metal: 13
+  Trace: 2
+  Exotica: 1
+  Chemicals: 40
+  Biochems: 25
+  Electronics: 10
+  Ceramsteel: 19
+  Monopols: 64
+S  ingularities: 4
+Build Jump Pocket Battlestar in Starport
+Time to Build / Upgrade: 5
+[39365] Technology Required to Build Unit (61):
+  [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Light Replenishment Tanker
-Nick Name: NN-AOL
+Name: Jump Fast Battlestar
+Nick Name: JJ-BF
 Scores & Strengths:
-  Tech Score: 1579
-  Unit Score: 1157
-  Average Score: 1368
-  Stat Strength: 1132
-  Total Strength: 1157
-  Planet Strength: 1157
-  Space Strength: 0
-  Garrison Strength: 289
+  Tech Score: 5589
+  Unit Score: 5483
+  Average Score: 5536
+  Stat Strength: 4495
+  Total Strength: 5483
+  Planet Strength: 0
+  Space Strength: 5483
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 16
-  Spot: 6
-  Camouflage: 2
-  Agility: 6
-  Armor: 20
-  Psy Defense: 20
-  Rank: 84
+  Movement Type: jump
+  Move Points: 21
+  Spot: 14
+  Camouflage: 4
+  Agility: 12
+  Armor: 43
+  Psy Defense: 43
+  Rank: 236
 Attacks:
-  Close: 5/5
-Cargo Space: 2
-Upkeep / Maintenance: 19
-Build Cost: 187
+  Ranged Space: 8/50
+  Direct Space: 14/42
+Immune to Plague
+Upkeep / Maintenance: 766
+Build Cost: 7663
 Build Resource Requirements:
-  Food: 3
-  Energy: 7
-  Metal: 18
-  Trace: 2
-  Exotica: 3
-  Chemicals: 13
-  Biochems: 4
-  Electronics: 2
-  Ceramsteel: 23
-Build Light Replenishment Tanker in Well
-Time to Build / Upgrade: 2
-[7295] Technology Required to Build Unit (81):
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---9--
-Name: Fast Combat Support Ship
-Nick Name: NN-AOE
-Scores & Strengths:
-  Tech Score: 1339
-  Unit Score: 1341
-  Average Score: 1340
-  Stat Strength: 1220
-  Total Strength: 1341
-  Planet Strength: 1341
-  Space Strength: 0
-  Garrison Strength: 358
-Statistics:
-  Movement Type: naval
-  Move Points: 14
-  Spot: 6
-  Camouflage: 2
-  Agility: 4
-  Armor: 22
-  Psy Defense: 22
-  Rank: 93
-Attacks:
-  Close: 11/11
-Cargo Space: 3
-Upkeep / Maintenance: 28
-Build Cost: 283
-Build Resource Requirements:
-  Food: 3
-  Energy: 8
-  Metal: 26
-  Trace: 4
-  Exotica: 3
-  Chemicals: 16
-  Biochems: 5
-  Electronics: 5
-  Ceramsteel: 31
-Build Fast Combat Support Ship in Well
-Time to Build / Upgrade: 3
-[5855] Technology Required to Build Unit (84):
-  [5855] Guided Missile Navalcraft (84)
+  Food: 1
+  Energy: 19
+  Metal: 12
+  Trace: 3
+  Exotica: 2
+  Chemicals: 34
+  Biochems: 23
+  Electronics: 11
+  Ceramsteel: 18
+  Monopols: 56
+S  ingularities: 5
+Build Jump Fast Battlestar in Starport
+Time to Build / Upgrade: 4
+[39365] Technology Required to Build Unit (61):
+  [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

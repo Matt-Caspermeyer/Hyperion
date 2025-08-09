@@ -1,247 +1,321 @@
-All units of the unit class Radar are listed herein (6 in total):
+All units of the unit class Small Floating Barge are listed herein (8 in total):
 
 --1--
-Name: Radar
-Nick Name: Radar
+Name: Small Floating Barge
+Nick Name: SS Barge
 Scores & Strengths:
-  Tech Score: 75
-  Unit Score: 75
-  Average Score: 75
-  Stat Strength: 75
-  Total Strength: 75
-  Planet Strength: 75
+  Tech Score: 86
+  Unit Score: 73
+  Average Score: 79
+  Stat Strength: 73
+  Total Strength: 0
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 75
+  Garrison Strength: 0
 Statistics:
-  Movement Type: wheel
-  Move Points: 1
-  Spot: 8
+  Movement Type: naval
+  Move Points: 0
+  Spot: 0
   Camouflage: 1
-  Agility: 1
-  Armor: 2
-  Psy Defense: 2
-  Rank: 51
+  Agility: 0
+  Armor: 6
+  Psy Defense: 6
+  Rank: 561
+Cargo Space: 1
+Does not participate in combat
+Can be towed
+Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 5
-Build Cost: 52
+Upkeep / Maintenance: 3
+Build Cost: 26
 Build Resource Requirements:
-  Food: 16
-  Energy: 1
-  Metal: 8
-  Trace: 16
-  Exotica: 16
-  Chemicals: 1
-  Electronics: 17
-Build Radar in Factory
-Time to Build / Upgrade: 2
-[125] Technology Required to Build Unit (93):
-  [125] Radar (93)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 2
+  Energy: 2
+  Metal: 53
+  Trace: 7
+  Exotica: 1
+  Chemicals: 2
+Build Small Floating Barge in Well
+Time to Build / Upgrade: 1
+[150] Technologies Required to Build Unit (100):
+  [100] Physics & Energy (100)
+  [50] Applied Technology (100)
 Unit can be disbanded: YES
 
 --2--
-Name: Doppler Frequency Radar
-Nick Name: DF Radar
+Name: Medium Floating Barge
+Nick Name: MM Barge
 Scores & Strengths:
-  Tech Score: 128
-  Unit Score: 132
-  Average Score: 130
-  Stat Strength: 132
-  Total Strength: 132
-  Planet Strength: 132
+  Tech Score: 98
+  Unit Score: 73
+  Average Score: 86
+  Stat Strength: 73
+  Total Strength: 0
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 132
+  Garrison Strength: 0
 Statistics:
-  Movement Type: wheel
-  Move Points: 1
-  Spot: 11
+  Movement Type: naval
+  Move Points: 0
+  Spot: 0
   Camouflage: 1
-  Agility: 1
-  Armor: 2
-  Psy Defense: 2
-  Rank: 51
+  Agility: 0
+  Armor: 6
+  Psy Defense: 6
+  Rank: 571
+Cargo Space: 2
+Does not participate in combat
+Can be towed
+Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 8
-Build Cost: 76
+Upkeep / Maintenance: 2
+Build Cost: 16
 Build Resource Requirements:
-  Food: 22
+  Food: 1
   Energy: 1
-  Metal: 8
-  Trace: 23
-  Exotica: 22
+  Metal: 35
+  Trace: 3
   Chemicals: 1
-  Electronics: 28
-Build Doppler Frequency Radar in Factory
-Time to Build / Upgrade: 2
-[255] Technology Required to Build Unit (88):
-  [255] Doppler Frequency Radar (88)
-Counts as planetary flock: YES
-Unit Eats: YES
+Build Medium Floating Barge in Well
+Time to Build / Upgrade: 1
+[280] Technologies Required to Build Unit (98):
+  [110] Structural Engineering (99)
+  [110] Mechanical & Aerospace Engineering (98)
+  [60] Torpedo (98)
 Unit can be disbanded: YES
 
 --3--
-Name: Phased-Array Radar
-Nick Name: PA Radar
+Name: Small Amphibious Trailer
+Nick Name: SA Trailer
 Scores & Strengths:
-  Tech Score: 174
-  Unit Score: 180
-  Average Score: 177
-  Stat Strength: 180
-  Total Strength: 180
-  Planet Strength: 180
+  Tech Score: 585
+  Unit Score: 132
+  Average Score: 358
+  Stat Strength: 132
+  Total Strength: 0
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 180
+  Garrison Strength: 0
 Statistics:
-  Movement Type: wheel
-  Move Points: 1
-  Spot: 13
-  Camouflage: 1
-  Agility: 1
-  Armor: 2
-  Psy Defense: 2
-  Rank: 52
+  Movement Type: craft
+  Move Points: 0
+  Spot: 0
+  Camouflage: 2
+  Agility: 0
+  Armor: 8
+  Psy Defense: 8
+  Rank: 539
+Cargo Space: 1
+Does not participate in combat
+Amphibious loading / unloading of cargo
+Can be towed
+Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 9
-Build Cost: 89
+Build Cost: 2
 Build Resource Requirements:
-  Food: 25
-  Energy: 1
-  Metal: 8
-  Trace: 25
-  Exotica: 25
-  Chemicals: 1
-  Electronics: 35
-Build Phased-Array Radar in Factory
-Time to Build / Upgrade: 2
-[385] Technology Required to Build Unit (84):
-  [385] Phased-Array Radar (84)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Metal: 14
+Build Small Amphibious Trailer in Factory
+Time to Build / Upgrade: 1
+[1940] Technology Required to Build Unit (89):
+  [1940] Amphibious Landing Craft (89)
 Unit can be disbanded: YES
 
 --4--
-Name: Airborne-Pulse Radar
-Nick Name: AP Radar
+Name: Medium Amphibious Trailer
+Nick Name: MA Trailer
 Scores & Strengths:
-  Tech Score: 474
-  Unit Score: 505
-  Average Score: 489
-  Stat Strength: 505
-  Total Strength: 505
-  Planet Strength: 505
+  Tech Score: 781
+  Unit Score: 166
+  Average Score: 474
+  Stat Strength: 166
+  Total Strength: 0
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 505
+  Garrison Strength: 0
 Statistics:
-  Movement Type: wheel
-  Move Points: 1
-  Spot: 22
-  Camouflage: 1
-  Agility: 1
-  Armor: 3
-  Psy Defense: 3
-  Rank: 55
+  Movement Type: craft
+  Move Points: 0
+  Spot: 0
+  Camouflage: 2
+  Agility: 0
+  Armor: 9
+  Psy Defense: 9
+  Rank: 550
+Cargo Space: 2
+Does not participate in combat
+Amphibious loading / unloading of cargo
+Can be towed
+Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 12
-Build Cost: 121
+Build Cost: 2
 Build Resource Requirements:
-  Food: 28
-  Energy: 1
-  Metal: 18
-  Trace: 28
-  Exotica: 28
-  Chemicals: 1
-  Electronics: 54
-Build Airborne-Pulse Radar in Factory
-Time to Build / Upgrade: 3
-[1465] Technology Required to Build Unit (78):
-  [1465] Airborne-Pulse Radar (78)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Metal: 13
+Build Medium Amphibious Trailer in Factory
+Time to Build / Upgrade: 1
+[2855] Technology Required to Build Unit (87):
+  [2855] Naval Amphibious Ships (87)
 Unit can be disbanded: YES
 
 --5--
-Name: Imaging Radar
-Nick Name: I Radar
+Name: Long Amphibious Trailer
+Nick Name: LA Trailer
 Scores & Strengths:
-  Tech Score: 507
-  Unit Score: 597
-  Average Score: 552
-  Stat Strength: 597
-  Total Strength: 597
-  Planet Strength: 597
+  Tech Score: 1570
+  Unit Score: 347
+  Average Score: 958
+  Stat Strength: 347
+  Total Strength: 0
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 597
+  Garrison Strength: 0
 Statistics:
-  Movement Type: wheel
-  Move Points: 1
-  Spot: 24
-  Camouflage: 1
-  Agility: 1
-  Armor: 3
-  Psy Defense: 3
-  Rank: 56
+  Movement Type: craft
+  Move Points: 0
+  Spot: 0
+  Camouflage: 3
+  Agility: 0
+  Armor: 13
+  Psy Defense: 13
+  Rank: 565
+Cargo Space: 3
+Does not participate in combat
+Amphibious loading / unloading of cargo
+Can be towed
+Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 14
-Build Cost: 136
+Upkeep / Maintenance: 1
+Build Cost: 6
 Build Resource Requirements:
-  Food: 31
-  Energy: 1
-  Metal: 18
-  Trace: 31
-  Exotica: 31
-  Chemicals: 1
-  Electronics: 61
-Build Imaging Radar in Factory
-Time to Build / Upgrade: 3
-[1605] Technology Required to Build Unit (78):
-  [1605] Imaging Radar (78)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Metal: 8
+  Chemicals: 2
+  Ceramsteel: 8
+Build Long Amphibious Trailer in Factory
+Time to Build / Upgrade: 1
+[9510] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [6655] PTS Missile Navalcraft (83)
 Unit can be disbanded: YES
 
 --6--
-Name: Imperial Eye Network
-Nick Name: Omniscient
+Name: Long Floating Barge
+Nick Name: LF Barge
 Scores & Strengths:
-  Tech Score: 4032
-  Unit Score: 4049
-  Average Score: 4040
-  Stat Strength: 4049
-  Total Strength: 4049
-  Planet Strength: 4049
+  Tech Score: 454
+  Unit Score: 396
+  Average Score: 425
+  Stat Strength: 396
+  Total Strength: 0
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 5061
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
+  Movement Type: naval
   Move Points: 0
-  Spot: 40
-  Camouflage: 40
-  Agility: 2
-  Armor: 13
-  Psy Defense: 26
-  Rank: 40
-Load aboard transport: YES
-Upkeep / Maintenance: 45
-Build Cost: 451
+  Spot: 0
+  Camouflage: 2
+  Agility: 0
+  Armor: 14
+  Psy Defense: 14
+  Rank: 584
+Cargo Space: 3
+Does not participate in combat
+Can be towed
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 3
+Build Cost: 29
 Build Resource Requirements:
-  Food: 3
-  Metal: 2
-  Trace: 14
-  Exotica: 3
-  Chemicals: 1
-  Biochems: 11
-  Electronics: 29
-  Ceramsteel: 4
-  Wetware: 8
-  Monopols: 4
-Build Imperial Eye Network in Factory
-Time to Build / Upgrade: 3
-[43985] Technologies Required to Build Unit (61):
-  [1605] Imaging Radar (78)
-  [19525] Neumonic Armor (40)
-  [5655] Discontinuity Field Generator (58)
-  [6490] Assassin (48)
-  [10710] Special Forces (79)
-Unit Eats: YES
+  Metal: 44
+  Trace: 1
+  Chemicals: 12
+Build Long Floating Barge in Well
+Time to Build / Upgrade: 1
+[1870] Technologies Required to Build Unit (93):
+  [145] Composite Armor (97)
+  [205] Electric-Diesel Engine (92)
+  [325] Megachassis (94)
+  [1195] Naval Warfare (90)
+Unit can be disbanded: YES
+
+--7--
+Name: Stretch Floating Barge
+Nick Name: SF Barge
+Scores & Strengths:
+  Tech Score: 951
+  Unit Score: 809
+  Average Score: 880
+  Stat Strength: 809
+  Total Strength: 0
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: naval
+  Move Points: 0
+  Spot: 0
+  Camouflage: 3
+  Agility: 0
+  Armor: 20
+  Psy Defense: 20
+  Rank: 599
+Cargo Space: 4
+Does not participate in combat
+Can be towed
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 8
+Build Cost: 79
+Build Resource Requirements:
+  Metal: 40
+  Trace: 1
+  Chemicals: 10
+  Electronics: 1
+  Ceramsteel: 35
+Build Stretch Floating Barge in Well
+Time to Build / Upgrade: 2
+[4415] Technologies Required to Build Unit (86):
+  [1690] Ceramsteel (84)
+  [2725] Naval Capital Ships (88)
+Unit can be disbanded: YES
+
+--8--
+Name: Stretch Amphibious Trailer
+Nick Name: SSA Trailer
+Scores & Strengths:
+  Tech Score: 4371
+  Unit Score: 993
+  Average Score: 2682
+  Stat Strength: 993
+  Total Strength: 0
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: craft
+  Move Points: 0
+  Spot: 0
+  Camouflage: 5
+  Agility: 0
+  Armor: 22
+  Psy Defense: 22
+  Rank: 592
+Cargo Space: 4
+Does not participate in combat
+Amphibious loading / unloading of cargo
+Can be towed
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 7
+Build Cost: 74
+Build Resource Requirements:
+  Metal: 4
+  Chemicals: 2
+  Electronics: 2
+  Ceramsteel: 6
+  Monopols: 6
+Build Stretch Amphibious Trailer in Factory
+Time to Build / Upgrade: 1
+[30730] Technologies Required to Build Unit (81):
+  [2855] Naval Amphibious Ships (87)
+  [27875] PTS Meson Navalcraft (74)
 Unit can be disbanded: YES

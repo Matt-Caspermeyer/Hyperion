@@ -1,298 +1,201 @@
-All units of the unit class Mounted Officer are listed herein (9 in total):
+All units of the unit class Forward Observer are listed herein (7 in total):
 
 --1--
-Name: Mounted Officer
-Nick Name: Mounty
+Name: Forward Observer
+Nick Name: FO
 Scores & Strengths:
-  Tech Score: 133
+  Tech Score: 90
   Unit Score: 133
-  Average Score: 133
-  Stat Strength: 123
+  Average Score: 111
+  Stat Strength: 131
   Total Strength: 133
   Planet Strength: 133
   Space Strength: 0
-  Garrison Strength: 54
+  Garrison Strength: 59
 Statistics:
   Movement Type: foot
-  Move Points: 6
+  Move Points: 5
   Spot: 4
-  Camouflage: 2
+  Camouflage: 6
   Agility: 7
-  Armor: 3
-  Psy Defense: 3
+  Armor: 2
+  Psy Defense: 1
   Rank: 667
 Attacks:
-  Close: 5/2
+  Close: 1/2
 Load aboard transport: YES
 Officer - Provides stack combat bonuses
-Can tow units that can be towed
-Upkeep / Maintenance: 8
-Build Cost: 62
+Upkeep / Maintenance: 7
+Build Cost: 55
 Build Resource Requirements:
-  Metal: 5
-  Trace: 20
-  Exotica: 14
-  Chemicals: 11
-Upgrade Peasant to Mounted Officer at Fort
+  Exotica: 25
+Upgrade Peasant to Forward Observer at Fort
 Time to Build / Upgrade: 1
-[270] Technologies Required to Build Unit (99):
-  [100] Physics & Energy (100)
+[160] Technologies Required to Build Unit (100):
   [110] Meditation (99)
-  [60] Torpedo (98)
+  [50] Applied Technology (100)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Mounted Officer (Psy)
-Nick Name: Mounty (Psy)
+Name: Forward Observer (Psy)
+Nick Name: FO (Psy)
 Scores & Strengths:
-  Tech Score: 162
-  Unit Score: 162
-  Average Score: 162
-  Stat Strength: 125
-  Total Strength: 162
-  Planet Strength: 162
-  Space Strength: 137
-  Garrison Strength: 66
+  Tech Score: 126
+  Unit Score: 189
+  Average Score: 157
+  Stat Strength: 177
+  Total Strength: 189
+  Planet Strength: 189
+  Space Strength: 185
+  Garrison Strength: 77
 Statistics:
   Movement Type: foot
   Move Points: 6
-  Spot: 4
-  Camouflage: 2
+  Spot: 6
+  Camouflage: 6
   Agility: 7
   Armor: 2
   Psy Defense: 4
   Rank: 668
 Attacks:
-  Psychic: 3/4
-  Close: 5/5
+  Psychic: 2/4
+  Close: 2/2
 Load aboard transport: YES
 Officer - Provides stack combat bonuses
-Can tow units that can be towed
-Upkeep / Maintenance: 21
-Build Cost: 144
+Upkeep / Maintenance: 23
+Build Cost: 179
 Build Resource Requirements:
-  Food: 2
-  Energy: 11
-  Trace: 2
-  Exotica: 3
-  Chemicals: 9
-  Gems: 6
-Upgrade Mounted Officer to Mounted Officer (Psy) at Church
+  Food: 19
+  Energy: 9
+  Metal: 6
+  Exotica: 22
+  Gems: 7
+Upgrade Forward Observer to Forward Observer (Psy) at Church
 Time to Build / Upgrade: 1
-[350] Technologies Required to Build Unit (93):
-  [100] Physics & Energy (100)
+[250] Technology Required to Build Unit (86):
   [250] Psychically-Enhanced Soldiers (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Mounted Officer (Psy2)
-Nick Name: Mounty (Psy2)
-Scores & Strengths:
-  Tech Score: 250
-  Unit Score: 242
-  Average Score: 246
-  Stat Strength: 171
-  Total Strength: 242
-  Planet Strength: 242
-  Space Strength: 206
-  Garrison Strength: 91
-Statistics:
-  Movement Type: foot
-  Move Points: 7
-  Spot: 5
-  Camouflage: 2
-  Agility: 8
-  Armor: 2
-  Psy Defense: 5
-  Rank: 668
-Attacks:
-  Psychic: 5/7
-  Close: 6/6
-Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Can tow units that can be towed
-Upkeep / Maintenance: 41
-Build Cost: 267
-Build Resource Requirements:
-  Food: 7
-  Energy: 13
-  Metal: 1
-  Exotica: 7
-  Chemicals: 18
-  Electronics: 27
-  Gems: 8
-Upgrade Mounted Officer (Psy) to Mounted Officer (Psy2) at Church
-Time to Build / Upgrade: 1
-[625] Technology Required to Build Unit (60):
-  [625] Psychokinetically-Enhanced Soldiers (60)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: Mounted Officer (Psy3)
-Nick Name: Mounty (Psy3)
-Scores & Strengths:
-  Tech Score: 593
-  Unit Score: 537
-  Average Score: 565
-  Stat Strength: 353
-  Total Strength: 537
-  Planet Strength: 537
-  Space Strength: 437
-  Garrison Strength: 161
-Statistics:
-  Movement Type: foot
-  Move Points: 11
-  Spot: 6
-  Camouflage: 4
-  Agility: 10
-  Armor: 4
-  Psy Defense: 8
-  Rank: 672
-Attacks:
-  Psychic: 7/12
-  Close: 10/10
-Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Can tow units that can be towed
-Upkeep / Maintenance: 56
-Build Cost: 291
-Build Resource Requirements:
-  Food: 3
-  Energy: 16
-  Metal: 4
-  Trace: 8
-  Exotica: 14
-  Chemicals: 27
-  Electronics: 11
-  Gems: 2
-Upgrade Mounted Officer (Psy2) to Mounted Officer (Psy3) at Church
-Time to Build / Upgrade: 1
-[1975] Technology Required to Build Unit (39):
-  [1975] Telepathic Soldiers (39)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Mounted Officer (Psy4)
-Nick Name: Mounty (Psy4)
+Name: Forward Observer (Psy4)
+Nick Name: FO (Psy4)
 Scores & Strengths:
   Tech Score: 839
-  Unit Score: 754
-  Average Score: 796
-  Stat Strength: 503
-  Total Strength: 754
-  Planet Strength: 754
-  Space Strength: 633
-  Garrison Strength: 201
+  Unit Score: 971
+  Average Score: 905
+  Stat Strength: 848
+  Total Strength: 971
+  Planet Strength: 971
+  Space Strength: 946
+  Garrison Strength: 242
 Statistics:
   Movement Type: foot
-  Move Points: 14
-  Spot: 6
-  Camouflage: 5
+  Move Points: 16
+  Spot: 10
+  Camouflage: 15
   Agility: 11
   Armor: 5
-  Psy Defense: 10
-  Rank: 674
+  Psy Defense: 11
+  Rank: 675
 Attacks:
-  Psychic: 10/13
-  Close: 11/11
+  Psychic: 7/14
+  Close: 5/5
 Load aboard transport: YES
 Officer - Provides stack combat bonuses
-Can tow units that can be towed
-Upkeep / Maintenance: 61
-Build Cost: 321
+Upkeep / Maintenance: 70
+Build Cost: 517
 Build Resource Requirements:
-  Food: 9
-  Energy: 16
-  Metal: 5
-  Trace: 2
-  Exotica: 13
-  Chemicals: 20
-  Electronics: 6
-Upgrade Mounted Officer (Psy3) to Mounted Officer (Psy4) at Church
-Time to Build / Upgrade: 1
+  Food: 3
+  Energy: 15
+  Metal: 9
+  Trace: 65
+  Exotica: 23
+  Chemicals: 59
+  Electronics: 93
+  Gems: 8
+Upgrade Forward Observer (Psy) to Forward Observer (Psy4) at Church
+Time to Build / Upgrade: 3
 [3140] Technology Required to Build Unit (38):
   [3140] Sympathic Soldiers (38)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---6--
-Name: Mounted Officer (Psy5)
-Nick Name: Mounty (Psy5)
+--4--
+Name: Forward Observer (Psy5)
+Nick Name: FO (Psy5)
 Scores & Strengths:
   Tech Score: 936
-  Unit Score: 820
-  Average Score: 878
-  Stat Strength: 516
-  Total Strength: 820
-  Planet Strength: 820
-  Space Strength: 676
-  Garrison Strength: 219
+  Unit Score: 1101
+  Average Score: 1019
+  Stat Strength: 957
+  Total Strength: 1101
+  Planet Strength: 1101
+  Space Strength: 1076
+  Garrison Strength: 275
 Statistics:
   Movement Type: foot
-  Move Points: 14
-  Spot: 7
-  Camouflage: 5
-  Agility: 11
-  Armor: 5
-  Psy Defense: 10
-  Rank: 675
+  Move Points: 16
+  Spot: 11
+  Camouflage: 16
+  Agility: 12
+  Armor: 6
+  Psy Defense: 12
+  Rank: 676
 Attacks:
-  Psychic: 10/16
-  Close: 12/12
+  Psychic: 7/17
+  Close: 5/5
 Load aboard transport: YES
 Officer - Provides stack combat bonuses
-Can tow units that can be towed
-Upkeep / Maintenance: 73
-Build Cost: 412
+Upkeep / Maintenance: 84
+Build Cost: 325
 Build Resource Requirements:
-  Food: 2
-  Energy: 7
-  Trace: 4
-  Exotica: 2
-  Chemicals: 9
-  Electronics: 5
+  Food: 4
+  Energy: 1
+  Metal: 6
+  Trace: 10
+  Exotica: 5
+  Chemicals: 2
+  Electronics: 14
   Gems: 5
-Upgrade Mounted Officer (Psy4) to Mounted Officer (Psy5) at Church
+Upgrade Forward Observer (Psy4) to Forward Observer (Psy5) at Church
 Time to Build / Upgrade: 1
 [3635] Technology Required to Build Unit (48):
   [3635] Dervishes (48)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---7--
-Name: Mounted Officer (Psy6)
-Nick Name: Mounty (Psy6)
+--5--
+Name: Forward Observer (Psy6)
+Nick Name: FO (Psy6)
 Scores & Strengths:
   Tech Score: 1142
-  Unit Score: 998
-  Average Score: 1070
-  Stat Strength: 642
-  Total Strength: 998
-  Planet Strength: 998
-  Space Strength: 829
-  Garrison Strength: 249
+  Unit Score: 1415
+  Average Score: 1278
+  Stat Strength: 1235
+  Total Strength: 1415
+  Planet Strength: 1415
+  Space Strength: 1379
+  Garrison Strength: 333
 Statistics:
   Movement Type: foot
-  Move Points: 16
-  Spot: 7
-  Camouflage: 6
+  Move Points: 18
+  Spot: 11
+  Camouflage: 21
   Agility: 12
   Armor: 6
-  Psy Defense: 11
-  Rank: 677
+  Psy Defense: 13
+  Rank: 679
 Attacks:
-  Psychic: 11/17
-  Close: 13/13
+  Psychic: 8/18
+  Close: 6/6
 Load aboard transport: YES
 Officer - Provides stack combat bonuses
-Can tow units that can be towed
-Upkeep / Maintenance: 39
+Upkeep / Maintenance: 48
+Build Cost: 150
 Build Resource Requirements:
-Upgrade Mounted Officer (Psy5) to Mounted Officer (Psy6) at Church
+Upgrade Forward Observer (Psy5) to Forward Observer (Psy6) at Church
 Time to Build / Upgrade: 1
 [11015] Technologies Required to Build Unit (35):
   [3790] Vislocks (32)
@@ -301,43 +204,43 @@ Time to Build / Upgrade: 1
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---8--
-Name: Mounted Officer (Psy7)
-Nick Name: Mounty (Psy7)
+--6--
+Name: Forward Observer (Psy7)
+Nick Name: FO (Psy7)
 Scores & Strengths:
   Tech Score: 1357
-  Unit Score: 1173
-  Average Score: 1265
-  Stat Strength: 761
-  Total Strength: 1173
-  Planet Strength: 1173
-  Space Strength: 977
-  Garrison Strength: 276
+  Unit Score: 1707
+  Average Score: 1532
+  Stat Strength: 1487
+  Total Strength: 1707
+  Planet Strength: 1707
+  Space Strength: 1658
+  Garrison Strength: 381
 Statistics:
   Movement Type: foot
-  Move Points: 18
-  Spot: 8
-  Camouflage: 7
-  Agility: 12
-  Armor: 6
-  Psy Defense: 12
-  Rank: 679
+  Move Points: 20
+  Spot: 12
+  Camouflage: 23
+  Agility: 13
+  Armor: 7
+  Psy Defense: 14
+  Rank: 681
 Attacks:
-  Psychic: 12/18
-  Close: 14/14
+  Psychic: 9/19
+  Close: 7/7
 Load aboard transport: YES
 Officer - Provides stack combat bonuses
-Can tow units that can be towed
-Upkeep / Maintenance: 45
-Build Cost: 445
+Upkeep / Maintenance: 57
+Build Cost: 418
 Build Resource Requirements:
-  Food: 5
-  Energy: 8
-  Trace: 3
-  Exotica: 6
-  Chemicals: 9
-  Electronics: 4
-Upgrade Mounted Officer (Psy6) to Mounted Officer (Psy7) at Church
+  Food: 6
+  Energy: 6
+  Metal: 3
+  Trace: 9
+  Exotica: 8
+  Chemicals: 8
+  Electronics: 14
+Upgrade Forward Observer (Psy6) to Forward Observer (Psy7) at Church
 Time to Build / Upgrade: 1
 [12245] Technologies Required to Build Unit (35):
   [4050] Occultists (48)
@@ -346,40 +249,40 @@ Time to Build / Upgrade: 1
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---9--
-Name: Mounted Officer (Psy8)
-Nick Name: Mounty (Psy8)
+--7--
+Name: Forward Observer (Psy8)
+Nick Name: FO (Psy8)
 Scores & Strengths:
   Tech Score: 1949
-  Unit Score: 1733
-  Average Score: 1841
-  Stat Strength: 1092
-  Total Strength: 1733
-  Planet Strength: 1733
-  Space Strength: 1444
-  Garrison Strength: 378
+  Unit Score: 2654
+  Average Score: 2301
+  Stat Strength: 2302
+  Total Strength: 2654
+  Planet Strength: 2654
+  Space Strength: 2590
+  Garrison Strength: 541
 Statistics:
   Movement Type: foot
-  Move Points: 21
-  Spot: 9
-  Camouflage: 9
-  Agility: 13
-  Armor: 8
-  Psy Defense: 16
-  Rank: 684
+  Move Points: 24
+  Spot: 15
+  Camouflage: 30
+  Agility: 14
+  Armor: 9
+  Psy Defense: 18
+  Rank: 689
 Attacks:
-  Psychic: 16/22
-  Close: 17/17
+  Psychic: 12/24
+  Close: 8/8
 Load aboard transport: YES
 Officer - Provides stack combat bonuses
-Can tow units that can be towed
-Upkeep / Maintenance: 47
-Build Cost: 22
+Upkeep / Maintenance: 58
+Build Cost: 160
 Build Resource Requirements:
-  Energy: 4
+  Energy: 1
   Metal: 4
-  Chemicals: 5
-Upgrade Mounted Officer (Psy7) to Mounted Officer (Psy8) at Church
+  Chemicals: 1
+  Gems: 1
+Upgrade Forward Observer (Psy7) to Forward Observer (Psy8) at Church
 Time to Build / Upgrade: 1
 [20390] Technologies Required to Build Unit (24):
   [4980] Psychic Turners (41)

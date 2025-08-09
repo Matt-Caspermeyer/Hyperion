@@ -1,258 +1,383 @@
-All units of the unit class Sonobuoy are listed herein (6 in total):
+All units of the unit class Space Raider are listed herein (8 in total):
 
 --1--
-Name: Sonobuoy
-Nick Name: Sonobuoy
+Name: Space Raider
+Nick Name: SS-Raider
 Scores & Strengths:
-  Tech Score: 326
-  Unit Score: 320
-  Average Score: 323
-  Stat Strength: 320
-  Total Strength: 320
-  Planet Strength: 320
-  Space Strength: 0
-  Garrison Strength: 400
+  Tech Score: 309
+  Unit Score: 308
+  Average Score: 309
+  Stat Strength: 277
+  Total Strength: 308
+  Planet Strength: 0
+  Space Strength: 308
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 12
-  Camouflage: 12
-  Agility: 0
-  Armor: 4
-  Psy Defense: 4
-  Rank: 3
+  Movement Type: space
+  Move Points: 1
+  Spot: 10
+  Camouflage: 10
+  Agility: 2
+  Armor: 6
+  Psy Defense: 6
+  Rank: 807
+Attacks:
+  Ranged Space: 2/11
+  Closed Space: 3/3
 Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 23
-Build Cost: 229
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 37
+Build Cost: 367
 Build Resource Requirements:
-  Food: 13
-  Energy: 1
-  Metal: 32
-  Trace: 28
-  Exotica: 12
-  Chemicals: 1
-  Electronics: 46
-Build Sonobuoy in Well
-Time to Build / Upgrade: 2
-[890] Technology Required to Build Unit (86):
-  [890] Sonobouy (86)
+  Food: 10
+  Energy: 14
+  Metal: 24
+  Trace: 35
+  Exotica: 10
+  Chemicals: 27
+  Electronics: 23
+Build Space Raider in Starport
+Time to Build / Upgrade: 3
+[940] Technologies Required to Build Unit (94):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Sonobuoy II
-Nick Name: Sonobuoy II
+Name: Space Raider Carrier
+Nick Name: SS-CVR
 Scores & Strengths:
-  Tech Score: 613
-  Unit Score: 502
-  Average Score: 557
-  Stat Strength: 502
-  Total Strength: 502
-  Planet Strength: 502
-  Space Strength: 0
-  Garrison Strength: 627
+  Tech Score: 309
+  Unit Score: 309
+  Average Score: 309
+  Stat Strength: 258
+  Total Strength: 309
+  Planet Strength: 0
+  Space Strength: 309
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 14
-  Camouflage: 16
-  Agility: 0
-  Armor: 5
-  Psy Defense: 5
-  Rank: 6
-Load aboard transport: YES
-Can be towed
+  Movement Type: space
+  Move Points: 1
+  Spot: 8
+  Camouflage: 8
+  Agility: 1
+  Armor: 8
+  Psy Defense: 8
+  Rank: 799
+Attacks:
+  Ranged Space: 3/10
+  Direct Space: 3/7
+Cargo Space: 2
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
 Immune to Plague
-Upkeep / Maintenance: 15
-Build Cost: 145
+Upkeep / Maintenance: 72
+Build Cost: 724
 Build Resource Requirements:
-  Food: 5
-  Metal: 5
-  Trace: 17
-  Exotica: 5
-  Biochems: 4
-  Electronics: 20
-Build Sonobuoy II in Well
-Time to Build / Upgrade: 1
-[3965] Technologies Required to Build Unit (85):
-  [1130] Medical Sensing (85)
-  [890] Sonobouy (86)
-  [385] Phased-Array Radar (84)
-  [1560] Naval Patrol Ships (86)
+  Food: 7
+  Energy: 17
+  Metal: 43
+  Trace: 24
+  Exotica: 6
+  Chemicals: 36
+  Electronics: 16
+Build Space Raider Carrier in Starport
+Time to Build / Upgrade: 3
+[940] Technologies Required to Build Unit (94):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Sonobuoy III
-Nick Name: Sonobuoy III
+Name: Space Scout
+Nick Name: Space Scout
 Scores & Strengths:
-  Tech Score: 948
-  Unit Score: 754
-  Average Score: 851
-  Stat Strength: 754
-  Total Strength: 754
-  Planet Strength: 754
-  Space Strength: 0
-  Garrison Strength: 942
+  Tech Score: 309
+  Unit Score: 309
+  Average Score: 309
+  Stat Strength: 303
+  Total Strength: 309
+  Planet Strength: 0
+  Space Strength: 309
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 16
-  Camouflage: 20
-  Agility: 0
-  Armor: 7
-  Psy Defense: 7
-  Rank: 9
+  Movement Type: space
+  Move Points: 3
+  Spot: 12
+  Camouflage: 8
+  Agility: 6
+  Armor: 5
+  Psy Defense: 5
+  Rank: 53
+Attacks:
+  Closed Space: 3/2
 Load aboard transport: YES
-Can be towed
 Immune to Plague
 Upkeep / Maintenance: 17
-Build Cost: 165
+Build Cost: 171
 Build Resource Requirements:
-  Food: 4
-  Metal: 8
-  Trace: 19
-  Exotica: 4
-  Biochems: 4
-  Electronics: 22
-Build Sonobuoy III in Well
+  Food: 16
+  Energy: 3
+  Metal: 17
+  Trace: 35
+  Exotica: 16
+  Chemicals: 10
+  Electronics: 23
+Build Space Scout in Starport
 Time to Build / Upgrade: 2
-[6315] Technologies Required to Build Unit (82):
-  [1690] Computerized Medical Imaging (76)
-  [890] Sonobouy (86)
-  [1465] Airborne-Pulse Radar (78)
-  [2270] Naval Escort Ships (86)
+[940] Technologies Required to Build Unit (94):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Sonobuoy IV
-Nick Name: Sonobuoy IV
+Name: Jump Raider Carrier
+Nick Name: JJ-CVR
 Scores & Strengths:
-  Tech Score: 1437
-  Unit Score: 1042
-  Average Score: 1239
-  Stat Strength: 1042
-  Total Strength: 1042
-  Planet Strength: 1042
-  Space Strength: 0
-  Garrison Strength: 1302
+  Tech Score: 425
+  Unit Score: 406
+  Average Score: 416
+  Stat Strength: 326
+  Total Strength: 406
+  Planet Strength: 0
+  Space Strength: 406
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 17
-  Camouflage: 25
-  Agility: 0
-  Armor: 8
-  Psy Defense: 8
-  Rank: 12
-Load aboard transport: YES
-Can be towed
+  Movement Type: jump
+  Move Points: 1
+  Spot: 9
+  Camouflage: 9
+  Agility: 1
+  Armor: 9
+  Psy Defense: 9
+  Rank: 827
+Attacks:
+  Ranged Space: 4/12
+  Direct Space: 4/8
+Cargo Space: 2
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
 Immune to Plague
-Upkeep / Maintenance: 16
-Build Cost: 160
+Upkeep / Maintenance: 345
+Build Cost: 3446
 Build Resource Requirements:
-  Food: 3
-  Metal: 6
-  Trace: 15
-  Exotica: 3
-  Chemicals: 1
-  Biochems: 2
-  Electronics: 20
-  Ceramsteel: 5
-Build Sonobuoy IV in Well
-Time to Build / Upgrade: 2
-[12480] Technologies Required to Build Unit (78):
-  [1845] Deep Tissue Imaging (72)
-  [1845] Computational Microscopy (67)
-  [890] Sonobouy (86)
-  [1605] Imaging Radar (78)
-  [3570] Robotics (76)
-  [2725] Naval Capital Ships (88)
+  Food: 7
+  Energy: 23
+  Metal: 40
+  Trace: 27
+  Exotica: 7
+  Chemicals: 47
+  Electronics: 21
+  Gems: 1
+S  ingularities: 1
+Build Jump Raider Carrier in Starport
+Time to Build / Upgrade: 3
+[1380] Technologies Required to Build Unit (87):
+  [145] Composite Armor (97)
+  [1235] Jump Rocketry (76)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Sonobuoy V
-Nick Name: Sonobuoy V
+Name: Jump Raider
+Nick Name: JJ-FRaider
 Scores & Strengths:
-  Tech Score: 1903
-  Unit Score: 1402
-  Average Score: 1653
-  Stat Strength: 1402
-  Total Strength: 1402
-  Planet Strength: 1402
-  Space Strength: 0
-  Garrison Strength: 1752
+  Tech Score: 425
+  Unit Score: 410
+  Average Score: 418
+  Stat Strength: 368
+  Total Strength: 410
+  Planet Strength: 0
+  Space Strength: 410
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 19
-  Camouflage: 29
-  Agility: 0
-  Armor: 10
-  Psy Defense: 10
-  Rank: 17
+  Movement Type: jump
+  Move Points: 1
+  Spot: 11
+  Camouflage: 12
+  Agility: 2
+  Armor: 7
+  Psy Defense: 7
+  Rank: 835
+Attacks:
+  Ranged Space: 2/13
+  Closed Space: 4/4
 Load aboard transport: YES
-Can be towed
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
 Immune to Plague
-Upkeep / Maintenance: 24
-Build Cost: 241
+Upkeep / Maintenance: 158
+Build Cost: 1581
 Build Resource Requirements:
-  Food: 4
-  Metal: 9
-  Trace: 21
-  Exotica: 4
-  Chemicals: 2
-  Biochems: 3
-  Electronics: 28
-  Ceramsteel: 8
-Build Sonobuoy V in Well
-Time to Build / Upgrade: 2
-[12600] Technologies Required to Build Unit (79):
-  [6490] Real-Time Medical Imaging (65)
-  [890] Sonobouy (86)
-  [1605] Imaging Radar (78)
-  [3615] Submarine Warfare (87)
+  Food: 11
+  Energy: 20
+  Metal: 24
+  Trace: 41
+  Exotica: 11
+  Chemicals: 37
+  Electronics: 32
+  Gems: 1
+S  ingularities: 1
+Build Jump Raider in Starport
+Time to Build / Upgrade: 3
+[1380] Technologies Required to Build Unit (87):
+  [145] Composite Armor (97)
+  [1235] Jump Rocketry (76)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Sonobuoy VI
-Nick Name: Sonobuoy VI
+Name: Jump Fusion Raider
+Nick Name: JJ-FRaider
 Scores & Strengths:
-  Tech Score: 2352
-  Unit Score: 1666
-  Average Score: 2009
-  Stat Strength: 1666
-  Total Strength: 1666
-  Planet Strength: 1666
-  Space Strength: 0
-  Garrison Strength: 2082
+  Tech Score: 1933
+  Unit Score: 1528
+  Average Score: 1730
+  Stat Strength: 1344
+  Total Strength: 1528
+  Planet Strength: 0
+  Space Strength: 1528
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 20
-  Camouflage: 32
-  Agility: 0
-  Armor: 11
-  Psy Defense: 11
-  Rank: 20
+  Movement Type: jump
+  Move Points: 2
+  Spot: 16
+  Camouflage: 25
+  Agility: 3
+  Armor: 15
+  Psy Defense: 15
+  Rank: 865
+Attacks:
+  Ranged Space: 5/27
+  Closed Space: 7/7
 Load aboard transport: YES
-Can be towed
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
 Immune to Plague
-Upkeep / Maintenance: 20
-Build Cost: 199
+Upkeep / Maintenance: 331
+Build Cost: 3308
 Build Resource Requirements:
   Food: 3
+  Energy: 8
   Metal: 5
-  Trace: 17
+  Trace: 16
   Exotica: 3
-  Chemicals: 1
-  Biochems: 2
-  Electronics: 25
-  Ceramsteel: 6
-Build Sonobuoy VI in Well
-Time to Build / Upgrade: 2
-[18360] Technologies Required to Build Unit (79):
-  [6490] Real-Time Medical Imaging (65)
-  [890] Sonobouy (86)
-  [3780] Beam Control (79)
-  [7200] Air-Independent Propulsion (85)
+  Chemicals: 11
+  Electronics: 27
+  Monopols: 28
+S  ingularities: 1
+Build Jump Fusion Raider in Starport
+Time to Build / Upgrade: 3
+[12900] Technologies Required to Build Unit (67):
+  [8615] Fusion Beam (63)
+  [4285] Jump Drives (70)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: 3rd-Republic Star Raider
+Nick Name: Charioteer
+Scores & Strengths:
+  Tech Score: 7728
+  Unit Score: 5600
+  Average Score: 6664
+  Stat Strength: 4825
+  Total Strength: 5600
+  Planet Strength: 0
+  Space Strength: 5600
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 5
+  Spot: 22
+  Camouflage: 50
+  Agility: 4
+  Armor: 30
+  Psy Defense: 30
+  Rank: 948
+Attacks:
+  Ranged Space: 10/55
+  Closed Space: 15/15
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 657
+Build Cost: 6565
+Build Resource Requirements:
+  Energy: 7
+  Metal: 3
+  Trace: 9
+  Chemicals: 11
+  Biochems: 14
+  Electronics: 19
+  Ceramsteel: 5
+  Wetware: 2
+  Monopols: 17
+S  ingularities: 2
+Build 3rd-Republic Star Raider in Starport
+Time to Build / Upgrade: 3
+[85950] Technologies Required to Build Unit (62):
+  [57985] Cloaked Escortcraft (48)
+  [27965] Jump Escorts (75)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Jump Stealth Ship
+Nick Name: JJ-SRaider
+Scores & Strengths:
+  Tech Score: 7481
+  Unit Score: 7133
+  Average Score: 7307
+  Stat Strength: 6417
+  Total Strength: 7133
+  Planet Strength: 0
+  Space Strength: 7133
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 24
+  Spot: 16
+  Camouflage: 36
+  Agility: 33
+  Armor: 40
+  Psy Defense: 40
+  Rank: 934
+Attacks:
+  Ranged Space: 8/37
+  Closed Space: 20/21
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 1521
+Build Cost: 15206
+Build Resource Requirements:
+  Food: 1
+  Energy: 8
+  Metal: 7
+  Trace: 7
+  Exotica: 1
+  Chemicals: 13
+  Biochems: 21
+  Electronics: 18
+  Ceramsteel: 11
+  Wetware: 5
+  Monopols: 26
+S  ingularities: 5
+Build Jump Stealth Ship in Starport
+Time to Build / Upgrade: 4
+[57985] Technology Required to Build Unit (48):
+  [57985] Cloaked Escortcraft (48)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

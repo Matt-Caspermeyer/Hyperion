@@ -1,185 +1,308 @@
-All units of the unit class Naval Frigate are listed herein (4 in total):
+All units of the unit class Hover Anti-Air Tank are listed herein (7 in total):
 
 --1--
-Name: Naval Frigate
-Nick Name: NN-FF
+Name: Hover Anti-Air Tank
+Nick Name: Peregrine
 Scores & Strengths:
-  Tech Score: 679
-  Unit Score: 1358
-  Average Score: 1019
-  Stat Strength: 952
-  Total Strength: 1358
-  Planet Strength: 1358
+  Tech Score: 988
+  Unit Score: 988
+  Average Score: 988
+  Stat Strength: 652
+  Total Strength: 988
+  Planet Strength: 988
   Space Strength: 0
-  Garrison Strength: 429
+  Garrison Strength: 247
 Statistics:
-  Movement Type: naval
-  Move Points: 10
-  Spot: 10
-  Camouflage: 2
-  Agility: 10
-  Armor: 18
-  Psy Defense: 18
-  Rank: 103
+  Movement Type: hover
+  Move Points: 16
+  Spot: 6
+  Camouflage: 4
+  Agility: 12
+  Armor: 10
+  Psy Defense: 10
+  Rank: 71
 Attacks:
-  Water: 9/16
-  Air: 13/5
-  Indirect: 8/15
-  Direct: 11/7
-Upkeep / Maintenance: 48
-Build Cost: 484
+  Air: 16/16
+  Indirect: 5/6
+  Close: 10/5
+Load aboard transport: YES
+Upkeep / Maintenance: 70
+Build Cost: 704
 Build Resource Requirements:
   Food: 7
-  Energy: 32
-  Metal: 57
-  Trace: 34
+  Energy: 14
+  Metal: 3
+  Trace: 31
   Exotica: 7
-  Chemicals: 32
-  Biochems: 19
-  Electronics: 23
-Build Naval Frigate in Well
+  Chemicals: 24
+  Electronics: 38
+  Ceramsteel: 6
+  Monopols: 35
+Build Hover Anti-Air Tank in Factory
 Time to Build / Upgrade: 4
-[2480] Technologies Required to Build Unit (95):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2270] Naval Escort Ships (86)
+[3905] Technology Required to Build Unit (61):
+  [3905] Hovertech (61)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Guided Missile Frigate
-Nick Name: NN-FGM
+Name: Hover Anti-Air Tank II
+Nick Name: Peregrine II
 Scores & Strengths:
-  Tech Score: 1339
-  Unit Score: 2678
-  Average Score: 2008
-  Stat Strength: 1613
-  Total Strength: 2678
-  Planet Strength: 2678
+  Tech Score: 1600
+  Unit Score: 1534
+  Average Score: 1567
+  Stat Strength: 1008
+  Total Strength: 1534
+  Planet Strength: 1534
   Space Strength: 0
-  Garrison Strength: 669
+  Garrison Strength: 343
 Statistics:
-  Movement Type: naval
-  Move Points: 16
-  Spot: 12
-  Camouflage: 6
-  Agility: 5
-  Armor: 24
-  Psy Defense: 24
-  Rank: 125
+  Movement Type: hover
+  Move Points: 20
+  Spot: 7
+  Camouflage: 5
+  Agility: 14
+  Armor: 13
+  Psy Defense: 13
+  Rank: 80
 Attacks:
-  Water: 15/22
-  Air: 21/9
-  Indirect: 15/22
-  Direct: 18/12
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 92
-Build Cost: 916
+  Air: 20/20
+  Indirect: 6/8
+  Close: 13/6
+Load aboard transport: YES
+Upkeep / Maintenance: 63
+Build Cost: 629
 Build Resource Requirements:
   Food: 5
-  Energy: 39
-  Metal: 30
-  Trace: 36
+  Energy: 13
+  Metal: 4
+  Trace: 20
   Exotica: 5
-  Chemicals: 54
-  Biochems: 20
-  Electronics: 36
-  Ceramsteel: 37
-Build Guided Missile Frigate in Well
-Time to Build / Upgrade: 6
-[5855] Technology Required to Build Unit (84):
-  [5855] Guided Missile Navalcraft (84)
+  Chemicals: 23
+  Electronics: 34
+  Ceramsteel: 6
+  Monopols: 28
+Build Hover Anti-Air Tank II in Factory
+Time to Build / Upgrade: 3
+[7425] Technology Required to Build Unit (68):
+  [7425] Hovertanks (68)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: PTS Missile Frigate
-Nick Name: NN-FPTS
+Name: Power Hover Anti-Air Tank
+Nick Name: Powergrine
 Scores & Strengths:
-  Tech Score: 1474
-  Unit Score: 3685
-  Average Score: 2579
-  Stat Strength: 1940
-  Total Strength: 3685
-  Planet Strength: 3523
-  Space Strength: 2102
-  Garrison Strength: 854
+  Tech Score: 2707
+  Unit Score: 2484
+  Average Score: 2596
+  Stat Strength: 1592
+  Total Strength: 2484
+  Planet Strength: 2484
+  Space Strength: 0
+  Garrison Strength: 487
 Statistics:
-  Movement Type: naval
-  Move Points: 17
-  Spot: 13
-  Camouflage: 9
-  Agility: 7
-  Armor: 26
-  Psy Defense: 26
-  Rank: 137
+  Movement Type: hover
+  Move Points: 26
+  Spot: 8
+  Camouflage: 7
+  Agility: 15
+  Armor: 17
+  Psy Defense: 17
+  Rank: 94
 Attacks:
-  Ranged Space: 9/18
-  Water: 20/24
-  Air: 27/12
-  Indirect: 20/24
-  Direct: 23/13
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 145
-Build Cost: 1449
+  Air: 26/26
+  Indirect: 8/10
+  Close: 17/8
+Load aboard transport: YES
+Upkeep / Maintenance: 82
+Build Cost: 120
 Build Resource Requirements:
-  Food: 5
-  Energy: 51
-  Metal: 33
-  Trace: 56
-  Exotica: 6
-  Chemicals: 72
-  Biochems: 28
-  Electronics: 58
-  Ceramsteel: 41
-Build PTS Missile Frigate in Well
-Time to Build / Upgrade: 7
-[6655] Technology Required to Build Unit (83):
-  [6655] PTS Missile Navalcraft (83)
+  Metal: 1
+Upgrade Hover Anti-Air Tank to Power Hover Anti-Air Tank at Factory
+Time to Build / Upgrade: 1
+[14975] Technology Required to Build Unit (70):
+  [14975] Power Hovertanks (70)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Nuclear Frigate
-Nick Name: NN-FFN
+Name: Psy Hover Anti-Air Tank
+Nick Name: Sacred Hawk
 Scores & Strengths:
-  Tech Score: 1579
-  Unit Score: 4737
-  Average Score: 3158
-  Stat Strength: 2844
-  Total Strength: 4737
-  Planet Strength: 4737
-  Space Strength: 0
-  Garrison Strength: 1059
+  Tech Score: 2735
+  Unit Score: 2734
+  Average Score: 2735
+  Stat Strength: 1853
+  Total Strength: 2734
+  Planet Strength: 2734
+  Space Strength: 2093
+  Garrison Strength: 582
 Statistics:
-  Movement Type: naval
-  Move Points: 20
-  Spot: 14
-  Camouflage: 10
-  Agility: 10
-  Armor: 32
-  Psy Defense: 32
-  Rank: 149
+  Movement Type: hover
+  Move Points: 22
+  Spot: 8
+  Camouflage: 6
+  Agility: 17
+  Armor: 14
+  Psy Defense: 28
+  Rank: 95
 Attacks:
-  Water: 21/31
-  Air: 25/13
-  Indirect: 20/24
-  Direct: 23/19
-Upkeep / Maintenance: 165
-Build Cost: 1652
+  Psychic: 15/16
+  Air: 22/22
+  Indirect: 10/8
+  Close: 11/7
+Load aboard transport: YES
+Upkeep / Maintenance: 160
+Build Cost: 1603
 Build Resource Requirements:
-  Food: 6
-  Energy: 57
-  Metal: 46
-  Trace: 51
-  Exotica: 7
-  Chemicals: 84
-  Biochems: 27
-  Electronics: 54
-  Ceramsteel: 59
-Build Nuclear Frigate in Well
-Time to Build / Upgrade: 9
-[7295] Technology Required to Build Unit (81):
-  [7295] Nuclear-Powered Navalcraft (81)
+  Food: 4
+  Energy: 10
+  Metal: 6
+  Trace: 9
+  Exotica: 4
+  Chemicals: 19
+  Electronics: 22
+  Ceramsteel: 10
+  Monopols: 31
+  Gems: 52
+Build Psy Hover Anti-Air Tank in Factory
+Time to Build / Upgrade: 4
+[15305] Technologies Required to Build Unit (76):
+  [330] Holy Warriors (82)
+  [14975] Power Hovertanks (70)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: 3rd-Republic Hover A-AT
+Nick Name: Impaler
+Scores & Strengths:
+  Tech Score: 2921
+  Unit Score: 2758
+  Average Score: 2839
+  Stat Strength: 1731
+  Total Strength: 2758
+  Planet Strength: 2758
+  Space Strength: 0
+  Garrison Strength: 521
+Statistics:
+  Movement Type: hover
+  Move Points: 28
+  Spot: 8
+  Camouflage: 7
+  Agility: 16
+  Armor: 17
+  Psy Defense: 17
+  Rank: 97
+Attacks:
+  Air: 28/28
+  Indirect: 9/10
+  Close: 17/9
+Load aboard transport: YES
+Upkeep / Maintenance: 57
+Build Cost: 569
+Build Resource Requirements:
+  Food: 3
+  Energy: 9
+  Metal: 2
+  Trace: 8
+  Exotica: 3
+  Chemicals: 16
+  Electronics: 18
+  Ceramsteel: 4
+  Monopols: 22
+Build 3rd-Republic Hover A-AT in Factory
+Time to Build / Upgrade: 3
+[30105] Technologies Required to Build Unit (69):
+  [15130] Fusion Battle Tanks (68)
+  [14975] Power Hovertanks (70)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Morph Hover Anti-Air Tank
+Nick Name: Harrier
+Scores & Strengths:
+  Tech Score: 5182
+  Unit Score: 5176
+  Average Score: 5179
+  Stat Strength: 3512
+  Total Strength: 5176
+  Planet Strength: 5176
+  Space Strength: 0
+  Garrison Strength: 1015
+Statistics:
+  Movement Type: hover
+  Move Points: 26
+  Spot: 12
+  Camouflage: 10
+  Agility: 32
+  Armor: 28
+  Psy Defense: 28
+  Rank: 138
+Attacks:
+  Air: 34/34
+  Indirect: 12/24
+  Close: 20/11
+Load aboard transport: YES
+Upkeep / Maintenance: 145
+Build Cost: 1327
+Build Resource Requirements:
+  Biochems: 31
+  Ceramsteel: 2
+  Wetware: 13
+Upgrade Power Hover Anti-Air Tank to Morph Hover Anti-Air Tank at Factory
+Time to Build / Upgrade: 2
+[35535] Technology Required to Build Unit (36):
+  [35535] Polymorphonic Land Vehicles (36)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Stealth Hover Anti-Air Tank
+Nick Name: Shadow Hawk
+Scores & Strengths:
+  Tech Score: 5364
+  Unit Score: 5358
+  Average Score: 5361
+  Stat Strength: 4286
+  Total Strength: 5358
+  Planet Strength: 5358
+  Space Strength: 0
+  Garrison Strength: 1093
+Statistics:
+  Movement Type: hover
+  Move Points: 24
+  Spot: 14
+  Camouflage: 26
+  Agility: 34
+  Armor: 29
+  Psy Defense: 29
+  Rank: 130
+Attacks:
+  Air: 26/26
+  Indirect: 12/14
+  Close: 19/12
+Load aboard transport: YES
+Upkeep / Maintenance: 122
+Build Cost: 1096
+Build Resource Requirements:
+  Metal: 1
+  Biochems: 24
+  Ceramsteel: 2
+  Wetware: 10
+Upgrade Power Hover Anti-Air Tank to Stealth Hover Anti-Air Tank at Factory
+Time to Build / Upgrade: 1
+[37210] Technology Required to Build Unit (34):
+  [37210] Neumonic Land Vehicles (34)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

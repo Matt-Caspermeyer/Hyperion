@@ -1,175 +1,284 @@
-All units of the unit class Naval Mine are listed herein (4 in total):
+All units of the unit class Floating Battery are listed herein (6 in total):
 
 --1--
-Name: Naval Mine
-Nick Name: Naval Mine
+Name: Floating Battery
+Nick Name: NN-FB
 Scores & Strengths:
-  Tech Score: 172
+  Tech Score: 174
   Unit Score: 172
-  Average Score: 172
-  Stat Strength: 100
+  Average Score: 173
+  Stat Strength: 132
   Total Strength: 172
   Planet Strength: 172
   Space Strength: 0
-  Garrison Strength: 215
+  Garrison Strength: 172
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 0
-  Camouflage: 10
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 0
+  Movement Type: naval
+  Move Points: 1
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 5
+  Rank: 115
 Attacks:
-  Water: 3/24
-Load aboard transport: YES
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 9
-Build Cost: 93
+  Water: 2/14
+  Indirect: 1/12
+Can tow units that can be towed
+Upkeep / Maintenance: 27
+Build Cost: 269
 Build Resource Requirements:
-  Energy: 143
-  Trace: 62
-  Chemicals: 125
-Build Naval Mine in Well
-Time to Build / Upgrade: 4
-[490] Technologies Required to Build Unit (99):
-  [230] Hospitals (97)
+  Food: 1
+  Energy: 67
+  Metal: 35
+  Trace: 3
+  Exotica: 1
+  Chemicals: 56
+Build Floating Battery in Well
+Time to Build / Upgrade: 3
+[535] Technologies Required to Build Unit (99):
+  [100] Medical & Biological (100)
   [110] Structural Engineering (99)
   [100] Psychosocial Engineering (100)
-  [50] Applied Technology (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Limpet Mine
-Nick Name: Limpet
+Name: Water Battery
+Nick Name: NN-WB
 Scores & Strengths:
-  Tech Score: 406
-  Unit Score: 406
-  Average Score: 406
-  Stat Strength: 258
-  Total Strength: 406
-  Planet Strength: 406
+  Tech Score: 182
+  Unit Score: 181
+  Average Score: 182
+  Stat Strength: 132
+  Total Strength: 181
+  Planet Strength: 181
   Space Strength: 0
-  Garrison Strength: 406
+  Garrison Strength: 181
 Statistics:
-  Movement Type: underwater
+  Movement Type: naval
   Move Points: 1
-  Spot: 0
-  Camouflage: 16
+  Spot: 2
+  Camouflage: 1
   Agility: 1
-  Armor: 0
-  Psy Defense: 0
-  Rank: 740
+  Armor: 10
+  Psy Defense: 5
+  Rank: 128
 Attacks:
-  Water: 3/28
-  Indirect: 4/16
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 12
-Build Cost: 121
+  Water: 1/24
+  Indirect: 1/25
+Can tow units that can be towed
+Upkeep / Maintenance: 74
+Build Cost: 742
 Build Resource Requirements:
-  Energy: 81
-  Trace: 26
-  Chemicals: 81
-  Electronics: 22
-Build Limpet Mine in Well
-Time to Build / Upgrade: 3
-[1195] Technology Required to Build Unit (90):
-  [1195] Naval Warfare (90)
+  Food: 1
+  Energy: 207
+  Metal: 34
+  Trace: 3
+  Exotica: 1
+  Chemicals: 190
+Build Water Battery in Well
+Time to Build / Upgrade: 5
+[560] Technologies Required to Build Unit (99):
+  [100] Medical & Biological (100)
+  [100] Physics & Energy (100)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
+  [200] Fortifications (97)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Naval Mine II
-Nick Name: Naval Mine II
+Name: Naval Fortress
+Nick Name: NN-Fort
 Scores & Strengths:
-  Tech Score: 406
-  Unit Score: 410
-  Average Score: 408
-  Stat Strength: 225
-  Total Strength: 410
-  Planet Strength: 410
+  Tech Score: 775
+  Unit Score: 1546
+  Average Score: 1160
+  Stat Strength: 1330
+  Total Strength: 1546
+  Planet Strength: 1546
   Space Strength: 0
-  Garrison Strength: 512
+  Garrison Strength: 631
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 0
-  Camouflage: 15
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 0
+  Movement Type: naval
+  Move Points: 6
+  Spot: 6
+  Camouflage: 2
+  Agility: 2
+  Armor: 25
+  Psy Defense: 25
+  Rank: 255
 Attacks:
-  Water: 5/37
-Load aboard transport: YES
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 8
-Build Cost: 78
+  Indirect: 3/30
+  Direct: 4/24
+  Close: 6/5
+Cargo Space: 4
+Transports and Refuels (at end of turn) all Air Units
+Heals units of same movement type
+Upkeep / Maintenance: 81
+Build Cost: 814
 Build Resource Requirements:
-  Energy: 106
-  Trace: 23
-  Chemicals: 106
-  Electronics: 21
-Build Naval Mine II in Well
-Time to Build / Upgrade: 4
-[1195] Technology Required to Build Unit (90):
-  [1195] Naval Warfare (90)
+  Food: 2
+  Energy: 63
+  Metal: 97
+  Trace: 6
+  Exotica: 2
+  Chemicals: 62
+  Biochems: 3
+  Electronics: 4
+Build Naval Fortress in Well
+Time to Build / Upgrade: 5
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2725] Naval Capital Ships (88)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Naval Mine III
-Nick Name: Naval Mine III
+Name: Guided Missile Naval Fortress
+Nick Name: NN-FortGM
 Scores & Strengths:
-  Tech Score: 754
-  Unit Score: 741
-  Average Score: 748
-  Stat Strength: 441
-  Total Strength: 741
-  Planet Strength: 741
+  Tech Score: 1339
+  Unit Score: 3311
+  Average Score: 2325
+  Stat Strength: 2596
+  Total Strength: 3311
+  Planet Strength: 3311
   Space Strength: 0
-  Garrison Strength: 926
+  Garrison Strength: 1170
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 0
-  Camouflage: 21
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 0
+  Movement Type: naval
+  Move Points: 8
+  Spot: 8
+  Camouflage: 3
+  Agility: 3
+  Armor: 35
+  Psy Defense: 35
+  Rank: 274
+Attacks:
+  Water: 4/40
+  Air: 8/25
+  Indirect: 5/35
+  Direct: 6/30
+Cargo Space: 4
+Transports and Refuels (at end of turn) all Air Units
+Heals units of same movement type
+Upkeep / Maintenance: 242
+Build Cost: 2416
+Build Resource Requirements:
+  Food: 2
+  Energy: 118
+  Metal: 65
+  Trace: 6
+  Exotica: 2
+  Chemicals: 158
+  Biochems: 4
+  Electronics: 6
+  Ceramsteel: 78
+Build Guided Missile Naval Fortress in Well
+Time to Build / Upgrade: 8
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: PTS Missile Naval Fortress
+Nick Name: NN-FortPTS
+Scores & Strengths:
+  Tech Score: 1474
+  Unit Score: 4512
+  Average Score: 2993
+  Stat Strength: 3432
+  Total Strength: 4512
+  Planet Strength: 4412
+  Space Strength: 3532
+  Garrison Strength: 1395
+Statistics:
+  Movement Type: naval
+  Move Points: 10
+  Spot: 10
+  Camouflage: 4
+  Agility: 4
+  Armor: 40
+  Psy Defense: 40
+  Rank: 287
+Attacks:
+  Ranged Space: 4/25
+  Water: 5/45
+  Air: 9/30
+  Indirect: 6/40
+  Direct: 7/35
+Cargo Space: 4
+Transports and Refuels (at end of turn) all Air Units
+Heals units of same movement type
+Upkeep / Maintenance: 385
+Build Cost: 3845
+Build Resource Requirements:
+  Food: 2
+  Energy: 158
+  Metal: 77
+  Trace: 8
+  Exotica: 2
+  Chemicals: 216
+  Biochems: 5
+  Electronics: 9
+  Ceramsteel: 97
+Build PTS Missile Naval Fortress in Well
+Time to Build / Upgrade: 11
+[6655] Technology Required to Build Unit (83):
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Nuclear Naval Fortress
+Nick Name: NN-FortN
+Scores & Strengths:
+  Tech Score: 1579
+  Unit Score: 5673
+  Average Score: 3626
+  Stat Strength: 4388
+  Total Strength: 5673
+  Planet Strength: 5673
+  Space Strength: 0
+  Garrison Strength: 1637
+Statistics:
+  Movement Type: naval
+  Move Points: 12
+  Spot: 12
+  Camouflage: 5
+  Agility: 5
+  Armor: 45
+  Psy Defense: 45
+  Rank: 299
 Attacks:
   Water: 6/50
-Load aboard transport: YES
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 9
-Build Cost: 85
+  Air: 10/35
+  Indirect: 7/45
+  Direct: 8/40
+Cargo Space: 4
+Transports and Refuels (at end of turn) all Air Units
+Heals units of same movement type
+Upkeep / Maintenance: 525
+Build Cost: 5246
 Build Resource Requirements:
-  Energy: 105
-  Trace: 30
-  Chemicals: 105
-  Biochems: 1
-  Electronics: 23
-Build Naval Mine III in Well
-Time to Build / Upgrade: 4
-[2725] Technology Required to Build Unit (88):
-  [2725] Naval Capital Ships (88)
+  Food: 3
+  Energy: 171
+  Metal: 92
+  Trace: 10
+  Exotica: 3
+  Chemicals: 241
+  Biochems: 6
+  Electronics: 11
+  Ceramsteel: 117
+Build Nuclear Naval Fortress in Well
+Time to Build / Upgrade: 12
+[7295] Technology Required to Build Unit (81):
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

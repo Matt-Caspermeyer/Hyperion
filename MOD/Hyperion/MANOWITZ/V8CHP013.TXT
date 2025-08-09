@@ -1,321 +1,127 @@
-All units of the unit class Small Floating Barge are listed herein (8 in total):
+All units of the unit class Field Medic are listed herein (3 in total):
 
 --1--
-Name: Small Floating Barge
-Nick Name: SS Barge
+Name: Field Medic
+Nick Name: F Medic
 Scores & Strengths:
-  Tech Score: 86
-  Unit Score: 73
-  Average Score: 79
-  Stat Strength: 73
-  Total Strength: 0
-  Planet Strength: 0
+  Tech Score: 63
+  Unit Score: 63
+  Average Score: 63
+  Stat Strength: 63
+  Total Strength: 63
+  Planet Strength: 63
   Space Strength: 0
-  Garrison Strength: 0
+  Garrison Strength: 63
 Statistics:
-  Movement Type: naval
-  Move Points: 0
-  Spot: 0
-  Camouflage: 1
-  Agility: 0
-  Armor: 6
-  Psy Defense: 6
-  Rank: 561
-Cargo Space: 1
-Does not participate in combat
-Can be towed
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 3
-Build Cost: 26
+  Movement Type: foot
+  Move Points: 1
+  Spot: 2
+  Camouflage: 2
+  Agility: 7
+  Armor: 2
+  Psy Defense: 1
+  Rank: 101
+Load aboard transport: YES
+Heals units of same movement type
+Upkeep / Maintenance: 4
+Build Cost: 20
 Build Resource Requirements:
-  Food: 2
-  Energy: 2
-  Metal: 53
-  Trace: 7
-  Exotica: 1
-  Chemicals: 2
-Build Small Floating Barge in Well
+  Metal: 2
+  Trace: 18
+  Exotica: 14
+Upgrade Peasant to Field Medic at Hospital
 Time to Build / Upgrade: 1
-[150] Technologies Required to Build Unit (100):
-  [100] Physics & Energy (100)
-  [50] Applied Technology (100)
+[100] Technology Required to Build Unit (100):
+  [100] Medical & Biological (100)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Medium Floating Barge
-Nick Name: MM Barge
+Name: Combat Physick
+Nick Name: Cmbt Physick
 Scores & Strengths:
-  Tech Score: 98
-  Unit Score: 73
-  Average Score: 86
-  Stat Strength: 73
-  Total Strength: 0
-  Planet Strength: 0
+  Tech Score: 158
+  Unit Score: 158
+  Average Score: 158
+  Stat Strength: 81
+  Total Strength: 158
+  Planet Strength: 158
   Space Strength: 0
-  Garrison Strength: 0
+  Garrison Strength: 111
 Statistics:
-  Movement Type: naval
-  Move Points: 0
-  Spot: 0
-  Camouflage: 1
-  Agility: 0
-  Armor: 6
-  Psy Defense: 6
-  Rank: 571
-Cargo Space: 2
-Does not participate in combat
-Can be towed
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 2
-Build Cost: 16
+  Movement Type: foot
+  Move Points: 2
+  Spot: 2
+  Camouflage: 2
+  Agility: 8
+  Armor: 2
+  Psy Defense: 1
+  Rank: 137
+Attacks:
+  Indirect: 8/4
+  Direct: 6/4
+  Close: 7/3
+Load aboard transport: YES
+Heals units of same movement type
+Upkeep / Maintenance: 9
+Build Cost: 71
 Build Resource Requirements:
-  Food: 1
-  Energy: 1
-  Metal: 35
-  Trace: 3
-  Chemicals: 1
-Build Medium Floating Barge in Well
+  Trace: 35
+  Exotica: 7
+  Chemicals: 18
+  Biochems: 23
+Upgrade Peasant to Combat Physick at Hospital
 Time to Build / Upgrade: 1
-[280] Technologies Required to Build Unit (98):
-  [110] Structural Engineering (99)
-  [110] Mechanical & Aerospace Engineering (98)
-  [60] Torpedo (98)
+[550] Technologies Required to Build Unit (92):
+  [285] Surgical Instruments (94)
+  [265] Pharmaceuticals (89)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Small Amphibious Trailer
-Nick Name: SA Trailer
+Name: Fighting Chaplain
+Nick Name: F. Chaplain
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 132
-  Average Score: 358
-  Stat Strength: 132
-  Total Strength: 0
-  Planet Strength: 0
-  Space Strength: 0
-  Garrison Strength: 0
+  Tech Score: 253
+  Unit Score: 253
+  Average Score: 253
+  Stat Strength: 165
+  Total Strength: 253
+  Planet Strength: 253
+  Space Strength: 193
+  Garrison Strength: 126
 Statistics:
-  Movement Type: craft
-  Move Points: 0
-  Spot: 0
+  Movement Type: foot
+  Move Points: 4
+  Spot: 2
   Camouflage: 2
-  Agility: 0
-  Armor: 8
-  Psy Defense: 8
-  Rank: 539
-Cargo Space: 1
-Does not participate in combat
-Amphibious loading / unloading of cargo
-Can be towed
-Never Rebels
-Immune to Plague
-Build Cost: 2
+  Agility: 11
+  Armor: 2
+  Psy Defense: 4
+  Rank: 139
+Attacks:
+  Psychic: 7/4
+  Direct: 6/5
+  Close: 10/3
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 14
+Build Cost: 66
 Build Resource Requirements:
-  Metal: 14
-Build Small Amphibious Trailer in Factory
+  Energy: 4
+  Metal: 1
+  Trace: 38
+  Chemicals: 16
+Upgrade Clergy to Fighting Chaplain at Church
 Time to Build / Upgrade: 1
-[1940] Technology Required to Build Unit (89):
-  [1940] Amphibious Landing Craft (89)
-Unit can be disbanded: YES
-
---4--
-Name: Medium Amphibious Trailer
-Nick Name: MA Trailer
-Scores & Strengths:
-  Tech Score: 781
-  Unit Score: 166
-  Average Score: 474
-  Stat Strength: 166
-  Total Strength: 0
-  Planet Strength: 0
-  Space Strength: 0
-  Garrison Strength: 0
-Statistics:
-  Movement Type: craft
-  Move Points: 0
-  Spot: 0
-  Camouflage: 2
-  Agility: 0
-  Armor: 9
-  Psy Defense: 9
-  Rank: 550
-Cargo Space: 2
-Does not participate in combat
-Amphibious loading / unloading of cargo
-Can be towed
-Never Rebels
-Immune to Plague
-Build Cost: 2
-Build Resource Requirements:
-  Metal: 13
-Build Medium Amphibious Trailer in Factory
-Time to Build / Upgrade: 1
-[2855] Technology Required to Build Unit (87):
-  [2855] Naval Amphibious Ships (87)
-Unit can be disbanded: YES
-
---5--
-Name: Long Amphibious Trailer
-Nick Name: LA Trailer
-Scores & Strengths:
-  Tech Score: 1570
-  Unit Score: 347
-  Average Score: 958
-  Stat Strength: 347
-  Total Strength: 0
-  Planet Strength: 0
-  Space Strength: 0
-  Garrison Strength: 0
-Statistics:
-  Movement Type: craft
-  Move Points: 0
-  Spot: 0
-  Camouflage: 3
-  Agility: 0
-  Armor: 13
-  Psy Defense: 13
-  Rank: 565
-Cargo Space: 3
-Does not participate in combat
-Amphibious loading / unloading of cargo
-Can be towed
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 1
-Build Cost: 6
-Build Resource Requirements:
-  Metal: 8
-  Chemicals: 2
-  Ceramsteel: 8
-Build Long Amphibious Trailer in Factory
-Time to Build / Upgrade: 1
-[9510] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [6655] PTS Missile Navalcraft (83)
-Unit can be disbanded: YES
-
---6--
-Name: Long Floating Barge
-Nick Name: LF Barge
-Scores & Strengths:
-  Tech Score: 454
-  Unit Score: 396
-  Average Score: 425
-  Stat Strength: 396
-  Total Strength: 0
-  Planet Strength: 0
-  Space Strength: 0
-  Garrison Strength: 0
-Statistics:
-  Movement Type: naval
-  Move Points: 0
-  Spot: 0
-  Camouflage: 2
-  Agility: 0
-  Armor: 14
-  Psy Defense: 14
-  Rank: 584
-Cargo Space: 3
-Does not participate in combat
-Can be towed
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 3
-Build Cost: 29
-Build Resource Requirements:
-  Metal: 44
-  Trace: 1
-  Chemicals: 12
-Build Long Floating Barge in Well
-Time to Build / Upgrade: 1
-[1870] Technologies Required to Build Unit (93):
-  [145] Composite Armor (97)
-  [205] Electric-Diesel Engine (92)
-  [325] Megachassis (94)
-  [1195] Naval Warfare (90)
-Unit can be disbanded: YES
-
---7--
-Name: Stretch Floating Barge
-Nick Name: SF Barge
-Scores & Strengths:
-  Tech Score: 951
-  Unit Score: 809
-  Average Score: 880
-  Stat Strength: 809
-  Total Strength: 0
-  Planet Strength: 0
-  Space Strength: 0
-  Garrison Strength: 0
-Statistics:
-  Movement Type: naval
-  Move Points: 0
-  Spot: 0
-  Camouflage: 3
-  Agility: 0
-  Armor: 20
-  Psy Defense: 20
-  Rank: 599
-Cargo Space: 4
-Does not participate in combat
-Can be towed
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 8
-Build Cost: 79
-Build Resource Requirements:
-  Metal: 40
-  Trace: 1
-  Chemicals: 10
-  Electronics: 1
-  Ceramsteel: 35
-Build Stretch Floating Barge in Well
-Time to Build / Upgrade: 2
-[4415] Technologies Required to Build Unit (86):
-  [1690] Ceramsteel (84)
-  [2725] Naval Capital Ships (88)
-Unit can be disbanded: YES
-
---8--
-Name: Stretch Amphibious Trailer
-Nick Name: SSA Trailer
-Scores & Strengths:
-  Tech Score: 4371
-  Unit Score: 993
-  Average Score: 2682
-  Stat Strength: 993
-  Total Strength: 0
-  Planet Strength: 0
-  Space Strength: 0
-  Garrison Strength: 0
-Statistics:
-  Movement Type: craft
-  Move Points: 0
-  Spot: 0
-  Camouflage: 5
-  Agility: 0
-  Armor: 22
-  Psy Defense: 22
-  Rank: 592
-Cargo Space: 4
-Does not participate in combat
-Amphibious loading / unloading of cargo
-Can be towed
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 7
-Build Cost: 74
-Build Resource Requirements:
-  Metal: 4
-  Chemicals: 2
-  Electronics: 2
-  Ceramsteel: 6
-  Monopols: 6
-Build Stretch Amphibious Trailer in Factory
-Time to Build / Upgrade: 1
-[30730] Technologies Required to Build Unit (81):
-  [2855] Naval Amphibious Ships (87)
-  [27875] PTS Meson Navalcraft (74)
+[835] Technologies Required to Build Unit (93):
+  [125] Scholastic Medicine (98)
+  [255] Surgical Procedures (96)
+  [125] Epidemiology (94)
+  [330] Holy Warriors (82)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

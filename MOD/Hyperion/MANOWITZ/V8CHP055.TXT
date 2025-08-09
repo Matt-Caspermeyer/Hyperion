@@ -1,224 +1,479 @@
-All units of the unit class Light Tank are listed herein (5 in total):
+All units of the unit class Security Specialist are listed herein (12 in total):
 
 --1--
-Name: Light Tank
-Nick Name: Light Tank
+Name: Security Specialist
+Nick Name: Special
 Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 157
-  Average Score: 132
-  Stat Strength: 116
-  Total Strength: 157
-  Planet Strength: 157
+  Tech Score: 151
+  Unit Score: 153
+  Average Score: 152
+  Stat Strength: 117
+  Total Strength: 153
+  Planet Strength: 153
   Space Strength: 0
-  Garrison Strength: 70
+  Garrison Strength: 76
 Statistics:
-  Movement Type: tread
-  Move Points: 5
-  Spot: 1
-  Camouflage: 1
-  Agility: 3
-  Armor: 8
-  Psy Defense: 4
-  Rank: 61
+  Movement Type: foot
+  Move Points: 4
+  Spot: 4
+  Camouflage: 4
+  Agility: 8
+  Armor: 2
+  Psy Defense: 1
+  Rank: 89
 Attacks:
-  Indirect: 2/8
-  Direct: 2/8
-  Close: 3/3
+  Air: 6/6
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 50
+Upkeep / Maintenance: 10
+Build Cost: 80
 Build Resource Requirements:
-  Food: 4
-  Energy: 31
-  Metal: 30
-  Trace: 6
-  Exotica: 4
-  Chemicals: 30
-Build Light Tank in Factory
-Time to Build / Upgrade: 3
-[400] Technologies Required to Build Unit (98):
-  [110] Structural Engineering (99)
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
+  Energy: 11
+  Metal: 1
+  Trace: 51
+  Exotica: 22
+  Chemicals: 35
+Upgrade Peasant to Security Specialist at Farm
+Time to Build / Upgrade: 2
+[320] Technology Required to Build Unit (88):
+  [320] Viper Militia (88)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Light Tank II
-Nick Name: Light Tank II
+Name: Security Specialist (PE)
+Nick Name: Special (PE)
 Scores & Strengths:
-  Tech Score: 162
-  Unit Score: 228
-  Average Score: 195
-  Stat Strength: 172
-  Total Strength: 228
-  Planet Strength: 228
+  Tech Score: 195
+  Unit Score: 201
+  Average Score: 198
+  Stat Strength: 152
+  Total Strength: 201
+  Planet Strength: 201
   Space Strength: 0
-  Garrison Strength: 93
+  Garrison Strength: 89
 Statistics:
-  Movement Type: tread
-  Move Points: 6
-  Spot: 1
-  Camouflage: 1
-  Agility: 3
-  Armor: 10
-  Psy Defense: 5
-  Rank: 64
+  Movement Type: foot
+  Move Points: 5
+  Spot: 4
+  Camouflage: 5
+  Agility: 9
+  Armor: 2
+  Psy Defense: 1
+  Rank: 91
 Attacks:
-  Indirect: 2/10
-  Direct: 2/10
-  Close: 4/4
+  Air: 7/7
 Load aboard transport: YES
-Upkeep / Maintenance: 10
-Build Cost: 99
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 7
+Build Cost: 49
 Build Resource Requirements:
-  Food: 7
-  Energy: 55
-  Metal: 49
-  Trace: 12
-  Exotica: 7
-  Chemicals: 67
-Build Light Tank II in Factory
-Time to Build / Upgrade: 4
-[350] Technology Required to Build Unit (95):
-  [350] Tanks (95)
+  Energy: 2
+  Trace: 38
+  Exotica: 16
+  Chemicals: 27
+Upgrade Peasant to Security Specialist (PE) at Farm
+Time to Build / Upgrade: 1
+[500] Technologies Required to Build Unit (89):
+  [320] Viper Militia (88)
+  [180] Performance-Enhanced Soldiers (90)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Scout Tank
-Nick Name: Greyhound
+Name: Security Specialist (BE)
+Nick Name: Special (BE)
 Scores & Strengths:
-  Tech Score: 162
-  Unit Score: 240
-  Average Score: 201
-  Stat Strength: 172
-  Total Strength: 240
-  Planet Strength: 240
+  Tech Score: 239
+  Unit Score: 230
+  Average Score: 235
+  Stat Strength: 166
+  Total Strength: 230
+  Planet Strength: 230
   Space Strength: 0
-  Garrison Strength: 97
+  Garrison Strength: 102
 Statistics:
-  Movement Type: tread
-  Move Points: 6
-  Spot: 6
-  Camouflage: 4
-  Agility: 2
-  Armor: 8
-  Psy Defense: 4
-  Rank: 62
+  Movement Type: foot
+  Move Points: 5
+  Spot: 5
+  Camouflage: 5
+  Agility: 9
+  Armor: 3
+  Psy Defense: 1
+  Rank: 93
 Attacks:
-  Indirect: 7/4
-  Direct: 6/4
-  Close: 8/2
+  Air: 8/8
 Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 79
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 10
+Build Cost: 20
 Build Resource Requirements:
-  Food: 13
-  Energy: 15
-  Metal: 31
-  Trace: 63
-  Exotica: 12
-  Chemicals: 18
-Build Scout Tank in Factory
-Time to Build / Upgrade: 3
-[350] Technology Required to Build Unit (95):
-  [350] Tanks (95)
+  Metal: 2
+  Biochems: 35
+Upgrade Security Specialist to Security Specialist (BE) at Biochem Plant
+Time to Build / Upgrade: 1
+[740] Technologies Required to Build Unit (83):
+  [320] Viper Militia (88)
+  [420] Biochem-Enhanced Soldiers (77)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Tankette
-Nick Name: Tankette
+Name: Security Specialist (SE)
+Nick Name: Special (SE)
 Scores & Strengths:
-  Tech Score: 174
-  Unit Score: 258
-  Average Score: 216
-  Stat Strength: 140
-  Total Strength: 258
-  Planet Strength: 258
+  Tech Score: 313
+  Unit Score: 310
+  Average Score: 312
+  Stat Strength: 210
+  Total Strength: 310
+  Planet Strength: 310
   Space Strength: 0
-  Garrison Strength: 105
+  Garrison Strength: 126
 Statistics:
-  Movement Type: tread
+  Movement Type: foot
   Move Points: 6
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 8
-  Psy Defense: 4
-  Rank: 66
+  Spot: 5
+  Camouflage: 6
+  Agility: 10
+  Armor: 3
+  Psy Defense: 2
+  Rank: 98
 Attacks:
-  Indirect: 7/6
-  Direct: 8/6
-  Close: 7/4
+  Air: 10/10
 Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 68
+Upkeep / Maintenance: 14
+Build Cost: 60
 Build Resource Requirements:
-  Food: 7
-  Energy: 19
-  Metal: 20
-  Trace: 42
-  Exotica: 6
-  Chemicals: 34
-Build Tankette in Factory
-Time to Build / Upgrade: 3
-[495] Technologies Required to Build Unit (96):
-  [145] Composite Armor (97)
-  [350] Tanks (95)
+  Biochems: 45
+Upgrade Security Specialist to Security Specialist (SE) at Hospital
+Time to Build / Upgrade: 1
+[995] Technologies Required to Build Unit (82):
+  [320] Viper Militia (88)
+  [675] Surgically-Enhanced Soldiers (75)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Stealth Scout Tank
-Nick Name: Bloodhound
+Name: Security Specialist (DE)
+Nick Name: Special (DE)
 Scores & Strengths:
-  Tech Score: 5364
-  Unit Score: 5358
-  Average Score: 5361
-  Stat Strength: 3975
-  Total Strength: 5358
-  Planet Strength: 5358
+  Tech Score: 930
+  Unit Score: 721
+  Average Score: 825
+  Stat Strength: 481
+  Total Strength: 721
+  Planet Strength: 721
   Space Strength: 0
-  Garrison Strength: 1012
+  Garrison Strength: 217
 Statistics:
-  Movement Type: tread
-  Move Points: 28
-  Spot: 14
-  Camouflage: 24
-  Agility: 31
-  Armor: 27
-  Psy Defense: 27
-  Rank: 144
+  Movement Type: foot
+  Move Points: 11
+  Spot: 6
+  Camouflage: 11
+  Agility: 13
+  Armor: 5
+  Psy Defense: 3
+  Rank: 114
 Attacks:
-  Indirect: 28/18
-  Direct: 24/16
-  Close: 33/15
+  Air: 16/15
 Load aboard transport: YES
-Upkeep / Maintenance: 127
-Build Cost: 1274
+Upkeep / Maintenance: 10
+Build Cost: 22
 Build Resource Requirements:
-  Food: 2
-  Energy: 7
-  Metal: 4
-  Trace: 12
-  Exotica: 2
-  Chemicals: 11
-  Biochems: 25
+  Metal: 7
+  Biochems: 29
   Electronics: 24
-  Ceramsteel: 7
-  Wetware: 13
-  Monopols: 19
-Build Stealth Scout Tank in Factory
-Time to Build / Upgrade: 4
-[37210] Technology Required to Build Unit (34):
-  [37210] Neumonic Land Vehicles (34)
+Upgrade Security Specialist to Security Specialist (DE) at Biochem Plant
+Time to Build / Upgrade: 1
+[3760] Technologies Required to Build Unit (77):
+  [320] Viper Militia (88)
+  [3440] Drug-Enhanced Soldiers (65)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Security Specialist (GE)
+Nick Name: Special (GE)
+Scores & Strengths:
+  Tech Score: 1394
+  Unit Score: 1008
+  Average Score: 1201
+  Stat Strength: 628
+  Total Strength: 1008
+  Planet Strength: 1008
+  Space Strength: 0
+  Garrison Strength: 279
+Statistics:
+  Movement Type: foot
+  Move Points: 13
+  Spot: 7
+  Camouflage: 13
+  Agility: 14
+  Armor: 6
+  Psy Defense: 3
+  Rank: 126
+Attacks:
+  Air: 20/19
+Load aboard transport: YES
+Upkeep / Maintenance: 12
+Build Cost: 101
+Build Resource Requirements:
+  Energy: 2
+  Trace: 1
+  Chemicals: 5
+  Biochems: 9
+  Electronics: 2
+  Ceramsteel: 1
+Upgrade Security Specialist (DE) to Security Specialist (GE) at Lab
+Time to Build / Upgrade: 1
+[6340] Technologies Required to Build Unit (69):
+  [320] Viper Militia (88)
+  [6020] Chemical Shock Legion (49)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Security Specialist (PA)
+Nick Name: Special (PA)
+Scores & Strengths:
+  Tech Score: 1420
+  Unit Score: 1041
+  Average Score: 1231
+  Stat Strength: 641
+  Total Strength: 1041
+  Planet Strength: 1041
+  Space Strength: 0
+  Garrison Strength: 288
+Statistics:
+  Movement Type: foot
+  Move Points: 13
+  Spot: 7
+  Camouflage: 13
+  Agility: 14
+  Armor: 7
+  Psy Defense: 3
+  Rank: 127
+Attacks:
+  Air: 20/20
+Load aboard transport: YES
+Upkeep / Maintenance: 16
+Build Cost: 103
+Build Resource Requirements:
+  Energy: 5
+  Chemicals: 16
+  Electronics: 35
+  Ceramsteel: 5
+Upgrade Security Specialist (SE) to Security Specialist (PA) at Hospital
+Time to Build / Upgrade: 1
+[6495] Technologies Required to Build Unit (73):
+  [320] Viper Militia (88)
+  [6175] Prosthetically-Augmented Soldiers (57)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Security Specialist (CE)
+Nick Name: Special (CE)
+Scores & Strengths:
+  Tech Score: 1792
+  Unit Score: 1288
+  Average Score: 1540
+  Stat Strength: 804
+  Total Strength: 1288
+  Planet Strength: 1288
+  Space Strength: 0
+  Garrison Strength: 332
+Statistics:
+  Movement Type: foot
+  Move Points: 15
+  Spot: 8
+  Camouflage: 15
+  Agility: 15
+  Armor: 7
+  Psy Defense: 4
+  Rank: 134
+Attacks:
+  Air: 22/22
+Load aboard transport: YES
+Upkeep / Maintenance: 18
+Build Cost: 75
+Build Resource Requirements:
+  Food: 1
+  Energy: 5
+  Exotica: 2
+  Chemicals: 8
+  Biochems: 2
+  Ceramsteel: 1
+Upgrade Security Specialist (PA) to Security Specialist (CE) at Lab
+Time to Build / Upgrade: 1
+[8920] Technologies Required to Build Unit (68):
+  [320] Viper Militia (88)
+  [8600] Cybernetically-Enhanced Soldiers (48)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Security Specialist (AVE)
+Nick Name: Special (AVE)
+Scores & Strengths:
+  Tech Score: 1857
+  Unit Score: 1325
+  Average Score: 1591
+  Stat Strength: 819
+  Total Strength: 1325
+  Planet Strength: 1325
+  Space Strength: 0
+  Garrison Strength: 342
+Statistics:
+  Movement Type: foot
+  Move Points: 15
+  Spot: 8
+  Camouflage: 15
+  Agility: 15
+  Armor: 8
+  Psy Defense: 4
+  Rank: 136
+Attacks:
+  Air: 23/22
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 83
+Build Resource Requirements:
+  Energy: 3
+  Chemicals: 5
+  Biochems: 7
+  Electronics: 2
+Upgrade Security Specialist (GE) to Security Specialist (AVE) at Lab
+Time to Build / Upgrade: 1
+[9220] Technologies Required to Build Unit (57):
+  [320] Viper Militia (88)
+  [8900] Genetically-Enhanced Warriors (25)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Security Specialist (ME)
+Nick Name: Special (ME)
+Scores & Strengths:
+  Tech Score: 1428
+  Unit Score: 1668
+  Average Score: 1548
+  Stat Strength: 1227
+  Total Strength: 1668
+  Planet Strength: 1668
+  Space Strength: 0
+  Garrison Strength: 340
+Statistics:
+  Movement Type: foot
+  Move Points: 24
+  Spot: 7
+  Camouflage: 12
+  Agility: 20
+  Armor: 7
+  Psy Defense: 3
+  Rank: 132
+Attacks:
+  Air: 21/21
+Load aboard transport: YES
+Upkeep / Maintenance: 13
+Build Cost: 49
+Build Resource Requirements:
+  Chemicals: 17
+  Electronics: 35
+  Ceramsteel: 2
+Upgrade Security Specialist to Security Specialist (ME) at Factory
+Time to Build / Upgrade: 1
+[6540] Technologies Required to Build Unit (84):
+  [320] Viper Militia (88)
+  [6220] Mechanically-Enhanced Soldiers (80)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Security Specialist (MF)
+Nick Name: Special (MF)
+Scores & Strengths:
+  Tech Score: 3187
+  Unit Score: 2132
+  Average Score: 2659
+  Stat Strength: 1291
+  Total Strength: 2132
+  Planet Strength: 2132
+  Space Strength: 0
+  Garrison Strength: 476
+Statistics:
+  Movement Type: foot
+  Move Points: 20
+  Spot: 9
+  Camouflage: 19
+  Agility: 18
+  Armor: 10
+  Psy Defense: 5
+  Rank: 160
+Attacks:
+  Air: 29/29
+Load aboard transport: YES
+Upkeep / Maintenance: 126
+Build Cost: 1187
+Build Resource Requirements:
+  Biochems: 2
+  Wetware: 9
+  Monopols: 40
+Upgrade Security Specialist (CE) to Security Specialist (MF) at Wetware
+Time to Build / Upgrade: 2
+[18895] Technologies Required to Build Unit (62):
+  [320] Viper Militia (88)
+  [18575] Machine-Fused Soldiers (35)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Security Specialist (NE)
+Nick Name: Special (NE)
+Scores & Strengths:
+  Tech Score: 3876
+  Unit Score: 2754
+  Average Score: 3315
+  Stat Strength: 1665
+  Total Strength: 2754
+  Planet Strength: 2754
+  Space Strength: 0
+  Garrison Strength: 600
+Statistics:
+  Movement Type: foot
+  Move Points: 21
+  Spot: 9
+  Camouflage: 25
+  Agility: 19
+  Armor: 11
+  Psy Defense: 6
+  Rank: 174
+Attacks:
+  Air: 33/33
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 109
+Build Cost: 1011
+Build Resource Requirements:
+  Wetware: 10
+  Monopols: 21
+Upgrade Security Specialist (AVE) to Security Specialist (NE) at Fusorium
+Time to Build / Upgrade: 1
+[24450] Technologies Required to Build Unit (60):
+  [320] Viper Militia (88)
+  [24130] Neumonically-Enhanced Soldiers (32)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

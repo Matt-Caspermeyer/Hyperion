@@ -1,87 +1,42 @@
-All units of the unit class Anti-Infantry Gun are listed herein (2 in total):
+All units of the unit class Transport Animals are listed herein (1 in total):
 
 --1--
-Name: Anti-Infantry Gun
-Nick Name: AIG
+Name: Transport Animals
+Nick Name: X-port Animal
 Scores & Strengths:
-  Tech Score: 92
-  Unit Score: 90
-  Average Score: 91
-  Stat Strength: 41
-  Total Strength: 90
-  Planet Strength: 90
+  Tech Score: 86
+  Unit Score: 86
+  Average Score: 86
+  Stat Strength: 86
+  Total Strength: 86
+  Planet Strength: 86
   Space Strength: 0
-  Garrison Strength: 51
+  Garrison Strength: 38
 Statistics:
-  Movement Type: wheel
-  Move Points: 3
+  Movement Type: foot
+  Move Points: 5
   Spot: 2
-  Camouflage: 2
-  Agility: 2
+  Camouflage: 1
+  Agility: 6
   Armor: 4
   Psy Defense: 2
-  Rank: 51
-Attacks:
-  Close: 7/7
+  Rank: 1
 Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 3
-Build Cost: 32
+Can tow units that can be towed
+Upkeep / Maintenance: 4
+Build Cost: 42
 Build Resource Requirements:
-  Food: 3
-  Energy: 15
-  Metal: 10
-  Trace: 17
-  Exotica: 2
-  Chemicals: 14
-Build Anti-Infantry Gun in Factory
+  Food: 14
+  Energy: 13
+  Metal: 15
+  Trace: 10
+  Exotica: 12
+  Chemicals: 12
+Build Transport Animals in Farm
 Time to Build / Upgrade: 2
-[265] Technologies Required to Build Unit (99):
+[150] Technologies Required to Build Unit (100):
   [100] Physics & Energy (100)
-  [165] Autocannon (98)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---2--
-Name: Anti-Tank Gun
-Nick Name: ATG
-Scores & Strengths:
-  Tech Score: 162
-  Unit Score: 160
-  Average Score: 161
-  Stat Strength: 98
-  Total Strength: 160
-  Planet Strength: 160
-  Space Strength: 0
-  Garrison Strength: 92
-Statistics:
-  Movement Type: wheel
-  Move Points: 3
-  Spot: 2
-  Camouflage: 2
-  Agility: 1
-  Armor: 8
-  Psy Defense: 4
-  Rank: 92
-Attacks:
-  Indirect: 3/12
-  Direct: 2/13
-Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 11
-Build Cost: 108
-Build Resource Requirements:
-  Food: 3
-  Energy: 71
-  Metal: 35
-  Trace: 8
-  Exotica: 2
-  Chemicals: 86
-Build Anti-Tank Gun in Factory
-Time to Build / Upgrade: 3
-[350] Technology Required to Build Unit (95):
-  [350] Anti-Tank Weaponry (95)
+  [50] Applied Technology (100)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

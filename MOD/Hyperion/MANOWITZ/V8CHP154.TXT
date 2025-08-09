@@ -1,231 +1,306 @@
-All units of the unit class Apprentice are listed herein (5 in total):
+All units of the unit class Hover Tank are listed herein (7 in total):
 
 --1--
-Name: Apprentice
-Nick Name: Apprentice
+Name: Hover Tank
+Nick Name: Kestral
 Scores & Strengths:
-  Tech Score: 1183
-  Unit Score: 1184
-  Average Score: 1183
-  Stat Strength: 773
-  Total Strength: 1184
-  Planet Strength: 1184
+  Tech Score: 988
+  Unit Score: 986
+  Average Score: 987
+  Stat Strength: 640
+  Total Strength: 986
+  Planet Strength: 986
   Space Strength: 0
-  Garrison Strength: 374
+  Garrison Strength: 254
 Statistics:
-  Movement Type: foot
-  Move Points: 10
+  Movement Type: hover
+  Move Points: 15
   Spot: 6
-  Camouflage: 6
-  Agility: 23
-  Armor: 6
-  Psy Defense: 6
-  Rank: 757
+  Camouflage: 4
+  Agility: 11
+  Armor: 11
+  Psy Defense: 11
+  Rank: 59
 Attacks:
-  Air: 10/9
-  Indirect: 11/11
-  Direct: 10/10
-  Close: 10/10
+  Indirect: 9/12
+  Direct: 16/8
+  Close: 11/10
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Inquisitor
-Upkeep / Maintenance: 14
-Build Cost: 141
+Upkeep / Maintenance: 69
+Build Cost: 687
 Build Resource Requirements:
-  Food: 12
-  Energy: 37
-  Metal: 5
-  Trace: 17
-  Exotica: 12
-  Chemicals: 50
-  Electronics: 30
-  Ceramsteel: 6
-Build Apprentice in Church
-Time to Build / Upgrade: 3
-[6450] Technologies Required to Build Unit (87):
-  [4855] Myoelectric Prosthetics (71)
-  [145] Composite Armor (97)
-  [1340] Nanotechnology (79)
-  [110] Meditation (99)
+  Food: 7
+  Energy: 13
+  Metal: 4
+  Trace: 36
+  Exotica: 7
+  Chemicals: 23
+  Electronics: 39
+  Ceramsteel: 7
+  Monopols: 34
+Build Hover Tank in Factory
+Time to Build / Upgrade: 4
+[3905] Technology Required to Build Unit (61):
+  [3905] Hovertech (61)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Oblate
-Nick Name: Oblate
+Name: Hover Tank II
+Nick Name: Kestral II
 Scores & Strengths:
-  Tech Score: 1309
-  Unit Score: 1310
-  Average Score: 1310
-  Stat Strength: 893
-  Total Strength: 1310
-  Planet Strength: 1310
+  Tech Score: 1600
+  Unit Score: 1518
+  Average Score: 1559
+  Stat Strength: 971
+  Total Strength: 1518
+  Planet Strength: 1518
   Space Strength: 0
-  Garrison Strength: 394
+  Garrison Strength: 348
 Statistics:
-  Movement Type: foot
-  Move Points: 11
+  Movement Type: hover
+  Move Points: 19
   Spot: 7
-  Camouflage: 7
-  Agility: 24
-  Armor: 7
-  Psy Defense: 7
-  Rank: 758
+  Camouflage: 5
+  Agility: 12
+  Armor: 14
+  Psy Defense: 14
+  Rank: 71
 Attacks:
-  Air: 10/9
-  Indirect: 11/12
-  Direct: 8/12
-  Close: 9/11
+  Indirect: 11/15
+  Direct: 20/10
+  Close: 14/13
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Inquisitor
-Upkeep / Maintenance: 11
+Upkeep / Maintenance: 61
+Build Cost: 613
 Build Resource Requirements:
-Upgrade Apprentice to Oblate at Church
-Time to Build / Upgrade: 1
-[8715] Technologies Required to Build Unit (80):
-  [5425] Cybernetics (63)
-  [1690] Ceramsteel (84)
-  [1475] Monofilament (77)
-  [125] Parapsychology (94)
+  Food: 4
+  Energy: 12
+  Metal: 5
+  Trace: 22
+  Exotica: 4
+  Chemicals: 22
+  Electronics: 35
+  Ceramsteel: 7
+  Monopols: 28
+Build Hover Tank II in Factory
+Time to Build / Upgrade: 3
+[7425] Technology Required to Build Unit (68):
+  [7425] Hovertanks (68)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Acolyte
-Nick Name: Acolyte
+Name: Power Hover Tank
+Nick Name: Power Kestral
 Scores & Strengths:
-  Tech Score: 2187
-  Unit Score: 2186
-  Average Score: 2186
-  Stat Strength: 1322
-  Total Strength: 2186
-  Planet Strength: 2186
+  Tech Score: 2707
+  Unit Score: 2526
+  Average Score: 2617
+  Stat Strength: 1582
+  Total Strength: 2526
+  Planet Strength: 2526
   Space Strength: 0
-  Garrison Strength: 564
+  Garrison Strength: 505
 Statistics:
-  Movement Type: foot
-  Move Points: 15
+  Movement Type: hover
+  Move Points: 25
   Spot: 8
-  Camouflage: 8
-  Agility: 29
-  Armor: 8
-  Psy Defense: 8
-  Rank: 776
+  Camouflage: 7
+  Agility: 14
+  Armor: 18
+  Psy Defense: 18
+  Rank: 90
 Attacks:
-  Air: 12/16
-  Indirect: 14/18
-  Direct: 12/17
-  Close: 18/12
+  Indirect: 15/20
+  Direct: 26/13
+  Close: 18/17
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Inquisitor
-Upkeep / Maintenance: 99
-Build Cost: 989
+Upkeep / Maintenance: 83
+Build Cost: 143
 Build Resource Requirements:
-  Trace: 2
-  Electronics: 2
-  Monopols: 34
-Upgrade Oblate to Acolyte at Church
-Time to Build / Upgrade: 2
-[16140] Technologies Required to Build Unit (77):
-  [5425] Cybernetics (63)
-  [8935] Powered Ceramsteel Armor (75)
-  [1615] Wireblades (76)
-  [165] Theurgy (93)
+Upgrade Hover Tank to Power Hover Tank at Factory
+Time to Build / Upgrade: 1
+[14975] Technology Required to Build Unit (70):
+  [14975] Power Hovertanks (70)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Brother Battle Mech
-Nick Name: BB Mech
+Name: Psy Hover Tank
+Nick Name: Holy Kestral
 Scores & Strengths:
-  Tech Score: 3160
-  Unit Score: 3160
-  Average Score: 3160
-  Stat Strength: 1497
-  Total Strength: 3160
-  Planet Strength: 3160
-  Space Strength: 0
-  Garrison Strength: 724
+  Tech Score: 2735
+  Unit Score: 2734
+  Average Score: 2735
+  Stat Strength: 1891
+  Total Strength: 2734
+  Planet Strength: 2734
+  Space Strength: 2060
+  Garrison Strength: 596
 Statistics:
-  Movement Type: mech
-  Move Points: 19
-  Spot: 15
-  Camouflage: 9
+  Movement Type: hover
+  Move Points: 21
+  Spot: 8
+  Camouflage: 6
   Agility: 15
-  Armor: 11
-  Psy Defense: 22
-  Rank: 123
+  Armor: 15
+  Psy Defense: 30
+  Rank: 85
 Attacks:
-  Air: 20/18
-  Indirect: 19/26
-  Direct: 19/22
-  Close: 23/17
+  Psychic: 13/13
+  Indirect: 13/16
+  Direct: 22/11
+  Close: 16/14
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 187
-Build Cost: 1872
+Upkeep / Maintenance: 134
+Build Cost: 1336
 Build Resource Requirements:
-  Food: 3
-  Energy: 18
-  Metal: 5
-  Trace: 17
+  Food: 4
+  Energy: 9
+  Metal: 7
+  Trace: 11
   Exotica: 4
-  Chemicals: 30
-  Biochems: 21
-  Electronics: 30
-  Ceramsteel: 6
-  Monopols: 35
-Build Brother Battle Mech in Starport
+  Chemicals: 19
+  Electronics: 25
+  Ceramsteel: 12
+  Monopols: 31
+  Gems: 35
+Build Psy Hover Tank in Factory
 Time to Build / Upgrade: 4
-[21450] Technologies Required to Build Unit (60):
-  [8600] Cybernetically-Enhanced Soldiers (48)
-  [12850] Mechanized Warriors (71)
+[15305] Technologies Required to Build Unit (76):
+  [330] Holy Warriors (82)
+  [14975] Power Hovertanks (70)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Master
-Nick Name: Master
+Name: 3rd-Republic Hover Tank
+Nick Name: Ravager
 Scores & Strengths:
-  Tech Score: 4541
-  Unit Score: 4540
-  Average Score: 4540
-  Stat Strength: 2492
-  Total Strength: 4540
-  Planet Strength: 4540
+  Tech Score: 2921
+  Unit Score: 2737
+  Average Score: 2829
+  Stat Strength: 1707
+  Total Strength: 2737
+  Planet Strength: 2737
   Space Strength: 0
-  Garrison Strength: 967
+  Garrison Strength: 536
 Statistics:
-  Movement Type: foot
-  Move Points: 22
-  Spot: 16
-  Camouflage: 16
-  Agility: 36
-  Armor: 10
-  Psy Defense: 10
-  Rank: 816
+  Movement Type: hover
+  Move Points: 26
+  Spot: 8
+  Camouflage: 7
+  Agility: 14
+  Armor: 19
+  Psy Defense: 19
+  Rank: 95
 Attacks:
-  Air: 19/24
-  Indirect: 22/26
-  Direct: 20/26
-  Close: 25/20
+  Indirect: 15/21
+  Direct: 28/14
+  Close: 19/17
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Inquisitor
-Upkeep / Maintenance: 211
-Build Cost: 1124
+Upkeep / Maintenance: 55
+Build Cost: 548
 Build Resource Requirements:
-  Biochems: 26
-  Wetware: 15
-  Monopols: 3
-Upgrade Acolyte to Master at Church
-Time to Build / Upgrade: 1
-[39305] Technologies Required to Build Unit (62):
-  [7825] Advanced Cybernetics (44)
-  [1615] Wireblades (76)
-  [220] Somatology (85)
-  [29645] Eschatology (42)
+  Food: 2
+  Energy: 8
+  Metal: 3
+  Trace: 9
+  Exotica: 2
+  Chemicals: 15
+  Electronics: 19
+  Ceramsteel: 5
+  Monopols: 22
+Build 3rd-Republic Hover Tank in Factory
+Time to Build / Upgrade: 3
+[30105] Technologies Required to Build Unit (69):
+  [15130] Fusion Battle Tanks (68)
+  [14975] Power Hovertanks (70)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Morph Hover Tank
+Nick Name: Raptor
+Scores & Strengths:
+  Tech Score: 5182
+  Unit Score: 5176
+  Average Score: 5179
+  Stat Strength: 3512
+  Total Strength: 5176
+  Planet Strength: 5176
+  Space Strength: 0
+  Garrison Strength: 1035
+Statistics:
+  Movement Type: hover
+  Move Points: 25
+  Spot: 12
+  Camouflage: 10
+  Agility: 31
+  Armor: 29
+  Psy Defense: 29
+  Rank: 124
+Attacks:
+  Indirect: 20/25
+  Direct: 23/24
+  Close: 34/18
+Load aboard transport: YES
+Upkeep / Maintenance: 140
+Build Cost: 1260
+Build Resource Requirements:
+  Metal: 1
+  Biochems: 30
+  Ceramsteel: 1
+  Wetware: 13
+Upgrade Power Hover Tank to Morph Hover Tank at Factory
+Time to Build / Upgrade: 1
+[35535] Technology Required to Build Unit (36):
+  [35535] Polymorphonic Land Vehicles (36)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Stealth Hover Tank
+Nick Name: Kestral's Eye
+Scores & Strengths:
+  Tech Score: 5364
+  Unit Score: 5358
+  Average Score: 5361
+  Stat Strength: 4194
+  Total Strength: 5358
+  Planet Strength: 5358
+  Space Strength: 0
+  Garrison Strength: 1117
+Statistics:
+  Movement Type: hover
+  Move Points: 23
+  Spot: 14
+  Camouflage: 26
+  Agility: 35
+  Armor: 28
+  Psy Defense: 28
+  Rank: 123
+Attacks:
+  Indirect: 17/22
+  Direct: 28/16
+  Close: 19/18
+Load aboard transport: YES
+Upkeep / Maintenance: 124
+Build Cost: 1098
+Build Resource Requirements:
+  Biochems: 24
+  Wetware: 11
+Upgrade Power Hover Tank to Stealth Hover Tank at Factory
+Time to Build / Upgrade: 1
+[37210] Technology Required to Build Unit (34):
+  [37210] Neumonic Land Vehicles (34)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

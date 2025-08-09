@@ -1,806 +1,1574 @@
-All units of the unit class Saboteur (Psy2) are listed herein (19 in total):
+All units of the unit class Heavy Space Fighter are listed herein (33 in total):
 
 --1--
-Name: Saboteur (Psy2)
-Nick Name: Sab (Psy2)
+Name: Heavy Space Fighter
+Nick Name: SS-HF
 Scores & Strengths:
-  Tech Score: 250
-  Unit Score: 323
-  Average Score: 287
-  Stat Strength: 203
-  Total Strength: 323
-  Planet Strength: 323
-  Space Strength: 269
-  Garrison Strength: 161
+  Tech Score: 309
+  Unit Score: 308
+  Average Score: 309
+  Stat Strength: 274
+  Total Strength: 308
+  Planet Strength: 0
+  Space Strength: 308
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 4
-  Spot: 7
-  Camouflage: 6
-  Agility: 10
-  Armor: 1
-  Psy Defense: 1
-  Rank: 734
+  Movement Type: space
+  Move Points: 1
+  Spot: 8
+  Camouflage: 4
+  Agility: 11
+  Armor: 6
+  Psy Defense: 6
+  Rank: 114
 Attacks:
-  Psychic: 6/11
-  Indirect: 6/9
+  Direct Space: 2/9
+  Closed Space: 4/4
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 91
-Build Cost: 340
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 182
 Build Resource Requirements:
-  Food: 16
-  Energy: 36
-  Trace: 15
-  Exotica: 16
-  Chemicals: 37
-  Electronics: 24
-  Gems: 5
-Upgrade Saboteur (Psy) to Saboteur (Psy2) at Church
+  Food: 12
+  Energy: 17
+  Metal: 24
+  Trace: 23
+  Exotica: 12
+  Chemicals: 30
+  Electronics: 15
+Build Heavy Space Fighter in Starport
 Time to Build / Upgrade: 2
-[625] Technology Required to Build Unit (60):
-  [625] Psychokinetically-Enhanced Soldiers (60)
+[940] Technologies Required to Build Unit (94):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Saboteur
-Nick Name: Saboteur
+Name: Light Space Fighter
+Nick Name: SS-LF
 Scores & Strengths:
-  Tech Score: 406
-  Unit Score: 406
-  Average Score: 406
-  Stat Strength: 316
-  Total Strength: 406
-  Planet Strength: 406
-  Space Strength: 0
-  Garrison Strength: 165
+  Tech Score: 309
+  Unit Score: 308
+  Average Score: 309
+  Stat Strength: 268
+  Total Strength: 308
+  Planet Strength: 0
+  Space Strength: 308
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 6
+  Movement Type: space
+  Move Points: 1
   Spot: 8
-  Camouflage: 8
-  Agility: 12
-  Armor: 2
-  Psy Defense: 2
-  Rank: 739
+  Camouflage: 4
+  Agility: 13
+  Armor: 3
+  Psy Defense: 3
+  Rank: 113
 Attacks:
-  Indirect: 9/10
+  Direct Space: 6/4
+  Closed Space: 8/2
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 10
-Build Cost: 81
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 182
 Build Resource Requirements:
-  Trace: 25
-  Exotica: 7
-  Chemicals: 16
-  Electronics: 16
-Upgrade Peasant to Saboteur at Fort
-Time to Build / Upgrade: 1
-[1195] Technology Required to Build Unit (90):
-  [1195] Naval Warfare (90)
+  Food: 14
+  Energy: 11
+  Metal: 6
+  Trace: 38
+  Exotica: 14
+  Chemicals: 17
+  Electronics: 25
+Build Light Space Fighter in Starport
+Time to Build / Upgrade: 2
+[940] Technologies Required to Build Unit (94):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Saboteur (PE)
-Nick Name: Sab (PE)
+Name: Space Attack Fighter
+Nick Name: SS-AF
 Scores & Strengths:
-  Tech Score: 414
-  Unit Score: 416
-  Average Score: 415
-  Stat Strength: 316
-  Total Strength: 416
-  Planet Strength: 416
-  Space Strength: 0
-  Garrison Strength: 169
+  Tech Score: 309
+  Unit Score: 308
+  Average Score: 309
+  Stat Strength: 257
+  Total Strength: 308
+  Planet Strength: 0
+  Space Strength: 308
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 6
+  Movement Type: space
+  Move Points: 1
   Spot: 8
-  Camouflage: 8
+  Camouflage: 4
   Agility: 12
-  Armor: 2
-  Psy Defense: 2
-  Rank: 740
+  Armor: 4
+  Psy Defense: 4
+  Rank: 114
 Attacks:
-  Indirect: 10/10
+  Direct Space: 5/6
+  Closed Space: 7/3
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 9
-Build Cost: 68
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 176
 Build Resource Requirements:
-  Trace: 24
-  Exotica: 8
-  Chemicals: 15
-  Electronics: 14
-Upgrade Peasant to Saboteur (PE) at Fort
-Time to Build / Upgrade: 1
-[1375] Technologies Required to Build Unit (90):
-  [180] Performance-Enhanced Soldiers (90)
-  [1195] Naval Warfare (90)
+  Food: 13
+  Energy: 13
+  Metal: 11
+  Trace: 32
+  Exotica: 13
+  Chemicals: 20
+  Electronics: 22
+Build Space Attack Fighter in Starport
+Time to Build / Upgrade: 2
+[940] Technologies Required to Build Unit (94):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Saboteur (Psy)
-Nick Name: Sab (Psy)
+Name: Space Attack Fighter II
+Nick Name: SS-AF II
 Scores & Strengths:
-  Tech Score: 457
-  Unit Score: 457
-  Average Score: 457
-  Stat Strength: 316
-  Total Strength: 457
-  Planet Strength: 457
-  Space Strength: 361
-  Garrison Strength: 186
+  Tech Score: 626
+  Unit Score: 508
+  Average Score: 567
+  Stat Strength: 405
+  Total Strength: 508
+  Planet Strength: 0
+  Space Strength: 508
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 6
-  Spot: 8
-  Camouflage: 8
-  Agility: 12
-  Armor: 2
-  Psy Defense: 2
-  Rank: 741
+  Movement Type: space
+  Move Points: 1
+  Spot: 10
+  Camouflage: 6
+  Agility: 14
+  Armor: 6
+  Psy Defense: 6
+  Rank: 122
 Attacks:
-  Psychic: 5/9
-  Indirect: 8/12
+  Direct Space: 7/9
+  Closed Space: 10/4
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 65
-Build Cost: 569
+Immune to Plague
+Upkeep / Maintenance: 16
+Build Cost: 161
 Build Resource Requirements:
-  Food: 1
-  Energy: 3
-  Exotica: 1
-  Chemicals: 3
-  Gems: 26
-Upgrade Saboteur to Saboteur (Psy) at Church
-Time to Build / Upgrade: 1
-[1445] Technologies Required to Build Unit (88):
-  [250] Psychically-Enhanced Soldiers (86)
-  [1195] Naval Warfare (90)
+  Food: 6
+  Energy: 10
+  Metal: 8
+  Trace: 21
+  Exotica: 6
+  Chemicals: 12
+  Biochems: 11
+  Electronics: 17
+Build Space Attack Fighter II in Starport
+Time to Build / Upgrade: 2
+[2500] Technologies Required to Build Unit (91):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [1560] Naval Patrol Ships (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Saboteur (BE)
-Nick Name: Sab (BE)
+Name: Light Space Fighter II
+Nick Name: SS-LF II
 Scores & Strengths:
-  Tech Score: 447
-  Unit Score: 509
-  Average Score: 478
-  Stat Strength: 388
-  Total Strength: 509
-  Planet Strength: 509
-  Space Strength: 0
-  Garrison Strength: 192
+  Tech Score: 626
+  Unit Score: 512
+  Average Score: 569
+  Stat Strength: 425
+  Total Strength: 512
+  Planet Strength: 0
+  Space Strength: 512
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 7
-  Spot: 9
-  Camouflage: 9
-  Agility: 13
-  Armor: 2
-  Psy Defense: 2
-  Rank: 743
+  Movement Type: space
+  Move Points: 1
+  Spot: 10
+  Camouflage: 6
+  Agility: 16
+  Armor: 4
+  Psy Defense: 4
+  Rank: 121
 Attacks:
-  Indirect: 11/11
+  Direct Space: 9/6
+  Closed Space: 11/3
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 14
-Build Cost: 57
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 179
 Build Resource Requirements:
-  Food: 1
-  Trace: 1
-  Exotica: 2
-  Biochems: 16
-Upgrade Saboteur to Saboteur (BE) at Biochem Plant
-Time to Build / Upgrade: 1
-[1615] Technologies Required to Build Unit (84):
-  [420] Biochem-Enhanced Soldiers (77)
-  [1195] Naval Warfare (90)
+  Food: 7
+  Energy: 8
+  Metal: 3
+  Trace: 26
+  Exotica: 7
+  Chemicals: 10
+  Biochems: 14
+  Electronics: 21
+Build Light Space Fighter II in Starport
+Time to Build / Upgrade: 2
+[2500] Technologies Required to Build Unit (91):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [1560] Naval Patrol Ships (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Saboteur (SE)
-Nick Name: Sab (SE)
+Name: Space Fighter
+Nick Name: Seraphim
 Scores & Strengths:
-  Tech Score: 504
-  Unit Score: 575
-  Average Score: 539
-  Stat Strength: 432
-  Total Strength: 575
-  Planet Strength: 575
-  Space Strength: 0
-  Garrison Strength: 203
+  Tech Score: 543
+  Unit Score: 542
+  Average Score: 543
+  Stat Strength: 445
+  Total Strength: 542
+  Planet Strength: 0
+  Space Strength: 542
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 8
-  Spot: 9
-  Camouflage: 10
-  Agility: 13
-  Armor: 3
-  Psy Defense: 3
-  Rank: 745
+  Movement Type: space
+  Move Points: 2
+  Spot: 8
+  Camouflage: 4
+  Agility: 17
+  Armor: 6
+  Psy Defense: 6
+  Rank: 122
 Attacks:
-  Indirect: 11/13
+  Direct Space: 7/10
+  Closed Space: 9/3
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 17
-Build Cost: 92
+Immune to Plague
+Upkeep / Maintenance: 14
+Build Cost: 144
 Build Resource Requirements:
-  Food: 2
-  Energy: 3
-  Metal: 1
-  Trace: 3
-  Exotica: 2
-  Chemicals: 4
-  Biochems: 18
-  Electronics: 1
-Upgrade Saboteur to Saboteur (SE) at Hospital
-Time to Build / Upgrade: 1
-[1870] Technologies Required to Build Unit (83):
+  Food: 8
+  Energy: 14
+  Metal: 9
+  Trace: 22
+  Exotica: 8
+  Chemicals: 18
+  Electronics: 19
+Build Space Fighter in Starport
+Time to Build / Upgrade: 2
+[2135] Technologies Required to Build Unit (92):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
   [1195] Naval Warfare (90)
-  [675] Surgically-Enhanced Soldiers (75)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Saboteur (Psy3)
-Nick Name: Sab (Psy3)
+Name: Heavy Space Fighter II
+Nick Name: SS-HF II
 Scores & Strengths:
-  Tech Score: 593
-  Unit Score: 666
-  Average Score: 629
-  Stat Strength: 388
-  Total Strength: 666
-  Planet Strength: 666
-  Space Strength: 540
-  Garrison Strength: 251
+  Tech Score: 626
+  Unit Score: 543
+  Average Score: 584
+  Stat Strength: 468
+  Total Strength: 543
+  Planet Strength: 0
+  Space Strength: 543
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 7
-  Spot: 9
-  Camouflage: 9
+  Movement Type: space
+  Move Points: 1
+  Spot: 10
+  Camouflage: 6
   Agility: 13
-  Armor: 2
-  Psy Defense: 2
-  Rank: 745
+  Armor: 9
+  Psy Defense: 9
+  Rank: 122
 Attacks:
-  Psychic: 8/19
-  Indirect: 9/14
+  Direct Space: 3/13
+  Closed Space: 6/6
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 125
-Build Cost: 909
+Immune to Plague
+Upkeep / Maintenance: 15
+Build Cost: 152
 Build Resource Requirements:
-  Food: 5
-  Energy: 23
-  Metal: 1
-  Trace: 16
-  Exotica: 16
-  Chemicals: 41
-  Electronics: 18
-  Gems: 7
-Upgrade Saboteur (Psy2) to Saboteur (Psy3) at Church
-Time to Build / Upgrade: 1
-[1975] Technology Required to Build Unit (39):
-  [1975] Telepathic Soldiers (39)
+  Food: 6
+  Energy: 14
+  Metal: 17
+  Trace: 15
+  Exotica: 6
+  Chemicals: 19
+  Biochems: 7
+  Electronics: 12
+Build Heavy Space Fighter II in Starport
+Time to Build / Upgrade: 2
+[2500] Technologies Required to Build Unit (91):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [1560] Naval Patrol Ships (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Saboteur (DE)
-Nick Name: Sab (DE)
+Name: Light Space Fighter III
+Nick Name: SS-LF III
 Scores & Strengths:
-  Tech Score: 977
-  Unit Score: 926
-  Average Score: 951
-  Stat Strength: 670
-  Total Strength: 926
-  Planet Strength: 926
-  Space Strength: 0
-  Garrison Strength: 292
+  Tech Score: 1128
+  Unit Score: 733
+  Average Score: 931
+  Stat Strength: 585
+  Total Strength: 733
+  Planet Strength: 0
+  Space Strength: 733
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 10
-  Camouflage: 14
-  Agility: 16
-  Armor: 3
-  Psy Defense: 3
-  Rank: 758
+  Movement Type: space
+  Move Points: 2
+  Spot: 11
+  Camouflage: 8
+  Agility: 18
+  Armor: 6
+  Psy Defense: 6
+  Rank: 128
 Attacks:
-  Indirect: 16/16
+  Direct Space: 11/8
+  Closed Space: 15/4
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 15
-Build Cost: 69
+Immune to Plague
+Upkeep / Maintenance: 13
+Build Cost: 127
 Build Resource Requirements:
-  Metal: 1
-  Biochems: 18
-  Electronics: 2
-Upgrade Saboteur to Saboteur (DE) at Biochem Plant
+  Food: 4
+  Energy: 6
+  Metal: 5
+  Trace: 19
+  Exotica: 4
+  Chemicals: 7
+  Biochems: 8
+  Electronics: 16
+Build Light Space Fighter III in Starport
 Time to Build / Upgrade: 1
-[4635] Technologies Required to Build Unit (78):
-  [1195] Naval Warfare (90)
-  [3440] Drug-Enhanced Soldiers (65)
+[7130] Technologies Required to Build Unit (90):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [2270] Naval Escort Ships (86)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [1670] Guided Missiles (83)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Saboteur (Psy4)
-Nick Name: Sab (Psy4)
+Name: Heavy Space Fighter III
+Nick Name: SS-HF III
 Scores & Strengths:
-  Tech Score: 839
-  Unit Score: 927
-  Average Score: 883
-  Stat Strength: 499
-  Total Strength: 927
-  Planet Strength: 927
-  Space Strength: 751
-  Garrison Strength: 327
+  Tech Score: 1128
+  Unit Score: 788
+  Average Score: 958
+  Stat Strength: 656
+  Total Strength: 788
+  Planet Strength: 0
+  Space Strength: 788
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 8
-  Spot: 10
-  Camouflage: 11
-  Agility: 14
-  Armor: 3
-  Psy Defense: 3
-  Rank: 752
+  Movement Type: space
+  Move Points: 2
+  Spot: 11
+  Camouflage: 8
+  Agility: 15
+  Armor: 11
+  Psy Defense: 11
+  Rank: 131
 Attacks:
-  Psychic: 12/21
-  Indirect: 11/16
+  Direct Space: 4/17
+  Closed Space: 8/8
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 130
-Build Cost: 387
+Immune to Plague
+Upkeep / Maintenance: 11
+Build Cost: 114
 Build Resource Requirements:
-  Food: 3
-  Energy: 21
-  Metal: 3
-  Trace: 8
-  Exotica: 5
-  Chemicals: 25
-  Electronics: 11
-Upgrade Saboteur (Psy3) to Saboteur (Psy4) at Church
-Time to Build / Upgrade: 1
-[3140] Technology Required to Build Unit (38):
-  [3140] Sympathic Soldiers (38)
+  Food: 4
+  Energy: 11
+  Metal: 17
+  Trace: 11
+  Exotica: 4
+  Chemicals: 16
+  Biochems: 4
+  Electronics: 9
+Build Heavy Space Fighter III in Starport
+Time to Build / Upgrade: 2
+[7130] Technologies Required to Build Unit (90):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [2270] Naval Escort Ships (86)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [1670] Guided Missiles (83)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Saboteur (Psy5)
-Nick Name: Sab (Psy5)
+Name: Space Attack Fighter III
+Nick Name: SS-AF III
 Scores & Strengths:
-  Tech Score: 936
-  Unit Score: 1036
-  Average Score: 986
-  Stat Strength: 537
-  Total Strength: 1036
-  Planet Strength: 1036
-  Space Strength: 849
-  Garrison Strength: 345
+  Tech Score: 1128
+  Unit Score: 794
+  Average Score: 961
+  Stat Strength: 606
+  Total Strength: 794
+  Planet Strength: 0
+  Space Strength: 794
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 9
+  Movement Type: space
+  Move Points: 2
   Spot: 11
-  Camouflage: 11
-  Agility: 14
-  Armor: 3
-  Psy Defense: 3
-  Rank: 754
+  Camouflage: 8
+  Agility: 17
+  Armor: 8
+  Psy Defense: 8
+  Rank: 131
 Attacks:
-  Psychic: 12/26
-  Indirect: 11/17
+  Direct Space: 10/11
+  Closed Space: 13/6
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 165
-Build Cost: 1267
+Immune to Plague
+Upkeep / Maintenance: 12
+Build Cost: 124
 Build Resource Requirements:
   Food: 4
-  Energy: 12
-  Trace: 2
-  Exotica: 6
-  Chemicals: 15
-  Electronics: 3
-  Gems: 12
-Upgrade Saboteur (Psy4) to Saboteur (Psy5) at Church
-Time to Build / Upgrade: 1
-[3635] Technology Required to Build Unit (48):
-  [3635] Dervishes (48)
+  Energy: 7
+  Metal: 9
+  Trace: 17
+  Exotica: 4
+  Chemicals: 10
+  Biochems: 7
+  Electronics: 14
+Build Space Attack Fighter III in Starport
+Time to Build / Upgrade: 2
+[7130] Technologies Required to Build Unit (90):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [2270] Naval Escort Ships (86)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [1670] Guided Missiles (83)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --11--
-Name: Saboteur (GE)
-Nick Name: Sab (GE)
+Name: Space Fighter II
+Nick Name: Seraphim II
 Scores & Strengths:
-  Tech Score: 1435
-  Unit Score: 1278
-  Average Score: 1357
-  Stat Strength: 898
-  Total Strength: 1278
-  Planet Strength: 1278
-  Space Strength: 0
-  Garrison Strength: 368
+  Tech Score: 1128
+  Unit Score: 899
+  Average Score: 1014
+  Stat Strength: 707
+  Total Strength: 899
+  Planet Strength: 0
+  Space Strength: 899
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 12
-  Spot: 12
-  Camouflage: 17
-  Agility: 17
-  Armor: 4
-  Psy Defense: 4
-  Rank: 769
+  Movement Type: space
+  Move Points: 3
+  Spot: 10
+  Camouflage: 6
+  Agility: 20
+  Armor: 9
+  Psy Defense: 9
+  Rank: 134
 Attacks:
-  Indirect: 19/20
+  Direct Space: 10/14
+  Closed Space: 13/4
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 20
-Build Cost: 129
+Immune to Plague
+Upkeep / Maintenance: 14
+Build Cost: 141
 Build Resource Requirements:
-  Energy: 3
-  Trace: 2
-  Chemicals: 5
-  Biochems: 6
-  Electronics: 3
-  Ceramsteel: 1
-Upgrade Saboteur (DE) to Saboteur (GE) at Lab
-Time to Build / Upgrade: 1
-[7215] Technologies Required to Build Unit (70):
-  [1195] Naval Warfare (90)
-  [6020] Chemical Shock Legion (49)
+  Food: 4
+  Energy: 10
+  Metal: 11
+  Trace: 17
+  Exotica: 5
+  Chemicals: 13
+  Biochems: 7
+  Electronics: 14
+Build Space Fighter II in Starport
+Time to Build / Upgrade: 2
+[7130] Technologies Required to Build Unit (90):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [2270] Naval Escort Ships (86)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [1670] Guided Missiles (83)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --12--
-Name: Saboteur (PA)
-Nick Name: Sab (PA)
+Name: Light Space Fighter IV
+Nick Name: SS-LF IV
 Scores & Strengths:
-  Tech Score: 1453
-  Unit Score: 1289
-  Average Score: 1371
-  Stat Strength: 890
-  Total Strength: 1289
-  Planet Strength: 1289
-  Space Strength: 0
-  Garrison Strength: 357
+  Tech Score: 1660
+  Unit Score: 948
+  Average Score: 1304
+  Stat Strength: 727
+  Total Strength: 948
+  Planet Strength: 0
+  Space Strength: 948
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 13
+  Movement Type: space
+  Move Points: 2
   Spot: 12
-  Camouflage: 16
-  Agility: 17
-  Armor: 4
-  Psy Defense: 4
-  Rank: 770
+  Camouflage: 9
+  Agility: 20
+  Armor: 7
+  Psy Defense: 7
+  Rank: 136
 Attacks:
-  Indirect: 19/21
+  Direct Space: 14/9
+  Closed Space: 19/5
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 23
-Build Cost: 135
+Immune to Plague
+Upkeep / Maintenance: 12
+Build Cost: 116
 Build Resource Requirements:
-  Energy: 7
-  Chemicals: 12
-  Biochems: 2
-  Electronics: 4
+  Food: 3
+  Energy: 5
+  Metal: 3
+  Trace: 16
+  Exotica: 3
+  Chemicals: 6
+  Biochems: 6
+  Electronics: 17
   Ceramsteel: 2
-Upgrade Saboteur (SE) to Saboteur (PA) at Hospital
+Build Light Space Fighter IV in Starport
 Time to Build / Upgrade: 1
-[7370] Technologies Required to Build Unit (74):
-  [1195] Naval Warfare (90)
-  [6175] Prosthetically-Augmented Soldiers (57)
+[12535] Technologies Required to Build Unit (86):
+  [1220] Finite Element Methods (77)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [2420] Rocket-Propelled Aircraft (87)
+  [4695] Advanced Minor Watercraft (83)
+  [1950] PTS Missile Launcher (88)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --13--
-Name: Saboteur (Psy6)
-Nick Name: Sab (Psy6)
+Name: Space Attack Fighter IV
+Nick Name: SS-AF IV
 Scores & Strengths:
-  Tech Score: 1142
-  Unit Score: 1401
-  Average Score: 1271
-  Stat Strength: 790
-  Total Strength: 1401
-  Planet Strength: 1401
-  Space Strength: 1154
-  Garrison Strength: 443
+  Tech Score: 1660
+  Unit Score: 995
+  Average Score: 1327
+  Stat Strength: 715
+  Total Strength: 995
+  Planet Strength: 0
+  Space Strength: 995
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 10
+  Movement Type: space
+  Move Points: 2
   Spot: 12
-  Camouflage: 17
-  Agility: 15
-  Armor: 4
-  Psy Defense: 4
-  Rank: 761
+  Camouflage: 9
+  Agility: 18
+  Armor: 9
+  Psy Defense: 9
+  Rank: 139
 Attacks:
-  Psychic: 13/28
-  Indirect: 13/19
+  Direct Space: 12/14
+  Closed Space: 16/7
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 95
+Immune to Plague
+Upkeep / Maintenance: 11
+Build Cost: 111
 Build Resource Requirements:
-Upgrade Saboteur (Psy5) to Saboteur (Psy6) at Church
+  Food: 3
+  Energy: 6
+  Metal: 4
+  Trace: 13
+  Exotica: 3
+  Chemicals: 8
+  Biochems: 5
+  Electronics: 14
+  Ceramsteel: 4
+Build Space Attack Fighter IV in Starport
 Time to Build / Upgrade: 1
-[11015] Technologies Required to Build Unit (35):
-  [3790] Vislocks (32)
-  [3635] Dervishes (48)
-  [3590] Sathraists (26)
+[12535] Technologies Required to Build Unit (86):
+  [1220] Finite Element Methods (77)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [2420] Rocket-Propelled Aircraft (87)
+  [4695] Advanced Minor Watercraft (83)
+  [1950] PTS Missile Launcher (88)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --14--
-Name: Saboteur (Psy7)
-Nick Name: Sab (Psy7)
+Name: Heavy Space Fighter IV
+Nick Name: SS-HF IV
 Scores & Strengths:
-  Tech Score: 1357
-  Unit Score: 1602
-  Average Score: 1480
-  Stat Strength: 902
-  Total Strength: 1602
-  Planet Strength: 1602
-  Space Strength: 1308
-  Garrison Strength: 483
+  Tech Score: 1660
+  Unit Score: 1096
+  Average Score: 1378
+  Stat Strength: 910
+  Total Strength: 1096
+  Planet Strength: 0
+  Space Strength: 1096
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 11
-  Spot: 13
-  Camouflage: 18
-  Agility: 16
-  Armor: 4
-  Psy Defense: 4
-  Rank: 766
+  Movement Type: space
+  Move Points: 2
+  Spot: 12
+  Camouflage: 9
+  Agility: 17
+  Armor: 14
+  Psy Defense: 14
+  Rank: 140
 Attacks:
-  Psychic: 14/29
-  Indirect: 14/21
+  Direct Space: 5/21
+  Closed Space: 9/9
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 104
-Build Cost: 1042
+Immune to Plague
+Upkeep / Maintenance: 12
+Build Cost: 122
 Build Resource Requirements:
-  Food: 3
-  Energy: 12
-  Trace: 6
-  Exotica: 5
-  Chemicals: 16
-  Electronics: 7
-Upgrade Saboteur (Psy6) to Saboteur (Psy7) at Church
-Time to Build / Upgrade: 1
-[12245] Technologies Required to Build Unit (35):
-  [4050] Occultists (48)
-  [4110] Visioneers (46)
-  [4085] Sathra Patrol Ships (12)
+  Food: 2
+  Energy: 11
+  Metal: 10
+  Trace: 8
+  Exotica: 3
+  Chemicals: 14
+  Biochems: 3
+  Electronics: 8
+  Ceramsteel: 10
+Build Heavy Space Fighter IV in Starport
+Time to Build / Upgrade: 2
+[12535] Technologies Required to Build Unit (86):
+  [1220] Finite Element Methods (77)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [2420] Rocket-Propelled Aircraft (87)
+  [4695] Advanced Minor Watercraft (83)
+  [1950] PTS Missile Launcher (88)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --15--
-Name: Saboteur (CE)
-Nick Name: Sab (CE)
+Name: Space Fighter III
+Nick Name: Seraphim III
 Scores & Strengths:
-  Tech Score: 1841
-  Unit Score: 1616
-  Average Score: 1729
-  Stat Strength: 1112
-  Total Strength: 1616
-  Planet Strength: 1616
-  Space Strength: 0
-  Garrison Strength: 431
+  Tech Score: 1660
+  Unit Score: 1147
+  Average Score: 1403
+  Stat Strength: 863
+  Total Strength: 1147
+  Planet Strength: 0
+  Space Strength: 1147
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 14
-  Spot: 12
-  Camouflage: 19
-  Agility: 19
-  Armor: 5
-  Psy Defense: 5
-  Rank: 778
+  Movement Type: space
+  Move Points: 3
+  Spot: 11
+  Camouflage: 7
+  Agility: 22
+  Armor: 10
+  Psy Defense: 10
+  Rank: 143
 Attacks:
-  Indirect: 21/24
+  Direct Space: 12/17
+  Closed Space: 16/5
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 27
-Build Cost: 130
+Immune to Plague
+Upkeep / Maintenance: 13
+Build Cost: 131
 Build Resource Requirements:
-  Energy: 5
-  Metal: 1
-  Chemicals: 7
-  Biochems: 3
-  Ceramsteel: 1
-Upgrade Saboteur (PA) to Saboteur (CE) at Lab
-Time to Build / Upgrade: 1
-[9795] Technologies Required to Build Unit (69):
-  [1195] Naval Warfare (90)
-  [8600] Cybernetically-Enhanced Soldiers (48)
+  Food: 3
+  Energy: 9
+  Metal: 5
+  Trace: 13
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 5
+  Electronics: 14
+  Ceramsteel: 5
+Build Space Fighter III in Starport
+Time to Build / Upgrade: 2
+[12535] Technologies Required to Build Unit (86):
+  [1220] Finite Element Methods (77)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [2420] Rocket-Propelled Aircraft (87)
+  [4695] Advanced Minor Watercraft (83)
+  [1950] PTS Missile Launcher (88)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --16--
-Name: Saboteur (AVE)
-Nick Name: Sab (AVE)
+Name: Light Space Fighter V
+Nick Name: SS-LF V
 Scores & Strengths:
-  Tech Score: 1895
-  Unit Score: 1640
-  Average Score: 1767
-  Stat Strength: 1112
-  Total Strength: 1640
-  Planet Strength: 1640
-  Space Strength: 0
-  Garrison Strength: 438
+  Tech Score: 2150
+  Unit Score: 1149
+  Average Score: 1649
+  Stat Strength: 868
+  Total Strength: 1149
+  Planet Strength: 0
+  Space Strength: 1149
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 14
-  Spot: 12
-  Camouflage: 19
-  Agility: 19
-  Armor: 5
-  Psy Defense: 5
-  Rank: 780
+  Movement Type: space
+  Move Points: 3
+  Spot: 13
+  Camouflage: 11
+  Agility: 21
+  Armor: 8
+  Psy Defense: 8
+  Rank: 143
 Attacks:
-  Indirect: 22/24
+  Direct Space: 16/11
+  Closed Space: 21/5
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
 Immune to Plague
-Upkeep / Maintenance: 31
-Build Cost: 179
+Upkeep / Maintenance: 12
+Build Cost: 118
 Build Resource Requirements:
-  Energy: 4
+  Food: 3
+  Energy: 5
+  Metal: 2
+  Trace: 15
+  Exotica: 3
   Chemicals: 6
-  Biochems: 7
-  Electronics: 2
-Upgrade Saboteur (GE) to Saboteur (AVE) at Lab
+  Biochems: 6
+  Electronics: 18
+  Ceramsteel: 2
+Build Light Space Fighter V in Starport
 Time to Build / Upgrade: 1
-[10095] Technologies Required to Build Unit (58):
-  [1195] Naval Warfare (90)
-  [8900] Genetically-Enhanced Warriors (25)
+[16790] Technologies Required to Build Unit (87):
+  [4695] Advanced Minor Watercraft (83)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [1670] Guided Missiles (83)
+  [8175] Spacecraft (84)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --17--
-Name: Saboteur (MF)
-Nick Name: Sab (MF)
+Name: Space Attack Fighter V
+Nick Name: SS-AF V
 Scores & Strengths:
-  Tech Score: 3228
-  Unit Score: 2563
-  Average Score: 2895
-  Stat Strength: 1695
-  Total Strength: 2563
-  Planet Strength: 2563
-  Space Strength: 0
-  Garrison Strength: 587
+  Tech Score: 2150
+  Unit Score: 1254
+  Average Score: 1702
+  Stat Strength: 902
+  Total Strength: 1254
+  Planet Strength: 0
+  Space Strength: 1254
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 19
-  Spot: 14
-  Camouflage: 25
-  Agility: 21
-  Armor: 6
-  Psy Defense: 6
-  Rank: 804
+  Movement Type: space
+  Move Points: 3
+  Spot: 13
+  Camouflage: 11
+  Agility: 19
+  Armor: 11
+  Psy Defense: 11
+  Rank: 146
 Attacks:
-  Indirect: 28/31
+  Direct Space: 13/16
+  Closed Space: 18/8
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 187
-Build Cost: 1744
+Immune to Plague
+Upkeep / Maintenance: 11
+Build Cost: 113
 Build Resource Requirements:
+  Food: 2
+  Energy: 6
+  Metal: 3
+  Trace: 12
+  Exotica: 2
+  Chemicals: 9
   Biochems: 5
-  Wetware: 4
-  Monopols: 33
-Upgrade Saboteur (CE) to Saboteur (MF) at Wetware
-Time to Build / Upgrade: 2
-[19770] Technologies Required to Build Unit (63):
-  [1195] Naval Warfare (90)
-  [18575] Machine-Fused Soldiers (35)
+  Electronics: 15
+  Ceramsteel: 3
+Build Space Attack Fighter V in Starport
+Time to Build / Upgrade: 1
+[16790] Technologies Required to Build Unit (87):
+  [4695] Advanced Minor Watercraft (83)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [1670] Guided Missiles (83)
+  [8175] Spacecraft (84)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --18--
-Name: Saboteur (Psy8)
-Nick Name: Sab (Psy8)
+Name: Light Space Fighter VI
+Nick Name: SS-LF VI
 Scores & Strengths:
-  Tech Score: 1949
-  Unit Score: 2589
-  Average Score: 2269
-  Stat Strength: 1424
-  Total Strength: 2589
-  Planet Strength: 2589
-  Space Strength: 2164
-  Garrison Strength: 718
+  Tech Score: 2606
+  Unit Score: 1337
+  Average Score: 1971
+  Stat Strength: 995
+  Total Strength: 1337
+  Planet Strength: 0
+  Space Strength: 1337
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 13
-  Spot: 16
-  Camouflage: 25
-  Agility: 18
-  Armor: 5
-  Psy Defense: 5
-  Rank: 781
+  Movement Type: space
+  Move Points: 3
+  Spot: 14
+  Camouflage: 12
+  Agility: 22
+  Armor: 9
+  Psy Defense: 9
+  Rank: 149
 Attacks:
-  Psychic: 20/37
-  Indirect: 17/25
+  Direct Space: 17/12
+  Closed Space: 23/6
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 119
-Build Cost: 149
+Immune to Plague
+Upkeep / Maintenance: 12
+Build Cost: 120
 Build Resource Requirements:
-  Energy: 5
-  Metal: 1
+  Food: 2
+  Energy: 4
+  Metal: 2
+  Trace: 14
+  Exotica: 2
   Chemicals: 6
-  Gems: 2
-Upgrade Saboteur (Psy7) to Saboteur (Psy8) at Church
+  Biochems: 7
+  Electronics: 18
+  Ceramsteel: 2
+Build Light Space Fighter VI in Starport
 Time to Build / Upgrade: 1
-[20390] Technologies Required to Build Unit (24):
-  [4980] Psychic Turners (41)
-  [5780] Electrokinetics (20)
-  [5290] Wraiths (29)
-  [4340] Sathra Escorts (7)
+[21970] Technologies Required to Build Unit (88):
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [7295] Nuclear-Powered Navalcraft (81)
+  [12425] Space Warfare (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --19--
-Name: Saboteur (NE)
-Nick Name: Sab (NE)
+Name: Heavy Space Fighter V
+Nick Name: SS-HF V
 Scores & Strengths:
-  Tech Score: 3915
-  Unit Score: 3227
-  Average Score: 3571
-  Stat Strength: 2107
-  Total Strength: 3227
-  Planet Strength: 3227
-  Space Strength: 0
-  Garrison Strength: 721
+  Tech Score: 2150
+  Unit Score: 1376
+  Average Score: 1763
+  Stat Strength: 1135
+  Total Strength: 1376
+  Planet Strength: 0
+  Space Strength: 1376
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 20
-  Spot: 15
-  Camouflage: 30
-  Agility: 22
-  Armor: 7
-  Psy Defense: 7
-  Rank: 819
+  Movement Type: space
+  Move Points: 3
+  Spot: 13
+  Camouflage: 11
+  Agility: 18
+  Armor: 16
+  Psy Defense: 16
+  Rank: 147
 Attacks:
-  Indirect: 32/35
+  Direct Space: 5/24
+  Closed Space: 11/11
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
 Immune to Plague
-Upkeep / Maintenance: 170
-Build Cost: 1518
+Upkeep / Maintenance: 12
+Build Cost: 118
 Build Resource Requirements:
-  Wetware: 4
-  Monopols: 21
-Upgrade Saboteur (AVE) to Saboteur (NE) at Fusorium
+  Food: 2
+  Energy: 11
+  Metal: 7
+  Trace: 8
+  Exotica: 2
+  Chemicals: 15
+  Biochems: 3
+  Electronics: 9
+  Ceramsteel: 7
+Build Heavy Space Fighter V in Starport
+Time to Build / Upgrade: 2
+[16790] Technologies Required to Build Unit (87):
+  [4695] Advanced Minor Watercraft (83)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [1670] Guided Missiles (83)
+  [8175] Spacecraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--20--
+Name: Space Fighter IV
+Nick Name: Seraphim IV
+Scores & Strengths:
+  Tech Score: 2150
+  Unit Score: 1453
+  Average Score: 1801
+  Stat Strength: 1065
+  Total Strength: 1453
+  Planet Strength: 0
+  Space Strength: 1453
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 4
+  Spot: 11
+  Camouflage: 8
+  Agility: 24
+  Armor: 12
+  Psy Defense: 12
+  Rank: 152
+Attacks:
+  Direct Space: 14/20
+  Closed Space: 18/6
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 14
+Build Cost: 136
+Build Resource Requirements:
+  Food: 3
+  Energy: 9
+  Metal: 4
+  Trace: 13
+  Exotica: 3
+  Chemicals: 12
+  Biochems: 5
+  Electronics: 15
+  Ceramsteel: 4
+Build Space Fighter IV in Starport
+Time to Build / Upgrade: 2
+[16790] Technologies Required to Build Unit (87):
+  [4695] Advanced Minor Watercraft (83)
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [1670] Guided Missiles (83)
+  [8175] Spacecraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--21--
+Name: Space Attack Fighter VI
+Nick Name: SS-AF VI
+Scores & Strengths:
+  Tech Score: 2606
+  Unit Score: 1472
+  Average Score: 2039
+  Stat Strength: 1037
+  Total Strength: 1472
+  Planet Strength: 0
+  Space Strength: 1472
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 14
+  Camouflage: 12
+  Agility: 20
+  Armor: 12
+  Psy Defense: 12
+  Rank: 152
+Attacks:
+  Direct Space: 15/17
+  Closed Space: 20/9
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 12
+Build Cost: 118
+Build Resource Requirements:
+  Food: 2
+  Energy: 6
+  Metal: 3
+  Trace: 12
+  Exotica: 2
+  Chemicals: 8
+  Biochems: 5
+  Electronics: 15
+  Ceramsteel: 3
+Build Space Attack Fighter VI in Starport
 Time to Build / Upgrade: 1
-[25325] Technologies Required to Build Unit (61):
-  [1195] Naval Warfare (90)
-  [24130] Neumonically-Enhanced Soldiers (32)
+[21970] Technologies Required to Build Unit (88):
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [7295] Nuclear-Powered Navalcraft (81)
+  [12425] Space Warfare (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--22--
+Name: Light Space Fighter VII
+Nick Name: SS-LF VII
+Scores & Strengths:
+  Tech Score: 3210
+  Unit Score: 1506
+  Average Score: 2358
+  Stat Strength: 1103
+  Total Strength: 1506
+  Planet Strength: 0
+  Space Strength: 1506
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 14
+  Camouflage: 13
+  Agility: 23
+  Armor: 10
+  Psy Defense: 10
+  Rank: 156
+Attacks:
+  Direct Space: 19/13
+  Closed Space: 26/6
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 34
+Build Cost: 338
+Build Resource Requirements:
+  Food: 2
+  Energy: 3
+  Metal: 1
+  Trace: 12
+  Exotica: 2
+  Chemicals: 4
+  Biochems: 9
+  Electronics: 17
+  Ceramsteel: 1
+  Monopols: 5
+Build Light Space Fighter VII in Starport
+Time to Build / Upgrade: 1
+[31280] Technologies Required to Build Unit (86):
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [5205] Advanced Battle Tanks (84)
+  [7295] Nuclear-Powered Navalcraft (81)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--23--
+Name: Heavy Space Fighter VI
+Nick Name: SS-HF VI
+Scores & Strengths:
+  Tech Score: 2606
+  Unit Score: 1588
+  Average Score: 2097
+  Stat Strength: 1288
+  Total Strength: 1588
+  Planet Strength: 0
+  Space Strength: 1588
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 14
+  Camouflage: 12
+  Agility: 19
+  Armor: 17
+  Psy Defense: 17
+  Rank: 153
+Attacks:
+  Direct Space: 6/26
+  Closed Space: 12/12
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 12
+Build Cost: 119
+Build Resource Requirements:
+  Food: 2
+  Energy: 10
+  Metal: 6
+  Trace: 7
+  Exotica: 2
+  Chemicals: 15
+  Biochems: 3
+  Electronics: 9
+  Ceramsteel: 7
+Build Heavy Space Fighter VI in Starport
+Time to Build / Upgrade: 1
+[21970] Technologies Required to Build Unit (88):
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [7295] Nuclear-Powered Navalcraft (81)
+  [12425] Space Warfare (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--24--
+Name: Space Fighter V
+Nick Name: Seraphim V
+Scores & Strengths:
+  Tech Score: 2606
+  Unit Score: 1674
+  Average Score: 2140
+  Stat Strength: 1204
+  Total Strength: 1674
+  Planet Strength: 0
+  Space Strength: 1674
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 4
+  Spot: 12
+  Camouflage: 9
+  Agility: 25
+  Armor: 13
+  Psy Defense: 13
+  Rank: 158
+Attacks:
+  Direct Space: 15/22
+  Closed Space: 20/7
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 14
+Build Cost: 139
+Build Resource Requirements:
+  Food: 2
+  Energy: 9
+  Metal: 4
+  Trace: 12
+  Exotica: 3
+  Chemicals: 12
+  Biochems: 6
+  Electronics: 15
+  Ceramsteel: 4
+Build Space Fighter V in Starport
+Time to Build / Upgrade: 2
+[21970] Technologies Required to Build Unit (88):
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [7295] Nuclear-Powered Navalcraft (81)
+  [12425] Space Warfare (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--25--
+Name: Space Attack Fighter VII
+Nick Name: SS-AF VII
+Scores & Strengths:
+  Tech Score: 3210
+  Unit Score: 1730
+  Average Score: 2470
+  Stat Strength: 1196
+  Total Strength: 1730
+  Planet Strength: 0
+  Space Strength: 1730
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 14
+  Camouflage: 13
+  Agility: 22
+  Armor: 13
+  Psy Defense: 13
+  Rank: 160
+Attacks:
+  Direct Space: 16/19
+  Closed Space: 23/10
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 47
+Build Cost: 465
+Build Resource Requirements:
+  Food: 2
+  Energy: 4
+  Metal: 2
+  Trace: 10
+  Exotica: 2
+  Chemicals: 6
+  Biochems: 9
+  Electronics: 15
+  Ceramsteel: 2
+  Monopols: 7
+Build Space Attack Fighter VII in Starport
+Time to Build / Upgrade: 2
+[31280] Technologies Required to Build Unit (86):
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [5205] Advanced Battle Tanks (84)
+  [7295] Nuclear-Powered Navalcraft (81)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--26--
+Name: Light Space Fighter VIII
+Nick Name: SS-LF VII
+Scores & Strengths:
+  Tech Score: 3905
+  Unit Score: 1794
+  Average Score: 2850
+  Stat Strength: 1304
+  Total Strength: 1794
+  Planet Strength: 0
+  Space Strength: 1794
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 4
+  Spot: 15
+  Camouflage: 14
+  Agility: 25
+  Armor: 11
+  Psy Defense: 11
+  Rank: 163
+Attacks:
+  Direct Space: 21/14
+  Closed Space: 28/7
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 41
+Build Cost: 406
+Build Resource Requirements:
+  Food: 2
+  Energy: 2
+  Metal: 1
+  Trace: 12
+  Exotica: 2
+  Chemicals: 4
+  Biochems: 10
+  Electronics: 21
+  Ceramsteel: 1
+  Monopols: 5
+Build Light Space Fighter VIII in Starport
+Time to Build / Upgrade: 1
+[37655] Technologies Required to Build Unit (79):
+  [10830] Violator Assault Gunnery (80)
+  [10295] PTS Fusion Cannon (76)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--27--
+Name: Heavy Space Fighter VII
+Nick Name: SS-HF VII
+Scores & Strengths:
+  Tech Score: 3210
+  Unit Score: 1839
+  Average Score: 2524
+  Stat Strength: 1496
+  Total Strength: 1839
+  Planet Strength: 0
+  Space Strength: 1839
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 14
+  Camouflage: 13
+  Agility: 20
+  Armor: 19
+  Psy Defense: 19
+  Rank: 160
+Attacks:
+  Direct Space: 6/29
+  Closed Space: 13/13
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 75
+Build Cost: 753
+Build Resource Requirements:
+  Food: 1
+  Energy: 7
+  Metal: 4
+  Trace: 6
+  Exotica: 1
+  Chemicals: 11
+  Biochems: 8
+  Electronics: 9
+  Ceramsteel: 5
+  Monopols: 13
+Build Heavy Space Fighter VII in Starport
+Time to Build / Upgrade: 2
+[31280] Technologies Required to Build Unit (86):
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [5205] Advanced Battle Tanks (84)
+  [7295] Nuclear-Powered Navalcraft (81)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--28--
+Name: Space Fighter VI
+Nick Name: Seraphim VI
+Scores & Strengths:
+  Tech Score: 3210
+  Unit Score: 2010
+  Average Score: 2610
+  Stat Strength: 1448
+  Total Strength: 2010
+  Planet Strength: 0
+  Space Strength: 2010
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 5
+  Spot: 12
+  Camouflage: 10
+  Agility: 27
+  Armor: 15
+  Psy Defense: 15
+  Rank: 167
+Attacks:
+  Direct Space: 17/24
+  Closed Space: 22/7
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 65
+Build Cost: 645
+Build Resource Requirements:
+  Food: 2
+  Energy: 6
+  Metal: 2
+  Trace: 10
+  Exotica: 2
+  Chemicals: 9
+  Biochems: 10
+  Electronics: 15
+  Ceramsteel: 3
+  Monopols: 10
+Build Space Fighter VI in Starport
+Time to Build / Upgrade: 2
+[31280] Technologies Required to Build Unit (86):
+  [465] Recoilless Gun (93)
+  [1785] Rotary Autocannon (90)
+  [5205] Advanced Battle Tanks (84)
+  [7295] Nuclear-Powered Navalcraft (81)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--29--
+Name: Space Attack Fighter VIII
+Nick Name: SS-AF VII
+Scores & Strengths:
+  Tech Score: 3905
+  Unit Score: 2011
+  Average Score: 2958
+  Stat Strength: 1358
+  Total Strength: 2011
+  Planet Strength: 0
+  Space Strength: 2011
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 4
+  Spot: 15
+  Camouflage: 14
+  Agility: 23
+  Armor: 14
+  Psy Defense: 14
+  Rank: 169
+Attacks:
+  Direct Space: 18/21
+  Closed Space: 25/11
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 54
+Build Cost: 537
+Build Resource Requirements:
+  Food: 1
+  Energy: 3
+  Metal: 2
+  Trace: 10
+  Exotica: 2
+  Chemicals: 6
+  Biochems: 9
+  Electronics: 18
+  Ceramsteel: 2
+  Monopols: 8
+Build Space Attack Fighter VIII in Starport
+Time to Build / Upgrade: 2
+[37655] Technologies Required to Build Unit (79):
+  [10830] Violator Assault Gunnery (80)
+  [10295] PTS Fusion Cannon (76)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--30--
+Name: Heavy Space Fighter VIII
+Nick Name: SS-HF VII
+Scores & Strengths:
+  Tech Score: 3905
+  Unit Score: 2180
+  Average Score: 3043
+  Stat Strength: 1760
+  Total Strength: 2180
+  Planet Strength: 0
+  Space Strength: 2180
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 4
+  Spot: 15
+  Camouflage: 14
+  Agility: 21
+  Armor: 21
+  Psy Defense: 21
+  Rank: 169
+Attacks:
+  Direct Space: 7/32
+  Closed Space: 14/14
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 88
+Build Cost: 877
+Build Resource Requirements:
+  Food: 1
+  Energy: 6
+  Metal: 3
+  Trace: 5
+  Exotica: 1
+  Chemicals: 10
+  Biochems: 8
+  Electronics: 10
+  Ceramsteel: 4
+  Monopols: 14
+Build Heavy Space Fighter VIII in Starport
+Time to Build / Upgrade: 2
+[37655] Technologies Required to Build Unit (79):
+  [10830] Violator Assault Gunnery (80)
+  [10295] PTS Fusion Cannon (76)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--31--
+Name: Space Fighter VII
+Nick Name: Seraphim VII
+Scores & Strengths:
+  Tech Score: 3905
+  Unit Score: 2316
+  Average Score: 3111
+  Stat Strength: 1611
+  Total Strength: 2316
+  Planet Strength: 0
+  Space Strength: 2316
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 5
+  Spot: 13
+  Camouflage: 11
+  Agility: 28
+  Armor: 16
+  Psy Defense: 16
+  Rank: 177
+Attacks:
+  Direct Space: 19/27
+  Closed Space: 24/8
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 75
+Build Cost: 747
+Build Resource Requirements:
+  Food: 2
+  Energy: 5
+  Metal: 2
+  Trace: 10
+  Exotica: 2
+  Chemicals: 9
+  Biochems: 10
+  Electronics: 17
+  Ceramsteel: 3
+  Monopols: 11
+Build Space Fighter VII in Starport
+Time to Build / Upgrade: 2
+[37655] Technologies Required to Build Unit (79):
+  [10830] Violator Assault Gunnery (80)
+  [10295] PTS Fusion Cannon (76)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--32--
+Name: Cyber Fighter
+Nick Name: Archangel
+Scores & Strengths:
+  Tech Score: 4906
+  Unit Score: 2738
+  Average Score: 3822
+  Stat Strength: 1865
+  Total Strength: 2738
+  Planet Strength: 0
+  Space Strength: 2738
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 6
+  Spot: 14
+  Camouflage: 12
+  Agility: 29
+  Armor: 18
+  Psy Defense: 18
+  Rank: 189
+Attacks:
+  Direct Space: 21/30
+  Closed Space: 27/9
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 167
+Build Cost: 1530
+Build Resource Requirements:
+  Biochems: 15
+  Ceramsteel: 3
+  Wetware: 9
+  Monopols: 15
+Upgrade Space Fighter to Cyber Fighter at Starport
+Time to Build / Upgrade: 1
+[40930] Technologies Required to Build Unit (52):
+  [17465] Cyberpilot (28)
+  [23465] Advanced Spacecraft (75)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--33--
+Name: Cyber Fighter
+Nick Name: Archangel
+Scores & Strengths:
+  Tech Score: 4906
+  Unit Score: 2738
+  Average Score: 3822
+  Stat Strength: 1865
+  Total Strength: 2738
+  Planet Strength: 0
+  Space Strength: 2738
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 6
+  Spot: 14
+  Camouflage: 12
+  Agility: 29
+  Armor: 18
+  Psy Defense: 18
+  Rank: 189
+Attacks:
+  Direct Space: 21/30
+  Closed Space: 27/9
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 167
+Build Cost: 1530
+Build Resource Requirements:
+  Biochems: 15
+  Ceramsteel: 3
+  Wetware: 9
+  Monopols: 15
+Upgrade Space Fighter to Cyber Fighter at Starport
+Time to Build / Upgrade: 1
+[40930] Technologies Required to Build Unit (52):
+  [17465] Cyberpilot (28)
+  [23465] Advanced Spacecraft (75)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

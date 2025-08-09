@@ -1,171 +1,511 @@
-All units of the unit class Cavalry are listed herein (4 in total):
+All units of the unit class Fanatic Legion are listed herein (12 in total):
 
 --1--
-Name: Cavalry
-Nick Name: Cavalry
+Name: Fanatic Legion
+Nick Name: Fanatic
 Scores & Strengths:
-  Tech Score: 126
-  Unit Score: 126
-  Average Score: 126
-  Stat Strength: 97
-  Total Strength: 126
-  Planet Strength: 126
-  Space Strength: 0
-  Garrison Strength: 51
+  Tech Score: 124
+  Unit Score: 124
+  Average Score: 124
+  Stat Strength: 101
+  Total Strength: 124
+  Planet Strength: 124
+  Space Strength: 115
+  Garrison Strength: 71
 Statistics:
   Movement Type: foot
-  Move Points: 6
-  Spot: 4
+  Move Points: 3
+  Spot: 2
   Camouflage: 2
-  Agility: 6
+  Agility: 8
   Armor: 2
-  Psy Defense: 1
-  Rank: 35
+  Psy Defense: 4
+  Rank: 1
 Attacks:
-  Direct: 5/4
+  Psychic: 7/2
   Close: 3/3
 Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 6
-Build Cost: 39
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 12
+Build Cost: 100
 Build Resource Requirements:
-  Trace: 23
+  Metal: 5
+  Trace: 18
   Exotica: 14
-  Chemicals: 16
-Upgrade Peasant to Cavalry at Farm
+  Gems: 5
+Upgrade Peasant to Fanatic Legion at Church
 Time to Build / Upgrade: 1
-[250] Technologies Required to Build Unit (100):
-  [100] Physics & Energy (100)
-  [100] Psychosocial Engineering (100)
-  [50] Applied Technology (100)
+[245] Technologies Required to Build Unit (94):
+  [100] Medical & Biological (100)
+  [145] Fanaticism (87)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Heavy Cavalry
-Nick Name: Heavy Cavalry
+Name: Fanatic Legion (PE)
+Nick Name: Fanatic (PE)
 Scores & Strengths:
-  Tech Score: 126
-  Unit Score: 126
-  Average Score: 126
-  Stat Strength: 83
-  Total Strength: 126
-  Planet Strength: 126
-  Space Strength: 0
-  Garrison Strength: 56
+  Tech Score: 153
+  Unit Score: 152
+  Average Score: 153
+  Stat Strength: 127
+  Total Strength: 152
+  Planet Strength: 152
+  Space Strength: 143
+  Garrison Strength: 87
 Statistics:
   Movement Type: foot
-  Move Points: 5
-  Spot: 4
+  Move Points: 3
+  Spot: 2
   Camouflage: 2
-  Agility: 5
-  Armor: 3
-  Psy Defense: 2
-  Rank: 34
+  Agility: 9
+  Armor: 2
+  Psy Defense: 5
+  Rank: 2
 Attacks:
-  Direct: 3/5
-  Close: 7/4
+  Psychic: 8/2
+  Close: 3/3
 Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 6
-Build Cost: 44
+May lose health or experience after combat due to drug use
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 12
+Build Cost: 105
 Build Resource Requirements:
-  Metal: 3
-  Trace: 30
-  Exotica: 11
-  Chemicals: 18
-Upgrade Peasant to Heavy Cavalry at Farm
+  Metal: 8
+  Trace: 17
+  Exotica: 14
+  Chemicals: 14
+  Gems: 5
+Upgrade Peasant to Fanatic Legion (PE) at Church
 Time to Build / Upgrade: 1
-[250] Technologies Required to Build Unit (100):
-  [100] Physics & Energy (100)
-  [100] Psychosocial Engineering (100)
-  [50] Applied Technology (100)
+[325] Technologies Required to Build Unit (89):
+  [145] Fanaticism (87)
+  [180] Performance-Enhanced Soldiers (90)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Light Cavalry
-Nick Name: Light Cavalry
+Name: Fanatic Legion (BE)
+Nick Name: Fanatic (BE)
 Scores & Strengths:
-  Tech Score: 126
-  Unit Score: 126
-  Average Score: 126
-  Stat Strength: 120
-  Total Strength: 126
-  Planet Strength: 126
-  Space Strength: 0
-  Garrison Strength: 47
+  Tech Score: 232
+  Unit Score: 224
+  Average Score: 228
+  Stat Strength: 174
+  Total Strength: 224
+  Planet Strength: 224
+  Space Strength: 204
+  Garrison Strength: 112
 Statistics:
   Movement Type: foot
-  Move Points: 7
-  Spot: 4
-  Camouflage: 2
-  Agility: 7
-  Armor: 1
-  Psy Defense: 1
-  Rank: 29
+  Move Points: 4
+  Spot: 2
+  Camouflage: 3
+  Agility: 10
+  Armor: 3
+  Psy Defense: 6
+  Rank: 2
 Attacks:
-  Direct: 2/1
-  Close: 2/2
+  Psychic: 10/3
+  Close: 5/4
 Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 5
-Build Cost: 36
+May lose health or experience after combat due to drug use
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 20
+Build Cost: 97
 Build Resource Requirements:
-  Trace: 15
-  Exotica: 17
-  Chemicals: 13
-Upgrade Peasant to Light Cavalry at Farm
+  Metal: 9
+  Trace: 4
+  Chemicals: 12
+  Biochems: 21
+  Gems: 3
+Upgrade Fanatic Legion to Fanatic Legion (BE) at Biochem Plant
 Time to Build / Upgrade: 1
-[250] Technologies Required to Build Unit (100):
-  [100] Physics & Energy (100)
-  [100] Psychosocial Engineering (100)
-  [50] Applied Technology (100)
+[565] Technologies Required to Build Unit (82):
+  [145] Fanaticism (87)
+  [420] Biochem-Enhanced Soldiers (77)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Horse Grenadier
-Nick Name: Horse Gren.
+Name: Fanatic Legion (SE)
+Nick Name: Fanatic (SE)
 Scores & Strengths:
-  Tech Score: 135
-  Unit Score: 133
-  Average Score: 134
-  Stat Strength: 105
-  Total Strength: 133
-  Planet Strength: 133
-  Space Strength: 0
-  Garrison Strength: 54
+  Tech Score: 306
+  Unit Score: 290
+  Average Score: 298
+  Stat Strength: 229
+  Total Strength: 290
+  Planet Strength: 290
+  Space Strength: 265
+  Garrison Strength: 129
 Statistics:
   Movement Type: foot
-  Move Points: 6
-  Spot: 4
-  Camouflage: 2
-  Agility: 6
-  Armor: 3
-  Psy Defense: 2
-  Rank: 57
+  Move Points: 5
+  Spot: 3
+  Camouflage: 3
+  Agility: 11
+  Armor: 4
+  Psy Defense: 7
+  Rank: 3
 Attacks:
-  Indirect: 2/4
-  Close: 10/2
+  Psychic: 12/3
+  Close: 5/5
 Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 5
-Build Cost: 33
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 24
+Build Cost: 142
 Build Resource Requirements:
-  Metal: 2
-  Trace: 31
-  Exotica: 10
-  Chemicals: 11
-Upgrade Peasant to Horse Grenadier at Fort
+  Metal: 9
+  Trace: 5
+  Chemicals: 17
+  Biochems: 24
+  Gems: 3
+Upgrade Fanatic Legion to Fanatic Legion (SE) at Hospital
 Time to Build / Upgrade: 1
-[375] Technologies Required to Build Unit (99):
-  [100] Physics & Energy (100)
-  [110] Meditation (99)
-  [165] Autocannon (98)
+[820] Technologies Required to Build Unit (81):
+  [145] Fanaticism (87)
+  [675] Surgically-Enhanced Soldiers (75)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Fanatic Legion (DE)
+Nick Name: Fanatic (DE)
+Scores & Strengths:
+  Tech Score: 927
+  Unit Score: 703
+  Average Score: 815
+  Stat Strength: 502
+  Total Strength: 703
+  Planet Strength: 703
+  Space Strength: 622
+  Garrison Strength: 234
+Statistics:
+  Movement Type: foot
+  Move Points: 9
+  Spot: 3
+  Camouflage: 6
+  Agility: 14
+  Armor: 6
+  Psy Defense: 12
+  Rank: 8
+Attacks:
+  Psychic: 20/6
+  Close: 9/9
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 43
+Build Cost: 326
+Build Resource Requirements:
+  Metal: 40
+  Chemicals: 11
+  Biochems: 15
+  Electronics: 11
+  Gems: 16
+Upgrade Fanatic Legion to Fanatic Legion (DE) at Biochem Plant
+Time to Build / Upgrade: 1
+[3585] Technologies Required to Build Unit (76):
+  [145] Fanaticism (87)
+  [3440] Drug-Enhanced Soldiers (65)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Fanatic Legion (GE)
+Nick Name: Fanatic (GE)
+Scores & Strengths:
+  Tech Score: 1391
+  Unit Score: 952
+  Average Score: 1172
+  Stat Strength: 656
+  Total Strength: 952
+  Planet Strength: 952
+  Space Strength: 831
+  Garrison Strength: 287
+Statistics:
+  Movement Type: foot
+  Move Points: 11
+  Spot: 4
+  Camouflage: 7
+  Agility: 15
+  Armor: 7
+  Psy Defense: 14
+  Rank: 12
+Attacks:
+  Psychic: 25/7
+  Close: 11/11
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 55
+Build Cost: 228
+Build Resource Requirements:
+  Chemicals: 1
+  Biochems: 11
+  Ceramsteel: 6
+  Gems: 6
+Upgrade Fanatic Legion (DE) to Fanatic Legion (GE) at Lab
+Time to Build / Upgrade: 1
+[6165] Technologies Required to Build Unit (68):
+  [145] Fanaticism (87)
+  [6020] Chemical Shock Legion (49)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Fanatic Legion (PA)
+Nick Name: Fanatic (PA)
+Scores & Strengths:
+  Tech Score: 1418
+  Unit Score: 981
+  Average Score: 1199
+  Stat Strength: 685
+  Total Strength: 981
+  Planet Strength: 981
+  Space Strength: 860
+  Garrison Strength: 295
+Statistics:
+  Movement Type: foot
+  Move Points: 11
+  Spot: 4
+  Camouflage: 7
+  Agility: 15
+  Armor: 7
+  Psy Defense: 15
+  Rank: 12
+Attacks:
+  Psychic: 25/7
+  Close: 11/11
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 60
+Build Cost: 455
+Build Resource Requirements:
+  Chemicals: 6
+  Electronics: 16
+  Ceramsteel: 24
+  Gems: 19
+Upgrade Fanatic Legion (SE) to Fanatic Legion (PA) at Hospital
+Time to Build / Upgrade: 1
+[6320] Technologies Required to Build Unit (72):
+  [145] Fanaticism (87)
+  [6175] Prosthetically-Augmented Soldiers (57)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Fanatic Legion (CE)
+Nick Name: Fanatic (CE)
+Scores & Strengths:
+  Tech Score: 1792
+  Unit Score: 1168
+  Average Score: 1480
+  Stat Strength: 800
+  Total Strength: 1168
+  Planet Strength: 1168
+  Space Strength: 1024
+  Garrison Strength: 337
+Statistics:
+  Movement Type: foot
+  Move Points: 12
+  Spot: 4
+  Camouflage: 8
+  Agility: 16
+  Armor: 8
+  Psy Defense: 16
+  Rank: 15
+Attacks:
+  Psychic: 28/8
+  Close: 12/12
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 51
+Build Cost: 58
+Build Resource Requirements:
+  Energy: 1
+  Metal: 1
+  Chemicals: 3
+  Ceramsteel: 2
+Upgrade Fanatic Legion (PA) to Fanatic Legion (CE) at Lab
+Time to Build / Upgrade: 1
+[8745] Technologies Required to Build Unit (68):
+  [145] Fanaticism (87)
+  [8600] Cybernetically-Enhanced Soldiers (48)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Fanatic Legion (AVE)
+Nick Name: Fanatic (AVE)
+Scores & Strengths:
+  Tech Score: 1855
+  Unit Score: 1188
+  Average Score: 1521
+  Stat Strength: 800
+  Total Strength: 1188
+  Planet Strength: 1188
+  Space Strength: 1032
+  Garrison Strength: 342
+Statistics:
+  Movement Type: foot
+  Move Points: 12
+  Spot: 4
+  Camouflage: 8
+  Agility: 16
+  Armor: 8
+  Psy Defense: 16
+  Rank: 15
+Attacks:
+  Psychic: 29/8
+  Close: 13/12
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 87
+Build Cost: 641
+Build Resource Requirements:
+  Biochems: 1
+  Gems: 7
+Upgrade Fanatic Legion (GE) to Fanatic Legion (AVE) at Lab
+Time to Build / Upgrade: 1
+[9045] Technologies Required to Build Unit (56):
+  [145] Fanaticism (87)
+  [8900] Genetically-Enhanced Warriors (25)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Fanatic Legion (ME)
+Nick Name: Fanatic (ME)
+Scores & Strengths:
+  Tech Score: 1425
+  Unit Score: 1525
+  Average Score: 1475
+  Stat Strength: 1236
+  Total Strength: 1525
+  Planet Strength: 1525
+  Space Strength: 1404
+  Garrison Strength: 332
+Statistics:
+  Movement Type: foot
+  Move Points: 21
+  Spot: 4
+  Camouflage: 7
+  Agility: 21
+  Armor: 8
+  Psy Defense: 15
+  Rank: 15
+Attacks:
+  Psychic: 24/7
+  Close: 11/11
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 62
+Build Cost: 519
+Build Resource Requirements:
+  Energy: 3
+  Chemicals: 37
+  Electronics: 21
+  Ceramsteel: 9
+  Gems: 22
+Upgrade Fanatic Legion to Fanatic Legion (ME) at Factory
+Time to Build / Upgrade: 2
+[6365] Technologies Required to Build Unit (84):
+  [145] Fanaticism (87)
+  [6220] Mechanically-Enhanced Soldiers (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Fanatic Legion (MF)
+Nick Name: Fanatic (MF)
+Scores & Strengths:
+  Tech Score: 3187
+  Unit Score: 2031
+  Average Score: 2609
+  Stat Strength: 1368
+  Total Strength: 2031
+  Planet Strength: 2031
+  Space Strength: 1775
+  Garrison Strength: 507
+Statistics:
+  Movement Type: foot
+  Move Points: 16
+  Spot: 5
+  Camouflage: 11
+  Agility: 19
+  Armor: 11
+  Psy Defense: 22
+  Rank: 26
+Attacks:
+  Psychic: 37/11
+  Close: 16/16
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 161
+Build Cost: 1547
+Build Resource Requirements:
+  Biochems: 11
+  Wetware: 5
+  Monopols: 21
+  Gems: 15
+Upgrade Fanatic Legion (CE) to Fanatic Legion (MF) at Wetware
+Time to Build / Upgrade: 1
+[18720] Technologies Required to Build Unit (61):
+  [145] Fanaticism (87)
+  [18575] Machine-Fused Soldiers (35)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Fanatic Legion (NE)
+Nick Name: Fanatic (NE)
+Scores & Strengths:
+  Tech Score: 3876
+  Unit Score: 2439
+  Average Score: 3158
+  Stat Strength: 1686
+  Total Strength: 2439
+  Planet Strength: 2439
+  Space Strength: 2115
+  Garrison Strength: 574
+Statistics:
+  Movement Type: foot
+  Move Points: 18
+  Spot: 5
+  Camouflage: 16
+  Agility: 19
+  Armor: 12
+  Psy Defense: 24
+  Rank: 32
+Attacks:
+  Psychic: 39/11
+  Close: 18/18
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 174
+Build Cost: 1096
+Build Resource Requirements:
+  Wetware: 4
+  Monopols: 13
+  Gems: 2
+Upgrade Fanatic Legion (AVE) to Fanatic Legion (NE) at Fusorium
+Time to Build / Upgrade: 1
+[24275] Technologies Required to Build Unit (60):
+  [145] Fanaticism (87)
+  [24130] Neumonically-Enhanced Soldiers (32)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

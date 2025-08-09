@@ -1,191 +1,390 @@
-All units of the unit class Space Bulk Hauler are listed herein (4 in total):
+All units of the unit class Space Mine are listed herein (9 in total):
 
 --1--
-Name: Space Bulk Hauler
-Nick Name: SS-BH
+Name: Space Mine
+Nick Name: Space Mine
 Scores & Strengths:
-  Tech Score: 342
-  Unit Score: 342
-  Average Score: 342
-  Stat Strength: 330
-  Total Strength: 342
+  Tech Score: 335
+  Unit Score: 334
+  Average Score: 335
+  Stat Strength: 226
+  Total Strength: 334
   Planet Strength: 0
-  Space Strength: 342
+  Space Strength: 334
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 1
+  Spot: 0
+  Camouflage: 15
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
+Attacks:
+  Closed Space: 6/18
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 19
+Build Resource Requirements:
+  Energy: 22
+  Trace: 28
+  Chemicals: 29
+  Electronics: 19
+Build Space Mine in Starport
+Time to Build / Upgrade: 2
+[1735] Technologies Required to Build Unit (91):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [795] Missiles (86)
+Unit can be disbanded: YES
+
+--2--
+Name: Space Mine II
+Nick Name: Space Mine II
+Scores & Strengths:
+  Tech Score: 698
+  Unit Score: 719
+  Average Score: 708
+  Stat Strength: 485
+  Total Strength: 719
+  Planet Strength: 0
+  Space Strength: 719
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 1
+  Spot: 0
+  Camouflage: 22
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
+Attacks:
+  Closed Space: 9/26
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 28
+Build Resource Requirements:
+  Energy: 27
+  Trace: 28
+  Chemicals: 42
+  Electronics: 31
+Build Space Mine II in Starport
+Time to Build / Upgrade: 3
+[3265] Technologies Required to Build Unit (89):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [2325] Web Missiles (80)
+Unit can be disbanded: YES
+
+--3--
+Name: Space Mine III
+Nick Name: Space Mine III
+Scores & Strengths:
+  Tech Score: 877
+  Unit Score: 870
+  Average Score: 873
+  Stat Strength: 580
+  Total Strength: 870
+  Planet Strength: 0
+  Space Strength: 870
   Garrison Strength: 0
 Statistics:
   Movement Type: space
   Move Points: 2
-  Spot: 6
-  Camouflage: 1
-  Agility: 1
-  Armor: 12
-  Psy Defense: 12
-  Rank: 93
+  Spot: 0
+  Camouflage: 24
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Closed Space: 1/12
-Cargo Space: 4
+  Closed Space: 10/29
+Load aboard transport: YES
+Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 22
-Build Cost: 219
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 25
 Build Resource Requirements:
-  Food: 4
-  Energy: 15
-  Metal: 70
-  Trace: 6
-  Exotica: 4
-  Chemicals: 41
-  Electronics: 3
-Build Space Bulk Hauler in Starport
+  Energy: 25
+  Trace: 23
+  Chemicals: 38
+  Electronics: 26
+Build Space Mine III in Starport
 Time to Build / Upgrade: 2
-[1170] Technologies Required to Build Unit (95):
-  [230] Hospitals (97)
+[4935] Technologies Required to Build Unit (88):
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---2--
-Name: Jump Bulk Hauler
-Nick Name: JJ-BH
-Scores & Strengths:
-  Tech Score: 455
-  Unit Score: 448
-  Average Score: 452
-  Stat Strength: 434
-  Total Strength: 448
-  Planet Strength: 0
-  Space Strength: 448
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 2
-  Spot: 6
-  Camouflage: 1
-  Agility: 1
-  Armor: 14
-  Psy Defense: 14
-  Rank: 120
-Attacks:
-  Closed Space: 1/14
-Cargo Space: 4
-Bulk Hauler - Used by the League to Resupply Agoras
-Immune to Plague
-Upkeep / Maintenance: 161
-Build Cost: 1609
-Build Resource Requirements:
-  Food: 4
-  Energy: 20
-  Metal: 77
-  Trace: 5
-  Exotica: 3
-  Chemicals: 55
-  Electronics: 3
-  Gems: 1
-S  ingularities: 2
-Build Jump Bulk Hauler in Starport
-Time to Build / Upgrade: 3
-[1610] Technologies Required to Build Unit (90):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [1235] Jump Rocketry (76)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---3--
-Name: Armored Bulk Hauler
-Nick Name: JJ-AABH
-Scores & Strengths:
-  Tech Score: 1168
-  Unit Score: 1167
-  Average Score: 1167
-  Stat Strength: 1082
-  Total Strength: 1167
-  Planet Strength: 0
-  Space Strength: 1167
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 3
-  Spot: 10
-  Camouflage: 2
-  Agility: 1
-  Armor: 22
-  Psy Defense: 22
-  Rank: 192
-Attacks:
-  Direct Space: 5/10
-  Closed Space: 5/7
-Cargo Space: 4
-Bulk Hauler - Used by the League to Resupply Agoras
-Immune to Plague
-Upkeep / Maintenance: 320
-Build Cost: 3199
-Build Resource Requirements:
-  Food: 3
-  Energy: 3
-  Metal: 22
-  Trace: 6
-  Exotica: 3
-  Chemicals: 14
-  Electronics: 9
-  Ceramsteel: 32
-  Monopols: 46
-S  ingularities: 2
-Build Armored Bulk Hauler in Starport
-Time to Build / Upgrade: 4
-[5975] Technologies Required to Build Unit (77):
-  [1690] Ceramsteel (84)
-  [4285] Jump Drives (70)
-Counts as planetary flock: YES
+  [1670] Guided Missiles (83)
+  [2325] Web Missiles (80)
 Unit can be disbanded: YES
 
 --4--
-Name: Gate Bulk Hauler
-Nick Name: GG-BH
+Name: Space Mine IV
+Nick Name: Space Mine IV
 Scores & Strengths:
-  Tech Score: 7423
-  Unit Score: 7256
-  Average Score: 7339
-  Stat Strength: 6061
-  Total Strength: 7256
-  Planet Strength: 6621
-  Space Strength: 6696
-  Garrison Strength: 1380
+  Tech Score: 1143
+  Unit Score: 1151
+  Average Score: 1147
+  Stat Strength: 788
+  Total Strength: 1151
+  Planet Strength: 0
+  Space Strength: 1151
+  Garrison Strength: 0
 Statistics:
-  Movement Type: gate
-  Move Points: 23
-  Spot: 16
-  Camouflage: 12
-  Agility: 30
-  Armor: 46
-  Psy Defense: 46
-  Rank: 275
+  Movement Type: space
+  Move Points: 2
+  Spot: 0
+  Camouflage: 28
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Direct Space: 14/25
-  Closed Space: 15/19
-  Direct: 14/23
-  Close: 14/17
-Cargo Space: 4
-Bulk Hauler - Used by the League to Resupply Agoras
+  Closed Space: 11/33
+Load aboard transport: YES
+Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 1117
-Build Cost: 11169
+Destroyed after combat
+Upkeep / Maintenance: 4
+Build Cost: 36
 Build Resource Requirements:
-  Food: 1
-  Energy: 8
-  Metal: 9
-  Trace: 4
-  Exotica: 2
-  Chemicals: 16
-  Biochems: 21
-  Electronics: 12
-  Ceramsteel: 15
-  Wetware: 7
-  Monopols: 32
-S  ingularities: 5
-Build Gate Bulk Hauler in Starport
+  Energy: 41
+  Trace: 28
+  Chemicals: 51
+  Electronics: 37
+Build Space Mine IV in Starport
+Time to Build / Upgrade: 3
+[4900] Technologies Required to Build Unit (81):
+  [1220] Finite Element Methods (77)
+  [3680] Supersonic Missiles (84)
+Unit can be disbanded: YES
+
+--5--
+Name: Space Mine V
+Nick Name: Space Mine V
+Scores & Strengths:
+  Tech Score: 1372
+  Unit Score: 1336
+  Average Score: 1354
+  Stat Strength: 904
+  Total Strength: 1336
+  Planet Strength: 0
+  Space Strength: 1336
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 2
+  Spot: 0
+  Camouflage: 30
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
+Attacks:
+  Closed Space: 12/36
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 25
+Build Resource Requirements:
+  Energy: 24
+  Trace: 21
+  Chemicals: 32
+  Electronics: 27
+Build Space Mine V in Starport
+Time to Build / Upgrade: 2
+[9800] Technologies Required to Build Unit (86):
+  [1535] Carbon Nanotubes (85)
+  [895] Space Rocketry (90)
+  [3200] Supersonic Aircraft (85)
+  [4170] Supercruise Missiles (84)
+Unit can be disbanded: YES
+
+--6--
+Name: Space Mine VI
+Nick Name: Space Mine VI
+Scores & Strengths:
+  Tech Score: 1909
+  Unit Score: 1902
+  Average Score: 1906
+  Stat Strength: 1300
+  Total Strength: 1902
+  Planet Strength: 0
+  Space Strength: 1902
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 2
+  Spot: 0
+  Camouflage: 36
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
+Attacks:
+  Closed Space: 14/43
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 29
+Build Resource Requirements:
+  Energy: 25
+  Trace: 20
+  Chemicals: 37
+  Electronics: 30
+Build Space Mine VI in Starport
+Time to Build / Upgrade: 2
+[14480] Technologies Required to Build Unit (84):
+  [8175] Spacecraft (84)
+  [6305] Hypersonic Missiles (83)
+Unit can be disbanded: YES
+
+--7--
+Name: Space Mine VII
+Nick Name: Space Mine VII
+Scores & Strengths:
+  Tech Score: 2545
+  Unit Score: 2540
+  Average Score: 2543
+  Stat Strength: 1690
+  Total Strength: 2540
+  Planet Strength: 0
+  Space Strength: 2540
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 0
+  Camouflage: 41
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
+Attacks:
+  Closed Space: 17/50
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 4
+Build Cost: 35
+Build Resource Requirements:
+  Energy: 27
+  Trace: 21
+  Chemicals: 40
+  Biochems: 2
+  Electronics: 31
+Build Space Mine VII in Starport
+Time to Build / Upgrade: 3
+[19530] Technologies Required to Build Unit (82):
+  [7105] Hypercruise Missiles (77)
+  [12425] Space Warfare (86)
+Unit can be disbanded: YES
+
+--8--
+Name: Space Mine VIII
+Nick Name: Space Mine VIII
+Scores & Strengths:
+  Tech Score: 3094
+  Unit Score: 3115
+  Average Score: 3105
+  Stat Strength: 2125
+  Total Strength: 3115
+  Planet Strength: 0
+  Space Strength: 3115
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 0
+  Camouflage: 46
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
+Attacks:
+  Closed Space: 18/55
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 25
+Build Cost: 254
+Build Resource Requirements:
+  Energy: 18
+  Trace: 22
+  Chemicals: 27
+  Biochems: 12
+  Electronics: 34
+  Monopols: 26
+Build Space Mine VIII in Starport
+Time to Build / Upgrade: 3
+[23635] Technologies Required to Build Unit (79):
+  [7105] Hypercruise Missiles (77)
+  [16530] Space Capital Ships (80)
+Unit can be disbanded: YES
+
+--9--
+Name: Space Mine IX
+Nick Name: Space Mine IX
+Scores & Strengths:
+  Tech Score: 3956
+  Unit Score: 4015
+  Average Score: 3986
+  Stat Strength: 2713
+  Total Strength: 4015
+  Planet Strength: 0
+  Space Strength: 4015
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 0
+  Camouflage: 52
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
+Attacks:
+  Closed Space: 21/62
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 33
+Build Cost: 331
+Build Resource Requirements:
+  Energy: 20
+  Trace: 23
+  Chemicals: 30
+  Biochems: 13
+  Electronics: 38
+  Monopols: 31
+Build Space Mine IX in Starport
 Time to Build / Upgrade: 4
-[57460] Technology Required to Build Unit (49):
-  [57460] Gate Transports (49)
-Counts as planetary flock: YES
+[30570] Technologies Required to Build Unit (76):
+  [7105] Hypercruise Missiles (77)
+  [23465] Advanced Spacecraft (75)
 Unit can be disbanded: YES

@@ -1,346 +1,346 @@
-All units of the unit class Reconnaissance Monoplane are listed herein (8 in total):
+All units of the unit class Rocket Launcher are listed herein (8 in total):
 
 --1--
-Name: Reconnaissance Monoplane
-Nick Name: A-MR
+Name: Rocket Launcher
+Nick Name: Rckt Launch
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 287
-  Average Score: 240
-  Stat Strength: 287
-  Total Strength: 287
-  Planet Strength: 287
+  Tech Score: 272
+  Unit Score: 271
+  Average Score: 272
+  Stat Strength: 114
+  Total Strength: 271
+  Planet Strength: 271
   Space Strength: 0
-  Garrison Strength: 86
+  Garrison Strength: 135
 Statistics:
-  Movement Type: air
-  Move Points: 11
-  Spot: 8
-  Camouflage: 3
-  Agility: 8
-  Armor: 5
-  Psy Defense: 2
-  Rank: 77
+  Movement Type: wheel
+  Move Points: 4
+  Spot: 4
+  Camouflage: 1
+  Agility: 1
+  Armor: 8
+  Psy Defense: 4
+  Rank: 126
+Attacks:
+  Air: 9/9
+  Indirect: 4/19
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 91
+Can be towed
+Upkeep / Maintenance: 12
+Build Cost: 123
 Build Resource Requirements:
-  Food: 26
-  Energy: 23
-  Metal: 20
-  Trace: 21
-  Exotica: 26
-  Chemicals: 27
-  Electronics: 16
-Build Reconnaissance Monoplane in Factory
+  Food: 4
+  Energy: 61
+  Metal: 48
+  Trace: 22
+  Exotica: 3
+  Chemicals: 80
+  Electronics: 13
+Build Rocket Launcher in Factory
 Time to Build / Upgrade: 3
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
+[700] Technology Required to Build Unit (90):
+  [700] Rockets (90)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Attack Fighter Monoplane
-Nick Name: A-MAF
+Name: Rocket Artillery
+Nick Name: Howler
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 321
-  Total Strength: 384
-  Planet Strength: 384
+  Tech Score: 341
+  Unit Score: 340
+  Average Score: 340
+  Stat Strength: 174
+  Total Strength: 340
+  Planet Strength: 340
   Space Strength: 0
-  Garrison Strength: 135
+  Garrison Strength: 152
 Statistics:
-  Movement Type: air
-  Move Points: 8
-  Spot: 8
-  Camouflage: 2
-  Agility: 12
-  Armor: 6
-  Psy Defense: 3
-  Rank: 112
+  Movement Type: tread
+  Move Points: 5
+  Spot: 4
+  Camouflage: 1
+  Agility: 2
+  Armor: 8
+  Psy Defense: 8
+  Rank: 107
 Attacks:
-  Air: 4/5
-  Indirect: 5/5
-  Direct: 3/6
+  Air: 8/11
+  Indirect: 3/26
 Load aboard transport: YES
-Upkeep / Maintenance: 13
-Build Cost: 133
+Upkeep / Maintenance: 9
+Build Cost: 89
 Build Resource Requirements:
-  Food: 26
-  Energy: 37
-  Metal: 31
-  Trace: 38
-  Exotica: 25
-  Chemicals: 43
-  Electronics: 25
-Build Attack Fighter Monoplane in Factory
-Time to Build / Upgrade: 4
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
+  Food: 2
+  Energy: 59
+  Metal: 23
+  Trace: 11
+  Exotica: 2
+  Chemicals: 65
+  Electronics: 7
+Build Rocket Artillery in Factory
+Time to Build / Upgrade: 3
+[1470] Technologies Required to Build Unit (91):
+  [700] Rockets (90)
+  [770] Self-Propelled Weaponry (92)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Bomber Monoplane
-Nick Name: A-MB
+Name: Multiple Rocket Launcher
+Nick Name: MR Launcher
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 284
-  Total Strength: 384
-  Planet Strength: 384
+  Tech Score: 341
+  Unit Score: 340
+  Average Score: 340
+  Stat Strength: 174
+  Total Strength: 340
+  Planet Strength: 340
   Space Strength: 0
-  Garrison Strength: 121
+  Garrison Strength: 152
 Statistics:
-  Movement Type: air
-  Move Points: 10
-  Spot: 6
-  Camouflage: 2
-  Agility: 8
+  Movement Type: tread
+  Move Points: 5
+  Spot: 4
+  Camouflage: 1
+  Agility: 2
   Armor: 8
-  Psy Defense: 4
-  Rank: 152
+  Psy Defense: 8
+  Rank: 114
 Attacks:
-  Air: 2/10
-  Indirect: 4/20
+  Air: 7/14
+  Indirect: 2/34
 Load aboard transport: YES
-Upkeep / Maintenance: 21
-Build Cost: 209
+Upkeep / Maintenance: 13
+Build Cost: 133
 Build Resource Requirements:
-  Food: 21
-  Energy: 111
-  Metal: 55
-  Trace: 20
-  Exotica: 21
-  Chemicals: 129
-  Electronics: 12
-Build Bomber Monoplane in Factory
-Time to Build / Upgrade: 6
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
+  Food: 2
+  Energy: 99
+  Metal: 23
+  Trace: 8
+  Exotica: 2
+  Chemicals: 109
+  Electronics: 5
+Build Multiple Rocket Launcher in Factory
+Time to Build / Upgrade: 3
+[1470] Technologies Required to Build Unit (91):
+  [700] Rockets (90)
+  [770] Self-Propelled Weaponry (92)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Fighter Monoplane
-Nick Name: A-MF
+Name: Multiple Rocket Artillery
+Nick Name: MR Art.
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 315
-  Total Strength: 384
-  Planet Strength: 384
+  Tech Score: 366
+  Unit Score: 365
+  Average Score: 366
+  Stat Strength: 177
+  Total Strength: 365
+  Planet Strength: 365
   Space Strength: 0
-  Garrison Strength: 128
+  Garrison Strength: 163
 Statistics:
-  Movement Type: air
-  Move Points: 9
-  Spot: 8
+  Movement Type: tread
+  Move Points: 5
+  Spot: 4
   Camouflage: 2
-  Agility: 11
-  Armor: 6
-  Psy Defense: 3
-  Rank: 134
+  Agility: 2
+  Armor: 8
+  Psy Defense: 8
+  Rank: 115
 Attacks:
-  Air: 6/10
-  Indirect: 3/3
+  Air: 8/15
+  Indirect: 2/34
 Load aboard transport: YES
-Upkeep / Maintenance: 14
-Build Cost: 138
+Upkeep / Maintenance: 13
+Build Cost: 134
 Build Resource Requirements:
-  Food: 26
-  Energy: 42
-  Metal: 31
-  Trace: 35
-  Exotica: 26
-  Chemicals: 49
-  Electronics: 25
-Build Fighter Monoplane in Factory
-Time to Build / Upgrade: 4
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
+  Food: 2
+  Energy: 97
+  Metal: 23
+  Trace: 10
+  Exotica: 2
+  Chemicals: 109
+  Electronics: 6
+Build Multiple Rocket Artillery in Factory
+Time to Build / Upgrade: 3
+[1565] Technologies Required to Build Unit (89):
+  [770] Self-Propelled Weaponry (92)
+  [795] Missiles (86)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Trench Strafer Monoplane
-Nick Name: A-MTS
+Name: Guided Missile Rocket Launcher
+Nick Name: GMRL
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 303
-  Total Strength: 384
-  Planet Strength: 384
+  Tech Score: 656
+  Unit Score: 653
+  Average Score: 654
+  Stat Strength: 288
+  Total Strength: 653
+  Planet Strength: 653
   Space Strength: 0
-  Garrison Strength: 145
+  Garrison Strength: 230
 Statistics:
-  Movement Type: air
-  Move Points: 7
-  Spot: 6
+  Movement Type: tread
+  Move Points: 8
+  Spot: 4
   Camouflage: 2
-  Agility: 13
-  Armor: 6
-  Psy Defense: 3
-  Rank: 115
+  Agility: 2
+  Armor: 10
+  Psy Defense: 10
+  Rank: 109
 Attacks:
-  Air: 2/6
-  Direct: 3/9
-  Close: 7/6
+  Air: 15/15
+  Indirect: 7/20
 Load aboard transport: YES
-Upkeep / Maintenance: 15
-Build Cost: 146
+Upkeep / Maintenance: 7
+Build Cost: 70
 Build Resource Requirements:
-  Food: 22
-  Energy: 50
-  Metal: 31
-  Trace: 38
-  Exotica: 22
-  Chemicals: 58
-  Electronics: 28
-Build Trench Strafer Monoplane in Factory
-Time to Build / Upgrade: 5
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
+  Food: 2
+  Energy: 28
+  Metal: 21
+  Trace: 14
+  Exotica: 2
+  Chemicals: 42
+  Electronics: 14
+Build Guided Missile Rocket Launcher in Factory
+Time to Build / Upgrade: 2
+[3370] Technologies Required to Build Unit (86):
+  [1700] Main Battle Tank (88)
+  [1670] Guided Missiles (83)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Battle Monoplane
-Nick Name: A-MBttl
+Name: Missile Tank
+Nick Name: Missile Tank
 Scores & Strengths:
-  Tech Score: 265
-  Unit Score: 527
-  Average Score: 396
-  Stat Strength: 422
-  Total Strength: 527
-  Planet Strength: 527
+  Tech Score: 656
+  Unit Score: 654
+  Average Score: 655
+  Stat Strength: 394
+  Total Strength: 654
+  Planet Strength: 654
   Space Strength: 0
-  Garrison Strength: 175
+  Garrison Strength: 266
 Statistics:
-  Movement Type: air
-  Move Points: 9
+  Movement Type: tread
+  Move Points: 6
   Spot: 6
-  Camouflage: 2
-  Agility: 16
-  Armor: 6
-  Psy Defense: 3
-  Rank: 143
+  Camouflage: 3
+  Agility: 5
+  Armor: 12
+  Psy Defense: 12
+  Rank: 105
 Attacks:
-  Air: 7/8
-  Indirect: 7/7
+  Air: 10/14
+  Indirect: 8/15
 Load aboard transport: YES
-Upkeep / Maintenance: 10
-Build Cost: 99
+Upkeep / Maintenance: 6
+Build Cost: 57
 Build Resource Requirements:
-  Food: 17
-  Energy: 29
-  Metal: 17
-  Trace: 30
-  Exotica: 17
-  Chemicals: 35
-  Electronics: 17
-Build Battle Monoplane in Factory
-Time to Build / Upgrade: 4
-[1055] Technologies Required to Build Unit (94):
-  [445] Monoplane (94)
-  [610] Air-Air Rockets (94)
+  Food: 2
+  Energy: 19
+  Metal: 31
+  Trace: 11
+  Exotica: 2
+  Chemicals: 33
+  Electronics: 9
+Build Missile Tank in Factory
+Time to Build / Upgrade: 2
+[3370] Technologies Required to Build Unit (86):
+  [1700] Main Battle Tank (88)
+  [1670] Guided Missiles (83)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Large Bomber Monoplane
-Nick Name: A-MLB
+Name: Shock Rocket Artillery
+Nick Name: Hellcat
 Scores & Strengths:
-  Tech Score: 265
-  Unit Score: 527
-  Average Score: 396
-  Stat Strength: 410
-  Total Strength: 527
-  Planet Strength: 527
+  Tech Score: 2123
+  Unit Score: 1988
+  Average Score: 2056
+  Stat Strength: 993
+  Total Strength: 1988
+  Planet Strength: 1988
   Space Strength: 0
-  Garrison Strength: 158
+  Garrison Strength: 573
 Statistics:
-  Movement Type: air
-  Move Points: 11
+  Movement Type: tread
+  Move Points: 12
   Spot: 6
   Camouflage: 2
-  Agility: 13
-  Armor: 8
-  Psy Defense: 4
-  Rank: 152
+  Agility: 3
+  Armor: 20
+  Psy Defense: 20
+  Rank: 168
 Attacks:
-  Air: 3/5
-  Indirect: 6/17
+  Air: 20/27
+  Indirect: 7/65
 Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 117
+Upkeep / Maintenance: 194
+Build Cost: 1849
 Build Resource Requirements:
-  Food: 16
-  Energy: 48
-  Metal: 30
-  Trace: 19
-  Exotica: 16
-  Chemicals: 58
-  Electronics: 11
-Build Large Bomber Monoplane in Factory
-Time to Build / Upgrade: 4
-[1055] Technologies Required to Build Unit (94):
-  [445] Monoplane (94)
-  [610] Air-Air Rockets (94)
+  Chemicals: 14
+  Electronics: 13
+  Ceramsteel: 12
+  Monopols: 88
+Upgrade Rocket Artillery to Shock Rocket Artillery at Factory
+Time to Build / Upgrade: 2
+[10830] Technology Required to Build Unit (80):
+  [10830] Violator Assault Gunnery (80)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Giant Bomber Monoplane
-Nick Name: A-MGB
+Name: Stealth Rocket Artillery
+Nick Name: Werewolf
 Scores & Strengths:
-  Tech Score: 265
-  Unit Score: 528
-  Average Score: 396
-  Stat Strength: 409
-  Total Strength: 528
-  Planet Strength: 528
+  Tech Score: 5364
+  Unit Score: 5358
+  Average Score: 5361
+  Stat Strength: 3698
+  Total Strength: 5358
+  Planet Strength: 5358
   Space Strength: 0
-  Garrison Strength: 152
+  Garrison Strength: 1117
 Statistics:
-  Movement Type: air
-  Move Points: 12
-  Spot: 6
-  Camouflage: 2
-  Agility: 10
-  Armor: 10
-  Psy Defense: 5
-  Rank: 153
+  Movement Type: tread
+  Move Points: 23
+  Spot: 14
+  Camouflage: 22
+  Agility: 21
+  Armor: 32
+  Psy Defense: 32
+  Rank: 201
 Attacks:
-  Indirect: 7/17
+  Air: 25/29
+  Indirect: 17/55
 Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 113
+Upkeep / Maintenance: 158
+Build Cost: 1494
 Build Resource Requirements:
-  Food: 15
-  Energy: 44
-  Metal: 47
-  Trace: 16
-  Exotica: 15
-  Chemicals: 53
-  Electronics: 7
-Build Giant Bomber Monoplane in Factory
-Time to Build / Upgrade: 4
-[1055] Technologies Required to Build Unit (94):
-  [445] Monoplane (94)
-  [610] Air-Air Rockets (94)
+  Biochems: 36
+  Electronics: 10
+  Ceramsteel: 10
+  Wetware: 6
+  Monopols: 38
+Upgrade Rocket Artillery to Stealth Rocket Artillery at Factory
+Time to Build / Upgrade: 1
+[37210] Technology Required to Build Unit (34):
+  [37210] Neumonic Land Vehicles (34)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

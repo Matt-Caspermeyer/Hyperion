@@ -1,49 +1,172 @@
-All units of the unit class Plague Bomb are listed herein (1 in total):
+All units of the unit class Mega Tank are listed herein (4 in total):
 
 --1--
-Name: Plague Bomb
-Nick Name: Plague Bomb
+Name: Mega Tank
+Nick Name: Mastiff
 Scores & Strengths:
-  Tech Score: 3357
-  Unit Score: 3356
-  Average Score: 3356
-  Stat Strength: 3322
-  Total Strength: 3356
-  Planet Strength: 3356
+  Tech Score: 2510
+  Unit Score: 2509
+  Average Score: 2509
+  Stat Strength: 1996
+  Total Strength: 2509
+  Planet Strength: 2509
   Space Strength: 0
-  Garrison Strength: 612
+  Garrison Strength: 724
 Statistics:
-  Movement Type: hover
-  Move Points: 30
-  Spot: 0
-  Camouflage: 31
-  Agility: 31
-  Armor: 10
-  Psy Defense: 20
-  Rank: 3
+  Movement Type: tread
+  Move Points: 12
+  Spot: 8
+  Camouflage: 6
+  Agility: 20
+  Armor: 26
+  Psy Defense: 26
+  Rank: 103
 Attacks:
-  Indirect: 2/17
+  Indirect: 12/21
+  Direct: 9/19
+  Close: 6/15
 Load aboard transport: YES
-Never Retreats
-Immune to Plague
-Causes Plague
-Destroyed after combat
-Upkeep / Maintenance: 63
-Build Cost: 630
+Upkeep / Maintenance: 97
+Build Cost: 904
 Build Resource Requirements:
-  Food: 4
-  Energy: 7
-  Metal: 4
-  Trace: 11
-  Exotica: 54
-  Chemicals: 142
-  Biochems: 122
-  Electronics: 27
-  Ceramsteel: 6
-  Monopols: 41
-  Gems: 25
-Build Plague Bomb in Lab
-Time to Build / Upgrade: 6
-[19945] Technology Required to Build Unit (9):
-  [19945] Explosive Plague Devices (9)
+  Electronics: 5
+  Ceramsteel: 16
+  Monopols: 40
+Upgrade Main Battle Tank to Mega Tank at Factory
+Time to Build / Upgrade: 2
+[13535] Technology Required to Build Unit (74):
+  [13535] Powered Ceramsteel Tanks (74)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Psy Mega Tank
+Nick Name: St. Bernard
+Scores & Strengths:
+  Tech Score: 2735
+  Unit Score: 4785
+  Average Score: 3760
+  Stat Strength: 4024
+  Total Strength: 4785
+  Planet Strength: 4785
+  Space Strength: 4284
+  Garrison Strength: 1381
+Statistics:
+  Movement Type: tread
+  Move Points: 12
+  Spot: 8
+  Camouflage: 6
+  Agility: 20
+  Armor: 26
+  Psy Defense: 52
+  Rank: 116
+Attacks:
+  Psychic: 13/20
+  Indirect: 12/20
+  Direct: 9/19
+  Close: 6/15
+Load aboard transport: YES
+Upkeep / Maintenance: 356
+Build Cost: 3563
+Build Resource Requirements:
+  Food: 3
+  Energy: 11
+  Metal: 21
+  Trace: 5
+  Exotica: 3
+  Chemicals: 30
+  Electronics: 22
+  Ceramsteel: 36
+  Monopols: 59
+  Gems: 79
+Build Psy Mega Tank in Factory
+Time to Build / Upgrade: 7
+[15305] Technologies Required to Build Unit (76):
+  [330] Holy Warriors (82)
+  [14975] Power Hovertanks (70)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Stealth Mega Tank
+Nick Name: Ghost Tank
+Scores & Strengths:
+  Tech Score: 5364
+  Unit Score: 5358
+  Average Score: 5361
+  Stat Strength: 3705
+  Total Strength: 5358
+  Planet Strength: 5358
+  Space Strength: 0
+  Garrison Strength: 1229
+Statistics:
+  Movement Type: tread
+  Move Points: 19
+  Spot: 14
+  Camouflage: 23
+  Agility: 21
+  Armor: 33
+  Psy Defense: 33
+  Rank: 151
+Attacks:
+  Indirect: 21/29
+  Direct: 20/27
+  Close: 21/24
+Load aboard transport: YES
+Upkeep / Maintenance: 126
+Build Cost: 360
+Build Resource Requirements:
+  Trace: 2
+  Biochems: 27
+  Electronics: 4
+  Wetware: 7
+Upgrade Mega Tank to Stealth Mega Tank at Factory
+Time to Build / Upgrade: 1
+[37210] Technology Required to Build Unit (34):
+  [37210] Neumonic Land Vehicles (34)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Stealth Tank
+Nick Name: Wraith
+Scores & Strengths:
+  Tech Score: 5364
+  Unit Score: 5358
+  Average Score: 5361
+  Stat Strength: 4644
+  Total Strength: 5358
+  Planet Strength: 5358
+  Space Strength: 0
+  Garrison Strength: 1198
+Statistics:
+  Movement Type: tread
+  Move Points: 20
+  Spot: 14
+  Camouflage: 40
+  Agility: 20
+  Armor: 32
+  Psy Defense: 32
+  Rank: 139
+Attacks:
+  Indirect: 11/26
+  Direct: 15/20
+  Close: 8/16
+Load aboard transport: YES
+Upkeep / Maintenance: 97
+Build Cost: 69
+Build Resource Requirements:
+  Trace: 9
+  Biochems: 20
+  Electronics: 21
+  Wetware: 4
+Upgrade Mega Tank to Stealth Tank at Factory
+Time to Build / Upgrade: 1
+[37210] Technology Required to Build Unit (34):
+  [37210] Neumonic Land Vehicles (34)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

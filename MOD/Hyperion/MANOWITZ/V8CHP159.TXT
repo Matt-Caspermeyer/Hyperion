@@ -1,48 +1,473 @@
-All units of the unit class Grappler are listed herein (1 in total):
+All units of the unit class Rebel Partisans are listed herein (11 in total):
 
 --1--
-Name: Grappler
-Nick Name: Grappler
+Name: Rebel Partisans
+Nick Name: Partisan
 Scores & Strengths:
-  Tech Score: 1530
-  Unit Score: 1530
-  Average Score: 1530
-  Stat Strength: 1085
-  Total Strength: 1530
-  Planet Strength: 1300
-  Space Strength: 1315
-  Garrison Strength: 650
+  Tech Score: 1019
+  Unit Score: 1019
+  Average Score: 1019
+  Stat Strength: 656
+  Total Strength: 1019
+  Planet Strength: 1019
+  Space Strength: 0
+  Garrison Strength: 322
 Statistics:
-  Movement Type: gate
-  Move Points: 4
-  Spot: 12
-  Camouflage: 8
-  Agility: 16
-  Armor: 22
-  Psy Defense: 11
-  Rank: 158
+  Movement Type: foot
+  Move Points: 10
+  Spot: 10
+  Camouflage: 10
+  Agility: 18
+  Armor: 4
+  Psy Defense: 4
+  Rank: 55
 Attacks:
-  Direct Space: 9/10
-  Closed Space: 10/14
-  Direct: 8/10
-  Close: 9/15
-Immune to Plague
-Causes Tactical Plague
-Upkeep / Maintenance: 259
-Build Cost: 2594
+  Air: 14/6
+  Indirect: 12/9
+  Direct: 12/8
+  Close: 15/5
+Load aboard transport: YES
+Upkeep / Maintenance: 16
+Build Cost: 77
 Build Resource Requirements:
-  Food: 4
-  Energy: 100
-  Metal: 10
-  Trace: 8
-  Exotica: 4
-  Chemicals: 124
-  Biochems: 168
-  Electronics: 19
-S  ingularities: 2
-Build Grappler in Hive
-Time to Build / Upgrade: 5
-[6995] Technology Required to Build Unit (37):
-  [6995] Symbiot Psychology (37)
+  Biochems: 43
+  Electronics: 45
+  Ceramsteel: 1
+Upgrade Freedom Fighter to Rebel Partisans at Fort
+Time to Build / Upgrade: 2
+[4070] Technology Required to Build Unit (69):
+  [4070] Tracker Legion (69)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Rebel Officer
+Nick Name: Rebel Officer
+Scores & Strengths:
+  Tech Score: 1171
+  Unit Score: 1171
+  Average Score: 1171
+  Stat Strength: 516
+  Total Strength: 1171
+  Planet Strength: 1171
+  Space Strength: 0
+  Garrison Strength: 414
+Statistics:
+  Movement Type: foot
+  Move Points: 8
+  Spot: 8
+  Camouflage: 8
+  Agility: 14
+  Armor: 8
+  Psy Defense: 8
+  Rank: 726
+Attacks:
+  Air: 17/12
+  Indirect: 14/12
+  Direct: 13/10
+  Close: 17/9
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 21
+Build Cost: 129
+Build Resource Requirements:
+  Energy: 7
+  Metal: 3
+  Ceramsteel: 2
+Upgrade Rebel Partisans to Rebel Officer at Fort
+Time to Build / Upgrade: 1
+[6240] Technologies Required to Build Unit (65):
+  [1615] Wireblades (76)
+  [4625] Xenoenvironments (53)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Rebel Partisans (BE)
+Nick Name: Partisan (BE)
+Scores & Strengths:
+  Tech Score: 1042
+  Unit Score: 1189
+  Average Score: 1115
+  Stat Strength: 756
+  Total Strength: 1189
+  Planet Strength: 1189
+  Space Strength: 0
+  Garrison Strength: 358
+Statistics:
+  Movement Type: foot
+  Move Points: 11
+  Spot: 11
+  Camouflage: 11
+  Agility: 19
+  Armor: 4
+  Psy Defense: 4
+  Rank: 58
+Attacks:
+  Air: 16/6
+  Indirect: 14/10
+  Direct: 14/8
+  Close: 17/5
+Load aboard transport: YES
+Upkeep / Maintenance: 19
+Build Cost: 110
+Build Resource Requirements:
+  Food: 1
+  Energy: 1
+  Trace: 8
+  Exotica: 2
+  Chemicals: 1
+  Biochems: 7
+  Electronics: 6
+Upgrade Rebel Partisans to Rebel Partisans (BE) at Biochem Plant
+Time to Build / Upgrade: 1
+[4490] Technologies Required to Build Unit (73):
+  [4070] Tracker Legion (69)
+  [420] Biochem-Enhanced Soldiers (77)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Rebel Partisans (SE)
+Nick Name: Partisan (SE)
+Scores & Strengths:
+  Tech Score: 1086
+  Unit Score: 1343
+  Average Score: 1215
+  Stat Strength: 836
+  Total Strength: 1343
+  Planet Strength: 1343
+  Space Strength: 0
+  Garrison Strength: 387
+Statistics:
+  Movement Type: foot
+  Move Points: 12
+  Spot: 11
+  Camouflage: 11
+  Agility: 20
+  Armor: 5
+  Psy Defense: 5
+  Rank: 60
+Attacks:
+  Air: 17/7
+  Indirect: 14/11
+  Direct: 14/9
+  Close: 18/6
+Load aboard transport: YES
+Upkeep / Maintenance: 21
+Build Cost: 136
+Build Resource Requirements:
+  Food: 2
+  Energy: 3
+  Metal: 1
+  Trace: 9
+  Exotica: 3
+  Chemicals: 5
+  Biochems: 13
+  Electronics: 9
+Upgrade Rebel Partisans to Rebel Partisans (SE) at Hospital
+Time to Build / Upgrade: 1
+[4745] Technologies Required to Build Unit (72):
+  [4070] Tracker Legion (69)
+  [675] Surgically-Enhanced Soldiers (75)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Rebel Partisans (DE)
+Nick Name: Partisan (DE)
+Scores & Strengths:
+  Tech Score: 1378
+  Unit Score: 1558
+  Average Score: 1468
+  Stat Strength: 950
+  Total Strength: 1558
+  Planet Strength: 1558
+  Space Strength: 0
+  Garrison Strength: 432
+Statistics:
+  Movement Type: foot
+  Move Points: 13
+  Spot: 11
+  Camouflage: 13
+  Agility: 21
+  Armor: 5
+  Psy Defense: 5
+  Rank: 66
+Attacks:
+  Air: 19/8
+  Indirect: 16/11
+  Direct: 16/10
+  Close: 20/6
+Load aboard transport: YES
+Upkeep / Maintenance: 17
+Build Cost: 90
+Build Resource Requirements:
+  Metal: 1
+  Biochems: 3
+Upgrade Rebel Partisans to Rebel Partisans (DE) at Biochem Plant
+Time to Build / Upgrade: 1
+[7510] Technologies Required to Build Unit (67):
+  [4070] Tracker Legion (69)
+  [3440] Drug-Enhanced Soldiers (65)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Rebel Partisans (GE)
+Nick Name: Partisan (GE)
+Scores & Strengths:
+  Tech Score: 1439
+  Unit Score: 1754
+  Average Score: 1596
+  Stat Strength: 1049
+  Total Strength: 1754
+  Planet Strength: 1754
+  Space Strength: 0
+  Garrison Strength: 468
+Statistics:
+  Movement Type: foot
+  Move Points: 14
+  Spot: 12
+  Camouflage: 14
+  Agility: 21
+  Armor: 6
+  Psy Defense: 6
+  Rank: 69
+Attacks:
+  Air: 20/8
+  Indirect: 17/12
+  Direct: 17/11
+  Close: 22/7
+Load aboard transport: YES
+Upkeep / Maintenance: 17
+Build Cost: 80
+Build Resource Requirements:
+  Biochems: 1
+Upgrade Rebel Partisans (DE) to Rebel Partisans (GE) at Lab
+Time to Build / Upgrade: 1
+[10090] Technologies Required to Build Unit (59):
+  [4070] Tracker Legion (69)
+  [6020] Chemical Shock Legion (49)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Rebel Partisans (PA)
+Nick Name: Partisan (PA)
+Scores & Strengths:
+  Tech Score: 1723
+  Unit Score: 1991
+  Average Score: 1857
+  Stat Strength: 1150
+  Total Strength: 1991
+  Planet Strength: 1991
+  Space Strength: 0
+  Garrison Strength: 514
+Statistics:
+  Movement Type: foot
+  Move Points: 15
+  Spot: 12
+  Camouflage: 15
+  Agility: 22
+  Armor: 6
+  Psy Defense: 6
+  Rank: 74
+Attacks:
+  Air: 21/9
+  Indirect: 18/14
+  Direct: 18/12
+  Close: 23/8
+Load aboard transport: YES
+Upkeep / Maintenance: 23
+Build Cost: 89
+Build Resource Requirements:
+  Energy: 4
+  Chemicals: 4
+  Electronics: 2
+  Ceramsteel: 1
+Upgrade Rebel Partisans (SE) to Rebel Partisans (PA) at Hospital
+Time to Build / Upgrade: 1
+[10245] Technologies Required to Build Unit (63):
+  [4070] Tracker Legion (69)
+  [6175] Prosthetically-Augmented Soldiers (57)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Rebel Partisans (AVE)
+Nick Name: Partisan (AVE)
+Scores & Strengths:
+  Tech Score: 1898
+  Unit Score: 2229
+  Average Score: 2063
+  Stat Strength: 1282
+  Total Strength: 2229
+  Planet Strength: 2229
+  Space Strength: 0
+  Garrison Strength: 557
+Statistics:
+  Movement Type: foot
+  Move Points: 16
+  Spot: 13
+  Camouflage: 16
+  Agility: 23
+  Armor: 6
+  Psy Defense: 6
+  Rank: 79
+Attacks:
+  Air: 23/9
+  Indirect: 20/14
+  Direct: 20/13
+  Close: 25/8
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 26
+Build Cost: 179
+Build Resource Requirements:
+  Energy: 2
+  Trace: 2
+  Chemicals: 5
+  Biochems: 7
+  Electronics: 4
+Upgrade Rebel Partisans (GE) to Rebel Partisans (AVE) at Lab
+Time to Build / Upgrade: 1
+[12970] Technologies Required to Build Unit (47):
+  [4070] Tracker Legion (69)
+  [8900] Genetically-Enhanced Warriors (25)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Rebel Partisans (CE)
+Nick Name: Partisan (CE)
+Scores & Strengths:
+  Tech Score: 2074
+  Unit Score: 2331
+  Average Score: 2202
+  Stat Strength: 1341
+  Total Strength: 2331
+  Planet Strength: 2331
+  Space Strength: 0
+  Garrison Strength: 565
+Statistics:
+  Movement Type: foot
+  Move Points: 17
+  Spot: 13
+  Camouflage: 16
+  Agility: 23
+  Armor: 7
+  Psy Defense: 7
+  Rank: 80
+Attacks:
+  Air: 23/10
+  Indirect: 20/15
+  Direct: 20/13
+  Close: 25/8
+Load aboard transport: YES
+Upkeep / Maintenance: 24
+Build Cost: 149
+Build Resource Requirements:
+  Food: 1
+  Energy: 2
+  Metal: 1
+  Exotica: 1
+  Chemicals: 4
+Upgrade Rebel Partisans (PA) to Rebel Partisans (CE) at Lab
+Time to Build / Upgrade: 1
+[12670] Technologies Required to Build Unit (59):
+  [4070] Tracker Legion (69)
+  [8600] Cybernetically-Enhanced Soldiers (48)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Rebel Partisans (MF)
+Nick Name: Partisan (MF)
+Scores & Strengths:
+  Tech Score: 3221
+  Unit Score: 3462
+  Average Score: 3341
+  Stat Strength: 1904
+  Total Strength: 3462
+  Planet Strength: 3462
+  Space Strength: 0
+  Garrison Strength: 755
+Statistics:
+  Movement Type: foot
+  Move Points: 21
+  Spot: 15
+  Camouflage: 20
+  Agility: 26
+  Armor: 9
+  Psy Defense: 9
+  Rank: 100
+Attacks:
+  Air: 29/12
+  Indirect: 25/19
+  Direct: 25/17
+  Close: 31/10
+Load aboard transport: YES
+Upkeep / Maintenance: 162
+Build Cost: 1469
+Build Resource Requirements:
+  Wetware: 23
+  Monopols: 27
+Upgrade Rebel Partisans (CE) to Rebel Partisans (MF) at Wetware
+Time to Build / Upgrade: 3
+[22645] Technologies Required to Build Unit (52):
+  [4070] Tracker Legion (69)
+  [18575] Machine-Fused Soldiers (35)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Rebel Partisans (NE)
+Nick Name: Partisan (NE)
+Scores & Strengths:
+  Tech Score: 3908
+  Unit Score: 4341
+  Average Score: 4125
+  Stat Strength: 2339
+  Total Strength: 4341
+  Planet Strength: 4341
+  Space Strength: 0
+  Garrison Strength: 905
+Statistics:
+  Movement Type: foot
+  Move Points: 23
+  Spot: 16
+  Camouflage: 25
+  Agility: 27
+  Armor: 10
+  Psy Defense: 10
+  Rank: 113
+Attacks:
+  Air: 33/14
+  Indirect: 28/21
+  Direct: 28/19
+  Close: 35/12
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 214
+Build Cost: 1958
+Build Resource Requirements:
+  Wetware: 26
+  Monopols: 21
+Upgrade Rebel Partisans (AVE) to Rebel Partisans (NE) at Fusorium
+Time to Build / Upgrade: 3
+[28200] Technologies Required to Build Unit (51):
+  [4070] Tracker Legion (69)
+  [24130] Neumonically-Enhanced Soldiers (32)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

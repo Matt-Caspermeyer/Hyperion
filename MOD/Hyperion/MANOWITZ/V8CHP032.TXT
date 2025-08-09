@@ -1,42 +1,493 @@
-All units of the unit class Land Mine Nullifier are listed herein (1 in total):
+All units of the unit class Flame Thrower Infantry are listed herein (12 in total):
 
 --1--
-Name: Land Mine Nullifier
-Nick Name: LM Nullifier
+Name: Flame Thrower Infantry
+Nick Name: FT Inf
 Scores & Strengths:
-  Tech Score: 139
+  Tech Score: 102
   Unit Score: 100
-  Average Score: 119
-  Stat Strength: 100
+  Average Score: 101
+  Stat Strength: 50
   Total Strength: 100
   Planet Strength: 100
   Space Strength: 0
-  Garrison Strength: 125
+  Garrison Strength: 70
 Statistics:
   Movement Type: foot
-  Move Points: 0
-  Spot: 0
-  Camouflage: 0
-  Agility: 10
-  Armor: 0
-  Psy Defense: 0
+  Move Points: 2
+  Spot: 2
+  Camouflage: 1
+  Agility: 6
+  Armor: 2
+  Psy Defense: 1
   Rank: 1
+Attacks:
+  Close: 10/5
 Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 2
-Build Cost: 23
+Upkeep / Maintenance: 4
+Build Cost: 18
 Build Resource Requirements:
-  Food: 8
-  Energy: 9
-  Trace: 8
-  Exotica: 8
-  Chemicals: 8
-Build Land Mine Nullifier in Factory
+  Trace: 32
+  Exotica: 5
+  Chemicals: 10
+Upgrade Peasant to Flame Thrower Infantry at Fort
 Time to Build / Upgrade: 1
-[435] Technologies Required to Build Unit (99):
-  [110] Mechanical & Aerospace Engineering (98)
-  [100] Psychosocial Engineering (100)
+[290] Technologies Required to Build Unit (98):
+  [125] Compression Ignition Engine (97)
   [165] Autocannon (98)
-  [60] Torpedo (98)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Flame Thrower Infantry (PE)
+Nick Name: FT Inf (PE)
+Scores & Strengths:
+  Tech Score: 151
+  Unit Score: 151
+  Average Score: 151
+  Stat Strength: 73
+  Total Strength: 151
+  Planet Strength: 151
+  Space Strength: 0
+  Garrison Strength: 87
+Statistics:
+  Movement Type: foot
+  Move Points: 3
+  Spot: 2
+  Camouflage: 1
+  Agility: 7
+  Armor: 3
+  Psy Defense: 1
+  Rank: 2
+Attacks:
+  Close: 13/6
+Load aboard transport: YES
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 4
+Build Cost: 18
+Build Resource Requirements:
+  Metal: 1
+  Trace: 36
+  Exotica: 5
+  Chemicals: 11
+Upgrade Peasant to Flame Thrower Infantry (PE) at Fort
+Time to Build / Upgrade: 1
+[470] Technologies Required to Build Unit (95):
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [180] Performance-Enhanced Soldiers (90)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Flame Thrower Infantry (BE)
+Nick Name: FT Inf (BE)
+Scores & Strengths:
+  Tech Score: 199
+  Unit Score: 178
+  Average Score: 188
+  Stat Strength: 73
+  Total Strength: 178
+  Planet Strength: 178
+  Space Strength: 0
+  Garrison Strength: 102
+Statistics:
+  Movement Type: foot
+  Move Points: 3
+  Spot: 2
+  Camouflage: 1
+  Agility: 7
+  Armor: 3
+  Psy Defense: 1
+  Rank: 2
+Attacks:
+  Close: 15/7
+Load aboard transport: YES
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 8
+Build Cost: 62
+Build Resource Requirements:
+  Metal: 2
+  Biochems: 38
+Upgrade Flame Thrower Infantry to Flame Thrower Infantry (BE) at Biochem Plant
+Time to Build / Upgrade: 1
+[710] Technologies Required to Build Unit (91):
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [420] Biochem-Enhanced Soldiers (77)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Flame Thrower Infantry (SE)
+Nick Name: FT Inf (SE)
+Scores & Strengths:
+  Tech Score: 277
+  Unit Score: 275
+  Average Score: 276
+  Stat Strength: 113
+  Total Strength: 275
+  Planet Strength: 275
+  Space Strength: 0
+  Garrison Strength: 137
+Statistics:
+  Movement Type: foot
+  Move Points: 4
+  Spot: 3
+  Camouflage: 2
+  Agility: 8
+  Armor: 4
+  Psy Defense: 2
+  Rank: 3
+Attacks:
+  Close: 18/9
+Load aboard transport: YES
+Upkeep / Maintenance: 13
+Build Cost: 112
+Build Resource Requirements:
+  Energy: 3
+  Metal: 3
+  Trace: 13
+  Exotica: 1
+  Chemicals: 5
+  Biochems: 54
+Upgrade Flame Thrower Infantry to Flame Thrower Infantry (SE) at Hospital
+Time to Build / Upgrade: 1
+[965] Technologies Required to Build Unit (90):
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [675] Surgically-Enhanced Soldiers (75)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Flame Thrower Infantry (DE)
+Nick Name: FT Inf (DE)
+Scores & Strengths:
+  Tech Score: 904
+  Unit Score: 707
+  Average Score: 806
+  Stat Strength: 227
+  Total Strength: 707
+  Planet Strength: 707
+  Space Strength: 0
+  Garrison Strength: 288
+Statistics:
+  Movement Type: foot
+  Move Points: 6
+  Spot: 4
+  Camouflage: 3
+  Agility: 11
+  Armor: 6
+  Psy Defense: 3
+  Rank: 8
+Attacks:
+  Close: 32/15
+Load aboard transport: YES
+Upkeep / Maintenance: 14
+Build Cost: 123
+Build Resource Requirements:
+  Metal: 10
+  Chemicals: 2
+  Biochems: 50
+  Electronics: 38
+Upgrade Flame Thrower Infantry to Flame Thrower Infantry (DE) at Biochem Plant
+Time to Build / Upgrade: 1
+[3730] Technologies Required to Build Unit (87):
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [3440] Drug-Enhanced Soldiers (65)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Flame Thrower Infantry (PA)
+Nick Name: FT Inf (PA)
+Scores & Strengths:
+  Tech Score: 1396
+  Unit Score: 1061
+  Average Score: 1228
+  Stat Strength: 320
+  Total Strength: 1061
+  Planet Strength: 1061
+  Space Strength: 0
+  Garrison Strength: 375
+Statistics:
+  Movement Type: foot
+  Move Points: 8
+  Spot: 4
+  Camouflage: 4
+  Agility: 12
+  Armor: 8
+  Psy Defense: 4
+  Rank: 12
+Attacks:
+  Close: 39/19
+Load aboard transport: YES
+Upkeep / Maintenance: 22
+Build Cost: 104
+Build Resource Requirements:
+  Energy: 6
+  Chemicals: 17
+  Electronics: 71
+  Ceramsteel: 7
+Upgrade Flame Thrower Infantry (SE) to Flame Thrower Infantry (PA) at Hospital
+Time to Build / Upgrade: 2
+[6465] Technologies Required to Build Unit (84):
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [6175] Prosthetically-Augmented Soldiers (57)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Flame Thrower Infantry (GE)
+Nick Name: FT Inf (GE)
+Scores & Strengths:
+  Tech Score: 1372
+  Unit Score: 1061
+  Average Score: 1216
+  Stat Strength: 320
+  Total Strength: 1061
+  Planet Strength: 1061
+  Space Strength: 0
+  Garrison Strength: 375
+Statistics:
+  Movement Type: foot
+  Move Points: 8
+  Spot: 4
+  Camouflage: 4
+  Agility: 12
+  Armor: 8
+  Psy Defense: 4
+  Rank: 12
+Attacks:
+  Close: 39/19
+Load aboard transport: YES
+Upkeep / Maintenance: 18
+Build Cost: 56
+Build Resource Requirements:
+  Energy: 3
+  Chemicals: 6
+  Biochems: 14
+  Electronics: 2
+  Ceramsteel: 2
+Upgrade Flame Thrower Infantry (DE) to Flame Thrower Infantry (GE) at Lab
+Time to Build / Upgrade: 1
+[6310] Technologies Required to Build Unit (81):
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [6020] Chemical Shock Legion (49)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Flame Thrower Infantry (CE)
+Nick Name: FT Inf (CE)
+Scores & Strengths:
+  Tech Score: 1788
+  Unit Score: 1347
+  Average Score: 1568
+  Stat Strength: 379
+  Total Strength: 1347
+  Planet Strength: 1347
+  Space Strength: 0
+  Garrison Strength: 449
+Statistics:
+  Movement Type: foot
+  Move Points: 9
+  Spot: 4
+  Camouflage: 4
+  Agility: 13
+  Armor: 9
+  Psy Defense: 4
+  Rank: 16
+Attacks:
+  Close: 44/22
+Load aboard transport: YES
+Upkeep / Maintenance: 22
+Build Cost: 119
+Build Resource Requirements:
+  Energy: 6
+  Metal: 1
+  Exotica: 1
+  Chemicals: 8
+  Ceramsteel: 1
+Upgrade Flame Thrower Infantry (PA) to Flame Thrower Infantry (CE) at Lab
+Time to Build / Upgrade: 1
+[8890] Technologies Required to Build Unit (81):
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [8600] Cybernetically-Enhanced Soldiers (48)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Flame Thrower Infantry (AVE)
+Nick Name: FT Inf (AVE)
+Scores & Strengths:
+  Tech Score: 1837
+  Unit Score: 1369
+  Average Score: 1603
+  Stat Strength: 379
+  Total Strength: 1369
+  Planet Strength: 1369
+  Space Strength: 0
+  Garrison Strength: 456
+Statistics:
+  Movement Type: foot
+  Move Points: 9
+  Spot: 4
+  Camouflage: 4
+  Agility: 13
+  Armor: 9
+  Psy Defense: 4
+  Rank: 16
+Attacks:
+  Close: 45/22
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 26
+Build Cost: 201
+Build Resource Requirements:
+  Energy: 2
+  Chemicals: 4
+  Biochems: 8
+  Electronics: 1
+Upgrade Flame Thrower Infantry (GE) to Flame Thrower Infantry (AVE) at Lab
+Time to Build / Upgrade: 1
+[9190] Technologies Required to Build Unit (73):
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [8900] Genetically-Enhanced Warriors (25)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Flame Thrower Infantry (ME)
+Nick Name: FT Inf (ME)
+Scores & Strengths:
+  Tech Score: 1401
+  Unit Score: 1525
+  Average Score: 1463
+  Stat Strength: 725
+  Total Strength: 1525
+  Planet Strength: 1525
+  Space Strength: 0
+  Garrison Strength: 359
+Statistics:
+  Movement Type: foot
+  Move Points: 18
+  Spot: 4
+  Camouflage: 4
+  Agility: 17
+  Armor: 8
+  Psy Defense: 4
+  Rank: 15
+Attacks:
+  Close: 40/20
+Load aboard transport: YES
+Upkeep / Maintenance: 15
+Build Cost: 128
+Build Resource Requirements:
+  Food: 3
+  Energy: 13
+  Trace: 7
+  Exotica: 3
+  Chemicals: 29
+  Electronics: 74
+  Ceramsteel: 3
+Upgrade Flame Thrower Infantry to Flame Thrower Infantry (ME) at Factory
+Time to Build / Upgrade: 2
+[6220] Technology Required to Build Unit (80):
+  [6220] Mechanically-Enhanced Soldiers (80)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Flame Thrower Infantry (MF)
+Nick Name: FT Inf (MF)
+Scores & Strengths:
+  Tech Score: 3182
+  Unit Score: 2321
+  Average Score: 2752
+  Stat Strength: 610
+  Total Strength: 2321
+  Planet Strength: 2321
+  Space Strength: 0
+  Garrison Strength: 670
+Statistics:
+  Movement Type: foot
+  Move Points: 12
+  Spot: 5
+  Camouflage: 6
+  Agility: 15
+  Armor: 12
+  Psy Defense: 6
+  Rank: 28
+Attacks:
+  Close: 59/29
+Load aboard transport: YES
+Upkeep / Maintenance: 177
+Build Cost: 1647
+Build Resource Requirements:
+  Energy: 1
+  Biochems: 3
+  Wetware: 29
+  Monopols: 36
+Upgrade Flame Thrower Infantry (CE) to Flame Thrower Infantry (MF) at Wetware
+Time to Build / Upgrade: 3
+[18865] Technologies Required to Build Unit (77):
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [18575] Machine-Fused Soldiers (35)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Flame Thrower Infantry (NE)
+Nick Name: FT Inf (NE)
+Scores & Strengths:
+  Tech Score: 3872
+  Unit Score: 2936
+  Average Score: 3404
+  Stat Strength: 758
+  Total Strength: 2936
+  Planet Strength: 2936
+  Space Strength: 0
+  Garrison Strength: 814
+Statistics:
+  Movement Type: foot
+  Move Points: 13
+  Spot: 5
+  Camouflage: 11
+  Agility: 15
+  Armor: 13
+  Psy Defense: 7
+  Rank: 34
+Attacks:
+  Close: 66/33
+Load aboard transport: YES
+Upkeep / Maintenance: 158
+Build Cost: 1382
+Build Resource Requirements:
+  Wetware: 34
+  Monopols: 18
+Upgrade Flame Thrower Infantry (AVE) to Flame Thrower Infantry (NE) at Fusorium
+Time to Build / Upgrade: 2
+[24130] Technology Required to Build Unit (32):
+  [24130] Neumonically-Enhanced Soldiers (32)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

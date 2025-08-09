@@ -1,42 +1,139 @@
-All units of the unit class Ranger Legion are listed herein (1 in total):
+All units of the unit class Space Destroyer are listed herein (3 in total):
 
 --1--
-Name: Ranger Legion
-Nick Name: Rangers
+Name: Space Destroyer
+Nick Name: SS-DD
 Scores & Strengths:
-  Tech Score: 3872
-  Unit Score: 3872
-  Average Score: 3872
-  Stat Strength: 2571
-  Total Strength: 3872
-  Planet Strength: 3872
-  Space Strength: 0
-  Garrison Strength: 939
+  Tech Score: 2580
+  Unit Score: 2580
+  Average Score: 2580
+  Stat Strength: 1810
+  Total Strength: 2580
+  Planet Strength: 0
+  Space Strength: 2580
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 17
-  Spot: 11
-  Camouflage: 28
-  Agility: 27
-  Armor: 18
-  Psy Defense: 18
-  Rank: 114
+  Movement Type: space
+  Move Points: 16
+  Spot: 12
+  Camouflage: 4
+  Agility: 12
+  Armor: 25
+  Psy Defense: 25
+  Rank: 170
 Attacks:
-  Direct: 25/25
-  Close: 26/26
-Load aboard transport: YES
+  Direct Space: 16/28
+  Closed Space: 14/23
 Immune to Plague
-Upkeep / Maintenance: 167
-Build Cost: 1371
+Upkeep / Maintenance: 41
+Build Cost: 405
 Build Resource Requirements:
-  Trace: 2
-  Electronics: 3
-  Wetware: 14
-  Monopols: 27
-Upgrade Genetic Warrior Legion to Ranger Legion at Fort
-Time to Build / Upgrade: 1
-[24130] Technology Required to Build Unit (32):
-  [24130] Neumonically-Enhanced Soldiers (32)
+  Food: 3
+  Energy: 22
+  Metal: 18
+  Trace: 9
+  Exotica: 3
+  Chemicals: 36
+  Biochems: 26
+  Electronics: 14
+  Ceramsteel: 20
+Build Space Destroyer in Starport
+Time to Build / Upgrade: 3
+[14045] Technology Required to Build Unit (84):
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Jump Destroyer
+Nick Name: JJ-DD
+Scores & Strengths:
+  Tech Score: 3399
+  Unit Score: 3361
+  Average Score: 3380
+  Stat Strength: 2369
+  Total Strength: 3361
+  Planet Strength: 0
+  Space Strength: 3361
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 18
+  Spot: 13
+  Camouflage: 5
+  Agility: 13
+  Armor: 29
+  Psy Defense: 29
+  Rank: 209
+Attacks:
+  Direct Space: 18/32
+  Closed Space: 16/26
+Immune to Plague
+Upkeep / Maintenance: 525
+Build Cost: 5250
+Build Resource Requirements:
+  Food: 2
+  Energy: 16
+  Metal: 15
+  Trace: 8
+  Exotica: 3
+  Chemicals: 26
+  Biochems: 20
+  Electronics: 12
+  Ceramsteel: 17
+  Monopols: 38
+S  ingularities: 4
+Build Jump Destroyer in Starport
+Time to Build / Upgrade: 4
+[26415] Technologies Required to Build Unit (76):
+  [4285] Jump Drives (70)
+  [8085] Fusion Rifles (75)
+  [14045] Space Escorts (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Jump Destroyer II
+Nick Name: JJ-DD
+Scores & Strengths:
+  Tech Score: 4325
+  Unit Score: 4202
+  Average Score: 4264
+  Stat Strength: 2906
+  Total Strength: 4202
+  Planet Strength: 0
+  Space Strength: 4202
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 21
+  Spot: 14
+  Camouflage: 5
+  Agility: 14
+  Armor: 32
+  Psy Defense: 32
+  Rank: 225
+Attacks:
+  Direct Space: 21/36
+  Closed Space: 18/30
+Immune to Plague
+Upkeep / Maintenance: 607
+Build Cost: 6066
+Build Resource Requirements:
+  Food: 2
+  Energy: 14
+  Metal: 9
+  Trace: 9
+  Exotica: 2
+  Chemicals: 25
+  Biochems: 23
+  Electronics: 19
+  Ceramsteel: 13
+  Monopols: 37
+S  ingularities: 5
+Build Jump Destroyer II in Starport
+Time to Build / Upgrade: 4
+[27965] Technology Required to Build Unit (75):
+  [27965] Jump Escorts (75)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

@@ -1,355 +1,371 @@
-All units of the unit class Truck are listed herein (8 in total):
+All units of the unit class Torpedo are listed herein (8 in total):
 
 --1--
-Name: Truck
-Nick Name: Truck
+Name: Torpedo
+Nick Name: Torpedo
 Scores & Strengths:
-  Tech Score: 86
-  Unit Score: 55
-  Average Score: 70
-  Stat Strength: 55
-  Total Strength: 55
-  Planet Strength: 55
+  Tech Score: 43
+  Unit Score: 43
+  Average Score: 43
+  Stat Strength: 23
+  Total Strength: 43
+  Planet Strength: 43
   Space Strength: 0
-  Garrison Strength: 22
+  Garrison Strength: 43
 Statistics:
-  Movement Type: wheel
-  Move Points: 6
-  Spot: 2
-  Camouflage: 1
-  Agility: 2
-  Armor: 3
-  Psy Defense: 1
-  Rank: 51
+  Movement Type: underwater
+  Move Points: 1
+  Spot: 1
+  Camouflage: 2
+  Agility: 4
+  Armor: 1
+  Psy Defense: 0
+  Rank: 0
+Attacks:
+  Water: 2/10
 Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 3
-Build Cost: 27
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 5
+Build Cost: 54
 Build Resource Requirements:
-  Food: 10
-  Energy: 9
-  Metal: 7
-  Trace: 4
-  Exotica: 9
-  Chemicals: 8
-Build Truck in Factory
-Time to Build / Upgrade: 1
-[150] Technologies Required to Build Unit (100):
-  [100] Physics & Energy (100)
-  [50] Applied Technology (100)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 8
+  Energy: 83
+  Metal: 2
+  Trace: 19
+  Chemicals: 87
+Build Torpedo in Well
+Time to Build / Upgrade: 3
+[60] Technology Required to Build Unit (98):
+  [60] Torpedo (98)
 Unit can be disbanded: YES
 
 --2--
-Name: Improvised Fighting Vehicle
-Nick Name: Imp. FV
+Name: Torpedo II
+Nick Name: Torpedo II
 Scores & Strengths:
-  Tech Score: 144
-  Unit Score: 143
-  Average Score: 144
-  Stat Strength: 111
-  Total Strength: 143
-  Planet Strength: 143
+  Tech Score: 406
+  Unit Score: 408
+  Average Score: 407
+  Stat Strength: 184
+  Total Strength: 408
+  Planet Strength: 408
   Space Strength: 0
-  Garrison Strength: 58
+  Garrison Strength: 408
 Statistics:
-  Movement Type: wheel
-  Move Points: 6
-  Spot: 2
-  Camouflage: 1
-  Agility: 5
-  Armor: 6
-  Psy Defense: 3
-  Rank: 85
+  Movement Type: underwater
+  Move Points: 1
+  Spot: 1
+  Camouflage: 9
+  Agility: 10
+  Armor: 1
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Direct: 6/3
-  Close: 7/2
+  Water: 14/16
 Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 6
-Build Cost: 55
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 34
 Build Resource Requirements:
-  Food: 9
-  Energy: 13
-  Metal: 20
-  Trace: 34
-  Exotica: 9
-  Chemicals: 15
-Build Improvised Fighting Vehicle in Factory
+  Food: 2
+  Energy: 24
+  Trace: 29
+  Exotica: 2
+  Chemicals: 24
+  Electronics: 26
+Build Torpedo II in Well
 Time to Build / Upgrade: 2
-[300] Technology Required to Build Unit (95):
-  [300] Mechanized Warfare (95)
-Counts as planetary flock: YES
-Unit Eats: YES
+[1195] Technology Required to Build Unit (90):
+  [1195] Naval Warfare (90)
 Unit can be disbanded: YES
 
 --3--
-Name: Truck II
-Nick Name: Truck II
+Name: Torpedo III
+Nick Name: Torpedo III
 Scores & Strengths:
-  Tech Score: 305
-  Unit Score: 183
-  Average Score: 244
-  Stat Strength: 183
-  Total Strength: 183
-  Planet Strength: 183
+  Tech Score: 910
+  Unit Score: 820
+  Average Score: 865
+  Stat Strength: 316
+  Total Strength: 820
+  Planet Strength: 820
   Space Strength: 0
-  Garrison Strength: 55
+  Garrison Strength: 820
 Statistics:
-  Movement Type: wheel
-  Move Points: 11
-  Spot: 3
-  Camouflage: 2
-  Agility: 3
-  Armor: 6
-  Psy Defense: 2
-  Rank: 52
+  Movement Type: underwater
+  Move Points: 1
+  Spot: 1
+  Camouflage: 13
+  Agility: 12
+  Armor: 1
+  Psy Defense: 0
+  Rank: 0
+Attacks:
+  Water: 21/24
 Load aboard transport: YES
-Can tow units that can be towed
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
 Upkeep / Maintenance: 5
-Build Cost: 49
+Build Cost: 47
 Build Resource Requirements:
-  Food: 9
-  Energy: 9
-  Metal: 10
-  Trace: 3
-  Exotica: 10
-  Chemicals: 11
-  Biochems: 11
-Build Truck II in Factory
-Time to Build / Upgrade: 1
-[975] Technologies Required to Build Unit (85):
-  [675] Surgically-Enhanced Soldiers (75)
-  [300] Mechanized Warfare (95)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 1
+  Energy: 25
+  Trace: 29
+  Exotica: 2
+  Chemicals: 25
+  Biochems: 12
+  Electronics: 27
+Build Torpedo III in Well
+Time to Build / Upgrade: 2
+[3980] Technologies Required to Build Unit (85):
+  [1255] Digital Fly-by-Wire (81)
+  [2725] Naval Capital Ships (88)
 Unit can be disbanded: YES
 
 --4--
-Name: Internal Security Vehicle
-Nick Name: Int. SV
+Name: Torpedo IV
+Nick Name: Torpedo IV
 Scores & Strengths:
-  Tech Score: 316
-  Unit Score: 315
-  Average Score: 316
-  Stat Strength: 224
-  Total Strength: 315
-  Planet Strength: 315
+  Tech Score: 1158
+  Unit Score: 1051
+  Average Score: 1104
+  Stat Strength: 403
+  Total Strength: 1051
+  Planet Strength: 1051
   Space Strength: 0
-  Garrison Strength: 128
+  Garrison Strength: 743
 Statistics:
-  Movement Type: wheel
-  Move Points: 6
-  Spot: 6
-  Camouflage: 6
-  Agility: 6
-  Armor: 8
-  Psy Defense: 4
-  Rank: 90
+  Movement Type: underwater
+  Move Points: 2
+  Spot: 1
+  Camouflage: 15
+  Agility: 13
+  Armor: 2
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Air: 6/6
-  Indirect: 4/7
-  Direct: 3/9
+  Water: 24/27
 Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 5
-Build Cost: 52
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 4
+Build Cost: 39
 Build Resource Requirements:
-  Food: 5
-  Energy: 17
-  Metal: 14
-  Trace: 16
-  Exotica: 5
-  Chemicals: 20
-  Electronics: 10
-Build Internal Security Vehicle in Factory
+  Food: 1
+  Energy: 18
+  Trace: 24
+  Exotica: 1
+  Chemicals: 18
+  Biochems: 10
+  Electronics: 21
+Build Torpedo IV in Well
 Time to Build / Upgrade: 2
-[1355] Technologies Required to Build Unit (93):
-  [340] Liquid-Cooled Engine (90)
-  [610] Dual-Purpose Gun (94)
-  [405] Recoilless Rifle (94)
-Counts as planetary flock: YES
-Unit Eats: YES
+[8030] Technologies Required to Build Unit (84):
+  [1690] Fly-by-Wireless (76)
+  [2725] Naval Capital Ships (88)
+  [3615] Submarine Warfare (87)
 Unit can be disbanded: YES
 
 --5--
-Name: Reconnaissance Vehicle
-Nick Name: R Vehicle
+Name: Torpedo V
+Nick Name: Torpedo V
 Scores & Strengths:
-  Tech Score: 316
-  Unit Score: 315
-  Average Score: 316
-  Stat Strength: 280
-  Total Strength: 315
-  Planet Strength: 315
+  Tech Score: 1747
+  Unit Score: 1523
+  Average Score: 1635
+  Stat Strength: 566
+  Total Strength: 1523
+  Planet Strength: 1523
   Space Strength: 0
-  Garrison Strength: 111
+  Garrison Strength: 1076
 Statistics:
-  Movement Type: wheel
-  Move Points: 8
-  Spot: 8
-  Camouflage: 6
-  Agility: 6
-  Armor: 8
-  Psy Defense: 4
-  Rank: 85
+  Movement Type: underwater
+  Move Points: 2
+  Spot: 1
+  Camouflage: 19
+  Agility: 14
+  Armor: 2
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Air: 3/5
-  Direct: 2/5
-  Close: 5/2
+  Water: 29/33
 Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 5
-Build Cost: 48
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 4
+Build Cost: 37
 Build Resource Requirements:
-  Food: 9
-  Energy: 10
-  Metal: 14
-  Trace: 16
-  Exotica: 8
-  Chemicals: 11
-  Electronics: 12
-Build Reconnaissance Vehicle in Factory
+  Food: 1
+  Energy: 17
+  Trace: 17
+  Exotica: 1
+  Chemicals: 21
+  Biochems: 7
+  Electronics: 22
+Build Torpedo V in Well
 Time to Build / Upgrade: 2
-[1355] Technologies Required to Build Unit (93):
-  [340] Liquid-Cooled Engine (90)
-  [610] Dual-Purpose Gun (94)
-  [405] Recoilless Rifle (94)
-Counts as planetary flock: YES
-Unit Eats: YES
+[15990] Technologies Required to Build Unit (81):
+  [2935] Intelligent FCS (73)
+  [5855] Guided Missile Navalcraft (84)
+  [7200] Air-Independent Propulsion (85)
 Unit can be disbanded: YES
 
 --6--
-Name: Amphibious Truck
-Nick Name: N-AT
+Name: Torpedo VI
+Nick Name: Torpedo VI
 Scores & Strengths:
-  Tech Score: 406
-  Unit Score: 406
-  Average Score: 406
-  Stat Strength: 312
-  Total Strength: 406
-  Planet Strength: 406
+  Tech Score: 2455
+  Unit Score: 2078
+  Average Score: 2267
+  Stat Strength: 752
+  Total Strength: 2078
+  Planet Strength: 2078
   Space Strength: 0
-  Garrison Strength: 143
+  Garrison Strength: 1469
 Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 4
-  Camouflage: 2
-  Agility: 10
-  Armor: 8
-  Psy Defense: 8
-  Rank: 69
+  Movement Type: underwater
+  Move Points: 2
+  Spot: 2
+  Camouflage: 22
+  Agility: 16
+  Armor: 2
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Direct: 9/6
-  Close: 10/4
+  Water: 34/39
 Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 6
-Build Cost: 60
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 5
+Build Cost: 47
 Build Resource Requirements:
-  Food: 6
-  Energy: 12
-  Metal: 19
-  Trace: 21
-  Exotica: 6
-  Chemicals: 12
-  Electronics: 18
-Build Amphibious Truck in Factory
+  Food: 1
+  Energy: 21
+  Trace: 18
+  Exotica: 1
+  Chemicals: 27
+  Biochems: 7
+  Electronics: 25
+Build Torpedo VI in Well
 Time to Build / Upgrade: 2
-[1320] Technologies Required to Build Unit (94):
-  [125] Compression Ignition Engine (97)
-  [1195] Naval Warfare (90)
-Counts as planetary flock: YES
-Unit Eats: YES
+[21595] Technologies Required to Build Unit (71):
+  [7100] Artificial Intelligence (46)
+  [7200] Air-Independent Propulsion (85)
+  [7295] Nuclear-Powered Navalcraft (81)
 Unit can be disbanded: YES
 
 --7--
-Name: Amphibious Truck II
-Nick Name: N-AT2
+Name: Supercavitating Torpedo
+Nick Name: Sc Torpedo
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 578
-  Average Score: 581
-  Stat Strength: 441
-  Total Strength: 578
-  Planet Strength: 578
+  Tech Score: 4519
+  Unit Score: 4534
+  Average Score: 4527
+  Stat Strength: 2402
+  Total Strength: 4534
+  Planet Strength: 4534
   Space Strength: 0
-  Garrison Strength: 182
+  Garrison Strength: 1013
 Statistics:
-  Movement Type: craft
-  Move Points: 10
-  Spot: 4
-  Camouflage: 2
-  Agility: 11
-  Armor: 10
-  Psy Defense: 10
-  Rank: 74
+  Movement Type: underwater
+  Move Points: 20
+  Spot: 1
+  Camouflage: 20
+  Agility: 40
+  Armor: 1
+  Psy Defense: 0
+  Rank: 0
 Attacks:
-  Direct: 11/7
-  Close: 12/5
+  Water: 52/41
 Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 9
-Build Cost: 88
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 42
+Build Cost: 415
 Build Resource Requirements:
-  Food: 5
-  Energy: 11
-  Metal: 19
-  Trace: 21
-  Exotica: 5
-  Chemicals: 11
-  Biochems: 15
-  Electronics: 16
-Build Amphibious Truck II in Factory
-Time to Build / Upgrade: 2
-[2240] Technologies Required to Build Unit (92):
-  [300] Mechanized Warfare (95)
-  [1940] Amphibious Landing Craft (89)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 3
+  Energy: 15
+  Trace: 23
+  Exotica: 3
+  Chemicals: 20
+  Biochems: 12
+  Electronics: 37
+  Monopols: 22
+Build Supercavitating Torpedo in Well
+Time to Build / Upgrade: 3
+[42540] Technologies Required to Build Unit (68):
+  [7100] Artificial Intelligence (46)
+  [7565] Supercavitating Torpedo (83)
+  [27875] PTS Meson Navalcraft (74)
 Unit can be disbanded: YES
 
 --8--
-Name: Hover Truck
-Nick Name: Skimmer
+Name: Hypercavitating Torpedo
+Nick Name: Hc Torpedo
 Scores & Strengths:
-  Tech Score: 988
-  Unit Score: 985
-  Average Score: 986
-  Stat Strength: 985
-  Total Strength: 985
-  Planet Strength: 985
+  Tech Score: 5291
+  Unit Score: 5198
+  Average Score: 5245
+  Stat Strength: 2734
+  Total Strength: 5198
+  Planet Strength: 5198
   Space Strength: 0
-  Garrison Strength: 189
+  Garrison Strength: 1108
 Statistics:
-  Movement Type: hover
-  Move Points: 27
-  Spot: 3
-  Camouflage: 2
-  Agility: 9
-  Armor: 9
-  Psy Defense: 9
-  Rank: 10
+  Movement Type: underwater
+  Move Points: 22
+  Spot: 1
+  Camouflage: 22
+  Agility: 42
+  Armor: 1
+  Psy Defense: 0
+  Rank: 0
+Attacks:
+  Water: 56/44
 Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 80
-Build Cost: 795
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 47
+Build Cost: 468
 Build Resource Requirements:
-  Food: 13
-  Energy: 16
-  Metal: 2
-  Trace: 2
-  Exotica: 13
-  Chemicals: 28
-  Electronics: 3
-  Ceramsteel: 5
-  Monopols: 38
-Build Hover Truck in Factory
+  Food: 3
+  Energy: 15
+  Trace: 20
+  Exotica: 3
+  Chemicals: 20
+  Biochems: 24
+  Electronics: 35
+  Monopols: 23
+Build Hypercavitating Torpedo in Well
 Time to Build / Upgrade: 3
-[3905] Technology Required to Build Unit (61):
-  [3905] Hovertech (61)
-Counts as planetary flock: YES
-Unit Eats: YES
+[49480] Technologies Required to Build Unit (61):
+  [7100] Artificial Intelligence (46)
+  [8840] Hypercavitating Torpedo (81)
+  [33540] PTS Beam Navalcraft (56)
 Unit can be disbanded: YES

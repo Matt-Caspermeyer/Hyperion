@@ -1,370 +1,387 @@
-All units of the unit class Space Cargo Shuttle are listed herein (8 in total):
+All units of the unit class Space Dreadnought Battlestar are listed herein (8 in total):
 
 --1--
-Name: Space Cargo Shuttle
-Nick Name: SS-CS
+Name: Space Dreadnought Battlestar
+Nick Name: SS-BDB
 Scores & Strengths:
-  Tech Score: 690
-  Unit Score: 690
-  Average Score: 690
-  Stat Strength: 680
-  Total Strength: 690
+  Tech Score: 395
+  Unit Score: 591
+  Average Score: 493
+  Stat Strength: 405
+  Total Strength: 591
   Planet Strength: 0
-  Space Strength: 690
+  Space Strength: 591
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 20
-  Spot: 10
-  Camouflage: 4
-  Agility: 6
-  Armor: 8
-  Psy Defense: 8
-  Rank: 67
+  Move Points: 1
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 13
+  Psy Defense: 13
+  Rank: 797
 Attacks:
-  Closed Space: 2/5
-Cargo Space: 1
+  Ranged Space: 3/27
+  Direct Space: 5/21
+Officer - Provides stack combat bonuses
 Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 177
+Upkeep / Maintenance: 68
+Build Cost: 678
 Build Resource Requirements:
-  Food: 14
-  Energy: 18
-  Metal: 34
-  Trace: 7
-  Exotica: 14
-  Chemicals: 31
+  Food: 5
+  Energy: 97
+  Metal: 60
+  Trace: 10
+  Exotica: 5
+  Chemicals: 132
   Electronics: 6
-Build Space Cargo Shuttle in Starport
-Time to Build / Upgrade: 2
-[2910] Technologies Required to Build Unit (91):
+Build Space Dreadnought Battlestar in Starport
+Time to Build / Upgrade: 5
+[1530] Technologies Required to Build Unit (95):
+  [230] Hospitals (97)
   [145] Composite Armor (97)
+  [200] Admiralty Fire Control Table (87)
   [795] Rocket Propulsion (90)
-  [1970] Cargo Handling (87)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Space Transport
-Nick Name: SS-X
+Name: Jump Dreadnought Battlestar
+Nick Name: JJ-BDB
 Scores & Strengths:
-  Tech Score: 2354
-  Unit Score: 2354
-  Average Score: 2354
-  Stat Strength: 2282
-  Total Strength: 2354
+  Tech Score: 480
+  Unit Score: 687
+  Average Score: 583
+  Stat Strength: 459
+  Total Strength: 687
   Planet Strength: 0
-  Space Strength: 2354
+  Space Strength: 687
   Garrison Strength: 0
 Statistics:
-  Movement Type: space
-  Move Points: 14
-  Spot: 12
-  Camouflage: 2
-  Agility: 4
-  Armor: 31
-  Psy Defense: 31
-  Rank: 104
+  Movement Type: jump
+  Move Points: 1
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 14
+  Psy Defense: 14
+  Rank: 826
 Attacks:
-  Closed Space: 8/9
-Cargo Space: 3
+  Ranged Space: 3/30
+  Direct Space: 6/23
+Officer - Provides stack combat bonuses
 Immune to Plague
-Upkeep / Maintenance: 24
-Build Cost: 239
+Upkeep / Maintenance: 181
+Build Cost: 1810
 Build Resource Requirements:
-  Food: 2
-  Energy: 4
-  Metal: 28
-  Trace: 3
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 3
-  Electronics: 5
-  Ceramsteel: 31
-Build Space Transport in Starport
-Time to Build / Upgrade: 3
-[12425] Technology Required to Build Unit (86):
-  [12425] Space Warfare (86)
+  Food: 5
+  Energy: 119
+  Metal: 61
+  Trace: 10
+  Exotica: 4
+  Chemicals: 160
+  Electronics: 7
+S  ingularities: 1
+Build Jump Dreadnought Battlestar in Starport
+Time to Build / Upgrade: 5
+[1970] Technologies Required to Build Unit (93):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [200] Admiralty Fire Control Table (87)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
+  [1235] Jump Rocketry (76)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Space Transport Carrier
-Nick Name: SS-CVX
+Name: Space Dreadnought
+Nick Name: SS-BD
 Scores & Strengths:
   Tech Score: 2916
   Unit Score: 2916
   Average Score: 2916
-  Stat Strength: 2798
+  Stat Strength: 2534
   Total Strength: 2916
   Planet Strength: 0
   Space Strength: 2916
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 10
+  Move Points: 12
   Spot: 12
   Camouflage: 2
-  Agility: 10
-  Armor: 35
-  Psy Defense: 35
-  Rank: 851
+  Agility: 8
+  Armor: 33
+  Psy Defense: 33
+  Rank: 834
 Attacks:
-  Direct Space: 8/8
-  Closed Space: 9/6
-Cargo Space: 4
+  Ranged Space: 4/46
+  Direct Space: 6/33
 Officer - Provides stack combat bonuses
-Deploys space units during space attacks
 Immune to Plague
-Upkeep / Maintenance: 389
-Build Cost: 3892
+Upkeep / Maintenance: 532
+Build Cost: 5316
 Build Resource Requirements:
   Food: 1
-  Energy: 2
-  Metal: 17
-  Trace: 4
+  Energy: 23
+  Metal: 15
+  Trace: 2
   Exotica: 1
-  Chemicals: 6
-  Biochems: 16
-  Electronics: 6
-  Ceramsteel: 20
-  Monopols: 23
-Build Space Transport Carrier in Starport
-Time to Build / Upgrade: 3
+  Chemicals: 37
+  Biochems: 26
+  Electronics: 4
+  Ceramsteel: 18
+  Monopols: 54
+Build Space Dreadnought in Starport
+Time to Build / Upgrade: 4
 [16530] Technology Required to Build Unit (80):
   [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Jump Transport
-Nick Name: JJ-X
+Name: Space Super Dreadnought
+Nick Name: SS-BSD
 Scores & Strengths:
-  Tech Score: 3391
-  Unit Score: 3326
-  Average Score: 3359
-  Stat Strength: 3216
-  Total Strength: 3326
+  Tech Score: 2916
+  Unit Score: 2916
+  Average Score: 2916
+  Stat Strength: 2630
+  Total Strength: 2916
   Planet Strength: 0
-  Space Strength: 3326
+  Space Strength: 2916
   Garrison Strength: 0
 Statistics:
-  Movement Type: jump
-  Move Points: 17
-  Spot: 13
+  Movement Type: space
+  Move Points: 11
+  Spot: 12
   Camouflage: 2
-  Agility: 4
-  Armor: 37
-  Psy Defense: 37
-  Rank: 139
+  Agility: 7
+  Armor: 34
+  Psy Defense: 34
+  Rank: 829
 Attacks:
-  Closed Space: 10/11
-Cargo Space: 3
+  Ranged Space: 3/47
+  Direct Space: 5/29
+Officer - Provides stack combat bonuses
 Immune to Plague
-Upkeep / Maintenance: 548
-Build Cost: 5478
+Upkeep / Maintenance: 523
+Build Cost: 5231
 Build Resource Requirements:
   Food: 1
-  Energy: 3
+  Energy: 22
   Metal: 16
-  Trace: 3
-  Exotica: 2
-  Chemicals: 7
-  Biochems: 15
-  Electronics: 4
-  Ceramsteel: 20
-  Monopols: 24
-S  ingularities: 4
-Build Jump Transport in Starport
-Time to Build / Upgrade: 3
-[20220] Technology Required to Build Unit (72):
-  [20220] Jump Transports (72)
+  Trace: 2
+  Exotica: 1
+  Chemicals: 36
+  Biochems: 26
+  Electronics: 3
+  Ceramsteel: 19
+  Monopols: 53
+Build Space Super Dreadnought in Starport
+Time to Build / Upgrade: 4
+[16530] Technology Required to Build Unit (80):
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Space Attack Transport
-Nick Name: SS-SAX
+Name: Jump Super Dreadnought
+Nick Name: JJ-BSD
 Scores & Strengths:
-  Tech Score: 3536
-  Unit Score: 3536
-  Average Score: 3536
-  Stat Strength: 2600
-  Total Strength: 3536
+  Tech Score: 4184
+  Unit Score: 4202
+  Average Score: 4193
+  Stat Strength: 3768
+  Total Strength: 4202
   Planet Strength: 0
-  Space Strength: 3536
+  Space Strength: 4202
   Garrison Strength: 0
 Statistics:
-  Movement Type: space
-  Move Points: 14
-  Spot: 14
-  Camouflage: 4
-  Agility: 12
-  Armor: 32
-  Psy Defense: 32
-  Rank: 209
+  Movement Type: jump
+  Move Points: 13
+  Spot: 13
+  Camouflage: 2
+  Agility: 8
+  Armor: 41
+  Psy Defense: 41
+  Rank: 874
 Attacks:
-  Direct Space: 20/24
-  Closed Space: 24/19
-Cargo Space: 3
+  Ranged Space: 4/56
+  Direct Space: 6/35
+Officer - Provides stack combat bonuses
 Immune to Plague
-Upkeep / Maintenance: 239
-Build Cost: 2392
+Upkeep / Maintenance: 851
+Build Cost: 8506
 Build Resource Requirements:
-  Food: 2
-  Energy: 7
-  Metal: 12
-  Trace: 11
-  Exotica: 2
-  Chemicals: 13
+  Food: 1
+  Energy: 18
+  Metal: 16
+  Trace: 2
+  Exotica: 1
+  Chemicals: 31
   Biochems: 22
-  Electronics: 19
-  Ceramsteel: 15
-  Monopols: 27
-Build Space Attack Transport in Starport
-Time to Build / Upgrade: 3
-[21375] Technology Required to Build Unit (67):
-  [21375] Lander Transports (67)
+  Electronics: 3
+  Ceramsteel: 19
+  Monopols: 53
+S  ingularities: 4
+Build Jump Super Dreadnought in Starport
+Time to Build / Upgrade: 4
+[36320] Technologies Required to Build Unit (72):
+  [16530] Space Capital Ships (80)
+  [4285] Jump Drives (70)
+  [15505] Meson Cannon (65)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Colony Star
-Nick Name: Colony Star
+Name: Jump Dreadnought
+Nick Name: JJ-BD
 Scores & Strengths:
-  Tech Score: 3536
-  Unit Score: 3552
-  Average Score: 3544
-  Stat Strength: 3552
-  Total Strength: 3552
+  Tech Score: 4184
+  Unit Score: 4205
+  Average Score: 4194
+  Stat Strength: 3650
+  Total Strength: 4205
   Planet Strength: 0
-  Space Strength: 0
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 16
-  Spot: 14
-  Camouflage: 3
-  Agility: 7
-  Armor: 39
-  Psy Defense: 39
-  Rank: 125
-Cargo Space: 4
-Immune to Plague
-Upkeep / Maintenance: 237
-Build Cost: 2366
-Build Resource Requirements:
-  Food: 2
-  Energy: 2
-  Metal: 17
-  Trace: 2
-  Exotica: 2
-  Chemicals: 6
-  Biochems: 15
-  Electronics: 3
-  Ceramsteel: 22
-  Monopols: 25
-Build Colony Star in Starport
-Time to Build / Upgrade: 3
-[21375] Technology Required to Build Unit (67):
-  [21375] Lander Transports (67)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---7--
-Name: Jump Transport Carrier
-Nick Name: JJ-CVX
-Scores & Strengths:
-  Tech Score: 5589
-  Unit Score: 5370
-  Average Score: 5480
-  Stat Strength: 5153
-  Total Strength: 5370
-  Planet Strength: 0
-  Space Strength: 5370
+  Space Strength: 4205
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
   Move Points: 14
-  Spot: 14
-  Camouflage: 3
-  Agility: 12
-  Armor: 48
-  Psy Defense: 48
-  Rank: 908
+  Spot: 13
+  Camouflage: 2
+  Agility: 9
+  Armor: 40
+  Psy Defense: 40
+  Rank: 880
 Attacks:
-  Direct Space: 11/11
-  Closed Space: 12/8
-Cargo Space: 4
+  Ranged Space: 5/55
+  Direct Space: 7/40
 Officer - Provides stack combat bonuses
-Deploys space units during space attacks
 Immune to Plague
-Upkeep / Maintenance: 1349
-Build Cost: 13494
+Upkeep / Maintenance: 875
+Build Cost: 8753
 Build Resource Requirements:
   Food: 1
-  Energy: 2
-  Metal: 16
-  Trace: 3
+  Energy: 19
+  Metal: 15
+  Trace: 2
   Exotica: 1
-  Chemicals: 9
-  Biochems: 14
-  Electronics: 12
-  Ceramsteel: 23
-  Monopols: 27
+  Chemicals: 32
+  Biochems: 22
+  Electronics: 3
+  Ceramsteel: 18
+  Monopols: 54
 S  ingularities: 4
-Build Jump Transport Carrier in Starport
+Build Jump Dreadnought in Starport
+Time to Build / Upgrade: 4
+[36320] Technologies Required to Build Unit (72):
+  [4285] Jump Drives (70)
+  [15505] Meson Cannon (65)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Jump (Cadiz) Dreadnought
+Nick Name: JJ-BD2
+Scores & Strengths:
+  Tech Score: 5828
+  Unit Score: 5418
+  Average Score: 5623
+  Stat Strength: 4629
+  Total Strength: 5418
+  Planet Strength: 0
+  Space Strength: 5418
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 13
+  Spot: 14
+  Camouflage: 4
+  Agility: 4
+  Armor: 46
+  Psy Defense: 46
+  Rank: 886
+Attacks:
+  Ranged Space: 10/36
+  Direct Space: 11/28
+  Closed Space: 11/11
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 795
+Build Cost: 7949
+Build Resource Requirements:
+  Food: 1
+  Energy: 6
+  Metal: 9
+  Trace: 2
+  Exotica: 1
+  Chemicals: 14
+  Biochems: 11
+  Electronics: 9
+  Ceramsteel: 15
+  Monopols: 28
+S  ingularities: 4
+Build Jump (Cadiz) Dreadnought in Starport
 Time to Build / Upgrade: 3
-[39365] Technology Required to Build Unit (61):
+[65575] Technologies Required to Build Unit (58):
+  [26210] PTS Beam Cannon (54)
   [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Jump High-Speed Transport
-Nick Name: Jump HHSSTT
+Name: Gate Dreadnought
+Nick Name: JJ-BD
 Scores & Strengths:
-  Tech Score: 6896
-  Unit Score: 6896
-  Average Score: 6896
-  Stat Strength: 6016
-  Total Strength: 6896
+  Tech Score: 7682
+  Unit Score: 7520
+  Average Score: 7601
+  Stat Strength: 5832
+  Total Strength: 7520
   Planet Strength: 0
-  Space Strength: 6896
+  Space Strength: 6731
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
-  Move Points: 16
+  Move Points: 14
   Spot: 14
-  Camouflage: 6
-  Agility: 36
-  Armor: 46
-  Psy Defense: 46
-  Rank: 259
+  Camouflage: 4
+  Agility: 4
+  Armor: 52
+  Psy Defense: 52
+  Rank: 864
 Attacks:
-  Direct Space: 22/23
-  Closed Space: 17/22
-Cargo Space: 2
+  Ranged Space: 11/37
+  Direct Space: 12/29
+  Closed Space: 12/12
+  Air: 11/28
+  Indirect: 10/36
+  Direct: 11/11
+Officer - Provides stack combat bonuses
 Immune to Plague
-Upkeep / Maintenance: 726
-Build Cost: 7262
+Upkeep / Maintenance: 1184
+Build Cost: 11840
 Build Resource Requirements:
-  Food: 1
-  Energy: 5
-  Metal: 9
-  Trace: 4
-  Exotica: 1
-  Chemicals: 11
-  Biochems: 17
-  Electronics: 11
-  Ceramsteel: 13
-  Wetware: 6
-  Monopols: 23
+  Energy: 14
+  Metal: 11
+  Trace: 2
+  Chemicals: 26
+  Biochems: 24
+  Electronics: 8
+  Ceramsteel: 19
+  Wetware: 4
+  Monopols: 49
 S  ingularities: 4
-Build Jump High-Speed Transport in Starport
-Time to Build / Upgrade: 3
-[66385] Technologies Required to Build Unit (60):
-  [21375] Lander Transports (67)
-  [45010] Hover Navalcraft (52)
+Build Gate Dreadnought in Starport
+Time to Build / Upgrade: 4
+[60155] Technology Required to Build Unit (53):
+  [60155] Gate Capital Ships (53)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

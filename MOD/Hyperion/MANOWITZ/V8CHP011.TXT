@@ -1,204 +1,355 @@
-All units of the unit class Tertiary are listed herein (5 in total):
+All units of the unit class Truck are listed herein (8 in total):
 
 --1--
-Name: Tertiary
-Nick Name: Tertiary
+Name: Truck
+Nick Name: Truck
 Scores & Strengths:
-  Tech Score: 63
-  Unit Score: 63
-  Average Score: 63
-  Stat Strength: 50
-  Total Strength: 63
-  Planet Strength: 63
-  Space Strength: 57
-  Garrison Strength: 44
+  Tech Score: 86
+  Unit Score: 55
+  Average Score: 70
+  Stat Strength: 55
+  Total Strength: 55
+  Planet Strength: 55
+  Space Strength: 0
+  Garrison Strength: 22
 Statistics:
-  Movement Type: foot
-  Move Points: 2
+  Movement Type: wheel
+  Move Points: 6
   Spot: 2
   Camouflage: 1
-  Agility: 6
-  Armor: 1
-  Psy Defense: 2
-  Rank: 701
-Attacks:
-  Psychic: 7/1
-  Close: 3/2
+  Agility: 2
+  Armor: 3
+  Psy Defense: 1
+  Rank: 51
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Upkeep / Maintenance: 8
-Build Cost: 66
+Can tow units that can be towed
+Upkeep / Maintenance: 3
+Build Cost: 27
 Build Resource Requirements:
-  Exotica: 15
-  Gems: 5
-Upgrade Peasant to Tertiary at Church
+  Food: 10
+  Energy: 9
+  Metal: 7
+  Trace: 4
+  Exotica: 9
+  Chemicals: 8
+Build Truck in Factory
 Time to Build / Upgrade: 1
-[100] Technology Required to Build Unit (100):
-  [100] Psychosocial Engineering (100)
+[150] Technologies Required to Build Unit (100):
+  [100] Physics & Energy (100)
+  [50] Applied Technology (100)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Clergy
-Nick Name: Clergy
+Name: Improvised Fighting Vehicle
+Nick Name: Imp. FV
 Scores & Strengths:
-  Tech Score: 68
-  Unit Score: 68
-  Average Score: 68
-  Stat Strength: 57
-  Total Strength: 68
-  Planet Strength: 68
-  Space Strength: 67
-  Garrison Strength: 68
+  Tech Score: 144
+  Unit Score: 143
+  Average Score: 144
+  Stat Strength: 111
+  Total Strength: 143
+  Planet Strength: 143
+  Space Strength: 0
+  Garrison Strength: 58
 Statistics:
-  Movement Type: foot
-  Move Points: 1
-  Spot: 1
+  Movement Type: wheel
+  Move Points: 6
+  Spot: 2
   Camouflage: 1
-  Agility: 7
-  Armor: 1
-  Psy Defense: 2
-  Rank: 701
+  Agility: 5
+  Armor: 6
+  Psy Defense: 3
+  Rank: 85
 Attacks:
-  Psychic: 5/2
-  Close: 1/1
+  Direct: 6/3
+  Close: 7/2
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Upkeep / Maintenance: 9
-Build Cost: 73
+Can tow units that can be towed
+Upkeep / Maintenance: 6
+Build Cost: 55
 Build Resource Requirements:
-  Exotica: 17
-  Gems: 5
-Upgrade Peasant to Clergy at Church
-Time to Build / Upgrade: 1
-[110] Technology Required to Build Unit (99):
-  [110] Meditation (99)
+  Food: 9
+  Energy: 13
+  Metal: 20
+  Trace: 34
+  Exotica: 9
+  Chemicals: 15
+Build Improvised Fighting Vehicle in Factory
+Time to Build / Upgrade: 2
+[300] Technology Required to Build Unit (95):
+  [300] Mechanized Warfare (95)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Worldshaper Neophyte
-Nick Name: Neophyte
+Name: Truck II
+Nick Name: Truck II
 Scores & Strengths:
-  Tech Score: 135
-  Unit Score: 134
-  Average Score: 135
-  Stat Strength: 118
-  Total Strength: 134
-  Planet Strength: 134
-  Space Strength: 134
-  Garrison Strength: 94
+  Tech Score: 305
+  Unit Score: 183
+  Average Score: 244
+  Stat Strength: 183
+  Total Strength: 183
+  Planet Strength: 183
+  Space Strength: 0
+  Garrison Strength: 55
 Statistics:
-  Movement Type: foot
-  Move Points: 2
-  Spot: 2
-  Camouflage: 3
-  Agility: 9
-  Armor: 2
-  Psy Defense: 4
-  Rank: 701
-Attacks:
-  Psychic: 4/4
+  Movement Type: wheel
+  Move Points: 11
+  Spot: 3
+  Camouflage: 2
+  Agility: 3
+  Armor: 6
+  Psy Defense: 2
+  Rank: 52
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Upkeep / Maintenance: 10
-Build Cost: 79
+Can tow units that can be towed
+Upkeep / Maintenance: 5
+Build Cost: 49
 Build Resource Requirements:
-  Metal: 3
-  Exotica: 18
-  Gems: 5
-Upgrade Peasant to Worldshaper Neophyte at Church
+  Food: 9
+  Energy: 9
+  Metal: 10
+  Trace: 3
+  Exotica: 10
+  Chemicals: 11
+  Biochems: 11
+Build Truck II in Factory
 Time to Build / Upgrade: 1
-[375] Technologies Required to Build Unit (86):
-  [145] Cosmogony (80)
-  [230] Geomancy (91)
+[975] Technologies Required to Build Unit (85):
+  [675] Surgically-Enhanced Soldiers (75)
+  [300] Mechanized Warfare (95)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Legate
-Nick Name: Legate
+Name: Internal Security Vehicle
+Nick Name: Int. SV
 Scores & Strengths:
-  Tech Score: 279
-  Unit Score: 279
-  Average Score: 279
-  Stat Strength: 236
-  Total Strength: 279
-  Planet Strength: 279
-  Space Strength: 261
-  Garrison Strength: 197
+  Tech Score: 316
+  Unit Score: 315
+  Average Score: 316
+  Stat Strength: 224
+  Total Strength: 315
+  Planet Strength: 315
+  Space Strength: 0
+  Garrison Strength: 128
 Statistics:
-  Movement Type: foot
-  Move Points: 2
-  Spot: 2
-  Camouflage: 2
-  Agility: 12
-  Armor: 4
-  Psy Defense: 8
-  Rank: 703
+  Movement Type: wheel
+  Move Points: 6
+  Spot: 6
+  Camouflage: 6
+  Agility: 6
+  Armor: 8
+  Psy Defense: 4
+  Rank: 90
 Attacks:
-  Psychic: 5/5
-  Close: 6/3
+  Air: 6/6
+  Indirect: 4/7
+  Direct: 3/9
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Upkeep / Maintenance: 11
-Build Cost: 38
+Can tow units that can be towed
+Upkeep / Maintenance: 5
+Build Cost: 52
 Build Resource Requirements:
-  Metal: 9
-  Trace: 21
-  Chemicals: 13
-Upgrade Clergy to Legate at Church
-Time to Build / Upgrade: 1
-[1000] Technologies Required to Build Unit (92):
-  [195] Theurgic Metaphysics (92)
-  [260] Liturgical Ritual (90)
-  [545] Compassionate Ethics (93)
+  Food: 5
+  Energy: 17
+  Metal: 14
+  Trace: 16
+  Exotica: 5
+  Chemicals: 20
+  Electronics: 10
+Build Internal Security Vehicle in Factory
+Time to Build / Upgrade: 2
+[1355] Technologies Required to Build Unit (93):
+  [340] Liquid-Cooled Engine (90)
+  [610] Dual-Purpose Gun (94)
+  [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Monk
-Nick Name: Monk
+Name: Reconnaissance Vehicle
+Nick Name: R Vehicle
 Scores & Strengths:
-  Tech Score: 704
-  Unit Score: 708
-  Average Score: 706
-  Stat Strength: 580
-  Total Strength: 708
-  Planet Strength: 708
-  Space Strength: 708
-  Garrison Strength: 250
+  Tech Score: 316
+  Unit Score: 315
+  Average Score: 316
+  Stat Strength: 280
+  Total Strength: 315
+  Planet Strength: 315
+  Space Strength: 0
+  Garrison Strength: 111
 Statistics:
-  Movement Type: foot
+  Movement Type: wheel
   Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 12
+  Spot: 8
+  Camouflage: 6
+  Agility: 6
   Armor: 8
-  Psy Defense: 16
-  Rank: 707
+  Psy Defense: 4
+  Rank: 85
 Attacks:
-  Psychic: 8/16
+  Air: 3/5
+  Direct: 2/5
+  Close: 5/2
 Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Upkeep / Maintenance: 45
-Build Cost: 375
+Can tow units that can be towed
+Upkeep / Maintenance: 5
+Build Cost: 48
 Build Resource Requirements:
-  Metal: 19
-  Trace: 13
-  Exotica: 2
-  Chemicals: 14
-  Biochems: 44
-  Electronics: 18
-  Gems: 18
-Upgrade Clergy to Monk at Church
+  Food: 9
+  Energy: 10
+  Metal: 14
+  Trace: 16
+  Exotica: 8
+  Chemicals: 11
+  Electronics: 12
+Build Reconnaissance Vehicle in Factory
 Time to Build / Upgrade: 2
-[2485] Technology Required to Build Unit (61):
-  [2485] Shekina (61)
+[1355] Technologies Required to Build Unit (93):
+  [340] Liquid-Cooled Engine (90)
+  [610] Dual-Purpose Gun (94)
+  [405] Recoilless Rifle (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Amphibious Truck
+Nick Name: N-AT
+Scores & Strengths:
+  Tech Score: 406
+  Unit Score: 406
+  Average Score: 406
+  Stat Strength: 312
+  Total Strength: 406
+  Planet Strength: 406
+  Space Strength: 0
+  Garrison Strength: 143
+Statistics:
+  Movement Type: craft
+  Move Points: 8
+  Spot: 4
+  Camouflage: 2
+  Agility: 10
+  Armor: 8
+  Psy Defense: 8
+  Rank: 69
+Attacks:
+  Direct: 9/6
+  Close: 10/4
+Load aboard transport: YES
+Can tow units that can be towed
+Upkeep / Maintenance: 6
+Build Cost: 60
+Build Resource Requirements:
+  Food: 6
+  Energy: 12
+  Metal: 19
+  Trace: 21
+  Exotica: 6
+  Chemicals: 12
+  Electronics: 18
+Build Amphibious Truck in Factory
+Time to Build / Upgrade: 2
+[1320] Technologies Required to Build Unit (94):
+  [125] Compression Ignition Engine (97)
+  [1195] Naval Warfare (90)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Amphibious Truck II
+Nick Name: N-AT2
+Scores & Strengths:
+  Tech Score: 585
+  Unit Score: 578
+  Average Score: 581
+  Stat Strength: 441
+  Total Strength: 578
+  Planet Strength: 578
+  Space Strength: 0
+  Garrison Strength: 182
+Statistics:
+  Movement Type: craft
+  Move Points: 10
+  Spot: 4
+  Camouflage: 2
+  Agility: 11
+  Armor: 10
+  Psy Defense: 10
+  Rank: 74
+Attacks:
+  Direct: 11/7
+  Close: 12/5
+Load aboard transport: YES
+Can tow units that can be towed
+Upkeep / Maintenance: 9
+Build Cost: 88
+Build Resource Requirements:
+  Food: 5
+  Energy: 11
+  Metal: 19
+  Trace: 21
+  Exotica: 5
+  Chemicals: 11
+  Biochems: 15
+  Electronics: 16
+Build Amphibious Truck II in Factory
+Time to Build / Upgrade: 2
+[2240] Technologies Required to Build Unit (92):
+  [300] Mechanized Warfare (95)
+  [1940] Amphibious Landing Craft (89)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Hover Truck
+Nick Name: Skimmer
+Scores & Strengths:
+  Tech Score: 988
+  Unit Score: 985
+  Average Score: 986
+  Stat Strength: 985
+  Total Strength: 985
+  Planet Strength: 985
+  Space Strength: 0
+  Garrison Strength: 189
+Statistics:
+  Movement Type: hover
+  Move Points: 27
+  Spot: 3
+  Camouflage: 2
+  Agility: 9
+  Armor: 9
+  Psy Defense: 9
+  Rank: 10
+Load aboard transport: YES
+Can tow units that can be towed
+Upkeep / Maintenance: 80
+Build Cost: 795
+Build Resource Requirements:
+  Food: 13
+  Energy: 16
+  Metal: 2
+  Trace: 2
+  Exotica: 13
+  Chemicals: 28
+  Electronics: 3
+  Ceramsteel: 5
+  Monopols: 38
+Build Hover Truck in Factory
+Time to Build / Upgrade: 3
+[3905] Technology Required to Build Unit (61):
+  [3905] Hovertech (61)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

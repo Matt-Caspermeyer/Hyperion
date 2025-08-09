@@ -1,126 +1,170 @@
-All units of the unit class Pestulator Artillery are listed herein (3 in total):
+All units of the unit class Special Forces are listed herein (4 in total):
 
 --1--
-Name: Pestulator Artillery
-Nick Name: Pestulator
+Name: Special Forces
+Nick Name: SPF LGN
 Scores & Strengths:
-  Tech Score: 3200
-  Unit Score: 3199
-  Average Score: 3199
-  Stat Strength: 2179
-  Total Strength: 3199
-  Planet Strength: 3199
+  Tech Score: 2106
+  Unit Score: 2105
+  Average Score: 2105
+  Stat Strength: 1116
+  Total Strength: 2105
+  Planet Strength: 2105
   Space Strength: 0
-  Garrison Strength: 754
+  Garrison Strength: 562
 Statistics:
-  Movement Type: tread
-  Move Points: 18
-  Spot: 12
-  Camouflage: 10
-  Agility: 19
-  Armor: 25
-  Psy Defense: 25
-  Rank: 178
+  Movement Type: foot
+  Move Points: 14
+  Spot: 14
+  Camouflage: 14
+  Agility: 20
+  Armor: 8
+  Psy Defense: 8
+  Rank: 77
 Attacks:
-  Indirect: 20/51
+  Air: 17/15
+  Indirect: 16/16
+  Direct: 15/16
+  Close: 17/14
 Load aboard transport: YES
-Immune to Plague
-Causes Tactical Plague
-Upkeep / Maintenance: 252
-Build Cost: 2517
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 95
+Build Cost: 835
 Build Resource Requirements:
-  Food: 2
-  Energy: 21
-  Metal: 11
-  Trace: 4
-  Exotica: 2
-  Chemicals: 48
-  Biochems: 36
+  Trace: 1
   Electronics: 12
-  Ceramsteel: 14
-  Monopols: 59
-Build Pestulator Artillery in Factory
-Time to Build / Upgrade: 5
-[18710] Technology Required to Build Unit (29):
-  [18710] Bio-Payload Artillery (29)
+  Ceramsteel: 2
+  Monopols: 32
+Upgrade Covert Legion to Special Forces at Fort
+Time to Build / Upgrade: 1
+[10710] Technology Required to Build Unit (79):
+  [10710] Special Forces (79)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Shock Pestulator Artillery
-Nick Name: Shockulator
+Name: Cybercorp
+Nick Name: CYB LGN
 Scores & Strengths:
-  Tech Score: 4099
-  Unit Score: 3992
-  Average Score: 4046
-  Stat Strength: 2658
-  Total Strength: 3992
-  Planet Strength: 3992
+  Tech Score: 2788
+  Unit Score: 2630
+  Average Score: 2709
+  Stat Strength: 1340
+  Total Strength: 2630
+  Planet Strength: 2630
   Space Strength: 0
-  Garrison Strength: 892
+  Garrison Strength: 657
 Statistics:
-  Movement Type: tread
-  Move Points: 20
-  Spot: 13
-  Camouflage: 11
-  Agility: 20
-  Armor: 28
-  Psy Defense: 28
-  Rank: 196
+  Movement Type: foot
+  Move Points: 16
+  Spot: 15
+  Camouflage: 16
+  Agility: 21
+  Armor: 9
+  Psy Defense: 9
+  Rank: 87
 Attacks:
-  Indirect: 23/58
+  Air: 20/17
+  Indirect: 18/18
+  Direct: 17/18
+  Close: 20/16
 Load aboard transport: YES
-Immune to Plague
-Causes Tactical Plague
-Upkeep / Maintenance: 195
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 128
+Build Cost: 440
 Build Resource Requirements:
-  Wetware: 2
-Upgrade Pestulator Artillery to Shock Pestulator Artillery at Factory
+  Energy: 3
+  Trace: 7
+  Exotica: 1
+  Chemicals: 6
+  Electronics: 11
+  Monopols: 8
+Upgrade Special Forces to Cybercorp at Hospital
 Time to Build / Upgrade: 1
-[50430] Technologies Required to Build Unit (41):
-  [16745] Wetware (23)
-  [14975] Power Hovertanks (70)
-  [18710] Bio-Payload Artillery (29)
+[15575] Technology Required to Build Unit (52):
+  [15575] Cybercorp (52)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Stealth Pestulator Artillery
-Nick Name: Ghostulator
+Name: Genetic Special Forces
+Nick Name: Gen SF
 Scores & Strengths:
-  Tech Score: 5364
-  Unit Score: 5359
-  Average Score: 5362
-  Stat Strength: 4039
-  Total Strength: 5359
-  Planet Strength: 5359
+  Tech Score: 2985
+  Unit Score: 2890
+  Average Score: 2937
+  Stat Strength: 1487
+  Total Strength: 2890
+  Planet Strength: 2890
   Space Strength: 0
-  Garrison Strength: 1229
+  Garrison Strength: 700
 Statistics:
-  Movement Type: tread
-  Move Points: 19
-  Spot: 14
-  Camouflage: 30
-  Agility: 30
-  Armor: 29
-  Psy Defense: 29
-  Rank: 208
+  Movement Type: foot
+  Move Points: 17
+  Spot: 15
+  Camouflage: 17
+  Agility: 22
+  Armor: 10
+  Psy Defense: 10
+  Rank: 91
 Attacks:
-  Indirect: 24/55
+  Air: 20/18
+  Indirect: 19/19
+  Direct: 18/19
+  Close: 20/17
 Load aboard transport: YES
+Can attack on Byzantium Secundus
 Immune to Plague
-Causes Tactical Plague
-Upkeep / Maintenance: 202
+Upkeep / Maintenance: 139
+Build Cost: 556
 Build Resource Requirements:
-  Trace: 6
-  Electronics: 10
-  Wetware: 4
-Upgrade Pestulator Artillery to Stealth Pestulator Artillery at Factory
+  Chemicals: 2
+  Biochems: 41
+Upgrade Special Forces to Genetic Special Forces at Lab
 Time to Build / Upgrade: 1
-[37210] Technology Required to Build Unit (34):
-  [37210] Neumonic Land Vehicles (34)
+[19610] Technologies Required to Build Unit (52):
+  [8900] Genetically-Enhanced Warriors (25)
+  [10710] Special Forces (79)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Genetic Cybercorp
+Nick Name: Gen Cc
+Scores & Strengths:
+  Tech Score: 3516
+  Unit Score: 3287
+  Average Score: 3401
+  Stat Strength: 1633
+  Total Strength: 3287
+  Planet Strength: 3287
+  Space Strength: 0
+  Garrison Strength: 774
+Statistics:
+  Movement Type: foot
+  Move Points: 18
+  Spot: 16
+  Camouflage: 18
+  Agility: 23
+  Armor: 10
+  Psy Defense: 10
+  Rank: 99
+Attacks:
+  Air: 22/19
+  Indirect: 21/21
+  Direct: 19/21
+  Close: 22/18
+Load aboard transport: YES
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 167
+Build Cost: 1233
+Build Resource Requirements:
+  Biochems: 47
+Upgrade Cybercorp to Genetic Cybercorp at Lab
+Time to Build / Upgrade: 1
+[24475] Technologies Required to Build Unit (39):
+  [8900] Genetically-Enhanced Warriors (25)
+  [15575] Cybercorp (52)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

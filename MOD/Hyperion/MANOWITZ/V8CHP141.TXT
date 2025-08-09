@@ -1,229 +1,370 @@
-All units of the unit class Shantor Warrior are listed herein (5 in total):
+All units of the unit class Space Cargo Shuttle are listed herein (8 in total):
 
 --1--
-Name: Shantor Warrior
-Nick Name: Shantor War
+Name: Space Cargo Shuttle
+Nick Name: SS-CS
 Scores & Strengths:
-  Tech Score: 807
-  Unit Score: 805
-  Average Score: 806
-  Stat Strength: 580
-  Total Strength: 805
-  Planet Strength: 805
-  Space Strength: 0
-  Garrison Strength: 207
+  Tech Score: 690
+  Unit Score: 690
+  Average Score: 690
+  Stat Strength: 680
+  Total Strength: 690
+  Planet Strength: 0
+  Space Strength: 690
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 15
-  Spot: 8
+  Movement Type: space
+  Move Points: 20
+  Spot: 10
   Camouflage: 4
-  Agility: 15
-  Armor: 5
-  Psy Defense: 5
-  Rank: 8
+  Agility: 6
+  Armor: 8
+  Psy Defense: 8
+  Rank: 67
 Attacks:
-  Close: 15/15
-Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 27
-Build Cost: 272
+  Closed Space: 2/5
+Cargo Space: 1
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 177
 Build Resource Requirements:
-  Food: 16
-  Energy: 51
-  Metal: 3
-  Trace: 11
-  Exotica: 17
-  Chemicals: 53
-  Biochems: 82
-  Electronics: 24
-Build Shantor Warrior in Farm
-Time to Build / Upgrade: 4
-[3105] Technologies Required to Build Unit (51):
-  [2980] Xenoimmunology (41)
-  [125] Xenopsychology (60)
+  Food: 14
+  Energy: 18
+  Metal: 34
+  Trace: 7
+  Exotica: 14
+  Chemicals: 31
+  Electronics: 6
+Build Space Cargo Shuttle in Starport
+Time to Build / Upgrade: 2
+[2910] Technologies Required to Build Unit (91):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Shantor Rebel
-Nick Name: Shantor Rbl
+Name: Space Transport
+Nick Name: SS-X
 Scores & Strengths:
-  Tech Score: 807
-  Unit Score: 805
-  Average Score: 806
-  Stat Strength: 584
-  Total Strength: 805
-  Planet Strength: 805
-  Space Strength: 0
-  Garrison Strength: 201
+  Tech Score: 2354
+  Unit Score: 2354
+  Average Score: 2354
+  Stat Strength: 2282
+  Total Strength: 2354
+  Planet Strength: 0
+  Space Strength: 2354
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 16
-  Spot: 8
-  Camouflage: 6
-  Agility: 14
-  Armor: 4
-  Psy Defense: 4
-  Rank: 8
+  Movement Type: space
+  Move Points: 14
+  Spot: 12
+  Camouflage: 2
+  Agility: 4
+  Armor: 31
+  Psy Defense: 31
+  Rank: 104
 Attacks:
-  Close: 17/13
-Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 25
-Build Cost: 251
+  Closed Space: 8/9
+Cargo Space: 3
+Immune to Plague
+Upkeep / Maintenance: 24
+Build Cost: 239
 Build Resource Requirements:
-  Food: 17
-  Energy: 43
-  Metal: 2
-  Trace: 12
-  Exotica: 17
-  Chemicals: 44
-  Biochems: 74
-  Electronics: 27
-Build Shantor Rebel in Farm
-Time to Build / Upgrade: 4
-[3105] Technologies Required to Build Unit (51):
-  [2980] Xenoimmunology (41)
-  [125] Xenopsychology (60)
+  Food: 2
+  Energy: 4
+  Metal: 28
+  Trace: 3
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 3
+  Electronics: 5
+  Ceramsteel: 31
+Build Space Transport in Starport
+Time to Build / Upgrade: 3
+[12425] Technology Required to Build Unit (86):
+  [12425] Space Warfare (86)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Shantor Sun Runner
-Nick Name: Sun Runner
+Name: Space Transport Carrier
+Nick Name: SS-CVX
 Scores & Strengths:
-  Tech Score: 807
-  Unit Score: 806
-  Average Score: 806
-  Stat Strength: 606
-  Total Strength: 806
-  Planet Strength: 806
-  Space Strength: 706
-  Garrison Strength: 195
+  Tech Score: 2916
+  Unit Score: 2916
+  Average Score: 2916
+  Stat Strength: 2798
+  Total Strength: 2916
+  Planet Strength: 0
+  Space Strength: 2916
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 17
-  Spot: 8
+  Movement Type: space
+  Move Points: 10
+  Spot: 12
   Camouflage: 2
-  Agility: 13
-  Armor: 4
-  Psy Defense: 8
-  Rank: 708
+  Agility: 10
+  Armor: 35
+  Psy Defense: 35
+  Rank: 851
 Attacks:
-  Psychic: 10/10
-  Close: 10/10
-Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Can tow units that can be towed
-Upkeep / Maintenance: 66
-Build Cost: 660
+  Direct Space: 8/8
+  Closed Space: 9/6
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 389
+Build Cost: 3892
 Build Resource Requirements:
-  Food: 18
-  Energy: 32
-  Metal: 5
-  Trace: 7
-  Exotica: 18
-  Chemicals: 34
-  Biochems: 60
-  Electronics: 15
-  Gems: 31
-Build Shantor Sun Runner in Church
+  Food: 1
+  Energy: 2
+  Metal: 17
+  Trace: 4
+  Exotica: 1
+  Chemicals: 6
+  Biochems: 16
+  Electronics: 6
+  Ceramsteel: 20
+  Monopols: 23
+Build Space Transport Carrier in Starport
 Time to Build / Upgrade: 3
-[3105] Technologies Required to Build Unit (51):
-  [2980] Xenoimmunology (41)
-  [125] Xenopsychology (60)
+[16530] Technology Required to Build Unit (80):
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Shantor Darkwalker
-Nick Name: Darkwalker
+Name: Jump Transport
+Nick Name: JJ-X
 Scores & Strengths:
-  Tech Score: 807
-  Unit Score: 809
-  Average Score: 808
-  Stat Strength: 588
-  Total Strength: 809
-  Planet Strength: 809
-  Space Strength: 0
-  Garrison Strength: 224
+  Tech Score: 3391
+  Unit Score: 3326
+  Average Score: 3359
+  Stat Strength: 3216
+  Total Strength: 3326
+  Planet Strength: 0
+  Space Strength: 3326
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 13
-  Spot: 8
-  Camouflage: 4
-  Agility: 17
-  Armor: 5
-  Psy Defense: 5
-  Rank: 8
+  Movement Type: jump
+  Move Points: 17
+  Spot: 13
+  Camouflage: 2
+  Agility: 4
+  Armor: 37
+  Psy Defense: 37
+  Rank: 139
 Attacks:
-  Close: 17/13
-Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 25
-Build Cost: 246
+  Closed Space: 10/11
+Cargo Space: 3
+Immune to Plague
+Upkeep / Maintenance: 548
+Build Cost: 5478
 Build Resource Requirements:
-  Food: 15
-  Energy: 41
-  Metal: 3
-  Trace: 13
-  Exotica: 15
-  Chemicals: 43
-  Biochems: 73
-  Electronics: 29
-Build Shantor Darkwalker in Farm
-Time to Build / Upgrade: 4
-[3105] Technologies Required to Build Unit (51):
-  [2980] Xenoimmunology (41)
-  [125] Xenopsychology (60)
+  Food: 1
+  Energy: 3
+  Metal: 16
+  Trace: 3
+  Exotica: 2
+  Chemicals: 7
+  Biochems: 15
+  Electronics: 4
+  Ceramsteel: 20
+  Monopols: 24
+S  ingularities: 4
+Build Jump Transport in Starport
+Time to Build / Upgrade: 3
+[20220] Technology Required to Build Unit (72):
+  [20220] Jump Transports (72)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Shantor Mercenary
-Nick Name: Shantor Merc
+Name: Space Attack Transport
+Nick Name: SS-SAX
 Scores & Strengths:
-  Tech Score: 807
-  Unit Score: 809
-  Average Score: 808
-  Stat Strength: 613
-  Total Strength: 809
-  Planet Strength: 809
-  Space Strength: 0
-  Garrison Strength: 216
+  Tech Score: 3536
+  Unit Score: 3536
+  Average Score: 3536
+  Stat Strength: 2600
+  Total Strength: 3536
+  Planet Strength: 0
+  Space Strength: 3536
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
+  Movement Type: space
   Move Points: 14
-  Spot: 8
-  Camouflage: 5
-  Agility: 16
-  Armor: 6
-  Psy Defense: 6
-  Rank: 8
+  Spot: 14
+  Camouflage: 4
+  Agility: 12
+  Armor: 32
+  Psy Defense: 32
+  Rank: 209
 Attacks:
-  Close: 14/14
-Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 26
-Build Cost: 255
+  Direct Space: 20/24
+  Closed Space: 24/19
+Cargo Space: 3
+Immune to Plague
+Upkeep / Maintenance: 239
+Build Cost: 2392
 Build Resource Requirements:
-  Food: 15
-  Energy: 46
-  Metal: 4
+  Food: 2
+  Energy: 7
+  Metal: 12
   Trace: 11
-  Exotica: 16
-  Chemicals: 48
-  Biochems: 76
-  Electronics: 24
-Build Shantor Mercenary in Farm
-Time to Build / Upgrade: 4
-[3105] Technologies Required to Build Unit (51):
-  [2980] Xenoimmunology (41)
-  [125] Xenopsychology (60)
+  Exotica: 2
+  Chemicals: 13
+  Biochems: 22
+  Electronics: 19
+  Ceramsteel: 15
+  Monopols: 27
+Build Space Attack Transport in Starport
+Time to Build / Upgrade: 3
+[21375] Technology Required to Build Unit (67):
+  [21375] Lander Transports (67)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Colony Star
+Nick Name: Colony Star
+Scores & Strengths:
+  Tech Score: 3536
+  Unit Score: 3552
+  Average Score: 3544
+  Stat Strength: 3552
+  Total Strength: 3552
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 16
+  Spot: 14
+  Camouflage: 3
+  Agility: 7
+  Armor: 39
+  Psy Defense: 39
+  Rank: 125
+Cargo Space: 4
+Immune to Plague
+Upkeep / Maintenance: 237
+Build Cost: 2366
+Build Resource Requirements:
+  Food: 2
+  Energy: 2
+  Metal: 17
+  Trace: 2
+  Exotica: 2
+  Chemicals: 6
+  Biochems: 15
+  Electronics: 3
+  Ceramsteel: 22
+  Monopols: 25
+Build Colony Star in Starport
+Time to Build / Upgrade: 3
+[21375] Technology Required to Build Unit (67):
+  [21375] Lander Transports (67)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Jump Transport Carrier
+Nick Name: JJ-CVX
+Scores & Strengths:
+  Tech Score: 5589
+  Unit Score: 5370
+  Average Score: 5480
+  Stat Strength: 5153
+  Total Strength: 5370
+  Planet Strength: 0
+  Space Strength: 5370
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 14
+  Spot: 14
+  Camouflage: 3
+  Agility: 12
+  Armor: 48
+  Psy Defense: 48
+  Rank: 908
+Attacks:
+  Direct Space: 11/11
+  Closed Space: 12/8
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 1349
+Build Cost: 13494
+Build Resource Requirements:
+  Food: 1
+  Energy: 2
+  Metal: 16
+  Trace: 3
+  Exotica: 1
+  Chemicals: 9
+  Biochems: 14
+  Electronics: 12
+  Ceramsteel: 23
+  Monopols: 27
+S  ingularities: 4
+Build Jump Transport Carrier in Starport
+Time to Build / Upgrade: 3
+[39365] Technology Required to Build Unit (61):
+  [39365] Jump Capital Ships (61)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Jump High-Speed Transport
+Nick Name: Jump HHSSTT
+Scores & Strengths:
+  Tech Score: 6896
+  Unit Score: 6896
+  Average Score: 6896
+  Stat Strength: 6016
+  Total Strength: 6896
+  Planet Strength: 0
+  Space Strength: 6896
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 16
+  Spot: 14
+  Camouflage: 6
+  Agility: 36
+  Armor: 46
+  Psy Defense: 46
+  Rank: 259
+Attacks:
+  Direct Space: 22/23
+  Closed Space: 17/22
+Cargo Space: 2
+Immune to Plague
+Upkeep / Maintenance: 726
+Build Cost: 7262
+Build Resource Requirements:
+  Food: 1
+  Energy: 5
+  Metal: 9
+  Trace: 4
+  Exotica: 1
+  Chemicals: 11
+  Biochems: 17
+  Electronics: 11
+  Ceramsteel: 13
+  Wetware: 6
+  Monopols: 23
+S  ingularities: 4
+Build Jump High-Speed Transport in Starport
+Time to Build / Upgrade: 3
+[66385] Technologies Required to Build Unit (60):
+  [21375] Lander Transports (67)
+  [45010] Hover Navalcraft (52)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

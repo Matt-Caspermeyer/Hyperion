@@ -1,8 +1,8 @@
-All units of the unit class Transport Animals are listed herein (1 in total):
+All units of the unit class Artillery Tractor are listed herein (11 in total):
 
 --1--
-Name: Transport Animals
-Nick Name: X-port Animal
+Name: Artillery Tractor
+Nick Name: Art. Tractor
 Scores & Strengths:
   Tech Score: 86
   Unit Score: 86
@@ -11,32 +11,448 @@ Scores & Strengths:
   Total Strength: 86
   Planet Strength: 86
   Space Strength: 0
-  Garrison Strength: 38
+  Garrison Strength: 43
 Statistics:
-  Movement Type: foot
-  Move Points: 5
+  Movement Type: tread
+  Move Points: 4
   Spot: 2
   Camouflage: 1
-  Agility: 6
-  Armor: 4
-  Psy Defense: 2
-  Rank: 1
+  Agility: 0
+  Armor: 7
+  Psy Defense: 4
+  Rank: 26
 Load aboard transport: YES
 Can tow units that can be towed
-Upkeep / Maintenance: 4
-Build Cost: 42
+Upkeep / Maintenance: 3
+Build Cost: 34
 Build Resource Requirements:
-  Food: 14
-  Energy: 13
-  Metal: 15
-  Trace: 10
-  Exotica: 12
-  Chemicals: 12
-Build Transport Animals in Farm
+  Food: 7
+  Energy: 5
+  Metal: 48
+  Trace: 8
+  Exotica: 5
+  Chemicals: 5
+Build Artillery Tractor in Mine
 Time to Build / Upgrade: 2
 [150] Technologies Required to Build Unit (100):
   [100] Physics & Energy (100)
   [50] Applied Technology (100)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Artillery Truck
+Nick Name: Art Truck
+Scores & Strengths:
+  Tech Score: 86
+  Unit Score: 86
+  Average Score: 86
+  Stat Strength: 86
+  Total Strength: 86
+  Planet Strength: 86
+  Space Strength: 0
+  Garrison Strength: 32
+Statistics:
+  Movement Type: wheel
+  Move Points: 7
+  Spot: 2
+  Camouflage: 2
+  Agility: 0
+  Armor: 5
+  Psy Defense: 2
+  Rank: 51
+Load aboard transport: YES
+Can tow units that can be towed
+Upkeep / Maintenance: 4
+Build Cost: 40
+Build Resource Requirements:
+  Food: 13
+  Energy: 12
+  Metal: 21
+  Trace: 8
+  Exotica: 11
+  Chemicals: 11
+Build Artillery Truck in Mine
+Time to Build / Upgrade: 2
+[150] Technologies Required to Build Unit (100):
+  [100] Physics & Energy (100)
+  [50] Applied Technology (100)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Salvage Tank
+Nick Name: Sal. Tank
+Scores & Strengths:
+  Tech Score: 86
+  Unit Score: 86
+  Average Score: 86
+  Stat Strength: 86
+  Total Strength: 86
+  Planet Strength: 86
+  Space Strength: 0
+  Garrison Strength: 60
+Statistics:
+  Movement Type: tread
+  Move Points: 2
+  Spot: 1
+  Camouflage: 1
+  Agility: 0
+  Armor: 8
+  Psy Defense: 4
+  Rank: 126
+Load aboard transport: YES
+Can tow units that can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 4
+Build Cost: 35
+Build Resource Requirements:
+  Food: 4
+  Energy: 3
+  Metal: 59
+  Trace: 8
+  Exotica: 2
+  Chemicals: 3
+Build Salvage Tank in Mine
+Time to Build / Upgrade: 2
+[150] Technologies Required to Build Unit (100):
+  [100] Physics & Energy (100)
+  [50] Applied Technology (100)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Flame Truck
+Nick Name: Flame Truck
+Scores & Strengths:
+  Tech Score: 100
+  Unit Score: 100
+  Average Score: 100
+  Stat Strength: 51
+  Total Strength: 100
+  Planet Strength: 100
+  Space Strength: 0
+  Garrison Strength: 44
+Statistics:
+  Movement Type: wheel
+  Move Points: 5
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 4
+  Psy Defense: 2
+  Rank: 51
+Attacks:
+  Close: 7/7
+Load aboard transport: YES
+Upkeep / Maintenance: 3
+Build Cost: 33
+Build Resource Requirements:
+  Food: 4
+  Energy: 16
+  Metal: 10
+  Trace: 16
+  Exotica: 4
+  Chemicals: 16
+Build Flame Truck in Factory
+Time to Build / Upgrade: 2
+[285] Technologies Required to Build Unit (99):
+  [110] Structural Engineering (99)
+  [125] Compression Ignition Engine (97)
+  [50] Applied Technology (100)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Armored Recovery Vehicle
+Nick Name: ARV
+Scores & Strengths:
+  Tech Score: 162
+  Unit Score: 160
+  Average Score: 161
+  Stat Strength: 158
+  Total Strength: 160
+  Planet Strength: 160
+  Space Strength: 0
+  Garrison Strength: 80
+Statistics:
+  Movement Type: tread
+  Move Points: 4
+  Spot: 2
+  Camouflage: 2
+  Agility: 3
+  Armor: 10
+  Psy Defense: 5
+  Rank: 127
+Attacks:
+  Close: 1/2
+Load aboard transport: YES
+Can tow units that can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 4
+Build Cost: 38
+Build Resource Requirements:
+  Food: 5
+  Energy: 6
+  Metal: 49
+  Trace: 7
+  Exotica: 4
+  Chemicals: 7
+Build Armored Recovery Vehicle in Mine
+Time to Build / Upgrade: 2
+[350] Technology Required to Build Unit (95):
+  [350] Tanks (95)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Flame Tank
+Nick Name: Flame Tank
+Scores & Strengths:
+  Tech Score: 167
+  Unit Score: 248
+  Average Score: 208
+  Stat Strength: 128
+  Total Strength: 248
+  Planet Strength: 248
+  Space Strength: 0
+  Garrison Strength: 101
+Statistics:
+  Movement Type: tread
+  Move Points: 6
+  Spot: 2
+  Camouflage: 2
+  Agility: 2
+  Armor: 8
+  Psy Defense: 4
+  Rank: 67
+Attacks:
+  Direct: 7/8
+  Close: 8/8
+Load aboard transport: YES
+Upkeep / Maintenance: 6
+Build Cost: 63
+Build Resource Requirements:
+  Food: 5
+  Energy: 27
+  Metal: 25
+  Trace: 29
+  Exotica: 5
+  Chemicals: 31
+Build Flame Tank in Factory
+Time to Build / Upgrade: 3
+[475] Technologies Required to Build Unit (97):
+  [125] Plastics (98)
+  [350] Tanks (95)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Artillery Truck II
+Nick Name: Art. Truck II
+Scores & Strengths:
+  Tech Score: 305
+  Unit Score: 291
+  Average Score: 298
+  Stat Strength: 291
+  Total Strength: 291
+  Planet Strength: 291
+  Space Strength: 0
+  Garrison Strength: 80
+Statistics:
+  Movement Type: wheel
+  Move Points: 13
+  Spot: 3
+  Camouflage: 4
+  Agility: 0
+  Armor: 9
+  Psy Defense: 4
+  Rank: 53
+Load aboard transport: YES
+Can tow units that can be towed
+Upkeep / Maintenance: 7
+Build Cost: 72
+Build Resource Requirements:
+  Food: 12
+  Energy: 12
+  Metal: 24
+  Trace: 8
+  Exotica: 13
+  Chemicals: 15
+  Biochems: 15
+Build Artillery Truck II in Mine
+Time to Build / Upgrade: 2
+[975] Technologies Required to Build Unit (85):
+  [675] Surgically-Enhanced Soldiers (75)
+  [300] Mechanized Warfare (95)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Artillery Tractor II
+Nick Name: Art Tractor 2
+Scores & Strengths:
+  Tech Score: 305
+  Unit Score: 310
+  Average Score: 308
+  Stat Strength: 310
+  Total Strength: 310
+  Planet Strength: 310
+  Space Strength: 0
+  Garrison Strength: 109
+Statistics:
+  Movement Type: tread
+  Move Points: 8
+  Spot: 3
+  Camouflage: 2
+  Agility: 0
+  Armor: 13
+  Psy Defense: 8
+  Rank: 28
+Load aboard transport: YES
+Can tow units that can be towed
+Upkeep / Maintenance: 5
+Build Cost: 50
+Build Resource Requirements:
+  Food: 6
+  Energy: 5
+  Metal: 58
+  Trace: 5
+  Exotica: 6
+  Chemicals: 7
+  Biochems: 6
+Build Artillery Tractor II in Mine
+Time to Build / Upgrade: 2
+[975] Technologies Required to Build Unit (85):
+  [675] Surgically-Enhanced Soldiers (75)
+  [300] Mechanized Warfare (95)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Mobile Landing Deck
+Nick Name: ML Deck
+Scores & Strengths:
+  Tech Score: 867
+  Unit Score: 866
+  Average Score: 866
+  Stat Strength: 866
+  Total Strength: 866
+  Planet Strength: 866
+  Space Strength: 0
+  Garrison Strength: 327
+Statistics:
+  Movement Type: wheel
+  Move Points: 7
+  Spot: 3
+  Camouflage: 2
+  Agility: 2
+  Armor: 20
+  Psy Defense: 20
+  Rank: 179
+Cargo Space: 2
+Transports and Refuels (at end of turn) all Air Units
+Can tow units that can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 5
+Build Cost: 54
+Build Resource Requirements:
+  Food: 1
+  Energy: 2
+  Metal: 73
+  Trace: 1
+  Exotica: 1
+  Chemicals: 2
+  Biochems: 1
+  Electronics: 1
+Build Mobile Landing Deck in Factory
+Time to Build / Upgrade: 2
+[3670] Technologies Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
+  [2270] Naval Escort Ships (86)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Portable HeliPad
+Nick Name: PH-Pad
+Scores & Strengths:
+  Tech Score: 1157
+  Unit Score: 1152
+  Average Score: 1154
+  Stat Strength: 1152
+  Total Strength: 1152
+  Planet Strength: 1152
+  Space Strength: 0
+  Garrison Strength: 1440
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 0
+  Agility: 0
+  Armor: 24
+  Psy Defense: 24
+  Rank: 162
+Load aboard transport: YES
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 5
+Build Cost: 48
+Build Resource Requirements:
+  Metal: 92
+Build Portable HeliPad in Factory
+Time to Build / Upgrade: 2
+[5390] Technologies Required to Build Unit (87):
+  [2725] Naval Capital Ships (88)
+  [2665] V/STOL Aircraft (85)
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Portable Landing Pad
+Nick Name: PL-Pad
+Scores & Strengths:
+  Tech Score: 1256
+  Unit Score: 1250
+  Average Score: 1253
+  Stat Strength: 1250
+  Total Strength: 1250
+  Planet Strength: 1250
+  Space Strength: 0
+  Garrison Strength: 1562
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 0
+  Agility: 0
+  Armor: 25
+  Psy Defense: 25
+  Rank: 163
+Load aboard transport: YES
+Transports and Refuels (at end of turn) all Air Units
+Can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 5
+Build Cost: 54
+Build Resource Requirements:
+  Metal: 95
+Build Portable Landing Pad in Factory
+Time to Build / Upgrade: 2
+[7060] Technologies Required to Build Unit (85):
+  [2725] Naval Capital Ships (88)
+  [1670] Guided Missiles (83)
+  [2665] V/STOL Aircraft (85)
 Unit Eats: YES
 Unit can be disbanded: YES

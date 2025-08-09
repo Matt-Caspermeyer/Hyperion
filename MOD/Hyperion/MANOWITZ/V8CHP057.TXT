@@ -1,13 +1,13 @@
-All units of the unit class Infantry Tank are listed herein (11 in total):
+All units of the unit class Medium Tank are listed herein (6 in total):
 
 --1--
-Name: Infantry Tank
-Nick Name: Infantry Tank
+Name: Medium Tank
+Nick Name: Wolfen
 Scores & Strengths:
   Tech Score: 106
   Unit Score: 157
   Average Score: 132
-  Stat Strength: 120
+  Stat Strength: 119
   Total Strength: 157
   Planet Strength: 157
   Space Strength: 0
@@ -15,28 +15,28 @@ Scores & Strengths:
 Statistics:
   Movement Type: tread
   Move Points: 4
-  Spot: 2
-  Camouflage: 2
-  Agility: 4
-  Armor: 8
+  Spot: 1
+  Camouflage: 1
+  Agility: 2
+  Armor: 9
   Psy Defense: 4
-  Rank: 57
+  Rank: 62
 Attacks:
-  Indirect: 3/4
-  Direct: 3/3
-  Close: 4/4
+  Indirect: 1/10
+  Direct: 1/10
+  Close: 6/3
 Load aboard transport: YES
-Upkeep / Maintenance: 3
-Build Cost: 33
+Upkeep / Maintenance: 7
+Build Cost: 66
 Build Resource Requirements:
-  Food: 4
-  Energy: 12
-  Metal: 30
-  Trace: 12
-  Exotica: 4
-  Chemicals: 11
-Build Infantry Tank in Factory
-Time to Build / Upgrade: 2
+  Food: 3
+  Energy: 44
+  Metal: 36
+  Trace: 10
+  Exotica: 2
+  Chemicals: 42
+Build Medium Tank in Factory
+Time to Build / Upgrade: 3
 [400] Technologies Required to Build Unit (98):
   [110] Structural Engineering (99)
   [125] Compression Ignition Engine (97)
@@ -46,41 +46,42 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Anti-infantry Tank
-Nick Name: AI Tank
+Name: Medium Tank II
+Nick Name: Med Tank II
 Scores & Strengths:
   Tech Score: 162
-  Unit Score: 160
-  Average Score: 161
-  Stat Strength: 110
-  Total Strength: 160
-  Planet Strength: 160
+  Unit Score: 229
+  Average Score: 195
+  Stat Strength: 177
+  Total Strength: 229
+  Planet Strength: 229
   Space Strength: 0
-  Garrison Strength: 80
+  Garrison Strength: 102
 Statistics:
   Movement Type: tread
-  Move Points: 4
-  Spot: 2
+  Move Points: 5
+  Spot: 1
   Camouflage: 1
-  Agility: 3
-  Armor: 8
-  Psy Defense: 4
-  Rank: 86
+  Agility: 2
+  Armor: 11
+  Psy Defense: 5
+  Rank: 65
 Attacks:
-  Indirect: 4/5
-  Close: 10/3
+  Indirect: 1/12
+  Direct: 1/12
+  Close: 7/4
 Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 50
+Upkeep / Maintenance: 12
+Build Cost: 124
 Build Resource Requirements:
   Food: 5
-  Energy: 12
-  Metal: 31
-  Trace: 39
-  Exotica: 4
-  Chemicals: 14
-Build Anti-infantry Tank in Factory
-Time to Build / Upgrade: 2
+  Energy: 73
+  Metal: 57
+  Trace: 20
+  Exotica: 5
+  Chemicals: 88
+Build Medium Tank II in Factory
+Time to Build / Upgrade: 4
 [350] Technology Required to Build Unit (95):
   [350] Tanks (95)
 Counts as planetary flock: YES
@@ -88,402 +89,173 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Infantry Fighting Vehicle
-Nick Name: Inf. FV
+Name: Assault Tank
+Nick Name: Pitbull
 Scores & Strengths:
-  Tech Score: 192
-  Unit Score: 191
-  Average Score: 192
-  Stat Strength: 133
-  Total Strength: 191
-  Planet Strength: 191
+  Tech Score: 162
+  Unit Score: 240
+  Average Score: 201
+  Stat Strength: 178
+  Total Strength: 240
+  Planet Strength: 240
   Space Strength: 0
-  Garrison Strength: 67
+  Garrison Strength: 97
 Statistics:
-  Movement Type: wheel
-  Move Points: 8
-  Spot: 4
+  Movement Type: tread
+  Move Points: 6
+  Spot: 2
   Camouflage: 2
-  Agility: 2
-  Armor: 6
-  Psy Defense: 3
-  Rank: 88
+  Agility: 3
+  Armor: 10
+  Psy Defense: 5
+  Rank: 61
 Attacks:
-  Direct: 5/6
-  Close: 7/4
+  Indirect: 3/8
+  Direct: 3/6
+  Close: 5/4
 Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 5
-Build Cost: 53
+Upkeep / Maintenance: 8
+Build Cost: 77
 Build Resource Requirements:
-  Food: 9
-  Energy: 15
-  Metal: 12
-  Trace: 20
-  Exotica: 9
-  Chemicals: 25
-Build Infantry Fighting Vehicle in Factory
-Time to Build / Upgrade: 2
-[550] Technologies Required to Build Unit (96):
-  [145] Composite Armor (97)
-  [405] Recoilless Rifle (94)
+  Food: 8
+  Energy: 33
+  Metal: 49
+  Trace: 19
+  Exotica: 7
+  Chemicals: 40
+Build Assault Tank in Factory
+Time to Build / Upgrade: 3
+[350] Technology Required to Build Unit (95):
+  [350] Tanks (95)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Anti-infantry Tank II
-Nick Name: AI Tank II
+Name: Cruiser Tank
+Nick Name: Cruiser Tank
 Scores & Strengths:
-  Tech Score: 292
-  Unit Score: 272
-  Average Score: 282
-  Stat Strength: 185
-  Total Strength: 272
-  Planet Strength: 272
+  Tech Score: 167
+  Unit Score: 248
+  Average Score: 208
+  Stat Strength: 183
+  Total Strength: 248
+  Planet Strength: 248
   Space Strength: 0
-  Garrison Strength: 121
+  Garrison Strength: 110
 Statistics:
   Movement Type: tread
   Move Points: 5
   Spot: 2
-  Camouflage: 1
-  Agility: 3
+  Camouflage: 2
+  Agility: 2
   Armor: 11
   Psy Defense: 5
-  Rank: 90
+  Rank: 66
 Attacks:
-  Indirect: 5/7
-  Close: 13/4
+  Indirect: 2/13
+  Direct: 2/12
+  Close: 3/5
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 63
+Upkeep / Maintenance: 10
+Build Cost: 100
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 32
-  Trace: 41
-  Exotica: 2
-  Chemicals: 11
-  Electronics: 25
-Build Anti-infantry Tank II in Factory
-Time to Build / Upgrade: 2
-[770] Technology Required to Build Unit (92):
-  [770] Self-Propelled Weaponry (92)
+  Food: 4
+  Energy: 62
+  Metal: 46
+  Trace: 8
+  Exotica: 4
+  Chemicals: 72
+Build Cruiser Tank in Factory
+Time to Build / Upgrade: 4
+[475] Technologies Required to Build Unit (97):
+  [125] Plastics (98)
+  [350] Tanks (95)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Anti-infantry Tank III
-Nick Name: AI Tank III
+Name: Shock Assault Tank
+Nick Name: Razorbull
 Scores & Strengths:
-  Tech Score: 530
-  Unit Score: 476
-  Average Score: 503
-  Stat Strength: 323
-  Total Strength: 476
-  Planet Strength: 476
+  Tech Score: 1226
+  Unit Score: 1805
+  Average Score: 1515
+  Stat Strength: 1339
+  Total Strength: 1805
+  Planet Strength: 1805
   Space Strength: 0
-  Garrison Strength: 179
+  Garrison Strength: 437
 Statistics:
   Movement Type: tread
-  Move Points: 7
+  Move Points: 17
   Spot: 3
-  Camouflage: 2
-  Agility: 4
-  Armor: 14
-  Psy Defense: 7
-  Rank: 96
-Attacks:
-  Indirect: 7/9
-  Close: 18/5
-Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 85
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 27
-  Trace: 41
-  Exotica: 3
-  Chemicals: 25
-  Electronics: 40
-Build Anti-infantry Tank III in Factory
-Time to Build / Upgrade: 3
-[1700] Technology Required to Build Unit (88):
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Reaper Field Tank
-Nick Name: Reaper
-Scores & Strengths:
-  Tech Score: 1799
-  Unit Score: 1668
-  Average Score: 1733
-  Stat Strength: 1117
-  Total Strength: 1668
-  Planet Strength: 1668
-  Space Strength: 0
-  Garrison Strength: 462
-Statistics:
-  Movement Type: tread
-  Move Points: 13
-  Spot: 4
-  Camouflage: 3
+  Camouflage: 6
   Agility: 5
-  Armor: 27
-  Psy Defense: 13
-  Rank: 122
-Attacks:
-  Indirect: 13/17
-  Close: 33/10
-Load aboard transport: YES
-Upkeep / Maintenance: 88
-Build Cost: 883
-Build Resource Requirements:
-  Food: 2
-  Energy: 7
-  Metal: 13
-  Trace: 20
-  Exotica: 2
-  Chemicals: 19
-  Electronics: 33
-  Ceramsteel: 18
-  Monopols: 40
-Build Reaper Field Tank in Factory
-Time to Build / Upgrade: 4
-[9775] Technologies Required to Build Unit (80):
-  [1690] Ceramsteel (84)
-  [8085] Fusion Rifles (75)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---7--
-Name: Reaper Field Tank II
-Nick Name: Reaper II
-Scores & Strengths:
-  Tech Score: 1975
-  Unit Score: 1825
-  Average Score: 1900
-  Stat Strength: 1237
-  Total Strength: 1825
-  Planet Strength: 1825
-  Space Strength: 0
-  Garrison Strength: 487
-Statistics:
-  Movement Type: tread
-  Move Points: 14
-  Spot: 4
-  Camouflage: 3
-  Agility: 6
   Armor: 28
   Psy Defense: 14
-  Rank: 125
+  Rank: 90
 Attacks:
-  Indirect: 14/17
-  Close: 35/10
+  Indirect: 8/22
+  Direct: 8/17
+  Close: 14/11
 Load aboard transport: YES
-Upkeep / Maintenance: 69
-Build Cost: 692
+Upkeep / Maintenance: 17
+Build Cost: 96
 Build Resource Requirements:
-  Food: 2
-  Energy: 7
-  Metal: 13
-  Trace: 18
-  Exotica: 2
-  Chemicals: 18
-  Electronics: 37
-  Ceramsteel: 17
-  Monopols: 30
-Build Reaper Field Tank II in Factory
-Time to Build / Upgrade: 3
-[13290] Technologies Required to Build Unit (80):
-  [8085] Fusion Rifles (75)
+  Chemicals: 29
+  Electronics: 32
+  Ceramsteel: 36
+Upgrade Assault Tank to Shock Assault Tank at Factory
+Time to Build / Upgrade: 1
+[5205] Technology Required to Build Unit (84):
   [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---8--
-Name: Reaper Field Tank III
-Nick Name: Reaper III
+--6--
+Name: Shock Medium Tank
+Nick Name: Wolfenrot
 Scores & Strengths:
-  Tech Score: 2573
-  Unit Score: 2404
-  Average Score: 2489
-  Stat Strength: 1604
-  Total Strength: 2404
-  Planet Strength: 2404
+  Tech Score: 1413
+  Unit Score: 2105
+  Average Score: 1759
+  Stat Strength: 1575
+  Total Strength: 2105
+  Planet Strength: 2105
   Space Strength: 0
-  Garrison Strength: 601
+  Garrison Strength: 543
 Statistics:
   Movement Type: tread
-  Move Points: 16
-  Spot: 4
+  Move Points: 15
+  Spot: 2
   Camouflage: 4
-  Agility: 6
-  Armor: 32
-  Psy Defense: 16
-  Rank: 136
+  Agility: 4
+  Armor: 33
+  Psy Defense: 15
+  Rank: 108
 Attacks:
-  Indirect: 16/20
-  Close: 40/12
+  Indirect: 4/36
+  Direct: 4/36
+  Close: 22/11
 Load aboard transport: YES
-Upkeep / Maintenance: 59
-Build Cost: 590
+Upkeep / Maintenance: 234
+Build Cost: 2270
 Build Resource Requirements:
-  Food: 1
-  Energy: 5
-  Metal: 7
-  Trace: 15
+  Energy: 16
+  Trace: 3
   Exotica: 1
-  Chemicals: 12
-  Electronics: 32
-  Ceramsteel: 12
-  Monopols: 24
-Build Reaper Field Tank III in Factory
-Time to Build / Upgrade: 3
-[21620] Technologies Required to Build Unit (75):
-  [8085] Fusion Rifles (75)
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---9--
-Name: Grim Reaper Tank
-Nick Name: Grim Reaper
-Scores & Strengths:
-  Tech Score: 3794
-  Unit Score: 3648
-  Average Score: 3721
-  Stat Strength: 2437
-  Total Strength: 3648
-  Planet Strength: 3648
-  Space Strength: 0
-  Garrison Strength: 815
-Statistics:
-  Movement Type: tread
-  Move Points: 20
-  Spot: 12
-  Camouflage: 10
-  Agility: 21
-  Armor: 26
-  Psy Defense: 26
-  Rank: 151
-Attacks:
-  Indirect: 17/22
-  Close: 31/27
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 107
-Build Cost: 1068
-Build Resource Requirements:
-  Food: 2
-  Energy: 12
-  Metal: 6
-  Trace: 7
-  Exotica: 2
-  Chemicals: 16
-  Biochems: 26
-  Electronics: 17
-  Ceramsteel: 10
-  Monopols: 28
-Build Grim Reaper Tank in Factory
-Time to Build / Upgrade: 3
-[22290] Technology Required to Build Unit (34):
-  [22290] Bio-Anti Infantry Tanks (34)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---10--
-Name: Shock Grim Reaper Tank
-Nick Name: Grimlock
-Scores & Strengths:
-  Tech Score: 4390
-  Unit Score: 4190
-  Average Score: 4290
-  Stat Strength: 2801
-  Total Strength: 4190
-  Planet Strength: 4190
-  Space Strength: 0
-  Garrison Strength: 893
-Statistics:
-  Movement Type: tread
-  Move Points: 22
-  Spot: 12
-  Camouflage: 11
-  Agility: 22
-  Armor: 28
-  Psy Defense: 28
-  Rank: 160
-Attacks:
-  Indirect: 18/24
-  Close: 33/29
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 106
-Build Cost: 971
-Build Resource Requirements:
-  Biochems: 18
-  Ceramsteel: 7
-  Wetware: 5
-  Monopols: 21
-Upgrade Anti-infantry Tank III to Shock Grim Reaper Tank at Factory
-Time to Build / Upgrade: 1
-[54010] Technologies Required to Build Unit (42):
-  [16745] Wetware (23)
-  [14975] Power Hovertanks (70)
-  [22290] Bio-Anti Infantry Tanks (34)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---11--
-Name: Stealth Reaper Tank
-Nick Name: Ghost Grim
-Scores & Strengths:
-  Tech Score: 5364
-  Unit Score: 5355
-  Average Score: 5360
-  Stat Strength: 3724
-  Total Strength: 5355
-  Planet Strength: 5355
-  Space Strength: 0
-  Garrison Strength: 1141
-Statistics:
-  Movement Type: tread
-  Move Points: 22
-  Spot: 14
-  Camouflage: 30
-  Agility: 24
-  Armor: 28
-  Psy Defense: 28
-  Rank: 176
-Attacks:
-  Indirect: 21/26
-  Close: 35/31
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 152
-Build Cost: 1456
-Build Resource Requirements:
-  Chemicals: 2
-  Biochems: 25
-  Electronics: 2
-  Ceramsteel: 7
-  Wetware: 10
-  Monopols: 22
-Upgrade Anti-infantry Tank II to Stealth Reaper Tank at Factory
-Time to Build / Upgrade: 1
-[37210] Technology Required to Build Unit (34):
-  [37210] Neumonic Land Vehicles (34)
+  Chemicals: 68
+  Electronics: 37
+  Ceramsteel: 38
+  Monopols: 97
+Upgrade Medium Tank to Shock Medium Tank at Factory
+Time to Build / Upgrade: 5
+[6950] Technologies Required to Build Unit (77):
+  [1745] Monopols (70)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

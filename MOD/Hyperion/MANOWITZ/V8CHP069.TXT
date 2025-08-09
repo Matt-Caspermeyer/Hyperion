@@ -1,215 +1,450 @@
-All units of the unit class Noble are listed herein (5 in total):
+All units of the unit class Yeustam are listed herein (10 in total):
 
 --1--
-Name: Noble
-Nick Name: Noble
+Name: Yeustam
+Nick Name: Yeustam
 Scores & Strengths:
-  Tech Score: 182
-  Unit Score: 181
-  Average Score: 182
-  Stat Strength: 120
-  Total Strength: 181
-  Planet Strength: 181
-  Space Strength: 0
-  Garrison Strength: 90
+  Tech Score: 177
+  Unit Score: 177
+  Average Score: 177
+  Stat Strength: 132
+  Total Strength: 177
+  Planet Strength: 177
+  Space Strength: 177
+  Garrison Strength: 125
+Statistics:
+  Movement Type: foot
+  Move Points: 2
+  Spot: 2
+  Camouflage: 2
+  Agility: 10
+  Armor: 2
+  Psy Defense: 4
+  Rank: 102
+Attacks:
+  Psychic: 9/5
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 19
+Build Cost: 123
+Build Resource Requirements:
+  Metal: 2
+  Trace: 18
+  Exotica: 5
+  Chemicals: 13
+  Gems: 5
+Upgrade Tertiary to Yeustam at Church
+Time to Build / Upgrade: 1
+[395] Technology Required to Build Unit (95):
+  [395] Laws of Nine (95)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Nementona
+Nick Name: Nementona
+Scores & Strengths:
+  Tech Score: 245
+  Unit Score: 245
+  Average Score: 245
+  Stat Strength: 200
+  Total Strength: 245
+  Planet Strength: 245
+  Space Strength: 245
+  Garrison Strength: 122
 Statistics:
   Movement Type: foot
   Move Points: 4
-  Spot: 4
-  Camouflage: 4
-  Agility: 8
-  Armor: 2
-  Psy Defense: 2
-  Rank: 700
+  Spot: 3
+  Camouflage: 3
+  Agility: 11
+  Armor: 3
+  Psy Defense: 6
+  Rank: 102
 Attacks:
-  Direct: 4/3
-  Close: 7/7
+  Psychic: 9/5
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Noble - Provides stack combat and other bonuses
-Upkeep / Maintenance: 767
-Build Cost: 6469
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 8
 Build Resource Requirements:
-  Food: 234
-  Energy: 117
-  Metal: 241
-Upgrade Adolescent Noble to Noble at Palace
+  Biochems: 6
+Upgrade Yeustam to Nementona at Church
 Time to Build / Upgrade: 1
-[510] Technologies Required to Build Unit (99):
-  [100] Medical & Biological (100)
-  [100] Physics & Energy (100)
-  [110] Meditation (99)
-  [200] Fortifications (97)
+[1795] Technologies Required to Build Unit (95):
+  [475] Sakti (95)
+  [440] Blessitudes (95)
+  [440] Pan-Physics (95)
+  [440] Sulis (95)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
 
---2--
-Name: Blademaster
-Nick Name: Blademaster
+--3--
+Name: Kavi
+Nick Name: Kavi
 Scores & Strengths:
-  Tech Score: 510
-  Unit Score: 420
-  Average Score: 465
-  Stat Strength: 241
-  Total Strength: 420
-  Planet Strength: 420
-  Space Strength: 0
-  Garrison Strength: 158
+  Tech Score: 403
+  Unit Score: 401
+  Average Score: 402
+  Stat Strength: 329
+  Total Strength: 401
+  Planet Strength: 401
+  Space Strength: 401
+  Garrison Strength: 163
+Statistics:
+  Movement Type: foot
+  Move Points: 6
+  Spot: 6
+  Camouflage: 4
+  Agility: 14
+  Armor: 3
+  Psy Defense: 6
+  Rank: 104
+Attacks:
+  Psychic: 8/9
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 17
+Build Cost: 167
+Build Resource Requirements:
+  Food: 3
+  Energy: 3
+  Trace: 3
+  Exotica: 5
+  Chemicals: 3
+  Biochems: 7
+  Electronics: 10
+  Gems: 4
+Upgrade Nementona to Kavi at Church
+Time to Build / Upgrade: 1
+[2410] Technologies Required to Build Unit (71):
+  [730] Beata (90)
+  [490] Leiposophy (94)
+  [700] Virtual Particles (46)
+  [490] Spatial Displacement Bombardment (55)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Prthivi
+Nick Name: Prthivi
+Scores & Strengths:
+  Tech Score: 500
+  Unit Score: 500
+  Average Score: 500
+  Stat Strength: 428
+  Total Strength: 500
+  Planet Strength: 500
+  Space Strength: 500
+  Garrison Strength: 188
 Statistics:
   Movement Type: foot
   Move Points: 7
-  Spot: 5
-  Camouflage: 7
-  Agility: 10
-  Armor: 3
-  Psy Defense: 3
-  Rank: 708
+  Spot: 7
+  Camouflage: 5
+  Agility: 15
+  Armor: 4
+  Psy Defense: 8
+  Rank: 105
 Attacks:
-  Direct: 7/5
-  Close: 12/12
+  Psychic: 8/9
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Noble - Provides stack combat and other bonuses
-Upkeep / Maintenance: 828
-Build Cost: 1813
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 14
 Build Resource Requirements:
-  Food: 16
-  Energy: 55
-  Metal: 16
-  Exotica: 11
-  Chemicals: 82
-  Electronics: 50
-Upgrade Noble to Blademaster at Palace
-Time to Build / Upgrade: 2
-[1615] Technology Required to Build Unit (76):
-  [1615] Wireblades (76)
+  Biochems: 1
+Upgrade Kavi to Prthivi at Church
+Time to Build / Upgrade: 1
+[3825] Technologies Required to Build Unit (73):
+  [825] Regin (90)
+  [840] Sanctissima (49)
+  [825] Cronia (90)
+  [545] Compassionate Ethics (93)
+  [790] Sentient Energy Fields (42)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
 
---3--
-Name: Psy-master
-Nick Name: Psy-master
+--5--
+Name: Witega
+Nick Name: Witega
 Scores & Strengths:
-  Tech Score: 1174
-  Unit Score: 1174
-  Average Score: 1174
+  Tech Score: 553
+  Unit Score: 553
+  Average Score: 553
+  Stat Strength: 409
+  Total Strength: 553
+  Planet Strength: 553
+  Space Strength: 553
+  Garrison Strength: 225
+Statistics:
+  Movement Type: foot
+  Move Points: 6
+  Spot: 6
+  Camouflage: 4
+  Agility: 14
+  Armor: 5
+  Psy Defense: 10
+  Rank: 106
+Attacks:
+  Psychic: 12/12
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 31
+Build Cost: 309
+Build Resource Requirements:
+  Food: 4
+  Energy: 4
+  Metal: 6
+  Trace: 2
+  Exotica: 6
+  Chemicals: 5
+  Biochems: 10
+  Electronics: 6
+  Gems: 9
+Upgrade Prthivi to Witega at Church
+Time to Build / Upgrade: 1
+[2195] Technologies Required to Build Unit (61):
+  [1145] Aster (74)
+  [1050] Ghost Vibrations (48)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Bakhti
+Nick Name: Bakhti
+Scores & Strengths:
+  Tech Score: 683
+  Unit Score: 689
+  Average Score: 686
+  Stat Strength: 533
+  Total Strength: 689
+  Planet Strength: 689
+  Space Strength: 689
+  Garrison Strength: 217
+Statistics:
+  Movement Type: foot
+  Move Points: 10
+  Spot: 8
+  Camouflage: 10
+  Agility: 12
+  Armor: 5
+  Psy Defense: 10
+  Rank: 107
+Attacks:
+  Psychic: 12/13
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 19
+Build Cost: 188
+Build Resource Requirements:
+  Metal: 2
+  Trace: 2
+  Electronics: 7
+  Gems: 3
+Upgrade Prthivi to Bakhti at Church
+Time to Build / Upgrade: 1
+[6025] Technologies Required to Build Unit (53):
+  [1265] Devarsi (75)
+  [1265] Ambochi (75)
+  [1165] Energy Shades (39)
+  [1165] Yinchi (44)
+  [1165] Wave Life (34)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Pyskti
+Nick Name: Pyskti
+Scores & Strengths:
+  Tech Score: 695
+  Unit Score: 693
+  Average Score: 694
+  Stat Strength: 533
+  Total Strength: 693
+  Planet Strength: 693
+  Space Strength: 687
+  Garrison Strength: 219
+Statistics:
+  Movement Type: foot
+  Move Points: 10
+  Spot: 8
+  Camouflage: 10
+  Agility: 12
+  Armor: 5
+  Psy Defense: 10
+  Rank: 107
+Attacks:
+  Psychic: 14/11
+  Close: 2/3
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 31
+Build Resource Requirements:
+  Food: 1
+  Energy: 2
+  Metal: 2
+  Trace: 10
+  Exotica: 1
+  Chemicals: 2
+  Biochems: 4
+  Electronics: 13
+Upgrade Sant to Pyskti at Church
+Time to Build / Upgrade: 1
+[2840] Technologies Required to Build Unit (62):
+  [1555] Dhechi (80)
+  [1285] Paramu (43)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Protos
+Nick Name: Protos
+Scores & Strengths:
+  Tech Score: 704
+  Unit Score: 705
+  Average Score: 704
+  Stat Strength: 513
+  Total Strength: 705
+  Planet Strength: 705
+  Space Strength: 705
+  Garrison Strength: 222
+Statistics:
+  Movement Type: foot
+  Move Points: 10
+  Spot: 8
+  Camouflage: 10
+  Agility: 13
+  Armor: 4
+  Psy Defense: 8
+  Rank: 107
+Attacks:
+  Psychic: 16/12
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 39
+Build Cost: 394
+Build Resource Requirements:
+  Food: 10
+  Energy: 9
+  Metal: 3
+  Trace: 20
+  Exotica: 15
+  Chemicals: 11
+  Biochems: 21
+  Electronics: 34
+  Gems: 9
+Upgrade Prthivi to Protos at Church
+Time to Build / Upgrade: 2
+[2485] Technology Required to Build Unit (61):
+  [2485] Shekina (61)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Ritualist
+Nick Name: Ritualist
+Scores & Strengths:
+  Tech Score: 749
+  Unit Score: 748
+  Average Score: 749
+  Stat Strength: 588
+  Total Strength: 748
+  Planet Strength: 748
+  Space Strength: 748
+  Garrison Strength: 236
+Statistics:
+  Movement Type: foot
+  Move Points: 10
+  Spot: 8
+  Camouflage: 10
+  Agility: 12
+  Armor: 6
+  Psy Defense: 12
+  Rank: 107
+Attacks:
+  Psychic: 16/10
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 34
+Build Cost: 152
+Build Resource Requirements:
+  Food: 10
+  Energy: 7
+  Metal: 7
+  Trace: 17
+  Exotica: 13
+  Chemicals: 10
+  Biochems: 26
+  Electronics: 26
+  Gems: 2
+Upgrade Bakhti to Ritualist at Church
+Time to Build / Upgrade: 2
+[2700] Technology Required to Build Unit (58):
+  [2700] Nous Point (58)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Sant
+Nick Name: Sant
+Scores & Strengths:
+  Tech Score: 607
+  Unit Score: 760
+  Average Score: 684
   Stat Strength: 592
-  Total Strength: 1174
-  Planet Strength: 1174
-  Space Strength: 817
-  Garrison Strength: 391
+  Total Strength: 760
+  Planet Strength: 760
+  Space Strength: 760
+  Garrison Strength: 253
 Statistics:
   Movement Type: foot
   Move Points: 9
   Spot: 9
-  Camouflage: 9
-  Agility: 13
-  Armor: 6
-  Psy Defense: 12
-  Rank: 678
-Attacks:
-  Psychic: 15/15
-  Close: 21/17
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Noble - Provides stack combat and other bonuses
-Upkeep / Maintenance: 549
-Build Cost: 3677
-Build Resource Requirements:
-  Electronics: 8
-  Gems: 16
-Upgrade Blademaster to Psy-master at Palace
-Time to Build / Upgrade: 1
-[5250] Technologies Required to Build Unit (62):
-  [1615] Wireblades (76)
-  [3635] Dervishes (48)
-Counts as planetary flock: YES
-
---4--
-Name: Rogue Noble
-Nick Name: Rogue Noble
-Scores & Strengths:
-  Tech Score: 1429
-  Unit Score: 1429
-  Average Score: 1429
-  Stat Strength: 696
-  Total Strength: 1429
-  Planet Strength: 1429
-  Space Strength: 0
-  Garrison Strength: 451
-Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 10
-  Camouflage: 10
-  Agility: 14
-  Armor: 10
+  Camouflage: 7
+  Agility: 16
+  Armor: 5
   Psy Defense: 10
-  Rank: 729
+  Rank: 107
 Attacks:
-  Air: 20/11
-  Indirect: 18/11
-  Direct: 15/9
-  Close: 18/10
+  Psychic: 12/14
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Noble - Provides stack combat and other bonuses
-Upkeep / Maintenance: 52
-Build Cost: 517
+Clergy - Increases Tithe Skim and Converts Sects
+Heals units of same movement type
+Upkeep / Maintenance: 32
+Build Cost: 323
 Build Resource Requirements:
-  Food: 4
-  Energy: 15
-  Metal: 6
-  Trace: 27
-  Exotica: 4
-  Chemicals: 17
-  Biochems: 45
-  Electronics: 47
-  Ceramsteel: 5
-Build Rogue Noble in Palace
-Time to Build / Upgrade: 3
-[7730] Technologies Required to Build Unit (60):
-  [1615] Wireblades (76)
-  [6115] Xenoenvironment Mastery (44)
-Counts as planetary flock: YES
-
---5--
-Name: Noblesse Elitesse
-Nick Name: Elite
-Scores & Strengths:
-  Tech Score: 5075
-  Unit Score: 4713
-  Average Score: 4894
-  Stat Strength: 1773
-  Total Strength: 4713
-  Planet Strength: 4713
-  Space Strength: 2449
-  Garrison Strength: 1178
-Statistics:
-  Movement Type: foot
-  Move Points: 16
-  Spot: 10
-  Camouflage: 11
-  Agility: 24
-  Armor: 12
-  Psy Defense: 24
-  Rank: 782
-Attacks:
-  Psychic: 26/26
-  Air: 18/21
-  Indirect: 24/29
-  Direct: 20/22
-  Close: 30/25
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Noble - Provides stack combat and other bonuses
-Upkeep / Maintenance: 412
-Build Cost: 439
-Build Resource Requirements:
-  Monopols: 24
-Upgrade Psy-master to Noblesse Elitesse at Palace
+  Food: 5
+  Energy: 4
+  Metal: 3
+  Trace: 8
+  Exotica: 8
+  Chemicals: 5
+  Biochems: 11
+  Electronics: 11
+  Gems: 8
+Upgrade Prthivi to Sant at Church
 Time to Build / Upgrade: 1
-[42690] Technologies Required to Build Unit (58):
-  [1615] Wireblades (76)
-  [6995] Symbiot Psychology (37)
-  [6115] Xenoenvironment Mastery (44)
-  [27965] Jump Escorts (75)
+[3580] Technologies Required to Build Unit (66):
+  [1050] Ghost Vibrations (48)
+  [1265] Devarsi (75)
+  [1265] Ambochi (75)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES

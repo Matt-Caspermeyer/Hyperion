@@ -1,169 +1,278 @@
-All units of the unit class Assault Gun are listed herein (4 in total):
+All units of the unit class Anti-Tank Rocket are listed herein (6 in total):
 
 --1--
-Name: Assault Gun
-Nick Name: Violator
+Name: Anti-Tank Rocket
+Nick Name: AT Rocket
 Scores & Strengths:
-  Tech Score: 292
-  Unit Score: 291
-  Average Score: 292
-  Stat Strength: 159
-  Total Strength: 291
-  Planet Strength: 291
+  Tech Score: 285
+  Unit Score: 285
+  Average Score: 285
+  Stat Strength: 183
+  Total Strength: 285
+  Planet Strength: 285
   Space Strength: 0
-  Garrison Strength: 145
+  Garrison Strength: 285
 Statistics:
-  Movement Type: tread
-  Move Points: 4
-  Spot: 4
-  Camouflage: 1
-  Agility: 1
-  Armor: 10
-  Psy Defense: 5
-  Rank: 68
+  Movement Type: air
+  Move Points: 1
+  Spot: 0
+  Camouflage: 6
+  Agility: 12
+  Armor: 1
+  Psy Defense: 1
+  Rank: 20
 Attacks:
-  Indirect: 6/13
-  Direct: 6/9
+  Indirect: 3/20
+  Direct: 3/14
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 59
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 18
 Build Resource Requirements:
-  Food: 3
-  Energy: 29
-  Metal: 27
-  Trace: 18
-  Exotica: 3
-  Chemicals: 29
-  Electronics: 8
-Build Assault Gun in Factory
-Time to Build / Upgrade: 2
-[770] Technology Required to Build Unit (92):
-  [770] Self-Propelled Weaponry (92)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 6
+  Energy: 67
+  Metal: 1
+  Trace: 17
+  Exotica: 6
+  Chemicals: 84
+  Electronics: 10
+Build Anti-Tank Rocket in Chemical Plant
+Time to Build / Upgrade: 3
+[1000] Technologies Required to Build Unit (93):
+  [700] Rockets (90)
+  [300] Mechanized Warfare (95)
 Unit can be disbanded: YES
 
 --2--
-Name: Heavy Assault Gun
-Nick Name: Heavy AG
+Name: Anti-Tank Missile
+Nick Name: AT Missile
 Scores & Strengths:
-  Tech Score: 325
-  Unit Score: 291
-  Average Score: 308
-  Stat Strength: 159
-  Total Strength: 291
-  Planet Strength: 291
+  Tech Score: 312
+  Unit Score: 312
+  Average Score: 312
+  Stat Strength: 224
+  Total Strength: 312
+  Planet Strength: 312
   Space Strength: 0
-  Garrison Strength: 145
+  Garrison Strength: 220
 Statistics:
-  Movement Type: tread
-  Move Points: 4
-  Spot: 4
-  Camouflage: 1
-  Agility: 1
-  Armor: 10
-  Psy Defense: 5
-  Rank: 68
+  Movement Type: air
+  Move Points: 2
+  Spot: 0
+  Camouflage: 7
+  Agility: 13
+  Armor: 1
+  Psy Defense: 1
+  Rank: 17
 Attacks:
-  Indirect: 6/13
-  Direct: 6/9
+  Indirect: 4/12
+  Direct: 4/10
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 43
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
 Build Resource Requirements:
-  Food: 2
-  Energy: 22
-  Metal: 21
-  Trace: 12
-  Exotica: 2
-  Chemicals: 23
-  Electronics: 4
-Build Heavy Assault Gun in Factory
+  Food: 7
+  Energy: 31
+  Metal: 1
+  Trace: 21
+  Exotica: 7
+  Chemicals: 40
+  Electronics: 11
+Build Anti-Tank Missile in Chemical Plant
 Time to Build / Upgrade: 2
-[1235] Technologies Required to Build Unit (93):
-  [770] Self-Propelled Weaponry (92)
-  [465] Recoilless Gun (93)
-Counts as planetary flock: YES
-Unit Eats: YES
+[1095] Technologies Required to Build Unit (91):
+  [300] Mechanized Warfare (95)
+  [795] Missiles (86)
 Unit can be disbanded: YES
 
 --3--
-Name: Shock Assault Gun
-Nick Name: Detonator
+Name: Anti-Tank Guided Missile
+Nick Name: AT Missile
 Scores & Strengths:
-  Tech Score: 2123
-  Unit Score: 2025
-  Average Score: 2074
-  Stat Strength: 1081
-  Total Strength: 2025
-  Planet Strength: 2025
+  Tech Score: 1050
+  Unit Score: 1050
+  Average Score: 1050
+  Stat Strength: 298
+  Total Strength: 1050
+  Planet Strength: 1050
   Space Strength: 0
-  Garrison Strength: 610
+  Garrison Strength: 428
 Statistics:
-  Movement Type: tread
-  Move Points: 11
-  Spot: 7
-  Camouflage: 3
-  Agility: 2
-  Armor: 27
-  Psy Defense: 13
-  Rank: 111
+  Movement Type: air
+  Move Points: 6
+  Spot: 0
+  Camouflage: 8
+  Agility: 14
+  Armor: 1
+  Psy Defense: 1
+  Rank: 48
 Attacks:
-  Indirect: 16/35
-  Direct: 16/24
+  Indirect: 20/20
+  Direct: 22/16
 Load aboard transport: YES
-Upkeep / Maintenance: 99
-Build Cost: 926
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
 Build Resource Requirements:
-  Chemicals: 5
-  Electronics: 9
-  Ceramsteel: 13
-  Monopols: 44
-Upgrade Assault Gun to Shock Assault Gun at Factory
+  Food: 2
+  Energy: 24
+  Trace: 30
+  Exotica: 2
+  Chemicals: 28
+  Electronics: 23
+Build Anti-Tank Guided Missile in Chemical Plant
 Time to Build / Upgrade: 2
-[10830] Technology Required to Build Unit (80):
-  [10830] Violator Assault Gunnery (80)
-Counts as planetary flock: YES
-Unit Eats: YES
+[5705] Technologies Required to Build Unit (86):
+  [1255] Digital Fly-by-Wire (81)
+  [770] Self-Propelled Weaponry (92)
+  [3680] Supersonic Missiles (84)
 Unit can be disbanded: YES
 
 --4--
-Name: Stealth Assault Gun
-Nick Name: Penetrator
+Name: Anti-Tank Supercruise Missile
+Nick Name: AT Missile
 Scores & Strengths:
-  Tech Score: 5364
-  Unit Score: 5357
-  Average Score: 5361
-  Stat Strength: 3497
-  Total Strength: 5357
-  Planet Strength: 5357
+  Tech Score: 1278
+  Unit Score: 1273
+  Average Score: 1276
+  Stat Strength: 357
+  Total Strength: 1273
+  Planet Strength: 1273
   Space Strength: 0
-  Garrison Strength: 1093
+  Garrison Strength: 481
 Statistics:
-  Movement Type: tread
-  Move Points: 24
-  Spot: 14
-  Camouflage: 21
-  Agility: 22
-  Armor: 30
-  Psy Defense: 30
-  Rank: 153
+  Movement Type: air
+  Move Points: 7
+  Spot: 0
+  Camouflage: 9
+  Agility: 15
+  Armor: 1
+  Psy Defense: 1
+  Rank: 55
 Attacks:
-  Indirect: 24/53
-  Direct: 21/28
+  Indirect: 22/22
+  Direct: 24/18
 Load aboard transport: YES
-Upkeep / Maintenance: 146
-Build Cost: 1401
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 13
 Build Resource Requirements:
-  Biochems: 33
-  Electronics: 7
-  Ceramsteel: 9
-  Wetware: 5
-  Monopols: 35
-Upgrade Assault Gun to Stealth Assault Gun at Factory
+  Food: 2
+  Energy: 22
+  Trace: 29
+  Exotica: 2
+  Chemicals: 29
+  Electronics: 24
+Build Anti-Tank Supercruise Missile in Chemical Plant
 Time to Build / Upgrade: 2
-[37210] Technology Required to Build Unit (34):
-  [37210] Neumonic Land Vehicles (34)
-Counts as planetary flock: YES
-Unit Eats: YES
+[7560] Technologies Required to Build Unit (83):
+  [1690] Fly-by-Wireless (76)
+  [1700] Main Battle Tank (88)
+  [4170] Supercruise Missiles (84)
+Unit can be disbanded: YES
+
+--5--
+Name: Anti-Tank Hypersonic Missile
+Nick Name: AT Missile
+Scores & Strengths:
+  Tech Score: 1899
+  Unit Score: 1832
+  Average Score: 1866
+  Stat Strength: 443
+  Total Strength: 1832
+  Planet Strength: 1832
+  Space Strength: 0
+  Garrison Strength: 647
+Statistics:
+  Movement Type: air
+  Move Points: 8
+  Spot: 0
+  Camouflage: 11
+  Agility: 16
+  Armor: 1
+  Psy Defense: 1
+  Rank: 71
+Attacks:
+  Indirect: 27/27
+  Direct: 30/22
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 13
+Build Resource Requirements:
+  Food: 2
+  Energy: 20
+  Trace: 24
+  Exotica: 2
+  Chemicals: 30
+  Electronics: 24
+Build Anti-Tank Hypersonic Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[14445] Technologies Required to Build Unit (80):
+  [2935] Intelligent FCS (73)
+  [5205] Advanced Battle Tanks (84)
+  [6305] Hypersonic Missiles (83)
+Unit can be disbanded: YES
+
+--6--
+Name: Anti-Tank Hypercruise  Missile
+Nick Name: AT Missile
+Scores & Strengths:
+  Tech Score: 2780
+  Unit Score: 2626
+  Average Score: 2703
+  Stat Strength: 601
+  Total Strength: 2626
+  Planet Strength: 2626
+  Space Strength: 0
+  Garrison Strength: 830
+Statistics:
+  Movement Type: air
+  Move Points: 10
+  Spot: 0
+  Camouflage: 13
+  Agility: 18
+  Armor: 2
+  Psy Defense: 2
+  Rank: 89
+Attacks:
+  Indirect: 33/33
+  Direct: 36/26
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 11
+Build Cost: 109
+Build Resource Requirements:
+  Food: 1
+  Energy: 18
+  Trace: 27
+  Exotica: 1
+  Chemicals: 29
+  Electronics: 28
+  Monopols: 24
+Build Anti-Tank Hypercruise  Missile in Chemical Plant
+Time to Build / Upgrade: 3
+[21630] Technologies Required to Build Unit (64):
+  [7100] Artificial Intelligence (46)
+  [7425] Hovertanks (68)
+  [7105] Hypercruise Missiles (77)
 Unit can be disbanded: YES

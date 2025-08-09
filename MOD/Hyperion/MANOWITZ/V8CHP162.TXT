@@ -1,50 +1,185 @@
-All units of the unit class Pod Ship are listed herein (1 in total):
+All units of the unit class Naval Frigate are listed herein (4 in total):
 
 --1--
-Name: Pod Ship
-Nick Name: Pod Ship
+Name: Naval Frigate
+Nick Name: NN-FF
 Scores & Strengths:
-  Tech Score: 1530
-  Unit Score: 1530
-  Average Score: 1530
-  Stat Strength: 1165
-  Total Strength: 1530
-  Planet Strength: 1393
-  Space Strength: 1302
-  Garrison Strength: 696
+  Tech Score: 679
+  Unit Score: 1358
+  Average Score: 1019
+  Stat Strength: 952
+  Total Strength: 1358
+  Planet Strength: 1358
+  Space Strength: 0
+  Garrison Strength: 429
 Statistics:
-  Movement Type: gate
-  Move Points: 4
-  Spot: 12
-  Camouflage: 4
-  Agility: 12
-  Armor: 26
-  Psy Defense: 13
-  Rank: 198
+  Movement Type: naval
+  Move Points: 10
+  Spot: 10
+  Camouflage: 2
+  Agility: 10
+  Armor: 18
+  Psy Defense: 18
+  Rank: 103
 Attacks:
-  Ranged Space: 5/13
-  Direct Space: 6/12
-  Air: 7/13
-  Indirect: 5/13
-  Direct: 6/12
-Cargo Space: 4
-Immune to Plague
-Causes Tactical Plague
-Upkeep / Maintenance: 366
-Build Cost: 3656
+  Water: 9/16
+  Air: 13/5
+  Indirect: 8/15
+  Direct: 11/7
+Upkeep / Maintenance: 48
+Build Cost: 484
 Build Resource Requirements:
-  Food: 3
-  Energy: 127
-  Metal: 15
-  Trace: 4
-  Exotica: 3
-  Chemicals: 157
-  Biochems: 206
-  Electronics: 10
-S  ingularities: 2
-Build Pod Ship in Hive
+  Food: 7
+  Energy: 32
+  Metal: 57
+  Trace: 34
+  Exotica: 7
+  Chemicals: 32
+  Biochems: 19
+  Electronics: 23
+Build Naval Frigate in Well
+Time to Build / Upgrade: 4
+[2480] Technologies Required to Build Unit (95):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2270] Naval Escort Ships (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Guided Missile Frigate
+Nick Name: NN-FGM
+Scores & Strengths:
+  Tech Score: 1339
+  Unit Score: 2678
+  Average Score: 2008
+  Stat Strength: 1613
+  Total Strength: 2678
+  Planet Strength: 2678
+  Space Strength: 0
+  Garrison Strength: 669
+Statistics:
+  Movement Type: naval
+  Move Points: 16
+  Spot: 12
+  Camouflage: 6
+  Agility: 5
+  Armor: 24
+  Psy Defense: 24
+  Rank: 125
+Attacks:
+  Water: 15/22
+  Air: 21/9
+  Indirect: 15/22
+  Direct: 18/12
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 92
+Build Cost: 916
+Build Resource Requirements:
+  Food: 5
+  Energy: 39
+  Metal: 30
+  Trace: 36
+  Exotica: 5
+  Chemicals: 54
+  Biochems: 20
+  Electronics: 36
+  Ceramsteel: 37
+Build Guided Missile Frigate in Well
 Time to Build / Upgrade: 6
-[6995] Technology Required to Build Unit (37):
-  [6995] Symbiot Psychology (37)
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: PTS Missile Frigate
+Nick Name: NN-FPTS
+Scores & Strengths:
+  Tech Score: 1474
+  Unit Score: 3685
+  Average Score: 2579
+  Stat Strength: 1940
+  Total Strength: 3685
+  Planet Strength: 3523
+  Space Strength: 2102
+  Garrison Strength: 854
+Statistics:
+  Movement Type: naval
+  Move Points: 17
+  Spot: 13
+  Camouflage: 9
+  Agility: 7
+  Armor: 26
+  Psy Defense: 26
+  Rank: 137
+Attacks:
+  Ranged Space: 9/18
+  Water: 20/24
+  Air: 27/12
+  Indirect: 20/24
+  Direct: 23/13
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 145
+Build Cost: 1449
+Build Resource Requirements:
+  Food: 5
+  Energy: 51
+  Metal: 33
+  Trace: 56
+  Exotica: 6
+  Chemicals: 72
+  Biochems: 28
+  Electronics: 58
+  Ceramsteel: 41
+Build PTS Missile Frigate in Well
+Time to Build / Upgrade: 7
+[6655] Technology Required to Build Unit (83):
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Nuclear Frigate
+Nick Name: NN-FFN
+Scores & Strengths:
+  Tech Score: 1579
+  Unit Score: 4737
+  Average Score: 3158
+  Stat Strength: 2844
+  Total Strength: 4737
+  Planet Strength: 4737
+  Space Strength: 0
+  Garrison Strength: 1059
+Statistics:
+  Movement Type: naval
+  Move Points: 20
+  Spot: 14
+  Camouflage: 10
+  Agility: 10
+  Armor: 32
+  Psy Defense: 32
+  Rank: 149
+Attacks:
+  Water: 21/31
+  Air: 25/13
+  Indirect: 20/24
+  Direct: 23/19
+Upkeep / Maintenance: 165
+Build Cost: 1652
+Build Resource Requirements:
+  Food: 6
+  Energy: 57
+  Metal: 46
+  Trace: 51
+  Exotica: 7
+  Chemicals: 84
+  Biochems: 27
+  Electronics: 54
+  Ceramsteel: 59
+Build Nuclear Frigate in Well
+Time to Build / Upgrade: 9
+[7295] Technology Required to Build Unit (81):
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

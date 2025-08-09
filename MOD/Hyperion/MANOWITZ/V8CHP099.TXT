@@ -1,443 +1,490 @@
-All units of the unit class Space Carrier are listed herein (9 in total):
+All units of the unit class Satellite are listed herein (12 in total):
 
 --1--
-Name: Space Carrier
-Nick Name: SS-CV
+Name: Satellite
+Nick Name: Satellite
 Scores & Strengths:
-  Tech Score: 337
-  Unit Score: 337
-  Average Score: 337
-  Stat Strength: 229
-  Total Strength: 337
+  Tech Score: 327
+  Unit Score: 327
+  Average Score: 327
+  Stat Strength: 327
+  Total Strength: 327
   Planet Strength: 0
-  Space Strength: 337
+  Space Strength: 0
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 9
-  Psy Defense: 9
-  Rank: 827
-Attacks:
-  Direct Space: 6/12
-  Closed Space: 4/9
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 51
-Build Cost: 509
+  Move Points: 0
+  Spot: 17
+  Camouflage: 4
+  Agility: 2
+  Armor: 3
+  Psy Defense: 3
+  Rank: 53
+Load aboard transport: YES
+Upkeep / Maintenance: 19
+Build Cost: 190
 Build Resource Requirements:
-  Food: 6
-  Energy: 24
-  Metal: 42
-  Trace: 16
-  Exotica: 6
-  Chemicals: 44
-  Electronics: 10
-  Gems: 1
-Build Space Carrier in Starport
+  Food: 31
+  Metal: 11
+  Trace: 51
+  Exotica: 31
+  Chemicals: 1
+  Electronics: 36
+Build Satellite in Chemical Plant
 Time to Build / Upgrade: 3
-[1040] Technologies Required to Build Unit (96):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [100] Psychosocial Engineering (100)
-Counts as planetary flock: YES
+[895] Technology Required to Build Unit (90):
+  [895] Space Rocketry (90)
 Unit can be disbanded: YES
 
 --2--
-Name: Jump Carrier
-Nick Name: JJ-CV
+Name: Satellite II
+Nick Name: Satellite II
 Scores & Strengths:
-  Tech Score: 425
-  Unit Score: 398
-  Average Score: 412
-  Stat Strength: 267
-  Total Strength: 398
+  Tech Score: 782
+  Unit Score: 531
+  Average Score: 657
+  Stat Strength: 531
+  Total Strength: 531
   Planet Strength: 0
-  Space Strength: 398
+  Space Strength: 0
   Garrison Strength: 0
 Statistics:
-  Movement Type: jump
-  Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 10
-  Psy Defense: 10
-  Rank: 855
-Attacks:
-  Direct Space: 7/13
-  Closed Space: 4/10
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
+  Movement Type: space
+  Move Points: 0
+  Spot: 21
+  Camouflage: 6
+  Agility: 2
+  Armor: 5
+  Psy Defense: 5
+  Rank: 57
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 224
-Build Cost: 2240
+Upkeep / Maintenance: 12
+Build Cost: 122
 Build Resource Requirements:
-  Food: 6
-  Energy: 29
-  Metal: 42
-  Trace: 16
-  Exotica: 5
-  Chemicals: 53
-  Electronics: 12
-  Gems: 1
-S  ingularities: 1
-Build Jump Carrier in Starport
-Time to Build / Upgrade: 3
-[1480] Technologies Required to Build Unit (91):
-  [145] Composite Armor (97)
-  [100] Psychosocial Engineering (100)
+  Food: 10
+  Metal: 14
+  Trace: 20
+  Exotica: 10
+  Electronics: 21
+Build Satellite II in Chemical Plant
+Time to Build / Upgrade: 1
+[3655] Technologies Required to Build Unit (82):
   [1235] Jump Rocketry (76)
-Counts as planetary flock: YES
+  [2420] Rocket-Propelled Aircraft (87)
 Unit can be disbanded: YES
 
 --3--
-Name: Space Escort Carrier
-Nick Name: SS-CVE
+Name: Satellite III
+Nick Name: Satellite III
 Scores & Strengths:
-  Tech Score: 2580
-  Unit Score: 2580
-  Average Score: 2580
-  Stat Strength: 2244
-  Total Strength: 2580
+  Tech Score: 1380
+  Unit Score: 721
+  Average Score: 1050
+  Stat Strength: 721
+  Total Strength: 721
   Planet Strength: 0
-  Space Strength: 2580
+  Space Strength: 0
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 14
-  Spot: 12
-  Camouflage: 2
-  Agility: 10
-  Armor: 30
-  Psy Defense: 30
-  Rank: 845
-Attacks:
-  Direct Space: 8/25
-  Closed Space: 8/17
-Cargo Space: 2
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
+  Move Points: 0
+  Spot: 24
+  Camouflage: 8
+  Agility: 3
+  Armor: 6
+  Psy Defense: 6
+  Rank: 61
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 75
-Build Cost: 748
+Upkeep / Maintenance: 12
+Build Cost: 120
 Build Resource Requirements:
-  Food: 2
-  Energy: 16
-  Metal: 26
-  Trace: 4
-  Exotica: 3
-  Chemicals: 28
-  Biochems: 23
-  Electronics: 7
-  Ceramsteel: 29
-Build Space Escort Carrier in Starport
-Time to Build / Upgrade: 3
-[14045] Technology Required to Build Unit (84):
-  [14045] Space Escorts (84)
-Counts as planetary flock: YES
+  Food: 8
+  Metal: 20
+  Trace: 16
+  Exotica: 8
+  Electronics: 22
+Build Satellite III in Chemical Plant
+Time to Build / Upgrade: 1
+[6900] Technologies Required to Build Unit (79):
+  [1235] Jump Rocketry (76)
+  [5665] Hypersonic Aircraft (82)
 Unit can be disbanded: YES
 
 --4--
-Name: Space Light Carrier
-Nick Name: SS-CLA
+Name: Satellite IV
+Nick Name: Satellite IV
 Scores & Strengths:
-  Tech Score: 2916
-  Unit Score: 2916
-  Average Score: 2916
-  Stat Strength: 2500
-  Total Strength: 2916
+  Tech Score: 1771
+  Unit Score: 864
+  Average Score: 1318
+  Stat Strength: 864
+  Total Strength: 864
   Planet Strength: 0
-  Space Strength: 2916
+  Space Strength: 0
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 18
-  Spot: 12
-  Camouflage: 6
-  Agility: 14
-  Armor: 30
-  Psy Defense: 30
-  Rank: 847
-Attacks:
-  Direct Space: 16/16
-  Closed Space: 16/10
-Cargo Space: 2
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
+  Move Points: 0
+  Spot: 26
+  Camouflage: 9
+  Agility: 3
+  Armor: 7
+  Psy Defense: 7
+  Rank: 63
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 330
-Build Cost: 3299
+Upkeep / Maintenance: 9
+Build Cost: 93
 Build Resource Requirements:
-  Food: 2
-  Energy: 5
-  Metal: 13
-  Trace: 8
-  Exotica: 2
-  Chemicals: 10
-  Biochems: 19
-  Electronics: 13
-  Ceramsteel: 15
-  Monopols: 23
-Build Space Light Carrier in Starport
-Time to Build / Upgrade: 3
-[16530] Technology Required to Build Unit (80):
-  [16530] Space Capital Ships (80)
-Counts as planetary flock: YES
+  Food: 7
+  Metal: 2
+  Trace: 15
+  Exotica: 7
+  Electronics: 21
+  Ceramsteel: 2
+Build Satellite IV in Chemical Plant
+Time to Build / Upgrade: 1
+[9410] Technologies Required to Build Unit (80):
+  [1235] Jump Rocketry (76)
+  [8175] Spacecraft (84)
 Unit can be disbanded: YES
 
 --5--
-Name: Jump Carrier MkII
-Nick Name: JJ-CV2
+Name: Satellite V
+Nick Name: Satellite V
 Scores & Strengths:
-  Tech Score: 3755
-  Unit Score: 3237
-  Average Score: 3496
-  Stat Strength: 2047
-  Total Strength: 3237
+  Tech Score: 2400
+  Unit Score: 1042
+  Average Score: 1721
+  Stat Strength: 1042
+  Total Strength: 1042
   Planet Strength: 0
-  Space Strength: 3237
+  Space Strength: 0
   Garrison Strength: 0
 Statistics:
-  Movement Type: jump
-  Move Points: 3
-  Spot: 15
-  Camouflage: 3
-  Agility: 2
-  Armor: 30
-  Psy Defense: 30
-  Rank: 926
-Attacks:
-  Direct Space: 20/40
-  Closed Space: 13/30
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
+  Movement Type: space
+  Move Points: 0
+  Spot: 28
+  Camouflage: 11
+  Agility: 3
+  Armor: 8
+  Psy Defense: 8
+  Rank: 67
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 691
-Build Cost: 6910
+Upkeep / Maintenance: 11
+Build Cost: 109
 Build Resource Requirements:
-  Food: 1
-  Energy: 12
-  Metal: 10
-  Trace: 6
-  Exotica: 1
-  Chemicals: 20
-  Biochems: 18
-  Electronics: 10
-  Ceramsteel: 11
-  Monopols: 34
-S  ingularities: 2
-Build Jump Carrier MkII in Starport
-Time to Build / Upgrade: 3
-[29430] Technologies Required to Build Unit (71):
-  [4285] Jump Drives (70)
-  [8615] Fusion Beam (63)
-  [16530] Space Capital Ships (80)
-Counts as planetary flock: YES
+  Food: 6
+  Metal: 2
+  Trace: 13
+  Exotica: 6
+  Biochems: 6
+  Electronics: 18
+  Ceramsteel: 2
+Build Satellite V in Chemical Plant
+Time to Build / Upgrade: 1
+[13660] Technologies Required to Build Unit (81):
+  [1235] Jump Rocketry (76)
+  [12425] Space Warfare (86)
 Unit can be disbanded: YES
 
 --6--
-Name: Jump Escort Carrier
-Nick Name: JJ-CVE
+Name: Satellite VI
+Nick Name: Satellite VI
 Scores & Strengths:
-  Tech Score: 4325
-  Unit Score: 4232
-  Average Score: 4279
-  Stat Strength: 3692
-  Total Strength: 4232
+  Tech Score: 2959
+  Unit Score: 1156
+  Average Score: 2058
+  Stat Strength: 1156
+  Total Strength: 1156
   Planet Strength: 0
-  Space Strength: 4232
+  Space Strength: 0
   Garrison Strength: 0
 Statistics:
-  Movement Type: jump
-  Move Points: 18
-  Spot: 14
-  Camouflage: 3
-  Agility: 11
-  Armor: 39
-  Psy Defense: 39
-  Rank: 896
-Attacks:
-  Direct Space: 10/32
-  Closed Space: 10/22
-Cargo Space: 2
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
+  Movement Type: space
+  Move Points: 0
+  Spot: 29
+  Camouflage: 12
+  Agility: 3
+  Armor: 9
+  Psy Defense: 9
+  Rank: 71
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 1152
-Build Cost: 11521
+Upkeep / Maintenance: 17
+Build Cost: 169
 Build Resource Requirements:
-  Food: 2
-  Energy: 10
-  Metal: 14
-  Trace: 4
-  Exotica: 2
-  Chemicals: 20
-  Biochems: 19
-  Electronics: 12
-  Ceramsteel: 19
-  Monopols: 36
-S  ingularities: 4
-Build Jump Escort Carrier in Starport
-Time to Build / Upgrade: 4
-[27965] Technology Required to Build Unit (75):
-  [27965] Jump Escorts (75)
-Counts as planetary flock: YES
+  Food: 4
+  Metal: 1
+  Trace: 11
+  Exotica: 5
+  Biochems: 9
+  Electronics: 16
+  Ceramsteel: 1
+  Monopols: 1
+Build Satellite VI in Chemical Plant
+Time to Build / Upgrade: 1
+[17765] Technologies Required to Build Unit (78):
+  [1235] Jump Rocketry (76)
+  [16530] Space Capital Ships (80)
 Unit can be disbanded: YES
 
 --7--
-Name: Jump Carrier MkIII
-Nick Name: JJ-CV3
+Name: Orbital Listening Post
+Nick Name: SS-LP
 Scores & Strengths:
-  Tech Score: 5589
-  Unit Score: 4798
-  Average Score: 5194
-  Stat Strength: 3030
-  Total Strength: 4798
+  Tech Score: 1888
+  Unit Score: 1874
+  Average Score: 1881
+  Stat Strength: 1874
+  Total Strength: 1874
   Planet Strength: 0
-  Space Strength: 4798
+  Space Strength: 0
   Garrison Strength: 0
 Statistics:
-  Movement Type: jump
-  Move Points: 4
-  Spot: 16
-  Camouflage: 4
-  Agility: 2
-  Armor: 37
-  Psy Defense: 37
-  Rank: 956
-Attacks:
-  Direct Space: 24/49
-  Closed Space: 16/37
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
+  Movement Type: space
+  Move Points: 0
+  Spot: 24
+  Camouflage: 24
+  Agility: 0
+  Armor: 19
+  Psy Defense: 19
+  Rank: 69
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 979
-Build Cost: 9794
+Upkeep / Maintenance: 12
+Build Cost: 123
 Build Resource Requirements:
-  Food: 1
-  Energy: 15
+  Food: 4
   Metal: 9
-  Trace: 6
-  Exotica: 1
-  Chemicals: 27
-  Biochems: 21
-  Electronics: 15
-  Ceramsteel: 14
-  Monopols: 44
-S  ingularities: 2
-Build Jump Carrier MkIII in Starport
-Time to Build / Upgrade: 4
-[39365] Technology Required to Build Unit (61):
-  [39365] Jump Capital Ships (61)
-Counts as planetary flock: YES
+  Trace: 13
+  Exotica: 4
+  Chemicals: 2
+  Electronics: 20
+  Ceramsteel: 11
+Build Orbital Listening Post in Starport
+Time to Build / Upgrade: 2
+[17990] Technologies Required to Build Unit (79):
+  [1605] Imaging Radar (78)
+  [8175] Spacecraft (84)
+  [8210] Aircraft Surveillance (74)
 Unit can be disbanded: YES
 
 --8--
-Name: Jump Light Carrier
-Nick Name: JJ-CLA
+Name: Orbital Listening Post II
+Nick Name: SS-LP II
 Scores & Strengths:
-  Tech Score: 5589
-  Unit Score: 5461
-  Average Score: 5525
-  Stat Strength: 4669
-  Total Strength: 5461
+  Tech Score: 2516
+  Unit Score: 2428
+  Average Score: 2472
+  Stat Strength: 2428
+  Total Strength: 2428
   Planet Strength: 0
-  Space Strength: 5461
+  Space Strength: 0
   Garrison Strength: 0
 Statistics:
-  Movement Type: jump
-  Move Points: 25
-  Spot: 14
-  Camouflage: 8
-  Agility: 16
-  Armor: 42
-  Psy Defense: 42
-  Rank: 900
-Attacks:
-  Direct Space: 22/22
-  Closed Space: 22/14
-Cargo Space: 1
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
+  Movement Type: space
+  Move Points: 0
+  Spot: 26
+  Camouflage: 28
+  Agility: 0
+  Armor: 22
+  Psy Defense: 22
+  Rank: 75
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 1341
-Build Cost: 13413
+Upkeep / Maintenance: 16
+Build Cost: 160
 Build Resource Requirements:
-  Food: 2
-  Energy: 6
-  Metal: 12
-  Trace: 7
-  Exotica: 2
-  Chemicals: 13
-  Biochems: 18
-  Electronics: 19
-  Ceramsteel: 18
-  Monopols: 29
-S  ingularities: 5
-Build Jump Light Carrier in Starport
-Time to Build / Upgrade: 4
-[39365] Technology Required to Build Unit (61):
-  [39365] Jump Capital Ships (61)
-Counts as planetary flock: YES
+  Food: 3
+  Metal: 10
+  Trace: 14
+  Exotica: 3
+  Chemicals: 2
+  Biochems: 3
+  Electronics: 21
+  Ceramsteel: 13
+Build Orbital Listening Post II in Starport
+Time to Build / Upgrade: 2
+[22535] Technologies Required to Build Unit (79):
+  [1900] LASER (76)
+  [8210] Aircraft Surveillance (74)
+  [12425] Space Warfare (86)
 Unit can be disbanded: YES
 
 --9--
-Name: Gate Carrier
-Nick Name: GG-CV
+Name: Orbital Listening Post III
+Nick Name: SS-LP III
 Scores & Strengths:
-  Tech Score: 7682
-  Unit Score: 7515
-  Average Score: 7599
-  Stat Strength: 6617
-  Total Strength: 7515
-  Planet Strength: 7052
-  Space Strength: 7080
-  Garrison Strength: 1617
+  Tech Score: 3172
+  Unit Score: 2940
+  Average Score: 3056
+  Stat Strength: 2940
+  Total Strength: 2940
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
 Statistics:
-  Movement Type: gate
-  Move Points: 19
-  Spot: 16
-  Camouflage: 10
-  Agility: 30
-  Armor: 50
-  Psy Defense: 50
-  Rank: 941
-Attacks:
-  Direct Space: 9/27
-  Closed Space: 10/22
-  Direct: 9/25
-  Close: 10/21
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
+  Movement Type: space
+  Move Points: 0
+  Spot: 27
+  Camouflage: 31
+  Agility: 0
+  Armor: 25
+  Psy Defense: 25
+  Rank: 81
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 2014
-Build Cost: 20141
+Upkeep / Maintenance: 70
+Build Cost: 700
+Build Resource Requirements:
+  Food: 3
+  Metal: 7
+  Trace: 13
+  Exotica: 3
+  Chemicals: 2
+  Biochems: 9
+  Electronics: 21
+  Ceramsteel: 10
+  Monopols: 9
+Build Orbital Listening Post III in Starport
+Time to Build / Upgrade: 2
+[28520] Technologies Required to Build Unit (78):
+  [3780] Beam Control (79)
+  [8210] Aircraft Surveillance (74)
+  [16530] Space Capital Ships (80)
+Unit can be disbanded: YES
+
+--10--
+Name: Orbital Listening Post IV
+Nick Name: SS-LP IV
+Scores & Strengths:
+  Tech Score: 3737
+  Unit Score: 3398
+  Average Score: 3568
+  Stat Strength: 3398
+  Total Strength: 3398
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 0
+  Spot: 28
+  Camouflage: 34
+  Agility: 0
+  Armor: 27
+  Psy Defense: 27
+  Rank: 86
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 78
+Build Cost: 781
+Build Resource Requirements:
+  Food: 3
+  Metal: 8
+  Trace: 13
+  Exotica: 3
+  Chemicals: 2
+  Biochems: 9
+  Electronics: 22
+  Ceramsteel: 10
+  Monopols: 9
+Build Orbital Listening Post IV in Starport
+Time to Build / Upgrade: 2
+[33040] Technologies Required to Build Unit (74):
+  [4610] Wavelength-Tunable LASER (75)
+  [8210] Aircraft Surveillance (74)
+  [20220] Jump Transports (72)
+Unit can be disbanded: YES
+
+--11--
+Name: Orbital Listening Post V
+Nick Name: SS-LP V
+Scores & Strengths:
+  Tech Score: 4124
+  Unit Score: 3634
+  Average Score: 3879
+  Stat Strength: 3634
+  Total Strength: 3634
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 0
+  Spot: 29
+  Camouflage: 35
+  Agility: 0
+  Armor: 28
+  Psy Defense: 28
+  Rank: 89
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 55
+Build Cost: 547
+Build Resource Requirements:
+  Food: 2
+  Metal: 5
+  Trace: 10
+  Exotica: 2
+  Chemicals: 2
+  Biochems: 7
+  Electronics: 18
+  Ceramsteel: 6
+  Monopols: 6
+Build Orbital Listening Post V in Starport
+Time to Build / Upgrade: 2
+[51895] Technologies Required to Build Unit (74):
+  [8210] Aircraft Surveillance (74)
+  [20220] Jump Transports (72)
+  [23465] Advanced Spacecraft (75)
+Unit can be disbanded: YES
+
+--12--
+Name: Orbital Listening Post VI
+Nick Name: SS-LP VI
+Scores & Strengths:
+  Tech Score: 5825
+  Unit Score: 4966
+  Average Score: 5396
+  Stat Strength: 4966
+  Total Strength: 4966
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 0
+  Spot: 32
+  Camouflage: 42
+  Agility: 0
+  Armor: 33
+  Psy Defense: 33
+  Rank: 104
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 51
+Build Cost: 514
 Build Resource Requirements:
   Food: 1
-  Energy: 9
-  Metal: 11
-  Trace: 3
+  Metal: 4
+  Trace: 7
   Exotica: 1
-  Chemicals: 17
-  Biochems: 21
-  Electronics: 10
-  Ceramsteel: 17
-  Wetware: 5
-  Monopols: 36
-S  ingularities: 4
-Build Gate Carrier in Starport
-Time to Build / Upgrade: 4
-[60155] Technology Required to Build Unit (53):
-  [60155] Gate Capital Ships (53)
-Counts as planetary flock: YES
+  Chemicals: 1
+  Biochems: 5
+  Electronics: 15
+  Ceramsteel: 5
+  Monopols: 5
+Build Orbital Listening Post VI in Starport
+Time to Build / Upgrade: 2
+[107150] Technologies Required to Build Unit (70):
+  [8210] Aircraft Surveillance (74)
+  [23465] Advanced Spacecraft (75)
+  [36110] Starbase MK M (70)
+  [39365] Jump Capital Ships (61)
 Unit can be disbanded: YES

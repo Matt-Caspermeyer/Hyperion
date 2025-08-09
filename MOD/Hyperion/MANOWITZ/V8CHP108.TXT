@@ -1,172 +1,322 @@
-All units of the unit class Spacemen are listed herein (4 in total):
+All units of the unit class U-Boat are listed herein (7 in total):
 
 --1--
-Name: Spacemen
-Nick Name: Spacemen
+Name: U-Boat
+Nick Name: U-Boat
 Scores & Strengths:
-  Tech Score: 373
-  Unit Score: 370
-  Average Score: 371
-  Stat Strength: 298
-  Total Strength: 370
-  Planet Strength: 0
-  Space Strength: 370
-  Garrison Strength: 0
+  Tech Score: 174
+  Unit Score: 344
+  Average Score: 259
+  Stat Strength: 297
+  Total Strength: 344
+  Planet Strength: 344
+  Space Strength: 0
+  Garrison Strength: 140
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
-  Camouflage: 12
-  Agility: 9
-  Armor: 2
-  Psy Defense: 2
-  Rank: 720
+  Movement Type: underwater
+  Move Points: 6
+  Spot: 4
+  Camouflage: 6
+  Agility: 3
+  Armor: 10
+  Psy Defense: 10
+  Rank: 700
 Attacks:
-  Closed Space: 9/8
-Load aboard transport: YES
+  Water: 2/19
+  Direct: 3/3
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Immune to Plague
-Upkeep / Maintenance: 34
-Build Cost: 337
+Upkeep / Maintenance: 70
+Build Cost: 695
 Build Resource Requirements:
-  Food: 9
-  Energy: 11
-  Metal: 2
-  Trace: 47
-  Exotica: 9
-  Chemicals: 14
-  Electronics: 30
-Build Spacemen in Starport
-Time to Build / Upgrade: 2
-[1175] Technologies Required to Build Unit (78):
-  [235] Bioreactors (48)
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
+  Food: 7
+  Energy: 77
+  Metal: 53
+  Trace: 19
+  Exotica: 6
+  Chemicals: 65
+  Gems: 1
+Build U-Boat in Well
+Time to Build / Upgrade: 4
+[535] Technologies Required to Build Unit (99):
+  [100] Medical & Biological (100)
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Marauder Legion
-Nick Name: Star Lgn
+Name: Submarine
+Nick Name: NSS
 Scores & Strengths:
-  Tech Score: 4207
-  Unit Score: 4202
-  Average Score: 4205
-  Stat Strength: 3051
-  Total Strength: 4202
-  Planet Strength: 4202
+  Tech Score: 520
+  Unit Score: 1042
+  Average Score: 781
+  Stat Strength: 817
+  Total Strength: 1042
+  Planet Strength: 1042
   Space Strength: 0
-  Garrison Strength: 840
+  Garrison Strength: 329
 Statistics:
-  Movement Type: mech
-  Move Points: 25
-  Spot: 20
-  Camouflage: 10
-  Agility: 26
-  Armor: 25
-  Psy Defense: 25
-  Rank: 127
+  Movement Type: underwater
+  Move Points: 10
+  Spot: 10
+  Camouflage: 12
+  Agility: 9
+  Armor: 14
+  Psy Defense: 14
+  Rank: 717
 Attacks:
-  Air: 21/25
-  Direct: 17/18
-  Close: 20/16
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 251
-Build Cost: 2512
+  Water: 6/24
+  Direct: 9/9
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 84
+Build Cost: 842
 Build Resource Requirements:
-  Food: 3
-  Energy: 13
-  Metal: 4
-  Trace: 6
-  Exotica: 3
-  Chemicals: 16
-  Biochems: 25
-  Electronics: 16
-  Ceramsteel: 7
-  Wetware: 13
-  Monopols: 28
-Build Marauder Legion in Fort
+  Food: 9
+  Energy: 46
+  Metal: 42
+  Trace: 27
+  Exotica: 9
+  Chemicals: 45
+  Biochems: 12
+  Electronics: 22
+Build Submarine in Well
 Time to Build / Upgrade: 4
-[26915] Technology Required to Build Unit (47):
-  [26915] Rocket Legion (47)
+[1870] Technologies Required to Build Unit (96):
+  [100] Medical & Biological (100)
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [1560] Naval Patrol Ships (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Space Marines
-Nick Name: Space Lgn
+Name: Attack Submarine
+Nick Name: NSS-AS
 Scores & Strengths:
-  Tech Score: 4611
-  Unit Score: 4606
-  Average Score: 4609
-  Stat Strength: 3706
-  Total Strength: 4606
-  Planet Strength: 0
-  Space Strength: 4606
-  Garrison Strength: 0
+  Tech Score: 932
+  Unit Score: 1398
+  Average Score: 1165
+  Stat Strength: 940
+  Total Strength: 1398
+  Planet Strength: 1398
+  Space Strength: 0
+  Garrison Strength: 403
 Statistics:
-  Movement Type: space
-  Move Points: 30
-  Spot: 17
-  Camouflage: 18
-  Agility: 29
-  Armor: 26
-  Psy Defense: 26
-  Rank: 762
+  Movement Type: underwater
+  Move Points: 12
+  Spot: 8
+  Camouflage: 12
+  Agility: 14
+  Armor: 14
+  Psy Defense: 14
+  Rank: 759
 Attacks:
-  Closed Space: 30/30
-Load aboard transport: YES
+  Water: 14/17
+  Indirect: 11/20
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Immune to Plague
-Upkeep / Maintenance: 521
-Build Cost: 2702
+Upkeep / Maintenance: 78
+Build Cost: 781
 Build Resource Requirements:
-Upgrade Marauder Legion to Space Marines at Starport
-Time to Build / Upgrade: 1
-[30420] Technology Required to Build Unit (35):
-  [30420] Space Marines (35)
+  Food: 6
+  Energy: 38
+  Metal: 32
+  Trace: 35
+  Exotica: 7
+  Chemicals: 38
+  Biochems: 13
+  Electronics: 21
+Build Attack Submarine in Well
+Time to Build / Upgrade: 4
+[3615] Technology Required to Build Unit (87):
+  [3615] Submarine Warfare (87)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Wraith Space Marine
-Nick Name: Specter Lgn
+Name: Attack Submarine II
+Nick Name: NSS-AS II
 Scores & Strengths:
-  Tech Score: 5176
-  Unit Score: 5177
-  Average Score: 5177
-  Stat Strength: 4277
-  Total Strength: 5177
-  Planet Strength: 0
-  Space Strength: 5177
-  Garrison Strength: 0
+  Tech Score: 1292
+  Unit Score: 1842
+  Average Score: 1567
+  Stat Strength: 1210
+  Total Strength: 1842
+  Planet Strength: 1842
+  Space Strength: 0
+  Garrison Strength: 492
 Statistics:
-  Movement Type: space
-  Move Points: 30
-  Spot: 20
-  Camouflage: 28
-  Agility: 29
-  Armor: 26
-  Psy Defense: 26
-  Rank: 768
+  Movement Type: underwater
+  Move Points: 14
+  Spot: 9
+  Camouflage: 14
+  Agility: 15
+  Armor: 16
+  Psy Defense: 16
+  Rank: 769
 Attacks:
-  Closed Space: 30/30
-Load aboard transport: YES
+  Water: 16/20
+  Indirect: 13/24
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Immune to Plague
-Upkeep / Maintenance: 397
-Build Cost: 1264
+Upkeep / Maintenance: 62
+Build Cost: 622
 Build Resource Requirements:
-  Trace: 1
-  Electronics: 1
-Upgrade Space Marines to Wraith Space Marine at Starport
-Time to Build / Upgrade: 1
-[54550] Technologies Required to Build Unit (34):
-  [30420] Space Marines (35)
-  [24130] Neumonically-Enhanced Soldiers (32)
+  Food: 4
+  Energy: 27
+  Metal: 14
+  Trace: 19
+  Exotica: 4
+  Chemicals: 31
+  Biochems: 8
+  Electronics: 15
+  Ceramsteel: 13
+Build Attack Submarine II in Well
+Time to Build / Upgrade: 3
+[8310] Technologies Required to Build Unit (85):
+  [3615] Submarine Warfare (87)
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Attack Submarine III
+Nick Name: NSS-AS III
+Scores & Strengths:
+  Tech Score: 1563
+  Unit Score: 2257
+  Average Score: 1910
+  Stat Strength: 1497
+  Total Strength: 2257
+  Planet Strength: 2257
+  Space Strength: 0
+  Garrison Strength: 564
+Statistics:
+  Movement Type: underwater
+  Move Points: 16
+  Spot: 9
+  Camouflage: 16
+  Agility: 16
+  Armor: 18
+  Psy Defense: 18
+  Rank: 775
+Attacks:
+  Water: 18/22
+  Indirect: 14/26
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 101
+Build Cost: 1010
+Build Resource Requirements:
+  Food: 5
+  Energy: 41
+  Metal: 17
+  Trace: 25
+  Exotica: 6
+  Chemicals: 53
+  Biochems: 11
+  Electronics: 24
+  Ceramsteel: 20
+Build Attack Submarine III in Well
+Time to Build / Upgrade: 4
+[7200] Technology Required to Build Unit (85):
+  [7200] Air-Independent Propulsion (85)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Attack Submarine IV
+Nick Name: NSS-AS IV
+Scores & Strengths:
+  Tech Score: 1692
+  Unit Score: 2413
+  Average Score: 2052
+  Stat Strength: 1571
+  Total Strength: 2413
+  Planet Strength: 2413
+  Space Strength: 0
+  Garrison Strength: 603
+Statistics:
+  Movement Type: underwater
+  Move Points: 16
+  Spot: 9
+  Camouflage: 16
+  Agility: 16
+  Armor: 19
+  Psy Defense: 19
+  Rank: 779
+Attacks:
+  Water: 19/23
+  Indirect: 15/27
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 63
+Build Cost: 634
+Build Resource Requirements:
+  Food: 3
+  Energy: 25
+  Metal: 11
+  Trace: 15
+  Exotica: 3
+  Chemicals: 33
+  Biochems: 7
+  Electronics: 15
+  Ceramsteel: 13
+Build Attack Submarine IV in Well
+Time to Build / Upgrade: 3
+[13855] Technologies Required to Build Unit (84):
+  [7200] Air-Independent Propulsion (85)
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Attack Submarine V
+Nick Name: NSS-AS V
+Scores & Strengths:
+  Tech Score: 1792
+  Unit Score: 2513
+  Average Score: 2153
+  Stat Strength: 1637
+  Total Strength: 2513
+  Planet Strength: 2513
+  Space Strength: 0
+  Garrison Strength: 609
+Statistics:
+  Movement Type: underwater
+  Move Points: 17
+  Spot: 9
+  Camouflage: 17
+  Agility: 16
+  Armor: 19
+  Psy Defense: 19
+  Rank: 781
+Attacks:
+  Water: 19/24
+  Indirect: 15/28
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 65
+Build Cost: 654
+Build Resource Requirements:
+  Food: 3
+  Energy: 26
+  Metal: 10
+  Trace: 15
+  Exotica: 3
+  Chemicals: 34
+  Biochems: 7
+  Electronics: 15
+  Ceramsteel: 13
+Build Attack Submarine V in Well
+Time to Build / Upgrade: 3
+[14495] Technologies Required to Build Unit (83):
+  [7200] Air-Independent Propulsion (85)
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

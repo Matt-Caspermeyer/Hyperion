@@ -1,390 +1,258 @@
-All units of the unit class Space Mine are listed herein (9 in total):
+All units of the unit class Sonobuoy are listed herein (6 in total):
 
 --1--
-Name: Space Mine
-Nick Name: Space Mine
+Name: Sonobuoy
+Nick Name: Sonobuoy
 Scores & Strengths:
-  Tech Score: 335
-  Unit Score: 334
-  Average Score: 335
-  Stat Strength: 226
-  Total Strength: 334
-  Planet Strength: 0
-  Space Strength: 334
-  Garrison Strength: 0
+  Tech Score: 326
+  Unit Score: 320
+  Average Score: 323
+  Stat Strength: 320
+  Total Strength: 320
+  Planet Strength: 320
+  Space Strength: 0
+  Garrison Strength: 400
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 0
-  Camouflage: 15
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 12
+  Camouflage: 12
   Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 0
-Attacks:
-  Closed Space: 6/18
+  Armor: 4
+  Psy Defense: 4
+  Rank: 3
 Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 2
-Build Cost: 19
+Can be towed
+Upkeep / Maintenance: 23
+Build Cost: 229
 Build Resource Requirements:
-  Energy: 22
+  Food: 13
+  Energy: 1
+  Metal: 32
   Trace: 28
-  Chemicals: 29
-  Electronics: 19
-Build Space Mine in Starport
+  Exotica: 12
+  Chemicals: 1
+  Electronics: 46
+Build Sonobuoy in Well
 Time to Build / Upgrade: 2
-[1735] Technologies Required to Build Unit (91):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [795] Missiles (86)
+[890] Technology Required to Build Unit (86):
+  [890] Sonobouy (86)
 Unit can be disbanded: YES
 
 --2--
-Name: Space Mine II
-Nick Name: Space Mine II
+Name: Sonobuoy II
+Nick Name: Sonobuoy II
 Scores & Strengths:
-  Tech Score: 698
-  Unit Score: 719
-  Average Score: 708
-  Stat Strength: 485
-  Total Strength: 719
-  Planet Strength: 0
-  Space Strength: 719
-  Garrison Strength: 0
+  Tech Score: 613
+  Unit Score: 502
+  Average Score: 557
+  Stat Strength: 502
+  Total Strength: 502
+  Planet Strength: 502
+  Space Strength: 0
+  Garrison Strength: 627
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 0
-  Camouflage: 22
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 14
+  Camouflage: 16
   Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 0
-Attacks:
-  Closed Space: 9/26
+  Armor: 5
+  Psy Defense: 5
+  Rank: 6
 Load aboard transport: YES
-Never Rebels
-Never Retreats
+Can be towed
 Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 3
-Build Cost: 28
+Upkeep / Maintenance: 15
+Build Cost: 145
 Build Resource Requirements:
-  Energy: 27
-  Trace: 28
-  Chemicals: 42
-  Electronics: 31
-Build Space Mine II in Starport
-Time to Build / Upgrade: 3
-[3265] Technologies Required to Build Unit (89):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [2325] Web Missiles (80)
+  Food: 5
+  Metal: 5
+  Trace: 17
+  Exotica: 5
+  Biochems: 4
+  Electronics: 20
+Build Sonobuoy II in Well
+Time to Build / Upgrade: 1
+[3965] Technologies Required to Build Unit (85):
+  [1130] Medical Sensing (85)
+  [890] Sonobouy (86)
+  [385] Phased-Array Radar (84)
+  [1560] Naval Patrol Ships (86)
 Unit can be disbanded: YES
 
 --3--
-Name: Space Mine III
-Nick Name: Space Mine III
+Name: Sonobuoy III
+Nick Name: Sonobuoy III
 Scores & Strengths:
-  Tech Score: 877
-  Unit Score: 870
-  Average Score: 873
-  Stat Strength: 580
-  Total Strength: 870
-  Planet Strength: 0
-  Space Strength: 870
-  Garrison Strength: 0
+  Tech Score: 948
+  Unit Score: 754
+  Average Score: 851
+  Stat Strength: 754
+  Total Strength: 754
+  Planet Strength: 754
+  Space Strength: 0
+  Garrison Strength: 942
 Statistics:
-  Movement Type: space
-  Move Points: 2
-  Spot: 0
-  Camouflage: 24
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 16
+  Camouflage: 20
   Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 0
-Attacks:
-  Closed Space: 10/29
+  Armor: 7
+  Psy Defense: 7
+  Rank: 9
 Load aboard transport: YES
-Never Rebels
-Never Retreats
+Can be towed
 Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 3
-Build Cost: 25
+Upkeep / Maintenance: 17
+Build Cost: 165
 Build Resource Requirements:
-  Energy: 25
-  Trace: 23
-  Chemicals: 38
-  Electronics: 26
-Build Space Mine III in Starport
+  Food: 4
+  Metal: 8
+  Trace: 19
+  Exotica: 4
+  Biochems: 4
+  Electronics: 22
+Build Sonobuoy III in Well
 Time to Build / Upgrade: 2
-[4935] Technologies Required to Build Unit (88):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [1670] Guided Missiles (83)
-  [2325] Web Missiles (80)
+[6315] Technologies Required to Build Unit (82):
+  [1690] Computerized Medical Imaging (76)
+  [890] Sonobouy (86)
+  [1465] Airborne-Pulse Radar (78)
+  [2270] Naval Escort Ships (86)
 Unit can be disbanded: YES
 
 --4--
-Name: Space Mine IV
-Nick Name: Space Mine IV
+Name: Sonobuoy IV
+Nick Name: Sonobuoy IV
 Scores & Strengths:
-  Tech Score: 1143
-  Unit Score: 1151
-  Average Score: 1147
-  Stat Strength: 788
-  Total Strength: 1151
-  Planet Strength: 0
-  Space Strength: 1151
-  Garrison Strength: 0
+  Tech Score: 1437
+  Unit Score: 1042
+  Average Score: 1239
+  Stat Strength: 1042
+  Total Strength: 1042
+  Planet Strength: 1042
+  Space Strength: 0
+  Garrison Strength: 1302
 Statistics:
-  Movement Type: space
-  Move Points: 2
-  Spot: 0
-  Camouflage: 28
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 17
+  Camouflage: 25
   Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 0
-Attacks:
-  Closed Space: 11/33
+  Armor: 8
+  Psy Defense: 8
+  Rank: 12
 Load aboard transport: YES
-Never Rebels
-Never Retreats
+Can be towed
 Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 4
-Build Cost: 36
+Upkeep / Maintenance: 16
+Build Cost: 160
 Build Resource Requirements:
-  Energy: 41
-  Trace: 28
-  Chemicals: 51
-  Electronics: 37
-Build Space Mine IV in Starport
-Time to Build / Upgrade: 3
-[4900] Technologies Required to Build Unit (81):
-  [1220] Finite Element Methods (77)
-  [3680] Supersonic Missiles (84)
+  Food: 3
+  Metal: 6
+  Trace: 15
+  Exotica: 3
+  Chemicals: 1
+  Biochems: 2
+  Electronics: 20
+  Ceramsteel: 5
+Build Sonobuoy IV in Well
+Time to Build / Upgrade: 2
+[12480] Technologies Required to Build Unit (78):
+  [1845] Deep Tissue Imaging (72)
+  [1845] Computational Microscopy (67)
+  [890] Sonobouy (86)
+  [1605] Imaging Radar (78)
+  [3570] Robotics (76)
+  [2725] Naval Capital Ships (88)
 Unit can be disbanded: YES
 
 --5--
-Name: Space Mine V
-Nick Name: Space Mine V
+Name: Sonobuoy V
+Nick Name: Sonobuoy V
 Scores & Strengths:
-  Tech Score: 1372
-  Unit Score: 1336
-  Average Score: 1354
-  Stat Strength: 904
-  Total Strength: 1336
-  Planet Strength: 0
-  Space Strength: 1336
-  Garrison Strength: 0
+  Tech Score: 1903
+  Unit Score: 1402
+  Average Score: 1653
+  Stat Strength: 1402
+  Total Strength: 1402
+  Planet Strength: 1402
+  Space Strength: 0
+  Garrison Strength: 1752
 Statistics:
-  Movement Type: space
-  Move Points: 2
-  Spot: 0
-  Camouflage: 30
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 19
+  Camouflage: 29
   Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 0
-Attacks:
-  Closed Space: 12/36
+  Armor: 10
+  Psy Defense: 10
+  Rank: 17
 Load aboard transport: YES
-Never Rebels
-Never Retreats
+Can be towed
 Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 3
-Build Cost: 25
+Upkeep / Maintenance: 24
+Build Cost: 241
 Build Resource Requirements:
-  Energy: 24
+  Food: 4
+  Metal: 9
   Trace: 21
-  Chemicals: 32
-  Electronics: 27
-Build Space Mine V in Starport
+  Exotica: 4
+  Chemicals: 2
+  Biochems: 3
+  Electronics: 28
+  Ceramsteel: 8
+Build Sonobuoy V in Well
 Time to Build / Upgrade: 2
-[9800] Technologies Required to Build Unit (86):
-  [1535] Carbon Nanotubes (85)
-  [895] Space Rocketry (90)
-  [3200] Supersonic Aircraft (85)
-  [4170] Supercruise Missiles (84)
+[12600] Technologies Required to Build Unit (79):
+  [6490] Real-Time Medical Imaging (65)
+  [890] Sonobouy (86)
+  [1605] Imaging Radar (78)
+  [3615] Submarine Warfare (87)
 Unit can be disbanded: YES
 
 --6--
-Name: Space Mine VI
-Nick Name: Space Mine VI
+Name: Sonobuoy VI
+Nick Name: Sonobuoy VI
 Scores & Strengths:
-  Tech Score: 1909
-  Unit Score: 1902
-  Average Score: 1906
-  Stat Strength: 1300
-  Total Strength: 1902
-  Planet Strength: 0
-  Space Strength: 1902
-  Garrison Strength: 0
+  Tech Score: 2352
+  Unit Score: 1666
+  Average Score: 2009
+  Stat Strength: 1666
+  Total Strength: 1666
+  Planet Strength: 1666
+  Space Strength: 0
+  Garrison Strength: 2082
 Statistics:
-  Movement Type: space
-  Move Points: 2
-  Spot: 0
-  Camouflage: 36
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 20
+  Camouflage: 32
   Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 0
-Attacks:
-  Closed Space: 14/43
+  Armor: 11
+  Psy Defense: 11
+  Rank: 20
 Load aboard transport: YES
-Never Rebels
-Never Retreats
+Can be towed
 Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 3
-Build Cost: 29
+Upkeep / Maintenance: 20
+Build Cost: 199
 Build Resource Requirements:
-  Energy: 25
-  Trace: 20
-  Chemicals: 37
-  Electronics: 30
-Build Space Mine VI in Starport
-Time to Build / Upgrade: 2
-[14480] Technologies Required to Build Unit (84):
-  [8175] Spacecraft (84)
-  [6305] Hypersonic Missiles (83)
-Unit can be disbanded: YES
-
---7--
-Name: Space Mine VII
-Nick Name: Space Mine VII
-Scores & Strengths:
-  Tech Score: 2545
-  Unit Score: 2540
-  Average Score: 2543
-  Stat Strength: 1690
-  Total Strength: 2540
-  Planet Strength: 0
-  Space Strength: 2540
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 3
-  Spot: 0
-  Camouflage: 41
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 0
-Attacks:
-  Closed Space: 17/50
-Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 4
-Build Cost: 35
-Build Resource Requirements:
-  Energy: 27
-  Trace: 21
-  Chemicals: 40
+  Food: 3
+  Metal: 5
+  Trace: 17
+  Exotica: 3
+  Chemicals: 1
   Biochems: 2
-  Electronics: 31
-Build Space Mine VII in Starport
-Time to Build / Upgrade: 3
-[19530] Technologies Required to Build Unit (82):
-  [7105] Hypercruise Missiles (77)
-  [12425] Space Warfare (86)
-Unit can be disbanded: YES
-
---8--
-Name: Space Mine VIII
-Nick Name: Space Mine VIII
-Scores & Strengths:
-  Tech Score: 3094
-  Unit Score: 3115
-  Average Score: 3105
-  Stat Strength: 2125
-  Total Strength: 3115
-  Planet Strength: 0
-  Space Strength: 3115
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 3
-  Spot: 0
-  Camouflage: 46
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 0
-Attacks:
-  Closed Space: 18/55
-Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 25
-Build Cost: 254
-Build Resource Requirements:
-  Energy: 18
-  Trace: 22
-  Chemicals: 27
-  Biochems: 12
-  Electronics: 34
-  Monopols: 26
-Build Space Mine VIII in Starport
-Time to Build / Upgrade: 3
-[23635] Technologies Required to Build Unit (79):
-  [7105] Hypercruise Missiles (77)
-  [16530] Space Capital Ships (80)
-Unit can be disbanded: YES
-
---9--
-Name: Space Mine IX
-Nick Name: Space Mine IX
-Scores & Strengths:
-  Tech Score: 3956
-  Unit Score: 4015
-  Average Score: 3986
-  Stat Strength: 2713
-  Total Strength: 4015
-  Planet Strength: 0
-  Space Strength: 4015
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 3
-  Spot: 0
-  Camouflage: 52
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 0
-Attacks:
-  Closed Space: 21/62
-Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 33
-Build Cost: 331
-Build Resource Requirements:
-  Energy: 20
-  Trace: 23
-  Chemicals: 30
-  Biochems: 13
-  Electronics: 38
-  Monopols: 31
-Build Space Mine IX in Starport
-Time to Build / Upgrade: 4
-[30570] Technologies Required to Build Unit (76):
-  [7105] Hypercruise Missiles (77)
-  [23465] Advanced Spacecraft (75)
+  Electronics: 25
+  Ceramsteel: 6
+Build Sonobuoy VI in Well
+Time to Build / Upgrade: 2
+[18360] Technologies Required to Build Unit (79):
+  [6490] Real-Time Medical Imaging (65)
+  [890] Sonobouy (86)
+  [3780] Beam Control (79)
+  [7200] Air-Independent Propulsion (85)
 Unit can be disbanded: YES

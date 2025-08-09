@@ -1,306 +1,251 @@
-All units of the unit class Hover Tank are listed herein (7 in total):
+All units of the unit class Airborne Warning Aircraft are listed herein (6 in total):
 
 --1--
-Name: Hover Tank
-Nick Name: Kestral
+Name: Airborne Warning Aircraft
+Nick Name: AWACS
 Scores & Strengths:
-  Tech Score: 988
-  Unit Score: 986
-  Average Score: 987
-  Stat Strength: 640
-  Total Strength: 986
-  Planet Strength: 986
+  Tech Score: 835
+  Unit Score: 837
+  Average Score: 836
+  Stat Strength: 837
+  Total Strength: 837
+  Planet Strength: 837
   Space Strength: 0
-  Garrison Strength: 254
+  Garrison Strength: 252
 Statistics:
-  Movement Type: hover
-  Move Points: 15
-  Spot: 6
+  Movement Type: air
+  Move Points: 11
+  Spot: 20
   Camouflage: 4
-  Agility: 11
-  Armor: 11
-  Psy Defense: 11
-  Rank: 59
-Attacks:
-  Indirect: 9/12
-  Direct: 16/8
-  Close: 11/10
+  Agility: 10
+  Armor: 10
+  Psy Defense: 10
+  Rank: 749
 Load aboard transport: YES
-Upkeep / Maintenance: 69
-Build Cost: 687
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 14
+Build Cost: 141
 Build Resource Requirements:
-  Food: 7
-  Energy: 13
-  Metal: 4
-  Trace: 36
-  Exotica: 7
-  Chemicals: 23
-  Electronics: 39
-  Ceramsteel: 7
-  Monopols: 34
-Build Hover Tank in Factory
-Time to Build / Upgrade: 4
-[3905] Technology Required to Build Unit (61):
-  [3905] Hovertech (61)
+  Food: 15
+  Energy: 9
+  Metal: 96
+  Trace: 19
+  Exotica: 14
+  Chemicals: 10
+  Electronics: 22
+Build Airborne Warning Aircraft in Factory
+Time to Build / Upgrade: 3
+[3275] Technologies Required to Build Unit (82):
+  [1465] Airborne-Pulse Radar (78)
+  [1810] Jet-Propulsion Aircraft (86)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Hover Tank II
-Nick Name: Kestral II
+Name: Airborne Warning Aircraft II
+Nick Name: AWACS II
 Scores & Strengths:
-  Tech Score: 1600
-  Unit Score: 1518
-  Average Score: 1559
-  Stat Strength: 971
-  Total Strength: 1518
-  Planet Strength: 1518
+  Tech Score: 1126
+  Unit Score: 1087
+  Average Score: 1107
+  Stat Strength: 1087
+  Total Strength: 1087
+  Planet Strength: 1087
   Space Strength: 0
-  Garrison Strength: 348
+  Garrison Strength: 301
 Statistics:
-  Movement Type: hover
-  Move Points: 19
-  Spot: 7
+  Movement Type: air
+  Move Points: 13
+  Spot: 22
   Camouflage: 5
-  Agility: 12
-  Armor: 14
-  Psy Defense: 14
-  Rank: 71
-Attacks:
-  Indirect: 11/15
-  Direct: 20/10
-  Close: 14/13
+  Agility: 11
+  Armor: 12
+  Psy Defense: 12
+  Rank: 752
 Load aboard transport: YES
-Upkeep / Maintenance: 61
-Build Cost: 613
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 17
+Build Cost: 170
 Build Resource Requirements:
-  Food: 4
-  Energy: 12
-  Metal: 5
-  Trace: 22
-  Exotica: 4
-  Chemicals: 22
-  Electronics: 35
-  Ceramsteel: 7
-  Monopols: 28
-Build Hover Tank II in Factory
+  Food: 15
+  Energy: 9
+  Metal: 126
+  Trace: 20
+  Exotica: 15
+  Chemicals: 11
+  Electronics: 25
+Build Airborne Warning Aircraft II in Factory
 Time to Build / Upgrade: 3
-[7425] Technology Required to Build Unit (68):
-  [7425] Hovertanks (68)
+[4805] Technologies Required to Build Unit (82):
+  [1605] Imaging Radar (78)
+  [3200] Supersonic Aircraft (85)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Power Hover Tank
-Nick Name: Power Kestral
+Name: Airborne Warning Aircraft III
+Nick Name: AWACS III
 Scores & Strengths:
-  Tech Score: 2707
-  Unit Score: 2526
-  Average Score: 2617
-  Stat Strength: 1582
-  Total Strength: 2526
-  Planet Strength: 2526
+  Tech Score: 1441
+  Unit Score: 1209
+  Average Score: 1325
+  Stat Strength: 1209
+  Total Strength: 1209
+  Planet Strength: 1209
   Space Strength: 0
-  Garrison Strength: 505
+  Garrison Strength: 323
 Statistics:
-  Movement Type: hover
-  Move Points: 25
-  Spot: 8
-  Camouflage: 7
-  Agility: 14
-  Armor: 18
-  Psy Defense: 18
-  Rank: 90
-Attacks:
-  Indirect: 15/20
-  Direct: 26/13
-  Close: 18/17
+  Movement Type: air
+  Move Points: 14
+  Spot: 23
+  Camouflage: 5
+  Agility: 11
+  Armor: 13
+  Psy Defense: 13
+  Rank: 754
 Load aboard transport: YES
-Upkeep / Maintenance: 83
-Build Cost: 143
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 16
+Build Cost: 159
 Build Resource Requirements:
-Upgrade Hover Tank to Power Hover Tank at Factory
-Time to Build / Upgrade: 1
-[14975] Technology Required to Build Unit (70):
-  [14975] Power Hovertanks (70)
+  Food: 11
+  Energy: 7
+  Metal: 148
+  Trace: 13
+  Exotica: 11
+  Chemicals: 10
+  Electronics: 20
+Build Airborne Warning Aircraft III in Factory
+Time to Build / Upgrade: 3
+[7565] Technologies Required to Build Unit (79):
+  [1900] LASER (76)
+  [5665] Hypersonic Aircraft (82)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Psy Hover Tank
-Nick Name: Holy Kestral
+Name: Airborne Warning Aircraft IV
+Nick Name: AWACS IV
 Scores & Strengths:
-  Tech Score: 2735
-  Unit Score: 2734
-  Average Score: 2735
-  Stat Strength: 1891
-  Total Strength: 2734
-  Planet Strength: 2734
-  Space Strength: 2060
-  Garrison Strength: 596
+  Tech Score: 1767
+  Unit Score: 1462
+  Average Score: 1614
+  Stat Strength: 1462
+  Total Strength: 1462
+  Planet Strength: 1462
+  Space Strength: 0
+  Garrison Strength: 365
 Statistics:
-  Movement Type: hover
-  Move Points: 21
-  Spot: 8
+  Movement Type: air
+  Move Points: 16
+  Spot: 24
   Camouflage: 6
-  Agility: 15
+  Agility: 12
   Armor: 15
-  Psy Defense: 30
-  Rank: 85
-Attacks:
-  Psychic: 13/13
-  Indirect: 13/16
-  Direct: 22/11
-  Close: 16/14
+  Psy Defense: 15
+  Rank: 757
 Load aboard transport: YES
-Upkeep / Maintenance: 134
-Build Cost: 1336
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 11
+Build Cost: 108
 Build Resource Requirements:
-  Food: 4
-  Energy: 9
+  Food: 10
+  Energy: 7
   Metal: 7
-  Trace: 11
-  Exotica: 4
-  Chemicals: 19
-  Electronics: 25
-  Ceramsteel: 12
-  Monopols: 31
-  Gems: 35
-Build Psy Hover Tank in Factory
-Time to Build / Upgrade: 4
-[15305] Technologies Required to Build Unit (76):
-  [330] Holy Warriors (82)
-  [14975] Power Hovertanks (70)
+  Trace: 12
+  Exotica: 10
+  Chemicals: 13
+  Electronics: 19
+  Ceramsteel: 17
+Build Airborne Warning Aircraft IV in Factory
+Time to Build / Upgrade: 2
+[9710] Technologies Required to Build Unit (80):
+  [2100] High-Power LASER (80)
+  [7610] Atmospheric Aircraft (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: 3rd-Republic Hover Tank
-Nick Name: Ravager
+Name: Airborne Warning Aircraft V
+Nick Name: AWACS V
 Scores & Strengths:
-  Tech Score: 2921
-  Unit Score: 2737
-  Average Score: 2829
-  Stat Strength: 1707
-  Total Strength: 2737
-  Planet Strength: 2737
+  Tech Score: 1946
+  Unit Score: 1544
+  Average Score: 1745
+  Stat Strength: 1544
+  Total Strength: 1544
+  Planet Strength: 1544
   Space Strength: 0
-  Garrison Strength: 536
+  Garrison Strength: 374
 Statistics:
-  Movement Type: hover
-  Move Points: 26
-  Spot: 8
-  Camouflage: 7
-  Agility: 14
-  Armor: 19
-  Psy Defense: 19
-  Rank: 95
-Attacks:
-  Indirect: 15/21
-  Direct: 28/14
-  Close: 19/17
+  Movement Type: air
+  Move Points: 17
+  Spot: 25
+  Camouflage: 6
+  Agility: 12
+  Armor: 15
+  Psy Defense: 15
+  Rank: 758
 Load aboard transport: YES
-Upkeep / Maintenance: 55
-Build Cost: 548
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 11
+Build Cost: 106
 Build Resource Requirements:
-  Food: 2
-  Energy: 8
-  Metal: 3
-  Trace: 9
-  Exotica: 2
-  Chemicals: 15
-  Electronics: 19
-  Ceramsteel: 5
-  Monopols: 22
-Build 3rd-Republic Hover Tank in Factory
-Time to Build / Upgrade: 3
-[30105] Technologies Required to Build Unit (69):
-  [15130] Fusion Battle Tanks (68)
-  [14975] Power Hovertanks (70)
+  Food: 9
+  Energy: 7
+  Metal: 7
+  Trace: 11
+  Exotica: 9
+  Chemicals: 13
+  Electronics: 18
+  Ceramsteel: 17
+Build Airborne Warning Aircraft V in Factory
+Time to Build / Upgrade: 2
+[11510] Technologies Required to Build Unit (80):
+  [2990] Adaptive Optics (81)
+  [8520] Advanced Atmospheric Aircraft (79)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Morph Hover Tank
-Nick Name: Raptor
+Name: Airborne Warning Aircraft VI
+Nick Name: AWACS VI
 Scores & Strengths:
-  Tech Score: 5182
-  Unit Score: 5176
-  Average Score: 5179
-  Stat Strength: 3512
-  Total Strength: 5176
-  Planet Strength: 5176
+  Tech Score: 2770
+  Unit Score: 1995
+  Average Score: 2383
+  Stat Strength: 1995
+  Total Strength: 1995
+  Planet Strength: 1995
   Space Strength: 0
-  Garrison Strength: 1035
+  Garrison Strength: 446
 Statistics:
-  Movement Type: hover
-  Move Points: 25
-  Spot: 12
-  Camouflage: 10
-  Agility: 31
-  Armor: 29
-  Psy Defense: 29
-  Rank: 124
-Attacks:
-  Indirect: 20/25
-  Direct: 23/24
-  Close: 34/18
+  Movement Type: air
+  Move Points: 20
+  Spot: 27
+  Camouflage: 7
+  Agility: 13
+  Armor: 18
+  Psy Defense: 18
+  Rank: 765
 Load aboard transport: YES
-Upkeep / Maintenance: 140
-Build Cost: 1260
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 52
+Build Cost: 518
 Build Resource Requirements:
-  Metal: 1
-  Biochems: 30
-  Ceramsteel: 1
-  Wetware: 13
-Upgrade Power Hover Tank to Morph Hover Tank at Factory
-Time to Build / Upgrade: 1
-[35535] Technology Required to Build Unit (36):
-  [35535] Polymorphonic Land Vehicles (36)
+  Food: 8
+  Energy: 4
+  Metal: 3
+  Trace: 11
+  Exotica: 8
+  Chemicals: 8
+  Electronics: 22
+  Ceramsteel: 7
+  Monopols: 14
+Build Airborne Warning Aircraft VI in Factory
+Time to Build / Upgrade: 2
+[19220] Technologies Required to Build Unit (79):
+  [3780] Beam Control (79)
+  [15440] Power Aircraft (79)
 Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---7--
-Name: Stealth Hover Tank
-Nick Name: Kestral's Eye
-Scores & Strengths:
-  Tech Score: 5364
-  Unit Score: 5358
-  Average Score: 5361
-  Stat Strength: 4194
-  Total Strength: 5358
-  Planet Strength: 5358
-  Space Strength: 0
-  Garrison Strength: 1117
-Statistics:
-  Movement Type: hover
-  Move Points: 23
-  Spot: 14
-  Camouflage: 26
-  Agility: 35
-  Armor: 28
-  Psy Defense: 28
-  Rank: 123
-Attacks:
-  Indirect: 17/22
-  Direct: 28/16
-  Close: 19/18
-Load aboard transport: YES
-Upkeep / Maintenance: 124
-Build Cost: 1098
-Build Resource Requirements:
-  Biochems: 24
-  Wetware: 11
-Upgrade Power Hover Tank to Stealth Hover Tank at Factory
-Time to Build / Upgrade: 1
-[37210] Technology Required to Build Unit (34):
-  [37210] Neumonic Land Vehicles (34)
-Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

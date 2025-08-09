@@ -1,276 +1,172 @@
-All units of the unit class Space Minesweeper are listed herein (6 in total):
+All units of the unit class Spacemen are listed herein (4 in total):
 
 --1--
-Name: Space Minesweeper
-Nick Name: SS-MS
+Name: Spacemen
+Nick Name: Spacemen
 Scores & Strengths:
-  Tech Score: 396
-  Unit Score: 396
-  Average Score: 396
-  Stat Strength: 391
-  Total Strength: 396
+  Tech Score: 373
+  Unit Score: 370
+  Average Score: 371
+  Stat Strength: 298
+  Total Strength: 370
   Planet Strength: 0
-  Space Strength: 396
+  Space Strength: 370
   Garrison Strength: 0
 Statistics:
   Movement Type: space
   Move Points: 1
-  Spot: 10
-  Camouflage: 1
-  Agility: 1
-  Armor: 12
-  Psy Defense: 12
-  Rank: 64
+  Spot: 8
+  Camouflage: 12
+  Agility: 9
+  Armor: 2
+  Psy Defense: 2
+  Rank: 720
 Attacks:
-  Closed Space: 1/5
-Cargo Space: 1
+  Closed Space: 9/8
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
 Immune to Plague
-Upkeep / Maintenance: 12
-Build Cost: 117
+Upkeep / Maintenance: 34
+Build Cost: 337
 Build Resource Requirements:
-  Food: 5
-  Energy: 2
-  Metal: 48
-  Trace: 8
-  Exotica: 5
-  Chemicals: 17
-  Electronics: 5
-Build Space Minesweeper in Starport
+  Food: 9
+  Energy: 11
+  Metal: 2
+  Trace: 47
+  Exotica: 9
+  Chemicals: 14
+  Electronics: 30
+Build Spacemen in Starport
 Time to Build / Upgrade: 2
-[2125] Technologies Required to Build Unit (95):
-  [230] Hospitals (97)
+[1175] Technologies Required to Build Unit (78):
+  [235] Bioreactors (48)
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
-  [100] Psychosocial Engineering (100)
-  [60] Torpedo (98)
-  [795] Missiles (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Jump Minesweeper
-Nick Name: JJ-MS
+Name: Marauder Legion
+Nick Name: Star Lgn
 Scores & Strengths:
-  Tech Score: 481
-  Unit Score: 447
-  Average Score: 464
-  Stat Strength: 441
-  Total Strength: 447
-  Planet Strength: 0
-  Space Strength: 447
-  Garrison Strength: 0
+  Tech Score: 4207
+  Unit Score: 4202
+  Average Score: 4205
+  Stat Strength: 3051
+  Total Strength: 4202
+  Planet Strength: 4202
+  Space Strength: 0
+  Garrison Strength: 840
 Statistics:
-  Movement Type: jump
-  Move Points: 1
-  Spot: 10
-  Camouflage: 1
-  Agility: 1
-  Armor: 13
-  Psy Defense: 13
-  Rank: 90
+  Movement Type: mech
+  Move Points: 25
+  Spot: 20
+  Camouflage: 10
+  Agility: 26
+  Armor: 25
+  Psy Defense: 25
+  Rank: 127
 Attacks:
-  Closed Space: 1/6
-Cargo Space: 1
+  Air: 21/25
+  Direct: 17/18
+  Close: 20/16
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 91
-Build Cost: 912
+Upkeep / Maintenance: 251
+Build Cost: 2512
 Build Resource Requirements:
-  Food: 5
-  Energy: 3
-  Metal: 50
-  Trace: 7
-  Exotica: 5
-  Chemicals: 21
-  Electronics: 5
-S  ingularities: 1
-Build Jump Minesweeper in Starport
-Time to Build / Upgrade: 2
-[2565] Technologies Required to Build Unit (92):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [100] Psychosocial Engineering (100)
-  [60] Torpedo (98)
-  [795] Missiles (86)
-  [1235] Jump Rocketry (76)
+  Food: 3
+  Energy: 13
+  Metal: 4
+  Trace: 6
+  Exotica: 3
+  Chemicals: 16
+  Biochems: 25
+  Electronics: 16
+  Ceramsteel: 7
+  Wetware: 13
+  Monopols: 28
+Build Marauder Legion in Fort
+Time to Build / Upgrade: 4
+[26915] Technology Required to Build Unit (47):
+  [26915] Rocket Legion (47)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Space Destroyer Tender
-Nick Name: SS-DT
+Name: Space Marines
+Nick Name: Space Lgn
 Scores & Strengths:
-  Tech Score: 2580
-  Unit Score: 2580
-  Average Score: 2580
-  Stat Strength: 2482
-  Total Strength: 2580
+  Tech Score: 4611
+  Unit Score: 4606
+  Average Score: 4609
+  Stat Strength: 3706
+  Total Strength: 4606
   Planet Strength: 0
-  Space Strength: 2580
+  Space Strength: 4606
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 16
-  Spot: 12
-  Camouflage: 4
-  Agility: 12
-  Armor: 31
-  Psy Defense: 31
-  Rank: 247
+  Move Points: 30
+  Spot: 17
+  Camouflage: 18
+  Agility: 29
+  Armor: 26
+  Psy Defense: 26
+  Rank: 762
 Attacks:
-  Direct Space: 7/14
-Heals units of same movement type
+  Closed Space: 30/30
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
 Immune to Plague
-Upkeep / Maintenance: 34
-Build Cost: 340
+Upkeep / Maintenance: 521
+Build Cost: 2702
 Build Resource Requirements:
-  Food: 3
-  Energy: 7
-  Metal: 27
-  Trace: 4
-  Exotica: 3
-  Chemicals: 16
-  Biochems: 19
-  Electronics: 6
-  Ceramsteel: 30
-Build Space Destroyer Tender in Starport
-Time to Build / Upgrade: 3
-[14045] Technology Required to Build Unit (84):
-  [14045] Space Escorts (84)
+Upgrade Marauder Legion to Space Marines at Starport
+Time to Build / Upgrade: 1
+[30420] Technology Required to Build Unit (35):
+  [30420] Space Marines (35)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Space Repair Ship
-Nick Name: SS-RS
+Name: Wraith Space Marine
+Nick Name: Specter Lgn
 Scores & Strengths:
-  Tech Score: 2580
-  Unit Score: 2580
-  Average Score: 2580
-  Stat Strength: 2470
-  Total Strength: 2580
+  Tech Score: 5176
+  Unit Score: 5177
+  Average Score: 5177
+  Stat Strength: 4277
+  Total Strength: 5177
   Planet Strength: 0
-  Space Strength: 2580
+  Space Strength: 5177
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 24
-  Spot: 12
-  Camouflage: 6
-  Agility: 16
-  Armor: 27
-  Psy Defense: 27
-  Rank: 176
+  Move Points: 30
+  Spot: 20
+  Camouflage: 28
+  Agility: 29
+  Armor: 26
+  Psy Defense: 26
+  Rank: 768
 Attacks:
-  Closed Space: 10/11
-Heals units of same movement type
+  Closed Space: 30/30
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
 Immune to Plague
-Upkeep / Maintenance: 35
-Build Cost: 346
+Upkeep / Maintenance: 397
+Build Cost: 1264
 Build Resource Requirements:
-  Food: 5
-  Energy: 11
-  Metal: 21
-  Trace: 5
-  Exotica: 6
-  Chemicals: 20
-  Biochems: 18
-  Electronics: 8
-  Ceramsteel: 23
-Build Space Repair Ship in Starport
-Time to Build / Upgrade: 3
-[14045] Technology Required to Build Unit (84):
-  [14045] Space Escorts (84)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Jump Repair Ship
-Nick Name: JJ-RS
-Scores & Strengths:
-  Tech Score: 4325
-  Unit Score: 4177
-  Average Score: 4251
-  Stat Strength: 3995
-  Total Strength: 4177
-  Planet Strength: 0
-  Space Strength: 4177
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 31
-  Spot: 14
-  Camouflage: 8
-  Agility: 18
-  Armor: 35
-  Psy Defense: 35
-  Rank: 218
-Attacks:
-  Closed Space: 13/14
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 729
-Build Cost: 7290
-Build Resource Requirements:
-  Food: 3
-  Energy: 7
-  Metal: 11
-  Trace: 5
-  Exotica: 4
-  Chemicals: 14
-  Biochems: 16
-  Electronics: 12
-  Ceramsteel: 15
-  Monopols: 27
-S  ingularities: 6
-Build Jump Repair Ship in Starport
-Time to Build / Upgrade: 4
-[27965] Technology Required to Build Unit (75):
-  [27965] Jump Escorts (75)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---6--
-Name: Jump Destroyer Tender
-Nick Name: JJ-DT
-Scores & Strengths:
-  Tech Score: 4325
-  Unit Score: 4220
-  Average Score: 4273
-  Stat Strength: 4058
-  Total Strength: 4220
-  Planet Strength: 0
-  Space Strength: 4220
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 21
-  Spot: 14
-  Camouflage: 5
-  Agility: 14
-  Armor: 40
-  Psy Defense: 40
-  Rank: 295
-Attacks:
-  Direct Space: 9/18
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 628
-Build Cost: 6282
-Build Resource Requirements:
-  Food: 2
-  Energy: 4
-  Metal: 14
-  Trace: 3
-  Exotica: 2
-  Chemicals: 12
-  Biochems: 16
-  Electronics: 11
-  Ceramsteel: 20
-  Monopols: 28
-S  ingularities: 5
-Build Jump Destroyer Tender in Starport
-Time to Build / Upgrade: 4
-[27965] Technology Required to Build Unit (75):
-  [27965] Jump Escorts (75)
+  Trace: 1
+  Electronics: 1
+Upgrade Space Marines to Wraith Space Marine at Starport
+Time to Build / Upgrade: 1
+[54550] Technologies Required to Build Unit (34):
+  [30420] Space Marines (35)
+  [24130] Neumonically-Enhanced Soldiers (32)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
