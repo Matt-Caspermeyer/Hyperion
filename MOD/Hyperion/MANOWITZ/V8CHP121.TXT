@@ -1,280 +1,276 @@
-All units of the unit class Amphibious Heavy Tank are listed herein (6 in total):
+All units of the unit class Space Minesweeper are listed herein (6 in total):
 
 --1--
-Name: Amphibious Heavy Tank
-Nick Name: N-ATH
+Name: Space Minesweeper
+Nick Name: SS-MS
 Scores & Strengths:
-  Tech Score: 410
-  Unit Score: 409
-  Average Score: 410
-  Stat Strength: 311
-  Total Strength: 409
-  Planet Strength: 409
-  Space Strength: 0
-  Garrison Strength: 182
+  Tech Score: 396
+  Unit Score: 396
+  Average Score: 396
+  Stat Strength: 391
+  Total Strength: 396
+  Planet Strength: 0
+  Space Strength: 396
+  Garrison Strength: 0
 Statistics:
-  Movement Type: craft
-  Move Points: 5
-  Spot: 2
-  Camouflage: 2
-  Agility: 6
-  Armor: 11
-  Psy Defense: 11
-  Rank: 66
+  Movement Type: space
+  Move Points: 1
+  Spot: 10
+  Camouflage: 1
+  Agility: 1
+  Armor: 12
+  Psy Defense: 12
+  Rank: 64
 Attacks:
-  Indirect: 6/8
-  Direct: 5/7
-  Close: 3/5
-Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 35
+  Closed Space: 1/5
+Cargo Space: 1
+Immune to Plague
+Upkeep / Maintenance: 12
+Build Cost: 117
 Build Resource Requirements:
-  Food: 2
-  Energy: 12
-  Metal: 31
-  Trace: 7
-  Exotica: 2
-  Chemicals: 11
-  Electronics: 4
-Build Amphibious Heavy Tank in Factory
+  Food: 5
+  Energy: 2
+  Metal: 48
+  Trace: 8
+  Exotica: 5
+  Chemicals: 17
+  Electronics: 5
+Build Space Minesweeper in Starport
 Time to Build / Upgrade: 2
-[1595] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [1195] Naval Warfare (90)
+[2125] Technologies Required to Build Unit (95):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
+  [795] Missiles (86)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Amphibious Light Tank
-Nick Name: N-ATL
+Name: Jump Minesweeper
+Nick Name: JJ-MS
 Scores & Strengths:
-  Tech Score: 410
-  Unit Score: 409
-  Average Score: 410
-  Stat Strength: 300
-  Total Strength: 409
-  Planet Strength: 409
-  Space Strength: 0
-  Garrison Strength: 154
+  Tech Score: 481
+  Unit Score: 447
+  Average Score: 464
+  Stat Strength: 441
+  Total Strength: 447
+  Planet Strength: 0
+  Space Strength: 447
+  Garrison Strength: 0
 Statistics:
-  Movement Type: craft
-  Move Points: 7
-  Spot: 2
-  Camouflage: 2
-  Agility: 9
-  Armor: 9
-  Psy Defense: 9
-  Rank: 67
+  Movement Type: jump
+  Move Points: 1
+  Spot: 10
+  Camouflage: 1
+  Agility: 1
+  Armor: 13
+  Psy Defense: 13
+  Rank: 90
 Attacks:
-  Indirect: 8/6
-  Direct: 8/5
-  Close: 7/3
-Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 42
+  Closed Space: 1/6
+Cargo Space: 1
+Immune to Plague
+Upkeep / Maintenance: 91
+Build Cost: 912
 Build Resource Requirements:
-  Food: 4
-  Energy: 10
-  Metal: 21
-  Trace: 16
-  Exotica: 4
-  Chemicals: 10
-  Electronics: 10
-Build Amphibious Light Tank in Factory
+  Food: 5
+  Energy: 3
+  Metal: 50
+  Trace: 7
+  Exotica: 5
+  Chemicals: 21
+  Electronics: 5
+S  ingularities: 1
+Build Jump Minesweeper in Starport
 Time to Build / Upgrade: 2
-[1595] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [1195] Naval Warfare (90)
+[2565] Technologies Required to Build Unit (92):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
+  [795] Missiles (86)
+  [1235] Jump Rocketry (76)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Amphibious Medium Tank
-Nick Name: N-ATM
+Name: Space Destroyer Tender
+Nick Name: SS-DT
 Scores & Strengths:
-  Tech Score: 410
-  Unit Score: 409
-  Average Score: 410
-  Stat Strength: 308
-  Total Strength: 409
-  Planet Strength: 409
-  Space Strength: 0
-  Garrison Strength: 166
+  Tech Score: 2580
+  Unit Score: 2580
+  Average Score: 2580
+  Stat Strength: 2482
+  Total Strength: 2580
+  Planet Strength: 0
+  Space Strength: 2580
+  Garrison Strength: 0
 Statistics:
-  Movement Type: craft
-  Move Points: 6
-  Spot: 2
-  Camouflage: 2
-  Agility: 8
-  Armor: 10
-  Psy Defense: 10
-  Rank: 66
+  Movement Type: space
+  Move Points: 16
+  Spot: 12
+  Camouflage: 4
+  Agility: 12
+  Armor: 31
+  Psy Defense: 31
+  Rank: 247
 Attacks:
-  Indirect: 7/7
-  Direct: 6/6
-  Close: 4/4
-Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 37
+  Direct Space: 7/14
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 34
+Build Cost: 340
 Build Resource Requirements:
   Food: 3
-  Energy: 11
-  Metal: 25
-  Trace: 10
+  Energy: 7
+  Metal: 27
+  Trace: 4
   Exotica: 3
-  Chemicals: 10
-  Electronics: 5
-Build Amphibious Medium Tank in Factory
-Time to Build / Upgrade: 2
-[1595] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [1195] Naval Warfare (90)
+  Chemicals: 16
+  Biochems: 19
+  Electronics: 6
+  Ceramsteel: 30
+Build Space Destroyer Tender in Starport
+Time to Build / Upgrade: 3
+[14045] Technology Required to Build Unit (84):
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Amphibious Medium Tank II
-Nick Name: N-ATM2
+Name: Space Repair Ship
+Nick Name: SS-RS
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 564
-  Average Score: 574
-  Stat Strength: 426
-  Total Strength: 564
-  Planet Strength: 564
-  Space Strength: 0
-  Garrison Strength: 213
+  Tech Score: 2580
+  Unit Score: 2580
+  Average Score: 2580
+  Stat Strength: 2470
+  Total Strength: 2580
+  Planet Strength: 0
+  Space Strength: 2580
+  Garrison Strength: 0
 Statistics:
-  Movement Type: craft
-  Move Points: 7
-  Spot: 2
-  Camouflage: 2
-  Agility: 9
-  Armor: 12
-  Psy Defense: 12
-  Rank: 70
+  Movement Type: space
+  Move Points: 24
+  Spot: 12
+  Camouflage: 6
+  Agility: 16
+  Armor: 27
+  Psy Defense: 27
+  Rank: 176
 Attacks:
-  Indirect: 8/8
-  Direct: 7/7
-  Close: 5/5
-Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 49
+  Closed Space: 10/11
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 35
+Build Cost: 346
 Build Resource Requirements:
-  Food: 3
+  Food: 5
   Energy: 11
-  Metal: 28
-  Trace: 11
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 5
-  Electronics: 6
-Build Amphibious Medium Tank II in Factory
-Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
+  Metal: 21
+  Trace: 5
+  Exotica: 6
+  Chemicals: 20
+  Biochems: 18
+  Electronics: 8
+  Ceramsteel: 23
+Build Space Repair Ship in Starport
+Time to Build / Upgrade: 3
+[14045] Technology Required to Build Unit (84):
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Amphibious Heavy Tank II
-Nick Name: N-ATH2
+Name: Jump Repair Ship
+Nick Name: JJ-RS
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 573
-  Average Score: 579
-  Stat Strength: 431
-  Total Strength: 573
-  Planet Strength: 573
-  Space Strength: 0
-  Garrison Strength: 233
+  Tech Score: 4325
+  Unit Score: 4177
+  Average Score: 4251
+  Stat Strength: 3995
+  Total Strength: 4177
+  Planet Strength: 0
+  Space Strength: 4177
+  Garrison Strength: 0
 Statistics:
-  Movement Type: craft
-  Move Points: 6
-  Spot: 2
-  Camouflage: 2
-  Agility: 7
-  Armor: 13
-  Psy Defense: 13
-  Rank: 70
+  Movement Type: jump
+  Move Points: 31
+  Spot: 14
+  Camouflage: 8
+  Agility: 18
+  Armor: 35
+  Psy Defense: 35
+  Rank: 218
 Attacks:
-  Indirect: 7/10
-  Direct: 6/8
-  Close: 4/6
-Load aboard transport: YES
-Upkeep / Maintenance: 5
-Build Cost: 46
+  Closed Space: 13/14
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 729
+Build Cost: 7290
 Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 32
-  Trace: 8
-  Exotica: 2
-  Chemicals: 13
-  Biochems: 4
-  Electronics: 4
-Build Amphibious Heavy Tank II in Factory
-Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
+  Food: 3
+  Energy: 7
+  Metal: 11
+  Trace: 5
+  Exotica: 4
+  Chemicals: 14
+  Biochems: 16
+  Electronics: 12
+  Ceramsteel: 15
+  Monopols: 27
+S  ingularities: 6
+Build Jump Repair Ship in Starport
+Time to Build / Upgrade: 4
+[27965] Technology Required to Build Unit (75):
+  [27965] Jump Escorts (75)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Amphibious Light Tank II
-Nick Name: N-ATL2
+Name: Jump Destroyer Tender
+Nick Name: JJ-DT
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 576
-  Average Score: 580
-  Stat Strength: 414
-  Total Strength: 576
-  Planet Strength: 576
-  Space Strength: 0
-  Garrison Strength: 203
+  Tech Score: 4325
+  Unit Score: 4220
+  Average Score: 4273
+  Stat Strength: 4058
+  Total Strength: 4220
+  Planet Strength: 0
+  Space Strength: 4220
+  Garrison Strength: 0
 Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 2
-  Camouflage: 2
-  Agility: 10
-  Armor: 11
-  Psy Defense: 11
-  Rank: 72
+  Movement Type: jump
+  Move Points: 21
+  Spot: 14
+  Camouflage: 5
+  Agility: 14
+  Armor: 40
+  Psy Defense: 40
+  Rank: 295
 Attacks:
-  Indirect: 10/7
-  Direct: 10/6
-  Close: 8/4
-Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 63
+  Direct Space: 9/18
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 628
+Build Cost: 6282
 Build Resource Requirements:
-  Food: 3
-  Energy: 10
-  Metal: 23
-  Trace: 20
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 9
-  Electronics: 10
-Build Amphibious Light Tank II in Factory
-Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
+  Food: 2
+  Energy: 4
+  Metal: 14
+  Trace: 3
+  Exotica: 2
+  Chemicals: 12
+  Biochems: 16
+  Electronics: 11
+  Ceramsteel: 20
+  Monopols: 28
+S  ingularities: 5
+Build Jump Destroyer Tender in Starport
+Time to Build / Upgrade: 4
+[27965] Technology Required to Build Unit (75):
+  [27965] Jump Escorts (75)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

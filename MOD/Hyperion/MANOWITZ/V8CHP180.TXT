@@ -1,251 +1,95 @@
-All units of the unit class Strategic Bomber are listed herein (5 in total):
+All units of the unit class Symbiot Arcer are listed herein (2 in total):
 
 --1--
-Name: Strategic Bomber
-Nick Name: Devastator
+Name: Symbiot Arcer
+Nick Name: Arcer
 Scores & Strengths:
-  Tech Score: 1142
-  Unit Score: 1710
-  Average Score: 1426
-  Stat Strength: 1401
-  Total Strength: 1710
-  Planet Strength: 1710
+  Tech Score: 1530
+  Unit Score: 1530
+  Average Score: 1530
+  Stat Strength: 1284
+  Total Strength: 1530
+  Planet Strength: 1530
   Space Strength: 0
-  Garrison Strength: 323
+  Garrison Strength: 382
 Statistics:
-  Movement Type: air
-  Move Points: 28
-  Spot: 10
-  Camouflage: 5
-  Agility: 10
-  Armor: 14
-  Psy Defense: 14
-  Rank: 175
+  Movement Type: wheel
+  Move Points: 16
+  Spot: 14
+  Camouflage: 16
+  Agility: 16
+  Armor: 16
+  Psy Defense: 8
+  Rank: 140
 Attacks:
-  Air: 6/11
-  Indirect: 9/27
+  Air: 4/10
+  Indirect: 10/15
+  Close: 7/8
 Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 107
+Immune to Plague
+Causes Tactical Plague
+Upkeep / Maintenance: 56
+Build Cost: 561
 Build Resource Requirements:
-  Food: 10
-  Energy: 35
-  Metal: 28
-  Trace: 8
-  Exotica: 10
-  Chemicals: 37
-  Biochems: 9
-  Electronics: 5
-Build Strategic Bomber in Factory
-Time to Build / Upgrade: 3
-[7115] Technologies Required to Build Unit (88):
-  [795] Missiles (86)
-  [1810] Jet-Propulsion Aircraft (86)
-  [2725] Naval Capital Ships (88)
-  [1785] Rotary Autocannon (90)
+  Food: 7
+  Energy: 67
+  Metal: 6
+  Trace: 11
+  Exotica: 8
+  Chemicals: 83
+  Biochems: 114
+  Electronics: 26
+Build Symbiot Arcer in Hive
+Time to Build / Upgrade: 4
+[6995] Technology Required to Build Unit (37):
+  [6995] Symbiot Psychology (37)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Neutron Bomber
-Nick Name: Desolator
+Name: Bazozad (Symbiot)
+Nick Name: Bazozad
 Scores & Strengths:
-  Tech Score: 3125
-  Unit Score: 2583
-  Average Score: 2854
-  Stat Strength: 1788
-  Total Strength: 2583
-  Planet Strength: 2583
+  Tech Score: 1530
+  Unit Score: 1530
+  Average Score: 1530
+  Stat Strength: 1094
+  Total Strength: 1530
+  Planet Strength: 1530
   Space Strength: 0
-  Garrison Strength: 456
+  Garrison Strength: 408
 Statistics:
-  Movement Type: air
-  Move Points: 32
-  Spot: 12
-  Camouflage: 7
-  Agility: 11
-  Armor: 15
-  Psy Defense: 15
-  Rank: 166
+  Movement Type: wheel
+  Move Points: 14
+  Spot: 13
+  Camouflage: 15
+  Agility: 18
+  Armor: 12
+  Psy Defense: 6
+  Rank: 114
 Attacks:
-  Air: 7/12
-  Indirect: 11/28
-  Direct: 11/26
-  Close: 13/9
+  Indirect: 8/16
+  Direct: 10/14
+  Close: 14/12
 Load aboard transport: YES
-Upkeep / Maintenance: 101
-Build Cost: 1014
+Immune to Plague
+Causes Tactical Plague
+Upkeep / Maintenance: 77
+Build Cost: 765
 Build Resource Requirements:
-  Food: 6
-  Energy: 20
-  Metal: 2
-  Trace: 8
-  Exotica: 6
-  Chemicals: 32
-  Biochems: 29
-  Electronics: 12
-  Ceramsteel: 4
-  Monopols: 39
-Build Neutron Bomber in Factory
-Time to Build / Upgrade: 3
-[19925] Technologies Required to Build Unit (39):
-  [3650] Viral DNA (11)
-  [835] Spore Delivery (27)
-  [15440] Power Aircraft (79)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---3--
-Name: Stigmata MegaFortress
-Nick Name: MegaFortress
-Scores & Strengths:
-  Tech Score: 4697
-  Unit Score: 4696
-  Average Score: 4696
-  Stat Strength: 2674
-  Total Strength: 4696
-  Planet Strength: 4696
-  Space Strength: 0
-  Garrison Strength: 733
-Statistics:
-  Movement Type: air
-  Move Points: 41
-  Spot: 10
-  Camouflage: 7
-  Agility: 14
-  Armor: 18
-  Psy Defense: 18
-  Rank: 196
-Attacks:
-  Air: 17/31
-  Indirect: 16/35
-  Direct: 15/34
-  Close: 17/25
-Load aboard transport: YES
-Never needs refueling
-Upkeep / Maintenance: 211
-Build Cost: 2107
-Build Resource Requirements:
-  Food: 3
-  Energy: 21
-  Metal: 2
-  Trace: 4
-  Exotica: 4
-  Chemicals: 35
-  Biochems: 25
-  Electronics: 8
-  Ceramsteel: 3
-  Wetware: 6
-  Monopols: 46
-Build Stigmata MegaFortress in Factory
-Time to Build / Upgrade: 4
-[38900] Technologies Required to Build Unit (51):
-  [23395] Advanced Hovertech (37)
-  [15505] Meson Cannon (65)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---4--
-Name: Stealth Bomber
-Nick Name: Pulverizer
-Scores & Strengths:
-  Tech Score: 8583
-  Unit Score: 8417
-  Average Score: 8500
-  Stat Strength: 6357
-  Total Strength: 8417
-  Planet Strength: 8417
-  Space Strength: 0
-  Garrison Strength: 1105
-Statistics:
-  Movement Type: air
-  Move Points: 58
-  Spot: 20
-  Camouflage: 25
-  Agility: 20
-  Armor: 28
-  Psy Defense: 28
-  Rank: 285
-Attacks:
-  Air: 24/31
-  Indirect: 28/47
-Load aboard transport: YES
-Upkeep / Maintenance: 140
-Build Cost: 1401
-Build Resource Requirements:
-  Food: 3
-  Energy: 13
-  Metal: 2
-  Trace: 6
-  Exotica: 3
-  Chemicals: 17
-  Biochems: 22
-  Electronics: 9
-  Ceramsteel: 4
-  Wetware: 3
-  Monopols: 27
-Build Stealth Bomber in Factory
-Time to Build / Upgrade: 3
-[101965] Technologies Required to Build Unit (59):
-  [1785] Rotary Autocannon (90)
-  [45010] Hover Navalcraft (52)
-  [55170] Neumonic Patrolcraft (35)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Stealth Neutron Bomber
-Nick Name: Punisher
-Scores & Strengths:
-  Tech Score: 8583
-  Unit Score: 8418
-  Average Score: 8500
-  Stat Strength: 6293
-  Total Strength: 8418
-  Planet Strength: 8418
-  Space Strength: 0
-  Garrison Strength: 1114
-Statistics:
-  Movement Type: air
-  Move Points: 57
-  Spot: 20
-  Camouflage: 26
-  Agility: 20
-  Armor: 28
-  Psy Defense: 28
-  Rank: 241
-Attacks:
-  Air: 14/23
-  Indirect: 18/38
-  Direct: 20/36
-  Close: 21/19
-Load aboard transport: YES
-Upkeep / Maintenance: 150
-Build Cost: 1499
-Build Resource Requirements:
-  Food: 3
-  Energy: 13
-  Metal: 2
-  Trace: 6
-  Exotica: 4
-  Chemicals: 18
-  Biochems: 24
-  Electronics: 10
-  Ceramsteel: 4
-  Wetware: 4
-  Monopols: 28
-Build Stealth Neutron Bomber in Factory
-Time to Build / Upgrade: 3
-[106450] Technologies Required to Build Unit (43):
-  [3650] Viral DNA (11)
-  [835] Spore Delivery (27)
-  [1785] Rotary Autocannon (90)
-  [45010] Hover Navalcraft (52)
-  [55170] Neumonic Patrolcraft (35)
+  Food: 7
+  Energy: 99
+  Metal: 3
+  Trace: 13
+  Exotica: 8
+  Chemicals: 123
+  Biochems: 157
+  Electronics: 30
+Build Bazozad (Symbiot) in Hive
+Time to Build / Upgrade: 5
+[6995] Technology Required to Build Unit (37):
+  [6995] Symbiot Psychology (37)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

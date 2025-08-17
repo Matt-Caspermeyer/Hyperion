@@ -1,49 +1,290 @@
-All units of the unit class Plague Bomb are listed herein (1 in total):
+All units of the unit class Holy Starbase are listed herein (6 in total):
 
 --1--
-Name: Plague Bomb
-Nick Name: Plague Bomb
+Name: Holy Starbase
+Nick Name: Holy Starbase
 Scores & Strengths:
-  Tech Score: 3357
-  Unit Score: 3356
-  Average Score: 3356
-  Stat Strength: 3322
-  Total Strength: 3356
-  Planet Strength: 3356
-  Space Strength: 0
-  Garrison Strength: 612
+  Tech Score: 1965
+  Unit Score: 1965
+  Average Score: 1965
+  Stat Strength: 1237
+  Total Strength: 1965
+  Planet Strength: 0
+  Space Strength: 1965
+  Garrison Strength: 0
 Statistics:
-  Movement Type: hover
-  Move Points: 30
-  Spot: 0
-  Camouflage: 31
-  Agility: 31
-  Armor: 10
-  Psy Defense: 20
-  Rank: 3
+  Movement Type: space
+  Move Points: 2
+  Spot: 10
+  Camouflage: 2
+  Agility: 2
+  Armor: 15
+  Psy Defense: 30
+  Rank: 849
 Attacks:
-  Indirect: 2/17
-Load aboard transport: YES
-Never Retreats
+  Ranged Space: 8/19
+  Direct Space: 9/14
+  Psychic: 30/15
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Heals units of same movement type
 Immune to Plague
-Causes Plague
-Destroyed after combat
-Upkeep / Maintenance: 63
-Build Cost: 630
+Upkeep / Maintenance: 243
+Build Cost: 2425
 Build Resource Requirements:
-  Food: 4
-  Energy: 7
-  Metal: 4
-  Trace: 11
-  Exotica: 54
-  Chemicals: 142
-  Biochems: 122
-  Electronics: 27
-  Ceramsteel: 6
-  Monopols: 41
-  Gems: 25
-Build Plague Bomb in Lab
+  Food: 1
+  Energy: 11
+  Metal: 24
+  Trace: 5
+  Exotica: 1
+  Chemicals: 16
+  Biochems: 2
+  Electronics: 5
+  Ceramsteel: 28
+  Gems: 20
+Build Holy Starbase in Starport
+Time to Build / Upgrade: 3
+[11230] Technologies Required to Build Unit (74):
+  [2790] Supercruise (86)
+  [330] Holy Warriors (82)
+  [2255] Sympathy (Bonding) (45)
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Starbase
+Nick Name: Starbase
+Scores & Strengths:
+  Tech Score: 2354
+  Unit Score: 4708
+  Average Score: 3531
+  Stat Strength: 3536
+  Total Strength: 4708
+  Planet Strength: 0
+  Space Strength: 4708
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 2
+  Spot: 18
+  Camouflage: 2
+  Agility: 2
+  Armor: 40
+  Psy Defense: 40
+  Rank: 890
+Attacks:
+  Ranged Space: 16/37
+  Direct Space: 20/29
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 196
+Build Cost: 1962
+Build Resource Requirements:
+  Food: 2
+  Energy: 34
+  Metal: 47
+  Trace: 15
+  Exotica: 3
+  Chemicals: 58
+  Biochems: 8
+  Electronics: 21
+  Ceramsteel: 52
+Build Starbase in Starport
 Time to Build / Upgrade: 6
-[19945] Technology Required to Build Unit (9):
-  [19945] Explosive Plague Devices (9)
+[12425] Technology Required to Build Unit (86):
+  [12425] Space Warfare (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Sathra Starbase
+Nick Name: JJ-SS
+Scores & Strengths:
+  Tech Score: 4814
+  Unit Score: 4800
+  Average Score: 4807
+  Stat Strength: 3021
+  Total Strength: 4800
+  Planet Strength: 0
+  Space Strength: 4800
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 3
+  Spot: 16
+  Camouflage: 3
+  Agility: 3
+  Armor: 23
+  Psy Defense: 47
+  Rank: 915
+Attacks:
+  Ranged Space: 13/30
+  Direct Space: 14/22
+  Psychic: 47/23
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 1035
+Build Cost: 10345
+Build Resource Requirements:
+  Food: 1
+  Energy: 7
+  Metal: 9
+  Trace: 4
+  Exotica: 1
+  Chemicals: 15
+  Biochems: 2
+  Electronics: 11
+  Ceramsteel: 17
+  Monopols: 27
+  Gems: 31
+S  ingularities: 2
+Build Sathra Starbase in Starport
+Time to Build / Upgrade: 4
+[39650] Technologies Required to Build Unit (63):
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [3835] Sathra's Space Doctrine (17)
+  [27875] PTS Meson Navalcraft (74)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Fusion Starbase
+Nick Name: SS-FS
+Scores & Strengths:
+  Tech Score: 3140
+  Unit Score: 6138
+  Average Score: 4639
+  Stat Strength: 4605
+  Total Strength: 6138
+  Planet Strength: 0
+  Space Strength: 6138
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 2
+  Spot: 19
+  Camouflage: 2
+  Agility: 2
+  Armor: 46
+  Psy Defense: 46
+  Rank: 908
+Attacks:
+  Ranged Space: 18/43
+  Direct Space: 23/33
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 2052
+Build Cost: 18559
+Build Resource Requirements:
+  Monopols: 78
+Upgrade Starbase to Fusion Starbase at Starport
+Time to Build / Upgrade: 1
+[21040] Technologies Required to Build Unit (75):
+  [8615] Fusion Beam (63)
+  [12425] Space Warfare (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Doomstar
+Nick Name: Doomstar
+Scores & Strengths:
+  Tech Score: 6849
+  Unit Score: 6848
+  Average Score: 6848
+  Stat Strength: 5736
+  Total Strength: 6848
+  Planet Strength: 0
+  Space Strength: 6848
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 10
+  Spot: 14
+  Camouflage: 4
+  Agility: 4
+  Armor: 52
+  Psy Defense: 52
+  Rank: 938
+Attacks:
+  Ranged Space: 18/41
+  Direct Space: 17/22
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 1669
+Build Cost: 16692
+Build Resource Requirements:
+  Energy: 8
+  Metal: 13
+  Trace: 2
+  Chemicals: 16
+  Biochems: 22
+  Electronics: 9
+  Ceramsteel: 20
+  Wetware: 3
+  Monopols: 36
+S  ingularities: 3
+Build Doomstar in Starport
+Time to Build / Upgrade: 4
+[51615] Technology Required to Build Unit (53):
+  [51615] Doomstar (53)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Meson Starbase
+Nick Name: SS-MS
+Scores & Strengths:
+  Tech Score: 5645
+  Unit Score: 11014
+  Average Score: 8329
+  Stat Strength: 8194
+  Total Strength: 11014
+  Planet Strength: 0
+  Space Strength: 11014
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 22
+  Camouflage: 3
+  Agility: 2
+  Armor: 62
+  Psy Defense: 62
+  Rank: 965
+Attacks:
+  Ranged Space: 25/57
+  Direct Space: 31/45
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 1881
+Build Cost: 246
+Build Resource Requirements:
+  Biochems: 15
+  Electronics: 1
+Upgrade Fusion Starbase to Meson Starbase at Starport
+Time to Build / Upgrade: 1
+[77305] Technologies Required to Build Unit (71):
+  [10065] Powered-Armor Legion (79)
+  [27875] PTS Meson Navalcraft (74)
+  [39365] Jump Capital Ships (61)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

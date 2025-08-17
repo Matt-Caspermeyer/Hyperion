@@ -1,170 +1,188 @@
-All units of the unit class Special Forces are listed herein (4 in total):
+All units of the unit class Light Anti-Air Mech are listed herein (4 in total):
 
 --1--
-Name: Special Forces
-Nick Name: SPF LGN
+Name: Light Anti-Air Mech
+Nick Name: Vindicator
 Scores & Strengths:
-  Tech Score: 2106
-  Unit Score: 2105
-  Average Score: 2105
-  Stat Strength: 1116
-  Total Strength: 2105
-  Planet Strength: 2105
+  Tech Score: 1686
+  Unit Score: 1685
+  Average Score: 1686
+  Stat Strength: 1185
+  Total Strength: 1685
+  Planet Strength: 1685
   Space Strength: 0
-  Garrison Strength: 562
+  Garrison Strength: 450
 Statistics:
-  Movement Type: foot
+  Movement Type: mech
   Move Points: 14
-  Spot: 14
-  Camouflage: 14
-  Agility: 20
-  Armor: 8
-  Psy Defense: 8
-  Rank: 77
+  Spot: 10
+  Camouflage: 4
+  Agility: 19
+  Armor: 16
+  Psy Defense: 16
+  Rank: 123
 Attacks:
-  Air: 17/15
-  Indirect: 16/16
-  Direct: 15/16
-  Close: 17/14
+  Air: 20/13
+  Indirect: 16/15
 Load aboard transport: YES
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 95
-Build Cost: 835
+Immune to Plague
+Upkeep / Maintenance: 17
+Build Cost: 166
 Build Resource Requirements:
-  Trace: 1
-  Electronics: 12
-  Ceramsteel: 2
-  Monopols: 32
-Upgrade Covert Legion to Special Forces at Fort
-Time to Build / Upgrade: 1
-[10710] Technology Required to Build Unit (79):
-  [10710] Special Forces (79)
+  Food: 5
+  Energy: 14
+  Metal: 10
+  Trace: 16
+  Exotica: 5
+  Chemicals: 26
+  Electronics: 24
+  Ceramsteel: 15
+Build Light Anti-Air Mech in Starport
+Time to Build / Upgrade: 3
+[10330] Technologies Required to Build Unit (84):
+  [1690] Ceramsteel (84)
+  [2420] Rocket-Propelled Aircraft (87)
+  [6220] Mechanically-Enhanced Soldiers (80)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Cybercorp
-Nick Name: CYB LGN
+Name: Medium Anti-Air Mech
+Nick Name: Talisman
 Scores & Strengths:
-  Tech Score: 2788
-  Unit Score: 2630
-  Average Score: 2709
-  Stat Strength: 1340
-  Total Strength: 2630
-  Planet Strength: 2630
+  Tech Score: 2414
+  Unit Score: 2414
+  Average Score: 2414
+  Stat Strength: 1578
+  Total Strength: 2414
+  Planet Strength: 2414
   Space Strength: 0
-  Garrison Strength: 657
+  Garrison Strength: 603
 Statistics:
-  Movement Type: foot
+  Movement Type: mech
   Move Points: 16
-  Spot: 15
-  Camouflage: 16
-  Agility: 21
-  Armor: 9
-  Psy Defense: 9
-  Rank: 87
+  Spot: 13
+  Camouflage: 8
+  Agility: 11
+  Armor: 22
+  Psy Defense: 22
+  Rank: 139
 Attacks:
-  Air: 20/17
-  Indirect: 18/18
-  Direct: 17/18
-  Close: 20/16
+  Air: 23/19
+  Indirect: 21/19
 Load aboard transport: YES
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 128
-Build Cost: 440
+Immune to Plague
+Upkeep / Maintenance: 118
+Build Cost: 1178
 Build Resource Requirements:
-  Energy: 3
-  Trace: 7
-  Exotica: 1
-  Chemicals: 6
-  Electronics: 11
-  Monopols: 8
-Upgrade Special Forces to Cybercorp at Hospital
-Time to Build / Upgrade: 1
-[15575] Technology Required to Build Unit (52):
-  [15575] Cybercorp (52)
+  Food: 3
+  Energy: 9
+  Metal: 8
+  Trace: 17
+  Exotica: 3
+  Chemicals: 17
+  Electronics: 23
+  Ceramsteel: 9
+  Monopols: 25
+Build Medium Anti-Air Mech in Starport
+Time to Build / Upgrade: 3
+[12850] Technology Required to Build Unit (71):
+  [12850] Mechanized Warriors (71)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Genetic Special Forces
-Nick Name: Gen SF
+Name: Heavy Anti-Air Mech
+Nick Name: Avenger
 Scores & Strengths:
-  Tech Score: 2985
-  Unit Score: 2890
-  Average Score: 2937
-  Stat Strength: 1487
-  Total Strength: 2890
-  Planet Strength: 2890
+  Tech Score: 5401
+  Unit Score: 5401
+  Average Score: 5401
+  Stat Strength: 3067
+  Total Strength: 5401
+  Planet Strength: 5401
   Space Strength: 0
-  Garrison Strength: 700
+  Garrison Strength: 1273
 Statistics:
-  Movement Type: foot
-  Move Points: 17
-  Spot: 15
-  Camouflage: 17
-  Agility: 22
-  Armor: 10
-  Psy Defense: 10
-  Rank: 91
+  Movement Type: mech
+  Move Points: 18
+  Spot: 14
+  Camouflage: 12
+  Agility: 15
+  Armor: 33
+  Psy Defense: 33
+  Rank: 149
 Attacks:
-  Air: 20/18
-  Indirect: 19/19
-  Direct: 18/19
-  Close: 20/17
+  Air: 31/28
+  Indirect: 30/32
+  Direct: 22/23
 Load aboard transport: YES
-Can attack on Byzantium Secundus
 Immune to Plague
-Upkeep / Maintenance: 139
-Build Cost: 556
+Upkeep / Maintenance: 230
+Build Cost: 2298
 Build Resource Requirements:
-  Chemicals: 2
-  Biochems: 41
-Upgrade Special Forces to Genetic Special Forces at Lab
-Time to Build / Upgrade: 1
-[19610] Technologies Required to Build Unit (52):
-  [8900] Genetically-Enhanced Warriors (25)
-  [10710] Special Forces (79)
+  Food: 2
+  Energy: 13
+  Metal: 8
+  Trace: 25
+  Exotica: 2
+  Chemicals: 20
+  Biochems: 26
+  Electronics: 31
+  Ceramsteel: 11
+  Monopols: 33
+Build Heavy Anti-Air Mech in Starport
+Time to Build / Upgrade: 4
+[35965] Technology Required to Build Unit (64):
+  [35965] Advanced Mechanized Warriors (64)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Genetic Cybercorp
-Nick Name: Gen Cc
+Name: Assault Anti-Air Mech
+Nick Name: Phoenix
 Scores & Strengths:
-  Tech Score: 3516
-  Unit Score: 3287
-  Average Score: 3401
-  Stat Strength: 1633
-  Total Strength: 3287
-  Planet Strength: 3287
+  Tech Score: 5809
+  Unit Score: 5809
+  Average Score: 5809
+  Stat Strength: 3473
+  Total Strength: 5809
+  Planet Strength: 5809
   Space Strength: 0
-  Garrison Strength: 774
+  Garrison Strength: 1298
 Statistics:
-  Movement Type: foot
-  Move Points: 18
+  Movement Type: mech
+  Move Points: 20
   Spot: 16
-  Camouflage: 18
-  Agility: 23
-  Armor: 10
-  Psy Defense: 10
-  Rank: 99
+  Camouflage: 12
+  Agility: 19
+  Armor: 34
+  Psy Defense: 34
+  Rank: 153
 Attacks:
-  Air: 22/19
-  Indirect: 21/21
-  Direct: 19/21
-  Close: 22/18
+  Air: 30/29
+  Indirect: 30/32
+  Direct: 22/23
 Load aboard transport: YES
-Can attack on Byzantium Secundus
 Immune to Plague
-Upkeep / Maintenance: 167
-Build Cost: 1233
+Upkeep / Maintenance: 289
+Build Cost: 2893
 Build Resource Requirements:
-  Biochems: 47
-Upgrade Cybercorp to Genetic Cybercorp at Lab
-Time to Build / Upgrade: 1
-[24475] Technologies Required to Build Unit (39):
-  [8900] Genetically-Enhanced Warriors (25)
-  [15575] Cybercorp (52)
+  Food: 1
+  Energy: 12
+  Metal: 7
+  Trace: 10
+  Exotica: 2
+  Chemicals: 20
+  Biochems: 25
+  Electronics: 16
+  Ceramsteel: 10
+  Wetware: 9
+  Monopols: 31
+Build Assault Anti-Air Mech in Starport
+Time to Build / Upgrade: 4
+[52710] Technologies Required to Build Unit (44):
+  [16745] Wetware (23)
+  [35965] Advanced Mechanized Warriors (64)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

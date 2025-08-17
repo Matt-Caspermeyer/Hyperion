@@ -1,305 +1,597 @@
-All units of the unit class Hover Tank Killer are listed herein (7 in total):
+All units of the unit class Holy Space Monitor are listed herein (12 in total):
 
 --1--
-Name: Hover Tank Killer
-Nick Name: Eagle
+Name: Holy Space Monitor
+Nick Name: SS-HSM
 Scores & Strengths:
-  Tech Score: 988
-  Unit Score: 988
-  Average Score: 988
-  Stat Strength: 636
-  Total Strength: 988
-  Planet Strength: 988
-  Space Strength: 0
-  Garrison Strength: 264
+  Tech Score: 725
+  Unit Score: 906
+  Average Score: 816
+  Stat Strength: 575
+  Total Strength: 906
+  Planet Strength: 0
+  Space Strength: 906
+  Garrison Strength: 0
 Statistics:
-  Movement Type: hover
-  Move Points: 14
-  Spot: 6
-  Camouflage: 4
-  Agility: 10
-  Armor: 12
-  Psy Defense: 12
-  Rank: 59
+  Movement Type: space
+  Move Points: 3
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 20
+  Rank: 124
 Attacks:
-  Indirect: 8/16
-  Direct: 12/12
-  Close: 10/8
-Load aboard transport: YES
-Upkeep / Maintenance: 79
-Build Cost: 789
+  Ranged Space: 8/14
+  Direct Space: 6/10
+  Closed Space: 9/7
+  Psychic: 8/12
+Immune to Plague
+Upkeep / Maintenance: 66
+Build Cost: 590
 Build Resource Requirements:
-  Food: 6
-  Energy: 16
-  Metal: 4
-  Trace: 25
-  Exotica: 6
-  Chemicals: 27
-  Electronics: 27
-  Ceramsteel: 9
-  Monopols: 40
-Build Hover Tank Killer in Factory
-Time to Build / Upgrade: 4
-[3905] Technology Required to Build Unit (61):
-  [3905] Hovertech (61)
+  Energy: 2
+  Metal: 35
+  Trace: 12
+  Chemicals: 21
+  Electronics: 11
+  Gems: 12
+Upgrade Clergy to Holy Space Monitor at Church
+Time to Build / Upgrade: 2
+[3325] Technologies Required to Build Unit (85):
+  [700] Rockets (90)
+  [1100] Omen (76)
+  [330] Holy Warriors (82)
+  [1195] Naval Warfare (90)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Hover Tank Killer II
-Nick Name: Eagle II
+Name: Holy Space Dreadstar
+Nick Name: SS-HSDs
 Scores & Strengths:
-  Tech Score: 1600
-  Unit Score: 1524
-  Average Score: 1562
-  Stat Strength: 969
-  Total Strength: 1524
-  Planet Strength: 1524
-  Space Strength: 0
-  Garrison Strength: 359
+  Tech Score: 1068
+  Unit Score: 1603
+  Average Score: 1336
+  Stat Strength: 947
+  Total Strength: 1603
+  Planet Strength: 0
+  Space Strength: 1603
+  Garrison Strength: 0
 Statistics:
-  Movement Type: hover
-  Move Points: 18
-  Spot: 7
-  Camouflage: 5
-  Agility: 11
-  Armor: 15
-  Psy Defense: 15
-  Rank: 71
+  Movement Type: space
+  Move Points: 6
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 13
+  Psy Defense: 26
+  Rank: 810
 Attacks:
-  Indirect: 10/20
-  Direct: 15/15
-  Close: 13/10
-Load aboard transport: YES
-Upkeep / Maintenance: 70
-Build Cost: 702
+  Ranged Space: 5/30
+  Direct Space: 7/24
+  Psychic: 26/13
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 138
+Build Cost: 1376
 Build Resource Requirements:
-  Food: 4
-  Energy: 14
-  Metal: 5
-  Trace: 16
-  Exotica: 4
-  Chemicals: 26
-  Electronics: 26
-  Ceramsteel: 8
-  Monopols: 32
-Build Hover Tank Killer II in Factory
-Time to Build / Upgrade: 3
-[7425] Technology Required to Build Unit (68):
-  [7425] Hovertanks (68)
+  Food: 2
+  Energy: 52
+  Metal: 44
+  Trace: 6
+  Exotica: 3
+  Chemicals: 54
+  Biochems: 3
+  Electronics: 4
+  Gems: 19
+Build Holy Space Dreadstar in Starport
+Time to Build / Upgrade: 4
+[5370] Technologies Required to Build Unit (80):
+  [795] Rocket Propulsion (90)
+  [1520] Psyche (60)
+  [330] Holy Warriors (82)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Power Hover Tank Killer
-Nick Name: Power Eagle
+Name: Holy Space Battlestar
+Nick Name: SS-HSBs
 Scores & Strengths:
-  Tech Score: 2707
-  Unit Score: 2570
-  Average Score: 2639
-  Stat Strength: 1611
-  Total Strength: 2570
-  Planet Strength: 2570
-  Space Strength: 0
-  Garrison Strength: 535
+  Tech Score: 1068
+  Unit Score: 1604
+  Average Score: 1336
+  Stat Strength: 822
+  Total Strength: 1604
+  Planet Strength: 0
+  Space Strength: 1604
+  Garrison Strength: 0
 Statistics:
-  Movement Type: hover
-  Move Points: 23
+  Movement Type: space
+  Move Points: 6
   Spot: 8
-  Camouflage: 7
-  Agility: 13
-  Armor: 20
-  Psy Defense: 20
-  Rank: 91
+  Camouflage: 1
+  Agility: 1
+  Armor: 12
+  Psy Defense: 24
+  Rank: 144
 Attacks:
-  Indirect: 13/26
-  Direct: 20/20
-  Close: 17/13
-Load aboard transport: YES
-Upkeep / Maintenance: 97
-Build Cost: 184
+  Ranged Space: 10/26
+  Direct Space: 13/18
+  Psychic: 24/12
+Immune to Plague
+Upkeep / Maintenance: 81
+Build Cost: 807
 Build Resource Requirements:
-  Metal: 1
-Upgrade Hover Tank Killer to Power Hover Tank Killer at Factory
-Time to Build / Upgrade: 1
-[14975] Technology Required to Build Unit (70):
-  [14975] Power Hovertanks (70)
+  Food: 2
+  Energy: 35
+  Metal: 38
+  Trace: 13
+  Exotica: 2
+  Chemicals: 37
+  Biochems: 7
+  Electronics: 10
+  Gems: 16
+Build Holy Space Battlestar in Starport
+Time to Build / Upgrade: 3
+[5370] Technologies Required to Build Unit (80):
+  [795] Rocket Propulsion (90)
+  [1520] Psyche (60)
+  [330] Holy Warriors (82)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Psy Hover Tank Killer
-Nick Name: Divine Eagle
+Name: Holy Space Dreadnought
+Nick Name: SS-HSDr
 Scores & Strengths:
-  Tech Score: 2735
-  Unit Score: 2734
-  Average Score: 2735
-  Stat Strength: 1937
-  Total Strength: 2734
-  Planet Strength: 2734
-  Space Strength: 2049
-  Garrison Strength: 627
+  Tech Score: 1965
+  Unit Score: 1965
+  Average Score: 1965
+  Stat Strength: 1281
+  Total Strength: 1965
+  Planet Strength: 0
+  Space Strength: 1965
+  Garrison Strength: 0
 Statistics:
-  Movement Type: hover
-  Move Points: 19
-  Spot: 8
-  Camouflage: 6
-  Agility: 14
-  Armor: 16
-  Psy Defense: 32
-  Rank: 86
+  Movement Type: space
+  Move Points: 6
+  Spot: 10
+  Camouflage: 2
+  Agility: 4
+  Armor: 15
+  Psy Defense: 30
+  Rank: 808
 Attacks:
-  Psychic: 8/14
-  Indirect: 11/22
-  Direct: 17/17
-  Close: 14/11
-Load aboard transport: YES
-Upkeep / Maintenance: 153
-Build Cost: 1525
+  Ranged Space: 6/23
+  Direct Space: 6/16
+  Psychic: 30/15
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 136
+Build Cost: 1360
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 8
-  Trace: 8
-  Exotica: 3
+  Food: 2
+  Energy: 16
+  Metal: 24
+  Trace: 3
+  Exotica: 2
   Chemicals: 22
-  Electronics: 20
-  Ceramsteel: 14
-  Monopols: 36
-  Gems: 39
-Build Psy Hover Tank Killer in Factory
-Time to Build / Upgrade: 4
-[15305] Technologies Required to Build Unit (76):
+  Biochems: 2
+  Electronics: 4
+  Ceramsteel: 28
+  Gems: 20
+Build Holy Space Dreadnought in Starport
+Time to Build / Upgrade: 3
+[11230] Technologies Required to Build Unit (74):
+  [2790] Supercruise (86)
   [330] Holy Warriors (82)
-  [14975] Power Hovertanks (70)
+  [2255] Sympathy (Bonding) (45)
+  [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: 3rd-Republic Hover TK
-Nick Name: Crusher
+Name: Holy Space Fast Battlestar
+Nick Name: SS-HSFBs
 Scores & Strengths:
-  Tech Score: 2921
-  Unit Score: 2811
-  Average Score: 2866
-  Stat Strength: 1740
-  Total Strength: 2811
-  Planet Strength: 2811
-  Space Strength: 0
-  Garrison Strength: 573
+  Tech Score: 1965
+  Unit Score: 1965
+  Average Score: 1965
+  Stat Strength: 1169
+  Total Strength: 1965
+  Planet Strength: 0
+  Space Strength: 1965
+  Garrison Strength: 0
 Statistics:
-  Movement Type: hover
-  Move Points: 24
-  Spot: 8
-  Camouflage: 7
-  Agility: 13
-  Armor: 21
-  Psy Defense: 21
-  Rank: 96
+  Movement Type: space
+  Move Points: 8
+  Spot: 10
+  Camouflage: 3
+  Agility: 4
+  Armor: 14
+  Psy Defense: 28
+  Rank: 150
 Attacks:
-  Indirect: 14/28
-  Direct: 21/21
-  Close: 17/14
-Load aboard transport: YES
-Upkeep / Maintenance: 66
-Build Cost: 663
+  Ranged Space: 10/18
+  Direct Space: 14/16
+  Psychic: 28/14
+Immune to Plague
+Upkeep / Maintenance: 82
+Build Cost: 823
 Build Resource Requirements:
   Food: 2
-  Energy: 10
-  Metal: 3
+  Energy: 13
+  Metal: 21
   Trace: 7
   Exotica: 2
-  Chemicals: 18
-  Electronics: 14
-  Ceramsteel: 6
-  Monopols: 26
-Build 3rd-Republic Hover TK in Factory
+  Chemicals: 17
+  Biochems: 4
+  Electronics: 8
+  Ceramsteel: 24
+  Gems: 17
+Build Holy Space Fast Battlestar in Starport
 Time to Build / Upgrade: 3
-[30105] Technologies Required to Build Unit (69):
-  [15130] Fusion Battle Tanks (68)
-  [14975] Power Hovertanks (70)
+[11230] Technologies Required to Build Unit (74):
+  [2790] Supercruise (86)
+  [330] Holy Warriors (82)
+  [2255] Sympathy (Bonding) (45)
+  [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Morph Hover Tank Killer
-Nick Name: Golden Eagle
+Name: Holy Space Super Dreadnought
+Nick Name: SS-HSSDr
 Scores & Strengths:
-  Tech Score: 5182
-  Unit Score: 5176
-  Average Score: 5179
-  Stat Strength: 3520
-  Total Strength: 5176
-  Planet Strength: 5176
-  Space Strength: 0
-  Garrison Strength: 1056
+  Tech Score: 1965
+  Unit Score: 2456
+  Average Score: 2211
+  Stat Strength: 1418
+  Total Strength: 2456
+  Planet Strength: 0
+  Space Strength: 2456
+  Garrison Strength: 0
 Statistics:
-  Movement Type: hover
-  Move Points: 24
-  Spot: 12
-  Camouflage: 10
-  Agility: 30
-  Armor: 30
-  Psy Defense: 30
-  Rank: 130
+  Movement Type: space
+  Move Points: 5
+  Spot: 10
+  Camouflage: 2
+  Agility: 3
+  Armor: 16
+  Psy Defense: 32
+  Rank: 820
 Attacks:
-  Indirect: 18/33
-  Direct: 26/27
-  Close: 20/18
-Load aboard transport: YES
-Upkeep / Maintenance: 138
-Build Cost: 1199
+  Ranged Space: 11/26
+  Direct Space: 12/20
+  Psychic: 32/16
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 171
+Build Cost: 1710
 Build Resource Requirements:
-  Biochems: 30
-  Wetware: 10
-Upgrade Power Hover Tank Killer to Morph Hover Tank Killer at Factory
-Time to Build / Upgrade: 1
-[35535] Technology Required to Build Unit (36):
-  [35535] Polymorphonic Land Vehicles (36)
+  Food: 1
+  Energy: 22
+  Metal: 28
+  Trace: 7
+  Exotica: 2
+  Chemicals: 29
+  Biochems: 3
+  Electronics: 7
+  Ceramsteel: 32
+  Gems: 22
+Build Holy Space Super Dreadnought in Starport
+Time to Build / Upgrade: 4
+[11230] Technologies Required to Build Unit (74):
+  [2790] Supercruise (86)
+  [330] Holy Warriors (82)
+  [2255] Sympathy (Bonding) (45)
+  [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Stealth Hover Tank Killer
-Nick Name: Ghost Eagle
+Name: Sathra Monitor
+Nick Name: JJ-HSM
 Scores & Strengths:
-  Tech Score: 5364
-  Unit Score: 5358
-  Average Score: 5361
-  Stat Strength: 4202
-  Total Strength: 5358
-  Planet Strength: 5358
-  Space Strength: 0
-  Garrison Strength: 1169
+  Tech Score: 2245
+  Unit Score: 2812
+  Average Score: 2528
+  Stat Strength: 1778
+  Total Strength: 2812
+  Planet Strength: 0
+  Space Strength: 2812
+  Garrison Strength: 0
 Statistics:
-  Movement Type: hover
-  Move Points: 21
+  Movement Type: jump
+  Move Points: 5
   Spot: 14
-  Camouflage: 26
-  Agility: 33
-  Armor: 30
-  Psy Defense: 30
-  Rank: 122
+  Camouflage: 2
+  Agility: 2
+  Armor: 18
+  Psy Defense: 35
+  Rank: 179
 Attacks:
-  Indirect: 15/30
-  Direct: 18/25
-  Close: 16/16
-Load aboard transport: YES
-Upkeep / Maintenance: 125
-Build Cost: 1061
+  Ranged Space: 14/25
+  Direct Space: 11/18
+  Closed Space: 16/12
+  Psychic: 14/21
+Immune to Plague
+Upkeep / Maintenance: 294
+Build Cost: 2867
 Build Resource Requirements:
-  Biochems: 25
-  Wetware: 8
-Upgrade Power Hover Tank Killer to Stealth Hover Tank Killer at Factory
-Time to Build / Upgrade: 1
-[37210] Technology Required to Build Unit (34):
-  [37210] Neumonic Land Vehicles (34)
+  Metal: 28
+  Trace: 11
+  Chemicals: 27
+  Biochems: 5
+  Electronics: 14
+  Ceramsteel: 37
+  Gems: 28
+S  ingularities: 2
+Upgrade Clergy to Sathra Monitor at Church
+Time to Build / Upgrade: 3
+[13980] Technologies Required to Build Unit (71):
+  [4530] Hypersonics (83)
+  [330] Holy Warriors (82)
+  [2465] Sathra (36)
+  [6655] PTS Missile Navalcraft (83)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Sathra Dreadstar
+Nick Name: JJ-HSDs
+Scores & Strengths:
+  Tech Score: 2544
+  Unit Score: 3808
+  Average Score: 3176
+  Stat Strength: 2233
+  Total Strength: 3808
+  Planet Strength: 0
+  Space Strength: 3808
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 9
+  Spot: 12
+  Camouflage: 2
+  Agility: 2
+  Armor: 20
+  Psy Defense: 40
+  Rank: 871
+Attacks:
+  Ranged Space: 8/46
+  Direct Space: 11/37
+  Psychic: 40/20
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 599
+Build Cost: 5994
+Build Resource Requirements:
+  Food: 2
+  Energy: 55
+  Metal: 35
+  Trace: 5
+  Exotica: 2
+  Chemicals: 75
+  Biochems: 3
+  Electronics: 6
+  Ceramsteel: 43
+  Gems: 26
+S  ingularities: 3
+Build Sathra Dreadstar in Starport
+Time to Build / Upgrade: 5
+[16135] Technologies Required to Build Unit (68):
+  [4920] Hypercruise (82)
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Sathra Battlestar
+Nick Name: JJ-HSBs
+Scores & Strengths:
+  Tech Score: 2544
+  Unit Score: 3826
+  Average Score: 3185
+  Stat Strength: 1963
+  Total Strength: 3826
+  Planet Strength: 0
+  Space Strength: 3826
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 9
+  Spot: 12
+  Camouflage: 2
+  Agility: 2
+  Armor: 19
+  Psy Defense: 37
+  Rank: 205
+Attacks:
+  Ranged Space: 15/40
+  Direct Space: 20/28
+  Psychic: 37/19
+Immune to Plague
+Upkeep / Maintenance: 389
+Build Cost: 3891
+Build Resource Requirements:
+  Food: 2
+  Energy: 38
+  Metal: 31
+  Trace: 11
+  Exotica: 2
+  Chemicals: 53
+  Biochems: 6
+  Electronics: 13
+  Ceramsteel: 38
+  Gems: 23
+S  ingularities: 3
+Build Sathra Battlestar in Starport
+Time to Build / Upgrade: 5
+[16135] Technologies Required to Build Unit (68):
+  [4920] Hypercruise (82)
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Sathra Dreadnought
+Nick Name: JJ-HSDr
+Scores & Strengths:
+  Tech Score: 4814
+  Unit Score: 4750
+  Average Score: 4782
+  Stat Strength: 3120
+  Total Strength: 4750
+  Planet Strength: 0
+  Space Strength: 4750
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 9
+  Spot: 16
+  Camouflage: 3
+  Agility: 6
+  Armor: 23
+  Psy Defense: 47
+  Rank: 873
+Attacks:
+  Ranged Space: 9/36
+  Direct Space: 9/25
+  Psychic: 47/23
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 789
+Build Cost: 7893
+Build Resource Requirements:
+  Food: 1
+  Energy: 10
+  Metal: 9
+  Trace: 3
+  Exotica: 1
+  Chemicals: 19
+  Biochems: 1
+  Electronics: 9
+  Ceramsteel: 17
+  Monopols: 32
+  Gems: 31
+S  ingularities: 3
+Build Sathra Dreadnought in Starport
+Time to Build / Upgrade: 4
+[39650] Technologies Required to Build Unit (63):
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [3835] Sathra's Space Doctrine (17)
+  [27875] PTS Meson Navalcraft (74)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Sathra Fast Battlestar
+Nick Name: JJ-HSFBs
+Scores & Strengths:
+  Tech Score: 4814
+  Unit Score: 4872
+  Average Score: 4843
+  Stat Strength: 2906
+  Total Strength: 4872
+  Planet Strength: 0
+  Space Strength: 4872
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 13
+  Spot: 16
+  Camouflage: 5
+  Agility: 6
+  Armor: 22
+  Psy Defense: 44
+  Rank: 220
+Attacks:
+  Ranged Space: 16/28
+  Direct Space: 22/25
+  Psychic: 44/22
+Immune to Plague
+Upkeep / Maintenance: 571
+Build Cost: 5714
+Build Resource Requirements:
+  Food: 1
+  Energy: 8
+  Metal: 8
+  Trace: 6
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 3
+  Electronics: 15
+  Ceramsteel: 15
+  Monopols: 27
+  Gems: 28
+S  ingularities: 4
+Build Sathra Fast Battlestar in Starport
+Time to Build / Upgrade: 4
+[39650] Technologies Required to Build Unit (63):
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [3835] Sathra's Space Doctrine (17)
+  [27875] PTS Meson Navalcraft (74)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Sathra Super Dreadnought
+Nick Name: JJ-HSSDr
+Scores & Strengths:
+  Tech Score: 4814
+  Unit Score: 6015
+  Average Score: 5415
+  Stat Strength: 3479
+  Total Strength: 6015
+  Planet Strength: 0
+  Space Strength: 6015
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 8
+  Spot: 16
+  Camouflage: 3
+  Agility: 5
+  Armor: 25
+  Psy Defense: 50
+  Rank: 895
+Attacks:
+  Ranged Space: 17/41
+  Direct Space: 19/31
+  Psychic: 50/25
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 950
+Build Cost: 9502
+Build Resource Requirements:
+  Food: 1
+  Energy: 14
+  Metal: 11
+  Trace: 6
+  Exotica: 1
+  Chemicals: 25
+  Biochems: 3
+  Electronics: 14
+  Ceramsteel: 19
+  Monopols: 40
+  Gems: 36
+S  ingularities: 3
+Build Sathra Super Dreadnought in Starport
+Time to Build / Upgrade: 5
+[39650] Technologies Required to Build Unit (63):
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [3835] Sathra's Space Doctrine (17)
+  [27875] PTS Meson Navalcraft (74)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

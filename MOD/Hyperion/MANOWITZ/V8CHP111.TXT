@@ -1,371 +1,681 @@
-All units of the unit class Space Monitor are listed herein (8 in total):
+All units of the unit class Holy Space Fighter are listed herein (15 in total):
 
 --1--
-Name: Space Monitor
-Nick Name: SS-BM
+Name: Holy Space Fighter
+Nick Name: SS-HSF
 Scores & Strengths:
-  Tech Score: 369
-  Unit Score: 368
-  Average Score: 368
-  Stat Strength: 309
-  Total Strength: 368
+  Tech Score: 364
+  Unit Score: 364
+  Average Score: 364
+  Stat Strength: 283
+  Total Strength: 364
   Planet Strength: 0
-  Space Strength: 368
+  Space Strength: 364
   Garrison Strength: 0
 Statistics:
   Movement Type: space
   Move Points: 1
   Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 11
-  Psy Defense: 11
-  Rank: 116
+  Camouflage: 2
+  Agility: 13
+  Armor: 3
+  Psy Defense: 6
+  Rank: 54
 Attacks:
-  Ranged Space: 1/11
-  Direct Space: 2/10
-  Closed Space: 4/7
+  Closed Space: 7/8
+  Psychic: 5/5
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 20
-Build Cost: 201
+Upkeep / Maintenance: 43
+Build Cost: 359
 Build Resource Requirements:
-  Food: 6
-  Energy: 27
-  Metal: 49
-  Trace: 10
-  Exotica: 5
-  Chemicals: 48
-  Electronics: 6
-Build Space Monitor in Starport
-Time to Build / Upgrade: 3
-[1270] Technologies Required to Build Unit (96):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [100] Psychosocial Engineering (100)
+  Energy: 1
+  Metal: 8
+  Trace: 30
+  Chemicals: 23
+  Electronics: 21
+  Gems: 4
+Upgrade Clergy to Holy Space Fighter at Church
+Time to Build / Upgrade: 1
+[1030] Technologies Required to Build Unit (86):
+  [700] Rockets (90)
+  [330] Holy Warriors (82)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Jump Monitor
-Nick Name: JJ-BM
+Name: Holy Light Space Fighter
+Nick Name: SS;HLSF
 Scores & Strengths:
-  Tech Score: 455
-  Unit Score: 421
-  Average Score: 438
-  Stat Strength: 355
-  Total Strength: 421
+  Tech Score: 364
+  Unit Score: 364
+  Average Score: 364
+  Stat Strength: 285
+  Total Strength: 364
   Planet Strength: 0
-  Space Strength: 421
+  Space Strength: 364
   Garrison Strength: 0
 Statistics:
-  Movement Type: jump
+  Movement Type: space
   Move Points: 1
   Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 12
-  Psy Defense: 12
-  Rank: 142
+  Camouflage: 2
+  Agility: 14
+  Armor: 2
+  Psy Defense: 4
+  Rank: 54
 Attacks:
-  Ranged Space: 1/12
-  Direct Space: 2/11
-  Closed Space: 4/8
+  Closed Space: 11/5
+  Psychic: 6/4
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 94
-Build Cost: 940
+Upkeep / Maintenance: 39
+Build Cost: 320
 Build Resource Requirements:
-  Food: 5
-  Energy: 32
-  Metal: 50
-  Trace: 9
-  Exotica: 5
-  Chemicals: 57
-  Electronics: 7
-S  ingularities: 1
-Build Jump Monitor in Starport
-Time to Build / Upgrade: 3
-[1710] Technologies Required to Build Unit (93):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [100] Psychosocial Engineering (100)
-  [1235] Jump Rocketry (76)
+  Metal: 2
+  Trace: 44
+  Chemicals: 19
+  Electronics: 30
+  Gems: 1
+Upgrade Clergy to Holy Light Space Fighter at Church
+Time to Build / Upgrade: 1
+[1030] Technologies Required to Build Unit (86):
+  [700] Rockets (90)
+  [330] Holy Warriors (82)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Space Battlestar
-Nick Name: SS-BB
+Name: Holy Heavy Space Fighter
+Nick Name: SS-HHSF
 Scores & Strengths:
-  Tech Score: 387
-  Unit Score: 581
-  Average Score: 484
-  Stat Strength: 355
-  Total Strength: 581
+  Tech Score: 364
+  Unit Score: 364
+  Average Score: 364
+  Stat Strength: 293
+  Total Strength: 364
   Planet Strength: 0
-  Space Strength: 581
+  Space Strength: 364
   Garrison Strength: 0
 Statistics:
   Movement Type: space
   Move Points: 1
   Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 12
-  Psy Defense: 12
-  Rank: 130
+  Camouflage: 2
+  Agility: 12
+  Armor: 4
+  Psy Defense: 8
+  Rank: 54
 Attacks:
-  Ranged Space: 4/25
-  Direct Space: 7/18
+  Closed Space: 5/10
+  Psychic: 3/7
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 39
-Build Cost: 387
+Upkeep / Maintenance: 60
+Build Cost: 524
 Build Resource Requirements:
-  Food: 5
-  Energy: 79
-  Metal: 52
-  Trace: 13
-  Exotica: 5
-  Chemicals: 108
-  Electronics: 8
-Build Space Battlestar in Starport
-Time to Build / Upgrade: 4
-[1500] Technologies Required to Build Unit (95):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [170] Fire Control System (89)
-  [795] Rocket Propulsion (90)
-  [100] Psychosocial Engineering (100)
-  [60] Torpedo (98)
+  Energy: 4
+  Metal: 17
+  Trace: 25
+  Chemicals: 27
+  Electronics: 17
+  Gems: 10
+Upgrade Clergy to Holy Heavy Space Fighter at Church
+Time to Build / Upgrade: 1
+[1030] Technologies Required to Build Unit (86):
+  [700] Rockets (90)
+  [330] Holy Warriors (82)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Jump Battlestar
-Nick Name: JJ-BB
+Name: Holy Heavy Space Fighter II
+Nick Name: SS-HHSF II
 Scores & Strengths:
-  Tech Score: 472
-  Unit Score: 677
-  Average Score: 575
-  Stat Strength: 405
-  Total Strength: 677
+  Tech Score: 725
+  Unit Score: 728
+  Average Score: 727
+  Stat Strength: 548
+  Total Strength: 728
   Planet Strength: 0
-  Space Strength: 677
+  Space Strength: 728
   Garrison Strength: 0
 Statistics:
-  Movement Type: jump
-  Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 13
-  Psy Defense: 13
-  Rank: 159
+  Movement Type: space
+  Move Points: 6
+  Spot: 10
+  Camouflage: 6
+  Agility: 14
+  Armor: 6
+  Psy Defense: 12
+  Rank: 57
 Attacks:
-  Ranged Space: 4/28
-  Direct Space: 8/20
+  Closed Space: 8/12
+  Psychic: 6/14
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 113
-Build Cost: 1133
+Upkeep / Maintenance: 79
+Build Cost: 717
 Build Resource Requirements:
-  Food: 5
-  Energy: 98
-  Metal: 53
-  Trace: 13
-  Exotica: 4
-  Chemicals: 134
-  Electronics: 10
-S  ingularities: 1
-Build Jump Battlestar in Starport
-Time to Build / Upgrade: 5
-[1940] Technologies Required to Build Unit (93):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [170] Fire Control System (89)
-  [100] Psychosocial Engineering (100)
-  [60] Torpedo (98)
-  [1235] Jump Rocketry (76)
+  Metal: 11
+  Trace: 16
+  Chemicals: 15
+  Electronics: 14
+  Gems: 17
+Upgrade Clergy to Holy Heavy Space Fighter II at Church
+Time to Build / Upgrade: 1
+[3325] Technologies Required to Build Unit (85):
+  [700] Rockets (90)
+  [1100] Omen (76)
+  [330] Holy Warriors (82)
+  [1195] Naval Warfare (90)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Space Fast Battlestar
-Nick Name: SS-BF
+Name: Holy Light Space Fighter II
+Nick Name: SS;HLSF II
 Scores & Strengths:
-  Tech Score: 2916
-  Unit Score: 2916
-  Average Score: 2916
-  Stat Strength: 2400
-  Total Strength: 2916
+  Tech Score: 725
+  Unit Score: 730
+  Average Score: 728
+  Stat Strength: 508
+  Total Strength: 730
   Planet Strength: 0
-  Space Strength: 2916
+  Space Strength: 730
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 15
-  Spot: 12
-  Camouflage: 3
-  Agility: 10
-  Armor: 31
-  Psy Defense: 31
-  Rank: 169
+  Move Points: 6
+  Spot: 10
+  Camouflage: 6
+  Agility: 16
+  Armor: 4
+  Psy Defense: 8
+  Rank: 57
 Attacks:
-  Ranged Space: 6/36
-  Direct Space: 10/30
+  Closed Space: 14/9
+  Psychic: 12/8
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 280
-Build Cost: 2795
+Upkeep / Maintenance: 40
+Build Cost: 330
 Build Resource Requirements:
-  Food: 1
-  Energy: 17
-  Metal: 13
-  Trace: 4
-  Exotica: 2
-  Chemicals: 28
-  Biochems: 22
-  Electronics: 6
-  Ceramsteel: 16
-  Monopols: 42
-Build Space Fast Battlestar in Starport
-Time to Build / Upgrade: 4
-[16530] Technology Required to Build Unit (80):
-  [16530] Space Capital Ships (80)
+  Metal: 3
+  Trace: 25
+  Chemicals: 13
+  Electronics: 22
+  Gems: 4
+Upgrade Clergy to Holy Light Space Fighter II at Church
+Time to Build / Upgrade: 1
+[3325] Technologies Required to Build Unit (85):
+  [700] Rockets (90)
+  [1100] Omen (76)
+  [330] Holy Warriors (82)
+  [1195] Naval Warfare (90)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Space Pocket Battlestar
-Nick Name: SS-BP
+Name: Holy Space Fighter II
+Nick Name: SS-HSF II
 Scores & Strengths:
-  Tech Score: 2916
-  Unit Score: 2917
-  Average Score: 2916
-  Stat Strength: 2451
-  Total Strength: 2917
+  Tech Score: 725
+  Unit Score: 732
+  Average Score: 729
+  Stat Strength: 522
+  Total Strength: 732
   Planet Strength: 0
-  Space Strength: 2917
+  Space Strength: 732
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 13
-  Spot: 12
-  Camouflage: 3
-  Agility: 9
-  Armor: 32
-  Psy Defense: 32
-  Rank: 169
+  Move Points: 6
+  Spot: 10
+  Camouflage: 6
+  Agility: 15
+  Armor: 5
+  Psy Defense: 10
+  Rank: 57
 Attacks:
-  Ranged Space: 5/42
-  Direct Space: 8/32
+  Closed Space: 10/11
+  Psychic: 10/10
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 322
-Build Cost: 3217
+Upkeep / Maintenance: 50
+Build Cost: 427
 Build Resource Requirements:
-  Food: 1
-  Energy: 20
-  Metal: 14
-  Trace: 3
-  Exotica: 2
-  Chemicals: 33
-  Biochems: 24
-  Electronics: 5
-  Ceramsteel: 17
-  Monopols: 49
-Build Space Pocket Battlestar in Starport
-Time to Build / Upgrade: 4
-[16530] Technology Required to Build Unit (80):
-  [16530] Space Capital Ships (80)
+  Metal: 6
+  Trace: 19
+  Chemicals: 15
+  Electronics: 17
+  Gems: 7
+Upgrade Clergy to Holy Space Fighter II at Church
+Time to Build / Upgrade: 1
+[3325] Technologies Required to Build Unit (85):
+  [700] Rockets (90)
+  [1100] Omen (76)
+  [330] Holy Warriors (82)
+  [1195] Naval Warfare (90)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Jump Pocket Battlestar
-Nick Name: JJ-BP
+Name: Holy Space Fighter III
+Nick Name: SS-HSF III
 Scores & Strengths:
-  Tech Score: 5589
-  Unit Score: 5419
-  Average Score: 5504
-  Stat Strength: 4529
-  Total Strength: 5419
+  Tech Score: 1706
+  Unit Score: 1706
+  Average Score: 1706
+  Stat Strength: 1222
+  Total Strength: 1706
   Planet Strength: 0
-  Space Strength: 5419
+  Space Strength: 1706
   Garrison Strength: 0
 Statistics:
-  Movement Type: jump
-  Move Points: 18
-  Spot: 14
-  Camouflage: 4
-  Agility: 11
-  Armor: 44
-  Psy Defense: 44
-  Rank: 235
+  Movement Type: space
+  Move Points: 12
+  Spot: 12
+  Camouflage: 8
+  Agility: 25
+  Armor: 7
+  Psy Defense: 14
+  Rank: 67
 Attacks:
-  Ranged Space: 7/58
-  Direct Space: 11/44
+  Closed Space: 21/14
+  Psychic: 19/10
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 757
-Build Cost: 7566
+Upkeep / Maintenance: 60
+Build Cost: 526
 Build Resource Requirements:
-  Food: 1
-  Energy: 23
-  Metal: 13
-  Trace: 2
-  Exotica: 1
-  Chemicals: 40
-  Biochems: 25
-  Electronics: 10
-  Ceramsteel: 19
-  Monopols: 64
-S  ingularities: 4
-Build Jump Pocket Battlestar in Starport
-Time to Build / Upgrade: 5
-[39365] Technology Required to Build Unit (61):
-  [39365] Jump Capital Ships (61)
+  Metal: 3
+  Trace: 20
+  Chemicals: 16
+  Biochems: 11
+  Electronics: 23
+  Ceramsteel: 7
+  Gems: 5
+Upgrade Clergy to Holy Space Fighter III at Church
+Time to Build / Upgrade: 2
+[9400] Technologies Required to Build Unit (74):
+  [2585] Supersonics (87)
+  [330] Holy Warriors (82)
+  [1790] Sixth Sense (45)
+  [4695] Advanced Minor Watercraft (83)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Jump Fast Battlestar
-Nick Name: JJ-BF
+Name: Holy Light Space Fighter III
+Nick Name: SS;HLSF III
 Scores & Strengths:
-  Tech Score: 5589
-  Unit Score: 5483
-  Average Score: 5536
-  Stat Strength: 4495
-  Total Strength: 5483
+  Tech Score: 1706
+  Unit Score: 1706
+  Average Score: 1706
+  Stat Strength: 1208
+  Total Strength: 1706
   Planet Strength: 0
-  Space Strength: 5483
+  Space Strength: 1706
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 12
+  Spot: 12
+  Camouflage: 8
+  Agility: 26
+  Armor: 6
+  Psy Defense: 12
+  Rank: 67
+Attacks:
+  Closed Space: 23/14
+  Psychic: 22/8
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 51
+Build Cost: 440
+Build Resource Requirements:
+  Metal: 1
+  Trace: 23
+  Chemicals: 17
+  Biochems: 12
+  Electronics: 26
+  Ceramsteel: 5
+  Gems: 3
+Upgrade Clergy to Holy Light Space Fighter III at Church
+Time to Build / Upgrade: 2
+[9400] Technologies Required to Build Unit (74):
+  [2585] Supersonics (87)
+  [330] Holy Warriors (82)
+  [1790] Sixth Sense (45)
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Holy Heavy Space Fighter III
+Nick Name: SS-HHSF III
+Scores & Strengths:
+  Tech Score: 1706
+  Unit Score: 1706
+  Average Score: 1706
+  Stat Strength: 1248
+  Total Strength: 1706
+  Planet Strength: 0
+  Space Strength: 1706
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 12
+  Spot: 12
+  Camouflage: 8
+  Agility: 24
+  Armor: 8
+  Psy Defense: 16
+  Rank: 67
+Attacks:
+  Closed Space: 19/16
+  Psychic: 14/11
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 64
+Build Cost: 570
+Build Resource Requirements:
+  Metal: 5
+  Trace: 18
+  Chemicals: 17
+  Biochems: 10
+  Electronics: 20
+  Ceramsteel: 9
+  Gems: 7
+Upgrade Clergy to Holy Heavy Space Fighter III at Church
+Time to Build / Upgrade: 2
+[9400] Technologies Required to Build Unit (74):
+  [2585] Supersonics (87)
+  [330] Holy Warriors (82)
+  [1790] Sixth Sense (45)
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Sathra Heavy Fighter
+Nick Name: JJ-HHSF
+Scores & Strengths:
+  Tech Score: 2544
+  Unit Score: 2572
+  Average Score: 2558
+  Stat Strength: 1891
+  Total Strength: 2572
+  Planet Strength: 0
+  Space Strength: 2572
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
-  Move Points: 21
-  Spot: 14
-  Camouflage: 4
-  Agility: 12
-  Armor: 43
-  Psy Defense: 43
-  Rank: 236
+  Move Points: 15
+  Spot: 15
+  Camouflage: 10
+  Agility: 29
+  Armor: 10
+  Psy Defense: 20
+  Rank: 101
 Attacks:
-  Ranged Space: 8/50
-  Direct Space: 14/42
+  Closed Space: 23/20
+  Psychic: 17/13
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 766
-Build Cost: 7663
+Upkeep / Maintenance: 357
+Build Cost: 3500
 Build Resource Requirements:
-  Food: 1
-  Energy: 19
-  Metal: 12
-  Trace: 3
-  Exotica: 2
-  Chemicals: 34
-  Biochems: 23
-  Electronics: 11
-  Ceramsteel: 18
-  Monopols: 56
-S  ingularities: 5
-Build Jump Fast Battlestar in Starport
-Time to Build / Upgrade: 4
-[39365] Technology Required to Build Unit (61):
-  [39365] Jump Capital Ships (61)
+  Metal: 6
+  Trace: 19
+  Chemicals: 21
+  Biochems: 10
+  Electronics: 24
+  Ceramsteel: 11
+  Gems: 6
+S  ingularities: 4
+Upgrade Clergy to Sathra Heavy Fighter at Church
+Time to Build / Upgrade: 2
+[16135] Technologies Required to Build Unit (68):
+  [4920] Hypercruise (82)
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Sathra Light Fighter
+Nick Name: SS;HLSF
+Scores & Strengths:
+  Tech Score: 2544
+  Unit Score: 2594
+  Average Score: 2569
+  Stat Strength: 1848
+  Total Strength: 2594
+  Planet Strength: 0
+  Space Strength: 2594
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 15
+  Spot: 15
+  Camouflage: 10
+  Agility: 32
+  Armor: 7
+  Psy Defense: 15
+  Rank: 101
+Attacks:
+  Closed Space: 28/17
+  Psychic: 27/10
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 351
+Build Cost: 3440
+Build Resource Requirements:
+  Metal: 2
+  Trace: 24
+  Chemicals: 20
+  Biochems: 13
+  Electronics: 31
+  Ceramsteel: 6
+  Gems: 3
+S  ingularities: 4
+Upgrade Clergy to Sathra Light Fighter at Church
+Time to Build / Upgrade: 2
+[16135] Technologies Required to Build Unit (68):
+  [4920] Hypercruise (82)
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Sathra Fighter
+Nick Name: JJ-HSF
+Scores & Strengths:
+  Tech Score: 2544
+  Unit Score: 2599
+  Average Score: 2571
+  Stat Strength: 1881
+  Total Strength: 2599
+  Planet Strength: 0
+  Space Strength: 2599
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 15
+  Spot: 15
+  Camouflage: 10
+  Agility: 31
+  Armor: 9
+  Psy Defense: 17
+  Rank: 101
+Attacks:
+  Closed Space: 26/17
+  Psychic: 23/12
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 356
+Build Cost: 3490
+Build Resource Requirements:
+  Metal: 4
+  Trace: 22
+  Chemicals: 20
+  Biochems: 12
+  Electronics: 28
+  Ceramsteel: 8
+  Gems: 5
+S  ingularities: 4
+Upgrade Clergy to Sathra Fighter at Church
+Time to Build / Upgrade: 2
+[16135] Technologies Required to Build Unit (68):
+  [4920] Hypercruise (82)
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--13--
+Name: Sathra Heavy Fighter II
+Nick Name: JJ-HHSF
+Scores & Strengths:
+  Tech Score: 4814
+  Unit Score: 4763
+  Average Score: 4789
+  Stat Strength: 3467
+  Total Strength: 4763
+  Planet Strength: 0
+  Space Strength: 4763
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 20
+  Spot: 20
+  Camouflage: 13
+  Agility: 40
+  Armor: 13
+  Psy Defense: 27
+  Rank: 123
+Attacks:
+  Closed Space: 32/27
+  Psychic: 24/18
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 613
+Build Cost: 6052
+Build Resource Requirements:
+  Trace: 14
+  Chemicals: 16
+  Biochems: 8
+  Electronics: 26
+  Ceramsteel: 6
+  Monopols: 21
+  Gems: 14
+S  ingularities: 4
+Upgrade Clergy to Sathra Heavy Fighter II at Church
+Time to Build / Upgrade: 3
+[39650] Technologies Required to Build Unit (63):
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [3835] Sathra's Space Doctrine (17)
+  [27875] PTS Meson Navalcraft (74)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--14--
+Name: Sathra Light Fighter II
+Nick Name: SS;HLSF
+Scores & Strengths:
+  Tech Score: 4814
+  Unit Score: 4822
+  Average Score: 4818
+  Stat Strength: 3405
+  Total Strength: 4822
+  Planet Strength: 0
+  Space Strength: 4822
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 20
+  Spot: 20
+  Camouflage: 13
+  Agility: 44
+  Armor: 10
+  Psy Defense: 20
+  Rank: 123
+Attacks:
+  Closed Space: 39/24
+  Psychic: 37/13
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 591
+Build Cost: 5838
+Build Resource Requirements:
+  Trace: 18
+  Chemicals: 16
+  Biochems: 10
+  Electronics: 32
+  Ceramsteel: 3
+  Monopols: 19
+  Gems: 6
+S  ingularities: 4
+Upgrade Clergy to Sathra Light Fighter II at Church
+Time to Build / Upgrade: 3
+[39650] Technologies Required to Build Unit (63):
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [3835] Sathra's Space Doctrine (17)
+  [27875] PTS Meson Navalcraft (74)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--15--
+Name: Sathra Fighter II
+Nick Name: JJ-HSF
+Scores & Strengths:
+  Tech Score: 4814
+  Unit Score: 4837
+  Average Score: 4826
+  Stat Strength: 3453
+  Total Strength: 4837
+  Planet Strength: 0
+  Space Strength: 4837
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 20
+  Spot: 20
+  Camouflage: 13
+  Agility: 42
+  Armor: 12
+  Psy Defense: 24
+  Rank: 123
+Attacks:
+  Closed Space: 35/24
+  Psychic: 32/17
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 609
+Build Cost: 6013
+Build Resource Requirements:
+  Trace: 16
+  Chemicals: 15
+  Biochems: 8
+  Electronics: 29
+  Ceramsteel: 4
+  Monopols: 20
+  Gems: 12
+S  ingularities: 4
+Upgrade Clergy to Sathra Fighter II at Church
+Time to Build / Upgrade: 3
+[39650] Technologies Required to Build Unit (63):
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [3835] Sathra's Space Doctrine (17)
+  [27875] PTS Meson Navalcraft (74)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

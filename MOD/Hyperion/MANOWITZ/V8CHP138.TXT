@@ -1,452 +1,387 @@
-All units of the unit class Transport Helicopter are listed herein (10 in total):
+All units of the unit class Space Dreadnought Battlestar are listed herein (8 in total):
 
 --1--
-Name: Transport Helicopter
-Nick Name: A-HX
+Name: Space Dreadnought Battlestar
+Nick Name: SS-BDB
 Scores & Strengths:
-  Tech Score: 618
-  Unit Score: 620
-  Average Score: 619
-  Stat Strength: 620
-  Total Strength: 620
-  Planet Strength: 620
-  Space Strength: 0
-  Garrison Strength: 206
+  Tech Score: 395
+  Unit Score: 591
+  Average Score: 493
+  Stat Strength: 405
+  Total Strength: 591
+  Planet Strength: 0
+  Space Strength: 591
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 9
-  Spot: 6
-  Camouflage: 6
-  Agility: 15
-  Armor: 11
-  Psy Defense: 11
-  Rank: 91
-Cargo Space: 1
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 11
-Build Cost: 112
+  Movement Type: space
+  Move Points: 1
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 13
+  Psy Defense: 13
+  Rank: 797
+Attacks:
+  Ranged Space: 3/27
+  Direct Space: 5/21
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 68
+Build Cost: 678
 Build Resource Requirements:
-  Food: 7
-  Energy: 12
-  Metal: 166
-  Trace: 11
-  Exotica: 7
-  Chemicals: 13
-  Electronics: 12
-Build Transport Helicopter in Factory
-Time to Build / Upgrade: 3
-[2090] Technology Required to Build Unit (85):
-  [2090] Rotorcraft (85)
+  Food: 5
+  Energy: 97
+  Metal: 60
+  Trace: 10
+  Exotica: 5
+  Chemicals: 132
+  Electronics: 6
+Build Space Dreadnought Battlestar in Starport
+Time to Build / Upgrade: 5
+[1530] Technologies Required to Build Unit (95):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [200] Admiralty Fire Control Table (87)
+  [795] Rocket Propulsion (90)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Cargo Helicopter
-Nick Name: A-HCC
+Name: Jump Dreadnought Battlestar
+Nick Name: JJ-BDB
 Scores & Strengths:
-  Tech Score: 729
-  Unit Score: 724
-  Average Score: 727
-  Stat Strength: 724
-  Total Strength: 724
-  Planet Strength: 724
-  Space Strength: 0
-  Garrison Strength: 255
+  Tech Score: 480
+  Unit Score: 687
+  Average Score: 583
+  Stat Strength: 459
+  Total Strength: 687
+  Planet Strength: 0
+  Space Strength: 687
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 8
-  Spot: 6
-  Camouflage: 6
-  Agility: 14
+  Movement Type: jump
+  Move Points: 1
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
   Armor: 14
   Psy Defense: 14
-  Rank: 102
-Cargo Space: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 10
-Build Cost: 96
+  Rank: 826
+Attacks:
+  Ranged Space: 3/30
+  Direct Space: 6/23
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 181
+Build Cost: 1810
 Build Resource Requirements:
-  Food: 4
-  Energy: 6
-  Metal: 160
-  Trace: 6
+  Food: 5
+  Energy: 119
+  Metal: 61
+  Trace: 10
   Exotica: 4
-  Chemicals: 7
+  Chemicals: 160
   Electronics: 7
-Build Cargo Helicopter in Factory
-Time to Build / Upgrade: 3
-[4060] Technologies Required to Build Unit (86):
-  [2090] Rotorcraft (85)
-  [1970] Cargo Handling (87)
+S  ingularities: 1
+Build Jump Dreadnought Battlestar in Starport
+Time to Build / Upgrade: 5
+[1970] Technologies Required to Build Unit (93):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [200] Admiralty Fire Control Table (87)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
+  [1235] Jump Rocketry (76)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Transport Helicopter II
-Nick Name: A-HX II
+Name: Space Dreadnought
+Nick Name: SS-BD
 Scores & Strengths:
-  Tech Score: 1117
-  Unit Score: 996
-  Average Score: 1057
-  Stat Strength: 996
-  Total Strength: 996
-  Planet Strength: 996
-  Space Strength: 0
-  Garrison Strength: 287
+  Tech Score: 2916
+  Unit Score: 2916
+  Average Score: 2916
+  Stat Strength: 2534
+  Total Strength: 2916
+  Planet Strength: 0
+  Space Strength: 2916
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
+  Movement Type: space
   Move Points: 12
-  Spot: 7
-  Camouflage: 8
-  Agility: 17
-  Armor: 15
-  Psy Defense: 15
-  Rank: 96
-Cargo Space: 1
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 5
-Build Cost: 48
+  Spot: 12
+  Camouflage: 2
+  Agility: 8
+  Armor: 33
+  Psy Defense: 33
+  Rank: 834
+Attacks:
+  Ranged Space: 4/46
+  Direct Space: 6/33
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 532
+Build Cost: 5316
 Build Resource Requirements:
-  Food: 4
-  Energy: 6
-  Metal: 35
-  Trace: 6
-  Exotica: 4
-  Chemicals: 7
-  Biochems: 4
-  Electronics: 6
-Build Transport Helicopter II in Factory
-Time to Build / Upgrade: 2
-[6625] Technologies Required to Build Unit (86):
-  [2090] Rotorcraft (85)
-  [1810] Jet-Propulsion Aircraft (86)
-  [2725] Naval Capital Ships (88)
+  Food: 1
+  Energy: 23
+  Metal: 15
+  Trace: 2
+  Exotica: 1
+  Chemicals: 37
+  Biochems: 26
+  Electronics: 4
+  Ceramsteel: 18
+  Monopols: 54
+Build Space Dreadnought in Starport
+Time to Build / Upgrade: 4
+[16530] Technology Required to Build Unit (80):
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Cargo Helicopter II
-Nick Name: A-HCC II
+Name: Space Super Dreadnought
+Nick Name: SS-BSD
 Scores & Strengths:
-  Tech Score: 1146
-  Unit Score: 1117
-  Average Score: 1132
-  Stat Strength: 1117
-  Total Strength: 1117
-  Planet Strength: 1117
-  Space Strength: 0
-  Garrison Strength: 353
+  Tech Score: 2916
+  Unit Score: 2916
+  Average Score: 2916
+  Stat Strength: 2630
+  Total Strength: 2916
+  Planet Strength: 0
+  Space Strength: 2916
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 10
-  Spot: 7
-  Camouflage: 8
-  Agility: 16
-  Armor: 18
-  Psy Defense: 18
-  Rank: 106
-Cargo Space: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 5
-Build Cost: 48
+  Movement Type: space
+  Move Points: 11
+  Spot: 12
+  Camouflage: 2
+  Agility: 7
+  Armor: 34
+  Psy Defense: 34
+  Rank: 829
+Attacks:
+  Ranged Space: 3/47
+  Direct Space: 5/29
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 523
+Build Cost: 5231
 Build Resource Requirements:
-  Food: 3
-  Energy: 4
-  Metal: 48
-  Trace: 5
-  Exotica: 3
-  Chemicals: 5
-  Biochems: 2
-  Electronics: 5
-Build Cargo Helicopter II in Factory
-Time to Build / Upgrade: 2
-[8595] Technologies Required to Build Unit (87):
-  [2090] Rotorcraft (85)
-  [1810] Jet-Propulsion Aircraft (86)
-  [2725] Naval Capital Ships (88)
-  [1970] Cargo Handling (87)
+  Food: 1
+  Energy: 22
+  Metal: 16
+  Trace: 2
+  Exotica: 1
+  Chemicals: 36
+  Biochems: 26
+  Electronics: 3
+  Ceramsteel: 19
+  Monopols: 53
+Build Space Super Dreadnought in Starport
+Time to Build / Upgrade: 4
+[16530] Technology Required to Build Unit (80):
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Transport Helicopter III
-Nick Name: A-HX III
+Name: Jump Super Dreadnought
+Nick Name: JJ-BSD
 Scores & Strengths:
-  Tech Score: 1496
-  Unit Score: 1265
-  Average Score: 1381
-  Stat Strength: 1265
-  Total Strength: 1265
-  Planet Strength: 1265
-  Space Strength: 0
-  Garrison Strength: 338
+  Tech Score: 4184
+  Unit Score: 4202
+  Average Score: 4193
+  Stat Strength: 3768
+  Total Strength: 4202
+  Planet Strength: 0
+  Space Strength: 4202
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 14
-  Spot: 7
-  Camouflage: 9
-  Agility: 19
-  Armor: 17
-  Psy Defense: 17
-  Rank: 99
-Cargo Space: 1
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 8
-Build Cost: 78
+  Movement Type: jump
+  Move Points: 13
+  Spot: 13
+  Camouflage: 2
+  Agility: 8
+  Armor: 41
+  Psy Defense: 41
+  Rank: 874
+Attacks:
+  Ranged Space: 4/56
+  Direct Space: 6/35
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 851
+Build Cost: 8506
 Build Resource Requirements:
-  Food: 4
-  Energy: 8
-  Metal: 18
-  Trace: 7
-  Exotica: 5
-  Chemicals: 13
-  Biochems: 5
-  Electronics: 8
-  Ceramsteel: 20
-Build Transport Helicopter III in Factory
-Time to Build / Upgrade: 2
-[7360] Technologies Required to Build Unit (84):
-  [2665] V/STOL Aircraft (85)
-  [4695] Advanced Minor Watercraft (83)
+  Food: 1
+  Energy: 18
+  Metal: 16
+  Trace: 2
+  Exotica: 1
+  Chemicals: 31
+  Biochems: 22
+  Electronics: 3
+  Ceramsteel: 19
+  Monopols: 53
+S  ingularities: 4
+Build Jump Super Dreadnought in Starport
+Time to Build / Upgrade: 4
+[36320] Technologies Required to Build Unit (72):
+  [16530] Space Capital Ships (80)
+  [4285] Jump Drives (70)
+  [15505] Meson Cannon (65)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Cargo Helicopter III
-Nick Name: A-HCC III
+Name: Jump Dreadnought
+Nick Name: JJ-BD
 Scores & Strengths:
-  Tech Score: 1522
-  Unit Score: 1363
-  Average Score: 1443
-  Stat Strength: 1363
-  Total Strength: 1363
-  Planet Strength: 1363
-  Space Strength: 0
-  Garrison Strength: 393
+  Tech Score: 4184
+  Unit Score: 4205
+  Average Score: 4194
+  Stat Strength: 3650
+  Total Strength: 4205
+  Planet Strength: 0
+  Space Strength: 4205
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 12
-  Spot: 7
-  Camouflage: 9
-  Agility: 17
-  Armor: 20
-  Psy Defense: 20
-  Rank: 109
-Cargo Space: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 8
-Build Cost: 82
+  Movement Type: jump
+  Move Points: 14
+  Spot: 13
+  Camouflage: 2
+  Agility: 9
+  Armor: 40
+  Psy Defense: 40
+  Rank: 880
+Attacks:
+  Ranged Space: 5/55
+  Direct Space: 7/40
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 875
+Build Cost: 8753
 Build Resource Requirements:
-  Food: 3
-  Energy: 5
-  Metal: 24
-  Trace: 5
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 3
-  Electronics: 6
-  Ceramsteel: 27
-Build Cargo Helicopter III in Factory
-Time to Build / Upgrade: 2
-[9330] Technologies Required to Build Unit (85):
-  [1970] Cargo Handling (87)
-  [2665] V/STOL Aircraft (85)
-  [4695] Advanced Minor Watercraft (83)
+  Food: 1
+  Energy: 19
+  Metal: 15
+  Trace: 2
+  Exotica: 1
+  Chemicals: 32
+  Biochems: 22
+  Electronics: 3
+  Ceramsteel: 18
+  Monopols: 54
+S  ingularities: 4
+Build Jump Dreadnought in Starport
+Time to Build / Upgrade: 4
+[36320] Technologies Required to Build Unit (72):
+  [4285] Jump Drives (70)
+  [15505] Meson Cannon (65)
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Transport Helicopter IV
-Nick Name: A-HX IV
+Name: Jump (Cadiz) Dreadnought
+Nick Name: JJ-BD2
 Scores & Strengths:
-  Tech Score: 2251
-  Unit Score: 1797
-  Average Score: 2024
-  Stat Strength: 1797
-  Total Strength: 1797
-  Planet Strength: 1797
-  Space Strength: 0
-  Garrison Strength: 435
+  Tech Score: 5828
+  Unit Score: 5418
+  Average Score: 5623
+  Stat Strength: 4629
+  Total Strength: 5418
+  Planet Strength: 0
+  Space Strength: 5418
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 17
-  Spot: 8
-  Camouflage: 11
-  Agility: 21
-  Armor: 21
-  Psy Defense: 21
-  Rank: 105
-Cargo Space: 1
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 8
-Build Cost: 77
+  Movement Type: jump
+  Move Points: 13
+  Spot: 14
+  Camouflage: 4
+  Agility: 4
+  Armor: 46
+  Psy Defense: 46
+  Rank: 886
+Attacks:
+  Ranged Space: 10/36
+  Direct Space: 11/28
+  Closed Space: 11/11
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 795
+Build Cost: 7949
 Build Resource Requirements:
-  Food: 4
-  Energy: 7
-  Metal: 13
-  Trace: 6
-  Exotica: 4
-  Chemicals: 13
-  Biochems: 4
-  Electronics: 8
-  Ceramsteel: 19
-Build Transport Helicopter IV in Factory
-Time to Build / Upgrade: 2
-[14125] Technologies Required to Build Unit (82):
-  [4695] Advanced Minor Watercraft (83)
-  [9430] Advanced V/STOL Aircraft (81)
+  Food: 1
+  Energy: 6
+  Metal: 9
+  Trace: 2
+  Exotica: 1
+  Chemicals: 14
+  Biochems: 11
+  Electronics: 9
+  Ceramsteel: 15
+  Monopols: 28
+S  ingularities: 4
+Build Jump (Cadiz) Dreadnought in Starport
+Time to Build / Upgrade: 3
+[65575] Technologies Required to Build Unit (58):
+  [26210] PTS Beam Cannon (54)
+  [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Cargo Helicopter IV
-Nick Name: A-HCC IV
+Name: Gate Dreadnought
+Nick Name: JJ-BD
 Scores & Strengths:
-  Tech Score: 2274
-  Unit Score: 1992
-  Average Score: 2133
-  Stat Strength: 1992
-  Total Strength: 1992
-  Planet Strength: 1992
-  Space Strength: 0
-  Garrison Strength: 532
+  Tech Score: 7682
+  Unit Score: 7520
+  Average Score: 7601
+  Stat Strength: 5832
+  Total Strength: 7520
+  Planet Strength: 0
+  Space Strength: 6731
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
+  Movement Type: jump
   Move Points: 14
-  Spot: 8
-  Camouflage: 11
-  Agility: 19
-  Armor: 25
-  Psy Defense: 25
-  Rank: 116
-Cargo Space: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 9
-Build Cost: 86
+  Spot: 14
+  Camouflage: 4
+  Agility: 4
+  Armor: 52
+  Psy Defense: 52
+  Rank: 864
+Attacks:
+  Ranged Space: 11/37
+  Direct Space: 12/29
+  Closed Space: 12/12
+  Air: 11/28
+  Indirect: 10/36
+  Direct: 11/11
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 1184
+Build Cost: 11840
 Build Resource Requirements:
-  Food: 3
-  Energy: 5
-  Metal: 19
-  Trace: 5
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 3
-  Electronics: 6
-  Ceramsteel: 27
-Build Cargo Helicopter IV in Factory
-Time to Build / Upgrade: 2
-[16095] Technologies Required to Build Unit (84):
-  [1970] Cargo Handling (87)
-  [4695] Advanced Minor Watercraft (83)
-  [9430] Advanced V/STOL Aircraft (81)
+  Energy: 14
+  Metal: 11
+  Trace: 2
+  Chemicals: 26
+  Biochems: 24
+  Electronics: 8
+  Ceramsteel: 19
+  Wetware: 4
+  Monopols: 49
+S  ingularities: 4
+Build Gate Dreadnought in Starport
+Time to Build / Upgrade: 4
+[60155] Technology Required to Build Unit (53):
+  [60155] Gate Capital Ships (53)
 Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---9--
-Name: Transport Helicopter V
-Nick Name: A-HX V
-Scores & Strengths:
-  Tech Score: 3278
-  Unit Score: 2497
-  Average Score: 2888
-  Stat Strength: 2497
-  Total Strength: 2497
-  Planet Strength: 2497
-  Space Strength: 0
-  Garrison Strength: 544
-Statistics:
-  Movement Type: air
-  Move Points: 21
-  Spot: 9
-  Camouflage: 14
-  Agility: 23
-  Armor: 25
-  Psy Defense: 25
-  Rank: 114
-Cargo Space: 1
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 54
-Build Cost: 537
-Build Resource Requirements:
-  Food: 3
-  Energy: 5
-  Metal: 7
-  Trace: 5
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 3
-  Electronics: 11
-  Ceramsteel: 11
-  Monopols: 18
-Build Transport Helicopter V in Factory
-Time to Build / Upgrade: 2
-[21740] Technologies Required to Build Unit (81):
-  [4695] Advanced Minor Watercraft (83)
-  [17045] Power V/STOL Aircraft (79)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---10--
-Name: Cargo Helicopter V
-Nick Name: A-HCC V
-Scores & Strengths:
-  Tech Score: 3298
-  Unit Score: 2739
-  Average Score: 3019
-  Stat Strength: 2739
-  Total Strength: 2739
-  Planet Strength: 2739
-  Space Strength: 0
-  Garrison Strength: 664
-Statistics:
-  Movement Type: air
-  Move Points: 17
-  Spot: 9
-  Camouflage: 13
-  Agility: 20
-  Armor: 30
-  Psy Defense: 30
-  Rank: 125
-Cargo Space: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 64
-Build Cost: 643
-Build Resource Requirements:
-  Food: 2
-  Energy: 4
-  Metal: 10
-  Trace: 4
-  Exotica: 2
-  Chemicals: 10
-  Biochems: 2
-  Electronics: 11
-  Ceramsteel: 16
-  Monopols: 20
-Build Cargo Helicopter V in Factory
-Time to Build / Upgrade: 3
-[23710] Technologies Required to Build Unit (83):
-  [1970] Cargo Handling (87)
-  [4695] Advanced Minor Watercraft (83)
-  [17045] Power V/STOL Aircraft (79)
-Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

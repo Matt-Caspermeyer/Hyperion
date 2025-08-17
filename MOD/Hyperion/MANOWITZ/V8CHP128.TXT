@@ -1,271 +1,384 @@
-All units of the unit class Naval Corvette are listed herein (6 in total):
+All units of the unit class Naval Carrier are listed herein (8 in total):
 
 --1--
-Name: Naval Corvette
-Nick Name: NN-Corv
+Name: Naval Carrier
+Nick Name: NN-CVV
 Scores & Strengths:
-  Tech Score: 520
-  Unit Score: 520
-  Average Score: 520
-  Stat Strength: 440
-  Total Strength: 520
-  Planet Strength: 520
+  Tech Score: 250
+  Unit Score: 497
+  Average Score: 374
+  Stat Strength: 434
+  Total Strength: 497
+  Planet Strength: 497
   Space Strength: 0
-  Garrison Strength: 183
+  Garrison Strength: 202
 Statistics:
   Movement Type: naval
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 6
-  Armor: 12
-  Psy Defense: 12
-  Rank: 94
+  Move Points: 6
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 14
+  Psy Defense: 14
+  Rank: 797
 Attacks:
-  Indirect: 3/12
-  Direct: 2/12
-  Close: 2/10
-Load aboard transport: YES
-Upkeep / Maintenance: 19
-Build Cost: 188
+  Air: 3/5
+  Indirect: 2/14
+  Direct: 2/10
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 93
+Build Cost: 926
 Build Resource Requirements:
-  Food: 4
-  Energy: 28
-  Metal: 32
-  Trace: 6
+  Food: 5
+  Energy: 49
+  Metal: 123
+  Trace: 7
   Exotica: 4
-  Chemicals: 27
-  Biochems: 4
-  Electronics: 4
-Build Naval Corvette in Well
-Time to Build / Upgrade: 2
-[1770] Technologies Required to Build Unit (95):
+  Chemicals: 53
+  Electronics: 3
+  Gems: 1
+Build Naval Carrier in Well
+Time to Build / Upgrade: 4
+[735] Technologies Required to Build Unit (98):
   [110] Structural Engineering (99)
   [100] Psychosocial Engineering (100)
-  [1560] Naval Patrol Ships (86)
+  [525] Anti-Aircraft Weaponry (94)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Naval Corvette II
-Nick Name: NN-Corv II
+Name: Escort Aircraft Carrier
+Nick Name: NN-CVE
 Scores & Strengths:
-  Tech Score: 658
-  Unit Score: 594
-  Average Score: 626
-  Stat Strength: 507
-  Total Strength: 594
-  Planet Strength: 594
+  Tech Score: 679
+  Unit Score: 678
+  Average Score: 679
+  Stat Strength: 465
+  Total Strength: 678
+  Planet Strength: 678
   Space Strength: 0
-  Garrison Strength: 198
+  Garrison Strength: 256
 Statistics:
   Movement Type: naval
-  Move Points: 9
-  Spot: 6
-  Camouflage: 4
-  Agility: 6
-  Armor: 13
-  Psy Defense: 13
-  Rank: 96
+  Move Points: 7
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
+  Armor: 14
+  Psy Defense: 14
+  Rank: 783
 Attacks:
-  Indirect: 3/13
-  Direct: 2/13
-  Close: 2/11
-Load aboard transport: YES
-Upkeep / Maintenance: 18
-Build Cost: 176
+  Air: 7/7
+  Indirect: 10/12
+  Direct: 4/11
+Cargo Space: 2
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 31
+Build Cost: 309
 Build Resource Requirements:
-  Food: 3
-  Energy: 27
-  Metal: 33
-  Trace: 6
-  Exotica: 4
-  Chemicals: 27
+  Food: 2
+  Energy: 17
+  Metal: 35
+  Trace: 11
+  Exotica: 2
+  Chemicals: 17
   Biochems: 4
   Electronics: 4
-Build Naval Corvette II in Well
+Build Escort Aircraft Carrier in Well
 Time to Build / Upgrade: 2
-[2270] Technology Required to Build Unit (86):
+[2480] Technologies Required to Build Unit (95):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
   [2270] Naval Escort Ships (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Naval Corvette III
-Nick Name: NN-Corv III
+Name: Naval Light Carrier
+Nick Name: NN-CVL
 Scores & Strengths:
-  Tech Score: 1134
-  Unit Score: 1097
-  Average Score: 1116
-  Stat Strength: 926
-  Total Strength: 1097
-  Planet Strength: 1097
+  Tech Score: 775
+  Unit Score: 1158
+  Average Score: 966
+  Stat Strength: 948
+  Total Strength: 1158
+  Planet Strength: 1158
   Space Strength: 0
-  Garrison Strength: 316
+  Garrison Strength: 409
 Statistics:
   Movement Type: naval
-  Move Points: 12
-  Spot: 7
-  Camouflage: 6
-  Agility: 7
-  Armor: 18
-  Psy Defense: 18
-  Rank: 107
+  Move Points: 8
+  Spot: 8
+  Camouflage: 2
+  Agility: 4
+  Armor: 20
+  Psy Defense: 20
+  Rank: 778
 Attacks:
-  Indirect: 4/18
-  Direct: 3/18
-  Close: 3/15
-Load aboard transport: YES
-Upkeep / Maintenance: 28
-Build Cost: 281
+  Air: 10/9
+  Indirect: 3/16
+  Direct: 9/8
+Cargo Space: 1
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 51
+Build Cost: 508
 Build Resource Requirements:
   Food: 3
-  Energy: 32
-  Metal: 20
-  Trace: 4
-  Exotica: 3
-  Chemicals: 41
-  Biochems: 4
-  Electronics: 4
-  Ceramsteel: 23
-Build Naval Corvette III in Well
+  Energy: 19
+  Metal: 62
+  Trace: 14
+  Exotica: 4
+  Chemicals: 19
+  Biochems: 9
+  Electronics: 10
+Build Naval Light Carrier in Well
 Time to Build / Upgrade: 3
-[4695] Technology Required to Build Unit (83):
-  [4695] Advanced Minor Watercraft (83)
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Guided Missile Corvette
-Nick Name: NN-CorvGM
+Name: Naval Aircraft Carrier
+Nick Name: NN-CV
 Scores & Strengths:
-  Tech Score: 1339
-  Unit Score: 1339
-  Average Score: 1339
-  Stat Strength: 1093
-  Total Strength: 1339
-  Planet Strength: 1339
+  Tech Score: 775
+  Unit Score: 1546
+  Average Score: 1160
+  Stat Strength: 1288
+  Total Strength: 1546
+  Planet Strength: 1546
   Space Strength: 0
-  Garrison Strength: 386
+  Garrison Strength: 546
 Statistics:
   Movement Type: naval
-  Move Points: 12
-  Spot: 7
-  Camouflage: 6
-  Agility: 8
-  Armor: 20
-  Psy Defense: 20
-  Rank: 110
+  Move Points: 8
+  Spot: 8
+  Camouflage: 2
+  Agility: 2
+  Armor: 24
+  Psy Defense: 24
+  Rank: 812
 Attacks:
-  Indirect: 6/19
-  Direct: 4/18
-  Close: 4/15
-Load aboard transport: YES
-Upkeep / Maintenance: 30
-Build Cost: 295
+  Air: 9/10
+  Indirect: 4/20
+  Direct: 8/11
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 87
+Build Cost: 865
 Build Resource Requirements:
   Food: 3
-  Energy: 29
-  Metal: 21
-  Trace: 5
+  Energy: 28
+  Metal: 90
+  Trace: 13
   Exotica: 3
-  Chemicals: 40
-  Biochems: 4
-  Electronics: 5
-  Ceramsteel: 26
-Build Guided Missile Corvette in Well
+  Chemicals: 28
+  Biochems: 7
+  Electronics: 9
+Build Naval Aircraft Carrier in Well
+Time to Build / Upgrade: 4
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2725] Naval Capital Ships (88)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Interdiction Assault Ship
+Nick Name: NN-IAS
+Scores & Strengths:
+  Tech Score: 1670
+  Unit Score: 1669
+  Average Score: 1670
+  Stat Strength: 1271
+  Total Strength: 1669
+  Planet Strength: 1669
+  Space Strength: 0
+  Garrison Strength: 462
+Statistics:
+  Movement Type: naval
+  Move Points: 13
+  Spot: 6
+  Camouflage: 2
+  Agility: 2
+  Armor: 23
+  Psy Defense: 23
+  Rank: 150
+Attacks:
+  Air: 7/21
+  Indirect: 5/31
+  Direct: 4/24
+Cargo Space: 3
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 46
+Build Cost: 463
+Build Resource Requirements:
+  Food: 2
+  Energy: 31
+  Metal: 27
+  Trace: 2
+  Exotica: 2
+  Chemicals: 42
+  Biochems: 2
+  Electronics: 2
+  Ceramsteel: 31
+Build Interdiction Assault Ship in Well
 Time to Build / Upgrade: 3
+[12910] Technologies Required to Build Unit (86):
+  [795] Missiles (86)
+  [1810] Jet-Propulsion Aircraft (86)
+  [1785] Rotary Autocannon (90)
+  [2665] V/STOL Aircraft (85)
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Naval Aircraft Carrier (GM)
+Nick Name: NN-CVGM
+Scores & Strengths:
+  Tech Score: 1339
+  Unit Score: 2678
+  Average Score: 2008
+  Stat Strength: 1901
+  Total Strength: 2678
+  Planet Strength: 2678
+  Space Strength: 0
+  Garrison Strength: 742
+Statistics:
+  Movement Type: naval
+  Move Points: 13
+  Spot: 12
+  Camouflage: 4
+  Agility: 2
+  Armor: 28
+  Psy Defense: 28
+  Rank: 835
+Attacks:
+  Air: 14/17
+  Indirect: 10/25
+  Direct: 17/17
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 175
+Build Cost: 1746
+Build Resource Requirements:
+  Food: 4
+  Energy: 37
+  Metal: 41
+  Trace: 19
+  Exotica: 4
+  Chemicals: 54
+  Biochems: 11
+  Electronics: 20
+  Ceramsteel: 50
+Build Naval Aircraft Carrier (GM) in Well
+Time to Build / Upgrade: 6
 [5855] Technology Required to Build Unit (84):
   [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---5--
-Name: PTS Missile Corvette
-Nick Name: NN-CorvPTS
+--7--
+Name: PTS Aircraft Carrier
+Nick Name: NN-CVPTS
 Scores & Strengths:
   Tech Score: 1474
-  Unit Score: 1843
-  Average Score: 1658
-  Stat Strength: 1245
-  Total Strength: 1843
-  Planet Strength: 1678
-  Space Strength: 1410
-  Garrison Strength: 465
+  Unit Score: 3685
+  Average Score: 2579
+  Stat Strength: 2577
+  Total Strength: 3685
+  Planet Strength: 3559
+  Space Strength: 2703
+  Garrison Strength: 951
 Statistics:
   Movement Type: naval
-  Move Points: 13
-  Spot: 8
-  Camouflage: 7
-  Agility: 9
-  Armor: 21
-  Psy Defense: 21
-  Rank: 117
+  Move Points: 14
+  Spot: 13
+  Camouflage: 5
+  Agility: 3
+  Armor: 33
+  Psy Defense: 33
+  Rank: 844
 Attacks:
-  Ranged Space: 11/15
-  Indirect: 9/21
-  Direct: 5/20
-  Close: 8/18
-Load aboard transport: YES
-Upkeep / Maintenance: 41
-Build Cost: 413
+  Ranged Space: 7/18
+  Air: 16/19
+  Indirect: 12/28
+  Direct: 18/19
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 263
+Build Cost: 2631
 Build Resource Requirements:
-  Food: 3
-  Energy: 39
-  Metal: 21
-  Trace: 10
-  Exotica: 3
-  Chemicals: 54
-  Biochems: 6
-  Electronics: 9
-  Ceramsteel: 27
-Build PTS Missile Corvette in Well
-Time to Build / Upgrade: 4
+  Food: 4
+  Energy: 49
+  Metal: 53
+  Trace: 23
+  Exotica: 4
+  Chemicals: 74
+  Biochems: 13
+  Electronics: 24
+  Ceramsteel: 66
+Build PTS Aircraft Carrier in Well
+Time to Build / Upgrade: 7
 [6655] Technology Required to Build Unit (83):
   [6655] PTS Missile Navalcraft (83)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---6--
-Name: Advanced Naval Corvette
-Nick Name: NN-CorvAdv
+--8--
+Name: Nuclear Aircraft Carrier
+Nick Name: NN-CVN
 Scores & Strengths:
   Tech Score: 1579
-  Unit Score: 1973
-  Average Score: 1776
-  Stat Strength: 1409
-  Total Strength: 1973
-  Planet Strength: 1973
+  Unit Score: 4737
+  Average Score: 3158
+  Stat Strength: 3065
+  Total Strength: 4737
+  Planet Strength: 4737
   Space Strength: 0
-  Garrison Strength: 527
+  Garrison Strength: 1223
 Statistics:
   Movement Type: naval
-  Move Points: 14
-  Spot: 9
-  Camouflage: 8
-  Agility: 10
-  Armor: 22
-  Psy Defense: 22
-  Rank: 122
+  Move Points: 15
+  Spot: 14
+  Camouflage: 6
+  Agility: 4
+  Armor: 36
+  Psy Defense: 36
+  Rank: 862
 Attacks:
-  Indirect: 10/22
-  Direct: 7/22
-  Close: 10/19
-Load aboard transport: YES
-Upkeep / Maintenance: 42
-Build Cost: 419
+  Air: 20/24
+  Indirect: 18/33
+  Direct: 23/26
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 375
+Build Cost: 3746
 Build Resource Requirements:
-  Food: 3
-  Energy: 36
-  Metal: 22
-  Trace: 10
-  Exotica: 4
-  Chemicals: 51
-  Biochems: 6
-  Electronics: 10
-  Ceramsteel: 28
-Build Advanced Naval Corvette in Well
-Time to Build / Upgrade: 4
+  Food: 4
+  Energy: 59
+  Metal: 59
+  Trace: 33
+  Exotica: 5
+  Chemicals: 89
+  Biochems: 17
+  Electronics: 33
+  Ceramsteel: 75
+Build Nuclear Aircraft Carrier in Well
+Time to Build / Upgrade: 9
 [7295] Technology Required to Build Unit (81):
   [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES

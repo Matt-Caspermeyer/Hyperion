@@ -1,172 +1,685 @@
-All units of the unit class Spacemen are listed herein (4 in total):
+All units of the unit class Holy Space Bomber are listed herein (15 in total):
 
 --1--
-Name: Spacemen
-Nick Name: Spacemen
+Name: Holy Space Bomber
+Nick Name: SS-HSB
 Scores & Strengths:
-  Tech Score: 373
-  Unit Score: 370
-  Average Score: 371
-  Stat Strength: 298
-  Total Strength: 370
+  Tech Score: 364
+  Unit Score: 364
+  Average Score: 364
+  Stat Strength: 294
+  Total Strength: 364
   Planet Strength: 0
-  Space Strength: 370
+  Space Strength: 364
   Garrison Strength: 0
 Statistics:
   Movement Type: space
   Move Points: 1
-  Spot: 8
-  Camouflage: 12
-  Agility: 9
-  Armor: 2
-  Psy Defense: 2
-  Rank: 720
+  Spot: 10
+  Camouflage: 2
+  Agility: 8
+  Armor: 5
+  Psy Defense: 10
+  Rank: 139
 Attacks:
-  Closed Space: 9/8
+  Ranged Space: 3/7
+  Psychic: 7/7
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
 Immune to Plague
-Upkeep / Maintenance: 34
-Build Cost: 337
+Upkeep / Maintenance: 59
+Build Cost: 520
 Build Resource Requirements:
-  Food: 9
-  Energy: 11
-  Metal: 2
-  Trace: 47
-  Exotica: 9
-  Chemicals: 14
-  Electronics: 30
-Build Spacemen in Starport
-Time to Build / Upgrade: 2
-[1175] Technologies Required to Build Unit (78):
-  [235] Bioreactors (48)
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
+  Metal: 29
+  Trace: 21
+  Chemicals: 13
+  Electronics: 14
+  Gems: 11
+Upgrade Clergy to Holy Space Bomber at Church
+Time to Build / Upgrade: 1
+[1030] Technologies Required to Build Unit (86):
+  [700] Rockets (90)
+  [330] Holy Warriors (82)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Marauder Legion
-Nick Name: Star Lgn
+Name: Holy Light Space Bomber
+Nick Name: SS-HLSB
 Scores & Strengths:
-  Tech Score: 4207
-  Unit Score: 4202
-  Average Score: 4205
-  Stat Strength: 3051
-  Total Strength: 4202
-  Planet Strength: 4202
-  Space Strength: 0
-  Garrison Strength: 840
+  Tech Score: 364
+  Unit Score: 364
+  Average Score: 364
+  Stat Strength: 285
+  Total Strength: 364
+  Planet Strength: 0
+  Space Strength: 364
+  Garrison Strength: 0
 Statistics:
-  Movement Type: mech
-  Move Points: 25
-  Spot: 20
-  Camouflage: 10
-  Agility: 26
-  Armor: 25
-  Psy Defense: 25
-  Rank: 127
+  Movement Type: space
+  Move Points: 1
+  Spot: 10
+  Camouflage: 2
+  Agility: 10
+  Armor: 4
+  Psy Defense: 8
+  Rank: 139
 Attacks:
-  Air: 21/25
-  Direct: 17/18
-  Close: 20/16
+  Ranged Space: 4/6
+  Psychic: 11/5
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 251
-Build Cost: 2512
+Upkeep / Maintenance: 45
+Build Cost: 375
 Build Resource Requirements:
-  Food: 3
-  Energy: 13
-  Metal: 4
-  Trace: 6
-  Exotica: 3
-  Chemicals: 16
-  Biochems: 25
-  Electronics: 16
-  Ceramsteel: 7
-  Wetware: 13
-  Monopols: 28
-Build Marauder Legion in Fort
-Time to Build / Upgrade: 4
-[26915] Technology Required to Build Unit (47):
-  [26915] Rocket Legion (47)
+  Metal: 17
+  Trace: 24
+  Chemicals: 13
+  Electronics: 17
+  Gems: 5
+Upgrade Clergy to Holy Light Space Bomber at Church
+Time to Build / Upgrade: 1
+[1030] Technologies Required to Build Unit (86):
+  [700] Rockets (90)
+  [330] Holy Warriors (82)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Space Marines
-Nick Name: Space Lgn
+Name: Holy Heavy Space Bomber
+Nick Name: SS-HHSB
 Scores & Strengths:
-  Tech Score: 4611
-  Unit Score: 4606
-  Average Score: 4609
-  Stat Strength: 3706
-  Total Strength: 4606
+  Tech Score: 364
+  Unit Score: 364
+  Average Score: 364
+  Stat Strength: 294
+  Total Strength: 364
   Planet Strength: 0
-  Space Strength: 4606
+  Space Strength: 364
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 30
-  Spot: 17
-  Camouflage: 18
-  Agility: 29
-  Armor: 26
-  Psy Defense: 26
-  Rank: 762
+  Move Points: 1
+  Spot: 10
+  Camouflage: 2
+  Agility: 3
+  Armor: 6
+  Psy Defense: 12
+  Rank: 142
 Attacks:
-  Closed Space: 30/30
+  Ranged Space: 2/11
+  Psychic: 6/8
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
 Immune to Plague
-Upkeep / Maintenance: 521
-Build Cost: 2702
+Upkeep / Maintenance: 71
+Build Cost: 636
 Build Resource Requirements:
-Upgrade Marauder Legion to Space Marines at Starport
+  Metal: 43
+  Trace: 17
+  Chemicals: 20
+  Electronics: 11
+  Gems: 15
+Upgrade Clergy to Holy Heavy Space Bomber at Church
 Time to Build / Upgrade: 1
-[30420] Technology Required to Build Unit (35):
-  [30420] Space Marines (35)
+[1030] Technologies Required to Build Unit (86):
+  [700] Rockets (90)
+  [330] Holy Warriors (82)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Wraith Space Marine
-Nick Name: Specter Lgn
+Name: Holy Heavy Space Bomber II
+Nick Name: SS-HHSB II
 Scores & Strengths:
-  Tech Score: 5176
-  Unit Score: 5177
-  Average Score: 5177
-  Stat Strength: 4277
-  Total Strength: 5177
+  Tech Score: 725
+  Unit Score: 724
+  Average Score: 725
+  Stat Strength: 541
+  Total Strength: 724
   Planet Strength: 0
-  Space Strength: 5177
+  Space Strength: 724
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 30
-  Spot: 20
-  Camouflage: 28
-  Agility: 29
-  Armor: 26
-  Psy Defense: 26
-  Rank: 768
+  Move Points: 6
+  Spot: 12
+  Camouflage: 4
+  Agility: 5
+  Armor: 8
+  Psy Defense: 16
+  Rank: 152
 Attacks:
-  Closed Space: 30/30
+  Ranged Space: 5/15
+  Psychic: 9/12
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
 Immune to Plague
-Upkeep / Maintenance: 397
-Build Cost: 1264
+Upkeep / Maintenance: 62
+Build Cost: 546
 Build Resource Requirements:
-  Trace: 1
-  Electronics: 1
-Upgrade Space Marines to Wraith Space Marine at Starport
+  Metal: 21
+  Trace: 10
+  Chemicals: 16
+  Electronics: 9
+  Gems: 12
+Upgrade Clergy to Holy Heavy Space Bomber II at Church
 Time to Build / Upgrade: 1
-[54550] Technologies Required to Build Unit (34):
-  [30420] Space Marines (35)
-  [24130] Neumonically-Enhanced Soldiers (32)
+[3325] Technologies Required to Build Unit (85):
+  [700] Rockets (90)
+  [1100] Omen (76)
+  [330] Holy Warriors (82)
+  [1195] Naval Warfare (90)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Holy Space Bomber II
+Nick Name: SS-HSB II
+Scores & Strengths:
+  Tech Score: 725
+  Unit Score: 725
+  Average Score: 725
+  Stat Strength: 541
+  Total Strength: 725
+  Planet Strength: 0
+  Space Strength: 725
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 6
+  Spot: 12
+  Camouflage: 4
+  Agility: 10
+  Armor: 7
+  Psy Defense: 14
+  Rank: 145
+Attacks:
+  Ranged Space: 5/8
+  Psychic: 12/12
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 61
+Build Cost: 540
+Build Resource Requirements:
+  Metal: 15
+  Trace: 12
+  Chemicals: 8
+  Electronics: 11
+  Gems: 12
+Upgrade Clergy to Holy Space Bomber II at Church
+Time to Build / Upgrade: 1
+[3325] Technologies Required to Build Unit (85):
+  [700] Rockets (90)
+  [1100] Omen (76)
+  [330] Holy Warriors (82)
+  [1195] Naval Warfare (90)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Holy Light Space Bomber II
+Nick Name: SS-HLSB II
+Scores & Strengths:
+  Tech Score: 725
+  Unit Score: 726
+  Average Score: 726
+  Stat Strength: 520
+  Total Strength: 726
+  Planet Strength: 0
+  Space Strength: 726
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 6
+  Spot: 12
+  Camouflage: 4
+  Agility: 12
+  Armor: 6
+  Psy Defense: 12
+  Rank: 149
+Attacks:
+  Ranged Space: 7/10
+  Psychic: 17/8
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 39
+Build Cost: 314
+Build Resource Requirements:
+  Metal: 11
+  Trace: 14
+  Chemicals: 11
+  Electronics: 13
+  Gems: 4
+Upgrade Clergy to Holy Light Space Bomber II at Church
+Time to Build / Upgrade: 1
+[3325] Technologies Required to Build Unit (85):
+  [700] Rockets (90)
+  [1100] Omen (76)
+  [330] Holy Warriors (82)
+  [1195] Naval Warfare (90)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Holy Space Bomber III
+Nick Name: SS-HSB III
+Scores & Strengths:
+  Tech Score: 1706
+  Unit Score: 1706
+  Average Score: 1706
+  Stat Strength: 1181
+  Total Strength: 1706
+  Planet Strength: 0
+  Space Strength: 1706
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 12
+  Spot: 14
+  Camouflage: 6
+  Agility: 20
+  Armor: 9
+  Psy Defense: 18
+  Rank: 176
+Attacks:
+  Ranged Space: 11/23
+  Psychic: 17/16
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 103
+Build Cost: 957
+Build Resource Requirements:
+  Energy: 1
+  Metal: 7
+  Trace: 11
+  Chemicals: 22
+  Biochems: 6
+  Electronics: 12
+  Ceramsteel: 11
+  Gems: 19
+Upgrade Clergy to Holy Space Bomber III at Church
+Time to Build / Upgrade: 2
+[9400] Technologies Required to Build Unit (74):
+  [2585] Supersonics (87)
+  [330] Holy Warriors (82)
+  [1790] Sixth Sense (45)
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Holy Light Space Bomber III
+Nick Name: SS-HLSB III
+Scores & Strengths:
+  Tech Score: 1706
+  Unit Score: 1706
+  Average Score: 1706
+  Stat Strength: 1180
+  Total Strength: 1706
+  Planet Strength: 0
+  Space Strength: 1706
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 12
+  Spot: 14
+  Camouflage: 6
+  Agility: 22
+  Armor: 8
+  Psy Defense: 16
+  Rank: 175
+Attacks:
+  Ranged Space: 13/20
+  Psychic: 19/14
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 85
+Build Cost: 781
+Build Resource Requirements:
+  Metal: 5
+  Trace: 13
+  Chemicals: 20
+  Biochems: 7
+  Electronics: 14
+  Ceramsteel: 9
+  Gems: 14
+Upgrade Clergy to Holy Light Space Bomber III at Church
+Time to Build / Upgrade: 2
+[9400] Technologies Required to Build Unit (74):
+  [2585] Supersonics (87)
+  [330] Holy Warriors (82)
+  [1790] Sixth Sense (45)
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Holy Heavy Space Bomber III
+Nick Name: SS-HHSB III
+Scores & Strengths:
+  Tech Score: 1706
+  Unit Score: 1706
+  Average Score: 1706
+  Stat Strength: 1200
+  Total Strength: 1706
+  Planet Strength: 0
+  Space Strength: 1706
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 12
+  Spot: 14
+  Camouflage: 6
+  Agility: 18
+  Armor: 10
+  Psy Defense: 20
+  Rank: 177
+Attacks:
+  Ranged Space: 9/26
+  Psychic: 16/17
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 113
+Build Cost: 1061
+Build Resource Requirements:
+  Energy: 3
+  Metal: 9
+  Trace: 10
+  Chemicals: 25
+  Biochems: 6
+  Electronics: 11
+  Ceramsteel: 14
+  Gems: 22
+Upgrade Clergy to Holy Heavy Space Bomber III at Church
+Time to Build / Upgrade: 2
+[9400] Technologies Required to Build Unit (74):
+  [2585] Supersonics (87)
+  [330] Holy Warriors (82)
+  [1790] Sixth Sense (45)
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Sathra Bomber
+Nick Name: JJ-HSB
+Scores & Strengths:
+  Tech Score: 2544
+  Unit Score: 2528
+  Average Score: 2536
+  Stat Strength: 1744
+  Total Strength: 2528
+  Planet Strength: 0
+  Space Strength: 2528
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 15
+  Spot: 17
+  Camouflage: 7
+  Agility: 24
+  Armor: 11
+  Psy Defense: 22
+  Rank: 216
+Attacks:
+  Ranged Space: 13/28
+  Psychic: 21/20
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 380
+Build Cost: 3730
+Build Resource Requirements:
+  Energy: 1
+  Metal: 8
+  Trace: 11
+  Chemicals: 27
+  Biochems: 6
+  Electronics: 14
+  Ceramsteel: 13
+  Gems: 20
+S  ingularities: 4
+Upgrade Clergy to Sathra Bomber at Church
+Time to Build / Upgrade: 2
+[16135] Technologies Required to Build Unit (68):
+  [4920] Hypercruise (82)
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Sathra Heavy Bomber
+Nick Name: JJ-HHSB
+Scores & Strengths:
+  Tech Score: 2544
+  Unit Score: 2539
+  Average Score: 2541
+  Stat Strength: 1767
+  Total Strength: 2539
+  Planet Strength: 0
+  Space Strength: 2539
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 15
+  Spot: 17
+  Camouflage: 7
+  Agility: 22
+  Armor: 12
+  Psy Defense: 24
+  Rank: 218
+Attacks:
+  Ranged Space: 11/32
+  Psychic: 20/21
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 387
+Build Cost: 3795
+Build Resource Requirements:
+  Energy: 4
+  Metal: 10
+  Trace: 10
+  Chemicals: 31
+  Biochems: 6
+  Electronics: 12
+  Ceramsteel: 16
+  Gems: 22
+S  ingularities: 4
+Upgrade Clergy to Sathra Heavy Bomber at Church
+Time to Build / Upgrade: 2
+[16135] Technologies Required to Build Unit (68):
+  [4920] Hypercruise (82)
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Sathra Light Bomber
+Nick Name: JJ-HLSB
+Scores & Strengths:
+  Tech Score: 2544
+  Unit Score: 2567
+  Average Score: 2555
+  Stat Strength: 1792
+  Total Strength: 2567
+  Planet Strength: 0
+  Space Strength: 2567
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 15
+  Spot: 17
+  Camouflage: 7
+  Agility: 27
+  Armor: 10
+  Psy Defense: 20
+  Rank: 216
+Attacks:
+  Ranged Space: 16/24
+  Psychic: 23/17
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 370
+Build Cost: 3622
+Build Resource Requirements:
+  Metal: 6
+  Trace: 13
+  Chemicals: 24
+  Biochems: 7
+  Electronics: 16
+  Ceramsteel: 11
+  Gems: 13
+S  ingularities: 4
+Upgrade Clergy to Sathra Light Bomber at Church
+Time to Build / Upgrade: 2
+[16135] Technologies Required to Build Unit (68):
+  [4920] Hypercruise (82)
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--13--
+Name: Sathra Bomber II
+Nick Name: JJ-HSB
+Scores & Strengths:
+  Tech Score: 4814
+  Unit Score: 4842
+  Average Score: 4828
+  Stat Strength: 3357
+  Total Strength: 4842
+  Planet Strength: 0
+  Space Strength: 4842
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 20
+  Spot: 24
+  Camouflage: 10
+  Agility: 34
+  Armor: 15
+  Psy Defense: 30
+  Rank: 255
+Attacks:
+  Ranged Space: 18/39
+  Psychic: 29/27
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 693
+Build Cost: 6853
+Build Resource Requirements:
+  Metal: 1
+  Trace: 9
+  Chemicals: 20
+  Biochems: 5
+  Electronics: 17
+  Ceramsteel: 7
+  Monopols: 27
+  Gems: 36
+S  ingularities: 4
+Upgrade Clergy to Sathra Bomber II at Church
+Time to Build / Upgrade: 3
+[39650] Technologies Required to Build Unit (63):
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [3835] Sathra's Space Doctrine (17)
+  [27875] PTS Meson Navalcraft (74)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--14--
+Name: Sathra Light Bomber II
+Nick Name: JJ-HLSB
+Scores & Strengths:
+  Tech Score: 4814
+  Unit Score: 4859
+  Average Score: 4837
+  Stat Strength: 3343
+  Total Strength: 4859
+  Planet Strength: 0
+  Space Strength: 4859
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 20
+  Spot: 24
+  Camouflage: 10
+  Agility: 37
+  Armor: 13
+  Psy Defense: 27
+  Rank: 254
+Attacks:
+  Ranged Space: 22/34
+  Psychic: 32/24
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 661
+Build Cost: 6539
+Build Resource Requirements:
+  Trace: 11
+  Chemicals: 18
+  Biochems: 6
+  Electronics: 19
+  Ceramsteel: 6
+  Monopols: 24
+  Gems: 28
+S  ingularities: 4
+Upgrade Clergy to Sathra Light Bomber II at Church
+Time to Build / Upgrade: 3
+[39650] Technologies Required to Build Unit (63):
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [3835] Sathra's Space Doctrine (17)
+  [27875] PTS Meson Navalcraft (74)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--15--
+Name: Sathra Heavy Bomber II
+Nick Name: JJ-HHSB
+Scores & Strengths:
+  Tech Score: 4814
+  Unit Score: 4864
+  Average Score: 4839
+  Stat Strength: 3421
+  Total Strength: 4864
+  Planet Strength: 0
+  Space Strength: 4864
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 20
+  Spot: 24
+  Camouflage: 10
+  Agility: 30
+  Armor: 17
+  Psy Defense: 34
+  Rank: 257
+Attacks:
+  Ranged Space: 15/44
+  Psychic: 27/29
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 725
+Build Cost: 7174
+Build Resource Requirements:
+  Metal: 2
+  Trace: 8
+  Chemicals: 23
+  Biochems: 4
+  Electronics: 16
+  Ceramsteel: 9
+  Monopols: 31
+  Gems: 41
+S  ingularities: 4
+Upgrade Clergy to Sathra Heavy Bomber II at Church
+Time to Build / Upgrade: 3
+[39650] Technologies Required to Build Unit (63):
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [3835] Sathra's Space Doctrine (17)
+  [27875] PTS Meson Navalcraft (74)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

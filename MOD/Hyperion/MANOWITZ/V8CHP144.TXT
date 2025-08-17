@@ -1,368 +1,370 @@
-All units of the unit class Gunship are listed herein (7 in total):
+All units of the unit class Space Cargo Shuttle are listed herein (8 in total):
 
 --1--
-Name: Gunship
-Nick Name: Dragonfly
+Name: Space Cargo Shuttle
+Nick Name: SS-CS
 Scores & Strengths:
-  Tech Score: 742
-  Unit Score: 743
-  Average Score: 742
-  Stat Strength: 643
-  Total Strength: 743
-  Planet Strength: 743
-  Space Strength: 0
-  Garrison Strength: 214
+  Tech Score: 690
+  Unit Score: 690
+  Average Score: 690
+  Stat Strength: 680
+  Total Strength: 690
+  Planet Strength: 0
+  Space Strength: 690
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 12
+  Movement Type: space
+  Move Points: 20
   Spot: 10
-  Camouflage: 6
-  Agility: 11
-  Armor: 11
-  Psy Defense: 11
-  Rank: 117
+  Camouflage: 4
+  Agility: 6
+  Armor: 8
+  Psy Defense: 8
+  Rank: 67
 Attacks:
-  Water: 1/12
-  Air: 6/6
-  Indirect: 1/12
-  Direct: 2/8
-  Close: 4/6
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 15
-Build Cost: 146
+  Closed Space: 2/5
+Cargo Space: 1
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 177
 Build Resource Requirements:
-  Food: 8
-  Energy: 31
-  Metal: 166
-  Trace: 13
-  Exotica: 7
-  Chemicals: 36
-  Electronics: 14
-Build Gunship in Factory
-Time to Build / Upgrade: 3
-[2665] Technology Required to Build Unit (85):
-  [2665] V/STOL Aircraft (85)
+  Food: 14
+  Energy: 18
+  Metal: 34
+  Trace: 7
+  Exotica: 14
+  Chemicals: 31
+  Electronics: 6
+Build Space Cargo Shuttle in Starport
+Time to Build / Upgrade: 2
+[2910] Technologies Required to Build Unit (91):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Gunship II
-Nick Name: Dragonfly II
+Name: Space Transport
+Nick Name: SS-X
 Scores & Strengths:
-  Tech Score: 1262
-  Unit Score: 1168
-  Average Score: 1215
-  Stat Strength: 1002
-  Total Strength: 1168
-  Planet Strength: 1168
-  Space Strength: 0
-  Garrison Strength: 292
+  Tech Score: 2354
+  Unit Score: 2354
+  Average Score: 2354
+  Stat Strength: 2282
+  Total Strength: 2354
+  Planet Strength: 0
+  Space Strength: 2354
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 16
-  Spot: 11
-  Camouflage: 8
-  Agility: 13
-  Armor: 14
-  Psy Defense: 14
-  Rank: 125
+  Movement Type: space
+  Move Points: 14
+  Spot: 12
+  Camouflage: 2
+  Agility: 4
+  Armor: 31
+  Psy Defense: 31
+  Rank: 104
 Attacks:
-  Water: 1/16
-  Air: 8/8
-  Indirect: 1/16
-  Direct: 3/10
-  Close: 5/8
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 8
-Build Cost: 78
+  Closed Space: 8/9
+Cargo Space: 3
+Immune to Plague
+Upkeep / Maintenance: 24
+Build Cost: 239
 Build Resource Requirements:
-  Food: 5
-  Energy: 22
+  Food: 2
+  Energy: 4
   Metal: 28
-  Trace: 9
-  Exotica: 5
-  Chemicals: 23
-  Biochems: 5
-  Electronics: 8
-Build Gunship II in Factory
-Time to Build / Upgrade: 2
-[7970] Technologies Required to Build Unit (87):
-  [795] Missiles (86)
-  [2725] Naval Capital Ships (88)
-  [1785] Rotary Autocannon (90)
-  [2665] V/STOL Aircraft (85)
+  Trace: 3
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 3
+  Electronics: 5
+  Ceramsteel: 31
+Build Space Transport in Starport
+Time to Build / Upgrade: 3
+[12425] Technology Required to Build Unit (86):
+  [12425] Space Warfare (86)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Advanced Gunship
-Nick Name: Dragonfly III
+Name: Space Transport Carrier
+Nick Name: SS-CVX
 Scores & Strengths:
-  Tech Score: 1914
-  Unit Score: 1749
-  Average Score: 1831
-  Stat Strength: 1474
-  Total Strength: 1749
-  Planet Strength: 1749
-  Space Strength: 0
-  Garrison Strength: 401
+  Tech Score: 2916
+  Unit Score: 2916
+  Average Score: 2916
+  Stat Strength: 2798
+  Total Strength: 2916
+  Planet Strength: 0
+  Space Strength: 2916
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 19
-  Spot: 13
-  Camouflage: 10
-  Agility: 14
-  Armor: 18
-  Psy Defense: 18
-  Rank: 134
+  Movement Type: space
+  Move Points: 10
+  Spot: 12
+  Camouflage: 2
+  Agility: 10
+  Armor: 35
+  Psy Defense: 35
+  Rank: 851
 Attacks:
-  Water: 2/19
-  Air: 10/10
-  Indirect: 2/19
-  Direct: 3/13
-  Close: 6/10
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 13
-Build Cost: 134
+  Direct Space: 8/8
+  Closed Space: 9/6
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 389
+Build Cost: 3892
 Build Resource Requirements:
-  Food: 6
-  Energy: 28
-  Metal: 10
-  Trace: 10
-  Exotica: 6
-  Chemicals: 49
-  Electronics: 16
-  Ceramsteel: 24
-Build Advanced Gunship in Factory
+  Food: 1
+  Energy: 2
+  Metal: 17
+  Trace: 4
+  Exotica: 1
+  Chemicals: 6
+  Biochems: 16
+  Electronics: 6
+  Ceramsteel: 20
+  Monopols: 23
+Build Space Transport Carrier in Starport
 Time to Build / Upgrade: 3
-[9430] Technology Required to Build Unit (81):
-  [9430] Advanced V/STOL Aircraft (81)
+[16530] Technology Required to Build Unit (80):
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Killer Gunship
-Nick Name: Bumblebee
+Name: Jump Transport
+Nick Name: JJ-X
 Scores & Strengths:
-  Tech Score: 4843
-  Unit Score: 3995
-  Average Score: 4419
-  Stat Strength: 3334
-  Total Strength: 3995
-  Planet Strength: 3995
-  Space Strength: 0
-  Garrison Strength: 717
+  Tech Score: 3391
+  Unit Score: 3326
+  Average Score: 3359
+  Stat Strength: 3216
+  Total Strength: 3326
+  Planet Strength: 0
+  Space Strength: 3326
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 31
-  Spot: 16
-  Camouflage: 15
-  Agility: 18
-  Armor: 28
-  Psy Defense: 28
-  Rank: 169
+  Movement Type: jump
+  Move Points: 17
+  Spot: 13
+  Camouflage: 2
+  Agility: 4
+  Armor: 37
+  Psy Defense: 37
+  Rank: 139
 Attacks:
-  Water: 3/31
-  Air: 15/15
-  Indirect: 3/31
-  Direct: 5/20
-  Close: 10/15
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 109
-Build Cost: 1092
+  Closed Space: 10/11
+Cargo Space: 3
+Immune to Plague
+Upkeep / Maintenance: 548
+Build Cost: 5478
 Build Resource Requirements:
-  Food: 3
-  Energy: 15
-  Metal: 4
-  Trace: 5
-  Exotica: 3
-  Chemicals: 23
-  Biochems: 4
-  Electronics: 11
-  Ceramsteel: 8
-  Monopols: 33
-Build Killer Gunship in Factory
+  Food: 1
+  Energy: 3
+  Metal: 16
+  Trace: 3
+  Exotica: 2
+  Chemicals: 7
+  Biochems: 15
+  Electronics: 4
+  Ceramsteel: 20
+  Monopols: 24
+S  ingularities: 4
+Build Jump Transport in Starport
 Time to Build / Upgrade: 3
-[46705] Technologies Required to Build Unit (81):
-  [1785] Rotary Autocannon (90)
-  [27875] PTS Meson Navalcraft (74)
-  [17045] Power V/STOL Aircraft (79)
+[20220] Technology Required to Build Unit (72):
+  [20220] Jump Transports (72)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Psy Killer Gunship
-Nick Name: Psy Gunship
+Name: Space Attack Transport
+Nick Name: SS-SAX
 Scores & Strengths:
-  Tech Score: 5089
-  Unit Score: 6074
-  Average Score: 5581
-  Stat Strength: 4572
-  Total Strength: 6074
-  Planet Strength: 6074
-  Space Strength: 4782
-  Garrison Strength: 985
+  Tech Score: 3536
+  Unit Score: 3536
+  Average Score: 3536
+  Stat Strength: 2600
+  Total Strength: 3536
+  Planet Strength: 0
+  Space Strength: 3536
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 38
-  Spot: 19
-  Camouflage: 11
-  Agility: 21
-  Armor: 21
-  Psy Defense: 42
-  Rank: 186
+  Movement Type: space
+  Move Points: 14
+  Spot: 14
+  Camouflage: 4
+  Agility: 12
+  Armor: 32
+  Psy Defense: 32
+  Rank: 209
 Attacks:
-  Psychic: 15/14
-  Water: 15/23
-  Air: 15/15
-  Indirect: 9/25
-  Direct: 15/15
-  Close: 17/16
-Load aboard transport: YES
-Upkeep / Maintenance: 142
-Build Cost: 1421
+  Direct Space: 20/24
+  Closed Space: 24/19
+Cargo Space: 3
+Immune to Plague
+Upkeep / Maintenance: 239
+Build Cost: 2392
 Build Resource Requirements:
-  Food: 5
-  Energy: 14
-  Metal: 6
-  Trace: 10
-  Exotica: 6
-  Chemicals: 22
-  Biochems: 16
+  Food: 2
+  Energy: 7
+  Metal: 12
+  Trace: 11
+  Exotica: 2
+  Chemicals: 13
+  Biochems: 22
   Electronics: 19
-  Ceramsteel: 10
-  Monopols: 33
-  Gems: 7
-Build Psy Killer Gunship in Factory
-Time to Build / Upgrade: 4
-[52760] Technologies Required to Build Unit (72):
-  [330] Holy Warriors (82)
-  [1555] Dhechi (80)
-  [3050] Occult Science (44)
-  [2725] Visioning (56)
-  [1785] Rotary Autocannon (90)
-  [27875] PTS Meson Navalcraft (74)
-  [15440] Power Aircraft (79)
+  Ceramsteel: 15
+  Monopols: 27
+Build Space Attack Transport in Starport
+Time to Build / Upgrade: 3
+[21375] Technology Required to Build Unit (67):
+  [21375] Lander Transports (67)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Morph Gunship
-Nick Name: Wasp
+Name: Colony Star
+Nick Name: Colony Star
 Scores & Strengths:
-  Tech Score: 8352
-  Unit Score: 8185
-  Average Score: 8268
-  Stat Strength: 5714
-  Total Strength: 8185
-  Planet Strength: 8185
+  Tech Score: 3536
+  Unit Score: 3552
+  Average Score: 3544
+  Stat Strength: 3552
+  Total Strength: 3552
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 1248
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 43
-  Spot: 24
-  Camouflage: 16
-  Agility: 41
-  Armor: 26
-  Psy Defense: 26
-  Rank: 223
-Attacks:
-  Water: 30/28
-  Air: 20/20
-  Indirect: 13/30
-  Direct: 20/20
-  Close: 21/21
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 182
-Build Cost: 1823
+  Movement Type: space
+  Move Points: 16
+  Spot: 14
+  Camouflage: 3
+  Agility: 7
+  Armor: 39
+  Psy Defense: 39
+  Rank: 125
+Cargo Space: 4
+Immune to Plague
+Upkeep / Maintenance: 237
+Build Cost: 2366
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 2
-  Trace: 7
-  Exotica: 3
-  Chemicals: 15
-  Biochems: 23
-  Electronics: 13
-  Ceramsteel: 3
-  Wetware: 10
-  Monopols: 23
-Build Morph Gunship in Factory
+  Food: 2
+  Energy: 2
+  Metal: 17
+  Trace: 2
+  Exotica: 2
+  Chemicals: 6
+  Biochems: 15
+  Electronics: 3
+  Ceramsteel: 22
+  Monopols: 25
+Build Colony Star in Starport
 Time to Build / Upgrade: 3
-[100255] Technologies Required to Build Unit (64):
-  [1785] Rotary Autocannon (90)
-  [45010] Hover Navalcraft (52)
-  [53460] Polymorphonic Patrolcraft (50)
+[21375] Technology Required to Build Unit (67):
+  [21375] Lander Transports (67)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Stealth Gunship
-Nick Name: Hornet
+Name: Jump Transport Carrier
+Nick Name: JJ-CVX
 Scores & Strengths:
-  Tech Score: 8583
-  Unit Score: 8418
-  Average Score: 8500
-  Stat Strength: 5925
-  Total Strength: 8418
-  Planet Strength: 8418
-  Space Strength: 0
-  Garrison Strength: 1254
+  Tech Score: 5589
+  Unit Score: 5370
+  Average Score: 5480
+  Stat Strength: 5153
+  Total Strength: 5370
+  Planet Strength: 0
+  Space Strength: 5370
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 45
-  Spot: 24
-  Camouflage: 36
-  Agility: 26
-  Armor: 26
-  Psy Defense: 26
-  Rank: 227
+  Movement Type: jump
+  Move Points: 14
+  Spot: 14
+  Camouflage: 3
+  Agility: 12
+  Armor: 48
+  Psy Defense: 48
+  Rank: 908
 Attacks:
-  Water: 20/32
-  Air: 20/22
-  Indirect: 14/32
-  Direct: 20/22
-  Close: 25/21
-Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 174
-Build Cost: 1742
+  Direct Space: 11/11
+  Closed Space: 12/8
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 1349
+Build Cost: 13494
 Build Resource Requirements:
-  Food: 2
-  Energy: 11
-  Metal: 2
-  Trace: 10
-  Exotica: 3
-  Chemicals: 15
-  Biochems: 22
-  Electronics: 17
-  Ceramsteel: 3
-  Wetware: 8
-  Monopols: 23
-Build Stealth Gunship in Factory
+  Food: 1
+  Energy: 2
+  Metal: 16
+  Trace: 3
+  Exotica: 1
+  Chemicals: 9
+  Biochems: 14
+  Electronics: 12
+  Ceramsteel: 23
+  Monopols: 27
+S  ingularities: 4
+Build Jump Transport Carrier in Starport
 Time to Build / Upgrade: 3
-[101965] Technologies Required to Build Unit (59):
-  [1785] Rotary Autocannon (90)
-  [45010] Hover Navalcraft (52)
-  [55170] Neumonic Patrolcraft (35)
+[39365] Technology Required to Build Unit (61):
+  [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Jump High-Speed Transport
+Nick Name: Jump HHSSTT
+Scores & Strengths:
+  Tech Score: 6896
+  Unit Score: 6896
+  Average Score: 6896
+  Stat Strength: 6016
+  Total Strength: 6896
+  Planet Strength: 0
+  Space Strength: 6896
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 16
+  Spot: 14
+  Camouflage: 6
+  Agility: 36
+  Armor: 46
+  Psy Defense: 46
+  Rank: 259
+Attacks:
+  Direct Space: 22/23
+  Closed Space: 17/22
+Cargo Space: 2
+Immune to Plague
+Upkeep / Maintenance: 726
+Build Cost: 7262
+Build Resource Requirements:
+  Food: 1
+  Energy: 5
+  Metal: 9
+  Trace: 4
+  Exotica: 1
+  Chemicals: 11
+  Biochems: 17
+  Electronics: 11
+  Ceramsteel: 13
+  Wetware: 6
+  Monopols: 23
+S  ingularities: 4
+Build Jump High-Speed Transport in Starport
+Time to Build / Upgrade: 3
+[66385] Technologies Required to Build Unit (60):
+  [21375] Lander Transports (67)
+  [45010] Hover Navalcraft (52)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

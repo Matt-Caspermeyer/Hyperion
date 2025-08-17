@@ -1,49 +1,86 @@
-All units of the unit class Vau Dreadnought are listed herein (1 in total):
+All units of the unit class Shock Legion are listed herein (2 in total):
 
 --1--
-Name: Vau Dreadnought
-Nick Name: Shroud Weaver
+Name: Shock Legion
+Nick Name: Shock Lgn
 Scores & Strengths:
-  Tech Score: 3886
-  Unit Score: 3885
-  Average Score: 3885
-  Stat Strength: 3173
-  Total Strength: 3885
-  Planet Strength: 3505
-  Space Strength: 3553
-  Garrison Strength: 1430
+  Tech Score: 2509
+  Unit Score: 2509
+  Average Score: 2509
+  Stat Strength: 1472
+  Total Strength: 2509
+  Planet Strength: 2509
+  Space Strength: 0
+  Garrison Strength: 627
 Statistics:
-  Movement Type: gate
-  Move Points: 6
-  Spot: 12
-  Camouflage: 8
-  Agility: 7
-  Armor: 24
-  Psy Defense: 48
-  Rank: 858
+  Movement Type: foot
+  Move Points: 16
+  Spot: 9
+  Camouflage: 11
+  Agility: 26
+  Armor: 13
+  Psy Defense: 13
+  Rank: 87
 Attacks:
-  Ranged Space: 8/25
-  Direct Space: 9/20
-  Indirect: 7/23
-  Direct: 9/19
-Officer - Provides stack combat bonuses
-Immune to Plague
-Upkeep / Maintenance: 598
-Build Cost: 5976
+  Air: 12/11
+  Indirect: 16/14
+  Direct: 21/16
+  Close: 23/15
+Load aboard transport: YES
+Upkeep / Maintenance: 75
+Build Cost: 587
 Build Resource Requirements:
-  Energy: 11
-  Metal: 7
+  Metal: 1
   Trace: 2
-  Chemicals: 21
-  Biochems: 23
-  Electronics: 9
-  Ceramsteel: 14
-  Wetware: 3
-  Monopols: 39
-S  ingularities: 3
-Build Vau Dreadnought in Vau City
-Time to Build / Upgrade: 4
-[24245] Technology Required to Build Unit (50):
-  [24245] Vau Psychology (50)
+  Electronics: 1
+  Ceramsteel: 3
+  Monopols: 26
+Upgrade Chemical Shock Legion to Shock Legion at Fort
+Time to Build / Upgrade: 1
+[16085] Technologies Required to Build Unit (64):
+  [6020] Chemical Shock Legion (49)
+  [10065] Powered-Armor Legion (79)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Genetic Shock Legion
+Nick Name: Gen SL
+Scores & Strengths:
+  Tech Score: 3749
+  Unit Score: 3581
+  Average Score: 3665
+  Stat Strength: 2022
+  Total Strength: 3581
+  Planet Strength: 3581
+  Space Strength: 0
+  Garrison Strength: 800
+Statistics:
+  Movement Type: foot
+  Move Points: 20
+  Spot: 10
+  Camouflage: 13
+  Agility: 29
+  Armor: 16
+  Psy Defense: 16
+  Rank: 108
+Attacks:
+  Air: 15/13
+  Indirect: 20/17
+  Direct: 26/20
+  Close: 28/18
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 96
+Build Cost: 372
+Build Resource Requirements:
+  Energy: 3
+Upgrade Shock Legion to Genetic Shock Legion at Lab
+Time to Build / Upgrade: 1
+[26250] Technologies Required to Build Unit (42):
+  [8900] Genetically-Enhanced Warriors (25)
+  [17350] Assault Legion (59)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

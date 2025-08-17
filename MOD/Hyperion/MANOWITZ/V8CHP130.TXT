@@ -1,385 +1,547 @@
-All units of the unit class Main Battle Tank are listed herein (9 in total):
+All units of the unit class Anti-Submarine Rocket are listed herein (12 in total):
 
 --1--
-Name: Main Battle Tank
-Nick Name: MBT
+Name: Anti-Submarine Rocket
+Nick Name: Asub-R
 Scores & Strengths:
-  Tech Score: 530
-  Unit Score: 528
-  Average Score: 529
-  Stat Strength: 380
-  Total Strength: 528
-  Planet Strength: 528
+  Tech Score: 513
+  Unit Score: 511
+  Average Score: 512
+  Stat Strength: 391
+  Total Strength: 511
+  Planet Strength: 511
   Space Strength: 0
-  Garrison Strength: 215
+  Garrison Strength: 511
 Statistics:
-  Movement Type: tread
-  Move Points: 6
-  Spot: 6
-  Camouflage: 2
-  Agility: 4
-  Armor: 12
-  Psy Defense: 12
-  Rank: 70
+  Movement Type: air
+  Move Points: 1
+  Spot: 0
+  Camouflage: 8
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 0
 Attacks:
-  Indirect: 6/11
-  Direct: 5/10
-  Close: 4/8
+  Water: 4/30
 Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 65
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 17
 Build Resource Requirements:
-  Food: 4
-  Energy: 22
-  Metal: 33
-  Trace: 13
-  Exotica: 4
-  Chemicals: 36
-  Electronics: 10
-Build Main Battle Tank in Factory
-Time to Build / Upgrade: 2
-[1700] Technology Required to Build Unit (88):
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 6
+  Energy: 62
+  Trace: 16
+  Exotica: 6
+  Chemicals: 67
+  Electronics: 14
+Build Anti-Submarine Rocket in Chemical Plant
+Time to Build / Upgrade: 3
+[1895] Technologies Required to Build Unit (90):
+  [700] Rockets (90)
+  [1195] Naval Warfare (90)
 Unit can be disbanded: YES
 
 --2--
-Name: Main Battle Tank (RA)
-Nick Name: MBT (RA)
+Name: Anti-Ship Rocket
+Nick Name: AS-R
 Scores & Strengths:
-  Tech Score: 768
-  Unit Score: 723
-  Average Score: 745
-  Stat Strength: 510
-  Total Strength: 723
-  Planet Strength: 723
+  Tech Score: 513
+  Unit Score: 512
+  Average Score: 513
+  Stat Strength: 356
+  Total Strength: 512
+  Planet Strength: 512
   Space Strength: 0
-  Garrison Strength: 273
+  Garrison Strength: 256
 Statistics:
-  Movement Type: tread
-  Move Points: 7
-  Spot: 7
-  Camouflage: 2
-  Agility: 4
-  Armor: 14
-  Psy Defense: 14
-  Rank: 75
+  Movement Type: air
+  Move Points: 4
+  Spot: 0
+  Camouflage: 7
+  Agility: 17
+  Armor: 1
+  Psy Defense: 1
+  Rank: 85
 Attacks:
-  Indirect: 7/13
-  Direct: 6/12
-  Close: 5/10
+  Indirect: 3/52
 Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 10
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 4
+Build Cost: 38
 Build Resource Requirements:
-  Energy: 6
-  Metal: 6
-  Chemicals: 9
-Upgrade Main Battle Tank to Main Battle Tank (RA) at Factory
-Time to Build / Upgrade: 1
-[3090] Technologies Required to Build Unit (86):
-  [1220] Predictive Algorithms (76)
-  [1700] Main Battle Tank (88)
-  [170] Reactive Armor (95)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 6
+  Energy: 167
+  Trace: 14
+  Exotica: 6
+  Chemicals: 179
+  Electronics: 11
+Build Anti-Ship Rocket in Chemical Plant
+Time to Build / Upgrade: 4
+[1895] Technologies Required to Build Unit (90):
+  [700] Rockets (90)
+  [1195] Naval Warfare (90)
 Unit can be disbanded: YES
 
 --3--
-Name: Main Battle Tank (ExA)
-Nick Name: MBT (ExA)
+Name: Anti-Submarine Missile
+Nick Name: Asub-M
 Scores & Strengths:
-  Tech Score: 826
-  Unit Score: 788
-  Average Score: 807
-  Stat Strength: 568
-  Total Strength: 788
-  Planet Strength: 788
+  Tech Score: 535
+  Unit Score: 534
+  Average Score: 535
+  Stat Strength: 394
+  Total Strength: 534
+  Planet Strength: 534
   Space Strength: 0
-  Garrison Strength: 297
+  Garrison Strength: 377
 Statistics:
-  Movement Type: tread
-  Move Points: 7
-  Spot: 7
-  Camouflage: 2
-  Agility: 4
-  Armor: 15
-  Psy Defense: 15
-  Rank: 76
+  Movement Type: air
+  Move Points: 2
+  Spot: 0
+  Camouflage: 8
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 0
 Attacks:
-  Indirect: 7/14
-  Direct: 6/12
-  Close: 5/10
+  Water: 7/20
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 22
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
 Build Resource Requirements:
-  Energy: 6
-  Metal: 9
-  Chemicals: 24
-Upgrade Main Battle Tank to Main Battle Tank (ExA) at Factory
-Time to Build / Upgrade: 1
-[3375] Technologies Required to Build Unit (86):
-  [1475] Monofilament (77)
-  [1700] Main Battle Tank (88)
-  [200] Explosive Armor (93)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 6
+  Energy: 32
+  Trace: 18
+  Exotica: 6
+  Chemicals: 35
+  Electronics: 15
+Build Anti-Submarine Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[1990] Technologies Required to Build Unit (88):
+  [1195] Naval Warfare (90)
+  [795] Missiles (86)
 Unit can be disbanded: YES
 
 --4--
-Name: Main Battle Tank (ElA)
-Nick Name: MBT (ElA)
+Name: Anti-Ship Missile
+Nick Name: AS-M
 Scores & Strengths:
-  Tech Score: 979
-  Unit Score: 932
-  Average Score: 956
-  Stat Strength: 659
-  Total Strength: 932
-  Planet Strength: 932
+  Tech Score: 535
+  Unit Score: 535
+  Average Score: 535
+  Stat Strength: 391
+  Total Strength: 535
+  Planet Strength: 535
   Space Strength: 0
-  Garrison Strength: 329
+  Garrison Strength: 218
 Statistics:
-  Movement Type: tread
-  Move Points: 8
-  Spot: 7
-  Camouflage: 3
-  Agility: 5
-  Armor: 16
-  Psy Defense: 16
-  Rank: 81
+  Movement Type: air
+  Move Points: 6
+  Spot: 0
+  Camouflage: 8
+  Agility: 17
+  Armor: 1
+  Psy Defense: 1
+  Rank: 60
 Attacks:
-  Indirect: 8/15
-  Direct: 7/14
-  Close: 5/11
+  Indirect: 6/24
 Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 40
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 13
 Build Resource Requirements:
-  Energy: 12
-  Metal: 10
-  Chemicals: 18
-  Electronics: 23
-Upgrade Main Battle Tank to Main Battle Tank (ElA) at Factory
-Time to Build / Upgrade: 1
-[4245] Technologies Required to Build Unit (87):
-  [2285] Surgical LASER (82)
-  [1700] Main Battle Tank (88)
-  [260] Electronic Armor (90)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 6
+  Energy: 43
+  Trace: 16
+  Exotica: 6
+  Chemicals: 46
+  Electronics: 11
+Build Anti-Ship Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[1990] Technologies Required to Build Unit (88):
+  [1195] Naval Warfare (90)
+  [795] Missiles (86)
 Unit can be disbanded: YES
 
 --5--
-Name: Amphibious Main Battle Tank
-Nick Name: N-ATMB
+Name: Anti-Ship Guided Missile
+Nick Name: AS-GM
 Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 958
-  Average Score: 959
-  Stat Strength: 518
-  Total Strength: 958
-  Planet Strength: 958
+  Tech Score: 1354
+  Unit Score: 1366
+  Average Score: 1360
+  Stat Strength: 386
+  Total Strength: 1366
+  Planet Strength: 1366
   Space Strength: 0
-  Garrison Strength: 338
+  Garrison Strength: 482
 Statistics:
-  Movement Type: craft
+  Movement Type: air
   Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 8
-  Armor: 13
-  Psy Defense: 13
-  Rank: 84
+  Spot: 0
+  Camouflage: 8
+  Agility: 16
+  Armor: 1
+  Psy Defense: 1
+  Rank: 102
 Attacks:
-  Indirect: 12/15
-  Direct: 10/14
-  Close: 10/12
+  Indirect: 35/28
 Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 76
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
 Build Resource Requirements:
   Food: 2
-  Energy: 20
-  Metal: 19
-  Trace: 19
+  Energy: 22
+  Trace: 34
   Exotica: 2
   Chemicals: 25
-  Biochems: 7
-  Electronics: 10
-Build Amphibious Main Battle Tank in Factory
+  Biochems: 2
+  Electronics: 5
+Build Anti-Ship Guided Missile in Chemical Plant
 Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
+[7660] Technologies Required to Build Unit (84):
+  [1255] Digital Fly-by-Wire (81)
+  [2725] Naval Capital Ships (88)
+  [3680] Supersonic Missiles (84)
 Unit can be disbanded: YES
 
 --6--
-Name: Main Battle Tank (APS)
-Nick Name: MBT (APS)
+Name: Anti-Submarine Guided Missile
+Nick Name: Asub-GM
 Scores & Strengths:
-  Tech Score: 1484
-  Unit Score: 1405
-  Average Score: 1445
-  Stat Strength: 998
-  Total Strength: 1405
-  Planet Strength: 1405
+  Tech Score: 1503
+  Unit Score: 1501
+  Average Score: 1502
+  Stat Strength: 742
+  Total Strength: 1501
+  Planet Strength: 1501
   Space Strength: 0
-  Garrison Strength: 444
+  Garrison Strength: 530
 Statistics:
-  Movement Type: tread
-  Move Points: 10
-  Spot: 8
-  Camouflage: 3
-  Agility: 5
-  Armor: 20
-  Psy Defense: 20
-  Rank: 89
+  Movement Type: air
+  Move Points: 8
+  Spot: 0
+  Camouflage: 10
+  Agility: 24
+  Armor: 1
+  Psy Defense: 1
+  Rank: 0
 Attacks:
-  Indirect: 10/18
-  Direct: 8/17
-  Close: 7/13
+  Water: 33/23
 Load aboard transport: YES
-Upkeep / Maintenance: 14
-Build Cost: 71
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 20
 Build Resource Requirements:
-  Metal: 6
-  Chemicals: 19
-  Electronics: 19
-  Ceramsteel: 36
-Upgrade Main Battle Tank to Main Battle Tank (APS) at Factory
-Time to Build / Upgrade: 1
-[9905] Technologies Required to Build Unit (81):
-  [4855] Myoelectric Prosthetics (71)
-  [1700] Main Battle Tank (88)
-  [3350] Active Protective Systems (83)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 4
+  Energy: 20
+  Trace: 35
+  Exotica: 4
+  Chemicals: 22
+  Biochems: 17
+  Electronics: 37
+Build Anti-Submarine Guided Missile in Chemical Plant
+Time to Build / Upgrade: 3
+[8550] Technologies Required to Build Unit (84):
+  [1255] Digital Fly-by-Wire (81)
+  [3615] Submarine Warfare (87)
+  [3680] Supersonic Missiles (84)
 Unit can be disbanded: YES
 
 --7--
-Name: Main Battle Tank (Ce)
-Nick Name: MBT (Ce)
+Name: Anti-Ship Supercruise Missile
+Nick Name: AS-ScGM
 Scores & Strengths:
-  Tech Score: 1080
-  Unit Score: 1487
-  Average Score: 1283
-  Stat Strength: 1080
-  Total Strength: 1487
-  Planet Strength: 1487
+  Tech Score: 1853
+  Unit Score: 1806
+  Average Score: 1830
+  Stat Strength: 453
+  Total Strength: 1806
+  Planet Strength: 1806
   Space Strength: 0
-  Garrison Strength: 470
+  Garrison Strength: 602
 Statistics:
-  Movement Type: tread
-  Move Points: 10
-  Spot: 8
-  Camouflage: 3
-  Agility: 5
-  Armor: 21
-  Psy Defense: 21
-  Rank: 88
+  Movement Type: air
+  Move Points: 9
+  Spot: 0
+  Camouflage: 9
+  Agility: 17
+  Armor: 1
+  Psy Defense: 1
+  Rank: 117
 Attacks:
-  Indirect: 10/18
-  Direct: 8/17
-  Close: 7/13
+  Indirect: 41/33
 Load aboard transport: YES
-Upkeep / Maintenance: 13
-Build Cost: 60
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
 Build Resource Requirements:
-  Energy: 5
-  Chemicals: 12
-  Ceramsteel: 38
-Upgrade Main Battle Tank to Main Battle Tank (Ce) at Factory
-Time to Build / Upgrade: 1
-[6960] Technologies Required to Build Unit (83):
-  [3570] Robotics (76)
-  [1700] Main Battle Tank (88)
-  [1690] Ceramsteel (84)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 2
+  Energy: 21
+  Trace: 29
+  Exotica: 2
+  Chemicals: 27
+  Biochems: 2
+  Electronics: 5
+Build Anti-Ship Supercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[11715] Technologies Required to Build Unit (81):
+  [1690] Fly-by-Wireless (76)
+  [5855] Guided Missile Navalcraft (84)
+  [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
 --8--
-Name: Universal Combat Platform
-Nick Name: MBT-UCP
+Name: Anti-Sub Supercruise Missile
+Nick Name: Asub-ScGM
 Scores & Strengths:
-  Tech Score: 1639
-  Unit Score: 1577
-  Average Score: 1608
-  Stat Strength: 1108
-  Total Strength: 1577
-  Planet Strength: 1577
+  Tech Score: 2057
+  Unit Score: 1956
+  Average Score: 2006
+  Stat Strength: 903
+  Total Strength: 1956
+  Planet Strength: 1956
   Space Strength: 0
-  Garrison Strength: 475
+  Garrison Strength: 652
 Statistics:
-  Movement Type: tread
-  Move Points: 11
-  Spot: 8
-  Camouflage: 4
-  Agility: 5
-  Armor: 21
-  Psy Defense: 21
-  Rank: 93
+  Movement Type: air
+  Move Points: 9
+  Spot: 0
+  Camouflage: 12
+  Agility: 26
+  Armor: 1
+  Psy Defense: 1
+  Rank: 0
 Attacks:
-  Indirect: 11/19
-  Direct: 9/18
-  Close: 7/14
+  Water: 39/27
 Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 41
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 21
 Build Resource Requirements:
-  Chemicals: 10
-  Electronics: 8
-  Ceramsteel: 27
-Upgrade Main Battle Tank to Universal Combat Platform at Factory
-Time to Build / Upgrade: 1
-[10630] Technologies Required to Build Unit (74):
-  [5425] Cybernetics (63)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 3
+  Energy: 18
+  Trace: 31
+  Exotica: 3
+  Chemicals: 23
+  Biochems: 15
+  Electronics: 40
+Build Anti-Sub Supercruise Missile in Chemical Plant
+Time to Build / Upgrade: 3
+[13060] Technologies Required to Build Unit (82):
+  [1690] Fly-by-Wireless (76)
+  [7200] Air-Independent Propulsion (85)
+  [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
 --9--
-Name: Shock Mega Tank
-Nick Name: Hell Hound
+Name: Anti-Ship Hypersonic Missile
+Nick Name: AS-HsGM
 Scores & Strengths:
-  Tech Score: 3780
-  Unit Score: 3524
-  Average Score: 3652
-  Stat Strength: 2478
-  Total Strength: 3524
-  Planet Strength: 3524
+  Tech Score: 2216
+  Unit Score: 2146
+  Average Score: 2181
+  Stat Strength: 526
+  Total Strength: 2146
+  Planet Strength: 2146
   Space Strength: 0
-  Garrison Strength: 881
+  Garrison Strength: 678
 Statistics:
-  Movement Type: tread
-  Move Points: 16
-  Spot: 10
-  Camouflage: 5
-  Agility: 7
-  Armor: 32
-  Psy Defense: 32
-  Rank: 127
+  Movement Type: air
+  Move Points: 10
+  Spot: 0
+  Camouflage: 10
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 128
 Attacks:
-  Indirect: 16/29
-  Direct: 13/27
-  Close: 11/21
+  Indirect: 45/36
 Load aboard transport: YES
-Upkeep / Maintenance: 93
-Build Cost: 24
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
 Build Resource Requirements:
-  Biochems: 17
-  Wetware: 2
-Upgrade Mega Tank to Shock Mega Tank at Factory
-Time to Build / Upgrade: 1
-[46850] Technologies Required to Build Unit (54):
-  [16745] Wetware (23)
-  [15130] Fusion Battle Tanks (68)
-  [14975] Power Hovertanks (70)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 2
+  Energy: 21
+  Trace: 28
+  Exotica: 2
+  Chemicals: 28
+  Biochems: 2
+  Electronics: 5
+Build Anti-Ship Hypersonic Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[15895] Technologies Required to Build Unit (80):
+  [2935] Intelligent FCS (73)
+  [6655] PTS Missile Navalcraft (83)
+  [6305] Hypersonic Missiles (83)
+Unit can be disbanded: YES
+
+--10--
+Name: Anti-Sub Hypersonic Missile
+Nick Name: Asub-HsGM
+Scores & Strengths:
+  Tech Score: 2408
+  Unit Score: 2218
+  Average Score: 2313
+  Stat Strength: 1000
+  Total Strength: 2218
+  Planet Strength: 2218
+  Space Strength: 0
+  Garrison Strength: 701
+Statistics:
+  Movement Type: air
+  Move Points: 10
+  Spot: 0
+  Camouflage: 13
+  Agility: 27
+  Armor: 1
+  Psy Defense: 1
+  Rank: 0
+Attacks:
+  Water: 42/29
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 16
+Build Resource Requirements:
+  Food: 2
+  Energy: 14
+  Trace: 22
+  Exotica: 2
+  Chemicals: 17
+  Biochems: 11
+  Electronics: 30
+Build Anti-Sub Hypersonic Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[23095] Technologies Required to Build Unit (81):
+  [2935] Intelligent FCS (73)
+  [7200] Air-Independent Propulsion (85)
+  [6655] PTS Missile Navalcraft (83)
+  [6305] Hypersonic Missiles (83)
+Unit can be disbanded: YES
+
+--11--
+Name: Anti-Sub Hypercruise Missile
+Nick Name: Asub-HcGM
+Scores & Strengths:
+  Tech Score: 3057
+  Unit Score: 2711
+  Average Score: 2884
+  Stat Strength: 1160
+  Total Strength: 2711
+  Planet Strength: 2711
+  Space Strength: 0
+  Garrison Strength: 817
+Statistics:
+  Movement Type: air
+  Move Points: 11
+  Spot: 0
+  Camouflage: 14
+  Agility: 29
+  Armor: 1
+  Psy Defense: 1
+  Rank: 4
+Attacks:
+  Water: 47/33
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 19
+Build Resource Requirements:
+  Food: 2
+  Energy: 15
+  Trace: 23
+  Exotica: 3
+  Chemicals: 20
+  Biochems: 12
+  Electronics: 33
+Build Anti-Sub Hypercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[28700] Technologies Required to Build Unit (72):
+  [7100] Artificial Intelligence (46)
+  [7200] Air-Independent Propulsion (85)
+  [7295] Nuclear-Powered Navalcraft (81)
+  [7105] Hypercruise Missiles (77)
+Unit can be disbanded: YES
+
+--12--
+Name: Anti-Ship Hypercruise Missile
+Nick Name: AS-HcGM
+Scores & Strengths:
+  Tech Score: 2880
+  Unit Score: 2742
+  Average Score: 2811
+  Stat Strength: 651
+  Total Strength: 2742
+  Planet Strength: 2742
+  Space Strength: 0
+  Garrison Strength: 791
+Statistics:
+  Movement Type: air
+  Move Points: 12
+  Spot: 0
+  Camouflage: 12
+  Agility: 19
+  Armor: 1
+  Psy Defense: 1
+  Rank: 145
+Attacks:
+  Indirect: 51/41
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 14
+Build Resource Requirements:
+  Food: 2
+  Energy: 24
+  Trace: 29
+  Exotica: 2
+  Chemicals: 33
+  Biochems: 2
+  Electronics: 5
+Build Anti-Ship Hypercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[21500] Technologies Required to Build Unit (68):
+  [7100] Artificial Intelligence (46)
+  [7295] Nuclear-Powered Navalcraft (81)
+  [7105] Hypercruise Missiles (77)
 Unit can be disbanded: YES

@@ -1,229 +1,597 @@
-All units of the unit class Shantor Warrior are listed herein (5 in total):
+All units of the unit class Holy Space Carrier are listed herein (12 in total):
 
 --1--
-Name: Shantor Warrior
-Nick Name: Shantor War
+Name: Holy Space Carrier
+Nick Name: SS-HSCV
 Scores & Strengths:
-  Tech Score: 807
-  Unit Score: 805
-  Average Score: 806
-  Stat Strength: 580
-  Total Strength: 805
-  Planet Strength: 805
-  Space Strength: 0
-  Garrison Strength: 207
+  Tech Score: 725
+  Unit Score: 725
+  Average Score: 725
+  Stat Strength: 480
+  Total Strength: 725
+  Planet Strength: 0
+  Space Strength: 725
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 15
+  Movement Type: space
+  Move Points: 3
   Spot: 8
-  Camouflage: 4
-  Agility: 15
-  Armor: 5
-  Psy Defense: 5
-  Rank: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 9
+  Psy Defense: 18
+  Rank: 833
 Attacks:
-  Close: 15/15
-Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 27
-Build Cost: 272
+  Direct Space: 8/12
+  Closed Space: 5/10
+  Psychic: 9/11
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 131
+Build Cost: 1235
 Build Resource Requirements:
-  Food: 16
-  Energy: 51
-  Metal: 3
-  Trace: 11
-  Exotica: 17
-  Chemicals: 53
-  Biochems: 82
-  Electronics: 24
-Build Shantor Warrior in Farm
-Time to Build / Upgrade: 4
-[3105] Technologies Required to Build Unit (51):
-  [2980] Xenoimmunology (41)
-  [125] Xenopsychology (60)
+  Metal: 27
+  Trace: 8
+  Chemicals: 15
+  Electronics: 7
+  Gems: 10
+Upgrade Clergy to Holy Space Carrier at Church
+Time to Build / Upgrade: 1
+[3325] Technologies Required to Build Unit (85):
+  [700] Rockets (90)
+  [1100] Omen (76)
+  [330] Holy Warriors (82)
+  [1195] Naval Warfare (90)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Shantor Rebel
-Nick Name: Shantor Rbl
+Name: Holy Space Freighter
+Nick Name: SS-HSF
 Scores & Strengths:
-  Tech Score: 807
-  Unit Score: 805
-  Average Score: 806
-  Stat Strength: 584
-  Total Strength: 805
-  Planet Strength: 805
-  Space Strength: 0
-  Garrison Strength: 201
+  Tech Score: 725
+  Unit Score: 725
+  Average Score: 725
+  Stat Strength: 608
+  Total Strength: 725
+  Planet Strength: 0
+  Space Strength: 725
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 16
+  Movement Type: space
+  Move Points: 6
   Spot: 8
-  Camouflage: 6
-  Agility: 14
-  Armor: 4
-  Psy Defense: 4
-  Rank: 8
+  Camouflage: 2
+  Agility: 2
+  Armor: 10
+  Psy Defense: 20
+  Rank: 77
 Attacks:
-  Close: 17/13
-Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 25
-Build Cost: 251
+  Closed Space: 9/5
+  Psychic: 9/8
+Cargo Space: 2
+Immune to Plague
+Upkeep / Maintenance: 35
+Build Cost: 276
 Build Resource Requirements:
-  Food: 17
-  Energy: 43
-  Metal: 2
-  Trace: 12
-  Exotica: 17
-  Chemicals: 44
-  Biochems: 74
-  Electronics: 27
-Build Shantor Rebel in Farm
-Time to Build / Upgrade: 4
-[3105] Technologies Required to Build Unit (51):
-  [2980] Xenoimmunology (41)
-  [125] Xenopsychology (60)
+  Metal: 35
+  Trace: 8
+  Chemicals: 3
+  Electronics: 7
+  Gems: 3
+Upgrade Clergy to Holy Space Freighter at Church
+Time to Build / Upgrade: 1
+[3325] Technologies Required to Build Unit (85):
+  [700] Rockets (90)
+  [1100] Omen (76)
+  [330] Holy Warriors (82)
+  [1195] Naval Warfare (90)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Shantor Sun Runner
-Nick Name: Sun Runner
+Name: Holy Space Bulk Hauler
+Nick Name: SS-HSBH
 Scores & Strengths:
-  Tech Score: 807
-  Unit Score: 806
-  Average Score: 806
-  Stat Strength: 606
-  Total Strength: 806
-  Planet Strength: 806
-  Space Strength: 706
-  Garrison Strength: 195
+  Tech Score: 725
+  Unit Score: 906
+  Average Score: 816
+  Stat Strength: 822
+  Total Strength: 906
+  Planet Strength: 0
+  Space Strength: 906
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 17
+  Movement Type: space
+  Move Points: 6
   Spot: 8
-  Camouflage: 2
-  Agility: 13
-  Armor: 4
-  Psy Defense: 8
-  Rank: 708
+  Camouflage: 1
+  Agility: 1
+  Armor: 12
+  Psy Defense: 24
+  Rank: 98
 Attacks:
-  Psychic: 10/10
-  Close: 10/10
-Load aboard transport: YES
-Clergy - Increases Tithe Skim and Converts Sects
-Can tow units that can be towed
-Upkeep / Maintenance: 66
-Build Cost: 660
+  Closed Space: 4/6
+  Psychic: 6/10
+Cargo Space: 4
+Immune to Plague
+Upkeep / Maintenance: 60
+Build Cost: 525
 Build Resource Requirements:
-  Food: 18
-  Energy: 32
-  Metal: 5
-  Trace: 7
-  Exotica: 18
-  Chemicals: 34
-  Biochems: 60
-  Electronics: 15
-  Gems: 31
-Build Shantor Sun Runner in Church
-Time to Build / Upgrade: 3
-[3105] Technologies Required to Build Unit (51):
-  [2980] Xenoimmunology (41)
-  [125] Xenopsychology (60)
+  Metal: 51
+  Trace: 5
+  Chemicals: 4
+  Electronics: 4
+  Gems: 7
+Upgrade Clergy to Holy Space Bulk Hauler at Church
+Time to Build / Upgrade: 1
+[3325] Technologies Required to Build Unit (85):
+  [700] Rockets (90)
+  [1100] Omen (76)
+  [330] Holy Warriors (82)
+  [1195] Naval Warfare (90)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Shantor Darkwalker
-Nick Name: Darkwalker
+Name: Holy Space Escort Carrier
+Nick Name: SS-HSEC
 Scores & Strengths:
-  Tech Score: 807
-  Unit Score: 809
-  Average Score: 808
-  Stat Strength: 588
-  Total Strength: 809
-  Planet Strength: 809
-  Space Strength: 0
-  Garrison Strength: 224
+  Tech Score: 1706
+  Unit Score: 1706
+  Average Score: 1706
+  Stat Strength: 937
+  Total Strength: 1706
+  Planet Strength: 0
+  Space Strength: 1706
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 13
-  Spot: 8
-  Camouflage: 4
-  Agility: 17
-  Armor: 5
-  Psy Defense: 5
-  Rank: 8
+  Movement Type: space
+  Move Points: 7
+  Spot: 10
+  Camouflage: 2
+  Agility: 8
+  Armor: 12
+  Psy Defense: 24
+  Rank: 838
 Attacks:
-  Close: 17/13
-Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 25
-Build Cost: 246
+  Direct Space: 10/25
+  Closed Space: 11/21
+  Psychic: 24/12
+Cargo Space: 2
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 148
+Build Cost: 1483
 Build Resource Requirements:
-  Food: 15
-  Energy: 41
-  Metal: 3
-  Trace: 13
-  Exotica: 15
-  Chemicals: 43
-  Biochems: 73
-  Electronics: 29
-Build Shantor Darkwalker in Farm
-Time to Build / Upgrade: 4
-[3105] Technologies Required to Build Unit (51):
-  [2980] Xenoimmunology (41)
-  [125] Xenopsychology (60)
+  Food: 2
+  Energy: 25
+  Metal: 18
+  Trace: 8
+  Exotica: 2
+  Chemicals: 30
+  Biochems: 4
+  Electronics: 8
+  Ceramsteel: 20
+  Gems: 15
+Build Holy Space Escort Carrier in Starport
+Time to Build / Upgrade: 3
+[9400] Technologies Required to Build Unit (74):
+  [2585] Supersonics (87)
+  [330] Holy Warriors (82)
+  [1790] Sixth Sense (45)
+  [4695] Advanced Minor Watercraft (83)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Shantor Mercenary
-Nick Name: Shantor Merc
+Name: Holy Space Light Carrier
+Nick Name: SS-HSLC
 Scores & Strengths:
-  Tech Score: 807
-  Unit Score: 809
-  Average Score: 808
-  Stat Strength: 613
-  Total Strength: 809
-  Planet Strength: 809
-  Space Strength: 0
-  Garrison Strength: 216
+  Tech Score: 1965
+  Unit Score: 1965
+  Average Score: 1965
+  Stat Strength: 820
+  Total Strength: 1965
+  Planet Strength: 0
+  Space Strength: 1965
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 14
-  Spot: 8
-  Camouflage: 5
-  Agility: 16
-  Armor: 6
-  Psy Defense: 6
-  Rank: 8
+  Movement Type: space
+  Move Points: 9
+  Spot: 10
+  Camouflage: 3
+  Agility: 5
+  Armor: 11
+  Psy Defense: 22
+  Rank: 854
 Attacks:
-  Close: 14/14
-Load aboard transport: YES
-Can tow units that can be towed
-Upkeep / Maintenance: 26
-Build Cost: 255
+  Direct Space: 27/21
+  Closed Space: 24/14
+  Psychic: 22/11
+Cargo Space: 2
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 143
+Build Cost: 1431
 Build Resource Requirements:
-  Food: 15
-  Energy: 46
-  Metal: 4
-  Trace: 11
-  Exotica: 16
-  Chemicals: 48
-  Biochems: 76
-  Electronics: 24
-Build Shantor Mercenary in Farm
-Time to Build / Upgrade: 4
-[3105] Technologies Required to Build Unit (51):
-  [2980] Xenoimmunology (41)
-  [125] Xenopsychology (60)
+  Food: 2
+  Energy: 14
+  Metal: 13
+  Trace: 27
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 14
+  Electronics: 32
+  Ceramsteel: 15
+  Gems: 11
+Build Holy Space Light Carrier in Starport
+Time to Build / Upgrade: 3
+[11230] Technologies Required to Build Unit (74):
+  [2790] Supercruise (86)
+  [330] Holy Warriors (82)
+  [2255] Sympathy (Bonding) (45)
+  [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Holy Space Transport Carrier
+Nick Name: SS-HSTC
+Scores & Strengths:
+  Tech Score: 1965
+  Unit Score: 1965
+  Average Score: 1965
+  Stat Strength: 1125
+  Total Strength: 1965
+  Planet Strength: 0
+  Space Strength: 1965
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 5
+  Spot: 10
+  Camouflage: 2
+  Agility: 4
+  Armor: 14
+  Psy Defense: 28
+  Rank: 860
+Attacks:
+  Direct Space: 24/10
+  Closed Space: 26/8
+  Psychic: 28/14
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 226
+Build Cost: 2258
+Build Resource Requirements:
+  Food: 1
+  Energy: 4
+  Metal: 21
+  Trace: 26
+  Exotica: 2
+  Chemicals: 7
+  Biochems: 13
+  Electronics: 31
+  Ceramsteel: 24
+  Gems: 17
+Build Holy Space Transport Carrier in Starport
+Time to Build / Upgrade: 3
+[11230] Technologies Required to Build Unit (74):
+  [2790] Supercruise (86)
+  [330] Holy Warriors (82)
+  [2255] Sympathy (Bonding) (45)
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Sathra Freighter
+Nick Name: JJ-HSF
+Scores & Strengths:
+  Tech Score: 2245
+  Unit Score: 2266
+  Average Score: 2255
+  Stat Strength: 1898
+  Total Strength: 2266
+  Planet Strength: 0
+  Space Strength: 2266
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 11
+  Spot: 14
+  Camouflage: 4
+  Agility: 4
+  Armor: 18
+  Psy Defense: 35
+  Rank: 118
+Attacks:
+  Closed Space: 16/9
+  Psychic: 16/14
+Cargo Space: 2
+Immune to Plague
+Upkeep / Maintenance: 339
+Build Cost: 3312
+Build Resource Requirements:
+  Metal: 28
+  Trace: 7
+  Chemicals: 8
+  Biochems: 4
+  Electronics: 9
+  Ceramsteel: 37
+  Gems: 11
+S  ingularities: 3
+Upgrade Clergy to Sathra Freighter at Church
+Time to Build / Upgrade: 2
+[13980] Technologies Required to Build Unit (71):
+  [4530] Hypersonics (83)
+  [330] Holy Warriors (82)
+  [2465] Sathra (36)
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Sathra Carrier
+Nick Name: JJ-HSCV
+Scores & Strengths:
+  Tech Score: 2245
+  Unit Score: 2269
+  Average Score: 2257
+  Stat Strength: 1509
+  Total Strength: 2269
+  Planet Strength: 0
+  Space Strength: 2269
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 5
+  Spot: 14
+  Camouflage: 2
+  Agility: 2
+  Armor: 16
+  Psy Defense: 32
+  Rank: 889
+Attacks:
+  Direct Space: 14/21
+  Closed Space: 9/18
+  Psychic: 16/19
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 627
+Build Cost: 6201
+Build Resource Requirements:
+  Metal: 22
+  Trace: 7
+  Chemicals: 19
+  Biochems: 4
+  Electronics: 9
+  Ceramsteel: 30
+  Gems: 23
+S  ingularities: 2
+Upgrade Clergy to Sathra Carrier at Church
+Time to Build / Upgrade: 2
+[13980] Technologies Required to Build Unit (71):
+  [4530] Hypersonics (83)
+  [330] Holy Warriors (82)
+  [2465] Sathra (36)
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Sathra Escort Carrier
+Nick Name: JJ-HSEC
+Scores & Strengths:
+  Tech Score: 2544
+  Unit Score: 2540
+  Average Score: 2542
+  Stat Strength: 1395
+  Total Strength: 2540
+  Planet Strength: 0
+  Space Strength: 2540
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 9
+  Spot: 12
+  Camouflage: 2
+  Agility: 10
+  Armor: 15
+  Psy Defense: 29
+  Rank: 879
+Attacks:
+  Direct Space: 12/31
+  Closed Space: 13/26
+  Psychic: 29/15
+Cargo Space: 2
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 601
+Build Cost: 6008
+Build Resource Requirements:
+  Food: 2
+  Energy: 27
+  Metal: 19
+  Trace: 7
+  Exotica: 3
+  Chemicals: 37
+  Biochems: 4
+  Electronics: 10
+  Ceramsteel: 23
+  Gems: 15
+S  ingularities: 3
+Build Sathra Escort Carrier in Starport
+Time to Build / Upgrade: 3
+[16135] Technologies Required to Build Unit (68):
+  [4920] Hypercruise (82)
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Sathra Bulk Hauler
+Nick Name: JJ-HSBH
+Scores & Strengths:
+  Tech Score: 2245
+  Unit Score: 2805
+  Average Score: 2525
+  Stat Strength: 2530
+  Total Strength: 2805
+  Planet Strength: 0
+  Space Strength: 2805
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 11
+  Spot: 14
+  Camouflage: 2
+  Agility: 2
+  Armor: 21
+  Psy Defense: 42
+  Rank: 140
+Attacks:
+  Closed Space: 7/11
+  Psychic: 11/18
+Cargo Space: 4
+Immune to Plague
+Upkeep / Maintenance: 483
+Build Cost: 4754
+Build Resource Requirements:
+  Metal: 41
+  Trace: 4
+  Chemicals: 10
+  Biochems: 3
+  Electronics: 5
+  Ceramsteel: 52
+  Gems: 20
+S  ingularities: 4
+Upgrade Clergy to Sathra Bulk Hauler at Church
+Time to Build / Upgrade: 3
+[13980] Technologies Required to Build Unit (71):
+  [4530] Hypersonics (83)
+  [330] Holy Warriors (82)
+  [2465] Sathra (36)
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Sathra Light Carrier
+Nick Name: JJ-HSLC
+Scores & Strengths:
+  Tech Score: 4814
+  Unit Score: 4786
+  Average Score: 4800
+  Stat Strength: 1986
+  Total Strength: 4786
+  Planet Strength: 0
+  Space Strength: 4786
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 14
+  Spot: 16
+  Camouflage: 5
+  Agility: 8
+  Armor: 17
+  Psy Defense: 34
+  Rank: 934
+Attacks:
+  Direct Space: 42/33
+  Closed Space: 38/22
+  Psychic: 34/17
+Cargo Space: 2
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 1102
+Build Cost: 11017
+Build Resource Requirements:
+  Food: 2
+  Energy: 9
+  Metal: 5
+  Trace: 22
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 11
+  Electronics: 40
+  Ceramsteel: 9
+  Monopols: 23
+  Gems: 17
+S  ingularities: 4
+Build Sathra Light Carrier in Starport
+Time to Build / Upgrade: 4
+[39650] Technologies Required to Build Unit (63):
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [3835] Sathra's Space Doctrine (17)
+  [27875] PTS Meson Navalcraft (74)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Sathra Transport Carrier
+Nick Name: JJ-HSTC
+Scores & Strengths:
+  Tech Score: 4814
+  Unit Score: 4894
+  Average Score: 4854
+  Stat Strength: 2785
+  Total Strength: 4894
+  Planet Strength: 0
+  Space Strength: 4894
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 8
+  Spot: 16
+  Camouflage: 3
+  Agility: 6
+  Armor: 22
+  Psy Defense: 44
+  Rank: 934
+Attacks:
+  Direct Space: 38/16
+  Closed Space: 41/13
+  Psychic: 44/22
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 1151
+Build Cost: 11508
+Build Resource Requirements:
+  Food: 1
+  Energy: 3
+  Metal: 8
+  Trace: 21
+  Exotica: 1
+  Chemicals: 8
+  Biochems: 11
+  Electronics: 40
+  Ceramsteel: 15
+  Monopols: 18
+  Gems: 28
+S  ingularities: 3
+Build Sathra Transport Carrier in Starport
+Time to Build / Upgrade: 4
+[39650] Technologies Required to Build Unit (63):
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [3835] Sathra's Space Doctrine (17)
+  [27875] PTS Meson Navalcraft (74)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

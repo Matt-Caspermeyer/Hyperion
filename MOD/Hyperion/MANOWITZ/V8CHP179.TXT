@@ -1,188 +1,140 @@
-All units of the unit class Light Anti-Air Mech are listed herein (4 in total):
+All units of the unit class Symbiot Tank are listed herein (3 in total):
 
 --1--
-Name: Light Anti-Air Mech
-Nick Name: Vindicator
+Name: Symbiot Tank
+Nick Name: Shuffler
 Scores & Strengths:
-  Tech Score: 1686
-  Unit Score: 1685
-  Average Score: 1686
-  Stat Strength: 1185
-  Total Strength: 1685
-  Planet Strength: 1685
+  Tech Score: 1530
+  Unit Score: 1530
+  Average Score: 1530
+  Stat Strength: 1232
+  Total Strength: 1530
+  Planet Strength: 1530
   Space Strength: 0
-  Garrison Strength: 450
+  Garrison Strength: 408
 Statistics:
-  Movement Type: mech
+  Movement Type: tread
   Move Points: 14
-  Spot: 10
-  Camouflage: 4
-  Agility: 19
-  Armor: 16
-  Psy Defense: 16
-  Rank: 123
+  Spot: 12
+  Camouflage: 14
+  Agility: 14
+  Armor: 20
+  Psy Defense: 10
+  Rank: 85
 Attacks:
-  Air: 20/13
-  Indirect: 16/15
+  Indirect: 10/11
+  Direct: 10/10
+  Close: 11/8
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 17
-Build Cost: 166
+Causes Tactical Plague
+Upkeep / Maintenance: 46
+Build Cost: 464
 Build Resource Requirements:
   Food: 5
-  Energy: 14
-  Metal: 10
-  Trace: 16
-  Exotica: 5
-  Chemicals: 26
-  Electronics: 24
-  Ceramsteel: 15
-Build Light Anti-Air Mech in Starport
-Time to Build / Upgrade: 3
-[10330] Technologies Required to Build Unit (84):
-  [1690] Ceramsteel (84)
-  [2420] Rocket-Propelled Aircraft (87)
-  [6220] Mechanically-Enhanced Soldiers (80)
+  Energy: 49
+  Metal: 9
+  Trace: 10
+  Exotica: 6
+  Chemicals: 61
+  Biochems: 98
+  Electronics: 23
+Build Symbiot Tank in Hive
+Time to Build / Upgrade: 4
+[6995] Technology Required to Build Unit (37):
+  [6995] Symbiot Psychology (37)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Medium Anti-Air Mech
-Nick Name: Talisman
+Name: Galka Setzo (Symbiot)
+Nick Name: Galka Setzo
 Scores & Strengths:
-  Tech Score: 2414
-  Unit Score: 2414
-  Average Score: 2414
-  Stat Strength: 1578
-  Total Strength: 2414
-  Planet Strength: 2414
+  Tech Score: 1530
+  Unit Score: 1530
+  Average Score: 1530
+  Stat Strength: 1218
+  Total Strength: 1530
+  Planet Strength: 1530
   Space Strength: 0
-  Garrison Strength: 603
+  Garrison Strength: 408
 Statistics:
-  Movement Type: mech
-  Move Points: 16
-  Spot: 13
-  Camouflage: 8
-  Agility: 11
-  Armor: 22
-  Psy Defense: 22
-  Rank: 139
+  Movement Type: tread
+  Move Points: 14
+  Spot: 9
+  Camouflage: 11
+  Agility: 10
+  Armor: 24
+  Psy Defense: 12
+  Rank: 90
 Attacks:
-  Air: 23/19
-  Indirect: 21/19
+  Indirect: 7/24
+  Direct: 9/16
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 118
-Build Cost: 1178
+Causes Tactical Plague
+Upkeep / Maintenance: 98
+Build Cost: 979
 Build Resource Requirements:
-  Food: 3
-  Energy: 9
-  Metal: 8
-  Trace: 17
-  Exotica: 3
-  Chemicals: 17
-  Electronics: 23
-  Ceramsteel: 9
-  Monopols: 25
-Build Medium Anti-Air Mech in Starport
-Time to Build / Upgrade: 3
-[12850] Technology Required to Build Unit (71):
-  [12850] Mechanized Warriors (71)
+  Food: 4
+  Energy: 134
+  Metal: 12
+  Trace: 5
+  Exotica: 5
+  Chemicals: 166
+  Biochems: 212
+  Electronics: 13
+Build Galka Setzo (Symbiot) in Hive
+Time to Build / Upgrade: 6
+[6995] Technology Required to Build Unit (37):
+  [6995] Symbiot Psychology (37)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Heavy Anti-Air Mech
-Nick Name: Avenger
+Name: Zaibo (Symbiot)
+Nick Name: Zaibo
 Scores & Strengths:
-  Tech Score: 5401
-  Unit Score: 5401
-  Average Score: 5401
-  Stat Strength: 3067
-  Total Strength: 5401
-  Planet Strength: 5401
+  Tech Score: 1530
+  Unit Score: 1530
+  Average Score: 1530
+  Stat Strength: 1361
+  Total Strength: 1530
+  Planet Strength: 1530
   Space Strength: 0
-  Garrison Strength: 1273
+  Garrison Strength: 351
 Statistics:
-  Movement Type: mech
-  Move Points: 18
-  Spot: 14
-  Camouflage: 12
-  Agility: 15
-  Armor: 33
-  Psy Defense: 33
-  Rank: 149
+  Movement Type: foot
+  Move Points: 19
+  Spot: 15
+  Camouflage: 17
+  Agility: 21
+  Armor: 6
+  Psy Defense: 3
+  Rank: 100
 Attacks:
-  Air: 31/28
-  Indirect: 30/32
-  Direct: 22/23
+  Air: 5/5
+  Close: 12/12
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 230
-Build Cost: 2298
+Causes Tactical Plague
+Upkeep / Maintenance: 38
+Build Cost: 377
 Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 8
-  Trace: 25
-  Exotica: 2
-  Chemicals: 20
-  Biochems: 26
-  Electronics: 31
-  Ceramsteel: 11
-  Monopols: 33
-Build Heavy Anti-Air Mech in Starport
-Time to Build / Upgrade: 4
-[35965] Technology Required to Build Unit (64):
-  [35965] Advanced Mechanized Warriors (64)
+  Food: 10
+  Energy: 35
+  Metal: 1
+  Trace: 14
+  Exotica: 12
+  Chemicals: 43
+  Biochems: 71
+  Electronics: 35
+Build Zaibo (Symbiot) in Hive
+Time to Build / Upgrade: 3
+[6995] Technology Required to Build Unit (37):
+  [6995] Symbiot Psychology (37)
 Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: Assault Anti-Air Mech
-Nick Name: Phoenix
-Scores & Strengths:
-  Tech Score: 5809
-  Unit Score: 5809
-  Average Score: 5809
-  Stat Strength: 3473
-  Total Strength: 5809
-  Planet Strength: 5809
-  Space Strength: 0
-  Garrison Strength: 1298
-Statistics:
-  Movement Type: mech
-  Move Points: 20
-  Spot: 16
-  Camouflage: 12
-  Agility: 19
-  Armor: 34
-  Psy Defense: 34
-  Rank: 153
-Attacks:
-  Air: 30/29
-  Indirect: 30/32
-  Direct: 22/23
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 289
-Build Cost: 2893
-Build Resource Requirements:
-  Food: 1
-  Energy: 12
-  Metal: 7
-  Trace: 10
-  Exotica: 2
-  Chemicals: 20
-  Biochems: 25
-  Electronics: 16
-  Ceramsteel: 10
-  Wetware: 9
-  Monopols: 31
-Build Assault Anti-Air Mech in Starport
-Time to Build / Upgrade: 4
-[52710] Technologies Required to Build Unit (44):
-  [16745] Wetware (23)
-  [35965] Advanced Mechanized Warriors (64)
-Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

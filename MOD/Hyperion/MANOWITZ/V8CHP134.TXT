@@ -1,864 +1,441 @@
-All units of the unit class Cargo Plane are listed herein (20 in total):
+All units of the unit class Rebel Soldier Legion are listed herein (10 in total):
 
 --1--
-Name: Cargo Plane
-Nick Name: A-PX
+Name: Rebel Soldier Legion
+Nick Name: R. Sldr
 Scores & Strengths:
-  Tech Score: 591
-  Unit Score: 590
-  Average Score: 591
-  Stat Strength: 590
-  Total Strength: 590
-  Planet Strength: 590
+  Tech Score: 558
+  Unit Score: 558
+  Average Score: 558
+  Stat Strength: 284
+  Total Strength: 558
+  Planet Strength: 558
   Space Strength: 0
-  Garrison Strength: 163
+  Garrison Strength: 227
 Statistics:
-  Movement Type: air
-  Move Points: 13
+  Movement Type: foot
+  Move Points: 6
   Spot: 6
-  Camouflage: 4
-  Agility: 9
-  Armor: 12
-  Psy Defense: 12
-  Rank: 91
-Cargo Space: 1
-Upkeep / Maintenance: 11
-Build Cost: 105
+  Camouflage: 6
+  Agility: 12
+  Armor: 4
+  Psy Defense: 4
+  Rank: 48
+Attacks:
+  Air: 11/6
+  Indirect: 8/8
+  Direct: 9/8
+  Close: 12/6
+Load aboard transport: YES
+Upkeep / Maintenance: 15
+Build Cost: 136
 Build Resource Requirements:
-  Food: 8
-  Energy: 14
-  Metal: 198
-  Trace: 7
-  Exotica: 8
-  Chemicals: 15
-  Electronics: 6
-Build Cargo Plane in Factory
+  Energy: 31
+  Metal: 12
+  Trace: 35
+  Exotica: 13
+  Chemicals: 63
+  Electronics: 52
+  Gems: 1
+Upgrade Peasant to Rebel Soldier Legion at Fort
 Time to Build / Upgrade: 3
-[1970] Technology Required to Build Unit (87):
-  [1970] Cargo Handling (87)
+[1935] Technologies Required to Build Unit (82):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Medium Cargo Plane
-Nick Name: A-PX (M)
+Name: Rebel Soldier Legion (BE)
+Nick Name: R. Sldr (BE)
 Scores & Strengths:
-  Tech Score: 677
-  Unit Score: 667
-  Average Score: 672
-  Stat Strength: 667
-  Total Strength: 667
-  Planet Strength: 667
+  Tech Score: 597
+  Unit Score: 722
+  Average Score: 660
+  Stat Strength: 353
+  Total Strength: 722
+  Planet Strength: 722
   Space Strength: 0
-  Garrison Strength: 178
+  Garrison Strength: 272
 Statistics:
-  Movement Type: air
-  Move Points: 14
+  Movement Type: foot
+  Move Points: 7
   Spot: 6
-  Camouflage: 4
-  Agility: 9
-  Armor: 13
-  Psy Defense: 13
-  Rank: 102
-Cargo Space: 2
-Upkeep / Maintenance: 5
-Build Cost: 54
+  Camouflage: 7
+  Agility: 13
+  Armor: 5
+  Psy Defense: 5
+  Rank: 52
+Attacks:
+  Air: 13/7
+  Indirect: 9/9
+  Direct: 11/9
+  Close: 14/7
+Load aboard transport: YES
+Upkeep / Maintenance: 26
+Build Cost: 120
 Build Resource Requirements:
-  Food: 7
-  Energy: 11
-  Metal: 63
-  Trace: 5
-  Exotica: 7
-  Chemicals: 11
-  Electronics: 5
-Build Medium Cargo Plane in Factory
-Time to Build / Upgrade: 2
-[2740] Technologies Required to Build Unit (90):
-  [770] Self-Propelled Weaponry (92)
-  [1970] Cargo Handling (87)
+  Metal: 3
+  Trace: 4
+  Biochems: 70
+Upgrade Rebel Soldier Legion to Rebel Soldier Legion (BE) at Biochem Plant
+Time to Build / Upgrade: 1
+[2355] Technologies Required to Build Unit (80):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
+  [420] Biochem-Enhanced Soldiers (77)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Heavy Cargo Plane
-Nick Name: A-PX (H)
+Name: Rebel Soldier Legion (SE)
+Nick Name: R. Sldr (SE)
 Scores & Strengths:
-  Tech Score: 839
-  Unit Score: 791
-  Average Score: 815
-  Stat Strength: 791
-  Total Strength: 791
-  Planet Strength: 791
+  Tech Score: 653
+  Unit Score: 779
+  Average Score: 716
+  Stat Strength: 366
+  Total Strength: 779
+  Planet Strength: 779
   Space Strength: 0
-  Garrison Strength: 204
+  Garrison Strength: 294
 Statistics:
-  Movement Type: air
-  Move Points: 15
+  Movement Type: foot
+  Move Points: 7
   Spot: 7
-  Camouflage: 5
-  Agility: 10
-  Armor: 14
-  Psy Defense: 14
-  Rank: 113
-Cargo Space: 3
-Upkeep / Maintenance: 6
-Build Cost: 62
+  Camouflage: 7
+  Agility: 13
+  Armor: 5
+  Psy Defense: 5
+  Rank: 53
+Attacks:
+  Air: 14/7
+  Indirect: 10/10
+  Direct: 11/10
+  Close: 15/7
+Load aboard transport: YES
+Upkeep / Maintenance: 26
+Build Cost: 126
 Build Resource Requirements:
-  Food: 7
-  Energy: 10
-  Metal: 42
-  Trace: 5
-  Exotica: 7
-  Chemicals: 22
-  Electronics: 6
-Build Heavy Cargo Plane in Factory
-Time to Build / Upgrade: 2
-[3670] Technologies Required to Build Unit (88):
-  [1700] Main Battle Tank (88)
-  [1970] Cargo Handling (87)
+  Trace: 8
+  Biochems: 71
+  Electronics: 5
+Upgrade Rebel Soldier Legion to Rebel Soldier Legion (SE) at Hospital
+Time to Build / Upgrade: 1
+[2610] Technologies Required to Build Unit (80):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
+  [675] Surgically-Enhanced Soldiers (75)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Cargo Plane II
-Nick Name: A-PX II
+Name: Rebel Soldier Legion (DE)
+Nick Name: R. Sldr (DE)
 Scores & Strengths:
-  Tech Score: 911
-  Unit Score: 880
-  Average Score: 896
-  Stat Strength: 880
-  Total Strength: 880
-  Planet Strength: 880
+  Tech Score: 1030
+  Unit Score: 1144
+  Average Score: 1087
+  Stat Strength: 508
+  Total Strength: 1144
+  Planet Strength: 1144
   Space Strength: 0
-  Garrison Strength: 220
+  Garrison Strength: 381
 Statistics:
-  Movement Type: air
-  Move Points: 16
+  Movement Type: foot
+  Move Points: 9
   Spot: 7
-  Camouflage: 5
-  Agility: 10
-  Armor: 15
-  Psy Defense: 15
-  Rank: 94
-Cargo Space: 1
-Upkeep / Maintenance: 10
-Build Cost: 97
+  Camouflage: 9
+  Agility: 15
+  Armor: 6
+  Psy Defense: 6
+  Rank: 62
+Attacks:
+  Air: 17/9
+  Indirect: 12/12
+  Direct: 14/12
+  Close: 19/9
+Load aboard transport: YES
+Upkeep / Maintenance: 18
+Build Cost: 40
 Build Resource Requirements:
-  Food: 8
-  Energy: 12
-  Metal: 29
-  Trace: 5
-  Exotica: 8
-  Chemicals: 26
-  Electronics: 6
-  Ceramsteel: 44
-Build Cargo Plane II in Factory
-Time to Build / Upgrade: 3
-[3660] Technologies Required to Build Unit (86):
-  [1690] Ceramsteel (84)
-  [1970] Cargo Handling (87)
+  Metal: 3
+  Biochems: 51
+Upgrade Rebel Soldier Legion to Rebel Soldier Legion (DE) at Biochem Plant
+Time to Build / Upgrade: 1
+[5375] Technologies Required to Build Unit (76):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
+  [3440] Drug-Enhanced Soldiers (65)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Medium Cargo Plane II
-Nick Name: A-PX (M) II
+Name: Rebel Soldier Legion (GE)
+Nick Name: R. Sldr (GE)
 Scores & Strengths:
-  Tech Score: 984
-  Unit Score: 913
-  Average Score: 949
-  Stat Strength: 913
-  Total Strength: 913
-  Planet Strength: 913
+  Tech Score: 1440
+  Unit Score: 1570
+  Average Score: 1505
+  Stat Strength: 660
+  Total Strength: 1570
+  Planet Strength: 1570
   Space Strength: 0
-  Garrison Strength: 221
+  Garrison Strength: 473
 Statistics:
-  Movement Type: air
-  Move Points: 17
-  Spot: 7
-  Camouflage: 5
-  Agility: 10
-  Armor: 15
-  Psy Defense: 15
-  Rank: 104
-Cargo Space: 2
-Upkeep / Maintenance: 9
-Build Cost: 85
+  Movement Type: foot
+  Move Points: 11
+  Spot: 8
+  Camouflage: 11
+  Agility: 16
+  Armor: 7
+  Psy Defense: 7
+  Rank: 71
+Attacks:
+  Air: 20/11
+  Indirect: 15/14
+  Direct: 17/14
+  Close: 22/11
+Load aboard transport: YES
+Upkeep / Maintenance: 22
+Build Cost: 176
 Build Resource Requirements:
-  Food: 8
-  Energy: 11
-  Metal: 29
-  Trace: 5
-  Exotica: 7
-  Chemicals: 21
-  Electronics: 5
-  Ceramsteel: 32
-Build Medium Cargo Plane II in Factory
-Time to Build / Upgrade: 3
-[4430] Technologies Required to Build Unit (88):
-  [1690] Ceramsteel (84)
-  [770] Self-Propelled Weaponry (92)
-  [1970] Cargo Handling (87)
+  Energy: 3
+  Trace: 1
+  Chemicals: 7
+  Biochems: 14
+  Electronics: 2
+  Ceramsteel: 2
+Upgrade Rebel Soldier Legion (DE) to Rebel Soldier Legion (GE) at Lab
+Time to Build / Upgrade: 1
+[7955] Technologies Required to Build Unit (71):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
+  [6020] Chemical Shock Legion (49)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Stretch Cargo Plane
-Nick Name: A-PX (S)
+Name: Rebel Soldier Legion (PA)
+Nick Name: R. Sldr (PA)
 Scores & Strengths:
-  Tech Score: 1127
-  Unit Score: 1108
-  Average Score: 1118
-  Stat Strength: 1108
-  Total Strength: 1108
-  Planet Strength: 1108
+  Tech Score: 1466
+  Unit Score: 1587
+  Average Score: 1527
+  Stat Strength: 660
+  Total Strength: 1587
+  Planet Strength: 1587
   Space Strength: 0
-  Garrison Strength: 261
+  Garrison Strength: 478
 Statistics:
-  Movement Type: air
-  Move Points: 18
-  Spot: 7
-  Camouflage: 6
-  Agility: 11
-  Armor: 17
-  Psy Defense: 17
-  Rank: 126
-Cargo Space: 4
-Upkeep / Maintenance: 11
-Build Cost: 106
+  Movement Type: foot
+  Move Points: 11
+  Spot: 8
+  Camouflage: 11
+  Agility: 16
+  Armor: 7
+  Psy Defense: 7
+  Rank: 71
+Attacks:
+  Air: 20/11
+  Indirect: 15/15
+  Direct: 16/15
+  Close: 22/11
+Load aboard transport: YES
+Upkeep / Maintenance: 26
+Build Cost: 134
 Build Resource Requirements:
-  Food: 8
-  Energy: 10
-  Metal: 31
-  Trace: 5
-  Exotica: 8
-  Chemicals: 22
-  Electronics: 5
-  Ceramsteel: 29
-Build Stretch Cargo Plane in Factory
-Time to Build / Upgrade: 3
-[5530] Technologies Required to Build Unit (89):
-  [170] Reactive Armor (95)
-  [1690] Ceramsteel (84)
-  [1700] Main Battle Tank (88)
-  [1970] Cargo Handling (87)
+  Chemicals: 9
+  Ceramsteel: 8
+Upgrade Rebel Soldier Legion (SE) to Rebel Soldier Legion (PA) at Hospital
+Time to Build / Upgrade: 1
+[8110] Technologies Required to Build Unit (74):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
+  [6175] Prosthetically-Augmented Soldiers (57)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Heavy Cargo Plane II
-Nick Name: A-PX (H) II
+Name: Rebel Soldier Legion (CE)
+Nick Name: R. Sldr (CE)
 Scores & Strengths:
-  Tech Score: 1202
-  Unit Score: 1145
-  Average Score: 1173
-  Stat Strength: 1145
-  Total Strength: 1145
-  Planet Strength: 1145
+  Tech Score: 1813
+  Unit Score: 1906
+  Average Score: 1860
+  Stat Strength: 786
+  Total Strength: 1906
+  Planet Strength: 1906
   Space Strength: 0
-  Garrison Strength: 262
+  Garrison Strength: 550
 Statistics:
-  Movement Type: air
-  Move Points: 19
-  Spot: 7
-  Camouflage: 6
-  Agility: 11
-  Armor: 17
-  Psy Defense: 17
-  Rank: 117
-Cargo Space: 3
-Upkeep / Maintenance: 10
-Build Cost: 104
+  Movement Type: foot
+  Move Points: 12
+  Spot: 9
+  Camouflage: 12
+  Agility: 17
+  Armor: 8
+  Psy Defense: 8
+  Rank: 78
+Attacks:
+  Air: 23/12
+  Indirect: 16/16
+  Direct: 18/16
+  Close: 25/12
+Load aboard transport: YES
+Upkeep / Maintenance: 28
+Build Cost: 148
 Build Resource Requirements:
-  Food: 8
-  Energy: 10
-  Metal: 28
-  Trace: 4
-  Exotica: 8
-  Chemicals: 21
-  Electronics: 21
-  Ceramsteel: 26
-Build Heavy Cargo Plane II in Factory
-Time to Build / Upgrade: 3
-[6875] Technologies Required to Build Unit (86):
-  [1690] Ceramsteel (84)
-  [260] Electronic Armor (90)
-  [1255] Digital Fly-by-Wire (81)
-  [1700] Main Battle Tank (88)
-  [1970] Cargo Handling (87)
+  Energy: 5
+  Metal: 2
+  Chemicals: 7
+  Biochems: 1
+  Ceramsteel: 2
+Upgrade Rebel Soldier Legion (PA) to Rebel Soldier Legion (CE) at Lab
+Time to Build / Upgrade: 1
+[10535] Technologies Required to Build Unit (71):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
+  [8600] Cybernetically-Enhanced Soldiers (48)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Stretch Cargo Plane II
-Nick Name: A-PX (S) II
+Name: Rebel Soldier Legion (AVE)
+Nick Name: R. Sldr (AVE)
 Scores & Strengths:
-  Tech Score: 1408
-  Unit Score: 1328
-  Average Score: 1368
-  Stat Strength: 1328
-  Total Strength: 1328
-  Planet Strength: 1328
+  Tech Score: 1899
+  Unit Score: 2012
+  Average Score: 1956
+  Stat Strength: 836
+  Total Strength: 2012
+  Planet Strength: 2012
   Space Strength: 0
-  Garrison Strength: 296
+  Garrison Strength: 558
 Statistics:
-  Movement Type: air
-  Move Points: 20
-  Spot: 7
-  Camouflage: 6
-  Agility: 11
-  Armor: 19
-  Psy Defense: 19
-  Rank: 129
-Cargo Space: 4
-Upkeep / Maintenance: 14
-Build Cost: 143
+  Movement Type: foot
+  Move Points: 13
+  Spot: 9
+  Camouflage: 13
+  Agility: 17
+  Armor: 8
+  Psy Defense: 8
+  Rank: 80
+Attacks:
+  Air: 24/12
+  Indirect: 17/16
+  Direct: 19/16
+  Close: 26/12
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 33
+Build Cost: 152
 Build Resource Requirements:
-  Food: 6
-  Energy: 9
-  Metal: 35
-  Trace: 3
-  Exotica: 6
-  Chemicals: 34
-  Electronics: 25
-  Ceramsteel: 33
-Build Stretch Cargo Plane II in Factory
-Time to Build / Upgrade: 3
-[8710] Technologies Required to Build Unit (86):
-  [1690] Ceramsteel (84)
-  [3350] Active Protective Systems (83)
-  [1700] Main Battle Tank (88)
-  [1970] Cargo Handling (87)
+  Energy: 4
+  Chemicals: 6
+  Biochems: 12
+  Electronics: 3
+Upgrade Rebel Soldier Legion (GE) to Rebel Soldier Legion (AVE) at Lab
+Time to Build / Upgrade: 1
+[10835] Technologies Required to Build Unit (63):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
+  [8900] Genetically-Enhanced Warriors (25)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Cargo Plane III
-Nick Name: A-PX III
+Name: Rebel Soldier Legion (MF)
+Nick Name: R. Sldr (MF)
 Scores & Strengths:
-  Tech Score: 1472
-  Unit Score: 1384
-  Average Score: 1428
-  Stat Strength: 1384
-  Total Strength: 1384
-  Planet Strength: 1384
+  Tech Score: 3205
+  Unit Score: 3258
+  Average Score: 3231
+  Stat Strength: 1254
+  Total Strength: 3258
+  Planet Strength: 3258
   Space Strength: 0
-  Garrison Strength: 302
+  Garrison Strength: 814
 Statistics:
-  Movement Type: air
-  Move Points: 21
-  Spot: 8
-  Camouflage: 6
-  Agility: 11
-  Armor: 19
-  Psy Defense: 19
-  Rank: 99
-Cargo Space: 1
-Upkeep / Maintenance: 9
-Build Cost: 90
+  Movement Type: foot
+  Move Points: 16
+  Spot: 10
+  Camouflage: 16
+  Agility: 20
+  Armor: 11
+  Psy Defense: 11
+  Rank: 103
+Attacks:
+  Air: 30/16
+  Indirect: 22/22
+  Direct: 24/22
+  Close: 32/16
+Load aboard transport: YES
+Upkeep / Maintenance: 252
+Build Cost: 2375
 Build Resource Requirements:
-  Food: 7
-  Energy: 11
-  Metal: 20
-  Trace: 4
-  Exotica: 7
-  Chemicals: 27
-  Electronics: 17
-  Ceramsteel: 26
-Build Cargo Plane III in Factory
-Time to Build / Upgrade: 3
-[7175] Technologies Required to Build Unit (86):
-  [1970] Cargo Handling (87)
-  [5205] Advanced Battle Tanks (84)
+  Energy: 3
+  Chemicals: 4
+  Biochems: 10
+  Wetware: 22
+  Monopols: 62
+Upgrade Rebel Soldier Legion (CE) to Rebel Soldier Legion (MF) at Wetware
+Time to Build / Upgrade: 4
+[20510] Technologies Required to Build Unit (66):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
+  [18575] Machine-Fused Soldiers (35)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Medium Cargo Plane III
-Nick Name: A-PX (M) III
+Name: Rebel Soldier Legion (NE)
+Nick Name: R. Sldr (NE)
 Scores & Strengths:
-  Tech Score: 1674
-  Unit Score: 1541
-  Average Score: 1608
-  Stat Strength: 1541
-  Total Strength: 1541
-  Planet Strength: 1541
+  Tech Score: 3893
+  Unit Score: 4131
+  Average Score: 4012
+  Stat Strength: 1665
+  Total Strength: 4131
+  Planet Strength: 4131
   Space Strength: 0
-  Garrison Strength: 328
+  Garrison Strength: 973
 Statistics:
-  Movement Type: air
-  Move Points: 22
-  Spot: 8
-  Camouflage: 7
-  Agility: 12
-  Armor: 20
-  Psy Defense: 20
-  Rank: 111
-Cargo Space: 2
-Upkeep / Maintenance: 10
-Build Cost: 96
+  Movement Type: foot
+  Move Points: 18
+  Spot: 11
+  Camouflage: 21
+  Agility: 21
+  Armor: 13
+  Psy Defense: 13
+  Rank: 116
+Attacks:
+  Air: 33/18
+  Indirect: 24/24
+  Direct: 27/24
+  Close: 36/18
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 235
+Build Cost: 2201
 Build Resource Requirements:
-  Food: 6
-  Energy: 10
-  Metal: 22
-  Trace: 3
-  Exotica: 6
-  Chemicals: 25
-  Electronics: 18
-  Ceramsteel: 28
-Build Medium Cargo Plane III in Factory
+  Wetware: 25
+  Monopols: 30
+Upgrade Rebel Soldier Legion (AVE) to Rebel Soldier Legion (NE) at Fusorium
 Time to Build / Upgrade: 3
-[10375] Technologies Required to Build Unit (85):
-  [1970] Cargo Handling (87)
-  [5205] Advanced Battle Tanks (84)
-  [3200] Supersonic Aircraft (85)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---11--
-Name: Heavy Cargo Plane III
-Nick Name: A-PX (H) III
-Scores & Strengths:
-  Tech Score: 1910
-  Unit Score: 1754
-  Average Score: 1832
-  Stat Strength: 1754
-  Total Strength: 1754
-  Planet Strength: 1754
-  Space Strength: 0
-  Garrison Strength: 365
-Statistics:
-  Movement Type: air
-  Move Points: 23
-  Spot: 8
-  Camouflage: 7
-  Agility: 12
-  Armor: 22
-  Psy Defense: 22
-  Rank: 123
-Cargo Space: 3
-Upkeep / Maintenance: 12
-Build Cost: 120
-Build Resource Requirements:
-  Food: 5
-  Energy: 9
-  Metal: 27
-  Trace: 3
-  Exotica: 5
-  Chemicals: 27
-  Electronics: 20
-  Ceramsteel: 34
-Build Heavy Cargo Plane III in Factory
-Time to Build / Upgrade: 3
-[12840] Technologies Required to Build Unit (84):
-  [1970] Cargo Handling (87)
-  [5205] Advanced Battle Tanks (84)
-  [5665] Hypersonic Aircraft (82)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---12--
-Name: Stretch Cargo Plane III
-Nick Name: A-PX (S) III
-Scores & Strengths:
-  Tech Score: 1979
-  Unit Score: 1801
-  Average Score: 1890
-  Stat Strength: 1801
-  Total Strength: 1801
-  Planet Strength: 1801
-  Space Strength: 0
-  Garrison Strength: 367
-Statistics:
-  Movement Type: air
-  Move Points: 24
-  Spot: 8
-  Camouflage: 7
-  Agility: 12
-  Armor: 22
-  Psy Defense: 22
-  Rank: 134
-Cargo Space: 4
-Upkeep / Maintenance: 9
-Build Cost: 92
-Build Resource Requirements:
-  Food: 5
-  Energy: 8
-  Metal: 13
-  Trace: 2
-  Exotica: 5
-  Chemicals: 20
-  Electronics: 12
-  Ceramsteel: 21
-Build Stretch Cargo Plane III in Factory
-Time to Build / Upgrade: 2
-[14785] Technologies Required to Build Unit (84):
-  [1970] Cargo Handling (87)
-  [5205] Advanced Battle Tanks (84)
-  [7610] Atmospheric Aircraft (80)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---13--
-Name: Cargo Plane IV
-Nick Name: A-PX IV
-Scores & Strengths:
-  Tech Score: 2184
-  Unit Score: 1955
-  Average Score: 2069
-  Stat Strength: 1955
-  Total Strength: 1955
-  Planet Strength: 1955
-  Space Strength: 0
-  Garrison Strength: 391
-Statistics:
-  Movement Type: air
-  Move Points: 25
-  Spot: 8
-  Camouflage: 8
-  Agility: 12
-  Armor: 23
-  Psy Defense: 23
-  Rank: 106
-Cargo Space: 1
-Upkeep / Maintenance: 8
-Build Cost: 77
-Build Resource Requirements:
-  Food: 5
-  Energy: 8
-  Metal: 15
-  Trace: 3
-  Exotica: 5
-  Chemicals: 21
-  Electronics: 12
-  Ceramsteel: 23
-Build Cargo Plane IV in Factory
-Time to Build / Upgrade: 2
-[16605] Technologies Required to Build Unit (84):
-  [1970] Cargo Handling (87)
-  [5205] Advanced Battle Tanks (84)
-  [9430] Advanced V/STOL Aircraft (81)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---14--
-Name: Medium Cargo Plane IV
-Nick Name: A-PX (M) IV
-Scores & Strengths:
-  Tech Score: 2349
-  Unit Score: 2125
-  Average Score: 2237
-  Stat Strength: 2125
-  Total Strength: 2125
-  Planet Strength: 2125
-  Space Strength: 0
-  Garrison Strength: 416
-Statistics:
-  Movement Type: air
-  Move Points: 26
-  Spot: 8
-  Camouflage: 8
-  Agility: 13
-  Armor: 24
-  Psy Defense: 24
-  Rank: 117
-Cargo Space: 2
-Upkeep / Maintenance: 9
-Build Cost: 87
-Build Resource Requirements:
-  Food: 5
-  Energy: 8
-  Metal: 16
-  Trace: 2
-  Exotica: 5
-  Chemicals: 22
-  Electronics: 13
-  Ceramsteel: 25
-Build Medium Cargo Plane IV in Factory
-Time to Build / Upgrade: 2
-[19100] Technologies Required to Build Unit (82):
-  [2495] Embedded Biosensors (75)
-  [1970] Cargo Handling (87)
-  [5205] Advanced Battle Tanks (84)
-  [9430] Advanced V/STOL Aircraft (81)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---15--
-Name: Heavy Cargo Plane IV
-Nick Name: A-PX (H) IV
-Scores & Strengths:
-  Tech Score: 2615
-  Unit Score: 2293
-  Average Score: 2454
-  Stat Strength: 2293
-  Total Strength: 2293
-  Planet Strength: 2293
-  Space Strength: 0
-  Garrison Strength: 441
-Statistics:
-  Movement Type: air
-  Move Points: 27
-  Spot: 9
-  Camouflage: 8
-  Agility: 13
-  Armor: 25
-  Psy Defense: 25
-  Rank: 130
-Cargo Space: 3
-Upkeep / Maintenance: 10
-Build Cost: 99
-Build Resource Requirements:
-  Food: 5
-  Energy: 9
-  Metal: 16
-  Trace: 2
-  Exotica: 5
-  Chemicals: 22
-  Electronics: 13
-  Ceramsteel: 25
-Build Heavy Cargo Plane IV in Factory
-Time to Build / Upgrade: 2
-[22615] Technologies Required to Build Unit (78):
-  [6010] Cyber Robotics (58)
-  [1970] Cargo Handling (87)
-  [5205] Advanced Battle Tanks (84)
-  [9430] Advanced V/STOL Aircraft (81)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---16--
-Name: Stretch Cargo Plane IV
-Nick Name: A-PX (S) IV
-Scores & Strengths:
-  Tech Score: 2688
-  Unit Score: 2467
-  Average Score: 2578
-  Stat Strength: 2467
-  Total Strength: 2467
-  Planet Strength: 2467
-  Space Strength: 0
-  Garrison Strength: 466
-Statistics:
-  Movement Type: air
-  Move Points: 28
-  Spot: 9
-  Camouflage: 9
-  Agility: 13
-  Armor: 26
-  Psy Defense: 26
-  Rank: 141
-Cargo Space: 4
-Upkeep / Maintenance: 12
-Build Cost: 122
-Build Resource Requirements:
-  Food: 6
-  Energy: 9
-  Metal: 17
-  Trace: 2
-  Exotica: 6
-  Chemicals: 24
-  Electronics: 13
-  Ceramsteel: 27
-Build Stretch Cargo Plane IV in Factory
-Time to Build / Upgrade: 3
-[23155] Technologies Required to Build Unit (80):
-  [6550] Advanced Nanotechnology (66)
-  [1970] Cargo Handling (87)
-  [5205] Advanced Battle Tanks (84)
-  [9430] Advanced V/STOL Aircraft (81)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---17--
-Name: Cargo Plane V
-Nick Name: A-PX V
-Scores & Strengths:
-  Tech Score: 2928
-  Unit Score: 2630
-  Average Score: 2779
-  Stat Strength: 2630
-  Total Strength: 2630
-  Planet Strength: 2630
-  Space Strength: 0
-  Garrison Strength: 488
-Statistics:
-  Movement Type: air
-  Move Points: 29
-  Spot: 9
-  Camouflage: 9
-  Agility: 13
-  Armor: 27
-  Psy Defense: 27
-  Rank: 113
-Cargo Space: 1
-Upkeep / Maintenance: 55
-Build Cost: 550
-Build Resource Requirements:
-  Food: 4
-  Energy: 7
-  Metal: 9
-  Trace: 2
-  Exotica: 4
-  Chemicals: 16
-  Electronics: 9
-  Ceramsteel: 16
-  Monopols: 21
-Build Cargo Plane V in Factory
-Time to Build / Upgrade: 3
-[26670] Technologies Required to Build Unit (83):
-  [10065] Powered-Armor Legion (79)
-  [1970] Cargo Handling (87)
-  [5205] Advanced Battle Tanks (84)
-  [9430] Advanced V/STOL Aircraft (81)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---18--
-Name: Medium Cargo Plane V
-Nick Name: A-PX (M) V
-Scores & Strengths:
-  Tech Score: 3107
-  Unit Score: 2826
-  Average Score: 2966
-  Stat Strength: 2826
-  Total Strength: 2826
-  Planet Strength: 2826
-  Space Strength: 0
-  Garrison Strength: 515
-Statistics:
-  Movement Type: air
-  Move Points: 30
-  Spot: 9
-  Camouflage: 9
-  Agility: 14
-  Armor: 28
-  Psy Defense: 28
-  Rank: 125
-Cargo Space: 2
-Upkeep / Maintenance: 64
-Build Cost: 638
-Build Resource Requirements:
-  Food: 4
-  Energy: 7
-  Metal: 8
-  Trace: 2
-  Exotica: 4
-  Chemicals: 15
-  Electronics: 9
-  Ceramsteel: 14
-  Monopols: 23
-Build Medium Cargo Plane V in Factory
-Time to Build / Upgrade: 3
-[24220] Technologies Required to Build Unit (83):
-  [1970] Cargo Handling (87)
-  [5205] Advanced Battle Tanks (84)
-  [17045] Power V/STOL Aircraft (79)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---19--
-Name: Heavy Cargo Plane V
-Nick Name: A-PX (H) V
-Scores & Strengths:
-  Tech Score: 3391
-  Unit Score: 3020
-  Average Score: 3206
-  Stat Strength: 3020
-  Total Strength: 3020
-  Planet Strength: 3020
-  Space Strength: 0
-  Garrison Strength: 542
-Statistics:
-  Movement Type: air
-  Move Points: 31
-  Spot: 9
-  Camouflage: 10
-  Agility: 14
-  Armor: 29
-  Psy Defense: 29
-  Rank: 137
-Cargo Space: 3
-Upkeep / Maintenance: 85
-Build Cost: 845
-Build Resource Requirements:
-  Food: 4
-  Energy: 7
-  Metal: 8
-  Trace: 2
-  Exotica: 4
-  Chemicals: 16
-  Electronics: 10
-  Ceramsteel: 17
-  Monopols: 27
-Build Heavy Cargo Plane V in Factory
-Time to Build / Upgrade: 3
-[25565] Technologies Required to Build Unit (77):
-  [6550] Advanced Nanotechnology (66)
-  [1970] Cargo Handling (87)
-  [17045] Power V/STOL Aircraft (79)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---20--
-Name: Stretch Cargo Plane V
-Nick Name: A-PX (S) V
-Scores & Strengths:
-  Tech Score: 3570
-  Unit Score: 3083
-  Average Score: 3327
-  Stat Strength: 3083
-  Total Strength: 3083
-  Planet Strength: 3083
-  Space Strength: 0
-  Garrison Strength: 545
-Statistics:
-  Movement Type: air
-  Move Points: 32
-  Spot: 9
-  Camouflage: 10
-  Agility: 14
-  Armor: 29
-  Psy Defense: 29
-  Rank: 148
-Cargo Space: 4
-Upkeep / Maintenance: 70
-Build Cost: 698
-Build Resource Requirements:
-  Food: 3
-  Energy: 5
-  Metal: 6
-  Trace: 2
-  Exotica: 3
-  Chemicals: 12
-  Electronics: 7
-  Ceramsteel: 11
-  Monopols: 20
-Build Stretch Cargo Plane V in Factory
-Time to Build / Upgrade: 3
-[32550] Technologies Required to Build Unit (80):
-  [1970] Cargo Handling (87)
-  [13535] Powered Ceramsteel Tanks (74)
-  [17045] Power V/STOL Aircraft (79)
+[26065] Technologies Required to Build Unit (65):
+  [1615] Wireblades (76)
+  [320] Viper Militia (88)
+  [24130] Neumonically-Enhanced Soldiers (32)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

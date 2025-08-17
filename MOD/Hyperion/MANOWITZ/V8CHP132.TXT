@@ -1,826 +1,133 @@
-All units of the unit class Landing Vehicle, Tracked (P) are listed herein (18 in total):
+All units of the unit class PTS Guided Missile are listed herein (3 in total):
 
 --1--
-Name: Landing Vehicle, Tracked (P)
-Nick Name: LVT (P)
+Name: PTS Guided Missile
+Nick Name: PTS GM
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 584
-  Average Score: 584
-  Stat Strength: 332
-  Total Strength: 584
-  Planet Strength: 584
-  Space Strength: 0
-  Garrison Strength: 206
+  Tech Score: 522
+  Unit Score: 521
+  Average Score: 522
+  Stat Strength: 296
+  Total Strength: 521
+  Planet Strength: 296
+  Space Strength: 521
+  Garrison Strength: 85
 Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 10
-  Psy Defense: 10
-  Rank: 90
+  Movement Type: air
+  Move Points: 12
+  Spot: 0
+  Camouflage: 12
+  Agility: 0
+  Armor: 2
+  Psy Defense: 2
+  Rank: 85
 Attacks:
-  Direct: 14/10
-  Close: 14/8
-Cargo Space: 1
-Can be towed
-Upkeep / Maintenance: 10
-Build Cost: 96
+  Ranged Space: 15/15
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 14
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 19
-  Trace: 28
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 17
-  Electronics: 21
-Build Landing Vehicle, Tracked (P) in Factory
-Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 6
+  Energy: 24
+  Metal: 5
+  Trace: 25
+  Exotica: 6
+  Chemicals: 35
+  Electronics: 30
+Build PTS Guided Missile in Chemical Plant
+Time to Build / Upgrade: 3
+[1670] Technology Required to Build Unit (83):
+  [1670] Guided Missiles (83)
 Unit can be disbanded: YES
 
 --2--
-Name: Landing Vehicle, Tracked (C)
-Nick Name: LVT (C)
+Name: PTS Supersonic Missile
+Nick Name: PTS GM II
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 584
-  Average Score: 584
-  Stat Strength: 332
-  Total Strength: 584
-  Planet Strength: 584
-  Space Strength: 0
-  Garrison Strength: 206
+  Tech Score: 1038
+  Unit Score: 1037
+  Average Score: 1037
+  Stat Strength: 596
+  Total Strength: 1037
+  Planet Strength: 596
+  Space Strength: 1037
+  Garrison Strength: 144
 Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 10
-  Psy Defense: 10
-  Rank: 113
+  Movement Type: air
+  Move Points: 17
+  Spot: 0
+  Camouflage: 17
+  Agility: 0
+  Armor: 3
+  Psy Defense: 3
+  Rank: 102
 Attacks:
-  Water: 14/10
-  Indirect: 14/8
-Cargo Space: 1
-Can be towed
-Upkeep / Maintenance: 8
-Build Cost: 75
+  Ranged Space: 21/21
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 14
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 19
-  Trace: 28
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 10
-  Electronics: 12
-Build Landing Vehicle, Tracked (C) in Factory
+  Food: 5
+  Energy: 25
+  Metal: 11
+  Trace: 22
+  Exotica: 5
+  Chemicals: 33
+  Electronics: 25
+Build PTS Supersonic Missile in Chemical Plant
 Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
-Counts as planetary flock: YES
-Unit Eats: YES
+[4170] Technology Required to Build Unit (84):
+  [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
 --3--
-Name: Landing Vehicle, Tracked (H)
-Nick Name: LVT (H)
+Name: PTS Hypersonic Missile
+Nick Name: PTS GM III
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 584
-  Average Score: 584
-  Stat Strength: 332
-  Total Strength: 584
-  Planet Strength: 584
-  Space Strength: 0
-  Garrison Strength: 206
+  Tech Score: 1548
+  Unit Score: 1576
+  Average Score: 1562
+  Stat Strength: 900
+  Total Strength: 1576
+  Planet Strength: 900
+  Space Strength: 1576
+  Garrison Strength: 196
 Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 10
-  Psy Defense: 10
-  Rank: 88
+  Movement Type: air
+  Move Points: 21
+  Spot: 0
+  Camouflage: 21
+  Agility: 0
+  Armor: 3
+  Psy Defense: 3
+  Rank: 118
 Attacks:
-  Indirect: 14/10
-  Direct: 14/8
-Cargo Space: 1
-Can be towed
-Upkeep / Maintenance: 8
-Build Cost: 75
+  Ranged Space: 26/26
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 16
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 19
-  Trace: 28
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 10
-  Electronics: 12
-Build Landing Vehicle, Tracked (H) in Factory
-Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---4--
-Name: Landing Vehicle, Tracked (A)
-Nick Name: LVT (A)
-Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 584
-  Average Score: 584
-  Stat Strength: 332
-  Total Strength: 584
-  Planet Strength: 584
-  Space Strength: 0
-  Garrison Strength: 206
-Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 10
-  Psy Defense: 10
-  Rank: 88
-Attacks:
-  Air: 14/10
-  Direct: 14/8
-Cargo Space: 1
-Can be towed
-Upkeep / Maintenance: 10
-Build Cost: 96
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 19
-  Trace: 28
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 17
-  Electronics: 21
-Build Landing Vehicle, Tracked (A) in Factory
-Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Landing Vehicle, Tracked (R)
-Nick Name: LVT (R)
-Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 587
-  Average Score: 586
-  Stat Strength: 470
-  Total Strength: 587
-  Planet Strength: 587
-  Space Strength: 0
-  Garrison Strength: 207
-Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 13
-  Psy Defense: 13
-  Rank: 141
-Attacks:
-  Close: 13/9
-Cargo Space: 1
-Can be towed
-Heals units of same movement type
-Upkeep / Maintenance: 7
-Build Cost: 70
-Build Resource Requirements:
-  Food: 3
-  Energy: 7
-  Metal: 32
-  Trace: 14
-  Exotica: 3
-  Chemicals: 7
-  Biochems: 9
-  Electronics: 11
-Build Landing Vehicle, Tracked (R) in Factory
-Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Landing Vehicle, Tracked (E)
-Nick Name: LVT (E)
-Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 587
-  Average Score: 586
-  Stat Strength: 524
-  Total Strength: 587
-  Planet Strength: 587
-  Space Strength: 0
-  Garrison Strength: 239
-Statistics:
-  Movement Type: craft
-  Move Points: 6
-  Spot: 8
-  Camouflage: 4
-  Agility: 4
-  Armor: 14
-  Psy Defense: 14
-  Rank: 41
-Attacks:
-  Close: 9/7
-Cargo Space: 1
-Can tow units that can be towed
-Upkeep / Maintenance: 5
-Build Cost: 54
-Build Resource Requirements:
-  Food: 3
-  Energy: 5
-  Metal: 37
-  Trace: 11
-  Exotica: 3
-  Chemicals: 5
-  Biochems: 6
-  Electronics: 8
-Build Landing Vehicle, Tracked (E) in Factory
-Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---7--
-Name: Landing Vehicle, Tracked (E2)
-Nick Name: LVT (E2)
-Scores & Strengths:
-  Tech Score: 660
-  Unit Score: 652
-  Average Score: 656
-  Stat Strength: 582
-  Total Strength: 652
-  Planet Strength: 652
-  Space Strength: 0
-  Garrison Strength: 266
-Statistics:
-  Movement Type: craft
-  Move Points: 6
-  Spot: 8
-  Camouflage: 4
-  Agility: 4
-  Armor: 15
-  Psy Defense: 15
-  Rank: 42
-Attacks:
-  Close: 10/7
-Cargo Space: 1
-Can tow units that can be towed
-Upkeep / Maintenance: 5
-Build Cost: 54
-Build Resource Requirements:
-  Food: 3
-  Energy: 4
-  Metal: 38
-  Trace: 11
-  Exotica: 3
-  Chemicals: 4
-  Biochems: 6
-  Electronics: 8
-Build Landing Vehicle, Tracked (E2) in Factory
-Time to Build / Upgrade: 2
-[2710] Technologies Required to Build Unit (91):
-  [770] Self-Propelled Weaponry (92)
-  [1940] Amphibious Landing Craft (89)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---8--
-Name: Landing Vehicle, Tracked (P2)
-Nick Name: LVT (P2)
-Scores & Strengths:
-  Tech Score: 660
-  Unit Score: 659
-  Average Score: 659
-  Stat Strength: 374
-  Total Strength: 659
-  Planet Strength: 659
-  Space Strength: 0
-  Garrison Strength: 232
-Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 11
-  Psy Defense: 11
-  Rank: 93
-Attacks:
-  Direct: 15/11
-  Close: 15/8
-Cargo Space: 1
-Can be towed
-Upkeep / Maintenance: 10
-Build Cost: 99
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 20
-  Trace: 29
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 17
-  Electronics: 23
-Build Landing Vehicle, Tracked (P2) in Factory
-Time to Build / Upgrade: 2
-[2710] Technologies Required to Build Unit (91):
-  [770] Self-Propelled Weaponry (92)
-  [1940] Amphibious Landing Craft (89)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---9--
-Name: Landing Vehicle, Tracked (C2)
-Nick Name: LVT (C2)
-Scores & Strengths:
-  Tech Score: 660
-  Unit Score: 659
-  Average Score: 659
-  Stat Strength: 374
-  Total Strength: 659
-  Planet Strength: 659
-  Space Strength: 0
-  Garrison Strength: 232
-Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 11
-  Psy Defense: 11
-  Rank: 115
-Attacks:
-  Water: 15/11
-  Indirect: 15/8
-Cargo Space: 1
-Can be towed
-Upkeep / Maintenance: 8
-Build Cost: 77
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 20
-  Trace: 29
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 10
-  Electronics: 13
-Build Landing Vehicle, Tracked (C2) in Factory
-Time to Build / Upgrade: 2
-[2710] Technologies Required to Build Unit (91):
-  [770] Self-Propelled Weaponry (92)
-  [1940] Amphibious Landing Craft (89)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---10--
-Name: Landing Vehicle, Tracked (H2)
-Nick Name: LVT (H2)
-Scores & Strengths:
-  Tech Score: 660
-  Unit Score: 659
-  Average Score: 659
-  Stat Strength: 374
-  Total Strength: 659
-  Planet Strength: 659
-  Space Strength: 0
-  Garrison Strength: 232
-Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 11
-  Psy Defense: 11
-  Rank: 90
-Attacks:
-  Indirect: 15/11
-  Direct: 15/8
-Cargo Space: 1
-Can be towed
-Upkeep / Maintenance: 8
-Build Cost: 77
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 20
-  Trace: 29
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 10
-  Electronics: 13
-Build Landing Vehicle, Tracked (H2) in Factory
-Time to Build / Upgrade: 2
-[2710] Technologies Required to Build Unit (91):
-  [770] Self-Propelled Weaponry (92)
-  [1940] Amphibious Landing Craft (89)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---11--
-Name: Landing Vehicle, Tracked (A2)
-Nick Name: LVT (A2)
-Scores & Strengths:
-  Tech Score: 660
-  Unit Score: 659
-  Average Score: 659
-  Stat Strength: 374
-  Total Strength: 659
-  Planet Strength: 659
-  Space Strength: 0
-  Garrison Strength: 232
-Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 11
-  Psy Defense: 11
-  Rank: 90
-Attacks:
-  Air: 15/11
-  Direct: 15/8
-Cargo Space: 1
-Can be towed
-Upkeep / Maintenance: 10
-Build Cost: 99
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 20
-  Trace: 29
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 17
-  Electronics: 23
-Build Landing Vehicle, Tracked (A2) in Factory
-Time to Build / Upgrade: 2
-[2710] Technologies Required to Build Unit (91):
-  [770] Self-Propelled Weaponry (92)
-  [1940] Amphibious Landing Craft (89)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---12--
-Name: Landing Vehicle, Tracked (R2)
-Nick Name: LVT (R2)
-Scores & Strengths:
-  Tech Score: 660
-  Unit Score: 664
-  Average Score: 662
-  Stat Strength: 524
-  Total Strength: 664
-  Planet Strength: 664
-  Space Strength: 0
-  Garrison Strength: 234
-Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 14
-  Psy Defense: 14
-  Rank: 142
-Attacks:
-  Close: 14/10
-Cargo Space: 1
-Can be towed
-Heals units of same movement type
-Upkeep / Maintenance: 7
-Build Cost: 71
-Build Resource Requirements:
-  Food: 3
-  Energy: 7
-  Metal: 33
-  Trace: 15
-  Exotica: 3
-  Chemicals: 7
-  Biochems: 9
-  Electronics: 12
-Build Landing Vehicle, Tracked (R2) in Factory
-Time to Build / Upgrade: 2
-[2710] Technologies Required to Build Unit (91):
-  [770] Self-Propelled Weaponry (92)
-  [1940] Amphibious Landing Craft (89)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---13--
-Name: Amphibious Assault Vehicle (P)
-Nick Name: AAV (P)
-Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 951
-  Average Score: 955
-  Stat Strength: 537
-  Total Strength: 951
-  Planet Strength: 951
-  Space Strength: 0
-  Garrison Strength: 300
-Statistics:
-  Movement Type: craft
-  Move Points: 10
-  Spot: 7
-  Camouflage: 5
-  Agility: 5
-  Armor: 13
-  Psy Defense: 13
-  Rank: 101
-Attacks:
-  Direct: 18/13
-  Close: 18/10
-Cargo Space: 1
-Can be towed
-Upkeep / Maintenance: 11
-Build Cost: 114
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 19
-  Trace: 32
-  Exotica: 3
-  Chemicals: 16
-  Biochems: 18
-  Electronics: 27
-Build Amphibious Assault Vehicle (P) in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---14--
-Name: Amphibious Assault Vehicle (C)
-Nick Name: AAV (C)
-Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 951
-  Average Score: 955
-  Stat Strength: 537
-  Total Strength: 951
-  Planet Strength: 951
-  Space Strength: 0
-  Garrison Strength: 300
-Statistics:
-  Movement Type: craft
-  Move Points: 10
-  Spot: 7
-  Camouflage: 5
-  Agility: 5
-  Armor: 13
-  Psy Defense: 13
-  Rank: 123
-Attacks:
-  Water: 18/13
-  Indirect: 18/10
-Cargo Space: 1
-Can be towed
-Upkeep / Maintenance: 9
-Build Cost: 89
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 19
-  Trace: 32
-  Exotica: 3
-  Chemicals: 16
-  Biochems: 10
-  Electronics: 15
-Build Amphibious Assault Vehicle (C) in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---15--
-Name: Amphibious Assault Vehicle (H)
-Nick Name: AAV (H)
-Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 951
-  Average Score: 955
-  Stat Strength: 537
-  Total Strength: 951
-  Planet Strength: 951
-  Space Strength: 0
-  Garrison Strength: 300
-Statistics:
-  Movement Type: craft
-  Move Points: 10
-  Spot: 7
-  Camouflage: 5
-  Agility: 5
-  Armor: 13
-  Psy Defense: 13
-  Rank: 98
-Attacks:
-  Indirect: 18/13
-  Direct: 18/10
-Cargo Space: 1
-Can be towed
-Upkeep / Maintenance: 9
-Build Cost: 89
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 19
-  Trace: 32
-  Exotica: 3
-  Chemicals: 16
-  Biochems: 10
-  Electronics: 15
-Build Amphibious Assault Vehicle (H) in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---16--
-Name: Amphibious Assault Vehicle (E)
-Nick Name: AAV (E)
-Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 951
-  Average Score: 955
-  Stat Strength: 843
-  Total Strength: 951
-  Planet Strength: 951
-  Space Strength: 0
-  Garrison Strength: 336
-Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 9
-  Camouflage: 5
-  Agility: 5
-  Armor: 18
-  Psy Defense: 18
-  Rank: 45
-Attacks:
-  Close: 12/9
-Cargo Space: 1
-Can tow units that can be towed
-Upkeep / Maintenance: 7
-Build Cost: 66
-Build Resource Requirements:
-  Food: 3
-  Energy: 5
-  Metal: 36
-  Trace: 12
-  Exotica: 3
-  Chemicals: 13
-  Biochems: 6
-  Electronics: 9
-Build Amphibious Assault Vehicle (E) in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---17--
-Name: Amphibious Assault Vehicle (A)
-Nick Name: AAV (A)
-Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 951
-  Average Score: 955
-  Stat Strength: 537
-  Total Strength: 951
-  Planet Strength: 951
-  Space Strength: 0
-  Garrison Strength: 300
-Statistics:
-  Movement Type: craft
-  Move Points: 10
-  Spot: 7
-  Camouflage: 5
-  Agility: 5
-  Armor: 13
-  Psy Defense: 13
-  Rank: 98
-Attacks:
-  Air: 18/13
-  Direct: 18/10
-Cargo Space: 1
-Can be towed
-Upkeep / Maintenance: 11
-Build Cost: 114
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 19
-  Trace: 32
-  Exotica: 3
-  Chemicals: 16
-  Biochems: 18
-  Electronics: 27
-Build Amphibious Assault Vehicle (A) in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---18--
-Name: Amphibious Assault Vehicle (R)
-Nick Name: AAV (R)
-Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 981
-  Average Score: 970
-  Stat Strength: 777
-  Total Strength: 981
-  Planet Strength: 981
-  Space Strength: 0
-  Garrison Strength: 310
-Statistics:
-  Movement Type: craft
-  Move Points: 10
-  Spot: 7
-  Camouflage: 5
-  Agility: 5
-  Armor: 17
-  Psy Defense: 17
-  Rank: 145
-Attacks:
-  Close: 17/12
-Cargo Space: 1
-Can be towed
-Heals units of same movement type
-Upkeep / Maintenance: 9
-Build Cost: 87
-Build Resource Requirements:
-  Food: 3
-  Energy: 8
-  Metal: 32
-  Trace: 17
-  Exotica: 3
-  Chemicals: 15
-  Biochems: 9
-  Electronics: 14
-Build Amphibious Assault Vehicle (R) in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 5
+  Energy: 25
+  Metal: 11
+  Trace: 23
+  Exotica: 5
+  Chemicals: 38
+  Electronics: 28
+Build PTS Hypersonic Missile in Chemical Plant
+Time to Build / Upgrade: 3
+[7105] Technology Required to Build Unit (77):
+  [7105] Hypercruise Missiles (77)
 Unit can be disbanded: YES

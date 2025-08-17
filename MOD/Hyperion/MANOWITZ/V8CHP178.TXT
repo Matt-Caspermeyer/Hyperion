@@ -1,188 +1,48 @@
-All units of the unit class Light Grappler Mech are listed herein (4 in total):
+All units of the unit class Symbiot Minder are listed herein (1 in total):
 
 --1--
-Name: Light Grappler Mech
-Nick Name: Grapnel
+Name: Symbiot Minder
+Nick Name: Minder
 Scores & Strengths:
-  Tech Score: 1686
-  Unit Score: 1685
-  Average Score: 1686
-  Stat Strength: 1194
-  Total Strength: 1685
-  Planet Strength: 1685
-  Space Strength: 0
-  Garrison Strength: 486
+  Tech Score: 1530
+  Unit Score: 1530
+  Average Score: 1530
+  Stat Strength: 1283
+  Total Strength: 1530
+  Planet Strength: 1530
+  Space Strength: 1404
+  Garrison Strength: 395
 Statistics:
-  Movement Type: mech
-  Move Points: 12
-  Spot: 10
-  Camouflage: 4
-  Agility: 22
-  Armor: 15
-  Psy Defense: 15
-  Rank: 125
-Attacks:
-  Indirect: 19/14
-  Close: 15/15
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 16
-Build Cost: 157
-Build Resource Requirements:
-  Food: 5
-  Energy: 15
-  Metal: 9
-  Trace: 16
-  Exotica: 5
-  Chemicals: 27
-  Electronics: 20
-  Ceramsteel: 13
-Build Light Grappler Mech in Starport
-Time to Build / Upgrade: 3
-[10330] Technologies Required to Build Unit (84):
-  [1690] Ceramsteel (84)
-  [2420] Rocket-Propelled Aircraft (87)
-  [6220] Mechanically-Enhanced Soldiers (80)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---2--
-Name: Medium Grappler Mech
-Nick Name: Gargoyle
-Scores & Strengths:
-  Tech Score: 2414
-  Unit Score: 2415
-  Average Score: 2414
-  Stat Strength: 1584
-  Total Strength: 2415
-  Planet Strength: 2415
-  Space Strength: 0
-  Garrison Strength: 645
-Statistics:
-  Movement Type: mech
-  Move Points: 14
-  Spot: 13
-  Camouflage: 9
-  Agility: 16
-  Armor: 21
-  Psy Defense: 21
-  Rank: 140
-Attacks:
-  Indirect: 15/26
-  Close: 21/21
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 141
-Build Cost: 1407
-Build Resource Requirements:
-  Food: 3
-  Energy: 13
-  Metal: 8
-  Trace: 14
-  Exotica: 3
-  Chemicals: 23
-  Electronics: 22
-  Ceramsteel: 9
-  Monopols: 31
-Build Medium Grappler Mech in Starport
-Time to Build / Upgrade: 3
-[12850] Technology Required to Build Unit (71):
-  [12850] Mechanized Warriors (71)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---3--
-Name: Heavy Grappler Mech
-Nick Name: Executioner
-Scores & Strengths:
-  Tech Score: 5401
-  Unit Score: 5401
-  Average Score: 5401
-  Stat Strength: 3128
-  Total Strength: 5401
-  Planet Strength: 5401
-  Space Strength: 0
-  Garrison Strength: 1350
-Statistics:
-  Movement Type: mech
-  Move Points: 16
+  Movement Type: foot
+  Move Points: 15
   Spot: 14
-  Camouflage: 12
-  Agility: 22
-  Armor: 32
-  Psy Defense: 32
-  Rank: 146
+  Camouflage: 16
+  Agility: 19
+  Armor: 7
+  Psy Defense: 14
+  Rank: 15
 Attacks:
-  Indirect: 32/28
-  Direct: 21/21
-  Close: 36/26
+  Psychic: 11/11
+  Close: 14/9
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 214
-Build Cost: 2136
+Causes Tactical Plague
+Upkeep / Maintenance: 38
+Build Cost: 377
 Build Resource Requirements:
-  Food: 2
-  Energy: 11
-  Metal: 7
-  Trace: 30
-  Exotica: 2
-  Chemicals: 18
-  Biochems: 28
-  Electronics: 37
-  Ceramsteel: 11
-  Monopols: 30
-Build Heavy Grappler Mech in Starport
-Time to Build / Upgrade: 4
-[35965] Technology Required to Build Unit (64):
-  [35965] Advanced Mechanized Warriors (64)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: Assault Grappler Mech
-Nick Name: Excruciator
-Scores & Strengths:
-  Tech Score: 5809
-  Unit Score: 5809
-  Average Score: 5809
-  Stat Strength: 3478
-  Total Strength: 5809
-  Planet Strength: 5809
-  Space Strength: 0
-  Garrison Strength: 1369
-Statistics:
-  Movement Type: mech
-  Move Points: 18
-  Spot: 16
-  Camouflage: 12
-  Agility: 24
-  Armor: 33
-  Psy Defense: 33
-  Rank: 152
-Attacks:
-  Indirect: 33/30
-  Direct: 21/23
-  Close: 33/26
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 285
-Build Cost: 2851
-Build Resource Requirements:
-  Food: 1
-  Energy: 11
-  Metal: 6
+  Food: 8
+  Energy: 19
+  Metal: 3
   Trace: 12
-  Exotica: 2
-  Chemicals: 18
-  Biochems: 25
-  Electronics: 17
-  Ceramsteel: 9
-  Wetware: 11
-  Monopols: 28
-Build Assault Grappler Mech in Starport
-Time to Build / Upgrade: 4
-[52710] Technologies Required to Build Unit (44):
-  [16745] Wetware (23)
-  [35965] Advanced Mechanized Warriors (64)
+  Exotica: 9
+  Chemicals: 23
+  Biochems: 49
+  Electronics: 31
+  Gems: 5
+Build Symbiot Minder in Hive
+Time to Build / Upgrade: 3
+[6995] Technology Required to Build Unit (37):
+  [6995] Symbiot Psychology (37)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

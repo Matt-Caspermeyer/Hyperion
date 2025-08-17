@@ -1,303 +1,410 @@
-All units of the unit class Motorized Submersible Canoe (R) are listed herein (7 in total):
+All units of the unit class PTS Tank are listed herein (9 in total):
 
 --1--
-Name: Motorized Submersible Canoe (R)
-Nick Name: MSC (R)
+Name: PTS Tank
+Nick Name: PTS Tank
 Scores & Strengths:
-  Tech Score: 658
-  Unit Score: 657
-  Average Score: 657
-  Stat Strength: 657
-  Total Strength: 657
-  Planet Strength: 657
-  Space Strength: 0
-  Garrison Strength: 189
+  Tech Score: 608
+  Unit Score: 606
+  Average Score: 607
+  Stat Strength: 368
+  Total Strength: 606
+  Planet Strength: 528
+  Space Strength: 446
+  Garrison Strength: 215
 Statistics:
-  Movement Type: underwater
-  Move Points: 12
-  Spot: 14
-  Camouflage: 14
-  Agility: 7
-  Armor: 6
-  Psy Defense: 6
-  Rank: 7
-Upkeep / Maintenance: 22
-Build Cost: 220
+  Movement Type: tread
+  Move Points: 6
+  Spot: 2
+  Camouflage: 2
+  Agility: 6
+  Armor: 12
+  Psy Defense: 12
+  Rank: 72
+Attacks:
+  Ranged Space: 6/13
+  Indirect: 6/13
+  Direct: 5/11
+  Close: 3/9
+Load aboard transport: YES
+Upkeep / Maintenance: 7
+Build Cost: 67
 Build Resource Requirements:
-  Food: 9
-  Energy: 8
-  Metal: 7
-  Trace: 27
-  Exotica: 10
-  Chemicals: 8
-  Biochems: 11
-  Electronics: 21
-Build Motorized Submersible Canoe (R) in Well
+  Food: 2
+  Energy: 32
+  Metal: 27
+  Trace: 8
+  Exotica: 2
+  Chemicals: 45
+  Electronics: 7
+Build PTS Tank in Factory
 Time to Build / Upgrade: 2
-[2270] Technology Required to Build Unit (86):
-  [2270] Naval Escort Ships (86)
+[2300] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1950] PTS Missile Launcher (88)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Motorized Submersible Canoe (A)
-Nick Name: MSC (A)
+Name: PTS Tank II
+Nick Name: PTS Tank II
 Scores & Strengths:
-  Tech Score: 658
-  Unit Score: 658
-  Average Score: 658
-  Stat Strength: 408
-  Total Strength: 658
-  Planet Strength: 658
-  Space Strength: 0
-  Garrison Strength: 232
+  Tech Score: 1132
+  Unit Score: 1079
+  Average Score: 1105
+  Stat Strength: 638
+  Total Strength: 1079
+  Planet Strength: 935
+  Space Strength: 782
+  Garrison Strength: 330
 Statistics:
-  Movement Type: underwater
+  Movement Type: tread
   Move Points: 8
-  Spot: 6
-  Camouflage: 12
-  Agility: 6
-  Armor: 8
-  Psy Defense: 8
-  Rank: 742
+  Spot: 2
+  Camouflage: 3
+  Agility: 7
+  Armor: 16
+  Psy Defense: 16
+  Rank: 83
 Attacks:
-  Water: 10/16
-  Indirect: 9/10
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 39
-Build Cost: 388
-Build Resource Requirements:
-  Food: 3
-  Energy: 21
-  Metal: 12
-  Trace: 25
-  Exotica: 3
-  Chemicals: 21
-  Biochems: 7
-  Electronics: 15
-Build Motorized Submersible Canoe (A) in Well
-Time to Build / Upgrade: 2
-[2270] Technology Required to Build Unit (86):
-  [2270] Naval Escort Ships (86)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---3--
-Name: Midget Submarine
-Nick Name: NSS-MS
-Scores & Strengths:
-  Tech Score: 932
-  Unit Score: 932
-  Average Score: 932
-  Stat Strength: 860
-  Total Strength: 932
-  Planet Strength: 932
-  Space Strength: 0
-  Garrison Strength: 249
-Statistics:
-  Movement Type: underwater
-  Move Points: 14
-  Spot: 6
-  Camouflage: 14
-  Agility: 12
-  Armor: 12
-  Psy Defense: 12
-  Rank: 685
-Attacks:
-  Water: 6/12
-Cargo Space: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Can be towed
-Upkeep / Maintenance: 44
-Build Cost: 442
-Build Resource Requirements:
-  Food: 5
-  Energy: 17
-  Metal: 23
-  Trace: 20
-  Exotica: 6
-  Chemicals: 17
-  Biochems: 8
-  Electronics: 15
-Build Midget Submarine in Well
-Time to Build / Upgrade: 2
-[3615] Technology Required to Build Unit (87):
-  [3615] Submarine Warfare (87)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: Human Torpedo
-Nick Name: NSS-HT
-Scores & Strengths:
-  Tech Score: 932
-  Unit Score: 932
-  Average Score: 932
-  Stat Strength: 752
-  Total Strength: 932
-  Planet Strength: 932
-  Space Strength: 0
-  Garrison Strength: 380
-Statistics:
-  Movement Type: underwater
-  Move Points: 6
-  Spot: 6
-  Camouflage: 18
-  Agility: 18
-  Armor: 4
-  Psy Defense: 4
-  Rank: 685
-Attacks:
-  Water: 18/10
-Cargo Space: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Can be towed
-Upkeep / Maintenance: 63
-Build Cost: 634
-Build Resource Requirements:
-  Food: 5
-  Energy: 13
-  Metal: 3
-  Trace: 47
-  Exotica: 5
-  Chemicals: 13
-  Biochems: 16
-  Electronics: 35
-Build Human Torpedo in Well
-Time to Build / Upgrade: 3
-[3615] Technology Required to Build Unit (87):
-  [3615] Submarine Warfare (87)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Diver Propulsion Vehicle
-Nick Name: DPV
-Scores & Strengths:
-  Tech Score: 1489
-  Unit Score: 1500
-  Average Score: 1494
-  Stat Strength: 1500
-  Total Strength: 0
-  Planet Strength: 0
-  Space Strength: 0
-  Garrison Strength: 0
-Statistics:
-  Movement Type: underwater
-  Move Points: 20
-  Spot: 10
-  Camouflage: 20
-  Agility: 20
-  Armor: 10
-  Psy Defense: 10
-  Rank: 515
+  Ranged Space: 8/18
+  Indirect: 8/18
+  Direct: 7/15
+  Close: 4/12
 Load aboard transport: YES
-Does not participate in combat
-Can tow units that can be towed
-Upkeep / Maintenance: 6
-Build Cost: 57
-Build Resource Requirements:
-  Food: 6
-  Energy: 11
-  Metal: 5
-  Trace: 15
-  Exotica: 7
-  Chemicals: 13
-  Biochems: 7
-  Electronics: 16
-  Ceramsteel: 5
-Build Diver Propulsion Vehicle in Well
-Time to Build / Upgrade: 2
-[9470] Technologies Required to Build Unit (86):
-  [3615] Submarine Warfare (87)
-  [5855] Guided Missile Navalcraft (84)
-Unit can be disbanded: YES
-
---6--
-Name: Swimmer Delivery Vehicle
-Nick Name: SDV
-Scores & Strengths:
-  Tech Score: 1619
-  Unit Score: 1621
-  Average Score: 1620
-  Stat Strength: 1621
-  Total Strength: 0
-  Planet Strength: 0
-  Space Strength: 0
-  Garrison Strength: 0
-Statistics:
-  Movement Type: underwater
-  Move Points: 22
-  Spot: 13
-  Camouflage: 14
-  Agility: 22
-  Armor: 12
-  Psy Defense: 12
-  Rank: 526
-Cargo Space: 1
-Does not participate in combat
-Can tow units that can be towed
-Upkeep / Maintenance: 7
-Build Cost: 65
-Build Resource Requirements:
-  Food: 7
-  Energy: 13
-  Metal: 6
-  Trace: 12
-  Exotica: 8
-  Chemicals: 16
-  Biochems: 9
-  Electronics: 13
-  Ceramsteel: 7
-Build Swimmer Delivery Vehicle in Well
-Time to Build / Upgrade: 2
-[10270] Technologies Required to Build Unit (85):
-  [3615] Submarine Warfare (87)
-  [6655] PTS Missile Navalcraft (83)
-Unit can be disbanded: YES
-
---7--
-Name: Advanced SDV
-Nick Name: Adv. SDV
-Scores & Strengths:
-  Tech Score: 1792
-  Unit Score: 1790
-  Average Score: 1791
-  Stat Strength: 1790
-  Total Strength: 0
-  Planet Strength: 0
-  Space Strength: 0
-  Garrison Strength: 0
-Statistics:
-  Movement Type: underwater
-  Move Points: 24
-  Spot: 14
-  Camouflage: 14
-  Agility: 22
-  Armor: 13
-  Psy Defense: 13
-  Rank: 538
-Cargo Space: 2
-Does not participate in combat
-Can tow units that can be towed
 Upkeep / Maintenance: 6
 Build Cost: 62
 Build Resource Requirements:
-  Food: 6
-  Energy: 11
-  Metal: 5
-  Trace: 9
-  Exotica: 7
-  Chemicals: 15
-  Biochems: 8
-  Electronics: 11
-  Ceramsteel: 6
-Build Advanced SDV in Well
+  Food: 1
+  Energy: 26
+  Metal: 41
+  Trace: 6
+  Exotica: 1
+  Chemicals: 34
+  Electronics: 4
+Build PTS Tank II in Factory
 Time to Build / Upgrade: 2
-[14495] Technologies Required to Build Unit (83):
-  [7200] Air-Independent Propulsion (85)
-  [7295] Nuclear-Powered Navalcraft (81)
+[6890] Technologies Required to Build Unit (88):
+  [770] Self-Propelled Weaponry (92)
+  [1950] PTS Missile Launcher (88)
+  [4170] Supercruise Missiles (84)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Symbiot PTS Weapon
+Nick Name: Fumerole
+Scores & Strengths:
+  Tech Score: 1530
+  Unit Score: 1530
+  Average Score: 1530
+  Stat Strength: 724
+  Total Strength: 1530
+  Planet Strength: 1370
+  Space Strength: 884
+  Garrison Strength: 395
+Statistics:
+  Movement Type: tread
+  Move Points: 12
+  Spot: 8
+  Camouflage: 8
+  Agility: 8
+  Armor: 18
+  Psy Defense: 8
+  Rank: 91
+Attacks:
+  Ranged Space: 10/16
+  Air: 11/15
+  Indirect: 9/17
+  Direct: 10/16
+  Close: 12/14
+Load aboard transport: YES
+Upkeep / Maintenance: 86
+Build Cost: 862
+Build Resource Requirements:
+  Food: 3
+  Energy: 195
+  Metal: 7
+  Trace: 7
+  Exotica: 4
+  Chemicals: 241
+  Biochems: 287
+  Electronics: 20
+Build Symbiot PTS Weapon in Hive
+Time to Build / Upgrade: 7
+[6995] Technology Required to Build Unit (37):
+  [6995] Symbiot Psychology (37)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: PTS Tank III
+Nick Name: PTS Tank III
+Scores & Strengths:
+  Tech Score: 1685
+  Unit Score: 1641
+  Average Score: 1663
+  Stat Strength: 982
+  Total Strength: 1641
+  Planet Strength: 1421
+  Space Strength: 1202
+  Garrison Strength: 449
+Statistics:
+  Movement Type: tread
+  Move Points: 10
+  Spot: 3
+  Camouflage: 3
+  Agility: 8
+  Armor: 20
+  Psy Defense: 20
+  Rank: 93
+Attacks:
+  Ranged Space: 10/22
+  Indirect: 10/22
+  Direct: 8/18
+  Close: 5/15
+Load aboard transport: YES
+Upkeep / Maintenance: 9
+Build Cost: 87
+Build Resource Requirements:
+  Food: 1
+  Energy: 28
+  Metal: 51
+  Trace: 6
+  Exotica: 1
+  Chemicals: 51
+  Electronics: 5
+Build PTS Tank III in Factory
+Time to Build / Upgrade: 3
+[10755] Technologies Required to Build Unit (84):
+  [1700] Main Battle Tank (88)
+  [1950] PTS Missile Launcher (88)
+  [7105] Hypercruise Missiles (77)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: PTS Laser Cannon
+Nick Name: PTS Laser
+Scores & Strengths:
+  Tech Score: 2044
+  Unit Score: 2043
+  Average Score: 2044
+  Stat Strength: 1422
+  Total Strength: 2043
+  Planet Strength: 1753
+  Space Strength: 1712
+  Garrison Strength: 619
+Statistics:
+  Movement Type: tread
+  Move Points: 8
+  Spot: 10
+  Camouflage: 2
+  Agility: 2
+  Armor: 25
+  Psy Defense: 25
+  Rank: 98
+Attacks:
+  Ranged Space: 10/29
+  Air: 9/15
+  Direct: 14/14
+Load aboard transport: YES
+Upkeep / Maintenance: 114
+Build Cost: 1143
+Build Resource Requirements:
+  Food: 2
+  Energy: 15
+  Metal: 12
+  Trace: 9
+  Exotica: 2
+  Chemicals: 25
+  Electronics: 16
+  Ceramsteel: 18
+  Monopols: 51
+Build PTS Laser Cannon in Factory
+Time to Build / Upgrade: 4
+[10295] Technology Required to Build Unit (76):
+  [10295] PTS Fusion Cannon (76)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: PTS Meson Cannon
+Nick Name: PTS Meson
+Scores & Strengths:
+  Tech Score: 3737
+  Unit Score: 3737
+  Average Score: 3737
+  Stat Strength: 2590
+  Total Strength: 3737
+  Planet Strength: 3191
+  Space Strength: 3136
+  Garrison Strength: 962
+Statistics:
+  Movement Type: tread
+  Move Points: 11
+  Spot: 12
+  Camouflage: 3
+  Agility: 2
+  Armor: 34
+  Psy Defense: 34
+  Rank: 125
+Attacks:
+  Ranged Space: 14/39
+  Air: 12/20
+  Direct: 19/19
+Load aboard transport: YES
+Upkeep / Maintenance: 128
+Build Cost: 133
+Build Resource Requirements:
+  Chemicals: 3
+  Electronics: 4
+  Ceramsteel: 1
+Upgrade PTS Laser Cannon to PTS Meson Cannon at Factory
+Time to Build / Upgrade: 1
+[23015] Technology Required to Build Unit (70):
+  [23015] PTS Meson Cannon (70)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Vau PTS Weapon
+Nick Name: Atomizer
+Scores & Strengths:
+  Tech Score: 3886
+  Unit Score: 3880
+  Average Score: 3883
+  Stat Strength: 2232
+  Total Strength: 3880
+  Planet Strength: 3280
+  Space Strength: 2832
+  Garrison Strength: 876
+Statistics:
+  Movement Type: tread
+  Move Points: 14
+  Spot: 10
+  Camouflage: 6
+  Agility: 10
+  Armor: 30
+  Psy Defense: 30
+  Rank: 164
+Attacks:
+  Ranged Space: 20/30
+  Air: 16/28
+  Indirect: 20/30
+Load aboard transport: YES
+Upkeep / Maintenance: 161
+Build Cost: 1606
+Build Resource Requirements:
+  Food: 1
+  Energy: 15
+  Metal: 5
+  Trace: 4
+  Exotica: 1
+  Chemicals: 27
+  Biochems: 26
+  Electronics: 10
+  Ceramsteel: 10
+  Wetware: 8
+  Monopols: 45
+Build Vau PTS Weapon in Vau City
+Time to Build / Upgrade: 4
+[24245] Technology Required to Build Unit (50):
+  [24245] Vau Psychology (50)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Discontinuity Cannon
+Nick Name: PTS Beam
+Scores & Strengths:
+  Tech Score: 4120
+  Unit Score: 3975
+  Average Score: 4047
+  Stat Strength: 2728
+  Total Strength: 3975
+  Planet Strength: 3401
+  Space Strength: 3302
+  Garrison Strength: 1025
+Statistics:
+  Movement Type: tread
+  Move Points: 11
+  Spot: 12
+  Camouflage: 3
+  Agility: 2
+  Armor: 35
+  Psy Defense: 35
+  Rank: 130
+Attacks:
+  Ranged Space: 14/41
+  Air: 13/21
+  Direct: 20/20
+Load aboard transport: YES
+Upkeep / Maintenance: 132
+Build Cost: 179
+Build Resource Requirements:
+  Chemicals: 3
+  Electronics: 4
+Upgrade PTS Laser Cannon to Discontinuity Cannon at Factory
+Time to Build / Upgrade: 1
+[26210] Technology Required to Build Unit (54):
+  [26210] PTS Beam Cannon (54)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Omicron Ray
+Nick Name: Omicron Ray
+Scores & Strengths:
+  Tech Score: 5202
+  Unit Score: 5201
+  Average Score: 5201
+  Stat Strength: 3650
+  Total Strength: 5201
+  Planet Strength: 4201
+  Space Strength: 4650
+  Garrison Strength: 1212
+Statistics:
+  Movement Type: tread
+  Move Points: 12
+  Spot: 16
+  Camouflage: 5
+  Agility: 5
+  Armor: 40
+  Psy Defense: 40
+  Rank: 162
+Attacks:
+  Ranged Space: 20/50
+  Air: 25/11
+  Indirect: 12/23
+Load aboard transport: YES
+Upkeep / Maintenance: 154
+Build Cost: 1542
+Build Resource Requirements:
+  Food: 1
+  Energy: 10
+  Metal: 7
+  Trace: 4
+  Exotica: 1
+  Chemicals: 21
+  Biochems: 21
+  Electronics: 12
+  Ceramsteel: 13
+  Wetware: 8
+  Monopols: 36
+Build Omicron Ray in Factory
+Time to Build / Upgrade: 4
+[49605] Technologies Required to Build Unit (46):
+  [23395] Advanced Hovertech (37)
+  [26210] PTS Beam Cannon (54)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

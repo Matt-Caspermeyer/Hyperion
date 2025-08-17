@@ -1,86 +1,280 @@
-All units of the unit class Spy Plane are listed herein (2 in total):
+All units of the unit class Fighter Divebomber are listed herein (6 in total):
 
 --1--
-Name: Spy Plane
-Nick Name: Sage
+Name: Fighter Divebomber
+Nick Name: A-FDB
 Scores & Strengths:
-  Tech Score: 1725
-  Unit Score: 926
-  Average Score: 1325
-  Stat Strength: 926
-  Total Strength: 926
-  Planet Strength: 926
+  Tech Score: 498
+  Unit Score: 745
+  Average Score: 621
+  Stat Strength: 555
+  Total Strength: 745
+  Planet Strength: 745
   Space Strength: 0
-  Garrison Strength: 197
+  Garrison Strength: 235
 Statistics:
   Movement Type: air
-  Move Points: 22
-  Spot: 10
-  Camouflage: 10
-  Agility: 12
-  Armor: 7
-  Psy Defense: 7
-  Rank: 88
+  Move Points: 10
+  Spot: 8
+  Camouflage: 2
+  Agility: 15
+  Armor: 9
+  Psy Defense: 9
+  Rank: 156
+Attacks:
+  Air: 4/10
+  Indirect: 15/10
 Load aboard transport: YES
-Upkeep / Maintenance: 4
-Build Cost: 42
+Upkeep / Maintenance: 11
+Build Cost: 111
 Build Resource Requirements:
-  Food: 7
-  Energy: 12
-  Metal: 1
-  Trace: 5
-  Exotica: 7
-  Chemicals: 18
-  Electronics: 9
-  Ceramsteel: 4
-Build Spy Plane in Factory
-Time to Build / Upgrade: 1
-[8210] Technology Required to Build Unit (74):
-  [8210] Aircraft Surveillance (74)
+  Food: 13
+  Energy: 27
+  Metal: 78
+  Trace: 42
+  Exotica: 12
+  Chemicals: 28
+  Electronics: 10
+Build Fighter Divebomber in Factory
+Time to Build / Upgrade: 3
+[1675] Technologies Required to Build Unit (86):
+  [275] Artifical Line of Sight (84)
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Stealth Spy Plane
-Nick Name: Seer
+Name: Divebomber
+Nick Name: Wailer
 Scores & Strengths:
-  Tech Score: 7253
-  Unit Score: 6893
-  Average Score: 7073
-  Stat Strength: 6893
-  Total Strength: 6893
-  Planet Strength: 6893
+  Tech Score: 498
+  Unit Score: 746
+  Average Score: 622
+  Stat Strength: 538
+  Total Strength: 746
+  Planet Strength: 746
   Space Strength: 0
-  Garrison Strength: 1063
+  Garrison Strength: 224
 Statistics:
   Movement Type: air
-  Move Points: 42
-  Spot: 16
-  Camouflage: 40
-  Agility: 31
-  Armor: 34
-  Psy Defense: 34
-  Rank: 146
+  Move Points: 11
+  Spot: 8
+  Camouflage: 3
+  Agility: 12
+  Armor: 10
+  Psy Defense: 10
+  Rank: 159
+Attacks:
+  Air: 2/8
+  Indirect: 16/12
 Load aboard transport: YES
-Upkeep / Maintenance: 96
-Build Cost: 956
+Upkeep / Maintenance: 11
+Build Cost: 113
+Build Resource Requirements:
+  Food: 12
+  Energy: 26
+  Metal: 96
+  Trace: 42
+  Exotica: 11
+  Chemicals: 27
+  Electronics: 8
+Build Divebomber in Factory
+Time to Build / Upgrade: 4
+[1675] Technologies Required to Build Unit (86):
+  [275] Artifical Line of Sight (84)
+  [1400] Aerial Warfare (87)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Power Divebomber
+Nick Name: Banshee
+Scores & Strengths:
+  Tech Score: 2770
+  Unit Score: 3504
+  Average Score: 3137
+  Stat Strength: 2345
+  Total Strength: 3504
+  Planet Strength: 3504
+  Space Strength: 0
+  Garrison Strength: 687
+Statistics:
+  Movement Type: air
+  Move Points: 26
+  Spot: 12
+  Camouflage: 7
+  Agility: 18
+  Armor: 24
+  Psy Defense: 24
+  Rank: 222
+Attacks:
+  Air: 5/19
+  Indirect: 38/28
+Load aboard transport: YES
+Upkeep / Maintenance: 117
+Build Cost: 1165
+Build Resource Requirements:
+  Food: 5
+  Energy: 16
+  Metal: 5
+  Trace: 33
+  Exotica: 5
+  Chemicals: 29
+  Electronics: 14
+  Ceramsteel: 13
+  Monopols: 41
+Build Power Divebomber in Factory
+Time to Build / Upgrade: 4
+[15440] Technology Required to Build Unit (79):
+  [15440] Power Aircraft (79)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: 3rd-Republic Hyper Bomber
+Nick Name: Salvonator
+Scores & Strengths:
+  Tech Score: 4822
+  Unit Score: 4355
+  Average Score: 4589
+  Stat Strength: 2313
+  Total Strength: 4355
+  Planet Strength: 4355
+  Space Strength: 0
+  Garrison Strength: 697
+Statistics:
+  Movement Type: air
+  Move Points: 39
+  Spot: 10
+  Camouflage: 6
+  Agility: 12
+  Armor: 16
+  Psy Defense: 16
+  Rank: 261
+Attacks:
+  Air: 11/22
+  Indirect: 30/60
+Load aboard transport: YES
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 144
+Build Cost: 1437
 Build Resource Requirements:
   Food: 3
-  Energy: 6
-  Metal: 5
-  Trace: 14
+  Energy: 24
+  Metal: 1
+  Trace: 4
   Exotica: 3
-  Chemicals: 10
-  Biochems: 15
-  Electronics: 25
-  Ceramsteel: 8
-  Wetware: 4
-  Monopols: 18
-Build Stealth Spy Plane in Factory
+  Chemicals: 30
+  Biochems: 18
+  Electronics: 3
+  Ceramsteel: 2
+  Wetware: 2
+  Monopols: 41
+Build 3rd-Republic Hyper Bomber in Factory
 Time to Build / Upgrade: 3
-[63380] Technologies Required to Build Unit (55):
-  [8210] Aircraft Surveillance (74)
+[42355] Technologies Required to Build Unit (63):
+  [26915] Rocket Legion (47)
+  [15440] Power Aircraft (79)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Morph Divebomber
+Nick Name: Bansheewolf
+Scores & Strengths:
+  Tech Score: 8352
+  Unit Score: 8183
+  Average Score: 8267
+  Stat Strength: 6407
+  Total Strength: 8183
+  Planet Strength: 8183
+  Space Strength: 0
+  Garrison Strength: 1219
+Statistics:
+  Movement Type: air
+  Move Points: 45
+  Spot: 26
+  Camouflage: 15
+  Agility: 41
+  Armor: 30
+  Psy Defense: 30
+  Rank: 283
+Attacks:
+  Air: 15/26
+  Indirect: 42/33
+Load aboard transport: YES
+Upkeep / Maintenance: 119
+Build Cost: 1189
+Build Resource Requirements:
+  Food: 3
+  Energy: 9
+  Metal: 2
+  Trace: 7
+  Exotica: 3
+  Chemicals: 13
+  Biochems: 17
+  Electronics: 8
+  Ceramsteel: 4
+  Wetware: 5
+  Monopols: 20
+Build Morph Divebomber in Factory
+Time to Build / Upgrade: 3
+[100255] Technologies Required to Build Unit (64):
+  [1785] Rotary Autocannon (90)
+  [45010] Hover Navalcraft (52)
+  [53460] Polymorphonic Patrolcraft (50)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Stealth Divebomber
+Nick Name: Spirit Wolf
+Scores & Strengths:
+  Tech Score: 8583
+  Unit Score: 8416
+  Average Score: 8499
+  Stat Strength: 6394
+  Total Strength: 8416
+  Planet Strength: 8416
+  Space Strength: 0
+  Garrison Strength: 1227
+Statistics:
+  Movement Type: air
+  Move Points: 47
+  Spot: 26
+  Camouflage: 35
+  Agility: 22
+  Armor: 30
+  Psy Defense: 30
+  Rank: 288
+Attacks:
+  Air: 17/30
+  Indirect: 42/36
+Load aboard transport: YES
+Upkeep / Maintenance: 113
+Build Cost: 1126
+Build Resource Requirements:
+  Food: 2
+  Energy: 9
+  Metal: 2
+  Trace: 10
+  Exotica: 3
+  Chemicals: 12
+  Biochems: 17
+  Electronics: 13
+  Ceramsteel: 4
+  Wetware: 3
+  Monopols: 20
+Build Stealth Divebomber in Factory
+Time to Build / Upgrade: 3
+[101965] Technologies Required to Build Unit (59):
+  [1785] Rotary Autocannon (90)
+  [45010] Hover Navalcraft (52)
   [55170] Neumonic Patrolcraft (35)
 Counts as planetary flock: YES
 Unit Eats: YES

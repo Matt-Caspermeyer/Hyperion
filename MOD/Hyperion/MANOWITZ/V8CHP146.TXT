@@ -1,477 +1,594 @@
-All units of the unit class Pathfinder are listed herein (11 in total):
+All units of the unit class Holy Space Sloop are listed herein (12 in total):
 
 --1--
-Name: Pathfinder
-Nick Name: Pathfinder
+Name: Holy Space Sloop
+Nick Name: SS-HSS
 Scores & Strengths:
-  Tech Score: 763
-  Unit Score: 763
-  Average Score: 763
-  Stat Strength: 656
-  Total Strength: 763
-  Planet Strength: 763
-  Space Strength: 721
-  Garrison Strength: 220
+  Tech Score: 725
+  Unit Score: 725
+  Average Score: 725
+  Stat Strength: 425
+  Total Strength: 725
+  Planet Strength: 0
+  Space Strength: 725
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 12
-  Spot: 12
-  Camouflage: 12
-  Agility: 12
-  Armor: 4
-  Psy Defense: 8
-  Rank: 8
+  Movement Type: space
+  Move Points: 3
+  Spot: 8
+  Camouflage: 4
+  Agility: 4
+  Armor: 8
+  Psy Defense: 16
+  Rank: 127
 Attacks:
-  Psychic: 13/5
-  Close: 6/7
+  Direct Space: 12/8
+  Closed Space: 12/6
+  Psychic: 12/11
 Load aboard transport: YES
-Upkeep / Maintenance: 26
-Build Cost: 247
+Immune to Plague
+Upkeep / Maintenance: 55
+Build Cost: 474
 Build Resource Requirements:
-  Metal: 2
-  Trace: 13
-  Exotica: 13
-  Chemicals: 17
-  Biochems: 34
-  Electronics: 25
-  Gems: 12
-Upgrade Peasant to Pathfinder at Fort
-Time to Build / Upgrade: 2
-[2875] Technologies Required to Build Unit (89):
-  [2605] Biotechnical Simulation (77)
-  [145] Composite Armor (97)
-  [125] Parapsychology (94)
+  Metal: 21
+  Trace: 21
+  Chemicals: 7
+  Electronics: 18
+  Gems: 10
+Upgrade Clergy to Holy Space Sloop at Church
+Time to Build / Upgrade: 1
+[3325] Technologies Required to Build Unit (85):
+  [700] Rockets (90)
+  [1100] Omen (76)
+  [330] Holy Warriors (82)
+  [1195] Naval Warfare (90)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Vislock
-Nick Name: Vislock
+Name: Holy Space Raider
+Nick Name: SS-HSR
 Scores & Strengths:
-  Tech Score: 966
-  Unit Score: 963
-  Average Score: 965
-  Stat Strength: 657
-  Total Strength: 963
-  Planet Strength: 963
-  Space Strength: 963
-  Garrison Strength: 321
+  Tech Score: 725
+  Unit Score: 726
+  Average Score: 726
+  Stat Strength: 470
+  Total Strength: 726
+  Planet Strength: 0
+  Space Strength: 726
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 9
-  Spot: 9
-  Camouflage: 9
-  Agility: 17
-  Armor: 5
-  Psy Defense: 10
-  Rank: 10
-Attacks:
-  Psychic: 18/17
-Load aboard transport: YES
-Upkeep / Maintenance: 44
-Build Cost: 368
-Build Resource Requirements:
-  Food: 22
-  Energy: 13
-  Metal: 13
-  Trace: 45
-  Exotica: 38
-  Chemicals: 39
-  Electronics: 64
-  Gems: 15
-Upgrade Clergy to Vislock at Church
-Time to Build / Upgrade: 3
-[3790] Technology Required to Build Unit (32):
-  [3790] Vislocks (32)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---3--
-Name: Occultist
-Nick Name: Occultist
-Scores & Strengths:
-  Tech Score: 1015
-  Unit Score: 1014
-  Average Score: 1015
-  Stat Strength: 714
-  Total Strength: 1014
-  Planet Strength: 1014
-  Space Strength: 1014
-  Garrison Strength: 320
-Statistics:
-  Movement Type: foot
-  Move Points: 10
+  Movement Type: space
+  Move Points: 3
   Spot: 10
   Camouflage: 10
-  Agility: 17
-  Armor: 5
-  Psy Defense: 10
-  Rank: 10
+  Agility: 4
+  Armor: 7
+  Psy Defense: 14
+  Rank: 820
 Attacks:
-  Psychic: 20/15
-Load aboard transport: YES
-Upkeep / Maintenance: 41
-Build Cost: 335
-Build Resource Requirements:
-  Food: 26
-  Energy: 16
-  Metal: 13
-  Trace: 51
-  Exotica: 44
-  Chemicals: 42
-  Electronics: 72
-  Gems: 10
-Upgrade Clergy to Occultist at Church
-Time to Build / Upgrade: 3
-[4050] Technology Required to Build Unit (48):
-  [4050] Occultists (48)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---4--
-Name: Reflector
-Nick Name: Reflector
-Scores & Strengths:
-  Tech Score: 1186
-  Unit Score: 1184
-  Average Score: 1185
-  Stat Strength: 832
-  Total Strength: 1184
-  Planet Strength: 1184
-  Space Strength: 1184
-  Garrison Strength: 356
-Statistics:
-  Movement Type: foot
-  Move Points: 11
-  Spot: 11
-  Camouflage: 11
-  Agility: 17
-  Armor: 6
-  Psy Defense: 12
-  Rank: 12
-Attacks:
-  Psychic: 22/16
-Load aboard transport: YES
-Upkeep / Maintenance: 44
-Build Cost: 368
-Build Resource Requirements:
-  Food: 31
-  Energy: 18
-  Metal: 20
-  Trace: 57
-  Exotica: 51
-  Chemicals: 45
-  Electronics: 81
-  Gems: 10
-Upgrade Clergy to Reflector at Church
-Time to Build / Upgrade: 3
-[4980] Technology Required to Build Unit (41):
-  [4980] Psychic Turners (41)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Pyrokinetic
-Nick Name: Pyrokinetic
-Scores & Strengths:
-  Tech Score: 1186
-  Unit Score: 1186
-  Average Score: 1186
-  Stat Strength: 749
-  Total Strength: 1186
-  Planet Strength: 1186
-  Space Strength: 1186
-  Garrison Strength: 375
-Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 10
-  Camouflage: 10
-  Agility: 18
-  Armor: 5
-  Psy Defense: 10
-  Rank: 12
-Attacks:
-  Psychic: 23/19
-Load aboard transport: YES
-Upkeep / Maintenance: 50
-Build Cost: 425
-Build Resource Requirements:
-  Food: 29
-  Energy: 18
-  Metal: 13
-  Trace: 53
-  Exotica: 48
-  Chemicals: 45
-  Electronics: 76
-  Gems: 15
-Upgrade Clergy to Pyrokinetic at Church
-Time to Build / Upgrade: 3
-[4980] Technology Required to Build Unit (39):
-  [4980] Pyrokinetics (39)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Cryokinetic
-Nick Name: Cryokinetic
-Scores & Strengths:
-  Tech Score: 1186
-  Unit Score: 1189
-  Average Score: 1187
-  Stat Strength: 757
-  Total Strength: 1189
-  Planet Strength: 1189
-  Space Strength: 1189
-  Garrison Strength: 420
-Statistics:
-  Movement Type: foot
-  Move Points: 8
-  Spot: 10
-  Camouflage: 12
-  Agility: 18
-  Armor: 5
-  Psy Defense: 10
-  Rank: 12
-Attacks:
-  Psychic: 24/18
-Load aboard transport: YES
-Upkeep / Maintenance: 47
-Build Cost: 401
-Build Resource Requirements:
-  Food: 25
-  Energy: 14
-  Metal: 13
-  Trace: 62
-  Exotica: 42
-  Chemicals: 40
-  Electronics: 88
-  Gems: 13
-Upgrade Clergy to Cryokinetic at Church
-Time to Build / Upgrade: 3
-[4980] Technology Required to Build Unit (31):
-  [4980] Cryokinetics (31)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---7--
-Name: Wraith
-Nick Name: Wraith
-Scores & Strengths:
-  Tech Score: 1241
-  Unit Score: 1241
-  Average Score: 1241
-  Stat Strength: 1016
-  Total Strength: 1241
-  Planet Strength: 1241
-  Space Strength: 1241
-  Garrison Strength: 392
-Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 12
-  Camouflage: 16
-  Agility: 14
-  Armor: 8
-  Psy Defense: 16
-  Rank: 678
-Attacks:
-  Psychic: 15/15
+  Ranged Space: 10/12
+  Closed Space: 6/6
+  Psychic: 10/10
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 81
-Build Cost: 732
+Immune to Plague
+Upkeep / Maintenance: 90
+Build Cost: 825
 Build Resource Requirements:
-  Food: 24
-  Energy: 9
-  Metal: 37
-  Trace: 78
-  Exotica: 41
-  Chemicals: 34
-  Electronics: 112
+  Metal: 15
+  Trace: 18
+  Chemicals: 11
+  Electronics: 16
   Gems: 7
-Upgrade Clergy to Wraith at Church
+Upgrade Clergy to Holy Space Raider at Church
+Time to Build / Upgrade: 1
+[3325] Technologies Required to Build Unit (85):
+  [700] Rockets (90)
+  [1100] Omen (76)
+  [330] Holy Warriors (82)
+  [1195] Naval Warfare (90)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Holy Space Corsair
+Nick Name: SS-HSCo
+Scores & Strengths:
+  Tech Score: 1068
+  Unit Score: 1067
+  Average Score: 1068
+  Stat Strength: 572
+  Total Strength: 1067
+  Planet Strength: 0
+  Space Strength: 1067
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 6
+  Spot: 10
+  Camouflage: 4
+  Agility: 10
+  Armor: 8
+  Psy Defense: 16
+  Rank: 146
+Attacks:
+  Direct Space: 25/10
+  Closed Space: 13/9
+  Psychic: 16/8
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 51
+Build Cost: 512
+Build Resource Requirements:
+  Food: 4
+  Energy: 9
+  Metal: 17
+  Trace: 40
+  Exotica: 5
+  Chemicals: 10
+  Biochems: 21
+  Electronics: 31
+  Gems: 8
+Build Holy Space Corsair in Starport
 Time to Build / Upgrade: 3
-[5290] Technology Required to Build Unit (29):
-  [5290] Wraiths (29)
+[5370] Technologies Required to Build Unit (80):
+  [795] Rocket Propulsion (90)
+  [1520] Psyche (60)
+  [330] Holy Warriors (82)
+  [2725] Naval Capital Ships (88)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Holy Space Corvette
+Nick Name: SS-HSCv
+Scores & Strengths:
+  Tech Score: 1706
+  Unit Score: 1706
+  Average Score: 1706
+  Stat Strength: 993
+  Total Strength: 1706
+  Planet Strength: 0
+  Space Strength: 1706
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 11
+  Spot: 10
+  Camouflage: 4
+  Agility: 16
+  Armor: 10
+  Psy Defense: 20
+  Rank: 151
+Attacks:
+  Direct Space: 21/13
+  Closed Space: 20/12
+  Psychic: 20/10
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 63
+Build Cost: 628
+Build Resource Requirements:
+  Food: 4
+  Energy: 12
+  Metal: 12
+  Trace: 23
+  Exotica: 5
+  Chemicals: 15
+  Biochems: 12
+  Electronics: 26
+  Ceramsteel: 14
+  Gems: 11
+Build Holy Space Corvette in Starport
+Time to Build / Upgrade: 3
+[9400] Technologies Required to Build Unit (74):
+  [2585] Supersonics (87)
+  [330] Holy Warriors (82)
+  [1790] Sixth Sense (45)
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Holy Space Patrol Star
+Nick Name: SS-HSPs
+Scores & Strengths:
+  Tech Score: 1706
+  Unit Score: 1706
+  Average Score: 1706
+  Stat Strength: 1009
+  Total Strength: 1706
+  Planet Strength: 0
+  Space Strength: 1706
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 12
+  Spot: 10
+  Camouflage: 6
+  Agility: 18
+  Armor: 9
+  Psy Defense: 18
+  Rank: 153
+Attacks:
+  Direct Space: 25/11
+  Closed Space: 26/10
+  Psychic: 18/9
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 63
+Build Cost: 625
+Build Resource Requirements:
+  Food: 5
+  Energy: 11
+  Metal: 10
+  Trace: 34
+  Exotica: 5
+  Chemicals: 14
+  Biochems: 18
+  Electronics: 38
+  Ceramsteel: 11
+  Gems: 9
+Build Holy Space Patrol Star in Starport
+Time to Build / Upgrade: 3
+[9400] Technologies Required to Build Unit (74):
+  [2585] Supersonics (87)
+  [330] Holy Warriors (82)
+  [1790] Sixth Sense (45)
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Holy Space Cutter
+Nick Name: SS-HSCu
+Scores & Strengths:
+  Tech Score: 1706
+  Unit Score: 1706
+  Average Score: 1706
+  Stat Strength: 1058
+  Total Strength: 1706
+  Planet Strength: 0
+  Space Strength: 1706
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 12
+  Spot: 10
+  Camouflage: 5
+  Agility: 17
+  Armor: 10
+  Psy Defense: 20
+  Rank: 152
+Attacks:
+  Direct Space: 21/14
+  Closed Space: 14/11
+  Psychic: 20/10
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 61
+Build Cost: 610
+Build Resource Requirements:
+  Food: 4
+  Energy: 13
+  Metal: 12
+  Trace: 19
+  Exotica: 5
+  Chemicals: 16
+  Biochems: 11
+  Electronics: 22
+  Ceramsteel: 14
+  Gems: 11
+Build Holy Space Cutter in Starport
+Time to Build / Upgrade: 3
+[9400] Technologies Required to Build Unit (74):
+  [2585] Supersonics (87)
+  [330] Holy Warriors (82)
+  [1790] Sixth Sense (45)
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Sathra Corsair
+Nick Name: JJ-HSCo
+Scores & Strengths:
+  Tech Score: 2245
+  Unit Score: 2209
+  Average Score: 2227
+  Stat Strength: 1182
+  Total Strength: 2209
+  Planet Strength: 0
+  Space Strength: 2209
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 9
+  Spot: 14
+  Camouflage: 6
+  Agility: 14
+  Armor: 12
+  Psy Defense: 23
+  Rank: 197
+Attacks:
+  Direct Space: 36/14
+  Closed Space: 19/13
+  Psychic: 23/12
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 279
+Build Cost: 2792
+Build Resource Requirements:
+  Food: 3
+  Energy: 9
+  Metal: 13
+  Trace: 30
+  Exotica: 4
+  Chemicals: 13
+  Biochems: 15
+  Electronics: 39
+  Ceramsteel: 16
+  Gems: 12
+S  ingularities: 3
+Build Sathra Corsair in Starport
+Time to Build / Upgrade: 3
+[13980] Technologies Required to Build Unit (71):
+  [4530] Hypersonics (83)
+  [330] Holy Warriors (82)
+  [2465] Sathra (36)
+  [6655] PTS Missile Navalcraft (83)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Electrokinetic
-Nick Name: E-Kinetic
+Name: Sathra Sloop
+Nick Name: JJ-HSS
 Scores & Strengths:
-  Tech Score: 1326
-  Unit Score: 1324
-  Average Score: 1325
-  Stat Strength: 849
-  Total Strength: 1324
-  Planet Strength: 1324
-  Space Strength: 1324
-  Garrison Strength: 399
+  Tech Score: 2245
+  Unit Score: 2223
+  Average Score: 2234
+  Stat Strength: 1299
+  Total Strength: 2223
+  Planet Strength: 0
+  Space Strength: 2223
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 11
-  Spot: 11
-  Camouflage: 11
-  Agility: 19
-  Armor: 5
-  Psy Defense: 10
-  Rank: 13
+  Movement Type: jump
+  Move Points: 5
+  Spot: 14
+  Camouflage: 7
+  Agility: 7
+  Armor: 14
+  Psy Defense: 28
+  Rank: 182
 Attacks:
-  Psychic: 19/25
+  Direct Space: 21/14
+  Closed Space: 21/11
+  Psychic: 21/19
 Load aboard transport: YES
-Upkeep / Maintenance: 50
-Build Cost: 426
+Immune to Plague
+Upkeep / Maintenance: 250
+Build Cost: 2427
 Build Resource Requirements:
-  Food: 5
-  Energy: 2
-  Metal: 12
-  Trace: 9
-  Exotica: 14
-  Chemicals: 25
-  Electronics: 26
-  Gems: 25
-Upgrade Clergy to Electrokinetic at Church
+  Metal: 16
+  Trace: 17
+  Chemicals: 10
+  Biochems: 9
+  Electronics: 22
+  Ceramsteel: 23
+  Gems: 23
+S  ingularities: 2
+Upgrade Clergy to Sathra Sloop at Church
 Time to Build / Upgrade: 2
-[5780] Technology Required to Build Unit (20):
-  [5780] Electrokinetics (20)
+[13980] Technologies Required to Build Unit (71):
+  [4530] Hypersonics (83)
+  [330] Holy Warriors (82)
+  [2465] Sathra (36)
+  [6655] PTS Missile Navalcraft (83)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Cyber Mage
-Nick Name: Cyber Mage
+Name: Sathra Raider
+Nick Name: JJ-HSR
 Scores & Strengths:
-  Tech Score: 1819
-  Unit Score: 1820
-  Average Score: 1819
-  Stat Strength: 1199
-  Total Strength: 1820
-  Planet Strength: 1820
-  Space Strength: 1820
-  Garrison Strength: 486
+  Tech Score: 2245
+  Unit Score: 2314
+  Average Score: 2279
+  Stat Strength: 1491
+  Total Strength: 2314
+  Planet Strength: 0
+  Space Strength: 2314
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 14
-  Spot: 11
-  Camouflage: 11
-  Agility: 21
-  Armor: 8
-  Psy Defense: 16
-  Rank: 684
+  Movement Type: jump
+  Move Points: 5
+  Spot: 18
+  Camouflage: 18
+  Agility: 7
+  Armor: 12
+  Psy Defense: 25
+  Rank: 878
 Attacks:
-  Psychic: 27/23
+  Ranged Space: 18/21
+  Closed Space: 11/11
+  Psychic: 18/18
 Load aboard transport: YES
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 110
-Build Cost: 1029
+Immune to Plague
+Upkeep / Maintenance: 459
+Build Cost: 4512
 Build Resource Requirements:
-  Metal: 8
-  Trace: 10
-  Chemicals: 25
-  Electronics: 23
-  Ceramsteel: 14
-  Gems: 30
-Upgrade Clergy to Cyber Mage at Fort
+  Metal: 12
+  Trace: 16
+  Chemicals: 14
+  Biochems: 5
+  Electronics: 20
+  Ceramsteel: 18
+  Gems: 20
+S  ingularities: 2
+Upgrade Clergy to Sathra Raider at Church
 Time to Build / Upgrade: 2
-[9215] Technologies Required to Build Unit (48):
-  [3790] Vislocks (32)
-  [5425] Cybernetics (63)
+[13980] Technologies Required to Build Unit (71):
+  [4530] Hypersonics (83)
+  [330] Holy Warriors (82)
+  [2465] Sathra (36)
+  [6655] PTS Missile Navalcraft (83)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Warlock
-Nick Name: Warlock
+Name: Sathra Cutter
+Nick Name: JJ-HSCu
 Scores & Strengths:
-  Tech Score: 2660
-  Unit Score: 2659
-  Average Score: 2660
-  Stat Strength: 2259
-  Total Strength: 2659
-  Planet Strength: 2659
-  Space Strength: 2659
-  Garrison Strength: 610
+  Tech Score: 2544
+  Unit Score: 2517
+  Average Score: 2530
+  Stat Strength: 1566
+  Total Strength: 2517
+  Planet Strength: 0
+  Space Strength: 2517
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 19
-  Spot: 19
-  Camouflage: 19
-  Agility: 26
-  Armor: 10
-  Psy Defense: 20
-  Rank: 693
+  Movement Type: jump
+  Move Points: 15
+  Spot: 12
+  Camouflage: 6
+  Agility: 21
+  Armor: 12
+  Psy Defense: 24
+  Rank: 193
 Attacks:
-  Psychic: 20/20
+  Direct Space: 26/17
+  Closed Space: 17/13
+  Psychic: 24/12
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 62
-Build Cost: 548
+Immune to Plague
+Upkeep / Maintenance: 354
+Build Cost: 3542
 Build Resource Requirements:
-  Metal: 4
-  Trace: 16
-  Chemicals: 8
-  Biochems: 41
-  Electronics: 38
-  Gems: 5
-Upgrade Clergy to Warlock at Church
-Time to Build / Upgrade: 2
-[14630] Technology Required to Build Unit (7):
-  [14630] Warlocks (7)
+  Food: 5
+  Energy: 13
+  Metal: 13
+  Trace: 20
+  Exotica: 6
+  Chemicals: 19
+  Biochems: 11
+  Electronics: 26
+  Ceramsteel: 16
+  Gems: 10
+S  ingularities: 4
+Build Sathra Cutter in Starport
+Time to Build / Upgrade: 3
+[16135] Technologies Required to Build Unit (68):
+  [4920] Hypercruise (82)
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --11--
-Name: Mechanized Demon
-Nick Name: Mech. Demon
+Name: Sathra Corvette
+Nick Name: JJ-HSCv
 Scores & Strengths:
-  Tech Score: 3924
-  Unit Score: 3596
-  Average Score: 3760
-  Stat Strength: 3029
-  Total Strength: 3596
-  Planet Strength: 3596
-  Space Strength: 3596
-  Garrison Strength: 784
+  Tech Score: 2544
+  Unit Score: 2522
+  Average Score: 2533
+  Stat Strength: 1458
+  Total Strength: 2522
+  Planet Strength: 0
+  Space Strength: 2522
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 21
-  Spot: 22
-  Camouflage: 22
-  Agility: 30
+  Movement Type: jump
+  Move Points: 13
+  Spot: 12
+  Camouflage: 5
+  Agility: 20
   Armor: 12
   Psy Defense: 24
-  Rank: 704
+  Rank: 192
 Attacks:
-  Psychic: 21/27
+  Direct Space: 26/16
+  Closed Space: 24/15
+  Psychic: 24/12
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 123
-Build Cost: 1158
+Immune to Plague
+Upkeep / Maintenance: 334
+Build Cost: 3340
 Build Resource Requirements:
-  Metal: 1
-  Trace: 9
-  Chemicals: 10
-  Biochems: 16
-  Electronics: 20
-  Ceramsteel: 4
-  Monopols: 14
-  Gems: 7
-Upgrade Clergy to Mechanized Demon at Church
-Time to Build / Upgrade: 2
-[24560] Technology Required to Build Unit (3):
-  [24560] Mechanized Demons (3)
+  Food: 4
+  Energy: 13
+  Metal: 13
+  Trace: 24
+  Exotica: 5
+  Chemicals: 18
+  Biochems: 13
+  Electronics: 31
+  Ceramsteel: 16
+  Gems: 10
+S  ingularities: 4
+Build Sathra Corvette in Starport
+Time to Build / Upgrade: 3
+[16135] Technologies Required to Build Unit (68):
+  [4920] Hypercruise (82)
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Sathra Patrol Star
+Nick Name: JJ-HSPs
+Scores & Strengths:
+  Tech Score: 2544
+  Unit Score: 2536
+  Average Score: 2540
+  Stat Strength: 1507
+  Total Strength: 2536
+  Planet Strength: 0
+  Space Strength: 2536
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 15
+  Spot: 12
+  Camouflage: 7
+  Agility: 22
+  Armor: 11
+  Psy Defense: 22
+  Rank: 194
+Attacks:
+  Direct Space: 31/13
+  Closed Space: 32/12
+  Psychic: 22/11
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 357
+Build Cost: 3566
+Build Resource Requirements:
+  Food: 5
+  Energy: 12
+  Metal: 11
+  Trace: 35
+  Exotica: 6
+  Chemicals: 16
+  Biochems: 19
+  Electronics: 46
+  Ceramsteel: 13
+  Gems: 8
+S  ingularities: 4
+Build Sathra Patrol Star in Starport
+Time to Build / Upgrade: 3
+[16135] Technologies Required to Build Unit (68):
+  [4920] Hypercruise (82)
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
