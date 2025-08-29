@@ -1995,7 +1995,7 @@
             "x": 50,
             "y": 300,
             "dx": 150,
-            "dy": 10,
+            "dy": 15,
             "style": 96,
             "fore": 13290702,
             "back": -1,
@@ -2023,7 +2023,7 @@
             "style": 1,
             "fore": 0,
             "back": 921102,
-            "range": 100,
+            "range": 101,
             "page": 10
         },
         {
@@ -2036,8 +2036,8 @@
             "style": 1,
             "fore": 0,
             "back": 921102,
-            "range": 45,
-            "page": 5
+            "range": 20,
+            "page": 2
         },
         {
             "type": "scroll",
@@ -2050,7 +2050,7 @@
             "fore": 0,
             "back": 921102,
             "range": 999,
-            "page": 10
+            "page": 100
         },
         {
             "type": "button",
@@ -2100,6 +2100,42 @@
             "back": 921102,
             "data1": "Active",
             "data2": "Sentry"
+        },
+        {
+            "type": "edit",
+            "id": 2000,
+            "x": 10,
+            "y": 70,
+            "dx": 30,
+            "dy": 16,
+            "style": 10,
+            "fore": 13290702,
+            "back": 921102,
+            "maxLength": 2
+        },
+        {
+            "type": "edit",
+            "id": 2001,
+            "x": 10,
+            "y": 115,
+            "dx": 30,
+            "dy": 16,
+            "style": 10,
+            "fore": 13290702,
+            "back": 921102,
+            "maxLength": 3
+        },
+        {
+            "type": "edit",
+            "id": 2002,
+            "x": 10,
+            "y": 315,
+            "dx": 30,
+            "dy": 16,
+            "style": 10,
+            "fore": 13290702,
+            "back": 921102,
+            "maxLength": 3
         }
     ]
 },
@@ -2980,10 +3016,10 @@
             "y": 130,
             "dx": 20003,
             "dy": 20001,
-            "style": 2,
+            "style": 10,
             "fore": 13290702,
             "back": 921102,
-            "maxLength": 3
+            "maxLength": 2
         },
         {
             "type": "edit",
@@ -2992,10 +3028,10 @@
             "y": 130,
             "dx": 20003,
             "dy": 20001,
-            "style": 2,
+            "style": 10,
             "fore": 13290702,
             "back": 921102,
-            "maxLength": 3
+            "maxLength": 2
         }
     ]
 },
