@@ -1,4 +1,4 @@
-All units of the unit class Dread-Battlestar are listed herein (8 in total):
+All units of the unit class Dread-Battlestar are listed herein (9 in total):
 
 --1--
 Name: Dread-Battlestar
@@ -340,9 +340,9 @@ Unit can be disbanded: YES
 Name: Gate Dreadstar
 Nick Name: JJ-BD
 Scores & Strengths:
-  Tech Score: 7682
+  Tech Score: 7734
   Unit Score: 7520
-  Average Score: 7601
+  Average Score: 7627
   Stat Strength: 5832
   Total Strength: 7520
   Planet Strength: 0
@@ -366,13 +366,13 @@ Attacks:
   Direct: 11/11
 Officer - Provides stack combat bonuses
 Immune to Plague
-Upkeep / Maintenance: 1184
-Build Cost: 11840
+Upkeep / Maintenance: 1181
+Build Cost: 11811
 Build Resource Requirements:
   Energy: 14
   Metal: 11
   Trace: 2
-  Chemicals: 26
+  Chemicals: 25
   Biochems: 24
   Electronics: 8
   Ceramsteel: 19
@@ -383,5 +383,54 @@ Build Gate Dreadstar in Starport
 Time to Build / Upgrade: 4
 [60155] Technology Required to Build Unit (53):
   [60155] Gate Capital Ships (53)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Cloaking Cadiz Dreadstar
+Nick Name: JJ-CCD
+Scores & Strengths:
+  Tech Score: 8498
+  Unit Score: 8507
+  Average Score: 8502
+  Stat Strength: 6791
+  Total Strength: 8507
+  Planet Strength: 0
+  Space Strength: 8507
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 15
+  Spot: 16
+  Camouflage: 44
+  Agility: 18
+  Armor: 45
+  Psy Defense: 45
+  Rank: 262
+Attacks:
+  Ranged Space: 12/46
+  Direct Space: 18/34
+  Closed Space: 24/23
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 744
+Build Cost: 7438
+Build Resource Requirements:
+  Energy: 8
+  Metal: 6
+  Trace: 7
+  Exotica: 1
+  Chemicals: 14
+  Biochems: 19
+  Electronics: 17
+  Ceramsteel: 10
+  Wetware: 4
+  Monopols: 25
+S  ingularities: 4
+Build Cloaking Cadiz Dreadstar in Starport
+Time to Build / Upgrade: 4
+[98765] Technologies Required to Build Unit (63):
+  [59400] Cloaked Capital Ships (64)
+  [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

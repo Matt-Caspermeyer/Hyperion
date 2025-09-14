@@ -1,4 +1,4 @@
-All units of the unit class Space Bulk Hauler are listed herein (4 in total):
+All units of the unit class Space Bulk Hauler are listed herein (5 in total):
 
 --1--
 Name: Space Bulk Hauler
@@ -140,12 +140,60 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
+Name: League Bulk Hauler
+Nick Name: Executor
+Scores & Strengths:
+  Tech Score: 3604
+  Unit Score: 3602
+  Average Score: 3603
+  Stat Strength: 3402
+  Total Strength: 3602
+  Planet Strength: 0
+  Space Strength: 3602
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 12
+  Spot: 12
+  Camouflage: 6
+  Agility: 6
+  Armor: 39
+  Psy Defense: 39
+  Rank: 151
+Attacks:
+  Closed Space: 10/20
+Cargo Space: 4
+Bulk Hauler - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 567
+Build Cost: 5667
+Build Resource Requirements:
+  Food: 1
+  Energy: 3
+  Metal: 17
+  Trace: 2
+  Exotica: 1
+  Chemicals: 9
+  Biochems: 16
+  Electronics: 4
+  Ceramsteel: 22
+  Monopols: 27
+S  ingularities: 4
+Build League Bulk Hauler in Starport
+Time to Build / Upgrade: 3
+[25780] Technologies Required to Build Unit (64):
+  [5560] Quantum Supremacy (56)
+  [20220] Jump Transports (72)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
 Name: Gate Bulk Hauler
 Nick Name: GG-BH
 Scores & Strengths:
-  Tech Score: 7423
+  Tech Score: 7473
   Unit Score: 7256
-  Average Score: 7339
+  Average Score: 7364
   Stat Strength: 6061
   Total Strength: 7256
   Planet Strength: 6621
@@ -159,7 +207,7 @@ Statistics:
   Agility: 30
   Armor: 46
   Psy Defense: 46
-  Rank: 275
+  Rank: 276
 Attacks:
   Direct Space: 14/25
   Closed Space: 15/19
@@ -168,8 +216,8 @@ Attacks:
 Cargo Space: 4
 Bulk Hauler - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 1117
-Build Cost: 11169
+Upkeep / Maintenance: 1115
+Build Cost: 11149
 Build Resource Requirements:
   Food: 1
   Energy: 8
@@ -177,8 +225,8 @@ Build Resource Requirements:
   Trace: 4
   Exotica: 2
   Chemicals: 16
-  Biochems: 21
-  Electronics: 12
+  Biochems: 20
+  Electronics: 11
   Ceramsteel: 15
   Wetware: 7
   Monopols: 32

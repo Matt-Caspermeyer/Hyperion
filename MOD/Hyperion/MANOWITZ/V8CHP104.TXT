@@ -1,4 +1,4 @@
-All units of the unit class Space Carrier are listed herein (9 in total):
+All units of the unit class Space Carrier are listed herein (10 in total):
 
 --1--
 Name: Space Carrier
@@ -394,9 +394,9 @@ Unit can be disbanded: YES
 Name: Gate Carrier
 Nick Name: GG-CV
 Scores & Strengths:
-  Tech Score: 7682
+  Tech Score: 7734
   Unit Score: 7515
-  Average Score: 7599
+  Average Score: 7624
   Stat Strength: 6617
   Total Strength: 7515
   Planet Strength: 7052
@@ -420,16 +420,16 @@ Cargo Space: 4
 Officer - Provides stack combat bonuses
 Deploys space units during space attacks
 Immune to Plague
-Upkeep / Maintenance: 2014
-Build Cost: 20141
+Upkeep / Maintenance: 2010
+Build Cost: 20102
 Build Resource Requirements:
   Food: 1
   Energy: 9
-  Metal: 11
+  Metal: 10
   Trace: 3
   Exotica: 1
   Chemicals: 17
-  Biochems: 21
+  Biochems: 20
   Electronics: 10
   Ceramsteel: 17
   Wetware: 5
@@ -439,5 +439,51 @@ Build Gate Carrier in Starport
 Time to Build / Upgrade: 4
 [60155] Technology Required to Build Unit (53):
   [60155] Gate Capital Ships (53)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Cloaking Space Carrier
+Nick Name: SS-CCV
+Scores & Strengths:
+  Tech Score: 7617
+  Unit Score: 7620
+  Average Score: 7619
+  Stat Strength: 6282
+  Total Strength: 7620
+  Planet Strength: 0
+  Space Strength: 7620
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 14
+  Spot: 14
+  Camouflage: 44
+  Agility: 16
+  Armor: 43
+  Psy Defense: 43
+  Rank: 239
+Attacks:
+  Direct Space: 18/45
+  Closed Space: 24/22
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 287
+Build Cost: 2866
+Build Resource Requirements:
+  Energy: 6
+  Metal: 7
+  Trace: 8
+  Chemicals: 11
+  Biochems: 18
+  Electronics: 19
+  Ceramsteel: 11
+  Wetware: 4
+  Monopols: 22
+Build Cloaking Space Carrier in Starport
+Time to Build / Upgrade: 3
+[75930] Technologies Required to Build Unit (72):
+  [16530] Space Capital Ships (80)
+  [59400] Cloaked Capital Ships (64)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

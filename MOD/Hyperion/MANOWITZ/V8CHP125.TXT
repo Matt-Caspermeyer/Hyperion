@@ -1,4 +1,4 @@
-All units of the unit class Naval Transport are listed herein (10 in total):
+All units of the unit class Naval Transport are listed herein (11 in total):
 
 --1--
 Name: Naval Transport
@@ -474,4 +474,51 @@ Time to Build / Upgrade: 3
   [2665] V/STOL Aircraft (85)
   [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Amphibious Transport
+Nick Name: CC-XX
+Scores & Strengths:
+  Tech Score: 2455
+  Unit Score: 2455
+  Average Score: 2455
+  Stat Strength: 2020
+  Total Strength: 2455
+  Planet Strength: 2455
+  Space Strength: 0
+  Garrison Strength: 656
+Statistics:
+  Movement Type: craft
+  Move Points: 14
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
+  Armor: 30
+  Psy Defense: 30
+  Rank: 107
+Attacks:
+  Direct: 11/21
+  Close: 12/17
+Can tow units that can be towed
+Upkeep / Maintenance: 9
+Build Cost: 90
+Build Resource Requirements:
+  Food: 1
+  Energy: 11
+  Metal: 22
+  Trace: 4
+  Exotica: 1
+  Chemicals: 18
+  Biochems: 3
+  Electronics: 4
+  Ceramsteel: 22
+Build Amphibious Transport in Well
+Time to Build / Upgrade: 2
+[18400] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [6655] PTS Missile Navalcraft (83)
+  [8890] Space Transports (86)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

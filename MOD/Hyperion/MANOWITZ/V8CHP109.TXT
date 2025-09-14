@@ -1,4 +1,4 @@
-All units of the unit class Torpedo Boat Destroyer are listed herein (5 in total):
+All units of the unit class Torpedo Boat Destroyer are listed herein (7 in total):
 
 --1--
 Name: Torpedo Boat Destroyer
@@ -140,6 +140,55 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
+Name: Amphibious Destroyer
+Nick Name: CC-DD
+Scores & Strengths:
+  Tech Score: 2767
+  Unit Score: 2767
+  Average Score: 2767
+  Stat Strength: 2152
+  Total Strength: 2767
+  Planet Strength: 2767
+  Space Strength: 0
+  Garrison Strength: 652
+Statistics:
+  Movement Type: craft
+  Move Points: 18
+  Spot: 12
+  Camouflage: 4
+  Agility: 10
+  Armor: 28
+  Psy Defense: 28
+  Rank: 99
+Attacks:
+  Water: 9/20
+  Air: 11/17
+  Indirect: 8/18
+  Direct: 8/13
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 14
+Build Cost: 138
+Build Resource Requirements:
+  Food: 2
+  Energy: 15
+  Metal: 16
+  Trace: 5
+  Exotica: 2
+  Chemicals: 22
+  Biochems: 16
+  Electronics: 6
+  Ceramsteel: 17
+Build Amphibious Destroyer in Well
+Time to Build / Upgrade: 3
+[23555] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [6655] PTS Missile Navalcraft (83)
+  [14045] Space Escorts (84)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
 Name: PTS Missile Destroyer
 Nick Name: NN-DPTS
 Scores & Strengths:
@@ -186,7 +235,7 @@ Time to Build / Upgrade: 7
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---5--
+--6--
 Name: Nuclear Destroyer
 Nick Name: NN-DDN
 Scores & Strengths:
@@ -230,4 +279,47 @@ Time to Build / Upgrade: 9
 [7295] Technology Required to Build Unit (81):
   [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Meson Amphibious Destroyer
+Nick Name: CC-MDD
+Scores & Strengths:
+  Tech Score: 5449
+  Unit Score: 5449
+  Average Score: 5449
+  Stat Strength: 4138
+  Total Strength: 5449
+  Planet Strength: 4955
+  Space Strength: 4632
+  Garrison Strength: 1107
+Statistics:
+  Movement Type: craft
+  Move Points: 20
+  Spot: 14
+  Camouflage: 6
+  Agility: 12
+  Armor: 41
+  Psy Defense: 41
+  Rank: 129
+Attacks:
+  Ranged Space: 19/26
+  Water: 10/22
+  Air: 13/19
+  Indirect: 10/20
+  Direct: 10/15
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 119
+Build Cost: 1047
+Build Resource Requirements:
+  Electronics: 5
+  Monopols: 27
+Upgrade Amphibious Destroyer to Meson Amphibious Destroyer at Well
+Time to Build / Upgrade: 1
+[58695] Technologies Required to Build Unit (79):
+  [2855] Naval Amphibious Ships (87)
+  [27875] PTS Meson Navalcraft (74)
+  [27965] Jump Escorts (75)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

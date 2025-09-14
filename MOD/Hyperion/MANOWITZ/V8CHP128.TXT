@@ -1,4 +1,4 @@
-All units of the unit class Naval Carrier are listed herein (8 in total):
+All units of the unit class Naval Carrier are listed herein (11 in total):
 
 --1--
 Name: Naval Carrier
@@ -290,6 +290,106 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
+Name: Amphibious Aircraft Carrier
+Nick Name: CC-CV
+Scores & Strengths:
+  Tech Score: 2993
+  Unit Score: 2993
+  Average Score: 2993
+  Stat Strength: 2142
+  Total Strength: 2993
+  Planet Strength: 2993
+  Space Strength: 0
+  Garrison Strength: 748
+Statistics:
+  Movement Type: craft
+  Move Points: 16
+  Spot: 14
+  Camouflage: 2
+  Agility: 2
+  Armor: 29
+  Psy Defense: 29
+  Rank: 818
+Attacks:
+  Air: 17/19
+  Indirect: 16/17
+  Direct: 16/16
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 148
+Build Cost: 1483
+Build Resource Requirements:
+  Food: 1
+  Energy: 7
+  Metal: 10
+  Trace: 9
+  Exotica: 2
+  Chemicals: 11
+  Biochems: 15
+  Electronics: 8
+  Ceramsteel: 12
+  Monopols: 19
+Build Amphibious Aircraft Carrier in Well
+Time to Build / Upgrade: 3
+[26040] Technologies Required to Build Unit (83):
+  [2855] Naval Amphibious Ships (87)
+  [6655] PTS Missile Navalcraft (83)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Amphibious Battle Carrier
+Nick Name: CC-CB
+Scores & Strengths:
+  Tech Score: 2993
+  Unit Score: 2993
+  Average Score: 2993
+  Stat Strength: 2335
+  Total Strength: 2993
+  Planet Strength: 2993
+  Space Strength: 0
+  Garrison Strength: 748
+Statistics:
+  Movement Type: craft
+  Move Points: 16
+  Spot: 12
+  Camouflage: 2
+  Agility: 3
+  Armor: 31
+  Psy Defense: 31
+  Rank: 810
+Attacks:
+  Air: 15/16
+  Indirect: 11/25
+  Direct: 13/11
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 163
+Build Cost: 1628
+Build Resource Requirements:
+  Food: 1
+  Energy: 8
+  Metal: 12
+  Trace: 6
+  Exotica: 1
+  Chemicals: 12
+  Biochems: 14
+  Electronics: 6
+  Ceramsteel: 14
+  Monopols: 22
+Build Amphibious Battle Carrier in Well
+Time to Build / Upgrade: 3
+[26040] Technologies Required to Build Unit (83):
+  [2855] Naval Amphibious Ships (87)
+  [6655] PTS Missile Navalcraft (83)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
 Name: PTS Aircraft Carrier
 Nick Name: NN-CVPTS
 Scores & Strengths:
@@ -337,7 +437,7 @@ Time to Build / Upgrade: 7
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---8--
+--10--
 Name: Nuclear Aircraft Carrier
 Nick Name: NN-CVN
 Scores & Strengths:
@@ -381,5 +481,49 @@ Build Nuclear Aircraft Carrier in Well
 Time to Build / Upgrade: 9
 [7295] Technology Required to Build Unit (81):
   [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Meson Amphibious Carrier
+Nick Name: CC-MCV
+Scores & Strengths:
+  Tech Score: 5641
+  Unit Score: 5641
+  Average Score: 5641
+  Stat Strength: 4252
+  Total Strength: 5641
+  Planet Strength: 5165
+  Space Strength: 4728
+  Garrison Strength: 1217
+Statistics:
+  Movement Type: craft
+  Move Points: 18
+  Spot: 14
+  Camouflage: 3
+  Agility: 5
+  Armor: 43
+  Psy Defense: 43
+  Rank: 840
+Attacks:
+  Ranged Space: 17/28
+  Air: 17/20
+  Indirect: 14/27
+  Direct: 15/13
+Cargo Space: 4
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 237
+Build Cost: 887
+Build Resource Requirements:
+  Chemicals: 2
+  Electronics: 2
+  Monopols: 5
+Upgrade Amphibious Aircraft Carrier to Meson Amphibious Carrier at Well
+Time to Build / Upgrade: 1
+[70095] Technologies Required to Build Unit (74):
+  [2855] Naval Amphibious Ships (87)
+  [27875] PTS Meson Navalcraft (74)
+  [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

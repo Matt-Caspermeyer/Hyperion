@@ -1,6 +1,47 @@
-All units of the unit class Space Cargo Shuttle are listed herein (8 in total):
+All units of the unit class Trans-Orbital Shuttle are listed herein (10 in total):
 
 --1--
+Name: Trans-Orbital Shuttle
+Nick Name: SS-TOS
+Scores & Strengths:
+  Tech Score: 670
+  Unit Score: 670
+  Average Score: 670
+  Stat Strength: 670
+  Total Strength: 670
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 2
+  Spot: 12
+  Camouflage: 6
+  Agility: 6
+  Armor: 15
+  Psy Defense: 15
+  Rank: 77
+Cargo Space: 2
+Immune to Plague
+Upkeep / Maintenance: 22
+Build Cost: 221
+Build Resource Requirements:
+  Food: 5
+  Energy: 2
+  Metal: 170
+  Trace: 11
+  Exotica: 5
+  Chemicals: 2
+  Electronics: 10
+Build Trans-Orbital Shuttle in Starport
+Time to Build / Upgrade: 3
+[2705] Technologies Required to Build Unit (88):
+  [895] Space Rocketry (90)
+  [1810] Jet-Propulsion Aircraft (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--2--
 Name: Space Cargo Shuttle
 Nick Name: SS-CS
 Scores & Strengths:
@@ -44,7 +85,52 @@ Time to Build / Upgrade: 2
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---2--
+--3--
+Name: Transporter
+Nick Name: JJ-TT
+Scores & Strengths:
+  Tech Score: 775
+  Unit Score: 775
+  Average Score: 775
+  Stat Strength: 763
+  Total Strength: 775
+  Planet Strength: 0
+  Space Strength: 775
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 3
+  Spot: 12
+  Camouflage: 7
+  Agility: 7
+  Armor: 16
+  Psy Defense: 16
+  Rank: 103
+Attacks:
+  Closed Space: 4/3
+Cargo Space: 2
+Immune to Plague
+Upkeep / Maintenance: 178
+Build Cost: 1776
+Build Resource Requirements:
+  Food: 5
+  Energy: 3
+  Metal: 150
+  Trace: 12
+  Exotica: 5
+  Chemicals: 3
+  Electronics: 12
+  Gems: 1
+S  ingularities: 2
+Build Transporter in Starport
+Time to Build / Upgrade: 3
+[3205] Technologies Required to Build Unit (82):
+  [1235] Jump Rocketry (76)
+  [1970] Cargo Handling (87)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
 Name: Space Transport
 Nick Name: SS-X
 Scores & Strengths:
@@ -88,7 +174,7 @@ Time to Build / Upgrade: 3
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---3--
+--5--
 Name: Space Transport Carrier
 Nick Name: SS-CVX
 Scores & Strengths:
@@ -136,7 +222,7 @@ Time to Build / Upgrade: 3
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---4--
+--6--
 Name: Jump Transport
 Nick Name: JJ-X
 Scores & Strengths:
@@ -182,7 +268,7 @@ Time to Build / Upgrade: 3
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---5--
+--7--
 Name: Space Attack Transport
 Nick Name: SS-SAX
 Scores & Strengths:
@@ -228,7 +314,7 @@ Time to Build / Upgrade: 3
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---6--
+--8--
 Name: Colony Star
 Nick Name: Colony Star
 Scores & Strengths:
@@ -271,7 +357,7 @@ Time to Build / Upgrade: 3
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---7--
+--9--
 Name: Jump Transport Carrier
 Nick Name: JJ-CVX
 Scores & Strengths:
@@ -320,13 +406,13 @@ Time to Build / Upgrade: 3
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---8--
+--10--
 Name: Jump High-Speed Transport
 Nick Name: Jump HHSSTT
 Scores & Strengths:
-  Tech Score: 6896
+  Tech Score: 6947
   Unit Score: 6896
-  Average Score: 6896
+  Average Score: 6921
   Stat Strength: 6016
   Total Strength: 6896
   Planet Strength: 0
@@ -346,8 +432,8 @@ Attacks:
   Closed Space: 17/22
 Cargo Space: 2
 Immune to Plague
-Upkeep / Maintenance: 726
-Build Cost: 7262
+Upkeep / Maintenance: 725
+Build Cost: 7251
 Build Resource Requirements:
   Food: 1
   Energy: 5

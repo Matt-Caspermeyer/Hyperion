@@ -1,125 +1,288 @@
-All units of the unit class Inquisitor are listed herein (3 in total):
+All units of the unit class Amphib. Combat Vehicle (R) are listed herein (6 in total):
 
 --1--
-Name: Inquisitor
-Nick Name: Inquisitor
+Name: Amphib. Combat Vehicle (R)
+Nick Name: ACV (R)
 Scores & Strengths:
-  Tech Score: 1757
-  Unit Score: 1756
-  Average Score: 1757
-  Stat Strength: 973
-  Total Strength: 1756
-  Planet Strength: 1756
-  Space Strength: 1168
-  Garrison Strength: 555
+  Tech Score: 1717
+  Unit Score: 1714
+  Average Score: 1716
+  Stat Strength: 1021
+  Total Strength: 1714
+  Planet Strength: 1714
+  Space Strength: 0
+  Garrison Strength: 458
 Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 10
-  Camouflage: 8
-  Agility: 23
-  Armor: 6
-  Psy Defense: 12
-  Rank: 70
+  Movement Type: craft
+  Move Points: 14
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 18
+  Psy Defense: 18
+  Rank: 152
 Attacks:
-  Psychic: 13/15
-  Indirect: 14/16
-  Direct: 13/14
-  Close: 14/13
-Load aboard transport: YES
-Inquisitor
-Upkeep / Maintenance: 184
-Build Cost: 1767
+  Close: 33/21
+Cargo Space: 1
+Can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 13
+Build Cost: 126
 Build Resource Requirements:
-  Trace: 17
-  Chemicals: 20
-  Electronics: 26
-  Monopols: 36
-  Gems: 60
-Upgrade Clergy to Inquisitor at Church
+  Food: 2
+  Energy: 10
+  Metal: 11
+  Trace: 19
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 12
+  Electronics: 27
+  Ceramsteel: 12
+Build Amphib. Combat Vehicle (R) in Factory
 Time to Build / Upgrade: 3
-[8415] Technologies Required to Build Unit (79):
-  [8085] Fusion Rifles (75)
-  [330] Holy Warriors (82)
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Syneculla Agent
-Nick Name: Syn Agent
+Name: Amphib. Combat Vehicle (E)
+Nick Name: ACV (E)
 Scores & Strengths:
-  Tech Score: 1767
-  Unit Score: 1768
-  Average Score: 1768
-  Stat Strength: 990
-  Total Strength: 1768
-  Planet Strength: 1768
-  Space Strength: 1351
-  Garrison Strength: 533
+  Tech Score: 1717
+  Unit Score: 1717
+  Average Score: 1717
+  Stat Strength: 1157
+  Total Strength: 1717
+  Planet Strength: 1717
+  Space Strength: 0
+  Garrison Strength: 495
 Statistics:
-  Movement Type: foot
-  Move Points: 11
-  Spot: 14
-  Camouflage: 13
-  Agility: 18
-  Armor: 6
-  Psy Defense: 12
-  Rank: 92
+  Movement Type: craft
+  Move Points: 12
+  Spot: 10
+  Camouflage: 7
+  Agility: 8
+  Armor: 20
+  Psy Defense: 20
+  Rank: 52
 Attacks:
-  Psychic: 19/19
-  Indirect: 16/8
-  Close: 17/17
-Load aboard transport: YES
-Inquisitor
-Upkeep / Maintenance: 163
+  Close: 28/20
+Cargo Space: 1
+Can tow units that can be towed
+Upkeep / Maintenance: 11
+Build Cost: 109
 Build Resource Requirements:
-  Trace: 1
-  Gems: 2
-Upgrade Inquisitor to Syneculla Agent at Church
-Time to Build / Upgrade: 1
-[8715] Technologies Required to Build Unit (74):
-  [8085] Fusion Rifles (75)
-  [300] Fractal Metaphysics (64)
-  [330] Holy Warriors (82)
+  Food: 2
+  Energy: 8
+  Metal: 13
+  Trace: 15
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 9
+  Electronics: 23
+  Ceramsteel: 14
+Build Amphib. Combat Vehicle (E) in Factory
+Time to Build / Upgrade: 3
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Kalinthi
-Nick Name: Kalinthi
+Name: Amphib. Combat Vehicle (P)
+Nick Name: ACV (P)
 Scores & Strengths:
-  Tech Score: 1860
-  Unit Score: 1861
-  Average Score: 1861
-  Stat Strength: 1021
-  Total Strength: 1861
-  Planet Strength: 1861
-  Space Strength: 1501
-  Garrison Strength: 588
+  Tech Score: 1717
+  Unit Score: 1719
+  Average Score: 1718
+  Stat Strength: 711
+  Total Strength: 1719
+  Planet Strength: 1719
+  Space Strength: 0
+  Garrison Strength: 459
 Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 14
-  Camouflage: 16
-  Agility: 17
-  Armor: 6
-  Psy Defense: 12
-  Rank: 19
+  Movement Type: craft
+  Move Points: 14
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 13
+  Psy Defense: 13
+  Rank: 125
 Attacks:
-  Psychic: 24/20
-  Close: 18/20
-Load aboard transport: YES
-Inquisitor
-Upkeep / Maintenance: 119
+  Direct: 28/20
+  Close: 28/16
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 13
+Build Cost: 130
 Build Resource Requirements:
-  Exotica: 1
-  Electronics: 2
-Upgrade Inquisitor to Kalinthi at Church
-Time to Build / Upgrade: 1
-[9960] Technologies Required to Build Unit (63):
-  [8085] Fusion Rifles (75)
-  [300] Fractal Metaphysics (64)
-  [1245] Weird Science (32)
-  [330] Holy Warriors (82)
+  Food: 2
+  Energy: 13
+  Metal: 6
+  Trace: 27
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 16
+  Electronics: 33
+  Ceramsteel: 6
+Build Amphib. Combat Vehicle (P) in Factory
+Time to Build / Upgrade: 3
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Amphib. Combat Vehicle (C)
+Nick Name: ACV (C)
+Scores & Strengths:
+  Tech Score: 1717
+  Unit Score: 1719
+  Average Score: 1718
+  Stat Strength: 711
+  Total Strength: 1719
+  Planet Strength: 1719
+  Space Strength: 0
+  Garrison Strength: 459
+Statistics:
+  Movement Type: craft
+  Move Points: 14
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 13
+  Psy Defense: 13
+  Rank: 146
+Attacks:
+  Water: 28/20
+  Indirect: 28/16
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 10
+Build Cost: 101
+Build Resource Requirements:
+  Food: 2
+  Energy: 13
+  Metal: 6
+  Trace: 27
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 9
+  Electronics: 19
+  Ceramsteel: 6
+Build Amphib. Combat Vehicle (C) in Factory
+Time to Build / Upgrade: 2
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Amphib. Combat Vehicle (H)
+Nick Name: ACV (H)
+Scores & Strengths:
+  Tech Score: 1717
+  Unit Score: 1719
+  Average Score: 1718
+  Stat Strength: 711
+  Total Strength: 1719
+  Planet Strength: 1719
+  Space Strength: 0
+  Garrison Strength: 459
+Statistics:
+  Movement Type: craft
+  Move Points: 14
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 13
+  Psy Defense: 13
+  Rank: 121
+Attacks:
+  Indirect: 28/20
+  Direct: 28/16
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 10
+Build Cost: 101
+Build Resource Requirements:
+  Food: 2
+  Energy: 13
+  Metal: 6
+  Trace: 27
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 9
+  Electronics: 19
+  Ceramsteel: 6
+Build Amphib. Combat Vehicle (H) in Factory
+Time to Build / Upgrade: 2
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Amphib. Combat Vehicle (A)
+Nick Name: ACV (A)
+Scores & Strengths:
+  Tech Score: 1717
+  Unit Score: 1719
+  Average Score: 1718
+  Stat Strength: 711
+  Total Strength: 1719
+  Planet Strength: 1719
+  Space Strength: 0
+  Garrison Strength: 459
+Statistics:
+  Movement Type: craft
+  Move Points: 14
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 13
+  Psy Defense: 13
+  Rank: 121
+Attacks:
+  Air: 28/20
+  Direct: 28/16
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 13
+Build Cost: 130
+Build Resource Requirements:
+  Food: 2
+  Energy: 13
+  Metal: 6
+  Trace: 27
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 16
+  Electronics: 33
+  Ceramsteel: 6
+Build Amphib. Combat Vehicle (A) in Factory
+Time to Build / Upgrade: 3
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

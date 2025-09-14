@@ -1,4 +1,4 @@
-All units of the unit class Battleship are listed herein (8 in total):
+All units of the unit class Battleship are listed herein (10 in total):
 
 --1--
 Name: Battleship
@@ -272,6 +272,53 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
+Name: Amphibious Battleship
+Nick Name: CC-BB
+Scores & Strengths:
+  Tech Score: 2993
+  Unit Score: 2993
+  Average Score: 2993
+  Stat Strength: 2642
+  Total Strength: 2993
+  Planet Strength: 2993
+  Space Strength: 0
+  Garrison Strength: 799
+Statistics:
+  Movement Type: craft
+  Move Points: 14
+  Spot: 10
+  Camouflage: 3
+  Agility: 5
+  Armor: 34
+  Psy Defense: 34
+  Rank: 104
+Attacks:
+  Indirect: 8/26
+  Direct: 11/13
+Upkeep / Maintenance: 68
+Build Cost: 677
+Build Resource Requirements:
+  Food: 1
+  Energy: 6
+  Metal: 14
+  Trace: 3
+  Exotica: 1
+  Chemicals: 11
+  Biochems: 13
+  Electronics: 3
+  Ceramsteel: 16
+  Monopols: 23
+Build Amphibious Battleship in Well
+Time to Build / Upgrade: 3
+[26040] Technologies Required to Build Unit (83):
+  [2855] Naval Amphibious Ships (87)
+  [6655] PTS Missile Navalcraft (83)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
 Name: PTS Missile Battleship
 Nick Name: NN-BPTS
 Scores & Strengths:
@@ -316,7 +363,7 @@ Time to Build / Upgrade: 7
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---8--
+--9--
 Name: Nuclear Battleship
 Nick Name: NN-BBN
 Scores & Strengths:
@@ -358,4 +405,46 @@ Time to Build / Upgrade: 9
 [7295] Technology Required to Build Unit (81):
   [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Meson Amphibious Battleship
+Nick Name: CC-MBB
+Scores & Strengths:
+  Tech Score: 5641
+  Unit Score: 5641
+  Average Score: 5641
+  Stat Strength: 4706
+  Total Strength: 5641
+  Planet Strength: 5191
+  Space Strength: 5156
+  Garrison Strength: 1297
+Statistics:
+  Movement Type: craft
+  Move Points: 16
+  Spot: 12
+  Camouflage: 5
+  Agility: 7
+  Armor: 46
+  Psy Defense: 46
+  Rank: 134
+Attacks:
+  Ranged Space: 15/30
+  Indirect: 10/29
+  Direct: 13/15
+Upkeep / Maintenance: 99
+Build Cost: 309
+Build Resource Requirements:
+  Energy: 1
+  Chemicals: 2
+  Electronics: 5
+  Monopols: 2
+Upgrade Amphibious Battleship to Meson Amphibious Battleship at Well
+Time to Build / Upgrade: 1
+[70095] Technologies Required to Build Unit (74):
+  [2855] Naval Amphibious Ships (87)
+  [27875] PTS Meson Navalcraft (74)
+  [39365] Jump Capital Ships (61)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

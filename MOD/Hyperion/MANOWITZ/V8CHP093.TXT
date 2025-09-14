@@ -1,4 +1,4 @@
-All units of the unit class Space Raider are listed herein (8 in total):
+All units of the unit class Space Raider are listed herein (9 in total):
 
 --1--
 Name: Space Raider
@@ -189,7 +189,7 @@ Unit can be disbanded: YES
 
 --5--
 Name: Jump Raider
-Nick Name: JJ-FRaider
+Nick Name: JJ-Raider
 Scores & Strengths:
   Tech Score: 425
   Unit Score: 410
@@ -284,6 +284,53 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
+Name: Imperial Eye Scout
+Nick Name: Blade Runner
+Scores & Strengths:
+  Tech Score: 3536
+  Unit Score: 3537
+  Average Score: 3536
+  Stat Strength: 2781
+  Total Strength: 3537
+  Planet Strength: 2781
+  Space Strength: 3537
+  Garrison Strength: 927
+Statistics:
+  Movement Type: lander
+  Move Points: 9
+  Spot: 24
+  Camouflage: 24
+  Agility: 30
+  Armor: 18
+  Psy Defense: 18
+  Rank: 218
+Attacks:
+  Ranged Space: 30/18
+  Direct Space: 24/9
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 346
+Build Cost: 3455
+Build Resource Requirements:
+  Food: 4
+  Energy: 6
+  Metal: 4
+  Trace: 27
+  Exotica: 5
+  Chemicals: 10
+  Biochems: 22
+  Electronics: 41
+  Ceramsteel: 5
+  Monopols: 15
+S  ingularities: 3
+Build Imperial Eye Scout in Starport
+Time to Build / Upgrade: 3
+[21375] Technology Required to Build Unit (67):
+  [21375] Lander Transports (67)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
 Name: 3rd-Republic Star Raider
 Nick Name: Charioteer
 Scores & Strengths:
@@ -332,7 +379,7 @@ Time to Build / Upgrade: 3
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---8--
+--9--
 Name: Jump Stealth Ship
 Nick Name: JJ-SRaider
 Scores & Strengths:

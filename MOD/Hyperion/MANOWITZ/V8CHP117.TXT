@@ -1,4 +1,4 @@
-All units of the unit class Naval Protected Cruiser are listed herein (11 in total):
+All units of the unit class Naval Protected Cruiser are listed herein (12 in total):
 
 --1--
 Name: Naval Protected Cruiser
@@ -417,6 +417,56 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --10--
+Name: Amphibious Cruiser
+Nick Name: CC-CC
+Scores & Strengths:
+  Tech Score: 2993
+  Unit Score: 2993
+  Average Score: 2993
+  Stat Strength: 2449
+  Total Strength: 2993
+  Planet Strength: 2993
+  Space Strength: 0
+  Garrison Strength: 748
+Statistics:
+  Movement Type: craft
+  Move Points: 16
+  Spot: 10
+  Camouflage: 3
+  Agility: 6
+  Armor: 32
+  Psy Defense: 32
+  Rank: 101
+Attacks:
+  Water: 6/23
+  Air: 12/19
+  Indirect: 4/20
+  Direct: 7/14
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 90
+Build Cost: 896
+Build Resource Requirements:
+  Food: 1
+  Energy: 11
+  Metal: 13
+  Trace: 3
+  Exotica: 1
+  Chemicals: 16
+  Biochems: 15
+  Electronics: 4
+  Ceramsteel: 14
+  Monopols: 26
+Build Amphibious Cruiser in Well
+Time to Build / Upgrade: 3
+[26040] Technologies Required to Build Unit (83):
+  [2855] Naval Amphibious Ships (87)
+  [6655] PTS Missile Navalcraft (83)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--11--
 Name: PTS Missile Cruiser
 Nick Name: NN-CPTS
 Scores & Strengths:
@@ -463,7 +513,7 @@ Time to Build / Upgrade: 8
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---11--
+--12--
 Name: Nuclear Cruiser
 Nick Name: NN-CCN
 Scores & Strengths:

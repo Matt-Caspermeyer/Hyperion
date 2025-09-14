@@ -1,126 +1,262 @@
-All units of the unit class Pestulator Artillery are listed herein (3 in total):
+All units of the unit class Heavy Tank Killer are listed herein (6 in total):
 
 --1--
-Name: Pestulator Artillery
-Nick Name: Pestulator
+Name: Heavy Tank Killer
+Nick Name: Direwolf
 Scores & Strengths:
-  Tech Score: 3200
-  Unit Score: 3199
-  Average Score: 3199
-  Stat Strength: 2179
-  Total Strength: 3199
-  Planet Strength: 3199
+  Tech Score: 2728
+  Unit Score: 2728
+  Average Score: 2728
+  Stat Strength: 2358
+  Total Strength: 2728
+  Planet Strength: 2728
   Space Strength: 0
-  Garrison Strength: 754
+  Garrison Strength: 756
 Statistics:
   Movement Type: tread
-  Move Points: 18
-  Spot: 12
-  Camouflage: 10
-  Agility: 19
-  Armor: 25
-  Psy Defense: 25
-  Rank: 178
+  Move Points: 13
+  Spot: 8
+  Camouflage: 6
+  Agility: 17
+  Armor: 30
+  Psy Defense: 30
+  Rank: 106
 Attacks:
-  Indirect: 20/51
+  Indirect: 8/27
+  Direct: 7/22
 Load aboard transport: YES
-Immune to Plague
-Causes Tactical Plague
-Upkeep / Maintenance: 252
-Build Cost: 2517
+Upkeep / Maintenance: 111
+Build Cost: 995
 Build Resource Requirements:
-  Food: 2
-  Energy: 21
-  Metal: 11
-  Trace: 4
-  Exotica: 2
-  Chemicals: 48
-  Biochems: 36
-  Electronics: 12
-  Ceramsteel: 14
-  Monopols: 59
-Build Pestulator Artillery in Factory
-Time to Build / Upgrade: 5
-[18710] Technology Required to Build Unit (29):
-  [18710] Bio-Payload Artillery (29)
+  Electronics: 13
+  Ceramsteel: 19
+  Monopols: 45
+Upgrade Tank Killer to Heavy Tank Killer at Factory
+Time to Build / Upgrade: 1
+[15130] Technology Required to Build Unit (68):
+  [15130] Fusion Battle Tanks (68)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Shock Pestulator Artillery
-Nick Name: Shockulator
+Name: Imperial Siege Tank
+Nick Name: Mangler
 Scores & Strengths:
-  Tech Score: 4099
-  Unit Score: 3992
-  Average Score: 4046
-  Stat Strength: 2658
-  Total Strength: 3992
-  Planet Strength: 3992
+  Tech Score: 2728
+  Unit Score: 2728
+  Average Score: 2728
+  Stat Strength: 2358
+  Total Strength: 2728
+  Planet Strength: 2728
   Space Strength: 0
-  Garrison Strength: 892
+  Garrison Strength: 661
 Statistics:
   Movement Type: tread
-  Move Points: 20
-  Spot: 13
-  Camouflage: 11
-  Agility: 20
-  Armor: 28
-  Psy Defense: 28
-  Rank: 196
+  Move Points: 17
+  Spot: 8
+  Camouflage: 6
+  Agility: 13
+  Armor: 30
+  Psy Defense: 30
+  Rank: 99
 Attacks:
-  Indirect: 23/58
+  Indirect: 8/27
+  Direct: 7/15
+  Close: 7/7
 Load aboard transport: YES
-Immune to Plague
-Causes Tactical Plague
-Upkeep / Maintenance: 195
+Upkeep / Maintenance: 105
+Build Cost: 1049
 Build Resource Requirements:
-  Wetware: 2
-Upgrade Pestulator Artillery to Shock Pestulator Artillery at Factory
-Time to Build / Upgrade: 1
-[50430] Technologies Required to Build Unit (41):
-  [16745] Wetware (23)
-  [14975] Power Hovertanks (70)
-  [18710] Bio-Payload Artillery (29)
+  Food: 2
+  Energy: 11
+  Metal: 11
+  Trace: 3
+  Exotica: 2
+  Chemicals: 24
+  Electronics: 13
+  Ceramsteel: 19
+  Monopols: 42
+Build Imperial Siege Tank in Factory
+Time to Build / Upgrade: 4
+[15130] Technology Required to Build Unit (68):
+  [15130] Fusion Battle Tanks (68)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Stealth Pestulator Artillery
-Nick Name: Ghostulator
+Name: Shock Heavy Tank Killer
+Nick Name: Hellwolf
 Scores & Strengths:
-  Tech Score: 5364
-  Unit Score: 5359
-  Average Score: 5362
-  Stat Strength: 4039
-  Total Strength: 5359
-  Planet Strength: 5359
+  Tech Score: 2921
+  Unit Score: 2865
+  Average Score: 2893
+  Stat Strength: 2480
+  Total Strength: 2865
+  Planet Strength: 2865
   Space Strength: 0
-  Garrison Strength: 1229
+  Garrison Strength: 794
 Statistics:
   Movement Type: tread
-  Move Points: 19
-  Spot: 14
-  Camouflage: 30
-  Agility: 30
+  Move Points: 13
+  Spot: 8
+  Camouflage: 6
+  Agility: 17
+  Armor: 31
+  Psy Defense: 31
+  Rank: 109
+Attacks:
+  Indirect: 8/28
+  Direct: 7/23
+Load aboard transport: YES
+Upkeep / Maintenance: 72
+Build Resource Requirements:
+Upgrade Heavy Tank Killer to Shock Heavy Tank Killer at Factory
+Time to Build / Upgrade: 1
+[30105] Technologies Required to Build Unit (69):
+  [15130] Fusion Battle Tanks (68)
+  [14975] Power Hovertanks (70)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: 3rd-Republic Siege Tank
+Nick Name: Golem
+Scores & Strengths:
+  Tech Score: 2921
+  Unit Score: 2865
+  Average Score: 2893
+  Stat Strength: 2480
+  Total Strength: 2865
+  Planet Strength: 2865
+  Space Strength: 0
+  Garrison Strength: 794
+Statistics:
+  Movement Type: hover
+  Move Points: 13
+  Spot: 8
+  Camouflage: 6
+  Agility: 17
+  Armor: 31
+  Psy Defense: 31
+  Rank: 84
+Attacks:
+  Indirect: 8/28
+  Direct: 7/23
+Load aboard transport: YES
+Upkeep / Maintenance: 72
+Build Cost: 718
+Build Resource Requirements:
+  Food: 1
+  Energy: 8
+  Metal: 7
+  Trace: 2
+  Exotica: 1
+  Chemicals: 17
+  Electronics: 8
+  Ceramsteel: 12
+  Monopols: 29
+Build 3rd-Republic Siege Tank in Factory
+Time to Build / Upgrade: 3
+[30105] Technologies Required to Build Unit (69):
+  [15130] Fusion Battle Tanks (68)
+  [14975] Power Hovertanks (70)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Stealth Heavy Tank Killer
+Nick Name: Cerberus
+Scores & Strengths:
+  Tech Score: 5364
+  Unit Score: 5454
+  Average Score: 5409
+  Stat Strength: 2454
+  Total Strength: 5454
+  Planet Strength: 5454
+  Space Strength: 0
+  Garrison Strength: 1363
+Statistics:
+  Movement Type: tread
+  Move Points: 16
+  Spot: 10
+  Camouflage: 20
+  Agility: 4
   Armor: 29
   Psy Defense: 29
-  Rank: 208
+  Rank: 174
 Attacks:
-  Indirect: 24/55
+  Indirect: 30/60
+  Direct: 30/40
 Load aboard transport: YES
-Immune to Plague
-Causes Tactical Plague
-Upkeep / Maintenance: 202
+Upkeep / Maintenance: 170
+Build Cost: 1696
 Build Resource Requirements:
-  Trace: 6
-  Electronics: 10
-  Wetware: 4
-Upgrade Pestulator Artillery to Stealth Pestulator Artillery at Factory
-Time to Build / Upgrade: 1
+  Energy: 20
+  Metal: 5
+  Trace: 7
+  Exotica: 1
+  Chemicals: 26
+  Biochems: 39
+  Electronics: 14
+  Ceramsteel: 8
+  Wetware: 5
+  Monopols: 41
+Build Stealth Heavy Tank Killer in Factory
+Time to Build / Upgrade: 4
 [37210] Technology Required to Build Unit (34):
   [37210] Neumonic Land Vehicles (34)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Psy Heavy Tank Killer
+Nick Name: Psywolf
+Scores & Strengths:
+  Tech Score: 2756
+  Unit Score: 5786
+  Average Score: 4271
+  Stat Strength: 5058
+  Total Strength: 5786
+  Planet Strength: 5786
+  Space Strength: 5366
+  Garrison Strength: 1604
+Statistics:
+  Movement Type: tread
+  Move Points: 13
+  Spot: 8
+  Camouflage: 6
+  Agility: 17
+  Armor: 30
+  Psy Defense: 60
+  Rank: 122
+Attacks:
+  Psychic: 14/22
+  Indirect: 9/28
+  Direct: 8/21
+Load aboard transport: YES
+Upkeep / Maintenance: 495
+Build Cost: 4952
+Build Resource Requirements:
+  Food: 2
+  Energy: 13
+  Metal: 28
+  Trace: 4
+  Exotica: 2
+  Chemicals: 36
+  Electronics: 24
+  Ceramsteel: 48
+  Monopols: 74
+  Gems: 95
+Build Psy Heavy Tank Killer in Factory
+Time to Build / Upgrade: 8
+[15460] Technologies Required to Build Unit (75):
+  [330] Holy Warriors (82)
+  [15130] Fusion Battle Tanks (68)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
