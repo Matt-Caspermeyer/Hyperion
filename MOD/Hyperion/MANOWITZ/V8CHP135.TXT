@@ -66,14 +66,15 @@ Statistics:
   Agility: 4
   Armor: 10
   Psy Defense: 10
-  Rank: 113
+  Rank: 769
 Attacks:
   Water: 14/10
   Indirect: 14/8
-Cargo Space: 1
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
 Can be towed
-Upkeep / Maintenance: 8
-Build Cost: 75
+Upkeep / Maintenance: 11
+Build Cost: 111
 Build Resource Requirements:
   Food: 3
   Energy: 11
@@ -89,7 +90,6 @@ Time to Build / Upgrade: 2
   [350] Tanks (95)
   [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
@@ -112,14 +112,14 @@ Statistics:
   Agility: 4
   Armor: 10
   Psy Defense: 10
-  Rank: 88
+  Rank: 78
 Attacks:
   Indirect: 14/10
   Direct: 14/8
-Cargo Space: 1
+Load aboard transport: YES
 Can be towed
-Upkeep / Maintenance: 8
-Build Cost: 75
+Upkeep / Maintenance: 7
+Build Cost: 74
 Build Resource Requirements:
   Food: 3
   Energy: 11
@@ -158,14 +158,14 @@ Statistics:
   Agility: 4
   Armor: 10
   Psy Defense: 10
-  Rank: 88
+  Rank: 78
 Attacks:
   Air: 14/10
   Direct: 14/8
-Cargo Space: 1
+Load aboard transport: YES
 Can be towed
-Upkeep / Maintenance: 10
-Build Cost: 96
+Upkeep / Maintenance: 9
+Build Cost: 94
 Build Resource Requirements:
   Food: 3
   Energy: 11
@@ -204,14 +204,14 @@ Statistics:
   Agility: 4
   Armor: 13
   Psy Defense: 13
-  Rank: 141
+  Rank: 131
 Attacks:
   Close: 13/9
-Cargo Space: 1
-Can be towed
+Load aboard transport: YES
+Can tow units that can be towed
 Heals units of same movement type
 Upkeep / Maintenance: 7
-Build Cost: 70
+Build Cost: 72
 Build Resource Requirements:
   Food: 3
   Energy: 7
@@ -386,14 +386,15 @@ Statistics:
   Agility: 4
   Armor: 11
   Psy Defense: 11
-  Rank: 115
+  Rank: 771
 Attacks:
   Water: 15/11
   Indirect: 15/8
-Cargo Space: 1
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
 Can be towed
-Upkeep / Maintenance: 8
-Build Cost: 77
+Upkeep / Maintenance: 11
+Build Cost: 113
 Build Resource Requirements:
   Food: 3
   Energy: 11
@@ -409,7 +410,6 @@ Time to Build / Upgrade: 2
   [770] Self-Propelled Weaponry (92)
   [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
@@ -432,14 +432,14 @@ Statistics:
   Agility: 4
   Armor: 11
   Psy Defense: 11
-  Rank: 90
+  Rank: 80
 Attacks:
   Indirect: 15/11
   Direct: 15/8
-Cargo Space: 1
+Load aboard transport: YES
 Can be towed
 Upkeep / Maintenance: 8
-Build Cost: 77
+Build Cost: 75
 Build Resource Requirements:
   Food: 3
   Energy: 11
@@ -478,14 +478,14 @@ Statistics:
   Agility: 4
   Armor: 11
   Psy Defense: 11
-  Rank: 90
+  Rank: 80
 Attacks:
   Air: 15/11
   Direct: 15/8
-Cargo Space: 1
+Load aboard transport: YES
 Can be towed
 Upkeep / Maintenance: 10
-Build Cost: 99
+Build Cost: 97
 Build Resource Requirements:
   Food: 3
   Energy: 11
@@ -524,14 +524,14 @@ Statistics:
   Agility: 4
   Armor: 14
   Psy Defense: 14
-  Rank: 142
+  Rank: 132
 Attacks:
   Close: 14/10
-Cargo Space: 1
-Can be towed
+Load aboard transport: YES
+Can tow units that can be towed
 Heals units of same movement type
 Upkeep / Maintenance: 7
-Build Cost: 71
+Build Cost: 73
 Build Resource Requirements:
   Food: 3
   Energy: 7
@@ -616,14 +616,15 @@ Statistics:
   Agility: 5
   Armor: 13
   Psy Defense: 13
-  Rank: 123
+  Rank: 779
 Attacks:
   Water: 18/13
   Indirect: 18/10
-Cargo Space: 1
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
 Can be towed
-Upkeep / Maintenance: 9
-Build Cost: 89
+Upkeep / Maintenance: 13
+Build Cost: 131
 Build Resource Requirements:
   Food: 3
   Energy: 11
@@ -639,7 +640,6 @@ Time to Build / Upgrade: 2
   [2855] Naval Amphibious Ships (87)
   [1700] Main Battle Tank (88)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --15--
@@ -662,14 +662,14 @@ Statistics:
   Agility: 5
   Armor: 13
   Psy Defense: 13
-  Rank: 98
+  Rank: 88
 Attacks:
   Indirect: 18/13
   Direct: 18/10
-Cargo Space: 1
+Load aboard transport: YES
 Can be towed
 Upkeep / Maintenance: 9
-Build Cost: 89
+Build Cost: 87
 Build Resource Requirements:
   Food: 3
   Energy: 11
@@ -753,14 +753,14 @@ Statistics:
   Agility: 5
   Armor: 13
   Psy Defense: 13
-  Rank: 98
+  Rank: 88
 Attacks:
   Air: 18/13
   Direct: 18/10
-Cargo Space: 1
+Load aboard transport: YES
 Can be towed
 Upkeep / Maintenance: 11
-Build Cost: 114
+Build Cost: 112
 Build Resource Requirements:
   Food: 3
   Energy: 11
@@ -799,14 +799,14 @@ Statistics:
   Agility: 5
   Armor: 17
   Psy Defense: 17
-  Rank: 145
+  Rank: 135
 Attacks:
   Close: 17/12
-Cargo Space: 1
-Can be towed
+Load aboard transport: YES
+Can tow units that can be towed
 Heals units of same movement type
 Upkeep / Maintenance: 9
-Build Cost: 87
+Build Cost: 89
 Build Resource Requirements:
   Food: 3
   Energy: 8
