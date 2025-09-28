@@ -20,14 +20,14 @@ Statistics:
   Agility: 8
   Armor: 18
   Psy Defense: 18
-  Rank: 152
+  Rank: 142
 Attacks:
   Close: 33/21
-Cargo Space: 1
-Can be towed
+Load aboard transport: YES
+Can tow units that can be towed
 Heals units of same movement type
 Upkeep / Maintenance: 13
-Build Cost: 126
+Build Cost: 129
 Build Resource Requirements:
   Food: 2
   Energy: 10
@@ -163,14 +163,15 @@ Statistics:
   Agility: 8
   Armor: 13
   Psy Defense: 13
-  Rank: 146
+  Rank: 802
 Attacks:
   Water: 28/20
   Indirect: 28/16
-Cargo Space: 1
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
 Can be towed
-Upkeep / Maintenance: 10
-Build Cost: 101
+Upkeep / Maintenance: 15
+Build Cost: 148
 Build Resource Requirements:
   Food: 2
   Energy: 13
@@ -188,7 +189,6 @@ Time to Build / Upgrade: 2
   [4695] Advanced Minor Watercraft (83)
   [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
@@ -211,14 +211,14 @@ Statistics:
   Agility: 8
   Armor: 13
   Psy Defense: 13
-  Rank: 121
+  Rank: 111
 Attacks:
   Indirect: 28/20
   Direct: 28/16
-Cargo Space: 1
+Load aboard transport: YES
 Can be towed
 Upkeep / Maintenance: 10
-Build Cost: 101
+Build Cost: 99
 Build Resource Requirements:
   Food: 2
   Energy: 13
@@ -259,14 +259,14 @@ Statistics:
   Agility: 8
   Armor: 13
   Psy Defense: 13
-  Rank: 121
+  Rank: 111
 Attacks:
   Air: 28/20
   Direct: 28/16
-Cargo Space: 1
+Load aboard transport: YES
 Can be towed
 Upkeep / Maintenance: 13
-Build Cost: 130
+Build Cost: 127
 Build Resource Requirements:
   Food: 2
   Energy: 13
