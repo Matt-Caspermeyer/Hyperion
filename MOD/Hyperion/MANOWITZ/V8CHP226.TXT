@@ -1,51 +1,97 @@
-All units of the unit class Hover Frigate are listed herein (1 in total):
+All units of the unit class Jump (Vlad) Cruiser are listed herein (2 in total):
 
 --1--
-Name: Hover Frigate
-Nick Name: Thunderbolt
+Name: Jump (Vlad) Cruiser
+Nick Name: JJ-CC2
 Scores & Strengths:
-  Tech Score: 6233
-  Unit Score: 6286
-  Average Score: 6259
-  Stat Strength: 4862
-  Total Strength: 6286
-  Planet Strength: 6286
-  Space Strength: 0
-  Garrison Strength: 1371
+  Tech Score: 5589
+  Unit Score: 5418
+  Average Score: 5504
+  Stat Strength: 4534
+  Total Strength: 5418
+  Planet Strength: 0
+  Space Strength: 5418
+  Garrison Strength: 0
 Statistics:
-  Movement Type: hover
-  Move Points: 21
-  Spot: 18
-  Camouflage: 9
-  Agility: 12
-  Armor: 44
-  Psy Defense: 44
-  Rank: 119
+  Movement Type: jump
+  Move Points: 16
+  Spot: 14
+  Camouflage: 4
+  Agility: 4
+  Armor: 45
+  Psy Defense: 45
+  Rank: 217
 Attacks:
-  Water: 15/22
-  Air: 20/22
-  Indirect: 13/32
-  Direct: 17/14
-Load aboard transport: YES
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 192
-Build Cost: 1917
+  Ranged Space: 17/25
+  Direct Space: 10/27
+  Closed Space: 9/21
+Immune to Plague
+Upkeep / Maintenance: 616
+Build Cost: 6162
 Build Resource Requirements:
   Food: 1
-  Energy: 10
-  Metal: 8
+  Energy: 8
+  Metal: 14
   Trace: 4
   Exotica: 1
   Chemicals: 18
-  Biochems: 25
-  Electronics: 12
-  Ceramsteel: 17
-  Wetware: 6
-  Monopols: 37
-Build Hover Frigate in Well
+  Biochems: 18
+  Electronics: 13
+  Ceramsteel: 20
+  Monopols: 36
+S  ingularities: 4
+Build Jump (Vlad) Cruiser in Starport
 Time to Build / Upgrade: 4
-[45520] Technology Required to Build Unit (53):
-  [45520] Hover Navalcraft (53)
+[39365] Technology Required to Build Unit (61):
+  [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Cloaking Vlad Cruiser
+Nick Name: JJ-CCC
+Scores & Strengths:
+  Tech Score: 8498
+  Unit Score: 8501
+  Average Score: 8499
+  Stat Strength: 6840
+  Total Strength: 8501
+  Planet Strength: 0
+  Space Strength: 8501
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 16
+  Spot: 14
+  Camouflage: 46
+  Agility: 20
+  Armor: 44
+  Psy Defense: 44
+  Rank: 262
+Attacks:
+  Ranged Space: 20/33
+  Direct Space: 30/22
+  Closed Space: 31/11
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 744
+Build Cost: 7435
+Build Resource Requirements:
+  Energy: 4
+  Metal: 6
+  Trace: 9
+  Exotica: 1
+  Chemicals: 8
+  Biochems: 16
+  Electronics: 22
+  Ceramsteel: 9
+  Wetware: 8
+  Monopols: 17
+S  ingularities: 4
+Build Cloaking Vlad Cruiser in Starport
+Time to Build / Upgrade: 3
+[98845] Technologies Required to Build Unit (63):
+  [59480] Cloaked Capital Ships (64)
+  [39365] Jump Capital Ships (61)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

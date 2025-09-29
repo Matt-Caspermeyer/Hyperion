@@ -1,186 +1,136 @@
-All units of the unit class Space Destroyer are listed herein (4 in total):
+All units of the unit class Shock Legion are listed herein (3 in total):
 
 --1--
-Name: Space Destroyer
-Nick Name: SS-DD
+Name: Shock Legion
+Nick Name: Shock Lgn
 Scores & Strengths:
-  Tech Score: 2580
-  Unit Score: 2580
-  Average Score: 2580
-  Stat Strength: 1810
-  Total Strength: 2580
-  Planet Strength: 0
-  Space Strength: 2580
-  Garrison Strength: 0
+  Tech Score: 2509
+  Unit Score: 2509
+  Average Score: 2509
+  Stat Strength: 1472
+  Total Strength: 2509
+  Planet Strength: 2509
+  Space Strength: 0
+  Garrison Strength: 627
 Statistics:
-  Movement Type: space
+  Movement Type: foot
   Move Points: 16
-  Spot: 12
-  Camouflage: 4
-  Agility: 12
-  Armor: 25
-  Psy Defense: 25
-  Rank: 170
+  Spot: 9
+  Camouflage: 11
+  Agility: 26
+  Armor: 13
+  Psy Defense: 13
+  Rank: 87
 Attacks:
-  Direct Space: 16/28
-  Closed Space: 14/23
-Immune to Plague
-Upkeep / Maintenance: 41
-Build Cost: 405
+  Air: 12/11
+  Indirect: 16/14
+  Direct: 21/16
+  Close: 23/15
+Load aboard transport: YES
+Upkeep / Maintenance: 75
+Build Cost: 587
 Build Resource Requirements:
-  Food: 3
-  Energy: 22
-  Metal: 18
-  Trace: 9
-  Exotica: 3
-  Chemicals: 36
-  Biochems: 26
-  Electronics: 14
-  Ceramsteel: 20
-Build Space Destroyer in Starport
-Time to Build / Upgrade: 3
-[14045] Technology Required to Build Unit (84):
-  [14045] Space Escorts (84)
+  Metal: 1
+  Trace: 2
+  Electronics: 1
+  Ceramsteel: 3
+  Monopols: 26
+Upgrade Chemical Shock Legion to Shock Legion at Fort
+Time to Build / Upgrade: 1
+[16085] Technologies Required to Build Unit (64):
+  [6020] Chemical Shock Legion (49)
+  [10065] Powered-Armor Legion (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Jump Destroyer
-Nick Name: JJ-DD
+Name: Genetic Shock Legion
+Nick Name: Gen SL
 Scores & Strengths:
-  Tech Score: 3399
-  Unit Score: 3361
-  Average Score: 3380
-  Stat Strength: 2369
-  Total Strength: 3361
-  Planet Strength: 0
-  Space Strength: 3361
-  Garrison Strength: 0
+  Tech Score: 3749
+  Unit Score: 3581
+  Average Score: 3665
+  Stat Strength: 2022
+  Total Strength: 3581
+  Planet Strength: 3581
+  Space Strength: 0
+  Garrison Strength: 800
 Statistics:
-  Movement Type: jump
-  Move Points: 18
-  Spot: 13
-  Camouflage: 5
-  Agility: 13
-  Armor: 29
-  Psy Defense: 29
-  Rank: 209
+  Movement Type: foot
+  Move Points: 20
+  Spot: 10
+  Camouflage: 13
+  Agility: 29
+  Armor: 16
+  Psy Defense: 16
+  Rank: 108
 Attacks:
-  Direct Space: 18/32
-  Closed Space: 16/26
+  Air: 15/13
+  Indirect: 20/17
+  Direct: 26/20
+  Close: 28/18
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 525
-Build Cost: 5250
+Upkeep / Maintenance: 96
+Build Cost: 372
 Build Resource Requirements:
-  Food: 2
-  Energy: 16
-  Metal: 15
-  Trace: 8
-  Exotica: 3
-  Chemicals: 26
-  Biochems: 20
-  Electronics: 12
-  Ceramsteel: 17
-  Monopols: 38
-S  ingularities: 4
-Build Jump Destroyer in Starport
-Time to Build / Upgrade: 4
-[26415] Technologies Required to Build Unit (76):
-  [4285] Jump Drives (70)
-  [8085] Fusion Rifles (75)
-  [14045] Space Escorts (84)
+  Energy: 3
+Upgrade Shock Legion to Genetic Shock Legion at Lab
+Time to Build / Upgrade: 1
+[28060] Technologies Required to Build Unit (40):
+  [8900] Genetically-Enhanced Warriors (25)
+  [19160] Assault Legion (54)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Jump Destroyer II
-Nick Name: JJ-DD
+Name: Stigmata Defender
+Nick Name: Protector
 Scores & Strengths:
-  Tech Score: 4325
-  Unit Score: 4202
-  Average Score: 4264
-  Stat Strength: 2906
-  Total Strength: 4202
-  Planet Strength: 0
-  Space Strength: 4202
-  Garrison Strength: 0
+  Tech Score: 4255
+  Unit Score: 4256
+  Average Score: 4255
+  Stat Strength: 3051
+  Total Strength: 4256
+  Planet Strength: 3920
+  Space Strength: 3387
+  Garrison Strength: 784
 Statistics:
-  Movement Type: jump
-  Move Points: 21
-  Spot: 14
-  Camouflage: 5
-  Agility: 14
-  Armor: 32
-  Psy Defense: 32
-  Rank: 225
+  Movement Type: hover
+  Move Points: 25
+  Spot: 20
+  Camouflage: 10
+  Agility: 26
+  Armor: 25
+  Psy Defense: 25
+  Rank: 99
 Attacks:
-  Direct Space: 21/36
-  Closed Space: 18/30
-Immune to Plague
-Upkeep / Maintenance: 607
-Build Cost: 6066
-Build Resource Requirements:
-  Food: 2
-  Energy: 14
-  Metal: 9
-  Trace: 9
-  Exotica: 2
-  Chemicals: 25
-  Biochems: 23
-  Electronics: 19
-  Ceramsteel: 13
-  Monopols: 37
-S  ingularities: 5
-Build Jump Destroyer II in Starport
-Time to Build / Upgrade: 4
-[27965] Technology Required to Build Unit (75):
-  [27965] Jump Escorts (75)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: Cloaking Space Destroyer
-Nick Name: SS-CDD
-Scores & Strengths:
-  Tech Score: 7481
-  Unit Score: 7484
-  Average Score: 7483
-  Stat Strength: 6144
-  Total Strength: 7484
-  Planet Strength: 0
-  Space Strength: 7484
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 18
-  Spot: 12
-  Camouflage: 48
-  Agility: 22
-  Armor: 38
-  Psy Defense: 38
-  Rank: 235
-Attacks:
-  Direct Space: 22/38
-  Closed Space: 28/18
+  Closed Space: 21/16
+  Air: 17/19
+  Direct: 21/10
+  Close: 21/16
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 317
-Build Cost: 3168
+Upkeep / Maintenance: 125
+Build Cost: 1249
 Build Resource Requirements:
-  Food: 1
-  Energy: 6
-  Metal: 6
-  Trace: 11
-  Exotica: 1
-  Chemicals: 11
-  Biochems: 20
-  Electronics: 27
-  Ceramsteel: 10
-  Wetware: 6
+  Food: 3
+  Energy: 11
+  Metal: 4
+  Trace: 7
+  Exotica: 3
+  Chemicals: 15
+  Biochems: 24
+  Electronics: 18
+  Ceramsteel: 7
+  Wetware: 15
   Monopols: 22
-Build Cloaking Space Destroyer in Starport
-Time to Build / Upgrade: 3
-[58065] Technology Required to Build Unit (48):
-  [58065] Cloaked Escortcraft (48)
+Build Stigmata Defender in Factory
+Time to Build / Upgrade: 4
+[33175] Technologies Required to Build Unit (63):
+  [26955] Rocket Legion (46)
+  [6220] Mechanically-Enhanced Soldiers (80)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

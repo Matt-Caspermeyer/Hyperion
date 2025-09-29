@@ -1,303 +1,452 @@
-All units of the unit class Motorized Sub. Canoe (R) are listed herein (7 in total):
+All units of the unit class Transport Helicopter are listed herein (10 in total):
 
 --1--
-Name: Motorized Sub. Canoe (R)
-Nick Name: MSC (R)
+Name: Transport Helicopter
+Nick Name: A-HX
 Scores & Strengths:
-  Tech Score: 658
-  Unit Score: 657
-  Average Score: 657
-  Stat Strength: 657
-  Total Strength: 657
-  Planet Strength: 657
+  Tech Score: 618
+  Unit Score: 620
+  Average Score: 619
+  Stat Strength: 620
+  Total Strength: 620
+  Planet Strength: 620
   Space Strength: 0
-  Garrison Strength: 189
+  Garrison Strength: 206
 Statistics:
-  Movement Type: underwater
-  Move Points: 12
-  Spot: 14
-  Camouflage: 14
-  Agility: 7
-  Armor: 6
-  Psy Defense: 6
-  Rank: 7
-Upkeep / Maintenance: 22
-Build Cost: 220
+  Movement Type: air
+  Move Points: 9
+  Spot: 6
+  Camouflage: 6
+  Agility: 15
+  Armor: 11
+  Psy Defense: 11
+  Rank: 91
+Cargo Space: 1
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 11
+Build Cost: 112
 Build Resource Requirements:
-  Food: 9
-  Energy: 8
-  Metal: 7
-  Trace: 27
-  Exotica: 10
-  Chemicals: 8
-  Biochems: 11
-  Electronics: 21
-Build Motorized Sub. Canoe (R) in Well
-Time to Build / Upgrade: 2
-[2270] Technology Required to Build Unit (86):
-  [2270] Naval Escort Ships (86)
+  Food: 7
+  Energy: 12
+  Metal: 166
+  Trace: 11
+  Exotica: 7
+  Chemicals: 13
+  Electronics: 12
+Build Transport Helicopter in Factory
+Time to Build / Upgrade: 3
+[2090] Technology Required to Build Unit (85):
+  [2090] Rotorcraft (85)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Motorized Sub. Canoe (A)
-Nick Name: MSC (A)
+Name: Cargo Helicopter
+Nick Name: A-HCC
 Scores & Strengths:
-  Tech Score: 658
-  Unit Score: 658
-  Average Score: 658
-  Stat Strength: 408
-  Total Strength: 658
-  Planet Strength: 658
+  Tech Score: 729
+  Unit Score: 724
+  Average Score: 727
+  Stat Strength: 724
+  Total Strength: 724
+  Planet Strength: 724
   Space Strength: 0
-  Garrison Strength: 232
+  Garrison Strength: 255
 Statistics:
-  Movement Type: underwater
+  Movement Type: air
   Move Points: 8
   Spot: 6
-  Camouflage: 12
-  Agility: 6
-  Armor: 8
-  Psy Defense: 8
-  Rank: 742
-Attacks:
-  Water: 10/16
-  Indirect: 9/10
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 39
-Build Cost: 388
+  Camouflage: 6
+  Agility: 14
+  Armor: 14
+  Psy Defense: 14
+  Rank: 102
+Cargo Space: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 10
+Build Cost: 96
 Build Resource Requirements:
-  Food: 3
-  Energy: 21
-  Metal: 12
-  Trace: 25
-  Exotica: 3
-  Chemicals: 21
-  Biochems: 7
-  Electronics: 15
-Build Motorized Sub. Canoe (A) in Well
-Time to Build / Upgrade: 2
-[2270] Technology Required to Build Unit (86):
-  [2270] Naval Escort Ships (86)
+  Food: 4
+  Energy: 6
+  Metal: 160
+  Trace: 6
+  Exotica: 4
+  Chemicals: 7
+  Electronics: 7
+Build Cargo Helicopter in Factory
+Time to Build / Upgrade: 3
+[4060] Technologies Required to Build Unit (86):
+  [2090] Rotorcraft (85)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Midget Submarine
-Nick Name: NSS-MS
+Name: Transport Helicopter II
+Nick Name: A-HX II
 Scores & Strengths:
-  Tech Score: 932
-  Unit Score: 932
-  Average Score: 932
-  Stat Strength: 860
-  Total Strength: 932
-  Planet Strength: 932
+  Tech Score: 1117
+  Unit Score: 996
+  Average Score: 1057
+  Stat Strength: 996
+  Total Strength: 996
+  Planet Strength: 996
   Space Strength: 0
-  Garrison Strength: 249
+  Garrison Strength: 287
 Statistics:
-  Movement Type: underwater
-  Move Points: 14
-  Spot: 6
-  Camouflage: 14
-  Agility: 12
-  Armor: 12
-  Psy Defense: 12
-  Rank: 685
-Attacks:
-  Water: 6/12
+  Movement Type: air
+  Move Points: 12
+  Spot: 7
+  Camouflage: 8
+  Agility: 17
+  Armor: 15
+  Psy Defense: 15
+  Rank: 96
 Cargo Space: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Can be towed
-Upkeep / Maintenance: 44
-Build Cost: 442
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 5
+Build Cost: 48
 Build Resource Requirements:
-  Food: 5
-  Energy: 17
-  Metal: 23
-  Trace: 20
-  Exotica: 6
-  Chemicals: 17
-  Biochems: 8
-  Electronics: 15
-Build Midget Submarine in Well
+  Food: 4
+  Energy: 6
+  Metal: 35
+  Trace: 6
+  Exotica: 4
+  Chemicals: 7
+  Biochems: 4
+  Electronics: 6
+Build Transport Helicopter II in Factory
 Time to Build / Upgrade: 2
-[3615] Technology Required to Build Unit (87):
-  [3615] Submarine Warfare (87)
+[6625] Technologies Required to Build Unit (86):
+  [2090] Rotorcraft (85)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Human Torpedo
-Nick Name: NSS-HT
+Name: Cargo Helicopter II
+Nick Name: A-HCC II
 Scores & Strengths:
-  Tech Score: 932
-  Unit Score: 932
-  Average Score: 932
-  Stat Strength: 752
-  Total Strength: 932
-  Planet Strength: 932
+  Tech Score: 1146
+  Unit Score: 1117
+  Average Score: 1132
+  Stat Strength: 1117
+  Total Strength: 1117
+  Planet Strength: 1117
   Space Strength: 0
-  Garrison Strength: 380
+  Garrison Strength: 353
 Statistics:
-  Movement Type: underwater
-  Move Points: 6
-  Spot: 6
-  Camouflage: 18
-  Agility: 18
-  Armor: 4
-  Psy Defense: 4
-  Rank: 685
-Attacks:
-  Water: 18/10
-Cargo Space: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Can be towed
-Upkeep / Maintenance: 63
-Build Cost: 634
+  Movement Type: air
+  Move Points: 10
+  Spot: 7
+  Camouflage: 8
+  Agility: 16
+  Armor: 18
+  Psy Defense: 18
+  Rank: 106
+Cargo Space: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 5
+Build Cost: 48
 Build Resource Requirements:
-  Food: 5
-  Energy: 13
-  Metal: 3
-  Trace: 47
-  Exotica: 5
-  Chemicals: 13
-  Biochems: 16
-  Electronics: 35
-Build Human Torpedo in Well
-Time to Build / Upgrade: 3
-[3615] Technology Required to Build Unit (87):
-  [3615] Submarine Warfare (87)
+  Food: 3
+  Energy: 4
+  Metal: 48
+  Trace: 5
+  Exotica: 3
+  Chemicals: 5
+  Biochems: 2
+  Electronics: 5
+Build Cargo Helicopter II in Factory
+Time to Build / Upgrade: 2
+[8595] Technologies Required to Build Unit (87):
+  [2090] Rotorcraft (85)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2725] Naval Capital Ships (88)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Diver Propulsion Vehicle
-Nick Name: DPV
+Name: Transport Helicopter III
+Nick Name: A-HX III
 Scores & Strengths:
-  Tech Score: 1489
-  Unit Score: 1500
-  Average Score: 1494
-  Stat Strength: 1500
-  Total Strength: 0
-  Planet Strength: 0
+  Tech Score: 1496
+  Unit Score: 1265
+  Average Score: 1381
+  Stat Strength: 1265
+  Total Strength: 1265
+  Planet Strength: 1265
   Space Strength: 0
-  Garrison Strength: 0
+  Garrison Strength: 338
 Statistics:
-  Movement Type: underwater
-  Move Points: 20
-  Spot: 10
-  Camouflage: 20
-  Agility: 20
-  Armor: 10
-  Psy Defense: 10
-  Rank: 515
-Load aboard transport: YES
-Does not participate in combat
-Can tow units that can be towed
-Upkeep / Maintenance: 6
-Build Cost: 57
+  Movement Type: air
+  Move Points: 14
+  Spot: 7
+  Camouflage: 9
+  Agility: 19
+  Armor: 17
+  Psy Defense: 17
+  Rank: 99
+Cargo Space: 1
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 8
+Build Cost: 78
 Build Resource Requirements:
-  Food: 6
-  Energy: 11
-  Metal: 5
-  Trace: 15
-  Exotica: 7
+  Food: 4
+  Energy: 8
+  Metal: 18
+  Trace: 7
+  Exotica: 5
   Chemicals: 13
-  Biochems: 7
-  Electronics: 16
-  Ceramsteel: 5
-Build Diver Propulsion Vehicle in Well
+  Biochems: 5
+  Electronics: 8
+  Ceramsteel: 20
+Build Transport Helicopter III in Factory
 Time to Build / Upgrade: 2
-[9470] Technologies Required to Build Unit (86):
-  [3615] Submarine Warfare (87)
-  [5855] Guided Missile Navalcraft (84)
+[7360] Technologies Required to Build Unit (84):
+  [2665] V/STOL Aircraft (85)
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Swimmer Delivery Vehicle
-Nick Name: SDV
+Name: Cargo Helicopter III
+Nick Name: A-HCC III
 Scores & Strengths:
-  Tech Score: 1619
-  Unit Score: 1621
-  Average Score: 1620
-  Stat Strength: 1621
-  Total Strength: 0
-  Planet Strength: 0
+  Tech Score: 1522
+  Unit Score: 1363
+  Average Score: 1443
+  Stat Strength: 1363
+  Total Strength: 1363
+  Planet Strength: 1363
   Space Strength: 0
-  Garrison Strength: 0
+  Garrison Strength: 393
 Statistics:
-  Movement Type: underwater
-  Move Points: 22
-  Spot: 13
-  Camouflage: 14
-  Agility: 22
-  Armor: 12
-  Psy Defense: 12
-  Rank: 526
-Cargo Space: 1
-Does not participate in combat
-Can tow units that can be towed
-Upkeep / Maintenance: 7
-Build Cost: 65
+  Movement Type: air
+  Move Points: 12
+  Spot: 7
+  Camouflage: 9
+  Agility: 17
+  Armor: 20
+  Psy Defense: 20
+  Rank: 109
+Cargo Space: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 8
+Build Cost: 82
 Build Resource Requirements:
-  Food: 7
-  Energy: 13
-  Metal: 6
-  Trace: 12
-  Exotica: 8
-  Chemicals: 16
-  Biochems: 9
-  Electronics: 13
-  Ceramsteel: 7
-Build Swimmer Delivery Vehicle in Well
+  Food: 3
+  Energy: 5
+  Metal: 24
+  Trace: 5
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 3
+  Electronics: 6
+  Ceramsteel: 27
+Build Cargo Helicopter III in Factory
 Time to Build / Upgrade: 2
-[10270] Technologies Required to Build Unit (85):
-  [3615] Submarine Warfare (87)
-  [6655] PTS Missile Navalcraft (83)
+[9330] Technologies Required to Build Unit (85):
+  [1970] Cargo Handling (87)
+  [2665] V/STOL Aircraft (85)
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Advanced SDV
-Nick Name: Adv. SDV
+Name: Transport Helicopter IV
+Nick Name: A-HX IV
 Scores & Strengths:
-  Tech Score: 1792
-  Unit Score: 1790
-  Average Score: 1791
-  Stat Strength: 1790
-  Total Strength: 0
-  Planet Strength: 0
+  Tech Score: 2251
+  Unit Score: 1797
+  Average Score: 2024
+  Stat Strength: 1797
+  Total Strength: 1797
+  Planet Strength: 1797
   Space Strength: 0
-  Garrison Strength: 0
+  Garrison Strength: 435
 Statistics:
-  Movement Type: underwater
-  Move Points: 24
-  Spot: 14
-  Camouflage: 14
-  Agility: 22
-  Armor: 13
-  Psy Defense: 13
-  Rank: 538
-Cargo Space: 2
-Does not participate in combat
-Can tow units that can be towed
-Upkeep / Maintenance: 6
-Build Cost: 62
+  Movement Type: air
+  Move Points: 17
+  Spot: 8
+  Camouflage: 11
+  Agility: 21
+  Armor: 21
+  Psy Defense: 21
+  Rank: 105
+Cargo Space: 1
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 8
+Build Cost: 77
 Build Resource Requirements:
-  Food: 6
-  Energy: 11
-  Metal: 5
-  Trace: 9
-  Exotica: 7
-  Chemicals: 15
-  Biochems: 8
-  Electronics: 11
-  Ceramsteel: 6
-Build Advanced SDV in Well
+  Food: 4
+  Energy: 7
+  Metal: 13
+  Trace: 6
+  Exotica: 4
+  Chemicals: 13
+  Biochems: 4
+  Electronics: 8
+  Ceramsteel: 19
+Build Transport Helicopter IV in Factory
 Time to Build / Upgrade: 2
-[14495] Technologies Required to Build Unit (83):
-  [7200] Air-Independent Propulsion (85)
-  [7295] Nuclear-Powered Navalcraft (81)
+[14125] Technologies Required to Build Unit (82):
+  [4695] Advanced Minor Watercraft (83)
+  [9430] Advanced V/STOL Aircraft (81)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Cargo Helicopter IV
+Nick Name: A-HCC IV
+Scores & Strengths:
+  Tech Score: 2274
+  Unit Score: 1992
+  Average Score: 2133
+  Stat Strength: 1992
+  Total Strength: 1992
+  Planet Strength: 1992
+  Space Strength: 0
+  Garrison Strength: 532
+Statistics:
+  Movement Type: air
+  Move Points: 14
+  Spot: 8
+  Camouflage: 11
+  Agility: 19
+  Armor: 25
+  Psy Defense: 25
+  Rank: 116
+Cargo Space: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 9
+Build Cost: 86
+Build Resource Requirements:
+  Food: 3
+  Energy: 5
+  Metal: 19
+  Trace: 5
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 3
+  Electronics: 6
+  Ceramsteel: 27
+Build Cargo Helicopter IV in Factory
+Time to Build / Upgrade: 2
+[16095] Technologies Required to Build Unit (84):
+  [1970] Cargo Handling (87)
+  [4695] Advanced Minor Watercraft (83)
+  [9430] Advanced V/STOL Aircraft (81)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Transport Helicopter V
+Nick Name: A-HX V
+Scores & Strengths:
+  Tech Score: 3278
+  Unit Score: 2497
+  Average Score: 2888
+  Stat Strength: 2497
+  Total Strength: 2497
+  Planet Strength: 2497
+  Space Strength: 0
+  Garrison Strength: 544
+Statistics:
+  Movement Type: air
+  Move Points: 21
+  Spot: 9
+  Camouflage: 14
+  Agility: 23
+  Armor: 25
+  Psy Defense: 25
+  Rank: 114
+Cargo Space: 1
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 54
+Build Cost: 537
+Build Resource Requirements:
+  Food: 3
+  Energy: 5
+  Metal: 7
+  Trace: 5
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 3
+  Electronics: 11
+  Ceramsteel: 11
+  Monopols: 18
+Build Transport Helicopter V in Factory
+Time to Build / Upgrade: 2
+[21740] Technologies Required to Build Unit (81):
+  [4695] Advanced Minor Watercraft (83)
+  [17045] Power V/STOL Aircraft (79)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Cargo Helicopter V
+Nick Name: A-HCC V
+Scores & Strengths:
+  Tech Score: 3298
+  Unit Score: 2739
+  Average Score: 3019
+  Stat Strength: 2739
+  Total Strength: 2739
+  Planet Strength: 2739
+  Space Strength: 0
+  Garrison Strength: 664
+Statistics:
+  Movement Type: air
+  Move Points: 17
+  Spot: 9
+  Camouflage: 13
+  Agility: 20
+  Armor: 30
+  Psy Defense: 30
+  Rank: 125
+Cargo Space: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 64
+Build Cost: 643
+Build Resource Requirements:
+  Food: 2
+  Energy: 4
+  Metal: 10
+  Trace: 4
+  Exotica: 2
+  Chemicals: 10
+  Biochems: 2
+  Electronics: 11
+  Ceramsteel: 16
+  Monopols: 20
+Build Cargo Helicopter V in Factory
+Time to Build / Upgrade: 3
+[23710] Technologies Required to Build Unit (83):
+  [1970] Cargo Handling (87)
+  [4695] Advanced Minor Watercraft (83)
+  [17045] Power V/STOL Aircraft (79)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

@@ -1,410 +1,436 @@
-All units of the unit class PTS Tank are listed herein (9 in total):
+All units of the unit class Dread-Battlestar are listed herein (9 in total):
 
 --1--
-Name: PTS Tank
-Nick Name: PTS Tank
+Name: Dread-Battlestar
+Nick Name: SS-BDB
 Scores & Strengths:
-  Tech Score: 608
-  Unit Score: 606
-  Average Score: 607
-  Stat Strength: 368
-  Total Strength: 606
-  Planet Strength: 528
-  Space Strength: 446
-  Garrison Strength: 215
+  Tech Score: 395
+  Unit Score: 591
+  Average Score: 493
+  Stat Strength: 405
+  Total Strength: 591
+  Planet Strength: 0
+  Space Strength: 591
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 6
-  Spot: 2
-  Camouflage: 2
-  Agility: 6
-  Armor: 12
-  Psy Defense: 12
-  Rank: 72
+  Movement Type: space
+  Move Points: 1
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 13
+  Psy Defense: 13
+  Rank: 797
 Attacks:
-  Ranged Space: 6/13
-  Indirect: 6/13
-  Direct: 5/11
-  Close: 3/9
-Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 67
+  Ranged Space: 3/27
+  Direct Space: 5/21
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 68
+Build Cost: 678
 Build Resource Requirements:
-  Food: 2
-  Energy: 32
-  Metal: 27
-  Trace: 8
-  Exotica: 2
-  Chemicals: 45
-  Electronics: 7
-Build PTS Tank in Factory
-Time to Build / Upgrade: 2
-[2300] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1950] PTS Missile Launcher (88)
+  Food: 5
+  Energy: 97
+  Metal: 60
+  Trace: 10
+  Exotica: 5
+  Chemicals: 132
+  Electronics: 6
+Build Dread-Battlestar in Starport
+Time to Build / Upgrade: 5
+[1530] Technologies Required to Build Unit (95):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [200] Admiralty Fire Control Table (87)
+  [795] Rocket Propulsion (90)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: PTS Tank II
-Nick Name: PTS Tank II
+Name: Jump Dread-Battlestar
+Nick Name: JJ-BDB
 Scores & Strengths:
-  Tech Score: 1132
-  Unit Score: 1079
-  Average Score: 1105
-  Stat Strength: 638
-  Total Strength: 1079
-  Planet Strength: 935
-  Space Strength: 782
-  Garrison Strength: 330
+  Tech Score: 480
+  Unit Score: 687
+  Average Score: 583
+  Stat Strength: 459
+  Total Strength: 687
+  Planet Strength: 0
+  Space Strength: 687
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 8
-  Spot: 2
-  Camouflage: 3
-  Agility: 7
-  Armor: 16
-  Psy Defense: 16
-  Rank: 83
+  Movement Type: jump
+  Move Points: 1
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 14
+  Psy Defense: 14
+  Rank: 826
 Attacks:
-  Ranged Space: 8/18
-  Indirect: 8/18
-  Direct: 7/15
-  Close: 4/12
-Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 62
+  Ranged Space: 3/30
+  Direct Space: 6/23
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 181
+Build Cost: 1810
 Build Resource Requirements:
-  Food: 1
-  Energy: 26
-  Metal: 41
-  Trace: 6
-  Exotica: 1
-  Chemicals: 34
-  Electronics: 4
-Build PTS Tank II in Factory
-Time to Build / Upgrade: 2
-[6890] Technologies Required to Build Unit (88):
-  [770] Self-Propelled Weaponry (92)
-  [1950] PTS Missile Launcher (88)
-  [4170] Supercruise Missiles (84)
+  Food: 5
+  Energy: 119
+  Metal: 61
+  Trace: 10
+  Exotica: 4
+  Chemicals: 160
+  Electronics: 7
+S  ingularities: 1
+Build Jump Dread-Battlestar in Starport
+Time to Build / Upgrade: 5
+[1970] Technologies Required to Build Unit (93):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [200] Admiralty Fire Control Table (87)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
+  [1235] Jump Rocketry (76)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Symbiot PTS Weapon
-Nick Name: Fumerole
+Name: Dreadstar
+Nick Name: SS-BD
 Scores & Strengths:
-  Tech Score: 1530
-  Unit Score: 1530
-  Average Score: 1530
-  Stat Strength: 724
-  Total Strength: 1530
-  Planet Strength: 1370
-  Space Strength: 884
-  Garrison Strength: 395
+  Tech Score: 2916
+  Unit Score: 2916
+  Average Score: 2916
+  Stat Strength: 2534
+  Total Strength: 2916
+  Planet Strength: 0
+  Space Strength: 2916
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
+  Movement Type: space
   Move Points: 12
-  Spot: 8
-  Camouflage: 8
+  Spot: 12
+  Camouflage: 2
   Agility: 8
-  Armor: 18
-  Psy Defense: 8
-  Rank: 91
+  Armor: 33
+  Psy Defense: 33
+  Rank: 834
 Attacks:
-  Ranged Space: 10/16
-  Air: 11/15
-  Indirect: 9/17
-  Direct: 10/16
-  Close: 12/14
-Load aboard transport: YES
-Upkeep / Maintenance: 86
-Build Cost: 862
+  Ranged Space: 4/46
+  Direct Space: 6/33
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 532
+Build Cost: 5316
 Build Resource Requirements:
-  Food: 3
-  Energy: 195
-  Metal: 7
-  Trace: 7
-  Exotica: 4
-  Chemicals: 241
-  Biochems: 287
-  Electronics: 20
-Build Symbiot PTS Weapon in Hive
-Time to Build / Upgrade: 7
-[6995] Technology Required to Build Unit (37):
-  [6995] Symbiot Psychology (37)
+  Food: 1
+  Energy: 23
+  Metal: 15
+  Trace: 2
+  Exotica: 1
+  Chemicals: 37
+  Biochems: 26
+  Electronics: 4
+  Ceramsteel: 18
+  Monopols: 54
+Build Dreadstar in Starport
+Time to Build / Upgrade: 4
+[16530] Technology Required to Build Unit (80):
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: PTS Tank III
-Nick Name: PTS Tank III
+Name: Super Dreadstar
+Nick Name: SS-BSD
 Scores & Strengths:
-  Tech Score: 1685
-  Unit Score: 1641
-  Average Score: 1663
-  Stat Strength: 982
-  Total Strength: 1641
-  Planet Strength: 1421
-  Space Strength: 1202
-  Garrison Strength: 449
+  Tech Score: 2916
+  Unit Score: 2916
+  Average Score: 2916
+  Stat Strength: 2630
+  Total Strength: 2916
+  Planet Strength: 0
+  Space Strength: 2916
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 10
-  Spot: 3
-  Camouflage: 3
-  Agility: 8
-  Armor: 20
-  Psy Defense: 20
-  Rank: 93
+  Movement Type: space
+  Move Points: 11
+  Spot: 12
+  Camouflage: 2
+  Agility: 7
+  Armor: 34
+  Psy Defense: 34
+  Rank: 829
 Attacks:
-  Ranged Space: 10/22
-  Indirect: 10/22
-  Direct: 8/18
-  Close: 5/15
-Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 87
+  Ranged Space: 3/47
+  Direct Space: 5/29
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 523
+Build Cost: 5231
 Build Resource Requirements:
   Food: 1
-  Energy: 28
-  Metal: 51
-  Trace: 6
+  Energy: 22
+  Metal: 16
+  Trace: 2
   Exotica: 1
-  Chemicals: 51
-  Electronics: 5
-Build PTS Tank III in Factory
-Time to Build / Upgrade: 3
-[10755] Technologies Required to Build Unit (84):
-  [1700] Main Battle Tank (88)
-  [1950] PTS Missile Launcher (88)
-  [7105] Hypercruise Missiles (77)
+  Chemicals: 36
+  Biochems: 26
+  Electronics: 3
+  Ceramsteel: 19
+  Monopols: 53
+Build Super Dreadstar in Starport
+Time to Build / Upgrade: 4
+[16530] Technology Required to Build Unit (80):
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: PTS Laser Cannon
-Nick Name: PTS Laser
+Name: Jump Super Dreadstar
+Nick Name: JJ-BSD
 Scores & Strengths:
-  Tech Score: 2044
-  Unit Score: 2043
-  Average Score: 2044
-  Stat Strength: 1422
-  Total Strength: 2043
-  Planet Strength: 1753
-  Space Strength: 1712
-  Garrison Strength: 619
+  Tech Score: 4184
+  Unit Score: 4202
+  Average Score: 4193
+  Stat Strength: 3768
+  Total Strength: 4202
+  Planet Strength: 0
+  Space Strength: 4202
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 8
-  Spot: 10
+  Movement Type: jump
+  Move Points: 13
+  Spot: 13
   Camouflage: 2
-  Agility: 2
-  Armor: 25
-  Psy Defense: 25
-  Rank: 98
+  Agility: 8
+  Armor: 41
+  Psy Defense: 41
+  Rank: 874
 Attacks:
-  Ranged Space: 10/29
-  Air: 9/15
-  Direct: 14/14
-Load aboard transport: YES
-Upkeep / Maintenance: 114
-Build Cost: 1143
+  Ranged Space: 4/56
+  Direct Space: 6/35
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 851
+Build Cost: 8506
 Build Resource Requirements:
-  Food: 2
-  Energy: 15
-  Metal: 12
-  Trace: 9
-  Exotica: 2
-  Chemicals: 25
-  Electronics: 16
-  Ceramsteel: 18
-  Monopols: 51
-Build PTS Laser Cannon in Factory
+  Food: 1
+  Energy: 18
+  Metal: 16
+  Trace: 2
+  Exotica: 1
+  Chemicals: 31
+  Biochems: 22
+  Electronics: 3
+  Ceramsteel: 19
+  Monopols: 53
+S  ingularities: 4
+Build Jump Super Dreadstar in Starport
 Time to Build / Upgrade: 4
-[10295] Technology Required to Build Unit (76):
-  [10295] PTS Fusion Cannon (76)
+[36320] Technologies Required to Build Unit (72):
+  [16530] Space Capital Ships (80)
+  [4285] Jump Drives (70)
+  [15505] Meson Cannon (65)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: PTS Meson Cannon
-Nick Name: PTS Meson
+Name: Jump Dreadstar
+Nick Name: JJ-BD
 Scores & Strengths:
-  Tech Score: 3737
-  Unit Score: 3737
-  Average Score: 3737
-  Stat Strength: 2590
-  Total Strength: 3737
-  Planet Strength: 3191
-  Space Strength: 3136
-  Garrison Strength: 962
+  Tech Score: 4184
+  Unit Score: 4205
+  Average Score: 4194
+  Stat Strength: 3650
+  Total Strength: 4205
+  Planet Strength: 0
+  Space Strength: 4205
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 11
-  Spot: 12
-  Camouflage: 3
-  Agility: 2
-  Armor: 34
-  Psy Defense: 34
-  Rank: 125
+  Movement Type: jump
+  Move Points: 14
+  Spot: 13
+  Camouflage: 2
+  Agility: 9
+  Armor: 40
+  Psy Defense: 40
+  Rank: 880
 Attacks:
-  Ranged Space: 14/39
-  Air: 12/20
-  Direct: 19/19
-Load aboard transport: YES
-Upkeep / Maintenance: 128
-Build Cost: 133
+  Ranged Space: 5/55
+  Direct Space: 7/40
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 875
+Build Cost: 8753
 Build Resource Requirements:
-  Chemicals: 3
-  Electronics: 4
-  Ceramsteel: 1
-Upgrade PTS Laser Cannon to PTS Meson Cannon at Factory
-Time to Build / Upgrade: 1
-[23015] Technology Required to Build Unit (70):
-  [23015] PTS Meson Cannon (70)
+  Food: 1
+  Energy: 19
+  Metal: 15
+  Trace: 2
+  Exotica: 1
+  Chemicals: 32
+  Biochems: 22
+  Electronics: 3
+  Ceramsteel: 18
+  Monopols: 54
+S  ingularities: 4
+Build Jump Dreadstar in Starport
+Time to Build / Upgrade: 4
+[36320] Technologies Required to Build Unit (72):
+  [4285] Jump Drives (70)
+  [15505] Meson Cannon (65)
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Vau PTS Weapon
-Nick Name: Atomizer
+Name: Jump (Cadiz) Dreadstar
+Nick Name: JJ-BD2
 Scores & Strengths:
-  Tech Score: 3886
-  Unit Score: 3880
-  Average Score: 3883
-  Stat Strength: 2232
-  Total Strength: 3880
-  Planet Strength: 3280
-  Space Strength: 2832
-  Garrison Strength: 876
+  Tech Score: 5828
+  Unit Score: 5418
+  Average Score: 5623
+  Stat Strength: 4629
+  Total Strength: 5418
+  Planet Strength: 0
+  Space Strength: 5418
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 14
-  Spot: 10
-  Camouflage: 6
-  Agility: 10
-  Armor: 30
-  Psy Defense: 30
-  Rank: 164
+  Movement Type: jump
+  Move Points: 13
+  Spot: 14
+  Camouflage: 4
+  Agility: 4
+  Armor: 46
+  Psy Defense: 46
+  Rank: 886
 Attacks:
-  Ranged Space: 20/30
-  Air: 16/28
-  Indirect: 20/30
-Load aboard transport: YES
-Upkeep / Maintenance: 161
-Build Cost: 1606
+  Ranged Space: 10/36
+  Direct Space: 11/28
+  Closed Space: 11/11
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 795
+Build Cost: 7949
 Build Resource Requirements:
   Food: 1
-  Energy: 15
-  Metal: 5
-  Trace: 4
+  Energy: 6
+  Metal: 9
+  Trace: 2
   Exotica: 1
-  Chemicals: 27
-  Biochems: 26
-  Electronics: 10
-  Ceramsteel: 10
-  Wetware: 8
-  Monopols: 45
-Build Vau PTS Weapon in Vau City
-Time to Build / Upgrade: 4
-[24245] Technology Required to Build Unit (50):
-  [24245] Vau Psychology (50)
+  Chemicals: 14
+  Biochems: 11
+  Electronics: 9
+  Ceramsteel: 15
+  Monopols: 28
+S  ingularities: 4
+Build Jump (Cadiz) Dreadstar in Starport
+Time to Build / Upgrade: 3
+[65575] Technologies Required to Build Unit (58):
+  [26210] PTS Beam Cannon (54)
+  [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Discontinuity Cannon
-Nick Name: PTS Beam
+Name: Gate Dreadstar
+Nick Name: JJ-BD
 Scores & Strengths:
-  Tech Score: 4120
-  Unit Score: 3975
-  Average Score: 4047
-  Stat Strength: 2728
-  Total Strength: 3975
-  Planet Strength: 3401
-  Space Strength: 3302
-  Garrison Strength: 1025
+  Tech Score: 7734
+  Unit Score: 7520
+  Average Score: 7627
+  Stat Strength: 5832
+  Total Strength: 7520
+  Planet Strength: 6621
+  Space Strength: 6731
+  Garrison Strength: 1769
 Statistics:
-  Movement Type: tread
-  Move Points: 11
-  Spot: 12
-  Camouflage: 3
-  Agility: 2
-  Armor: 35
-  Psy Defense: 35
-  Rank: 130
+  Movement Type: gate
+  Move Points: 14
+  Spot: 14
+  Camouflage: 4
+  Agility: 4
+  Armor: 52
+  Psy Defense: 52
+  Rank: 889
 Attacks:
-  Ranged Space: 14/41
-  Air: 13/21
-  Direct: 20/20
-Load aboard transport: YES
-Upkeep / Maintenance: 132
-Build Cost: 179
+  Ranged Space: 11/37
+  Direct Space: 12/29
+  Closed Space: 12/12
+  Air: 11/28
+  Indirect: 10/36
+  Direct: 11/11
+Officer - Provides stack combat bonuses
+Immune to Plague
+Upkeep / Maintenance: 1181
+Build Cost: 11811
 Build Resource Requirements:
-  Chemicals: 3
-  Electronics: 4
-Upgrade PTS Laser Cannon to Discontinuity Cannon at Factory
-Time to Build / Upgrade: 1
-[26210] Technology Required to Build Unit (54):
-  [26210] PTS Beam Cannon (54)
+  Energy: 14
+  Metal: 11
+  Trace: 2
+  Chemicals: 25
+  Biochems: 24
+  Electronics: 8
+  Ceramsteel: 19
+  Wetware: 4
+  Monopols: 49
+S  ingularities: 4
+Build Gate Dreadstar in Starport
+Time to Build / Upgrade: 4
+[60695] Technology Required to Build Unit (53):
+  [60695] Gate Capital Ships (53)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Omicron Ray
-Nick Name: Omicron Ray
+Name: Cloaking Cadiz Dreadstar
+Nick Name: JJ-CCD
 Scores & Strengths:
-  Tech Score: 5202
-  Unit Score: 5201
-  Average Score: 5201
-  Stat Strength: 3650
-  Total Strength: 5201
-  Planet Strength: 4201
-  Space Strength: 4650
-  Garrison Strength: 1212
+  Tech Score: 8498
+  Unit Score: 8507
+  Average Score: 8502
+  Stat Strength: 6791
+  Total Strength: 8507
+  Planet Strength: 0
+  Space Strength: 8507
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 12
+  Movement Type: jump
+  Move Points: 15
   Spot: 16
-  Camouflage: 5
-  Agility: 5
-  Armor: 40
-  Psy Defense: 40
-  Rank: 162
+  Camouflage: 44
+  Agility: 18
+  Armor: 45
+  Psy Defense: 45
+  Rank: 262
 Attacks:
-  Ranged Space: 20/50
-  Air: 25/11
-  Indirect: 12/23
+  Ranged Space: 12/46
+  Direct Space: 18/34
+  Closed Space: 24/23
 Load aboard transport: YES
-Upkeep / Maintenance: 154
-Build Cost: 1542
+Immune to Plague
+Upkeep / Maintenance: 744
+Build Cost: 7438
 Build Resource Requirements:
-  Food: 1
-  Energy: 10
-  Metal: 7
-  Trace: 4
+  Energy: 8
+  Metal: 6
+  Trace: 7
   Exotica: 1
-  Chemicals: 21
-  Biochems: 21
-  Electronics: 12
-  Ceramsteel: 13
-  Wetware: 8
-  Monopols: 36
-Build Omicron Ray in Factory
+  Chemicals: 14
+  Biochems: 19
+  Electronics: 17
+  Ceramsteel: 10
+  Wetware: 4
+  Monopols: 25
+S  ingularities: 4
+Build Cloaking Cadiz Dreadstar in Starport
 Time to Build / Upgrade: 4
-[49605] Technologies Required to Build Unit (46):
-  [23395] Advanced Hovertech (37)
-  [26210] PTS Beam Cannon (54)
+[98845] Technologies Required to Build Unit (63):
+  [59480] Cloaked Capital Ships (64)
+  [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

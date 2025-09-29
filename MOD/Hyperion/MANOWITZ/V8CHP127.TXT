@@ -1,185 +1,314 @@
-All units of the unit class Reconnaissance Autogyro are listed herein (4 in total):
+All units of the unit class Guided Bomb are listed herein (7 in total):
 
 --1--
-Name: Reconnaissance Autogyro
-Nick Name: R-AutoGyro
+Name: Guided Bomb
+Nick Name: Guided Bomb
 Scores & Strengths:
-  Tech Score: 493
-  Unit Score: 490
-  Average Score: 491
-  Stat Strength: 490
-  Total Strength: 490
-  Planet Strength: 490
+  Tech Score: 458
+  Unit Score: 458
+  Average Score: 458
+  Stat Strength: 363
+  Total Strength: 458
+  Planet Strength: 458
   Space Strength: 0
-  Garrison Strength: 173
+  Garrison Strength: 458
 Statistics:
   Movement Type: air
-  Move Points: 8
-  Spot: 8
-  Camouflage: 3
-  Agility: 15
-  Armor: 8
-  Psy Defense: 8
-  Rank: 80
+  Move Points: 1
+  Spot: 0
+  Camouflage: 6
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 54
+Attacks:
+  Indirect: 5/19
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 7
-Build Cost: 70
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
 Build Resource Requirements:
-  Food: 10
-  Energy: 11
-  Metal: 62
-  Trace: 14
-  Exotica: 9
-  Chemicals: 11
-  Electronics: 11
-Build Reconnaissance Autogyro in Factory
+  Food: 7
+  Energy: 34
+  Metal: 1
+  Trace: 18
+  Exotica: 7
+  Chemicals: 34
+  Electronics: 10
+Build Guided Bomb in Chemical Plant
 Time to Build / Upgrade: 2
-[1885] Technologies Required to Build Unit (87):
-  [485] Electromagnetic Servo (86)
+[1645] Technologies Required to Build Unit (90):
+  [245] Rotary Engine (92)
   [1400] Aerial Warfare (87)
-Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Attack Autogyro
-Nick Name: At-Autogyro
+Name: Glide Bomb
+Nick Name: Glide Bomb
 Scores & Strengths:
-  Tech Score: 493
+  Tech Score: 492
   Unit Score: 492
   Average Score: 492
-  Stat Strength: 413
+  Stat Strength: 316
   Total Strength: 492
   Planet Strength: 492
   Space Strength: 0
-  Garrison Strength: 185
+  Garrison Strength: 284
 Statistics:
   Movement Type: air
-  Move Points: 7
-  Spot: 6
-  Camouflage: 2
-  Agility: 14
-  Armor: 8
-  Psy Defense: 8
-  Rank: 112
+  Move Points: 3
+  Spot: 0
+  Camouflage: 4
+  Agility: 17
+  Armor: 1
+  Psy Defense: 1
+  Rank: 60
 Attacks:
-  Air: 5/7
-  Indirect: 5/4
-  Direct: 3/4
-  Close: 3/4
+  Indirect: 8/22
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 7
-Build Cost: 73
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 8
 Build Resource Requirements:
-  Food: 7
-  Energy: 15
-  Metal: 62
-  Trace: 16
-  Exotica: 7
-  Chemicals: 15
-  Electronics: 11
-Build Attack Autogyro in Factory
+  Food: 4
+  Energy: 27
+  Metal: 1
+  Trace: 13
+  Exotica: 4
+  Chemicals: 27
+  Electronics: 5
+Build Glide Bomb in Chemical Plant
 Time to Build / Upgrade: 2
-[1885] Technologies Required to Build Unit (87):
-  [485] Electromagnetic Servo (86)
+[2940] Technologies Required to Build Unit (88):
+  [1540] High-Speed Aerodynamics (89)
   [1400] Aerial Warfare (87)
-Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Assault Autogyro
-Nick Name: As-Autogyro
+Name: Flying Bomb
+Nick Name: Flying Bomb
 Scores & Strengths:
-  Tech Score: 493
-  Unit Score: 492
-  Average Score: 492
-  Stat Strength: 400
-  Total Strength: 492
-  Planet Strength: 492
+  Tech Score: 534
+  Unit Score: 534
+  Average Score: 534
+  Stat Strength: 334
+  Total Strength: 534
+  Planet Strength: 534
   Space Strength: 0
-  Garrison Strength: 200
+  Garrison Strength: 218
 Statistics:
   Movement Type: air
   Move Points: 6
-  Spot: 6
-  Camouflage: 2
+  Spot: 0
+  Camouflage: 10
   Agility: 14
-  Armor: 8
-  Psy Defense: 8
-  Rank: 117
+  Armor: 1
+  Psy Defense: 1
+  Rank: 63
 Attacks:
-  Indirect: 6/6
-  Direct: 6/6
-  Close: 4/5
+  Indirect: 8/25
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 7
-Build Cost: 73
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 13
 Build Resource Requirements:
-  Food: 7
-  Energy: 15
-  Metal: 62
-  Trace: 18
-  Exotica: 7
-  Chemicals: 15
-  Electronics: 11
-Build Assault Autogyro in Factory
+  Food: 5
+  Energy: 41
+  Metal: 1
+  Trace: 21
+  Exotica: 5
+  Chemicals: 44
+  Electronics: 10
+Build Flying Bomb in Chemical Plant
 Time to Build / Upgrade: 2
-[1885] Technologies Required to Build Unit (87):
-  [485] Electromagnetic Servo (86)
+[2100] Technologies Required to Build Unit (89):
+  [700] Rockets (90)
   [1400] Aerial Warfare (87)
-Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Patrol Autogyro
-Nick Name: P-Autogyro
+Name: Human-Guided Bomb
+Nick Name: HG Bomb
 Scores & Strengths:
-  Tech Score: 493
-  Unit Score: 492
-  Average Score: 492
-  Stat Strength: 389
-  Total Strength: 492
-  Planet Strength: 492
+  Tech Score: 534
+  Unit Score: 535
+  Average Score: 535
+  Stat Strength: 339
+  Total Strength: 535
+  Planet Strength: 535
   Space Strength: 0
-  Garrison Strength: 220
+  Garrison Strength: 189
 Statistics:
   Movement Type: air
-  Move Points: 5
+  Move Points: 8
   Spot: 6
-  Camouflage: 2
+  Camouflage: 5
   Agility: 14
-  Armor: 8
-  Psy Defense: 8
-  Rank: 145
+  Armor: 3
+  Psy Defense: 3
+  Rank: 58
 Attacks:
-  Air: 7/7
-  Indirect: 6/9
+  Indirect: 14/14
 Load aboard transport: YES
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 7
-Build Cost: 74
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
 Build Resource Requirements:
-  Food: 7
-  Energy: 16
-  Metal: 62
-  Trace: 17
-  Exotica: 6
-  Chemicals: 16
-  Electronics: 11
-Build Patrol Autogyro in Factory
-Time to Build / Upgrade: 2
-[1885] Technologies Required to Build Unit (87):
-  [485] Electromagnetic Servo (86)
+  Metal: 4
+  Trace: 28
+  Exotica: 7
+  Chemicals: 21
+  Electronics: 7
+Upgrade Peasant to Human-Guided Bomb at Chemical Plant
+Time to Build / Upgrade: 1
+[2100] Technologies Required to Build Unit (89):
+  [700] Rockets (90)
   [1400] Aerial Warfare (87)
-Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Guided Glide Bomb
+Nick Name: GG Bomb
+Scores & Strengths:
+  Tech Score: 701
+  Unit Score: 703
+  Average Score: 702
+  Stat Strength: 358
+  Total Strength: 703
+  Planet Strength: 703
+  Space Strength: 0
+  Garrison Strength: 351
+Statistics:
+  Movement Type: air
+  Move Points: 4
+  Spot: 0
+  Camouflage: 4
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 70
+Attacks:
+  Indirect: 15/23
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 8
+Build Resource Requirements:
+  Food: 3
+  Energy: 23
+  Trace: 17
+  Exotica: 3
+  Chemicals: 23
+  Electronics: 5
+Build Guided Glide Bomb in Chemical Plant
+Time to Build / Upgrade: 2
+[4135] Technologies Required to Build Unit (89):
+  [1540] High-Speed Aerodynamics (89)
+  [1195] Naval Warfare (90)
+  [1400] Aerial Warfare (87)
+Unit can be disbanded: YES
+
+--6--
+Name: Flying Bomb II
+Nick Name: Flying Bomb II
+Scores & Strengths:
+  Tech Score: 756
+  Unit Score: 758
+  Average Score: 757
+  Stat Strength: 398
+  Total Strength: 758
+  Planet Strength: 758
+  Space Strength: 0
+  Garrison Strength: 239
+Statistics:
+  Movement Type: air
+  Move Points: 10
+  Spot: 0
+  Camouflage: 10
+  Agility: 14
+  Armor: 1
+  Psy Defense: 1
+  Rank: 71
+Attacks:
+  Indirect: 18/20
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 9
+Build Resource Requirements:
+  Food: 4
+  Energy: 22
+  Trace: 26
+  Exotica: 4
+  Chemicals: 23
+  Electronics: 7
+Build Flying Bomb II in Chemical Plant
+Time to Build / Upgrade: 2
+[3390] Technologies Required to Build Unit (88):
+  [1195] Naval Warfare (90)
+  [1400] Aerial Warfare (87)
+  [795] Missiles (86)
+Unit can be disbanded: YES
+
+--7--
+Name: Laser-Guided Bomb
+Nick Name: LG Bomb
+Scores & Strengths:
+  Tech Score: 1248
+  Unit Score: 1244
+  Average Score: 1246
+  Stat Strength: 344
+  Total Strength: 1244
+  Planet Strength: 1244
+  Space Strength: 0
+  Garrison Strength: 879
+Statistics:
+  Movement Type: air
+  Move Points: 2
+  Spot: 0
+  Camouflage: 7
+  Agility: 17
+  Armor: 1
+  Psy Defense: 1
+  Rank: 97
+Attacks:
+  Indirect: 30/30
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
+Build Resource Requirements:
+  Food: 2
+  Energy: 30
+  Trace: 30
+  Exotica: 2
+  Chemicals: 30
+  Biochems: 2
+  Electronics: 5
+Build Laser-Guided Bomb in Chemical Plant
+Time to Build / Upgrade: 2
+[6435] Technologies Required to Build Unit (83):
+  [1900] LASER (76)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2725] Naval Capital Ships (88)
 Unit can be disbanded: YES

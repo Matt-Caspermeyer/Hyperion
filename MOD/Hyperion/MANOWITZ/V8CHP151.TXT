@@ -1,477 +1,281 @@
-All units of the unit class Pathfinder are listed herein (11 in total):
+All units of the unit class Fighter Divebomber are listed herein (6 in total):
 
 --1--
-Name: Pathfinder
-Nick Name: Pathfinder
+Name: Fighter Divebomber
+Nick Name: A-FDB
 Scores & Strengths:
-  Tech Score: 763
-  Unit Score: 763
-  Average Score: 763
-  Stat Strength: 656
-  Total Strength: 763
-  Planet Strength: 763
-  Space Strength: 721
-  Garrison Strength: 220
+  Tech Score: 498
+  Unit Score: 745
+  Average Score: 621
+  Stat Strength: 555
+  Total Strength: 745
+  Planet Strength: 745
+  Space Strength: 0
+  Garrison Strength: 235
 Statistics:
-  Movement Type: foot
-  Move Points: 12
-  Spot: 12
-  Camouflage: 12
-  Agility: 12
-  Armor: 4
-  Psy Defense: 8
-  Rank: 8
+  Movement Type: air
+  Move Points: 10
+  Spot: 8
+  Camouflage: 2
+  Agility: 15
+  Armor: 9
+  Psy Defense: 9
+  Rank: 156
 Attacks:
-  Psychic: 13/5
-  Close: 6/7
+  Air: 4/10
+  Indirect: 15/10
 Load aboard transport: YES
-Upkeep / Maintenance: 26
-Build Cost: 247
+Upkeep / Maintenance: 11
+Build Cost: 111
 Build Resource Requirements:
-  Metal: 2
-  Trace: 13
-  Exotica: 13
-  Chemicals: 17
-  Biochems: 34
-  Electronics: 25
-  Gems: 12
-Upgrade Peasant to Pathfinder at Fort
-Time to Build / Upgrade: 2
-[2875] Technologies Required to Build Unit (89):
-  [2605] Biotechnical Simulation (77)
-  [145] Composite Armor (97)
-  [125] Parapsychology (94)
+  Food: 13
+  Energy: 27
+  Metal: 78
+  Trace: 42
+  Exotica: 12
+  Chemicals: 28
+  Electronics: 10
+Build Fighter Divebomber in Factory
+Time to Build / Upgrade: 3
+[1675] Technologies Required to Build Unit (86):
+  [275] Artifical Line of Sight (84)
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Vislock
-Nick Name: Vislock
+Name: Divebomber
+Nick Name: Wailer
 Scores & Strengths:
-  Tech Score: 966
-  Unit Score: 963
-  Average Score: 965
-  Stat Strength: 657
-  Total Strength: 963
-  Planet Strength: 963
-  Space Strength: 963
-  Garrison Strength: 321
+  Tech Score: 498
+  Unit Score: 746
+  Average Score: 622
+  Stat Strength: 538
+  Total Strength: 746
+  Planet Strength: 746
+  Space Strength: 0
+  Garrison Strength: 224
 Statistics:
-  Movement Type: foot
-  Move Points: 9
-  Spot: 9
-  Camouflage: 9
-  Agility: 17
-  Armor: 5
+  Movement Type: air
+  Move Points: 11
+  Spot: 8
+  Camouflage: 3
+  Agility: 12
+  Armor: 10
   Psy Defense: 10
-  Rank: 10
+  Rank: 159
 Attacks:
-  Psychic: 18/17
+  Air: 2/8
+  Indirect: 16/12
 Load aboard transport: YES
-Upkeep / Maintenance: 44
-Build Cost: 368
+Upkeep / Maintenance: 11
+Build Cost: 113
 Build Resource Requirements:
-  Food: 22
-  Energy: 13
-  Metal: 13
-  Trace: 45
-  Exotica: 38
-  Chemicals: 39
-  Electronics: 64
-  Gems: 15
-Upgrade Clergy to Vislock at Church
-Time to Build / Upgrade: 3
-[3790] Technology Required to Build Unit (32):
-  [3790] Vislocks (32)
+  Food: 12
+  Energy: 26
+  Metal: 96
+  Trace: 42
+  Exotica: 11
+  Chemicals: 27
+  Electronics: 8
+Build Divebomber in Factory
+Time to Build / Upgrade: 4
+[1675] Technologies Required to Build Unit (86):
+  [275] Artifical Line of Sight (84)
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Occultist
-Nick Name: Occultist
+Name: Power Divebomber
+Nick Name: Banshee
 Scores & Strengths:
-  Tech Score: 1015
-  Unit Score: 1014
-  Average Score: 1015
-  Stat Strength: 714
-  Total Strength: 1014
-  Planet Strength: 1014
-  Space Strength: 1014
-  Garrison Strength: 320
+  Tech Score: 2770
+  Unit Score: 3504
+  Average Score: 3137
+  Stat Strength: 2345
+  Total Strength: 3504
+  Planet Strength: 3504
+  Space Strength: 0
+  Garrison Strength: 687
 Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 10
-  Camouflage: 10
-  Agility: 17
-  Armor: 5
-  Psy Defense: 10
-  Rank: 10
+  Movement Type: air
+  Move Points: 26
+  Spot: 12
+  Camouflage: 7
+  Agility: 18
+  Armor: 24
+  Psy Defense: 24
+  Rank: 222
 Attacks:
-  Psychic: 20/15
+  Air: 5/19
+  Indirect: 38/28
 Load aboard transport: YES
-Upkeep / Maintenance: 41
-Build Cost: 335
+Upkeep / Maintenance: 117
+Build Cost: 1165
 Build Resource Requirements:
-  Food: 26
+  Food: 5
   Energy: 16
-  Metal: 13
-  Trace: 51
-  Exotica: 44
-  Chemicals: 42
-  Electronics: 72
-  Gems: 10
-Upgrade Clergy to Occultist at Church
-Time to Build / Upgrade: 3
-[4050] Technology Required to Build Unit (48):
-  [4050] Occultists (48)
+  Metal: 5
+  Trace: 33
+  Exotica: 5
+  Chemicals: 29
+  Electronics: 14
+  Ceramsteel: 13
+  Monopols: 41
+Build Power Divebomber in Factory
+Time to Build / Upgrade: 4
+[15440] Technology Required to Build Unit (79):
+  [15440] Power Aircraft (79)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Reflector
-Nick Name: Reflector
+Name: 3rd-Republic Hyper Bomber
+Nick Name: Salvonator
 Scores & Strengths:
-  Tech Score: 1186
-  Unit Score: 1184
-  Average Score: 1185
-  Stat Strength: 832
-  Total Strength: 1184
-  Planet Strength: 1184
-  Space Strength: 1184
-  Garrison Strength: 356
+  Tech Score: 4822
+  Unit Score: 4355
+  Average Score: 4589
+  Stat Strength: 2313
+  Total Strength: 4355
+  Planet Strength: 4355
+  Space Strength: 0
+  Garrison Strength: 697
 Statistics:
-  Movement Type: foot
-  Move Points: 11
-  Spot: 11
-  Camouflage: 11
-  Agility: 17
-  Armor: 6
-  Psy Defense: 12
-  Rank: 12
+  Movement Type: air
+  Move Points: 39
+  Spot: 10
+  Camouflage: 6
+  Agility: 12
+  Armor: 16
+  Psy Defense: 16
+  Rank: 261
 Attacks:
-  Psychic: 22/16
+  Air: 11/22
+  Indirect: 30/60
 Load aboard transport: YES
-Upkeep / Maintenance: 44
-Build Cost: 368
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 144
+Build Cost: 1437
 Build Resource Requirements:
-  Food: 31
-  Energy: 18
-  Metal: 20
-  Trace: 57
-  Exotica: 51
-  Chemicals: 45
-  Electronics: 81
-  Gems: 10
-Upgrade Clergy to Reflector at Church
+  Food: 3
+  Energy: 24
+  Metal: 1
+  Trace: 4
+  Exotica: 3
+  Chemicals: 30
+  Biochems: 18
+  Electronics: 3
+  Ceramsteel: 2
+  Wetware: 2
+  Monopols: 41
+Build 3rd-Republic Hyper Bomber in Factory
 Time to Build / Upgrade: 3
-[4980] Technology Required to Build Unit (41):
-  [4980] Psychic Turners (41)
+[42395] Technologies Required to Build Unit (63):
+  [26955] Rocket Legion (46)
+  [15440] Power Aircraft (79)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Pyrokinetic
-Nick Name: Pyrokinetic
+Name: Morph Divebomber
+Nick Name: Bansheewolf
 Scores & Strengths:
-  Tech Score: 1186
-  Unit Score: 1186
-  Average Score: 1186
-  Stat Strength: 749
-  Total Strength: 1186
-  Planet Strength: 1186
-  Space Strength: 1186
-  Garrison Strength: 375
+  Tech Score: 8399
+  Unit Score: 8183
+  Average Score: 8291
+  Stat Strength: 6407
+  Total Strength: 8183
+  Planet Strength: 8183
+  Space Strength: 0
+  Garrison Strength: 1219
 Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 10
-  Camouflage: 10
-  Agility: 18
-  Armor: 5
-  Psy Defense: 10
-  Rank: 12
+  Movement Type: air
+  Move Points: 45
+  Spot: 26
+  Camouflage: 15
+  Agility: 41
+  Armor: 30
+  Psy Defense: 30
+  Rank: 283
 Attacks:
-  Psychic: 23/19
+  Air: 15/26
+  Indirect: 42/33
 Load aboard transport: YES
-Upkeep / Maintenance: 50
-Build Cost: 425
+Upkeep / Maintenance: 119
+Build Cost: 1185
 Build Resource Requirements:
-  Food: 29
-  Energy: 18
-  Metal: 13
-  Trace: 53
-  Exotica: 48
-  Chemicals: 45
-  Electronics: 76
-  Gems: 15
-Upgrade Clergy to Pyrokinetic at Church
+  Food: 3
+  Energy: 9
+  Metal: 2
+  Trace: 7
+  Exotica: 3
+  Chemicals: 12
+  Biochems: 17
+  Electronics: 8
+  Ceramsteel: 4
+  Wetware: 5
+  Monopols: 20
+Build Morph Divebomber in Factory
 Time to Build / Upgrade: 3
-[4980] Technology Required to Build Unit (39):
-  [4980] Pyrokinetics (39)
+[100845] Technologies Required to Build Unit (64):
+  [1785] Rotary Autocannon (90)
+  [45520] Hover Navalcraft (53)
+  [53540] Polymorphonic Patrolcraft (49)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Cryokinetic
-Nick Name: Cryokinetic
+Name: Stealth Divebomber
+Nick Name: Spirit Wolf
 Scores & Strengths:
-  Tech Score: 1186
-  Unit Score: 1189
-  Average Score: 1187
-  Stat Strength: 757
-  Total Strength: 1189
-  Planet Strength: 1189
-  Space Strength: 1189
-  Garrison Strength: 420
+  Tech Score: 8630
+  Unit Score: 8416
+  Average Score: 8523
+  Stat Strength: 6394
+  Total Strength: 8416
+  Planet Strength: 8416
+  Space Strength: 0
+  Garrison Strength: 1227
 Statistics:
-  Movement Type: foot
-  Move Points: 8
-  Spot: 10
-  Camouflage: 12
-  Agility: 18
-  Armor: 5
-  Psy Defense: 10
-  Rank: 12
+  Movement Type: air
+  Move Points: 47
+  Spot: 26
+  Camouflage: 35
+  Agility: 22
+  Armor: 30
+  Psy Defense: 30
+  Rank: 288
 Attacks:
-  Psychic: 24/18
+  Air: 17/30
+  Indirect: 42/36
 Load aboard transport: YES
-Upkeep / Maintenance: 47
-Build Cost: 401
+Upkeep / Maintenance: 112
+Build Cost: 1123
 Build Resource Requirements:
-  Food: 25
-  Energy: 14
-  Metal: 13
-  Trace: 62
-  Exotica: 42
-  Chemicals: 40
-  Electronics: 88
-  Gems: 13
-Upgrade Clergy to Cryokinetic at Church
-Time to Build / Upgrade: 3
-[4980] Technology Required to Build Unit (31):
-  [4980] Cryokinetics (31)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---7--
-Name: Wraith
-Nick Name: Wraith
-Scores & Strengths:
-  Tech Score: 1241
-  Unit Score: 1241
-  Average Score: 1241
-  Stat Strength: 1016
-  Total Strength: 1241
-  Planet Strength: 1241
-  Space Strength: 1241
-  Garrison Strength: 392
-Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 12
-  Camouflage: 16
-  Agility: 14
-  Armor: 8
-  Psy Defense: 16
-  Rank: 678
-Attacks:
-  Psychic: 15/15
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 81
-Build Cost: 732
-Build Resource Requirements:
-  Food: 24
+  Food: 2
   Energy: 9
-  Metal: 37
-  Trace: 78
-  Exotica: 41
-  Chemicals: 34
-  Electronics: 112
-  Gems: 7
-Upgrade Clergy to Wraith at Church
+  Metal: 2
+  Trace: 10
+  Exotica: 3
+  Chemicals: 12
+  Biochems: 17
+  Electronics: 13
+  Ceramsteel: 4
+  Wetware: 3
+  Monopols: 20
+Build Stealth Divebomber in Factory
 Time to Build / Upgrade: 3
-[5290] Technology Required to Build Unit (29):
-  [5290] Wraiths (29)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---8--
-Name: Electrokinetic
-Nick Name: E-Kinetic
-Scores & Strengths:
-  Tech Score: 1326
-  Unit Score: 1324
-  Average Score: 1325
-  Stat Strength: 849
-  Total Strength: 1324
-  Planet Strength: 1324
-  Space Strength: 1324
-  Garrison Strength: 399
-Statistics:
-  Movement Type: foot
-  Move Points: 11
-  Spot: 11
-  Camouflage: 11
-  Agility: 19
-  Armor: 5
-  Psy Defense: 10
-  Rank: 13
-Attacks:
-  Psychic: 19/25
-Load aboard transport: YES
-Upkeep / Maintenance: 50
-Build Cost: 426
-Build Resource Requirements:
-  Food: 5
-  Energy: 2
-  Metal: 12
-  Trace: 9
-  Exotica: 14
-  Chemicals: 25
-  Electronics: 26
-  Gems: 25
-Upgrade Clergy to Electrokinetic at Church
-Time to Build / Upgrade: 2
-[5780] Technology Required to Build Unit (20):
-  [5780] Electrokinetics (20)
+[102555] Technologies Required to Build Unit (59):
+  [1785] Rotary Autocannon (90)
+  [45520] Hover Navalcraft (53)
+  [55250] Neumonic Patrolcraft (34)
 Counts as planetary flock: YES
 Unit Eats: YES
-Unit can be disbanded: YES
-
---9--
-Name: Cyber Mage
-Nick Name: Cyber Mage
-Scores & Strengths:
-  Tech Score: 1819
-  Unit Score: 1820
-  Average Score: 1819
-  Stat Strength: 1199
-  Total Strength: 1820
-  Planet Strength: 1820
-  Space Strength: 1820
-  Garrison Strength: 486
-Statistics:
-  Movement Type: foot
-  Move Points: 14
-  Spot: 11
-  Camouflage: 11
-  Agility: 21
-  Armor: 8
-  Psy Defense: 16
-  Rank: 684
-Attacks:
-  Psychic: 27/23
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 110
-Build Cost: 1029
-Build Resource Requirements:
-  Metal: 8
-  Trace: 10
-  Chemicals: 25
-  Electronics: 23
-  Ceramsteel: 14
-  Gems: 30
-Upgrade Clergy to Cyber Mage at Fort
-Time to Build / Upgrade: 2
-[9215] Technologies Required to Build Unit (48):
-  [3790] Vislocks (32)
-  [5425] Cybernetics (63)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---10--
-Name: Warlock
-Nick Name: Warlock
-Scores & Strengths:
-  Tech Score: 2660
-  Unit Score: 2659
-  Average Score: 2660
-  Stat Strength: 2259
-  Total Strength: 2659
-  Planet Strength: 2659
-  Space Strength: 2659
-  Garrison Strength: 610
-Statistics:
-  Movement Type: foot
-  Move Points: 19
-  Spot: 19
-  Camouflage: 19
-  Agility: 26
-  Armor: 10
-  Psy Defense: 20
-  Rank: 693
-Attacks:
-  Psychic: 20/20
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 62
-Build Cost: 548
-Build Resource Requirements:
-  Metal: 4
-  Trace: 16
-  Chemicals: 8
-  Biochems: 41
-  Electronics: 38
-  Gems: 5
-Upgrade Clergy to Warlock at Church
-Time to Build / Upgrade: 2
-[14630] Technology Required to Build Unit (7):
-  [14630] Warlocks (7)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---11--
-Name: Mechanized Demon
-Nick Name: Mech. Demon
-Scores & Strengths:
-  Tech Score: 3924
-  Unit Score: 3596
-  Average Score: 3760
-  Stat Strength: 3029
-  Total Strength: 3596
-  Planet Strength: 3596
-  Space Strength: 3596
-  Garrison Strength: 784
-Statistics:
-  Movement Type: foot
-  Move Points: 21
-  Spot: 22
-  Camouflage: 22
-  Agility: 30
-  Armor: 12
-  Psy Defense: 24
-  Rank: 704
-Attacks:
-  Psychic: 21/27
-Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 123
-Build Cost: 1158
-Build Resource Requirements:
-  Metal: 1
-  Trace: 9
-  Chemicals: 10
-  Biochems: 16
-  Electronics: 20
-  Ceramsteel: 4
-  Monopols: 14
-  Gems: 7
-Upgrade Clergy to Mechanized Demon at Church
-Time to Build / Upgrade: 2
-[24560] Technology Required to Build Unit (3):
-  [24560] Mechanized Demons (3)
-Counts as planetary flock: YES
 Unit can be disbanded: YES

@@ -1,456 +1,393 @@
-All units of the unit class Trans-Orbital Shuttle are listed herein (10 in total):
+All units of the unit class Torpedo Bomber Aircraft are listed herein (9 in total):
 
 --1--
-Name: Trans-Orbital Shuttle
-Nick Name: SS-TOS
+Name: Torpedo Bomber Aircraft
+Nick Name: A-ATB
 Scores & Strengths:
-  Tech Score: 670
+  Tech Score: 671
   Unit Score: 670
   Average Score: 670
-  Stat Strength: 670
+  Stat Strength: 485
   Total Strength: 670
-  Planet Strength: 0
+  Planet Strength: 670
   Space Strength: 0
-  Garrison Strength: 0
+  Garrison Strength: 185
 Statistics:
-  Movement Type: space
-  Move Points: 2
-  Spot: 12
-  Camouflage: 6
-  Agility: 6
-  Armor: 15
-  Psy Defense: 15
-  Rank: 77
-Cargo Space: 2
-Immune to Plague
-Upkeep / Maintenance: 22
-Build Cost: 221
+  Movement Type: air
+  Move Points: 13
+  Spot: 6
+  Camouflage: 4
+  Agility: 8
+  Armor: 10
+  Psy Defense: 10
+  Rank: 113
+Attacks:
+  Water: 4/20
+  Air: 8/2
+  Indirect: 4/20
+  Direct: 3/3
+Load aboard transport: YES
+Upkeep / Maintenance: 8
+Build Cost: 80
 Build Resource Requirements:
-  Food: 5
-  Energy: 2
-  Metal: 170
+  Food: 6
+  Energy: 44
+  Metal: 28
   Trace: 11
-  Exotica: 5
-  Chemicals: 2
-  Electronics: 10
-Build Trans-Orbital Shuttle in Starport
+  Exotica: 6
+  Chemicals: 44
+  Electronics: 8
+Build Torpedo Bomber Aircraft in Factory
 Time to Build / Upgrade: 3
-[2705] Technologies Required to Build Unit (88):
-  [895] Space Rocketry (90)
-  [1810] Jet-Propulsion Aircraft (86)
+[2595] Technologies Required to Build Unit (89):
+  [1195] Naval Warfare (90)
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Space Cargo Shuttle
-Nick Name: SS-CS
+Name: Heavy Bomber
+Nick Name: A-BH
 Scores & Strengths:
-  Tech Score: 690
-  Unit Score: 690
-  Average Score: 690
-  Stat Strength: 680
-  Total Strength: 690
-  Planet Strength: 0
-  Space Strength: 690
-  Garrison Strength: 0
+  Tech Score: 458
+  Unit Score: 686
+  Average Score: 572
+  Stat Strength: 574
+  Total Strength: 686
+  Planet Strength: 686
+  Space Strength: 0
+  Garrison Strength: 190
 Statistics:
-  Movement Type: space
-  Move Points: 20
-  Spot: 10
-  Camouflage: 4
-  Agility: 6
-  Armor: 8
-  Psy Defense: 8
-  Rank: 67
+  Movement Type: air
+  Move Points: 13
+  Spot: 8
+  Camouflage: 2
+  Agility: 7
+  Armor: 12
+  Psy Defense: 12
+  Rank: 149
 Attacks:
-  Closed Space: 2/5
-Cargo Space: 1
-Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 177
+  Air: 7/8
+  Indirect: 4/14
+Load aboard transport: YES
+Upkeep / Maintenance: 14
+Build Cost: 144
 Build Resource Requirements:
-  Food: 14
-  Energy: 18
-  Metal: 34
-  Trace: 7
-  Exotica: 14
-  Chemicals: 31
-  Electronics: 6
-Build Space Cargo Shuttle in Starport
-Time to Build / Upgrade: 2
-[2910] Technologies Required to Build Unit (91):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [1970] Cargo Handling (87)
+  Food: 11
+  Energy: 33
+  Metal: 198
+  Trace: 21
+  Exotica: 11
+  Chemicals: 33
+  Electronics: 10
+Build Heavy Bomber in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Transporter
-Nick Name: JJ-TT
+Name: Heavy Fighter
+Nick Name: A-FH
 Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 775
-  Average Score: 775
-  Stat Strength: 763
-  Total Strength: 775
-  Planet Strength: 0
-  Space Strength: 775
-  Garrison Strength: 0
+  Tech Score: 458
+  Unit Score: 686
+  Average Score: 572
+  Stat Strength: 554
+  Total Strength: 686
+  Planet Strength: 686
+  Space Strength: 0
+  Garrison Strength: 198
 Statistics:
-  Movement Type: jump
-  Move Points: 3
-  Spot: 12
-  Camouflage: 7
-  Agility: 7
-  Armor: 16
-  Psy Defense: 16
-  Rank: 103
+  Movement Type: air
+  Move Points: 12
+  Spot: 8
+  Camouflage: 2
+  Agility: 10
+  Armor: 11
+  Psy Defense: 11
+  Rank: 147
 Attacks:
-  Closed Space: 4/3
-Cargo Space: 2
-Immune to Plague
-Upkeep / Maintenance: 178
-Build Cost: 1776
+  Air: 11/7
+  Indirect: 5/11
+Load aboard transport: YES
+Upkeep / Maintenance: 14
+Build Cost: 137
 Build Resource Requirements:
-  Food: 5
-  Energy: 3
-  Metal: 150
-  Trace: 12
-  Exotica: 5
-  Chemicals: 3
-  Electronics: 12
-  Gems: 1
-S  ingularities: 2
-Build Transporter in Starport
-Time to Build / Upgrade: 3
-[3205] Technologies Required to Build Unit (82):
-  [1235] Jump Rocketry (76)
-  [1970] Cargo Handling (87)
+  Food: 12
+  Energy: 27
+  Metal: 166
+  Trace: 32
+  Exotica: 11
+  Chemicals: 27
+  Electronics: 15
+Build Heavy Fighter in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Space Transport
-Nick Name: SS-X
+Name: Light Fighter
+Nick Name: A-FL
 Scores & Strengths:
-  Tech Score: 2354
-  Unit Score: 2354
-  Average Score: 2354
-  Stat Strength: 2282
-  Total Strength: 2354
-  Planet Strength: 0
-  Space Strength: 2354
-  Garrison Strength: 0
+  Tech Score: 458
+  Unit Score: 686
+  Average Score: 572
+  Stat Strength: 536
+  Total Strength: 686
+  Planet Strength: 686
+  Space Strength: 0
+  Garrison Strength: 183
 Statistics:
-  Movement Type: space
+  Movement Type: air
   Move Points: 14
-  Spot: 12
+  Spot: 8
   Camouflage: 2
-  Agility: 4
-  Armor: 31
-  Psy Defense: 31
-  Rank: 104
+  Agility: 12
+  Armor: 8
+  Psy Defense: 8
+  Rank: 148
 Attacks:
-  Closed Space: 8/9
-Cargo Space: 3
-Immune to Plague
-Upkeep / Maintenance: 24
-Build Cost: 239
+  Air: 13/6
+  Indirect: 9/8
+Load aboard transport: YES
+Upkeep / Maintenance: 12
+Build Cost: 123
 Build Resource Requirements:
-  Food: 2
-  Energy: 4
-  Metal: 28
-  Trace: 3
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 3
-  Electronics: 5
-  Ceramsteel: 31
-Build Space Transport in Starport
-Time to Build / Upgrade: 3
-[12425] Technology Required to Build Unit (86):
-  [12425] Space Warfare (86)
+  Food: 14
+  Energy: 27
+  Metal: 88
+  Trace: 45
+  Exotica: 14
+  Chemicals: 27
+  Electronics: 19
+Build Light Fighter in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Space Transport Carrier
-Nick Name: SS-CVX
+Name: Fighter Bomber
+Nick Name: A-BF
 Scores & Strengths:
-  Tech Score: 2916
-  Unit Score: 2916
-  Average Score: 2916
-  Stat Strength: 2798
-  Total Strength: 2916
-  Planet Strength: 0
-  Space Strength: 2916
-  Garrison Strength: 0
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 533
+  Total Strength: 687
+  Planet Strength: 687
+  Space Strength: 0
+  Garrison Strength: 198
 Statistics:
-  Movement Type: space
-  Move Points: 10
-  Spot: 12
+  Movement Type: air
+  Move Points: 12
+  Spot: 8
   Camouflage: 2
-  Agility: 10
-  Armor: 35
-  Psy Defense: 35
-  Rank: 851
+  Agility: 11
+  Armor: 10
+  Psy Defense: 10
+  Rank: 148
 Attacks:
-  Direct Space: 8/8
-  Closed Space: 9/6
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 389
-Build Cost: 3892
+  Air: 8/11
+  Indirect: 6/11
+Load aboard transport: YES
+Upkeep / Maintenance: 13
+Build Cost: 129
 Build Resource Requirements:
-  Food: 1
-  Energy: 2
-  Metal: 17
-  Trace: 4
-  Exotica: 1
-  Chemicals: 6
-  Biochems: 16
-  Electronics: 6
-  Ceramsteel: 20
-  Monopols: 23
-Build Space Transport Carrier in Starport
-Time to Build / Upgrade: 3
-[16530] Technology Required to Build Unit (80):
-  [16530] Space Capital Ships (80)
+  Food: 12
+  Energy: 33
+  Metal: 137
+  Trace: 27
+  Exotica: 11
+  Chemicals: 33
+  Electronics: 12
+Build Fighter Bomber in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Jump Transport
-Nick Name: JJ-X
+Name: Ground-Attack Fighter
+Nick Name: A-FGA
 Scores & Strengths:
-  Tech Score: 3391
-  Unit Score: 3326
-  Average Score: 3359
-  Stat Strength: 3216
-  Total Strength: 3326
-  Planet Strength: 0
-  Space Strength: 3326
-  Garrison Strength: 0
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 585
+  Total Strength: 687
+  Planet Strength: 687
+  Space Strength: 0
+  Garrison Strength: 207
 Statistics:
-  Movement Type: jump
-  Move Points: 17
-  Spot: 13
+  Movement Type: air
+  Move Points: 11
+  Spot: 8
   Camouflage: 2
-  Agility: 4
-  Armor: 37
-  Psy Defense: 37
-  Rank: 139
+  Agility: 14
+  Armor: 10
+  Psy Defense: 10
+  Rank: 115
 Attacks:
-  Closed Space: 10/11
-Cargo Space: 3
-Immune to Plague
-Upkeep / Maintenance: 548
-Build Cost: 5478
+  Air: 6/6
+  Indirect: 5/6
+  Direct: 3/6
+  Close: 6/3
+Load aboard transport: YES
+Upkeep / Maintenance: 13
+Build Cost: 126
 Build Resource Requirements:
-  Food: 1
-  Energy: 3
-  Metal: 16
-  Trace: 3
-  Exotica: 2
-  Chemicals: 7
-  Biochems: 15
-  Electronics: 4
-  Ceramsteel: 20
-  Monopols: 24
-S  ingularities: 4
-Build Jump Transport in Starport
-Time to Build / Upgrade: 3
-[20220] Technology Required to Build Unit (72):
-  [20220] Jump Transports (72)
+  Food: 13
+  Energy: 26
+  Metal: 137
+  Trace: 31
+  Exotica: 12
+  Chemicals: 26
+  Electronics: 15
+Build Ground-Attack Fighter in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Space Attack Transport
-Nick Name: SS-SAX
+Name: Light Bomber
+Nick Name: A-BL
 Scores & Strengths:
-  Tech Score: 3536
-  Unit Score: 3536
-  Average Score: 3536
-  Stat Strength: 2600
-  Total Strength: 3536
-  Planet Strength: 0
-  Space Strength: 3536
-  Garrison Strength: 0
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 558
+  Total Strength: 687
+  Planet Strength: 687
+  Space Strength: 0
+  Garrison Strength: 207
 Statistics:
-  Movement Type: space
-  Move Points: 14
-  Spot: 14
-  Camouflage: 4
-  Agility: 12
-  Armor: 32
-  Psy Defense: 32
-  Rank: 209
+  Movement Type: air
+  Move Points: 11
+  Spot: 8
+  Camouflage: 2
+  Agility: 13
+  Armor: 10
+  Psy Defense: 10
+  Rank: 150
 Attacks:
-  Direct Space: 20/24
-  Closed Space: 24/19
-Cargo Space: 3
-Immune to Plague
-Upkeep / Maintenance: 239
-Build Cost: 2392
+  Air: 13/3
+  Indirect: 9/10
+Load aboard transport: YES
+Upkeep / Maintenance: 14
+Build Cost: 136
 Build Resource Requirements:
-  Food: 2
-  Energy: 7
-  Metal: 12
-  Trace: 11
-  Exotica: 2
-  Chemicals: 13
-  Biochems: 22
-  Electronics: 19
-  Ceramsteel: 15
-  Monopols: 27
-Build Space Attack Transport in Starport
-Time to Build / Upgrade: 3
-[21375] Technology Required to Build Unit (67):
-  [21375] Lander Transports (67)
+  Food: 12
+  Energy: 24
+  Metal: 137
+  Trace: 46
+  Exotica: 12
+  Chemicals: 24
+  Electronics: 20
+Build Light Bomber in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Colony Star
-Nick Name: Colony Star
+Name: Medium Bomber
+Nick Name: A-BM
 Scores & Strengths:
-  Tech Score: 3536
-  Unit Score: 3552
-  Average Score: 3544
-  Stat Strength: 3552
-  Total Strength: 3552
-  Planet Strength: 0
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 575
+  Total Strength: 687
+  Planet Strength: 687
   Space Strength: 0
-  Garrison Strength: 0
+  Garrison Strength: 198
 Statistics:
-  Movement Type: space
-  Move Points: 16
-  Spot: 14
-  Camouflage: 3
-  Agility: 7
-  Armor: 39
-  Psy Defense: 39
-  Rank: 125
-Cargo Space: 4
-Immune to Plague
-Upkeep / Maintenance: 237
-Build Cost: 2366
+  Movement Type: air
+  Move Points: 12
+  Spot: 8
+  Camouflage: 2
+  Agility: 11
+  Armor: 11
+  Psy Defense: 11
+  Rank: 148
+Attacks:
+  Air: 7/6
+  Indirect: 10/7
+Load aboard transport: YES
+Upkeep / Maintenance: 13
+Build Cost: 130
 Build Resource Requirements:
-  Food: 2
-  Energy: 2
-  Metal: 17
-  Trace: 2
-  Exotica: 2
-  Chemicals: 6
-  Biochems: 15
-  Electronics: 3
-  Ceramsteel: 22
-  Monopols: 25
-Build Colony Star in Starport
-Time to Build / Upgrade: 3
-[21375] Technology Required to Build Unit (67):
-  [21375] Lander Transports (67)
+  Food: 12
+  Energy: 22
+  Metal: 166
+  Trace: 33
+  Exotica: 11
+  Chemicals: 22
+  Electronics: 11
+Build Medium Bomber in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Jump Transport Carrier
-Nick Name: JJ-CVX
+Name: Medium Fighter
+Nick Name: A-FM
 Scores & Strengths:
-  Tech Score: 5589
-  Unit Score: 5370
-  Average Score: 5480
-  Stat Strength: 5153
-  Total Strength: 5370
-  Planet Strength: 0
-  Space Strength: 5370
-  Garrison Strength: 0
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 558
+  Total Strength: 687
+  Planet Strength: 687
+  Space Strength: 0
+  Garrison Strength: 190
 Statistics:
-  Movement Type: jump
-  Move Points: 14
-  Spot: 14
-  Camouflage: 3
-  Agility: 12
-  Armor: 48
-  Psy Defense: 48
-  Rank: 908
+  Movement Type: air
+  Move Points: 13
+  Spot: 8
+  Camouflage: 2
+  Agility: 11
+  Armor: 10
+  Psy Defense: 10
+  Rank: 145
 Attacks:
-  Direct Space: 11/11
-  Closed Space: 12/8
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 1349
-Build Cost: 13494
+  Air: 12/7
+  Indirect: 5/9
+Load aboard transport: YES
+Upkeep / Maintenance: 13
+Build Cost: 131
 Build Resource Requirements:
-  Food: 1
-  Energy: 2
-  Metal: 16
-  Trace: 3
-  Exotica: 1
-  Chemicals: 9
-  Biochems: 14
-  Electronics: 12
-  Ceramsteel: 23
-  Monopols: 27
-S  ingularities: 4
-Build Jump Transport Carrier in Starport
-Time to Build / Upgrade: 3
-[39365] Technology Required to Build Unit (61):
-  [39365] Jump Capital Ships (61)
+  Food: 13
+  Energy: 26
+  Metal: 137
+  Trace: 35
+  Exotica: 12
+  Chemicals: 26
+  Electronics: 17
+Build Medium Fighter in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---10--
-Name: Jump High-Speed Transport
-Nick Name: Jump HHSSTT
-Scores & Strengths:
-  Tech Score: 6947
-  Unit Score: 6896
-  Average Score: 6921
-  Stat Strength: 6016
-  Total Strength: 6896
-  Planet Strength: 0
-  Space Strength: 6896
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 16
-  Spot: 14
-  Camouflage: 6
-  Agility: 36
-  Armor: 46
-  Psy Defense: 46
-  Rank: 259
-Attacks:
-  Direct Space: 22/23
-  Closed Space: 17/22
-Cargo Space: 2
-Immune to Plague
-Upkeep / Maintenance: 725
-Build Cost: 7251
-Build Resource Requirements:
-  Food: 1
-  Energy: 5
-  Metal: 9
-  Trace: 4
-  Exotica: 1
-  Chemicals: 11
-  Biochems: 17
-  Electronics: 11
-  Ceramsteel: 13
-  Wetware: 6
-  Monopols: 23
-S  ingularities: 4
-Build Jump High-Speed Transport in Starport
-Time to Build / Upgrade: 3
-[66895] Technologies Required to Build Unit (60):
-  [21375] Lander Transports (67)
-  [45520] Hover Navalcraft (53)
-Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

@@ -1,634 +1,826 @@
-All units of the unit class PTS Missile Launcher are listed herein (14 in total):
+All units of the unit class Landing Veh., Tracked (P) are listed herein (18 in total):
 
 --1--
-Name: PTS Missile Launcher
-Nick Name: PTS Missile
+Name: Landing Veh., Tracked (P)
+Nick Name: LVT (P)
 Scores & Strengths:
-  Tech Score: 587
-  Unit Score: 585
-  Average Score: 586
-  Stat Strength: 440
-  Total Strength: 585
-  Planet Strength: 520
-  Space Strength: 505
-  Garrison Strength: 367
+  Tech Score: 585
+  Unit Score: 584
+  Average Score: 584
+  Stat Strength: 332
+  Total Strength: 584
+  Planet Strength: 584
+  Space Strength: 0
+  Garrison Strength: 206
 Statistics:
-  Movement Type: tread
-  Move Points: 2
+  Movement Type: craft
+  Move Points: 8
   Spot: 6
-  Camouflage: 2
-  Agility: 2
-  Armor: 14
-  Psy Defense: 14
-  Rank: 95
+  Camouflage: 4
+  Agility: 4
+  Armor: 10
+  Psy Defense: 10
+  Rank: 90
 Attacks:
-  Ranged Space: 5/13
-  Air: 5/8
-  Indirect: 4/10
-Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 57
+  Direct: 14/10
+  Close: 14/8
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 10
+Build Cost: 96
 Build Resource Requirements:
-  Food: 2
-  Energy: 21
-  Metal: 42
-  Trace: 7
-  Exotica: 2
-  Chemicals: 31
-  Electronics: 7
-Build PTS Missile Launcher in Factory
+  Food: 3
+  Energy: 11
+  Metal: 19
+  Trace: 28
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 17
+  Electronics: 21
+Build Landing Veh., Tracked (P) in Factory
 Time to Build / Upgrade: 2
-[1950] Technology Required to Build Unit (88):
-  [1950] PTS Missile Launcher (88)
+[2290] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: PTS Rocket Launcher
-Nick Name: PTS RL
+Name: Landing Veh., Tracked (C)
+Nick Name: LVT (C)
 Scores & Strengths:
-  Tech Score: 587
-  Unit Score: 586
-  Average Score: 586
-  Stat Strength: 211
-  Total Strength: 586
-  Planet Strength: 481
-  Space Strength: 316
-  Garrison Strength: 215
+  Tech Score: 585
+  Unit Score: 584
+  Average Score: 584
+  Stat Strength: 332
+  Total Strength: 584
+  Planet Strength: 584
+  Space Strength: 0
+  Garrison Strength: 206
 Statistics:
-  Movement Type: tread
-  Move Points: 5
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 9
-  Psy Defense: 9
-  Rank: 107
+  Movement Type: craft
+  Move Points: 8
+  Spot: 6
+  Camouflage: 4
+  Agility: 4
+  Armor: 10
+  Psy Defense: 10
+  Rank: 769
 Attacks:
-  Ranged Space: 5/21
-  Air: 11/15
-  Indirect: 5/21
+  Water: 14/10
+  Indirect: 14/8
 Load aboard transport: YES
-Upkeep / Maintenance: 13
-Build Cost: 125
+Officer - Provides stack combat bonuses
+Can be towed
+Upkeep / Maintenance: 11
+Build Cost: 111
 Build Resource Requirements:
-  Food: 2
-  Energy: 68
-  Metal: 17
-  Trace: 13
-  Exotica: 2
-  Chemicals: 102
-  Electronics: 13
-Build PTS Rocket Launcher in Factory
-Time to Build / Upgrade: 3
-[1950] Technology Required to Build Unit (88):
-  [1950] PTS Missile Launcher (88)
+  Food: 3
+  Energy: 11
+  Metal: 19
+  Trace: 28
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 10
+  Electronics: 12
+Build Landing Veh., Tracked (C) in Factory
+Time to Build / Upgrade: 2
+[2290] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: PTS Multi-Rocket Artillery
-Nick Name: PTS MRA
+Name: Landing Veh., Tracked (H)
+Nick Name: LVT (H)
 Scores & Strengths:
-  Tech Score: 641
-  Unit Score: 639
-  Average Score: 640
-  Stat Strength: 260
-  Total Strength: 639
-  Planet Strength: 571
-  Space Strength: 328
-  Garrison Strength: 233
+  Tech Score: 585
+  Unit Score: 584
+  Average Score: 584
+  Stat Strength: 332
+  Total Strength: 584
+  Planet Strength: 584
+  Space Strength: 0
+  Garrison Strength: 206
 Statistics:
-  Movement Type: tread
-  Move Points: 6
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
+  Movement Type: craft
+  Move Points: 8
+  Spot: 6
+  Camouflage: 4
+  Agility: 4
   Armor: 10
   Psy Defense: 10
-  Rank: 117
+  Rank: 78
 Attacks:
-  Ranged Space: 2/34
-  Air: 9/27
-  Indirect: 2/34
+  Indirect: 14/10
+  Direct: 14/8
 Load aboard transport: YES
-Upkeep / Maintenance: 21
-Build Cost: 209
+Can be towed
+Upkeep / Maintenance: 7
+Build Cost: 74
 Build Resource Requirements:
-  Food: 2
-  Energy: 146
-  Metal: 17
-  Trace: 6
-  Exotica: 2
-  Chemicals: 181
-  Electronics: 7
-Build PTS Multi-Rocket Artillery in Factory
-Time to Build / Upgrade: 4
-[2720] Technologies Required to Build Unit (90):
-  [770] Self-Propelled Weaponry (92)
-  [1950] PTS Missile Launcher (88)
+  Food: 3
+  Energy: 11
+  Metal: 19
+  Trace: 28
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 10
+  Electronics: 12
+Build Landing Veh., Tracked (H) in Factory
+Time to Build / Upgrade: 2
+[2290] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: PTS Rocket Artillery
-Nick Name: PTS RA
+Name: Landing Veh., Tracked (A)
+Nick Name: LVT (A)
 Scores & Strengths:
-  Tech Score: 641
-  Unit Score: 640
-  Average Score: 641
-  Stat Strength: 260
-  Total Strength: 640
-  Planet Strength: 540
-  Space Strength: 360
-  Garrison Strength: 220
+  Tech Score: 585
+  Unit Score: 584
+  Average Score: 584
+  Stat Strength: 332
+  Total Strength: 584
+  Planet Strength: 584
+  Space Strength: 0
+  Garrison Strength: 206
 Statistics:
-  Movement Type: tread
-  Move Points: 6
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
+  Movement Type: craft
+  Move Points: 8
+  Spot: 6
+  Camouflage: 4
+  Agility: 4
   Armor: 10
   Psy Defense: 10
-  Rank: 110
+  Rank: 78
 Attacks:
-  Ranged Space: 4/25
-  Air: 9/20
-  Indirect: 4/25
+  Air: 14/10
+  Direct: 14/8
 Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 123
+Can be towed
+Upkeep / Maintenance: 9
+Build Cost: 94
 Build Resource Requirements:
-  Food: 2
-  Energy: 80
-  Metal: 17
-  Trace: 8
-  Exotica: 2
-  Chemicals: 99
-  Electronics: 7
-Build PTS Rocket Artillery in Factory
-Time to Build / Upgrade: 3
-[2720] Technologies Required to Build Unit (90):
-  [770] Self-Propelled Weaponry (92)
-  [1950] PTS Missile Launcher (88)
+  Food: 3
+  Energy: 11
+  Metal: 19
+  Trace: 28
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 17
+  Electronics: 21
+Build Landing Veh., Tracked (A) in Factory
+Time to Build / Upgrade: 2
+[2290] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: PTS Missile Launcher II
-Nick Name: PTS Missile II
+Name: Landing Veh., Tracked (R)
+Nick Name: LVT (R)
 Scores & Strengths:
-  Tech Score: 1087
-  Unit Score: 1066
-  Average Score: 1076
-  Stat Strength: 793
-  Total Strength: 1066
-  Planet Strength: 940
-  Space Strength: 919
-  Garrison Strength: 542
+  Tech Score: 585
+  Unit Score: 587
+  Average Score: 586
+  Stat Strength: 470
+  Total Strength: 587
+  Planet Strength: 587
+  Space Strength: 0
+  Garrison Strength: 207
 Statistics:
-  Movement Type: tread
-  Move Points: 3
-  Spot: 7
-  Camouflage: 3
-  Agility: 2
-  Armor: 19
-  Psy Defense: 19
-  Rank: 105
+  Movement Type: craft
+  Move Points: 8
+  Spot: 6
+  Camouflage: 4
+  Agility: 4
+  Armor: 13
+  Psy Defense: 13
+  Rank: 131
 Attacks:
-  Ranged Space: 7/18
-  Air: 7/11
-  Indirect: 5/14
+  Close: 13/9
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 61
+Can tow units that can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 7
+Build Cost: 72
 Build Resource Requirements:
-  Food: 1
-  Energy: 17
-  Metal: 72
-  Trace: 5
-  Exotica: 1
-  Chemicals: 23
-  Electronics: 5
-Build PTS Missile Launcher II in Factory
+  Food: 3
+  Energy: 7
+  Metal: 32
+  Trace: 14
+  Exotica: 3
+  Chemicals: 7
+  Biochems: 9
+  Electronics: 11
+Build Landing Veh., Tracked (R) in Factory
 Time to Build / Upgrade: 2
-[6120] Technologies Required to Build Unit (86):
-  [1950] PTS Missile Launcher (88)
-  [4170] Supercruise Missiles (84)
+[2290] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: PTS Rocket Launcher II
-Nick Name: PTS RL II
+Name: Landing Veh., Tracked (E)
+Nick Name: LVT (E)
 Scores & Strengths:
-  Tech Score: 1087
-  Unit Score: 1081
-  Average Score: 1084
-  Stat Strength: 375
-  Total Strength: 1081
-  Planet Strength: 878
-  Space Strength: 578
-  Garrison Strength: 331
+  Tech Score: 585
+  Unit Score: 587
+  Average Score: 586
+  Stat Strength: 524
+  Total Strength: 587
+  Planet Strength: 587
+  Space Strength: 0
+  Garrison Strength: 239
 Statistics:
-  Movement Type: tread
-  Move Points: 7
-  Spot: 5
-  Camouflage: 3
-  Agility: 2
-  Armor: 12
-  Psy Defense: 12
-  Rank: 122
+  Movement Type: craft
+  Move Points: 6
+  Spot: 8
+  Camouflage: 4
+  Agility: 4
+  Armor: 14
+  Psy Defense: 14
+  Rank: 41
 Attacks:
-  Ranged Space: 7/29
-  Air: 15/20
-  Indirect: 7/29
-Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 109
+  Close: 9/7
+Cargo Space: 1
+Can tow units that can be towed
+Upkeep / Maintenance: 5
+Build Cost: 54
 Build Resource Requirements:
-  Food: 1
-  Energy: 56
-  Metal: 29
-  Trace: 9
-  Exotica: 1
-  Chemicals: 75
-  Electronics: 10
-Build PTS Rocket Launcher II in Factory
-Time to Build / Upgrade: 3
-[6120] Technologies Required to Build Unit (86):
-  [1950] PTS Missile Launcher (88)
-  [4170] Supercruise Missiles (84)
+  Food: 3
+  Energy: 5
+  Metal: 37
+  Trace: 11
+  Exotica: 3
+  Chemicals: 5
+  Biochems: 6
+  Electronics: 8
+Build Landing Veh., Tracked (E) in Factory
+Time to Build / Upgrade: 2
+[2290] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: PTS Rocket Artillery II
-Nick Name: PTS RA II
+Name: Landing Veh., Tracked (E2)
+Nick Name: LVT (E2)
 Scores & Strengths:
-  Tech Score: 1194
-  Unit Score: 1158
-  Average Score: 1176
-  Stat Strength: 494
-  Total Strength: 1158
-  Planet Strength: 988
-  Space Strength: 664
-  Garrison Strength: 349
+  Tech Score: 660
+  Unit Score: 652
+  Average Score: 656
+  Stat Strength: 582
+  Total Strength: 652
+  Planet Strength: 652
+  Space Strength: 0
+  Garrison Strength: 266
 Statistics:
-  Movement Type: tread
-  Move Points: 8
-  Spot: 5
-  Camouflage: 3
-  Agility: 2
-  Armor: 14
-  Psy Defense: 14
-  Rank: 126
+  Movement Type: craft
+  Move Points: 6
+  Spot: 8
+  Camouflage: 4
+  Agility: 4
+  Armor: 15
+  Psy Defense: 15
+  Rank: 42
 Attacks:
-  Ranged Space: 5/34
-  Air: 12/27
-  Indirect: 5/34
-Load aboard transport: YES
-Upkeep / Maintenance: 12
-Build Cost: 124
+  Close: 10/7
+Cargo Space: 1
+Can tow units that can be towed
+Upkeep / Maintenance: 5
+Build Cost: 54
 Build Resource Requirements:
-  Food: 1
-  Energy: 67
-  Metal: 25
-  Trace: 5
-  Exotica: 1
-  Chemicals: 94
-  Electronics: 6
-Build PTS Rocket Artillery II in Factory
-Time to Build / Upgrade: 3
-[7820] Technologies Required to Build Unit (87):
-  [1700] Main Battle Tank (88)
-  [1950] PTS Missile Launcher (88)
-  [4170] Supercruise Missiles (84)
+  Food: 3
+  Energy: 4
+  Metal: 38
+  Trace: 11
+  Exotica: 3
+  Chemicals: 4
+  Biochems: 6
+  Electronics: 8
+Build Landing Veh., Tracked (E2) in Factory
+Time to Build / Upgrade: 2
+[2710] Technologies Required to Build Unit (91):
+  [770] Self-Propelled Weaponry (92)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: PTS Multi-Rocket Artillery II
-Nick Name: PTS MRA II
+Name: Landing Veh., Tracked (P2)
+Nick Name: LVT (P2)
 Scores & Strengths:
-  Tech Score: 1194
-  Unit Score: 1214
-  Average Score: 1204
-  Stat Strength: 494
-  Total Strength: 1214
-  Planet Strength: 1076
-  Space Strength: 632
-  Garrison Strength: 380
+  Tech Score: 660
+  Unit Score: 659
+  Average Score: 659
+  Stat Strength: 374
+  Total Strength: 659
+  Planet Strength: 659
+  Space Strength: 0
+  Garrison Strength: 232
 Statistics:
-  Movement Type: tread
+  Movement Type: craft
   Move Points: 8
-  Spot: 5
-  Camouflage: 3
-  Agility: 2
-  Armor: 14
-  Psy Defense: 14
-  Rank: 136
+  Spot: 6
+  Camouflage: 4
+  Agility: 4
+  Armor: 11
+  Psy Defense: 11
+  Rank: 93
 Attacks:
-  Ranged Space: 3/46
-  Air: 12/37
-  Indirect: 3/46
-Load aboard transport: YES
-Upkeep / Maintenance: 21
-Build Cost: 208
+  Direct: 15/11
+  Close: 15/8
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 10
+Build Cost: 99
 Build Resource Requirements:
-  Food: 1
-  Energy: 123
-  Metal: 25
-  Trace: 5
-  Exotica: 1
-  Chemicals: 168
-  Electronics: 5
-Build PTS Multi-Rocket Artillery II in Factory
-Time to Build / Upgrade: 4
-[7820] Technologies Required to Build Unit (87):
-  [1700] Main Battle Tank (88)
-  [1950] PTS Missile Launcher (88)
-  [4170] Supercruise Missiles (84)
+  Food: 3
+  Energy: 11
+  Metal: 20
+  Trace: 29
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 17
+  Electronics: 23
+Build Landing Veh., Tracked (P2) in Factory
+Time to Build / Upgrade: 2
+[2710] Technologies Required to Build Unit (91):
+  [770] Self-Propelled Weaponry (92)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Rail Gun
-Nick Name: Rail Gun
+Name: Landing Veh., Tracked (C2)
+Nick Name: LVT (C2)
 Scores & Strengths:
-  Tech Score: 1487
-  Unit Score: 1488
-  Average Score: 1487
-  Stat Strength: 1056
-  Total Strength: 1488
-  Planet Strength: 1272
-  Space Strength: 1272
-  Garrison Strength: 636
+  Tech Score: 660
+  Unit Score: 659
+  Average Score: 659
+  Stat Strength: 374
+  Total Strength: 659
+  Planet Strength: 659
+  Space Strength: 0
+  Garrison Strength: 232
 Statistics:
-  Movement Type: tread
-  Move Points: 4
-  Spot: 8
-  Camouflage: 2
-  Agility: 2
-  Armor: 22
-  Psy Defense: 22
-  Rank: 120
+  Movement Type: craft
+  Move Points: 8
+  Spot: 6
+  Camouflage: 4
+  Agility: 4
+  Armor: 11
+  Psy Defense: 11
+  Rank: 771
 Attacks:
-  Ranged Space: 12/18
-  Indirect: 12/18
-Upkeep / Maintenance: 21
-Build Cost: 213
+  Water: 15/11
+  Indirect: 15/8
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Can be towed
+Upkeep / Maintenance: 11
+Build Cost: 113
 Build Resource Requirements:
-  Food: 2
-  Energy: 17
-  Metal: 425
-  Trace: 10
-  Exotica: 1
-  Chemicals: 26
-  Electronics: 8
-Build Rail Gun in Factory
-Time to Build / Upgrade: 4
-[6735] Technology Required to Build Unit (83):
-  [6735] Rail Gun (83)
+  Food: 3
+  Energy: 11
+  Metal: 20
+  Trace: 29
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 10
+  Electronics: 13
+Build Landing Veh., Tracked (C2) in Factory
+Time to Build / Upgrade: 2
+[2710] Technologies Required to Build Unit (91):
+  [770] Self-Propelled Weaponry (92)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: PTS Missile Launcher III
-Nick Name: PTS Missile III
+Name: Landing Veh., Tracked (H2)
+Nick Name: LVT (H2)
 Scores & Strengths:
-  Tech Score: 1591
-  Unit Score: 1533
-  Average Score: 1562
-  Stat Strength: 1149
-  Total Strength: 1533
-  Planet Strength: 1365
-  Space Strength: 1317
-  Garrison Strength: 788
+  Tech Score: 660
+  Unit Score: 659
+  Average Score: 659
+  Stat Strength: 374
+  Total Strength: 659
+  Planet Strength: 659
+  Space Strength: 0
+  Garrison Strength: 232
 Statistics:
-  Movement Type: tread
-  Move Points: 3
-  Spot: 8
-  Camouflage: 3
-  Agility: 3
-  Armor: 23
-  Psy Defense: 23
-  Rank: 114
+  Movement Type: craft
+  Move Points: 8
+  Spot: 6
+  Camouflage: 4
+  Agility: 4
+  Armor: 11
+  Psy Defense: 11
+  Rank: 80
 Attacks:
-  Ranged Space: 8/21
-  Air: 8/13
-  Indirect: 7/16
+  Indirect: 15/11
+  Direct: 15/8
 Load aboard transport: YES
+Can be towed
 Upkeep / Maintenance: 8
-Build Cost: 80
+Build Cost: 75
 Build Resource Requirements:
-  Food: 1
-  Energy: 17
-  Metal: 106
-  Trace: 5
-  Exotica: 1
-  Chemicals: 25
-  Electronics: 5
-Build PTS Missile Launcher III in Factory
+  Food: 3
+  Energy: 11
+  Metal: 20
+  Trace: 29
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 10
+  Electronics: 13
+Build Landing Veh., Tracked (H2) in Factory
 Time to Build / Upgrade: 2
-[9055] Technologies Required to Build Unit (83):
-  [1950] PTS Missile Launcher (88)
-  [7105] Hypercruise Missiles (77)
+[2710] Technologies Required to Build Unit (91):
+  [770] Self-Propelled Weaponry (92)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --11--
-Name: PTS Rocket Launcher III
-Nick Name: PTS RL III
+Name: Landing Veh., Tracked (A2)
+Nick Name: LVT (A2)
 Scores & Strengths:
-  Tech Score: 1591
-  Unit Score: 1567
-  Average Score: 1579
-  Stat Strength: 557
-  Total Strength: 1567
-  Planet Strength: 1287
-  Space Strength: 837
-  Garrison Strength: 455
+  Tech Score: 660
+  Unit Score: 659
+  Average Score: 659
+  Stat Strength: 374
+  Total Strength: 659
+  Planet Strength: 659
+  Space Strength: 0
+  Garrison Strength: 232
 Statistics:
-  Movement Type: tread
+  Movement Type: craft
   Move Points: 8
-  Spot: 5
-  Camouflage: 3
-  Agility: 3
-  Armor: 15
-  Psy Defense: 15
-  Rank: 134
+  Spot: 6
+  Camouflage: 4
+  Agility: 4
+  Armor: 11
+  Psy Defense: 11
+  Rank: 80
 Attacks:
-  Ranged Space: 8/35
-  Air: 18/25
-  Indirect: 8/35
+  Air: 15/11
+  Direct: 15/8
 Load aboard transport: YES
-Upkeep / Maintenance: 14
-Build Cost: 139
+Can be towed
+Upkeep / Maintenance: 10
+Build Cost: 97
 Build Resource Requirements:
-  Food: 1
-  Energy: 60
-  Metal: 45
-  Trace: 9
-  Exotica: 1
-  Chemicals: 89
-  Electronics: 11
-Build PTS Rocket Launcher III in Factory
-Time to Build / Upgrade: 3
-[9055] Technologies Required to Build Unit (83):
-  [1950] PTS Missile Launcher (88)
-  [7105] Hypercruise Missiles (77)
+  Food: 3
+  Energy: 11
+  Metal: 20
+  Trace: 29
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 17
+  Electronics: 23
+Build Landing Veh., Tracked (A2) in Factory
+Time to Build / Upgrade: 2
+[2710] Technologies Required to Build Unit (91):
+  [770] Self-Propelled Weaponry (92)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --12--
-Name: PTS Rocket Artillery III
-Nick Name: PTS RA III
+Name: Landing Veh., Tracked (R2)
+Nick Name: LVT (R2)
 Scores & Strengths:
-  Tech Score: 1685
-  Unit Score: 1627
-  Average Score: 1656
-  Stat Strength: 655
-  Total Strength: 1627
-  Planet Strength: 1381
-  Space Strength: 901
-  Garrison Strength: 436
+  Tech Score: 660
+  Unit Score: 664
+  Average Score: 662
+  Stat Strength: 524
+  Total Strength: 664
+  Planet Strength: 664
+  Space Strength: 0
+  Garrison Strength: 234
 Statistics:
-  Movement Type: tread
-  Move Points: 10
-  Spot: 5
-  Camouflage: 3
-  Agility: 3
-  Armor: 16
-  Psy Defense: 16
-  Rank: 139
+  Movement Type: craft
+  Move Points: 8
+  Spot: 6
+  Camouflage: 4
+  Agility: 4
+  Armor: 14
+  Psy Defense: 14
+  Rank: 132
 Attacks:
-  Ranged Space: 6/41
-  Air: 15/32
-  Indirect: 6/41
+  Close: 14/10
 Load aboard transport: YES
-Upkeep / Maintenance: 16
-Build Cost: 160
+Can tow units that can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 7
+Build Cost: 73
 Build Resource Requirements:
-  Food: 1
-  Energy: 76
+  Food: 3
+  Energy: 7
   Metal: 33
-  Trace: 6
-  Exotica: 1
-  Chemicals: 116
-  Electronics: 7
-Build PTS Rocket Artillery III in Factory
-Time to Build / Upgrade: 3
-[10755] Technologies Required to Build Unit (84):
-  [1700] Main Battle Tank (88)
-  [1950] PTS Missile Launcher (88)
-  [7105] Hypercruise Missiles (77)
+  Trace: 15
+  Exotica: 3
+  Chemicals: 7
+  Biochems: 9
+  Electronics: 12
+Build Landing Veh., Tracked (R2) in Factory
+Time to Build / Upgrade: 2
+[2710] Technologies Required to Build Unit (91):
+  [770] Self-Propelled Weaponry (92)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --13--
-Name: PTS Multi-Rocket Artillery III
-Nick Name: PTS MRA III
+Name: Amphib. Assault Vehicle (P)
+Nick Name: AAV (P)
 Scores & Strengths:
-  Tech Score: 1685
-  Unit Score: 1645
-  Average Score: 1665
-  Stat Strength: 655
-  Total Strength: 1645
-  Planet Strength: 1480
-  Space Strength: 820
-  Garrison Strength: 468
+  Tech Score: 959
+  Unit Score: 951
+  Average Score: 955
+  Stat Strength: 537
+  Total Strength: 951
+  Planet Strength: 951
+  Space Strength: 0
+  Garrison Strength: 300
 Statistics:
-  Movement Type: tread
+  Movement Type: craft
   Move Points: 10
-  Spot: 5
-  Camouflage: 3
-  Agility: 3
-  Armor: 16
-  Psy Defense: 16
-  Rank: 150
+  Spot: 7
+  Camouflage: 5
+  Agility: 5
+  Armor: 13
+  Psy Defense: 13
+  Rank: 101
 Attacks:
-  Ranged Space: 3/55
-  Air: 15/44
-  Indirect: 3/55
-Load aboard transport: YES
-Upkeep / Maintenance: 26
-Build Cost: 263
+  Direct: 18/13
+  Close: 18/10
+Cargo Space: 1
+Can be towed
+Upkeep / Maintenance: 11
+Build Cost: 114
 Build Resource Requirements:
-  Food: 1
-  Energy: 137
-  Metal: 33
-  Trace: 5
-  Exotica: 1
-  Chemicals: 203
-  Electronics: 7
-Build PTS Multi-Rocket Artillery III in Factory
-Time to Build / Upgrade: 4
-[10755] Technologies Required to Build Unit (84):
+  Food: 3
+  Energy: 11
+  Metal: 19
+  Trace: 32
+  Exotica: 3
+  Chemicals: 16
+  Biochems: 18
+  Electronics: 27
+Build Amphib. Assault Vehicle (P) in Factory
+Time to Build / Upgrade: 2
+[4555] Technologies Required to Build Unit (88):
+  [2855] Naval Amphibious Ships (87)
   [1700] Main Battle Tank (88)
-  [1950] PTS Missile Launcher (88)
-  [7105] Hypercruise Missiles (77)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --14--
-Name: Imperial Missile Battery
-Nick Name: IM Battery
+Name: Amphib. Assault Vehicle (C)
+Nick Name: AAV (C)
 Scores & Strengths:
-  Tech Score: 2013
-  Unit Score: 2011
-  Average Score: 2012
-  Stat Strength: 1453
-  Total Strength: 2011
-  Planet Strength: 1811
-  Space Strength: 1653
-  Garrison Strength: 2263
+  Tech Score: 959
+  Unit Score: 951
+  Average Score: 955
+  Stat Strength: 537
+  Total Strength: 951
+  Planet Strength: 951
+  Space Strength: 0
+  Garrison Strength: 300
 Statistics:
-  Movement Type: tread
-  Move Points: 0
-  Spot: 10
-  Camouflage: 0
-  Agility: 1
-  Armor: 26
-  Psy Defense: 26
-  Rank: 124
+  Movement Type: craft
+  Move Points: 10
+  Spot: 7
+  Camouflage: 5
+  Agility: 5
+  Armor: 13
+  Psy Defense: 13
+  Rank: 779
 Attacks:
-  Ranged Space: 10/20
-  Air: 12/14
-  Indirect: 10/19
+  Water: 18/13
+  Indirect: 18/10
 Load aboard transport: YES
-Upkeep / Maintenance: 98
-Build Cost: 975
+Officer - Provides stack combat bonuses
+Can be towed
+Upkeep / Maintenance: 13
+Build Cost: 131
 Build Resource Requirements:
-  Food: 1
+  Food: 3
   Energy: 11
-  Metal: 12
-  Trace: 6
-  Exotica: 1
-  Chemicals: 27
-  Biochems: 25
-  Electronics: 17
-  Ceramsteel: 23
-  Monopols: 41
-Build Imperial Missile Battery in Factory
-Time to Build / Upgrade: 4
-[12420] Technologies Required to Build Unit (69):
-  [835] Spore Delivery (27)
-  [325] Megachassis (94)
-  [8935] Powered Ceramsteel Armor (75)
-  [2325] Web Missiles (80)
+  Metal: 19
+  Trace: 32
+  Exotica: 3
+  Chemicals: 16
+  Biochems: 10
+  Electronics: 15
+Build Amphib. Assault Vehicle (C) in Factory
+Time to Build / Upgrade: 2
+[4555] Technologies Required to Build Unit (88):
+  [2855] Naval Amphibious Ships (87)
+  [1700] Main Battle Tank (88)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--15--
+Name: Amphib. Assault Vehicle (H)
+Nick Name: AAV (H)
+Scores & Strengths:
+  Tech Score: 959
+  Unit Score: 951
+  Average Score: 955
+  Stat Strength: 537
+  Total Strength: 951
+  Planet Strength: 951
+  Space Strength: 0
+  Garrison Strength: 300
+Statistics:
+  Movement Type: craft
+  Move Points: 10
+  Spot: 7
+  Camouflage: 5
+  Agility: 5
+  Armor: 13
+  Psy Defense: 13
+  Rank: 88
+Attacks:
+  Indirect: 18/13
+  Direct: 18/10
+Load aboard transport: YES
+Can be towed
+Upkeep / Maintenance: 9
+Build Cost: 87
+Build Resource Requirements:
+  Food: 3
+  Energy: 11
+  Metal: 19
+  Trace: 32
+  Exotica: 3
+  Chemicals: 16
+  Biochems: 10
+  Electronics: 15
+Build Amphib. Assault Vehicle (H) in Factory
+Time to Build / Upgrade: 2
+[4555] Technologies Required to Build Unit (88):
+  [2855] Naval Amphibious Ships (87)
+  [1700] Main Battle Tank (88)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--16--
+Name: Amphib. Assault Vehicle (E)
+Nick Name: AAV (E)
+Scores & Strengths:
+  Tech Score: 959
+  Unit Score: 951
+  Average Score: 955
+  Stat Strength: 843
+  Total Strength: 951
+  Planet Strength: 951
+  Space Strength: 0
+  Garrison Strength: 336
+Statistics:
+  Movement Type: craft
+  Move Points: 8
+  Spot: 9
+  Camouflage: 5
+  Agility: 5
+  Armor: 18
+  Psy Defense: 18
+  Rank: 45
+Attacks:
+  Close: 12/9
+Cargo Space: 1
+Can tow units that can be towed
+Upkeep / Maintenance: 7
+Build Cost: 66
+Build Resource Requirements:
+  Food: 3
+  Energy: 5
+  Metal: 36
+  Trace: 12
+  Exotica: 3
+  Chemicals: 13
+  Biochems: 6
+  Electronics: 9
+Build Amphib. Assault Vehicle (E) in Factory
+Time to Build / Upgrade: 2
+[4555] Technologies Required to Build Unit (88):
+  [2855] Naval Amphibious Ships (87)
+  [1700] Main Battle Tank (88)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--17--
+Name: Amphib. Assault Vehicle (A)
+Nick Name: AAV (A)
+Scores & Strengths:
+  Tech Score: 959
+  Unit Score: 951
+  Average Score: 955
+  Stat Strength: 537
+  Total Strength: 951
+  Planet Strength: 951
+  Space Strength: 0
+  Garrison Strength: 300
+Statistics:
+  Movement Type: craft
+  Move Points: 10
+  Spot: 7
+  Camouflage: 5
+  Agility: 5
+  Armor: 13
+  Psy Defense: 13
+  Rank: 88
+Attacks:
+  Air: 18/13
+  Direct: 18/10
+Load aboard transport: YES
+Can be towed
+Upkeep / Maintenance: 11
+Build Cost: 112
+Build Resource Requirements:
+  Food: 3
+  Energy: 11
+  Metal: 19
+  Trace: 32
+  Exotica: 3
+  Chemicals: 16
+  Biochems: 18
+  Electronics: 27
+Build Amphib. Assault Vehicle (A) in Factory
+Time to Build / Upgrade: 2
+[4555] Technologies Required to Build Unit (88):
+  [2855] Naval Amphibious Ships (87)
+  [1700] Main Battle Tank (88)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--18--
+Name: Amphib. Assault Vehicle (R)
+Nick Name: AAV (R)
+Scores & Strengths:
+  Tech Score: 959
+  Unit Score: 981
+  Average Score: 970
+  Stat Strength: 777
+  Total Strength: 981
+  Planet Strength: 981
+  Space Strength: 0
+  Garrison Strength: 310
+Statistics:
+  Movement Type: craft
+  Move Points: 10
+  Spot: 7
+  Camouflage: 5
+  Agility: 5
+  Armor: 17
+  Psy Defense: 17
+  Rank: 135
+Attacks:
+  Close: 17/12
+Load aboard transport: YES
+Can tow units that can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 9
+Build Cost: 89
+Build Resource Requirements:
+  Food: 3
+  Energy: 8
+  Metal: 32
+  Trace: 17
+  Exotica: 3
+  Chemicals: 15
+  Biochems: 9
+  Electronics: 14
+Build Amphib. Assault Vehicle (R) in Factory
+Time to Build / Upgrade: 2
+[4555] Technologies Required to Build Unit (88):
+  [2855] Naval Amphibious Ships (87)
+  [1700] Main Battle Tank (88)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

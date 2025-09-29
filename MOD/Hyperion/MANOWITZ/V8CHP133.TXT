@@ -1,344 +1,133 @@
-All units of the unit class Main Battle Tank are listed herein (8 in total):
+All units of the unit class PTS Guided Missile are listed herein (3 in total):
 
 --1--
-Name: Main Battle Tank
-Nick Name: MBT
+Name: PTS Guided Missile
+Nick Name: PTS GM
 Scores & Strengths:
-  Tech Score: 530
-  Unit Score: 528
-  Average Score: 529
-  Stat Strength: 380
-  Total Strength: 528
-  Planet Strength: 528
-  Space Strength: 0
-  Garrison Strength: 215
+  Tech Score: 522
+  Unit Score: 521
+  Average Score: 522
+  Stat Strength: 296
+  Total Strength: 521
+  Planet Strength: 296
+  Space Strength: 521
+  Garrison Strength: 85
 Statistics:
-  Movement Type: tread
-  Move Points: 6
-  Spot: 6
-  Camouflage: 2
-  Agility: 4
-  Armor: 12
-  Psy Defense: 12
-  Rank: 70
+  Movement Type: air
+  Move Points: 12
+  Spot: 0
+  Camouflage: 12
+  Agility: 0
+  Armor: 2
+  Psy Defense: 2
+  Rank: 85
 Attacks:
-  Indirect: 6/11
-  Direct: 5/10
-  Close: 4/8
+  Ranged Space: 15/15
 Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 65
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 14
 Build Resource Requirements:
-  Food: 4
-  Energy: 22
-  Metal: 33
-  Trace: 13
-  Exotica: 4
-  Chemicals: 36
-  Electronics: 10
-Build Main Battle Tank in Factory
-Time to Build / Upgrade: 2
-[1700] Technology Required to Build Unit (88):
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 6
+  Energy: 24
+  Metal: 5
+  Trace: 25
+  Exotica: 6
+  Chemicals: 35
+  Electronics: 30
+Build PTS Guided Missile in Chemical Plant
+Time to Build / Upgrade: 3
+[1670] Technology Required to Build Unit (83):
+  [1670] Guided Missiles (83)
 Unit can be disbanded: YES
 
 --2--
-Name: Main Battle Tank (RA)
-Nick Name: MBT (RA)
+Name: PTS Supersonic Missile
+Nick Name: PTS GM II
 Scores & Strengths:
-  Tech Score: 768
-  Unit Score: 723
-  Average Score: 745
-  Stat Strength: 510
-  Total Strength: 723
-  Planet Strength: 723
-  Space Strength: 0
-  Garrison Strength: 273
+  Tech Score: 1038
+  Unit Score: 1037
+  Average Score: 1037
+  Stat Strength: 596
+  Total Strength: 1037
+  Planet Strength: 596
+  Space Strength: 1037
+  Garrison Strength: 144
 Statistics:
-  Movement Type: tread
-  Move Points: 7
-  Spot: 7
-  Camouflage: 2
-  Agility: 4
-  Armor: 14
-  Psy Defense: 14
-  Rank: 75
+  Movement Type: air
+  Move Points: 17
+  Spot: 0
+  Camouflage: 17
+  Agility: 0
+  Armor: 3
+  Psy Defense: 3
+  Rank: 102
 Attacks:
-  Indirect: 7/13
-  Direct: 6/12
-  Close: 5/10
+  Ranged Space: 21/21
 Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 10
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 14
 Build Resource Requirements:
-  Energy: 6
-  Metal: 6
-  Chemicals: 9
-Upgrade Main Battle Tank to Main Battle Tank (RA) at Factory
-Time to Build / Upgrade: 1
-[3090] Technologies Required to Build Unit (86):
-  [1220] Predictive Algorithms (76)
-  [1700] Main Battle Tank (88)
-  [170] Reactive Armor (95)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 5
+  Energy: 25
+  Metal: 11
+  Trace: 22
+  Exotica: 5
+  Chemicals: 33
+  Electronics: 25
+Build PTS Supersonic Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[4170] Technology Required to Build Unit (84):
+  [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
 --3--
-Name: Main Battle Tank (ExA)
-Nick Name: MBT (ExA)
+Name: PTS Hypersonic Missile
+Nick Name: PTS GM III
 Scores & Strengths:
-  Tech Score: 826
-  Unit Score: 788
-  Average Score: 807
-  Stat Strength: 568
-  Total Strength: 788
-  Planet Strength: 788
-  Space Strength: 0
-  Garrison Strength: 297
+  Tech Score: 1548
+  Unit Score: 1576
+  Average Score: 1562
+  Stat Strength: 900
+  Total Strength: 1576
+  Planet Strength: 900
+  Space Strength: 1576
+  Garrison Strength: 196
 Statistics:
-  Movement Type: tread
-  Move Points: 7
-  Spot: 7
-  Camouflage: 2
-  Agility: 4
-  Armor: 15
-  Psy Defense: 15
-  Rank: 76
+  Movement Type: air
+  Move Points: 21
+  Spot: 0
+  Camouflage: 21
+  Agility: 0
+  Armor: 3
+  Psy Defense: 3
+  Rank: 118
 Attacks:
-  Indirect: 7/14
-  Direct: 6/12
-  Close: 5/10
+  Ranged Space: 26/26
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 22
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 16
 Build Resource Requirements:
-  Energy: 6
-  Metal: 9
-  Chemicals: 24
-Upgrade Main Battle Tank to Main Battle Tank (ExA) at Factory
-Time to Build / Upgrade: 1
-[3375] Technologies Required to Build Unit (86):
-  [1475] Monofilament (77)
-  [1700] Main Battle Tank (88)
-  [200] Explosive Armor (93)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---4--
-Name: Main Battle Tank (ElA)
-Nick Name: MBT (ElA)
-Scores & Strengths:
-  Tech Score: 979
-  Unit Score: 932
-  Average Score: 956
-  Stat Strength: 659
-  Total Strength: 932
-  Planet Strength: 932
-  Space Strength: 0
-  Garrison Strength: 329
-Statistics:
-  Movement Type: tread
-  Move Points: 8
-  Spot: 7
-  Camouflage: 3
-  Agility: 5
-  Armor: 16
-  Psy Defense: 16
-  Rank: 81
-Attacks:
-  Indirect: 8/15
-  Direct: 7/14
-  Close: 5/11
-Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 40
-Build Resource Requirements:
-  Energy: 12
-  Metal: 10
-  Chemicals: 18
-  Electronics: 23
-Upgrade Main Battle Tank to Main Battle Tank (ElA) at Factory
-Time to Build / Upgrade: 1
-[4245] Technologies Required to Build Unit (87):
-  [2285] Surgical LASER (82)
-  [1700] Main Battle Tank (88)
-  [260] Electronic Armor (90)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Amphibious Main Battle Tank
-Nick Name: N-ATMB
-Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 958
-  Average Score: 959
-  Stat Strength: 518
-  Total Strength: 958
-  Planet Strength: 958
-  Space Strength: 0
-  Garrison Strength: 338
-Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 8
-  Armor: 13
-  Psy Defense: 13
-  Rank: 84
-Attacks:
-  Indirect: 12/15
-  Direct: 10/14
-  Close: 10/12
-Load aboard transport: YES
-Upkeep / Maintenance: 8
-Build Cost: 76
-Build Resource Requirements:
-  Food: 2
-  Energy: 20
-  Metal: 19
-  Trace: 19
-  Exotica: 2
-  Chemicals: 25
-  Biochems: 7
-  Electronics: 10
-Build Amphibious Main Battle Tank in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Main Battle Tank (APS)
-Nick Name: MBT (APS)
-Scores & Strengths:
-  Tech Score: 1484
-  Unit Score: 1405
-  Average Score: 1445
-  Stat Strength: 998
-  Total Strength: 1405
-  Planet Strength: 1405
-  Space Strength: 0
-  Garrison Strength: 444
-Statistics:
-  Movement Type: tread
-  Move Points: 10
-  Spot: 8
-  Camouflage: 3
-  Agility: 5
-  Armor: 20
-  Psy Defense: 20
-  Rank: 89
-Attacks:
-  Indirect: 10/18
-  Direct: 8/17
-  Close: 7/13
-Load aboard transport: YES
-Upkeep / Maintenance: 14
-Build Cost: 71
-Build Resource Requirements:
-  Metal: 6
-  Chemicals: 19
-  Electronics: 19
-  Ceramsteel: 36
-Upgrade Main Battle Tank to Main Battle Tank (APS) at Factory
-Time to Build / Upgrade: 1
-[9905] Technologies Required to Build Unit (81):
-  [4855] Myoelectric Prosthetics (71)
-  [1700] Main Battle Tank (88)
-  [3350] Active Protective Systems (83)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---7--
-Name: Main Battle Tank (Ce)
-Nick Name: MBT (Ce)
-Scores & Strengths:
-  Tech Score: 1080
-  Unit Score: 1487
-  Average Score: 1283
-  Stat Strength: 1080
-  Total Strength: 1487
-  Planet Strength: 1487
-  Space Strength: 0
-  Garrison Strength: 470
-Statistics:
-  Movement Type: tread
-  Move Points: 10
-  Spot: 8
-  Camouflage: 3
-  Agility: 5
-  Armor: 21
-  Psy Defense: 21
-  Rank: 88
-Attacks:
-  Indirect: 10/18
-  Direct: 8/17
-  Close: 7/13
-Load aboard transport: YES
-Upkeep / Maintenance: 13
-Build Cost: 60
-Build Resource Requirements:
-  Energy: 5
-  Chemicals: 12
-  Ceramsteel: 38
-Upgrade Main Battle Tank to Main Battle Tank (Ce) at Factory
-Time to Build / Upgrade: 1
-[6960] Technologies Required to Build Unit (83):
-  [3570] Robotics (76)
-  [1700] Main Battle Tank (88)
-  [1690] Ceramsteel (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---8--
-Name: Universal Combat Platform
-Nick Name: MBT-UCP
-Scores & Strengths:
-  Tech Score: 1639
-  Unit Score: 1577
-  Average Score: 1608
-  Stat Strength: 1108
-  Total Strength: 1577
-  Planet Strength: 1577
-  Space Strength: 0
-  Garrison Strength: 475
-Statistics:
-  Movement Type: tread
-  Move Points: 11
-  Spot: 8
-  Camouflage: 4
-  Agility: 5
-  Armor: 21
-  Psy Defense: 21
-  Rank: 93
-Attacks:
-  Indirect: 11/19
-  Direct: 9/18
-  Close: 7/14
-Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 41
-Build Resource Requirements:
-  Chemicals: 10
-  Electronics: 8
-  Ceramsteel: 27
-Upgrade Main Battle Tank to Universal Combat Platform at Factory
-Time to Build / Upgrade: 1
-[10630] Technologies Required to Build Unit (74):
-  [5425] Cybernetics (63)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 5
+  Energy: 25
+  Metal: 11
+  Trace: 23
+  Exotica: 5
+  Chemicals: 38
+  Electronics: 28
+Build PTS Hypersonic Missile in Chemical Plant
+Time to Build / Upgrade: 3
+[7105] Technology Required to Build Unit (77):
+  [7105] Hypercruise Missiles (77)
 Unit can be disbanded: YES

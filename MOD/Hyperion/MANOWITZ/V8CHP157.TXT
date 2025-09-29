@@ -1,143 +1,87 @@
-All units of the unit class Radar Picket Submarine are listed herein (3 in total):
+All units of the unit class Spy Plane are listed herein (2 in total):
 
 --1--
-Name: Radar Picket Submarine
-Nick Name: NN-SSRP
+Name: Spy Plane
+Nick Name: Sage
 Scores & Strengths:
-  Tech Score: 932
-  Unit Score: 932
-  Average Score: 932
-  Stat Strength: 764
-  Total Strength: 932
-  Planet Strength: 932
+  Tech Score: 1725
+  Unit Score: 926
+  Average Score: 1325
+  Stat Strength: 926
+  Total Strength: 926
+  Planet Strength: 926
   Space Strength: 0
-  Garrison Strength: 269
+  Garrison Strength: 197
 Statistics:
-  Movement Type: underwater
-  Move Points: 12
-  Spot: 14
+  Movement Type: air
+  Move Points: 22
+  Spot: 10
   Camouflage: 10
-  Agility: 6
-  Armor: 12
-  Psy Defense: 12
-  Rank: 738
-Attacks:
-  Water: 8/16
-  Indirect: 5/8
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 49
-Build Cost: 494
+  Agility: 12
+  Armor: 7
+  Psy Defense: 7
+  Rank: 88
+Load aboard transport: YES
+Upkeep / Maintenance: 4
+Build Cost: 42
 Build Resource Requirements:
   Food: 7
-  Energy: 19
-  Metal: 23
-  Trace: 23
-  Exotica: 8
-  Chemicals: 19
-  Biochems: 11
-  Electronics: 16
-Build Radar Picket Submarine in Well
-Time to Build / Upgrade: 2
-[3615] Technology Required to Build Unit (87):
-  [3615] Submarine Warfare (87)
+  Energy: 12
+  Metal: 1
+  Trace: 5
+  Exotica: 7
+  Chemicals: 18
+  Electronics: 9
+  Ceramsteel: 4
+Build Spy Plane in Factory
+Time to Build / Upgrade: 1
+[8210] Technology Required to Build Unit (74):
+  [8210] Aircraft Surveillance (74)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Submarine Cruiser
-Nick Name: NSS-SC
+Name: Stealth Spy Plane
+Nick Name: Seer
 Scores & Strengths:
-  Tech Score: 658
-  Unit Score: 1316
-  Average Score: 987
-  Stat Strength: 789
-  Total Strength: 1316
-  Planet Strength: 1316
+  Tech Score: 7253
+  Unit Score: 6893
+  Average Score: 7073
+  Stat Strength: 6893
+  Total Strength: 6893
+  Planet Strength: 6893
   Space Strength: 0
-  Garrison Strength: 465
+  Garrison Strength: 1063
 Statistics:
-  Movement Type: underwater
-  Move Points: 8
-  Spot: 8
-  Camouflage: 10
-  Agility: 7
-  Armor: 16
-  Psy Defense: 16
-  Rank: 720
-Attacks:
-  Water: 5/25
-  Air: 6/16
-  Indirect: 4/24
-  Direct: 9/10
-  Close: 15/8
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 143
-Build Cost: 1431
-Build Resource Requirements:
-  Food: 4
-  Energy: 82
-  Metal: 49
-  Trace: 37
-  Exotica: 4
-  Chemicals: 82
-  Biochems: 18
-  Electronics: 27
-Build Submarine Cruiser in Well
-Time to Build / Upgrade: 5
-[2270] Technology Required to Build Unit (86):
-  [2270] Naval Escort Ships (86)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---3--
-Name: Submarine Aircraft Carrier
-Nick Name: N-SCV
-Scores & Strengths:
-  Tech Score: 1868
-  Unit Score: 1866
-  Average Score: 1867
-  Stat Strength: 1020
-  Total Strength: 1866
-  Planet Strength: 1866
-  Space Strength: 0
-  Garrison Strength: 590
-Statistics:
-  Movement Type: underwater
-  Move Points: 10
+  Movement Type: air
+  Move Points: 42
   Spot: 16
-  Camouflage: 16
-  Agility: 4
-  Armor: 14
-  Psy Defense: 14
-  Rank: 736
-Attacks:
-  Water: 14/24
-  Air: 14/18
-  Direct: 10/16
-  Close: 7/14
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 64
-Build Cost: 640
+  Camouflage: 40
+  Agility: 31
+  Armor: 34
+  Psy Defense: 34
+  Rank: 146
+Load aboard transport: YES
+Upkeep / Maintenance: 96
+Build Cost: 956
 Build Resource Requirements:
   Food: 3
-  Energy: 23
-  Metal: 9
-  Trace: 16
+  Energy: 6
+  Metal: 5
+  Trace: 14
   Exotica: 3
-  Chemicals: 30
-  Biochems: 6
-  Electronics: 20
-  Ceramsteel: 11
-Build Submarine Aircraft Carrier in Well
+  Chemicals: 10
+  Biochems: 15
+  Electronics: 25
+  Ceramsteel: 8
+  Wetware: 4
+  Monopols: 18
+Build Stealth Spy Plane in Factory
 Time to Build / Upgrade: 3
-[11930] Technologies Required to Build Unit (84):
-  [2665] V/STOL Aircraft (85)
-  [1970] Cargo Handling (87)
-  [7295] Nuclear-Powered Navalcraft (81)
+[63460] Technologies Required to Build Unit (54):
+  [8210] Aircraft Surveillance (74)
+  [55250] Neumonic Patrolcraft (34)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

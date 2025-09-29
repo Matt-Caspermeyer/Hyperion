@@ -1,39 +1,40 @@
-All units of the unit class Rebel Partisans are listed herein (11 in total):
+All units of the unit class Tracker Legion are listed herein (10 in total):
 
 --1--
-Name: Rebel Partisans
-Nick Name: Partisan
+Name: Tracker Legion
+Nick Name: Tracker
 Scores & Strengths:
   Tech Score: 1019
-  Unit Score: 1019
+  Unit Score: 1018
   Average Score: 1019
-  Stat Strength: 656
-  Total Strength: 1019
-  Planet Strength: 1019
+  Stat Strength: 678
+  Total Strength: 1018
+  Planet Strength: 1018
   Space Strength: 0
-  Garrison Strength: 322
+  Garrison Strength: 321
 Statistics:
   Movement Type: foot
   Move Points: 10
-  Spot: 10
-  Camouflage: 10
-  Agility: 18
+  Spot: 11
+  Camouflage: 11
+  Agility: 16
   Armor: 4
-  Psy Defense: 4
-  Rank: 55
+  Psy Defense: 8
+  Rank: 60
 Attacks:
-  Air: 14/6
-  Indirect: 12/9
-  Direct: 12/8
-  Close: 15/5
+  Direct: 10/15
+  Close: 19/10
 Load aboard transport: YES
 Upkeep / Maintenance: 16
-Build Cost: 77
+Build Cost: 140
 Build Resource Requirements:
+  Trace: 18
+  Exotica: 7
+  Chemicals: 29
   Biochems: 43
-  Electronics: 45
-  Ceramsteel: 1
-Upgrade Freedom Fighter to Rebel Partisans at Fort
+  Electronics: 41
+  Ceramsteel: 2
+Upgrade Peasant to Tracker Legion at Fort
 Time to Build / Upgrade: 2
 [4070] Technology Required to Build Unit (69):
   [4070] Tracker Legion (69)
@@ -42,85 +43,41 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Rebel Officer
-Nick Name: Rebel Officer
-Scores & Strengths:
-  Tech Score: 1171
-  Unit Score: 1171
-  Average Score: 1171
-  Stat Strength: 516
-  Total Strength: 1171
-  Planet Strength: 1171
-  Space Strength: 0
-  Garrison Strength: 414
-Statistics:
-  Movement Type: foot
-  Move Points: 8
-  Spot: 8
-  Camouflage: 8
-  Agility: 14
-  Armor: 8
-  Psy Defense: 8
-  Rank: 726
-Attacks:
-  Air: 17/12
-  Indirect: 14/12
-  Direct: 13/10
-  Close: 17/9
-Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 21
-Build Cost: 129
-Build Resource Requirements:
-  Energy: 7
-  Metal: 3
-  Ceramsteel: 2
-Upgrade Rebel Partisans to Rebel Officer at Fort
-Time to Build / Upgrade: 1
-[6240] Technologies Required to Build Unit (65):
-  [1615] Wireblades (76)
-  [4625] Xenoenvironments (53)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---3--
-Name: Rebel Partisans (BE)
-Nick Name: Partisan (BE)
+Name: Tracker Legion (BE)
+Nick Name: Tracker (BE)
 Scores & Strengths:
   Tech Score: 1042
-  Unit Score: 1189
-  Average Score: 1115
-  Stat Strength: 756
-  Total Strength: 1189
-  Planet Strength: 1189
+  Unit Score: 1229
+  Average Score: 1135
+  Stat Strength: 795
+  Total Strength: 1229
+  Planet Strength: 1229
   Space Strength: 0
-  Garrison Strength: 358
+  Garrison Strength: 370
 Statistics:
   Movement Type: foot
   Move Points: 11
-  Spot: 11
-  Camouflage: 11
-  Agility: 19
+  Spot: 12
+  Camouflage: 12
+  Agility: 17
   Armor: 4
-  Psy Defense: 4
-  Rank: 58
+  Psy Defense: 9
+  Rank: 64
 Attacks:
-  Air: 16/6
-  Indirect: 14/10
-  Direct: 14/8
-  Close: 17/5
+  Direct: 12/16
+  Close: 22/11
 Load aboard transport: YES
 Upkeep / Maintenance: 19
-Build Cost: 110
+Build Cost: 54
 Build Resource Requirements:
   Food: 1
-  Energy: 1
-  Trace: 8
+  Energy: 2
+  Trace: 6
   Exotica: 2
-  Chemicals: 1
-  Biochems: 7
+  Chemicals: 2
+  Biochems: 9
   Electronics: 6
-Upgrade Rebel Partisans to Rebel Partisans (BE) at Biochem Plant
+Upgrade Tracker Legion to Tracker Legion (BE) at Biochem Plant
 Time to Build / Upgrade: 1
 [4490] Technologies Required to Build Unit (73):
   [4070] Tracker Legion (69)
@@ -129,45 +86,44 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---4--
-Name: Rebel Partisans (SE)
-Nick Name: Partisan (SE)
+--3--
+Name: Tracker Legion (SE)
+Nick Name: Tracker (SE)
 Scores & Strengths:
   Tech Score: 1086
-  Unit Score: 1343
-  Average Score: 1215
-  Stat Strength: 836
-  Total Strength: 1343
-  Planet Strength: 1343
+  Unit Score: 1326
+  Average Score: 1206
+  Stat Strength: 846
+  Total Strength: 1326
+  Planet Strength: 1326
   Space Strength: 0
-  Garrison Strength: 387
+  Garrison Strength: 382
 Statistics:
   Movement Type: foot
   Move Points: 12
-  Spot: 11
-  Camouflage: 11
-  Agility: 20
+  Spot: 12
+  Camouflage: 12
+  Agility: 17
   Armor: 5
-  Psy Defense: 5
-  Rank: 60
+  Psy Defense: 10
+  Rank: 67
 Attacks:
-  Air: 17/7
-  Indirect: 14/11
-  Direct: 14/9
-  Close: 18/6
+  Direct: 12/18
+  Close: 22/12
 Load aboard transport: YES
 Upkeep / Maintenance: 21
-Build Cost: 136
+Build Cost: 69
 Build Resource Requirements:
-  Food: 2
-  Energy: 3
+  Food: 1
+  Energy: 4
   Metal: 1
-  Trace: 9
-  Exotica: 3
-  Chemicals: 5
-  Biochems: 13
-  Electronics: 9
-Upgrade Rebel Partisans to Rebel Partisans (SE) at Hospital
+  Trace: 6
+  Exotica: 2
+  Chemicals: 6
+  Biochems: 12
+  Electronics: 6
+  Ceramsteel: 1
+Upgrade Tracker Legion to Tracker Legion (SE) at Hospital
 Time to Build / Upgrade: 1
 [4745] Technologies Required to Build Unit (72):
   [4070] Tracker Legion (69)
@@ -176,39 +132,38 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---5--
-Name: Rebel Partisans (DE)
-Nick Name: Partisan (DE)
+--4--
+Name: Tracker Legion (DE)
+Nick Name: Tracker (DE)
 Scores & Strengths:
   Tech Score: 1378
-  Unit Score: 1558
-  Average Score: 1468
-  Stat Strength: 950
-  Total Strength: 1558
-  Planet Strength: 1558
+  Unit Score: 1608
+  Average Score: 1493
+  Stat Strength: 1004
+  Total Strength: 1608
+  Planet Strength: 1608
   Space Strength: 0
-  Garrison Strength: 432
+  Garrison Strength: 445
 Statistics:
   Movement Type: foot
   Move Points: 13
-  Spot: 11
-  Camouflage: 13
-  Agility: 21
+  Spot: 13
+  Camouflage: 14
+  Agility: 18
   Armor: 5
-  Psy Defense: 5
-  Rank: 66
+  Psy Defense: 11
+  Rank: 73
 Attacks:
-  Air: 19/8
-  Indirect: 16/11
-  Direct: 16/10
-  Close: 20/6
+  Direct: 14/19
+  Close: 26/13
 Load aboard transport: YES
-Upkeep / Maintenance: 17
-Build Cost: 90
+Upkeep / Maintenance: 18
+Build Cost: 38
 Build Resource Requirements:
-  Metal: 1
-  Biochems: 3
-Upgrade Rebel Partisans to Rebel Partisans (DE) at Biochem Plant
+  Metal: 2
+  Biochems: 6
+  Ceramsteel: 2
+Upgrade Tracker Legion to Tracker Legion (DE) at Biochem Plant
 Time to Build / Upgrade: 1
 [7510] Technologies Required to Build Unit (67):
   [4070] Tracker Legion (69)
@@ -217,38 +172,36 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---6--
-Name: Rebel Partisans (GE)
-Nick Name: Partisan (GE)
+--5--
+Name: Tracker Legion (GE)
+Nick Name: Tracker (GE)
 Scores & Strengths:
   Tech Score: 1439
-  Unit Score: 1754
-  Average Score: 1596
-  Stat Strength: 1049
-  Total Strength: 1754
-  Planet Strength: 1754
+  Unit Score: 1739
+  Average Score: 1589
+  Stat Strength: 1108
+  Total Strength: 1739
+  Planet Strength: 1739
   Space Strength: 0
-  Garrison Strength: 468
+  Garrison Strength: 464
 Statistics:
   Movement Type: foot
   Move Points: 14
-  Spot: 12
-  Camouflage: 14
-  Agility: 21
+  Spot: 13
+  Camouflage: 15
+  Agility: 19
   Armor: 6
-  Psy Defense: 6
-  Rank: 69
+  Psy Defense: 11
+  Rank: 75
 Attacks:
-  Air: 20/8
-  Indirect: 17/12
-  Direct: 17/11
-  Close: 22/7
+  Direct: 14/20
+  Close: 27/13
 Load aboard transport: YES
 Upkeep / Maintenance: 17
-Build Cost: 80
+Build Cost: 133
 Build Resource Requirements:
-  Biochems: 1
-Upgrade Rebel Partisans (DE) to Rebel Partisans (GE) at Lab
+  Chemicals: 1
+Upgrade Tracker Legion (DE) to Tracker Legion (GE) at Lab
 Time to Build / Upgrade: 1
 [10090] Technologies Required to Build Unit (59):
   [4070] Tracker Legion (69)
@@ -257,41 +210,40 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---7--
-Name: Rebel Partisans (PA)
-Nick Name: Partisan (PA)
+--6--
+Name: Tracker Legion (PA)
+Nick Name: Tracker (PA)
 Scores & Strengths:
   Tech Score: 1723
-  Unit Score: 1991
-  Average Score: 1857
-  Stat Strength: 1150
-  Total Strength: 1991
-  Planet Strength: 1991
+  Unit Score: 2037
+  Average Score: 1880
+  Stat Strength: 1257
+  Total Strength: 2037
+  Planet Strength: 2037
   Space Strength: 0
-  Garrison Strength: 514
+  Garrison Strength: 525
 Statistics:
   Movement Type: foot
   Move Points: 15
-  Spot: 12
-  Camouflage: 15
-  Agility: 22
+  Spot: 14
+  Camouflage: 16
+  Agility: 20
   Armor: 6
-  Psy Defense: 6
-  Rank: 74
+  Psy Defense: 12
+  Rank: 82
 Attacks:
-  Air: 21/9
-  Indirect: 18/14
-  Direct: 18/12
-  Close: 23/8
+  Direct: 15/23
+  Close: 29/15
 Load aboard transport: YES
-Upkeep / Maintenance: 23
-Build Cost: 89
+Upkeep / Maintenance: 24
+Build Cost: 170
 Build Resource Requirements:
-  Energy: 4
-  Chemicals: 4
-  Electronics: 2
+  Energy: 5
+  Metal: 1
+  Chemicals: 6
+  Electronics: 4
   Ceramsteel: 1
-Upgrade Rebel Partisans (SE) to Rebel Partisans (PA) at Hospital
+Upgrade Tracker Legion (SE) to Tracker Legion (PA) at Hospital
 Time to Build / Upgrade: 1
 [10245] Technologies Required to Build Unit (63):
   [4070] Tracker Legion (69)
@@ -300,43 +252,42 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---8--
-Name: Rebel Partisans (AVE)
-Nick Name: Partisan (AVE)
+--7--
+Name: Tracker Legion (AVE)
+Nick Name: Tracker (AVE)
 Scores & Strengths:
   Tech Score: 1898
-  Unit Score: 2229
-  Average Score: 2063
-  Stat Strength: 1282
-  Total Strength: 2229
-  Planet Strength: 2229
+  Unit Score: 2284
+  Average Score: 2091
+  Stat Strength: 1381
+  Total Strength: 2284
+  Planet Strength: 2284
   Space Strength: 0
-  Garrison Strength: 557
+  Garrison Strength: 571
 Statistics:
   Movement Type: foot
   Move Points: 16
-  Spot: 13
-  Camouflage: 16
-  Agility: 23
+  Spot: 14
+  Camouflage: 18
+  Agility: 20
   Armor: 6
-  Psy Defense: 6
-  Rank: 79
+  Psy Defense: 13
+  Rank: 86
 Attacks:
-  Air: 23/9
-  Indirect: 20/14
-  Direct: 20/13
-  Close: 25/8
+  Direct: 17/23
+  Close: 32/16
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 26
-Build Cost: 179
+Upkeep / Maintenance: 28
+Build Cost: 143
 Build Resource Requirements:
-  Energy: 2
+  Energy: 3
   Trace: 2
-  Chemicals: 5
-  Biochems: 7
-  Electronics: 4
-Upgrade Rebel Partisans (GE) to Rebel Partisans (AVE) at Lab
+  Chemicals: 6
+  Biochems: 11
+  Electronics: 6
+  Ceramsteel: 1
+Upgrade Tracker Legion (GE) to Tracker Legion (AVE) at Lab
 Time to Build / Upgrade: 1
 [12970] Technologies Required to Build Unit (47):
   [4070] Tracker Legion (69)
@@ -345,42 +296,40 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---9--
-Name: Rebel Partisans (CE)
-Nick Name: Partisan (CE)
+--8--
+Name: Tracker Legion (CE)
+Nick Name: Tracker (CE)
 Scores & Strengths:
   Tech Score: 2074
-  Unit Score: 2331
-  Average Score: 2202
-  Stat Strength: 1341
-  Total Strength: 2331
-  Planet Strength: 2331
+  Unit Score: 2464
+  Average Score: 2269
+  Stat Strength: 1495
+  Total Strength: 2464
+  Planet Strength: 2464
   Space Strength: 0
-  Garrison Strength: 565
+  Garrison Strength: 597
 Statistics:
   Movement Type: foot
   Move Points: 17
-  Spot: 13
-  Camouflage: 16
-  Agility: 23
+  Spot: 14
+  Camouflage: 18
+  Agility: 21
   Armor: 7
-  Psy Defense: 7
-  Rank: 80
+  Psy Defense: 14
+  Rank: 90
 Attacks:
-  Air: 23/10
-  Indirect: 20/15
-  Direct: 20/13
-  Close: 25/8
+  Direct: 17/25
+  Close: 32/17
 Load aboard transport: YES
-Upkeep / Maintenance: 24
-Build Cost: 149
+Upkeep / Maintenance: 27
+Build Cost: 99
 Build Resource Requirements:
-  Food: 1
-  Energy: 2
+  Energy: 4
   Metal: 1
-  Exotica: 1
-  Chemicals: 4
-Upgrade Rebel Partisans (PA) to Rebel Partisans (CE) at Lab
+  Chemicals: 8
+  Biochems: 3
+  Ceramsteel: 2
+Upgrade Tracker Legion (PA) to Tracker Legion (CE) at Lab
 Time to Build / Upgrade: 1
 [12670] Technologies Required to Build Unit (59):
   [4070] Tracker Legion (69)
@@ -389,39 +338,39 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---10--
-Name: Rebel Partisans (MF)
-Nick Name: Partisan (MF)
+--9--
+Name: Tracker Legion (MF)
+Nick Name: Tracker (MF)
 Scores & Strengths:
   Tech Score: 3221
-  Unit Score: 3462
-  Average Score: 3341
-  Stat Strength: 1904
-  Total Strength: 3462
-  Planet Strength: 3462
+  Unit Score: 3550
+  Average Score: 3385
+  Stat Strength: 2080
+  Total Strength: 3550
+  Planet Strength: 3550
   Space Strength: 0
-  Garrison Strength: 755
+  Garrison Strength: 774
 Statistics:
   Movement Type: foot
   Move Points: 21
-  Spot: 15
-  Camouflage: 20
-  Agility: 26
+  Spot: 16
+  Camouflage: 22
+  Agility: 23
   Armor: 9
-  Psy Defense: 9
-  Rank: 100
+  Psy Defense: 17
+  Rank: 111
 Attacks:
-  Air: 29/12
-  Indirect: 25/19
-  Direct: 25/17
-  Close: 31/10
+  Direct: 21/31
+  Close: 39/21
 Load aboard transport: YES
-Upkeep / Maintenance: 162
-Build Cost: 1469
+Upkeep / Maintenance: 186
+Build Cost: 1757
 Build Resource Requirements:
-  Wetware: 23
-  Monopols: 27
-Upgrade Rebel Partisans (CE) to Rebel Partisans (MF) at Wetware
+  Energy: 1
+  Chemicals: 1
+  Wetware: 19
+  Monopols: 39
+Upgrade Tracker Legion (CE) to Tracker Legion (MF) at Wetware
 Time to Build / Upgrade: 3
 [22645] Technologies Required to Build Unit (52):
   [4070] Tracker Legion (69)
@@ -430,40 +379,38 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---11--
-Name: Rebel Partisans (NE)
-Nick Name: Partisan (NE)
+--10--
+Name: Tracker Legion (NE)
+Nick Name: Tracker (NE)
 Scores & Strengths:
   Tech Score: 3908
-  Unit Score: 4341
-  Average Score: 4125
-  Stat Strength: 2339
-  Total Strength: 4341
-  Planet Strength: 4341
+  Unit Score: 4543
+  Average Score: 4226
+  Stat Strength: 2623
+  Total Strength: 4543
+  Planet Strength: 4543
   Space Strength: 0
-  Garrison Strength: 905
+  Garrison Strength: 947
 Statistics:
   Movement Type: foot
   Move Points: 23
-  Spot: 16
-  Camouflage: 25
-  Agility: 27
+  Spot: 17
+  Camouflage: 27
+  Agility: 24
   Armor: 10
-  Psy Defense: 10
-  Rank: 113
+  Psy Defense: 20
+  Rank: 126
 Attacks:
-  Air: 33/14
-  Indirect: 28/21
-  Direct: 28/19
-  Close: 35/12
+  Direct: 24/35
+  Close: 45/24
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 214
-Build Cost: 1958
+Upkeep / Maintenance: 233
+Build Cost: 2184
 Build Resource Requirements:
-  Wetware: 26
-  Monopols: 21
-Upgrade Rebel Partisans (AVE) to Rebel Partisans (NE) at Fusorium
+  Wetware: 22
+  Monopols: 30
+Upgrade Tracker Legion (AVE) to Tracker Legion (NE) at Fusorium
 Time to Build / Upgrade: 3
 [28200] Technologies Required to Build Unit (51):
   [4070] Tracker Legion (69)

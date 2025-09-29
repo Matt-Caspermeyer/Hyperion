@@ -1,561 +1,476 @@
-All units of the unit class Holy Sp. Monitor are listed herein (12 in total):
+All units of the unit class Supersonic Fighter are listed herein (10 in total):
 
 --1--
-Name: Holy Sp. Monitor
-Nick Name: SS-HSM
+Name: Supersonic Fighter
+Nick Name: Jaguar
 Scores & Strengths:
-  Tech Score: 725
-  Unit Score: 906
-  Average Score: 816
-  Stat Strength: 575
-  Total Strength: 906
-  Planet Strength: 0
-  Space Strength: 906
-  Garrison Strength: 0
+  Tech Score: 851
+  Unit Score: 851
+  Average Score: 851
+  Stat Strength: 590
+  Total Strength: 851
+  Planet Strength: 851
+  Space Strength: 0
+  Garrison Strength: 195
 Statistics:
-  Movement Type: space
-  Move Points: 3
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 10
-  Psy Defense: 20
-  Rank: 824
+  Movement Type: air
+  Move Points: 19
+  Spot: 6
+  Camouflage: 4
+  Agility: 7
+  Armor: 8
+  Psy Defense: 8
+  Rank: 158
 Attacks:
-  Ranged Space: 8/14
-  Direct Space: 6/10
-  Closed Space: 9/7
-  Psychic: 8/12
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 73
-Build Cost: 656
+  Air: 11/11
+  Indirect: 14/10
+Load aboard transport: YES
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 11
+Build Cost: 109
 Build Resource Requirements:
-  Energy: 2
-  Metal: 35
-  Trace: 12
-  Chemicals: 21
+  Food: 9
+  Energy: 25
+  Metal: 76
+  Trace: 20
+  Exotica: 9
+  Chemicals: 31
   Electronics: 11
-  Gems: 12
-Upgrade Clergy to Holy Sp. Monitor at Church
-Time to Build / Upgrade: 2
-[3325] Technologies Required to Build Unit (85):
-  [700] Rockets (90)
-  [1100] Omen (76)
-  [330] Holy Warriors (82)
-  [1195] Naval Warfare (90)
+Build Supersonic Fighter in Factory
+Time to Build / Upgrade: 3
+[3200] Technology Required to Build Unit (85):
+  [3200] Supersonic Aircraft (85)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Holy Dreadstar
-Nick Name: SS-HSDs
+Name: Rocket Fighter
+Nick Name: Cheetah
 Scores & Strengths:
-  Tech Score: 1068
-  Unit Score: 1603
-  Average Score: 1336
-  Stat Strength: 947
-  Total Strength: 1603
-  Planet Strength: 0
-  Space Strength: 1603
-  Garrison Strength: 0
+  Tech Score: 690
+  Unit Score: 863
+  Average Score: 777
+  Stat Strength: 745
+  Total Strength: 863
+  Planet Strength: 863
+  Space Strength: 0
+  Garrison Strength: 179
 Statistics:
-  Movement Type: space
-  Move Points: 6
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 13
-  Psy Defense: 26
-  Rank: 810
+  Movement Type: air
+  Move Points: 23
+  Spot: 6
+  Camouflage: 4
+  Agility: 6
+  Armor: 8
+  Psy Defense: 8
+  Rank: 150
 Attacks:
-  Ranged Space: 5/30
-  Direct Space: 7/24
-  Psychic: 26/13
-Officer - Provides stack combat bonuses
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 151
-Build Cost: 1441
+  Air: 6/8
+  Indirect: 7/10
+Load aboard transport: YES
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 12
+Build Cost: 121
 Build Resource Requirements:
-  Energy: 34
-  Metal: 41
-  Trace: 6
-  Chemicals: 54
-  Biochems: 3
-  Electronics: 4
-  Gems: 14
-Upgrade Clergy to Holy Dreadstar at Church
+  Food: 15
+  Energy: 35
+  Metal: 76
+  Trace: 8
+  Exotica: 15
+  Chemicals: 40
+  Electronics: 6
+Build Rocket Fighter in Factory
 Time to Build / Upgrade: 3
-[5370] Technologies Required to Build Unit (80):
-  [795] Rocket Propulsion (90)
-  [1520] Psyche (60)
-  [330] Holy Warriors (82)
-  [2725] Naval Capital Ships (88)
+[2420] Technology Required to Build Unit (87):
+  [2420] Rocket-Propelled Aircraft (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Holy Battlestar
-Nick Name: SS-HSBs
+Name: Hypersonic Fighter
+Nick Name: Puma
 Scores & Strengths:
-  Tech Score: 1068
-  Unit Score: 1604
-  Average Score: 1336
-  Stat Strength: 822
-  Total Strength: 1604
-  Planet Strength: 0
-  Space Strength: 1604
-  Garrison Strength: 0
+  Tech Score: 1306
+  Unit Score: 1307
+  Average Score: 1306
+  Stat Strength: 830
+  Total Strength: 1307
+  Planet Strength: 1307
+  Space Strength: 0
+  Garrison Strength: 285
 Statistics:
-  Movement Type: space
-  Move Points: 6
+  Movement Type: air
+  Move Points: 21
   Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 12
-  Psy Defense: 24
-  Rank: 844
+  Camouflage: 5
+  Agility: 10
+  Armor: 10
+  Psy Defense: 10
+  Rank: 170
 Attacks:
-  Ranged Space: 10/26
-  Direct Space: 13/18
-  Psychic: 24/12
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 89
-Build Cost: 814
+  Air: 15/15
+  Indirect: 18/14
+Load aboard transport: YES
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 14
+Build Cost: 140
 Build Resource Requirements:
-  Energy: 17
-  Metal: 35
-  Trace: 13
-  Chemicals: 37
-  Biochems: 7
-  Electronics: 10
-  Gems: 11
-Upgrade Clergy to Holy Battlestar at Church
-Time to Build / Upgrade: 2
-[5370] Technologies Required to Build Unit (80):
-  [795] Rocket Propulsion (90)
-  [1520] Psyche (60)
-  [330] Holy Warriors (82)
-  [2725] Naval Capital Ships (88)
+  Food: 8
+  Energy: 25
+  Metal: 119
+  Trace: 19
+  Exotica: 8
+  Chemicals: 36
+  Electronics: 14
+Build Hypersonic Fighter in Factory
+Time to Build / Upgrade: 3
+[5665] Technology Required to Build Unit (82):
+  [5665] Hypersonic Aircraft (82)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Holy Dreadstar II
-Nick Name: SS-HSDr
+Name: Supersonic Fighter II
+Nick Name: Jaguar II
 Scores & Strengths:
-  Tech Score: 1965
-  Unit Score: 1965
-  Average Score: 1965
-  Stat Strength: 1281
-  Total Strength: 1965
-  Planet Strength: 0
-  Space Strength: 1965
-  Garrison Strength: 0
+  Tech Score: 1773
+  Unit Score: 1702
+  Average Score: 1737
+  Stat Strength: 1166
+  Total Strength: 1702
+  Planet Strength: 1702
+  Space Strength: 0
+  Garrison Strength: 327
 Statistics:
-  Movement Type: space
-  Move Points: 6
-  Spot: 10
-  Camouflage: 2
-  Agility: 4
-  Armor: 15
-  Psy Defense: 30
-  Rank: 808
+  Movement Type: air
+  Move Points: 27
+  Spot: 7
+  Camouflage: 6
+  Agility: 8
+  Armor: 12
+  Psy Defense: 12
+  Rank: 176
 Attacks:
-  Ranged Space: 6/23
-  Direct Space: 6/16
-  Psychic: 30/15
-Officer - Provides stack combat bonuses
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 150
-Build Cost: 1423
+  Air: 16/16
+  Indirect: 20/14
+Load aboard transport: YES
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 10
+Build Cost: 99
 Build Resource Requirements:
-  Metal: 21
-  Trace: 3
-  Chemicals: 22
-  Biochems: 2
-  Electronics: 4
-  Ceramsteel: 28
-  Gems: 15
-Upgrade Clergy to Holy Dreadstar II at Church
+  Food: 6
+  Energy: 20
+  Metal: 7
+  Trace: 14
+  Exotica: 7
+  Chemicals: 25
+  Biochems: 8
+  Electronics: 8
+  Ceramsteel: 9
+Build Supersonic Fighter II in Factory
 Time to Build / Upgrade: 2
-[11230] Technologies Required to Build Unit (74):
-  [2790] Supercruise (86)
-  [330] Holy Warriors (82)
-  [2255] Sympathy (Bonding) (45)
+[10840] Technologies Required to Build Unit (86):
+  [1785] Rotary Autocannon (90)
+  [3200] Supersonic Aircraft (85)
   [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Holy Fast Battlestar
-Nick Name: SS-HSFBs
+Name: Adv. Supersonic Fighter
+Nick Name: Jaguar III
 Scores & Strengths:
-  Tech Score: 1965
-  Unit Score: 1965
-  Average Score: 1965
-  Stat Strength: 1169
-  Total Strength: 1965
-  Planet Strength: 0
-  Space Strength: 1965
-  Garrison Strength: 0
+  Tech Score: 1979
+  Unit Score: 1899
+  Average Score: 1939
+  Stat Strength: 1295
+  Total Strength: 1899
+  Planet Strength: 1899
+  Space Strength: 0
+  Garrison Strength: 352
 Statistics:
-  Movement Type: space
-  Move Points: 8
-  Spot: 10
-  Camouflage: 3
-  Agility: 4
-  Armor: 14
-  Psy Defense: 28
-  Rank: 850
+  Movement Type: air
+  Move Points: 29
+  Spot: 7
+  Camouflage: 6
+  Agility: 9
+  Armor: 12
+  Psy Defense: 12
+  Rank: 180
 Attacks:
-  Ranged Space: 10/18
-  Direct Space: 14/16
-  Psychic: 28/14
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 91
-Build Cost: 832
+  Air: 17/17
+  Indirect: 21/15
+Load aboard transport: YES
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 9
+Build Cost: 90
 Build Resource Requirements:
-  Metal: 18
-  Trace: 7
-  Chemicals: 17
-  Biochems: 4
-  Electronics: 8
-  Ceramsteel: 24
-  Gems: 12
-Upgrade Clergy to Holy Fast Battlestar at Church
+  Food: 6
+  Energy: 17
+  Metal: 7
+  Trace: 12
+  Exotica: 6
+  Chemicals: 23
+  Biochems: 7
+  Electronics: 7
+  Ceramsteel: 8
+Build Adv. Supersonic Fighter in Factory
 Time to Build / Upgrade: 2
-[11230] Technologies Required to Build Unit (74):
-  [2790] Supercruise (86)
-  [330] Holy Warriors (82)
-  [2255] Sympathy (Bonding) (45)
-  [5855] Guided Missile Navalcraft (84)
+[15810] Technologies Required to Build Unit (86):
+  [1785] Rotary Autocannon (90)
+  [3200] Supersonic Aircraft (85)
+  [6655] PTS Missile Navalcraft (83)
+  [4170] Supercruise Missiles (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Holy Super Dreadstar
-Nick Name: SS-HSSDr
+Name: Hypersonic Fighter II
+Nick Name: Puma II
 Scores & Strengths:
-  Tech Score: 1965
-  Unit Score: 2456
-  Average Score: 2211
-  Stat Strength: 1418
-  Total Strength: 2456
-  Planet Strength: 0
-  Space Strength: 2456
-  Garrison Strength: 0
+  Tech Score: 2021
+  Unit Score: 1937
+  Average Score: 1979
+  Stat Strength: 1202
+  Total Strength: 1937
+  Planet Strength: 1937
+  Space Strength: 0
+  Garrison Strength: 379
 Statistics:
-  Movement Type: space
-  Move Points: 5
-  Spot: 10
-  Camouflage: 2
-  Agility: 3
-  Armor: 16
-  Psy Defense: 32
-  Rank: 820
+  Movement Type: air
+  Move Points: 26
+  Spot: 9
+  Camouflage: 6
+  Agility: 11
+  Armor: 12
+  Psy Defense: 12
+  Rank: 184
 Attacks:
-  Ranged Space: 11/26
-  Direct Space: 12/20
-  Psychic: 32/16
-Officer - Provides stack combat bonuses
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 188
-Build Cost: 1809
+  Air: 19/19
+  Indirect: 22/17
+Load aboard transport: YES
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 11
+Build Cost: 105
 Build Resource Requirements:
-  Energy: 4
-  Metal: 25
-  Trace: 7
-  Chemicals: 29
-  Biochems: 3
-  Electronics: 7
-  Ceramsteel: 32
-  Gems: 17
-Upgrade Clergy to Holy Super Dreadstar at Church
-Time to Build / Upgrade: 3
-[11230] Technologies Required to Build Unit (74):
-  [2790] Supercruise (86)
-  [330] Holy Warriors (82)
-  [2255] Sympathy (Bonding) (45)
+  Food: 6
+  Energy: 20
+  Metal: 7
+  Trace: 16
+  Exotica: 6
+  Chemicals: 26
+  Biochems: 8
+  Electronics: 10
+  Ceramsteel: 9
+Build Hypersonic Fighter II in Factory
+Time to Build / Upgrade: 2
+[13305] Technologies Required to Build Unit (85):
+  [1785] Rotary Autocannon (90)
   [5855] Guided Missile Navalcraft (84)
+  [5665] Hypersonic Aircraft (82)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Sathra Monitor
-Nick Name: JJ-HSM
+Name: Rocket Fighter II
+Nick Name: Cheetah III
 Scores & Strengths:
-  Tech Score: 2245
-  Unit Score: 2812
-  Average Score: 2528
-  Stat Strength: 1778
-  Total Strength: 2812
-  Planet Strength: 0
-  Space Strength: 2812
-  Garrison Strength: 0
+  Tech Score: 1650
+  Unit Score: 1991
+  Average Score: 1820
+  Stat Strength: 1718
+  Total Strength: 1991
+  Planet Strength: 1991
+  Space Strength: 0
+  Garrison Strength: 331
 Statistics:
-  Movement Type: jump
-  Move Points: 5
-  Spot: 14
-  Camouflage: 2
-  Agility: 2
-  Armor: 18
-  Psy Defense: 35
-  Rank: 879
+  Movement Type: air
+  Move Points: 36
+  Spot: 7
+  Camouflage: 6
+  Agility: 7
+  Armor: 12
+  Psy Defense: 12
+  Rank: 169
 Attacks:
-  Ranged Space: 14/25
-  Direct Space: 11/18
-  Closed Space: 16/12
-  Psychic: 14/21
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 323
-Build Cost: 2578
+  Air: 9/12
+  Indirect: 11/15
+Load aboard transport: YES
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 13
+Build Cost: 126
 Build Resource Requirements:
-  Chemicals: 6
-  Biochems: 5
-  Electronics: 3
-  Ceramsteel: 37
-  Gems: 16
-S  ingularities: 2
-Upgrade Holy Sp. Monitor to Sathra Monitor at Church
-Time to Build / Upgrade: 1
-[13980] Technologies Required to Build Unit (71):
-  [4530] Hypersonics (83)
-  [330] Holy Warriors (82)
-  [2465] Sathra (36)
-  [6655] PTS Missile Navalcraft (83)
+  Food: 11
+  Energy: 28
+  Metal: 7
+  Trace: 6
+  Exotica: 12
+  Chemicals: 35
+  Biochems: 11
+  Electronics: 4
+  Ceramsteel: 9
+Build Rocket Fighter II in Factory
+Time to Build / Upgrade: 3
+[10060] Technologies Required to Build Unit (87):
+  [1785] Rotary Autocannon (90)
+  [2420] Rocket-Propelled Aircraft (87)
+  [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Sathra Dreadstar
-Nick Name: JJ-HSDs
+Name: Adv. Hypersonic Fighter
+Nick Name: Puma III
 Scores & Strengths:
-  Tech Score: 2544
-  Unit Score: 3808
-  Average Score: 3176
-  Stat Strength: 2233
-  Total Strength: 3808
-  Planet Strength: 0
-  Space Strength: 3808
-  Garrison Strength: 0
+  Tech Score: 2335
+  Unit Score: 2252
+  Average Score: 2293
+  Stat Strength: 1396
+  Total Strength: 2252
+  Planet Strength: 2252
+  Space Strength: 0
+  Garrison Strength: 425
 Statistics:
-  Movement Type: jump
-  Move Points: 9
-  Spot: 12
-  Camouflage: 2
-  Agility: 2
-  Armor: 20
-  Psy Defense: 40
-  Rank: 871
+  Movement Type: air
+  Move Points: 28
+  Spot: 9
+  Camouflage: 7
+  Agility: 12
+  Armor: 13
+  Psy Defense: 13
+  Rank: 191
 Attacks:
-  Ranged Space: 8/46
-  Direct Space: 11/37
-  Psychic: 40/20
-Officer - Provides stack combat bonuses
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 659
-Build Cost: 5153
+  Air: 20/20
+  Indirect: 24/19
+Load aboard transport: YES
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 10
+Build Cost: 95
 Build Resource Requirements:
-  Energy: 3
-  Chemicals: 21
-  Electronics: 2
-  Ceramsteel: 43
-  Gems: 7
-S  ingularities: 3
-Upgrade Holy Dreadstar to Sathra Dreadstar at Church
-Time to Build / Upgrade: 1
-[16135] Technologies Required to Build Unit (68):
-  [4920] Hypercruise (82)
-  [330] Holy Warriors (82)
-  [3590] Sathraists (26)
-  [7295] Nuclear-Powered Navalcraft (81)
+  Food: 5
+  Energy: 16
+  Metal: 8
+  Trace: 12
+  Exotica: 5
+  Chemicals: 23
+  Biochems: 6
+  Electronics: 8
+  Ceramsteel: 10
+Build Adv. Hypersonic Fighter in Factory
+Time to Build / Upgrade: 2
+[21210] Technologies Required to Build Unit (83):
+  [1785] Rotary Autocannon (90)
+  [6655] PTS Missile Navalcraft (83)
+  [5665] Hypersonic Aircraft (82)
+  [7105] Hypercruise Missiles (77)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Sathra Battlestar
-Nick Name: JJ-HSBs
+Name: Advanced Rocket Fighter
+Nick Name: Cheetah II
 Scores & Strengths:
-  Tech Score: 2544
-  Unit Score: 3826
-  Average Score: 3185
-  Stat Strength: 1963
-  Total Strength: 3826
-  Planet Strength: 0
-  Space Strength: 3826
-  Garrison Strength: 0
+  Tech Score: 1989
+  Unit Score: 2434
+  Average Score: 2211
+  Stat Strength: 2090
+  Total Strength: 2434
+  Planet Strength: 2434
+  Space Strength: 0
+  Garrison Strength: 389
 Statistics:
-  Movement Type: jump
-  Move Points: 9
-  Spot: 12
-  Camouflage: 2
-  Agility: 2
-  Armor: 19
-  Psy Defense: 37
-  Rank: 905
+  Movement Type: air
+  Move Points: 39
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 14
+  Psy Defense: 14
+  Rank: 176
 Attacks:
-  Ranged Space: 15/40
-  Direct Space: 20/28
-  Psychic: 37/19
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 428
-Build Cost: 3466
+  Air: 10/14
+  Indirect: 12/17
+Load aboard transport: YES
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 15
+Build Cost: 154
 Build Resource Requirements:
-  Energy: 3
-  Chemicals: 16
-  Electronics: 3
-  Ceramsteel: 38
-  Gems: 7
-S  ingularities: 3
-Upgrade Holy Battlestar to Sathra Battlestar at Church
-Time to Build / Upgrade: 2
-[16135] Technologies Required to Build Unit (68):
-  [4920] Hypercruise (82)
-  [330] Holy Warriors (82)
-  [3590] Sathraists (26)
-  [7295] Nuclear-Powered Navalcraft (81)
+  Food: 14
+  Energy: 34
+  Metal: 6
+  Trace: 7
+  Exotica: 14
+  Chemicals: 59
+  Electronics: 7
+  Ceramsteel: 15
+Build Advanced Rocket Fighter in Factory
+Time to Build / Upgrade: 3
+[9925] Technology Required to Build Unit (83):
+  [9925] Advanced Rocket-Propelled Aircraft (83)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Sathra Dreadstar II
-Nick Name: JJ-HSDr
+Name: Power Rocket Fighter
+Nick Name: Cheetah IV
 Scores & Strengths:
-  Tech Score: 4814
-  Unit Score: 4750
-  Average Score: 4782
-  Stat Strength: 3120
-  Total Strength: 4750
-  Planet Strength: 0
-  Space Strength: 4750
-  Garrison Strength: 0
+  Tech Score: 3140
+  Unit Score: 3758
+  Average Score: 3449
+  Stat Strength: 3222
+  Total Strength: 3758
+  Planet Strength: 3758
+  Space Strength: 0
+  Garrison Strength: 536
 Statistics:
-  Movement Type: jump
-  Move Points: 9
-  Spot: 16
-  Camouflage: 3
-  Agility: 6
-  Armor: 23
-  Psy Defense: 47
-  Rank: 873
+  Movement Type: air
+  Move Points: 49
+  Spot: 9
+  Camouflage: 9
+  Agility: 9
+  Armor: 17
+  Psy Defense: 17
+  Rank: 195
 Attacks:
-  Ranged Space: 9/36
-  Direct Space: 9/25
-  Psychic: 47/23
-Officer - Provides stack combat bonuses
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 868
-Build Cost: 7259
+  Air: 13/17
+  Indirect: 15/21
+Load aboard transport: YES
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 147
+Build Cost: 1471
 Build Resource Requirements:
-  Electronics: 5
-  Monopols: 32
-  Gems: 11
-S  ingularities: 3
-Upgrade Holy Dreadstar II to Sathra Dreadstar II at Church
-Time to Build / Upgrade: 1
-[39650] Technologies Required to Build Unit (63):
-  [7610] Atmospheric Aircraft (80)
-  [330] Holy Warriors (82)
-  [3835] Sathra's Space Doctrine (17)
-  [27875] PTS Meson Navalcraft (74)
+  Food: 9
+  Energy: 21
+  Metal: 2
+  Trace: 6
+  Exotica: 9
+  Chemicals: 36
+  Electronics: 9
+  Ceramsteel: 6
+  Monopols: 45
+Build Power Rocket Fighter in Factory
+Time to Build / Upgrade: 4
+[18245] Technology Required to Build Unit (80):
+  [18245] Power Rocket Aircraft (80)
 Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---11--
-Name: Sathra Fast Battlestar
-Nick Name: JJ-HSFBs
-Scores & Strengths:
-  Tech Score: 4814
-  Unit Score: 4872
-  Average Score: 4843
-  Stat Strength: 2906
-  Total Strength: 4872
-  Planet Strength: 0
-  Space Strength: 4872
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 13
-  Spot: 16
-  Camouflage: 5
-  Agility: 6
-  Armor: 22
-  Psy Defense: 44
-  Rank: 920
-Attacks:
-  Ranged Space: 16/28
-  Direct Space: 22/25
-  Psychic: 44/22
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 629
-Build Cost: 5454
-Build Resource Requirements:
-  Electronics: 7
-  Monopols: 27
-  Gems: 11
-S  ingularities: 4
-Upgrade Holy Fast Battlestar to Sathra Fast Battlestar at Church
-Time to Build / Upgrade: 1
-[39650] Technologies Required to Build Unit (63):
-  [7610] Atmospheric Aircraft (80)
-  [330] Holy Warriors (82)
-  [3835] Sathra's Space Doctrine (17)
-  [27875] PTS Meson Navalcraft (74)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---12--
-Name: Sathra Super Dreadstar
-Nick Name: JJ-HSSDr
-Scores & Strengths:
-  Tech Score: 4814
-  Unit Score: 6015
-  Average Score: 5415
-  Stat Strength: 3479
-  Total Strength: 6015
-  Planet Strength: 0
-  Space Strength: 6015
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 8
-  Spot: 16
-  Camouflage: 3
-  Agility: 5
-  Armor: 25
-  Psy Defense: 50
-  Rank: 895
-Attacks:
-  Ranged Space: 17/41
-  Direct Space: 19/31
-  Psychic: 50/25
-Officer - Provides stack combat bonuses
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 1045
-Build Cost: 8644
-Build Resource Requirements:
-  Electronics: 7
-  Monopols: 40
-  Gems: 14
-S  ingularities: 3
-Upgrade Holy Super Dreadstar to Sathra Super Dreadstar at Church
-Time to Build / Upgrade: 1
-[39650] Technologies Required to Build Unit (63):
-  [7610] Atmospheric Aircraft (80)
-  [330] Holy Warriors (82)
-  [3835] Sathra's Space Doctrine (17)
-  [27875] PTS Meson Navalcraft (74)
-Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

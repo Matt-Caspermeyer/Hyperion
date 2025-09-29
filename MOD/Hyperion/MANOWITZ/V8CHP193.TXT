@@ -1,468 +1,125 @@
-All units of the unit class Space Assault Lander are listed herein (10 in total):
+All units of the unit class Inquisitor are listed herein (3 in total):
 
 --1--
-Name: Space Assault Lander
-Nick Name: MM-ATL
+Name: Inquisitor
+Nick Name: Inquisitor
 Scores & Strengths:
-  Tech Score: 1831
-  Unit Score: 1831
-  Average Score: 1831
-  Stat Strength: 1127
-  Total Strength: 1831
-  Planet Strength: 1623
-  Space Strength: 1335
-  Garrison Strength: 513
+  Tech Score: 1757
+  Unit Score: 1756
+  Average Score: 1757
+  Stat Strength: 973
+  Total Strength: 1756
+  Planet Strength: 1756
+  Space Strength: 1168
+  Garrison Strength: 555
 Statistics:
-  Movement Type: mech
+  Movement Type: foot
   Move Points: 10
   Spot: 10
-  Camouflage: 5
-  Agility: 18
-  Armor: 17
-  Psy Defense: 17
-  Rank: 104
+  Camouflage: 8
+  Agility: 23
+  Armor: 6
+  Psy Defense: 12
+  Rank: 70
 Attacks:
-  Direct Space: 8/11
-  Closed Space: 10/12
-  Air: 12/14
-  Direct: 10/16
-  Close: 12/14
-Cargo Space: 1
-Immune to Plague
-Upkeep / Maintenance: 19
-Build Cost: 190
+  Psychic: 13/15
+  Indirect: 14/16
+  Direct: 13/14
+  Close: 14/13
+Load aboard transport: YES
+Inquisitor
+Upkeep / Maintenance: 184
+Build Cost: 1767
 Build Resource Requirements:
-  Food: 4
-  Energy: 22
-  Metal: 11
   Trace: 17
-  Exotica: 4
-  Chemicals: 37
+  Chemicals: 20
   Electronics: 26
-  Ceramsteel: 11
-Build Space Assault Lander in Starport
+  Monopols: 36
+  Gems: 60
+Upgrade Clergy to Inquisitor at Church
 Time to Build / Upgrade: 3
-[8890] Technology Required to Build Unit (86):
-  [8890] Space Transports (86)
+[8415] Technologies Required to Build Unit (79):
+  [8085] Fusion Rifles (75)
+  [330] Holy Warriors (82)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Space Lander Assault
-Nick Name: MM-LA
+Name: Syneculla Agent
+Nick Name: Syn Agent
 Scores & Strengths:
-  Tech Score: 1831
-  Unit Score: 1831
-  Average Score: 1831
-  Stat Strength: 1245
-  Total Strength: 1831
-  Planet Strength: 1537
-  Space Strength: 1539
-  Garrison Strength: 486
+  Tech Score: 1767
+  Unit Score: 1768
+  Average Score: 1768
+  Stat Strength: 990
+  Total Strength: 1768
+  Planet Strength: 1768
+  Space Strength: 1351
+  Garrison Strength: 533
 Statistics:
-  Movement Type: mech
-  Move Points: 10
-  Spot: 10
-  Camouflage: 6
-  Agility: 19
-  Armor: 18
-  Psy Defense: 18
-  Rank: 104
+  Movement Type: foot
+  Move Points: 11
+  Spot: 14
+  Camouflage: 13
+  Agility: 18
+  Armor: 6
+  Psy Defense: 12
+  Rank: 92
 Attacks:
-  Direct Space: 10/15
-  Closed Space: 12/12
-  Direct: 10/16
-  Close: 12/11
-Cargo Space: 1
-Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 182
+  Psychic: 19/19
+  Indirect: 16/8
+  Close: 17/17
+Load aboard transport: YES
+Inquisitor
+Upkeep / Maintenance: 163
 Build Resource Requirements:
-  Food: 4
-  Energy: 19
-  Metal: 12
-  Trace: 16
-  Exotica: 4
-  Chemicals: 33
-  Electronics: 25
-  Ceramsteel: 12
-Build Space Lander Assault in Starport
-Time to Build / Upgrade: 3
-[8890] Technology Required to Build Unit (86):
-  [8890] Space Transports (86)
+  Trace: 1
+  Gems: 2
+Upgrade Inquisitor to Syneculla Agent at Church
+Time to Build / Upgrade: 1
+[8715] Technologies Required to Build Unit (74):
+  [8085] Fusion Rifles (75)
+  [300] Fractal Metaphysics (64)
+  [330] Holy Warriors (82)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Space Lander Infantry
-Nick Name: MM-LI
+Name: Kalinthi
+Nick Name: Kalinthi
 Scores & Strengths:
-  Tech Score: 1831
-  Unit Score: 1831
-  Average Score: 1831
-  Stat Strength: 1245
-  Total Strength: 1831
-  Planet Strength: 1552
-  Space Strength: 1524
-  Garrison Strength: 548
+  Tech Score: 1860
+  Unit Score: 1861
+  Average Score: 1861
+  Stat Strength: 1021
+  Total Strength: 1861
+  Planet Strength: 1861
+  Space Strength: 1501
+  Garrison Strength: 588
 Statistics:
-  Movement Type: mech
-  Move Points: 8
-  Spot: 10
-  Camouflage: 5
-  Agility: 16
-  Armor: 20
-  Psy Defense: 20
-  Rank: 114
-Attacks:
-  Direct Space: 8/17
-  Closed Space: 11/13
-  Direct: 9/17
-  Close: 11/14
-Cargo Space: 2
-Immune to Plague
-Upkeep / Maintenance: 19
-Build Cost: 194
-Build Resource Requirements:
-  Food: 3
-  Energy: 21
-  Metal: 15
-  Trace: 13
-  Exotica: 3
-  Chemicals: 37
-  Electronics: 20
-  Ceramsteel: 15
-Build Space Lander Infantry in Starport
-Time to Build / Upgrade: 3
-[8890] Technology Required to Build Unit (86):
-  [8890] Space Transports (86)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: Space Lander Mechanized
-Nick Name: MM-LM
-Scores & Strengths:
-  Tech Score: 1831
-  Unit Score: 1831
-  Average Score: 1831
-  Stat Strength: 1264
-  Total Strength: 1831
-  Planet Strength: 1572
-  Space Strength: 1523
-  Garrison Strength: 641
-Statistics:
-  Movement Type: mech
-  Move Points: 6
-  Spot: 10
-  Camouflage: 4
-  Agility: 12
-  Armor: 22
-  Psy Defense: 22
-  Rank: 127
-Attacks:
-  Direct Space: 7/19
-  Closed Space: 9/14
-  Direct: 8/21
-  Close: 10/14
-Cargo Space: 3
-Immune to Plague
-Upkeep / Maintenance: 22
-Build Cost: 220
-Build Resource Requirements:
-  Food: 2
-  Energy: 25
-  Metal: 18
-  Trace: 10
-  Exotica: 2
-  Chemicals: 42
-  Electronics: 15
-  Ceramsteel: 18
-Build Space Lander Mechanized in Starport
-Time to Build / Upgrade: 3
-[8890] Technology Required to Build Unit (86):
-  [8890] Space Transports (86)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Space Lander Tank
-Nick Name: MM-LT
-Scores & Strengths:
-  Tech Score: 1831
-  Unit Score: 1832
-  Average Score: 1832
-  Stat Strength: 1832
-  Total Strength: 1832
-  Planet Strength: 1832
-  Space Strength: 0
-  Garrison Strength: 552
-Statistics:
-  Movement Type: mech
-  Move Points: 11
-  Spot: 10
-  Camouflage: 3
-  Agility: 12
-  Armor: 27
-  Psy Defense: 27
-  Rank: 83
-Cargo Space: 4
-Immune to Plague
-Upkeep / Maintenance: 16
-Build Cost: 162
-Build Resource Requirements:
-  Food: 3
-  Energy: 4
-  Metal: 28
-  Trace: 4
-  Exotica: 3
-  Chemicals: 11
-  Electronics: 6
-  Ceramsteel: 27
-Build Space Lander Tank in Starport
-Time to Build / Upgrade: 2
-[8890] Technology Required to Build Unit (86):
-  [8890] Space Transports (86)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---6--
-Name: Lander Assault
-Nick Name: LL-LA
-Scores & Strengths:
-  Tech Score: 3536
-  Unit Score: 3284
-  Average Score: 3410
-  Stat Strength: 2138
-  Total Strength: 3284
-  Planet Strength: 2701
-  Space Strength: 2721
-  Garrison Strength: 721
-Statistics:
-  Movement Type: lander
-  Move Points: 14
-  Spot: 12
-  Camouflage: 8
-  Agility: 22
-  Armor: 25
-  Psy Defense: 25
-  Rank: 205
-Attacks:
-  Direct Space: 14/21
-  Closed Space: 17/17
-  Direct: 14/22
-  Close: 17/15
-Cargo Space: 1
-Immune to Plague
-Upkeep / Maintenance: 449
-Build Cost: 4486
-Build Resource Requirements:
-  Food: 2
-  Energy: 11
-  Metal: 7
-  Trace: 13
-  Exotica: 2
-  Chemicals: 19
-  Biochems: 22
-  Electronics: 21
-  Ceramsteel: 9
-  Monopols: 28
-S  ingularities: 4
-Build Lander Assault in Starport
-Time to Build / Upgrade: 3
-[21375] Technology Required to Build Unit (67):
-  [21375] Lander Transports (67)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---7--
-Name: Lander Infantry
-Nick Name: LL-LI
-Scores & Strengths:
-  Tech Score: 3536
-  Unit Score: 3374
-  Average Score: 3455
-  Stat Strength: 2243
-  Total Strength: 3374
-  Planet Strength: 2840
-  Space Strength: 2777
-  Garrison Strength: 856
-Statistics:
-  Movement Type: lander
-  Move Points: 11
-  Spot: 12
-  Camouflage: 7
-  Agility: 19
-  Armor: 28
-  Psy Defense: 28
-  Rank: 217
-Attacks:
-  Direct Space: 11/24
-  Closed Space: 15/18
-  Direct: 13/24
-  Close: 15/19
-Cargo Space: 2
-Immune to Plague
-Upkeep / Maintenance: 456
-Build Cost: 4563
-Build Resource Requirements:
-  Food: 1
-  Energy: 13
-  Metal: 9
-  Trace: 10
-  Exotica: 2
-  Chemicals: 21
-  Biochems: 22
-  Electronics: 16
-  Ceramsteel: 11
-  Monopols: 33
-S  ingularities: 3
-Build Lander Infantry in Starport
-Time to Build / Upgrade: 4
-[21375] Technology Required to Build Unit (67):
-  [21375] Lander Transports (67)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---8--
-Name: Lander Mechanized
-Nick Name: LL-LM
-Scores & Strengths:
-  Tech Score: 3536
-  Unit Score: 3454
-  Average Score: 3495
-  Stat Strength: 2362
-  Total Strength: 3454
-  Planet Strength: 2947
-  Space Strength: 2869
-  Garrison Strength: 1041
-Statistics:
-  Movement Type: lander
-  Move Points: 8
-  Spot: 12
-  Camouflage: 6
-  Agility: 14
-  Armor: 31
-  Psy Defense: 31
-  Rank: 230
-Attacks:
-  Direct Space: 10/26
-  Closed Space: 13/19
-  Direct: 11/29
-  Close: 14/19
-Cargo Space: 3
-Immune to Plague
-Upkeep / Maintenance: 472
-Build Cost: 4720
-Build Resource Requirements:
-  Food: 1
-  Energy: 14
-  Metal: 11
-  Trace: 8
-  Exotica: 1
-  Chemicals: 24
-  Biochems: 22
-  Electronics: 13
-  Ceramsteel: 14
-  Monopols: 38
-S  ingularities: 3
-Build Lander Mechanized in Starport
-Time to Build / Upgrade: 4
-[21375] Technology Required to Build Unit (67):
-  [21375] Lander Transports (67)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---9--
-Name: Lander Tank
-Nick Name: LL-LT
-Scores & Strengths:
-  Tech Score: 3536
-  Unit Score: 3469
-  Average Score: 3502
-  Stat Strength: 3469
-  Total Strength: 3469
-  Planet Strength: 3469
-  Space Strength: 0
-  Garrison Strength: 895
-Statistics:
-  Movement Type: lander
-  Move Points: 15
-  Spot: 12
-  Camouflage: 4
-  Agility: 14
-  Armor: 38
-  Psy Defense: 38
-  Rank: 175
-Cargo Space: 4
-Immune to Plague
-Upkeep / Maintenance: 592
-Build Cost: 5916
-Build Resource Requirements:
-  Food: 1
-  Energy: 2
-  Metal: 16
-  Trace: 2
-  Exotica: 2
-  Chemicals: 6
-  Biochems: 14
-  Electronics: 4
-  Ceramsteel: 21
-  Monopols: 24
-S  ingularities: 4
-Build Lander Tank in Starport
-Time to Build / Upgrade: 3
-[21375] Technology Required to Build Unit (67):
-  [21375] Lander Transports (67)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---10--
-Name: Assault Lander
-Nick Name: LL-ATL
-Scores & Strengths:
-  Tech Score: 3536
-  Unit Score: 3536
-  Average Score: 3536
-  Stat Strength: 2222
-  Total Strength: 3536
-  Planet Strength: 3032
-  Space Strength: 2726
-  Garrison Strength: 677
-Statistics:
-  Movement Type: lander
-  Move Points: 20
+  Movement Type: foot
+  Move Points: 10
   Spot: 14
-  Camouflage: 7
-  Agility: 15
-  Armor: 26
-  Psy Defense: 26
-  Rank: 213
+  Camouflage: 16
+  Agility: 17
+  Armor: 6
+  Psy Defense: 12
+  Rank: 19
 Attacks:
-  Direct Space: 14/18
-  Closed Space: 18/14
-  Air: 16/18
-  Direct: 15/18
-  Close: 18/14
-Cargo Space: 2
-Immune to Plague
-Upkeep / Maintenance: 567
-Build Cost: 5671
+  Psychic: 24/20
+  Close: 18/20
+Load aboard transport: YES
+Inquisitor
+Upkeep / Maintenance: 119
 Build Resource Requirements:
-  Food: 2
-  Energy: 11
-  Metal: 8
-  Trace: 15
-  Exotica: 3
-  Chemicals: 18
-  Biochems: 25
-  Electronics: 25
-  Ceramsteel: 10
-  Monopols: 28
-S  ingularities: 5
-Build Assault Lander in Starport
-Time to Build / Upgrade: 4
-[21375] Technology Required to Build Unit (67):
-  [21375] Lander Transports (67)
+  Exotica: 1
+  Electronics: 2
+Upgrade Inquisitor to Kalinthi at Church
+Time to Build / Upgrade: 1
+[9960] Technologies Required to Build Unit (63):
+  [8085] Fusion Rifles (75)
+  [300] Fractal Metaphysics (64)
+  [1245] Weird Science (32)
+  [330] Holy Warriors (82)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

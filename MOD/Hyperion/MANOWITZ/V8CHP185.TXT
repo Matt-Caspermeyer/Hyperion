@@ -1,196 +1,187 @@
-All units of the unit class Cyber-Transhumanist are listed herein (4 in total):
+All units of the unit class Scout Mech are listed herein (4 in total):
 
 --1--
-Name: Cyber-Transhumanist
-Nick Name: Transhumanist
+Name: Scout Mech
+Nick Name: Locust
 Scores & Strengths:
-  Tech Score: 1607
-  Unit Score: 1607
-  Average Score: 1607
-  Stat Strength: 977
-  Total Strength: 1607
-  Planet Strength: 1607
+  Tech Score: 2194
+  Unit Score: 1535
+  Average Score: 1865
+  Stat Strength: 1245
+  Total Strength: 1535
+  Planet Strength: 1535
   Space Strength: 0
-  Garrison Strength: 445
+  Garrison Strength: 410
 Statistics:
-  Movement Type: foot
-  Move Points: 13
-  Spot: 13
-  Camouflage: 10
-  Agility: 21
-  Armor: 7
-  Psy Defense: 7
-  Rank: 67
+  Movement Type: mech
+  Move Points: 14
+  Spot: 14
+  Camouflage: 9
+  Agility: 22
+  Armor: 12
+  Psy Defense: 12
+  Rank: 96
 Attacks:
-  Air: 14/12
-  Direct: 12/14
-  Close: 21/14
+  Direct: 12/15
+  Close: 10/11
 Load aboard transport: YES
-Upkeep / Maintenance: 11
-Build Cost: 109
+Immune to Plague
+Upkeep / Maintenance: 10
+Build Cost: 100
 Build Resource Requirements:
-  Food: 9
-  Energy: 27
-  Metal: 4
-  Trace: 13
-  Exotica: 9
-  Chemicals: 42
-  Electronics: 35
-  Ceramsteel: 5
-Build Cyber-Transhumanist in Lab
-Time to Build / Upgrade: 3
-[12450] Technologies Required to Build Unit (63):
-  [4855] Myoelectric Prosthetics (71)
-  [7375] Nano Implants (28)
-  [220] Indoctrination (91)
+  Food: 5
+  Energy: 10
+  Metal: 3
+  Trace: 9
+  Exotica: 5
+  Chemicals: 18
+  Electronics: 17
+  Ceramsteel: 6
+Build Scout Mech in Starport
+Time to Build / Upgrade: 2
+[16120] Technologies Required to Build Unit (79):
+  [1690] Ceramsteel (84)
+  [6220] Mechanically-Enhanced Soldiers (80)
+  [8210] Aircraft Surveillance (74)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Cyber-Evolutionary
-Nick Name: Evolutionary
+Name: Mech Commander
+Nick Name: Commodore
 Scores & Strengths:
-  Tech Score: 1818
-  Unit Score: 1818
-  Average Score: 1818
-  Stat Strength: 1065
-  Total Strength: 1818
-  Planet Strength: 1818
+  Tech Score: 2414
+  Unit Score: 2414
+  Average Score: 2414
+  Stat Strength: 1630
+  Total Strength: 2414
+  Planet Strength: 2414
   Space Strength: 0
-  Garrison Strength: 454
+  Garrison Strength: 669
 Statistics:
-  Movement Type: foot
-  Move Points: 16
-  Spot: 16
-  Camouflage: 8
+  Movement Type: mech
+  Move Points: 13
+  Spot: 13
+  Camouflage: 7
   Agility: 19
-  Armor: 8
-  Psy Defense: 8
-  Rank: 70
+  Armor: 21
+  Psy Defense: 21
+  Rank: 107
 Attacks:
-  Air: 17/15
-  Direct: 9/18
-  Close: 16/21
+  Air: 12/14
+  Indirect: 11/22
+  Direct: 10/23
+  Close: 12/12
 Load aboard transport: YES
-Upkeep / Maintenance: 32
-Build Cost: 324
+Immune to Plague
+Upkeep / Maintenance: 158
+Build Cost: 1580
 Build Resource Requirements:
-  Food: 14
-  Energy: 59
-  Metal: 7
-  Trace: 14
-  Exotica: 16
-  Chemicals: 91
-  Biochems: 66
-  Electronics: 39
-  Ceramsteel: 10
-Build Cyber-Evolutionary in Lab
+  Food: 3
+  Energy: 15
+  Metal: 8
+  Trace: 12
+  Exotica: 3
+  Chemicals: 26
+  Electronics: 21
+  Ceramsteel: 9
+  Monopols: 35
+Build Mech Commander in Starport
 Time to Build / Upgrade: 4
-[8930] Technologies Required to Build Unit (65):
-  [330] Holy Warriors (82)
-  [8600] Cybernetically-Enhanced Soldiers (48)
+[12850] Technology Required to Build Unit (71):
+  [12850] Mechanized Warriors (71)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Cyber-Spiritualist
-Nick Name: Spiritualist
+Name: Power Scout Mech
+Nick Name: Katydid
 Scores & Strengths:
-  Tech Score: 1995
-  Unit Score: 1892
-  Average Score: 1944
-  Stat Strength: 1092
-  Total Strength: 1892
-  Planet Strength: 1892
-  Space Strength: 1492
-  Garrison Strength: 505
+  Tech Score: 5401
+  Unit Score: 3238
+  Average Score: 4320
+  Stat Strength: 2510
+  Total Strength: 3238
+  Planet Strength: 3238
+  Space Strength: 0
+  Garrison Strength: 690
 Statistics:
-  Movement Type: foot
-  Move Points: 14
-  Spot: 16
-  Camouflage: 8
-  Agility: 16
-  Armor: 8
-  Psy Defense: 16
-  Rank: 78
+  Movement Type: mech
+  Move Points: 22
+  Spot: 18
+  Camouflage: 14
+  Agility: 28
+  Armor: 19
+  Psy Defense: 19
+  Rank: 136
 Attacks:
-  Psychic: 20/20
-  Direct: 18/16
-  Close: 14/8
+  Direct: 19/24
+  Close: 16/17
 Load aboard transport: YES
-Upkeep / Maintenance: 49
-Build Cost: 487
+Immune to Plague
+Upkeep / Maintenance: 101
+Build Cost: 1014
 Build Resource Requirements:
-  Food: 7
-  Energy: 16
-  Metal: 9
-  Trace: 8
-  Exotica: 9
-  Chemicals: 26
-  Electronics: 21
-  Ceramsteel: 12
-  Gems: 29
-Build Cyber-Spiritualist in Lab
-Time to Build / Upgrade: 3
-[18125] Technologies Required to Build Unit (52):
-  [7825] Neurocellular Surgery (28)
-  [7825] Advanced Cybernetics (44)
-  [220] Indoctrination (91)
-  [2255] Sympathy (Bonding) (45)
+  Food: 3
+  Energy: 9
+  Metal: 3
+  Trace: 13
+  Exotica: 4
+  Chemicals: 12
+  Biochems: 15
+  Electronics: 22
+  Ceramsteel: 4
+  Monopols: 18
+Build Power Scout Mech in Starport
+Time to Build / Upgrade: 2
+[37610] Technology Required to Build Unit (63):
+  [37610] Advanced Mechanized Warriors (63)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Cyber-Revolutionary
-Nick Name: Cyb-Rev
+Name: Stealth Scout Mech
+Nick Name: Cicada
 Scores & Strengths:
-  Tech Score: 3386
-  Unit Score: 3304
-  Average Score: 3345
-  Stat Strength: 1926
-  Total Strength: 3304
-  Planet Strength: 3304
-  Space Strength: 2388
-  Garrison Strength: 826
+  Tech Score: 7207
+  Unit Score: 6866
+  Average Score: 7037
+  Stat Strength: 5952
+  Total Strength: 6866
+  Planet Strength: 6866
+  Space Strength: 0
+  Garrison Strength: 1297
 Statistics:
-  Movement Type: foot
-  Move Points: 16
-  Spot: 18
-  Camouflage: 10
-  Agility: 29
-  Armor: 9
-  Psy Defense: 18
-  Rank: 96
+  Movement Type: mech
+  Move Points: 28
+  Spot: 28
+  Camouflage: 36
+  Agility: 44
+  Armor: 24
+  Psy Defense: 24
+  Rank: 165
 Attacks:
-  Psychic: 22/21
-  Indirect: 18/22
-  Direct: 20/18
-  Close: 16/10
+  Direct: 19/26
+  Close: 20/21
 Load aboard transport: YES
-Upkeep / Maintenance: 230
-Build Cost: 2299
+Immune to Plague
+Upkeep / Maintenance: 267
+Build Cost: 2674
 Build Resource Requirements:
-  Food: 5
-  Energy: 31
+  Food: 3
+  Energy: 8
   Metal: 3
-  Trace: 8
-  Exotica: 6
-  Chemicals: 46
-  Biochems: 46
-  Electronics: 15
+  Trace: 19
+  Exotica: 3
+  Chemicals: 12
+  Biochems: 21
+  Electronics: 32
   Ceramsteel: 4
   Wetware: 13
-  Monopols: 45
-  Gems: 34
-Build Cyber-Revolutionary in Lab
-Time to Build / Upgrade: 5
-[21160] Technologies Required to Build Unit (54):
-  [330] Holy Warriors (82)
-  [2255] Sympathy (Bonding) (45)
-  [18575] Machine-Fused Soldiers (35)
+  Monopols: 19
+Build Stealth Scout Mech in Starport
+Time to Build / Upgrade: 3
+[55250] Technology Required to Build Unit (34):
+  [55250] Neumonic Patrolcraft (34)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

@@ -1,581 +1,251 @@
-All units of the unit class Exped. Assault Vehicle (P) are listed herein (12 in total):
+All units of the unit class Strategic Bomber are listed herein (5 in total):
 
 --1--
-Name: Exped. Assault Vehicle (P)
-Nick Name: EAV (P)
+Name: Strategic Bomber
+Nick Name: Devastator
 Scores & Strengths:
-  Tech Score: 1717
-  Unit Score: 1714
-  Average Score: 1716
-  Stat Strength: 769
-  Total Strength: 1714
-  Planet Strength: 1714
+  Tech Score: 1142
+  Unit Score: 1710
+  Average Score: 1426
+  Stat Strength: 1401
+  Total Strength: 1710
+  Planet Strength: 1710
   Space Strength: 0
-  Garrison Strength: 516
+  Garrison Strength: 323
 Statistics:
-  Movement Type: craft
-  Move Points: 11
-  Spot: 8
-  Camouflage: 6
-  Agility: 6
-  Armor: 16
-  Psy Defense: 16
-  Rank: 123
+  Movement Type: air
+  Move Points: 28
+  Spot: 10
+  Camouflage: 5
+  Agility: 10
+  Armor: 14
+  Psy Defense: 14
+  Rank: 175
 Attacks:
-  Direct: 21/25
-  Close: 20/21
-Cargo Space: 1
-Can be towed
+  Air: 6/11
+  Indirect: 9/27
+Load aboard transport: YES
 Upkeep / Maintenance: 11
 Build Cost: 107
 Build Resource Requirements:
-  Food: 1
-  Energy: 18
-  Metal: 8
-  Trace: 15
-  Exotica: 2
-  Chemicals: 25
+  Food: 10
+  Energy: 35
+  Metal: 28
+  Trace: 8
+  Exotica: 10
+  Chemicals: 37
   Biochems: 9
-  Electronics: 21
-  Ceramsteel: 9
-Build Exped. Assault Vehicle (P) in Factory
+  Electronics: 5
+Build Strategic Bomber in Factory
 Time to Build / Upgrade: 3
-[12755] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [4695] Advanced Minor Watercraft (83)
-  [5205] Advanced Battle Tanks (84)
+[7115] Technologies Required to Build Unit (88):
+  [795] Missiles (86)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2725] Naval Capital Ships (88)
+  [1785] Rotary Autocannon (90)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Exped. Assault Vehicle (C)
-Nick Name: EAV (C)
+Name: Neutron Bomber
+Nick Name: Desolator
 Scores & Strengths:
-  Tech Score: 1717
-  Unit Score: 1714
-  Average Score: 1716
-  Stat Strength: 769
-  Total Strength: 1714
-  Planet Strength: 1714
+  Tech Score: 3125
+  Unit Score: 2583
+  Average Score: 2854
+  Stat Strength: 1788
+  Total Strength: 2583
+  Planet Strength: 2583
   Space Strength: 0
-  Garrison Strength: 516
+  Garrison Strength: 456
 Statistics:
-  Movement Type: craft
-  Move Points: 11
-  Spot: 8
-  Camouflage: 6
-  Agility: 6
-  Armor: 16
-  Psy Defense: 16
-  Rank: 799
+  Movement Type: air
+  Move Points: 32
+  Spot: 12
+  Camouflage: 7
+  Agility: 11
+  Armor: 15
+  Psy Defense: 15
+  Rank: 166
 Attacks:
-  Water: 21/25
-  Indirect: 20/21
+  Air: 7/12
+  Indirect: 11/28
+  Direct: 11/26
+  Close: 13/9
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Can be towed
-Upkeep / Maintenance: 14
-Build Cost: 135
+Upkeep / Maintenance: 101
+Build Cost: 1014
 Build Resource Requirements:
-  Food: 1
-  Energy: 18
-  Metal: 8
-  Trace: 15
-  Exotica: 2
-  Chemicals: 25
-  Biochems: 5
-  Electronics: 14
-  Ceramsteel: 9
-Build Exped. Assault Vehicle (C) in Factory
-Time to Build / Upgrade: 2
-[12755] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [4695] Advanced Minor Watercraft (83)
-  [5205] Advanced Battle Tanks (84)
+  Food: 6
+  Energy: 20
+  Metal: 2
+  Trace: 8
+  Exotica: 6
+  Chemicals: 32
+  Biochems: 29
+  Electronics: 12
+  Ceramsteel: 4
+  Monopols: 39
+Build Neutron Bomber in Factory
+Time to Build / Upgrade: 3
+[19925] Technologies Required to Build Unit (39):
+  [3650] Viral DNA (11)
+  [835] Spore Delivery (27)
+  [15440] Power Aircraft (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Exped. Assault Vehicle (H)
-Nick Name: EAV (H)
+Name: Stigmata MegaFortress
+Nick Name: MegaFortress
 Scores & Strengths:
-  Tech Score: 1717
-  Unit Score: 1714
-  Average Score: 1716
-  Stat Strength: 769
-  Total Strength: 1714
-  Planet Strength: 1714
+  Tech Score: 4697
+  Unit Score: 4696
+  Average Score: 4696
+  Stat Strength: 2674
+  Total Strength: 4696
+  Planet Strength: 4696
   Space Strength: 0
-  Garrison Strength: 516
+  Garrison Strength: 733
 Statistics:
-  Movement Type: craft
-  Move Points: 11
-  Spot: 8
-  Camouflage: 6
-  Agility: 6
-  Armor: 16
-  Psy Defense: 16
-  Rank: 108
+  Movement Type: air
+  Move Points: 41
+  Spot: 10
+  Camouflage: 7
+  Agility: 14
+  Armor: 18
+  Psy Defense: 18
+  Rank: 196
 Attacks:
-  Indirect: 21/25
-  Direct: 20/21
+  Air: 17/31
+  Indirect: 16/35
+  Direct: 15/34
+  Close: 17/25
 Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 9
-Build Cost: 89
+Never needs refueling
+Upkeep / Maintenance: 211
+Build Cost: 2107
 Build Resource Requirements:
-  Food: 1
-  Energy: 18
-  Metal: 8
-  Trace: 15
-  Exotica: 2
-  Chemicals: 25
-  Biochems: 5
-  Electronics: 13
-  Ceramsteel: 9
-Build Exped. Assault Vehicle (H) in Factory
-Time to Build / Upgrade: 2
-[12755] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [4695] Advanced Minor Watercraft (83)
-  [5205] Advanced Battle Tanks (84)
+  Food: 3
+  Energy: 21
+  Metal: 2
+  Trace: 4
+  Exotica: 4
+  Chemicals: 35
+  Biochems: 25
+  Electronics: 8
+  Ceramsteel: 3
+  Wetware: 6
+  Monopols: 46
+Build Stigmata MegaFortress in Factory
+Time to Build / Upgrade: 4
+[38900] Technologies Required to Build Unit (51):
+  [23395] Advanced Hovertech (37)
+  [15505] Meson Cannon (65)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Exped. Assault Vehicle (R)
-Nick Name: EAV (R)
+Name: Stealth Bomber
+Nick Name: Pulverizer
 Scores & Strengths:
-  Tech Score: 1717
-  Unit Score: 1714
-  Average Score: 1716
-  Stat Strength: 1139
-  Total Strength: 1714
-  Planet Strength: 1714
+  Tech Score: 8630
+  Unit Score: 8417
+  Average Score: 8523
+  Stat Strength: 6357
+  Total Strength: 8417
+  Planet Strength: 8417
   Space Strength: 0
-  Garrison Strength: 516
+  Garrison Strength: 1105
 Statistics:
-  Movement Type: craft
-  Move Points: 11
-  Spot: 8
-  Camouflage: 6
-  Agility: 6
-  Armor: 21
-  Psy Defense: 21
-  Rank: 142
+  Movement Type: air
+  Move Points: 58
+  Spot: 20
+  Camouflage: 25
+  Agility: 20
+  Armor: 28
+  Psy Defense: 28
+  Rank: 285
 Attacks:
-  Close: 23/25
+  Air: 24/31
+  Indirect: 28/47
 Load aboard transport: YES
-Can tow units that can be towed
-Heals units of same movement type
-Upkeep / Maintenance: 11
-Build Cost: 109
+Upkeep / Maintenance: 140
+Build Cost: 1397
 Build Resource Requirements:
-  Food: 1
-  Energy: 11
-  Metal: 15
-  Trace: 10
-  Exotica: 2
-  Chemicals: 20
-  Biochems: 6
-  Electronics: 18
-  Ceramsteel: 16
-Build Exped. Assault Vehicle (R) in Factory
+  Food: 3
+  Energy: 13
+  Metal: 2
+  Trace: 6
+  Exotica: 3
+  Chemicals: 17
+  Biochems: 22
+  Electronics: 9
+  Ceramsteel: 4
+  Wetware: 3
+  Monopols: 27
+Build Stealth Bomber in Factory
 Time to Build / Upgrade: 3
-[12755] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [4695] Advanced Minor Watercraft (83)
-  [5205] Advanced Battle Tanks (84)
+[102555] Technologies Required to Build Unit (59):
+  [1785] Rotary Autocannon (90)
+  [45520] Hover Navalcraft (53)
+  [55250] Neumonic Patrolcraft (34)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Exped. Assault Vehicle (A)
-Nick Name: EAV (A)
+Name: Stealth Neutron Bomber
+Nick Name: Punisher
 Scores & Strengths:
-  Tech Score: 1717
-  Unit Score: 1714
-  Average Score: 1716
-  Stat Strength: 769
-  Total Strength: 1714
-  Planet Strength: 1714
+  Tech Score: 8630
+  Unit Score: 8418
+  Average Score: 8524
+  Stat Strength: 6293
+  Total Strength: 8418
+  Planet Strength: 8418
   Space Strength: 0
-  Garrison Strength: 516
+  Garrison Strength: 1114
 Statistics:
-  Movement Type: craft
-  Move Points: 11
-  Spot: 8
-  Camouflage: 6
-  Agility: 6
-  Armor: 16
-  Psy Defense: 16
-  Rank: 108
+  Movement Type: air
+  Move Points: 57
+  Spot: 20
+  Camouflage: 26
+  Agility: 20
+  Armor: 28
+  Psy Defense: 28
+  Rank: 241
 Attacks:
-  Air: 21/25
-  Direct: 20/21
+  Air: 14/23
+  Indirect: 18/38
+  Direct: 20/36
+  Close: 21/19
 Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 11
-Build Cost: 105
+Upkeep / Maintenance: 150
+Build Cost: 1495
 Build Resource Requirements:
-  Food: 1
-  Energy: 18
-  Metal: 8
-  Trace: 15
-  Exotica: 2
-  Chemicals: 25
-  Biochems: 9
-  Electronics: 21
-  Ceramsteel: 9
-Build Exped. Assault Vehicle (A) in Factory
-Time to Build / Upgrade: 3
-[12755] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [4695] Advanced Minor Watercraft (83)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Exped. Assault Vehicle (E)
-Nick Name: EAV (E)
-Scores & Strengths:
-  Tech Score: 1717
-  Unit Score: 1719
-  Average Score: 1718
-  Stat Strength: 1311
-  Total Strength: 1719
-  Planet Strength: 1719
-  Space Strength: 0
-  Garrison Strength: 573
-Statistics:
-  Movement Type: craft
-  Move Points: 9
-  Spot: 10
-  Camouflage: 6
-  Agility: 6
-  Armor: 23
-  Psy Defense: 23
-  Rank: 52
-Attacks:
-  Close: 17/24
-Cargo Space: 1
-Can tow units that can be towed
-Upkeep / Maintenance: 10
-Build Cost: 95
-Build Resource Requirements:
-  Food: 1
-  Energy: 10
-  Metal: 17
-  Trace: 7
-  Exotica: 2
-  Chemicals: 19
-  Biochems: 4
-  Electronics: 16
-  Ceramsteel: 19
-Build Exped. Assault Vehicle (E) in Factory
-Time to Build / Upgrade: 3
-[12755] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [4695] Advanced Minor Watercraft (83)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---7--
-Name: Amphib. Fighting Vehicle (R)
-Nick Name: AFV (R)
-Scores & Strengths:
-  Tech Score: 2944
-  Unit Score: 2838
-  Average Score: 2891
-  Stat Strength: 1848
-  Total Strength: 2838
-  Planet Strength: 2838
-  Space Strength: 0
-  Garrison Strength: 758
-Statistics:
-  Movement Type: craft
-  Move Points: 14
-  Spot: 9
-  Camouflage: 8
-  Agility: 7
-  Armor: 27
-  Psy Defense: 27
-  Rank: 154
-Attacks:
-  Close: 30/33
-Load aboard transport: YES
-Can tow units that can be towed
-Heals units of same movement type
-Upkeep / Maintenance: 90
-Build Cost: 901
-Build Resource Requirements:
-  Food: 1
-  Energy: 11
-  Metal: 10
-  Trace: 11
-  Exotica: 1
+  Food: 3
+  Energy: 13
+  Metal: 2
+  Trace: 6
+  Exotica: 4
   Chemicals: 18
-  Biochems: 6
-  Electronics: 19
-  Ceramsteel: 13
-  Monopols: 25
-Build Amphib. Fighting Vehicle (R) in Factory
+  Biochems: 23
+  Electronics: 10
+  Ceramsteel: 4
+  Wetware: 4
+  Monopols: 27
+Build Stealth Neutron Bomber in Factory
 Time to Build / Upgrade: 3
-[22245] Technologies Required to Build Unit (82):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---8--
-Name: Amphib. Fighting Vehicle (E)
-Nick Name: AFV (E)
-Scores & Strengths:
-  Tech Score: 2944
-  Unit Score: 2860
-  Average Score: 2902
-  Stat Strength: 2178
-  Total Strength: 2860
-  Planet Strength: 2860
-  Space Strength: 0
-  Garrison Strength: 825
-Statistics:
-  Movement Type: craft
-  Move Points: 12
-  Spot: 11
-  Camouflage: 8
-  Agility: 7
-  Armor: 30
-  Psy Defense: 30
-  Rank: 64
-Attacks:
-  Close: 22/31
-Cargo Space: 1
-Can tow units that can be towed
-Upkeep / Maintenance: 86
-Build Cost: 858
-Build Resource Requirements:
-  Food: 1
-  Energy: 9
-  Metal: 13
-  Trace: 7
-  Exotica: 1
-  Chemicals: 17
-  Biochems: 4
-  Electronics: 15
-  Ceramsteel: 16
-  Monopols: 26
-Build Amphib. Fighting Vehicle (E) in Factory
-Time to Build / Upgrade: 3
-[22245] Technologies Required to Build Unit (82):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---9--
-Name: Amphib. Fighting Vehicle (P)
-Nick Name: AFV (P)
-Scores & Strengths:
-  Tech Score: 2944
-  Unit Score: 2865
-  Average Score: 2905
-  Stat Strength: 1272
-  Total Strength: 2865
-  Planet Strength: 2865
-  Space Strength: 0
-  Garrison Strength: 765
-Statistics:
-  Movement Type: craft
-  Move Points: 14
-  Spot: 9
-  Camouflage: 8
-  Agility: 7
-  Armor: 21
-  Psy Defense: 21
-  Rank: 149
-Attacks:
-  Direct: 27/33
-  Close: 26/27
-Cargo Space: 1
-Can be towed
-Upkeep / Maintenance: 89
-Build Cost: 889
-Build Resource Requirements:
-  Food: 1
-  Energy: 17
-  Metal: 6
-  Trace: 16
-  Exotica: 1
-  Chemicals: 23
-  Biochems: 9
-  Electronics: 24
-  Ceramsteel: 8
-  Monopols: 28
-Build Amphib. Fighting Vehicle (P) in Factory
-Time to Build / Upgrade: 3
-[22245] Technologies Required to Build Unit (82):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---10--
-Name: Amphib. Fighting Vehicle (C)
-Nick Name: AFV (C)
-Scores & Strengths:
-  Tech Score: 2944
-  Unit Score: 2865
-  Average Score: 2905
-  Stat Strength: 1272
-  Total Strength: 2865
-  Planet Strength: 2865
-  Space Strength: 0
-  Garrison Strength: 765
-Statistics:
-  Movement Type: craft
-  Move Points: 14
-  Spot: 9
-  Camouflage: 8
-  Agility: 7
-  Armor: 21
-  Psy Defense: 21
-  Rank: 823
-Attacks:
-  Water: 27/33
-  Indirect: 26/27
-Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Can be towed
-Upkeep / Maintenance: 128
-Build Cost: 1278
-Build Resource Requirements:
-  Food: 1
-  Energy: 17
-  Metal: 6
-  Trace: 16
-  Exotica: 1
-  Chemicals: 23
-  Biochems: 5
-  Electronics: 15
-  Ceramsteel: 8
-  Monopols: 28
-Build Amphib. Fighting Vehicle (C) in Factory
-Time to Build / Upgrade: 3
-[22245] Technologies Required to Build Unit (82):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---11--
-Name: Amphib. Fighting Vehicle (H)
-Nick Name: AFV (H)
-Scores & Strengths:
-  Tech Score: 2944
-  Unit Score: 2865
-  Average Score: 2905
-  Stat Strength: 1272
-  Total Strength: 2865
-  Planet Strength: 2865
-  Space Strength: 0
-  Garrison Strength: 765
-Statistics:
-  Movement Type: craft
-  Move Points: 14
-  Spot: 9
-  Camouflage: 8
-  Agility: 7
-  Armor: 21
-  Psy Defense: 21
-  Rank: 132
-Attacks:
-  Indirect: 27/33
-  Direct: 26/27
-Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 85
-Build Cost: 850
-Build Resource Requirements:
-  Food: 1
-  Energy: 17
-  Metal: 6
-  Trace: 16
-  Exotica: 1
-  Chemicals: 23
-  Biochems: 5
-  Electronics: 14
-  Ceramsteel: 8
-  Monopols: 28
-Build Amphib. Fighting Vehicle (H) in Factory
-Time to Build / Upgrade: 3
-[22245] Technologies Required to Build Unit (82):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---12--
-Name: Amphib. Fighting Vehicle (A)
-Nick Name: AFV (A)
-Scores & Strengths:
-  Tech Score: 2944
-  Unit Score: 2865
-  Average Score: 2905
-  Stat Strength: 1272
-  Total Strength: 2865
-  Planet Strength: 2865
-  Space Strength: 0
-  Garrison Strength: 765
-Statistics:
-  Movement Type: craft
-  Move Points: 14
-  Spot: 9
-  Camouflage: 8
-  Agility: 7
-  Armor: 21
-  Psy Defense: 21
-  Rank: 132
-Attacks:
-  Air: 27/33
-  Direct: 26/27
-Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 87
-Build Cost: 872
-Build Resource Requirements:
-  Food: 1
-  Energy: 17
-  Metal: 6
-  Trace: 16
-  Exotica: 1
-  Chemicals: 23
-  Biochems: 9
-  Electronics: 24
-  Ceramsteel: 8
-  Monopols: 28
-Build Amphib. Fighting Vehicle (A) in Factory
-Time to Build / Upgrade: 3
-[22245] Technologies Required to Build Unit (82):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [13535] Powered Ceramsteel Tanks (74)
+[107040] Technologies Required to Build Unit (43):
+  [3650] Viral DNA (11)
+  [835] Spore Delivery (27)
+  [1785] Rotary Autocannon (90)
+  [45520] Hover Navalcraft (53)
+  [55250] Neumonic Patrolcraft (34)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
