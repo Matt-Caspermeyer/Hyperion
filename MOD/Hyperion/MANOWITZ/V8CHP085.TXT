@@ -1,4 +1,4 @@
-All units of the unit class Surface-Surface (S-S) Rock. are listed herein (19 in total):
+All units of the unit class Surface-Surface (S-S) Rock. are listed herein (21 in total):
 
 --1--
 Name: Surface-Surface (S-S) Rock.
@@ -134,6 +134,51 @@ Time to Build / Upgrade: 2
 Unit can be disbanded: YES
 
 --4--
+Name: Glide Bomb
+Nick Name: Glide Bomb
+Scores & Strengths:
+  Tech Score: 492
+  Unit Score: 492
+  Average Score: 492
+  Stat Strength: 316
+  Total Strength: 492
+  Planet Strength: 492
+  Space Strength: 0
+  Garrison Strength: 284
+Statistics:
+  Movement Type: air
+  Move Points: 3
+  Spot: 0
+  Camouflage: 4
+  Agility: 17
+  Armor: 1
+  Psy Defense: 1
+  Rank: 60
+Attacks:
+  Indirect: 8/22
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 8
+Build Resource Requirements:
+  Food: 4
+  Energy: 27
+  Metal: 1
+  Trace: 13
+  Exotica: 4
+  Chemicals: 27
+  Electronics: 5
+Build Glide Bomb in Chemical Plant
+Time to Build / Upgrade: 2
+[2940] Technologies Required to Build Unit (88):
+  [1540] High-Speed Aerodynamics (89)
+  [1400] Aerial Warfare (87)
+Unit can be disbanded: YES
+
+--5--
 Name: Flying Bomb
 Nick Name: Flying Bomb
 Scores & Strengths:
@@ -178,7 +223,7 @@ Time to Build / Upgrade: 2
   [1400] Aerial Warfare (87)
 Unit can be disbanded: YES
 
---5--
+--6--
 Name: Air-Surface (A-S) Rocket
 Nick Name: A-S-R
 Scores & Strengths:
@@ -223,7 +268,7 @@ Time to Build / Upgrade: 3
   [1400] Aerial Warfare (87)
 Unit can be disbanded: YES
 
---6--
+--7--
 Name: Flying Bomb II
 Nick Name: Flying Bomb II
 Scores & Strengths:
@@ -268,7 +313,7 @@ Time to Build / Upgrade: 2
   [795] Missiles (86)
 Unit can be disbanded: YES
 
---7--
+--8--
 Name: A-S Missile
 Nick Name: A-S-M
 Scores & Strengths:
@@ -313,7 +358,52 @@ Time to Build / Upgrade: 2
   [795] Missiles (86)
 Unit can be disbanded: YES
 
---8--
+--9--
+Name: Laser-Guided Bomb
+Nick Name: Laser-Guided Bomb
+Scores & Strengths:
+  Tech Score: 921
+  Unit Score: 922
+  Average Score: 921
+  Stat Strength: 416
+  Total Strength: 922
+  Planet Strength: 922
+  Space Strength: 0
+  Garrison Strength: 651
+Statistics:
+  Movement Type: air
+  Move Points: 2
+  Spot: 0
+  Camouflage: 7
+  Agility: 19
+  Armor: 1
+  Psy Defense: 1
+  Rank: 79
+Attacks:
+  Indirect: 23/22
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 13
+Build Resource Requirements:
+  Food: 5
+  Energy: 35
+  Metal: 1
+  Trace: 29
+  Exotica: 5
+  Chemicals: 38
+  Electronics: 12
+Build Laser-Guided Bomb in Chemical Plant
+Time to Build / Upgrade: 2
+[3710] Technologies Required to Build Unit (81):
+  [1900] LASER (76)
+  [1810] Jet-Propulsion Aircraft (86)
+Unit can be disbanded: YES
+
+--10--
 Name: S-S Guided Missile
 Nick Name: S-S-GM
 Scores & Strengths:
@@ -358,7 +448,7 @@ Time to Build / Upgrade: 2
   [3680] Supersonic Missiles (84)
 Unit can be disbanded: YES
 
---9--
+--11--
 Name: Cruise Missile
 Nick Name: Cr-GM
 Scores & Strengths:
@@ -403,7 +493,7 @@ Time to Build / Upgrade: 2
   [3680] Supersonic Missiles (84)
 Unit can be disbanded: YES
 
---10--
+--12--
 Name: A-S Guided Missile
 Nick Name: A-S-GM
 Scores & Strengths:
@@ -449,7 +539,7 @@ Time to Build / Upgrade: 2
   [3680] Supersonic Missiles (84)
 Unit can be disbanded: YES
 
---11--
+--13--
 Name: Supercruise Missile
 Nick Name: SCr-GM
 Scores & Strengths:
@@ -494,7 +584,7 @@ Time to Build / Upgrade: 2
   [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
---12--
+--14--
 Name: S-S Supercruise Missile
 Nick Name: S-S-ScGM
 Scores & Strengths:
@@ -539,7 +629,7 @@ Time to Build / Upgrade: 2
   [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
---13--
+--15--
 Name: A-S Supercruise Missile
 Nick Name: A-S-ScGM
 Scores & Strengths:
@@ -585,7 +675,7 @@ Time to Build / Upgrade: 2
   [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
---14--
+--16--
 Name: Hypersonic Cruise Missile
 Nick Name: HsCr-GM
 Scores & Strengths:
@@ -630,7 +720,7 @@ Time to Build / Upgrade: 2
   [6305] Hypersonic Missiles (83)
 Unit can be disbanded: YES
 
---15--
+--17--
 Name: S-S Hypersonic Missile
 Nick Name: S-S-HsGM
 Scores & Strengths:
@@ -675,7 +765,7 @@ Time to Build / Upgrade: 2
   [6305] Hypersonic Missiles (83)
 Unit can be disbanded: YES
 
---16--
+--18--
 Name: A-S Hypersonic Missile
 Nick Name: A-S-HsGM
 Scores & Strengths:
@@ -721,7 +811,7 @@ Time to Build / Upgrade: 2
   [6305] Hypersonic Missiles (83)
 Unit can be disbanded: YES
 
---17--
+--19--
 Name: Hypercruise Missile
 Nick Name: HCr-GM
 Scores & Strengths:
@@ -766,7 +856,7 @@ Time to Build / Upgrade: 2
   [7105] Hypercruise Missiles (77)
 Unit can be disbanded: YES
 
---18--
+--20--
 Name: S-S Hypercruise Missile
 Nick Name: S-S-HcGM
 Scores & Strengths:
@@ -811,7 +901,7 @@ Time to Build / Upgrade: 2
   [7105] Hypercruise Missiles (77)
 Unit can be disbanded: YES
 
---19--
+--21--
 Name: A-S Hypercruise Missile
 Nick Name: A-S-HcGM
 Scores & Strengths:
