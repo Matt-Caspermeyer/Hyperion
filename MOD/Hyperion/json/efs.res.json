@@ -255,7 +255,7 @@
                     "hotkey": 82,
                     "flags": 0,
                     "winId": 1318,
-                    "text": "Build ~Road"
+                    "text": "Build/Raze ~Road"
                 },
                 {
                     "hotkey": 66,
@@ -600,10 +600,10 @@
                     "text": "~Go"
                 },
                 {
-                    "hotkey": 0,
+                    "hotkey": 65,
                     "flags": 0,
                     "winId": 1316,
-                    "text": "Group All (dclick)"
+                    "text": "Group ~All (dclick)"
                 },
                 {
                     "hotkey": 86,
@@ -615,7 +615,7 @@
                     "hotkey": 82,
                     "flags": 0,
                     "winId": 1318,
-                    "text": "Build ~Road"
+                    "text": "Build/Raze ~Road"
                 },
                 {
                     "hotkey": 66,
@@ -2695,7 +2695,7 @@
             "fore": 0,
             "back": 921102,
             "range": 999,
-            "page": 999
+            "page": 100
         },
         {
             "type": "button",
@@ -2752,10 +2752,10 @@
             "y": 200,
             "dx": 50,
             "dy": 20001,
-            "style": 2,
+            "style": 10,
             "fore": 13290702,
             "back": 921102,
-            "maxLength": 5
+            "maxLength": 4
         }
     ]
 },
