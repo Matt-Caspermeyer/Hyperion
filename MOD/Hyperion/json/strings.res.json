@@ -234,23 +234,23 @@
         },
         {
             "ID": 1180,
-            "value": ": Ground unit that can only move on land and through rough terrain faster than most other ground units."
+            "value": ": Terrestrial unit that can only move on land and through rough terrain faster than most other ground units."
         },
         {
             "ID": 1181,
-            "value": ": Ground unit that can only move on land and through rough terrain slower than most other ground units."
+            "value": ": Terrestrial unit that can only move on land and through rough terrain slower than most other ground units."
         },
         {
             "ID": 1182,
-            "value": ": Ground unit that can only move on land and through rough terrain slightly faster than most other ground units."
+            "value": ": Terrestrial unit that can only move on land and through rough terrain slightly faster than most other ground units."
         },
         {
             "ID": 1183,
-            "value": ": Ground unit that can move unencumbered anywhere on the map, but requires refueling after being away from city or refueling unit at turn's end."
+            "value": ": Terrestrial flying unit that can move unencumbered anywhere on the map, but requires refueling after being away from city or refueling unit at turn's end. Does not consume movement if moved with a unit that has the Aircraft Carrier (:) ability."
         },
         {
             "ID": 1184,
-            "value": ": Ground unit that can only move on water, rivers, or cities adjacent to water."
+            "value": ": Terrestrial unit that can only move on water, rivers, or cities adjacent to water."
         },
         {
             "ID": 1185,
@@ -258,7 +258,7 @@
         },
         {
             "ID": 1186,
-            "value": ": Ground unit that can move unencumbered anywhere on the map and doesn't need to refuel like Air units."
+            "value": ": Terrestrial unit that can move unencumbered anywhere on the map and doesn't need to refuel like Air units."
         },
         {
             "ID": 1187,
@@ -2890,7 +2890,7 @@
         },
         {
             "ID": 32112,
-            "value": "Naval Carrier - Transports and Refuels (at end of turn) all Air Units"
+            "value": "(:) Naval Carrier - Refuels (at end of turn) all Air Units and those units (. or ,) consume 0 movement if moved with it"
         },
         {
             "ID": 32113,
@@ -2910,11 +2910,11 @@
         },
         {
             "ID": 32117,
-            "value": "V/STOL - Refuels on Naval Destroyers (and Carriers)"
+            "value": "(,) V/STOL - Refuels on Naval Destroyers (and Carriers) and does not consume movement if moved with them (; or :)"
         },
         {
             "ID": 32118,
-            "value": "Refuels V/STOL only (at end of turn)"
+            "value": "(;) Refuels V/STOL only (at end of turn) and those units (,) consume 0 movement if moved with it"
         },
         {
             "ID": 32119,
@@ -2922,15 +2922,15 @@
         },
         {
             "ID": 32120,
-            "value": "Safely lands when running out of fuel (cannot move until recovered by a transport)"
+            "value": "Safely lands when running out of fuel (cannot move until refueled)"
         },
         {
             "ID": 32121,
-            "value": "Can be towed"
+            "value": "(-) Towable (does not consume movement if moved with Towing (=) Unit)"
         },
         {
             "ID": 32122,
-            "value": "Can tow units that can be towed"
+            "value": "(=) Tows Towable Units (those units (-) consume 0 movement if moved with it)"
         },
         {
             "ID": 32123,
@@ -2991,6 +2991,10 @@
         {
             "ID": 32143,
             "value": "Out of fuel - refueled if unit remains here (or with this group) at turn's end"
+        },
+        {
+            "ID": 32144,
+            "value": "Does not consume movement if moved with Aircraft Carrier (:) unit"
         },
         {
             "ID": 32145,
