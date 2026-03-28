@@ -1,318 +1,283 @@
-All units of the unit class Merchant are listed herein (7 in total):
+All units of the unit class Stealth Interceptor are listed herein (7 in total):
 
 --1--
-Name: Merchant
-Nick Name: Merchant
+Name: Stealth Interceptor
+Nick Name: JJ-II-St
 Scores & Strengths:
-  Tech Score: 38
-  Unit Score: 5
-  Average Score: 21
-  Stat Strength: 5
-  Total Strength: 0
+  Tech Score: 7207
+  Unit Score: 2
+  Average Score: 3605
+  Stat Strength: 2
+  Total Strength: 2
   Planet Strength: 0
   Space Strength: 0
   Garrison Strength: 0
 Statistics:
-  Movement Type: foot
+  Movement Type: jump
   Move Points: 1
-  Spot: 1
-  Camouflage: 1
-  Agility: 1
+  Spot: 0
+  Camouflage: 0
+  Agility: 0
   Armor: 1
   Psy Defense: 0
-  Rank: 500
+  Rank: 60
 Load aboard transport: YES
-Does not participate in combat
-Build Cost: 1
+Upkeep / Maintenance: 43
+Build Cost: 425
 Build Resource Requirements:
-  Food: 4
-  Energy: 2
-  Metal: 2
-Build Merchant in Agora
-Time to Build / Upgrade: 1
-[50] Technology Required to Build Unit (100):
-  [50] Applied Technology (100)
-Unit Eats: YES
+S  ingularities: 1
+Stealth Interceptor cannot be built
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Moneylenders
-Nick Name: Moneylenders
+Name: Holy Warrior
+Nick Name: Crusader
 Scores & Strengths:
-  Tech Score: 306
-  Unit Score: 306
-  Average Score: 306
-  Stat Strength: 247
-  Total Strength: 306
-  Planet Strength: 306
-  Space Strength: 0
-  Garrison Strength: 124
+  Tech Score: 1416
+  Unit Score: 1416
+  Average Score: 1416
+  Stat Strength: 1296
+  Total Strength: 1416
+  Planet Strength: 0
+  Space Strength: 1416
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 6
-  Spot: 6
-  Camouflage: 6
-  Agility: 11
-  Armor: 3
-  Psy Defense: 3
-  Rank: 38
+  Movement Type: jump
+  Move Points: 12
+  Spot: 12
+  Camouflage: 12
+  Agility: 12
+  Armor: 12
+  Psy Defense: 24
+  Rank: 82
 Attacks:
-  Indirect: 4/4
-  Direct: 5/5
-  Close: 6/3
+  Ranged Space: 10/12
 Load aboard transport: YES
-Upkeep / Maintenance: 14
-Build Cost: 124
+Upkeep / Maintenance: 287
+Build Cost: 2869
 Build Resource Requirements:
-  Metal: 2
-  Trace: 58
-  Exotica: 18
-  Chemicals: 22
-  Biochems: 39
-Upgrade Peasant to Moneylenders at Church
-Time to Build / Upgrade: 2
-[820] Technologies Required to Build Unit (81):
-  [145] Fanaticism (87)
-  [675] Surgically-Enhanced Soldiers (75)
+  Food: 10
+  Energy: 9
+  Metal: 17
+  Trace: 22
+  Exotica: 12
+  Chemicals: 12
+  Electronics: 29
+  Monopols: 44
+S  ingularities: 4
+Holy Warrior cannot be built
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Thought Police
-Nick Name: Thought
+Name: Mastiff Missile Fighter
+Nick Name: LL-FF-MM
 Scores & Strengths:
-  Tech Score: 686
-  Unit Score: 518
-  Average Score: 602
-  Stat Strength: 372
-  Total Strength: 518
-  Planet Strength: 518
-  Space Strength: 462
-  Garrison Strength: 259
+  Tech Score: 2354
+  Unit Score: 2354
+  Average Score: 2354
+  Stat Strength: 1672
+  Total Strength: 2354
+  Planet Strength: 1672
+  Space Strength: 2354
+  Garrison Strength: 394
 Statistics:
-  Movement Type: foot
-  Move Points: 4
-  Spot: 8
-  Camouflage: 4
-  Agility: 14
-  Armor: 4
-  Psy Defense: 8
-  Rank: 6
+  Movement Type: lander
+  Move Points: 18
+  Spot: 16
+  Camouflage: 16
+  Agility: 18
+  Armor: 16
+  Psy Defense: 16
+  Rank: 138
 Attacks:
-  Psychic: 9/10
-  Close: 8/7
+  Ranged Space: 16/19
+  Closed Space: 21/18
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 27
-Build Cost: 267
+Upkeep / Maintenance: 285
+Build Cost: 2847
 Build Resource Requirements:
-  Food: 22
-  Energy: 29
-  Metal: 9
-  Trace: 27
-  Exotica: 28
-  Chemicals: 31
-  Electronics: 38
-  Gems: 9
-Build Thought Police in Fort
-Time to Build / Upgrade: 3
-[2585] Technologies Required to Build Unit (64):
-  [330] Holy Warriors (82)
-  [2255] Sympathy (Bonding) (45)
+  Food: 5
+  Energy: 17
+  Metal: 7
+  Trace: 20
+  Exotica: 6
+  Chemicals: 27
+  Biochems: 12
+  Electronics: 30
+  Ceramsteel: 8
+S  ingularities: 4
+Mastiff Missile Fighter cannot be built
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Think Machine Warriors
-Nick Name: Think
+Name: Space Fighter Divebomber
+Nick Name: SS-FD
 Scores & Strengths:
-  Tech Score: 1932
-  Unit Score: 1932
-  Average Score: 1932
-  Stat Strength: 1112
-  Total Strength: 1932
-  Planet Strength: 1932
-  Space Strength: 0
-  Garrison Strength: 683
+  Tech Score: 2354
+  Unit Score: 2354
+  Average Score: 2354
+  Stat Strength: 1640
+  Total Strength: 2354
+  Planet Strength: 0
+  Space Strength: 2354
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 8
+  Movement Type: space
+  Move Points: 20
   Spot: 12
   Camouflage: 10
-  Agility: 26
-  Armor: 8
-  Psy Defense: 8
-  Rank: 76
+  Agility: 22
+  Armor: 16
+  Psy Defense: 16
+  Rank: 140
 Attacks:
-  Indirect: 12/20
-  Direct: 16/16
-  Close: 18/18
+  Ranged Space: 21/34
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 35
-Build Cost: 353
+Upkeep / Maintenance: 25
+Build Cost: 251
 Build Resource Requirements:
-  Food: 7
-  Energy: 49
-  Metal: 5
+  Food: 5
+  Energy: 27
+  Metal: 7
   Trace: 14
-  Exotica: 8
-  Chemicals: 77
-  Biochems: 65
-  Electronics: 34
-  Ceramsteel: 6
-Build Think Machine Warriors in Fort
-Time to Build / Upgrade: 4
-[10995] Technologies Required to Build Unit (40):
-  [3895] Molecular Circuits (34)
-  [7100] Artificial Intelligence (46)
+  Exotica: 6
+  Chemicals: 41
+  Biochems: 10
+  Electronics: 20
+  Ceramsteel: 8
+Space Fighter Divebomber cannot be built
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: League Tech Forces
-Nick Name: Tech Forces
+Name: Space Power Interceptor
+Nick Name: SS-PI
 Scores & Strengths:
-  Tech Score: 2431
-  Unit Score: 2430
-  Average Score: 2430
-  Stat Strength: 1260
-  Total Strength: 2430
-  Planet Strength: 2430
-  Space Strength: 0
-  Garrison Strength: 607
+  Tech Score: 3792
+  Unit Score: 3792
+  Average Score: 3792
+  Stat Strength: 1784
+  Total Strength: 3792
+  Planet Strength: 0
+  Space Strength: 3792
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 16
-  Spot: 16
-  Camouflage: 8
-  Agility: 22
-  Armor: 10
-  Psy Defense: 10
-  Rank: 86
+  Movement Type: space
+  Move Points: 18
+  Spot: 14
+  Camouflage: 14
+  Agility: 26
+  Armor: 14
+  Psy Defense: 14
+  Rank: 198
 Attacks:
-  Air: 16/13
-  Indirect: 20/22
-  Direct: 18/19
-  Close: 15/12
+  Direct Space: 31/28
+  Closed Space: 38/30
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 131
-Build Cost: 1309
+Upkeep / Maintenance: 172
+Build Cost: 1716
 Build Resource Requirements:
-  Food: 6
-  Energy: 21
-  Metal: 3
-  Trace: 17
-  Exotica: 7
-  Chemicals: 33
-  Electronics: 29
-  Ceramsteel: 4
-  Monopols: 43
-Build League Tech Forces in Fort
-Time to Build / Upgrade: 4
-[15910] Technologies Required to Build Unit (60):
-  [7825] Advanced Cybernetics (44)
-  [8085] Fusion Rifles (75)
+  Food: 2
+  Energy: 13
+  Metal: 2
+  Trace: 25
+  Exotica: 3
+  Chemicals: 21
+  Biochems: 30
+  Electronics: 44
+  Ceramsteel: 3
+  Monopols: 26
+Space Power Interceptor cannot be built
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: League Security Droid
-Nick Name: LS Droid
+Name: Cybermorph Jump Bomber
+Nick Name: JJ-Bo-Cm
 Scores & Strengths:
-  Tech Score: 2714
-  Unit Score: 2714
-  Average Score: 2714
-  Stat Strength: 1704
-  Total Strength: 2714
-  Planet Strength: 2714
-  Space Strength: 0
-  Garrison Strength: 606
+  Tech Score: 7129
+  Unit Score: 7123
+  Average Score: 7126
+  Stat Strength: 5238
+  Total Strength: 7123
+  Planet Strength: 0
+  Space Strength: 7123
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 20
-  Spot: 14
-  Camouflage: 8
-  Agility: 18
-  Armor: 12
-  Psy Defense: 24
-  Rank: 90
+  Movement Type: jump
+  Move Points: 34
+  Spot: 20
+  Camouflage: 19
+  Agility: 53
+  Armor: 16
+  Psy Defense: 16
+  Rank: 234
 Attacks:
-  Air: 19/20
-  Direct: 18/20
-  Close: 18/15
+  Ranged Space: 43/43
+  Direct Space: 4/9
 Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 49
-Build Cost: 485
+Upkeep / Maintenance: 761
+Build Cost: 7607
 Build Resource Requirements:
-  Food: 4
-  Energy: 64
-  Metal: 6
-  Trace: 6
-  Exotica: 5
-  Chemicals: 93
-  Biochems: 97
-  Electronics: 19
-  Ceramsteel: 8
-Build League Security Droid in Fort
-Time to Build / Upgrade: 4
-[15020] Technology Required to Build Unit (2):
-  [15020] Artificial Humanoids (2)
+  Food: 3
+  Energy: 10
+  Metal: 1
+  Trace: 10
+  Exotica: 3
+  Chemicals: 14
+  Biochems: 21
+  Electronics: 17
+  Ceramsteel: 1
+  Wetware: 14
+  Monopols: 19
+S  ingularities: 6
+Cybermorph Jump Bomber cannot be built
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: 3rd-Republic Enforcer
-Nick Name: Enforcer
+Name: Stealth Jump Bomber
+Nick Name: JJ-Bo-St
 Scores & Strengths:
-  Tech Score: 2945
-  Unit Score: 2944
-  Average Score: 2944
-  Stat Strength: 1380
-  Total Strength: 2944
-  Planet Strength: 2944
-  Space Strength: 0
-  Garrison Strength: 693
+  Tech Score: 7207
+  Unit Score: 7210
+  Average Score: 7209
+  Stat Strength: 5653
+  Total Strength: 7210
+  Planet Strength: 0
+  Space Strength: 7210
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 18
-  Spot: 12
-  Camouflage: 12
-  Agility: 16
+  Movement Type: jump
+  Move Points: 24
+  Spot: 30
+  Camouflage: 56
+  Agility: 23
   Armor: 16
   Psy Defense: 16
-  Rank: 94
+  Rank: 244
 Attacks:
-  Air: 17/24
-  Indirect: 18/24
-  Direct: 16/24
-  Close: 17/20
+  Ranged Space: 39/39
+  Direct Space: 4/9
 Load aboard transport: YES
-Upkeep / Maintenance: 142
-Build Cost: 1423
+Upkeep / Maintenance: 652
+Build Cost: 6519
 Build Resource Requirements:
-  Food: 4
-  Energy: 24
-  Metal: 3
-  Trace: 13
-  Exotica: 4
-  Chemicals: 43
-  Biochems: 26
-  Electronics: 25
-  Ceramsteel: 7
-  Monopols: 53
-Build 3rd-Republic Enforcer in Fort
-Time to Build / Upgrade: 4
-[24175] Technologies Required to Build Unit (50):
-  [8600] Cybernetically-Enhanced Soldiers (48)
-  [15575] Cybercorp (52)
+  Food: 2
+  Energy: 7
+  Metal: 1
+  Trace: 36
+  Exotica: 2
+  Chemicals: 9
+  Biochems: 20
+  Electronics: 58
+  Ceramsteel: 2
+  Wetware: 13
+  Monopols: 14
+S  ingularities: 5
+Stealth Jump Bomber cannot be built
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

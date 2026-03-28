@@ -1,326 +1,520 @@
-All units of the unit class Small Flatbed Trailer are listed herein (8 in total):
+All units of the unit class Fence are listed herein (12 in total):
 
 --1--
-Name: Small Flatbed Trailer
-Nick Name: SF Trailer
+Name: Fence
+Nick Name: Fence
 Scores & Strengths:
   Tech Score: 38
-  Unit Score: 36
-  Average Score: 37
-  Stat Strength: 36
-  Total Strength: 0
-  Planet Strength: 0
+  Unit Score: 13
+  Average Score: 25
+  Stat Strength: 12
+  Total Strength: 13
+  Planet Strength: 13
   Space Strength: 0
-  Garrison Strength: 0
+  Garrison Strength: 16
 Statistics:
   Movement Type: wheel
   Move Points: 0
   Spot: 0
   Camouflage: 2
   Agility: 0
-  Armor: 4
-  Psy Defense: 4
-  Rank: 560
-Cargo Space: 1
-Does not participate in combat
-Can be towed
+  Armor: 2
+  Psy Defense: 2
+  Rank: 6
+Attacks:
+  Close: 1/1
+Load aboard transport: YES
 Never Rebels
+Never Retreats
 Immune to Plague
 Upkeep / Maintenance: 1
-Build Cost: 8
+Build Cost: 10
 Build Resource Requirements:
-  Food: 9
-  Energy: 9
-  Metal: 54
-Build Small Flatbed Trailer in Factory
-Time to Build / Upgrade: 2
+  Food: 2
+  Energy: 4
+  Metal: 13
+Build Fence in Any building
+Time to Build / Upgrade: 1
 [50] Technology Required to Build Unit (100):
   [50] Applied Technology (100)
 Unit can be disbanded: YES
 
 --2--
-Name: Medium Flatbed Trailer
-Nick Name: MF Trailer
+Name: Wire Obstacle
+Nick Name: Wire Obstacle
 Scores & Strengths:
-  Tech Score: 100
-  Unit Score: 107
-  Average Score: 104
-  Stat Strength: 107
-  Total Strength: 0
-  Planet Strength: 0
+  Tech Score: 86
+  Unit Score: 32
+  Average Score: 59
+  Stat Strength: 22
+  Total Strength: 32
+  Planet Strength: 32
   Space Strength: 0
-  Garrison Strength: 0
+  Garrison Strength: 40
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 2
+  Agility: 0
+  Armor: 3
+  Psy Defense: 3
+  Rank: 11
+Attacks:
+  Close: 2/5
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 3
+Build Cost: 33
+Build Resource Requirements:
+  Food: 1
+  Energy: 12
+  Metal: 13
+  Trace: 8
+  Chemicals: 10
+Build Wire Obstacle in Any building
+Time to Build / Upgrade: 1
+[150] Technologies Required to Build Unit (100):
+  [100] Physics & Energy (100)
+  [50] Applied Technology (100)
+Unit can be disbanded: YES
+
+--3--
+Name: Barbed Wire
+Nick Name: Barbed Wire
+Scores & Strengths:
+  Tech Score: 90
+  Unit Score: 55
+  Average Score: 72
+  Stat Strength: 41
+  Total Strength: 55
+  Planet Strength: 55
+  Space Strength: 0
+  Garrison Strength: 68
 Statistics:
   Movement Type: wheel
   Move Points: 0
   Spot: 0
   Camouflage: 3
   Agility: 0
-  Armor: 7
-  Psy Defense: 7
-  Rank: 571
-Cargo Space: 2
-Does not participate in combat
-Can be towed
+  Armor: 4
+  Psy Defense: 4
+  Rank: 12
+Attacks:
+  Close: 2/7
+Load aboard transport: YES
 Never Rebels
 Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 1
-Build Cost: 7
+Upkeep / Maintenance: 6
+Build Cost: 62
 Build Resource Requirements:
   Food: 1
-  Energy: 1
-  Metal: 36
-  Trace: 5
-  Chemicals: 1
-Build Medium Flatbed Trailer in Factory
+  Energy: 23
+  Metal: 22
+  Trace: 14
+  Chemicals: 20
+Build Barbed Wire in Any building
 Time to Build / Upgrade: 1
-[385] Technologies Required to Build Unit (98):
+[160] Technologies Required to Build Unit (100):
   [110] Structural Engineering (99)
-  [110] Mechanical & Aerospace Engineering (98)
-  [165] Autocannon (98)
+  [50] Applied Technology (100)
 Unit can be disbanded: YES
 
---3--
-Name: Long Flatbed Trailer
-Nick Name: LF Trailer
+--4--
+Name: Razor Wire
+Nick Name: Razor Wire
 Scores & Strengths:
-  Tech Score: 170
-  Unit Score: 178
-  Average Score: 174
-  Stat Strength: 178
-  Total Strength: 0
-  Planet Strength: 0
+  Tech Score: 96
+  Unit Score: 84
+  Average Score: 90
+  Stat Strength: 66
+  Total Strength: 84
+  Planet Strength: 84
   Space Strength: 0
-  Garrison Strength: 0
+  Garrison Strength: 105
 Statistics:
   Movement Type: wheel
   Move Points: 0
   Spot: 0
   Camouflage: 4
   Agility: 0
-  Armor: 9
-  Psy Defense: 9
-  Rank: 582
-Cargo Space: 3
-Does not participate in combat
-Can be towed
+  Armor: 5
+  Psy Defense: 5
+  Rank: 14
+Attacks:
+  Close: 2/9
+Load aboard transport: YES
 Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 1
-Build Cost: 11
+Upkeep / Maintenance: 6
+Build Cost: 61
 Build Resource Requirements:
   Food: 1
-  Energy: 1
-  Metal: 39
-  Trace: 6
-  Chemicals: 13
-Build Long Flatbed Trailer in Factory
+  Energy: 23
+  Metal: 23
+  Trace: 10
+  Chemicals: 21
+Build Razor Wire in Any building
 Time to Build / Upgrade: 2
-[595] Technologies Required to Build Unit (96):
-  [145] Composite Armor (97)
-  [125] Compression Ignition Engine (97)
-  [325] Megachassis (94)
+[275] Technologies Required to Build Unit (99):
+  [110] Structural Engineering (99)
+  [165] Autocannon (98)
 Unit can be disbanded: YES
 
---4--
-Name: Small Hover Trailer
-Nick Name: SH Trailer
+--5--
+Name: Anti-Tank Pyramid
+Nick Name: Dragon Teeth
 Scores & Strengths:
-  Tech Score: 988
-  Unit Score: 204
-  Average Score: 596
-  Stat Strength: 204
-  Total Strength: 0
-  Planet Strength: 0
+  Tech Score: 144
+  Unit Score: 142
+  Average Score: 143
+  Stat Strength: 132
+  Total Strength: 142
+  Planet Strength: 142
   Space Strength: 0
-  Garrison Strength: 0
+  Garrison Strength: 177
 Statistics:
-  Movement Type: hover
+  Movement Type: wheel
   Move Points: 0
   Spot: 0
   Camouflage: 2
   Agility: 0
-  Armor: 10
-  Psy Defense: 10
-  Rank: 516
-Cargo Space: 1
-Does not participate in combat
-Can be towed
+  Armor: 8
+  Psy Defense: 8
+  Rank: 16
+Attacks:
+  Direct: 2/5
+Load aboard transport: YES
 Never Rebels
+Never Retreats
 Immune to Plague
 Upkeep / Maintenance: 4
-Build Cost: 37
+Build Cost: 40
 Build Resource Requirements:
-  Metal: 3
-  Chemicals: 1
-  Ceramsteel: 6
-  Monopols: 6
-Build Small Hover Trailer in Factory
+  Food: 1
+  Energy: 6
+  Metal: 44
+  Trace: 4
+  Chemicals: 6
+Build Anti-Tank Pyramid in Any building
 Time to Build / Upgrade: 1
-[3905] Technology Required to Build Unit (61):
-  [3905] Hovertech (61)
+[410] Technologies Required to Build Unit (97):
+  [110] Structural Engineering (99)
+  [300] Mechanized Warfare (95)
 Unit can be disbanded: YES
 
---5--
-Name: Stretch Flatbed Trailer
-Nick Name: SSF Trailer
+--6--
+Name: Anti-Tank Angled Beam
+Nick Name: Hedgehog
 Scores & Strengths:
-  Tech Score: 299
-  Unit Score: 278
-  Average Score: 289
-  Stat Strength: 278
-  Total Strength: 0
-  Planet Strength: 0
+  Tech Score: 162
+  Unit Score: 160
+  Average Score: 161
+  Stat Strength: 128
+  Total Strength: 160
+  Planet Strength: 160
   Space Strength: 0
-  Garrison Strength: 0
+  Garrison Strength: 200
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 0
+  Agility: 0
+  Armor: 8
+  Psy Defense: 8
+  Rank: 21
+Attacks:
+  Direct: 4/8
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 5
+Build Cost: 52
+Build Resource Requirements:
+  Food: 1
+  Energy: 12
+  Metal: 41
+  Trace: 5
+  Chemicals: 14
+Build Anti-Tank Angled Beam in Factory
+Time to Build / Upgrade: 2
+[460] Technologies Required to Build Unit (97):
+  [110] Structural Engineering (99)
+  [350] Tanks (95)
+Unit can be disbanded: YES
+
+--7--
+Name: Electrified Angled Beam
+Nick Name: E-Hedgehog
+Scores & Strengths:
+  Tech Score: 213
+  Unit Score: 210
+  Average Score: 212
+  Stat Strength: 128
+  Total Strength: 210
+  Planet Strength: 210
+  Space Strength: 0
+  Garrison Strength: 262
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 0
+  Agility: 0
+  Armor: 8
+  Psy Defense: 8
+  Rank: 26
+Attacks:
+  Direct: 5/10
+  Close: 4/8
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 6
+Build Cost: 60
+Build Resource Requirements:
+  Energy: 19
+  Metal: 25
+  Trace: 5
+  Chemicals: 21
+  Electronics: 3
+Build Electrified Angled Beam in Electronics Plant
+Time to Build / Upgrade: 2
+[955] Technologies Required to Build Unit (94):
+  [110] Structural Engineering (99)
+  [170] High-Power Electronics (89)
+  [325] Megachassis (94)
+  [350] Tanks (95)
+Unit can be disbanded: YES
+
+--8--
+Name: Concertina Wire
+Nick Name: Concertina
+Scores & Strengths:
+  Tech Score: 414
+  Unit Score: 259
+  Average Score: 337
+  Stat Strength: 192
+  Total Strength: 259
+  Planet Strength: 259
+  Space Strength: 0
+  Garrison Strength: 323
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 8
+  Agility: 0
+  Armor: 8
+  Psy Defense: 8
+  Rank: 27
+Attacks:
+  Direct: 2/1
+  Close: 5/13
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 4
+Build Cost: 43
+Build Resource Requirements:
+  Energy: 11
+  Metal: 16
+  Trace: 8
+  Chemicals: 11
+  Electronics: 6
+Build Concertina Wire in Any building
+Time to Build / Upgrade: 1
+[1595] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [125] Synchronization Gears (97)
+  [165] Autocannon (98)
+  [1195] Naval Warfare (90)
+Unit can be disbanded: YES
+
+--9--
+Name: Electric Fence
+Nick Name: Elec Fence
+Scores & Strengths:
+  Tech Score: 452
+  Unit Score: 438
+  Average Score: 445
+  Stat Strength: 216
+  Total Strength: 438
+  Planet Strength: 438
+  Space Strength: 0
+  Garrison Strength: 547
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 4
+  Agility: 0
+  Armor: 10
+  Psy Defense: 10
+  Rank: 39
+Attacks:
+  Direct: 6/16
+  Close: 7/18
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 10
+Build Cost: 87
+Build Resource Requirements:
+  Energy: 32
+  Metal: 11
+  Trace: 7
+  Chemicals: 37
+  Electronics: 6
+Upgrade Fence to Electric Fence at Electronics Plant
+Time to Build / Upgrade: 1
+[1800] Technologies Required to Build Unit (93):
+  [110] Structural Engineering (99)
+  [170] High-Power Electronics (89)
+  [325] Megachassis (94)
+  [1195] Naval Warfare (90)
+Unit can be disbanded: YES
+
+--10--
+Name: Force Field
+Nick Name: Force Field
+Scores & Strengths:
+  Tech Score: 1006
+  Unit Score: 999
+  Average Score: 1002
+  Stat Strength: 486
+  Total Strength: 999
+  Planet Strength: 999
+  Space Strength: 0
+  Garrison Strength: 1248
 Statistics:
   Movement Type: wheel
   Move Points: 0
   Spot: 0
   Camouflage: 6
   Agility: 0
-  Armor: 11
-  Psy Defense: 11
-  Rank: 593
-Cargo Space: 4
-Does not participate in combat
-Can be towed
+  Armor: 15
+  Psy Defense: 15
+  Rank: 59
+Attacks:
+  Direct: 9/24
+  Close: 11/27
+Load aboard transport: YES
 Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 1
-Build Cost: 14
+Upkeep / Maintenance: 158
+Build Cost: 1580
 Build Resource Requirements:
-  Energy: 1
-  Metal: 45
-  Trace: 6
-  Chemicals: 14
-  Electronics: 5
-Build Stretch Flatbed Trailer in Factory
-Time to Build / Upgrade: 2
-[1150] Technologies Required to Build Unit (93):
-  [145] Composite Armor (97)
-  [395] Gas-Turbine Engine (89)
-  [610] Dual-Purpose Gun (94)
-Unit can be disbanded: YES
-
---6--
-Name: Medium Hover Trailer
-Nick Name: MH Trailer
-Scores & Strengths:
-  Tech Score: 1600
-  Unit Score: 347
-  Average Score: 973
-  Stat Strength: 347
-  Total Strength: 0
-  Planet Strength: 0
-  Space Strength: 0
-  Garrison Strength: 0
-Statistics:
-  Movement Type: hover
-  Move Points: 0
-  Spot: 0
-  Camouflage: 3
-  Agility: 0
-  Armor: 13
-  Psy Defense: 13
-  Rank: 530
-Cargo Space: 2
-Does not participate in combat
-Can be towed
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 4
-Build Cost: 39
-Build Resource Requirements:
-  Metal: 4
-  Chemicals: 2
-  Electronics: 3
-  Ceramsteel: 6
-  Monopols: 6
-Build Medium Hover Trailer in Factory
-Time to Build / Upgrade: 1
-[7425] Technology Required to Build Unit (68):
-  [7425] Hovertanks (68)
-Unit can be disbanded: YES
-
---7--
-Name: Long Hover Trailer
-Nick Name: LH Trailer
-Scores & Strengths:
-  Tech Score: 2707
-  Unit Score: 587
-  Average Score: 1647
-  Stat Strength: 587
-  Total Strength: 0
-  Planet Strength: 0
-  Space Strength: 0
-  Garrison Strength: 0
-Statistics:
-  Movement Type: hover
-  Move Points: 0
-  Spot: 0
-  Camouflage: 3
-  Agility: 0
-  Armor: 17
-  Psy Defense: 17
-  Rank: 546
-Cargo Space: 3
-Does not participate in combat
-Can be towed
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 5
-Build Cost: 48
-Build Resource Requirements:
-  Metal: 4
-  Chemicals: 2
-  Electronics: 2
-  Ceramsteel: 6
-  Monopols: 6
-Build Long Hover Trailer in Factory
-Time to Build / Upgrade: 1
-[14975] Technology Required to Build Unit (70):
-  [14975] Power Hovertanks (70)
-Unit can be disbanded: YES
-
---8--
-Name: Stretch Hover Trailer
-Nick Name: SSH Trailer
-Scores & Strengths:
-  Tech Score: 3783
-  Unit Score: 816
-  Average Score: 2300
-  Stat Strength: 816
-  Total Strength: 0
-  Planet Strength: 0
-  Space Strength: 0
-  Garrison Strength: 0
-Statistics:
-  Movement Type: hover
-  Move Points: 0
-  Spot: 0
-  Camouflage: 4
-  Agility: 0
-  Armor: 20
-  Psy Defense: 20
-  Rank: 563
-Cargo Space: 4
-Does not participate in combat
-Can be towed
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 5
-Build Cost: 47
-Build Resource Requirements:
-  Metal: 3
-  Chemicals: 2
+  Energy: 35
+  Metal: 21
+  Trace: 9
+  Chemicals: 41
   Biochems: 4
-  Electronics: 2
-  Ceramsteel: 5
-  Monopols: 5
-Build Stretch Hover Trailer in Factory
+  Electronics: 8
+  Monopols: 48
+Build Force Field in Fusorium
+Time to Build / Upgrade: 4
+[4940] Technologies Required to Build Unit (87):
+  [145] Composite Armor (97)
+  [1745] Monopols (70)
+  [325] Megachassis (94)
+  [2725] Naval Capital Ships (88)
+Unit can be disbanded: YES
+
+--11--
+Name: Electrified Force Field
+Nick Name: EF Field
+Scores & Strengths:
+  Tech Score: 2337
+  Unit Score: 2336
+  Average Score: 2336
+  Stat Strength: 1416
+  Total Strength: 2336
+  Planet Strength: 2336
+  Space Strength: 0
+  Garrison Strength: 2920
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 8
+  Agility: 0
+  Armor: 26
+  Psy Defense: 26
+  Rank: 85
+Attacks:
+  Direct: 13/32
+  Close: 14/36
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 230
+Build Cost: 716
+Build Resource Requirements:
+  Ceramsteel: 22
+  Monopols: 9
+Upgrade Force Field to Electrified Force Field at Electronics Plant
 Time to Build / Upgrade: 1
-[23395] Technology Required to Build Unit (37):
-  [23395] Advanced Hovertech (37)
+[16460] Technologies Required to Build Unit (74):
+  [1690] Quantized Conductance (76)
+  [7475] Cold Fusion Cells (66)
+  [7295] Nuclear-Powered Navalcraft (81)
+Unit can be disbanded: YES
+
+--12--
+Name: Energy Shield
+Nick Name: Energy Shield
+Scores & Strengths:
+  Tech Score: 6233
+  Unit Score: 6176
+  Average Score: 6204
+  Stat Strength: 5000
+  Total Strength: 6176
+  Planet Strength: 5600
+  Space Strength: 5576
+  Garrison Strength: 7000
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 0
+  Agility: 0
+  Armor: 50
+  Psy Defense: 50
+  Rank: 169
+Attacks:
+  Ranged Space: 24/24
+  Indirect: 24/25
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 203
+Build Cost: 2028
+Build Resource Requirements:
+  Energy: 4
+  Metal: 10
+  Trace: 3
+  Chemicals: 11
+  Biochems: 19
+  Electronics: 8
+  Ceramsteel: 20
+  Wetware: 2
+  Monopols: 28
+Build Energy Shield in Fusorium
+Time to Build / Upgrade: 3
+[51175] Technologies Required to Build Unit (56):
+  [5655] Discontinuity Field Generator (58)
+  [45520] Hover Navalcraft (53)
 Unit can be disbanded: YES

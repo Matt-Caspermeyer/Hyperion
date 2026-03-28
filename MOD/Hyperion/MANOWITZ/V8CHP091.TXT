@@ -1,41 +1,41 @@
-All units of the unit class Self-Propelled ATG are listed herein (9 in total):
+All units of the unit class Assault Gun are listed herein (4 in total):
 
 --1--
-Name: Self-Propelled ATG
-Nick Name: SP ATG
+Name: Assault Gun
+Nick Name: Violator
 Scores & Strengths:
   Tech Score: 292
   Unit Score: 291
   Average Score: 292
-  Stat Strength: 229
+  Stat Strength: 159
   Total Strength: 291
   Planet Strength: 291
   Space Strength: 0
-  Garrison Strength: 130
+  Garrison Strength: 145
 Statistics:
   Movement Type: tread
-  Move Points: 5
+  Move Points: 4
   Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 12
-  Psy Defense: 6
-  Rank: 68
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 5
+  Rank: 41
 Attacks:
-  Indirect: 3/12
-  Direct: 2/13
+  Indirect: 6/13
+  Direct: 6/9
 Load aboard transport: YES
 Upkeep / Maintenance: 6
-Build Cost: 64
+Build Cost: 59
 Build Resource Requirements:
-  Food: 4
-  Energy: 37
-  Metal: 39
-  Trace: 8
-  Exotica: 4
-  Chemicals: 37
-  Electronics: 4
-Build Self-Propelled ATG in Factory
+  Food: 3
+  Energy: 29
+  Metal: 27
+  Trace: 18
+  Exotica: 3
+  Chemicals: 29
+  Electronics: 8
+Build Assault Gun in Factory
 Time to Build / Upgrade: 2
 [770] Technology Required to Build Unit (92):
   [770] Self-Propelled Weaponry (92)
@@ -44,85 +44,42 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Self-Propelled AIG
-Nick Name: SP AIG
+Name: Heavy Assault Gun
+Nick Name: Heavy AG
 Scores & Strengths:
-  Tech Score: 292
-  Unit Score: 292
-  Average Score: 292
-  Stat Strength: 202
-  Total Strength: 292
-  Planet Strength: 292
+  Tech Score: 325
+  Unit Score: 291
+  Average Score: 308
+  Stat Strength: 159
+  Total Strength: 291
+  Planet Strength: 291
   Space Strength: 0
-  Garrison Strength: 146
+  Garrison Strength: 145
 Statistics:
   Movement Type: tread
   Move Points: 4
-  Spot: 6
-  Camouflage: 4
-  Agility: 3
+  Spot: 4
+  Camouflage: 1
+  Agility: 1
   Armor: 10
   Psy Defense: 5
-  Rank: 28
+  Rank: 42
 Attacks:
-  Close: 10/9
+  Indirect: 6/13
+  Direct: 6/9
 Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 6
-Build Cost: 62
+Upkeep / Maintenance: 4
+Build Cost: 43
 Build Resource Requirements:
-  Food: 6
-  Energy: 11
-  Metal: 27
-  Trace: 31
-  Exotica: 6
-  Chemicals: 11
-  Electronics: 22
-Build Self-Propelled AIG in Factory
+  Food: 2
+  Energy: 22
+  Metal: 21
+  Trace: 12
+  Exotica: 2
+  Chemicals: 23
+  Electronics: 4
+Build Heavy Assault Gun in Factory
 Time to Build / Upgrade: 2
-[770] Technology Required to Build Unit (92):
-  [770] Self-Propelled Weaponry (92)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---3--
-Name: Tank Destroyer
-Nick Name: Tank Dest.
-Scores & Strengths:
-  Tech Score: 325
-  Unit Score: 323
-  Average Score: 324
-  Stat Strength: 240
-  Total Strength: 323
-  Planet Strength: 323
-  Space Strength: 0
-  Garrison Strength: 131
-Statistics:
-  Movement Type: tread
-  Move Points: 6
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 12
-  Psy Defense: 6
-  Rank: 71
-Attacks:
-  Indirect: 3/17
-  Direct: 2/16
-Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 72
-Build Resource Requirements:
-  Food: 3
-  Energy: 48
-  Metal: 30
-  Trace: 5
-  Exotica: 3
-  Chemicals: 51
-  Electronics: 2
-Build Tank Destroyer in Factory
-Time to Build / Upgrade: 3
 [1235] Technologies Required to Build Unit (93):
   [770] Self-Propelled Weaponry (92)
   [465] Recoilless Gun (93)
@@ -130,266 +87,83 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---4--
-Name: Self-Propelled AIG II
-Nick Name: SP AIG II
+--3--
+Name: Shock Assault Gun
+Nick Name: Detonator
 Scores & Strengths:
-  Tech Score: 530
-  Unit Score: 482
-  Average Score: 506
-  Stat Strength: 326
-  Total Strength: 482
-  Planet Strength: 482
+  Tech Score: 2123
+  Unit Score: 2025
+  Average Score: 2074
+  Stat Strength: 1081
+  Total Strength: 2025
+  Planet Strength: 2025
   Space Strength: 0
-  Garrison Strength: 215
+  Garrison Strength: 610
 Statistics:
   Movement Type: tread
-  Move Points: 5
+  Move Points: 11
   Spot: 7
-  Camouflage: 5
-  Agility: 3
-  Armor: 13
-  Psy Defense: 7
-  Rank: 30
-Attacks:
-  Close: 13/12
-Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 7
-Build Cost: 73
-Build Resource Requirements:
-  Food: 4
-  Energy: 12
-  Metal: 24
-  Trace: 26
-  Exotica: 4
-  Chemicals: 25
-  Electronics: 29
-Build Self-Propelled AIG II in Factory
-Time to Build / Upgrade: 2
-[1700] Technology Required to Build Unit (88):
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Self-Propelled ATG II
-Nick Name: SP ATG II
-Scores & Strengths:
-  Tech Score: 530
-  Unit Score: 522
-  Average Score: 526
-  Stat Strength: 407
-  Total Strength: 522
-  Planet Strength: 522
-  Space Strength: 0
-  Garrison Strength: 197
-Statistics:
-  Movement Type: tread
-  Move Points: 7
-  Spot: 5
   Camouflage: 3
   Agility: 2
-  Armor: 16
-  Psy Defense: 8
-  Rank: 75
+  Armor: 27
+  Psy Defense: 13
+  Rank: 110
 Attacks:
-  Indirect: 4/16
-  Direct: 3/17
+  Indirect: 16/35
+  Direct: 16/24
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 86
+Upkeep / Maintenance: 99
+Build Cost: 926
 Build Resource Requirements:
-  Food: 4
-  Energy: 40
-  Metal: 36
-  Trace: 7
-  Exotica: 4
-  Chemicals: 64
-  Electronics: 5
-Build Self-Propelled ATG II in Factory
-Time to Build / Upgrade: 3
-[1700] Technology Required to Build Unit (88):
-  [1700] Main Battle Tank (88)
+  Chemicals: 5
+  Electronics: 9
+  Ceramsteel: 13
+  Monopols: 44
+Upgrade Assault Gun to Shock Assault Gun at Factory
+Time to Build / Upgrade: 2
+[10830] Technology Required to Build Unit (80):
+  [10830] Violator Assault Gunnery (80)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---6--
-Name: Self-Propelled AIG III
-Nick Name: SP AIG III
+--4--
+Name: Stealth Assault Gun
+Nick Name: Penetrator
 Scores & Strengths:
-  Tech Score: 1226
-  Unit Score: 1085
-  Average Score: 1155
-  Stat Strength: 725
-  Total Strength: 1085
-  Planet Strength: 1085
+  Tech Score: 5364
+  Unit Score: 5357
+  Average Score: 5361
+  Stat Strength: 3497
+  Total Strength: 5357
+  Planet Strength: 5357
   Space Strength: 0
-  Garrison Strength: 383
+  Garrison Strength: 1093
 Statistics:
   Movement Type: tread
-  Move Points: 8
-  Spot: 9
-  Camouflage: 8
-  Agility: 4
-  Armor: 20
-  Psy Defense: 10
-  Rank: 37
+  Move Points: 24
+  Spot: 14
+  Camouflage: 21
+  Agility: 22
+  Armor: 30
+  Psy Defense: 30
+  Rank: 177
 Attacks:
-  Close: 20/18
+  Indirect: 24/53
+  Direct: 21/28
 Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 9
-Build Cost: 90
+Upkeep / Maintenance: 146
+Build Cost: 1401
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 14
-  Trace: 14
-  Exotica: 3
-  Chemicals: 26
-  Electronics: 34
-  Ceramsteel: 18
-Build Self-Propelled AIG III in Factory
-Time to Build / Upgrade: 3
-[5205] Technology Required to Build Unit (84):
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---7--
-Name: Self-Propelled ATG III
-Nick Name: SP ATG III
-Scores & Strengths:
-  Tech Score: 1226
-  Unit Score: 1188
-  Average Score: 1207
-  Stat Strength: 930
-  Total Strength: 1188
-  Planet Strength: 1188
-  Space Strength: 0
-  Garrison Strength: 375
-Statistics:
-  Movement Type: tread
-  Move Points: 10
-  Spot: 6
-  Camouflage: 4
-  Agility: 3
-  Armor: 25
-  Psy Defense: 12
-  Rank: 93
-Attacks:
-  Indirect: 6/25
-  Direct: 4/27
-Load aboard transport: YES
-Upkeep / Maintenance: 13
-Build Cost: 134
-Build Resource Requirements:
-  Food: 2
-  Energy: 41
-  Metal: 21
-  Trace: 3
-  Exotica: 2
-  Chemicals: 78
-  Electronics: 17
-  Ceramsteel: 28
-Build Self-Propelled ATG III in Factory
-Time to Build / Upgrade: 3
-[5205] Technology Required to Build Unit (84):
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---8--
-Name: Self-Propelled AIG IV
-Nick Name: SP AIG IV
-Scores & Strengths:
-  Tech Score: 2510
-  Unit Score: 2233
-  Average Score: 2371
-  Stat Strength: 1479
-  Total Strength: 2233
-  Planet Strength: 2233
-  Space Strength: 0
-  Garrison Strength: 644
-Statistics:
-  Movement Type: tread
-  Move Points: 12
-  Spot: 10
-  Camouflage: 12
-  Agility: 5
-  Armor: 29
-  Psy Defense: 15
-  Rank: 49
-Attacks:
-  Close: 29/26
-Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 68
-Build Cost: 682
-Build Resource Requirements:
-  Food: 2
-  Energy: 7
-  Metal: 7
-  Trace: 12
-  Exotica: 2
-  Chemicals: 16
-  Electronics: 31
-  Ceramsteel: 12
-  Monopols: 27
-Build Self-Propelled AIG IV in Factory
-Time to Build / Upgrade: 3
-[13535] Technology Required to Build Unit (74):
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---9--
-Name: Self-Propelled ATG IV
-Nick Name: SP ATG IV
-Scores & Strengths:
-  Tech Score: 2510
-  Unit Score: 2411
-  Average Score: 2460
-  Stat Strength: 1868
-  Total Strength: 2411
-  Planet Strength: 2411
-  Space Strength: 0
-  Garrison Strength: 622
-Statistics:
-  Movement Type: tread
-  Move Points: 15
-  Spot: 7
-  Camouflage: 6
-  Agility: 3
-  Armor: 35
-  Psy Defense: 18
-  Rank: 119
-Attacks:
-  Indirect: 9/35
-  Direct: 6/38
-Load aboard transport: YES
-Upkeep / Maintenance: 160
-Build Cost: 1601
-Build Resource Requirements:
-  Food: 2
-  Energy: 25
-  Metal: 11
-  Trace: 2
-  Exotica: 2
-  Chemicals: 46
-  Electronics: 10
-  Ceramsteel: 18
-  Monopols: 69
-Build Self-Propelled ATG IV in Factory
-Time to Build / Upgrade: 4
-[13535] Technology Required to Build Unit (74):
-  [13535] Powered Ceramsteel Tanks (74)
+  Biochems: 33
+  Electronics: 7
+  Ceramsteel: 9
+  Wetware: 5
+  Monopols: 35
+Upgrade Assault Gun to Stealth Assault Gun at Factory
+Time to Build / Upgrade: 2
+[37265] Technology Required to Build Unit (33):
+  [37265] Neumonic Land Vehicles (33)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

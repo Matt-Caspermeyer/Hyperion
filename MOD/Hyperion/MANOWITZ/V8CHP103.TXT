@@ -1,269 +1,399 @@
-All units of the unit class Space Missile Platform are listed herein (6 in total):
+All units of the unit class Space Mine are listed herein (9 in total):
 
 --1--
-Name: Space Missile Platform
-Nick Name: SS-MP
+Name: Space Mine
+Nick Name: Space Mine
 Scores & Strengths:
   Tech Score: 335
-  Unit Score: 335
+  Unit Score: 334
   Average Score: 335
-  Stat Strength: 267
-  Total Strength: 335
+  Stat Strength: 226
+  Total Strength: 334
   Planet Strength: 0
-  Space Strength: 335
+  Space Strength: 334
   Garrison Strength: 0
 Statistics:
   Movement Type: space
   Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 10
-  Psy Defense: 10
-  Rank: 149
+  Spot: 0
+  Camouflage: 15
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 26
 Attacks:
-  Ranged Space: 4/17
+  Closed Space: 6/18
 Load aboard transport: YES
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 16
-Build Cost: 162
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 24
 Build Resource Requirements:
-  Food: 4
-  Energy: 20
-  Metal: 50
-  Trace: 8
-  Exotica: 4
-  Chemicals: 42
-  Electronics: 5
-Build Space Missile Platform in Starport
+  Energy: 22
+  Trace: 28
+  Chemicals: 29
+  Electronics: 19
+Build Space Mine in Starport
 Time to Build / Upgrade: 2
 [1735] Technologies Required to Build Unit (91):
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
   [795] Missiles (86)
-Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Space Artillery
-Nick Name: SS-Artillery
+Name: Space Mine II
+Nick Name: Space Mine II
 Scores & Strengths:
-  Tech Score: 366
-  Unit Score: 365
-  Average Score: 366
-  Stat Strength: 275
-  Total Strength: 365
+  Tech Score: 698
+  Unit Score: 722
+  Average Score: 710
+  Stat Strength: 488
+  Total Strength: 722
   Planet Strength: 0
-  Space Strength: 365
+  Space Strength: 722
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 3
-  Armor: 10
-  Psy Defense: 10
-  Rank: 162
+  Move Points: 2
+  Spot: 0
+  Camouflage: 22
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 47
 Attacks:
-  Ranged Space: 3/30
+  Closed Space: 9/26
 Load aboard transport: YES
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 33
-Build Cost: 331
+Destroyed after combat
+Upkeep / Maintenance: 4
+Build Cost: 35
 Build Resource Requirements:
-  Food: 5
-  Energy: 74
-  Metal: 45
-  Trace: 9
-  Exotica: 5
-  Chemicals: 108
-  Electronics: 5
-Build Space Artillery in Starport
+  Energy: 27
+  Trace: 28
+  Chemicals: 42
+  Electronics: 31
+Build Space Mine II in Starport
 Time to Build / Upgrade: 3
-[1405] Technologies Required to Build Unit (93):
+[3265] Technologies Required to Build Unit (89):
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
-  [465] Recoilless Gun (93)
-Counts as planetary flock: YES
+  [2325] Web Missiles (80)
 Unit can be disbanded: YES
 
 --3--
-Name: Space Battery
-Nick Name: SS-Battery
+Name: Space Mine III
+Nick Name: Space Mine III
 Scores & Strengths:
-  Tech Score: 366
-  Unit Score: 365
-  Average Score: 366
-  Stat Strength: 267
-  Total Strength: 365
+  Tech Score: 877
+  Unit Score: 875
+  Average Score: 876
+  Stat Strength: 585
+  Total Strength: 875
   Planet Strength: 0
-  Space Strength: 365
+  Space Strength: 875
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 10
-  Psy Defense: 10
-  Rank: 121
+  Move Points: 3
+  Spot: 0
+  Camouflage: 24
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 55
 Attacks:
-  Ranged Space: 4/14
-  Direct Space: 3/14
+  Closed Space: 10/29
 Load aboard transport: YES
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 20
-Build Cost: 201
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 31
 Build Resource Requirements:
-  Food: 5
-  Energy: 32
-  Metal: 45
-  Trace: 10
-  Exotica: 5
-  Chemicals: 55
-  Electronics: 6
-Build Space Battery in Starport
-Time to Build / Upgrade: 3
-[1405] Technologies Required to Build Unit (93):
+  Energy: 25
+  Trace: 23
+  Chemicals: 38
+  Electronics: 26
+Build Space Mine III in Starport
+Time to Build / Upgrade: 2
+[4935] Technologies Required to Build Unit (88):
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
-  [465] Recoilless Gun (93)
-Counts as planetary flock: YES
+  [1670] Guided Missiles (83)
+  [2325] Web Missiles (80)
 Unit can be disbanded: YES
 
 --4--
-Name: Space Turret
-Nick Name: SS-Turret
+Name: Space Mine IV
+Nick Name: Space Mine IV
 Scores & Strengths:
-  Tech Score: 636
-  Unit Score: 634
-  Average Score: 635
-  Stat Strength: 472
-  Total Strength: 634
+  Tech Score: 1143
+  Unit Score: 1156
+  Average Score: 1150
+  Stat Strength: 793
+  Total Strength: 1156
   Planet Strength: 0
-  Space Strength: 634
+  Space Strength: 1156
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 2
-  Spot: 8
-  Camouflage: 4
-  Agility: 10
-  Armor: 12
-  Psy Defense: 12
-  Rank: 133
+  Move Points: 3
+  Spot: 0
+  Camouflage: 28
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 64
 Attacks:
-  Direct Space: 9/18
+  Closed Space: 11/33
 Load aboard transport: YES
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 20
-Build Cost: 197
+Destroyed after combat
+Upkeep / Maintenance: 5
+Build Cost: 45
 Build Resource Requirements:
-  Food: 5
-  Energy: 18
-  Metal: 65
-  Trace: 15
-  Exotica: 4
-  Chemicals: 40
-  Electronics: 8
-Build Space Turret in Starport
+  Energy: 41
+  Trace: 28
+  Chemicals: 51
+  Electronics: 37
+Build Space Mine IV in Starport
 Time to Build / Upgrade: 3
-[2725] Technologies Required to Build Unit (92):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [1785] Rotary Autocannon (90)
-Counts as planetary flock: YES
+[4900] Technologies Required to Build Unit (81):
+  [1220] Finite Element Methods (77)
+  [3680] Supersonic Missiles (84)
 Unit can be disbanded: YES
 
 --5--
-Name: Space Point Defense
-Nick Name: SS-PD
+Name: Space Mine V
+Nick Name: Space Mine V
 Scores & Strengths:
-  Tech Score: 636
-  Unit Score: 635
-  Average Score: 635
-  Stat Strength: 453
-  Total Strength: 635
+  Tech Score: 1372
+  Unit Score: 1348
+  Average Score: 1360
+  Stat Strength: 916
+  Total Strength: 1348
   Planet Strength: 0
-  Space Strength: 635
+  Space Strength: 1348
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 2
-  Spot: 8
-  Camouflage: 4
-  Agility: 13
-  Armor: 10
-  Psy Defense: 10
-  Rank: 56
+  Move Points: 4
+  Spot: 0
+  Camouflage: 30
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 72
 Attacks:
-  Closed Space: 14/13
+  Closed Space: 12/36
 Load aboard transport: YES
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 181
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 31
 Build Resource Requirements:
-  Food: 6
-  Energy: 13
-  Metal: 45
-  Trace: 25
-  Exotica: 6
-  Chemicals: 28
-  Electronics: 14
-Build Space Point Defense in Starport
+  Energy: 24
+  Trace: 21
+  Chemicals: 32
+  Electronics: 27
+Build Space Mine V in Starport
 Time to Build / Upgrade: 2
-[2725] Technologies Required to Build Unit (92):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [1785] Rotary Autocannon (90)
-Counts as planetary flock: YES
+[9800] Technologies Required to Build Unit (86):
+  [1535] Carbon Nanotubes (85)
+  [895] Space Rocketry (90)
+  [3200] Supersonic Aircraft (85)
+  [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
 --6--
-Name: Space Defense Platform
-Nick Name: SS-DP
+Name: Space Mine VI
+Nick Name: Space Mine VI
 Scores & Strengths:
-  Tech Score: 832
-  Unit Score: 832
-  Average Score: 832
-  Stat Strength: 553
-  Total Strength: 832
+  Tech Score: 1909
+  Unit Score: 1934
+  Average Score: 1922
+  Stat Strength: 1332
+  Total Strength: 1934
   Planet Strength: 0
-  Space Strength: 832
+  Space Strength: 1934
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 1
-  Spot: 10
-  Camouflage: 1
-  Agility: 1
-  Armor: 15
-  Psy Defense: 15
-  Rank: 138
+  Move Points: 6
+  Spot: 0
+  Camouflage: 36
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 89
 Attacks:
-  Ranged Space: 9/20
-  Direct Space: 9/11
-Cargo Space: 1
+  Closed Space: 14/43
+Load aboard transport: YES
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 19
-Build Cost: 193
+Destroyed after combat
+Upkeep / Maintenance: 4
+Build Cost: 37
 Build Resource Requirements:
-  Food: 2
-  Energy: 16
-  Metal: 68
-  Trace: 11
-  Exotica: 2
-  Chemicals: 39
-  Electronics: 9
-Build Space Defense Platform in Starport
+  Energy: 25
+  Trace: 20
+  Chemicals: 38
+  Electronics: 30
+Build Space Mine VI in Starport
+Time to Build / Upgrade: 2
+[14480] Technologies Required to Build Unit (84):
+  [8175] Spacecraft (84)
+  [6305] Hypersonic Missiles (83)
+Unit can be disbanded: YES
+
+--7--
+Name: Space Mine VII
+Nick Name: Space Mine VII
+Scores & Strengths:
+  Tech Score: 2545
+  Unit Score: 2595
+  Average Score: 2570
+  Stat Strength: 1745
+  Total Strength: 2595
+  Planet Strength: 0
+  Space Strength: 2595
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 8
+  Spot: 0
+  Camouflage: 41
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 108
+Attacks:
+  Closed Space: 17/50
+Load aboard transport: YES
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 5
+Build Cost: 45
+Build Resource Requirements:
+  Energy: 27
+  Trace: 21
+  Chemicals: 40
+  Biochems: 2
+  Electronics: 31
+Build Space Mine VII in Starport
 Time to Build / Upgrade: 3
-[4860] Technologies Required to Build Unit (91):
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [465] Recoilless Gun (93)
-  [1785] Rotary Autocannon (90)
-  [1670] Guided Missiles (83)
-Counts as planetary flock: YES
+[19530] Technologies Required to Build Unit (82):
+  [7105] Hypercruise Missiles (77)
+  [12425] Space Warfare (86)
+Unit can be disbanded: YES
+
+--8--
+Name: Space Mine VIII
+Nick Name: Space Mine VIII
+Scores & Strengths:
+  Tech Score: 3094
+  Unit Score: 3187
+  Average Score: 3141
+  Stat Strength: 2197
+  Total Strength: 3187
+  Planet Strength: 0
+  Space Strength: 3187
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 9
+  Spot: 0
+  Camouflage: 46
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 119
+Attacks:
+  Closed Space: 18/55
+Load aboard transport: YES
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 33
+Build Cost: 328
+Build Resource Requirements:
+  Energy: 19
+  Trace: 22
+  Chemicals: 28
+  Biochems: 12
+  Electronics: 34
+  Monopols: 26
+Build Space Mine VIII in Starport
+Time to Build / Upgrade: 3
+[23635] Technologies Required to Build Unit (79):
+  [7105] Hypercruise Missiles (77)
+  [16530] Space Capital Ships (80)
+Unit can be disbanded: YES
+
+--9--
+Name: Space Mine IX
+Nick Name: Space Mine IX
+Scores & Strengths:
+  Tech Score: 3956
+  Unit Score: 4150
+  Average Score: 4053
+  Stat Strength: 2848
+  Total Strength: 4150
+  Planet Strength: 0
+  Space Strength: 4150
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 12
+  Spot: 0
+  Camouflage: 52
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 139
+Attacks:
+  Closed Space: 21/62
+Load aboard transport: YES
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 44
+Build Cost: 435
+Build Resource Requirements:
+  Energy: 21
+  Trace: 23
+  Chemicals: 31
+  Biochems: 13
+  Electronics: 38
+  Monopols: 32
+Build Space Mine IX in Starport
+Time to Build / Upgrade: 4
+[30570] Technologies Required to Build Unit (76):
+  [7105] Hypercruise Missiles (77)
+  [23465] Advanced Spacecraft (75)
 Unit can be disbanded: YES

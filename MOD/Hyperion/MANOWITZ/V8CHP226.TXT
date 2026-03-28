@@ -1,98 +1,180 @@
-All units of the unit class Jump (Vlad) Cruiser are listed herein (2 in total):
+All units of the unit class Jump Fighter Bomber are listed herein (4 in total):
 
 --1--
-Name: Jump (Vlad) Cruiser
-Nick Name: JJ-CC2
+Name: Jump Fighter Bomber
+Nick Name: JJ-FB
 Scores & Strengths:
-  Tech Score: 5589
-  Unit Score: 5418
-  Average Score: 5504
-  Stat Strength: 4534
-  Total Strength: 5418
+  Tech Score: 4069
+  Unit Score: 4069
+  Average Score: 4069
+  Stat Strength: 1937
+  Total Strength: 4069
   Planet Strength: 0
-  Space Strength: 5418
+  Space Strength: 4069
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
-  Move Points: 16
-  Spot: 14
-  Camouflage: 4
-  Agility: 4
-  Armor: 45
-  Psy Defense: 45
-  Rank: 237
+  Move Points: 20
+  Spot: 16
+  Camouflage: 12
+  Agility: 25
+  Armor: 16
+  Psy Defense: 16
+  Rank: 211
 Attacks:
-  Ranged Space: 17/25
-  Direct Space: 10/27
-  Closed Space: 9/21
-Cargo Space: 2
-Immune to Plague
-Upkeep / Maintenance: 666
-Build Cost: 6655
+  Ranged Space: 27/39
+  Direct Space: 22/32
+  Closed Space: 15/25
+Load aboard transport: YES
+Upkeep / Maintenance: 432
+Build Cost: 4317
 Build Resource Requirements:
-  Food: 1
-  Energy: 8
-  Metal: 14
-  Trace: 4
-  Exotica: 1
-  Chemicals: 18
+  Food: 2
+  Energy: 14
+  Metal: 2
+  Trace: 11
+  Exotica: 2
+  Chemicals: 21
   Biochems: 18
-  Electronics: 13
-  Ceramsteel: 20
-  Monopols: 36
+  Electronics: 19
+  Ceramsteel: 2
+  Monopols: 25
 S  ingularities: 4
-Build Jump (Vlad) Cruiser in Starport
-Time to Build / Upgrade: 4
-[39365] Technology Required to Build Unit (61):
-  [39365] Jump Capital Ships (61)
+Jump Fighter Bomber cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Cloaking Vlad Cruiser
-Nick Name: JJ-CCC
+Name: Jump Interceptor
+Nick Name: JJ-II
 Scores & Strengths:
-  Tech Score: 8498
-  Unit Score: 8501
-  Average Score: 8499
-  Stat Strength: 6840
-  Total Strength: 8501
+  Tech Score: 4069
+  Unit Score: 4069
+  Average Score: 4069
+  Stat Strength: 1992
+  Total Strength: 4069
   Planet Strength: 0
-  Space Strength: 8501
+  Space Strength: 4069
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
-  Move Points: 16
-  Spot: 14
-  Camouflage: 46
-  Agility: 20
-  Armor: 44
-  Psy Defense: 44
-  Rank: 282
+  Move Points: 19
+  Spot: 16
+  Camouflage: 14
+  Agility: 27
+  Armor: 15
+  Psy Defense: 15
+  Rank: 203
 Attacks:
-  Ranged Space: 20/33
-  Direct Space: 30/22
-  Closed Space: 31/11
-Cargo Space: 2
-Immune to Plague
-Upkeep / Maintenance: 803
-Build Cost: 8030
+  Direct Space: 31/28
+  Closed Space: 39/31
+Load aboard transport: YES
+Upkeep / Maintenance: 401
+Build Cost: 4008
 Build Resource Requirements:
-  Energy: 4
-  Metal: 6
-  Trace: 9
-  Exotica: 1
-  Chemicals: 8
-  Biochems: 16
-  Electronics: 22
-  Ceramsteel: 9
-  Wetware: 8
+  Food: 2
+  Energy: 9
+  Metal: 1
+  Trace: 17
+  Exotica: 2
+  Chemicals: 14
+  Biochems: 20
+  Electronics: 28
+  Ceramsteel: 2
   Monopols: 17
 S  ingularities: 4
-Build Cloaking Vlad Cruiser in Starport
+Jump Interceptor cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Imperial Assault Fighter
+Nick Name: Saber
+Scores & Strengths:
+  Tech Score: 4325
+  Unit Score: 4325
+  Average Score: 4325
+  Stat Strength: 2664
+  Total Strength: 4325
+  Planet Strength: 0
+  Space Strength: 4325
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 6
+  Spot: 16
+  Camouflage: 14
+  Agility: 32
+  Armor: 24
+  Psy Defense: 24
+  Rank: 192
+Attacks:
+  Direct Space: 32/23
+  Closed Space: 37/25
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 315
+Build Cost: 3151
+Build Resource Requirements:
+  Food: 1
+  Energy: 6
+  Metal: 3
+  Trace: 16
+  Exotica: 2
+  Chemicals: 10
+  Biochems: 18
+  Electronics: 28
+  Ceramsteel: 4
+  Monopols: 14
+S  ingularities: 2
+Build Imperial Assault Fighter in Starport
 Time to Build / Upgrade: 3
-[98845] Technologies Required to Build Unit (63):
-  [59480] Cloaked Capital Ships (64)
-  [39365] Jump Capital Ships (61)
+[51430] Technologies Required to Build Unit (75):
+  [23465] Advanced Spacecraft (75)
+  [27965] Jump Escorts (75)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Cybermorph Interceptor
+Nick Name: JJ-II-Cy
+Scores & Strengths:
+  Tech Score: 7129
+  Unit Score: 7129
+  Average Score: 7129
+  Stat Strength: 4969
+  Total Strength: 7129
+  Planet Strength: 0
+  Space Strength: 7129
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 20
+  Spot: 18
+  Camouflage: 22
+  Agility: 57
+  Armor: 16
+  Psy Defense: 16
+  Rank: 231
+Attacks:
+  Direct Space: 33/30
+  Closed Space: 39/30
+Load aboard transport: YES
+Upkeep / Maintenance: 629
+Build Cost: 6290
+Build Resource Requirements:
+  Food: 2
+  Energy: 9
+  Metal: 1
+  Trace: 13
+  Exotica: 3
+  Chemicals: 13
+  Biochems: 22
+  Electronics: 22
+  Ceramsteel: 1
+  Wetware: 17
+  Monopols: 17
+S  ingularities: 4
+Cybermorph Interceptor cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES

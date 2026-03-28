@@ -1,43 +1,45 @@
-All units of the unit class Space Sloop are listed herein (11 in total):
+All units of the unit class Space Monitor are listed herein (9 in total):
 
 --1--
-Name: Space Sloop
-Nick Name: SS-Sl
+Name: Space Monitor
+Nick Name: SS-BM
 Scores & Strengths:
   Tech Score: 369
-  Unit Score: 369
-  Average Score: 369
-  Stat Strength: 270
-  Total Strength: 369
+  Unit Score: 368
+  Average Score: 368
+  Stat Strength: 309
+  Total Strength: 368
   Planet Strength: 0
-  Space Strength: 369
+  Space Strength: 368
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 2
+  Move Points: 1
   Spot: 8
-  Camouflage: 2
-  Agility: 10
-  Armor: 7
-  Psy Defense: 7
-  Rank: 130
+  Camouflage: 1
+  Agility: 1
+  Armor: 11
+  Psy Defense: 11
+  Rank: 48
 Attacks:
-  Direct Space: 5/11
-  Closed Space: 4/11
+  Ranged Space: 1/11
+  Direct Space: 2/10
+  Closed Space: 4/7
 Cargo Space: 1
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 20
-Build Cost: 200
+Upkeep / Maintenance: 21
+Build Cost: 205
 Build Resource Requirements:
-  Food: 10
-  Energy: 28
-  Metal: 20
-  Trace: 17
-  Exotica: 10
-  Chemicals: 40
-  Electronics: 11
-Build Space Sloop in Starport
-Time to Build / Upgrade: 2
+  Food: 6
+  Energy: 27
+  Metal: 49
+  Trace: 10
+  Exotica: 5
+  Chemicals: 48
+  Electronics: 6
+Build Space Monitor in Starport
+Time to Build / Upgrade: 3
 [1270] Technologies Required to Build Unit (96):
   [230] Hospitals (97)
   [145] Composite Armor (97)
@@ -47,43 +49,45 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Jump Sloop
-Nick Name: JJ-Sl
+Name: Jump Monitor
+Nick Name: JJ-BM
 Scores & Strengths:
   Tech Score: 455
-  Unit Score: 441
-  Average Score: 448
-  Stat Strength: 321
-  Total Strength: 441
+  Unit Score: 421
+  Average Score: 438
+  Stat Strength: 355
+  Total Strength: 421
   Planet Strength: 0
-  Space Strength: 441
+  Space Strength: 421
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
-  Move Points: 2
+  Move Points: 1
   Spot: 8
-  Camouflage: 2
-  Agility: 11
-  Armor: 8
-  Psy Defense: 8
-  Rank: 157
+  Camouflage: 1
+  Agility: 1
+  Armor: 12
+  Psy Defense: 12
+  Rank: 51
 Attacks:
-  Direct Space: 6/12
-  Closed Space: 4/12
+  Ranged Space: 1/12
+  Direct Space: 2/11
+  Closed Space: 4/8
 Cargo Space: 1
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 105
-Build Cost: 1053
+Upkeep / Maintenance: 96
+Build Cost: 959
 Build Resource Requirements:
-  Food: 9
-  Energy: 33
-  Metal: 22
-  Trace: 18
-  Exotica: 9
-  Chemicals: 48
-  Electronics: 14
-S  ingularities: 2
-Build Jump Sloop in Starport
+  Food: 5
+  Energy: 32
+  Metal: 50
+  Trace: 9
+  Exotica: 5
+  Chemicals: 57
+  Electronics: 7
+S  ingularities: 1
+Build Jump Monitor in Starport
 Time to Build / Upgrade: 3
 [1710] Technologies Required to Build Unit (93):
   [230] Hospitals (97)
@@ -94,418 +98,337 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Space Corsair
-Nick Name: SS-Corsair
+Name: Battlestar
+Nick Name: SS-BB
 Scores & Strengths:
-  Tech Score: 626
-  Unit Score: 626
-  Average Score: 626
-  Stat Strength: 348
-  Total Strength: 626
+  Tech Score: 387
+  Unit Score: 581
+  Average Score: 484
+  Stat Strength: 355
+  Total Strength: 581
   Planet Strength: 0
-  Space Strength: 626
+  Space Strength: 581
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 2
-  Spot: 10
-  Camouflage: 4
-  Agility: 10
-  Armor: 8
-  Psy Defense: 8
-  Rank: 149
+  Move Points: 1
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 12
+  Psy Defense: 12
+  Rank: 79
 Attacks:
-  Direct Space: 25/8
-  Closed Space: 13/6
-Cargo Space: 1
+  Ranged Space: 4/25
+  Direct Space: 7/18
+Cargo Space: 2
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 34
-Build Cost: 344
+Upkeep / Maintenance: 42
+Build Cost: 418
 Build Resource Requirements:
   Food: 5
-  Energy: 7
-  Metal: 14
-  Trace: 55
+  Energy: 79
+  Metal: 52
+  Trace: 13
   Exotica: 5
-  Chemicals: 11
-  Biochems: 31
-  Electronics: 44
-Build Space Corsair in Starport
-Time to Build / Upgrade: 3
-[2500] Technologies Required to Build Unit (91):
+  Chemicals: 108
+  Electronics: 8
+Build Battlestar in Starport
+Time to Build / Upgrade: 4
+[1500] Technologies Required to Build Unit (95):
+  [230] Hospitals (97)
   [145] Composite Armor (97)
+  [170] Fire Control System (89)
   [795] Rocket Propulsion (90)
-  [1560] Naval Patrol Ships (86)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Jump Corsair
-Nick Name: JJ-Corsair
+Name: Jump Battlestar
+Nick Name: JJ-BB
 Scores & Strengths:
-  Tech Score: 719
-  Unit Score: 709
-  Average Score: 714
-  Stat Strength: 382
-  Total Strength: 709
+  Tech Score: 472
+  Unit Score: 677
+  Average Score: 575
+  Stat Strength: 405
+  Total Strength: 677
   Planet Strength: 0
-  Space Strength: 709
+  Space Strength: 677
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
-  Move Points: 2
-  Spot: 10
-  Camouflage: 4
-  Agility: 10
-  Armor: 9
-  Psy Defense: 9
-  Rank: 178
+  Move Points: 1
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 13
+  Psy Defense: 13
+  Rank: 85
 Attacks:
-  Direct Space: 27/9
-  Closed Space: 14/6
-Cargo Space: 1
+  Ranged Space: 4/28
+  Direct Space: 8/20
+Cargo Space: 2
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 116
-Build Cost: 1155
+Upkeep / Maintenance: 122
+Build Cost: 1224
 Build Resource Requirements:
   Food: 5
-  Energy: 8
-  Metal: 16
-  Trace: 60
-  Exotica: 5
-  Chemicals: 13
-  Biochems: 34
-  Electronics: 50
-S  ingularities: 2
-Build Jump Corsair in Starport
-Time to Build / Upgrade: 3
-[2940] Technologies Required to Build Unit (86):
+  Energy: 98
+  Metal: 53
+  Trace: 14
+  Exotica: 4
+  Chemicals: 134
+  Electronics: 10
+S  ingularities: 1
+Build Jump Battlestar in Starport
+Time to Build / Upgrade: 5
+[1940] Technologies Required to Build Unit (93):
+  [230] Hospitals (97)
   [145] Composite Armor (97)
-  [1560] Naval Patrol Ships (86)
+  [170] Fire Control System (89)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
   [1235] Jump Rocketry (76)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Space Corvette
-Nick Name: SS-Corvette
+Name: Fast Battlestar
+Nick Name: SS-BF
 Scores & Strengths:
-  Tech Score: 2456
-  Unit Score: 2456
-  Average Score: 2456
-  Stat Strength: 1636
-  Total Strength: 2456
+  Tech Score: 2916
+  Unit Score: 2916
+  Average Score: 2916
+  Stat Strength: 2400
+  Total Strength: 2916
   Planet Strength: 0
-  Space Strength: 2456
+  Space Strength: 2916
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 22
+  Move Points: 15
   Spot: 12
-  Camouflage: 6
-  Agility: 18
-  Armor: 18
-  Psy Defense: 18
-  Rank: 182
+  Camouflage: 3
+  Agility: 10
+  Armor: 31
+  Psy Defense: 31
+  Rank: 136
 Attacks:
-  Direct Space: 28/19
-  Closed Space: 18/16
-Cargo Space: 1
+  Ranged Space: 6/36
+  Direct Space: 10/30
+Cargo Space: 2
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 41
-Build Cost: 409
+Upkeep / Maintenance: 302
+Build Cost: 3019
 Build Resource Requirements:
-  Food: 5
-  Energy: 18
-  Metal: 9
-  Trace: 20
-  Exotica: 6
+  Food: 1
+  Energy: 17
+  Metal: 13
+  Trace: 4
+  Exotica: 2
   Chemicals: 28
-  Biochems: 26
-  Electronics: 30
-  Ceramsteel: 10
-Build Space Corvette in Starport
-Time to Build / Upgrade: 3
-[13150] Technology Required to Build Unit (86):
-  [13150] Space Patrol Ships (86)
+  Biochems: 22
+  Electronics: 6
+  Ceramsteel: 16
+  Monopols: 42
+Build Fast Battlestar in Starport
+Time to Build / Upgrade: 4
+[16530] Technology Required to Build Unit (80):
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Patrol Star
-Nick Name: SS-PS
+Name: Pocket Battlestar
+Nick Name: SS-BP
 Scores & Strengths:
-  Tech Score: 2456
-  Unit Score: 2456
-  Average Score: 2456
-  Stat Strength: 1745
-  Total Strength: 2456
+  Tech Score: 2916
+  Unit Score: 2917
+  Average Score: 2916
+  Stat Strength: 2451
+  Total Strength: 2917
   Planet Strength: 0
-  Space Strength: 2456
+  Space Strength: 2917
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 25
+  Move Points: 13
   Spot: 12
-  Camouflage: 8
-  Agility: 20
-  Armor: 16
-  Psy Defense: 16
-  Rank: 181
+  Camouflage: 3
+  Agility: 9
+  Armor: 32
+  Psy Defense: 32
+  Rank: 133
 Attacks:
-  Direct Space: 30/16
-  Closed Space: 21/11
-Cargo Space: 1
+  Ranged Space: 5/42
+  Direct Space: 8/32
+Cargo Space: 2
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 43
-Build Cost: 426
+Upkeep / Maintenance: 348
+Build Cost: 3475
 Build Resource Requirements:
-  Food: 6
-  Energy: 17
-  Metal: 7
-  Trace: 24
-  Exotica: 7
-  Chemicals: 26
-  Biochems: 26
-  Electronics: 36
-  Ceramsteel: 8
-Build Patrol Star in Starport
-Time to Build / Upgrade: 3
-[13150] Technology Required to Build Unit (86):
-  [13150] Space Patrol Ships (86)
+  Food: 1
+  Energy: 20
+  Metal: 14
+  Trace: 3
+  Exotica: 2
+  Chemicals: 33
+  Biochems: 24
+  Electronics: 5
+  Ceramsteel: 17
+  Monopols: 49
+Build Pocket Battlestar in Starport
+Time to Build / Upgrade: 4
+[16530] Technology Required to Build Unit (80):
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Space Cutter
-Nick Name: SS-Cutter
+Name: Jump Pocket Battlestar
+Nick Name: JJ-BP
 Scores & Strengths:
-  Tech Score: 2580
-  Unit Score: 2579
-  Average Score: 2580
-  Stat Strength: 1625
-  Total Strength: 2579
+  Tech Score: 5589
+  Unit Score: 5419
+  Average Score: 5504
+  Stat Strength: 4529
+  Total Strength: 5419
   Planet Strength: 0
-  Space Strength: 2579
+  Space Strength: 5419
   Garrison Strength: 0
 Statistics:
-  Movement Type: space
-  Move Points: 20
-  Spot: 12
-  Camouflage: 5
-  Agility: 16
-  Armor: 20
-  Psy Defense: 20
-  Rank: 183
+  Movement Type: jump
+  Move Points: 18
+  Spot: 14
+  Camouflage: 4
+  Agility: 11
+  Armor: 44
+  Psy Defense: 44
+  Rank: 178
 Attacks:
-  Direct Space: 27/20
-  Closed Space: 23/18
-Cargo Space: 1
+  Ranged Space: 7/58
+  Direct Space: 11/44
+Cargo Space: 2
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 43
-Build Cost: 426
+Upkeep / Maintenance: 817
+Build Cost: 8172
 Build Resource Requirements:
-  Food: 4
-  Energy: 17
-  Metal: 11
-  Trace: 21
-  Exotica: 5
-  Chemicals: 27
-  Biochems: 27
-  Electronics: 31
-  Ceramsteel: 13
-Build Space Cutter in Starport
-Time to Build / Upgrade: 3
-[14045] Technology Required to Build Unit (84):
-  [14045] Space Escorts (84)
+  Food: 1
+  Energy: 23
+  Metal: 13
+  Trace: 2
+  Exotica: 1
+  Chemicals: 40
+  Biochems: 25
+  Electronics: 10
+  Ceramsteel: 19
+  Monopols: 64
+S  ingularities: 4
+Build Jump Pocket Battlestar in Starport
+Time to Build / Upgrade: 5
+[39365] Technology Required to Build Unit (61):
+  [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Fast Torpedo Star
-Nick Name: SS-FTS
+Name: Jump Fast Battlestar
+Nick Name: JJ-BF
 Scores & Strengths:
-  Tech Score: 3536
-  Unit Score: 3556
-  Average Score: 3546
-  Stat Strength: 2184
-  Total Strength: 3556
+  Tech Score: 5589
+  Unit Score: 5483
+  Average Score: 5536
+  Stat Strength: 4495
+  Total Strength: 5483
   Planet Strength: 0
-  Space Strength: 3556
+  Space Strength: 5483
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
-  Move Points: 20
+  Move Points: 21
   Spot: 14
-  Camouflage: 6
-  Agility: 20
-  Armor: 24
-  Psy Defense: 24
-  Rank: 212
+  Camouflage: 4
+  Agility: 12
+  Armor: 43
+  Psy Defense: 43
+  Rank: 183
 Attacks:
-  Ranged Space: 17/35
-  Direct Space: 19/23
-  Closed Space: 17/20
-Cargo Space: 1
+  Ranged Space: 8/50
+  Direct Space: 14/42
+Cargo Space: 2
+Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 561
-Build Cost: 5607
+Upkeep / Maintenance: 828
+Build Cost: 8277
 Build Resource Requirements:
-  Food: 2
-  Energy: 17
-  Metal: 7
-  Trace: 12
-  Exotica: 3
-  Chemicals: 26
-  Biochems: 25
-  Electronics: 20
-  Ceramsteel: 8
-  Monopols: 36
-S  ingularities: 4
-Build Fast Torpedo Star in Starport
-Time to Build / Upgrade: 4
-[21375] Technology Required to Build Unit (67):
-  [21375] Lander Transports (67)
+  Food: 1
+  Energy: 19
+  Metal: 12
+  Trace: 3
+  Exotica: 2
+  Chemicals: 34
+  Biochems: 23
+  Electronics: 11
+  Ceramsteel: 18
+  Monopols: 56
+S  ingularities: 5
+Build Jump Fast Battlestar in Starport
+Time to Build / Upgrade: 5
+[39365] Technology Required to Build Unit (61):
+  [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Jump Patrol Star
-Nick Name: JJ-PS
+Name: Gate Battlestar
+Nick Name: Black Hole
 Scores & Strengths:
-  Tech Score: 4325
-  Unit Score: 4077
-  Average Score: 4201
-  Stat Strength: 2817
-  Total Strength: 4077
-  Planet Strength: 0
-  Space Strength: 4077
-  Garrison Strength: 0
+  Tech Score: 7734
+  Unit Score: 7735
+  Average Score: 7734
+  Stat Strength: 6100
+  Total Strength: 7735
+  Planet Strength: 6925
+  Space Strength: 6910
+  Garrison Strength: 1264
 Statistics:
-  Movement Type: jump
-  Move Points: 33
-  Spot: 14
-  Camouflage: 11
-  Agility: 23
-  Armor: 21
-  Psy Defense: 21
-  Rank: 238
+  Movement Type: gate
+  Move Points: 30
+  Spot: 24
+  Camouflage: 14
+  Agility: 14
+  Armor: 46
+  Psy Defense: 46
+  Rank: 221
 Attacks:
-  Direct Space: 40/21
-  Closed Space: 28/15
-Cargo Space: 1
-Immune to Plague
-Upkeep / Maintenance: 683
-Build Cost: 6826
+  Ranged Space: 20/30
+  Direct Space: 14/15
+  Air: 15/15
+  Indirect: 20/30
+Cargo Space: 2
+Load aboard transport: YES
+Upkeep / Maintenance: 848
+Build Cost: 8476
 Build Resource Requirements:
-  Food: 4
-  Energy: 10
-  Metal: 4
-  Trace: 24
-  Exotica: 4
+  Food: 2
+  Energy: 9
+  Metal: 9
+  Trace: 5
+  Exotica: 2
   Chemicals: 17
-  Biochems: 30
-  Electronics: 42
-  Ceramsteel: 5
-  Monopols: 24
+  Biochems: 22
+  Electronics: 11
+  Ceramsteel: 15
+  Wetware: 6
+  Monopols: 34
 S  ingularities: 6
-Build Jump Patrol Star in Starport
-Time to Build / Upgrade: 4
-[27965] Technology Required to Build Unit (75):
-  [27965] Jump Escorts (75)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---10--
-Name: Jump Corvette
-Nick Name: JJ-Corvette
-Scores & Strengths:
-  Tech Score: 4325
-  Unit Score: 4123
-  Average Score: 4224
-  Stat Strength: 2694
-  Total Strength: 4123
-  Planet Strength: 0
-  Space Strength: 4123
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 29
-  Spot: 14
-  Camouflage: 8
-  Agility: 21
-  Armor: 24
-  Psy Defense: 24
-  Rank: 239
-Attacks:
-  Direct Space: 37/25
-  Closed Space: 24/21
-Cargo Space: 1
-Immune to Plague
-Upkeep / Maintenance: 658
-Build Cost: 6577
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 5
-  Trace: 19
-  Exotica: 4
-  Chemicals: 18
-  Biochems: 28
-  Electronics: 35
-  Ceramsteel: 7
-  Monopols: 27
-S  ingularities: 5
-Build Jump Corvette in Starport
-Time to Build / Upgrade: 4
-[27965] Technology Required to Build Unit (75):
-  [27965] Jump Escorts (75)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---11--
-Name: Jump Cutter
-Nick Name: JJ-Cutter
-Scores & Strengths:
-  Tech Score: 4325
-  Unit Score: 4184
-  Average Score: 4255
-  Stat Strength: 2584
-  Total Strength: 4184
-  Planet Strength: 0
-  Space Strength: 4184
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 26
-  Spot: 14
-  Camouflage: 6
-  Agility: 18
-  Armor: 26
-  Psy Defense: 26
-  Rank: 239
-Attacks:
-  Direct Space: 35/26
-  Closed Space: 30/23
-Cargo Space: 1
-Immune to Plague
-Upkeep / Maintenance: 636
-Build Cost: 6361
-Build Resource Requirements:
-  Food: 3
-  Energy: 10
-  Metal: 6
-  Trace: 20
-  Exotica: 3
-  Chemicals: 18
-  Biochems: 29
-  Electronics: 37
-  Ceramsteel: 8
-  Monopols: 27
-S  ingularities: 5
-Build Jump Cutter in Starport
-Time to Build / Upgrade: 4
-[27965] Technology Required to Build Unit (75):
-  [27965] Jump Escorts (75)
+Gate Battlestar cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES

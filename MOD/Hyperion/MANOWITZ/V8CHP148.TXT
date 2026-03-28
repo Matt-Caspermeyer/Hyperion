@@ -1,576 +1,423 @@
-All units of the unit class Holy Sp. Carrier are listed herein (12 in total):
+All units of the unit class Jet-Propulsion Fighter are listed herein (9 in total):
 
 --1--
-Name: Holy Sp. Carrier
-Nick Name: SS-HSCV
+Name: Jet-Propulsion Fighter
+Nick Name: Tiger
 Scores & Strengths:
-  Tech Score: 725
-  Unit Score: 725
-  Average Score: 725
-  Stat Strength: 480
-  Total Strength: 725
-  Planet Strength: 0
-  Space Strength: 725
-  Garrison Strength: 0
+  Tech Score: 555
+  Unit Score: 694
+  Average Score: 624
+  Stat Strength: 540
+  Total Strength: 694
+  Planet Strength: 694
+  Space Strength: 0
+  Garrison Strength: 163
 Statistics:
-  Movement Type: space
-  Move Points: 3
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 9
-  Psy Defense: 18
-  Rank: 863
+  Movement Type: air
+  Move Points: 18
+  Spot: 6
+  Camouflage: 4
+  Agility: 6
+  Armor: 8
+  Psy Defense: 8
+  Rank: 56
 Attacks:
-  Direct Space: 8/12
-  Closed Space: 5/10
-  Psychic: 9/11
-Cargo Space: 7
-Officer - Provides stack combat bonuses
-Clergy - Increases Tithe Skim and Converts Sects
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 216
-Build Cost: 2085
+  Air: 10/7
+  Indirect: 12/7
+Load aboard transport: YES
+Upkeep / Maintenance: 10
+Build Cost: 98
 Build Resource Requirements:
-  Metal: 27
-  Trace: 8
-  Chemicals: 15
-  Electronics: 7
-  Gems: 10
-Upgrade Clergy to Holy Sp. Carrier at Church
-Time to Build / Upgrade: 1
-[3325] Technologies Required to Build Unit (85):
-  [700] Rockets (90)
-  [1100] Omen (76)
-  [330] Holy Warriors (82)
-  [1195] Naval Warfare (90)
+  Food: 11
+  Energy: 26
+  Metal: 88
+  Trace: 19
+  Exotica: 11
+  Chemicals: 28
+  Electronics: 11
+Build Jet-Propulsion Fighter in Factory
+Time to Build / Upgrade: 3
+[1810] Technology Required to Build Unit (86):
+  [1810] Jet-Propulsion Aircraft (86)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Holy Sp. Freighter
-Nick Name: SS-HSF
+Name: Jet-Propulsion Fighter II
+Nick Name: Tiger II
 Scores & Strengths:
-  Tech Score: 725
-  Unit Score: 725
-  Average Score: 725
-  Stat Strength: 608
-  Total Strength: 725
-  Planet Strength: 0
-  Space Strength: 725
-  Garrison Strength: 0
+  Tech Score: 1142
+  Unit Score: 1362
+  Average Score: 1252
+  Stat Strength: 1052
+  Total Strength: 1362
+  Planet Strength: 1362
+  Space Strength: 0
+  Garrison Strength: 267
 Statistics:
-  Movement Type: space
-  Move Points: 6
-  Spot: 8
-  Camouflage: 2
-  Agility: 2
-  Armor: 10
-  Psy Defense: 20
-  Rank: 807
+  Movement Type: air
+  Move Points: 26
+  Spot: 7
+  Camouflage: 6
+  Agility: 7
+  Armor: 11
+  Psy Defense: 11
+  Rank: 79
 Attacks:
-  Closed Space: 9/5
-  Psychic: 9/8
-Cargo Space: 5
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 53
-Build Cost: 460
+  Air: 14/10
+  Indirect: 17/10
+Load aboard transport: YES
+Upkeep / Maintenance: 8
+Build Cost: 77
 Build Resource Requirements:
-  Metal: 35
-  Trace: 8
-  Chemicals: 3
+  Food: 8
+  Energy: 18
+  Metal: 17
+  Trace: 16
+  Exotica: 8
+  Chemicals: 19
+  Biochems: 9
   Electronics: 7
-  Gems: 3
-Upgrade Clergy to Holy Sp. Freighter at Church
-Time to Build / Upgrade: 1
-[3325] Technologies Required to Build Unit (85):
-  [700] Rockets (90)
-  [1100] Omen (76)
-  [330] Holy Warriors (82)
-  [1195] Naval Warfare (90)
+Build Jet-Propulsion Fighter II in Factory
+Time to Build / Upgrade: 2
+[7115] Technologies Required to Build Unit (88):
+  [795] Missiles (86)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2725] Naval Capital Ships (88)
+  [1785] Rotary Autocannon (90)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Holy Sp. Bulk Hauler
-Nick Name: SS-HSBH
+Name: Atmospheric Fighter
+Nick Name: Gryphon
 Scores & Strengths:
-  Tech Score: 725
-  Unit Score: 906
-  Average Score: 816
-  Stat Strength: 822
-  Total Strength: 906
-  Planet Strength: 0
-  Space Strength: 906
-  Garrison Strength: 0
+  Tech Score: 1630
+  Unit Score: 1986
+  Average Score: 1808
+  Stat Strength: 1530
+  Total Strength: 1986
+  Planet Strength: 1986
+  Space Strength: 0
+  Garrison Strength: 356
 Statistics:
-  Movement Type: space
-  Move Points: 6
+  Movement Type: air
+  Move Points: 31
   Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 12
-  Psy Defense: 24
-  Rank: 828
+  Camouflage: 7
+  Agility: 8
+  Armor: 14
+  Psy Defense: 14
+  Rank: 96
 Attacks:
-  Closed Space: 4/6
-  Psychic: 6/10
-Cargo Space: 7
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 99
-Build Cost: 914
+  Air: 17/12
+  Indirect: 21/12
+Load aboard transport: YES
+Upkeep / Maintenance: 12
+Build Cost: 118
 Build Resource Requirements:
-  Metal: 51
-  Trace: 5
-  Chemicals: 4
-  Electronics: 4
-  Gems: 7
-Upgrade Clergy to Holy Sp. Bulk Hauler at Church
-Time to Build / Upgrade: 1
-[3325] Technologies Required to Build Unit (85):
-  [700] Rockets (90)
-  [1100] Omen (76)
-  [330] Holy Warriors (82)
-  [1195] Naval Warfare (90)
+  Food: 11
+  Energy: 27
+  Metal: 6
+  Trace: 19
+  Exotica: 11
+  Chemicals: 44
+  Electronics: 14
+  Ceramsteel: 15
+Build Atmospheric Fighter in Factory
+Time to Build / Upgrade: 3
+[7610] Technology Required to Build Unit (80):
+  [7610] Atmospheric Aircraft (80)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Holy Sp. Escort Carrier
-Nick Name: SS-HSEC
+Name: Adv. Atmospheric Fighter
+Nick Name: Gryphon II
 Scores & Strengths:
-  Tech Score: 1706
-  Unit Score: 1706
-  Average Score: 1706
-  Stat Strength: 937
-  Total Strength: 1706
-  Planet Strength: 0
-  Space Strength: 1706
-  Garrison Strength: 0
+  Tech Score: 1774
+  Unit Score: 2100
+  Average Score: 1937
+  Stat Strength: 1593
+  Total Strength: 2100
+  Planet Strength: 2100
+  Space Strength: 0
+  Garrison Strength: 371
 Statistics:
-  Movement Type: space
-  Move Points: 7
-  Spot: 10
-  Camouflage: 2
+  Movement Type: air
+  Move Points: 32
+  Spot: 8
+  Camouflage: 7
   Agility: 8
-  Armor: 12
-  Psy Defense: 24
-  Rank: 858
+  Armor: 14
+  Psy Defense: 14
+  Rank: 99
 Attacks:
-  Direct Space: 10/25
-  Closed Space: 11/21
-  Psychic: 24/12
-Cargo Space: 4
-Officer - Provides stack combat bonuses
-Clergy - Increases Tithe Skim and Converts Sects
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 199
-Build Cost: 1921
+  Air: 18/13
+  Indirect: 21/13
+Load aboard transport: YES
+Upkeep / Maintenance: 12
+Build Cost: 119
 Build Resource Requirements:
-  Energy: 7
-  Metal: 15
-  Trace: 8
-  Chemicals: 30
-  Biochems: 4
-  Electronics: 8
-  Ceramsteel: 20
-  Gems: 10
-Upgrade Clergy to Holy Sp. Escort Carrier at Church
-Time to Build / Upgrade: 2
-[9400] Technologies Required to Build Unit (74):
-  [2585] Supersonics (87)
-  [330] Holy Warriors (82)
-  [1790] Sixth Sense (45)
-  [4695] Advanced Minor Watercraft (83)
+  Food: 11
+  Energy: 27
+  Metal: 6
+  Trace: 18
+  Exotica: 11
+  Chemicals: 45
+  Electronics: 14
+  Ceramsteel: 15
+Build Adv. Atmospheric Fighter in Factory
+Time to Build / Upgrade: 3
+[8520] Technology Required to Build Unit (79):
+  [8520] Advanced Atmospheric Aircraft (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Holy Sp. Lt Carrier
-Nick Name: SS-HSLC
+Name: Atmospheric Fighter II
+Nick Name: Gryphon III
 Scores & Strengths:
-  Tech Score: 1965
-  Unit Score: 1965
-  Average Score: 1965
-  Stat Strength: 820
-  Total Strength: 1965
-  Planet Strength: 0
-  Space Strength: 1965
-  Garrison Strength: 0
+  Tech Score: 2126
+  Unit Score: 2531
+  Average Score: 2329
+  Stat Strength: 1929
+  Total Strength: 2531
+  Planet Strength: 2531
+  Space Strength: 0
+  Garrison Strength: 427
 Statistics:
-  Movement Type: space
-  Move Points: 9
-  Spot: 10
-  Camouflage: 3
-  Agility: 5
-  Armor: 11
-  Psy Defense: 22
-  Rank: 884
+  Movement Type: air
+  Move Points: 35
+  Spot: 8
+  Camouflage: 8
+  Agility: 8
+  Armor: 16
+  Psy Defense: 16
+  Rank: 109
 Attacks:
-  Direct Space: 27/21
-  Closed Space: 24/14
-  Psychic: 22/11
-Cargo Space: 5
-Officer - Provides stack combat bonuses
-Clergy - Increases Tithe Skim and Converts Sects
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 219
-Build Cost: 2114
+  Air: 20/14
+  Indirect: 23/14
+Load aboard transport: YES
+Upkeep / Maintenance: 12
+Build Cost: 115
 Build Resource Requirements:
-  Metal: 10
-  Trace: 27
-  Chemicals: 18
-  Biochems: 14
-  Electronics: 32
-  Ceramsteel: 15
-  Gems: 6
-Upgrade Clergy to Holy Sp. Lt Carrier at Church
-Time to Build / Upgrade: 2
-[11230] Technologies Required to Build Unit (74):
-  [2790] Supercruise (86)
-  [330] Holy Warriors (82)
-  [2255] Sympathy (Bonding) (45)
+  Food: 8
+  Energy: 21
+  Metal: 7
+  Trace: 15
+  Exotica: 8
+  Chemicals: 29
+  Biochems: 10
+  Electronics: 10
+  Ceramsteel: 10
+Build Atmospheric Fighter II in Factory
+Time to Build / Upgrade: 3
+[15250] Technologies Required to Build Unit (85):
+  [1785] Rotary Autocannon (90)
   [5855] Guided Missile Navalcraft (84)
+  [7610] Atmospheric Aircraft (80)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Holy Sp. Transport Carrier
-Nick Name: SS-HSTC
+Name: Laser Fighter
+Nick Name: Pegasus
 Scores & Strengths:
-  Tech Score: 1965
-  Unit Score: 1965
-  Average Score: 1965
-  Stat Strength: 1125
-  Total Strength: 1965
-  Planet Strength: 0
-  Space Strength: 1965
-  Garrison Strength: 0
+  Tech Score: 4663
+  Unit Score: 5386
+  Average Score: 5024
+  Stat Strength: 4106
+  Total Strength: 5386
+  Planet Strength: 5386
+  Space Strength: 0
+  Garrison Strength: 746
 Statistics:
-  Movement Type: space
-  Move Points: 5
+  Movement Type: air
+  Move Points: 52
   Spot: 10
-  Camouflage: 2
-  Agility: 4
-  Armor: 14
-  Psy Defense: 28
-  Rank: 880
+  Camouflage: 12
+  Agility: 10
+  Armor: 23
+  Psy Defense: 23
+  Rank: 158
 Attacks:
-  Direct Space: 24/10
-  Closed Space: 26/8
-  Psychic: 28/14
-Cargo Space: 6
-Officer - Provides stack combat bonuses
-Clergy - Increases Tithe Skim and Converts Sects
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 324
-Build Cost: 3163
+  Air: 29/20
+  Indirect: 35/20
+Load aboard transport: YES
+Upkeep / Maintenance: 100
+Build Cost: 1001
 Build Resource Requirements:
-  Metal: 18
-  Trace: 26
-  Chemicals: 7
-  Biochems: 13
-  Electronics: 31
-  Ceramsteel: 24
-  Gems: 12
-Upgrade Clergy to Holy Sp. Transport Carrier at Church
-Time to Build / Upgrade: 2
-[11230] Technologies Required to Build Unit (74):
-  [2790] Supercruise (86)
-  [330] Holy Warriors (82)
-  [2255] Sympathy (Bonding) (45)
-  [5855] Guided Missile Navalcraft (84)
+  Food: 5
+  Energy: 14
+  Metal: 3
+  Trace: 15
+  Exotica: 6
+  Chemicals: 21
+  Biochems: 8
+  Electronics: 13
+  Ceramsteel: 5
+  Monopols: 28
+Build Laser Fighter in Factory
+Time to Build / Upgrade: 3
+[45100] Technologies Required to Build Unit (81):
+  [1785] Rotary Autocannon (90)
+  [27875] PTS Meson Navalcraft (74)
+  [15440] Power Aircraft (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Sathra Freighter
-Nick Name: JJ-HSF
+Name: Psy Laser Fighter
+Nick Name: Psy Fighter
 Scores & Strengths:
-  Tech Score: 2245
-  Unit Score: 2266
-  Average Score: 2255
-  Stat Strength: 1898
-  Total Strength: 2266
-  Planet Strength: 0
-  Space Strength: 2266
-  Garrison Strength: 0
+  Tech Score: 4686
+  Unit Score: 5681
+  Average Score: 5184
+  Stat Strength: 3748
+  Total Strength: 5681
+  Planet Strength: 5681
+  Space Strength: 4105
+  Garrison Strength: 837
 Statistics:
-  Movement Type: jump
-  Move Points: 11
-  Spot: 14
-  Camouflage: 4
-  Agility: 4
-  Armor: 18
-  Psy Defense: 35
-  Rank: 848
+  Movement Type: air
+  Move Points: 46
+  Spot: 12
+  Camouflage: 8
+  Agility: 12
+  Armor: 16
+  Psy Defense: 32
+  Rank: 177
 Attacks:
-  Closed Space: 16/9
-  Psychic: 16/14
-Cargo Space: 5
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 517
-Build Cost: 4712
+  Psychic: 17/21
+  Air: 30/30
+  Indirect: 26/26
+Load aboard transport: YES
+Upkeep / Maintenance: 277
+Build Cost: 2769
 Build Resource Requirements:
-  Chemicals: 5
-  Biochems: 4
-  Electronics: 2
-  Ceramsteel: 37
-  Gems: 8
-S  ingularities: 3
-Upgrade Holy Sp. Freighter to Sathra Freighter at Church
-Time to Build / Upgrade: 2
-[13980] Technologies Required to Build Unit (71):
-  [4530] Hypersonics (83)
+  Food: 5
+  Energy: 15
+  Metal: 3
+  Trace: 12
+  Exotica: 5
+  Chemicals: 22
+  Biochems: 7
+  Electronics: 14
+  Ceramsteel: 6
+  Monopols: 31
+  Gems: 75
+Build Psy Laser Fighter in Factory
+Time to Build / Upgrade: 4
+[45430] Technologies Required to Build Unit (81):
   [330] Holy Warriors (82)
-  [2465] Sathra (36)
-  [6655] PTS Missile Navalcraft (83)
+  [1785] Rotary Autocannon (90)
+  [27875] PTS Meson Navalcraft (74)
+  [15440] Power Aircraft (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Sathra Carrier
-Nick Name: JJ-HSCV
+Name: Morph Fighter
+Nick Name: Wyvern
 Scores & Strengths:
-  Tech Score: 2245
-  Unit Score: 2269
-  Average Score: 2257
-  Stat Strength: 1509
-  Total Strength: 2269
-  Planet Strength: 0
-  Space Strength: 2269
-  Garrison Strength: 0
+  Tech Score: 8399
+  Unit Score: 8185
+  Average Score: 8292
+  Stat Strength: 5279
+  Total Strength: 8185
+  Planet Strength: 8185
+  Space Strength: 0
+  Garrison Strength: 1135
 Statistics:
-  Movement Type: jump
-  Move Points: 5
-  Spot: 14
-  Camouflage: 2
-  Agility: 2
-  Armor: 16
-  Psy Defense: 32
-  Rank: 919
+  Movement Type: air
+  Move Points: 52
+  Spot: 18
+  Camouflage: 13
+  Agility: 32
+  Armor: 23
+  Psy Defense: 23
+  Rank: 220
 Attacks:
-  Direct Space: 14/21
-  Closed Space: 9/18
-  Psychic: 16/19
-Cargo Space: 7
-Officer - Provides stack combat bonuses
-Clergy - Increases Tithe Skim and Converts Sects
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 1035
-Build Cost: 8268
+  Air: 41/41
+  Indirect: 35/35
+Load aboard transport: YES
+Upkeep / Maintenance: 145
+Build Cost: 1445
 Build Resource Requirements:
-  Chemicals: 4
-  Biochems: 4
-  Electronics: 2
-  Ceramsteel: 30
-  Gems: 13
-S  ingularities: 2
-Upgrade Holy Sp. Carrier to Sathra Carrier at Church
-Time to Build / Upgrade: 2
-[13980] Technologies Required to Build Unit (71):
-  [4530] Hypersonics (83)
-  [330] Holy Warriors (82)
-  [2465] Sathra (36)
-  [6655] PTS Missile Navalcraft (83)
+  Food: 3
+  Energy: 12
+  Metal: 1
+  Trace: 7
+  Exotica: 3
+  Chemicals: 16
+  Biochems: 22
+  Electronics: 9
+  Ceramsteel: 2
+  Wetware: 7
+  Monopols: 24
+Build Morph Fighter in Factory
+Time to Build / Upgrade: 3
+[100845] Technologies Required to Build Unit (64):
+  [1785] Rotary Autocannon (90)
+  [45520] Hover Navalcraft (53)
+  [53540] Polymorphonic Patrolcraft (49)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Sathra Escort Carrier
-Nick Name: JJ-HSEC
+Name: Stealth Fighter
+Nick Name: Dragon
 Scores & Strengths:
-  Tech Score: 2544
-  Unit Score: 2540
-  Average Score: 2542
-  Stat Strength: 1395
-  Total Strength: 2540
-  Planet Strength: 0
-  Space Strength: 2540
-  Garrison Strength: 0
+  Tech Score: 8630
+  Unit Score: 8417
+  Average Score: 8523
+  Stat Strength: 5575
+  Total Strength: 8417
+  Planet Strength: 8417
+  Space Strength: 0
+  Garrison Strength: 1167
 Statistics:
-  Movement Type: jump
-  Move Points: 9
-  Spot: 12
-  Camouflage: 2
-  Agility: 10
-  Armor: 15
-  Psy Defense: 29
-  Rank: 909
+  Movement Type: air
+  Move Points: 52
+  Spot: 18
+  Camouflage: 33
+  Agility: 20
+  Armor: 23
+  Psy Defense: 23
+  Rank: 228
 Attacks:
-  Direct Space: 12/31
-  Closed Space: 13/26
-  Psychic: 29/15
-Cargo Space: 5
-Officer - Provides stack combat bonuses
-Clergy - Increases Tithe Skim and Converts Sects
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 918
-Build Cost: 7259
+  Air: 41/42
+  Indirect: 32/35
+Load aboard transport: YES
+Upkeep / Maintenance: 139
+Build Cost: 1387
 Build Resource Requirements:
-  Energy: 2
+  Food: 2
+  Energy: 11
   Metal: 1
-  Exotica: 1
-  Chemicals: 7
-  Electronics: 2
-  Ceramsteel: 3
-S  ingularities: 3
-Upgrade Holy Sp. Escort Carrier to Sathra Escort Carrier at Church
-Time to Build / Upgrade: 1
-[16135] Technologies Required to Build Unit (68):
-  [4920] Hypercruise (82)
-  [330] Holy Warriors (82)
-  [3590] Sathraists (26)
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---10--
-Name: Sathra Bulk Hauler
-Nick Name: JJ-HSBH
-Scores & Strengths:
-  Tech Score: 2245
-  Unit Score: 2805
-  Average Score: 2525
-  Stat Strength: 2530
-  Total Strength: 2805
-  Planet Strength: 0
-  Space Strength: 2805
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 11
-  Spot: 14
-  Camouflage: 2
-  Agility: 2
-  Armor: 21
-  Psy Defense: 42
-  Rank: 870
-Attacks:
-  Closed Space: 7/11
-  Psychic: 11/18
-Cargo Space: 7
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 797
-Build Cost: 7051
-Build Resource Requirements:
-  Chemicals: 6
-  Biochems: 3
-  Electronics: 1
-  Ceramsteel: 52
-  Gems: 13
-S  ingularities: 4
-Upgrade Holy Sp. Bulk Hauler to Sathra Bulk Hauler at Church
-Time to Build / Upgrade: 3
-[13980] Technologies Required to Build Unit (71):
-  [4530] Hypersonics (83)
-  [330] Holy Warriors (82)
-  [2465] Sathra (36)
-  [6655] PTS Missile Navalcraft (83)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---11--
-Name: Sathra Lt Carrier
-Nick Name: JJ-HSLC
-Scores & Strengths:
-  Tech Score: 4814
-  Unit Score: 4786
-  Average Score: 4800
-  Stat Strength: 1986
-  Total Strength: 4786
-  Planet Strength: 0
-  Space Strength: 4786
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 14
-  Spot: 16
-  Camouflage: 5
-  Agility: 8
-  Armor: 17
-  Psy Defense: 34
-  Rank: 964
-Attacks:
-  Direct Space: 42/33
-  Closed Space: 38/22
-  Psychic: 34/17
-Cargo Space: 5
-Officer - Provides stack combat bonuses
-Clergy - Increases Tithe Skim and Converts Sects
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 1683
-Build Cost: 14717
-Build Resource Requirements:
-  Electronics: 8
+  Trace: 9
+  Exotica: 3
+  Chemicals: 15
+  Biochems: 21
+  Electronics: 14
+  Ceramsteel: 2
+  Wetware: 6
   Monopols: 23
-  Gems: 6
-S  ingularities: 4
-Upgrade Holy Sp. Lt Carrier to Sathra Lt Carrier at Church
-Time to Build / Upgrade: 1
-[39650] Technologies Required to Build Unit (63):
-  [7610] Atmospheric Aircraft (80)
-  [330] Holy Warriors (82)
-  [3835] Sathra's Space Doctrine (17)
-  [27875] PTS Meson Navalcraft (74)
+Build Stealth Fighter in Factory
+Time to Build / Upgrade: 3
+[102555] Technologies Required to Build Unit (59):
+  [1785] Rotary Autocannon (90)
+  [45520] Hover Navalcraft (53)
+  [55250] Neumonic Patrolcraft (34)
 Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---12--
-Name: Sathra Transport Carrier
-Nick Name: JJ-HSTC
-Scores & Strengths:
-  Tech Score: 4814
-  Unit Score: 4894
-  Average Score: 4854
-  Stat Strength: 2785
-  Total Strength: 4894
-  Planet Strength: 0
-  Space Strength: 4894
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 8
-  Spot: 16
-  Camouflage: 3
-  Agility: 6
-  Armor: 22
-  Psy Defense: 44
-  Rank: 954
-Attacks:
-  Direct Space: 38/16
-  Closed Space: 41/13
-  Psychic: 44/22
-Cargo Space: 6
-Officer - Provides stack combat bonuses
-Clergy - Increases Tithe Skim and Converts Sects
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 1650
-Build Cost: 13332
-Build Resource Requirements:
-  Chemicals: 1
-  Electronics: 9
-  Monopols: 18
-  Gems: 11
-S  ingularities: 3
-Upgrade Holy Sp. Transport Carrier to Sathra Transport Carrier at Church
-Time to Build / Upgrade: 1
-[39650] Technologies Required to Build Unit (63):
-  [7610] Atmospheric Aircraft (80)
-  [330] Holy Warriors (82)
-  [3835] Sathra's Space Doctrine (17)
-  [27875] PTS Meson Navalcraft (74)
-Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

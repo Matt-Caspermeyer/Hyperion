@@ -1,444 +1,635 @@
-All units of the unit class Dread-Battlestar are listed herein (9 in total):
+All units of the unit class PTS Missile Launcher are listed herein (14 in total):
 
 --1--
-Name: Dread-Battlestar
-Nick Name: SS-BDB
+Name: PTS Missile Launcher
+Nick Name: PTS Missile
 Scores & Strengths:
-  Tech Score: 395
-  Unit Score: 591
-  Average Score: 493
-  Stat Strength: 405
-  Total Strength: 591
-  Planet Strength: 0
-  Space Strength: 591
-  Garrison Strength: 0
+  Tech Score: 587
+  Unit Score: 585
+  Average Score: 586
+  Stat Strength: 440
+  Total Strength: 585
+  Planet Strength: 520
+  Space Strength: 505
+  Garrison Strength: 367
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 13
-  Psy Defense: 13
-  Rank: 817
+  Movement Type: tread
+  Move Points: 2
+  Spot: 6
+  Camouflage: 2
+  Agility: 2
+  Armor: 14
+  Psy Defense: 14
+  Rank: 58
 Attacks:
-  Ranged Space: 3/27
-  Direct Space: 5/21
-Cargo Space: 2
-Officer - Provides stack combat bonuses
-Immune to Plague
-Upkeep / Maintenance: 73
-Build Cost: 732
+  Ranged Space: 5/13
+  Air: 5/8
+  Indirect: 4/10
+Load aboard transport: YES
+Upkeep / Maintenance: 6
+Build Cost: 57
 Build Resource Requirements:
-  Food: 5
-  Energy: 97
-  Metal: 60
-  Trace: 10
-  Exotica: 5
-  Chemicals: 132
-  Electronics: 6
-Build Dread-Battlestar in Starport
-Time to Build / Upgrade: 5
-[1530] Technologies Required to Build Unit (95):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [200] Admiralty Fire Control Table (87)
-  [795] Rocket Propulsion (90)
-  [100] Psychosocial Engineering (100)
-  [60] Torpedo (98)
+  Food: 2
+  Energy: 21
+  Metal: 42
+  Trace: 7
+  Exotica: 2
+  Chemicals: 31
+  Electronics: 7
+Build PTS Missile Launcher in Factory
+Time to Build / Upgrade: 2
+[1950] Technology Required to Build Unit (88):
+  [1950] PTS Missile Launcher (88)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Jump Dread-Battlestar
-Nick Name: JJ-BDB
+Name: PTS Rocket Launcher
+Nick Name: PTS RL
 Scores & Strengths:
-  Tech Score: 480
-  Unit Score: 687
-  Average Score: 583
-  Stat Strength: 459
-  Total Strength: 687
-  Planet Strength: 0
-  Space Strength: 687
-  Garrison Strength: 0
+  Tech Score: 587
+  Unit Score: 586
+  Average Score: 586
+  Stat Strength: 211
+  Total Strength: 586
+  Planet Strength: 481
+  Space Strength: 316
+  Garrison Strength: 215
 Statistics:
-  Movement Type: jump
-  Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 14
-  Psy Defense: 14
-  Rank: 846
+  Movement Type: tread
+  Move Points: 5
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
+  Armor: 9
+  Psy Defense: 9
+  Rank: 73
 Attacks:
-  Ranged Space: 3/30
-  Direct Space: 6/23
-Cargo Space: 2
-Officer - Provides stack combat bonuses
-Immune to Plague
-Upkeep / Maintenance: 196
-Build Cost: 1955
+  Ranged Space: 5/21
+  Air: 11/15
+  Indirect: 5/21
+Load aboard transport: YES
+Upkeep / Maintenance: 13
+Build Cost: 125
 Build Resource Requirements:
-  Food: 5
-  Energy: 119
-  Metal: 61
-  Trace: 10
-  Exotica: 4
-  Chemicals: 160
-  Electronics: 7
-S  ingularities: 1
-Build Jump Dread-Battlestar in Starport
-Time to Build / Upgrade: 5
-[1970] Technologies Required to Build Unit (93):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [200] Admiralty Fire Control Table (87)
-  [100] Psychosocial Engineering (100)
-  [60] Torpedo (98)
-  [1235] Jump Rocketry (76)
+  Food: 2
+  Energy: 68
+  Metal: 17
+  Trace: 13
+  Exotica: 2
+  Chemicals: 102
+  Electronics: 13
+Build PTS Rocket Launcher in Factory
+Time to Build / Upgrade: 3
+[1950] Technology Required to Build Unit (88):
+  [1950] PTS Missile Launcher (88)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Dreadstar
-Nick Name: SS-BD
+Name: PTS Multi-Rocket Artillery
+Nick Name: PTS MRA
 Scores & Strengths:
-  Tech Score: 2916
-  Unit Score: 2916
-  Average Score: 2916
-  Stat Strength: 2534
-  Total Strength: 2916
-  Planet Strength: 0
-  Space Strength: 2916
-  Garrison Strength: 0
+  Tech Score: 641
+  Unit Score: 639
+  Average Score: 640
+  Stat Strength: 260
+  Total Strength: 639
+  Planet Strength: 571
+  Space Strength: 328
+  Garrison Strength: 233
 Statistics:
-  Movement Type: space
-  Move Points: 12
-  Spot: 12
+  Movement Type: tread
+  Move Points: 6
+  Spot: 4
   Camouflage: 2
-  Agility: 8
-  Armor: 33
-  Psy Defense: 33
-  Rank: 854
+  Agility: 2
+  Armor: 10
+  Psy Defense: 10
+  Rank: 72
 Attacks:
-  Ranged Space: 4/46
-  Direct Space: 6/33
-Cargo Space: 2
-Officer - Provides stack combat bonuses
-Immune to Plague
-Upkeep / Maintenance: 574
-Build Cost: 5741
+  Ranged Space: 2/34
+  Air: 9/27
+  Indirect: 2/34
+Load aboard transport: YES
+Upkeep / Maintenance: 21
+Build Cost: 209
 Build Resource Requirements:
-  Food: 1
-  Energy: 23
-  Metal: 15
-  Trace: 2
-  Exotica: 1
-  Chemicals: 37
-  Biochems: 26
-  Electronics: 4
-  Ceramsteel: 18
-  Monopols: 54
-Build Dreadstar in Starport
+  Food: 2
+  Energy: 146
+  Metal: 17
+  Trace: 6
+  Exotica: 2
+  Chemicals: 181
+  Electronics: 7
+Build PTS Multi-Rocket Artillery in Factory
 Time to Build / Upgrade: 4
-[16530] Technology Required to Build Unit (80):
-  [16530] Space Capital Ships (80)
+[2720] Technologies Required to Build Unit (90):
+  [770] Self-Propelled Weaponry (92)
+  [1950] PTS Missile Launcher (88)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Super Dreadstar
-Nick Name: SS-BSD
+Name: PTS Rocket Artillery
+Nick Name: PTS RA
 Scores & Strengths:
-  Tech Score: 2916
-  Unit Score: 2916
-  Average Score: 2916
-  Stat Strength: 2630
-  Total Strength: 2916
-  Planet Strength: 0
-  Space Strength: 2916
-  Garrison Strength: 0
+  Tech Score: 641
+  Unit Score: 640
+  Average Score: 641
+  Stat Strength: 260
+  Total Strength: 640
+  Planet Strength: 540
+  Space Strength: 360
+  Garrison Strength: 220
 Statistics:
-  Movement Type: space
-  Move Points: 11
-  Spot: 12
+  Movement Type: tread
+  Move Points: 6
+  Spot: 4
   Camouflage: 2
-  Agility: 7
-  Armor: 34
-  Psy Defense: 34
-  Rank: 849
+  Agility: 2
+  Armor: 10
+  Psy Defense: 10
+  Rank: 74
 Attacks:
-  Ranged Space: 3/47
-  Direct Space: 5/29
-Cargo Space: 2
-Officer - Provides stack combat bonuses
-Immune to Plague
-Upkeep / Maintenance: 565
-Build Cost: 5650
+  Ranged Space: 4/25
+  Air: 9/20
+  Indirect: 4/25
+Load aboard transport: YES
+Upkeep / Maintenance: 12
+Build Cost: 123
 Build Resource Requirements:
-  Food: 1
-  Energy: 22
-  Metal: 16
-  Trace: 2
-  Exotica: 1
-  Chemicals: 36
-  Biochems: 26
-  Electronics: 3
-  Ceramsteel: 19
-  Monopols: 53
-Build Super Dreadstar in Starport
-Time to Build / Upgrade: 4
-[16530] Technology Required to Build Unit (80):
-  [16530] Space Capital Ships (80)
+  Food: 2
+  Energy: 80
+  Metal: 17
+  Trace: 8
+  Exotica: 2
+  Chemicals: 99
+  Electronics: 7
+Build PTS Rocket Artillery in Factory
+Time to Build / Upgrade: 3
+[2720] Technologies Required to Build Unit (90):
+  [770] Self-Propelled Weaponry (92)
+  [1950] PTS Missile Launcher (88)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Jump Super Dreadstar
-Nick Name: JJ-BSD
+Name: PTS Missile Launcher II
+Nick Name: PTS Missile II
 Scores & Strengths:
-  Tech Score: 4184
-  Unit Score: 4202
-  Average Score: 4193
-  Stat Strength: 3768
-  Total Strength: 4202
-  Planet Strength: 0
-  Space Strength: 4202
-  Garrison Strength: 0
+  Tech Score: 1087
+  Unit Score: 1066
+  Average Score: 1076
+  Stat Strength: 793
+  Total Strength: 1066
+  Planet Strength: 940
+  Space Strength: 919
+  Garrison Strength: 542
 Statistics:
-  Movement Type: jump
-  Move Points: 13
-  Spot: 13
-  Camouflage: 2
-  Agility: 8
-  Armor: 41
-  Psy Defense: 41
-  Rank: 894
+  Movement Type: tread
+  Move Points: 3
+  Spot: 7
+  Camouflage: 3
+  Agility: 2
+  Armor: 19
+  Psy Defense: 19
+  Rank: 80
 Attacks:
-  Ranged Space: 4/56
-  Direct Space: 6/35
-Cargo Space: 2
-Officer - Provides stack combat bonuses
-Immune to Plague
-Upkeep / Maintenance: 919
-Build Cost: 9186
+  Ranged Space: 7/18
+  Air: 7/11
+  Indirect: 5/14
+Load aboard transport: YES
+Upkeep / Maintenance: 6
+Build Cost: 61
 Build Resource Requirements:
   Food: 1
-  Energy: 18
-  Metal: 16
-  Trace: 2
+  Energy: 17
+  Metal: 72
+  Trace: 5
   Exotica: 1
-  Chemicals: 31
-  Biochems: 22
-  Electronics: 3
-  Ceramsteel: 19
-  Monopols: 53
-S  ingularities: 4
-Build Jump Super Dreadstar in Starport
-Time to Build / Upgrade: 4
-[36320] Technologies Required to Build Unit (72):
-  [16530] Space Capital Ships (80)
-  [4285] Jump Drives (70)
-  [15505] Meson Cannon (65)
+  Chemicals: 23
+  Electronics: 5
+Build PTS Missile Launcher II in Factory
+Time to Build / Upgrade: 2
+[6120] Technologies Required to Build Unit (86):
+  [1950] PTS Missile Launcher (88)
+  [4170] Supercruise Missiles (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Jump Dreadstar
-Nick Name: JJ-BD
+Name: PTS Rocket Launcher II
+Nick Name: PTS RL II
 Scores & Strengths:
-  Tech Score: 4184
-  Unit Score: 4205
-  Average Score: 4194
-  Stat Strength: 3650
-  Total Strength: 4205
-  Planet Strength: 0
-  Space Strength: 4205
-  Garrison Strength: 0
+  Tech Score: 1087
+  Unit Score: 1081
+  Average Score: 1084
+  Stat Strength: 375
+  Total Strength: 1081
+  Planet Strength: 878
+  Space Strength: 578
+  Garrison Strength: 331
 Statistics:
-  Movement Type: jump
-  Move Points: 14
-  Spot: 13
-  Camouflage: 2
-  Agility: 9
-  Armor: 40
-  Psy Defense: 40
-  Rank: 910
+  Movement Type: tread
+  Move Points: 7
+  Spot: 5
+  Camouflage: 3
+  Agility: 2
+  Armor: 12
+  Psy Defense: 12
+  Rank: 100
 Attacks:
-  Ranged Space: 5/55
-  Direct Space: 7/40
-Cargo Space: 3
-Officer - Provides stack combat bonuses
-Immune to Plague
-Upkeep / Maintenance: 1033
-Build Cost: 10328
+  Ranged Space: 7/29
+  Air: 15/20
+  Indirect: 7/29
+Load aboard transport: YES
+Upkeep / Maintenance: 11
+Build Cost: 110
 Build Resource Requirements:
   Food: 1
-  Energy: 19
-  Metal: 15
-  Trace: 2
+  Energy: 56
+  Metal: 29
+  Trace: 10
   Exotica: 1
-  Chemicals: 32
-  Biochems: 22
-  Electronics: 3
-  Ceramsteel: 18
-  Monopols: 54
-S  ingularities: 4
-Build Jump Dreadstar in Starport
-Time to Build / Upgrade: 4
-[36320] Technologies Required to Build Unit (72):
-  [4285] Jump Drives (70)
-  [15505] Meson Cannon (65)
-  [16530] Space Capital Ships (80)
+  Chemicals: 75
+  Electronics: 10
+Build PTS Rocket Launcher II in Factory
+Time to Build / Upgrade: 3
+[6120] Technologies Required to Build Unit (86):
+  [1950] PTS Missile Launcher (88)
+  [4170] Supercruise Missiles (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Jump (Cadiz) Dreadstar
-Nick Name: JJ-BD2
+Name: PTS Rocket Artillery II
+Nick Name: PTS RA II
 Scores & Strengths:
-  Tech Score: 5828
-  Unit Score: 5418
-  Average Score: 5623
-  Stat Strength: 4629
-  Total Strength: 5418
-  Planet Strength: 0
-  Space Strength: 5418
-  Garrison Strength: 0
+  Tech Score: 1194
+  Unit Score: 1158
+  Average Score: 1176
+  Stat Strength: 494
+  Total Strength: 1158
+  Planet Strength: 988
+  Space Strength: 664
+  Garrison Strength: 349
 Statistics:
-  Movement Type: jump
-  Move Points: 13
-  Spot: 14
-  Camouflage: 4
-  Agility: 4
-  Armor: 46
-  Psy Defense: 46
-  Rank: 916
+  Movement Type: tread
+  Move Points: 8
+  Spot: 5
+  Camouflage: 3
+  Agility: 2
+  Armor: 14
+  Psy Defense: 14
+  Rank: 99
 Attacks:
-  Ranged Space: 10/36
-  Direct Space: 11/28
-  Closed Space: 11/11
-Cargo Space: 3
-Officer - Provides stack combat bonuses
-Immune to Plague
-Upkeep / Maintenance: 938
-Build Cost: 9380
+  Ranged Space: 5/34
+  Air: 12/27
+  Indirect: 5/34
+Load aboard transport: YES
+Upkeep / Maintenance: 12
+Build Cost: 124
 Build Resource Requirements:
   Food: 1
-  Energy: 6
-  Metal: 9
-  Trace: 2
+  Energy: 67
+  Metal: 25
+  Trace: 5
   Exotica: 1
-  Chemicals: 14
-  Biochems: 11
-  Electronics: 9
-  Ceramsteel: 15
-  Monopols: 28
-S  ingularities: 4
-Build Jump (Cadiz) Dreadstar in Starport
+  Chemicals: 94
+  Electronics: 6
+Build PTS Rocket Artillery II in Factory
 Time to Build / Upgrade: 3
-[65575] Technologies Required to Build Unit (58):
-  [26210] PTS Beam Cannon (54)
-  [39365] Jump Capital Ships (61)
+[7820] Technologies Required to Build Unit (87):
+  [1700] Main Battle Tank (88)
+  [1950] PTS Missile Launcher (88)
+  [4170] Supercruise Missiles (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Gate Dreadstar
-Nick Name: JJ-BD
+Name: PTS Multi-Rocket Artillery II
+Nick Name: PTS MRA II
 Scores & Strengths:
-  Tech Score: 7734
-  Unit Score: 7520
-  Average Score: 7627
-  Stat Strength: 5832
-  Total Strength: 7520
-  Planet Strength: 6621
-  Space Strength: 6731
-  Garrison Strength: 1769
+  Tech Score: 1194
+  Unit Score: 1214
+  Average Score: 1204
+  Stat Strength: 494
+  Total Strength: 1214
+  Planet Strength: 1076
+  Space Strength: 632
+  Garrison Strength: 380
 Statistics:
-  Movement Type: gate
-  Move Points: 14
-  Spot: 14
-  Camouflage: 4
-  Agility: 4
-  Armor: 52
-  Psy Defense: 52
-  Rank: 909
+  Movement Type: tread
+  Move Points: 8
+  Spot: 5
+  Camouflage: 3
+  Agility: 2
+  Armor: 14
+  Psy Defense: 14
+  Rank: 99
 Attacks:
-  Ranged Space: 11/37
-  Direct Space: 12/29
-  Closed Space: 12/12
-  Air: 11/28
-  Indirect: 10/36
-  Direct: 11/11
-Cargo Space: 2
-Officer - Provides stack combat bonuses
-Immune to Plague
-Upkeep / Maintenance: 1276
-Build Cost: 12756
+  Ranged Space: 3/46
+  Air: 12/37
+  Indirect: 3/46
+Load aboard transport: YES
+Upkeep / Maintenance: 21
+Build Cost: 208
 Build Resource Requirements:
-  Energy: 14
-  Metal: 11
-  Trace: 2
-  Chemicals: 25
-  Biochems: 24
-  Electronics: 8
-  Ceramsteel: 19
-  Wetware: 4
-  Monopols: 49
-S  ingularities: 4
-Build Gate Dreadstar in Starport
+  Food: 1
+  Energy: 123
+  Metal: 25
+  Trace: 5
+  Exotica: 1
+  Chemicals: 168
+  Electronics: 6
+Build PTS Multi-Rocket Artillery II in Factory
 Time to Build / Upgrade: 4
-[60695] Technology Required to Build Unit (53):
-  [60695] Gate Capital Ships (53)
+[7820] Technologies Required to Build Unit (87):
+  [1700] Main Battle Tank (88)
+  [1950] PTS Missile Launcher (88)
+  [4170] Supercruise Missiles (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Cloaking Cadiz Dreadstar
-Nick Name: JJ-CCD
+Name: Rail Gun
+Nick Name: Rail Gun
 Scores & Strengths:
-  Tech Score: 8498
-  Unit Score: 8507
-  Average Score: 8502
-  Stat Strength: 6791
-  Total Strength: 8507
-  Planet Strength: 0
-  Space Strength: 8507
-  Garrison Strength: 0
+  Tech Score: 1487
+  Unit Score: 1488
+  Average Score: 1487
+  Stat Strength: 1056
+  Total Strength: 1488
+  Planet Strength: 1272
+  Space Strength: 1272
+  Garrison Strength: 636
 Statistics:
-  Movement Type: jump
-  Move Points: 15
-  Spot: 16
-  Camouflage: 44
-  Agility: 18
-  Armor: 45
-  Psy Defense: 45
-  Rank: 282
+  Movement Type: tread
+  Move Points: 4
+  Spot: 8
+  Camouflage: 2
+  Agility: 2
+  Armor: 22
+  Psy Defense: 22
+  Rank: 98
 Attacks:
-  Ranged Space: 12/46
-  Direct Space: 18/34
-  Closed Space: 24/23
-Cargo Space: 2
-Immune to Plague
-Upkeep / Maintenance: 803
-Build Cost: 8033
+  Ranged Space: 12/18
+  Indirect: 12/18
+Load aboard transport: YES
+Upkeep / Maintenance: 21
+Build Cost: 213
 Build Resource Requirements:
-  Energy: 8
-  Metal: 6
-  Trace: 7
+  Food: 2
+  Energy: 17
+  Metal: 425
+  Trace: 10
   Exotica: 1
-  Chemicals: 14
-  Biochems: 19
-  Electronics: 17
-  Ceramsteel: 10
-  Wetware: 4
-  Monopols: 25
-S  ingularities: 4
-Build Cloaking Cadiz Dreadstar in Starport
+  Chemicals: 26
+  Electronics: 8
+Build Rail Gun in Factory
 Time to Build / Upgrade: 4
-[98845] Technologies Required to Build Unit (63):
-  [59480] Cloaked Capital Ships (64)
-  [39365] Jump Capital Ships (61)
+[6735] Technology Required to Build Unit (83):
+  [6735] Rail Gun (83)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: PTS Missile Launcher III
+Nick Name: PTS Missile III
+Scores & Strengths:
+  Tech Score: 1591
+  Unit Score: 1533
+  Average Score: 1562
+  Stat Strength: 1149
+  Total Strength: 1533
+  Planet Strength: 1365
+  Space Strength: 1317
+  Garrison Strength: 788
+Statistics:
+  Movement Type: tread
+  Move Points: 3
+  Spot: 8
+  Camouflage: 3
+  Agility: 3
+  Armor: 23
+  Psy Defense: 23
+  Rank: 94
+Attacks:
+  Ranged Space: 8/21
+  Air: 8/13
+  Indirect: 7/16
+Load aboard transport: YES
+Upkeep / Maintenance: 8
+Build Cost: 81
+Build Resource Requirements:
+  Food: 1
+  Energy: 17
+  Metal: 106
+  Trace: 5
+  Exotica: 1
+  Chemicals: 25
+  Electronics: 6
+Build PTS Missile Launcher III in Factory
+Time to Build / Upgrade: 2
+[9055] Technologies Required to Build Unit (83):
+  [1950] PTS Missile Launcher (88)
+  [7105] Hypercruise Missiles (77)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--11--
+Name: PTS Rocket Launcher III
+Nick Name: PTS RL III
+Scores & Strengths:
+  Tech Score: 1591
+  Unit Score: 1567
+  Average Score: 1579
+  Stat Strength: 557
+  Total Strength: 1567
+  Planet Strength: 1287
+  Space Strength: 837
+  Garrison Strength: 455
+Statistics:
+  Movement Type: tread
+  Move Points: 8
+  Spot: 5
+  Camouflage: 3
+  Agility: 3
+  Armor: 15
+  Psy Defense: 15
+  Rank: 119
+Attacks:
+  Ranged Space: 8/35
+  Air: 18/25
+  Indirect: 8/35
+Load aboard transport: YES
+Upkeep / Maintenance: 14
+Build Cost: 140
+Build Resource Requirements:
+  Food: 1
+  Energy: 60
+  Metal: 45
+  Trace: 10
+  Exotica: 1
+  Chemicals: 89
+  Electronics: 12
+Build PTS Rocket Launcher III in Factory
+Time to Build / Upgrade: 3
+[9055] Technologies Required to Build Unit (83):
+  [1950] PTS Missile Launcher (88)
+  [7105] Hypercruise Missiles (77)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--12--
+Name: PTS Rocket Artillery III
+Nick Name: PTS RA III
+Scores & Strengths:
+  Tech Score: 1685
+  Unit Score: 1627
+  Average Score: 1656
+  Stat Strength: 655
+  Total Strength: 1627
+  Planet Strength: 1381
+  Space Strength: 901
+  Garrison Strength: 436
+Statistics:
+  Movement Type: tread
+  Move Points: 10
+  Spot: 5
+  Camouflage: 3
+  Agility: 3
+  Armor: 16
+  Psy Defense: 16
+  Rank: 118
+Attacks:
+  Ranged Space: 6/41
+  Air: 15/32
+  Indirect: 6/41
+Load aboard transport: YES
+Upkeep / Maintenance: 16
+Build Cost: 160
+Build Resource Requirements:
+  Food: 1
+  Energy: 76
+  Metal: 33
+  Trace: 6
+  Exotica: 1
+  Chemicals: 116
+  Electronics: 7
+Build PTS Rocket Artillery III in Factory
+Time to Build / Upgrade: 3
+[10755] Technologies Required to Build Unit (84):
+  [1700] Main Battle Tank (88)
+  [1950] PTS Missile Launcher (88)
+  [7105] Hypercruise Missiles (77)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--13--
+Name: PTS Multi-Rocket Artillery III
+Nick Name: PTS MRA III
+Scores & Strengths:
+  Tech Score: 1685
+  Unit Score: 1645
+  Average Score: 1665
+  Stat Strength: 655
+  Total Strength: 1645
+  Planet Strength: 1480
+  Space Strength: 820
+  Garrison Strength: 468
+Statistics:
+  Movement Type: tread
+  Move Points: 10
+  Spot: 5
+  Camouflage: 3
+  Agility: 3
+  Armor: 16
+  Psy Defense: 16
+  Rank: 115
+Attacks:
+  Ranged Space: 3/55
+  Air: 15/44
+  Indirect: 3/55
+Load aboard transport: YES
+Upkeep / Maintenance: 26
+Build Cost: 263
+Build Resource Requirements:
+  Food: 1
+  Energy: 137
+  Metal: 33
+  Trace: 5
+  Exotica: 1
+  Chemicals: 203
+  Electronics: 7
+Build PTS Multi-Rocket Artillery III in Factory
+Time to Build / Upgrade: 4
+[10755] Technologies Required to Build Unit (84):
+  [1700] Main Battle Tank (88)
+  [1950] PTS Missile Launcher (88)
+  [7105] Hypercruise Missiles (77)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--14--
+Name: Imperial Missile Battery
+Nick Name: IM Battery
+Scores & Strengths:
+  Tech Score: 2013
+  Unit Score: 2011
+  Average Score: 2012
+  Stat Strength: 1453
+  Total Strength: 2011
+  Planet Strength: 1811
+  Space Strength: 1653
+  Garrison Strength: 2263
+Statistics:
+  Movement Type: tread
+  Move Points: 0
+  Spot: 10
+  Camouflage: 0
+  Agility: 1
+  Armor: 26
+  Psy Defense: 26
+  Rank: 103
+Attacks:
+  Ranged Space: 10/20
+  Air: 12/14
+  Indirect: 10/19
+Load aboard transport: YES
+Upkeep / Maintenance: 98
+Build Cost: 975
+Build Resource Requirements:
+  Food: 1
+  Energy: 11
+  Metal: 12
+  Trace: 6
+  Exotica: 1
+  Chemicals: 27
+  Biochems: 25
+  Electronics: 17
+  Ceramsteel: 23
+  Monopols: 41
+Build Imperial Missile Battery in Factory
+Time to Build / Upgrade: 4
+[12420] Technologies Required to Build Unit (69):
+  [835] Spore Delivery (27)
+  [325] Megachassis (94)
+  [8935] Powered Ceramsteel Armor (75)
+  [2325] Web Missiles (80)
+Unit Eats: YES
 Unit can be disbanded: YES

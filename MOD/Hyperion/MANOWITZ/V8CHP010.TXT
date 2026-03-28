@@ -1,371 +1,124 @@
-All units of the unit class Torpedo are listed herein (8 in total):
+All units of the unit class Engineer are listed herein (3 in total):
 
 --1--
-Name: Torpedo
-Nick Name: Torpedo
+Name: Engineer
+Nick Name: Engineer
 Scores & Strengths:
-  Tech Score: 43
-  Unit Score: 44
-  Average Score: 44
-  Stat Strength: 24
-  Total Strength: 44
-  Planet Strength: 44
+  Tech Score: 68
+  Unit Score: 43
+  Average Score: 55
+  Stat Strength: 43
+  Total Strength: 43
+  Planet Strength: 43
   Space Strength: 0
-  Garrison Strength: 44
+  Garrison Strength: 17
 Statistics:
-  Movement Type: underwater
-  Move Points: 1
+  Movement Type: foot
+  Move Points: 6
   Spot: 1
-  Camouflage: 2
-  Agility: 4
-  Armor: 1
+  Camouflage: 0
+  Agility: 1
+  Armor: 2
   Psy Defense: 1
-  Rank: 0
-Attacks:
-  Water: 2/10
+  Rank: 307
 Load aboard transport: YES
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 6
-Build Cost: 55
+Builds (and Razes) Cities and Roads
+Upkeep / Maintenance: 46
+Build Cost: 439
 Build Resource Requirements:
-  Food: 8
-  Energy: 83
-  Metal: 3
-  Trace: 20
-  Chemicals: 87
-Build Torpedo in Well
+  Food: 90
+  Energy: 94
+  Metal: 202
+  Trace: 75
+  Exotica: 13
+  Chemicals: 43
+  Electronics: 25
+Upgrade Peasant to Engineer at Any building
 Time to Build / Upgrade: 3
-[60] Technology Required to Build Unit (98):
-  [60] Torpedo (98)
+[110] Technology Required to Build Unit (99):
+  [110] Structural Engineering (99)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Torpedo II
-Nick Name: Torpedo II
+Name: Seabees
+Nick Name: Seabees
 Scores & Strengths:
-  Tech Score: 406
-  Unit Score: 409
-  Average Score: 408
+  Tech Score: 435
+  Unit Score: 434
+  Average Score: 435
   Stat Strength: 185
-  Total Strength: 409
-  Planet Strength: 409
+  Total Strength: 434
+  Planet Strength: 434
   Space Strength: 0
-  Garrison Strength: 409
+  Garrison Strength: 125
 Statistics:
-  Movement Type: underwater
-  Move Points: 1
-  Spot: 1
-  Camouflage: 9
-  Agility: 10
-  Armor: 1
-  Psy Defense: 1
-  Rank: 0
+  Movement Type: foot
+  Move Points: 12
+  Spot: 2
+  Camouflage: 1
+  Agility: 2
+  Armor: 4
+  Psy Defense: 4
+  Rank: 350
 Attacks:
-  Water: 14/16
+  Indirect: 12/9
+  Direct: 11/7
+  Close: 8/8
 Load aboard transport: YES
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 3
-Build Cost: 34
+Builds (and Razes) Cities and Roads
+Upkeep / Maintenance: 11
 Build Resource Requirements:
-  Food: 2
-  Energy: 24
-  Trace: 29
-  Exotica: 2
-  Chemicals: 24
-  Electronics: 26
-Build Torpedo II in Well
-Time to Build / Upgrade: 2
-[1195] Technology Required to Build Unit (90):
+Upgrade Engineer to Seabees at Fort
+Time to Build / Upgrade: 1
+[1495] Technologies Required to Build Unit (93):
   [1195] Naval Warfare (90)
+  [300] Mechanized Warfare (95)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Torpedo III
-Nick Name: Torpedo III
+Name: Demolition Team
+Nick Name: Demolisher
 Scores & Strengths:
-  Tech Score: 910
-  Unit Score: 821
-  Average Score: 866
-  Stat Strength: 317
-  Total Strength: 821
-  Planet Strength: 821
+  Tech Score: 3743
+  Unit Score: 3748
+  Average Score: 3746
+  Stat Strength: 1500
+  Total Strength: 3748
+  Planet Strength: 3748
   Space Strength: 0
-  Garrison Strength: 821
+  Garrison Strength: 765
 Statistics:
-  Movement Type: underwater
-  Move Points: 1
-  Spot: 1
-  Camouflage: 13
-  Agility: 12
-  Armor: 1
-  Psy Defense: 1
-  Rank: 0
+  Movement Type: foot
+  Move Points: 24
+  Spot: 12
+  Camouflage: 16
+  Agility: 18
+  Armor: 10
+  Psy Defense: 10
+  Rank: 460
 Attacks:
-  Water: 21/24
+  Indirect: 22/50
+  Direct: 18/32
+  Close: 22/26
 Load aboard transport: YES
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 5
-Build Cost: 47
+Builds (and Razes) Cities and Roads
+Upkeep / Maintenance: 268
+Build Cost: 2683
 Build Resource Requirements:
-  Food: 1
-  Energy: 25
-  Trace: 29
-  Exotica: 2
-  Chemicals: 25
-  Biochems: 12
-  Electronics: 27
-Build Torpedo III in Well
-Time to Build / Upgrade: 2
-[3980] Technologies Required to Build Unit (85):
-  [1255] Digital Fly-by-Wire (81)
-  [2725] Naval Capital Ships (88)
-Unit can be disbanded: YES
-
---4--
-Name: Torpedo IV
-Nick Name: Torpedo IV
-Scores & Strengths:
-  Tech Score: 1158
-  Unit Score: 1055
-  Average Score: 1106
-  Stat Strength: 407
-  Total Strength: 1055
-  Planet Strength: 1055
-  Space Strength: 0
-  Garrison Strength: 745
-Statistics:
-  Movement Type: underwater
-  Move Points: 2
-  Spot: 1
-  Camouflage: 15
-  Agility: 13
-  Armor: 2
-  Psy Defense: 2
-  Rank: 0
-Attacks:
-  Water: 24/27
-Load aboard transport: YES
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 4
-Build Cost: 39
-Build Resource Requirements:
-  Food: 1
-  Energy: 18
-  Trace: 24
-  Exotica: 1
-  Chemicals: 18
-  Biochems: 10
-  Electronics: 21
-Build Torpedo IV in Well
-Time to Build / Upgrade: 2
-[8030] Technologies Required to Build Unit (84):
-  [1690] Fly-by-Wireless (76)
-  [2725] Naval Capital Ships (88)
-  [3615] Submarine Warfare (87)
-Unit can be disbanded: YES
-
---5--
-Name: Torpedo V
-Nick Name: Torpedo V
-Scores & Strengths:
-  Tech Score: 1747
-  Unit Score: 1527
-  Average Score: 1637
-  Stat Strength: 570
-  Total Strength: 1527
-  Planet Strength: 1527
-  Space Strength: 0
-  Garrison Strength: 1079
-Statistics:
-  Movement Type: underwater
-  Move Points: 2
-  Spot: 1
-  Camouflage: 19
-  Agility: 14
-  Armor: 2
-  Psy Defense: 2
-  Rank: 0
-Attacks:
-  Water: 29/33
-Load aboard transport: YES
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 4
-Build Cost: 37
-Build Resource Requirements:
-  Food: 1
-  Energy: 17
-  Trace: 17
-  Exotica: 1
-  Chemicals: 21
-  Biochems: 7
-  Electronics: 22
-Build Torpedo V in Well
-Time to Build / Upgrade: 2
-[15990] Technologies Required to Build Unit (81):
-  [2935] Intelligent FCS (73)
-  [5855] Guided Missile Navalcraft (84)
-  [7200] Air-Independent Propulsion (85)
-Unit can be disbanded: YES
-
---6--
-Name: Torpedo VI
-Nick Name: Torpedo VI
-Scores & Strengths:
-  Tech Score: 2455
-  Unit Score: 2082
-  Average Score: 2269
-  Stat Strength: 756
-  Total Strength: 2082
-  Planet Strength: 2082
-  Space Strength: 0
-  Garrison Strength: 1472
-Statistics:
-  Movement Type: underwater
-  Move Points: 2
-  Spot: 2
-  Camouflage: 22
-  Agility: 16
-  Armor: 2
-  Psy Defense: 2
-  Rank: 0
-Attacks:
-  Water: 34/39
-Load aboard transport: YES
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 5
-Build Cost: 47
-Build Resource Requirements:
-  Food: 1
-  Energy: 21
-  Trace: 18
-  Exotica: 1
-  Chemicals: 27
-  Biochems: 7
-  Electronics: 25
-Build Torpedo VI in Well
-Time to Build / Upgrade: 2
-[21595] Technologies Required to Build Unit (71):
-  [7100] Artificial Intelligence (46)
-  [7200] Air-Independent Propulsion (85)
-  [7295] Nuclear-Powered Navalcraft (81)
-Unit can be disbanded: YES
-
---7--
-Name: Supercavitating Torpedo
-Nick Name: Sc Torpedo
-Scores & Strengths:
-  Tech Score: 4519
-  Unit Score: 4535
-  Average Score: 4527
-  Stat Strength: 2403
-  Total Strength: 4535
-  Planet Strength: 4535
-  Space Strength: 0
-  Garrison Strength: 1014
-Statistics:
-  Movement Type: underwater
-  Move Points: 20
-  Spot: 1
-  Camouflage: 20
-  Agility: 40
-  Armor: 1
-  Psy Defense: 1
-  Rank: 0
-Attacks:
-  Water: 52/41
-Load aboard transport: YES
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 42
-Build Cost: 415
-Build Resource Requirements:
-  Food: 3
-  Energy: 15
-  Trace: 23
-  Exotica: 3
-  Chemicals: 20
-  Biochems: 12
-  Electronics: 37
-  Monopols: 22
-Build Supercavitating Torpedo in Well
+  Energy: 2
+  Chemicals: 15
+  Biochems: 22
+  Ceramsteel: 1
+  Wetware: 7
+  Monopols: 37
+Upgrade Seabees to Demolition Team at Fort
 Time to Build / Upgrade: 3
-[42540] Technologies Required to Build Unit (68):
-  [7100] Artificial Intelligence (46)
-  [7565] Supercavitating Torpedo (83)
-  [27875] PTS Meson Navalcraft (74)
-Unit can be disbanded: YES
-
---8--
-Name: Hypercavitating Torpedo
-Nick Name: Hc Torpedo
-Scores & Strengths:
-  Tech Score: 5291
-  Unit Score: 5199
-  Average Score: 5245
-  Stat Strength: 2735
-  Total Strength: 5199
-  Planet Strength: 5199
-  Space Strength: 0
-  Garrison Strength: 1108
-Statistics:
-  Movement Type: underwater
-  Move Points: 22
-  Spot: 1
-  Camouflage: 22
-  Agility: 42
-  Armor: 1
-  Psy Defense: 1
-  Rank: 0
-Attacks:
-  Water: 56/44
-Load aboard transport: YES
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 47
-Build Cost: 468
-Build Resource Requirements:
-  Food: 3
-  Energy: 15
-  Trace: 20
-  Exotica: 3
-  Chemicals: 20
-  Biochems: 24
-  Electronics: 35
-  Monopols: 23
-Build Hypercavitating Torpedo in Well
-Time to Build / Upgrade: 3
-[49480] Technologies Required to Build Unit (61):
-  [7100] Artificial Intelligence (46)
-  [8840] Hypercavitating Torpedo (81)
-  [33540] PTS Beam Navalcraft (56)
+[23065] Technology Required to Build Unit (34):
+  [23065] Demolition (34)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

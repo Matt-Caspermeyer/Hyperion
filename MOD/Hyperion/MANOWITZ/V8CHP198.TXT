@@ -1,170 +1,286 @@
-All units of the unit class Special Forces are listed herein (4 in total):
+All units of the unit class Holy Starbase are listed herein (6 in total):
 
 --1--
-Name: Special Forces
-Nick Name: SPF LGN
+Name: Holy Starbase
+Nick Name: Holy Starbase
 Scores & Strengths:
-  Tech Score: 2106
-  Unit Score: 2105
-  Average Score: 2105
-  Stat Strength: 1116
-  Total Strength: 2105
-  Planet Strength: 2105
-  Space Strength: 0
-  Garrison Strength: 562
+  Tech Score: 1965
+  Unit Score: 1965
+  Average Score: 1965
+  Stat Strength: 1237
+  Total Strength: 1965
+  Planet Strength: 0
+  Space Strength: 1965
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 14
-  Spot: 14
-  Camouflage: 14
-  Agility: 20
-  Armor: 8
-  Psy Defense: 8
-  Rank: 77
+  Movement Type: space
+  Move Points: 2
+  Spot: 10
+  Camouflage: 2
+  Agility: 2
+  Armor: 15
+  Psy Defense: 30
+  Rank: 846
 Attacks:
-  Air: 17/15
-  Indirect: 16/16
-  Direct: 15/16
-  Close: 17/14
+  Ranged Space: 8/19
+  Direct Space: 9/14
+  Psychic: 30/15
+Cargo Space: 12
 Load aboard transport: YES
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 95
-Build Cost: 835
+Officer - Provides stack combat bonuses
+Clergy - Increases Tithe Skim and Converts Sects
+Deploys space units during space attacks
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 787
+Build Cost: 7794
 Build Resource Requirements:
-  Trace: 1
-  Electronics: 12
-  Ceramsteel: 2
-  Monopols: 32
-Upgrade Covert Legion to Special Forces at Fort
-Time to Build / Upgrade: 1
-[10710] Technology Required to Build Unit (79):
-  [10710] Special Forces (79)
+  Metal: 21
+  Trace: 5
+  Chemicals: 16
+  Biochems: 2
+  Electronics: 6
+  Ceramsteel: 28
+  Gems: 15
+Upgrade Clergy to Holy Starbase at Church
+Time to Build / Upgrade: 2
+[11230] Technologies Required to Build Unit (74):
+  [2790] Supercruise (86)
+  [330] Holy Warriors (82)
+  [2255] Sympathy (Bonding) (45)
+  [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Cybercorp
-Nick Name: CYB LGN
+Name: Starbase
+Nick Name: Starbase
 Scores & Strengths:
-  Tech Score: 2788
-  Unit Score: 2630
-  Average Score: 2709
-  Stat Strength: 1340
-  Total Strength: 2630
-  Planet Strength: 2630
-  Space Strength: 0
-  Garrison Strength: 657
+  Tech Score: 2354
+  Unit Score: 4708
+  Average Score: 3531
+  Stat Strength: 3536
+  Total Strength: 4708
+  Planet Strength: 0
+  Space Strength: 4708
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 16
-  Spot: 15
-  Camouflage: 16
-  Agility: 21
-  Armor: 9
-  Psy Defense: 9
-  Rank: 87
+  Movement Type: space
+  Move Points: 2
+  Spot: 18
+  Camouflage: 2
+  Agility: 2
+  Armor: 40
+  Psy Defense: 40
+  Rank: 881
 Attacks:
-  Air: 20/17
-  Indirect: 18/18
-  Direct: 17/18
-  Close: 20/16
+  Ranged Space: 16/37
+  Direct Space: 20/29
+Cargo Space: 10
 Load aboard transport: YES
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 128
-Build Cost: 440
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 446
+Build Cost: 4459
 Build Resource Requirements:
-  Energy: 3
-  Trace: 7
-  Exotica: 1
-  Chemicals: 6
-  Electronics: 11
-  Monopols: 8
-Upgrade Special Forces to Cybercorp at Hospital
-Time to Build / Upgrade: 1
-[15575] Technology Required to Build Unit (52):
-  [15575] Cybercorp (52)
+  Food: 2
+  Energy: 34
+  Metal: 47
+  Trace: 15
+  Exotica: 3
+  Chemicals: 58
+  Biochems: 8
+  Electronics: 21
+  Ceramsteel: 52
+Build Starbase in Starport
+Time to Build / Upgrade: 6
+[12425] Technology Required to Build Unit (86):
+  [12425] Space Warfare (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Genetic Special Forces
-Nick Name: Gen SF
+Name: Sathra Starbase
+Nick Name: JJ-SS
 Scores & Strengths:
-  Tech Score: 2985
-  Unit Score: 2890
-  Average Score: 2937
-  Stat Strength: 1487
-  Total Strength: 2890
-  Planet Strength: 2890
-  Space Strength: 0
-  Garrison Strength: 700
+  Tech Score: 4814
+  Unit Score: 4800
+  Average Score: 4807
+  Stat Strength: 3021
+  Total Strength: 4800
+  Planet Strength: 0
+  Space Strength: 4800
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 17
-  Spot: 15
-  Camouflage: 17
-  Agility: 22
-  Armor: 10
-  Psy Defense: 10
-  Rank: 91
+  Movement Type: jump
+  Move Points: 3
+  Spot: 16
+  Camouflage: 3
+  Agility: 3
+  Armor: 23
+  Psy Defense: 47
+  Rank: 914
 Attacks:
-  Air: 20/18
-  Indirect: 19/19
-  Direct: 18/19
-  Close: 20/17
+  Ranged Space: 13/30
+  Direct Space: 14/22
+  Psychic: 47/23
+Cargo Space: 12
 Load aboard transport: YES
-Can attack on Byzantium Secundus
+Officer - Provides stack combat bonuses
+Clergy - Increases Tithe Skim and Converts Sects
+Deploys space units during space attacks
+Heals units of same movement type
 Immune to Plague
-Upkeep / Maintenance: 139
-Build Cost: 556
+Upkeep / Maintenance: 3346
+Build Cost: 25667
 Build Resource Requirements:
-  Chemicals: 2
-  Biochems: 41
-Upgrade Special Forces to Genetic Special Forces at Lab
+  Electronics: 6
+  Monopols: 27
+  Gems: 11
+S  ingularities: 2
+Upgrade Holy Starbase to Sathra Starbase at Church
 Time to Build / Upgrade: 1
-[19610] Technologies Required to Build Unit (52):
-  [8900] Genetically-Enhanced Warriors (25)
-  [10710] Special Forces (79)
+[39650] Technologies Required to Build Unit (63):
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [3835] Sathra's Space Doctrine (17)
+  [27875] PTS Meson Navalcraft (74)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Genetic Cybercorp
-Nick Name: Gen Cc
+Name: Fusion Starbase
+Nick Name: SS-FS
 Scores & Strengths:
-  Tech Score: 3516
-  Unit Score: 3287
-  Average Score: 3401
-  Stat Strength: 1633
-  Total Strength: 3287
-  Planet Strength: 3287
-  Space Strength: 0
-  Garrison Strength: 774
+  Tech Score: 3140
+  Unit Score: 6138
+  Average Score: 4639
+  Stat Strength: 4605
+  Total Strength: 6138
+  Planet Strength: 0
+  Space Strength: 6138
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 18
-  Spot: 16
-  Camouflage: 18
-  Agility: 23
-  Armor: 10
-  Psy Defense: 10
-  Rank: 99
+  Movement Type: space
+  Move Points: 2
+  Spot: 19
+  Camouflage: 2
+  Agility: 2
+  Armor: 46
+  Psy Defense: 46
+  Rank: 909
 Attacks:
-  Air: 22/19
-  Indirect: 21/21
-  Direct: 19/21
-  Close: 22/18
+  Ranged Space: 18/43
+  Direct Space: 23/33
+Cargo Space: 11
 Load aboard transport: YES
-Can attack on Byzantium Secundus
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Heals units of same movement type
 Immune to Plague
-Upkeep / Maintenance: 167
-Build Cost: 1233
+Upkeep / Maintenance: 5317
+Build Cost: 48708
 Build Resource Requirements:
-  Biochems: 47
-Upgrade Cybercorp to Genetic Cybercorp at Lab
+  Monopols: 78
+Upgrade Starbase to Fusion Starbase at Starport
 Time to Build / Upgrade: 1
-[24475] Technologies Required to Build Unit (39):
-  [8900] Genetically-Enhanced Warriors (25)
-  [15575] Cybercorp (52)
+[21040] Technologies Required to Build Unit (75):
+  [8615] Fusion Beam (63)
+  [12425] Space Warfare (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Doomstar
+Nick Name: Doomstar
+Scores & Strengths:
+  Tech Score: 6849
+  Unit Score: 6848
+  Average Score: 6848
+  Stat Strength: 5736
+  Total Strength: 6848
+  Planet Strength: 0
+  Space Strength: 6848
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 10
+  Spot: 14
+  Camouflage: 4
+  Agility: 4
+  Armor: 52
+  Psy Defense: 52
+  Rank: 934
+Attacks:
+  Ranged Space: 18/41
+  Direct Space: 17/22
+Cargo Space: 16
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 7739
+Build Cost: 77389
+Build Resource Requirements:
+  Energy: 8
+  Metal: 13
+  Trace: 2
+  Chemicals: 16
+  Biochems: 22
+  Electronics: 9
+  Ceramsteel: 20
+  Wetware: 3
+  Monopols: 36
+S  ingularities: 3
+Build Doomstar in Starport
+Time to Build / Upgrade: 4
+[51615] Technology Required to Build Unit (53):
+  [51615] Doomstar (53)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Meson Starbase
+Nick Name: SS-MS
+Scores & Strengths:
+  Tech Score: 5645
+  Unit Score: 11014
+  Average Score: 8329
+  Stat Strength: 8194
+  Total Strength: 11014
+  Planet Strength: 0
+  Space Strength: 11014
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 3
+  Spot: 22
+  Camouflage: 3
+  Agility: 2
+  Armor: 62
+  Psy Defense: 62
+  Rank: 980
+Attacks:
+  Ranged Space: 25/57
+  Direct Space: 31/45
+Cargo Space: 12
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 5528
+Build Cost: 6568
+Build Resource Requirements:
+  Biochems: 15
+  Electronics: 1
+Upgrade Fusion Starbase to Meson Starbase at Starport
+Time to Build / Upgrade: 1
+[77305] Technologies Required to Build Unit (71):
+  [10065] Powered-Armor Legion (79)
+  [27875] PTS Meson Navalcraft (74)
+  [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

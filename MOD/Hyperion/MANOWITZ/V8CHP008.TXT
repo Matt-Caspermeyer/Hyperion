@@ -1,87 +1,39 @@
-All units of the unit class Barrage Balloon are listed herein (2 in total):
+All units of the unit class Peasant are listed herein (1 in total):
 
 --1--
-Name: Barrage Balloon
-Nick Name: A-BB
+Name: Peasant
+Nick Name: Peasant
 Scores & Strengths:
   Tech Score: 38
   Unit Score: 38
   Average Score: 38
-  Stat Strength: 32
+  Stat Strength: 33
   Total Strength: 38
   Planet Strength: 38
   Space Strength: 0
-  Garrison Strength: 47
+  Garrison Strength: 38
 Statistics:
-  Movement Type: air
-  Move Points: 0
-  Spot: 0
-  Camouflage: 0
-  Agility: 0
-  Armor: 4
-  Psy Defense: 4
-  Rank: 155
+  Movement Type: foot
+  Move Points: 1
+  Spot: 2
+  Camouflage: 1
+  Agility: 5
+  Armor: 1
+  Psy Defense: 1
+  Rank: 10
 Attacks:
-  Air: 2/3
+  Close: 5/1
 Load aboard transport: YES
-Never needs refueling
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Upkeep / Maintenance: 6
-Build Cost: 64
+Upkeep / Maintenance: 2
+Build Cost: 17
 Build Resource Requirements:
-  Food: 9
+  Food: 29
   Energy: 24
-  Metal: 54
-Build Barrage Balloon in Factory
-Time to Build / Upgrade: 2
+  Metal: 3
+Build Peasant in Any building
+Time to Build / Upgrade: 1
 [50] Technology Required to Build Unit (100):
   [50] Applied Technology (100)
-Unit can be disbanded: YES
-
---2--
-Name: Anti-Aircraft Balloon
-Nick Name: AA Balloon
-Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 106
-  Average Score: 106
-  Stat Strength: 78
-  Total Strength: 106
-  Planet Strength: 106
-  Space Strength: 0
-  Garrison Strength: 74
-Statistics:
-  Movement Type: air
-  Move Points: 2
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 5
-  Psy Defense: 5
-  Rank: 162
-Attacks:
-  Air: 4/7
-Load aboard transport: YES
-Never needs refueling
-Can be towed
-Upkeep / Maintenance: 4
-Build Cost: 38
-Build Resource Requirements:
-  Food: 4
-  Energy: 13
-  Metal: 21
-  Trace: 10
-  Exotica: 3
-  Chemicals: 12
-Build Anti-Aircraft Balloon in Factory
-Time to Build / Upgrade: 2
-[350] Technologies Required to Build Unit (97):
-  [125] Compression Ignition Engine (97)
-  [165] Autocannon (98)
-  [60] Aerial Reconnaissance (97)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

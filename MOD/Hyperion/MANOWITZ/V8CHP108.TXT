@@ -1,329 +1,378 @@
-All units of the unit class U-Boat are listed herein (7 in total):
+All units of the unit class Space Bulk Hauler are listed herein (8 in total):
 
 --1--
-Name: U-Boat
-Nick Name: U-Boat
+Name: Space Bulk Hauler
+Nick Name: SS-BH
 Scores & Strengths:
-  Tech Score: 174
-  Unit Score: 344
-  Average Score: 259
-  Stat Strength: 297
-  Total Strength: 344
-  Planet Strength: 344
-  Space Strength: 0
-  Garrison Strength: 140
+  Tech Score: 342
+  Unit Score: 342
+  Average Score: 342
+  Stat Strength: 330
+  Total Strength: 342
+  Planet Strength: 0
+  Space Strength: 342
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 6
-  Spot: 4
-  Camouflage: 6
-  Agility: 3
-  Armor: 10
-  Psy Defense: 10
-  Rank: 700
+  Movement Type: space
+  Move Points: 2
+  Spot: 6
+  Camouflage: 1
+  Agility: 1
+  Armor: 12
+  Psy Defense: 12
+  Rank: 60
 Attacks:
-  Water: 2/19
-  Direct: 3/3
+  Closed Space: 1/12
+Cargo Space: 6
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 70
-Build Cost: 695
+Immune to Plague
+Upkeep / Maintenance: 29
+Build Cost: 285
 Build Resource Requirements:
-  Food: 7
-  Energy: 77
-  Metal: 53
-  Trace: 19
-  Exotica: 6
-  Chemicals: 65
-  Gems: 1
-Build U-Boat in Well
-Time to Build / Upgrade: 4
-[535] Technologies Required to Build Unit (99):
-  [100] Medical & Biological (100)
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
+  Food: 4
+  Energy: 15
+  Metal: 70
+  Trace: 6
+  Exotica: 4
+  Chemicals: 41
+  Electronics: 3
+Build Space Bulk Hauler in Starport
+Time to Build / Upgrade: 2
+[1170] Technologies Required to Build Unit (95):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Submarine
-Nick Name: NSS
+Name: Jump Bulk Hauler
+Nick Name: JJ-BH
 Scores & Strengths:
-  Tech Score: 520
-  Unit Score: 1042
-  Average Score: 781
-  Stat Strength: 817
-  Total Strength: 1042
-  Planet Strength: 1042
-  Space Strength: 0
-  Garrison Strength: 329
+  Tech Score: 455
+  Unit Score: 448
+  Average Score: 452
+  Stat Strength: 434
+  Total Strength: 448
+  Planet Strength: 0
+  Space Strength: 448
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 10
-  Spot: 10
-  Camouflage: 12
-  Agility: 9
+  Movement Type: jump
+  Move Points: 2
+  Spot: 6
+  Camouflage: 1
+  Agility: 1
   Armor: 14
   Psy Defense: 14
-  Rank: 727
+  Rank: 64
 Attacks:
-  Water: 6/24
-  Direct: 9/9
-Cargo Space: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 86
-Build Cost: 859
+  Closed Space: 1/14
+Cargo Space: 6
+Load aboard transport: YES
+Bulk Hauler - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 210
+Build Cost: 2096
 Build Resource Requirements:
-  Food: 9
-  Energy: 46
-  Metal: 42
-  Trace: 27
-  Exotica: 9
-  Chemicals: 45
-  Biochems: 12
-  Electronics: 22
-Build Submarine in Well
-Time to Build / Upgrade: 4
-[1870] Technologies Required to Build Unit (96):
-  [100] Medical & Biological (100)
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [1560] Naval Patrol Ships (86)
+  Food: 4
+  Energy: 20
+  Metal: 77
+  Trace: 5
+  Exotica: 3
+  Chemicals: 55
+  Electronics: 3
+  Gems: 1
+S  ingularities: 2
+Build Jump Bulk Hauler in Starport
+Time to Build / Upgrade: 3
+[1610] Technologies Required to Build Unit (90):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [1235] Jump Rocketry (76)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Attack Submarine
-Nick Name: NSS-AS
+Name: Armored Bulk Hauler
+Nick Name: JJ-AABH
 Scores & Strengths:
-  Tech Score: 932
-  Unit Score: 1398
-  Average Score: 1165
-  Stat Strength: 940
-  Total Strength: 1398
-  Planet Strength: 1398
-  Space Strength: 0
-  Garrison Strength: 403
+  Tech Score: 1168
+  Unit Score: 1167
+  Average Score: 1167
+  Stat Strength: 1082
+  Total Strength: 1167
+  Planet Strength: 0
+  Space Strength: 1167
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 12
-  Spot: 8
-  Camouflage: 12
-  Agility: 14
-  Armor: 14
-  Psy Defense: 14
-  Rank: 769
+  Movement Type: jump
+  Move Points: 3
+  Spot: 10
+  Camouflage: 2
+  Agility: 1
+  Armor: 22
+  Psy Defense: 22
+  Rank: 94
 Attacks:
-  Water: 14/17
-  Indirect: 11/20
-Cargo Space: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 80
-Build Cost: 796
+  Direct Space: 5/10
+  Closed Space: 5/7
+Cargo Space: 6
+Load aboard transport: YES
+Bulk Hauler - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 417
+Build Cost: 4168
 Build Resource Requirements:
-  Food: 6
-  Energy: 38
-  Metal: 32
-  Trace: 35
-  Exotica: 7
-  Chemicals: 38
-  Biochems: 13
-  Electronics: 21
-Build Attack Submarine in Well
+  Food: 3
+  Energy: 3
+  Metal: 22
+  Trace: 6
+  Exotica: 3
+  Chemicals: 14
+  Electronics: 9
+  Ceramsteel: 32
+  Monopols: 46
+S  ingularities: 2
+Build Armored Bulk Hauler in Starport
 Time to Build / Upgrade: 4
-[3615] Technology Required to Build Unit (87):
-  [3615] Submarine Warfare (87)
+[5975] Technologies Required to Build Unit (77):
+  [1690] Ceramsteel (84)
+  [4285] Jump Drives (70)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Attack Submarine II
-Nick Name: NSS-AS II
+Name: League Bulk Hauler
+Nick Name: Executor
 Scores & Strengths:
-  Tech Score: 1292
-  Unit Score: 1842
-  Average Score: 1567
-  Stat Strength: 1210
-  Total Strength: 1842
-  Planet Strength: 1842
-  Space Strength: 0
-  Garrison Strength: 492
+  Tech Score: 3604
+  Unit Score: 3602
+  Average Score: 3603
+  Stat Strength: 3402
+  Total Strength: 3602
+  Planet Strength: 0
+  Space Strength: 3602
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 14
-  Spot: 9
-  Camouflage: 14
-  Agility: 15
-  Armor: 16
-  Psy Defense: 16
-  Rank: 779
+  Movement Type: jump
+  Move Points: 12
+  Spot: 12
+  Camouflage: 6
+  Agility: 6
+  Armor: 39
+  Psy Defense: 39
+  Rank: 141
 Attacks:
-  Water: 16/20
-  Indirect: 13/24
-Cargo Space: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 63
-Build Cost: 634
+  Closed Space: 10/20
+Cargo Space: 7
+Load aboard transport: YES
+Bulk Hauler - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 850
+Build Cost: 8501
 Build Resource Requirements:
-  Food: 4
-  Energy: 27
-  Metal: 14
-  Trace: 19
-  Exotica: 4
-  Chemicals: 31
-  Biochems: 8
-  Electronics: 15
-  Ceramsteel: 13
-Build Attack Submarine II in Well
+  Food: 1
+  Energy: 3
+  Metal: 17
+  Trace: 2
+  Exotica: 1
+  Chemicals: 9
+  Biochems: 16
+  Electronics: 4
+  Ceramsteel: 22
+  Monopols: 27
+S  ingularities: 4
+Build League Bulk Hauler in Starport
 Time to Build / Upgrade: 3
-[8310] Technologies Required to Build Unit (85):
-  [3615] Submarine Warfare (87)
-  [4695] Advanced Minor Watercraft (83)
+[25780] Technologies Required to Build Unit (64):
+  [5560] Quantum Supremacy (56)
+  [20220] Jump Transports (72)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Attack Submarine III
-Nick Name: NSS-AS III
+Name: Power Bulk Hauler
+Nick Name: JJ-BH-Po
 Scores & Strengths:
-  Tech Score: 1563
-  Unit Score: 2257
-  Average Score: 1910
-  Stat Strength: 1497
-  Total Strength: 2257
-  Planet Strength: 2257
-  Space Strength: 0
-  Garrison Strength: 564
+  Tech Score: 4325
+  Unit Score: 4325
+  Average Score: 4325
+  Stat Strength: 2865
+  Total Strength: 4325
+  Planet Strength: 0
+  Space Strength: 4325
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 16
-  Spot: 9
-  Camouflage: 16
-  Agility: 16
-  Armor: 18
-  Psy Defense: 18
-  Rank: 785
+  Movement Type: jump
+  Move Points: 15
+  Spot: 16
+  Camouflage: 6
+  Agility: 6
+  Armor: 34
+  Psy Defense: 34
+  Rank: 210
 Attacks:
-  Water: 18/22
-  Indirect: 14/26
-Cargo Space: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 103
-Build Cost: 1030
+  Direct Space: 28/28
+  Closed Space: 26/26
+Cargo Space: 6
+Load aboard transport: YES
+Upkeep / Maintenance: 648
+Build Cost: 6476
 Build Resource Requirements:
-  Food: 5
-  Energy: 41
-  Metal: 17
-  Trace: 25
-  Exotica: 6
-  Chemicals: 53
-  Biochems: 11
-  Electronics: 24
-  Ceramsteel: 20
-Build Attack Submarine III in Well
-Time to Build / Upgrade: 4
-[7200] Technology Required to Build Unit (85):
-  [7200] Air-Independent Propulsion (85)
+  Food: 1
+  Energy: 5
+  Metal: 7
+  Trace: 9
+  Exotica: 1
+  Chemicals: 11
+  Biochems: 16
+  Electronics: 17
+  Ceramsteel: 9
+  Monopols: 18
+S  ingularities: 4
+Power Bulk Hauler cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Attack Submarine IV
-Nick Name: NSS-AS IV
+Name: Cybermorph Bulk Hauler
+Nick Name: JJ-BH-Cm
 Scores & Strengths:
-  Tech Score: 1692
-  Unit Score: 2413
-  Average Score: 2052
-  Stat Strength: 1571
-  Total Strength: 2413
-  Planet Strength: 2413
-  Space Strength: 0
-  Garrison Strength: 603
+  Tech Score: 7174
+  Unit Score: 7175
+  Average Score: 7175
+  Stat Strength: 5025
+  Total Strength: 7175
+  Planet Strength: 0
+  Space Strength: 7175
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 16
-  Spot: 9
-  Camouflage: 16
-  Agility: 16
-  Armor: 19
-  Psy Defense: 19
-  Rank: 789
+  Movement Type: jump
+  Move Points: 24
+  Spot: 24
+  Camouflage: 12
+  Agility: 41
+  Armor: 32
+  Psy Defense: 32
+  Rank: 264
 Attacks:
-  Water: 19/23
-  Indirect: 15/27
-Cargo Space: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 65
-Build Cost: 646
+  Direct Space: 50/25
+  Closed Space: 36/25
+Cargo Space: 7
+Load aboard transport: YES
+Upkeep / Maintenance: 1362
+Build Cost: 13615
 Build Resource Requirements:
-  Food: 3
-  Energy: 25
-  Metal: 11
-  Trace: 15
-  Exotica: 3
-  Chemicals: 33
-  Biochems: 7
-  Electronics: 15
-  Ceramsteel: 13
-Build Attack Submarine IV in Well
-Time to Build / Upgrade: 3
-[13855] Technologies Required to Build Unit (84):
-  [7200] Air-Independent Propulsion (85)
-  [6655] PTS Missile Navalcraft (83)
+  Food: 2
+  Energy: 7
+  Metal: 5
+  Trace: 10
+  Exotica: 2
+  Chemicals: 11
+  Biochems: 26
+  Electronics: 22
+  Ceramsteel: 7
+  Wetware: 18
+  Monopols: 19
+S  ingularities: 5
+Cybermorph Bulk Hauler cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Attack Submarine V
-Nick Name: NSS-AS V
+Name: Gate Bulk Hauler
+Nick Name: GG-BH
 Scores & Strengths:
-  Tech Score: 1792
-  Unit Score: 2513
-  Average Score: 2153
-  Stat Strength: 1637
-  Total Strength: 2513
-  Planet Strength: 2513
-  Space Strength: 0
-  Garrison Strength: 609
+  Tech Score: 7473
+  Unit Score: 7256
+  Average Score: 7364
+  Stat Strength: 6061
+  Total Strength: 7256
+  Planet Strength: 6621
+  Space Strength: 6696
+  Garrison Strength: 1380
 Statistics:
-  Movement Type: underwater
-  Move Points: 17
-  Spot: 9
-  Camouflage: 17
-  Agility: 16
-  Armor: 19
-  Psy Defense: 19
-  Rank: 791
+  Movement Type: gate
+  Move Points: 23
+  Spot: 16
+  Camouflage: 12
+  Agility: 30
+  Armor: 46
+  Psy Defense: 46
+  Rank: 210
 Attacks:
-  Water: 19/24
-  Indirect: 15/28
-Cargo Space: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 67
-Build Cost: 667
+  Direct Space: 14/25
+  Closed Space: 15/19
+  Direct: 14/23
+  Close: 14/17
+Cargo Space: 7
+Load aboard transport: YES
+Bulk Hauler - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 1672
+Build Cost: 16724
 Build Resource Requirements:
-  Food: 3
-  Energy: 26
-  Metal: 10
-  Trace: 15
-  Exotica: 3
-  Chemicals: 34
-  Biochems: 7
-  Electronics: 15
-  Ceramsteel: 13
-Build Attack Submarine V in Well
-Time to Build / Upgrade: 3
-[14495] Technologies Required to Build Unit (83):
-  [7200] Air-Independent Propulsion (85)
-  [7295] Nuclear-Powered Navalcraft (81)
+  Food: 1
+  Energy: 8
+  Metal: 9
+  Trace: 4
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 20
+  Electronics: 11
+  Ceramsteel: 15
+  Wetware: 7
+  Monopols: 32
+S  ingularities: 5
+Build Gate Bulk Hauler in Starport
+Time to Build / Upgrade: 4
+[57980] Technology Required to Build Unit (50):
+  [57980] Gate Transports (50)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Stealth Bulk Hauler
+Nick Name: JJ-BH-St
+Scores & Strengths:
+  Tech Score: 7481
+  Unit Score: 7485
+  Average Score: 7483
+  Stat Strength: 5445
+  Total Strength: 7485
+  Planet Strength: 0
+  Space Strength: 7485
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 24
+  Spot: 34
+  Camouflage: 42
+  Agility: 21
+  Armor: 32
+  Psy Defense: 22
+  Rank: 284
+Attacks:
+  Direct Space: 24/50
+  Closed Space: 24/35
+Cargo Space: 7
+Load aboard transport: YES
+Upkeep / Maintenance: 1316
+Build Cost: 13163
+Build Resource Requirements:
+  Food: 1
+  Energy: 10
+  Metal: 3
+  Trace: 10
+  Exotica: 2
+  Chemicals: 15
+  Biochems: 21
+  Electronics: 20
+  Ceramsteel: 4
+  Wetware: 8
+  Monopols: 22
+S  ingularities: 5
+Stealth Bulk Hauler cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES

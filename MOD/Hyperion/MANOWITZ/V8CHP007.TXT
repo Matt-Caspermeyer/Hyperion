@@ -1,39 +1,334 @@
-All units of the unit class Peasant are listed herein (1 in total):
+All units of the unit class Small Flatbed Trailer are listed herein (8 in total):
 
 --1--
-Name: Peasant
-Nick Name: Peasant
+Name: Small Flatbed Trailer
+Nick Name: SF Trailer
 Scores & Strengths:
   Tech Score: 38
-  Unit Score: 38
-  Average Score: 38
-  Stat Strength: 33
-  Total Strength: 38
-  Planet Strength: 38
+  Unit Score: 36
+  Average Score: 37
+  Stat Strength: 36
+  Total Strength: 0
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 38
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 1
-  Spot: 2
-  Camouflage: 1
-  Agility: 5
-  Armor: 1
-  Psy Defense: 1
-  Rank: 0
-Attacks:
-  Close: 5/1
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 2
+  Agility: 0
+  Armor: 4
+  Psy Defense: 4
+  Rank: 511
+Cargo Space: 1
 Load aboard transport: YES
-Upkeep / Maintenance: 2
-Build Cost: 17
+Does not participate in combat
+Can be towed
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 1
+Build Cost: 8
 Build Resource Requirements:
-  Food: 29
-  Energy: 24
-  Metal: 3
-Build Peasant in Any building
-Time to Build / Upgrade: 1
+  Food: 9
+  Energy: 9
+  Metal: 54
+Build Small Flatbed Trailer in Factory
+Time to Build / Upgrade: 2
 [50] Technology Required to Build Unit (100):
   [50] Applied Technology (100)
-Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Medium Flatbed Trailer
+Nick Name: MF Trailer
+Scores & Strengths:
+  Tech Score: 100
+  Unit Score: 107
+  Average Score: 104
+  Stat Strength: 107
+  Total Strength: 0
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 3
+  Agility: 0
+  Armor: 7
+  Psy Defense: 7
+  Rank: 520
+Cargo Space: 2
+Load aboard transport: YES
+Does not participate in combat
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 1
+Build Cost: 7
+Build Resource Requirements:
+  Food: 1
+  Energy: 1
+  Metal: 36
+  Trace: 5
+  Chemicals: 1
+Build Medium Flatbed Trailer in Factory
+Time to Build / Upgrade: 1
+[385] Technologies Required to Build Unit (98):
+  [110] Structural Engineering (99)
+  [110] Mechanical & Aerospace Engineering (98)
+  [165] Autocannon (98)
+Unit can be disbanded: YES
+
+--3--
+Name: Long Flatbed Trailer
+Nick Name: LF Trailer
+Scores & Strengths:
+  Tech Score: 170
+  Unit Score: 178
+  Average Score: 174
+  Stat Strength: 178
+  Total Strength: 0
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 4
+  Agility: 0
+  Armor: 9
+  Psy Defense: 9
+  Rank: 528
+Cargo Space: 3
+Load aboard transport: YES
+Does not participate in combat
+Can be towed
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 1
+Build Cost: 11
+Build Resource Requirements:
+  Food: 1
+  Energy: 1
+  Metal: 39
+  Trace: 6
+  Chemicals: 13
+Build Long Flatbed Trailer in Factory
+Time to Build / Upgrade: 2
+[595] Technologies Required to Build Unit (96):
+  [145] Composite Armor (97)
+  [125] Compression Ignition Engine (97)
+  [325] Megachassis (94)
+Unit can be disbanded: YES
+
+--4--
+Name: Small Hover Trailer
+Nick Name: SH Trailer
+Scores & Strengths:
+  Tech Score: 988
+  Unit Score: 204
+  Average Score: 596
+  Stat Strength: 204
+  Total Strength: 0
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: hover
+  Move Points: 0
+  Spot: 0
+  Camouflage: 2
+  Agility: 0
+  Armor: 10
+  Psy Defense: 10
+  Rank: 529
+Cargo Space: 1
+Load aboard transport: YES
+Does not participate in combat
+Can be towed
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 4
+Build Cost: 37
+Build Resource Requirements:
+  Metal: 3
+  Chemicals: 1
+  Ceramsteel: 6
+  Monopols: 6
+Build Small Hover Trailer in Factory
+Time to Build / Upgrade: 1
+[3905] Technology Required to Build Unit (61):
+  [3905] Hovertech (61)
+Unit can be disbanded: YES
+
+--5--
+Name: Stretch Flatbed Trailer
+Nick Name: SSF Trailer
+Scores & Strengths:
+  Tech Score: 299
+  Unit Score: 278
+  Average Score: 289
+  Stat Strength: 278
+  Total Strength: 0
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 6
+  Agility: 0
+  Armor: 11
+  Psy Defense: 11
+  Rank: 537
+Cargo Space: 4
+Load aboard transport: YES
+Does not participate in combat
+Can be towed
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 1
+Build Cost: 14
+Build Resource Requirements:
+  Energy: 1
+  Metal: 45
+  Trace: 6
+  Chemicals: 14
+  Electronics: 5
+Build Stretch Flatbed Trailer in Factory
+Time to Build / Upgrade: 2
+[1150] Technologies Required to Build Unit (93):
+  [145] Composite Armor (97)
+  [395] Gas-Turbine Engine (89)
+  [610] Dual-Purpose Gun (94)
+Unit can be disbanded: YES
+
+--6--
+Name: Medium Hover Trailer
+Nick Name: MH Trailer
+Scores & Strengths:
+  Tech Score: 1600
+  Unit Score: 347
+  Average Score: 973
+  Stat Strength: 347
+  Total Strength: 0
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: hover
+  Move Points: 0
+  Spot: 0
+  Camouflage: 3
+  Agility: 0
+  Armor: 13
+  Psy Defense: 13
+  Rank: 541
+Cargo Space: 2
+Load aboard transport: YES
+Does not participate in combat
+Can be towed
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 4
+Build Cost: 39
+Build Resource Requirements:
+  Metal: 4
+  Chemicals: 2
+  Electronics: 3
+  Ceramsteel: 6
+  Monopols: 6
+Build Medium Hover Trailer in Factory
+Time to Build / Upgrade: 1
+[7425] Technology Required to Build Unit (68):
+  [7425] Hovertanks (68)
+Unit can be disbanded: YES
+
+--7--
+Name: Long Hover Trailer
+Nick Name: LH Trailer
+Scores & Strengths:
+  Tech Score: 2707
+  Unit Score: 587
+  Average Score: 1647
+  Stat Strength: 587
+  Total Strength: 0
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: hover
+  Move Points: 0
+  Spot: 0
+  Camouflage: 3
+  Agility: 0
+  Armor: 17
+  Psy Defense: 17
+  Rank: 556
+Cargo Space: 3
+Load aboard transport: YES
+Does not participate in combat
+Can be towed
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 5
+Build Cost: 48
+Build Resource Requirements:
+  Metal: 4
+  Chemicals: 2
+  Electronics: 2
+  Ceramsteel: 6
+  Monopols: 6
+Build Long Hover Trailer in Factory
+Time to Build / Upgrade: 1
+[14975] Technology Required to Build Unit (70):
+  [14975] Power Hovertanks (70)
+Unit can be disbanded: YES
+
+--8--
+Name: Stretch Hover Trailer
+Nick Name: SSH Trailer
+Scores & Strengths:
+  Tech Score: 3783
+  Unit Score: 816
+  Average Score: 2300
+  Stat Strength: 816
+  Total Strength: 0
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: hover
+  Move Points: 0
+  Spot: 0
+  Camouflage: 4
+  Agility: 0
+  Armor: 20
+  Psy Defense: 20
+  Rank: 568
+Cargo Space: 4
+Load aboard transport: YES
+Does not participate in combat
+Can be towed
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 5
+Build Cost: 47
+Build Resource Requirements:
+  Metal: 3
+  Chemicals: 2
+  Biochems: 4
+  Electronics: 2
+  Ceramsteel: 5
+  Monopols: 5
+Build Stretch Hover Trailer in Factory
+Time to Build / Upgrade: 1
+[23395] Technology Required to Build Unit (37):
+  [23395] Advanced Hovertech (37)
 Unit can be disbanded: YES

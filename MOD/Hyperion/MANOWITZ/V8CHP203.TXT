@@ -1,262 +1,331 @@
-All units of the unit class Heavy Tank Killer are listed herein (6 in total):
+All units of the unit class Space Destroyer are listed herein (7 in total):
 
 --1--
-Name: Heavy Tank Killer
-Nick Name: Direwolf
+Name: Space Destroyer
+Nick Name: SS-DD
 Scores & Strengths:
-  Tech Score: 2728
-  Unit Score: 2728
-  Average Score: 2728
-  Stat Strength: 2358
-  Total Strength: 2728
-  Planet Strength: 2728
-  Space Strength: 0
-  Garrison Strength: 756
+  Tech Score: 2580
+  Unit Score: 2580
+  Average Score: 2580
+  Stat Strength: 1810
+  Total Strength: 2580
+  Planet Strength: 0
+  Space Strength: 2580
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 13
-  Spot: 8
-  Camouflage: 6
-  Agility: 17
-  Armor: 30
-  Psy Defense: 30
-  Rank: 106
+  Movement Type: space
+  Move Points: 16
+  Spot: 12
+  Camouflage: 4
+  Agility: 12
+  Armor: 25
+  Psy Defense: 25
+  Rank: 139
 Attacks:
-  Indirect: 8/27
-  Direct: 7/22
+  Direct Space: 16/28
+  Closed Space: 14/23
+Cargo Space: 1
 Load aboard transport: YES
-Upkeep / Maintenance: 111
-Build Cost: 995
+Immune to Plague
+Upkeep / Maintenance: 41
+Build Cost: 413
 Build Resource Requirements:
-  Electronics: 13
-  Ceramsteel: 19
-  Monopols: 45
-Upgrade Tank Killer to Heavy Tank Killer at Factory
-Time to Build / Upgrade: 1
-[15130] Technology Required to Build Unit (68):
-  [15130] Fusion Battle Tanks (68)
+  Food: 3
+  Energy: 22
+  Metal: 18
+  Trace: 9
+  Exotica: 3
+  Chemicals: 36
+  Biochems: 26
+  Electronics: 14
+  Ceramsteel: 20
+Build Space Destroyer in Starport
+Time to Build / Upgrade: 3
+[14045] Technology Required to Build Unit (84):
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Imperial Siege Tank
-Nick Name: Mangler
+Name: Jump Destroyer
+Nick Name: JJ-DD
 Scores & Strengths:
-  Tech Score: 2728
-  Unit Score: 2728
-  Average Score: 2728
-  Stat Strength: 2358
-  Total Strength: 2728
-  Planet Strength: 2728
-  Space Strength: 0
-  Garrison Strength: 661
+  Tech Score: 3399
+  Unit Score: 3361
+  Average Score: 3380
+  Stat Strength: 2369
+  Total Strength: 3361
+  Planet Strength: 0
+  Space Strength: 3361
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 17
-  Spot: 8
-  Camouflage: 6
+  Movement Type: jump
+  Move Points: 18
+  Spot: 13
+  Camouflage: 5
   Agility: 13
-  Armor: 30
-  Psy Defense: 30
-  Rank: 99
+  Armor: 29
+  Psy Defense: 29
+  Rank: 158
 Attacks:
-  Indirect: 8/27
-  Direct: 7/15
-  Close: 7/7
+  Direct Space: 18/32
+  Closed Space: 16/26
+Cargo Space: 1
 Load aboard transport: YES
-Upkeep / Maintenance: 105
-Build Cost: 1049
+Immune to Plague
+Upkeep / Maintenance: 536
+Build Cost: 5355
 Build Resource Requirements:
   Food: 2
-  Energy: 11
-  Metal: 11
-  Trace: 3
-  Exotica: 2
-  Chemicals: 24
-  Electronics: 13
-  Ceramsteel: 19
-  Monopols: 42
-Build Imperial Siege Tank in Factory
+  Energy: 16
+  Metal: 15
+  Trace: 8
+  Exotica: 3
+  Chemicals: 26
+  Biochems: 20
+  Electronics: 12
+  Ceramsteel: 17
+  Monopols: 38
+S  ingularities: 4
+Build Jump Destroyer in Starport
 Time to Build / Upgrade: 4
-[15130] Technology Required to Build Unit (68):
-  [15130] Fusion Battle Tanks (68)
+[26415] Technologies Required to Build Unit (76):
+  [4285] Jump Drives (70)
+  [8085] Fusion Rifles (75)
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Shock Heavy Tank Killer
-Nick Name: Hellwolf
+Name: Meson Space Destroyer
+Nick Name: JJ-DD-Me
 Scores & Strengths:
-  Tech Score: 2921
-  Unit Score: 2865
-  Average Score: 2893
-  Stat Strength: 2480
-  Total Strength: 2865
-  Planet Strength: 2865
-  Space Strength: 0
-  Garrison Strength: 794
+  Tech Score: 3792
+  Unit Score: 3792
+  Average Score: 3792
+  Stat Strength: 2210
+  Total Strength: 3792
+  Planet Strength: 0
+  Space Strength: 3792
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 13
-  Spot: 8
+  Movement Type: jump
+  Move Points: 18
+  Spot: 14
   Camouflage: 6
-  Agility: 17
-  Armor: 31
-  Psy Defense: 31
-  Rank: 109
+  Agility: 14
+  Armor: 27
+  Psy Defense: 27
+  Rank: 185
 Attacks:
-  Indirect: 8/28
-  Direct: 7/23
+  Direct Space: 25/36
+  Closed Space: 22/31
+Cargo Space: 1
 Load aboard transport: YES
-Upkeep / Maintenance: 72
+Upkeep / Maintenance: 442
+Build Cost: 4422
 Build Resource Requirements:
-Upgrade Heavy Tank Killer to Shock Heavy Tank Killer at Factory
-Time to Build / Upgrade: 1
-[30105] Technologies Required to Build Unit (69):
-  [15130] Fusion Battle Tanks (68)
-  [14975] Power Hovertanks (70)
+  Food: 2
+  Energy: 15
+  Metal: 12
+  Trace: 11
+  Exotica: 2
+  Chemicals: 26
+  Biochems: 19
+  Electronics: 18
+  Ceramsteel: 13
+  Monopols: 35
+S  ingularities: 4
+Meson Space Destroyer cannot be built
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: 3rd-Republic Siege Tank
-Nick Name: Golem
+Name: Jump Destroyer II
+Nick Name: JJ-DD
 Scores & Strengths:
-  Tech Score: 2921
-  Unit Score: 2865
-  Average Score: 2893
-  Stat Strength: 2480
-  Total Strength: 2865
-  Planet Strength: 2865
-  Space Strength: 0
-  Garrison Strength: 794
+  Tech Score: 4325
+  Unit Score: 4202
+  Average Score: 4264
+  Stat Strength: 2906
+  Total Strength: 4202
+  Planet Strength: 0
+  Space Strength: 4202
+  Garrison Strength: 0
 Statistics:
-  Movement Type: hover
-  Move Points: 13
-  Spot: 8
-  Camouflage: 6
-  Agility: 17
-  Armor: 31
-  Psy Defense: 31
-  Rank: 84
+  Movement Type: jump
+  Move Points: 21
+  Spot: 14
+  Camouflage: 5
+  Agility: 14
+  Armor: 32
+  Psy Defense: 32
+  Rank: 178
 Attacks:
-  Indirect: 8/28
-  Direct: 7/23
+  Direct Space: 21/36
+  Closed Space: 18/30
+Cargo Space: 1
 Load aboard transport: YES
-Upkeep / Maintenance: 72
-Build Cost: 718
+Immune to Plague
+Upkeep / Maintenance: 619
+Build Cost: 6187
 Build Resource Requirements:
-  Food: 1
-  Energy: 8
-  Metal: 7
-  Trace: 2
-  Exotica: 1
-  Chemicals: 17
-  Electronics: 8
-  Ceramsteel: 12
-  Monopols: 29
-Build 3rd-Republic Siege Tank in Factory
-Time to Build / Upgrade: 3
-[30105] Technologies Required to Build Unit (69):
-  [15130] Fusion Battle Tanks (68)
-  [14975] Power Hovertanks (70)
+  Food: 2
+  Energy: 14
+  Metal: 9
+  Trace: 9
+  Exotica: 2
+  Chemicals: 25
+  Biochems: 23
+  Electronics: 19
+  Ceramsteel: 13
+  Monopols: 37
+S  ingularities: 5
+Build Jump Destroyer II in Starport
+Time to Build / Upgrade: 4
+[27965] Technology Required to Build Unit (75):
+  [27965] Jump Escorts (75)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Stealth Heavy Tank Killer
-Nick Name: Cerberus
+Name: Cybermorph Space Destroyer
+Nick Name: JJ-DD-Cm
 Scores & Strengths:
-  Tech Score: 5364
-  Unit Score: 5454
-  Average Score: 5409
-  Stat Strength: 2454
-  Total Strength: 5454
-  Planet Strength: 5454
-  Space Strength: 0
-  Garrison Strength: 1363
+  Tech Score: 7174
+  Unit Score: 7174
+  Average Score: 7174
+  Stat Strength: 5570
+  Total Strength: 7174
+  Planet Strength: 0
+  Space Strength: 7174
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 16
-  Spot: 10
-  Camouflage: 20
-  Agility: 4
-  Armor: 29
-  Psy Defense: 29
-  Rank: 174
+  Movement Type: jump
+  Move Points: 26
+  Spot: 22
+  Camouflage: 14
+  Agility: 42
+  Armor: 35
+  Psy Defense: 35
+  Rank: 217
 Attacks:
-  Indirect: 30/60
-  Direct: 30/40
+  Direct Space: 25/36
+  Closed Space: 22/32
+Cargo Space: 1
 Load aboard transport: YES
-Upkeep / Maintenance: 170
-Build Cost: 1696
+Upkeep / Maintenance: 720
+Build Cost: 7197
 Build Resource Requirements:
-  Energy: 20
-  Metal: 5
-  Trace: 7
-  Exotica: 1
-  Chemicals: 26
-  Biochems: 39
+  Food: 2
+  Energy: 10
+  Metal: 6
+  Trace: 5
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 26
   Electronics: 14
-  Ceramsteel: 8
-  Wetware: 5
-  Monopols: 41
-Build Stealth Heavy Tank Killer in Factory
-Time to Build / Upgrade: 4
-[37265] Technology Required to Build Unit (33):
-  [37265] Neumonic Land Vehicles (33)
+  Ceramsteel: 9
+  Wetware: 10
+  Monopols: 28
+S  ingularities: 5
+Cybermorph Space Destroyer cannot be built
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Psy Heavy Tank Killer
-Nick Name: Psywolf
+Name: Cloaking Space Destroyer
+Nick Name: SS-CDD
 Scores & Strengths:
-  Tech Score: 2756
-  Unit Score: 5786
-  Average Score: 4271
-  Stat Strength: 5058
-  Total Strength: 5786
-  Planet Strength: 5786
-  Space Strength: 5366
-  Garrison Strength: 1604
+  Tech Score: 7481
+  Unit Score: 7484
+  Average Score: 7483
+  Stat Strength: 6144
+  Total Strength: 7484
+  Planet Strength: 0
+  Space Strength: 7484
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 13
-  Spot: 8
-  Camouflage: 6
-  Agility: 17
-  Armor: 30
-  Psy Defense: 60
-  Rank: 122
+  Movement Type: space
+  Move Points: 18
+  Spot: 12
+  Camouflage: 48
+  Agility: 22
+  Armor: 38
+  Psy Defense: 38
+  Rank: 217
 Attacks:
-  Psychic: 14/22
-  Indirect: 9/28
-  Direct: 8/21
+  Direct Space: 22/38
+  Closed Space: 28/18
+Cargo Space: 1
 Load aboard transport: YES
-Upkeep / Maintenance: 495
-Build Cost: 4952
+Immune to Plague
+Upkeep / Maintenance: 323
+Build Cost: 3231
+Build Resource Requirements:
+  Food: 1
+  Energy: 6
+  Metal: 6
+  Trace: 11
+  Exotica: 1
+  Chemicals: 11
+  Biochems: 20
+  Electronics: 27
+  Ceramsteel: 10
+  Wetware: 6
+  Monopols: 22
+Build Cloaking Space Destroyer in Starport
+Time to Build / Upgrade: 3
+[58065] Technology Required to Build Unit (48):
+  [58065] Cloaked Escortcraft (48)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Gate Destroyer
+Nick Name: Cataclysm
+Scores & Strengths:
+  Tech Score: 7603
+  Unit Score: 7605
+  Average Score: 7604
+  Stat Strength: 5448
+  Total Strength: 7605
+  Planet Strength: 6805
+  Space Strength: 6248
+  Garrison Strength: 1202
+Statistics:
+  Movement Type: gate
+  Move Points: 32
+  Spot: 24
+  Camouflage: 18
+  Agility: 18
+  Armor: 40
+  Psy Defense: 40
+  Rank: 218
+Attacks:
+  Direct Space: 24/20
+  Closed Space: 20/16
+  Water: 12/24
+  Air: 17/17
+  Indirect: 24/20
+  Direct: 20/15
+Cargo Space: 1
+Load aboard transport: YES
+Upkeep / Maintenance: 823
+Build Cost: 8226
 Build Resource Requirements:
   Food: 2
-  Energy: 13
-  Metal: 28
-  Trace: 4
+  Energy: 9
+  Metal: 7
+  Trace: 8
   Exotica: 2
-  Chemicals: 36
-  Electronics: 24
-  Ceramsteel: 48
-  Monopols: 74
-  Gems: 95
-Build Psy Heavy Tank Killer in Factory
-Time to Build / Upgrade: 8
-[15460] Technologies Required to Build Unit (75):
-  [330] Holy Warriors (82)
-  [15130] Fusion Battle Tanks (68)
+  Chemicals: 17
+  Biochems: 23
+  Electronics: 16
+  Ceramsteel: 11
+  Wetware: 10
+  Monopols: 31
+S  ingularities: 6
+Gate Destroyer cannot be built
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

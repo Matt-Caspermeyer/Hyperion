@@ -1,48 +1,99 @@
-All units of the unit class Stigmata Floating Fortress are listed herein (1 in total):
+All units of the unit class Vau Warrior are listed herein (2 in total):
 
 --1--
-Name: Stigmata Floating Fortress
-Nick Name: Fortress
+Name: Vau Warrior
+Nick Name: Warrior
 Scores & Strengths:
-  Tech Score: 4654
-  Unit Score: 4654
-  Average Score: 4654
-  Stat Strength: 3232
-  Total Strength: 4654
-  Planet Strength: 4654
+  Tech Score: 3886
+  Unit Score: 3885
+  Average Score: 3885
+  Stat Strength: 3173
+  Total Strength: 3885
+  Planet Strength: 3885
   Space Strength: 0
-  Garrison Strength: 1040
+  Garrison Strength: 915
 Statistics:
-  Movement Type: hover
-  Move Points: 20
-  Spot: 22
-  Camouflage: 8
-  Agility: 22
-  Armor: 30
-  Psy Defense: 30
-  Rank: 103
+  Movement Type: foot
+  Move Points: 18
+  Spot: 10
+  Camouflage: 12
+  Agility: 20
+  Armor: 21
+  Psy Defense: 42
+  Rank: 118
 Attacks:
-  Air: 34/16
-  Indirect: 22/29
+  Indirect: 16/16
   Direct: 16/15
+  Close: 18/12
 Load aboard transport: YES
-Upkeep / Maintenance: 101
-Build Cost: 1009
+Immune to Plague
+Upkeep / Maintenance: 120
+Build Cost: 1198
 Build Resource Requirements:
-  Food: 3
-  Energy: 10
-  Metal: 6
-  Trace: 18
-  Exotica: 3
-  Chemicals: 18
-  Biochems: 9
-  Electronics: 30
-  Ceramsteel: 12
-  Monopols: 31
-Build Stigmata Floating Fortress in Factory
+  Food: 1
+  Energy: 5
+  Metal: 5
+  Trace: 5
+  Exotica: 2
+  Chemicals: 12
+  Biochems: 20
+  Electronics: 13
+  Ceramsteel: 11
+  Wetware: 7
+  Monopols: 24
+Build Vau Warrior in Vau City
+Time to Build / Upgrade: 3
+[24245] Technology Required to Build Unit (50):
+  [24245] Vau Psychology (50)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Vau Mercenary
+Nick Name: Vau Merc.
+Scores & Strengths:
+  Tech Score: 3886
+  Unit Score: 3886
+  Average Score: 3886
+  Stat Strength: 2796
+  Total Strength: 3886
+  Planet Strength: 3886
+  Space Strength: 0
+  Garrison Strength: 1038
+Statistics:
+  Movement Type: foot
+  Move Points: 14
+  Spot: 16
+  Camouflage: 18
+  Agility: 20
+  Armor: 18
+  Psy Defense: 36
+  Rank: 141
+Attacks:
+  Air: 24/14
+  Indirect: 20/17
+  Direct: 18/16
+  Close: 14/9
+Load aboard transport: YES
+Upkeep / Maintenance: 110
+Build Cost: 1099
+Build Resource Requirements:
+  Food: 1
+  Energy: 6
+  Metal: 4
+  Trace: 9
+  Exotica: 2
+  Chemicals: 12
+  Biochems: 22
+  Electronics: 20
+  Ceramsteel: 8
+  Wetware: 12
+  Monopols: 22
+Build Vau Mercenary in Starport
 Time to Build / Upgrade: 4
-[30835] Technology Required to Build Unit (71):
-  [30835] Hover Minor Navalcraft (71)
+[24245] Technology Required to Build Unit (50):
+  [24245] Vau Psychology (50)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

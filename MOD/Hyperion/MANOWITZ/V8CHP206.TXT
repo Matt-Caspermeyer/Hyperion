@@ -1,47 +1,237 @@
-All units of the unit class Imperial Eye Agent are listed herein (1 in total):
+All units of the unit class Missile Cruiser are listed herein (5 in total):
 
 --1--
-Name: Imperial Eye Agent
-Nick Name: Beholder
+Name: Missile Cruiser
+Nick Name: JJ-CC-Mi
 Scores & Strengths:
-  Tech Score: 3678
-  Unit Score: 3616
-  Average Score: 3647
-  Stat Strength: 2004
-  Total Strength: 3616
-  Planet Strength: 3616
-  Space Strength: 0
-  Garrison Strength: 966
+  Tech Score: 3094
+  Unit Score: 3094
+  Average Score: 3094
+  Stat Strength: 1994
+  Total Strength: 3094
+  Planet Strength: 0
+  Space Strength: 3094
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
+  Movement Type: jump
   Move Points: 14
-  Spot: 26
-  Camouflage: 26
-  Agility: 16
-  Armor: 10
-  Psy Defense: 10
-  Rank: 812
+  Spot: 11
+  Camouflage: 3
+  Agility: 10
+  Armor: 28
+  Psy Defense: 28
+  Rank: 166
 Attacks:
-  Air: 29/28
-  Indirect: 40/20
+  Ranged Space: 12/34
+  Direct Space: 17/28
+  Closed Space: 18/12
+Cargo Space: 2
 Load aboard transport: YES
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 116
-Build Cost: 1097
+Upkeep / Maintenance: 367
+Build Cost: 3666
 Build Resource Requirements:
-  Energy: 2
-  Chemicals: 7
-  Biochems: 24
-  Electronics: 4
-  Ceramsteel: 2
-  Monopols: 18
-Upgrade Spy to Imperial Eye Agent at Factory
-Time to Build / Upgrade: 2
-[29135] Technologies Required to Build Unit (50):
-  [7825] Neurocellular Surgery (28)
-  [6490] Assassin (48)
-  [10710] Special Forces (79)
-  [4110] Visioneers (46)
+  Food: 1
+  Energy: 13
+  Metal: 10
+  Trace: 7
+  Exotica: 1
+  Chemicals: 20
+  Biochems: 17
+  Electronics: 10
+  Ceramsteel: 12
+  Monopols: 27
+S  ingularities: 4
+Missile Cruiser cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Meson Vlad Cruiser
+Nick Name: JJ-CC-Me
+Scores & Strengths:
+  Tech Score: 4073
+  Unit Score: 4073
+  Average Score: 4073
+  Stat Strength: 2713
+  Total Strength: 4073
+  Planet Strength: 0
+  Space Strength: 4073
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 17
+  Spot: 14
+  Camouflage: 6
+  Agility: 12
+  Armor: 32
+  Psy Defense: 32
+  Rank: 178
+Attacks:
+  Ranged Space: 15/33
+  Direct Space: 20/26
+  Closed Space: 23/15
+Load aboard transport: YES
+Upkeep / Maintenance: 425
+Build Cost: 4246
+Build Resource Requirements:
+  Food: 1
+  Energy: 10
+  Metal: 11
+  Trace: 10
+  Exotica: 2
+  Chemicals: 17
+  Biochems: 21
+  Electronics: 17
+  Ceramsteel: 12
+  Monopols: 31
+S  ingularities: 4
+Meson Vlad Cruiser cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Jump (Vlad) Cruiser
+Nick Name: JJ-CC2
+Scores & Strengths:
+  Tech Score: 5589
+  Unit Score: 5418
+  Average Score: 5504
+  Stat Strength: 4534
+  Total Strength: 5418
+  Planet Strength: 0
+  Space Strength: 5418
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 16
+  Spot: 14
+  Camouflage: 4
+  Agility: 4
+  Armor: 45
+  Psy Defense: 45
+  Rank: 182
+Attacks:
+  Ranged Space: 17/25
+  Direct Space: 10/27
+  Closed Space: 9/21
+Cargo Space: 3
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 727
+Build Cost: 7272
+Build Resource Requirements:
+  Food: 1
+  Energy: 8
+  Metal: 14
+  Trace: 4
+  Exotica: 1
+  Chemicals: 18
+  Biochems: 18
+  Electronics: 13
+  Ceramsteel: 20
+  Monopols: 36
+S  ingularities: 4
+Build Jump (Vlad) Cruiser in Starport
+Time to Build / Upgrade: 4
+[39365] Technology Required to Build Unit (61):
+  [39365] Jump Capital Ships (61)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Gate Cruiser
+Nick Name: Galactic Rift
+Scores & Strengths:
+  Tech Score: 7734
+  Unit Score: 7734
+  Average Score: 7734
+  Stat Strength: 5847
+  Total Strength: 7734
+  Planet Strength: 6995
+  Space Strength: 6586
+  Garrison Strength: 1256
+Statistics:
+  Movement Type: gate
+  Move Points: 31
+  Spot: 26
+  Camouflage: 16
+  Agility: 16
+  Armor: 43
+  Psy Defense: 43
+  Rank: 221
+Attacks:
+  Ranged Space: 22/22
+  Direct Space: 17/15
+  Air: 16/13
+  Indirect: 22/22
+  Direct: 24/19
+Cargo Space: 2
+Load aboard transport: YES
+Upkeep / Maintenance: 858
+Build Cost: 8581
+Build Resource Requirements:
+  Food: 2
+  Energy: 8
+  Metal: 8
+  Trace: 7
+  Exotica: 2
+  Chemicals: 15
+  Biochems: 22
+  Electronics: 15
+  Ceramsteel: 13
+  Wetware: 10
+  Monopols: 30
+S  ingularities: 6
+Gate Cruiser cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Cloaking Vlad Cruiser
+Nick Name: JJ-CC-Cl
+Scores & Strengths:
+  Tech Score: 8498
+  Unit Score: 8501
+  Average Score: 8499
+  Stat Strength: 6840
+  Total Strength: 8501
+  Planet Strength: 0
+  Space Strength: 8501
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 16
+  Spot: 14
+  Camouflage: 46
+  Agility: 20
+  Armor: 44
+  Psy Defense: 44
+  Rank: 249
+Attacks:
+  Ranged Space: 20/33
+  Direct Space: 30/22
+  Closed Space: 31/11
+Cargo Space: 3
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 872
+Build Cost: 8724
+Build Resource Requirements:
+  Energy: 4
+  Metal: 6
+  Trace: 9
+  Exotica: 1
+  Chemicals: 8
+  Biochems: 16
+  Electronics: 22
+  Ceramsteel: 9
+  Wetware: 7
+  Monopols: 17
+S  ingularities: 4
+Build Cloaking Vlad Cruiser in Starport
+Time to Build / Upgrade: 3
+[98845] Technologies Required to Build Unit (63):
+  [59480] Cloaked Capital Ships (64)
+  [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

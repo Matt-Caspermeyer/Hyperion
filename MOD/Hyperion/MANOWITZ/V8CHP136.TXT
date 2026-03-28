@@ -1,826 +1,553 @@
-All units of the unit class Landing Veh., Tracked (P) are listed herein (18 in total):
+All units of the unit class Personal Surveillance Drone are listed herein (12 in total):
 
 --1--
-Name: Landing Veh., Tracked (P)
-Nick Name: LVT (P)
+Name: Personal Surveillance Drone
+Nick Name: Drone (PR)
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 584
-  Average Score: 584
-  Stat Strength: 332
-  Total Strength: 584
-  Planet Strength: 584
+  Tech Score: 2194
+  Unit Score: 557
+  Average Score: 1376
+  Stat Strength: 557
+  Total Strength: 557
+  Planet Strength: 557
   Space Strength: 0
-  Garrison Strength: 206
+  Garrison Strength: 160
 Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 10
-  Psy Defense: 10
-  Rank: 90
-Attacks:
-  Direct: 14/10
-  Close: 14/8
-Cargo Space: 1
-Can be towed
-Upkeep / Maintenance: 10
-Build Cost: 96
+  Movement Type: air
+  Move Points: 12
+  Spot: 12
+  Camouflage: 5
+  Agility: 8
+  Armor: 6
+  Psy Defense: 12
+  Rank: 45
+Load aboard transport: YES
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 3
+Build Cost: 30
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 19
-  Trace: 28
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 17
-  Electronics: 21
-Build Landing Veh., Tracked (P) in Factory
-Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
+  Food: 2
+  Energy: 3
+  Metal: 3
+  Trace: 3
+  Exotica: 2
+  Chemicals: 5
+  Electronics: 5
+  Ceramsteel: 7
+Build Personal Surveillance Drone in Factory
+Time to Build / Upgrade: 1
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Landing Veh., Tracked (C)
-Nick Name: LVT (C)
+Name: Bomber Drone
+Nick Name: Drone (B)
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 584
-  Average Score: 584
-  Stat Strength: 332
-  Total Strength: 584
-  Planet Strength: 584
+  Tech Score: 2194
+  Unit Score: 2190
+  Average Score: 2192
+  Stat Strength: 1530
+  Total Strength: 2190
+  Planet Strength: 2190
   Space Strength: 0
-  Garrison Strength: 206
+  Garrison Strength: 547
 Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 10
-  Psy Defense: 10
-  Rank: 769
+  Movement Type: air
+  Move Points: 16
+  Spot: 14
+  Camouflage: 7
+  Agility: 7
+  Armor: 14
+  Psy Defense: 28
+  Rank: 114
 Attacks:
-  Water: 14/10
-  Indirect: 14/8
+  Indirect: 15/44
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Can be towed
-Upkeep / Maintenance: 11
-Build Cost: 111
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 21
+Build Cost: 212
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 19
-  Trace: 28
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 10
-  Electronics: 12
-Build Landing Veh., Tracked (C) in Factory
-Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
+  Food: 4
+  Energy: 34
+  Metal: 15
+  Trace: 8
+  Exotica: 4
+  Chemicals: 60
+  Electronics: 7
+  Ceramsteel: 37
+Build Bomber Drone in Factory
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Landing Veh., Tracked (H)
-Nick Name: LVT (H)
+Name: Patrol Drone
+Nick Name: Drone (P)
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 584
-  Average Score: 584
-  Stat Strength: 332
-  Total Strength: 584
-  Planet Strength: 584
+  Tech Score: 2194
+  Unit Score: 2191
+  Average Score: 2193
+  Stat Strength: 1257
+  Total Strength: 2191
+  Planet Strength: 2191
   Space Strength: 0
-  Garrison Strength: 206
+  Garrison Strength: 585
 Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 10
-  Psy Defense: 10
-  Rank: 78
+  Movement Type: air
+  Move Points: 14
+  Spot: 16
+  Camouflage: 10
+  Agility: 10
+  Armor: 11
+  Psy Defense: 22
+  Rank: 97
 Attacks:
-  Indirect: 14/10
-  Direct: 14/8
+  Direct: 22/22
+  Close: 30/15
 Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 7
-Build Cost: 74
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 20
+Build Cost: 195
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 19
-  Trace: 28
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 10
-  Electronics: 12
-Build Landing Veh., Tracked (H) in Factory
-Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
+  Food: 4
+  Energy: 15
+  Metal: 9
+  Trace: 27
+  Exotica: 4
+  Chemicals: 26
+  Electronics: 46
+  Ceramsteel: 23
+Build Patrol Drone in Factory
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Landing Veh., Tracked (A)
-Nick Name: LVT (A)
+Name: Anti-Ship Drone
+Nick Name: Drone (ASh)
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 584
-  Average Score: 584
-  Stat Strength: 332
-  Total Strength: 584
-  Planet Strength: 584
+  Tech Score: 2194
+  Unit Score: 2193
+  Average Score: 2194
+  Stat Strength: 1425
+  Total Strength: 2193
+  Planet Strength: 2193
   Space Strength: 0
-  Garrison Strength: 206
+  Garrison Strength: 548
 Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 10
-  Psy Defense: 10
-  Rank: 78
+  Movement Type: air
+  Move Points: 16
+  Spot: 14
+  Camouflage: 8
+  Agility: 8
+  Armor: 13
+  Psy Defense: 26
+  Rank: 113
 Attacks:
-  Air: 14/10
-  Direct: 14/8
+  Water: 12/32
+  Indirect: 12/32
 Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 9
-Build Cost: 94
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 21
+Build Cost: 214
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 19
-  Trace: 28
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 17
-  Electronics: 21
-Build Landing Veh., Tracked (A) in Factory
-Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
+  Food: 4
+  Energy: 36
+  Metal: 13
+  Trace: 9
+  Exotica: 4
+  Chemicals: 62
+  Electronics: 11
+  Ceramsteel: 32
+Build Anti-Ship Drone in Factory
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Landing Veh., Tracked (R)
-Nick Name: LVT (R)
+Name: Anti-Tank Drone
+Nick Name: Drone (AT)
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 587
-  Average Score: 586
-  Stat Strength: 470
-  Total Strength: 587
-  Planet Strength: 587
+  Tech Score: 2194
+  Unit Score: 2193
+  Average Score: 2194
+  Stat Strength: 1564
+  Total Strength: 2193
+  Planet Strength: 2193
   Space Strength: 0
-  Garrison Strength: 207
+  Garrison Strength: 586
 Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 13
-  Psy Defense: 13
-  Rank: 131
+  Movement Type: air
+  Move Points: 14
+  Spot: 12
+  Camouflage: 12
+  Agility: 10
+  Armor: 14
+  Psy Defense: 28
+  Rank: 94
 Attacks:
-  Close: 13/9
+  Direct: 17/37
 Load aboard transport: YES
-Can tow units that can be towed
-Heals units of same movement type
-Upkeep / Maintenance: 7
-Build Cost: 72
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 20
+Build Cost: 196
 Build Resource Requirements:
   Food: 3
-  Energy: 7
-  Metal: 32
-  Trace: 14
+  Energy: 25
+  Metal: 15
+  Trace: 10
   Exotica: 3
-  Chemicals: 7
-  Biochems: 9
-  Electronics: 11
-Build Landing Veh., Tracked (R) in Factory
-Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
+  Chemicals: 44
+  Electronics: 16
+  Ceramsteel: 37
+Build Anti-Tank Drone in Factory
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Landing Veh., Tracked (E)
-Nick Name: LVT (E)
+Name: Fighter-Bomber Drone
+Nick Name: Drone (FB)
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 587
-  Average Score: 586
-  Stat Strength: 524
-  Total Strength: 587
-  Planet Strength: 587
+  Tech Score: 2194
+  Unit Score: 2193
+  Average Score: 2194
+  Stat Strength: 1361
+  Total Strength: 2193
+  Planet Strength: 2193
   Space Strength: 0
-  Garrison Strength: 239
+  Garrison Strength: 531
 Statistics:
-  Movement Type: craft
-  Move Points: 6
-  Spot: 8
-  Camouflage: 4
-  Agility: 4
-  Armor: 14
-  Psy Defense: 14
-  Rank: 41
+  Movement Type: air
+  Move Points: 17
+  Spot: 12
+  Camouflage: 8
+  Agility: 12
+  Armor: 12
+  Psy Defense: 24
+  Rank: 118
 Attacks:
-  Close: 9/7
-Cargo Space: 1
-Can tow units that can be towed
-Upkeep / Maintenance: 5
-Build Cost: 54
+  Air: 22/20
+  Indirect: 14/28
+Load aboard transport: YES
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 184
 Build Resource Requirements:
-  Food: 3
-  Energy: 5
-  Metal: 37
-  Trace: 11
-  Exotica: 3
-  Chemicals: 5
-  Biochems: 6
-  Electronics: 8
-Build Landing Veh., Tracked (E) in Factory
-Time to Build / Upgrade: 2
-[2290] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1940] Amphibious Landing Craft (89)
+  Food: 4
+  Energy: 23
+  Metal: 11
+  Trace: 15
+  Exotica: 4
+  Chemicals: 42
+  Electronics: 19
+  Ceramsteel: 27
+Build Fighter-Bomber Drone in Factory
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Landing Veh., Tracked (E2)
-Nick Name: LVT (E2)
+Name: Anti-Personnel Drone
+Nick Name: Drone (AP)
 Scores & Strengths:
-  Tech Score: 660
-  Unit Score: 652
-  Average Score: 656
-  Stat Strength: 582
-  Total Strength: 652
-  Planet Strength: 652
+  Tech Score: 2194
+  Unit Score: 2194
+  Average Score: 2194
+  Stat Strength: 1369
+  Total Strength: 2194
+  Planet Strength: 2194
   Space Strength: 0
-  Garrison Strength: 266
+  Garrison Strength: 548
 Statistics:
-  Movement Type: craft
-  Move Points: 6
-  Spot: 8
-  Camouflage: 4
-  Agility: 4
-  Armor: 15
-  Psy Defense: 15
-  Rank: 42
+  Movement Type: air
+  Move Points: 16
+  Spot: 16
+  Camouflage: 16
+  Agility: 14
+  Armor: 9
+  Psy Defense: 18
+  Rank: 92
 Attacks:
-  Close: 10/7
-Cargo Space: 1
-Can tow units that can be towed
-Upkeep / Maintenance: 5
-Build Cost: 54
+  Close: 33/25
+Load aboard transport: YES
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 178
 Build Resource Requirements:
-  Food: 3
-  Energy: 4
-  Metal: 38
-  Trace: 11
-  Exotica: 3
-  Chemicals: 4
-  Biochems: 6
-  Electronics: 8
-Build Landing Veh., Tracked (E2) in Factory
-Time to Build / Upgrade: 2
-[2710] Technologies Required to Build Unit (91):
-  [770] Self-Propelled Weaponry (92)
-  [1940] Amphibious Landing Craft (89)
+  Food: 5
+  Energy: 15
+  Metal: 6
+  Trace: 26
+  Exotica: 5
+  Chemicals: 26
+  Electronics: 43
+  Ceramsteel: 15
+Build Anti-Personnel Drone in Factory
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Landing Veh., Tracked (P2)
-Nick Name: LVT (P2)
+Name: General-Purpose Drone
+Nick Name: Drone (GP)
 Scores & Strengths:
-  Tech Score: 660
-  Unit Score: 659
-  Average Score: 659
-  Stat Strength: 374
-  Total Strength: 659
-  Planet Strength: 659
+  Tech Score: 2194
+  Unit Score: 2194
+  Average Score: 2194
+  Stat Strength: 1180
+  Total Strength: 2194
+  Planet Strength: 2194
   Space Strength: 0
-  Garrison Strength: 232
+  Garrison Strength: 586
 Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 11
-  Psy Defense: 11
-  Rank: 93
+  Movement Type: air
+  Move Points: 14
+  Spot: 14
+  Camouflage: 12
+  Agility: 12
+  Armor: 10
+  Psy Defense: 20
+  Rank: 113
 Attacks:
-  Direct: 15/11
-  Close: 15/8
-Cargo Space: 1
-Can be towed
-Upkeep / Maintenance: 10
-Build Cost: 99
+  Indirect: 16/23
+  Direct: 18/22
+  Close: 25/10
+Load aboard transport: YES
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 19
+Build Cost: 189
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 20
-  Trace: 29
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 17
-  Electronics: 23
-Build Landing Veh., Tracked (P2) in Factory
-Time to Build / Upgrade: 2
-[2710] Technologies Required to Build Unit (91):
-  [770] Self-Propelled Weaponry (92)
-  [1940] Amphibious Landing Craft (89)
+  Food: 4
+  Energy: 21
+  Metal: 8
+  Trace: 24
+  Exotica: 4
+  Chemicals: 37
+  Electronics: 35
+  Ceramsteel: 19
+Build General-Purpose Drone in Factory
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Landing Veh., Tracked (C2)
-Nick Name: LVT (C2)
+Name: Fighter Drone
+Nick Name: Drone (F)
 Scores & Strengths:
-  Tech Score: 660
-  Unit Score: 659
-  Average Score: 659
-  Stat Strength: 374
-  Total Strength: 659
-  Planet Strength: 659
+  Tech Score: 2194
+  Unit Score: 2195
+  Average Score: 2195
+  Stat Strength: 1436
+  Total Strength: 2195
+  Planet Strength: 2195
   Space Strength: 0
-  Garrison Strength: 232
+  Garrison Strength: 517
 Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 11
-  Psy Defense: 11
-  Rank: 771
+  Movement Type: air
+  Move Points: 18
+  Spot: 12
+  Camouflage: 12
+  Agility: 18
+  Armor: 10
+  Psy Defense: 20
+  Rank: 114
 Attacks:
-  Water: 15/11
-  Indirect: 15/8
+  Air: 33/23
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Can be towed
-Upkeep / Maintenance: 11
-Build Cost: 113
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 180
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 20
-  Trace: 29
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 10
-  Electronics: 13
-Build Landing Veh., Tracked (C2) in Factory
-Time to Build / Upgrade: 2
-[2710] Technologies Required to Build Unit (91):
-  [770] Self-Propelled Weaponry (92)
-  [1940] Amphibious Landing Craft (89)
+  Food: 5
+  Energy: 15
+  Metal: 8
+  Trace: 23
+  Exotica: 5
+  Chemicals: 27
+  Electronics: 39
+  Ceramsteel: 19
+Build Fighter Drone in Factory
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Landing Veh., Tracked (H2)
-Nick Name: LVT (H2)
+Name: Anti-Submarine Drone
+Nick Name: Drone (ASu)
 Scores & Strengths:
-  Tech Score: 660
-  Unit Score: 659
-  Average Score: 659
-  Stat Strength: 374
-  Total Strength: 659
-  Planet Strength: 659
+  Tech Score: 2194
+  Unit Score: 2196
+  Average Score: 2195
+  Stat Strength: 1428
+  Total Strength: 2196
+  Planet Strength: 2196
   Space Strength: 0
-  Garrison Strength: 232
+  Garrison Strength: 549
 Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 11
-  Psy Defense: 11
-  Rank: 80
+  Movement Type: air
+  Move Points: 16
+  Spot: 18
+  Camouflage: 8
+  Agility: 8
+  Armor: 12
+  Psy Defense: 24
+  Rank: 107
 Attacks:
-  Indirect: 15/11
-  Direct: 15/8
+  Water: 24/32
 Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 8
-Build Cost: 75
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 184
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 20
-  Trace: 29
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 10
-  Electronics: 13
-Build Landing Veh., Tracked (H2) in Factory
-Time to Build / Upgrade: 2
-[2710] Technologies Required to Build Unit (91):
-  [770] Self-Propelled Weaponry (92)
-  [1940] Amphibious Landing Craft (89)
+  Food: 5
+  Energy: 20
+  Metal: 11
+  Trace: 15
+  Exotica: 5
+  Chemicals: 36
+  Electronics: 25
+  Ceramsteel: 27
+Build Anti-Submarine Drone in Factory
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --11--
-Name: Landing Veh., Tracked (A2)
-Nick Name: LVT (A2)
+Name: Surveillance Drone
+Nick Name: Drone (R)
 Scores & Strengths:
-  Tech Score: 660
-  Unit Score: 659
-  Average Score: 659
-  Stat Strength: 374
-  Total Strength: 659
-  Planet Strength: 659
+  Tech Score: 2194
+  Unit Score: 2197
+  Average Score: 2196
+  Stat Strength: 2197
+  Total Strength: 2197
+  Planet Strength: 2197
   Space Strength: 0
-  Garrison Strength: 232
+  Garrison Strength: 448
 Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 11
-  Psy Defense: 11
-  Rank: 80
-Attacks:
-  Air: 15/11
-  Direct: 15/8
+  Movement Type: air
+  Move Points: 24
+  Spot: 24
+  Camouflage: 10
+  Agility: 15
+  Armor: 12
+  Psy Defense: 24
+  Rank: 62
 Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 10
-Build Cost: 97
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 16
+Build Cost: 157
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 20
-  Trace: 29
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 17
-  Electronics: 23
-Build Landing Veh., Tracked (A2) in Factory
-Time to Build / Upgrade: 2
-[2710] Technologies Required to Build Unit (91):
-  [770] Self-Propelled Weaponry (92)
-  [1940] Amphibious Landing Craft (89)
+  Food: 10
+  Energy: 10
+  Metal: 11
+  Trace: 12
+  Exotica: 10
+  Chemicals: 19
+  Electronics: 20
+  Ceramsteel: 27
+Build Surveillance Drone in Factory
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --12--
-Name: Landing Veh., Tracked (R2)
-Nick Name: LVT (R2)
+Name: Transport Drone
+Nick Name: Drone (X)
 Scores & Strengths:
-  Tech Score: 660
-  Unit Score: 664
-  Average Score: 662
-  Stat Strength: 524
-  Total Strength: 664
-  Planet Strength: 664
+  Tech Score: 2194
+  Unit Score: 2198
+  Average Score: 2196
+  Stat Strength: 2198
+  Total Strength: 2198
+  Planet Strength: 2198
   Space Strength: 0
-  Garrison Strength: 234
+  Garrison Strength: 634
 Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 4
-  Armor: 14
-  Psy Defense: 14
-  Rank: 132
-Attacks:
-  Close: 14/10
-Load aboard transport: YES
-Can tow units that can be towed
-Heals units of same movement type
-Upkeep / Maintenance: 7
-Build Cost: 73
-Build Resource Requirements:
-  Food: 3
-  Energy: 7
-  Metal: 33
-  Trace: 15
-  Exotica: 3
-  Chemicals: 7
-  Biochems: 9
-  Electronics: 12
-Build Landing Veh., Tracked (R2) in Factory
-Time to Build / Upgrade: 2
-[2710] Technologies Required to Build Unit (91):
-  [770] Self-Propelled Weaponry (92)
-  [1940] Amphibious Landing Craft (89)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---13--
-Name: Amphib. Assault Vehicle (P)
-Nick Name: AAV (P)
-Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 951
-  Average Score: 955
-  Stat Strength: 537
-  Total Strength: 951
-  Planet Strength: 951
-  Space Strength: 0
-  Garrison Strength: 300
-Statistics:
-  Movement Type: craft
-  Move Points: 10
-  Spot: 7
-  Camouflage: 5
-  Agility: 5
-  Armor: 13
-  Psy Defense: 13
-  Rank: 101
-Attacks:
-  Direct: 18/13
-  Close: 18/10
+  Movement Type: air
+  Move Points: 12
+  Spot: 11
+  Camouflage: 8
+  Agility: 8
+  Armor: 19
+  Psy Defense: 38
+  Rank: 61
 Cargo Space: 1
-Can be towed
-Upkeep / Maintenance: 11
-Build Cost: 114
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 19
-  Trace: 32
-  Exotica: 3
-  Chemicals: 16
-  Biochems: 18
-  Electronics: 27
-Build Amphib. Assault Vehicle (P) in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---14--
-Name: Amphib. Assault Vehicle (C)
-Nick Name: AAV (C)
-Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 951
-  Average Score: 955
-  Stat Strength: 537
-  Total Strength: 951
-  Planet Strength: 951
-  Space Strength: 0
-  Garrison Strength: 300
-Statistics:
-  Movement Type: craft
-  Move Points: 10
-  Spot: 7
-  Camouflage: 5
-  Agility: 5
-  Armor: 13
-  Psy Defense: 13
-  Rank: 779
-Attacks:
-  Water: 18/13
-  Indirect: 18/10
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Can be towed
-Upkeep / Maintenance: 13
-Build Cost: 131
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 175
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 19
-  Trace: 32
-  Exotica: 3
-  Chemicals: 16
-  Biochems: 10
-  Electronics: 15
-Build Amphib. Assault Vehicle (C) in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---15--
-Name: Amphib. Assault Vehicle (H)
-Nick Name: AAV (H)
-Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 951
-  Average Score: 955
-  Stat Strength: 537
-  Total Strength: 951
-  Planet Strength: 951
-  Space Strength: 0
-  Garrison Strength: 300
-Statistics:
-  Movement Type: craft
-  Move Points: 10
-  Spot: 7
-  Camouflage: 5
-  Agility: 5
-  Armor: 13
-  Psy Defense: 13
-  Rank: 88
-Attacks:
-  Indirect: 18/13
-  Direct: 18/10
-Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 9
-Build Cost: 87
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 19
-  Trace: 32
-  Exotica: 3
-  Chemicals: 16
-  Biochems: 10
-  Electronics: 15
-Build Amphib. Assault Vehicle (H) in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---16--
-Name: Amphib. Assault Vehicle (E)
-Nick Name: AAV (E)
-Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 951
-  Average Score: 955
-  Stat Strength: 843
-  Total Strength: 951
-  Planet Strength: 951
-  Space Strength: 0
-  Garrison Strength: 336
-Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 9
-  Camouflage: 5
-  Agility: 5
-  Armor: 18
-  Psy Defense: 18
-  Rank: 45
-Attacks:
-  Close: 12/9
-Cargo Space: 1
-Can tow units that can be towed
-Upkeep / Maintenance: 7
-Build Cost: 66
-Build Resource Requirements:
-  Food: 3
-  Energy: 5
-  Metal: 36
-  Trace: 12
-  Exotica: 3
-  Chemicals: 13
-  Biochems: 6
-  Electronics: 9
-Build Amphib. Assault Vehicle (E) in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---17--
-Name: Amphib. Assault Vehicle (A)
-Nick Name: AAV (A)
-Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 951
-  Average Score: 955
-  Stat Strength: 537
-  Total Strength: 951
-  Planet Strength: 951
-  Space Strength: 0
-  Garrison Strength: 300
-Statistics:
-  Movement Type: craft
-  Move Points: 10
-  Spot: 7
-  Camouflage: 5
-  Agility: 5
-  Armor: 13
-  Psy Defense: 13
-  Rank: 88
-Attacks:
-  Air: 18/13
-  Direct: 18/10
-Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 11
-Build Cost: 112
-Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 19
-  Trace: 32
-  Exotica: 3
-  Chemicals: 16
-  Biochems: 18
-  Electronics: 27
-Build Amphib. Assault Vehicle (A) in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---18--
-Name: Amphib. Assault Vehicle (R)
-Nick Name: AAV (R)
-Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 981
-  Average Score: 970
-  Stat Strength: 777
-  Total Strength: 981
-  Planet Strength: 981
-  Space Strength: 0
-  Garrison Strength: 310
-Statistics:
-  Movement Type: craft
-  Move Points: 10
-  Spot: 7
-  Camouflage: 5
-  Agility: 5
-  Armor: 17
-  Psy Defense: 17
-  Rank: 135
-Attacks:
-  Close: 17/12
-Load aboard transport: YES
-Can tow units that can be towed
-Heals units of same movement type
-Upkeep / Maintenance: 9
-Build Cost: 89
-Build Resource Requirements:
-  Food: 3
-  Energy: 8
-  Metal: 32
-  Trace: 17
-  Exotica: 3
-  Chemicals: 15
-  Biochems: 9
-  Electronics: 14
-Build Amphib. Assault Vehicle (R) in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
+  Food: 2
+  Energy: 3
+  Metal: 27
+  Trace: 3
+  Exotica: 2
+  Chemicals: 10
+  Electronics: 6
+  Ceramsteel: 68
+Build Transport Drone in Factory
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

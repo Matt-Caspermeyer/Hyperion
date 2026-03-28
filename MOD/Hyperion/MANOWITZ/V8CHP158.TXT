@@ -1,146 +1,585 @@
-All units of the unit class Radar Picket Submarine are listed herein (3 in total):
+All units of the unit class Holy Sp. Monitor are listed herein (12 in total):
 
 --1--
-Name: Radar Picket Submarine
-Nick Name: NN-SSRP
+Name: Holy Sp. Monitor
+Nick Name: SS-HSM
 Scores & Strengths:
-  Tech Score: 932
-  Unit Score: 932
-  Average Score: 932
-  Stat Strength: 764
-  Total Strength: 932
-  Planet Strength: 932
-  Space Strength: 0
-  Garrison Strength: 269
+  Tech Score: 725
+  Unit Score: 906
+  Average Score: 816
+  Stat Strength: 575
+  Total Strength: 906
+  Planet Strength: 0
+  Space Strength: 906
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 12
-  Spot: 14
-  Camouflage: 10
-  Agility: 6
-  Armor: 12
-  Psy Defense: 12
-  Rank: 748
+  Movement Type: space
+  Move Points: 3
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 20
+  Rank: 754
 Attacks:
-  Water: 8/16
-  Indirect: 5/8
+  Ranged Space: 8/14
+  Direct Space: 6/10
+  Closed Space: 9/7
+  Psychic: 8/12
 Cargo Space: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 50
-Build Cost: 504
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 75
+Build Cost: 674
 Build Resource Requirements:
-  Food: 7
-  Energy: 19
-  Metal: 23
-  Trace: 23
-  Exotica: 8
-  Chemicals: 19
-  Biochems: 11
-  Electronics: 16
-Build Radar Picket Submarine in Well
+  Energy: 2
+  Metal: 35
+  Trace: 13
+  Chemicals: 21
+  Electronics: 12
+  Gems: 12
+Upgrade Clergy to Holy Sp. Monitor at Church
 Time to Build / Upgrade: 2
-[3615] Technology Required to Build Unit (87):
-  [3615] Submarine Warfare (87)
+[3325] Technologies Required to Build Unit (85):
+  [700] Rockets (90)
+  [1100] Omen (76)
+  [330] Holy Warriors (82)
+  [1195] Naval Warfare (90)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Submarine Cruiser
-Nick Name: NSS-SC
+Name: Holy Dreadstar
+Nick Name: SS-HSDs
 Scores & Strengths:
-  Tech Score: 658
-  Unit Score: 1316
-  Average Score: 987
-  Stat Strength: 789
-  Total Strength: 1316
-  Planet Strength: 1316
-  Space Strength: 0
-  Garrison Strength: 465
+  Tech Score: 1068
+  Unit Score: 1603
+  Average Score: 1336
+  Stat Strength: 947
+  Total Strength: 1603
+  Planet Strength: 0
+  Space Strength: 1603
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 8
+  Movement Type: space
+  Move Points: 6
   Spot: 8
-  Camouflage: 10
-  Agility: 7
-  Armor: 16
-  Psy Defense: 16
-  Rank: 730
+  Camouflage: 1
+  Agility: 1
+  Armor: 13
+  Psy Defense: 26
+  Rank: 784
 Attacks:
-  Water: 5/25
-  Air: 6/16
-  Indirect: 4/24
-  Direct: 9/10
-  Close: 15/8
-Cargo Space: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 146
-Build Cost: 1460
+  Ranged Space: 5/30
+  Direct Space: 7/24
+  Psychic: 26/13
+Cargo Space: 2
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 164
+Build Cost: 1565
 Build Resource Requirements:
-  Food: 4
-  Energy: 82
-  Metal: 49
-  Trace: 37
-  Exotica: 4
-  Chemicals: 82
-  Biochems: 18
-  Electronics: 27
-Build Submarine Cruiser in Well
-Time to Build / Upgrade: 5
-[2270] Technology Required to Build Unit (86):
-  [2270] Naval Escort Ships (86)
+  Energy: 34
+  Metal: 41
+  Trace: 6
+  Chemicals: 54
+  Biochems: 4
+  Electronics: 5
+  Gems: 14
+Upgrade Clergy to Holy Dreadstar at Church
+Time to Build / Upgrade: 3
+[5370] Technologies Required to Build Unit (80):
+  [795] Rocket Propulsion (90)
+  [1520] Psyche (60)
+  [330] Holy Warriors (82)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Submarine Aircraft Carrier
-Nick Name: N-SCV
+Name: Holy Battlestar
+Nick Name: SS-HSBs
 Scores & Strengths:
-  Tech Score: 1868
-  Unit Score: 1866
-  Average Score: 1867
-  Stat Strength: 1020
-  Total Strength: 1866
-  Planet Strength: 1866
-  Space Strength: 0
-  Garrison Strength: 590
+  Tech Score: 1068
+  Unit Score: 1604
+  Average Score: 1336
+  Stat Strength: 822
+  Total Strength: 1604
+  Planet Strength: 0
+  Space Strength: 1604
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 10
-  Spot: 16
-  Camouflage: 16
+  Movement Type: space
+  Move Points: 6
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 12
+  Psy Defense: 24
+  Rank: 794
+Attacks:
+  Ranged Space: 10/26
+  Direct Space: 13/18
+  Psychic: 24/12
+Cargo Space: 2
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 97
+Build Cost: 895
+Build Resource Requirements:
+  Energy: 17
+  Metal: 35
+  Trace: 14
+  Chemicals: 37
+  Biochems: 8
+  Electronics: 11
+  Gems: 11
+Upgrade Clergy to Holy Battlestar at Church
+Time to Build / Upgrade: 2
+[5370] Technologies Required to Build Unit (80):
+  [795] Rocket Propulsion (90)
+  [1520] Psyche (60)
+  [330] Holy Warriors (82)
+  [2725] Naval Capital Ships (88)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Holy Dreadstar II
+Nick Name: SS-HSDr
+Scores & Strengths:
+  Tech Score: 1965
+  Unit Score: 1965
+  Average Score: 1965
+  Stat Strength: 1281
+  Total Strength: 1965
+  Planet Strength: 0
+  Space Strength: 1965
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 6
+  Spot: 10
+  Camouflage: 2
+  Agility: 4
+  Armor: 15
+  Psy Defense: 30
+  Rank: 793
+Attacks:
+  Ranged Space: 6/23
+  Direct Space: 6/16
+  Psychic: 30/15
+Cargo Space: 2
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 162
+Build Cost: 1546
+Build Resource Requirements:
+  Metal: 21
+  Trace: 4
+  Chemicals: 22
+  Biochems: 2
+  Electronics: 4
+  Ceramsteel: 28
+  Gems: 15
+Upgrade Clergy to Holy Dreadstar II at Church
+Time to Build / Upgrade: 2
+[11230] Technologies Required to Build Unit (74):
+  [2790] Supercruise (86)
+  [330] Holy Warriors (82)
+  [2255] Sympathy (Bonding) (45)
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Holy Fast Battlestar
+Nick Name: SS-HSFBs
+Scores & Strengths:
+  Tech Score: 1965
+  Unit Score: 1965
+  Average Score: 1965
+  Stat Strength: 1169
+  Total Strength: 1965
+  Planet Strength: 0
+  Space Strength: 1965
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 8
+  Spot: 10
+  Camouflage: 3
   Agility: 4
   Armor: 14
-  Psy Defense: 14
-  Rank: 756
+  Psy Defense: 28
+  Rank: 804
 Attacks:
-  Water: 14/24
-  Air: 14/18
-  Direct: 10/16
-  Close: 7/14
+  Ranged Space: 10/18
+  Direct Space: 14/16
+  Psychic: 28/14
 Cargo Space: 2
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 69
-Build Cost: 691
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 98
+Build Cost: 910
 Build Resource Requirements:
-  Food: 3
-  Energy: 23
-  Metal: 9
-  Trace: 16
-  Exotica: 3
-  Chemicals: 30
-  Biochems: 6
-  Electronics: 20
-  Ceramsteel: 11
-Build Submarine Aircraft Carrier in Well
+  Metal: 18
+  Trace: 8
+  Chemicals: 17
+  Biochems: 4
+  Electronics: 9
+  Ceramsteel: 24
+  Gems: 12
+Upgrade Clergy to Holy Fast Battlestar at Church
+Time to Build / Upgrade: 2
+[11230] Technologies Required to Build Unit (74):
+  [2790] Supercruise (86)
+  [330] Holy Warriors (82)
+  [2255] Sympathy (Bonding) (45)
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Holy Super Dreadstar
+Nick Name: SS-HSSDr
+Scores & Strengths:
+  Tech Score: 1965
+  Unit Score: 2456
+  Average Score: 2211
+  Stat Strength: 1418
+  Total Strength: 2456
+  Planet Strength: 0
+  Space Strength: 2456
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 5
+  Spot: 10
+  Camouflage: 2
+  Agility: 3
+  Armor: 16
+  Psy Defense: 32
+  Rank: 819
+Attacks:
+  Ranged Space: 11/26
+  Direct Space: 12/20
+  Psychic: 32/16
+Cargo Space: 3
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 223
+Build Cost: 2158
+Build Resource Requirements:
+  Energy: 4
+  Metal: 25
+  Trace: 7
+  Chemicals: 29
+  Biochems: 4
+  Electronics: 8
+  Ceramsteel: 32
+  Gems: 17
+Upgrade Clergy to Holy Super Dreadstar at Church
 Time to Build / Upgrade: 3
-[11930] Technologies Required to Build Unit (84):
-  [2665] V/STOL Aircraft (85)
-  [1970] Cargo Handling (87)
+[11230] Technologies Required to Build Unit (74):
+  [2790] Supercruise (86)
+  [330] Holy Warriors (82)
+  [2255] Sympathy (Bonding) (45)
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Sathra Monitor
+Nick Name: JJ-HSM
+Scores & Strengths:
+  Tech Score: 2245
+  Unit Score: 2812
+  Average Score: 2528
+  Stat Strength: 1778
+  Total Strength: 2812
+  Planet Strength: 0
+  Space Strength: 2812
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 5
+  Spot: 14
+  Camouflage: 2
+  Agility: 2
+  Armor: 18
+  Psy Defense: 35
+  Rank: 817
+Attacks:
+  Ranged Space: 14/25
+  Direct Space: 11/18
+  Closed Space: 16/12
+  Psychic: 14/21
+Cargo Space: 1
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 330
+Build Cost: 2629
+Build Resource Requirements:
+  Chemicals: 6
+  Biochems: 6
+  Electronics: 3
+  Ceramsteel: 37
+  Gems: 16
+S  ingularities: 2
+Upgrade Holy Sp. Monitor to Sathra Monitor at Church
+Time to Build / Upgrade: 1
+[13980] Technologies Required to Build Unit (71):
+  [4530] Hypersonics (83)
+  [330] Holy Warriors (82)
+  [2465] Sathra (36)
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Sathra Dreadstar
+Nick Name: JJ-HSDs
+Scores & Strengths:
+  Tech Score: 2544
+  Unit Score: 3808
+  Average Score: 3176
+  Stat Strength: 2233
+  Total Strength: 3808
+  Planet Strength: 0
+  Space Strength: 3808
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 9
+  Spot: 12
+  Camouflage: 2
+  Agility: 2
+  Armor: 20
+  Psy Defense: 40
+  Rank: 844
+Attacks:
+  Ranged Space: 8/46
+  Direct Space: 11/37
+  Psychic: 40/20
+Cargo Space: 2
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 712
+Build Cost: 5559
+Build Resource Requirements:
+  Energy: 3
+  Chemicals: 21
+  Electronics: 1
+  Ceramsteel: 43
+  Gems: 7
+S  ingularities: 3
+Upgrade Holy Dreadstar to Sathra Dreadstar at Church
+Time to Build / Upgrade: 1
+[16135] Technologies Required to Build Unit (68):
+  [4920] Hypercruise (82)
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
   [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Sathra Battlestar
+Nick Name: JJ-HSBs
+Scores & Strengths:
+  Tech Score: 2544
+  Unit Score: 3826
+  Average Score: 3185
+  Stat Strength: 1963
+  Total Strength: 3826
+  Planet Strength: 0
+  Space Strength: 3826
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 9
+  Spot: 12
+  Camouflage: 2
+  Agility: 2
+  Armor: 19
+  Psy Defense: 37
+  Rank: 858
+Attacks:
+  Ranged Space: 15/40
+  Direct Space: 20/28
+  Psychic: 37/19
+Cargo Space: 2
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 463
+Build Cost: 3734
+Build Resource Requirements:
+  Energy: 3
+  Chemicals: 16
+  Electronics: 4
+  Ceramsteel: 38
+  Gems: 7
+S  ingularities: 3
+Upgrade Holy Battlestar to Sathra Battlestar at Church
+Time to Build / Upgrade: 2
+[16135] Technologies Required to Build Unit (68):
+  [4920] Hypercruise (82)
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Sathra Dreadstar II
+Nick Name: JJ-HSDr
+Scores & Strengths:
+  Tech Score: 4814
+  Unit Score: 4750
+  Average Score: 4782
+  Stat Strength: 3120
+  Total Strength: 4750
+  Planet Strength: 0
+  Space Strength: 4750
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 9
+  Spot: 16
+  Camouflage: 3
+  Agility: 6
+  Armor: 23
+  Psy Defense: 47
+  Rank: 858
+Attacks:
+  Ranged Space: 9/36
+  Direct Space: 9/25
+  Psychic: 47/23
+Cargo Space: 2
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 938
+Build Cost: 7832
+Build Resource Requirements:
+  Electronics: 6
+  Monopols: 32
+  Gems: 11
+S  ingularities: 3
+Upgrade Holy Dreadstar II to Sathra Dreadstar II at Church
+Time to Build / Upgrade: 1
+[39650] Technologies Required to Build Unit (63):
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [3835] Sathra's Space Doctrine (17)
+  [27875] PTS Meson Navalcraft (74)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Sathra Fast Battlestar
+Nick Name: JJ-HSFBs
+Scores & Strengths:
+  Tech Score: 4814
+  Unit Score: 4872
+  Average Score: 4843
+  Stat Strength: 2906
+  Total Strength: 4872
+  Planet Strength: 0
+  Space Strength: 4872
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 13
+  Spot: 16
+  Camouflage: 5
+  Agility: 6
+  Armor: 22
+  Psy Defense: 44
+  Rank: 876
+Attacks:
+  Ranged Space: 16/28
+  Direct Space: 22/25
+  Psychic: 44/22
+Cargo Space: 2
+Load aboard transport: YES
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 679
+Build Cost: 5881
+Build Resource Requirements:
+  Electronics: 6
+  Monopols: 27
+  Gems: 11
+S  ingularities: 4
+Upgrade Holy Fast Battlestar to Sathra Fast Battlestar at Church
+Time to Build / Upgrade: 1
+[39650] Technologies Required to Build Unit (63):
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [3835] Sathra's Space Doctrine (17)
+  [27875] PTS Meson Navalcraft (74)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Sathra Super Dreadstar
+Nick Name: JJ-HSSDr
+Scores & Strengths:
+  Tech Score: 4814
+  Unit Score: 6015
+  Average Score: 5415
+  Stat Strength: 3479
+  Total Strength: 6015
+  Planet Strength: 0
+  Space Strength: 6015
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 8
+  Spot: 16
+  Camouflage: 3
+  Agility: 5
+  Armor: 25
+  Psy Defense: 50
+  Rank: 897
+Attacks:
+  Ranged Space: 17/41
+  Direct Space: 19/31
+  Psychic: 50/25
+Cargo Space: 3
+Load aboard transport: YES
+Officer - Provides stack combat bonuses
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 1234
+Build Cost: 10182
+Build Resource Requirements:
+  Electronics: 7
+  Monopols: 40
+  Gems: 14
+S  ingularities: 3
+Upgrade Holy Super Dreadstar to Sathra Super Dreadstar at Church
+Time to Build / Upgrade: 1
+[39650] Technologies Required to Build Unit (63):
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [3835] Sathra's Space Doctrine (17)
+  [27875] PTS Meson Navalcraft (74)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

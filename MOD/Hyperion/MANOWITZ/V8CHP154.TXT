@@ -1,251 +1,477 @@
-All units of the unit class Airborne Warn. Aircraft are listed herein (6 in total):
+All units of the unit class Pathfinder are listed herein (11 in total):
 
 --1--
-Name: Airborne Warn. Aircraft
-Nick Name: AWACS
+Name: Pathfinder
+Nick Name: Pathfinder
 Scores & Strengths:
-  Tech Score: 835
-  Unit Score: 837
-  Average Score: 836
-  Stat Strength: 837
-  Total Strength: 837
-  Planet Strength: 837
-  Space Strength: 0
-  Garrison Strength: 252
+  Tech Score: 763
+  Unit Score: 763
+  Average Score: 763
+  Stat Strength: 656
+  Total Strength: 763
+  Planet Strength: 763
+  Space Strength: 721
+  Garrison Strength: 220
 Statistics:
-  Movement Type: air
-  Move Points: 11
-  Spot: 20
-  Camouflage: 4
-  Agility: 10
-  Armor: 10
-  Psy Defense: 10
-  Rank: 749
+  Movement Type: foot
+  Move Points: 12
+  Spot: 12
+  Camouflage: 12
+  Agility: 12
+  Armor: 4
+  Psy Defense: 8
+  Rank: 60
+Attacks:
+  Psychic: 13/5
+  Close: 6/7
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 14
-Build Cost: 141
+Upkeep / Maintenance: 26
+Build Cost: 247
 Build Resource Requirements:
-  Food: 15
-  Energy: 9
-  Metal: 96
-  Trace: 19
-  Exotica: 14
-  Chemicals: 10
-  Electronics: 22
-Build Airborne Warn. Aircraft in Factory
-Time to Build / Upgrade: 3
-[3275] Technologies Required to Build Unit (82):
-  [1465] Airborne-Pulse Radar (78)
-  [1810] Jet-Propulsion Aircraft (86)
+  Metal: 2
+  Trace: 13
+  Exotica: 13
+  Chemicals: 17
+  Biochems: 34
+  Electronics: 25
+  Gems: 12
+Upgrade Peasant to Pathfinder at Fort
+Time to Build / Upgrade: 2
+[2875] Technologies Required to Build Unit (89):
+  [2605] Biotechnical Simulation (77)
+  [145] Composite Armor (97)
+  [125] Parapsychology (94)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Airborne Warn. Aircraft II
-Nick Name: AWACS II
+Name: Vislock
+Nick Name: Vislock
 Scores & Strengths:
-  Tech Score: 1126
-  Unit Score: 1087
-  Average Score: 1107
-  Stat Strength: 1087
-  Total Strength: 1087
-  Planet Strength: 1087
-  Space Strength: 0
-  Garrison Strength: 301
+  Tech Score: 966
+  Unit Score: 963
+  Average Score: 965
+  Stat Strength: 657
+  Total Strength: 963
+  Planet Strength: 963
+  Space Strength: 963
+  Garrison Strength: 321
 Statistics:
-  Movement Type: air
-  Move Points: 13
-  Spot: 22
-  Camouflage: 5
-  Agility: 11
-  Armor: 12
-  Psy Defense: 12
-  Rank: 752
+  Movement Type: foot
+  Move Points: 9
+  Spot: 9
+  Camouflage: 9
+  Agility: 17
+  Armor: 5
+  Psy Defense: 10
+  Rank: 83
+Attacks:
+  Psychic: 18/17
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 17
-Build Cost: 170
+Upkeep / Maintenance: 44
+Build Cost: 368
 Build Resource Requirements:
-  Food: 15
-  Energy: 9
-  Metal: 126
-  Trace: 20
-  Exotica: 15
-  Chemicals: 11
-  Electronics: 25
-Build Airborne Warn. Aircraft II in Factory
+  Food: 22
+  Energy: 13
+  Metal: 13
+  Trace: 45
+  Exotica: 38
+  Chemicals: 39
+  Electronics: 64
+  Gems: 15
+Upgrade Clergy to Vislock at Church
 Time to Build / Upgrade: 3
-[4805] Technologies Required to Build Unit (82):
-  [1605] Imaging Radar (78)
-  [3200] Supersonic Aircraft (85)
+[3790] Technology Required to Build Unit (32):
+  [3790] Vislocks (32)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Airborne Warn. Aircraft III
-Nick Name: AWACS III
+Name: Occultist
+Nick Name: Occultist
 Scores & Strengths:
-  Tech Score: 1441
-  Unit Score: 1209
-  Average Score: 1325
-  Stat Strength: 1209
-  Total Strength: 1209
-  Planet Strength: 1209
-  Space Strength: 0
-  Garrison Strength: 323
+  Tech Score: 1015
+  Unit Score: 1014
+  Average Score: 1015
+  Stat Strength: 714
+  Total Strength: 1014
+  Planet Strength: 1014
+  Space Strength: 1014
+  Garrison Strength: 320
 Statistics:
-  Movement Type: air
-  Move Points: 14
-  Spot: 23
-  Camouflage: 5
-  Agility: 11
-  Armor: 13
-  Psy Defense: 13
-  Rank: 754
+  Movement Type: foot
+  Move Points: 10
+  Spot: 10
+  Camouflage: 10
+  Agility: 17
+  Armor: 5
+  Psy Defense: 10
+  Rank: 84
+Attacks:
+  Psychic: 20/15
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 16
-Build Cost: 159
+Upkeep / Maintenance: 41
+Build Cost: 335
 Build Resource Requirements:
-  Food: 11
-  Energy: 7
-  Metal: 148
-  Trace: 13
-  Exotica: 11
-  Chemicals: 10
-  Electronics: 20
-Build Airborne Warn. Aircraft III in Factory
+  Food: 26
+  Energy: 16
+  Metal: 13
+  Trace: 51
+  Exotica: 44
+  Chemicals: 42
+  Electronics: 72
+  Gems: 10
+Upgrade Clergy to Occultist at Church
 Time to Build / Upgrade: 3
-[7565] Technologies Required to Build Unit (79):
-  [1900] LASER (76)
-  [5665] Hypersonic Aircraft (82)
+[4050] Technology Required to Build Unit (48):
+  [4050] Occultists (48)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Airborne Warn. Aircraft IV
-Nick Name: AWACS IV
+Name: Reflector
+Nick Name: Reflector
 Scores & Strengths:
-  Tech Score: 1767
-  Unit Score: 1462
-  Average Score: 1614
-  Stat Strength: 1462
-  Total Strength: 1462
-  Planet Strength: 1462
-  Space Strength: 0
-  Garrison Strength: 365
+  Tech Score: 1186
+  Unit Score: 1184
+  Average Score: 1185
+  Stat Strength: 832
+  Total Strength: 1184
+  Planet Strength: 1184
+  Space Strength: 1184
+  Garrison Strength: 356
 Statistics:
-  Movement Type: air
-  Move Points: 16
-  Spot: 24
-  Camouflage: 6
-  Agility: 12
-  Armor: 15
-  Psy Defense: 15
-  Rank: 757
+  Movement Type: foot
+  Move Points: 11
+  Spot: 11
+  Camouflage: 11
+  Agility: 17
+  Armor: 6
+  Psy Defense: 12
+  Rank: 91
+Attacks:
+  Psychic: 22/16
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 11
-Build Cost: 108
+Upkeep / Maintenance: 44
+Build Cost: 368
 Build Resource Requirements:
-  Food: 10
-  Energy: 7
-  Metal: 7
-  Trace: 12
-  Exotica: 10
-  Chemicals: 13
-  Electronics: 19
-  Ceramsteel: 17
-Build Airborne Warn. Aircraft IV in Factory
-Time to Build / Upgrade: 2
-[9710] Technologies Required to Build Unit (80):
-  [2100] High-Power LASER (80)
-  [7610] Atmospheric Aircraft (80)
+  Food: 31
+  Energy: 18
+  Metal: 20
+  Trace: 57
+  Exotica: 51
+  Chemicals: 45
+  Electronics: 81
+  Gems: 10
+Upgrade Clergy to Reflector at Church
+Time to Build / Upgrade: 3
+[4980] Technology Required to Build Unit (41):
+  [4980] Psychic Turners (41)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Airborne Warn. Aircraft V
-Nick Name: AWACS V
+Name: Pyrokinetic
+Nick Name: Pyrokinetic
 Scores & Strengths:
-  Tech Score: 1946
-  Unit Score: 1544
-  Average Score: 1745
-  Stat Strength: 1544
-  Total Strength: 1544
-  Planet Strength: 1544
-  Space Strength: 0
-  Garrison Strength: 374
+  Tech Score: 1186
+  Unit Score: 1186
+  Average Score: 1186
+  Stat Strength: 749
+  Total Strength: 1186
+  Planet Strength: 1186
+  Space Strength: 1186
+  Garrison Strength: 375
 Statistics:
-  Movement Type: air
-  Move Points: 17
-  Spot: 25
-  Camouflage: 6
-  Agility: 12
-  Armor: 15
-  Psy Defense: 15
-  Rank: 758
+  Movement Type: foot
+  Move Points: 10
+  Spot: 10
+  Camouflage: 10
+  Agility: 18
+  Armor: 5
+  Psy Defense: 10
+  Rank: 96
+Attacks:
+  Psychic: 23/19
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 11
-Build Cost: 106
+Upkeep / Maintenance: 50
+Build Cost: 425
 Build Resource Requirements:
-  Food: 9
-  Energy: 7
-  Metal: 7
-  Trace: 11
-  Exotica: 9
-  Chemicals: 13
-  Electronics: 18
-  Ceramsteel: 17
-Build Airborne Warn. Aircraft V in Factory
-Time to Build / Upgrade: 2
-[11510] Technologies Required to Build Unit (80):
-  [2990] Adaptive Optics (81)
-  [8520] Advanced Atmospheric Aircraft (79)
+  Food: 29
+  Energy: 18
+  Metal: 13
+  Trace: 53
+  Exotica: 48
+  Chemicals: 45
+  Electronics: 76
+  Gems: 15
+Upgrade Clergy to Pyrokinetic at Church
+Time to Build / Upgrade: 3
+[4980] Technology Required to Build Unit (39):
+  [4980] Pyrokinetics (39)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Airborne Warn. Aircraft VI
-Nick Name: AWACS VI
+Name: Cryokinetic
+Nick Name: Cryokinetic
 Scores & Strengths:
-  Tech Score: 2770
-  Unit Score: 1995
-  Average Score: 2383
-  Stat Strength: 1995
-  Total Strength: 1995
-  Planet Strength: 1995
-  Space Strength: 0
-  Garrison Strength: 446
+  Tech Score: 1186
+  Unit Score: 1189
+  Average Score: 1187
+  Stat Strength: 757
+  Total Strength: 1189
+  Planet Strength: 1189
+  Space Strength: 1189
+  Garrison Strength: 420
 Statistics:
-  Movement Type: air
-  Move Points: 20
-  Spot: 27
-  Camouflage: 7
-  Agility: 13
-  Armor: 18
-  Psy Defense: 18
-  Rank: 765
+  Movement Type: foot
+  Move Points: 8
+  Spot: 10
+  Camouflage: 12
+  Agility: 18
+  Armor: 5
+  Psy Defense: 10
+  Rank: 96
+Attacks:
+  Psychic: 24/18
 Load aboard transport: YES
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 52
-Build Cost: 518
+Upkeep / Maintenance: 47
+Build Cost: 401
 Build Resource Requirements:
-  Food: 8
-  Energy: 4
-  Metal: 3
-  Trace: 11
-  Exotica: 8
-  Chemicals: 8
-  Electronics: 22
-  Ceramsteel: 7
-  Monopols: 14
-Build Airborne Warn. Aircraft VI in Factory
+  Food: 25
+  Energy: 14
+  Metal: 13
+  Trace: 62
+  Exotica: 42
+  Chemicals: 40
+  Electronics: 88
+  Gems: 13
+Upgrade Clergy to Cryokinetic at Church
+Time to Build / Upgrade: 3
+[4980] Technology Required to Build Unit (31):
+  [4980] Cryokinetics (31)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Wraith
+Nick Name: Wraith
+Scores & Strengths:
+  Tech Score: 1241
+  Unit Score: 1241
+  Average Score: 1241
+  Stat Strength: 1016
+  Total Strength: 1241
+  Planet Strength: 1241
+  Space Strength: 1241
+  Garrison Strength: 392
+Statistics:
+  Movement Type: foot
+  Move Points: 10
+  Spot: 12
+  Camouflage: 16
+  Agility: 14
+  Armor: 8
+  Psy Defense: 16
+  Rank: 753
+Attacks:
+  Psychic: 15/15
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 81
+Build Cost: 732
+Build Resource Requirements:
+  Food: 24
+  Energy: 9
+  Metal: 37
+  Trace: 78
+  Exotica: 41
+  Chemicals: 34
+  Electronics: 112
+  Gems: 7
+Upgrade Clergy to Wraith at Church
+Time to Build / Upgrade: 3
+[5290] Technology Required to Build Unit (29):
+  [5290] Wraiths (29)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Electrokinetic
+Nick Name: E-Kinetic
+Scores & Strengths:
+  Tech Score: 1326
+  Unit Score: 1324
+  Average Score: 1325
+  Stat Strength: 849
+  Total Strength: 1324
+  Planet Strength: 1324
+  Space Strength: 1324
+  Garrison Strength: 399
+Statistics:
+  Movement Type: foot
+  Move Points: 11
+  Spot: 11
+  Camouflage: 11
+  Agility: 19
+  Armor: 5
+  Psy Defense: 10
+  Rank: 101
+Attacks:
+  Psychic: 19/25
+Load aboard transport: YES
+Upkeep / Maintenance: 50
+Build Cost: 426
+Build Resource Requirements:
+  Food: 5
+  Energy: 2
+  Metal: 12
+  Trace: 9
+  Exotica: 14
+  Chemicals: 25
+  Electronics: 26
+  Gems: 25
+Upgrade Clergy to Electrokinetic at Church
 Time to Build / Upgrade: 2
-[19220] Technologies Required to Build Unit (79):
-  [3780] Beam Control (79)
-  [15440] Power Aircraft (79)
+[5780] Technology Required to Build Unit (20):
+  [5780] Electrokinetics (20)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Cyber Mage
+Nick Name: Cyber Mage
+Scores & Strengths:
+  Tech Score: 1819
+  Unit Score: 1820
+  Average Score: 1819
+  Stat Strength: 1199
+  Total Strength: 1820
+  Planet Strength: 1820
+  Space Strength: 1820
+  Garrison Strength: 486
+Statistics:
+  Movement Type: foot
+  Move Points: 14
+  Spot: 11
+  Camouflage: 11
+  Agility: 21
+  Armor: 8
+  Psy Defense: 16
+  Rank: 782
+Attacks:
+  Psychic: 27/23
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 110
+Build Cost: 1029
+Build Resource Requirements:
+  Metal: 8
+  Trace: 10
+  Chemicals: 25
+  Electronics: 23
+  Ceramsteel: 14
+  Gems: 30
+Upgrade Clergy to Cyber Mage at Fort
+Time to Build / Upgrade: 2
+[9215] Technologies Required to Build Unit (48):
+  [3790] Vislocks (32)
+  [5425] Cybernetics (63)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Warlock
+Nick Name: Warlock
+Scores & Strengths:
+  Tech Score: 2660
+  Unit Score: 2659
+  Average Score: 2660
+  Stat Strength: 2259
+  Total Strength: 2659
+  Planet Strength: 2659
+  Space Strength: 2659
+  Garrison Strength: 610
+Statistics:
+  Movement Type: foot
+  Move Points: 19
+  Spot: 19
+  Camouflage: 19
+  Agility: 26
+  Armor: 10
+  Psy Defense: 20
+  Rank: 787
+Attacks:
+  Psychic: 20/20
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 62
+Build Cost: 548
+Build Resource Requirements:
+  Metal: 4
+  Trace: 16
+  Chemicals: 8
+  Biochems: 41
+  Electronics: 38
+  Gems: 5
+Upgrade Clergy to Warlock at Church
+Time to Build / Upgrade: 2
+[14630] Technology Required to Build Unit (7):
+  [14630] Warlocks (7)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Mechanized Demon
+Nick Name: Mech. Demon
+Scores & Strengths:
+  Tech Score: 3924
+  Unit Score: 3596
+  Average Score: 3760
+  Stat Strength: 3029
+  Total Strength: 3596
+  Planet Strength: 3596
+  Space Strength: 3596
+  Garrison Strength: 784
+Statistics:
+  Movement Type: foot
+  Move Points: 21
+  Spot: 22
+  Camouflage: 22
+  Agility: 30
+  Armor: 12
+  Psy Defense: 24
+  Rank: 809
+Attacks:
+  Psychic: 21/27
+Load aboard transport: YES
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 123
+Build Cost: 1158
+Build Resource Requirements:
+  Metal: 1
+  Trace: 9
+  Chemicals: 10
+  Biochems: 16
+  Electronics: 20
+  Ceramsteel: 4
+  Monopols: 14
+  Gems: 7
+Upgrade Clergy to Mechanized Demon at Church
+Time to Build / Upgrade: 2
+[24560] Technology Required to Build Unit (3):
+  [24560] Mechanized Demons (3)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

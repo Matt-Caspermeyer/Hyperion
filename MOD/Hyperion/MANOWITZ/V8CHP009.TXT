@@ -1,124 +1,87 @@
-All units of the unit class Engineer are listed herein (3 in total):
+All units of the unit class Barrage Balloon are listed herein (2 in total):
 
 --1--
-Name: Engineer
-Nick Name: Engineer
+Name: Barrage Balloon
+Nick Name: A-BB
 Scores & Strengths:
-  Tech Score: 68
-  Unit Score: 43
-  Average Score: 55
-  Stat Strength: 43
-  Total Strength: 43
-  Planet Strength: 43
+  Tech Score: 38
+  Unit Score: 38
+  Average Score: 38
+  Stat Strength: 32
+  Total Strength: 38
+  Planet Strength: 38
   Space Strength: 0
-  Garrison Strength: 17
+  Garrison Strength: 47
 Statistics:
-  Movement Type: foot
-  Move Points: 6
-  Spot: 1
+  Movement Type: air
+  Move Points: 0
+  Spot: 0
   Camouflage: 0
-  Agility: 1
-  Armor: 2
-  Psy Defense: 1
-  Rank: 251
+  Agility: 0
+  Armor: 4
+  Psy Defense: 4
+  Rank: 11
+Attacks:
+  Air: 2/3
 Load aboard transport: YES
-Builds (and Razes) Cities and Roads
-Upkeep / Maintenance: 46
-Build Cost: 439
+Never needs refueling
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 6
+Build Cost: 64
 Build Resource Requirements:
-  Food: 90
-  Energy: 94
-  Metal: 202
-  Trace: 75
-  Exotica: 13
-  Chemicals: 43
-  Electronics: 25
-Upgrade Peasant to Engineer at Any building
-Time to Build / Upgrade: 3
-[110] Technology Required to Build Unit (99):
-  [110] Structural Engineering (99)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 9
+  Energy: 24
+  Metal: 54
+Build Barrage Balloon in Factory
+Time to Build / Upgrade: 2
+[50] Technology Required to Build Unit (100):
+  [50] Applied Technology (100)
 Unit can be disbanded: YES
 
 --2--
-Name: Seabees
-Nick Name: Seabees
+Name: Anti-Aircraft Balloon
+Nick Name: AA Balloon
 Scores & Strengths:
-  Tech Score: 435
-  Unit Score: 434
-  Average Score: 435
-  Stat Strength: 185
-  Total Strength: 434
-  Planet Strength: 434
+  Tech Score: 106
+  Unit Score: 106
+  Average Score: 106
+  Stat Strength: 78
+  Total Strength: 106
+  Planet Strength: 106
   Space Strength: 0
-  Garrison Strength: 125
+  Garrison Strength: 74
 Statistics:
-  Movement Type: foot
-  Move Points: 12
-  Spot: 2
-  Camouflage: 1
+  Movement Type: air
+  Move Points: 2
+  Spot: 4
+  Camouflage: 2
   Agility: 2
-  Armor: 4
-  Psy Defense: 4
-  Rank: 297
+  Armor: 5
+  Psy Defense: 5
+  Rank: 24
 Attacks:
-  Indirect: 12/9
-  Direct: 11/7
-  Close: 8/8
+  Air: 4/7
 Load aboard transport: YES
-Builds (and Razes) Cities and Roads
-Upkeep / Maintenance: 11
+Never needs refueling
+Can be towed
+Upkeep / Maintenance: 4
+Build Cost: 38
 Build Resource Requirements:
-Upgrade Engineer to Seabees at Fort
-Time to Build / Upgrade: 1
-[1495] Technologies Required to Build Unit (93):
-  [1195] Naval Warfare (90)
-  [300] Mechanized Warfare (95)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---3--
-Name: Demolition Team
-Nick Name: Demolisher
-Scores & Strengths:
-  Tech Score: 3743
-  Unit Score: 3748
-  Average Score: 3746
-  Stat Strength: 1500
-  Total Strength: 3748
-  Planet Strength: 3748
-  Space Strength: 0
-  Garrison Strength: 765
-Statistics:
-  Movement Type: foot
-  Move Points: 24
-  Spot: 12
-  Camouflage: 16
-  Agility: 18
-  Armor: 10
-  Psy Defense: 10
-  Rank: 362
-Attacks:
-  Indirect: 22/50
-  Direct: 18/32
-  Close: 22/26
-Load aboard transport: YES
-Builds (and Razes) Cities and Roads
-Upkeep / Maintenance: 268
-Build Cost: 2683
-Build Resource Requirements:
-  Energy: 2
-  Chemicals: 15
-  Biochems: 22
-  Ceramsteel: 1
-  Wetware: 7
-  Monopols: 37
-Upgrade Seabees to Demolition Team at Fort
-Time to Build / Upgrade: 3
-[23065] Technology Required to Build Unit (34):
-  [23065] Demolition (34)
+  Food: 4
+  Energy: 13
+  Metal: 21
+  Trace: 10
+  Exotica: 3
+  Chemicals: 12
+Build Anti-Aircraft Balloon in Factory
+Time to Build / Upgrade: 2
+[350] Technologies Required to Build Unit (97):
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [60] Aerial Reconnaissance (97)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

@@ -1,258 +1,253 @@
-All units of the unit class Sonobuoy are listed herein (6 in total):
+All units of the unit class Space Scout Rocket are listed herein (6 in total):
 
 --1--
-Name: Sonobuoy
-Nick Name: Sonobuoy
+Name: Space Scout Rocket
+Nick Name: S-SR
 Scores & Strengths:
-  Tech Score: 326
-  Unit Score: 320
-  Average Score: 323
-  Stat Strength: 320
-  Total Strength: 320
-  Planet Strength: 320
+  Tech Score: 327
+  Unit Score: 316
+  Average Score: 322
+  Stat Strength: 316
+  Total Strength: 316
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 400
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
+  Movement Type: space
+  Move Points: 2
   Spot: 12
-  Camouflage: 12
-  Agility: 0
+  Camouflage: 10
+  Agility: 6
   Armor: 4
   Psy Defense: 4
-  Rank: 3
+  Rank: 29
 Load aboard transport: YES
-Can be towed
-Upkeep / Maintenance: 23
-Build Cost: 229
+Upkeep / Maintenance: 16
+Build Cost: 159
 Build Resource Requirements:
-  Food: 13
-  Energy: 1
-  Metal: 32
-  Trace: 28
-  Exotica: 12
-  Chemicals: 1
-  Electronics: 46
-Build Sonobuoy in Well
+  Food: 17
+  Energy: 3
+  Metal: 19
+  Trace: 48
+  Exotica: 17
+  Chemicals: 4
+  Electronics: 33
+Build Space Scout Rocket in Chemical Plant
 Time to Build / Upgrade: 2
-[890] Technology Required to Build Unit (86):
-  [890] Sonobouy (86)
+[895] Technology Required to Build Unit (90):
+  [895] Space Rocketry (90)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Sonobuoy II
-Nick Name: Sonobuoy II
+Name: Space Capsule
+Nick Name: S-C
 Scores & Strengths:
-  Tech Score: 613
-  Unit Score: 502
-  Average Score: 557
-  Stat Strength: 502
-  Total Strength: 502
-  Planet Strength: 502
+  Tech Score: 327
+  Unit Score: 326
+  Average Score: 327
+  Stat Strength: 326
+  Total Strength: 326
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 627
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 14
-  Camouflage: 16
-  Agility: 0
-  Armor: 5
-  Psy Defense: 5
-  Rank: 6
+  Movement Type: space
+  Move Points: 1
+  Spot: 10
+  Camouflage: 3
+  Agility: 4
+  Armor: 10
+  Psy Defense: 10
+  Rank: 29
+Cargo Space: 1
 Load aboard transport: YES
-Can be towed
-Immune to Plague
-Upkeep / Maintenance: 15
-Build Cost: 145
+Upkeep / Maintenance: 16
+Build Cost: 164
 Build Resource Requirements:
-  Food: 5
-  Metal: 5
-  Trace: 17
-  Exotica: 5
-  Biochems: 4
-  Electronics: 20
-Build Sonobuoy II in Well
-Time to Build / Upgrade: 1
-[3965] Technologies Required to Build Unit (85):
-  [1130] Medical Sensing (85)
-  [890] Sonobouy (86)
-  [385] Phased-Array Radar (84)
-  [1560] Naval Patrol Ships (86)
+  Food: 13
+  Energy: 3
+  Metal: 119
+  Trace: 23
+  Exotica: 12
+  Chemicals: 4
+  Electronics: 15
+Build Space Capsule in Chemical Plant
+Time to Build / Upgrade: 3
+[895] Technology Required to Build Unit (90):
+  [895] Space Rocketry (90)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Sonobuoy III
-Nick Name: Sonobuoy III
+Name: Space Rocket
+Nick Name: S-R
 Scores & Strengths:
-  Tech Score: 948
-  Unit Score: 754
-  Average Score: 851
-  Stat Strength: 754
-  Total Strength: 754
-  Planet Strength: 754
-  Space Strength: 0
-  Garrison Strength: 942
+  Tech Score: 327
+  Unit Score: 326
+  Average Score: 327
+  Stat Strength: 224
+  Total Strength: 326
+  Planet Strength: 0
+  Space Strength: 326
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 16
-  Camouflage: 20
-  Agility: 0
+  Movement Type: space
+  Move Points: 1
+  Spot: 10
+  Camouflage: 3
+  Agility: 4
   Armor: 7
   Psy Defense: 7
-  Rank: 9
+  Rank: 34
+Attacks:
+  Ranged Space: 6/17
 Load aboard transport: YES
-Can be towed
+Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 17
-Build Cost: 165
+Destroyed after combat
+Upkeep / Maintenance: 4
+Build Cost: 38
 Build Resource Requirements:
-  Food: 4
-  Metal: 8
-  Trace: 19
-  Exotica: 4
-  Biochems: 4
-  Electronics: 22
-Build Sonobuoy III in Well
-Time to Build / Upgrade: 2
-[6315] Technologies Required to Build Unit (82):
-  [1690] Computerized Medical Imaging (76)
-  [890] Sonobouy (86)
-  [1465] Airborne-Pulse Radar (78)
-  [2270] Naval Escort Ships (86)
+  Food: 12
+  Energy: 37
+  Metal: 58
+  Trace: 28
+  Exotica: 12
+  Chemicals: 49
+  Electronics: 19
+Build Space Rocket in Chemical Plant
+Time to Build / Upgrade: 3
+[895] Technology Required to Build Unit (90):
+  [895] Space Rocketry (90)
 Unit can be disbanded: YES
 
 --4--
-Name: Sonobuoy IV
-Nick Name: Sonobuoy IV
+Name: Jump Scout Rocket
+Nick Name: J-SR
 Scores & Strengths:
-  Tech Score: 1437
-  Unit Score: 1042
-  Average Score: 1239
-  Stat Strength: 1042
-  Total Strength: 1042
-  Planet Strength: 1042
+  Tech Score: 417
+  Unit Score: 412
+  Average Score: 414
+  Stat Strength: 412
+  Total Strength: 412
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 1302
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 17
-  Camouflage: 25
-  Agility: 0
-  Armor: 8
-  Psy Defense: 8
-  Rank: 12
+  Movement Type: jump
+  Move Points: 2
+  Spot: 14
+  Camouflage: 12
+  Agility: 6
+  Armor: 4
+  Psy Defense: 4
+  Rank: 33
 Load aboard transport: YES
-Can be towed
-Immune to Plague
-Upkeep / Maintenance: 16
-Build Cost: 160
+Upkeep / Maintenance: 81
+Build Cost: 806
 Build Resource Requirements:
-  Food: 3
-  Metal: 6
-  Trace: 15
-  Exotica: 3
-  Chemicals: 1
-  Biochems: 2
-  Electronics: 20
-  Ceramsteel: 5
-Build Sonobuoy IV in Well
-Time to Build / Upgrade: 2
-[12480] Technologies Required to Build Unit (78):
-  [1845] Deep Tissue Imaging (72)
-  [1845] Computational Microscopy (67)
-  [890] Sonobouy (86)
-  [1605] Imaging Radar (78)
-  [3570] Robotics (76)
-  [2725] Naval Capital Ships (88)
+  Food: 19
+  Energy: 2
+  Metal: 13
+  Trace: 55
+  Exotica: 19
+  Chemicals: 3
+  Electronics: 46
+  Gems: 1
+S  ingularities: 2
+Build Jump Scout Rocket in Chemical Plant
+Time to Build / Upgrade: 3
+[1235] Technology Required to Build Unit (76):
+  [1235] Jump Rocketry (76)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Sonobuoy V
-Nick Name: Sonobuoy V
+Name: Jump Capsule
+Nick Name: J-C
 Scores & Strengths:
-  Tech Score: 1903
-  Unit Score: 1402
-  Average Score: 1653
-  Stat Strength: 1402
-  Total Strength: 1402
-  Planet Strength: 1402
+  Tech Score: 417
+  Unit Score: 415
+  Average Score: 416
+  Stat Strength: 415
+  Total Strength: 415
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 1752
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 19
-  Camouflage: 29
-  Agility: 0
-  Armor: 10
-  Psy Defense: 10
-  Rank: 17
+  Movement Type: jump
+  Move Points: 2
+  Spot: 12
+  Camouflage: 3
+  Agility: 4
+  Armor: 11
+  Psy Defense: 11
+  Rank: 31
+Cargo Space: 1
 Load aboard transport: YES
-Can be towed
-Immune to Plague
-Upkeep / Maintenance: 24
-Build Cost: 241
+Upkeep / Maintenance: 105
+Build Cost: 1054
 Build Resource Requirements:
-  Food: 4
-  Metal: 9
-  Trace: 21
-  Exotica: 4
-  Chemicals: 2
-  Biochems: 3
-  Electronics: 28
-  Ceramsteel: 8
-Build Sonobuoy V in Well
-Time to Build / Upgrade: 2
-[12600] Technologies Required to Build Unit (79):
-  [6490] Real-Time Medical Imaging (65)
-  [890] Sonobouy (86)
-  [1605] Imaging Radar (78)
-  [3615] Submarine Warfare (87)
+  Food: 15
+  Energy: 2
+  Metal: 101
+  Trace: 25
+  Exotica: 14
+  Chemicals: 3
+  Electronics: 20
+  Gems: 1
+S  ingularities: 2
+Build Jump Capsule in Chemical Plant
+Time to Build / Upgrade: 3
+[1235] Technology Required to Build Unit (76):
+  [1235] Jump Rocketry (76)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Sonobuoy VI
-Nick Name: Sonobuoy VI
+Name: Jump Rocket
+Nick Name: J-R
 Scores & Strengths:
-  Tech Score: 2352
-  Unit Score: 1666
-  Average Score: 2009
-  Stat Strength: 1666
-  Total Strength: 1666
-  Planet Strength: 1666
-  Space Strength: 0
-  Garrison Strength: 2082
+  Tech Score: 417
+  Unit Score: 415
+  Average Score: 416
+  Stat Strength: 263
+  Total Strength: 415
+  Planet Strength: 0
+  Space Strength: 415
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 20
-  Camouflage: 32
-  Agility: 0
-  Armor: 11
-  Psy Defense: 11
-  Rank: 20
+  Movement Type: jump
+  Move Points: 1
+  Spot: 10
+  Camouflage: 3
+  Agility: 5
+  Armor: 8
+  Psy Defense: 8
+  Rank: 43
+Attacks:
+  Ranged Space: 8/19
 Load aboard transport: YES
-Can be towed
+Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 20
-Build Cost: 199
+Destroyed after combat
+Upkeep / Maintenance: 14
+Build Cost: 138
 Build Resource Requirements:
-  Food: 3
-  Metal: 5
-  Trace: 17
-  Exotica: 3
-  Chemicals: 1
-  Biochems: 2
-  Electronics: 25
-  Ceramsteel: 6
-Build Sonobuoy VI in Well
-Time to Build / Upgrade: 2
-[18360] Technologies Required to Build Unit (79):
-  [6490] Real-Time Medical Imaging (65)
-  [890] Sonobouy (86)
-  [3780] Beam Control (79)
-  [7200] Air-Independent Propulsion (85)
+  Food: 11
+  Energy: 45
+  Metal: 53
+  Trace: 28
+  Exotica: 10
+  Chemicals: 61
+  Electronics: 23
+  Gems: 1
+S  ingularities: 1
+Build Jump Rocket in Chemical Plant
+Time to Build / Upgrade: 3
+[1235] Technology Required to Build Unit (76):
+  [1235] Jump Rocketry (76)
 Unit can be disbanded: YES

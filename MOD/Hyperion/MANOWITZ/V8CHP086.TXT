@@ -1,29 +1,28 @@
-All units of the unit class Anti-Tank (AT) Rocket are listed herein (12 in total):
+All units of the unit class Surface-Surface (S-S) Rock. are listed herein (12 in total):
 
 --1--
-Name: Anti-Tank (AT) Rocket
-Nick Name: AT-R
+Name: Surface-Surface (S-S) Rock.
+Nick Name: S-S-R
 Scores & Strengths:
-  Tech Score: 285
-  Unit Score: 285
-  Average Score: 285
-  Stat Strength: 183
-  Total Strength: 285
-  Planet Strength: 285
+  Tech Score: 272
+  Unit Score: 272
+  Average Score: 272
+  Stat Strength: 152
+  Total Strength: 272
+  Planet Strength: 272
   Space Strength: 0
-  Garrison Strength: 285
+  Garrison Strength: 272
 Statistics:
   Movement Type: air
   Move Points: 1
   Spot: 0
-  Camouflage: 6
-  Agility: 12
+  Camouflage: 7
+  Agility: 10
   Armor: 1
   Psy Defense: 1
-  Rank: 20
+  Rank: 21
 Attacks:
-  Indirect: 3/20
-  Direct: 3/14
+  Indirect: 6/20
 Load aboard transport: YES
 Never Rebels
 Never Retreats
@@ -32,44 +31,42 @@ Destroyed after combat
 Upkeep / Maintenance: 2
 Build Cost: 18
 Build Resource Requirements:
-  Food: 6
-  Energy: 67
+  Food: 5
+  Energy: 60
   Metal: 1
-  Trace: 17
-  Exotica: 6
-  Chemicals: 84
-  Electronics: 10
-Build Anti-Tank (AT) Rocket in Chemical Plant
+  Trace: 25
+  Exotica: 5
+  Chemicals: 78
+  Electronics: 13
+Build Surface-Surface (S-S) Rock. in Chemical Plant
 Time to Build / Upgrade: 3
-[1000] Technologies Required to Build Unit (93):
+[700] Technology Required to Build Unit (90):
   [700] Rockets (90)
-  [300] Mechanized Warfare (95)
 Unit can be disbanded: YES
 
 --2--
-Name: AT Missile
-Nick Name: AT-M
+Name: S-S Missile
+Nick Name: S-S-M
 Scores & Strengths:
-  Tech Score: 312
-  Unit Score: 312
-  Average Score: 312
-  Stat Strength: 224
-  Total Strength: 312
-  Planet Strength: 312
+  Tech Score: 299
+  Unit Score: 299
+  Average Score: 299
+  Stat Strength: 203
+  Total Strength: 299
+  Planet Strength: 299
   Space Strength: 0
-  Garrison Strength: 220
+  Garrison Strength: 149
 Statistics:
   Movement Type: air
-  Move Points: 2
+  Move Points: 4
   Spot: 0
-  Camouflage: 7
-  Agility: 13
+  Camouflage: 8
+  Agility: 11
   Armor: 1
   Psy Defense: 1
-  Rank: 17
+  Rank: 19
 Attacks:
-  Indirect: 4/12
-  Direct: 4/10
+  Indirect: 8/12
 Load aboard transport: YES
 Never Rebels
 Never Retreats
@@ -79,76 +76,30 @@ Upkeep / Maintenance: 1
 Build Cost: 12
 Build Resource Requirements:
   Food: 7
-  Energy: 31
+  Energy: 26
   Metal: 1
-  Trace: 21
+  Trace: 31
   Exotica: 7
-  Chemicals: 40
-  Electronics: 11
-Build AT Missile in Chemical Plant
+  Chemicals: 35
+  Electronics: 14
+Build S-S Missile in Chemical Plant
 Time to Build / Upgrade: 2
-[1095] Technologies Required to Build Unit (91):
-  [300] Mechanized Warfare (95)
+[795] Technology Required to Build Unit (86):
   [795] Missiles (86)
 Unit can be disbanded: YES
 
 --3--
-Name: Anti-Aircraft (AA) Rocket
-Nick Name: AA-R
+Name: Air-Surface (A-S) Rocket
+Nick Name: A-S-R
 Scores & Strengths:
   Tech Score: 534
   Unit Score: 534
   Average Score: 534
-  Stat Strength: 406
+  Stat Strength: 426
   Total Strength: 534
   Planet Strength: 534
   Space Strength: 0
-  Garrison Strength: 267
-Statistics:
-  Movement Type: air
-  Move Points: 4
-  Spot: 0
-  Camouflage: 8
-  Agility: 18
-  Armor: 1
-  Psy Defense: 1
-  Rank: 79
-Attacks:
-  Air: 8/16
-Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 10
-Build Resource Requirements:
-  Food: 6
-  Energy: 25
-  Metal: 1
-  Trace: 22
-  Exotica: 6
-  Chemicals: 26
-  Electronics: 14
-Build Anti-Aircraft (AA) Rocket in Chemical Plant
-Time to Build / Upgrade: 2
-[2100] Technologies Required to Build Unit (89):
-  [700] Rockets (90)
-  [1400] Aerial Warfare (87)
-Unit can be disbanded: YES
-
---4--
-Name: AA Missile
-Nick Name: AA-M
-Scores & Strengths:
-  Tech Score: 556
-  Unit Score: 556
-  Average Score: 556
-  Stat Strength: 426
-  Total Strength: 556
-  Planet Strength: 556
-  Space Strength: 0
-  Garrison Strength: 226
+  Garrison Strength: 218
 Statistics:
   Movement Type: air
   Move Points: 6
@@ -157,9 +108,54 @@ Statistics:
   Agility: 18
   Armor: 1
   Psy Defense: 1
-  Rank: 79
+  Rank: 26
 Attacks:
-  Air: 10/13
+  Indirect: 4/27
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 15
+Build Resource Requirements:
+  Food: 7
+  Energy: 51
+  Metal: 1
+  Trace: 18
+  Exotica: 7
+  Chemicals: 54
+  Electronics: 10
+Build Air-Surface (A-S) Rocket in Chemical Plant
+Time to Build / Upgrade: 3
+[2100] Technologies Required to Build Unit (89):
+  [700] Rockets (90)
+  [1400] Aerial Warfare (87)
+Unit can be disbanded: YES
+
+--4--
+Name: A-S Missile
+Nick Name: A-S-M
+Scores & Strengths:
+  Tech Score: 556
+  Unit Score: 558
+  Average Score: 557
+  Stat Strength: 439
+  Total Strength: 558
+  Planet Strength: 558
+  Space Strength: 0
+  Garrison Strength: 210
+Statistics:
+  Movement Type: air
+  Move Points: 7
+  Spot: 0
+  Camouflage: 8
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 28
+Attacks:
+  Indirect: 7/17
 Load aboard transport: YES
 Never Rebels
 Never Retreats
@@ -169,13 +165,13 @@ Upkeep / Maintenance: 1
 Build Cost: 10
 Build Resource Requirements:
   Food: 7
-  Energy: 20
+  Energy: 27
   Metal: 1
-  Trace: 24
+  Trace: 20
   Exotica: 7
-  Chemicals: 22
-  Electronics: 15
-Build AA Missile in Chemical Plant
+  Chemicals: 29
+  Electronics: 10
+Build A-S Missile in Chemical Plant
 Time to Build / Upgrade: 2
 [2195] Technologies Required to Build Unit (87):
   [1400] Aerial Warfare (87)
@@ -183,28 +179,346 @@ Time to Build / Upgrade: 2
 Unit can be disbanded: YES
 
 --5--
-Name: AA Guided Missile
-Nick Name: AA-GM
+Name: S-S Guided Missile
+Nick Name: S-S-GM
 Scores & Strengths:
-  Tech Score: 1041
-  Unit Score: 1042
-  Average Score: 1041
-  Stat Strength: 782
-  Total Strength: 1042
-  Planet Strength: 1042
+  Tech Score: 1004
+  Unit Score: 1004
+  Average Score: 1004
+  Stat Strength: 458
+  Total Strength: 1004
+  Planet Strength: 1004
   Space Strength: 0
-  Garrison Strength: 278
+  Garrison Strength: 317
 Statistics:
   Movement Type: air
-  Move Points: 14
+  Move Points: 10
   Spot: 0
   Camouflage: 10
-  Agility: 22
+  Agility: 16
   Armor: 1
   Psy Defense: 1
-  Rank: 93
+  Rank: 64
 Attacks:
-  Air: 20/13
+  Indirect: 26/21
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
+Build Resource Requirements:
+  Food: 4
+  Energy: 23
+  Metal: 1
+  Trace: 27
+  Exotica: 4
+  Chemicals: 28
+  Electronics: 9
+Build S-S Guided Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[4935] Technologies Required to Build Unit (83):
+  [1255] Digital Fly-by-Wire (81)
+  [3680] Supersonic Missiles (84)
+Unit can be disbanded: YES
+
+--6--
+Name: A-S Guided Missile
+Nick Name: A-S-GM
+Scores & Strengths:
+  Tech Score: 1041
+  Unit Score: 1043
+  Average Score: 1042
+  Stat Strength: 530
+  Total Strength: 1043
+  Planet Strength: 1043
+  Space Strength: 0
+  Garrison Strength: 368
+Statistics:
+  Movement Type: air
+  Move Points: 8
+  Spot: 0
+  Camouflage: 8
+  Agility: 20
+  Armor: 1
+  Psy Defense: 1
+  Rank: 63
+Attacks:
+  Indirect: 27/19
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 8
+Build Resource Requirements:
+  Food: 3
+  Energy: 15
+  Metal: 1
+  Trace: 22
+  Exotica: 3
+  Chemicals: 18
+  Electronics: 8
+Build A-S Guided Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[7355] Technologies Required to Build Unit (84):
+  [1255] Digital Fly-by-Wire (81)
+  [2420] Rocket-Propelled Aircraft (87)
+  [3680] Supersonic Missiles (84)
+Unit can be disbanded: YES
+
+--7--
+Name: S-S Supercruise Missile
+Nick Name: S-S-ScGM
+Scores & Strengths:
+  Tech Score: 1174
+  Unit Score: 1177
+  Average Score: 1176
+  Stat Strength: 533
+  Total Strength: 1177
+  Planet Strength: 1177
+  Space Strength: 0
+  Garrison Strength: 354
+Statistics:
+  Movement Type: air
+  Move Points: 11
+  Spot: 0
+  Camouflage: 11
+  Agility: 17
+  Armor: 1
+  Psy Defense: 1
+  Rank: 71
+Attacks:
+  Indirect: 28/23
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
+Build Resource Requirements:
+  Food: 4
+  Energy: 22
+  Metal: 1
+  Trace: 27
+  Exotica: 4
+  Chemicals: 29
+  Electronics: 10
+Build S-S Supercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[5860] Technologies Required to Build Unit (80):
+  [1690] Fly-by-Wireless (76)
+  [4170] Supercruise Missiles (84)
+Unit can be disbanded: YES
+
+--8--
+Name: A-S Supercruise Missile
+Nick Name: A-S-ScGM
+Scores & Strengths:
+  Tech Score: 1247
+  Unit Score: 1235
+  Average Score: 1241
+  Stat Strength: 605
+  Total Strength: 1235
+  Planet Strength: 1235
+  Space Strength: 0
+  Garrison Strength: 411
+Statistics:
+  Movement Type: air
+  Move Points: 9
+  Spot: 0
+  Camouflage: 9
+  Agility: 21
+  Armor: 1
+  Psy Defense: 1
+  Rank: 71
+Attacks:
+  Indirect: 30/21
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 8
+Build Resource Requirements:
+  Food: 3
+  Energy: 15
+  Metal: 1
+  Trace: 24
+  Exotica: 3
+  Chemicals: 19
+  Electronics: 8
+Build A-S Supercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[9060] Technologies Required to Build Unit (82):
+  [1690] Fly-by-Wireless (76)
+  [3200] Supersonic Aircraft (85)
+  [4170] Supercruise Missiles (84)
+Unit can be disbanded: YES
+
+--9--
+Name: S-S Hypersonic Missile
+Nick Name: S-S-HsGM
+Scores & Strengths:
+  Tech Score: 1587
+  Unit Score: 1522
+  Average Score: 1554
+  Stat Strength: 664
+  Total Strength: 1522
+  Planet Strength: 1522
+  Space Strength: 0
+  Garrison Strength: 422
+Statistics:
+  Movement Type: air
+  Move Points: 13
+  Spot: 0
+  Camouflage: 13
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 85
+Attacks:
+  Indirect: 33/26
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
+Build Resource Requirements:
+  Food: 4
+  Energy: 21
+  Metal: 1
+  Trace: 26
+  Exotica: 4
+  Chemicals: 31
+  Electronics: 10
+Build S-S Hypersonic Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[9240] Technologies Required to Build Unit (78):
+  [2935] Intelligent FCS (73)
+  [6305] Hypersonic Missiles (83)
+Unit can be disbanded: YES
+
+--10--
+Name: A-S Hypersonic Missile
+Nick Name: A-S-HsGM
+Scores & Strengths:
+  Tech Score: 1767
+  Unit Score: 1606
+  Average Score: 1687
+  Stat Strength: 731
+  Total Strength: 1606
+  Planet Strength: 1606
+  Space Strength: 0
+  Garrison Strength: 507
+Statistics:
+  Movement Type: air
+  Move Points: 10
+  Spot: 0
+  Camouflage: 10
+  Agility: 23
+  Armor: 1
+  Psy Defense: 1
+  Rank: 87
+Attacks:
+  Indirect: 35/25
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 8
+Build Resource Requirements:
+  Food: 3
+  Energy: 14
+  Metal: 1
+  Trace: 21
+  Exotica: 3
+  Chemicals: 20
+  Electronics: 7
+Build A-S Hypersonic Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[14905] Technologies Required to Build Unit (79):
+  [2935] Intelligent FCS (73)
+  [5665] Hypersonic Aircraft (82)
+  [6305] Hypersonic Missiles (83)
+Unit can be disbanded: YES
+
+--11--
+Name: S-S Hypercruise Missile
+Nick Name: S-S-HcGM
+Scores & Strengths:
+  Tech Score: 2336
+  Unit Score: 2138
+  Average Score: 2237
+  Stat Strength: 858
+  Total Strength: 2138
+  Planet Strength: 2138
+  Space Strength: 0
+  Garrison Strength: 552
+Statistics:
+  Movement Type: air
+  Move Points: 15
+  Spot: 0
+  Camouflage: 15
+  Agility: 20
+  Armor: 2
+  Psy Defense: 2
+  Rank: 107
+Attacks:
+  Indirect: 40/32
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 15
+Build Resource Requirements:
+  Food: 4
+  Energy: 25
+  Trace: 26
+  Exotica: 4
+  Chemicals: 39
+  Electronics: 10
+  Ceramsteel: 1
+Build S-S Hypercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[14205] Technologies Required to Build Unit (62):
+  [7100] Artificial Intelligence (46)
+  [7105] Hypercruise Missiles (77)
+Unit can be disbanded: YES
+
+--12--
+Name: A-S Hypercruise Missile
+Nick Name: A-S-HcGM
+Scores & Strengths:
+  Tech Score: 2505
+  Unit Score: 2139
+  Average Score: 2322
+  Stat Strength: 921
+  Total Strength: 2139
+  Planet Strength: 2139
+  Space Strength: 0
+  Garrison Strength: 617
+Statistics:
+  Movement Type: air
+  Move Points: 12
+  Spot: 0
+  Camouflage: 12
+  Agility: 25
+  Armor: 2
+  Psy Defense: 2
+  Rank: 106
+Attacks:
+  Indirect: 42/29
 Load aboard transport: YES
 Never Rebels
 Never Retreats
@@ -213,339 +527,16 @@ Destroyed after combat
 Upkeep / Maintenance: 1
 Build Cost: 9
 Build Resource Requirements:
-  Food: 6
-  Energy: 14
-  Metal: 1
-  Trace: 17
-  Exotica: 6
-  Chemicals: 17
-  Electronics: 21
-Build AA Guided Missile in Chemical Plant
-Time to Build / Upgrade: 2
-[7355] Technologies Required to Build Unit (84):
-  [1255] Digital Fly-by-Wire (81)
-  [2420] Rocket-Propelled Aircraft (87)
-  [3680] Supersonic Missiles (84)
-Unit can be disbanded: YES
-
---6--
-Name: AT Guided Missile
-Nick Name: AT-GM
-Scores & Strengths:
-  Tech Score: 1050
-  Unit Score: 1050
-  Average Score: 1050
-  Stat Strength: 298
-  Total Strength: 1050
-  Planet Strength: 1050
-  Space Strength: 0
-  Garrison Strength: 428
-Statistics:
-  Movement Type: air
-  Move Points: 6
-  Spot: 0
-  Camouflage: 8
-  Agility: 14
-  Armor: 1
-  Psy Defense: 1
-  Rank: 48
-Attacks:
-  Indirect: 20/20
-  Direct: 22/16
-Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 12
-Build Resource Requirements:
-  Food: 2
-  Energy: 24
-  Trace: 30
-  Exotica: 2
-  Chemicals: 28
-  Electronics: 23
-Build AT Guided Missile in Chemical Plant
-Time to Build / Upgrade: 2
-[5705] Technologies Required to Build Unit (86):
-  [1255] Digital Fly-by-Wire (81)
-  [770] Self-Propelled Weaponry (92)
-  [3680] Supersonic Missiles (84)
-Unit can be disbanded: YES
-
---7--
-Name: AA Supercruise Missile
-Nick Name: AA-ScGM
-Scores & Strengths:
-  Tech Score: 1247
-  Unit Score: 1185
-  Average Score: 1216
-  Stat Strength: 877
-  Total Strength: 1185
-  Planet Strength: 1185
-  Space Strength: 0
-  Garrison Strength: 305
-Statistics:
-  Movement Type: air
-  Move Points: 15
-  Spot: 0
-  Camouflage: 11
-  Agility: 23
-  Armor: 1
-  Psy Defense: 1
-  Rank: 98
-Attacks:
-  Air: 22/14
-Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 10
-Build Resource Requirements:
-  Food: 5
-  Energy: 13
-  Metal: 1
-  Trace: 17
-  Exotica: 5
-  Chemicals: 17
-  Electronics: 23
-Build AA Supercruise Missile in Chemical Plant
-Time to Build / Upgrade: 2
-[9060] Technologies Required to Build Unit (82):
-  [1690] Fly-by-Wireless (76)
-  [3200] Supersonic Aircraft (85)
-  [4170] Supercruise Missiles (84)
-Unit can be disbanded: YES
-
---8--
-Name: AT Supercruise Missile
-Nick Name: AT-ScGM
-Scores & Strengths:
-  Tech Score: 1278
-  Unit Score: 1273
-  Average Score: 1276
-  Stat Strength: 357
-  Total Strength: 1273
-  Planet Strength: 1273
-  Space Strength: 0
-  Garrison Strength: 481
-Statistics:
-  Movement Type: air
-  Move Points: 7
-  Spot: 0
-  Camouflage: 9
-  Agility: 15
-  Armor: 1
-  Psy Defense: 1
-  Rank: 55
-Attacks:
-  Indirect: 22/22
-  Direct: 24/18
-Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 13
-Build Resource Requirements:
-  Food: 2
-  Energy: 22
-  Trace: 29
-  Exotica: 2
-  Chemicals: 29
-  Electronics: 24
-Build AT Supercruise Missile in Chemical Plant
-Time to Build / Upgrade: 2
-[7560] Technologies Required to Build Unit (83):
-  [1690] Fly-by-Wireless (76)
-  [1700] Main Battle Tank (88)
-  [4170] Supercruise Missiles (84)
-Unit can be disbanded: YES
-
---9--
-Name: AA Hypersonic Missile
-Nick Name: AA-HsGM
-Scores & Strengths:
-  Tech Score: 1767
-  Unit Score: 1562
-  Average Score: 1665
-  Stat Strength: 1120
-  Total Strength: 1562
-  Planet Strength: 1562
-  Space Strength: 0
-  Garrison Strength: 368
-Statistics:
-  Movement Type: air
-  Move Points: 18
-  Spot: 0
-  Camouflage: 13
-  Agility: 25
-  Armor: 1
-  Psy Defense: 1
-  Rank: 110
-Attacks:
-  Air: 26/17
-Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 10
-Build Resource Requirements:
-  Food: 5
-  Energy: 13
-  Metal: 1
-  Trace: 15
-  Exotica: 5
-  Chemicals: 18
-  Electronics: 23
-Build AA Hypersonic Missile in Chemical Plant
-Time to Build / Upgrade: 2
-[14905] Technologies Required to Build Unit (79):
-  [2935] Intelligent FCS (73)
-  [5665] Hypersonic Aircraft (82)
-  [6305] Hypersonic Missiles (83)
-Unit can be disbanded: YES
-
---10--
-Name: AT Hypersonic Missile
-Nick Name: AT-HsGM
-Scores & Strengths:
-  Tech Score: 1899
-  Unit Score: 1832
-  Average Score: 1866
-  Stat Strength: 443
-  Total Strength: 1832
-  Planet Strength: 1832
-  Space Strength: 0
-  Garrison Strength: 647
-Statistics:
-  Movement Type: air
-  Move Points: 8
-  Spot: 0
-  Camouflage: 11
-  Agility: 16
-  Armor: 1
-  Psy Defense: 1
-  Rank: 71
-Attacks:
-  Indirect: 27/27
-  Direct: 30/22
-Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 13
-Build Resource Requirements:
-  Food: 2
-  Energy: 20
-  Trace: 24
-  Exotica: 2
-  Chemicals: 30
-  Electronics: 24
-Build AT Hypersonic Missile in Chemical Plant
-Time to Build / Upgrade: 2
-[14445] Technologies Required to Build Unit (80):
-  [2935] Intelligent FCS (73)
-  [5205] Advanced Battle Tanks (84)
-  [6305] Hypersonic Missiles (83)
-Unit can be disbanded: YES
-
---11--
-Name: AA Hypercruise Missile
-Nick Name: AA-HcGM
-Scores & Strengths:
-  Tech Score: 2505
-  Unit Score: 2097
-  Average Score: 2301
-  Stat Strength: 1477
-  Total Strength: 2097
-  Planet Strength: 2097
-  Space Strength: 0
-  Garrison Strength: 447
-Statistics:
-  Movement Type: air
-  Move Points: 22
-  Spot: 0
-  Camouflage: 16
-  Agility: 27
-  Armor: 2
-  Psy Defense: 2
-  Rank: 124
-Attacks:
-  Air: 31/20
-Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 12
-Build Resource Requirements:
-  Food: 5
-  Energy: 14
-  Trace: 15
-  Exotica: 5
-  Chemicals: 21
-  Electronics: 25
-Build AA Hypercruise Missile in Chemical Plant
+  Food: 3
+  Energy: 15
+  Trace: 21
+  Exotica: 3
+  Chemicals: 22
+  Electronics: 7
+Build A-S Hypercruise Missile in Chemical Plant
 Time to Build / Upgrade: 2
 [21815] Technologies Required to Build Unit (68):
   [7100] Artificial Intelligence (46)
   [7610] Atmospheric Aircraft (80)
-  [7105] Hypercruise Missiles (77)
-Unit can be disbanded: YES
-
---12--
-Name: AT Hypercruise Missile
-Nick Name: AT-HcGM
-Scores & Strengths:
-  Tech Score: 2780
-  Unit Score: 2626
-  Average Score: 2703
-  Stat Strength: 601
-  Total Strength: 2626
-  Planet Strength: 2626
-  Space Strength: 0
-  Garrison Strength: 830
-Statistics:
-  Movement Type: air
-  Move Points: 10
-  Spot: 0
-  Camouflage: 13
-  Agility: 18
-  Armor: 2
-  Psy Defense: 2
-  Rank: 89
-Attacks:
-  Indirect: 33/33
-  Direct: 36/26
-Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 11
-Build Cost: 109
-Build Resource Requirements:
-  Food: 1
-  Energy: 18
-  Trace: 27
-  Exotica: 1
-  Chemicals: 29
-  Electronics: 28
-  Monopols: 24
-Build AT Hypercruise Missile in Chemical Plant
-Time to Build / Upgrade: 3
-[21630] Technologies Required to Build Unit (64):
-  [7100] Artificial Intelligence (46)
-  [7425] Hovertanks (68)
   [7105] Hypercruise Missiles (77)
 Unit can be disbanded: YES

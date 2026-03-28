@@ -1,334 +1,187 @@
-All units of the unit class Light Mech are listed herein (7 in total):
+All units of the unit class Scout Mech are listed herein (4 in total):
 
 --1--
-Name: Light Mech
-Nick Name: Berserker
+Name: Scout Mech
+Nick Name: Locust
 Scores & Strengths:
-  Tech Score: 1686
-  Unit Score: 1685
-  Average Score: 1686
-  Stat Strength: 1158
-  Total Strength: 1685
-  Planet Strength: 1685
+  Tech Score: 2194
+  Unit Score: 1535
+  Average Score: 1865
+  Stat Strength: 1245
+  Total Strength: 1535
+  Planet Strength: 1535
   Space Strength: 0
-  Garrison Strength: 467
+  Garrison Strength: 410
 Statistics:
   Movement Type: mech
-  Move Points: 13
-  Spot: 10
-  Camouflage: 4
-  Agility: 15
-  Armor: 18
-  Psy Defense: 18
-  Rank: 99
+  Move Points: 14
+  Spot: 14
+  Camouflage: 9
+  Agility: 22
+  Armor: 12
+  Psy Defense: 12
+  Rank: 76
 Attacks:
-  Indirect: 16/17
-  Direct: 15/17
+  Direct: 12/15
+  Close: 10/11
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 17
-Build Cost: 169
+Upkeep / Maintenance: 10
+Build Cost: 100
 Build Resource Requirements:
-  Food: 4
-  Energy: 16
-  Metal: 13
-  Trace: 12
-  Exotica: 4
-  Chemicals: 31
-  Electronics: 19
-  Ceramsteel: 18
-Build Light Mech in Starport
-Time to Build / Upgrade: 3
-[10330] Technologies Required to Build Unit (84):
+  Food: 5
+  Energy: 10
+  Metal: 3
+  Trace: 9
+  Exotica: 5
+  Chemicals: 18
+  Electronics: 17
+  Ceramsteel: 6
+Build Scout Mech in Starport
+Time to Build / Upgrade: 2
+[16120] Technologies Required to Build Unit (79):
   [1690] Ceramsteel (84)
-  [2420] Rocket-Propelled Aircraft (87)
   [6220] Mechanically-Enhanced Soldiers (80)
+  [8210] Aircraft Surveillance (74)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Medium Mech
-Nick Name: Harbinger
+Name: Mech Commander
+Nick Name: Commodore
 Scores & Strengths:
   Tech Score: 2414
-  Unit Score: 2413
-  Average Score: 2413
-  Stat Strength: 1580
-  Total Strength: 2413
-  Planet Strength: 2413
+  Unit Score: 2414
+  Average Score: 2414
+  Stat Strength: 1630
+  Total Strength: 2414
+  Planet Strength: 2414
   Space Strength: 0
-  Garrison Strength: 623
+  Garrison Strength: 669
 Statistics:
   Movement Type: mech
-  Move Points: 15
+  Move Points: 13
   Spot: 13
-  Camouflage: 8
-  Agility: 8
-  Armor: 23
-  Psy Defense: 23
-  Rank: 114
+  Camouflage: 7
+  Agility: 19
+  Armor: 21
+  Psy Defense: 21
+  Rank: 109
 Attacks:
-  Indirect: 19/23
-  Direct: 18/22
+  Air: 12/14
+  Indirect: 11/22
+  Direct: 10/23
+  Close: 12/12
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 135
-Build Cost: 1349
+Upkeep / Maintenance: 158
+Build Cost: 1580
 Build Resource Requirements:
-  Food: 2
-  Energy: 11
-  Metal: 9
-  Trace: 13
-  Exotica: 2
-  Chemicals: 21
-  Electronics: 18
-  Ceramsteel: 10
-  Monopols: 30
-Build Medium Mech in Starport
-Time to Build / Upgrade: 3
+  Food: 3
+  Energy: 15
+  Metal: 8
+  Trace: 12
+  Exotica: 3
+  Chemicals: 26
+  Electronics: 21
+  Ceramsteel: 9
+  Monopols: 35
+Build Mech Commander in Starport
+Time to Build / Upgrade: 4
 [12850] Technology Required to Build Unit (71):
   [12850] Mechanized Warriors (71)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Imperial Assault Mech
-Nick Name: Gladiaor
+Name: Power Scout Mech
+Nick Name: Katydid
 Scores & Strengths:
-  Tech Score: 5593
-  Unit Score: 5394
-  Average Score: 5493
-  Stat Strength: 2830
-  Total Strength: 5394
-  Planet Strength: 5394
+  Tech Score: 5401
+  Unit Score: 3238
+  Average Score: 4320
+  Stat Strength: 2510
+  Total Strength: 3238
+  Planet Strength: 3238
   Space Strength: 0
-  Garrison Strength: 1348
+  Garrison Strength: 690
 Statistics:
   Movement Type: mech
-  Move Points: 16
+  Move Points: 22
   Spot: 18
-  Camouflage: 10
-  Agility: 30
-  Armor: 25
-  Psy Defense: 25
-  Rank: 158
+  Camouflage: 14
+  Agility: 28
+  Armor: 19
+  Psy Defense: 19
+  Rank: 116
 Attacks:
-  Air: 39/16
-  Indirect: 30/25
-  Direct: 35/18
-  Close: 40/14
+  Direct: 19/24
+  Close: 16/17
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 153
-Build Cost: 1533
+Upkeep / Maintenance: 101
+Build Cost: 1014
 Build Resource Requirements:
-  Food: 2
-  Energy: 8
+  Food: 3
+  Energy: 9
   Metal: 3
-  Trace: 35
-  Exotica: 2
+  Trace: 13
+  Exotica: 4
   Chemicals: 12
-  Biochems: 31
-  Electronics: 56
-  Ceramsteel: 5
-  Monopols: 19
-Build Imperial Assault Mech in Starport
-Time to Build / Upgrade: 3
-[52740] Technologies Required to Build Unit (66):
-  [15130] Fusion Battle Tanks (68)
+  Biochems: 15
+  Electronics: 22
+  Ceramsteel: 4
+  Monopols: 18
+Build Power Scout Mech in Starport
+Time to Build / Upgrade: 2
+[37610] Technology Required to Build Unit (63):
   [37610] Advanced Mechanized Warriors (63)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Heavy Mech
-Nick Name: Vanguard
+Name: Stealth Scout Mech
+Nick Name: Cicada
 Scores & Strengths:
-  Tech Score: 5401
-  Unit Score: 5401
-  Average Score: 5401
-  Stat Strength: 3085
-  Total Strength: 5401
-  Planet Strength: 5401
+  Tech Score: 7207
+  Unit Score: 6866
+  Average Score: 7037
+  Stat Strength: 5952
+  Total Strength: 6866
+  Planet Strength: 6866
   Space Strength: 0
-  Garrison Strength: 1309
+  Garrison Strength: 1297
 Statistics:
   Movement Type: mech
-  Move Points: 17
-  Spot: 14
-  Camouflage: 12
-  Agility: 12
-  Armor: 34
-  Psy Defense: 34
-  Rank: 161
+  Move Points: 28
+  Spot: 28
+  Camouflage: 36
+  Agility: 44
+  Armor: 24
+  Psy Defense: 24
+  Rank: 153
 Attacks:
-  Indirect: 31/33
-  Direct: 27/30
-  Close: 21/23
+  Direct: 19/26
+  Close: 20/21
 Load aboard transport: YES
 Immune to Plague
-Upkeep / Maintenance: 236
-Build Cost: 2357
-Build Resource Requirements:
-  Food: 1
-  Energy: 13
-  Metal: 8
-  Trace: 23
-  Exotica: 2
-  Chemicals: 21
-  Biochems: 24
-  Electronics: 27
-  Ceramsteel: 12
-  Monopols: 34
-Build Heavy Mech in Starport
-Time to Build / Upgrade: 4
-[37610] Technology Required to Build Unit (63):
-  [37610] Advanced Mechanized Warriors (63)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Stigmata Mech Defender
-Nick Name: Cavalier
-Scores & Strengths:
-  Tech Score: 5401
-  Unit Score: 5401
-  Average Score: 5401
-  Stat Strength: 2873
-  Total Strength: 5401
-  Planet Strength: 4267
-  Space Strength: 4007
-  Garrison Strength: 1101
-Statistics:
-  Movement Type: mech
-  Move Points: 15
-  Spot: 24
-  Camouflage: 12
-  Agility: 24
-  Armor: 26
-  Psy Defense: 26
-  Rank: 155
-Attacks:
-  Direct Space: 24/27
-  Closed Space: 27/18
-  Air: 20/13
-  Direct: 24/27
-  Close: 27/18
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 226
-Build Cost: 2257
+Upkeep / Maintenance: 267
+Build Cost: 2674
 Build Resource Requirements:
   Food: 3
-  Energy: 13
-  Metal: 5
-  Trace: 36
-  Exotica: 4
-  Chemicals: 19
-  Biochems: 41
-  Electronics: 61
-  Ceramsteel: 7
-  Monopols: 29
-Build Stigmata Mech Defender in Starport
-Time to Build / Upgrade: 4
-[37610] Technology Required to Build Unit (63):
-  [37610] Advanced Mechanized Warriors (63)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---6--
-Name: 3rd-Republic Mech
-Nick Name: Mangler
-Scores & Strengths:
-  Tech Score: 5663
-  Unit Score: 5707
-  Average Score: 5685
-  Stat Strength: 3223
-  Total Strength: 5707
-  Planet Strength: 5707
-  Space Strength: 0
-  Garrison Strength: 1384
-Statistics:
-  Movement Type: mech
-  Move Points: 17
-  Spot: 14
-  Camouflage: 12
-  Agility: 12
-  Armor: 35
-  Psy Defense: 35
-  Rank: 166
-Attacks:
-  Indirect: 32/34
-  Direct: 28/31
-  Close: 22/24
-Load aboard transport: YES
-Upkeep / Maintenance: 133
-Build Cost: 1332
-Build Resource Requirements:
-  Food: 1
-  Energy: 9
-  Metal: 5
-  Trace: 12
-  Exotica: 1
-  Chemicals: 15
-  Biochems: 13
-  Electronics: 17
-  Ceramsteel: 8
-  Monopols: 24
-Build 3rd-Republic Mech in Factory
+  Energy: 8
+  Metal: 3
+  Trace: 19
+  Exotica: 3
+  Chemicals: 12
+  Biochems: 21
+  Electronics: 32
+  Ceramsteel: 4
+  Wetware: 13
+  Monopols: 19
+Build Stealth Scout Mech in Starport
 Time to Build / Upgrade: 3
-[67715] Technologies Required to Build Unit (67):
-  [15130] Fusion Battle Tanks (68)
-  [14975] Power Hovertanks (70)
-  [37610] Advanced Mechanized Warriors (63)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---7--
-Name: Assault Mech
-Nick Name: Avatar
-Scores & Strengths:
-  Tech Score: 5809
-  Unit Score: 5809
-  Average Score: 5809
-  Stat Strength: 3436
-  Total Strength: 5809
-  Planet Strength: 5809
-  Space Strength: 0
-  Garrison Strength: 1332
-Statistics:
-  Movement Type: mech
-  Move Points: 19
-  Spot: 16
-  Camouflage: 12
-  Agility: 15
-  Armor: 35
-  Psy Defense: 35
-  Rank: 169
-Attacks:
-  Indirect: 30/32
-  Direct: 30/31
-  Close: 21/23
-Load aboard transport: YES
-Immune to Plague
-Upkeep / Maintenance: 289
-Build Cost: 2894
-Build Resource Requirements:
-  Food: 1
-  Energy: 13
-  Metal: 7
-  Trace: 10
-  Exotica: 1
-  Chemicals: 20
-  Biochems: 25
-  Electronics: 15
-  Ceramsteel: 11
-  Wetware: 9
-  Monopols: 32
-Build Assault Mech in Starport
-Time to Build / Upgrade: 4
-[54355] Technologies Required to Build Unit (43):
-  [16745] Wetware (23)
-  [37610] Advanced Mechanized Warriors (63)
+[55250] Technology Required to Build Unit (34):
+  [55250] Neumonic Patrolcraft (34)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

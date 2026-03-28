@@ -1,498 +1,454 @@
-All units of the unit class Gunboat are listed herein (11 in total):
+All units of the unit class Anti-Satellite (ASa) Rocket are listed herein (10 in total):
 
 --1--
-Name: Gunboat
-Nick Name: NN-GB
+Name: Anti-Satellite (ASa) Rocket
+Nick Name: Asat-R
 Scores & Strengths:
-  Tech Score: 167
-  Unit Score: 331
-  Average Score: 249
-  Stat Strength: 281
-  Total Strength: 331
-  Planet Strength: 331
-  Space Strength: 0
-  Garrison Strength: 135
+  Tech Score: 327
+  Unit Score: 327
+  Average Score: 327
+  Stat Strength: 263
+  Total Strength: 327
+  Planet Strength: 0
+  Space Strength: 327
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 4
-  Camouflage: 2
-  Agility: 5
-  Armor: 10
-  Psy Defense: 10
-  Rank: 96
+  Movement Type: space
+  Move Points: 1
+  Spot: 0
+  Camouflage: 8
+  Agility: 14
+  Armor: 1
+  Psy Defense: 1
+  Rank: 19
 Attacks:
-  Indirect: 2/6
-  Direct: 3/6
-  Close: 4/5
-Cargo Space: 1
-Upkeep / Maintenance: 22
-Build Cost: 224
+  Closed Space: 4/16
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 34
 Build Resource Requirements:
-  Food: 8
-  Energy: 28
-  Metal: 58
-  Trace: 13
-  Exotica: 8
-  Chemicals: 23
-  Gems: 1
-Build Gunboat in Well
+  Food: 9
+  Energy: 43
+  Metal: 1
+  Trace: 31
+  Exotica: 9
+  Chemicals: 58
+  Electronics: 22
+Build Anti-Satellite (ASa) Rocket in Chemical Plant
 Time to Build / Upgrade: 3
-[465] Technologies Required to Build Unit (100):
-  [100] Medical & Biological (100)
-  [100] Physics & Energy (100)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-Counts as planetary flock: YES
+[895] Technology Required to Build Unit (90):
+  [895] Space Rocketry (90)
 Unit can be disbanded: YES
 
 --2--
-Name: Torpedo Boat
-Nick Name: NN-TP
+Name: ASa Missile
+Nick Name: Asat-M
 Scores & Strengths:
-  Tech Score: 174
-  Unit Score: 344
-  Average Score: 259
-  Stat Strength: 290
-  Total Strength: 344
-  Planet Strength: 344
-  Space Strength: 0
-  Garrison Strength: 130
+  Tech Score: 353
+  Unit Score: 353
+  Average Score: 353
+  Stat Strength: 283
+  Total Strength: 353
+  Planet Strength: 0
+  Space Strength: 353
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 4
-  Camouflage: 3
-  Agility: 4
-  Armor: 10
-  Psy Defense: 10
-  Rank: 63
+  Movement Type: space
+  Move Points: 2
+  Spot: 0
+  Camouflage: 9
+  Agility: 14
+  Armor: 1
+  Psy Defense: 1
+  Rank: 21
 Attacks:
-  Water: 3/14
-  Close: 3/4
-Cargo Space: 1
-Upkeep / Maintenance: 28
-Build Cost: 279
+  Closed Space: 5/14
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 19
 Build Resource Requirements:
-  Food: 8
-  Energy: 48
-  Metal: 53
-  Trace: 11
-  Exotica: 7
-  Chemicals: 40
-  Gems: 1
-Build Torpedo Boat in Well
-Time to Build / Upgrade: 4
-[535] Technologies Required to Build Unit (99):
-  [100] Medical & Biological (100)
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
-Counts as planetary flock: YES
+  Food: 6
+  Energy: 21
+  Metal: 1
+  Trace: 21
+  Exotica: 6
+  Chemicals: 28
+  Electronics: 14
+Build ASa Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[1690] Technologies Required to Build Unit (88):
+  [795] Missiles (86)
+  [895] Space Rocketry (90)
 Unit can be disbanded: YES
 
 --3--
-Name: Submarine Chaser
-Nick Name: NN-SC
+Name: Cruise Missile
+Nick Name: Cr-GM
 Scores & Strengths:
-  Tech Score: 174
-  Unit Score: 344
-  Average Score: 259
-  Stat Strength: 290
-  Total Strength: 344
-  Planet Strength: 344
+  Tech Score: 1004
+  Unit Score: 1010
+  Average Score: 1007
+  Stat Strength: 614
+  Total Strength: 1010
+  Planet Strength: 1010
   Space Strength: 0
-  Garrison Strength: 130
+  Garrison Strength: 291
 Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 6
-  Camouflage: 1
-  Agility: 2
-  Armor: 10
-  Psy Defense: 10
-  Rank: 128
+  Movement Type: air
+  Move Points: 12
+  Spot: 0
+  Camouflage: 12
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 56
 Attacks:
-  Water: 2/14
-  Indirect: 2/13
-Cargo Space: 1
-Upkeep / Maintenance: 37
-Build Cost: 371
+  Indirect: 22/18
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
 Build Resource Requirements:
-  Food: 10
-  Energy: 77
-  Metal: 53
-  Trace: 8
-  Exotica: 9
-  Chemicals: 65
-  Gems: 1
-Build Submarine Chaser in Well
-Time to Build / Upgrade: 4
-[535] Technologies Required to Build Unit (99):
-  [100] Medical & Biological (100)
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
-Counts as planetary flock: YES
+  Food: 6
+  Energy: 21
+  Metal: 1
+  Trace: 24
+  Exotica: 6
+  Chemicals: 26
+  Electronics: 13
+Build Cruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[4935] Technologies Required to Build Unit (83):
+  [1255] Digital Fly-by-Wire (81)
+  [3680] Supersonic Missiles (84)
 Unit can be disbanded: YES
 
 --4--
-Name: Naval Sloop
-Nick Name: NN-Sloop
+Name: ASa Guided Missile
+Nick Name: Asat-GM
 Scores & Strengths:
-  Tech Score: 177
-  Unit Score: 351
-  Average Score: 264
-  Stat Strength: 260
-  Total Strength: 351
-  Planet Strength: 351
-  Space Strength: 0
-  Garrison Strength: 143
+  Tech Score: 1023
+  Unit Score: 1027
+  Average Score: 1025
+  Stat Strength: 367
+  Total Strength: 1027
+  Planet Strength: 0
+  Space Strength: 1027
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 10
-  Psy Defense: 10
-  Rank: 98
+  Movement Type: space
+  Move Points: 3
+  Spot: 0
+  Camouflage: 10
+  Agility: 16
+  Armor: 1
+  Psy Defense: 1
+  Rank: 80
 Attacks:
-  Indirect: 3/10
-  Direct: 3/7
-  Close: 8/5
-Cargo Space: 1
-Upkeep / Maintenance: 25
-Build Cost: 254
+  Closed Space: 30/22
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 27
 Build Resource Requirements:
-  Food: 6
-  Energy: 38
-  Metal: 48
-  Trace: 21
-  Exotica: 6
-  Chemicals: 34
-Build Naval Sloop in Well
-Time to Build / Upgrade: 4
-[605] Technologies Required to Build Unit (99):
-  [230] Hospitals (97)
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-Counts as planetary flock: YES
+  Food: 2
+  Energy: 19
+  Metal: 1
+  Trace: 32
+  Exotica: 2
+  Chemicals: 23
+  Electronics: 40
+Build ASa Guided Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[5830] Technologies Required to Build Unit (85):
+  [1255] Digital Fly-by-Wire (81)
+  [895] Space Rocketry (90)
+  [3680] Supersonic Missiles (84)
 Unit can be disbanded: YES
 
 --5--
-Name: Patrol Boat
-Nick Name: NN-PB
+Name: Supercruise Missile
+Nick Name: SCr-GM
 Scores & Strengths:
-  Tech Score: 520
-  Unit Score: 520
-  Average Score: 520
-  Stat Strength: 453
-  Total Strength: 520
-  Planet Strength: 520
+  Tech Score: 1174
+  Unit Score: 1157
+  Average Score: 1166
+  Stat Strength: 701
+  Total Strength: 1157
+  Planet Strength: 1157
   Space Strength: 0
-  Garrison Strength: 183
+  Garrison Strength: 320
 Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 7
-  Armor: 12
-  Psy Defense: 12
-  Rank: 100
+  Movement Type: air
+  Move Points: 13
+  Spot: 0
+  Camouflage: 13
+  Agility: 19
+  Armor: 1
+  Psy Defense: 1
+  Rank: 62
 Attacks:
-  Indirect: 3/6
-  Direct: 4/6
-  Close: 5/5
-Cargo Space: 1
-Upkeep / Maintenance: 16
-Build Cost: 161
+  Indirect: 24/19
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
 Build Resource Requirements:
-  Food: 4
-  Energy: 11
-  Metal: 34
-  Trace: 9
-  Exotica: 4
-  Chemicals: 11
-  Biochems: 7
-  Electronics: 7
-Build Patrol Boat in Well
+  Food: 5
+  Energy: 19
+  Metal: 1
+  Trace: 24
+  Exotica: 5
+  Chemicals: 26
+  Electronics: 13
+Build Supercruise Missile in Chemical Plant
 Time to Build / Upgrade: 2
-[1660] Technologies Required to Build Unit (93):
-  [100] Psychosocial Engineering (100)
-  [1560] Naval Patrol Ships (86)
-Counts as planetary flock: YES
+[5860] Technologies Required to Build Unit (80):
+  [1690] Fly-by-Wireless (76)
+  [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
 --6--
-Name: Advanced Gunboat
-Nick Name: N-Gunboat2
+Name: ASa Supercruise Missile
+Nick Name: Asat-ScGM
 Scores & Strengths:
-  Tech Score: 406
-  Unit Score: 783
-  Average Score: 595
-  Stat Strength: 663
-  Total Strength: 783
-  Planet Strength: 783
-  Space Strength: 0
-  Garrison Strength: 261
+  Tech Score: 1192
+  Unit Score: 1189
+  Average Score: 1190
+  Stat Strength: 421
+  Total Strength: 1189
+  Planet Strength: 0
+  Space Strength: 1189
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 9
-  Spot: 5
-  Camouflage: 3
-  Agility: 6
-  Armor: 16
-  Psy Defense: 16
-  Rank: 105
+  Movement Type: space
+  Move Points: 3
+  Spot: 0
+  Camouflage: 11
+  Agility: 17
+  Armor: 1
+  Psy Defense: 1
+  Rank: 88
 Attacks:
-  Indirect: 3/9
-  Direct: 5/9
-  Close: 6/8
-Cargo Space: 1
-Upkeep / Maintenance: 26
-Build Cost: 256
+  Closed Space: 32/24
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 29
 Build Resource Requirements:
-  Food: 6
-  Energy: 26
-  Metal: 80
-  Trace: 12
-  Exotica: 5
-  Chemicals: 26
-  Electronics: 9
-Build Advanced Gunboat in Well
-Time to Build / Upgrade: 4
-[1195] Technology Required to Build Unit (90):
-  [1195] Naval Warfare (90)
-Counts as planetary flock: YES
+  Food: 2
+  Energy: 18
+  Metal: 1
+  Trace: 33
+  Exotica: 2
+  Chemicals: 24
+  Electronics: 43
+Build ASa Supercruise Missile in Chemical Plant
+Time to Build / Upgrade: 3
+[6755] Technologies Required to Build Unit (83):
+  [1690] Fly-by-Wireless (76)
+  [895] Space Rocketry (90)
+  [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
 --7--
-Name: Fast Torpedo Boat
-Nick Name: NN-FTB
+Name: Hypersonic Cruise Missile
+Nick Name: HsCr-GM
 Scores & Strengths:
-  Tech Score: 1134
-  Unit Score: 1133
-  Average Score: 1134
-  Stat Strength: 713
-  Total Strength: 1133
-  Planet Strength: 1133
+  Tech Score: 1587
+  Unit Score: 1496
+  Average Score: 1541
+  Stat Strength: 852
+  Total Strength: 1496
+  Planet Strength: 1496
   Space Strength: 0
-  Garrison Strength: 341
+  Garrison Strength: 386
 Statistics:
-  Movement Type: naval
-  Move Points: 11
-  Spot: 10
-  Camouflage: 6
-  Agility: 8
-  Armor: 14
-  Psy Defense: 14
-  Rank: 122
+  Movement Type: air
+  Move Points: 15
+  Spot: 0
+  Camouflage: 15
+  Agility: 20
+  Armor: 1
+  Psy Defense: 1
+  Rank: 76
 Attacks:
-  Water: 10/20
-  Direct: 10/16
-  Close: 6/10
-Cargo Space: 1
-Upkeep / Maintenance: 29
-Build Cost: 291
+  Indirect: 28/23
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
 Build Resource Requirements:
-  Food: 3
-  Energy: 28
-  Metal: 12
-  Trace: 12
-  Exotica: 4
-  Chemicals: 35
-  Biochems: 8
-  Electronics: 14
-  Ceramsteel: 14
-Build Fast Torpedo Boat in Well
-Time to Build / Upgrade: 3
-[4695] Technology Required to Build Unit (83):
-  [4695] Advanced Minor Watercraft (83)
-Counts as planetary flock: YES
+  Food: 5
+  Energy: 20
+  Metal: 1
+  Trace: 22
+  Exotica: 5
+  Chemicals: 29
+  Electronics: 12
+Build Hypersonic Cruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[9240] Technologies Required to Build Unit (78):
+  [2935] Intelligent FCS (73)
+  [6305] Hypersonic Missiles (83)
 Unit can be disbanded: YES
 
 --8--
-Name: Naval Cutter
-Nick Name: NN-Cutter
+Name: ASa Hypersonic Missile
+Nick Name: Asat-HsGM
 Scores & Strengths:
-  Tech Score: 1134
-  Unit Score: 1133
-  Average Score: 1134
-  Stat Strength: 668
-  Total Strength: 1133
-  Planet Strength: 1133
-  Space Strength: 0
-  Garrison Strength: 314
+  Tech Score: 1603
+  Unit Score: 1575
+  Average Score: 1589
+  Stat Strength: 511
+  Total Strength: 1575
+  Planet Strength: 0
+  Space Strength: 1575
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 13
-  Spot: 8
-  Camouflage: 4
-  Agility: 9
-  Armor: 13
-  Psy Defense: 13
-  Rank: 122
+  Movement Type: space
+  Move Points: 4
+  Spot: 0
+  Camouflage: 13
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 106
 Attacks:
-  Water: 9/25
-  Air: 8/10
-  Direct: 10/16
-Cargo Space: 1
-Upkeep / Maintenance: 32
-Build Cost: 316
+  Closed Space: 38/28
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 33
 Build Resource Requirements:
-  Food: 3
-  Energy: 36
-  Metal: 10
-  Trace: 11
-  Exotica: 4
-  Chemicals: 44
-  Biochems: 8
-  Electronics: 12
-  Ceramsteel: 12
-Build Naval Cutter in Well
+  Food: 2
+  Energy: 19
+  Metal: 1
+  Trace: 32
+  Exotica: 2
+  Chemicals: 27
+  Electronics: 47
+Build ASa Hypersonic Missile in Chemical Plant
 Time to Build / Upgrade: 3
-[4695] Technology Required to Build Unit (83):
-  [4695] Advanced Minor Watercraft (83)
-Counts as planetary flock: YES
+[10135] Technologies Required to Build Unit (82):
+  [2935] Intelligent FCS (73)
+  [895] Space Rocketry (90)
+  [6305] Hypersonic Missiles (83)
 Unit can be disbanded: YES
 
 --9--
-Name: Fast Attack Craft
-Nick Name: NN-Cutter
+Name: Hypercruise Missile
+Nick Name: HCr-GM
 Scores & Strengths:
-  Tech Score: 1134
-  Unit Score: 1134
-  Average Score: 1134
-  Stat Strength: 704
-  Total Strength: 1134
-  Planet Strength: 1134
+  Tech Score: 2336
+  Unit Score: 2058
+  Average Score: 2197
+  Stat Strength: 1140
+  Total Strength: 2058
+  Planet Strength: 2058
   Space Strength: 0
-  Garrison Strength: 327
+  Garrison Strength: 485
 Statistics:
-  Movement Type: naval
-  Move Points: 12
-  Spot: 8
-  Camouflage: 8
-  Agility: 12
-  Armor: 12
-  Psy Defense: 12
-  Rank: 106
+  Movement Type: air
+  Move Points: 18
+  Spot: 0
+  Camouflage: 18
+  Agility: 22
+  Armor: 2
+  Psy Defense: 2
+  Rank: 95
 Attacks:
-  Water: 12/12
-  Air: 11/11
-  Indirect: 12/12
-  Direct: 3/7
-Cargo Space: 1
-Upkeep / Maintenance: 27
-Build Cost: 269
+  Indirect: 34/27
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 14
 Build Resource Requirements:
-  Food: 4
-  Energy: 20
-  Metal: 9
-  Trace: 18
-  Exotica: 4
-  Chemicals: 26
-  Biochems: 9
-  Electronics: 16
-  Ceramsteel: 10
-Build Fast Attack Craft in Well
-Time to Build / Upgrade: 3
-[4695] Technology Required to Build Unit (83):
-  [4695] Advanced Minor Watercraft (83)
-Counts as planetary flock: YES
+  Food: 5
+  Energy: 22
+  Trace: 22
+  Exotica: 5
+  Chemicals: 34
+  Electronics: 13
+  Ceramsteel: 1
+Build Hypercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[14205] Technologies Required to Build Unit (62):
+  [7100] Artificial Intelligence (46)
+  [7105] Hypercruise Missiles (77)
 Unit can be disbanded: YES
 
 --10--
-Name: Naval Missile Cutter
-Nick Name: NN-CM
+Name: ASa Hypercruise Missile
+Nick Name: Asat-HcGM
 Scores & Strengths:
-  Tech Score: 1339
-  Unit Score: 1339
-  Average Score: 1339
-  Stat Strength: 858
-  Total Strength: 1339
-  Planet Strength: 1339
-  Space Strength: 0
-  Garrison Strength: 357
+  Tech Score: 2350
+  Unit Score: 2143
+  Average Score: 2247
+  Stat Strength: 658
+  Total Strength: 2143
+  Planet Strength: 0
+  Space Strength: 2143
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 14
-  Spot: 10
-  Camouflage: 7
-  Agility: 11
-  Armor: 14
-  Psy Defense: 14
-  Rank: 155
+  Movement Type: space
+  Move Points: 5
+  Spot: 0
+  Camouflage: 15
+  Agility: 20
+  Armor: 2
+  Psy Defense: 2
+  Rank: 129
 Attacks:
-  Air: 15/15
-  Indirect: 16/16
-Cargo Space: 1
-Upkeep / Maintenance: 28
-Build Cost: 277
+  Closed Space: 45/33
+Load aboard transport: YES
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 4
+Build Cost: 39
 Build Resource Requirements:
-  Food: 4
-  Energy: 19
-  Metal: 10
-  Trace: 18
-  Exotica: 5
-  Chemicals: 26
-  Biochems: 8
-  Electronics: 13
-  Ceramsteel: 13
-Build Naval Missile Cutter in Well
+  Food: 2
+  Energy: 22
+  Trace: 32
+  Exotica: 2
+  Chemicals: 33
+  Electronics: 51
+  Ceramsteel: 1
+Build ASa Hypercruise Missile in Chemical Plant
 Time to Build / Upgrade: 3
-[5855] Technology Required to Build Unit (84):
-  [5855] Guided Missile Navalcraft (84)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---11--
-Name: Fast Attack Craft II
-Nick Name: NN-Cutter II
-Scores & Strengths:
-  Tech Score: 1579
-  Unit Score: 1512
-  Average Score: 1545
-  Stat Strength: 919
-  Total Strength: 1512
-  Planet Strength: 1512
-  Space Strength: 0
-  Garrison Strength: 404
-Statistics:
-  Movement Type: naval
-  Move Points: 14
-  Spot: 9
-  Camouflage: 9
-  Agility: 13
-  Armor: 14
-  Psy Defense: 14
-  Rank: 112
-Attacks:
-  Water: 14/14
-  Air: 13/13
-  Indirect: 14/14
-  Direct: 4/8
-Cargo Space: 1
-Upkeep / Maintenance: 30
-Build Cost: 300
-Build Resource Requirements:
-  Food: 3
-  Energy: 20
-  Metal: 9
-  Trace: 18
-  Exotica: 4
-  Chemicals: 28
-  Biochems: 9
-  Electronics: 18
-  Ceramsteel: 11
-Build Fast Attack Craft II in Well
-Time to Build / Upgrade: 3
-[7295] Technology Required to Build Unit (81):
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
+[15100] Technologies Required to Build Unit (71):
+  [7100] Artificial Intelligence (46)
+  [895] Space Rocketry (90)
+  [7105] Hypercruise Missiles (77)
 Unit can be disbanded: YES

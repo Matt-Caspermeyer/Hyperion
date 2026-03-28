@@ -1,399 +1,740 @@
-All units of the unit class Seaplane Tender are listed herein (9 in total):
+All units of the unit class Space Protected Cruiser are listed herein (15 in total):
 
 --1--
-Name: Seaplane Tender
-Nick Name: NN-CVT
+Name: Space Protected Cruiser
+Nick Name: SS-CP
 Scores & Strengths:
-  Tech Score: 199
-  Unit Score: 394
-  Average Score: 296
-  Stat Strength: 330
-  Total Strength: 394
-  Planet Strength: 394
-  Space Strength: 0
-  Garrison Strength: 160
+  Tech Score: 375
+  Unit Score: 375
+  Average Score: 375
+  Stat Strength: 270
+  Total Strength: 375
+  Planet Strength: 0
+  Space Strength: 375
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 2
+  Movement Type: space
+  Move Points: 2
+  Spot: 8
   Camouflage: 1
   Agility: 1
-  Armor: 12
-  Psy Defense: 12
-  Rank: 126
+  Armor: 10
+  Psy Defense: 10
+  Rank: 61
 Attacks:
-  Air: 4/4
-  Indirect: 2/9
-  Direct: 2/6
-  Close: 3/6
-Cargo Space: 4
-Transports and Refuels (at end of turn) all Air Units
-Can tow units that can be towed
-Upkeep / Maintenance: 51
-Build Cost: 509
+  Ranged Space: 4/10
+  Direct Space: 5/8
+  Closed Space: 5/5
+Cargo Space: 2
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 17
+Build Cost: 166
 Build Resource Requirements:
   Food: 5
-  Energy: 31
-  Metal: 118
-  Trace: 9
-  Exotica: 4
-  Chemicals: 33
-  Electronics: 5
-Build Seaplane Tender in Well
-Time to Build / Upgrade: 4
-[625] Technologies Required to Build Unit (96):
-  [165] Autocannon (98)
-  [460] Seaplane (94)
+  Energy: 17
+  Metal: 36
+  Trace: 13
+  Exotica: 5
+  Chemicals: 30
+  Electronics: 8
+Build Space Protected Cruiser in Starport
+Time to Build / Upgrade: 2
+[1455] Technologies Required to Build Unit (96):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [125] Mechanical Think Machines (93)
+  [795] Rocket Propulsion (90)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Naval Minesweeper
-Nick Name: NN-MS
+Name: Space Armored Cruiser
+Nick Name: SS-CA
 Scores & Strengths:
-  Tech Score: 181
-  Unit Score: 447
-  Average Score: 314
-  Stat Strength: 443
-  Total Strength: 447
-  Planet Strength: 447
-  Space Strength: 0
-  Garrison Strength: 182
+  Tech Score: 381
+  Unit Score: 381
+  Average Score: 381
+  Stat Strength: 312
+  Total Strength: 381
+  Planet Strength: 0
+  Space Strength: 381
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 4
-  Camouflage: 7
-  Agility: 2
-  Armor: 13
-  Psy Defense: 13
-  Rank: 63
+  Movement Type: space
+  Move Points: 2
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 11
+  Psy Defense: 11
+  Rank: 56
 Attacks:
-  Close: 2/2
-Cargo Space: 1
-Can tow units that can be towed
-Upkeep / Maintenance: 21
-Build Cost: 209
+  Ranged Space: 3/11
+  Direct Space: 2/9
+  Closed Space: 3/6
+Cargo Space: 2
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 180
 Build Resource Requirements:
-  Food: 6
-  Energy: 5
-  Metal: 77
-  Trace: 22
+  Food: 5
+  Energy: 21
+  Metal: 43
+  Trace: 9
   Exotica: 5
-  Chemicals: 5
-Build Naval Minesweeper in Well
-Time to Build / Upgrade: 3
-[665] Technologies Required to Build Unit (98):
+  Chemicals: 38
+  Electronics: 5
+Build Space Armored Cruiser in Starport
+Time to Build / Upgrade: 2
+[1475] Technologies Required to Build Unit (96):
   [230] Hospitals (97)
-  [110] Structural Engineering (99)
+  [145] Composite Armor (97)
+  [145] Director (Auxilliary Predictor) (91)
+  [795] Rocket Propulsion (90)
   [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
   [60] Torpedo (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Naval Destroyer Tender
-Nick Name: NN-DT
+Name: Jump Armored Cruiser
+Nick Name: JJ-CA
 Scores & Strengths:
-  Tech Score: 658
-  Unit Score: 657
-  Average Score: 657
-  Stat Strength: 475
-  Total Strength: 657
-  Planet Strength: 657
-  Space Strength: 0
-  Garrison Strength: 219
+  Tech Score: 466
+  Unit Score: 435
+  Average Score: 451
+  Stat Strength: 358
+  Total Strength: 435
+  Planet Strength: 0
+  Space Strength: 435
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 9
-  Spot: 6
-  Camouflage: 2
-  Agility: 4
-  Armor: 13
-  Psy Defense: 13
-  Rank: 207
+  Movement Type: jump
+  Move Points: 2
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 12
+  Psy Defense: 12
+  Rank: 59
 Attacks:
-  Air: 7/8
-  Indirect: 4/12
-  Direct: 5/10
-  Close: 4/7
-Cargo Space: 1
-Can tow units that can be towed
-Heals units of same movement type
-Upkeep / Maintenance: 23
-Build Cost: 228
+  Ranged Space: 3/12
+  Direct Space: 2/10
+  Closed Space: 3/7
+Cargo Space: 2
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 118
+Build Cost: 1182
 Build Resource Requirements:
-  Food: 3
-  Energy: 21
-  Metal: 33
-  Trace: 10
-  Exotica: 3
-  Chemicals: 21
-  Biochems: 7
-  Electronics: 7
-Build Naval Destroyer Tender in Well
-Time to Build / Upgrade: 2
-[2270] Technology Required to Build Unit (86):
-  [2270] Naval Escort Ships (86)
+  Food: 5
+  Energy: 25
+  Metal: 45
+  Trace: 8
+  Exotica: 4
+  Chemicals: 46
+  Electronics: 6
+S  ingularities: 2
+Build Jump Armored Cruiser in Starport
+Time to Build / Upgrade: 3
+[1915] Technologies Required to Build Unit (93):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [145] Director (Auxilliary Predictor) (91)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
+  [1235] Jump Rocketry (76)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Naval Repair Ship
-Nick Name: NN-RS
+Name: Jump Protected Cruiser
+Nick Name: JJ-CP
 Scores & Strengths:
-  Tech Score: 658
-  Unit Score: 657
-  Average Score: 657
-  Stat Strength: 632
-  Total Strength: 657
-  Planet Strength: 657
-  Space Strength: 0
-  Garrison Strength: 232
+  Tech Score: 461
+  Unit Score: 446
+  Average Score: 454
+  Stat Strength: 312
+  Total Strength: 446
+  Planet Strength: 0
+  Space Strength: 446
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 6
-  Camouflage: 2
-  Agility: 4
-  Armor: 16
-  Psy Defense: 16
-  Rank: 167
+  Movement Type: jump
+  Move Points: 2
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 11
+  Psy Defense: 11
+  Rank: 67
 Attacks:
-  Close: 5/5
-Cargo Space: 1
-Can tow units that can be towed
-Heals units of same movement type
-Upkeep / Maintenance: 14
-Build Cost: 142
+  Ranged Space: 4/11
+  Direct Space: 6/9
+  Closed Space: 6/6
+Cargo Space: 2
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 115
+Build Cost: 1154
 Build Resource Requirements:
-  Food: 3
-  Energy: 5
-  Metal: 49
-  Trace: 5
-  Exotica: 3
-  Chemicals: 5
-  Biochems: 4
-  Electronics: 4
-Build Naval Repair Ship in Well
+  Food: 5
+  Energy: 21
+  Metal: 38
+  Trace: 14
+  Exotica: 4
+  Chemicals: 38
+  Electronics: 10
+S  ingularities: 2
+Build Jump Protected Cruiser in Starport
 Time to Build / Upgrade: 2
-[2270] Technology Required to Build Unit (86):
-  [2270] Naval Escort Ships (86)
+[1895] Technologies Required to Build Unit (94):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [125] Mechanical Think Machines (93)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
+  [1235] Jump Rocketry (76)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Naval Replenishment Tanker
-Nick Name: NN-AOR
+Name: Space Battle-Cruiser
+Nick Name: SS-CB
 Scores & Strengths:
-  Tech Score: 658
-  Unit Score: 658
-  Average Score: 658
-  Stat Strength: 638
-  Total Strength: 658
-  Planet Strength: 658
-  Space Strength: 0
-  Garrison Strength: 268
+  Tech Score: 404
+  Unit Score: 606
+  Average Score: 505
+  Stat Strength: 312
+  Total Strength: 606
+  Planet Strength: 0
+  Space Strength: 606
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 17
-  Psy Defense: 17
-  Rank: 97
+  Movement Type: space
+  Move Points: 2
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 11
+  Psy Defense: 11
+  Rank: 85
 Attacks:
-  Close: 4/5
-Cargo Space: 4
-Upkeep / Maintenance: 13
-Build Cost: 125
+  Ranged Space: 5/23
+  Direct Space: 9/17
+  Closed Space: 2/13
+Cargo Space: 2
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 43
+Build Cost: 425
 Build Resource Requirements:
-  Food: 1
-  Energy: 3
-  Metal: 56
-  Trace: 3
-  Exotica: 1
-  Chemicals: 3
-  Biochems: 2
-  Electronics: 2
-Build Naval Replenishment Tanker in Well
-Time to Build / Upgrade: 2
-[2270] Technology Required to Build Unit (86):
-  [2270] Naval Escort Ships (86)
+  Food: 5
+  Energy: 80
+  Metal: 43
+  Trace: 18
+  Exotica: 5
+  Chemicals: 107
+  Electronics: 11
+Build Space Battle-Cruiser in Starport
+Time to Build / Upgrade: 4
+[1565] Technologies Required to Build Unit (95):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [235] Giro Directory Training (85)
+  [795] Rocket Propulsion (90)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Naval Radar Picket
-Nick Name: NN-BP
+Name: Jump Battle-Cruiser
+Nick Name: JJ-CB
 Scores & Strengths:
-  Tech Score: 658
-  Unit Score: 659
-  Average Score: 658
-  Stat Strength: 596
-  Total Strength: 659
-  Planet Strength: 659
-  Space Strength: 0
-  Garrison Strength: 190
+  Tech Score: 488
+  Unit Score: 701
+  Average Score: 595
+  Stat Strength: 358
+  Total Strength: 701
+  Planet Strength: 0
+  Space Strength: 701
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 12
-  Spot: 12
-  Camouflage: 4
-  Agility: 2
+  Movement Type: jump
+  Move Points: 2
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
   Armor: 12
   Psy Defense: 12
-  Rank: 67
+  Rank: 91
 Attacks:
-  Close: 7/9
-Cargo Space: 1
-Upkeep / Maintenance: 20
-Build Cost: 196
+  Ranged Space: 5/25
+  Direct Space: 10/19
+  Closed Space: 2/14
+Cargo Space: 2
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 141
+Build Cost: 1409
 Build Resource Requirements:
-  Food: 7
-  Energy: 10
-  Metal: 28
-  Trace: 13
-  Exotica: 8
-  Chemicals: 10
-  Biochems: 11
-  Electronics: 10
-Build Naval Radar Picket in Well
-Time to Build / Upgrade: 2
-[2270] Technology Required to Build Unit (86):
-  [2270] Naval Escort Ships (86)
+  Food: 5
+  Energy: 95
+  Metal: 45
+  Trace: 19
+  Exotica: 4
+  Chemicals: 128
+  Electronics: 13
+S  ingularities: 2
+Build Jump Battle-Cruiser in Starport
+Time to Build / Upgrade: 5
+[2005] Technologies Required to Build Unit (92):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [235] Giro Directory Training (85)
+  [100] Psychosocial Engineering (100)
+  [60] Torpedo (98)
+  [1235] Jump Rocketry (76)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Naval Tracking Ship
-Nick Name: NN-AGM
+Name: Space Cruiser
+Nick Name: SS-CC
 Scores & Strengths:
-  Tech Score: 716
-  Unit Score: 718
-  Average Score: 717
-  Stat Strength: 658
-  Total Strength: 718
-  Planet Strength: 718
-  Space Strength: 0
-  Garrison Strength: 227
+  Tech Score: 2916
+  Unit Score: 2916
+  Average Score: 2916
+  Stat Strength: 2188
+  Total Strength: 2916
+  Planet Strength: 0
+  Space Strength: 2916
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 10
-  Spot: 10
-  Camouflage: 2
-  Agility: 2
-  Armor: 15
-  Psy Defense: 15
-  Rank: 67
+  Movement Type: space
+  Move Points: 15
+  Spot: 12
+  Camouflage: 4
+  Agility: 11
+  Armor: 29
+  Psy Defense: 29
+  Rank: 148
 Attacks:
-  Close: 5/12
-Cargo Space: 1
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 17
-Build Cost: 173
+  Ranged Space: 8/29
+  Direct Space: 14/24
+  Closed Space: 16/10
+Cargo Space: 2
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 243
+Build Cost: 2434
 Build Resource Requirements:
-  Food: 5
-  Energy: 10
-  Metal: 41
-  Trace: 7
-  Exotica: 5
-  Chemicals: 10
-  Biochems: 6
-  Electronics: 5
-Build Naval Tracking Ship in Well
-Time to Build / Upgrade: 2
-[3065] Technologies Required to Build Unit (86):
-  [2270] Naval Escort Ships (86)
-  [795] Missiles (86)
+  Food: 2
+  Energy: 12
+  Metal: 12
+  Trace: 8
+  Exotica: 2
+  Chemicals: 21
+  Biochems: 22
+  Electronics: 12
+  Ceramsteel: 14
+  Monopols: 33
+Build Space Cruiser in Starport
+Time to Build / Upgrade: 4
+[16530] Technology Required to Build Unit (80):
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Light Replenishment Tanker
-Nick Name: NN-AOL
+Name: Space Lt Armored Cruiser
+Nick Name: SS-CLA
 Scores & Strengths:
-  Tech Score: 1579
-  Unit Score: 1157
-  Average Score: 1368
-  Stat Strength: 1132
-  Total Strength: 1157
-  Planet Strength: 1157
-  Space Strength: 0
-  Garrison Strength: 289
+  Tech Score: 2916
+  Unit Score: 2916
+  Average Score: 2916
+  Stat Strength: 2018
+  Total Strength: 2916
+  Planet Strength: 0
+  Space Strength: 2916
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
+  Movement Type: space
   Move Points: 16
-  Spot: 6
-  Camouflage: 2
-  Agility: 6
-  Armor: 20
-  Psy Defense: 20
-  Rank: 84
+  Spot: 12
+  Camouflage: 4
+  Agility: 12
+  Armor: 27
+  Psy Defense: 27
+  Rank: 157
 Attacks:
-  Close: 5/5
+  Ranged Space: 12/27
+  Direct Space: 18/23
+  Closed Space: 20/8
 Cargo Space: 2
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 22
-Build Cost: 215
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 224
+Build Cost: 2236
 Build Resource Requirements:
-  Food: 3
-  Energy: 7
-  Metal: 18
-  Trace: 2
-  Exotica: 3
-  Chemicals: 13
-  Biochems: 4
-  Electronics: 2
-  Ceramsteel: 23
-Build Light Replenishment Tanker in Well
-Time to Build / Upgrade: 2
-[7295] Technology Required to Build Unit (81):
-  [7295] Nuclear-Powered Navalcraft (81)
+  Food: 2
+  Energy: 11
+  Metal: 10
+  Trace: 12
+  Exotica: 2
+  Chemicals: 19
+  Biochems: 24
+  Electronics: 18
+  Ceramsteel: 12
+  Monopols: 30
+Build Space Lt Armored Cruiser in Starport
+Time to Build / Upgrade: 4
+[16530] Technology Required to Build Unit (80):
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Fast Combat Support Ship
-Nick Name: NN-AOE
+Name: Space Scout Cruiser
+Nick Name: SS-CS
 Scores & Strengths:
-  Tech Score: 1339
-  Unit Score: 1341
-  Average Score: 1340
-  Stat Strength: 1220
-  Total Strength: 1341
-  Planet Strength: 1341
-  Space Strength: 0
-  Garrison Strength: 358
+  Tech Score: 2916
+  Unit Score: 2916
+  Average Score: 2916
+  Stat Strength: 2180
+  Total Strength: 2916
+  Planet Strength: 0
+  Space Strength: 2916
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 14
-  Spot: 6
-  Camouflage: 2
-  Agility: 4
-  Armor: 22
-  Psy Defense: 22
-  Rank: 113
+  Movement Type: space
+  Move Points: 18
+  Spot: 18
+  Camouflage: 6
+  Agility: 12
+  Armor: 26
+  Psy Defense: 26
+  Rank: 148
 Attacks:
-  Close: 11/11
-Cargo Space: 5
-Upkeep / Maintenance: 36
-Build Cost: 359
+  Ranged Space: 14/24
+  Direct Space: 20/14
+  Closed Space: 15/8
+Cargo Space: 1
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 178
+Build Cost: 1782
 Build Resource Requirements:
   Food: 3
   Energy: 8
-  Metal: 26
-  Trace: 4
+  Metal: 9
+  Trace: 13
   Exotica: 3
-  Chemicals: 16
-  Biochems: 5
-  Electronics: 5
-  Ceramsteel: 31
-Build Fast Combat Support Ship in Well
+  Chemicals: 14
+  Biochems: 23
+  Electronics: 21
+  Ceramsteel: 11
+  Monopols: 24
+Build Space Scout Cruiser in Starport
 Time to Build / Upgrade: 3
-[5855] Technology Required to Build Unit (84):
-  [5855] Guided Missile Navalcraft (84)
+[16530] Technology Required to Build Unit (80):
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Space Heavy Cruiser
+Nick Name: SS-CH
+Scores & Strengths:
+  Tech Score: 2916
+  Unit Score: 2916
+  Average Score: 2916
+  Stat Strength: 2256
+  Total Strength: 2916
+  Planet Strength: 0
+  Space Strength: 2916
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 14
+  Spot: 12
+  Camouflage: 4
+  Agility: 10
+  Armor: 30
+  Psy Defense: 30
+  Rank: 144
+Attacks:
+  Ranged Space: 6/30
+  Direct Space: 12/26
+  Closed Space: 14/12
+Cargo Space: 2
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 261
+Build Cost: 2605
+Build Resource Requirements:
+  Food: 1
+  Energy: 13
+  Metal: 13
+  Trace: 6
+  Exotica: 2
+  Chemicals: 22
+  Biochems: 22
+  Electronics: 10
+  Ceramsteel: 15
+  Monopols: 36
+Build Space Heavy Cruiser in Starport
+Time to Build / Upgrade: 4
+[16530] Technology Required to Build Unit (80):
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Jump Cruiser
+Nick Name: JJ-CC
+Scores & Strengths:
+  Tech Score: 3755
+  Unit Score: 3732
+  Average Score: 3743
+  Stat Strength: 2805
+  Total Strength: 3732
+  Planet Strength: 0
+  Space Strength: 3732
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 17
+  Spot: 13
+  Camouflage: 5
+  Agility: 12
+  Armor: 33
+  Psy Defense: 33
+  Rank: 166
+Attacks:
+  Ranged Space: 9/33
+  Direct Space: 16/27
+  Closed Space: 18/11
+Cargo Space: 2
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 566
+Build Cost: 5662
+Build Resource Requirements:
+  Food: 2
+  Energy: 11
+  Metal: 12
+  Trace: 7
+  Exotica: 2
+  Chemicals: 19
+  Biochems: 20
+  Electronics: 11
+  Ceramsteel: 14
+  Monopols: 35
+S  ingularities: 4
+Build Jump Cruiser in Starport
+Time to Build / Upgrade: 4
+[29430] Technologies Required to Build Unit (71):
+  [4285] Jump Drives (70)
+  [8615] Fusion Beam (63)
+  [16530] Space Capital Ships (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Jump Scout Cruiser
+Nick Name: JJ-CS
+Scores & Strengths:
+  Tech Score: 5589
+  Unit Score: 5308
+  Average Score: 5449
+  Stat Strength: 3918
+  Total Strength: 5308
+  Planet Strength: 0
+  Space Strength: 5308
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 25
+  Spot: 21
+  Camouflage: 8
+  Agility: 14
+  Armor: 36
+  Psy Defense: 36
+  Rank: 199
+Attacks:
+  Ranged Space: 19/33
+  Direct Space: 28/19
+  Closed Space: 21/11
+Cargo Space: 1
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 714
+Build Cost: 7142
+Build Resource Requirements:
+  Food: 2
+  Energy: 9
+  Metal: 9
+  Trace: 11
+  Exotica: 3
+  Chemicals: 17
+  Biochems: 22
+  Electronics: 26
+  Ceramsteel: 13
+  Monopols: 31
+S  ingularities: 5
+Build Jump Scout Cruiser in Starport
+Time to Build / Upgrade: 4
+[39365] Technology Required to Build Unit (61):
+  [39365] Jump Capital Ships (61)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--13--
+Name: Jump Lt Armored Cruiser
+Nick Name: JJ-CLA
+Scores & Strengths:
+  Tech Score: 5589
+  Unit Score: 5387
+  Average Score: 5488
+  Stat Strength: 3650
+  Total Strength: 5387
+  Planet Strength: 0
+  Space Strength: 5387
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 22
+  Spot: 14
+  Camouflage: 6
+  Agility: 14
+  Armor: 37
+  Psy Defense: 37
+  Rank: 212
+Attacks:
+  Ranged Space: 17/37
+  Direct Space: 25/32
+  Closed Space: 28/11
+Cargo Space: 2
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 756
+Build Cost: 7560
+Build Resource Requirements:
+  Food: 1
+  Energy: 13
+  Metal: 9
+  Trace: 10
+  Exotica: 2
+  Chemicals: 23
+  Biochems: 23
+  Electronics: 24
+  Ceramsteel: 14
+  Monopols: 38
+S  ingularities: 5
+Build Jump Lt Armored Cruiser in Starport
+Time to Build / Upgrade: 4
+[39365] Technology Required to Build Unit (61):
+  [39365] Jump Capital Ships (61)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--14--
+Name: Jump Heavy Cruiser
+Nick Name: JJ-CH
+Scores & Strengths:
+  Tech Score: 5589
+  Unit Score: 5536
+  Average Score: 5563
+  Stat Strength: 4265
+  Total Strength: 5536
+  Planet Strength: 0
+  Space Strength: 5536
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 19
+  Spot: 14
+  Camouflage: 6
+  Agility: 12
+  Armor: 42
+  Psy Defense: 42
+  Rank: 195
+Attacks:
+  Ranged Space: 8/42
+  Direct Space: 17/36
+  Closed Space: 19/17
+Cargo Space: 2
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 767
+Build Cost: 7671
+Build Resource Requirements:
+  Food: 1
+  Energy: 15
+  Metal: 12
+  Trace: 5
+  Exotica: 1
+  Chemicals: 28
+  Biochems: 22
+  Electronics: 15
+  Ceramsteel: 18
+  Monopols: 47
+S  ingularities: 4
+Build Jump Heavy Cruiser in Starport
+Time to Build / Upgrade: 4
+[39365] Technology Required to Build Unit (61):
+  [39365] Jump Capital Ships (61)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--15--
+Name: Cybermorph Vlad Cruiser
+Nick Name: JJ-CC-Cm
+Scores & Strengths:
+  Tech Score: 8200
+  Unit Score: 8200
+  Average Score: 8200
+  Stat Strength: 6519
+  Total Strength: 8200
+  Planet Strength: 0
+  Space Strength: 8200
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 25
+  Spot: 26
+  Camouflage: 13
+  Agility: 39
+  Armor: 42
+  Psy Defense: 42
+  Rank: 236
+Attacks:
+  Ranged Space: 17/35
+  Direct Space: 23/28
+  Closed Space: 26/17
+Cargo Space: 2
+Load aboard transport: YES
+Upkeep / Maintenance: 775
+Build Cost: 7745
+Build Resource Requirements:
+  Food: 1
+  Energy: 7
+  Metal: 6
+  Trace: 5
+  Exotica: 2
+  Chemicals: 12
+  Biochems: 20
+  Electronics: 13
+  Ceramsteel: 9
+  Wetware: 8
+  Monopols: 22
+S  ingularities: 5
+Cybermorph Vlad Cruiser cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES

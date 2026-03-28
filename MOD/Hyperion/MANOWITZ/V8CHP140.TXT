@@ -1,410 +1,884 @@
-All units of the unit class PTS Tank are listed herein (9 in total):
+All units of the unit class Cargo Plane are listed herein (20 in total):
 
 --1--
-Name: PTS Tank
-Nick Name: PTS Tank
+Name: Cargo Plane
+Nick Name: A-PX
 Scores & Strengths:
-  Tech Score: 608
-  Unit Score: 606
-  Average Score: 607
-  Stat Strength: 368
-  Total Strength: 606
-  Planet Strength: 528
-  Space Strength: 446
-  Garrison Strength: 215
+  Tech Score: 591
+  Unit Score: 590
+  Average Score: 591
+  Stat Strength: 590
+  Total Strength: 590
+  Planet Strength: 590
+  Space Strength: 0
+  Garrison Strength: 163
 Statistics:
-  Movement Type: tread
-  Move Points: 6
-  Spot: 2
-  Camouflage: 2
-  Agility: 6
+  Movement Type: air
+  Move Points: 13
+  Spot: 6
+  Camouflage: 4
+  Agility: 9
   Armor: 12
   Psy Defense: 12
-  Rank: 72
-Attacks:
-  Ranged Space: 6/13
-  Indirect: 6/13
-  Direct: 5/11
-  Close: 3/9
+  Rank: 34
+Cargo Space: 1
 Load aboard transport: YES
-Upkeep / Maintenance: 7
-Build Cost: 67
+Upkeep / Maintenance: 11
+Build Cost: 105
 Build Resource Requirements:
-  Food: 2
-  Energy: 32
-  Metal: 27
-  Trace: 8
-  Exotica: 2
-  Chemicals: 45
-  Electronics: 7
-Build PTS Tank in Factory
-Time to Build / Upgrade: 2
-[2300] Technologies Required to Build Unit (92):
-  [350] Tanks (95)
-  [1950] PTS Missile Launcher (88)
+  Food: 8
+  Energy: 14
+  Metal: 198
+  Trace: 7
+  Exotica: 8
+  Chemicals: 15
+  Electronics: 6
+Build Cargo Plane in Factory
+Time to Build / Upgrade: 3
+[1970] Technology Required to Build Unit (87):
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: PTS Tank II
-Nick Name: PTS Tank II
+Name: Medium Cargo Plane
+Nick Name: A-PX (M)
 Scores & Strengths:
-  Tech Score: 1132
-  Unit Score: 1079
-  Average Score: 1105
-  Stat Strength: 638
-  Total Strength: 1079
-  Planet Strength: 935
-  Space Strength: 782
-  Garrison Strength: 330
+  Tech Score: 677
+  Unit Score: 667
+  Average Score: 672
+  Stat Strength: 667
+  Total Strength: 667
+  Planet Strength: 667
+  Space Strength: 0
+  Garrison Strength: 178
 Statistics:
-  Movement Type: tread
-  Move Points: 8
-  Spot: 2
-  Camouflage: 3
-  Agility: 7
-  Armor: 16
-  Psy Defense: 16
-  Rank: 83
-Attacks:
-  Ranged Space: 8/18
-  Indirect: 8/18
-  Direct: 7/15
-  Close: 4/12
+  Movement Type: air
+  Move Points: 14
+  Spot: 6
+  Camouflage: 4
+  Agility: 9
+  Armor: 13
+  Psy Defense: 13
+  Rank: 41
+Cargo Space: 2
 Load aboard transport: YES
-Upkeep / Maintenance: 6
-Build Cost: 62
+Upkeep / Maintenance: 5
+Build Cost: 54
 Build Resource Requirements:
-  Food: 1
-  Energy: 26
-  Metal: 41
-  Trace: 6
-  Exotica: 1
-  Chemicals: 34
-  Electronics: 4
-Build PTS Tank II in Factory
+  Food: 7
+  Energy: 11
+  Metal: 63
+  Trace: 5
+  Exotica: 7
+  Chemicals: 11
+  Electronics: 5
+Build Medium Cargo Plane in Factory
 Time to Build / Upgrade: 2
-[6890] Technologies Required to Build Unit (88):
+[2740] Technologies Required to Build Unit (90):
   [770] Self-Propelled Weaponry (92)
-  [1950] PTS Missile Launcher (88)
-  [4170] Supercruise Missiles (84)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Symbiot PTS Weapon
-Nick Name: Fumerole
+Name: Heavy Cargo Plane
+Nick Name: A-PX (H)
 Scores & Strengths:
-  Tech Score: 1530
-  Unit Score: 1530
-  Average Score: 1530
-  Stat Strength: 724
-  Total Strength: 1530
-  Planet Strength: 1370
-  Space Strength: 884
-  Garrison Strength: 395
+  Tech Score: 839
+  Unit Score: 791
+  Average Score: 815
+  Stat Strength: 791
+  Total Strength: 791
+  Planet Strength: 791
+  Space Strength: 0
+  Garrison Strength: 204
 Statistics:
-  Movement Type: tread
-  Move Points: 12
-  Spot: 8
-  Camouflage: 8
-  Agility: 8
-  Armor: 18
-  Psy Defense: 8
-  Rank: 91
-Attacks:
-  Ranged Space: 10/16
-  Air: 11/15
-  Indirect: 9/17
-  Direct: 10/16
-  Close: 12/14
+  Movement Type: air
+  Move Points: 15
+  Spot: 7
+  Camouflage: 5
+  Agility: 10
+  Armor: 14
+  Psy Defense: 14
+  Rank: 49
+Cargo Space: 3
 Load aboard transport: YES
-Upkeep / Maintenance: 86
-Build Cost: 862
+Upkeep / Maintenance: 6
+Build Cost: 62
 Build Resource Requirements:
-  Food: 3
-  Energy: 195
-  Metal: 7
-  Trace: 7
-  Exotica: 4
-  Chemicals: 241
-  Biochems: 287
-  Electronics: 20
-Build Symbiot PTS Weapon in Hive
-Time to Build / Upgrade: 7
-[6995] Technology Required to Build Unit (37):
-  [6995] Symbiot Psychology (37)
+  Food: 7
+  Energy: 10
+  Metal: 42
+  Trace: 5
+  Exotica: 7
+  Chemicals: 22
+  Electronics: 6
+Build Heavy Cargo Plane in Factory
+Time to Build / Upgrade: 2
+[3670] Technologies Required to Build Unit (88):
+  [1700] Main Battle Tank (88)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: PTS Tank III
-Nick Name: PTS Tank III
+Name: Cargo Plane II
+Nick Name: A-PX II
 Scores & Strengths:
-  Tech Score: 1685
-  Unit Score: 1641
-  Average Score: 1663
-  Stat Strength: 982
-  Total Strength: 1641
-  Planet Strength: 1421
-  Space Strength: 1202
-  Garrison Strength: 449
+  Tech Score: 911
+  Unit Score: 880
+  Average Score: 896
+  Stat Strength: 880
+  Total Strength: 880
+  Planet Strength: 880
+  Space Strength: 0
+  Garrison Strength: 220
 Statistics:
-  Movement Type: tread
-  Move Points: 10
-  Spot: 3
-  Camouflage: 3
-  Agility: 8
-  Armor: 20
-  Psy Defense: 20
-  Rank: 93
-Attacks:
-  Ranged Space: 10/22
-  Indirect: 10/22
-  Direct: 8/18
-  Close: 5/15
+  Movement Type: air
+  Move Points: 16
+  Spot: 7
+  Camouflage: 5
+  Agility: 10
+  Armor: 15
+  Psy Defense: 15
+  Rank: 41
+Cargo Space: 1
 Load aboard transport: YES
-Upkeep / Maintenance: 9
-Build Cost: 87
+Upkeep / Maintenance: 10
+Build Cost: 97
 Build Resource Requirements:
-  Food: 1
-  Energy: 28
-  Metal: 51
-  Trace: 6
-  Exotica: 1
-  Chemicals: 51
-  Electronics: 5
-Build PTS Tank III in Factory
+  Food: 8
+  Energy: 12
+  Metal: 29
+  Trace: 5
+  Exotica: 8
+  Chemicals: 26
+  Electronics: 6
+  Ceramsteel: 44
+Build Cargo Plane II in Factory
 Time to Build / Upgrade: 3
-[10755] Technologies Required to Build Unit (84):
-  [1700] Main Battle Tank (88)
-  [1950] PTS Missile Launcher (88)
-  [7105] Hypercruise Missiles (77)
+[3660] Technologies Required to Build Unit (86):
+  [1690] Ceramsteel (84)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: PTS Laser Cannon
-Nick Name: PTS Laser
+Name: Medium Cargo Plane II
+Nick Name: A-PX (M) II
 Scores & Strengths:
-  Tech Score: 2044
-  Unit Score: 2043
-  Average Score: 2044
-  Stat Strength: 1422
-  Total Strength: 2043
-  Planet Strength: 1753
-  Space Strength: 1712
-  Garrison Strength: 619
+  Tech Score: 984
+  Unit Score: 913
+  Average Score: 949
+  Stat Strength: 913
+  Total Strength: 913
+  Planet Strength: 913
+  Space Strength: 0
+  Garrison Strength: 221
 Statistics:
-  Movement Type: tread
-  Move Points: 8
-  Spot: 10
-  Camouflage: 2
-  Agility: 2
-  Armor: 25
-  Psy Defense: 25
-  Rank: 98
-Attacks:
-  Ranged Space: 10/29
-  Air: 9/15
-  Direct: 14/14
+  Movement Type: air
+  Move Points: 17
+  Spot: 7
+  Camouflage: 5
+  Agility: 10
+  Armor: 15
+  Psy Defense: 15
+  Rank: 47
+Cargo Space: 2
 Load aboard transport: YES
-Upkeep / Maintenance: 114
-Build Cost: 1143
+Upkeep / Maintenance: 9
+Build Cost: 85
 Build Resource Requirements:
-  Food: 2
-  Energy: 15
-  Metal: 12
-  Trace: 9
-  Exotica: 2
-  Chemicals: 25
-  Electronics: 16
-  Ceramsteel: 18
-  Monopols: 51
-Build PTS Laser Cannon in Factory
-Time to Build / Upgrade: 4
-[10295] Technology Required to Build Unit (76):
-  [10295] PTS Fusion Cannon (76)
+  Food: 8
+  Energy: 11
+  Metal: 29
+  Trace: 5
+  Exotica: 7
+  Chemicals: 21
+  Electronics: 5
+  Ceramsteel: 32
+Build Medium Cargo Plane II in Factory
+Time to Build / Upgrade: 3
+[4430] Technologies Required to Build Unit (88):
+  [1690] Ceramsteel (84)
+  [770] Self-Propelled Weaponry (92)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: PTS Meson Cannon
-Nick Name: PTS Meson
+Name: Stretch Cargo Plane
+Nick Name: A-PX (S)
 Scores & Strengths:
-  Tech Score: 3737
-  Unit Score: 3737
-  Average Score: 3737
-  Stat Strength: 2590
-  Total Strength: 3737
-  Planet Strength: 3191
-  Space Strength: 3136
-  Garrison Strength: 962
+  Tech Score: 1127
+  Unit Score: 1108
+  Average Score: 1118
+  Stat Strength: 1108
+  Total Strength: 1108
+  Planet Strength: 1108
+  Space Strength: 0
+  Garrison Strength: 261
 Statistics:
-  Movement Type: tread
-  Move Points: 11
-  Spot: 12
-  Camouflage: 3
-  Agility: 2
-  Armor: 34
-  Psy Defense: 34
-  Rank: 125
-Attacks:
-  Ranged Space: 14/39
-  Air: 12/20
-  Direct: 19/19
+  Movement Type: air
+  Move Points: 18
+  Spot: 7
+  Camouflage: 6
+  Agility: 11
+  Armor: 17
+  Psy Defense: 17
+  Rank: 60
+Cargo Space: 4
 Load aboard transport: YES
-Upkeep / Maintenance: 128
-Build Cost: 133
+Upkeep / Maintenance: 11
+Build Cost: 106
 Build Resource Requirements:
-  Chemicals: 3
-  Electronics: 4
-  Ceramsteel: 1
-Upgrade PTS Laser Cannon to PTS Meson Cannon at Factory
-Time to Build / Upgrade: 1
-[23015] Technology Required to Build Unit (70):
-  [23015] PTS Meson Cannon (70)
+  Food: 8
+  Energy: 10
+  Metal: 31
+  Trace: 5
+  Exotica: 8
+  Chemicals: 22
+  Electronics: 5
+  Ceramsteel: 29
+Build Stretch Cargo Plane in Factory
+Time to Build / Upgrade: 3
+[5530] Technologies Required to Build Unit (89):
+  [170] Reactive Armor (95)
+  [1690] Ceramsteel (84)
+  [1700] Main Battle Tank (88)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Vau PTS Weapon
-Nick Name: Atomizer
+Name: Heavy Cargo Plane II
+Nick Name: A-PX (H) II
 Scores & Strengths:
-  Tech Score: 3886
-  Unit Score: 3880
-  Average Score: 3883
-  Stat Strength: 2232
-  Total Strength: 3880
-  Planet Strength: 3280
-  Space Strength: 2832
-  Garrison Strength: 876
+  Tech Score: 1202
+  Unit Score: 1145
+  Average Score: 1173
+  Stat Strength: 1145
+  Total Strength: 1145
+  Planet Strength: 1145
+  Space Strength: 0
+  Garrison Strength: 262
 Statistics:
-  Movement Type: tread
-  Move Points: 14
-  Spot: 10
+  Movement Type: air
+  Move Points: 19
+  Spot: 7
   Camouflage: 6
-  Agility: 10
-  Armor: 30
-  Psy Defense: 30
-  Rank: 164
-Attacks:
-  Ranged Space: 20/30
-  Air: 16/28
-  Indirect: 20/30
+  Agility: 11
+  Armor: 17
+  Psy Defense: 17
+  Rank: 56
+Cargo Space: 3
 Load aboard transport: YES
-Upkeep / Maintenance: 161
-Build Cost: 1606
+Upkeep / Maintenance: 10
+Build Cost: 104
 Build Resource Requirements:
-  Food: 1
-  Energy: 15
-  Metal: 5
+  Food: 8
+  Energy: 10
+  Metal: 28
   Trace: 4
-  Exotica: 1
-  Chemicals: 27
-  Biochems: 26
-  Electronics: 10
-  Ceramsteel: 10
-  Wetware: 8
-  Monopols: 45
-Build Vau PTS Weapon in Vau City
-Time to Build / Upgrade: 4
-[24245] Technology Required to Build Unit (50):
-  [24245] Vau Psychology (50)
+  Exotica: 8
+  Chemicals: 21
+  Electronics: 21
+  Ceramsteel: 26
+Build Heavy Cargo Plane II in Factory
+Time to Build / Upgrade: 3
+[6875] Technologies Required to Build Unit (86):
+  [1690] Ceramsteel (84)
+  [260] Electronic Armor (90)
+  [1255] Digital Fly-by-Wire (81)
+  [1700] Main Battle Tank (88)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Discontinuity Cannon
-Nick Name: PTS Beam
+Name: Stretch Cargo Plane II
+Nick Name: A-PX (S) II
 Scores & Strengths:
-  Tech Score: 4120
-  Unit Score: 3975
-  Average Score: 4047
-  Stat Strength: 2728
-  Total Strength: 3975
-  Planet Strength: 3401
-  Space Strength: 3302
-  Garrison Strength: 1025
+  Tech Score: 1408
+  Unit Score: 1328
+  Average Score: 1368
+  Stat Strength: 1328
+  Total Strength: 1328
+  Planet Strength: 1328
+  Space Strength: 0
+  Garrison Strength: 296
 Statistics:
-  Movement Type: tread
-  Move Points: 11
-  Spot: 12
-  Camouflage: 3
-  Agility: 2
-  Armor: 35
-  Psy Defense: 35
-  Rank: 130
-Attacks:
-  Ranged Space: 14/41
-  Air: 13/21
-  Direct: 20/20
+  Movement Type: air
+  Move Points: 20
+  Spot: 7
+  Camouflage: 6
+  Agility: 11
+  Armor: 19
+  Psy Defense: 19
+  Rank: 63
+Cargo Space: 4
 Load aboard transport: YES
-Upkeep / Maintenance: 132
-Build Cost: 179
+Upkeep / Maintenance: 14
+Build Cost: 143
 Build Resource Requirements:
-  Chemicals: 3
-  Electronics: 4
-Upgrade PTS Laser Cannon to Discontinuity Cannon at Factory
-Time to Build / Upgrade: 1
-[26210] Technology Required to Build Unit (54):
-  [26210] PTS Beam Cannon (54)
+  Food: 6
+  Energy: 9
+  Metal: 35
+  Trace: 3
+  Exotica: 6
+  Chemicals: 34
+  Electronics: 25
+  Ceramsteel: 33
+Build Stretch Cargo Plane II in Factory
+Time to Build / Upgrade: 3
+[8710] Technologies Required to Build Unit (86):
+  [1690] Ceramsteel (84)
+  [3350] Active Protective Systems (83)
+  [1700] Main Battle Tank (88)
+  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Omicron Ray
-Nick Name: Omicron Ray
+Name: Cargo Plane III
+Nick Name: A-PX III
 Scores & Strengths:
-  Tech Score: 5202
-  Unit Score: 5201
-  Average Score: 5201
-  Stat Strength: 3650
-  Total Strength: 5201
-  Planet Strength: 4201
-  Space Strength: 4650
-  Garrison Strength: 1212
+  Tech Score: 1472
+  Unit Score: 1384
+  Average Score: 1428
+  Stat Strength: 1384
+  Total Strength: 1384
+  Planet Strength: 1384
+  Space Strength: 0
+  Garrison Strength: 302
 Statistics:
-  Movement Type: tread
-  Move Points: 12
-  Spot: 16
-  Camouflage: 5
-  Agility: 5
-  Armor: 40
-  Psy Defense: 40
-  Rank: 162
-Attacks:
-  Ranged Space: 20/50
-  Air: 25/11
-  Indirect: 12/23
+  Movement Type: air
+  Move Points: 21
+  Spot: 8
+  Camouflage: 6
+  Agility: 11
+  Armor: 19
+  Psy Defense: 19
+  Rank: 50
+Cargo Space: 1
 Load aboard transport: YES
-Upkeep / Maintenance: 154
-Build Cost: 1542
+Upkeep / Maintenance: 9
+Build Cost: 90
 Build Resource Requirements:
-  Food: 1
-  Energy: 10
-  Metal: 7
+  Food: 7
+  Energy: 11
+  Metal: 20
   Trace: 4
-  Exotica: 1
-  Chemicals: 21
-  Biochems: 21
+  Exotica: 7
+  Chemicals: 27
+  Electronics: 17
+  Ceramsteel: 26
+Build Cargo Plane III in Factory
+Time to Build / Upgrade: 3
+[7175] Technologies Required to Build Unit (86):
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Medium Cargo Plane III
+Nick Name: A-PX (M) III
+Scores & Strengths:
+  Tech Score: 1674
+  Unit Score: 1541
+  Average Score: 1608
+  Stat Strength: 1541
+  Total Strength: 1541
+  Planet Strength: 1541
+  Space Strength: 0
+  Garrison Strength: 328
+Statistics:
+  Movement Type: air
+  Move Points: 22
+  Spot: 8
+  Camouflage: 7
+  Agility: 12
+  Armor: 20
+  Psy Defense: 20
+  Rank: 58
+Cargo Space: 2
+Load aboard transport: YES
+Upkeep / Maintenance: 10
+Build Cost: 96
+Build Resource Requirements:
+  Food: 6
+  Energy: 10
+  Metal: 22
+  Trace: 3
+  Exotica: 6
+  Chemicals: 25
+  Electronics: 18
+  Ceramsteel: 28
+Build Medium Cargo Plane III in Factory
+Time to Build / Upgrade: 3
+[10375] Technologies Required to Build Unit (85):
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+  [3200] Supersonic Aircraft (85)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Heavy Cargo Plane III
+Nick Name: A-PX (H) III
+Scores & Strengths:
+  Tech Score: 1910
+  Unit Score: 1754
+  Average Score: 1832
+  Stat Strength: 1754
+  Total Strength: 1754
+  Planet Strength: 1754
+  Space Strength: 0
+  Garrison Strength: 365
+Statistics:
+  Movement Type: air
+  Move Points: 23
+  Spot: 8
+  Camouflage: 7
+  Agility: 12
+  Armor: 22
+  Psy Defense: 22
+  Rank: 65
+Cargo Space: 3
+Load aboard transport: YES
+Upkeep / Maintenance: 12
+Build Cost: 120
+Build Resource Requirements:
+  Food: 5
+  Energy: 9
+  Metal: 27
+  Trace: 3
+  Exotica: 5
+  Chemicals: 27
+  Electronics: 20
+  Ceramsteel: 34
+Build Heavy Cargo Plane III in Factory
+Time to Build / Upgrade: 3
+[12840] Technologies Required to Build Unit (84):
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+  [5665] Hypersonic Aircraft (82)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Stretch Cargo Plane III
+Nick Name: A-PX (S) III
+Scores & Strengths:
+  Tech Score: 1979
+  Unit Score: 1801
+  Average Score: 1890
+  Stat Strength: 1801
+  Total Strength: 1801
+  Planet Strength: 1801
+  Space Strength: 0
+  Garrison Strength: 367
+Statistics:
+  Movement Type: air
+  Move Points: 24
+  Spot: 8
+  Camouflage: 7
+  Agility: 12
+  Armor: 22
+  Psy Defense: 22
+  Rank: 71
+Cargo Space: 4
+Load aboard transport: YES
+Upkeep / Maintenance: 9
+Build Cost: 92
+Build Resource Requirements:
+  Food: 5
+  Energy: 8
+  Metal: 13
+  Trace: 2
+  Exotica: 5
+  Chemicals: 20
   Electronics: 12
-  Ceramsteel: 13
-  Wetware: 8
-  Monopols: 36
-Build Omicron Ray in Factory
-Time to Build / Upgrade: 4
-[49605] Technologies Required to Build Unit (46):
-  [23395] Advanced Hovertech (37)
-  [26210] PTS Beam Cannon (54)
+  Ceramsteel: 21
+Build Stretch Cargo Plane III in Factory
+Time to Build / Upgrade: 2
+[14785] Technologies Required to Build Unit (84):
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+  [7610] Atmospheric Aircraft (80)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--13--
+Name: Cargo Plane IV
+Nick Name: A-PX IV
+Scores & Strengths:
+  Tech Score: 2184
+  Unit Score: 1955
+  Average Score: 2069
+  Stat Strength: 1955
+  Total Strength: 1955
+  Planet Strength: 1955
+  Space Strength: 0
+  Garrison Strength: 391
+Statistics:
+  Movement Type: air
+  Move Points: 25
+  Spot: 8
+  Camouflage: 8
+  Agility: 12
+  Armor: 23
+  Psy Defense: 23
+  Rank: 58
+Cargo Space: 1
+Load aboard transport: YES
+Upkeep / Maintenance: 8
+Build Cost: 77
+Build Resource Requirements:
+  Food: 5
+  Energy: 8
+  Metal: 15
+  Trace: 3
+  Exotica: 5
+  Chemicals: 21
+  Electronics: 12
+  Ceramsteel: 23
+Build Cargo Plane IV in Factory
+Time to Build / Upgrade: 2
+[16605] Technologies Required to Build Unit (84):
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+  [9430] Advanced V/STOL Aircraft (81)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--14--
+Name: Medium Cargo Plane IV
+Nick Name: A-PX (M) IV
+Scores & Strengths:
+  Tech Score: 2349
+  Unit Score: 2125
+  Average Score: 2237
+  Stat Strength: 2125
+  Total Strength: 2125
+  Planet Strength: 2125
+  Space Strength: 0
+  Garrison Strength: 416
+Statistics:
+  Movement Type: air
+  Move Points: 26
+  Spot: 8
+  Camouflage: 8
+  Agility: 13
+  Armor: 24
+  Psy Defense: 24
+  Rank: 65
+Cargo Space: 2
+Load aboard transport: YES
+Upkeep / Maintenance: 9
+Build Cost: 87
+Build Resource Requirements:
+  Food: 5
+  Energy: 8
+  Metal: 16
+  Trace: 2
+  Exotica: 5
+  Chemicals: 22
+  Electronics: 13
+  Ceramsteel: 25
+Build Medium Cargo Plane IV in Factory
+Time to Build / Upgrade: 2
+[19100] Technologies Required to Build Unit (82):
+  [2495] Embedded Biosensors (75)
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+  [9430] Advanced V/STOL Aircraft (81)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--15--
+Name: Heavy Cargo Plane IV
+Nick Name: A-PX (H) IV
+Scores & Strengths:
+  Tech Score: 2615
+  Unit Score: 2293
+  Average Score: 2454
+  Stat Strength: 2293
+  Total Strength: 2293
+  Planet Strength: 2293
+  Space Strength: 0
+  Garrison Strength: 441
+Statistics:
+  Movement Type: air
+  Move Points: 27
+  Spot: 9
+  Camouflage: 8
+  Agility: 13
+  Armor: 25
+  Psy Defense: 25
+  Rank: 73
+Cargo Space: 3
+Load aboard transport: YES
+Upkeep / Maintenance: 10
+Build Cost: 99
+Build Resource Requirements:
+  Food: 5
+  Energy: 9
+  Metal: 16
+  Trace: 2
+  Exotica: 5
+  Chemicals: 22
+  Electronics: 13
+  Ceramsteel: 25
+Build Heavy Cargo Plane IV in Factory
+Time to Build / Upgrade: 2
+[22615] Technologies Required to Build Unit (78):
+  [6010] Cyber Robotics (58)
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+  [9430] Advanced V/STOL Aircraft (81)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--16--
+Name: Stretch Cargo Plane IV
+Nick Name: A-PX (S) IV
+Scores & Strengths:
+  Tech Score: 2688
+  Unit Score: 2467
+  Average Score: 2578
+  Stat Strength: 2467
+  Total Strength: 2467
+  Planet Strength: 2467
+  Space Strength: 0
+  Garrison Strength: 466
+Statistics:
+  Movement Type: air
+  Move Points: 28
+  Spot: 9
+  Camouflage: 9
+  Agility: 13
+  Armor: 26
+  Psy Defense: 26
+  Rank: 80
+Cargo Space: 4
+Load aboard transport: YES
+Upkeep / Maintenance: 12
+Build Cost: 122
+Build Resource Requirements:
+  Food: 6
+  Energy: 9
+  Metal: 17
+  Trace: 2
+  Exotica: 6
+  Chemicals: 24
+  Electronics: 13
+  Ceramsteel: 27
+Build Stretch Cargo Plane IV in Factory
+Time to Build / Upgrade: 3
+[23155] Technologies Required to Build Unit (80):
+  [6550] Advanced Nanotechnology (66)
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+  [9430] Advanced V/STOL Aircraft (81)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--17--
+Name: Cargo Plane V
+Nick Name: A-PX V
+Scores & Strengths:
+  Tech Score: 2928
+  Unit Score: 2630
+  Average Score: 2779
+  Stat Strength: 2630
+  Total Strength: 2630
+  Planet Strength: 2630
+  Space Strength: 0
+  Garrison Strength: 488
+Statistics:
+  Movement Type: air
+  Move Points: 29
+  Spot: 9
+  Camouflage: 9
+  Agility: 13
+  Armor: 27
+  Psy Defense: 27
+  Rank: 67
+Cargo Space: 1
+Load aboard transport: YES
+Upkeep / Maintenance: 55
+Build Cost: 550
+Build Resource Requirements:
+  Food: 4
+  Energy: 7
+  Metal: 9
+  Trace: 2
+  Exotica: 4
+  Chemicals: 16
+  Electronics: 9
+  Ceramsteel: 16
+  Monopols: 21
+Build Cargo Plane V in Factory
+Time to Build / Upgrade: 3
+[26670] Technologies Required to Build Unit (83):
+  [10065] Powered-Armor Legion (79)
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+  [9430] Advanced V/STOL Aircraft (81)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--18--
+Name: Medium Cargo Plane V
+Nick Name: A-PX (M) V
+Scores & Strengths:
+  Tech Score: 3107
+  Unit Score: 2826
+  Average Score: 2966
+  Stat Strength: 2826
+  Total Strength: 2826
+  Planet Strength: 2826
+  Space Strength: 0
+  Garrison Strength: 515
+Statistics:
+  Movement Type: air
+  Move Points: 30
+  Spot: 9
+  Camouflage: 9
+  Agility: 14
+  Armor: 28
+  Psy Defense: 28
+  Rank: 73
+Cargo Space: 2
+Load aboard transport: YES
+Upkeep / Maintenance: 64
+Build Cost: 638
+Build Resource Requirements:
+  Food: 4
+  Energy: 7
+  Metal: 8
+  Trace: 2
+  Exotica: 4
+  Chemicals: 15
+  Electronics: 9
+  Ceramsteel: 14
+  Monopols: 23
+Build Medium Cargo Plane V in Factory
+Time to Build / Upgrade: 3
+[24220] Technologies Required to Build Unit (83):
+  [1970] Cargo Handling (87)
+  [5205] Advanced Battle Tanks (84)
+  [17045] Power V/STOL Aircraft (79)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--19--
+Name: Heavy Cargo Plane V
+Nick Name: A-PX (H) V
+Scores & Strengths:
+  Tech Score: 3391
+  Unit Score: 3020
+  Average Score: 3206
+  Stat Strength: 3020
+  Total Strength: 3020
+  Planet Strength: 3020
+  Space Strength: 0
+  Garrison Strength: 542
+Statistics:
+  Movement Type: air
+  Move Points: 31
+  Spot: 9
+  Camouflage: 10
+  Agility: 14
+  Armor: 29
+  Psy Defense: 29
+  Rank: 81
+Cargo Space: 3
+Load aboard transport: YES
+Upkeep / Maintenance: 85
+Build Cost: 845
+Build Resource Requirements:
+  Food: 4
+  Energy: 7
+  Metal: 8
+  Trace: 2
+  Exotica: 4
+  Chemicals: 16
+  Electronics: 10
+  Ceramsteel: 17
+  Monopols: 27
+Build Heavy Cargo Plane V in Factory
+Time to Build / Upgrade: 3
+[25565] Technologies Required to Build Unit (77):
+  [6550] Advanced Nanotechnology (66)
+  [1970] Cargo Handling (87)
+  [17045] Power V/STOL Aircraft (79)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--20--
+Name: Stretch Cargo Plane V
+Nick Name: A-PX (S) V
+Scores & Strengths:
+  Tech Score: 3570
+  Unit Score: 3083
+  Average Score: 3327
+  Stat Strength: 3083
+  Total Strength: 3083
+  Planet Strength: 3083
+  Space Strength: 0
+  Garrison Strength: 545
+Statistics:
+  Movement Type: air
+  Move Points: 32
+  Spot: 9
+  Camouflage: 10
+  Agility: 14
+  Armor: 29
+  Psy Defense: 29
+  Rank: 87
+Cargo Space: 4
+Load aboard transport: YES
+Upkeep / Maintenance: 70
+Build Cost: 698
+Build Resource Requirements:
+  Food: 3
+  Energy: 5
+  Metal: 6
+  Trace: 2
+  Exotica: 3
+  Chemicals: 12
+  Electronics: 7
+  Ceramsteel: 11
+  Monopols: 20
+Build Stretch Cargo Plane V in Factory
+Time to Build / Upgrade: 3
+[32550] Technologies Required to Build Unit (80):
+  [1970] Cargo Handling (87)
+  [13535] Powered Ceramsteel Tanks (74)
+  [17045] Power V/STOL Aircraft (79)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

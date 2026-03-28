@@ -1,454 +1,490 @@
-All units of the unit class Anti-Satellite (ASa) Rocket are listed herein (10 in total):
+All units of the unit class Satellite are listed herein (12 in total):
 
 --1--
-Name: Anti-Satellite (ASa) Rocket
-Nick Name: Asat-R
+Name: Satellite
+Nick Name: Satellite
 Scores & Strengths:
   Tech Score: 327
   Unit Score: 327
   Average Score: 327
-  Stat Strength: 263
+  Stat Strength: 327
   Total Strength: 327
   Planet Strength: 0
-  Space Strength: 327
+  Space Strength: 0
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 1
-  Spot: 0
-  Camouflage: 8
-  Agility: 14
-  Armor: 1
-  Psy Defense: 1
-  Rank: 0
-Attacks:
-  Closed Space: 4/16
+  Move Points: 0
+  Spot: 17
+  Camouflage: 4
+  Agility: 2
+  Armor: 3
+  Psy Defense: 3
+  Rank: 26
 Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 3
-Build Cost: 34
+Upkeep / Maintenance: 19
+Build Cost: 190
 Build Resource Requirements:
-  Food: 9
-  Energy: 43
-  Metal: 1
-  Trace: 31
-  Exotica: 9
-  Chemicals: 58
-  Electronics: 22
-Build Anti-Satellite (ASa) Rocket in Chemical Plant
+  Food: 31
+  Metal: 11
+  Trace: 51
+  Exotica: 31
+  Chemicals: 1
+  Electronics: 36
+Build Satellite in Chemical Plant
 Time to Build / Upgrade: 3
 [895] Technology Required to Build Unit (90):
   [895] Space Rocketry (90)
 Unit can be disbanded: YES
 
 --2--
-Name: ASa Missile
-Nick Name: Asat-M
+Name: Satellite II
+Nick Name: Satellite II
 Scores & Strengths:
-  Tech Score: 353
-  Unit Score: 353
-  Average Score: 353
-  Stat Strength: 283
-  Total Strength: 353
+  Tech Score: 782
+  Unit Score: 531
+  Average Score: 657
+  Stat Strength: 531
+  Total Strength: 531
   Planet Strength: 0
-  Space Strength: 353
+  Space Strength: 0
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 2
-  Spot: 0
-  Camouflage: 9
-  Agility: 14
-  Armor: 1
-  Psy Defense: 1
-  Rank: 0
-Attacks:
-  Closed Space: 5/14
+  Move Points: 0
+  Spot: 21
+  Camouflage: 6
+  Agility: 2
+  Armor: 5
+  Psy Defense: 5
+  Rank: 37
 Load aboard transport: YES
-Never Rebels
-Never Retreats
 Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 2
-Build Cost: 19
+Upkeep / Maintenance: 12
+Build Cost: 122
 Build Resource Requirements:
-  Food: 6
-  Energy: 21
-  Metal: 1
-  Trace: 21
-  Exotica: 6
-  Chemicals: 28
-  Electronics: 14
-Build ASa Missile in Chemical Plant
-Time to Build / Upgrade: 2
-[1690] Technologies Required to Build Unit (88):
-  [795] Missiles (86)
-  [895] Space Rocketry (90)
+  Food: 10
+  Metal: 14
+  Trace: 20
+  Exotica: 10
+  Electronics: 21
+Build Satellite II in Chemical Plant
+Time to Build / Upgrade: 1
+[3655] Technologies Required to Build Unit (82):
+  [1235] Jump Rocketry (76)
+  [2420] Rocket-Propelled Aircraft (87)
 Unit can be disbanded: YES
 
 --3--
-Name: Cruise Missile
-Nick Name: Cr-GM
+Name: Satellite III
+Nick Name: Satellite III
 Scores & Strengths:
-  Tech Score: 1004
-  Unit Score: 1010
-  Average Score: 1007
-  Stat Strength: 614
-  Total Strength: 1010
-  Planet Strength: 1010
+  Tech Score: 1380
+  Unit Score: 721
+  Average Score: 1050
+  Stat Strength: 721
+  Total Strength: 721
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 291
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 12
-  Spot: 0
-  Camouflage: 12
-  Agility: 18
-  Armor: 1
-  Psy Defense: 1
-  Rank: 75
-Attacks:
-  Indirect: 22/18
+  Movement Type: space
+  Move Points: 0
+  Spot: 24
+  Camouflage: 8
+  Agility: 3
+  Armor: 6
+  Psy Defense: 6
+  Rank: 46
 Load aboard transport: YES
-Never Rebels
-Never Retreats
 Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 11
+Upkeep / Maintenance: 12
+Build Cost: 120
 Build Resource Requirements:
-  Food: 6
-  Energy: 21
-  Metal: 1
-  Trace: 24
-  Exotica: 6
-  Chemicals: 26
-  Electronics: 13
-Build Cruise Missile in Chemical Plant
-Time to Build / Upgrade: 2
-[4935] Technologies Required to Build Unit (83):
-  [1255] Digital Fly-by-Wire (81)
-  [3680] Supersonic Missiles (84)
+  Food: 8
+  Metal: 20
+  Trace: 16
+  Exotica: 8
+  Electronics: 22
+Build Satellite III in Chemical Plant
+Time to Build / Upgrade: 1
+[6900] Technologies Required to Build Unit (79):
+  [1235] Jump Rocketry (76)
+  [5665] Hypersonic Aircraft (82)
 Unit can be disbanded: YES
 
 --4--
-Name: ASa Guided Missile
-Nick Name: Asat-GM
+Name: Satellite IV
+Nick Name: Satellite IV
 Scores & Strengths:
-  Tech Score: 1023
-  Unit Score: 1027
-  Average Score: 1025
-  Stat Strength: 367
-  Total Strength: 1027
+  Tech Score: 1771
+  Unit Score: 864
+  Average Score: 1318
+  Stat Strength: 864
+  Total Strength: 864
   Planet Strength: 0
-  Space Strength: 1027
+  Space Strength: 0
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 3
-  Spot: 0
-  Camouflage: 10
-  Agility: 16
-  Armor: 1
-  Psy Defense: 1
-  Rank: 0
-Attacks:
-  Closed Space: 30/22
+  Move Points: 0
+  Spot: 26
+  Camouflage: 9
+  Agility: 3
+  Armor: 7
+  Psy Defense: 7
+  Rank: 52
 Load aboard transport: YES
-Never Rebels
-Never Retreats
 Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 3
-Build Cost: 27
+Upkeep / Maintenance: 9
+Build Cost: 93
 Build Resource Requirements:
-  Food: 2
-  Energy: 19
-  Metal: 1
-  Trace: 32
-  Exotica: 2
-  Chemicals: 23
-  Electronics: 40
-Build ASa Guided Missile in Chemical Plant
-Time to Build / Upgrade: 2
-[5830] Technologies Required to Build Unit (85):
-  [1255] Digital Fly-by-Wire (81)
-  [895] Space Rocketry (90)
-  [3680] Supersonic Missiles (84)
+  Food: 7
+  Metal: 2
+  Trace: 15
+  Exotica: 7
+  Electronics: 21
+  Ceramsteel: 2
+Build Satellite IV in Chemical Plant
+Time to Build / Upgrade: 1
+[9410] Technologies Required to Build Unit (80):
+  [1235] Jump Rocketry (76)
+  [8175] Spacecraft (84)
 Unit can be disbanded: YES
 
 --5--
-Name: Supercruise Missile
-Nick Name: SCr-GM
+Name: Satellite V
+Nick Name: Satellite V
 Scores & Strengths:
-  Tech Score: 1174
-  Unit Score: 1157
-  Average Score: 1166
-  Stat Strength: 701
-  Total Strength: 1157
-  Planet Strength: 1157
+  Tech Score: 2400
+  Unit Score: 1042
+  Average Score: 1721
+  Stat Strength: 1042
+  Total Strength: 1042
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 320
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 13
-  Spot: 0
-  Camouflage: 13
-  Agility: 19
-  Armor: 1
-  Psy Defense: 1
-  Rank: 80
-Attacks:
-  Indirect: 24/19
+  Movement Type: space
+  Move Points: 0
+  Spot: 28
+  Camouflage: 11
+  Agility: 3
+  Armor: 8
+  Psy Defense: 8
+  Rank: 59
 Load aboard transport: YES
-Never Rebels
-Never Retreats
 Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 11
+Upkeep / Maintenance: 11
+Build Cost: 109
 Build Resource Requirements:
-  Food: 5
-  Energy: 19
-  Metal: 1
-  Trace: 24
-  Exotica: 5
-  Chemicals: 26
-  Electronics: 13
-Build Supercruise Missile in Chemical Plant
-Time to Build / Upgrade: 2
-[5860] Technologies Required to Build Unit (80):
-  [1690] Fly-by-Wireless (76)
-  [4170] Supercruise Missiles (84)
+  Food: 6
+  Metal: 2
+  Trace: 13
+  Exotica: 6
+  Biochems: 6
+  Electronics: 18
+  Ceramsteel: 2
+Build Satellite V in Chemical Plant
+Time to Build / Upgrade: 1
+[13660] Technologies Required to Build Unit (81):
+  [1235] Jump Rocketry (76)
+  [12425] Space Warfare (86)
 Unit can be disbanded: YES
 
 --6--
-Name: ASa Supercruise Missile
-Nick Name: Asat-ScGM
+Name: Satellite VI
+Nick Name: Satellite VI
 Scores & Strengths:
-  Tech Score: 1192
-  Unit Score: 1189
-  Average Score: 1190
-  Stat Strength: 421
-  Total Strength: 1189
+  Tech Score: 2959
+  Unit Score: 1156
+  Average Score: 2058
+  Stat Strength: 1156
+  Total Strength: 1156
   Planet Strength: 0
-  Space Strength: 1189
+  Space Strength: 0
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 3
-  Spot: 0
-  Camouflage: 11
-  Agility: 17
-  Armor: 1
-  Psy Defense: 1
-  Rank: 0
-Attacks:
-  Closed Space: 32/24
+  Move Points: 0
+  Spot: 29
+  Camouflage: 12
+  Agility: 3
+  Armor: 9
+  Psy Defense: 9
+  Rank: 64
 Load aboard transport: YES
-Never Rebels
-Never Retreats
 Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 3
-Build Cost: 29
+Upkeep / Maintenance: 17
+Build Cost: 169
 Build Resource Requirements:
-  Food: 2
-  Energy: 18
+  Food: 4
   Metal: 1
-  Trace: 33
-  Exotica: 2
-  Chemicals: 24
-  Electronics: 43
-Build ASa Supercruise Missile in Chemical Plant
-Time to Build / Upgrade: 3
-[6755] Technologies Required to Build Unit (83):
-  [1690] Fly-by-Wireless (76)
-  [895] Space Rocketry (90)
-  [4170] Supercruise Missiles (84)
+  Trace: 11
+  Exotica: 5
+  Biochems: 9
+  Electronics: 16
+  Ceramsteel: 1
+  Monopols: 1
+Build Satellite VI in Chemical Plant
+Time to Build / Upgrade: 1
+[17765] Technologies Required to Build Unit (78):
+  [1235] Jump Rocketry (76)
+  [16530] Space Capital Ships (80)
 Unit can be disbanded: YES
 
 --7--
-Name: Hypersonic Cruise Missile
-Nick Name: HsCr-GM
+Name: Orbital Listening Post
+Nick Name: SS-LP
 Scores & Strengths:
-  Tech Score: 1587
-  Unit Score: 1496
-  Average Score: 1541
-  Stat Strength: 852
-  Total Strength: 1496
-  Planet Strength: 1496
+  Tech Score: 1888
+  Unit Score: 1874
+  Average Score: 1881
+  Stat Strength: 1874
+  Total Strength: 1874
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 386
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 15
-  Spot: 0
-  Camouflage: 15
-  Agility: 20
-  Armor: 1
-  Psy Defense: 1
-  Rank: 91
-Attacks:
-  Indirect: 28/23
+  Movement Type: space
+  Move Points: 0
+  Spot: 24
+  Camouflage: 24
+  Agility: 0
+  Armor: 19
+  Psy Defense: 19
+  Rank: 67
 Load aboard transport: YES
-Never Rebels
-Never Retreats
 Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 11
+Upkeep / Maintenance: 12
+Build Cost: 123
 Build Resource Requirements:
-  Food: 5
-  Energy: 20
-  Metal: 1
-  Trace: 22
-  Exotica: 5
-  Chemicals: 29
-  Electronics: 12
-Build Hypersonic Cruise Missile in Chemical Plant
+  Food: 4
+  Metal: 9
+  Trace: 13
+  Exotica: 4
+  Chemicals: 2
+  Electronics: 20
+  Ceramsteel: 11
+Build Orbital Listening Post in Starport
 Time to Build / Upgrade: 2
-[9240] Technologies Required to Build Unit (78):
-  [2935] Intelligent FCS (73)
-  [6305] Hypersonic Missiles (83)
+[17990] Technologies Required to Build Unit (79):
+  [1605] Imaging Radar (78)
+  [8175] Spacecraft (84)
+  [8210] Aircraft Surveillance (74)
 Unit can be disbanded: YES
 
 --8--
-Name: ASa Hypersonic Missile
-Nick Name: Asat-HsGM
+Name: Orbital Listening Post II
+Nick Name: SS-LP II
 Scores & Strengths:
-  Tech Score: 1603
-  Unit Score: 1575
-  Average Score: 1589
-  Stat Strength: 511
-  Total Strength: 1575
+  Tech Score: 2516
+  Unit Score: 2428
+  Average Score: 2472
+  Stat Strength: 2428
+  Total Strength: 2428
   Planet Strength: 0
-  Space Strength: 1575
+  Space Strength: 0
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 4
-  Spot: 0
-  Camouflage: 13
-  Agility: 18
-  Armor: 1
-  Psy Defense: 1
-  Rank: 0
-Attacks:
-  Closed Space: 38/28
+  Move Points: 0
+  Spot: 26
+  Camouflage: 28
+  Agility: 0
+  Armor: 22
+  Psy Defense: 22
+  Rank: 77
 Load aboard transport: YES
-Never Rebels
-Never Retreats
 Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 3
-Build Cost: 33
+Upkeep / Maintenance: 16
+Build Cost: 160
 Build Resource Requirements:
-  Food: 2
-  Energy: 19
-  Metal: 1
-  Trace: 32
-  Exotica: 2
-  Chemicals: 27
-  Electronics: 47
-Build ASa Hypersonic Missile in Chemical Plant
-Time to Build / Upgrade: 3
-[10135] Technologies Required to Build Unit (82):
-  [2935] Intelligent FCS (73)
-  [895] Space Rocketry (90)
-  [6305] Hypersonic Missiles (83)
+  Food: 3
+  Metal: 10
+  Trace: 14
+  Exotica: 3
+  Chemicals: 2
+  Biochems: 3
+  Electronics: 21
+  Ceramsteel: 13
+Build Orbital Listening Post II in Starport
+Time to Build / Upgrade: 2
+[22535] Technologies Required to Build Unit (79):
+  [1900] LASER (76)
+  [8210] Aircraft Surveillance (74)
+  [12425] Space Warfare (86)
 Unit can be disbanded: YES
 
 --9--
-Name: Hypercruise Missile
-Nick Name: HCr-GM
+Name: Orbital Listening Post III
+Nick Name: SS-LP III
 Scores & Strengths:
-  Tech Score: 2336
-  Unit Score: 2058
-  Average Score: 2197
-  Stat Strength: 1140
-  Total Strength: 2058
-  Planet Strength: 2058
-  Space Strength: 0
-  Garrison Strength: 485
-Statistics:
-  Movement Type: air
-  Move Points: 18
-  Spot: 0
-  Camouflage: 18
-  Agility: 22
-  Armor: 2
-  Psy Defense: 2
-  Rank: 108
-Attacks:
-  Indirect: 34/27
-Load aboard transport: YES
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 14
-Build Resource Requirements:
-  Food: 5
-  Energy: 22
-  Trace: 22
-  Exotica: 5
-  Chemicals: 34
-  Electronics: 13
-  Ceramsteel: 1
-Build Hypercruise Missile in Chemical Plant
-Time to Build / Upgrade: 2
-[14205] Technologies Required to Build Unit (62):
-  [7100] Artificial Intelligence (46)
-  [7105] Hypercruise Missiles (77)
-Unit can be disbanded: YES
-
---10--
-Name: ASa Hypercruise Missile
-Nick Name: Asat-HcGM
-Scores & Strengths:
-  Tech Score: 2350
-  Unit Score: 2143
-  Average Score: 2247
-  Stat Strength: 658
-  Total Strength: 2143
+  Tech Score: 3172
+  Unit Score: 2940
+  Average Score: 3056
+  Stat Strength: 2940
+  Total Strength: 2940
   Planet Strength: 0
-  Space Strength: 2143
+  Space Strength: 0
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 5
-  Spot: 0
-  Camouflage: 15
-  Agility: 20
-  Armor: 2
-  Psy Defense: 2
-  Rank: 0
-Attacks:
-  Closed Space: 45/33
+  Move Points: 0
+  Spot: 27
+  Camouflage: 31
+  Agility: 0
+  Armor: 25
+  Psy Defense: 25
+  Rank: 84
 Load aboard transport: YES
-Never Rebels
-Never Retreats
 Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 4
-Build Cost: 39
+Upkeep / Maintenance: 70
+Build Cost: 700
+Build Resource Requirements:
+  Food: 3
+  Metal: 7
+  Trace: 13
+  Exotica: 3
+  Chemicals: 2
+  Biochems: 9
+  Electronics: 21
+  Ceramsteel: 10
+  Monopols: 9
+Build Orbital Listening Post III in Starport
+Time to Build / Upgrade: 2
+[28520] Technologies Required to Build Unit (78):
+  [3780] Beam Control (79)
+  [8210] Aircraft Surveillance (74)
+  [16530] Space Capital Ships (80)
+Unit can be disbanded: YES
+
+--10--
+Name: Orbital Listening Post IV
+Nick Name: SS-LP IV
+Scores & Strengths:
+  Tech Score: 3737
+  Unit Score: 3398
+  Average Score: 3568
+  Stat Strength: 3398
+  Total Strength: 3398
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 0
+  Spot: 28
+  Camouflage: 34
+  Agility: 0
+  Armor: 27
+  Psy Defense: 27
+  Rank: 91
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 78
+Build Cost: 781
+Build Resource Requirements:
+  Food: 3
+  Metal: 8
+  Trace: 13
+  Exotica: 3
+  Chemicals: 2
+  Biochems: 9
+  Electronics: 22
+  Ceramsteel: 10
+  Monopols: 9
+Build Orbital Listening Post IV in Starport
+Time to Build / Upgrade: 2
+[33040] Technologies Required to Build Unit (74):
+  [4610] Wavelength-Tunable LASER (75)
+  [8210] Aircraft Surveillance (74)
+  [20220] Jump Transports (72)
+Unit can be disbanded: YES
+
+--11--
+Name: Orbital Listening Post V
+Nick Name: SS-LP V
+Scores & Strengths:
+  Tech Score: 4124
+  Unit Score: 3634
+  Average Score: 3879
+  Stat Strength: 3634
+  Total Strength: 3634
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 0
+  Spot: 29
+  Camouflage: 35
+  Agility: 0
+  Armor: 28
+  Psy Defense: 28
+  Rank: 94
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 55
+Build Cost: 547
 Build Resource Requirements:
   Food: 2
-  Energy: 22
-  Trace: 32
+  Metal: 5
+  Trace: 10
   Exotica: 2
-  Chemicals: 33
-  Electronics: 51
-  Ceramsteel: 1
-Build ASa Hypercruise Missile in Chemical Plant
-Time to Build / Upgrade: 3
-[15100] Technologies Required to Build Unit (71):
-  [7100] Artificial Intelligence (46)
-  [895] Space Rocketry (90)
-  [7105] Hypercruise Missiles (77)
+  Chemicals: 2
+  Biochems: 7
+  Electronics: 18
+  Ceramsteel: 6
+  Monopols: 6
+Build Orbital Listening Post V in Starport
+Time to Build / Upgrade: 2
+[51895] Technologies Required to Build Unit (74):
+  [8210] Aircraft Surveillance (74)
+  [20220] Jump Transports (72)
+  [23465] Advanced Spacecraft (75)
+Unit can be disbanded: YES
+
+--12--
+Name: Orbital Listening Post VI
+Nick Name: SS-LP VI
+Scores & Strengths:
+  Tech Score: 5825
+  Unit Score: 4966
+  Average Score: 5396
+  Stat Strength: 4966
+  Total Strength: 4966
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 0
+  Spot: 32
+  Camouflage: 42
+  Agility: 0
+  Armor: 33
+  Psy Defense: 33
+  Rank: 110
+Load aboard transport: YES
+Immune to Plague
+Upkeep / Maintenance: 51
+Build Cost: 514
+Build Resource Requirements:
+  Food: 1
+  Metal: 4
+  Trace: 7
+  Exotica: 1
+  Chemicals: 1
+  Biochems: 5
+  Electronics: 15
+  Ceramsteel: 5
+  Monopols: 5
+Build Orbital Listening Post VI in Starport
+Time to Build / Upgrade: 2
+[107150] Technologies Required to Build Unit (70):
+  [8210] Aircraft Surveillance (74)
+  [23465] Advanced Spacecraft (75)
+  [36110] Starbase MK M (70)
+  [39365] Jump Capital Ships (61)
 Unit can be disbanded: YES
