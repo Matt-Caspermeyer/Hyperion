@@ -2373,6 +2373,14 @@
             "value": "Off"
         },
         {
+            "ID": 29976,
+            "value": "You do not have the required unit to produce %s on %s."
+        },
+        {
+            "ID": 29977,
+            "value": "You do not have the required technology to produce %s on %s."
+        },
+        {
             "ID": 30000,
             "value": "Thank you for playing the Emperor of the Fading Suns demo!"
         },
@@ -2387,6 +2395,26 @@
         {
             "ID": 30003,
             "value": "Not available in demo."
+        },
+        {
+            "ID": 30500,
+            "value": "List of Queues"
+        },
+        {
+            "ID": 30501,
+            "value": "Queue Units"
+        },
+        {
+            "ID": 30502,
+            "value": "Queue"
+        },
+        {
+            "ID": 30503,
+            "value": "Queue Name:"
+        },
+        {
+            "ID": 30504,
+            "value": "That queue is currently in production."
         },
         {
             "ID": 31000,
@@ -2482,11 +2510,11 @@
         },
         {
             "ID": 31611,
-            "value": "You can only change Sects on this planet every %d years.\nYou must wait %d more year before you can change Sects on this planet!"
+            "value": "You must wait until the current Patriarch dies or %d more year before you can change the Sect on this planet!"
         },
         {
             "ID": 31612,
-            "value": "You can only change Sects on this planet every %d years.\nYou must wait %d years before you can change Sects on this planet!"
+            "value": "You must wait until the current Patriarch dies or %d more years before you can change the Sect on this planet!"
         },
         {
             "ID": 31613,
@@ -2846,7 +2874,7 @@
         },
         {
             "ID": 32101,
-            "value": "Duels High-Ranking (>=%d) Units During Combat"
+            "value": "High-Rank (>=%d) Dueler"
         },
         {
             "ID": 32102,
@@ -2854,11 +2882,11 @@
         },
         {
             "ID": 32103,
-            "value": "Noble - Provides stack combat and other bonuses"
+            "value": "Noble: Combat / other bonuses"
         },
         {
             "ID": 32104,
-            "value": "Officer - Provides stack combat bonuses"
+            "value": "Officer: Stack combat bonuses"
         },
         {
             "ID": 32105,
@@ -2866,11 +2894,11 @@
         },
         {
             "ID": 32106,
-            "value": "Clergy - Increases Tithe Skim and Converts Sects"
+            "value": "Clergy: +Tithe Skim / Converts Sects"
         },
         {
             "ID": 32107,
-            "value": "Inquisitor"
+            "value": "Inquisitor - Destroys Labs"
         },
         {
             "ID": 32108,
@@ -2890,11 +2918,11 @@
         },
         {
             "ID": 32112,
-            "value": "(:) Naval Carrier - Refuels (at end of turn) all Air Units and those units (. or ,) consume 0 movement if moved with it"
+            "value": "[:] - Transports / Refuels all Air Units"
         },
         {
             "ID": 32113,
-            "value": "Naval Transport - Amphibious loading / unloading of cargo"
+            "value": "Amphibious loading / unloading of cargo"
         },
         {
             "ID": 32114,
@@ -2910,11 +2938,11 @@
         },
         {
             "ID": 32117,
-            "value": "(,) V/STOL - Refuels on Naval Destroyers (and Carriers) and does not consume movement if moved with them (; or :)"
+            "value": "[,] V/STOL: Refuels on [;] only"
         },
         {
             "ID": 32118,
-            "value": "(;) Refuels V/STOL only (at end of turn) and those units (,) consume 0 movement if moved with it"
+            "value": "[;] Refuels V/STOL [,] only"
         },
         {
             "ID": 32119,
@@ -2922,19 +2950,19 @@
         },
         {
             "ID": 32120,
-            "value": "Safely lands when running out of fuel (cannot move until refueled)"
+            "value": "Recoverable when running out of fuel"
         },
         {
             "ID": 32121,
-            "value": "(-) Towable (does not consume movement if moved with Towing (=) Unit)"
+            "value": "[-] Towable (freely moves with Tower [=])"
         },
         {
             "ID": 32122,
-            "value": "(=) Tows Towable Units (those units (-) consume 0 movement if moved with it)"
+            "value": "[=] Tows Towable [-] Units"
         },
         {
             "ID": 32123,
-            "value": "May lose health or experience after combat"
+            "value": "May lose health / exp. after combat"
         },
         {
             "ID": 32124,
@@ -2966,15 +2994,15 @@
         },
         {
             "ID": 32131,
-            "value": "Does not participate in ground combat and can be captured if undefended when on the ground"
+            "value": "Does not participate in ground combat"
         },
         {
             "ID": 32132,
-            "value": "Can be loaded onto a transport (consumes {} capacity)"
+            "value": "Transportable (consumes {} capacity)"
         },
         {
             "ID": 32133,
-            "value": "Transport - immediately refuels Air units if loaded aboard as cargo"
+            "value": "Transport - Air Refueler"
         },
         {
             "ID": 32140,
@@ -2994,7 +3022,7 @@
         },
         {
             "ID": 32144,
-            "value": "Does not consume movement if moved with Aircraft Carrier (:) unit"
+            "value": "Freely moves with [:] Units"
         },
         {
             "ID": 32145,
@@ -3030,7 +3058,7 @@
         },
         {
             "ID": 32155,
-            "value": "Out of fuel - can't move: use transport or refueler to recover"
+            "value": "Out of fuel - can't move!"
         },
         {
             "ID": 32156,
