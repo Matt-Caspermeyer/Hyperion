@@ -43,7 +43,7 @@ With the release of EFS V1.51, I took a break from EFS for a bit to work on othe
 
 We are now at the end of 2025 and we are working on a new EFS release; however, I've been able to spend significant time on Hyperion and am in the progress of updating the Hyperion Historical Galaxy such that the MOD is in a playable state. While all the current units having been properly designed, there are significant gaps in unit areas, that I will fill once I start playtesting the MOD more.
 
-It is my hope that I'll be able to get the MOD 80% complete by the end of Q2 2026.
+It is my hope that I'll be able to get the MOD 80% complete by the end of 2026.
 
 Areas that need work or that I haven't started on:
 
