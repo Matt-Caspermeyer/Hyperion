@@ -1,4 +1,4 @@
-All units of the unit class Engineer are listed herein (3 in total):
+All units of the unit class Engineer are listed herein (7 in total):
 
 --1--
 Name: Engineer
@@ -21,10 +21,11 @@ Statistics:
   Armor: 2
   Psy Defense: 1
   Rank: 307
-Load aboard transport: YES
+Load aboard transport: 4
 Builds (and Razes) Cities and Roads
-Upkeep / Maintenance: 46
-Build Cost: 439
+Can tow units that can be towed
+Upkeep / Maintenance: 50
+Build Cost: 485
 Build Resource Requirements:
   Food: 90
   Energy: 94
@@ -42,6 +43,136 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
+Name: Sapper
+Nick Name: Sapper
+Scores & Strengths:
+  Tech Score: 194
+  Unit Score: 194
+  Average Score: 194
+  Stat Strength: 105
+  Total Strength: 194
+  Planet Strength: 194
+  Space Strength: 0
+  Garrison Strength: 64
+Statistics:
+  Movement Type: foot
+  Move Points: 9
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 3
+  Psy Defense: 3
+  Rank: 331
+Attacks:
+  Indirect: 4/8
+  Direct: 5/6
+  Close: 9/3
+Load aboard transport: 4
+Builds (and Razes) Cities and Roads
+Can tow units that can be towed
+Upkeep / Maintenance: 10
+Build Resource Requirements:
+Upgrade Engineer to Sapper at Fort
+Time to Build / Upgrade: 1
+[845] Technologies Required to Build Unit (97):
+  [230] Hospitals (97)
+  [110] Mechanical & Aerospace Engineering (98)
+  [110] Electrical Engineering (95)
+  [110] Meditation (99)
+  [165] Autocannon (98)
+  [60] Aerial Reconnaissance (97)
+  [60] Torpedo (98)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Miner
+Nick Name: Miner
+Scores & Strengths:
+  Tech Score: 194
+  Unit Score: 194
+  Average Score: 194
+  Stat Strength: 105
+  Total Strength: 194
+  Planet Strength: 194
+  Space Strength: 0
+  Garrison Strength: 64
+Statistics:
+  Movement Type: foot
+  Move Points: 9
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 3
+  Psy Defense: 3
+  Rank: 327
+Attacks:
+  Direct: 3/13
+  Close: 5/10
+Load aboard transport: 4
+Builds (and Razes) Cities and Roads
+Can tow units that can be towed
+Upkeep / Maintenance: 13
+Build Resource Requirements:
+Upgrade Engineer to Miner at Fort
+Time to Build / Upgrade: 1
+[845] Technologies Required to Build Unit (97):
+  [230] Hospitals (97)
+  [110] Mechanical & Aerospace Engineering (98)
+  [110] Electrical Engineering (95)
+  [110] Meditation (99)
+  [165] Autocannon (98)
+  [60] Aerial Reconnaissance (97)
+  [60] Torpedo (98)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Pioneer
+Nick Name: Pioneer
+Scores & Strengths:
+  Tech Score: 194
+  Unit Score: 194
+  Average Score: 194
+  Stat Strength: 105
+  Total Strength: 194
+  Planet Strength: 194
+  Space Strength: 0
+  Garrison Strength: 64
+Statistics:
+  Movement Type: foot
+  Move Points: 9
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 3
+  Psy Defense: 3
+  Rank: 331
+Attacks:
+  Indirect: 4/10
+  Close: 7/7
+Load aboard transport: 4
+Builds (and Razes) Cities and Roads
+Can tow units that can be towed
+Upkeep / Maintenance: 10
+Build Resource Requirements:
+Upgrade Engineer to Pioneer at Fort
+Time to Build / Upgrade: 1
+[845] Technologies Required to Build Unit (97):
+  [230] Hospitals (97)
+  [110] Mechanical & Aerospace Engineering (98)
+  [110] Electrical Engineering (95)
+  [110] Meditation (99)
+  [165] Autocannon (98)
+  [60] Aerial Reconnaissance (97)
+  [60] Torpedo (98)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
 Name: Seabees
 Nick Name: Seabees
 Scores & Strengths:
@@ -63,12 +194,13 @@ Statistics:
   Psy Defense: 4
   Rank: 350
 Attacks:
-  Indirect: 12/9
-  Direct: 11/7
+  Indirect: 9/12
+  Direct: 7/11
   Close: 8/8
-Load aboard transport: YES
+Load aboard transport: 4
 Builds (and Razes) Cities and Roads
-Upkeep / Maintenance: 11
+Can tow units that can be towed
+Upkeep / Maintenance: 13
 Build Resource Requirements:
 Upgrade Engineer to Seabees at Fort
 Time to Build / Upgrade: 1
@@ -79,7 +211,53 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---3--
+--6--
+Name: Combat Engineer
+Nick Name: Combat Engineer
+Scores & Strengths:
+  Tech Score: 1433
+  Unit Score: 1433
+  Average Score: 1433
+  Stat Strength: 604
+  Total Strength: 1433
+  Planet Strength: 1433
+  Space Strength: 0
+  Garrison Strength: 337
+Statistics:
+  Movement Type: foot
+  Move Points: 18
+  Spot: 6
+  Camouflage: 4
+  Agility: 10
+  Armor: 8
+  Psy Defense: 8
+  Rank: 394
+Attacks:
+  Indirect: 17/22
+  Direct: 13/20
+  Close: 13/15
+Load aboard transport: 4
+Builds (and Razes) Cities and Roads
+Can tow units that can be towed
+Upkeep / Maintenance: 21
+Build Cost: 212
+Build Resource Requirements:
+  Energy: 1
+  Trace: 1
+  Chemicals: 8
+  Biochems: 9
+  Electronics: 4
+  Ceramsteel: 3
+Upgrade Seabees to Combat Engineer at Fort
+Time to Build / Upgrade: 1
+[7555] Technologies Required to Build Unit (86):
+  [1700] Main Battle Tank (88)
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
 Name: Demolition Team
 Nick Name: Demolisher
 Scores & Strengths:
@@ -104,19 +282,18 @@ Attacks:
   Indirect: 22/50
   Direct: 18/32
   Close: 22/26
-Load aboard transport: YES
+Load aboard transport: 4
 Builds (and Razes) Cities and Roads
-Upkeep / Maintenance: 268
-Build Cost: 2683
+Can tow units that can be towed
+Upkeep / Maintenance: 295
+Build Cost: 2740
 Build Resource Requirements:
-  Energy: 2
-  Chemicals: 15
-  Biochems: 22
-  Ceramsteel: 1
+  Biochems: 13
+  Electronics: 1
   Wetware: 7
   Monopols: 37
-Upgrade Seabees to Demolition Team at Fort
-Time to Build / Upgrade: 3
+Upgrade Combat Engineer to Demolition Team at Fort
+Time to Build / Upgrade: 2
 [23065] Technology Required to Build Unit (34):
   [23065] Demolition (34)
 Counts as planetary flock: YES

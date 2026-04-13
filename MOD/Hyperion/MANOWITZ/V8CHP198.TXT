@@ -1,4 +1,4 @@
-All units of the unit class Holy Starbase are listed herein (6 in total):
+All units of the unit class Holy Starbase are listed herein (7 in total):
 
 --1--
 Name: Holy Starbase
@@ -26,7 +26,7 @@ Attacks:
   Direct Space: 9/14
   Psychic: 30/15
 Cargo Space: 12
-Load aboard transport: YES
+Load aboard transport: 14
 Officer - Provides stack combat bonuses
 Clergy - Increases Tithe Skim and Converts Sects
 Deploys space units during space attacks
@@ -77,7 +77,7 @@ Attacks:
   Ranged Space: 16/37
   Direct Space: 20/29
 Cargo Space: 10
-Load aboard transport: YES
+Load aboard transport: 12
 Officer - Provides stack combat bonuses
 Deploys space units during space attacks
 Heals units of same movement type
@@ -127,7 +127,7 @@ Attacks:
   Direct Space: 14/22
   Psychic: 47/23
 Cargo Space: 12
-Load aboard transport: YES
+Load aboard transport: 14
 Officer - Provides stack combat bonuses
 Clergy - Increases Tithe Skim and Converts Sects
 Deploys space units during space attacks
@@ -139,7 +139,7 @@ Build Resource Requirements:
   Electronics: 6
   Monopols: 27
   Gems: 11
-S  ingularities: 2
+  Singularities: 2
 Upgrade Holy Starbase to Sathra Starbase at Church
 Time to Build / Upgrade: 1
 [39650] Technologies Required to Build Unit (63):
@@ -175,7 +175,7 @@ Attacks:
   Ranged Space: 18/43
   Direct Space: 23/33
 Cargo Space: 11
-Load aboard transport: YES
+Load aboard transport: 13
 Officer - Provides stack combat bonuses
 Deploys space units during space attacks
 Heals units of same movement type
@@ -233,7 +233,7 @@ Build Resource Requirements:
   Ceramsteel: 20
   Wetware: 3
   Monopols: 36
-S  ingularities: 3
+  Singularities: 3
 Build Doomstar in Starport
 Time to Build / Upgrade: 4
 [51615] Technology Required to Build Unit (53):
@@ -242,6 +242,53 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
+Name: Phasing Starbase
+Nick Name: SS-PS
+Scores & Strengths:
+  Tech Score: 9310
+  Unit Score: 9300
+  Average Score: 9305
+  Stat Strength: 7800
+  Total Strength: 9300
+  Planet Strength: 0
+  Space Strength: 9300
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 10
+  Spot: 30
+  Camouflage: 30
+  Agility: 30
+  Armor: 50
+  Psy Defense: 50
+  Rank: 969
+Attacks:
+  Ranged Space: 30/50
+Cargo Space: 12
+Load aboard transport: 14
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 3675
+Build Cost: 36750
+Build Resource Requirements:
+  Food: 1
+  Energy: 8
+  Metal: 8
+  Trace: 7
+  Exotica: 1
+  Chemicals: 14
+  Biochems: 30
+  Electronics: 18
+  Ceramsteel: 12
+  Wetware: 7
+  Monopols: 29
+Phasing Starbase cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
 Name: Meson Starbase
 Nick Name: SS-MS
 Scores & Strengths:
@@ -266,7 +313,7 @@ Attacks:
   Ranged Space: 25/57
   Direct Space: 31/45
 Cargo Space: 12
-Load aboard transport: YES
+Load aboard transport: 14
 Officer - Provides stack combat bonuses
 Deploys space units during space attacks
 Heals units of same movement type

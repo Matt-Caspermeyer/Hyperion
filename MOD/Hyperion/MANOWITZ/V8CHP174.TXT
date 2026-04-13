@@ -1,4 +1,4 @@
-All units of the unit class Naval Frigate are listed herein (7 in total):
+All units of the unit class Naval Frigate are listed herein (9 in total):
 
 --1--
 Name: Naval Frigate
@@ -27,7 +27,7 @@ Attacks:
   Indirect: 8/15
   Direct: 11/7
 Cargo Space: 1
-Load aboard transport: YES
+Load aboard transport: 4
 Upkeep / Maintenance: 49
 Build Cost: 493
 Build Resource Requirements:
@@ -75,7 +75,7 @@ Attacks:
   Indirect: 15/22
   Direct: 18/12
 Cargo Space: 1
-Load aboard transport: YES
+Load aboard transport: 4
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
 Upkeep / Maintenance: 94
 Build Cost: 935
@@ -123,7 +123,7 @@ Attacks:
   Indirect: 10/17
   Direct: 12/12
 Cargo Space: 1
-Load aboard transport: YES
+Load aboard transport: 4
 Upkeep / Maintenance: 12
 Build Cost: 120
 Build Resource Requirements:
@@ -174,7 +174,7 @@ Attacks:
   Indirect: 20/24
   Direct: 23/13
 Cargo Space: 1
-Load aboard transport: YES
+Load aboard transport: 5
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
 Upkeep / Maintenance: 149
 Build Cost: 1487
@@ -222,7 +222,7 @@ Attacks:
   Indirect: 20/24
   Direct: 23/19
 Cargo Space: 1
-Load aboard transport: YES
+Load aboard transport: 4
 Upkeep / Maintenance: 169
 Build Cost: 1686
 Build Resource Requirements:
@@ -270,7 +270,7 @@ Attacks:
   Indirect: 11/18
   Direct: 14/14
 Cargo Space: 1
-Load aboard transport: YES
+Load aboard transport: 5
 Upkeep / Maintenance: 97
 Build Cost: 846
 Build Resource Requirements:
@@ -314,7 +314,7 @@ Attacks:
   Indirect: 5/22
   Direct: 9/16
 Cargo Space: 2
-Load aboard transport: YES
+Load aboard transport: 7
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
 Upkeep / Maintenance: 135
 Build Cost: 378
@@ -327,6 +327,108 @@ Time to Build / Upgrade: 1
   [2855] Naval Amphibious Ships (87)
   [27875] PTS Meson Navalcraft (74)
   [39365] Jump Capital Ships (61)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Hover Frigate
+Nick Name: Thunderbolt
+Scores & Strengths:
+  Tech Score: 6233
+  Unit Score: 6286
+  Average Score: 6259
+  Stat Strength: 4862
+  Total Strength: 6286
+  Planet Strength: 6286
+  Space Strength: 0
+  Garrison Strength: 1371
+Statistics:
+  Movement Type: hover
+  Move Points: 21
+  Spot: 18
+  Camouflage: 9
+  Agility: 12
+  Armor: 44
+  Psy Defense: 44
+  Rank: 170
+Attacks:
+  Water: 15/22
+  Air: 20/22
+  Indirect: 13/32
+  Direct: 17/14
+Cargo Space: 1
+Load aboard transport: 4
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 196
+Build Cost: 1955
+Build Resource Requirements:
+  Food: 1
+  Energy: 10
+  Metal: 8
+  Trace: 4
+  Exotica: 1
+  Chemicals: 18
+  Biochems: 25
+  Electronics: 12
+  Ceramsteel: 17
+  Wetware: 6
+  Monopols: 37
+Build Hover Frigate in Well
+Time to Build / Upgrade: 4
+[45520] Technology Required to Build Unit (53):
+  [45520] Hover Navalcraft (53)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Hover Cruiser
+Nick Name: Eradicator
+Scores & Strengths:
+  Tech Score: 6233
+  Unit Score: 6478
+  Average Score: 6355
+  Stat Strength: 5374
+  Total Strength: 6478
+  Planet Strength: 6478
+  Space Strength: 0
+  Garrison Strength: 1486
+Statistics:
+  Movement Type: hover
+  Move Points: 19
+  Spot: 16
+  Camouflage: 7
+  Agility: 10
+  Armor: 48
+  Psy Defense: 48
+  Rank: 164
+Attacks:
+  Water: 10/24
+  Air: 15/24
+  Indirect: 8/36
+  Direct: 12/18
+Cargo Space: 2
+Load aboard transport: 6
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 229
+Build Cost: 2287
+Build Resource Requirements:
+  Food: 1
+  Energy: 12
+  Metal: 10
+  Trace: 3
+  Exotica: 1
+  Chemicals: 22
+  Biochems: 26
+  Electronics: 10
+  Ceramsteel: 20
+  Wetware: 4
+  Monopols: 44
+Build Hover Cruiser in Well
+Time to Build / Upgrade: 4
+[45520] Technology Required to Build Unit (53):
+  [45520] Hover Navalcraft (53)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

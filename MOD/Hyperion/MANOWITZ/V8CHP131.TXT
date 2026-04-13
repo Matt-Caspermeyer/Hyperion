@@ -1,4 +1,4 @@
-All units of the unit class Battleship are listed herein (10 in total):
+All units of the unit class Battleship are listed herein (11 in total):
 
 --1--
 Name: Battleship
@@ -25,7 +25,7 @@ Attacks:
   Indirect: 2/24
   Direct: 1/10
 Cargo Space: 2
-Load aboard transport: YES
+Load aboard transport: 7
 Upkeep / Maintenance: 53
 Build Cost: 526
 Build Resource Requirements:
@@ -72,7 +72,7 @@ Attacks:
   Indirect: 2/29
   Direct: 2/11
 Cargo Space: 2
-Load aboard transport: YES
+Load aboard transport: 7
 Officer - Provides stack combat bonuses
 Upkeep / Maintenance: 114
 Build Cost: 1139
@@ -121,7 +121,7 @@ Attacks:
   Direct: 10/18
   Close: 2/13
 Cargo Space: 2
-Load aboard transport: YES
+Load aboard transport: 7
 Upkeep / Maintenance: 43
 Build Cost: 430
 Build Resource Requirements:
@@ -168,7 +168,7 @@ Attacks:
   Direct: 8/20
   Close: 5/10
 Cargo Space: 2
-Load aboard transport: YES
+Load aboard transport: 6
 Upkeep / Maintenance: 44
 Build Cost: 436
 Build Resource Requirements:
@@ -215,7 +215,7 @@ Attacks:
   Direct: 8/18
   Close: 2/10
 Cargo Space: 2
-Load aboard transport: YES
+Load aboard transport: 7
 Upkeep / Maintenance: 46
 Build Cost: 459
 Build Resource Requirements:
@@ -262,7 +262,7 @@ Attacks:
   Indirect: 8/30
   Direct: 8/25
 Cargo Space: 2
-Load aboard transport: YES
+Load aboard transport: 7
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
 Upkeep / Maintenance: 96
 Build Cost: 964
@@ -308,7 +308,7 @@ Attacks:
   Indirect: 8/26
   Direct: 11/13
 Cargo Space: 2
-Load aboard transport: YES
+Load aboard transport: 7
 Upkeep / Maintenance: 73
 Build Cost: 731
 Build Resource Requirements:
@@ -358,7 +358,7 @@ Attacks:
   Air: 15/30
   Indirect: 10/34
 Cargo Space: 2
-Load aboard transport: YES
+Load aboard transport: 8
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
 Upkeep / Maintenance: 139
 Build Cost: 1385
@@ -405,7 +405,7 @@ Attacks:
   Indirect: 12/40
   Direct: 12/30
 Cargo Space: 2
-Load aboard transport: YES
+Load aboard transport: 7
 Upkeep / Maintenance: 172
 Build Cost: 1722
 Build Resource Requirements:
@@ -451,7 +451,7 @@ Attacks:
   Indirect: 10/29
   Direct: 13/15
 Cargo Space: 2
-Load aboard transport: YES
+Load aboard transport: 8
 Upkeep / Maintenance: 107
 Build Cost: 335
 Build Resource Requirements:
@@ -467,4 +467,52 @@ Time to Build / Upgrade: 1
   [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
 Unit Eats: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Hover Battleship
+Nick Name: Armageddon
+Scores & Strengths:
+  Tech Score: 6233
+  Unit Score: 6437
+  Average Score: 6335
+  Stat Strength: 5637
+  Total Strength: 6437
+  Planet Strength: 6437
+  Space Strength: 0
+  Garrison Strength: 1517
+Statistics:
+  Movement Type: hover
+  Move Points: 18
+  Spot: 14
+  Camouflage: 6
+  Agility: 9
+  Armor: 50
+  Psy Defense: 50
+  Rank: 825
+Attacks:
+  Air: 14/25
+  Indirect: 9/50
+Cargo Space: 2
+Load aboard transport: 7
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 310
+Build Cost: 3098
+Build Resource Requirements:
+  Food: 1
+  Energy: 13
+  Metal: 11
+  Trace: 2
+  Exotica: 1
+  Chemicals: 24
+  Biochems: 26
+  Electronics: 9
+  Ceramsteel: 21
+  Wetware: 2
+  Monopols: 48
+Build Hover Battleship in Well
+Time to Build / Upgrade: 4
+[45520] Technology Required to Build Unit (53):
+  [45520] Hover Navalcraft (53)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

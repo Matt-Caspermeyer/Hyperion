@@ -1,4 +1,4 @@
-All units of the unit class Radar are listed herein (6 in total):
+All units of the unit class Radar are listed herein (8 in total):
 
 --1--
 Name: Radar
@@ -21,7 +21,7 @@ Statistics:
   Armor: 2
   Psy Defense: 2
   Rank: 11
-Load aboard transport: YES
+Load aboard transport: 6
 Immune to Plague
 Upkeep / Maintenance: 5
 Build Cost: 51
@@ -59,7 +59,7 @@ Statistics:
   Armor: 2
   Psy Defense: 2
   Rank: 15
-Load aboard transport: YES
+Load aboard transport: 5
 Immune to Plague
 Upkeep / Maintenance: 8
 Build Cost: 75
@@ -97,7 +97,7 @@ Statistics:
   Armor: 2
   Psy Defense: 2
   Rank: 17
-Load aboard transport: YES
+Load aboard transport: 4
 Immune to Plague
 Upkeep / Maintenance: 9
 Build Cost: 88
@@ -135,7 +135,7 @@ Statistics:
   Armor: 3
   Psy Defense: 3
   Rank: 27
-Load aboard transport: YES
+Load aboard transport: 3
 Immune to Plague
 Upkeep / Maintenance: 12
 Build Cost: 120
@@ -175,7 +175,7 @@ Statistics:
   Armor: 3
   Psy Defense: 3
   Rank: 28
-Load aboard transport: YES
+Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 14
 Build Cost: 136
@@ -195,6 +195,90 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
+Name: V/STOL Refueling Module
+Nick Name: V/STOL RM
+Scores & Strengths:
+  Tech Score: 1645
+  Unit Score: 1641
+  Average Score: 1643
+  Stat Strength: 1641
+  Total Strength: 1641
+  Planet Strength: 1641
+  Space Strength: 0
+  Garrison Strength: 2051
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 17
+  Agility: 0
+  Armor: 26
+  Psy Defense: 26
+  Rank: 41
+Load aboard transport: 1
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Can tow units that can be towed
+Upkeep / Maintenance: 9
+Build Cost: 93
+Build Resource Requirements:
+  Metal: 35
+  Trace: 5
+  Chemicals: 8
+  Electronics: 6
+  Ceramsteel: 41
+Build V/STOL Refueling Module in Factory
+Time to Build / Upgrade: 3
+[11435] Technologies Required to Build Unit (85):
+  [945] Automatic Stability Systems (83)
+  [1970] Cargo Handling (87)
+  [2665] V/STOL Aircraft (85)
+  [5855] Guided Missile Navalcraft (84)
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Aerial Refueling Module
+Nick Name: Aerial RM
+Scores & Strengths:
+  Tech Score: 1646
+  Unit Score: 1641
+  Average Score: 1644
+  Stat Strength: 1641
+  Total Strength: 1641
+  Planet Strength: 1641
+  Space Strength: 0
+  Garrison Strength: 2051
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 17
+  Agility: 0
+  Armor: 26
+  Psy Defense: 26
+  Rank: 41
+Load aboard transport: 2
+Transports and Refuels (at end of turn) all Air Units
+Can tow units that can be towed
+Upkeep / Maintenance: 11
+Build Cost: 111
+Build Resource Requirements:
+  Metal: 40
+  Trace: 5
+  Chemicals: 9
+  Electronics: 6
+  Ceramsteel: 44
+Build Aerial Refueling Module in Factory
+Time to Build / Upgrade: 3
+[10810] Technologies Required to Build Unit (85):
+  [945] Automatic Stability Systems (83)
+  [1970] Cargo Handling (87)
+  [4695] Advanced Minor Watercraft (83)
+  [3200] Supersonic Aircraft (85)
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
 Name: Imperial Eye Network
 Nick Name: Omniscient
 Scores & Strengths:
@@ -215,7 +299,7 @@ Statistics:
   Armor: 13
   Psy Defense: 26
   Rank: 104
-Load aboard transport: YES
+Load aboard transport: 1
 Upkeep / Maintenance: 45
 Build Cost: 451
 Build Resource Requirements:
