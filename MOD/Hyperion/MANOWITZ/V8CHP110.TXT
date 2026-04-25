@@ -1,389 +1,384 @@
-All units of the unit class Torpedo Boat Destroyer are listed herein (8 in total):
+All units of the unit class Space Bulk Hauler are listed herein (8 in total):
 
 --1--
-Name: Torpedo Boat Destroyer
-Nick Name: NN-DTB
+Name: Space Bulk Hauler
+Nick Name: SS-BH
 Scores & Strengths:
-  Tech Score: 174
-  Unit Score: 344
-  Average Score: 259
-  Stat Strength: 258
-  Total Strength: 344
-  Planet Strength: 344
-  Space Strength: 0
-  Garrison Strength: 130
+  Tech Score: 342
+  Unit Score: 342
+  Average Score: 342
+  Stat Strength: 330
+  Total Strength: 342
+  Planet Strength: 0
+  Space Strength: 342
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 2
+  Movement Type: space
+  Move Points: 2
+  Spot: 6
   Camouflage: 1
-  Agility: 2
-  Armor: 10
-  Psy Defense: 10
-  Rank: 41
+  Agility: 1
+  Armor: 12
+  Psy Defense: 12
+  Rank: 60
 Attacks:
-  Water: 2/22
-  Indirect: 2/21
-Cargo Space: 1
-Load aboard transport: 4
-Upkeep / Maintenance: 70
-Build Cost: 698
+  Close Space: 1/12
+Cargo Space: 6
+Load aboard transport: 8
+Immune to Plague
+Upkeep / Maintenance: 29
+Build Cost: 285
 Build Resource Requirements:
-  Food: 6
-  Energy: 186
-  Metal: 53
-  Trace: 5
-  Exotica: 5
-  Chemicals: 156
-  Gems: 1
-Build Torpedo Boat Destroyer in Well
-Time to Build / Upgrade: 6
-[535] Technologies Required to Build Unit (99):
-  [100] Medical & Biological (100)
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
+  Food: 4
+  Energy: 15
+  Metal: 70
+  Trace: 6
+  Exotica: 4
+  Chemicals: 41
+  Electronics: 3
+Build Space Bulk Hauler in Starport
+Time to Build / Upgrade: 2
+[1170] Technologies Required to Build Unit (95):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Naval Destroyer
-Nick Name: NN-DD
+Name: Jump Bulk Hauler
+Nick Name: JJ-BH
 Scores & Strengths:
-  Tech Score: 679
-  Unit Score: 1357
-  Average Score: 1018
-  Stat Strength: 971
-  Total Strength: 1357
-  Planet Strength: 1357
-  Space Strength: 0
-  Garrison Strength: 452
+  Tech Score: 455
+  Unit Score: 448
+  Average Score: 452
+  Stat Strength: 434
+  Total Strength: 448
+  Planet Strength: 0
+  Space Strength: 448
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 9
-  Spot: 10
-  Camouflage: 2
-  Agility: 8
-  Armor: 19
-  Psy Defense: 19
-  Rank: 78
+  Movement Type: jump
+  Move Points: 2
+  Spot: 6
+  Camouflage: 1
+  Agility: 1
+  Armor: 14
+  Psy Defense: 14
+  Rank: 64
 Attacks:
-  Water: 7/18
-  Air: 12/7
-  Indirect: 6/16
-  Direct: 8/10
-Cargo Space: 1
-Load aboard transport: 5
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 53
-Build Cost: 531
+  Close Space: 1/14
+Cargo Space: 6
+Load aboard transport: 8
+Bulk Hauler - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 210
+Build Cost: 2096
 Build Resource Requirements:
-  Food: 6
-  Energy: 39
-  Metal: 64
-  Trace: 25
-  Exotica: 6
-  Chemicals: 38
-  Biochems: 15
-  Electronics: 17
-Build Naval Destroyer in Well
-Time to Build / Upgrade: 4
-[2480] Technologies Required to Build Unit (95):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2270] Naval Escort Ships (86)
+  Food: 4
+  Energy: 20
+  Metal: 77
+  Trace: 5
+  Exotica: 3
+  Chemicals: 55
+  Electronics: 3
+  Gems: 1
+  Singularities: 2
+Build Jump Bulk Hauler in Starport
+Time to Build / Upgrade: 3
+[1610] Technologies Required to Build Unit (90):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [1235] Jump Rocketry (76)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Guid. Miss. Destroyer
-Nick Name: NN-DGM
+Name: Armored Bulk Hauler
+Nick Name: JJ-AABH
 Scores & Strengths:
-  Tech Score: 1339
-  Unit Score: 2678
-  Average Score: 2008
-  Stat Strength: 1739
-  Total Strength: 2678
-  Planet Strength: 2678
-  Space Strength: 0
-  Garrison Strength: 691
+  Tech Score: 1168
+  Unit Score: 1167
+  Average Score: 1167
+  Stat Strength: 1082
+  Total Strength: 1167
+  Planet Strength: 0
+  Space Strength: 1167
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 15
-  Spot: 11
-  Camouflage: 5
-  Agility: 4
-  Armor: 26
-  Psy Defense: 26
-  Rank: 114
+  Movement Type: jump
+  Move Points: 3
+  Spot: 10
+  Camouflage: 2
+  Agility: 1
+  Armor: 22
+  Psy Defense: 22
+  Rank: 94
 Attacks:
-  Water: 11/27
-  Air: 17/12
-  Indirect: 10/23
-  Direct: 13/16
-Cargo Space: 1
-Load aboard transport: 5
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 90
-Build Cost: 904
+  Direct Space: 5/10
+  Close Space: 5/7
+Cargo Space: 6
+Load aboard transport: 8
+Bulk Hauler - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 417
+Build Cost: 4168
 Build Resource Requirements:
-  Food: 4
-  Energy: 50
-  Metal: 36
-  Trace: 21
-  Exotica: 4
-  Chemicals: 69
-  Biochems: 13
-  Electronics: 23
-  Ceramsteel: 43
-Build Guid. Miss. Destroyer in Well
-Time to Build / Upgrade: 6
-[5855] Technology Required to Build Unit (84):
-  [5855] Guided Missile Navalcraft (84)
+  Food: 3
+  Energy: 3
+  Metal: 22
+  Trace: 6
+  Exotica: 3
+  Chemicals: 14
+  Electronics: 9
+  Ceramsteel: 32
+  Monopols: 46
+  Singularities: 2
+Build Armored Bulk Hauler in Starport
+Time to Build / Upgrade: 4
+[5975] Technologies Required to Build Unit (77):
+  [1690] Ceramsteel (84)
+  [4285] Jump Drives (70)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Amphibious Destroyer
-Nick Name: CC-DD
+Name: League Bulk Hauler
+Nick Name: Executor
 Scores & Strengths:
-  Tech Score: 2767
-  Unit Score: 2767
-  Average Score: 2767
-  Stat Strength: 2152
-  Total Strength: 2767
-  Planet Strength: 2767
-  Space Strength: 0
-  Garrison Strength: 652
+  Tech Score: 3604
+  Unit Score: 3602
+  Average Score: 3603
+  Stat Strength: 3402
+  Total Strength: 3602
+  Planet Strength: 0
+  Space Strength: 3602
+  Garrison Strength: 0
 Statistics:
-  Movement Type: craft
-  Move Points: 18
+  Movement Type: jump
+  Move Points: 12
   Spot: 12
-  Camouflage: 4
-  Agility: 10
-  Armor: 28
-  Psy Defense: 28
-  Rank: 112
+  Camouflage: 6
+  Agility: 6
+  Armor: 39
+  Psy Defense: 39
+  Rank: 141
 Attacks:
-  Water: 9/20
-  Air: 11/17
-  Indirect: 8/18
-  Direct: 8/13
-Cargo Space: 1
-Load aboard transport: 5
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 14
-Build Cost: 140
+  Close Space: 10/20
+Cargo Space: 7
+Load aboard transport: 8
+Bulk Hauler - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 850
+Build Cost: 8501
 Build Resource Requirements:
-  Food: 2
-  Energy: 15
-  Metal: 16
-  Trace: 5
-  Exotica: 2
-  Chemicals: 22
+  Food: 1
+  Energy: 3
+  Metal: 17
+  Trace: 2
+  Exotica: 1
+  Chemicals: 9
   Biochems: 16
-  Electronics: 6
-  Ceramsteel: 17
-Build Amphibious Destroyer in Well
+  Electronics: 4
+  Ceramsteel: 22
+  Monopols: 27
+  Singularities: 4
+Build League Bulk Hauler in Starport
 Time to Build / Upgrade: 3
-[23555] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [6655] PTS Missile Navalcraft (83)
-  [14045] Space Escorts (84)
+[25780] Technologies Required to Build Unit (64):
+  [5560] Quantum Supremacy (56)
+  [20220] Jump Transports (72)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: PTS Missile Destroyer
-Nick Name: NN-DPTS
+Name: Power Bulk Hauler
+Nick Name: JJ-BH-Po
 Scores & Strengths:
-  Tech Score: 1474
-  Unit Score: 3685
-  Average Score: 2579
-  Stat Strength: 2300
-  Total Strength: 3685
-  Planet Strength: 3545
-  Space Strength: 2440
-  Garrison Strength: 886
+  Tech Score: 4325
+  Unit Score: 4325
+  Average Score: 4325
+  Stat Strength: 2865
+  Total Strength: 4325
+  Planet Strength: 0
+  Space Strength: 4325
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 16
-  Spot: 12
-  Camouflage: 8
+  Movement Type: jump
+  Move Points: 15
+  Spot: 16
+  Camouflage: 6
   Agility: 6
-  Armor: 30
-  Psy Defense: 30
-  Rank: 141
+  Armor: 34
+  Psy Defense: 34
+  Rank: 210
 Attacks:
-  Ranged Space: 7/20
-  Water: 15/28
-  Air: 19/14
-  Indirect: 13/25
-  Direct: 13/18
-Cargo Space: 1
-Load aboard transport: 6
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 135
-Build Cost: 1346
+  Direct Space: 28/28
+  Close Space: 26/26
+Cargo Space: 6
+Load aboard transport: 8
+Bulk Hauler - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 810
+Build Cost: 8095
 Build Resource Requirements:
-  Food: 4
-  Energy: 63
-  Metal: 44
-  Trace: 28
-  Exotica: 5
-  Chemicals: 89
+  Food: 1
+  Energy: 5
+  Metal: 7
+  Trace: 9
+  Exotica: 1
+  Chemicals: 11
   Biochems: 16
-  Electronics: 30
-  Ceramsteel: 54
-Build PTS Missile Destroyer in Well
-Time to Build / Upgrade: 7
-[6655] Technology Required to Build Unit (83):
-  [6655] PTS Missile Navalcraft (83)
+  Electronics: 17
+  Ceramsteel: 9
+  Monopols: 18
+  Singularities: 4
+Power Bulk Hauler cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Nuclear Destroyer
-Nick Name: NN-DDN
+Name: Cybermorph Bulk Hauler
+Nick Name: JJ-BH-Cm
 Scores & Strengths:
-  Tech Score: 1579
-  Unit Score: 4737
-  Average Score: 3158
-  Stat Strength: 2925
-  Total Strength: 4737
-  Planet Strength: 4737
-  Space Strength: 0
-  Garrison Strength: 1116
+  Tech Score: 7174
+  Unit Score: 7175
+  Average Score: 7175
+  Stat Strength: 5025
+  Total Strength: 7175
+  Planet Strength: 0
+  Space Strength: 7175
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 18
-  Spot: 12
-  Camouflage: 9
-  Agility: 8
-  Armor: 34
-  Psy Defense: 34
-  Rank: 151
+  Movement Type: jump
+  Move Points: 24
+  Spot: 24
+  Camouflage: 12
+  Agility: 41
+  Armor: 32
+  Psy Defense: 32
+  Rank: 264
 Attacks:
-  Water: 17/34
-  Air: 21/16
-  Indirect: 16/30
-  Direct: 19/22
-Cargo Space: 1
-Load aboard transport: 5
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 190
-Build Cost: 1897
+  Direct Space: 50/25
+  Close Space: 36/25
+Cargo Space: 7
+Load aboard transport: 8
+Bulk Hauler - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 1702
+Build Cost: 17019
 Build Resource Requirements:
-  Food: 5
-  Energy: 72
-  Metal: 52
-  Trace: 35
-  Exotica: 5
-  Chemicals: 104
-  Biochems: 19
-  Electronics: 38
-  Ceramsteel: 67
-Build Nuclear Destroyer in Well
-Time to Build / Upgrade: 9
-[7295] Technology Required to Build Unit (81):
-  [7295] Nuclear-Powered Navalcraft (81)
+  Food: 2
+  Energy: 7
+  Metal: 5
+  Trace: 10
+  Exotica: 2
+  Chemicals: 11
+  Biochems: 26
+  Electronics: 22
+  Ceramsteel: 7
+  Wetware: 18
+  Monopols: 19
+  Singularities: 5
+Cybermorph Bulk Hauler cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Meson Amphibious Destroyer
-Nick Name: CC-MDD
+Name: Gate Bulk Hauler
+Nick Name: GG-BH
 Scores & Strengths:
-  Tech Score: 5449
-  Unit Score: 5449
-  Average Score: 5449
-  Stat Strength: 4138
-  Total Strength: 5449
-  Planet Strength: 4955
-  Space Strength: 4632
-  Garrison Strength: 1107
+  Tech Score: 7473
+  Unit Score: 7256
+  Average Score: 7364
+  Stat Strength: 6061
+  Total Strength: 7256
+  Planet Strength: 6621
+  Space Strength: 6696
+  Garrison Strength: 1380
 Statistics:
-  Movement Type: craft
-  Move Points: 20
-  Spot: 14
-  Camouflage: 6
-  Agility: 12
-  Armor: 41
-  Psy Defense: 41
-  Rank: 174
+  Movement Type: gate
+  Move Points: 23
+  Spot: 16
+  Camouflage: 12
+  Agility: 30
+  Armor: 46
+  Psy Defense: 46
+  Rank: 210
 Attacks:
-  Ranged Space: 19/26
-  Water: 10/22
-  Air: 13/19
-  Indirect: 10/20
-  Direct: 10/15
-Cargo Space: 1
-Load aboard transport: 6
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 121
-Build Cost: 1072
+  Direct Space: 14/25
+  Close Space: 15/19
+  Direct: 14/23
+  Close: 14/17
+Cargo Space: 7
+Load aboard transport: 8
+Bulk Hauler - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 1672
+Build Cost: 16724
 Build Resource Requirements:
-  Electronics: 6
-  Monopols: 27
-Upgrade Amphibious Destroyer to Meson Amphibious Destroyer at Well
-Time to Build / Upgrade: 1
-[58695] Technologies Required to Build Unit (79):
-  [2855] Naval Amphibious Ships (87)
-  [27875] PTS Meson Navalcraft (74)
-  [27965] Jump Escorts (75)
+  Food: 1
+  Energy: 8
+  Metal: 9
+  Trace: 4
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 20
+  Electronics: 11
+  Ceramsteel: 15
+  Wetware: 7
+  Monopols: 32
+  Singularities: 5
+Build Gate Bulk Hauler in Starport
+Time to Build / Upgrade: 4
+[57980] Technology Required to Build Unit (50):
+  [57980] Gate Transports (50)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Hover Destroyer
-Nick Name: Annihilator
+Name: Stealth Bulk Hauler
+Nick Name: JJ-BH-St
 Scores & Strengths:
-  Tech Score: 6233
-  Unit Score: 6304
-  Average Score: 6268
-  Stat Strength: 5073
-  Total Strength: 6304
-  Planet Strength: 6304
-  Space Strength: 0
-  Garrison Strength: 1409
+  Tech Score: 7481
+  Unit Score: 7485
+  Average Score: 7483
+  Stat Strength: 5445
+  Total Strength: 7485
+  Planet Strength: 0
+  Space Strength: 7485
+  Garrison Strength: 0
 Statistics:
-  Movement Type: hover
-  Move Points: 20
-  Spot: 16
-  Camouflage: 8
-  Agility: 11
-  Armor: 46
-  Psy Defense: 46
-  Rank: 163
+  Movement Type: jump
+  Move Points: 24
+  Spot: 34
+  Camouflage: 42
+  Agility: 21
+  Armor: 32
+  Psy Defense: 22
+  Rank: 284
 Attacks:
-  Water: 12/23
-  Air: 17/23
-  Indirect: 10/34
-  Direct: 14/16
-Cargo Space: 1
-Load aboard transport: 5
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 201
-Build Cost: 2011
+  Direct Space: 24/50
+  Close Space: 24/35
+Cargo Space: 7
+Load aboard transport: 8
+Bulk Hauler - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 1645
+Build Cost: 16453
 Build Resource Requirements:
   Food: 1
-  Energy: 11
-  Metal: 9
-  Trace: 3
-  Exotica: 1
-  Chemicals: 20
-  Biochems: 25
-  Electronics: 11
-  Ceramsteel: 18
-  Wetware: 4
-  Monopols: 40
-Build Hover Destroyer in Well
-Time to Build / Upgrade: 4
-[45520] Technology Required to Build Unit (53):
-  [45520] Hover Navalcraft (53)
+  Energy: 10
+  Metal: 3
+  Trace: 10
+  Exotica: 2
+  Chemicals: 15
+  Biochems: 21
+  Electronics: 20
+  Ceramsteel: 4
+  Wetware: 8
+  Monopols: 22
+  Singularities: 5
+Stealth Bulk Hauler cannot be built
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

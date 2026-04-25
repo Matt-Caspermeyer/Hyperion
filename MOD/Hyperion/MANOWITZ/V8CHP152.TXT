@@ -1,368 +1,586 @@
-All units of the unit class Gunship are listed herein (7 in total):
+All units of the unit class Holy Sp. Sloop are listed herein (12 in total):
 
 --1--
-Name: Gunship
-Nick Name: Dragonfly
+Name: Holy Sp. Sloop
+Nick Name: SS-HSS
 Scores & Strengths:
-  Tech Score: 742
-  Unit Score: 743
-  Average Score: 742
-  Stat Strength: 643
-  Total Strength: 743
-  Planet Strength: 743
-  Space Strength: 0
-  Garrison Strength: 214
+  Tech Score: 725
+  Unit Score: 725
+  Average Score: 725
+  Stat Strength: 425
+  Total Strength: 725
+  Planet Strength: 0
+  Space Strength: 725
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 12
-  Spot: 10
-  Camouflage: 6
-  Agility: 11
-  Armor: 11
-  Psy Defense: 11
-  Rank: 52
+  Movement Type: space
+  Move Points: 3
+  Spot: 8
+  Camouflage: 4
+  Agility: 4
+  Armor: 8
+  Psy Defense: 16
+  Rank: 751
 Attacks:
-  Water: 1/12
-  Air: 6/6
-  Indirect: 1/12
-  Direct: 2/8
-  Close: 4/6
-Load aboard transport: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 15
-Build Cost: 146
+  Direct Space: 12/8
+  Close Space: 12/6
+  Psychic: 12/11
+Cargo Space: 1
+Load aboard transport: 3
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 61
+Build Cost: 541
 Build Resource Requirements:
-  Food: 8
-  Energy: 31
-  Metal: 166
-  Trace: 13
-  Exotica: 7
-  Chemicals: 36
-  Electronics: 14
-Build Gunship in Factory
-Time to Build / Upgrade: 3
-[2665] Technology Required to Build Unit (85):
-  [2665] V/STOL Aircraft (85)
+  Metal: 21
+  Trace: 21
+  Chemicals: 7
+  Electronics: 18
+  Gems: 10
+Upgrade Clergy to Holy Sp. Sloop at Church
+Time to Build / Upgrade: 1
+[3325] Technologies Required to Build Unit (85):
+  [700] Rockets (90)
+  [1100] Omen (76)
+  [330] Holy Warriors (82)
+  [1195] Naval Warfare (90)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Gunship II
-Nick Name: Dragonfly II
+Name: Holy Sp. Raider
+Nick Name: SS-HSR
 Scores & Strengths:
-  Tech Score: 1262
-  Unit Score: 1168
-  Average Score: 1215
-  Stat Strength: 1002
-  Total Strength: 1168
-  Planet Strength: 1168
-  Space Strength: 0
-  Garrison Strength: 292
+  Tech Score: 725
+  Unit Score: 726
+  Average Score: 726
+  Stat Strength: 470
+  Total Strength: 726
+  Planet Strength: 0
+  Space Strength: 726
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 16
-  Spot: 11
-  Camouflage: 8
-  Agility: 13
-  Armor: 14
+  Movement Type: space
+  Move Points: 3
+  Spot: 10
+  Camouflage: 10
+  Agility: 4
+  Armor: 7
   Psy Defense: 14
-  Rank: 66
+  Rank: 753
 Attacks:
-  Water: 1/16
-  Air: 8/8
-  Indirect: 1/16
-  Direct: 3/10
-  Close: 5/8
-Load aboard transport: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 8
-Build Cost: 78
+  Ranged Space: 10/12
+  Close Space: 6/6
+  Psychic: 10/10
+Cargo Space: 1
+Load aboard transport: 3
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 102
+Build Cost: 943
 Build Resource Requirements:
-  Food: 5
-  Energy: 22
-  Metal: 28
-  Trace: 9
-  Exotica: 5
-  Chemicals: 23
-  Biochems: 5
-  Electronics: 8
-Build Gunship II in Factory
-Time to Build / Upgrade: 2
-[7970] Technologies Required to Build Unit (87):
-  [795] Missiles (86)
-  [2725] Naval Capital Ships (88)
-  [1785] Rotary Autocannon (90)
-  [2665] V/STOL Aircraft (85)
+  Metal: 15
+  Trace: 20
+  Chemicals: 11
+  Electronics: 17
+  Gems: 7
+Upgrade Clergy to Holy Sp. Raider at Church
+Time to Build / Upgrade: 1
+[3325] Technologies Required to Build Unit (85):
+  [700] Rockets (90)
+  [1100] Omen (76)
+  [330] Holy Warriors (82)
+  [1195] Naval Warfare (90)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Advanced Gunship
-Nick Name: Dragonfly III
+Name: Holy Sp. Corsair
+Nick Name: SS-HSCo
 Scores & Strengths:
-  Tech Score: 1914
-  Unit Score: 1749
-  Average Score: 1831
-  Stat Strength: 1474
-  Total Strength: 1749
-  Planet Strength: 1749
-  Space Strength: 0
-  Garrison Strength: 401
+  Tech Score: 1068
+  Unit Score: 1067
+  Average Score: 1068
+  Stat Strength: 572
+  Total Strength: 1067
+  Planet Strength: 0
+  Space Strength: 1067
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 19
-  Spot: 13
-  Camouflage: 10
-  Agility: 14
-  Armor: 18
-  Psy Defense: 18
-  Rank: 83
+  Movement Type: space
+  Move Points: 6
+  Spot: 10
+  Camouflage: 4
+  Agility: 10
+  Armor: 8
+  Psy Defense: 16
+  Rank: 772
 Attacks:
-  Water: 2/19
-  Air: 10/10
-  Indirect: 2/19
-  Direct: 3/13
-  Close: 6/10
-Load aboard transport: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 13
-Build Cost: 134
+  Direct Space: 25/10
+  Close Space: 13/9
+  Psychic: 16/8
+Cargo Space: 1
+Load aboard transport: 3
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 57
+Build Cost: 501
 Build Resource Requirements:
-  Food: 6
-  Energy: 28
-  Metal: 10
-  Trace: 10
-  Exotica: 6
-  Chemicals: 49
-  Electronics: 16
-  Ceramsteel: 24
-Build Advanced Gunship in Factory
-Time to Build / Upgrade: 3
-[9430] Technology Required to Build Unit (81):
-  [9430] Advanced V/STOL Aircraft (81)
+  Metal: 14
+  Trace: 40
+  Chemicals: 10
+  Biochems: 21
+  Electronics: 31
+  Gems: 3
+Upgrade Clergy to Holy Sp. Corsair at Church
+Time to Build / Upgrade: 2
+[5370] Technologies Required to Build Unit (80):
+  [795] Rocket Propulsion (90)
+  [1520] Psyche (60)
+  [330] Holy Warriors (82)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Killer Gunship
-Nick Name: Bumblebee
+Name: Holy Sp. Corvette
+Nick Name: SS-HSCv
 Scores & Strengths:
-  Tech Score: 4843
-  Unit Score: 3995
-  Average Score: 4419
-  Stat Strength: 3334
-  Total Strength: 3995
-  Planet Strength: 3995
-  Space Strength: 0
-  Garrison Strength: 717
+  Tech Score: 1706
+  Unit Score: 1706
+  Average Score: 1706
+  Stat Strength: 993
+  Total Strength: 1706
+  Planet Strength: 0
+  Space Strength: 1706
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 31
-  Spot: 16
-  Camouflage: 15
-  Agility: 18
-  Armor: 28
-  Psy Defense: 28
-  Rank: 127
+  Movement Type: space
+  Move Points: 11
+  Spot: 10
+  Camouflage: 4
+  Agility: 16
+  Armor: 10
+  Psy Defense: 20
+  Rank: 792
 Attacks:
-  Water: 3/31
-  Air: 15/15
-  Indirect: 3/31
-  Direct: 5/20
-  Close: 10/15
-Load aboard transport: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 109
-Build Cost: 1092
+  Direct Space: 21/13
+  Close Space: 20/12
+  Psychic: 20/10
+Cargo Space: 1
+Load aboard transport: 3
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 71
+Build Cost: 632
 Build Resource Requirements:
-  Food: 3
-  Energy: 15
-  Metal: 4
-  Trace: 5
-  Exotica: 3
-  Chemicals: 23
-  Biochems: 4
-  Electronics: 11
-  Ceramsteel: 8
-  Monopols: 33
-Build Killer Gunship in Factory
-Time to Build / Upgrade: 3
-[46705] Technologies Required to Build Unit (81):
-  [1785] Rotary Autocannon (90)
-  [27875] PTS Meson Navalcraft (74)
-  [17045] Power V/STOL Aircraft (79)
+  Metal: 9
+  Trace: 23
+  Chemicals: 15
+  Biochems: 12
+  Electronics: 26
+  Ceramsteel: 14
+  Gems: 6
+Upgrade Clergy to Holy Sp. Corvette at Church
+Time to Build / Upgrade: 2
+[9400] Technologies Required to Build Unit (74):
+  [2585] Supersonics (87)
+  [330] Holy Warriors (82)
+  [1790] Sixth Sense (45)
+  [4695] Advanced Minor Watercraft (83)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Psy Killer Gunship
-Nick Name: Psy Gunship
+Name: Holy Patrol Star
+Nick Name: SS-HSPs
 Scores & Strengths:
-  Tech Score: 5089
-  Unit Score: 6074
-  Average Score: 5581
-  Stat Strength: 4572
-  Total Strength: 6074
-  Planet Strength: 6074
-  Space Strength: 4782
-  Garrison Strength: 985
+  Tech Score: 1706
+  Unit Score: 1706
+  Average Score: 1706
+  Stat Strength: 1009
+  Total Strength: 1706
+  Planet Strength: 0
+  Space Strength: 1706
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 38
-  Spot: 19
-  Camouflage: 11
-  Agility: 21
-  Armor: 21
-  Psy Defense: 42
-  Rank: 160
+  Movement Type: space
+  Move Points: 12
+  Spot: 10
+  Camouflage: 6
+  Agility: 18
+  Armor: 9
+  Psy Defense: 18
+  Rank: 788
 Attacks:
-  Psychic: 15/14
-  Water: 15/23
-  Air: 15/15
-  Indirect: 9/25
-  Direct: 15/15
-  Close: 17/16
+  Direct Space: 25/11
+  Close Space: 26/10
+  Psychic: 18/9
 Load aboard transport: 2
-Upkeep / Maintenance: 142
-Build Cost: 1421
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 69
+Build Cost: 614
 Build Resource Requirements:
-  Food: 5
-  Energy: 14
-  Metal: 6
-  Trace: 10
-  Exotica: 6
-  Chemicals: 22
-  Biochems: 16
-  Electronics: 19
-  Ceramsteel: 10
-  Monopols: 33
-  Gems: 7
-Build Psy Killer Gunship in Factory
-Time to Build / Upgrade: 4
-[52760] Technologies Required to Build Unit (72):
+  Metal: 7
+  Trace: 34
+  Chemicals: 14
+  Biochems: 18
+  Electronics: 38
+  Ceramsteel: 11
+  Gems: 4
+Upgrade Clergy to Holy Patrol Star at Church
+Time to Build / Upgrade: 2
+[9400] Technologies Required to Build Unit (74):
+  [2585] Supersonics (87)
   [330] Holy Warriors (82)
-  [1555] Dhechi (80)
-  [3050] Occult Science (44)
-  [2725] Visioning (56)
-  [1785] Rotary Autocannon (90)
-  [27875] PTS Meson Navalcraft (74)
-  [15440] Power Aircraft (79)
+  [1790] Sixth Sense (45)
+  [4695] Advanced Minor Watercraft (83)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Morph Gunship
-Nick Name: Wasp
+Name: Holy Sp. Cutter
+Nick Name: SS-HSCu
 Scores & Strengths:
-  Tech Score: 8399
-  Unit Score: 8185
-  Average Score: 8292
-  Stat Strength: 5714
-  Total Strength: 8185
-  Planet Strength: 8185
-  Space Strength: 0
-  Garrison Strength: 1248
+  Tech Score: 1706
+  Unit Score: 1706
+  Average Score: 1706
+  Stat Strength: 1058
+  Total Strength: 1706
+  Planet Strength: 0
+  Space Strength: 1706
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 43
-  Spot: 24
-  Camouflage: 16
-  Agility: 41
-  Armor: 26
-  Psy Defense: 26
-  Rank: 196
+  Movement Type: space
+  Move Points: 12
+  Spot: 10
+  Camouflage: 5
+  Agility: 17
+  Armor: 10
+  Psy Defense: 20
+  Rank: 789
 Attacks:
-  Water: 30/28
-  Air: 20/20
-  Indirect: 13/30
-  Direct: 20/20
-  Close: 21/21
-Load aboard transport: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 182
-Build Cost: 1817
+  Direct Space: 21/14
+  Close Space: 14/11
+  Psychic: 20/10
+Cargo Space: 1
+Load aboard transport: 3
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 68
+Build Cost: 611
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 2
-  Trace: 7
-  Exotica: 3
-  Chemicals: 15
-  Biochems: 23
-  Electronics: 13
-  Ceramsteel: 3
-  Wetware: 10
-  Monopols: 23
-Build Morph Gunship in Factory
-Time to Build / Upgrade: 3
-[100845] Technologies Required to Build Unit (64):
-  [1785] Rotary Autocannon (90)
-  [45520] Hover Navalcraft (53)
-  [53540] Polymorphonic Patrolcraft (49)
+  Metal: 9
+  Trace: 19
+  Chemicals: 16
+  Biochems: 11
+  Electronics: 22
+  Ceramsteel: 14
+  Gems: 6
+Upgrade Clergy to Holy Sp. Cutter at Church
+Time to Build / Upgrade: 2
+[9400] Technologies Required to Build Unit (74):
+  [2585] Supersonics (87)
+  [330] Holy Warriors (82)
+  [1790] Sixth Sense (45)
+  [4695] Advanced Minor Watercraft (83)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Stealth Gunship
-Nick Name: Hornet
+Name: Sathra Corsair
+Nick Name: JJ-HSCo
 Scores & Strengths:
-  Tech Score: 8630
-  Unit Score: 8418
-  Average Score: 8524
-  Stat Strength: 5925
-  Total Strength: 8418
-  Planet Strength: 8418
-  Space Strength: 0
-  Garrison Strength: 1254
+  Tech Score: 2245
+  Unit Score: 2209
+  Average Score: 2227
+  Stat Strength: 1182
+  Total Strength: 2209
+  Planet Strength: 0
+  Space Strength: 2209
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 45
-  Spot: 24
-  Camouflage: 36
-  Agility: 26
-  Armor: 26
-  Psy Defense: 26
-  Rank: 207
+  Movement Type: jump
+  Move Points: 9
+  Spot: 14
+  Camouflage: 6
+  Agility: 14
+  Armor: 12
+  Psy Defense: 23
+  Rank: 815
 Attacks:
-  Water: 20/32
-  Air: 20/22
-  Indirect: 14/32
-  Direct: 20/22
-  Close: 25/21
-Load aboard transport: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 174
-Build Cost: 1736
+  Direct Space: 36/14
+  Close Space: 19/13
+  Psychic: 23/12
+Cargo Space: 1
+Load aboard transport: 3
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 313
+Build Cost: 2632
 Build Resource Requirements:
-  Food: 2
-  Energy: 11
-  Metal: 2
-  Trace: 10
-  Exotica: 3
-  Chemicals: 15
-  Biochems: 22
-  Electronics: 17
-  Ceramsteel: 3
-  Wetware: 8
-  Monopols: 23
-Build Stealth Gunship in Factory
-Time to Build / Upgrade: 3
-[102555] Technologies Required to Build Unit (59):
-  [1785] Rotary Autocannon (90)
-  [45520] Hover Navalcraft (53)
-  [55250] Neumonic Patrolcraft (34)
+  Chemicals: 3
+  Electronics: 8
+  Ceramsteel: 16
+  Gems: 4
+  Singularities: 3
+Upgrade Holy Sp. Corsair to Sathra Corsair at Church
+Time to Build / Upgrade: 1
+[13980] Technologies Required to Build Unit (71):
+  [4530] Hypersonics (83)
+  [330] Holy Warriors (82)
+  [2465] Sathra (36)
+  [6655] PTS Missile Navalcraft (83)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Sathra Sloop
+Nick Name: JJ-HSS
+Scores & Strengths:
+  Tech Score: 2245
+  Unit Score: 2223
+  Average Score: 2234
+  Stat Strength: 1299
+  Total Strength: 2223
+  Planet Strength: 0
+  Space Strength: 2223
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 5
+  Spot: 14
+  Camouflage: 7
+  Agility: 7
+  Armor: 14
+  Psy Defense: 28
+  Rank: 810
+Attacks:
+  Direct Space: 21/14
+  Close Space: 21/11
+  Psychic: 21/19
+Cargo Space: 1
+Load aboard transport: 3
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 281
+Build Cost: 2264
+Build Resource Requirements:
+  Chemicals: 3
+  Biochems: 9
+  Electronics: 4
+  Ceramsteel: 23
+  Gems: 13
+  Singularities: 2
+Upgrade Holy Sp. Sloop to Sathra Sloop at Church
+Time to Build / Upgrade: 2
+[13980] Technologies Required to Build Unit (71):
+  [4530] Hypersonics (83)
+  [330] Holy Warriors (82)
+  [2465] Sathra (36)
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Sathra Raider
+Nick Name: JJ-HSR
+Scores & Strengths:
+  Tech Score: 2245
+  Unit Score: 2314
+  Average Score: 2279
+  Stat Strength: 1491
+  Total Strength: 2314
+  Planet Strength: 0
+  Space Strength: 2314
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 5
+  Spot: 18
+  Camouflage: 18
+  Agility: 7
+  Armor: 12
+  Psy Defense: 25
+  Rank: 816
+Attacks:
+  Ranged Space: 18/21
+  Close Space: 11/11
+  Psychic: 18/18
+Cargo Space: 1
+Load aboard transport: 3
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 516
+Build Cost: 4215
+Build Resource Requirements:
+  Chemicals: 3
+  Biochems: 6
+  Electronics: 5
+  Ceramsteel: 18
+  Gems: 13
+  Singularities: 2
+Upgrade Holy Sp. Raider to Sathra Raider at Church
+Time to Build / Upgrade: 1
+[13980] Technologies Required to Build Unit (71):
+  [4530] Hypersonics (83)
+  [330] Holy Warriors (82)
+  [2465] Sathra (36)
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Sathra Cutter
+Nick Name: JJ-HSCu
+Scores & Strengths:
+  Tech Score: 2544
+  Unit Score: 2517
+  Average Score: 2530
+  Stat Strength: 1566
+  Total Strength: 2517
+  Planet Strength: 0
+  Space Strength: 2517
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 15
+  Spot: 12
+  Camouflage: 6
+  Agility: 21
+  Armor: 12
+  Psy Defense: 24
+  Rank: 814
+Attacks:
+  Direct Space: 26/17
+  Close Space: 17/13
+  Psychic: 24/12
+Cargo Space: 1
+Load aboard transport: 3
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 397
+Build Cost: 3363
+Build Resource Requirements:
+  Food: 1
+  Metal: 1
+  Trace: 1
+  Exotica: 1
+  Chemicals: 3
+  Electronics: 4
+  Ceramsteel: 2
+  Singularities: 4
+Upgrade Holy Sp. Cutter to Sathra Cutter at Church
+Time to Build / Upgrade: 1
+[16135] Technologies Required to Build Unit (68):
+  [4920] Hypercruise (82)
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Sathra Corvette
+Nick Name: JJ-HSCv
+Scores & Strengths:
+  Tech Score: 2544
+  Unit Score: 2522
+  Average Score: 2533
+  Stat Strength: 1458
+  Total Strength: 2522
+  Planet Strength: 0
+  Space Strength: 2522
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 13
+  Spot: 12
+  Camouflage: 5
+  Agility: 20
+  Armor: 12
+  Psy Defense: 24
+  Rank: 818
+Attacks:
+  Direct Space: 26/16
+  Close Space: 24/15
+  Psychic: 24/12
+Cargo Space: 1
+Load aboard transport: 3
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 375
+Build Cost: 3115
+Build Resource Requirements:
+  Energy: 1
+  Metal: 1
+  Trace: 1
+  Chemicals: 3
+  Biochems: 1
+  Electronics: 5
+  Ceramsteel: 2
+  Singularities: 4
+Upgrade Holy Sp. Corvette to Sathra Corvette at Church
+Time to Build / Upgrade: 1
+[16135] Technologies Required to Build Unit (68):
+  [4920] Hypercruise (82)
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Sathra Patrol Star
+Nick Name: JJ-HSPs
+Scores & Strengths:
+  Tech Score: 2544
+  Unit Score: 2536
+  Average Score: 2540
+  Stat Strength: 1507
+  Total Strength: 2536
+  Planet Strength: 0
+  Space Strength: 2536
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 15
+  Spot: 12
+  Camouflage: 7
+  Agility: 22
+  Armor: 11
+  Psy Defense: 22
+  Rank: 813
+Attacks:
+  Direct Space: 31/13
+  Close Space: 32/12
+  Psychic: 22/11
+Load aboard transport: 2
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 392
+Build Cost: 3309
+Build Resource Requirements:
+  Energy: 1
+  Metal: 1
+  Trace: 1
+  Exotica: 1
+  Chemicals: 2
+  Biochems: 1
+  Electronics: 8
+  Ceramsteel: 2
+  Singularities: 4
+Upgrade Holy Patrol Star to Sathra Patrol Star at Church
+Time to Build / Upgrade: 1
+[16135] Technologies Required to Build Unit (68):
+  [4920] Hypercruise (82)
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

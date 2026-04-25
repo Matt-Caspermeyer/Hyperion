@@ -1,315 +1,280 @@
-All units of the unit class Guided Bomb are listed herein (7 in total):
+All units of the unit class Amphibious Heavy Tank are listed herein (6 in total):
 
 --1--
-Name: Guided Bomb
-Nick Name: Guided Bomb
+Name: Amphibious Heavy Tank
+Nick Name: N-ATH
 Scores & Strengths:
-  Tech Score: 458
-  Unit Score: 458
-  Average Score: 458
-  Stat Strength: 363
-  Total Strength: 458
-  Planet Strength: 458
+  Tech Score: 410
+  Unit Score: 409
+  Average Score: 410
+  Stat Strength: 311
+  Total Strength: 409
+  Planet Strength: 409
   Space Strength: 0
-  Garrison Strength: 458
+  Garrison Strength: 182
 Statistics:
-  Movement Type: air
-  Move Points: 1
-  Spot: 0
-  Camouflage: 6
-  Agility: 18
-  Armor: 1
-  Psy Defense: 1
-  Rank: 23
+  Movement Type: craft
+  Move Points: 5
+  Spot: 2
+  Camouflage: 2
+  Agility: 6
+  Armor: 11
+  Psy Defense: 11
+  Rank: 40
 Attacks:
-  Indirect: 5/19
-Load aboard transport: 1
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 11
+  Indirect: 6/8
+  Direct: 5/7
+  Close: 3/5
+Load aboard transport: 3
+Upkeep / Maintenance: 4
+Build Cost: 35
 Build Resource Requirements:
-  Food: 7
-  Energy: 34
-  Metal: 1
-  Trace: 18
-  Exotica: 7
-  Chemicals: 34
-  Electronics: 10
-Build Guided Bomb in Chemical Plant
+  Food: 2
+  Energy: 12
+  Metal: 31
+  Trace: 7
+  Exotica: 2
+  Chemicals: 11
+  Electronics: 4
+Build Amphibious Heavy Tank in Factory
 Time to Build / Upgrade: 2
-[1645] Technologies Required to Build Unit (90):
-  [245] Rotary Engine (92)
-  [1400] Aerial Warfare (87)
+[1595] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [1195] Naval Warfare (90)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Glide Bomb
-Nick Name: Glide Bomb
+Name: Amphibious Light Tank
+Nick Name: N-ATL
 Scores & Strengths:
-  Tech Score: 492
-  Unit Score: 492
-  Average Score: 492
-  Stat Strength: 316
-  Total Strength: 492
-  Planet Strength: 492
+  Tech Score: 410
+  Unit Score: 409
+  Average Score: 410
+  Stat Strength: 300
+  Total Strength: 409
+  Planet Strength: 409
   Space Strength: 0
-  Garrison Strength: 284
+  Garrison Strength: 154
 Statistics:
-  Movement Type: air
-  Move Points: 3
-  Spot: 0
-  Camouflage: 4
-  Agility: 17
-  Armor: 1
-  Psy Defense: 1
-  Rank: 32
+  Movement Type: craft
+  Move Points: 7
+  Spot: 2
+  Camouflage: 2
+  Agility: 9
+  Armor: 9
+  Psy Defense: 9
+  Rank: 41
 Attacks:
-  Indirect: 8/22
+  Indirect: 8/6
+  Direct: 8/5
+  Close: 7/3
 Load aboard transport: 1
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 8
+Upkeep / Maintenance: 4
+Build Cost: 42
 Build Resource Requirements:
   Food: 4
-  Energy: 27
-  Metal: 1
-  Trace: 13
+  Energy: 10
+  Metal: 21
+  Trace: 16
   Exotica: 4
-  Chemicals: 27
-  Electronics: 5
-Build Glide Bomb in Chemical Plant
+  Chemicals: 10
+  Electronics: 10
+Build Amphibious Light Tank in Factory
 Time to Build / Upgrade: 2
-[2940] Technologies Required to Build Unit (88):
-  [1540] High-Speed Aerodynamics (89)
-  [1400] Aerial Warfare (87)
+[1595] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [1195] Naval Warfare (90)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Flying Bomb
-Nick Name: Flying Bomb
+Name: Amphibious Medium Tank
+Nick Name: N-ATM
 Scores & Strengths:
-  Tech Score: 534
-  Unit Score: 534
-  Average Score: 534
-  Stat Strength: 334
-  Total Strength: 534
-  Planet Strength: 534
+  Tech Score: 410
+  Unit Score: 409
+  Average Score: 410
+  Stat Strength: 308
+  Total Strength: 409
+  Planet Strength: 409
   Space Strength: 0
-  Garrison Strength: 218
+  Garrison Strength: 166
 Statistics:
-  Movement Type: air
+  Movement Type: craft
   Move Points: 6
-  Spot: 0
-  Camouflage: 10
-  Agility: 14
-  Armor: 1
-  Psy Defense: 1
-  Rank: 35
+  Spot: 2
+  Camouflage: 2
+  Agility: 8
+  Armor: 10
+  Psy Defense: 10
+  Rank: 40
 Attacks:
-  Indirect: 8/25
-Load aboard transport: 1
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 13
+  Indirect: 7/7
+  Direct: 6/6
+  Close: 4/4
+Load aboard transport: 2
+Upkeep / Maintenance: 4
+Build Cost: 37
 Build Resource Requirements:
-  Food: 5
-  Energy: 41
-  Metal: 1
-  Trace: 21
-  Exotica: 5
-  Chemicals: 44
-  Electronics: 10
-Build Flying Bomb in Chemical Plant
+  Food: 3
+  Energy: 11
+  Metal: 25
+  Trace: 10
+  Exotica: 3
+  Chemicals: 10
+  Electronics: 5
+Build Amphibious Medium Tank in Factory
 Time to Build / Upgrade: 2
-[2100] Technologies Required to Build Unit (89):
-  [700] Rockets (90)
-  [1400] Aerial Warfare (87)
+[1595] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [1195] Naval Warfare (90)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Human-Guided Bomb
-Nick Name: HG Bomb
+Name: Amphibious Medium Tank II
+Nick Name: N-ATM2
 Scores & Strengths:
-  Tech Score: 534
-  Unit Score: 535
-  Average Score: 535
-  Stat Strength: 339
-  Total Strength: 535
-  Planet Strength: 535
+  Tech Score: 585
+  Unit Score: 564
+  Average Score: 574
+  Stat Strength: 426
+  Total Strength: 564
+  Planet Strength: 564
   Space Strength: 0
-  Garrison Strength: 189
+  Garrison Strength: 213
 Statistics:
-  Movement Type: air
-  Move Points: 8
-  Spot: 6
-  Camouflage: 5
-  Agility: 14
-  Armor: 3
-  Psy Defense: 3
-  Rank: 40
+  Movement Type: craft
+  Move Points: 7
+  Spot: 2
+  Camouflage: 2
+  Agility: 9
+  Armor: 12
+  Psy Defense: 12
+  Rank: 47
 Attacks:
-  Indirect: 14/14
-Load aboard transport: 1
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
+  Indirect: 8/8
+  Direct: 7/7
+  Close: 5/5
+Load aboard transport: 2
+Upkeep / Maintenance: 5
+Build Cost: 49
 Build Resource Requirements:
-  Metal: 4
-  Trace: 28
-  Exotica: 7
-  Chemicals: 21
-  Electronics: 7
-Upgrade Peasant to Human-Guided Bomb at Chemical Plant
-Time to Build / Upgrade: 1
-[2100] Technologies Required to Build Unit (89):
-  [700] Rockets (90)
-  [1400] Aerial Warfare (87)
+  Food: 3
+  Energy: 11
+  Metal: 28
+  Trace: 11
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 5
+  Electronics: 6
+Build Amphibious Medium Tank II in Factory
+Time to Build / Upgrade: 2
+[2290] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1940] Amphibious Landing Craft (89)
+Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Guided Glide Bomb
-Nick Name: GG Bomb
+Name: Amphibious Heavy Tank II
+Nick Name: N-ATH2
 Scores & Strengths:
-  Tech Score: 701
-  Unit Score: 703
-  Average Score: 702
-  Stat Strength: 358
-  Total Strength: 703
-  Planet Strength: 703
+  Tech Score: 585
+  Unit Score: 573
+  Average Score: 579
+  Stat Strength: 431
+  Total Strength: 573
+  Planet Strength: 573
   Space Strength: 0
-  Garrison Strength: 351
+  Garrison Strength: 233
 Statistics:
-  Movement Type: air
-  Move Points: 4
-  Spot: 0
-  Camouflage: 4
-  Agility: 18
-  Armor: 1
-  Psy Defense: 1
+  Movement Type: craft
+  Move Points: 6
+  Spot: 2
+  Camouflage: 2
+  Agility: 7
+  Armor: 13
+  Psy Defense: 13
   Rank: 48
 Attacks:
-  Indirect: 15/23
-Load aboard transport: 1
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 8
+  Indirect: 7/10
+  Direct: 6/8
+  Close: 4/6
+Load aboard transport: 3
+Upkeep / Maintenance: 5
+Build Cost: 46
 Build Resource Requirements:
-  Food: 3
-  Energy: 23
-  Trace: 17
-  Exotica: 3
-  Chemicals: 23
-  Electronics: 5
-Build Guided Glide Bomb in Chemical Plant
+  Food: 2
+  Energy: 13
+  Metal: 32
+  Trace: 8
+  Exotica: 2
+  Chemicals: 13
+  Biochems: 4
+  Electronics: 4
+Build Amphibious Heavy Tank II in Factory
 Time to Build / Upgrade: 2
-[4135] Technologies Required to Build Unit (89):
-  [1540] High-Speed Aerodynamics (89)
-  [1195] Naval Warfare (90)
-  [1400] Aerial Warfare (87)
+[2290] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1940] Amphibious Landing Craft (89)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Flying Bomb II
-Nick Name: Flying Bomb II
+Name: Amphibious Light Tank II
+Nick Name: N-ATL2
 Scores & Strengths:
-  Tech Score: 756
-  Unit Score: 758
-  Average Score: 757
-  Stat Strength: 398
-  Total Strength: 758
-  Planet Strength: 758
+  Tech Score: 585
+  Unit Score: 576
+  Average Score: 580
+  Stat Strength: 414
+  Total Strength: 576
+  Planet Strength: 576
   Space Strength: 0
-  Garrison Strength: 239
+  Garrison Strength: 203
 Statistics:
-  Movement Type: air
-  Move Points: 10
-  Spot: 0
-  Camouflage: 10
-  Agility: 14
-  Armor: 1
-  Psy Defense: 1
-  Rank: 50
+  Movement Type: craft
+  Move Points: 8
+  Spot: 2
+  Camouflage: 2
+  Agility: 10
+  Armor: 11
+  Psy Defense: 11
+  Rank: 48
 Attacks:
-  Indirect: 18/20
+  Indirect: 10/7
+  Direct: 10/6
+  Close: 8/4
 Load aboard transport: 1
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 9
+Upkeep / Maintenance: 6
+Build Cost: 63
 Build Resource Requirements:
-  Food: 4
-  Energy: 22
-  Trace: 26
-  Exotica: 4
-  Chemicals: 23
-  Electronics: 7
-Build Flying Bomb II in Chemical Plant
+  Food: 3
+  Energy: 10
+  Metal: 23
+  Trace: 20
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 9
+  Electronics: 10
+Build Amphibious Light Tank II in Factory
 Time to Build / Upgrade: 2
-[3390] Technologies Required to Build Unit (88):
-  [1195] Naval Warfare (90)
-  [1400] Aerial Warfare (87)
-  [795] Missiles (86)
-Unit can be disbanded: YES
-
---7--
-Name: Laser-Guided Bomb
-Nick Name: LG Bomb
-Scores & Strengths:
-  Tech Score: 1248
-  Unit Score: 1244
-  Average Score: 1246
-  Stat Strength: 344
-  Total Strength: 1244
-  Planet Strength: 1244
-  Space Strength: 0
-  Garrison Strength: 879
-Statistics:
-  Movement Type: air
-  Move Points: 2
-  Spot: 0
-  Camouflage: 7
-  Agility: 17
-  Armor: 1
-  Psy Defense: 1
-  Rank: 82
-Attacks:
-  Indirect: 30/30
-Load aboard transport: 1
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 12
-Build Resource Requirements:
-  Food: 2
-  Energy: 30
-  Trace: 30
-  Exotica: 2
-  Chemicals: 30
-  Biochems: 2
-  Electronics: 5
-Build Laser-Guided Bomb in Chemical Plant
-Time to Build / Upgrade: 2
-[6435] Technologies Required to Build Unit (83):
-  [1900] LASER (76)
-  [1810] Jet-Propulsion Aircraft (86)
-  [2725] Naval Capital Ships (88)
+[2290] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1940] Amphibious Landing Craft (89)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

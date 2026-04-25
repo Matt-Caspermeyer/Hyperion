@@ -1,334 +1,253 @@
-All units of the unit class Space Destroyer are listed herein (7 in total):
+All units of the unit class Special Forces are listed herein (6 in total):
 
 --1--
-Name: Space Destroyer
-Nick Name: SS-DD
+Name: Special Forces
+Nick Name: SPF LGN
 Scores & Strengths:
-  Tech Score: 2580
-  Unit Score: 2580
-  Average Score: 2580
-  Stat Strength: 1810
-  Total Strength: 2580
-  Planet Strength: 0
-  Space Strength: 2580
-  Garrison Strength: 0
+  Tech Score: 2106
+  Unit Score: 2105
+  Average Score: 2105
+  Stat Strength: 1116
+  Total Strength: 2105
+  Planet Strength: 2105
+  Space Strength: 0
+  Garrison Strength: 562
 Statistics:
-  Movement Type: space
-  Move Points: 16
-  Spot: 12
-  Camouflage: 4
-  Agility: 12
-  Armor: 25
-  Psy Defense: 25
-  Rank: 139
+  Movement Type: foot
+  Move Points: 14
+  Spot: 14
+  Camouflage: 14
+  Agility: 20
+  Armor: 8
+  Psy Defense: 8
+  Rank: 115
 Attacks:
-  Direct Space: 16/28
-  Close Space: 14/23
-Cargo Space: 1
-Load aboard transport: 5
-Immune to Plague
-Upkeep / Maintenance: 41
-Build Cost: 413
+  Air: 17/15
+  Indirect: 16/16
+  Direct: 15/16
+  Close: 17/14
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 95
+Build Cost: 835
 Build Resource Requirements:
-  Food: 3
-  Energy: 22
-  Metal: 18
-  Trace: 9
-  Exotica: 3
-  Chemicals: 36
-  Biochems: 26
-  Electronics: 14
-  Ceramsteel: 20
-Build Space Destroyer in Starport
-Time to Build / Upgrade: 3
-[14045] Technology Required to Build Unit (84):
-  [14045] Space Escorts (84)
+  Trace: 1
+  Electronics: 12
+  Ceramsteel: 2
+  Monopols: 32
+Upgrade Covert Legion to Special Forces at Fort
+Time to Build / Upgrade: 1
+[10710] Technology Required to Build Unit (79):
+  [10710] Special Forces (79)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Jump Destroyer
-Nick Name: JJ-DD
+Name: Cybercorp
+Nick Name: CYB LGN
 Scores & Strengths:
-  Tech Score: 3399
-  Unit Score: 3361
-  Average Score: 3380
-  Stat Strength: 2369
-  Total Strength: 3361
-  Planet Strength: 0
-  Space Strength: 3361
-  Garrison Strength: 0
+  Tech Score: 2788
+  Unit Score: 2630
+  Average Score: 2709
+  Stat Strength: 1340
+  Total Strength: 2630
+  Planet Strength: 2630
+  Space Strength: 0
+  Garrison Strength: 657
 Statistics:
-  Movement Type: jump
-  Move Points: 18
-  Spot: 13
-  Camouflage: 5
-  Agility: 13
-  Armor: 29
-  Psy Defense: 29
-  Rank: 158
+  Movement Type: foot
+  Move Points: 16
+  Spot: 15
+  Camouflage: 16
+  Agility: 21
+  Armor: 9
+  Psy Defense: 9
+  Rank: 130
 Attacks:
-  Direct Space: 18/32
-  Close Space: 16/26
-Cargo Space: 1
-Load aboard transport: 5
-Immune to Plague
-Upkeep / Maintenance: 536
-Build Cost: 5355
+  Air: 20/17
+  Indirect: 18/18
+  Direct: 17/18
+  Close: 20/16
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 128
+Build Cost: 440
 Build Resource Requirements:
-  Food: 2
-  Energy: 16
-  Metal: 15
-  Trace: 8
-  Exotica: 3
-  Chemicals: 26
-  Biochems: 20
-  Electronics: 12
-  Ceramsteel: 17
-  Monopols: 38
-  Singularities: 4
-Build Jump Destroyer in Starport
-Time to Build / Upgrade: 4
-[26415] Technologies Required to Build Unit (76):
-  [4285] Jump Drives (70)
-  [8085] Fusion Rifles (75)
-  [14045] Space Escorts (84)
+  Energy: 3
+  Trace: 7
+  Exotica: 1
+  Chemicals: 6
+  Electronics: 11
+  Monopols: 8
+Upgrade Special Forces to Cybercorp at Hospital
+Time to Build / Upgrade: 1
+[15575] Technology Required to Build Unit (52):
+  [15575] Cybercorp (52)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Meson Space Destroyer
-Nick Name: JJ-DD-Me
+Name: Genetic Special Forces
+Nick Name: Gen SF
 Scores & Strengths:
-  Tech Score: 3792
-  Unit Score: 3792
-  Average Score: 3792
-  Stat Strength: 2210
-  Total Strength: 3792
-  Planet Strength: 0
-  Space Strength: 3792
-  Garrison Strength: 0
+  Tech Score: 2985
+  Unit Score: 2890
+  Average Score: 2937
+  Stat Strength: 1487
+  Total Strength: 2890
+  Planet Strength: 2890
+  Space Strength: 0
+  Garrison Strength: 700
 Statistics:
-  Movement Type: jump
-  Move Points: 18
-  Spot: 14
-  Camouflage: 6
-  Agility: 14
-  Armor: 27
-  Psy Defense: 27
-  Rank: 185
+  Movement Type: foot
+  Move Points: 17
+  Spot: 15
+  Camouflage: 17
+  Agility: 22
+  Armor: 10
+  Psy Defense: 10
+  Rank: 136
 Attacks:
-  Direct Space: 25/36
-  Close Space: 22/31
-Cargo Space: 1
-Load aboard transport: 5
+  Air: 20/18
+  Indirect: 19/19
+  Direct: 18/19
+  Close: 20/17
+Load aboard transport: 1
+Can attack on Byzantium Secundus
 Immune to Plague
-Upkeep / Maintenance: 553
-Build Cost: 5528
+Upkeep / Maintenance: 139
+Build Cost: 556
 Build Resource Requirements:
-  Food: 2
-  Energy: 15
-  Metal: 12
-  Trace: 11
-  Exotica: 2
-  Chemicals: 26
-  Biochems: 19
-  Electronics: 18
-  Ceramsteel: 13
-  Monopols: 35
-  Singularities: 4
-Meson Space Destroyer cannot be built
+  Chemicals: 2
+  Biochems: 41
+Upgrade Special Forces to Genetic Special Forces at Lab
+Time to Build / Upgrade: 1
+[19610] Technologies Required to Build Unit (52):
+  [8900] Genetically-Enhanced Warriors (25)
+  [10710] Special Forces (79)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Jump Destroyer II
-Nick Name: JJ-DD
+Name: Genetic Cybercorp
+Nick Name: Gen Cc
 Scores & Strengths:
-  Tech Score: 4325
-  Unit Score: 4202
-  Average Score: 4264
-  Stat Strength: 2906
-  Total Strength: 4202
-  Planet Strength: 0
-  Space Strength: 4202
-  Garrison Strength: 0
+  Tech Score: 3516
+  Unit Score: 3287
+  Average Score: 3401
+  Stat Strength: 1633
+  Total Strength: 3287
+  Planet Strength: 3287
+  Space Strength: 0
+  Garrison Strength: 774
 Statistics:
-  Movement Type: jump
-  Move Points: 21
-  Spot: 14
-  Camouflage: 5
-  Agility: 14
-  Armor: 32
-  Psy Defense: 32
-  Rank: 178
+  Movement Type: foot
+  Move Points: 18
+  Spot: 16
+  Camouflage: 18
+  Agility: 23
+  Armor: 10
+  Psy Defense: 10
+  Rank: 147
 Attacks:
-  Direct Space: 21/36
-  Close Space: 18/30
-Cargo Space: 1
-Load aboard transport: 5
+  Air: 22/19
+  Indirect: 21/21
+  Direct: 19/21
+  Close: 22/18
+Load aboard transport: 1
+Can attack on Byzantium Secundus
 Immune to Plague
-Upkeep / Maintenance: 619
-Build Cost: 6187
+Upkeep / Maintenance: 167
+Build Cost: 1233
 Build Resource Requirements:
-  Food: 2
-  Energy: 14
-  Metal: 9
-  Trace: 9
-  Exotica: 2
-  Chemicals: 25
-  Biochems: 23
-  Electronics: 19
-  Ceramsteel: 13
-  Monopols: 37
-  Singularities: 5
-Build Jump Destroyer II in Starport
-Time to Build / Upgrade: 4
-[27965] Technology Required to Build Unit (75):
-  [27965] Jump Escorts (75)
+  Biochems: 47
+Upgrade Cybercorp to Genetic Cybercorp at Lab
+Time to Build / Upgrade: 1
+[24475] Technologies Required to Build Unit (39):
+  [8900] Genetically-Enhanced Warriors (25)
+  [15575] Cybercorp (52)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Cybermorph Space Destroyer
-Nick Name: JJ-DD-Cm
+Name: Special Forces (NE)
+Nick Name: SPF LGN (NE)
 Scores & Strengths:
-  Tech Score: 7174
-  Unit Score: 7174
-  Average Score: 7174
-  Stat Strength: 5570
-  Total Strength: 7174
-  Planet Strength: 0
-  Space Strength: 7174
-  Garrison Strength: 0
+  Tech Score: 4071
+  Unit Score: 5823
+  Average Score: 4947
+  Stat Strength: 2639
+  Total Strength: 5823
+  Planet Strength: 5823
+  Space Strength: 0
+  Garrison Strength: 1188
 Statistics:
-  Movement Type: jump
-  Move Points: 26
-  Spot: 22
-  Camouflage: 14
-  Agility: 42
-  Armor: 35
-  Psy Defense: 35
-  Rank: 217
+  Movement Type: foot
+  Move Points: 24
+  Spot: 19
+  Camouflage: 24
+  Agility: 26
+  Armor: 15
+  Psy Defense: 15
+  Rank: 190
 Attacks:
-  Direct Space: 25/36
-  Close Space: 22/32
-Cargo Space: 1
-Load aboard transport: 5
-Immune to Plague
-Upkeep / Maintenance: 900
-Build Cost: 8996
+  Air: 30/27
+  Indirect: 29/29
+  Direct: 27/29
+  Close: 30/25
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 293
+Build Cost: 2371
 Build Resource Requirements:
-  Food: 2
-  Energy: 10
-  Metal: 6
-  Trace: 5
-  Exotica: 2
-  Chemicals: 16
-  Biochems: 26
-  Electronics: 14
-  Ceramsteel: 9
-  Wetware: 10
-  Monopols: 28
-  Singularities: 5
-Cybermorph Space Destroyer cannot be built
+  Energy: 1
+  Wetware: 20
+  Monopols: 7
+Upgrade Genetic Special Forces to Special Forces (NE) at Fusorium
+Time to Build / Upgrade: 2
+[34840] Technologies Required to Build Unit (56):
+  [24130] Neumonically-Enhanced Soldiers (32)
+  [10710] Special Forces (79)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Cloaking Space Destroyer
-Nick Name: SS-CDD
+Name: Cybercorp (NE)
+Nick Name: CYB LGN (NE)
 Scores & Strengths:
-  Tech Score: 7481
-  Unit Score: 7484
-  Average Score: 7483
-  Stat Strength: 6144
-  Total Strength: 7484
-  Planet Strength: 0
-  Space Strength: 7484
-  Garrison Strength: 0
+  Tech Score: 4152
+  Unit Score: 5924
+  Average Score: 5038
+  Stat Strength: 2688
+  Total Strength: 5924
+  Planet Strength: 5924
+  Space Strength: 0
+  Garrison Strength: 1209
 Statistics:
-  Movement Type: space
-  Move Points: 18
-  Spot: 12
-  Camouflage: 48
-  Agility: 22
-  Armor: 38
-  Psy Defense: 38
-  Rank: 217
+  Movement Type: foot
+  Move Points: 24
+  Spot: 19
+  Camouflage: 25
+  Agility: 26
+  Armor: 15
+  Psy Defense: 15
+  Rank: 192
 Attacks:
-  Direct Space: 22/38
-  Close Space: 28/18
-Cargo Space: 1
-Load aboard transport: 5
-Immune to Plague
-Upkeep / Maintenance: 323
-Build Cost: 3231
+  Air: 31/27
+  Indirect: 29/29
+  Direct: 27/29
+  Close: 31/25
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 300
+Build Cost: 1765
 Build Resource Requirements:
-  Food: 1
-  Energy: 6
-  Metal: 6
-  Trace: 11
-  Exotica: 1
-  Chemicals: 11
-  Biochems: 20
-  Electronics: 27
-  Ceramsteel: 10
-  Wetware: 6
-  Monopols: 22
-Build Cloaking Space Destroyer in Starport
-Time to Build / Upgrade: 3
-[58065] Technology Required to Build Unit (48):
-  [58065] Cloaked Escortcraft (48)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---7--
-Name: Gate Destroyer
-Nick Name: Cataclysm
-Scores & Strengths:
-  Tech Score: 7603
-  Unit Score: 7605
-  Average Score: 7604
-  Stat Strength: 5448
-  Total Strength: 7605
-  Planet Strength: 6805
-  Space Strength: 6248
-  Garrison Strength: 1202
-Statistics:
-  Movement Type: gate
-  Move Points: 32
-  Spot: 24
-  Camouflage: 18
-  Agility: 18
-  Armor: 40
-  Psy Defense: 40
-  Rank: 218
-Attacks:
-  Direct Space: 24/20
-  Close Space: 20/16
-  Water: 12/24
-  Air: 17/17
-  Indirect: 24/20
-  Direct: 20/15
-Cargo Space: 1
-Load aboard transport: 5
-Immune to Plague
-Upkeep / Maintenance: 1028
-Build Cost: 10283
-Build Resource Requirements:
-  Food: 2
-  Energy: 9
-  Metal: 7
-  Trace: 8
-  Exotica: 2
-  Chemicals: 17
-  Biochems: 23
-  Electronics: 16
-  Ceramsteel: 11
-  Wetware: 10
-  Monopols: 31
-  Singularities: 6
-Gate Destroyer cannot be built
+  Wetware: 21
+  Monopols: 3
+Upgrade Genetic Cybercorp to Cybercorp (NE) at Fusorium
+Time to Build / Upgrade: 2
+[39705] Technologies Required to Build Unit (42):
+  [24130] Neumonically-Enhanced Soldiers (32)
+  [15575] Cybercorp (52)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

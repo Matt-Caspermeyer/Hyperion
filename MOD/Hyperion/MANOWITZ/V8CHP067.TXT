@@ -1,488 +1,381 @@
-All units of the unit class Landing Barge are listed herein (11 in total):
+All units of the unit class Officer Corp (Psy) are listed herein (9 in total):
 
 --1--
-Name: Landing Barge
-Nick Name: NN-LB
+Name: Officer Corp (Psy)
+Nick Name: Officer (Psy)
 Scores & Strengths:
-  Tech Score: 86
-  Unit Score: 171
-  Average Score: 128
-  Stat Strength: 167
-  Total Strength: 171
-  Planet Strength: 171
-  Space Strength: 0
-  Garrison Strength: 69
+  Tech Score: 162
+  Unit Score: 162
+  Average Score: 162
+  Stat Strength: 129
+  Total Strength: 162
+  Planet Strength: 162
+  Space Strength: 141
+  Garrison Strength: 81
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 2
-  Camouflage: 1
-  Agility: 1
-  Armor: 10
-  Psy Defense: 5
-  Rank: 55
+  Movement Type: foot
+  Move Points: 4
+  Spot: 4
+  Camouflage: 4
+  Agility: 6
+  Armor: 3
+  Psy Defense: 6
+  Rank: 692
 Attacks:
-  Close: 2/2
-Cargo Space: 8
-Load aboard transport: 10
-Amphibious loading / unloading of cargo
-Can tow units that can be towed
-Upkeep / Maintenance: 59
-Build Cost: 585
+  Psychic: 4/3
+  Close: 7/3
+Load aboard transport: 1
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 15
+Build Cost: 83
 Build Resource Requirements:
-  Food: 13
-  Energy: 14
-  Metal: 92
-  Trace: 15
-  Exotica: 10
-  Chemicals: 12
-Build Landing Barge in Well
-Time to Build / Upgrade: 3
-[150] Technologies Required to Build Unit (100):
+  Food: 1
+  Energy: 1
+  Metal: 7
+  Exotica: 1
+  Chemicals: 1
+  Gems: 5
+Upgrade Officer Corp to Officer Corp (Psy) at Church
+Time to Build / Upgrade: 1
+[350] Technologies Required to Build Unit (93):
   [100] Physics & Energy (100)
-  [50] Applied Technology (100)
+  [250] Psychically-Enhanced Soldiers (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Motor Landing Craft
-Nick Name: NN-MLC
+Name: Officer Corp (Psy2)
+Nick Name: Off (Psy2)
 Scores & Strengths:
-  Tech Score: 94
-  Unit Score: 235
-  Average Score: 165
-  Stat Strength: 220
-  Total Strength: 235
-  Planet Strength: 235
-  Space Strength: 0
-  Garrison Strength: 95
+  Tech Score: 250
+  Unit Score: 260
+  Average Score: 255
+  Stat Strength: 189
+  Total Strength: 260
+  Planet Strength: 260
+  Space Strength: 224
+  Garrison Strength: 116
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 2
-  Camouflage: 0
-  Agility: 0
-  Armor: 12
-  Psy Defense: 6
-  Rank: 22
+  Movement Type: foot
+  Move Points: 5
+  Spot: 5
+  Camouflage: 5
+  Agility: 7
+  Armor: 4
+  Psy Defense: 7
+  Rank: 703
 Attacks:
-  Close: 5/3
-Cargo Space: 1
-Load aboard transport: 3
-Amphibious loading / unloading of cargo
-Can tow units that can be towed
-Upkeep / Maintenance: 23
-Build Cost: 231
+  Psychic: 7/5
+  Close: 9/4
+Load aboard transport: 1
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 28
+Build Cost: 201
 Build Resource Requirements:
-  Food: 8
-  Energy: 10
-  Metal: 88
-  Trace: 14
-  Exotica: 6
-  Chemicals: 9
-Build Motor Landing Craft in Well
-Time to Build / Upgrade: 3
-[270] Technologies Required to Build Unit (99):
-  [110] Structural Engineering (99)
-  [110] Mechanical & Aerospace Engineering (98)
-  [50] Applied Technology (100)
+  Food: 5
+  Energy: 9
+  Metal: 9
+  Exotica: 5
+  Chemicals: 11
+  Electronics: 43
+  Gems: 3
+Upgrade Officer Corp (Psy) to Officer Corp (Psy2) at Church
+Time to Build / Upgrade: 1
+[625] Technology Required to Build Unit (60):
+  [625] Psychokinetically-Enhanced Soldiers (60)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Landing Craft Infantry
-Nick Name: NN-LCI
+Name: Officer Corp (Psy3)
+Nick Name: Off (Psy3)
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 580
-  Average Score: 582
-  Stat Strength: 580
-  Total Strength: 580
-  Planet Strength: 580
-  Space Strength: 0
-  Garrison Strength: 219
+  Tech Score: 593
+  Unit Score: 576
+  Average Score: 584
+  Stat Strength: 408
+  Total Strength: 576
+  Planet Strength: 576
+  Space Strength: 498
+  Garrison Strength: 203
 Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 4
-  Camouflage: 4
-  Agility: 7
-  Armor: 15
-  Psy Defense: 15
-  Rank: 33
-Cargo Space: 1
-Load aboard transport: 3
-Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 12
-Build Cost: 120
+  Movement Type: foot
+  Move Points: 8
+  Spot: 6
+  Camouflage: 8
+  Agility: 8
+  Armor: 6
+  Psy Defense: 12
+  Rank: 722
+Attacks:
+  Psychic: 10/9
+  Close: 13/6
+Load aboard transport: 1
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 38
+Build Cost: 174
 Build Resource Requirements:
-  Food: 2
-  Energy: 4
-  Metal: 49
-  Trace: 4
-  Exotica: 3
-  Chemicals: 4
-  Biochems: 3
-  Electronics: 3
-Build Landing Craft Infantry in Well
-Time to Build / Upgrade: 2
-[1940] Technology Required to Build Unit (89):
-  [1940] Amphibious Landing Craft (89)
+  Energy: 3
+  Metal: 3
+  Trace: 13
+  Exotica: 7
+  Chemicals: 9
+  Electronics: 19
+  Gems: 2
+Upgrade Officer Corp (Psy2) to Officer Corp (Psy3) at Church
+Time to Build / Upgrade: 1
+[1975] Technology Required to Build Unit (39):
+  [1975] Telepathic Soldiers (39)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Landing Craft Mechanized
-Nick Name: NN-LCM
+Name: Officer Corp (Psy4)
+Nick Name: Off (Psy4)
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 583
-  Average Score: 584
-  Stat Strength: 543
-  Total Strength: 583
-  Planet Strength: 583
-  Space Strength: 0
-  Garrison Strength: 238
+  Tech Score: 839
+  Unit Score: 766
+  Average Score: 802
+  Stat Strength: 524
+  Total Strength: 766
+  Planet Strength: 766
+  Space Strength: 654
+  Garrison Strength: 255
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 4
-  Camouflage: 4
-  Agility: 5
-  Armor: 15
-  Psy Defense: 15
-  Rank: 52
+  Movement Type: foot
+  Move Points: 9
+  Spot: 6
+  Camouflage: 9
+  Agility: 9
+  Armor: 7
+  Psy Defense: 14
+  Rank: 732
 Attacks:
-  Indirect: 4/10
-Cargo Space: 2
-Load aboard transport: 4
-Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 14
-Build Cost: 136
+  Psychic: 13/10
+  Close: 16/7
+Load aboard transport: 1
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 41
+Build Cost: 239
 Build Resource Requirements:
-  Food: 2
-  Energy: 8
-  Metal: 49
-  Trace: 5
-  Exotica: 2
+  Food: 3
+  Energy: 7
+  Metal: 6
+  Trace: 7
+  Exotica: 4
   Chemicals: 8
-  Biochems: 2
-  Electronics: 3
-Build Landing Craft Mechanized in Well
-Time to Build / Upgrade: 2
-[1940] Technology Required to Build Unit (89):
-  [1940] Amphibious Landing Craft (89)
+  Electronics: 14
+Upgrade Officer Corp (Psy3) to Officer Corp (Psy4) at Church
+Time to Build / Upgrade: 1
+[3140] Technology Required to Build Unit (38):
+  [3140] Sympathic Soldiers (38)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Landing Craft Tank
-Nick Name: NN-LCT
+Name: Officer Corp (Psy5)
+Nick Name: Off (Psy5)
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 585
-  Average Score: 585
-  Stat Strength: 585
-  Total Strength: 585
-  Planet Strength: 585
-  Space Strength: 0
-  Garrison Strength: 261
+  Tech Score: 936
+  Unit Score: 937
+  Average Score: 937
+  Stat Strength: 650
+  Total Strength: 937
+  Planet Strength: 937
+  Space Strength: 818
+  Garrison Strength: 296
 Statistics:
-  Movement Type: naval
-  Move Points: 5
-  Spot: 4
-  Camouflage: 4
-  Agility: 4
-  Armor: 16
+  Movement Type: foot
+  Move Points: 10
+  Spot: 7
+  Camouflage: 10
+  Agility: 9
+  Armor: 8
   Psy Defense: 16
-  Rank: 48
-Cargo Space: 4
-Load aboard transport: 6
-Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 12
-Build Cost: 121
+  Rank: 739
+Attacks:
+  Psychic: 14/12
+  Close: 17/7
+Load aboard transport: 1
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 51
+Build Cost: 268
 Build Resource Requirements:
-  Food: 2
+  Food: 4
   Energy: 2
-  Metal: 50
-  Trace: 3
-  Exotica: 1
-  Chemicals: 2
-  Biochems: 2
-  Electronics: 2
-Build Landing Craft Tank in Well
-Time to Build / Upgrade: 2
-[2240] Technologies Required to Build Unit (92):
-  [300] Mechanized Warfare (95)
-  [1940] Amphibious Landing Craft (89)
+  Metal: 9
+  Trace: 8
+  Exotica: 5
+  Chemicals: 3
+  Electronics: 13
+  Gems: 2
+Upgrade Officer Corp (Psy4) to Officer Corp (Psy5) at Church
+Time to Build / Upgrade: 1
+[3635] Technology Required to Build Unit (48):
+  [3635] Dervishes (48)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Landing Craft Assault
-Nick Name: NN-LCA
+Name: Officer Corp (Psy6)
+Nick Name: Off (Psy6)
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 588
-  Average Score: 586
-  Stat Strength: 588
-  Total Strength: 588
-  Planet Strength: 588
-  Space Strength: 0
-  Garrison Strength: 207
+  Tech Score: 1142
+  Unit Score: 1141
+  Average Score: 1141
+  Stat Strength: 809
+  Total Strength: 1141
+  Planet Strength: 1141
+  Space Strength: 989
+  Garrison Strength: 344
 Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 4
-  Camouflage: 4
+  Movement Type: foot
+  Move Points: 11
+  Spot: 7
+  Camouflage: 13
   Agility: 10
-  Armor: 14
-  Psy Defense: 14
-  Rank: 38
-Cargo Space: 2
-Load aboard transport: 3
-Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 15
-Build Cost: 149
+  Armor: 9
+  Psy Defense: 17
+  Rank: 744
+Attacks:
+  Psychic: 15/12
+  Close: 19/8
+Load aboard transport: 1
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 27
+Build Cost: 2
 Build Resource Requirements:
-  Food: 4
-  Energy: 6
-  Metal: 42
-  Trace: 6
-  Exotica: 4
-  Chemicals: 6
-  Biochems: 4
-  Electronics: 4
-Build Landing Craft Assault in Well
-Time to Build / Upgrade: 2
-[1940] Technology Required to Build Unit (89):
-  [1940] Amphibious Landing Craft (89)
+Upgrade Officer Corp (Psy5) to Officer Corp (Psy6) at Church
+Time to Build / Upgrade: 1
+[11015] Technologies Required to Build Unit (35):
+  [3790] Vislocks (32)
+  [3635] Dervishes (48)
+  [3590] Sathraists (26)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Landing Craft Support (M)
-Nick Name: NN-LCS(M)
+Name: Rebel Officer
+Nick Name: Rebel Officer
 Scores & Strengths:
-  Tech Score: 608
-  Unit Score: 606
-  Average Score: 607
-  Stat Strength: 534
-  Total Strength: 606
-  Planet Strength: 606
+  Tech Score: 1171
+  Unit Score: 1171
+  Average Score: 1171
+  Stat Strength: 516
+  Total Strength: 1171
+  Planet Strength: 1171
   Space Strength: 0
-  Garrison Strength: 214
+  Garrison Strength: 414
 Statistics:
-  Movement Type: naval
+  Movement Type: foot
   Move Points: 8
-  Spot: 4
-  Camouflage: 4
-  Agility: 10
-  Armor: 13
-  Psy Defense: 13
-  Rank: 52
+  Spot: 8
+  Camouflage: 8
+  Agility: 14
+  Armor: 8
+  Psy Defense: 8
+  Rank: 754
 Attacks:
-  Close: 8/9
-Cargo Space: 3
-Load aboard transport: 6
-Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 19
-Build Cost: 188
+  Air: 17/12
+  Indirect: 14/12
+  Direct: 13/10
+  Close: 17/9
+Load aboard transport: 1
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 21
+Build Cost: 129
 Build Resource Requirements:
-  Food: 4
-  Energy: 9
-  Metal: 33
-  Trace: 9
-  Exotica: 4
-  Chemicals: 10
-  Biochems: 6
-  Electronics: 7
-Build Landing Craft Support (M) in Well
-Time to Build / Upgrade: 2
-[2345] Technologies Required to Build Unit (92):
-  [1940] Amphibious Landing Craft (89)
-  [405] Recoilless Rifle (94)
+  Energy: 7
+  Metal: 3
+  Ceramsteel: 2
+Upgrade Rebel Partisans to Rebel Officer at Fort
+Time to Build / Upgrade: 1
+[6240] Technologies Required to Build Unit (65):
+  [1615] Wireblades (76)
+  [4625] Xenoenvironments (53)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Landing Craft Support (L)
-Nick Name: NN-LCS(L)
+Name: Officer Corp (Psy7)
+Nick Name: Off (Psy7)
 Scores & Strengths:
-  Tech Score: 608
-  Unit Score: 606
-  Average Score: 607
-  Stat Strength: 554
-  Total Strength: 606
-  Planet Strength: 606
-  Space Strength: 0
-  Garrison Strength: 229
+  Tech Score: 1357
+  Unit Score: 1334
+  Average Score: 1346
+  Stat Strength: 946
+  Total Strength: 1334
+  Planet Strength: 1334
+  Space Strength: 1154
+  Garrison Strength: 385
 Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 4
-  Camouflage: 4
-  Agility: 9
-  Armor: 14
-  Psy Defense: 14
-  Rank: 56
+  Movement Type: foot
+  Move Points: 12
+  Spot: 8
+  Camouflage: 14
+  Agility: 10
+  Armor: 9
+  Psy Defense: 19
+  Rank: 751
 Attacks:
-  Close: 4/13
-Cargo Space: 4
-Load aboard transport: 8
-Amphibious loading / unloading of cargo
-Can tow units that can be towed
-Upkeep / Maintenance: 22
-Build Cost: 217
+  Psychic: 16/13
+  Close: 20/9
+Load aboard transport: 1
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 31
+Build Cost: 309
 Build Resource Requirements:
-  Food: 3
-  Energy: 13
-  Metal: 38
-  Trace: 6
-  Exotica: 3
-  Chemicals: 13
-  Biochems: 4
-  Electronics: 4
-Build Landing Craft Support (L) in Well
-Time to Build / Upgrade: 2
-[2345] Technologies Required to Build Unit (92):
-  [1940] Amphibious Landing Craft (89)
-  [405] Recoilless Rifle (94)
+  Food: 2
+  Energy: 4
+  Metal: 1
+  Trace: 5
+  Exotica: 2
+  Chemicals: 4
+  Electronics: 7
+Upgrade Officer Corp (Psy6) to Officer Corp (Psy7) at Church
+Time to Build / Upgrade: 1
+[12245] Technologies Required to Build Unit (35):
+  [4050] Occultists (48)
+  [4110] Visioneers (46)
+  [4085] Sathra Patrol Ships (12)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Landing Craft Navigation
-Nick Name: NN-LCN
+Name: Officer Corp (Psy8)
+Nick Name: Off (Psy8)
 Scores & Strengths:
-  Tech Score: 781
-  Unit Score: 780
-  Average Score: 781
-  Stat Strength: 780
-  Total Strength: 780
-  Planet Strength: 780
-  Space Strength: 0
-  Garrison Strength: 235
+  Tech Score: 1949
+  Unit Score: 2034
+  Average Score: 1991
+  Stat Strength: 1442
+  Total Strength: 2034
+  Planet Strength: 2034
+  Space Strength: 1794
+  Garrison Strength: 543
 Statistics:
-  Movement Type: naval
-  Move Points: 11
-  Spot: 10
-  Camouflage: 5
-  Agility: 14
-  Armor: 13
-  Psy Defense: 13
-  Rank: 40
-Cargo Space: 1
-Load aboard transport: 3
-Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 19
-Build Cost: 194
-Build Resource Requirements:
-  Food: 7
-  Energy: 9
-  Metal: 27
-  Trace: 11
-  Exotica: 8
-  Chemicals: 9
-  Biochems: 8
-  Electronics: 8
-Build Landing Craft Navigation in Well
-Time to Build / Upgrade: 2
-[2980] Technologies Required to Build Unit (90):
-  [125] Radar (93)
-  [2855] Naval Amphibious Ships (87)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---10--
-Name: Landing Craft Control
-Nick Name: NN-LCC
-Scores & Strengths:
-  Tech Score: 804
-  Unit Score: 803
-  Average Score: 803
-  Stat Strength: 785
-  Total Strength: 803
-  Planet Strength: 803
-  Space Strength: 0
-  Garrison Strength: 231
-Statistics:
-  Movement Type: naval
-  Move Points: 12
-  Spot: 8
-  Camouflage: 4
-  Agility: 13
-  Armor: 14
-  Psy Defense: 14
-  Rank: 719
+  Movement Type: foot
+  Move Points: 14
+  Spot: 9
+  Camouflage: 18
+  Agility: 11
+  Armor: 12
+  Psy Defense: 24
+  Rank: 772
 Attacks:
-  Indirect: 1/18
-Cargo Space: 2
-Load aboard transport: 4
+  Psychic: 22/16
+  Close: 24/10
+Load aboard transport: 1
 Officer - Provides stack combat bonuses
-Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 37
-Build Cost: 371
+Upkeep / Maintenance: 29
 Build Resource Requirements:
-  Food: 7
-  Energy: 21
-  Metal: 30
-  Trace: 8
-  Exotica: 7
-  Chemicals: 21
-  Biochems: 6
-  Electronics: 6
-Build Landing Craft Control in Well
-Time to Build / Upgrade: 2
-[3090] Technologies Required to Build Unit (93):
-  [125] Radar (93)
-  [110] Meditation (99)
-  [2855] Naval Amphibious Ships (87)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---11--
-Name: Landing Ship Tank
-Nick Name: NN-LST
-Scores & Strengths:
-  Tech Score: 781
-  Unit Score: 1170
-  Average Score: 976
-  Stat Strength: 1065
-  Total Strength: 1170
-  Planet Strength: 1170
-  Space Strength: 0
-  Garrison Strength: 442
-Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 4
-  Camouflage: 4
-  Agility: 4
-  Armor: 22
-  Psy Defense: 22
-  Rank: 81
-Attacks:
-  Indirect: 2/10
-  Direct: 5/10
-  Close: 5/7
-Cargo Space: 6
-Load aboard transport: 8
-Can tow units that can be towed
-Upkeep / Maintenance: 35
-Build Cost: 353
-Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 78
-  Trace: 6
-  Exotica: 2
-  Chemicals: 13
-  Biochems: 3
-  Electronics: 4
-Build Landing Ship Tank in Well
-Time to Build / Upgrade: 3
-[2855] Technology Required to Build Unit (87):
-  [2855] Naval Amphibious Ships (87)
+  Metal: 8
+Upgrade Officer Corp (Psy7) to Officer Corp (Psy8) at Church
+Time to Build / Upgrade: 1
+[20390] Technologies Required to Build Unit (24):
+  [4980] Psychic Turners (41)
+  [5780] Electrokinetics (20)
+  [5290] Wraiths (29)
+  [4340] Sathra Escorts (7)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

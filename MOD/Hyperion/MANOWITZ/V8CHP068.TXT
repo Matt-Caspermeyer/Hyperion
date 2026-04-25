@@ -1,294 +1,346 @@
-All units of the unit class Floating Battery are listed herein (6 in total):
+All units of the unit class Reconnaissance Biplane are listed herein (8 in total):
 
 --1--
-Name: Floating Battery
-Nick Name: NN-FB
+Name: Reconnaissance Biplane
+Nick Name: A-BR
 Scores & Strengths:
-  Tech Score: 174
-  Unit Score: 172
-  Average Score: 173
-  Stat Strength: 132
-  Total Strength: 172
-  Planet Strength: 172
+  Tech Score: 172
+  Unit Score: 170
+  Average Score: 171
+  Stat Strength: 170
+  Total Strength: 170
+  Planet Strength: 170
   Space Strength: 0
-  Garrison Strength: 172
+  Garrison Strength: 60
 Statistics:
-  Movement Type: naval
-  Move Points: 1
-  Spot: 2
+  Movement Type: air
+  Move Points: 8
+  Spot: 6
   Camouflage: 1
-  Agility: 1
-  Armor: 10
-  Psy Defense: 5
-  Rank: 27
-Attacks:
-  Water: 2/14
-  Indirect: 1/12
-Load aboard transport: 3
-Can tow units that can be towed
-Upkeep / Maintenance: 27
-Build Cost: 269
+  Agility: 7
+  Armor: 4
+  Psy Defense: 2
+  Rank: 16
+Load aboard transport: 2
+Upkeep / Maintenance: 6
+Build Cost: 62
 Build Resource Requirements:
-  Food: 1
-  Energy: 67
-  Metal: 35
-  Trace: 3
-  Exotica: 1
-  Chemicals: 56
-Build Floating Battery in Well
-Time to Build / Upgrade: 3
-[535] Technologies Required to Build Unit (99):
-  [100] Medical & Biological (100)
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
+  Food: 19
+  Energy: 15
+  Metal: 14
+  Trace: 14
+  Exotica: 19
+  Chemicals: 17
+  Electronics: 13
+Build Reconnaissance Biplane in Factory
+Time to Build / Upgrade: 2
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Water Battery
-Nick Name: NN-WB
+Name: Attack Fighter Biplane
+Nick Name: A-BAF
 Scores & Strengths:
-  Tech Score: 182
-  Unit Score: 181
-  Average Score: 182
-  Stat Strength: 132
-  Total Strength: 181
-  Planet Strength: 181
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 293
+  Total Strength: 341
+  Planet Strength: 341
   Space Strength: 0
-  Garrison Strength: 181
+  Garrison Strength: 139
 Statistics:
-  Movement Type: naval
-  Move Points: 1
-  Spot: 2
-  Camouflage: 1
-  Agility: 1
-  Armor: 10
-  Psy Defense: 5
-  Rank: 29
+  Movement Type: air
+  Move Points: 6
+  Spot: 8
+  Camouflage: 2
+  Agility: 12
+  Armor: 6
+  Psy Defense: 3
+  Rank: 33
 Attacks:
-  Water: 1/24
-  Indirect: 1/25
-Load aboard transport: 4
-Can tow units that can be towed
-Upkeep / Maintenance: 74
-Build Cost: 742
+  Air: 2/5
+  Indirect: 4/5
+  Direct: 3/6
+Load aboard transport: 2
+Upkeep / Maintenance: 15
+Build Cost: 146
 Build Resource Requirements:
-  Food: 1
-  Energy: 207
-  Metal: 34
-  Trace: 3
-  Exotica: 1
-  Chemicals: 190
-Build Water Battery in Well
+  Food: 30
+  Energy: 39
+  Metal: 31
+  Trace: 40
+  Exotica: 30
+  Chemicals: 44
+  Electronics: 33
+Build Attack Fighter Biplane in Factory
 Time to Build / Upgrade: 5
-[560] Technologies Required to Build Unit (99):
-  [100] Medical & Biological (100)
-  [100] Physics & Energy (100)
-  [100] Psychosocial Engineering (100)
-  [60] Torpedo (98)
-  [200] Fortifications (97)
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Naval Fortress
-Nick Name: NN-Fort
+Name: Bomber Biplane
+Nick Name: A-BB
 Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1546
-  Average Score: 1160
-  Stat Strength: 1330
-  Total Strength: 1546
-  Planet Strength: 1546
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 248
+  Total Strength: 341
+  Planet Strength: 341
   Space Strength: 0
-  Garrison Strength: 631
+  Garrison Strength: 120
 Statistics:
-  Movement Type: naval
-  Move Points: 6
+  Movement Type: air
+  Move Points: 8
   Spot: 6
   Camouflage: 2
-  Agility: 2
-  Armor: 25
-  Psy Defense: 25
-  Rank: 779
+  Agility: 8
+  Armor: 8
+  Psy Defense: 4
+  Rank: 41
 Attacks:
-  Indirect: 3/30
-  Direct: 4/24
-  Close: 6/5
-Cargo Space: 10
-Load aboard transport: 12
-Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Heals units of same movement type
-Upkeep / Maintenance: 278
-Build Cost: 2775
+  Air: 2/4
+  Indirect: 5/17
+Load aboard transport: 3
+Upkeep / Maintenance: 17
+Build Cost: 173
 Build Resource Requirements:
-  Food: 2
-  Energy: 63
-  Metal: 97
-  Trace: 6
-  Exotica: 2
-  Chemicals: 62
-  Biochems: 3
-  Electronics: 4
-Build Naval Fortress in Well
+  Food: 22
+  Energy: 79
+  Metal: 55
+  Trace: 26
+  Exotica: 21
+  Chemicals: 88
+  Electronics: 17
+Build Bomber Biplane in Factory
 Time to Build / Upgrade: 5
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Guid. Miss. Naval Fortress
-Nick Name: NN-FortGM
+Name: Fighter Biplane
+Nick Name: A-BF
 Scores & Strengths:
-  Tech Score: 1339
-  Unit Score: 3311
-  Average Score: 2325
-  Stat Strength: 2596
-  Total Strength: 3311
-  Planet Strength: 3311
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 306
+  Total Strength: 341
+  Planet Strength: 341
   Space Strength: 0
-  Garrison Strength: 1170
+  Garrison Strength: 128
 Statistics:
-  Movement Type: naval
-  Move Points: 8
+  Movement Type: air
+  Move Points: 7
   Spot: 8
-  Camouflage: 3
-  Agility: 3
-  Armor: 35
-  Psy Defense: 35
-  Rank: 829
+  Camouflage: 2
+  Agility: 12
+  Armor: 6
+  Psy Defense: 3
+  Rank: 32
 Attacks:
-  Water: 4/40
-  Air: 8/25
-  Indirect: 5/35
-  Direct: 6/30
-Cargo Space: 12
-Load aboard transport: 14
-Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Heals units of same movement type
-Upkeep / Maintenance: 1065
-Build Cost: 10654
+  Air: 4/8
+  Indirect: 1/3
+Load aboard transport: 2
+Upkeep / Maintenance: 15
+Build Cost: 146
 Build Resource Requirements:
-  Food: 2
-  Energy: 118
-  Metal: 65
-  Trace: 6
-  Exotica: 2
-  Chemicals: 158
-  Biochems: 4
-  Electronics: 6
-  Ceramsteel: 78
-Build Guid. Miss. Naval Fortress in Well
-Time to Build / Upgrade: 8
-[5855] Technology Required to Build Unit (84):
-  [5855] Guided Missile Navalcraft (84)
+  Food: 32
+  Energy: 39
+  Metal: 31
+  Trace: 36
+  Exotica: 31
+  Chemicals: 43
+  Electronics: 34
+Build Fighter Biplane in Factory
+Time to Build / Upgrade: 5
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: PTS Missile Naval Fortress
-Nick Name: NN-FortPTS
+Name: Trench Strafer Biplane
+Nick Name: A-BTS
 Scores & Strengths:
-  Tech Score: 1474
-  Unit Score: 4512
-  Average Score: 2993
-  Stat Strength: 3432
-  Total Strength: 4512
-  Planet Strength: 4412
-  Space Strength: 3532
-  Garrison Strength: 1395
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 286
+  Total Strength: 341
+  Planet Strength: 341
+  Space Strength: 0
+  Garrison Strength: 152
 Statistics:
-  Movement Type: naval
-  Move Points: 10
-  Spot: 10
-  Camouflage: 4
-  Agility: 4
-  Armor: 40
-  Psy Defense: 40
-  Rank: 858
+  Movement Type: air
+  Move Points: 5
+  Spot: 4
+  Camouflage: 2
+  Agility: 14
+  Armor: 6
+  Psy Defense: 3
+  Rank: 29
 Attacks:
-  Ranged Space: 4/25
-  Water: 5/45
-  Air: 9/30
-  Indirect: 6/40
-  Direct: 7/35
-Cargo Space: 13
-Load aboard transport: 15
-Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Heals units of same movement type
-Upkeep / Maintenance: 1915
-Build Cost: 19153
+  Air: 3/3
+  Direct: 3/6
+  Close: 7/4
+Load aboard transport: 2
+Upkeep / Maintenance: 15
+Build Cost: 146
 Build Resource Requirements:
-  Food: 2
-  Energy: 158
-  Metal: 77
-  Trace: 8
-  Exotica: 2
-  Chemicals: 216
-  Biochems: 5
-  Electronics: 9
-  Ceramsteel: 97
-Build PTS Missile Naval Fortress in Well
-Time to Build / Upgrade: 11
-[6655] Technology Required to Build Unit (83):
-  [6655] PTS Missile Navalcraft (83)
+  Food: 24
+  Energy: 38
+  Metal: 31
+  Trace: 45
+  Exotica: 24
+  Chemicals: 43
+  Electronics: 42
+Build Trench Strafer Biplane in Factory
+Time to Build / Upgrade: 5
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Nuclear Naval Fortress
-Nick Name: NN-FortN
+Name: Battle Biplane
+Nick Name: A-BBttl
 Scores & Strengths:
-  Tech Score: 1579
-  Unit Score: 5673
-  Average Score: 3626
-  Stat Strength: 4388
-  Total Strength: 5673
-  Planet Strength: 5673
+  Tech Score: 245
+  Unit Score: 488
+  Average Score: 367
+  Stat Strength: 405
+  Total Strength: 488
+  Planet Strength: 488
   Space Strength: 0
-  Garrison Strength: 1637
+  Garrison Strength: 172
 Statistics:
-  Movement Type: naval
-  Move Points: 12
-  Spot: 12
-  Camouflage: 5
-  Agility: 5
-  Armor: 45
-  Psy Defense: 45
-  Rank: 861
+  Movement Type: air
+  Move Points: 8
+  Spot: 6
+  Camouflage: 2
+  Agility: 16
+  Armor: 6
+  Psy Defense: 3
+  Rank: 42
 Attacks:
-  Water: 6/50
-  Air: 10/35
-  Indirect: 7/45
-  Direct: 8/40
-Cargo Space: 12
-Load aboard transport: 14
-Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Heals units of same movement type
-Upkeep / Maintenance: 2313
-Build Cost: 23131
+  Air: 5/7
+  Indirect: 6/8
+Load aboard transport: 2
+Upkeep / Maintenance: 10
+Build Cost: 99
 Build Resource Requirements:
-  Food: 3
-  Energy: 171
-  Metal: 92
-  Trace: 10
-  Exotica: 3
-  Chemicals: 241
-  Biochems: 6
-  Electronics: 11
-  Ceramsteel: 117
-Build Nuclear Naval Fortress in Well
-Time to Build / Upgrade: 12
-[7295] Technology Required to Build Unit (81):
-  [7295] Nuclear-Powered Navalcraft (81)
+  Food: 17
+  Energy: 30
+  Metal: 17
+  Trace: 28
+  Exotica: 17
+  Chemicals: 35
+  Electronics: 18
+Build Battle Biplane in Factory
+Time to Build / Upgrade: 4
+[990] Technologies Required to Build Unit (94):
+  [380] Biplane (93)
+  [610] Air-Air Rockets (94)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Giant Bomber Biplane
+Nick Name: A-BGB
+Scores & Strengths:
+  Tech Score: 245
+  Unit Score: 488
+  Average Score: 367
+  Stat Strength: 386
+  Total Strength: 488
+  Planet Strength: 488
+  Space Strength: 0
+  Garrison Strength: 147
+Statistics:
+  Movement Type: air
+  Move Points: 11
+  Spot: 6
+  Camouflage: 2
+  Agility: 10
+  Armor: 10
+  Psy Defense: 5
+  Rank: 45
+Attacks:
+  Indirect: 6/17
+Load aboard transport: 5
+Upkeep / Maintenance: 11
+Build Cost: 112
+Build Resource Requirements:
+  Food: 15
+  Energy: 44
+  Metal: 47
+  Trace: 16
+  Exotica: 15
+  Chemicals: 53
+  Electronics: 8
+Build Giant Bomber Biplane in Factory
+Time to Build / Upgrade: 4
+[990] Technologies Required to Build Unit (94):
+  [380] Biplane (93)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Large Bomber Biplane
+Nick Name: A-BLB
+Scores & Strengths:
+  Tech Score: 245
+  Unit Score: 488
+  Average Score: 367
+  Stat Strength: 389
+  Total Strength: 488
+  Planet Strength: 488
+  Space Strength: 0
+  Garrison Strength: 154
+Statistics:
+  Movement Type: air
+  Move Points: 10
+  Spot: 6
+  Camouflage: 2
+  Agility: 13
+  Armor: 8
+  Psy Defense: 4
+  Rank: 45
+Attacks:
+  Air: 3/5
+  Indirect: 6/14
+Load aboard transport: 4
+Upkeep / Maintenance: 11
+Build Cost: 107
+Build Resource Requirements:
+  Food: 16
+  Energy: 39
+  Metal: 30
+  Trace: 21
+  Exotica: 16
+  Chemicals: 47
+  Electronics: 12
+Build Large Bomber Biplane in Factory
+Time to Build / Upgrade: 4
+[990] Technologies Required to Build Unit (94):
+  [380] Biplane (93)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

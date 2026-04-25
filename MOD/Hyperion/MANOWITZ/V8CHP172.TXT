@@ -1,231 +1,431 @@
-All units of the unit class Apprentice are listed herein (5 in total):
+All units of the unit class Rebel Partisans are listed herein (10 in total):
 
 --1--
-Name: Apprentice
-Nick Name: Apprentice
+Name: Rebel Partisans
+Nick Name: Partisan
 Scores & Strengths:
-  Tech Score: 1183
-  Unit Score: 1184
-  Average Score: 1183
-  Stat Strength: 773
-  Total Strength: 1184
-  Planet Strength: 1184
+  Tech Score: 1019
+  Unit Score: 1019
+  Average Score: 1019
+  Stat Strength: 656
+  Total Strength: 1019
+  Planet Strength: 1019
   Space Strength: 0
-  Garrison Strength: 374
+  Garrison Strength: 322
 Statistics:
   Movement Type: foot
   Move Points: 10
-  Spot: 6
-  Camouflage: 6
-  Agility: 23
-  Armor: 6
-  Psy Defense: 6
-  Rank: 744
+  Spot: 10
+  Camouflage: 10
+  Agility: 18
+  Armor: 4
+  Psy Defense: 4
+  Rank: 76
 Attacks:
-  Air: 10/9
-  Indirect: 11/11
-  Direct: 10/10
-  Close: 10/10
+  Air: 14/6
+  Indirect: 12/9
+  Direct: 12/8
+  Close: 15/5
 Load aboard transport: 1
-Clergy - Increases Tithe Skim and Converts Sects
-Inquisitor
-Upkeep / Maintenance: 14
-Build Cost: 141
+Upkeep / Maintenance: 16
+Build Cost: 77
 Build Resource Requirements:
-  Food: 12
-  Energy: 37
-  Metal: 5
-  Trace: 17
-  Exotica: 12
-  Chemicals: 50
-  Electronics: 30
-  Ceramsteel: 6
-Build Apprentice in Church
-Time to Build / Upgrade: 3
-[6450] Technologies Required to Build Unit (87):
-  [4855] Myoelectric Prosthetics (71)
-  [145] Composite Armor (97)
-  [1340] Nanotechnology (79)
-  [110] Meditation (99)
+  Biochems: 43
+  Electronics: 45
+  Ceramsteel: 1
+Upgrade Freedom Fighter to Rebel Partisans at Fort
+Time to Build / Upgrade: 2
+[4070] Technology Required to Build Unit (69):
+  [4070] Tracker Legion (69)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Oblate
-Nick Name: Oblate
+Name: Rebel Partisans (BE)
+Nick Name: Partisan (BE)
 Scores & Strengths:
-  Tech Score: 1309
-  Unit Score: 1310
-  Average Score: 1310
-  Stat Strength: 893
-  Total Strength: 1310
-  Planet Strength: 1310
+  Tech Score: 1042
+  Unit Score: 1189
+  Average Score: 1115
+  Stat Strength: 756
+  Total Strength: 1189
+  Planet Strength: 1189
   Space Strength: 0
-  Garrison Strength: 394
+  Garrison Strength: 358
 Statistics:
   Movement Type: foot
   Move Points: 11
-  Spot: 7
-  Camouflage: 7
-  Agility: 24
-  Armor: 7
-  Psy Defense: 7
-  Rank: 747
+  Spot: 11
+  Camouflage: 11
+  Agility: 19
+  Armor: 4
+  Psy Defense: 4
+  Rank: 82
 Attacks:
-  Air: 10/9
-  Indirect: 11/12
-  Direct: 8/12
-  Close: 9/11
+  Air: 16/6
+  Indirect: 14/10
+  Direct: 14/8
+  Close: 17/5
 Load aboard transport: 1
-Clergy - Increases Tithe Skim and Converts Sects
-Inquisitor
-Upkeep / Maintenance: 11
+Upkeep / Maintenance: 19
+Build Cost: 110
 Build Resource Requirements:
-Upgrade Apprentice to Oblate at Church
+  Food: 1
+  Energy: 1
+  Trace: 8
+  Exotica: 2
+  Chemicals: 1
+  Biochems: 7
+  Electronics: 6
+Upgrade Rebel Partisans to Rebel Partisans (BE) at Biochem Plant
 Time to Build / Upgrade: 1
-[8715] Technologies Required to Build Unit (80):
-  [5425] Cybernetics (63)
-  [1690] Ceramsteel (84)
-  [1475] Monofilament (77)
-  [125] Parapsychology (94)
+[4490] Technologies Required to Build Unit (73):
+  [4070] Tracker Legion (69)
+  [420] Biochem-Enhanced Soldiers (77)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Acolyte
-Nick Name: Acolyte
+Name: Rebel Partisans (SE)
+Nick Name: Partisan (SE)
 Scores & Strengths:
-  Tech Score: 2187
-  Unit Score: 2186
-  Average Score: 2186
-  Stat Strength: 1322
-  Total Strength: 2186
-  Planet Strength: 2186
+  Tech Score: 1086
+  Unit Score: 1343
+  Average Score: 1215
+  Stat Strength: 836
+  Total Strength: 1343
+  Planet Strength: 1343
   Space Strength: 0
-  Garrison Strength: 564
+  Garrison Strength: 387
 Statistics:
   Movement Type: foot
-  Move Points: 15
-  Spot: 8
-  Camouflage: 8
-  Agility: 29
-  Armor: 8
-  Psy Defense: 8
-  Rank: 774
+  Move Points: 12
+  Spot: 11
+  Camouflage: 11
+  Agility: 20
+  Armor: 5
+  Psy Defense: 5
+  Rank: 86
 Attacks:
-  Air: 12/16
-  Indirect: 14/18
-  Direct: 12/17
-  Close: 18/12
+  Air: 17/7
+  Indirect: 14/11
+  Direct: 14/9
+  Close: 18/6
 Load aboard transport: 1
-Clergy - Increases Tithe Skim and Converts Sects
-Inquisitor
-Upkeep / Maintenance: 99
-Build Cost: 989
+Upkeep / Maintenance: 21
+Build Cost: 136
 Build Resource Requirements:
-  Trace: 2
-  Electronics: 2
-  Monopols: 34
-Upgrade Oblate to Acolyte at Church
-Time to Build / Upgrade: 2
-[16140] Technologies Required to Build Unit (77):
-  [5425] Cybernetics (63)
-  [8935] Powered Ceramsteel Armor (75)
-  [1615] Wireblades (76)
-  [165] Theurgy (93)
+  Food: 2
+  Energy: 3
+  Metal: 1
+  Trace: 9
+  Exotica: 3
+  Chemicals: 5
+  Biochems: 13
+  Electronics: 9
+Upgrade Rebel Partisans to Rebel Partisans (SE) at Hospital
+Time to Build / Upgrade: 1
+[4745] Technologies Required to Build Unit (72):
+  [4070] Tracker Legion (69)
+  [675] Surgically-Enhanced Soldiers (75)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Brother Battle Mech
-Nick Name: BB Mech
+Name: Rebel Partisans (DE)
+Nick Name: Partisan (DE)
 Scores & Strengths:
-  Tech Score: 3160
-  Unit Score: 3160
-  Average Score: 3160
-  Stat Strength: 1497
-  Total Strength: 3160
-  Planet Strength: 3160
+  Tech Score: 1378
+  Unit Score: 1558
+  Average Score: 1468
+  Stat Strength: 950
+  Total Strength: 1558
+  Planet Strength: 1558
   Space Strength: 0
-  Garrison Strength: 724
+  Garrison Strength: 432
 Statistics:
-  Movement Type: mech
-  Move Points: 19
-  Spot: 15
-  Camouflage: 9
-  Agility: 15
-  Armor: 11
-  Psy Defense: 22
-  Rank: 140
+  Movement Type: foot
+  Move Points: 13
+  Spot: 11
+  Camouflage: 13
+  Agility: 21
+  Armor: 5
+  Psy Defense: 5
+  Rank: 94
 Attacks:
-  Air: 20/18
-  Indirect: 19/26
-  Direct: 19/22
-  Close: 23/17
-Load aboard transport: 2
-Immune to Plague
-Upkeep / Maintenance: 187
-Build Cost: 1872
+  Air: 19/8
+  Indirect: 16/11
+  Direct: 16/10
+  Close: 20/6
+Load aboard transport: 1
+Upkeep / Maintenance: 17
+Build Cost: 90
 Build Resource Requirements:
-  Food: 3
-  Energy: 18
-  Metal: 5
-  Trace: 17
-  Exotica: 4
-  Chemicals: 30
-  Biochems: 21
-  Electronics: 30
-  Ceramsteel: 6
-  Monopols: 35
-Build Brother Battle Mech in Starport
-Time to Build / Upgrade: 4
-[21450] Technologies Required to Build Unit (60):
-  [8600] Cybernetically-Enhanced Soldiers (48)
-  [12850] Mechanized Warriors (71)
+  Metal: 1
+  Biochems: 3
+Upgrade Rebel Partisans to Rebel Partisans (DE) at Biochem Plant
+Time to Build / Upgrade: 1
+[7510] Technologies Required to Build Unit (67):
+  [4070] Tracker Legion (69)
+  [3440] Drug-Enhanced Soldiers (65)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Master
-Nick Name: Master
+Name: Rebel Partisans (GE)
+Nick Name: Partisan (GE)
 Scores & Strengths:
-  Tech Score: 4541
-  Unit Score: 4540
-  Average Score: 4540
-  Stat Strength: 2492
-  Total Strength: 4540
-  Planet Strength: 4540
+  Tech Score: 1439
+  Unit Score: 1754
+  Average Score: 1596
+  Stat Strength: 1049
+  Total Strength: 1754
+  Planet Strength: 1754
   Space Strength: 0
-  Garrison Strength: 967
+  Garrison Strength: 468
 Statistics:
   Movement Type: foot
-  Move Points: 22
-  Spot: 16
+  Move Points: 14
+  Spot: 12
+  Camouflage: 14
+  Agility: 21
+  Armor: 6
+  Psy Defense: 6
+  Rank: 100
+Attacks:
+  Air: 20/8
+  Indirect: 17/12
+  Direct: 17/11
+  Close: 22/7
+Load aboard transport: 1
+Upkeep / Maintenance: 17
+Build Cost: 80
+Build Resource Requirements:
+  Biochems: 1
+Upgrade Rebel Partisans (DE) to Rebel Partisans (GE) at Lab
+Time to Build / Upgrade: 1
+[10090] Technologies Required to Build Unit (59):
+  [4070] Tracker Legion (69)
+  [6020] Chemical Shock Legion (49)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Rebel Partisans (PA)
+Nick Name: Partisan (PA)
+Scores & Strengths:
+  Tech Score: 1723
+  Unit Score: 1991
+  Average Score: 1857
+  Stat Strength: 1150
+  Total Strength: 1991
+  Planet Strength: 1991
+  Space Strength: 0
+  Garrison Strength: 514
+Statistics:
+  Movement Type: foot
+  Move Points: 15
+  Spot: 12
+  Camouflage: 15
+  Agility: 22
+  Armor: 6
+  Psy Defense: 6
+  Rank: 108
+Attacks:
+  Air: 21/9
+  Indirect: 18/14
+  Direct: 18/12
+  Close: 23/8
+Load aboard transport: 1
+Upkeep / Maintenance: 23
+Build Cost: 89
+Build Resource Requirements:
+  Energy: 4
+  Chemicals: 4
+  Electronics: 2
+  Ceramsteel: 1
+Upgrade Rebel Partisans (SE) to Rebel Partisans (PA) at Hospital
+Time to Build / Upgrade: 1
+[10245] Technologies Required to Build Unit (63):
+  [4070] Tracker Legion (69)
+  [6175] Prosthetically-Augmented Soldiers (57)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Rebel Partisans (AVE)
+Nick Name: Partisan (AVE)
+Scores & Strengths:
+  Tech Score: 1898
+  Unit Score: 2229
+  Average Score: 2063
+  Stat Strength: 1282
+  Total Strength: 2229
+  Planet Strength: 2229
+  Space Strength: 0
+  Garrison Strength: 557
+Statistics:
+  Movement Type: foot
+  Move Points: 16
+  Spot: 13
   Camouflage: 16
-  Agility: 36
+  Agility: 23
+  Armor: 6
+  Psy Defense: 6
+  Rank: 114
+Attacks:
+  Air: 23/9
+  Indirect: 20/14
+  Direct: 20/13
+  Close: 25/8
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 26
+Build Cost: 179
+Build Resource Requirements:
+  Energy: 2
+  Trace: 2
+  Chemicals: 5
+  Biochems: 7
+  Electronics: 4
+Upgrade Rebel Partisans (GE) to Rebel Partisans (AVE) at Lab
+Time to Build / Upgrade: 1
+[12970] Technologies Required to Build Unit (47):
+  [4070] Tracker Legion (69)
+  [8900] Genetically-Enhanced Warriors (25)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Rebel Partisans (CE)
+Nick Name: Partisan (CE)
+Scores & Strengths:
+  Tech Score: 2074
+  Unit Score: 2331
+  Average Score: 2202
+  Stat Strength: 1341
+  Total Strength: 2331
+  Planet Strength: 2331
+  Space Strength: 0
+  Garrison Strength: 565
+Statistics:
+  Movement Type: foot
+  Move Points: 17
+  Spot: 13
+  Camouflage: 16
+  Agility: 23
+  Armor: 7
+  Psy Defense: 7
+  Rank: 117
+Attacks:
+  Air: 23/10
+  Indirect: 20/15
+  Direct: 20/13
+  Close: 25/8
+Load aboard transport: 1
+Upkeep / Maintenance: 24
+Build Cost: 149
+Build Resource Requirements:
+  Food: 1
+  Energy: 2
+  Metal: 1
+  Exotica: 1
+  Chemicals: 4
+Upgrade Rebel Partisans (PA) to Rebel Partisans (CE) at Lab
+Time to Build / Upgrade: 1
+[12670] Technologies Required to Build Unit (59):
+  [4070] Tracker Legion (69)
+  [8600] Cybernetically-Enhanced Soldiers (48)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Rebel Partisans (MF)
+Nick Name: Partisan (MF)
+Scores & Strengths:
+  Tech Score: 3221
+  Unit Score: 3462
+  Average Score: 3341
+  Stat Strength: 1904
+  Total Strength: 3462
+  Planet Strength: 3462
+  Space Strength: 0
+  Garrison Strength: 755
+Statistics:
+  Movement Type: foot
+  Move Points: 21
+  Spot: 15
+  Camouflage: 20
+  Agility: 26
+  Armor: 9
+  Psy Defense: 9
+  Rank: 145
+Attacks:
+  Air: 29/12
+  Indirect: 25/19
+  Direct: 25/17
+  Close: 31/10
+Load aboard transport: 1
+Upkeep / Maintenance: 162
+Build Cost: 1469
+Build Resource Requirements:
+  Wetware: 23
+  Monopols: 27
+Upgrade Rebel Partisans (CE) to Rebel Partisans (MF) at Wetware
+Time to Build / Upgrade: 3
+[22645] Technologies Required to Build Unit (52):
+  [4070] Tracker Legion (69)
+  [18575] Machine-Fused Soldiers (35)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Rebel Partisans (NE)
+Nick Name: Partisan (NE)
+Scores & Strengths:
+  Tech Score: 3908
+  Unit Score: 4341
+  Average Score: 4125
+  Stat Strength: 2339
+  Total Strength: 4341
+  Planet Strength: 4341
+  Space Strength: 0
+  Garrison Strength: 905
+Statistics:
+  Movement Type: foot
+  Move Points: 23
+  Spot: 16
+  Camouflage: 25
+  Agility: 27
   Armor: 10
   Psy Defense: 10
-  Rank: 830
+  Rank: 163
 Attacks:
-  Air: 19/24
-  Indirect: 22/26
-  Direct: 20/26
-  Close: 25/20
+  Air: 33/14
+  Indirect: 28/21
+  Direct: 28/19
+  Close: 35/12
 Load aboard transport: 1
-Clergy - Increases Tithe Skim and Converts Sects
-Inquisitor
-Upkeep / Maintenance: 211
-Build Cost: 1124
+Immune to Plague
+Upkeep / Maintenance: 214
+Build Cost: 1958
 Build Resource Requirements:
-  Biochems: 26
-  Wetware: 15
-  Monopols: 3
-Upgrade Acolyte to Master at Church
-Time to Build / Upgrade: 1
-[39305] Technologies Required to Build Unit (62):
-  [7825] Advanced Cybernetics (44)
-  [1615] Wireblades (76)
-  [220] Somatology (85)
-  [29645] Eschatology (42)
+  Wetware: 26
+  Monopols: 21
+Upgrade Rebel Partisans (AVE) to Rebel Partisans (NE) at Fusorium
+Time to Build / Upgrade: 3
+[28200] Technologies Required to Build Unit (51):
+  [4070] Tracker Legion (69)
+  [24130] Neumonically-Enhanced Soldiers (32)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

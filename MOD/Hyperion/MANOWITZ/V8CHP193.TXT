@@ -1,585 +1,588 @@
-All units of the unit class Exped. Assault Vehicle (P) are listed herein (12 in total):
+All units of the unit class Light Grappler Mech are listed herein (13 in total):
 
 --1--
-Name: Exped. Assault Vehicle (P)
-Nick Name: EAV (P)
+Name: Light Grappler Mech
+Nick Name: Grapnel
 Scores & Strengths:
-  Tech Score: 1717
-  Unit Score: 1714
-  Average Score: 1716
-  Stat Strength: 769
-  Total Strength: 1714
-  Planet Strength: 1714
+  Tech Score: 1686
+  Unit Score: 1685
+  Average Score: 1686
+  Stat Strength: 1194
+  Total Strength: 1685
+  Planet Strength: 1685
   Space Strength: 0
-  Garrison Strength: 516
+  Garrison Strength: 486
 Statistics:
-  Movement Type: craft
-  Move Points: 11
-  Spot: 8
-  Camouflage: 6
-  Agility: 6
-  Armor: 16
-  Psy Defense: 16
-  Rank: 92
+  Movement Type: mech
+  Move Points: 12
+  Spot: 10
+  Camouflage: 4
+  Agility: 22
+  Armor: 15
+  Psy Defense: 15
+  Rank: 87
 Attacks:
-  Direct: 21/25
-  Close: 20/21
-Cargo Space: 1
-Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 11
-Build Cost: 107
+  Indirect: 19/14
+  Close: 15/15
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 16
+Build Cost: 157
 Build Resource Requirements:
-  Food: 1
-  Energy: 18
-  Metal: 8
-  Trace: 15
-  Exotica: 2
-  Chemicals: 25
-  Biochems: 9
-  Electronics: 21
-  Ceramsteel: 9
-Build Exped. Assault Vehicle (P) in Factory
+  Food: 5
+  Energy: 15
+  Metal: 9
+  Trace: 16
+  Exotica: 5
+  Chemicals: 27
+  Electronics: 20
+  Ceramsteel: 13
+Build Light Grappler Mech in Starport
 Time to Build / Upgrade: 3
-[12755] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [4695] Advanced Minor Watercraft (83)
-  [5205] Advanced Battle Tanks (84)
+[10330] Technologies Required to Build Unit (84):
+  [1690] Ceramsteel (84)
+  [2420] Rocket-Propelled Aircraft (87)
+  [6220] Mechanically-Enhanced Soldiers (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Exped. Assault Vehicle (C)
-Nick Name: EAV (C)
+Name: Medium Grappler Mech
+Nick Name: Gargoyle
 Scores & Strengths:
-  Tech Score: 1717
-  Unit Score: 1714
-  Average Score: 1716
-  Stat Strength: 769
-  Total Strength: 1714
-  Planet Strength: 1714
+  Tech Score: 2414
+  Unit Score: 2415
+  Average Score: 2414
+  Stat Strength: 1584
+  Total Strength: 2415
+  Planet Strength: 2415
   Space Strength: 0
-  Garrison Strength: 516
+  Garrison Strength: 645
 Statistics:
-  Movement Type: craft
-  Move Points: 11
-  Spot: 8
-  Camouflage: 6
-  Agility: 6
-  Armor: 16
-  Psy Defense: 16
-  Rank: 775
+  Movement Type: mech
+  Move Points: 14
+  Spot: 13
+  Camouflage: 9
+  Agility: 16
+  Armor: 21
+  Psy Defense: 21
+  Rank: 109
 Attacks:
-  Water: 21/25
-  Indirect: 20/21
+  Indirect: 15/26
+  Close: 21/21
 Load aboard transport: 2
-Officer - Provides stack combat bonuses
-Can be towed
-Upkeep / Maintenance: 14
-Build Cost: 135
+Immune to Plague
+Upkeep / Maintenance: 141
+Build Cost: 1407
 Build Resource Requirements:
-  Food: 1
-  Energy: 18
+  Food: 3
+  Energy: 13
   Metal: 8
-  Trace: 15
-  Exotica: 2
-  Chemicals: 25
-  Biochems: 5
-  Electronics: 14
+  Trace: 14
+  Exotica: 3
+  Chemicals: 23
+  Electronics: 22
   Ceramsteel: 9
-Build Exped. Assault Vehicle (C) in Factory
-Time to Build / Upgrade: 2
-[12755] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [4695] Advanced Minor Watercraft (83)
-  [5205] Advanced Battle Tanks (84)
+  Monopols: 31
+Build Medium Grappler Mech in Starport
+Time to Build / Upgrade: 3
+[12850] Technology Required to Build Unit (71):
+  [12850] Mechanized Warriors (71)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Exped. Assault Vehicle (H)
-Nick Name: EAV (H)
+Name: Light Grappler Mech (GE)
+Nick Name: Grapnel (GE)
 Scores & Strengths:
-  Tech Score: 1717
-  Unit Score: 1714
-  Average Score: 1716
-  Stat Strength: 769
-  Total Strength: 1714
-  Planet Strength: 1714
+  Tech Score: 2294
+  Unit Score: 2807
+  Average Score: 2550
+  Stat Strength: 1901
+  Total Strength: 2807
+  Planet Strength: 2807
   Space Strength: 0
-  Garrison Strength: 516
+  Garrison Strength: 701
 Statistics:
-  Movement Type: craft
-  Move Points: 11
-  Spot: 8
-  Camouflage: 6
-  Agility: 6
-  Armor: 16
-  Psy Defense: 16
-  Rank: 107
+  Movement Type: mech
+  Move Points: 16
+  Spot: 12
+  Camouflage: 5
+  Agility: 26
+  Armor: 20
+  Psy Defense: 20
+  Rank: 112
 Attacks:
-  Indirect: 21/25
-  Direct: 20/21
-Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 9
-Build Cost: 89
+  Indirect: 27/18
+  Close: 21/20
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 36
+Build Cost: 201
 Build Resource Requirements:
-  Food: 1
-  Energy: 18
-  Metal: 8
-  Trace: 15
-  Exotica: 2
-  Chemicals: 25
-  Biochems: 5
-  Electronics: 13
-  Ceramsteel: 9
-Build Exped. Assault Vehicle (H) in Factory
-Time to Build / Upgrade: 2
-[12755] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [4695] Advanced Minor Watercraft (83)
-  [5205] Advanced Battle Tanks (84)
+  Energy: 1
+  Metal: 1
+  Trace: 1
+  Chemicals: 3
+  Biochems: 38
+  Electronics: 1
+Upgrade Light Grappler Mech to Light Grappler Mech (GE) at Lab
+Time to Build / Upgrade: 1
+[16350] Technologies Required to Build Unit (75):
+  [1690] Ceramsteel (84)
+  [6020] Chemical Shock Legion (49)
+  [2420] Rocket-Propelled Aircraft (87)
+  [6220] Mechanically-Enhanced Soldiers (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Exped. Assault Vehicle (R)
-Nick Name: EAV (R)
+Name: Light Grappler Mech (AVE)
+Nick Name: Grapnel (AVE)
 Scores & Strengths:
-  Tech Score: 1717
-  Unit Score: 1714
-  Average Score: 1716
-  Stat Strength: 1139
-  Total Strength: 1714
-  Planet Strength: 1714
+  Tech Score: 2695
+  Unit Score: 3397
+  Average Score: 3046
+  Stat Strength: 2291
+  Total Strength: 3397
+  Planet Strength: 3397
   Space Strength: 0
-  Garrison Strength: 516
+  Garrison Strength: 800
 Statistics:
-  Movement Type: craft
-  Move Points: 11
-  Spot: 8
+  Movement Type: mech
+  Move Points: 18
+  Spot: 12
   Camouflage: 6
-  Agility: 6
-  Armor: 21
-  Psy Defense: 21
-  Rank: 472
+  Agility: 27
+  Armor: 23
+  Psy Defense: 23
+  Rank: 123
 Attacks:
-  Close: 23/25
-Load aboard transport: 2
-Can tow units that can be towed
-Heals units of same movement type
-Upkeep / Maintenance: 11
-Build Cost: 109
+  Indirect: 30/20
+  Close: 23/22
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 44
+Build Cost: 237
 Build Resource Requirements:
-  Food: 1
-  Energy: 11
-  Metal: 15
-  Trace: 10
-  Exotica: 2
-  Chemicals: 20
-  Biochems: 6
-  Electronics: 18
-  Ceramsteel: 16
-Build Exped. Assault Vehicle (R) in Factory
-Time to Build / Upgrade: 3
-[12755] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [4695] Advanced Minor Watercraft (83)
-  [5205] Advanced Battle Tanks (84)
+  Energy: 2
+  Metal: 1
+  Exotica: 1
+  Chemicals: 4
+  Biochems: 7
+  Electronics: 1
+  Ceramsteel: 2
+Upgrade Light Grappler Mech (GE) to Light Grappler Mech (AVE) at Lab
+Time to Build / Upgrade: 1
+[19230] Technologies Required to Build Unit (69):
+  [1690] Ceramsteel (84)
+  [8900] Genetically-Enhanced Warriors (25)
+  [2420] Rocket-Propelled Aircraft (87)
+  [6220] Mechanically-Enhanced Soldiers (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Exped. Assault Vehicle (A)
-Nick Name: EAV (A)
+Name: Medium Grappler Mech (AVE)
+Nick Name: Gargoyle (AVE)
 Scores & Strengths:
-  Tech Score: 1717
-  Unit Score: 1714
-  Average Score: 1716
-  Stat Strength: 769
-  Total Strength: 1714
-  Planet Strength: 1714
+  Tech Score: 3329
+  Unit Score: 4677
+  Average Score: 4003
+  Stat Strength: 2986
+  Total Strength: 4677
+  Planet Strength: 4677
   Space Strength: 0
-  Garrison Strength: 516
+  Garrison Strength: 1045
 Statistics:
-  Movement Type: craft
-  Move Points: 11
-  Spot: 8
-  Camouflage: 6
-  Agility: 6
-  Armor: 16
-  Psy Defense: 16
-  Rank: 103
+  Movement Type: mech
+  Move Points: 20
+  Spot: 16
+  Camouflage: 13
+  Agility: 19
+  Armor: 30
+  Psy Defense: 30
+  Rank: 147
 Attacks:
-  Air: 21/25
-  Direct: 20/21
+  Indirect: 22/36
+  Close: 31/29
 Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 11
-Build Cost: 105
+Immune to Plague
+Upkeep / Maintenance: 300
+Build Cost: 1594
 Build Resource Requirements:
-  Food: 1
-  Energy: 18
-  Metal: 8
-  Trace: 15
-  Exotica: 2
-  Chemicals: 25
-  Biochems: 9
-  Electronics: 21
-  Ceramsteel: 9
-Build Exped. Assault Vehicle (A) in Factory
-Time to Build / Upgrade: 3
-[12755] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [4695] Advanced Minor Watercraft (83)
-  [5205] Advanced Battle Tanks (84)
+  Energy: 6
+  Metal: 4
+  Trace: 1
+  Exotica: 1
+  Chemicals: 12
+  Biochems: 49
+  Electronics: 5
+  Ceramsteel: 5
+  Monopols: 14
+Upgrade Medium Grappler Mech to Medium Grappler Mech (AVE) at Lab
+Time to Build / Upgrade: 1
+[21750] Technologies Required to Build Unit (48):
+  [8900] Genetically-Enhanced Warriors (25)
+  [12850] Mechanized Warriors (71)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Exped. Assault Vehicle (E)
-Nick Name: EAV (E)
+Name: Heavy Grappler Mech
+Nick Name: Executioner
 Scores & Strengths:
-  Tech Score: 1717
-  Unit Score: 1719
-  Average Score: 1718
-  Stat Strength: 1311
-  Total Strength: 1719
-  Planet Strength: 1719
+  Tech Score: 5401
+  Unit Score: 5401
+  Average Score: 5401
+  Stat Strength: 3128
+  Total Strength: 5401
+  Planet Strength: 5401
   Space Strength: 0
-  Garrison Strength: 573
+  Garrison Strength: 1350
 Statistics:
-  Movement Type: craft
-  Move Points: 9
-  Spot: 10
-  Camouflage: 6
-  Agility: 6
-  Armor: 23
-  Psy Defense: 23
-  Rank: 74
+  Movement Type: mech
+  Move Points: 16
+  Spot: 14
+  Camouflage: 12
+  Agility: 22
+  Armor: 32
+  Psy Defense: 32
+  Rank: 166
 Attacks:
-  Close: 17/24
-Cargo Space: 1
-Load aboard transport: 2
-Can tow units that can be towed
-Upkeep / Maintenance: 10
-Build Cost: 95
+  Indirect: 32/28
+  Direct: 21/21
+  Close: 36/26
+Load aboard transport: 3
+Immune to Plague
+Upkeep / Maintenance: 214
+Build Cost: 2136
 Build Resource Requirements:
-  Food: 1
-  Energy: 10
-  Metal: 17
-  Trace: 7
+  Food: 2
+  Energy: 11
+  Metal: 7
+  Trace: 30
   Exotica: 2
-  Chemicals: 19
-  Biochems: 4
-  Electronics: 16
-  Ceramsteel: 19
-Build Exped. Assault Vehicle (E) in Factory
-Time to Build / Upgrade: 3
-[12755] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [4695] Advanced Minor Watercraft (83)
-  [5205] Advanced Battle Tanks (84)
+  Chemicals: 18
+  Biochems: 28
+  Electronics: 37
+  Ceramsteel: 11
+  Monopols: 30
+Build Heavy Grappler Mech in Starport
+Time to Build / Upgrade: 4
+[37610] Technology Required to Build Unit (63):
+  [37610] Advanced Mechanized Warriors (63)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Amphib. Fighting Vehicle (R)
-Nick Name: AFV (R)
+Name: Light Grappler Mech (NE)
+Nick Name: Grapnel (NE)
 Scores & Strengths:
-  Tech Score: 2944
-  Unit Score: 2838
-  Average Score: 2891
-  Stat Strength: 1848
-  Total Strength: 2838
-  Planet Strength: 2838
+  Tech Score: 4206
+  Unit Score: 5632
+  Average Score: 4919
+  Stat Strength: 3668
+  Total Strength: 5632
+  Planet Strength: 5632
   Space Strength: 0
-  Garrison Strength: 758
+  Garrison Strength: 1174
 Statistics:
-  Movement Type: craft
-  Move Points: 14
-  Spot: 9
-  Camouflage: 8
-  Agility: 7
-  Armor: 27
-  Psy Defense: 27
-  Rank: 494
+  Movement Type: mech
+  Move Points: 23
+  Spot: 14
+  Camouflage: 11
+  Agility: 30
+  Armor: 31
+  Psy Defense: 31
+  Rank: 161
 Attacks:
-  Close: 30/33
-Load aboard transport: 2
-Can tow units that can be towed
-Heals units of same movement type
-Upkeep / Maintenance: 90
-Build Cost: 901
+  Indirect: 38/28
+  Close: 30/30
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 313
+Build Cost: 2895
 Build Resource Requirements:
-  Food: 1
-  Energy: 11
-  Metal: 10
-  Trace: 11
-  Exotica: 1
-  Chemicals: 18
-  Biochems: 6
-  Electronics: 19
-  Ceramsteel: 13
-  Monopols: 25
-Build Amphib. Fighting Vehicle (R) in Factory
+  Wetware: 10
+  Monopols: 33
+Upgrade Light Grappler Mech (AVE) to Light Grappler Mech (NE) at Fusorium
 Time to Build / Upgrade: 3
-[22245] Technologies Required to Build Unit (82):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [13535] Powered Ceramsteel Tanks (74)
+[34460] Technologies Required to Build Unit (71):
+  [1690] Ceramsteel (84)
+  [24130] Neumonically-Enhanced Soldiers (32)
+  [2420] Rocket-Propelled Aircraft (87)
+  [6220] Mechanically-Enhanced Soldiers (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Amphib. Fighting Vehicle (E)
-Nick Name: AFV (E)
+Name: Assault Grappler Mech
+Nick Name: Excruciator
 Scores & Strengths:
-  Tech Score: 2944
-  Unit Score: 2860
-  Average Score: 2902
-  Stat Strength: 2178
-  Total Strength: 2860
-  Planet Strength: 2860
+  Tech Score: 5809
+  Unit Score: 5809
+  Average Score: 5809
+  Stat Strength: 3478
+  Total Strength: 5809
+  Planet Strength: 5809
   Space Strength: 0
-  Garrison Strength: 825
+  Garrison Strength: 1369
 Statistics:
-  Movement Type: craft
-  Move Points: 12
-  Spot: 11
-  Camouflage: 8
-  Agility: 7
-  Armor: 30
-  Psy Defense: 30
-  Rank: 94
+  Movement Type: mech
+  Move Points: 18
+  Spot: 16
+  Camouflage: 12
+  Agility: 24
+  Armor: 33
+  Psy Defense: 33
+  Rank: 172
 Attacks:
-  Close: 22/31
-Cargo Space: 1
-Load aboard transport: 2
-Can tow units that can be towed
-Upkeep / Maintenance: 86
-Build Cost: 858
+  Indirect: 33/30
+  Direct: 21/23
+  Close: 33/26
+Load aboard transport: 4
+Immune to Plague
+Upkeep / Maintenance: 285
+Build Cost: 2851
 Build Resource Requirements:
   Food: 1
-  Energy: 9
-  Metal: 13
-  Trace: 7
-  Exotica: 1
-  Chemicals: 17
-  Biochems: 4
-  Electronics: 15
-  Ceramsteel: 16
-  Monopols: 26
-Build Amphib. Fighting Vehicle (E) in Factory
-Time to Build / Upgrade: 3
-[22245] Technologies Required to Build Unit (82):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [13535] Powered Ceramsteel Tanks (74)
+  Energy: 11
+  Metal: 6
+  Trace: 12
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 25
+  Electronics: 17
+  Ceramsteel: 9
+  Wetware: 11
+  Monopols: 28
+Build Assault Grappler Mech in Starport
+Time to Build / Upgrade: 4
+[54355] Technologies Required to Build Unit (43):
+  [16745] Wetware (23)
+  [37610] Advanced Mechanized Warriors (63)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Amphib. Fighting Vehicle (P)
-Nick Name: AFV (P)
+Name: Medium Grappler Mech (NE)
+Nick Name: Gargoyle (NE)
 Scores & Strengths:
-  Tech Score: 2944
-  Unit Score: 2865
-  Average Score: 2905
-  Stat Strength: 1272
-  Total Strength: 2865
-  Planet Strength: 2865
+  Tech Score: 4702
+  Unit Score: 7578
+  Average Score: 6140
+  Stat Strength: 4865
+  Total Strength: 7578
+  Planet Strength: 7578
   Space Strength: 0
-  Garrison Strength: 765
+  Garrison Strength: 1546
 Statistics:
-  Movement Type: craft
-  Move Points: 14
-  Spot: 9
-  Camouflage: 8
-  Agility: 7
-  Armor: 21
-  Psy Defense: 21
-  Rank: 117
+  Movement Type: mech
+  Move Points: 24
+  Spot: 18
+  Camouflage: 18
+  Agility: 21
+  Armor: 40
+  Psy Defense: 40
+  Rank: 185
 Attacks:
-  Direct: 27/33
-  Close: 26/27
-Cargo Space: 1
+  Indirect: 27/47
+  Close: 38/38
 Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 89
-Build Cost: 889
+Immune to Plague
+Upkeep / Maintenance: 528
+Build Cost: 3687
 Build Resource Requirements:
-  Food: 1
-  Energy: 17
-  Metal: 6
-  Trace: 16
-  Exotica: 1
-  Chemicals: 23
-  Biochems: 9
-  Electronics: 24
-  Ceramsteel: 8
-  Monopols: 28
-Build Amphib. Fighting Vehicle (P) in Factory
-Time to Build / Upgrade: 3
-[22245] Technologies Required to Build Unit (82):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [13535] Powered Ceramsteel Tanks (74)
+  Wetware: 12
+  Monopols: 5
+Upgrade Medium Grappler Mech (AVE) to Medium Grappler Mech (NE) at Fusorium
+Time to Build / Upgrade: 2
+[36980] Technologies Required to Build Unit (52):
+  [24130] Neumonically-Enhanced Soldiers (32)
+  [12850] Mechanized Warriors (71)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Amphib. Fighting Vehicle (C)
-Nick Name: AFV (C)
+Name: Heavy Grappler Mech (AVE)
+Nick Name: Executioner (AVE)
 Scores & Strengths:
-  Tech Score: 2944
-  Unit Score: 2865
-  Average Score: 2905
-  Stat Strength: 1272
-  Total Strength: 2865
-  Planet Strength: 2865
+  Tech Score: 5822
+  Unit Score: 8678
+  Average Score: 7250
+  Stat Strength: 4909
+  Total Strength: 8678
+  Planet Strength: 8678
   Space Strength: 0
-  Garrison Strength: 765
+  Garrison Strength: 1893
 Statistics:
-  Movement Type: craft
-  Move Points: 14
-  Spot: 9
-  Camouflage: 8
-  Agility: 7
-  Armor: 21
-  Psy Defense: 21
-  Rank: 807
+  Movement Type: mech
+  Move Points: 21
+  Spot: 16
+  Camouflage: 15
+  Agility: 25
+  Armor: 41
+  Psy Defense: 41
+  Rank: 203
 Attacks:
-  Water: 27/33
-  Indirect: 26/27
-Load aboard transport: 2
-Officer - Provides stack combat bonuses
-Can be towed
-Upkeep / Maintenance: 128
-Build Cost: 1278
+  Indirect: 43/35
+  Direct: 28/26
+  Close: 48/32
+Load aboard transport: 3
+Immune to Plague
+Upkeep / Maintenance: 409
+Build Cost: 1957
 Build Resource Requirements:
-  Food: 1
-  Energy: 17
-  Metal: 6
-  Trace: 16
+  Energy: 5
+  Metal: 4
+  Trace: 5
   Exotica: 1
-  Chemicals: 23
-  Biochems: 5
-  Electronics: 15
-  Ceramsteel: 8
-  Monopols: 28
-Build Amphib. Fighting Vehicle (C) in Factory
-Time to Build / Upgrade: 3
-[22245] Technologies Required to Build Unit (82):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [13535] Powered Ceramsteel Tanks (74)
+  Chemicals: 8
+  Biochems: 27
+  Electronics: 8
+  Ceramsteel: 4
+  Monopols: 12
+Upgrade Heavy Grappler Mech to Heavy Grappler Mech (AVE) at Lab
+Time to Build / Upgrade: 1
+[46510] Technologies Required to Build Unit (44):
+  [8900] Genetically-Enhanced Warriors (25)
+  [37610] Advanced Mechanized Warriors (63)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --11--
-Name: Amphib. Fighting Vehicle (H)
-Nick Name: AFV (H)
+Name: Assault Grappler Mech (AVE)
+Nick Name: Excruciator (AVE)
 Scores & Strengths:
-  Tech Score: 2944
-  Unit Score: 2865
-  Average Score: 2905
-  Stat Strength: 1272
-  Total Strength: 2865
-  Planet Strength: 2865
+  Tech Score: 6196
+  Unit Score: 9155
+  Average Score: 7676
+  Stat Strength: 5335
+  Total Strength: 9155
+  Planet Strength: 9155
   Space Strength: 0
-  Garrison Strength: 765
+  Garrison Strength: 1908
 Statistics:
-  Movement Type: craft
-  Move Points: 14
-  Spot: 9
-  Camouflage: 8
-  Agility: 7
-  Armor: 21
-  Psy Defense: 21
-  Rank: 139
+  Movement Type: mech
+  Move Points: 23
+  Spot: 18
+  Camouflage: 15
+  Agility: 27
+  Armor: 42
+  Psy Defense: 42
+  Rank: 209
 Attacks:
-  Indirect: 27/33
-  Direct: 26/27
-Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 85
-Build Cost: 850
+  Indirect: 44/37
+  Direct: 28/28
+  Close: 44/32
+Load aboard transport: 4
+Immune to Plague
+Upkeep / Maintenance: 539
+Build Cost: 2537
 Build Resource Requirements:
   Food: 1
-  Energy: 17
-  Metal: 6
-  Trace: 16
-  Exotica: 1
-  Chemicals: 23
-  Biochems: 5
-  Electronics: 14
-  Ceramsteel: 8
-  Monopols: 28
-Build Amphib. Fighting Vehicle (H) in Factory
-Time to Build / Upgrade: 3
-[22245] Technologies Required to Build Unit (82):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [13535] Powered Ceramsteel Tanks (74)
+  Energy: 5
+  Metal: 3
+  Trace: 5
+  Chemicals: 8
+  Biochems: 18
+  Electronics: 8
+  Ceramsteel: 5
+  Wetware: 4
+  Monopols: 12
+Upgrade Assault Grappler Mech to Assault Grappler Mech (AVE) at Lab
+Time to Build / Upgrade: 1
+[63255] Technologies Required to Build Unit (37):
+  [16745] Wetware (23)
+  [8900] Genetically-Enhanced Warriors (25)
+  [37610] Advanced Mechanized Warriors (63)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --12--
-Name: Amphib. Fighting Vehicle (A)
-Nick Name: AFV (A)
+Name: Heavy Grappler Mech (NE)
+Nick Name: Executioner (NE)
 Scores & Strengths:
-  Tech Score: 2944
-  Unit Score: 2865
-  Average Score: 2905
-  Stat Strength: 1272
-  Total Strength: 2865
-  Planet Strength: 2865
+  Tech Score: 6367
+  Unit Score: 12054
+  Average Score: 9210
+  Stat Strength: 7010
+  Total Strength: 12054
+  Planet Strength: 12054
   Space Strength: 0
-  Garrison Strength: 765
+  Garrison Strength: 2569
 Statistics:
-  Movement Type: craft
-  Move Points: 14
-  Spot: 9
-  Camouflage: 8
-  Agility: 7
-  Armor: 21
-  Psy Defense: 21
-  Rank: 133
+  Movement Type: mech
+  Move Points: 22
+  Spot: 18
+  Camouflage: 18
+  Agility: 26
+  Armor: 51
+  Psy Defense: 51
+  Rank: 233
 Attacks:
-  Air: 27/33
-  Direct: 26/27
-Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 87
-Build Cost: 872
+  Indirect: 48/42
+  Direct: 31/31
+  Close: 53/39
+Load aboard transport: 3
+Immune to Plague
+Upkeep / Maintenance: 838
+Build Cost: 6421
 Build Resource Requirements:
-  Food: 1
-  Energy: 17
-  Metal: 6
-  Trace: 16
-  Exotica: 1
-  Chemicals: 23
-  Biochems: 9
-  Electronics: 24
-  Ceramsteel: 8
-  Monopols: 28
-Build Amphib. Fighting Vehicle (A) in Factory
+  Ceramsteel: 2
+  Wetware: 22
+  Monopols: 4
+Upgrade Heavy Grappler Mech (AVE) to Heavy Grappler Mech (NE) at Fusorium
 Time to Build / Upgrade: 3
-[22245] Technologies Required to Build Unit (82):
-  [2855] Naval Amphibious Ships (87)
-  [5855] Guided Missile Navalcraft (84)
-  [13535] Powered Ceramsteel Tanks (74)
+[61740] Technologies Required to Build Unit (48):
+  [24130] Neumonically-Enhanced Soldiers (32)
+  [37610] Advanced Mechanized Warriors (63)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--13--
+Name: Assault Grappler Mech (NE)
+Nick Name: Excruciator (NE)
+Scores & Strengths:
+  Tech Score: 6367
+  Unit Score: 12164
+  Average Score: 9265
+  Stat Strength: 7286
+  Total Strength: 12164
+  Planet Strength: 12164
+  Space Strength: 0
+  Garrison Strength: 2482
+Statistics:
+  Movement Type: mech
+  Move Points: 24
+  Spot: 20
+  Camouflage: 18
+  Agility: 28
+  Armor: 51
+  Psy Defense: 51
+  Rank: 234
+Attacks:
+  Indirect: 48/43
+  Direct: 30/33
+  Close: 48/38
+Load aboard transport: 4
+Immune to Plague
+Upkeep / Maintenance: 830
+Build Cost: 5758
+Build Resource Requirements:
+  Metal: 2
+  Trace: 5
+  Chemicals: 1
+  Biochems: 2
+  Electronics: 6
+  Ceramsteel: 3
+  Wetware: 5
+  Monopols: 8
+Upgrade Assault Grappler Mech (AVE) to Assault Grappler Mech (NE) at Fusorium
+Time to Build / Upgrade: 2
+[61740] Technologies Required to Build Unit (48):
+  [24130] Neumonically-Enhanced Soldiers (32)
+  [37610] Advanced Mechanized Warriors (63)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

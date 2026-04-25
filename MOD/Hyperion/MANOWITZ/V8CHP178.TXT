@@ -1,47 +1,216 @@
-All units of the unit class Blow Ship are listed herein (1 in total):
+All units of the unit class Chemical Shock Legion are listed herein (5 in total):
 
 --1--
-Name: Blow Ship
-Nick Name: Blow Ship
+Name: Chemical Shock Legion
+Nick Name: Grimsons
 Scores & Strengths:
-  Tech Score: 1530
-  Unit Score: 1530
-  Average Score: 1530
-  Stat Strength: 1296
-  Total Strength: 1530
-  Planet Strength: 0
-  Space Strength: 1530
-  Garrison Strength: 0
+  Tech Score: 1367
+  Unit Score: 1367
+  Average Score: 1367
+  Stat Strength: 806
+  Total Strength: 1367
+  Planet Strength: 1367
+  Space Strength: 0
+  Garrison Strength: 394
 Statistics:
-  Movement Type: jump
-  Move Points: 4
-  Spot: 10
-  Camouflage: 10
-  Agility: 10
-  Armor: 28
-  Psy Defense: 14
-  Rank: 125
+  Movement Type: foot
+  Move Points: 12
+  Spot: 8
+  Camouflage: 8
+  Agility: 22
+  Armor: 5
+  Psy Defense: 5
+  Rank: 83
 Attacks:
-  Ranged Space: 9/26
-Cargo Space: 6
-Load aboard transport: 8
-Deploys space units during space attacks
-Immune to Plague
-Upkeep / Maintenance: 459
-Build Cost: 4587
+  Air: 9/8
+  Indirect: 11/10
+  Direct: 16/12
+  Close: 17/11
+Load aboard transport: 1
+Upkeep / Maintenance: 18
+Build Cost: 160
 Build Resource Requirements:
-  Food: 2
-  Energy: 108
-  Metal: 17
-  Trace: 5
-  Exotica: 2
-  Chemicals: 133
-  Biochems: 182
-  Electronics: 12
-  Singularities: 2
-Build Blow Ship in Hive
-Time to Build / Upgrade: 5
-[6995] Technology Required to Build Unit (37):
-  [6995] Symbiot Psychology (37)
+  Trace: 15
+  Exotica: 7
+  Chemicals: 30
+  Biochems: 55
+  Electronics: 31
+  Ceramsteel: 1
+Upgrade Peasant to Chemical Shock Legion at Biochem Plant
+Time to Build / Upgrade: 2
+[6020] Technology Required to Build Unit (49):
+  [6020] Chemical Shock Legion (49)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Powered Chemical Legion
+Nick Name: Grimsons (P)
+Scores & Strengths:
+  Tech Score: 2509
+  Unit Score: 2271
+  Average Score: 2390
+  Stat Strength: 1232
+  Total Strength: 2271
+  Planet Strength: 2271
+  Space Strength: 0
+  Garrison Strength: 567
+Statistics:
+  Movement Type: foot
+  Move Points: 16
+  Spot: 9
+  Camouflage: 11
+  Agility: 26
+  Armor: 7
+  Psy Defense: 7
+  Rank: 110
+Attacks:
+  Air: 12/11
+  Indirect: 15/14
+  Direct: 22/16
+  Close: 23/15
+Load aboard transport: 1
+Upkeep / Maintenance: 66
+Build Cost: 496
+Build Resource Requirements:
+  Trace: 2
+  Monopols: 24
+Upgrade Chemical Shock Legion to Powered Chemical Legion at Fusorium
+Time to Build / Upgrade: 1
+[16085] Technologies Required to Build Unit (64):
+  [6020] Chemical Shock Legion (49)
+  [10065] Powered-Armor Legion (79)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Chemical Shock Legion (AVE)
+Nick Name: Grimsons (AVE)
+Scores & Strengths:
+  Tech Score: 1833
+  Unit Score: 2375
+  Average Score: 2104
+  Stat Strength: 1265
+  Total Strength: 2375
+  Planet Strength: 2375
+  Space Strength: 0
+  Garrison Strength: 576
+Statistics:
+  Movement Type: foot
+  Move Points: 17
+  Spot: 9
+  Camouflage: 11
+  Agility: 26
+  Armor: 7
+  Psy Defense: 7
+  Rank: 109
+Attacks:
+  Air: 13/11
+  Indirect: 16/14
+  Direct: 23/16
+  Close: 25/15
+Load aboard transport: 1
+Upkeep / Maintenance: 32
+Build Resource Requirements:
+  Food: 3
+  Energy: 10
+  Trace: 3
+  Exotica: 5
+  Chemicals: 27
+  Biochems: 52
+  Electronics: 14
+  Ceramsteel: 1
+Upgrade Powered Chemical Legion to Chemical Shock Legion (AVE) at Lab
+Time to Build / Upgrade: 2
+[8900] Technology Required to Build Unit (25):
+  [8900] Genetically-Enhanced Warriors (25)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Assault Chemical Legion
+Nick Name: Grimsons (A)
+Scores & Strengths:
+  Tech Score: 3404
+  Unit Score: 2930
+  Average Score: 3167
+  Stat Strength: 1542
+  Total Strength: 2930
+  Planet Strength: 2930
+  Space Strength: 0
+  Garrison Strength: 672
+Statistics:
+  Movement Type: foot
+  Move Points: 19
+  Spot: 10
+  Camouflage: 13
+  Agility: 28
+  Armor: 8
+  Psy Defense: 8
+  Rank: 127
+Attacks:
+  Air: 14/13
+  Indirect: 17/16
+  Direct: 25/19
+  Close: 27/17
+Load aboard transport: 1
+Upkeep / Maintenance: 60
+Build Cost: 601
+Build Resource Requirements:
+  Monopols: 20
+Upgrade Chemical Shock Legion (AVE) to Assault Chemical Legion at Fusorium
+Time to Build / Upgrade: 1
+[25180] Technologies Required to Build Unit (52):
+  [6020] Chemical Shock Legion (49)
+  [19160] Assault Legion (54)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Chemical Shock Legion (NE)
+Nick Name: Grimsons (NE)
+Scores & Strengths:
+  Tech Score: 3872
+  Unit Score: 4683
+  Average Score: 4278
+  Stat Strength: 2247
+  Total Strength: 4683
+  Planet Strength: 4683
+  Space Strength: 0
+  Garrison Strength: 955
+Statistics:
+  Movement Type: foot
+  Move Points: 24
+  Spot: 12
+  Camouflage: 18
+  Agility: 31
+  Armor: 11
+  Psy Defense: 11
+  Rank: 159
+Attacks:
+  Air: 19/17
+  Indirect: 23/21
+  Direct: 33/25
+  Close: 35/23
+Load aboard transport: 1
+Upkeep / Maintenance: 221
+Build Cost: 1604
+Build Resource Requirements:
+  Trace: 2
+  Chemicals: 5
+  Biochems: 13
+  Electronics: 3
+  Ceramsteel: 1
+  Wetware: 26
+  Monopols: 16
+Upgrade Assault Chemical Legion to Chemical Shock Legion (NE) at Fusorium
+Time to Build / Upgrade: 3
+[24130] Technology Required to Build Unit (32):
+  [24130] Neumonically-Enhanced Soldiers (32)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

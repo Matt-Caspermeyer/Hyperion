@@ -1,502 +1,491 @@
-All units of the unit class Gunboat are listed herein (11 in total):
+All units of the unit class Satellite are listed herein (12 in total):
 
 --1--
-Name: Gunboat
-Nick Name: NN-GB
+Name: Satellite
+Nick Name: Satellite
 Scores & Strengths:
-  Tech Score: 167
-  Unit Score: 331
-  Average Score: 249
-  Stat Strength: 281
-  Total Strength: 331
-  Planet Strength: 331
+  Tech Score: 327
+  Unit Score: 327
+  Average Score: 327
+  Stat Strength: 327
+  Total Strength: 327
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 135
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 4
-  Camouflage: 2
-  Agility: 5
-  Armor: 10
-  Psy Defense: 10
-  Rank: 29
-Attacks:
-  Indirect: 2/6
-  Direct: 3/6
-  Close: 4/5
-Load aboard transport: 2
-Upkeep / Maintenance: 22
-Build Cost: 220
+  Movement Type: space
+  Move Points: 0
+  Spot: 17
+  Camouflage: 4
+  Agility: 2
+  Armor: 3
+  Psy Defense: 3
+  Rank: 26
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 24
+Build Cost: 238
 Build Resource Requirements:
-  Food: 8
-  Energy: 28
-  Metal: 58
-  Trace: 13
-  Exotica: 8
-  Chemicals: 23
-  Gems: 1
-Build Gunboat in Well
+  Food: 31
+  Metal: 11
+  Trace: 51
+  Exotica: 31
+  Chemicals: 1
+  Electronics: 36
+Build Satellite in Chemical Plant
 Time to Build / Upgrade: 3
-[465] Technologies Required to Build Unit (100):
-  [100] Medical & Biological (100)
-  [100] Physics & Energy (100)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-Counts as planetary flock: YES
+[895] Technology Required to Build Unit (90):
+  [895] Space Rocketry (90)
 Unit can be disbanded: YES
 
 --2--
-Name: Torpedo Boat
-Nick Name: NN-TP
+Name: Satellite II
+Nick Name: Satellite II
 Scores & Strengths:
-  Tech Score: 174
-  Unit Score: 344
-  Average Score: 259
-  Stat Strength: 290
-  Total Strength: 344
-  Planet Strength: 344
+  Tech Score: 782
+  Unit Score: 531
+  Average Score: 657
+  Stat Strength: 531
+  Total Strength: 531
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 130
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 4
-  Camouflage: 3
-  Agility: 4
-  Armor: 10
-  Psy Defense: 10
-  Rank: 31
-Attacks:
-  Water: 3/14
-  Close: 3/4
-Load aboard transport: 3
-Upkeep / Maintenance: 27
-Build Cost: 273
+  Movement Type: space
+  Move Points: 0
+  Spot: 21
+  Camouflage: 6
+  Agility: 2
+  Armor: 5
+  Psy Defense: 5
+  Rank: 37
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 12
+Build Cost: 122
 Build Resource Requirements:
-  Food: 8
-  Energy: 48
-  Metal: 53
-  Trace: 11
-  Exotica: 7
-  Chemicals: 40
-  Gems: 1
-Build Torpedo Boat in Well
-Time to Build / Upgrade: 4
-[535] Technologies Required to Build Unit (99):
-  [100] Medical & Biological (100)
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
-Counts as planetary flock: YES
+  Food: 10
+  Metal: 14
+  Trace: 20
+  Exotica: 10
+  Electronics: 21
+Build Satellite II in Chemical Plant
+Time to Build / Upgrade: 1
+[3655] Technologies Required to Build Unit (82):
+  [1235] Jump Rocketry (76)
+  [2420] Rocket-Propelled Aircraft (87)
 Unit can be disbanded: YES
 
 --3--
-Name: Submarine Chaser
-Nick Name: NN-SC
+Name: Satellite III
+Nick Name: Satellite III
 Scores & Strengths:
-  Tech Score: 174
-  Unit Score: 344
-  Average Score: 259
-  Stat Strength: 290
-  Total Strength: 344
-  Planet Strength: 344
+  Tech Score: 1380
+  Unit Score: 721
+  Average Score: 1050
+  Stat Strength: 721
+  Total Strength: 721
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 130
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 6
-  Camouflage: 1
-  Agility: 2
-  Armor: 10
-  Psy Defense: 10
-  Rank: 33
-Attacks:
-  Water: 2/14
-  Indirect: 2/13
-Load aboard transport: 3
-Upkeep / Maintenance: 36
-Build Cost: 364
+  Movement Type: space
+  Move Points: 0
+  Spot: 24
+  Camouflage: 8
+  Agility: 3
+  Armor: 6
+  Psy Defense: 6
+  Rank: 46
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 12
+Build Cost: 120
 Build Resource Requirements:
-  Food: 10
-  Energy: 77
-  Metal: 53
-  Trace: 8
-  Exotica: 9
-  Chemicals: 65
-  Gems: 1
-Build Submarine Chaser in Well
-Time to Build / Upgrade: 4
-[535] Technologies Required to Build Unit (99):
-  [100] Medical & Biological (100)
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
-Counts as planetary flock: YES
+  Food: 8
+  Metal: 20
+  Trace: 16
+  Exotica: 8
+  Electronics: 22
+Build Satellite III in Chemical Plant
+Time to Build / Upgrade: 1
+[6900] Technologies Required to Build Unit (79):
+  [1235] Jump Rocketry (76)
+  [5665] Hypersonic Aircraft (82)
 Unit can be disbanded: YES
 
 --4--
-Name: Naval Sloop
-Nick Name: NN-Sloop
+Name: Satellite IV
+Nick Name: Satellite IV
 Scores & Strengths:
-  Tech Score: 177
-  Unit Score: 351
-  Average Score: 264
-  Stat Strength: 260
-  Total Strength: 351
-  Planet Strength: 351
+  Tech Score: 1771
+  Unit Score: 864
+  Average Score: 1318
+  Stat Strength: 864
+  Total Strength: 864
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 143
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 10
-  Psy Defense: 10
-  Rank: 39
-Attacks:
-  Indirect: 3/10
-  Direct: 3/7
-  Close: 8/5
-Cargo Space: 1
-Load aboard transport: 3
-Upkeep / Maintenance: 25
-Build Cost: 254
+  Movement Type: space
+  Move Points: 0
+  Spot: 26
+  Camouflage: 9
+  Agility: 3
+  Armor: 7
+  Psy Defense: 7
+  Rank: 52
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 9
+Build Cost: 93
 Build Resource Requirements:
-  Food: 6
-  Energy: 38
-  Metal: 48
-  Trace: 21
-  Exotica: 6
-  Chemicals: 34
-Build Naval Sloop in Well
-Time to Build / Upgrade: 4
-[605] Technologies Required to Build Unit (99):
-  [230] Hospitals (97)
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-Counts as planetary flock: YES
+  Food: 7
+  Metal: 2
+  Trace: 15
+  Exotica: 7
+  Electronics: 21
+  Ceramsteel: 2
+Build Satellite IV in Chemical Plant
+Time to Build / Upgrade: 1
+[9410] Technologies Required to Build Unit (80):
+  [1235] Jump Rocketry (76)
+  [8175] Spacecraft (84)
 Unit can be disbanded: YES
 
 --5--
-Name: Patrol Boat
-Nick Name: NN-PB
+Name: Satellite V
+Nick Name: Satellite V
 Scores & Strengths:
-  Tech Score: 520
-  Unit Score: 520
-  Average Score: 520
-  Stat Strength: 453
-  Total Strength: 520
-  Planet Strength: 520
+  Tech Score: 2400
+  Unit Score: 1042
+  Average Score: 1721
+  Stat Strength: 1042
+  Total Strength: 1042
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 183
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 7
-  Armor: 12
-  Psy Defense: 12
-  Rank: 40
-Attacks:
-  Indirect: 3/6
-  Direct: 4/6
-  Close: 5/5
-Load aboard transport: 2
-Upkeep / Maintenance: 16
-Build Cost: 157
+  Movement Type: space
+  Move Points: 0
+  Spot: 28
+  Camouflage: 11
+  Agility: 3
+  Armor: 8
+  Psy Defense: 8
+  Rank: 59
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 11
+Build Cost: 109
 Build Resource Requirements:
-  Food: 4
-  Energy: 11
-  Metal: 34
-  Trace: 9
-  Exotica: 4
-  Chemicals: 11
-  Biochems: 7
-  Electronics: 7
-Build Patrol Boat in Well
-Time to Build / Upgrade: 2
-[1660] Technologies Required to Build Unit (93):
-  [100] Psychosocial Engineering (100)
-  [1560] Naval Patrol Ships (86)
-Counts as planetary flock: YES
+  Food: 6
+  Metal: 2
+  Trace: 13
+  Exotica: 6
+  Biochems: 6
+  Electronics: 18
+  Ceramsteel: 2
+Build Satellite V in Chemical Plant
+Time to Build / Upgrade: 1
+[13660] Technologies Required to Build Unit (81):
+  [1235] Jump Rocketry (76)
+  [12425] Space Warfare (86)
 Unit can be disbanded: YES
 
 --6--
-Name: Advanced Gunboat
-Nick Name: N-Gunboat2
+Name: Satellite VI
+Nick Name: Satellite VI
 Scores & Strengths:
-  Tech Score: 406
-  Unit Score: 783
-  Average Score: 595
-  Stat Strength: 663
-  Total Strength: 783
-  Planet Strength: 783
+  Tech Score: 2959
+  Unit Score: 1156
+  Average Score: 2058
+  Stat Strength: 1156
+  Total Strength: 1156
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 261
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 9
-  Spot: 5
-  Camouflage: 3
-  Agility: 6
-  Armor: 16
-  Psy Defense: 16
-  Rank: 45
-Attacks:
-  Indirect: 3/9
-  Direct: 5/9
-  Close: 6/8
-Load aboard transport: 2
-Upkeep / Maintenance: 25
-Build Cost: 251
+  Movement Type: space
+  Move Points: 0
+  Spot: 29
+  Camouflage: 12
+  Agility: 3
+  Armor: 9
+  Psy Defense: 9
+  Rank: 64
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 17
+Build Cost: 169
 Build Resource Requirements:
-  Food: 6
-  Energy: 26
-  Metal: 80
-  Trace: 12
+  Food: 4
+  Metal: 1
+  Trace: 11
   Exotica: 5
-  Chemicals: 26
-  Electronics: 9
-Build Advanced Gunboat in Well
-Time to Build / Upgrade: 4
-[1195] Technology Required to Build Unit (90):
-  [1195] Naval Warfare (90)
-Counts as planetary flock: YES
+  Biochems: 9
+  Electronics: 16
+  Ceramsteel: 1
+  Monopols: 1
+Build Satellite VI in Chemical Plant
+Time to Build / Upgrade: 1
+[17765] Technologies Required to Build Unit (78):
+  [1235] Jump Rocketry (76)
+  [16530] Space Capital Ships (80)
 Unit can be disbanded: YES
 
 --7--
-Name: Fast Torpedo Boat
-Nick Name: NN-FTB
+Name: Orbital Listening Post
+Nick Name: SS-LP
 Scores & Strengths:
-  Tech Score: 1134
-  Unit Score: 1133
-  Average Score: 1134
-  Stat Strength: 713
-  Total Strength: 1133
-  Planet Strength: 1133
+  Tech Score: 1888
+  Unit Score: 1874
+  Average Score: 1881
+  Stat Strength: 1874
+  Total Strength: 1874
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 341
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 11
-  Spot: 10
-  Camouflage: 6
-  Agility: 8
-  Armor: 14
-  Psy Defense: 14
-  Rank: 78
-Attacks:
-  Water: 10/20
-  Direct: 10/16
-  Close: 6/10
-Cargo Space: 1
-Load aboard transport: 3
-Upkeep / Maintenance: 29
-Build Cost: 291
+  Movement Type: space
+  Move Points: 0
+  Spot: 24
+  Camouflage: 24
+  Agility: 0
+  Armor: 19
+  Psy Defense: 19
+  Rank: 67
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 12
+Build Cost: 123
 Build Resource Requirements:
-  Food: 3
-  Energy: 28
-  Metal: 12
-  Trace: 12
+  Food: 4
+  Metal: 9
+  Trace: 13
   Exotica: 4
-  Chemicals: 35
-  Biochems: 8
-  Electronics: 14
-  Ceramsteel: 14
-Build Fast Torpedo Boat in Well
-Time to Build / Upgrade: 3
-[4695] Technology Required to Build Unit (83):
-  [4695] Advanced Minor Watercraft (83)
-Counts as planetary flock: YES
+  Chemicals: 2
+  Electronics: 20
+  Ceramsteel: 11
+Build Orbital Listening Post in Starport
+Time to Build / Upgrade: 2
+[17990] Technologies Required to Build Unit (79):
+  [1605] Imaging Radar (78)
+  [8175] Spacecraft (84)
+  [8210] Aircraft Surveillance (74)
 Unit can be disbanded: YES
 
 --8--
-Name: Naval Cutter
-Nick Name: NN-Cutter
+Name: Orbital Listening Post II
+Nick Name: SS-LP II
 Scores & Strengths:
-  Tech Score: 1134
-  Unit Score: 1133
-  Average Score: 1134
-  Stat Strength: 668
-  Total Strength: 1133
-  Planet Strength: 1133
+  Tech Score: 2516
+  Unit Score: 2428
+  Average Score: 2472
+  Stat Strength: 2428
+  Total Strength: 2428
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 314
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 13
-  Spot: 8
-  Camouflage: 4
-  Agility: 9
-  Armor: 13
-  Psy Defense: 13
-  Rank: 81
-Attacks:
-  Water: 9/25
-  Air: 8/10
-  Direct: 10/16
-Cargo Space: 1
-Load aboard transport: 3
-Upkeep / Maintenance: 32
-Build Cost: 316
+  Movement Type: space
+  Move Points: 0
+  Spot: 26
+  Camouflage: 28
+  Agility: 0
+  Armor: 22
+  Psy Defense: 22
+  Rank: 77
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 16
+Build Cost: 160
 Build Resource Requirements:
   Food: 3
-  Energy: 36
   Metal: 10
-  Trace: 11
-  Exotica: 4
-  Chemicals: 44
-  Biochems: 8
-  Electronics: 12
-  Ceramsteel: 12
-Build Naval Cutter in Well
-Time to Build / Upgrade: 3
-[4695] Technology Required to Build Unit (83):
-  [4695] Advanced Minor Watercraft (83)
-Counts as planetary flock: YES
+  Trace: 14
+  Exotica: 3
+  Chemicals: 2
+  Biochems: 3
+  Electronics: 21
+  Ceramsteel: 13
+Build Orbital Listening Post II in Starport
+Time to Build / Upgrade: 2
+[22535] Technologies Required to Build Unit (79):
+  [1900] LASER (76)
+  [8210] Aircraft Surveillance (74)
+  [12425] Space Warfare (86)
 Unit can be disbanded: YES
 
 --9--
-Name: Fast Attack Craft
-Nick Name: NN-Cutter
+Name: Orbital Listening Post III
+Nick Name: SS-LP III
 Scores & Strengths:
-  Tech Score: 1134
-  Unit Score: 1134
-  Average Score: 1134
-  Stat Strength: 704
-  Total Strength: 1134
-  Planet Strength: 1134
+  Tech Score: 3172
+  Unit Score: 2940
+  Average Score: 3056
+  Stat Strength: 2940
+  Total Strength: 2940
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 327
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 12
-  Spot: 8
-  Camouflage: 8
-  Agility: 12
-  Armor: 12
-  Psy Defense: 12
-  Rank: 83
-Attacks:
-  Water: 12/12
-  Air: 11/11
-  Indirect: 12/12
-  Direct: 3/7
-Load aboard transport: 2
-Upkeep / Maintenance: 26
-Build Cost: 264
+  Movement Type: space
+  Move Points: 0
+  Spot: 27
+  Camouflage: 31
+  Agility: 0
+  Armor: 25
+  Psy Defense: 25
+  Rank: 84
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 70
+Build Cost: 700
 Build Resource Requirements:
-  Food: 4
-  Energy: 20
-  Metal: 9
-  Trace: 18
-  Exotica: 4
-  Chemicals: 26
+  Food: 3
+  Metal: 7
+  Trace: 13
+  Exotica: 3
+  Chemicals: 2
   Biochems: 9
-  Electronics: 16
+  Electronics: 21
   Ceramsteel: 10
-Build Fast Attack Craft in Well
-Time to Build / Upgrade: 3
-[4695] Technology Required to Build Unit (83):
-  [4695] Advanced Minor Watercraft (83)
-Counts as planetary flock: YES
+  Monopols: 9
+Build Orbital Listening Post III in Starport
+Time to Build / Upgrade: 2
+[28520] Technologies Required to Build Unit (78):
+  [3780] Beam Control (79)
+  [8210] Aircraft Surveillance (74)
+  [16530] Space Capital Ships (80)
 Unit can be disbanded: YES
 
 --10--
-Name: Naval Missile Cutter
-Nick Name: NN-CM
+Name: Orbital Listening Post IV
+Nick Name: SS-LP IV
 Scores & Strengths:
-  Tech Score: 1339
-  Unit Score: 1339
-  Average Score: 1339
-  Stat Strength: 858
-  Total Strength: 1339
-  Planet Strength: 1339
+  Tech Score: 3737
+  Unit Score: 3398
+  Average Score: 3568
+  Stat Strength: 3398
+  Total Strength: 3398
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 357
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 14
-  Spot: 10
-  Camouflage: 7
-  Agility: 11
-  Armor: 14
-  Psy Defense: 14
-  Rank: 97
-Attacks:
-  Air: 15/15
-  Indirect: 16/16
-Cargo Space: 1
-Load aboard transport: 3
-Upkeep / Maintenance: 28
-Build Cost: 277
+  Movement Type: space
+  Move Points: 0
+  Spot: 28
+  Camouflage: 34
+  Agility: 0
+  Armor: 27
+  Psy Defense: 27
+  Rank: 91
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 78
+Build Cost: 781
 Build Resource Requirements:
-  Food: 4
-  Energy: 19
-  Metal: 10
-  Trace: 18
-  Exotica: 5
-  Chemicals: 26
-  Biochems: 8
-  Electronics: 13
-  Ceramsteel: 13
-Build Naval Missile Cutter in Well
-Time to Build / Upgrade: 3
-[5855] Technology Required to Build Unit (84):
-  [5855] Guided Missile Navalcraft (84)
-Counts as planetary flock: YES
+  Food: 3
+  Metal: 8
+  Trace: 13
+  Exotica: 3
+  Chemicals: 2
+  Biochems: 9
+  Electronics: 22
+  Ceramsteel: 10
+  Monopols: 9
+Build Orbital Listening Post IV in Starport
+Time to Build / Upgrade: 2
+[33040] Technologies Required to Build Unit (74):
+  [4610] Wavelength-Tunable LASER (75)
+  [8210] Aircraft Surveillance (74)
+  [20220] Jump Transports (72)
 Unit can be disbanded: YES
 
 --11--
-Name: Fast Attack Craft II
-Nick Name: NN-Cutter II
+Name: Orbital Listening Post V
+Nick Name: SS-LP V
 Scores & Strengths:
-  Tech Score: 1579
-  Unit Score: 1512
-  Average Score: 1545
-  Stat Strength: 919
-  Total Strength: 1512
-  Planet Strength: 1512
+  Tech Score: 4124
+  Unit Score: 3634
+  Average Score: 3879
+  Stat Strength: 3634
+  Total Strength: 3634
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 404
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 14
-  Spot: 9
-  Camouflage: 9
-  Agility: 13
-  Armor: 14
-  Psy Defense: 14
-  Rank: 96
-Attacks:
-  Water: 14/14
-  Air: 13/13
-  Indirect: 14/14
-  Direct: 4/8
-Load aboard transport: 2
-Upkeep / Maintenance: 29
-Build Cost: 294
+  Movement Type: space
+  Move Points: 0
+  Spot: 29
+  Camouflage: 35
+  Agility: 0
+  Armor: 28
+  Psy Defense: 28
+  Rank: 94
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 55
+Build Cost: 547
 Build Resource Requirements:
-  Food: 3
-  Energy: 20
-  Metal: 9
-  Trace: 18
-  Exotica: 4
-  Chemicals: 28
-  Biochems: 9
+  Food: 2
+  Metal: 5
+  Trace: 10
+  Exotica: 2
+  Chemicals: 2
+  Biochems: 7
   Electronics: 18
-  Ceramsteel: 11
-Build Fast Attack Craft II in Well
-Time to Build / Upgrade: 3
-[7295] Technology Required to Build Unit (81):
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
+  Ceramsteel: 6
+  Monopols: 6
+Build Orbital Listening Post V in Starport
+Time to Build / Upgrade: 2
+[51895] Technologies Required to Build Unit (74):
+  [8210] Aircraft Surveillance (74)
+  [20220] Jump Transports (72)
+  [23465] Advanced Spacecraft (75)
+Unit can be disbanded: YES
+
+--12--
+Name: Orbital Listening Post VI
+Nick Name: SS-LP VI
+Scores & Strengths:
+  Tech Score: 5825
+  Unit Score: 4966
+  Average Score: 5396
+  Stat Strength: 4966
+  Total Strength: 4966
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 0
+  Spot: 32
+  Camouflage: 42
+  Agility: 0
+  Armor: 33
+  Psy Defense: 33
+  Rank: 110
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 51
+Build Cost: 514
+Build Resource Requirements:
+  Food: 1
+  Metal: 4
+  Trace: 7
+  Exotica: 1
+  Chemicals: 1
+  Biochems: 5
+  Electronics: 15
+  Ceramsteel: 5
+  Monopols: 5
+Build Orbital Listening Post VI in Starport
+Time to Build / Upgrade: 2
+[107150] Technologies Required to Build Unit (70):
+  [8210] Aircraft Surveillance (74)
+  [23465] Advanced Spacecraft (75)
+  [36110] Starbase MK M (70)
+  [39365] Jump Capital Ships (61)
 Unit can be disbanded: YES

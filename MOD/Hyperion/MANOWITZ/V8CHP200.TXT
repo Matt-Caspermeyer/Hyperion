@@ -1,170 +1,89 @@
-All units of the unit class Special Forces are listed herein (4 in total):
+All units of the unit class Genetic Warrior Legion are listed herein (2 in total):
 
 --1--
-Name: Special Forces
-Nick Name: SPF LGN
+Name: Genetic Warrior Legion
+Nick Name: Gen War Lgn
 Scores & Strengths:
-  Tech Score: 2106
-  Unit Score: 2105
-  Average Score: 2105
-  Stat Strength: 1116
-  Total Strength: 2105
-  Planet Strength: 2105
+  Tech Score: 1833
+  Unit Score: 1833
+  Average Score: 1833
+  Stat Strength: 992
+  Total Strength: 1833
+  Planet Strength: 1833
   Space Strength: 0
-  Garrison Strength: 562
+  Garrison Strength: 529
 Statistics:
   Movement Type: foot
-  Move Points: 14
-  Spot: 14
-  Camouflage: 14
-  Agility: 20
-  Armor: 8
-  Psy Defense: 8
-  Rank: 115
-Attacks:
-  Air: 17/15
-  Indirect: 16/16
-  Direct: 15/16
-  Close: 17/14
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 95
-Build Cost: 835
-Build Resource Requirements:
-  Trace: 1
-  Electronics: 12
-  Ceramsteel: 2
-  Monopols: 32
-Upgrade Covert Legion to Special Forces at Fort
-Time to Build / Upgrade: 1
-[10710] Technology Required to Build Unit (79):
-  [10710] Special Forces (79)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---2--
-Name: Cybercorp
-Nick Name: CYB LGN
-Scores & Strengths:
-  Tech Score: 2788
-  Unit Score: 2630
-  Average Score: 2709
-  Stat Strength: 1340
-  Total Strength: 2630
-  Planet Strength: 2630
-  Space Strength: 0
-  Garrison Strength: 657
-Statistics:
-  Movement Type: foot
-  Move Points: 16
-  Spot: 15
-  Camouflage: 16
-  Agility: 21
-  Armor: 9
-  Psy Defense: 9
-  Rank: 130
-Attacks:
-  Air: 20/17
-  Indirect: 18/18
-  Direct: 17/18
-  Close: 20/16
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 128
-Build Cost: 440
-Build Resource Requirements:
-  Energy: 3
-  Trace: 7
-  Exotica: 1
-  Chemicals: 6
-  Electronics: 11
-  Monopols: 8
-Upgrade Special Forces to Cybercorp at Hospital
-Time to Build / Upgrade: 1
-[15575] Technology Required to Build Unit (52):
-  [15575] Cybercorp (52)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---3--
-Name: Genetic Special Forces
-Nick Name: Gen SF
-Scores & Strengths:
-  Tech Score: 2985
-  Unit Score: 2890
-  Average Score: 2937
-  Stat Strength: 1487
-  Total Strength: 2890
-  Planet Strength: 2890
-  Space Strength: 0
-  Garrison Strength: 700
-Statistics:
-  Movement Type: foot
-  Move Points: 17
-  Spot: 15
-  Camouflage: 17
+  Move Points: 12
+  Spot: 10
+  Camouflage: 8
   Agility: 22
   Armor: 10
   Psy Defense: 10
-  Rank: 136
+  Rank: 87
 Attacks:
-  Air: 20/18
-  Indirect: 19/19
-  Direct: 18/19
-  Close: 20/17
+  Direct: 20/20
+  Close: 21/21
 Load aboard transport: 1
-Can attack on Byzantium Secundus
 Immune to Plague
-Upkeep / Maintenance: 139
-Build Cost: 556
+Upkeep / Maintenance: 30
+Build Cost: 302
 Build Resource Requirements:
-  Chemicals: 2
-  Biochems: 41
-Upgrade Special Forces to Genetic Special Forces at Lab
-Time to Build / Upgrade: 1
-[19610] Technologies Required to Build Unit (52):
+  Food: 5
+  Energy: 19
+  Metal: 3
+  Trace: 12
+  Exotica: 6
+  Chemicals: 44
+  Biochems: 75
+  Electronics: 29
+  Ceramsteel: 4
+Build Genetic Warrior Legion in Lab
+Time to Build / Upgrade: 3
+[8900] Technology Required to Build Unit (25):
   [8900] Genetically-Enhanced Warriors (25)
-  [10710] Special Forces (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
---4--
-Name: Genetic Cybercorp
-Nick Name: Gen Cc
+--2--
+Name: Genetic Warrior Legion (NE)
+Nick Name: Gen War Lgn
 Scores & Strengths:
-  Tech Score: 3516
-  Unit Score: 3287
-  Average Score: 3401
-  Stat Strength: 1633
-  Total Strength: 3287
-  Planet Strength: 3287
+  Tech Score: 3872
+  Unit Score: 5457
+  Average Score: 4665
+  Stat Strength: 2567
+  Total Strength: 5457
+  Planet Strength: 5457
   Space Strength: 0
-  Garrison Strength: 774
+  Garrison Strength: 1190
 Statistics:
   Movement Type: foot
-  Move Points: 18
-  Spot: 16
-  Camouflage: 18
-  Agility: 23
-  Armor: 10
-  Psy Defense: 10
-  Rank: 147
+  Move Points: 21
+  Spot: 14
+  Camouflage: 17
+  Agility: 29
+  Armor: 20
+  Psy Defense: 20
+  Rank: 149
 Attacks:
-  Air: 22/19
-  Indirect: 21/21
-  Direct: 19/21
-  Close: 22/18
+  Direct: 37/37
+  Close: 39/39
 Load aboard transport: 1
-Can attack on Byzantium Secundus
 Immune to Plague
-Upkeep / Maintenance: 167
-Build Cost: 1233
+Upkeep / Maintenance: 371
+Build Cost: 3412
 Build Resource Requirements:
-  Biochems: 47
-Upgrade Cybercorp to Genetic Cybercorp at Lab
-Time to Build / Upgrade: 1
-[24475] Technologies Required to Build Unit (39):
-  [8900] Genetically-Enhanced Warriors (25)
-  [15575] Cybercorp (52)
+  Trace: 2
+  Electronics: 3
+  Ceramsteel: 1
+  Wetware: 27
+  Monopols: 50
+Upgrade Genetic Warrior Legion to Genetic Warrior Legion (NE) at Fusorium
+Time to Build / Upgrade: 2
+[24130] Technology Required to Build Unit (32):
+  [24130] Neumonically-Enhanced Soldiers (32)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

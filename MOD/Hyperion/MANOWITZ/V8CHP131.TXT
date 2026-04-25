@@ -1,518 +1,315 @@
-All units of the unit class Battleship are listed herein (11 in total):
+All units of the unit class Guided Bomb are listed herein (7 in total):
 
 --1--
-Name: Battleship
-Nick Name: NN-BB
+Name: Guided Bomb
+Nick Name: Guided Bomb
 Scores & Strengths:
-  Tech Score: 203
-  Unit Score: 505
-  Average Score: 354
-  Stat Strength: 447
-  Total Strength: 505
-  Planet Strength: 505
+  Tech Score: 458
+  Unit Score: 458
+  Average Score: 458
+  Stat Strength: 363
+  Total Strength: 458
+  Planet Strength: 458
   Space Strength: 0
-  Garrison Strength: 190
+  Garrison Strength: 458
 Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 2
-  Camouflage: 1
-  Agility: 1
-  Armor: 14
-  Psy Defense: 14
-  Rank: 46
+  Movement Type: air
+  Move Points: 1
+  Spot: 0
+  Camouflage: 6
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 23
 Attacks:
-  Indirect: 2/24
-  Direct: 1/10
-Cargo Space: 2
-Load aboard transport: 7
-Upkeep / Maintenance: 53
-Build Cost: 526
+  Indirect: 5/19
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
 Build Resource Requirements:
-  Food: 5
-  Energy: 98
-  Metal: 81
-  Trace: 4
-  Exotica: 4
-  Chemicals: 94
-Build Battleship in Well
-Time to Build / Upgrade: 6
-[835] Technologies Required to Build Unit (97):
-  [230] Hospitals (97)
-  [110] Structural Engineering (99)
-  [170] Fire Control System (89)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
-Counts as planetary flock: YES
+  Food: 7
+  Energy: 34
+  Metal: 1
+  Trace: 18
+  Exotica: 7
+  Chemicals: 34
+  Electronics: 10
+Build Guided Bomb in Chemical Plant
+Time to Build / Upgrade: 2
+[1645] Technologies Required to Build Unit (90):
+  [245] Rotary Engine (92)
+  [1400] Aerial Warfare (87)
 Unit can be disbanded: YES
 
 --2--
-Name: Dreadnought Battleship
-Nick Name: NN-BD
+Name: Glide Bomb
+Nick Name: Glide Bomb
 Scores & Strengths:
-  Tech Score: 213
-  Unit Score: 634
-  Average Score: 424
-  Stat Strength: 554
-  Total Strength: 634
-  Planet Strength: 634
+  Tech Score: 492
+  Unit Score: 492
+  Average Score: 492
+  Stat Strength: 316
+  Total Strength: 492
+  Planet Strength: 492
   Space Strength: 0
-  Garrison Strength: 258
+  Garrison Strength: 284
 Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 2
-  Camouflage: 1
-  Agility: 1
-  Armor: 16
-  Psy Defense: 16
-  Rank: 716
+  Movement Type: air
+  Move Points: 3
+  Spot: 0
+  Camouflage: 4
+  Agility: 17
+  Armor: 1
+  Psy Defense: 1
+  Rank: 32
 Attacks:
-  Indirect: 2/29
-  Direct: 2/11
-Cargo Space: 2
-Load aboard transport: 7
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 114
-Build Cost: 1139
+  Indirect: 8/22
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 8
 Build Resource Requirements:
   Food: 4
-  Energy: 136
-  Metal: 106
-  Trace: 5
-  Exotica: 3
-  Chemicals: 131
-Build Dreadnought Battleship in Well
-Time to Build / Upgrade: 7
-[865] Technologies Required to Build Unit (97):
-  [230] Hospitals (97)
-  [110] Structural Engineering (99)
-  [200] Admiralty Fire Control Table (87)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
-Counts as planetary flock: YES
+  Energy: 27
+  Metal: 1
+  Trace: 13
+  Exotica: 4
+  Chemicals: 27
+  Electronics: 5
+Build Glide Bomb in Chemical Plant
+Time to Build / Upgrade: 2
+[2940] Technologies Required to Build Unit (88):
+  [1540] High-Speed Aerodynamics (89)
+  [1400] Aerial Warfare (87)
 Unit can be disbanded: YES
 
 --3--
-Name: Fast Battleship
-Nick Name: NN-BF
+Name: Flying Bomb
+Nick Name: Flying Bomb
 Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1546
-  Average Score: 1160
-  Stat Strength: 1230
-  Total Strength: 1546
-  Planet Strength: 1546
+  Tech Score: 534
+  Unit Score: 534
+  Average Score: 534
+  Stat Strength: 334
+  Total Strength: 534
+  Planet Strength: 534
   Space Strength: 0
-  Garrison Strength: 488
+  Garrison Strength: 218
 Statistics:
-  Movement Type: naval
-  Move Points: 10
-  Spot: 8
-  Camouflage: 2
-  Agility: 2
-  Armor: 23
-  Psy Defense: 23
-  Rank: 79
+  Movement Type: air
+  Move Points: 6
+  Spot: 0
+  Camouflage: 10
+  Agility: 14
+  Armor: 1
+  Psy Defense: 1
+  Rank: 35
 Attacks:
-  Indirect: 5/22
-  Direct: 10/18
-  Close: 2/13
-Cargo Space: 2
-Load aboard transport: 7
-Upkeep / Maintenance: 43
-Build Cost: 430
+  Indirect: 8/25
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 13
 Build Resource Requirements:
-  Food: 4
-  Energy: 44
-  Metal: 83
-  Trace: 11
-  Exotica: 4
-  Chemicals: 43
-  Biochems: 7
-  Electronics: 7
-Build Fast Battleship in Well
-Time to Build / Upgrade: 4
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
-Counts as planetary flock: YES
+  Food: 5
+  Energy: 41
+  Metal: 1
+  Trace: 21
+  Exotica: 5
+  Chemicals: 44
+  Electronics: 10
+Build Flying Bomb in Chemical Plant
+Time to Build / Upgrade: 2
+[2100] Technologies Required to Build Unit (89):
+  [700] Rockets (90)
+  [1400] Aerial Warfare (87)
 Unit can be disbanded: YES
 
 --4--
-Name: Pocket Battleship
-Nick Name: NN-BP
+Name: Human-Guided Bomb
+Nick Name: HG Bomb
 Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1546
-  Average Score: 1160
-  Stat Strength: 1216
-  Total Strength: 1546
-  Planet Strength: 1546
+  Tech Score: 534
+  Unit Score: 535
+  Average Score: 535
+  Stat Strength: 339
+  Total Strength: 535
+  Planet Strength: 535
   Space Strength: 0
-  Garrison Strength: 515
+  Garrison Strength: 189
 Statistics:
-  Movement Type: naval
-  Move Points: 9
-  Spot: 8
-  Camouflage: 2
-  Agility: 3
-  Armor: 23
-  Psy Defense: 23
-  Rank: 79
+  Movement Type: air
+  Move Points: 8
+  Spot: 6
+  Camouflage: 5
+  Agility: 14
+  Armor: 3
+  Psy Defense: 3
+  Rank: 40
 Attacks:
-  Indirect: 5/24
-  Direct: 8/20
-  Close: 5/10
-Cargo Space: 2
-Load aboard transport: 6
-Upkeep / Maintenance: 44
-Build Cost: 436
+  Indirect: 14/14
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
 Build Resource Requirements:
-  Food: 4
-  Energy: 47
-  Metal: 83
-  Trace: 10
-  Exotica: 4
-  Chemicals: 47
-  Biochems: 6
-  Electronics: 6
-Build Pocket Battleship in Well
-Time to Build / Upgrade: 4
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
-Counts as planetary flock: YES
+  Metal: 4
+  Trace: 28
+  Exotica: 7
+  Chemicals: 21
+  Electronics: 7
+Upgrade Peasant to Human-Guided Bomb at Chemical Plant
+Time to Build / Upgrade: 1
+[2100] Technologies Required to Build Unit (89):
+  [700] Rockets (90)
+  [1400] Aerial Warfare (87)
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Battleship II
-Nick Name: N-BB
+Name: Guided Glide Bomb
+Nick Name: GG Bomb
 Scores & Strengths:
-  Tech Score: 775
-  Unit Score: 1550
-  Average Score: 1162
-  Stat Strength: 1302
-  Total Strength: 1550
-  Planet Strength: 1550
+  Tech Score: 701
+  Unit Score: 703
+  Average Score: 702
+  Stat Strength: 358
+  Total Strength: 703
+  Planet Strength: 703
   Space Strength: 0
-  Garrison Strength: 516
+  Garrison Strength: 351
 Statistics:
-  Movement Type: naval
-  Move Points: 9
-  Spot: 8
-  Camouflage: 1
-  Agility: 2
-  Armor: 24
-  Psy Defense: 24
-  Rank: 74
+  Movement Type: air
+  Move Points: 4
+  Spot: 0
+  Camouflage: 4
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 48
 Attacks:
-  Indirect: 3/28
-  Direct: 8/18
-  Close: 2/10
-Cargo Space: 2
-Load aboard transport: 7
-Upkeep / Maintenance: 46
-Build Cost: 459
+  Indirect: 15/23
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 8
 Build Resource Requirements:
-  Food: 4
-  Energy: 52
-  Metal: 90
-  Trace: 8
-  Exotica: 4
-  Chemicals: 52
-  Biochems: 5
+  Food: 3
+  Energy: 23
+  Trace: 17
+  Exotica: 3
+  Chemicals: 23
   Electronics: 5
-Build Battleship II in Well
-Time to Build / Upgrade: 4
-[2935] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [2725] Naval Capital Ships (88)
-Counts as planetary flock: YES
+Build Guided Glide Bomb in Chemical Plant
+Time to Build / Upgrade: 2
+[4135] Technologies Required to Build Unit (89):
+  [1540] High-Speed Aerodynamics (89)
+  [1195] Naval Warfare (90)
+  [1400] Aerial Warfare (87)
 Unit can be disbanded: YES
 
 --6--
-Name: Guid. Miss. Battleship
-Nick Name: NN-BGM
+Name: Flying Bomb II
+Nick Name: Flying Bomb II
 Scores & Strengths:
-  Tech Score: 1339
-  Unit Score: 2679
-  Average Score: 2009
-  Stat Strength: 2089
-  Total Strength: 2679
-  Planet Strength: 2679
+  Tech Score: 756
+  Unit Score: 758
+  Average Score: 757
+  Stat Strength: 398
+  Total Strength: 758
+  Planet Strength: 758
   Space Strength: 0
-  Garrison Strength: 743
+  Garrison Strength: 239
 Statistics:
-  Movement Type: naval
-  Move Points: 13
-  Spot: 10
-  Camouflage: 4
-  Agility: 2
-  Armor: 30
-  Psy Defense: 30
-  Rank: 108
+  Movement Type: air
+  Move Points: 10
+  Spot: 0
+  Camouflage: 10
+  Agility: 14
+  Armor: 1
+  Psy Defense: 1
+  Rank: 50
 Attacks:
-  Air: 6/25
-  Indirect: 8/30
-  Direct: 8/25
-Cargo Space: 2
-Load aboard transport: 7
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 96
-Build Cost: 964
+  Indirect: 18/20
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 9
 Build Resource Requirements:
-  Food: 3
-  Energy: 62
-  Metal: 48
-  Trace: 7
-  Exotica: 3
-  Chemicals: 86
-  Biochems: 5
+  Food: 4
+  Energy: 22
+  Trace: 26
+  Exotica: 4
+  Chemicals: 23
   Electronics: 7
-  Ceramsteel: 58
-Build Guid. Miss. Battleship in Well
-Time to Build / Upgrade: 6
-[5855] Technology Required to Build Unit (84):
-  [5855] Guided Missile Navalcraft (84)
-Counts as planetary flock: YES
+Build Flying Bomb II in Chemical Plant
+Time to Build / Upgrade: 2
+[3390] Technologies Required to Build Unit (88):
+  [1195] Naval Warfare (90)
+  [1400] Aerial Warfare (87)
+  [795] Missiles (86)
 Unit can be disbanded: YES
 
 --7--
-Name: Amphibious Battleship
-Nick Name: CC-BB
+Name: Laser-Guided Bomb
+Nick Name: LG Bomb
 Scores & Strengths:
-  Tech Score: 2993
-  Unit Score: 2993
-  Average Score: 2993
-  Stat Strength: 2642
-  Total Strength: 2993
-  Planet Strength: 2993
+  Tech Score: 1248
+  Unit Score: 1244
+  Average Score: 1246
+  Stat Strength: 344
+  Total Strength: 1244
+  Planet Strength: 1244
   Space Strength: 0
-  Garrison Strength: 799
+  Garrison Strength: 879
 Statistics:
-  Movement Type: craft
-  Move Points: 14
-  Spot: 10
-  Camouflage: 3
-  Agility: 5
-  Armor: 34
-  Psy Defense: 34
-  Rank: 107
+  Movement Type: air
+  Move Points: 2
+  Spot: 0
+  Camouflage: 7
+  Agility: 17
+  Armor: 1
+  Psy Defense: 1
+  Rank: 82
 Attacks:
-  Indirect: 8/26
-  Direct: 11/13
-Cargo Space: 2
-Load aboard transport: 7
-Upkeep / Maintenance: 73
-Build Cost: 731
+  Indirect: 30/30
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
 Build Resource Requirements:
-  Food: 1
-  Energy: 6
-  Metal: 14
-  Trace: 3
-  Exotica: 1
-  Chemicals: 11
-  Biochems: 13
-  Electronics: 3
-  Ceramsteel: 16
-  Monopols: 23
-Build Amphibious Battleship in Well
-Time to Build / Upgrade: 3
-[26040] Technologies Required to Build Unit (83):
-  [2855] Naval Amphibious Ships (87)
-  [6655] PTS Missile Navalcraft (83)
-  [16530] Space Capital Ships (80)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---8--
-Name: PTS Missile Battleship
-Nick Name: NN-BPTS
-Scores & Strengths:
-  Tech Score: 1474
-  Unit Score: 3685
-  Average Score: 2579
-  Stat Strength: 2780
-  Total Strength: 3685
-  Planet Strength: 3570
-  Space Strength: 2895
-  Garrison Strength: 954
-Statistics:
-  Movement Type: naval
-  Move Points: 14
-  Spot: 10
-  Camouflage: 5
-  Agility: 3
-  Armor: 35
-  Psy Defense: 35
-  Rank: 135
-Attacks:
-  Ranged Space: 5/23
-  Air: 15/30
-  Indirect: 10/34
-Cargo Space: 2
-Load aboard transport: 8
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 139
-Build Cost: 1385
-Build Resource Requirements:
-  Food: 3
-  Energy: 68
-  Metal: 59
-  Trace: 11
-  Exotica: 4
-  Chemicals: 99
-  Biochems: 7
-  Electronics: 11
-  Ceramsteel: 74
-Build PTS Missile Battleship in Well
-Time to Build / Upgrade: 7
-[6655] Technology Required to Build Unit (83):
-  [6655] PTS Missile Navalcraft (83)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---9--
-Name: Nuclear Battleship
-Nick Name: NN-BBN
-Scores & Strengths:
-  Tech Score: 1579
-  Unit Score: 4738
-  Average Score: 3158
-  Stat Strength: 3598
-  Total Strength: 4738
-  Planet Strength: 4738
-  Space Strength: 0
-  Garrison Strength: 1223
-Statistics:
-  Movement Type: naval
-  Move Points: 15
-  Spot: 11
-  Camouflage: 6
-  Agility: 4
-  Armor: 40
-  Psy Defense: 40
-  Rank: 140
-Attacks:
-  Air: 10/30
-  Indirect: 12/40
-  Direct: 12/30
-Cargo Space: 2
-Load aboard transport: 7
-Upkeep / Maintenance: 172
-Build Cost: 1722
-Build Resource Requirements:
-  Food: 4
-  Energy: 83
-  Metal: 72
-  Trace: 12
-  Exotica: 4
-  Chemicals: 123
-  Biochems: 7
-  Electronics: 12
-  Ceramsteel: 93
-Build Nuclear Battleship in Well
-Time to Build / Upgrade: 9
-[7295] Technology Required to Build Unit (81):
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---10--
-Name: Meson Amphibious Battleship
-Nick Name: CC-MBB
-Scores & Strengths:
-  Tech Score: 5641
-  Unit Score: 5641
-  Average Score: 5641
-  Stat Strength: 4706
-  Total Strength: 5641
-  Planet Strength: 5191
-  Space Strength: 5156
-  Garrison Strength: 1297
-Statistics:
-  Movement Type: craft
-  Move Points: 16
-  Spot: 12
-  Camouflage: 5
-  Agility: 7
-  Armor: 46
-  Psy Defense: 46
-  Rank: 170
-Attacks:
-  Ranged Space: 15/30
-  Indirect: 10/29
-  Direct: 13/15
-Cargo Space: 2
-Load aboard transport: 8
-Upkeep / Maintenance: 107
-Build Cost: 335
-Build Resource Requirements:
-  Energy: 1
-  Chemicals: 2
+  Food: 2
+  Energy: 30
+  Trace: 30
+  Exotica: 2
+  Chemicals: 30
+  Biochems: 2
   Electronics: 5
-  Monopols: 2
-Upgrade Amphibious Battleship to Meson Amphibious Battleship at Well
-Time to Build / Upgrade: 1
-[70095] Technologies Required to Build Unit (74):
-  [2855] Naval Amphibious Ships (87)
-  [27875] PTS Meson Navalcraft (74)
-  [39365] Jump Capital Ships (61)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---11--
-Name: Hover Battleship
-Nick Name: Armageddon
-Scores & Strengths:
-  Tech Score: 6233
-  Unit Score: 6437
-  Average Score: 6335
-  Stat Strength: 5637
-  Total Strength: 6437
-  Planet Strength: 6437
-  Space Strength: 0
-  Garrison Strength: 1517
-Statistics:
-  Movement Type: hover
-  Move Points: 18
-  Spot: 14
-  Camouflage: 6
-  Agility: 9
-  Armor: 50
-  Psy Defense: 50
-  Rank: 825
-Attacks:
-  Air: 14/25
-  Indirect: 9/50
-Cargo Space: 2
-Load aboard transport: 7
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 310
-Build Cost: 3098
-Build Resource Requirements:
-  Food: 1
-  Energy: 13
-  Metal: 11
-  Trace: 2
-  Exotica: 1
-  Chemicals: 24
-  Biochems: 26
-  Electronics: 9
-  Ceramsteel: 21
-  Wetware: 2
-  Monopols: 48
-Build Hover Battleship in Well
-Time to Build / Upgrade: 4
-[45520] Technology Required to Build Unit (53):
-  [45520] Hover Navalcraft (53)
-Counts as planetary flock: YES
+Build Laser-Guided Bomb in Chemical Plant
+Time to Build / Upgrade: 2
+[6435] Technologies Required to Build Unit (83):
+  [1900] LASER (76)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2725] Naval Capital Ships (88)
 Unit can be disbanded: YES

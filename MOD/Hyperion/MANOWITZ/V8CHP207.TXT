@@ -1,126 +1,525 @@
-All units of the unit class Pestulator Artillery are listed herein (3 in total):
+All units of the unit class Space Frigate are listed herein (11 in total):
 
 --1--
-Name: Pestulator Artillery
-Nick Name: Pestulator
+Name: Space Frigate
+Nick Name: SS-FF
 Scores & Strengths:
-  Tech Score: 3200
-  Unit Score: 3199
-  Average Score: 3199
-  Stat Strength: 2179
-  Total Strength: 3199
-  Planet Strength: 3199
-  Space Strength: 0
-  Garrison Strength: 754
+  Tech Score: 2580
+  Unit Score: 2580
+  Average Score: 2580
+  Stat Strength: 1648
+  Total Strength: 2580
+  Planet Strength: 0
+  Space Strength: 2580
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
+  Movement Type: space
   Move Points: 18
   Spot: 12
-  Camouflage: 10
-  Agility: 19
-  Armor: 25
-  Psy Defense: 25
-  Rank: 139
+  Camouflage: 4
+  Agility: 14
+  Armor: 22
+  Psy Defense: 22
+  Rank: 147
 Attacks:
-  Indirect: 20/51
-Load aboard transport: 2
+  Direct Space: 22/26
+  Close Space: 18/20
+Cargo Space: 1
+Load aboard transport: 4
 Immune to Plague
-Causes Tactical Plague
-Upkeep / Maintenance: 252
-Build Cost: 2517
+Upkeep / Maintenance: 41
+Build Cost: 413
 Build Resource Requirements:
-  Food: 2
-  Energy: 21
-  Metal: 11
-  Trace: 4
-  Exotica: 2
-  Chemicals: 48
-  Biochems: 36
-  Electronics: 12
-  Ceramsteel: 14
-  Monopols: 59
-Build Pestulator Artillery in Factory
-Time to Build / Upgrade: 5
-[18710] Technology Required to Build Unit (29):
-  [18710] Bio-Payload Artillery (29)
+  Food: 3
+  Energy: 20
+  Metal: 14
+  Trace: 14
+  Exotica: 4
+  Chemicals: 33
+  Biochems: 26
+  Electronics: 21
+  Ceramsteel: 15
+Build Space Frigate in Starport
+Time to Build / Upgrade: 3
+[14045] Technology Required to Build Unit (84):
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Shock Pestulator Artillery
-Nick Name: Shockulator
+Name: Jump Frigate
+Nick Name: JJ-FF
 Scores & Strengths:
-  Tech Score: 4099
-  Unit Score: 3992
-  Average Score: 4046
-  Stat Strength: 2658
-  Total Strength: 3992
-  Planet Strength: 3992
-  Space Strength: 0
-  Garrison Strength: 892
+  Tech Score: 3322
+  Unit Score: 3279
+  Average Score: 3300
+  Stat Strength: 2069
+  Total Strength: 3279
+  Planet Strength: 0
+  Space Strength: 3279
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
+  Movement Type: jump
   Move Points: 20
   Spot: 13
-  Camouflage: 11
-  Agility: 20
-  Armor: 28
-  Psy Defense: 28
-  Rank: 157
+  Camouflage: 5
+  Agility: 15
+  Armor: 25
+  Psy Defense: 25
+  Rank: 167
 Attacks:
-  Indirect: 23/58
-Load aboard transport: 2
+  Direct Space: 25/30
+  Close Space: 20/23
+Cargo Space: 1
+Load aboard transport: 4
 Immune to Plague
-Causes Tactical Plague
-Upkeep / Maintenance: 195
+Upkeep / Maintenance: 532
+Build Cost: 5323
 Build Resource Requirements:
-  Wetware: 2
-Upgrade Pestulator Artillery to Shock Pestulator Artillery at Factory
-Time to Build / Upgrade: 1
-[50430] Technologies Required to Build Unit (41):
-  [16745] Wetware (23)
-  [14975] Power Hovertanks (70)
-  [18710] Bio-Payload Artillery (29)
+  Food: 3
+  Energy: 15
+  Metal: 12
+  Trace: 12
+  Exotica: 3
+  Chemicals: 24
+  Biochems: 20
+  Electronics: 19
+  Ceramsteel: 13
+  Monopols: 33
+  Singularities: 5
+Build Jump Frigate in Starport
+Time to Build / Upgrade: 4
+[25805] Technologies Required to Build Unit (73):
+  [4285] Jump Drives (70)
+  [7475] Cold Fusion Cells (66)
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Stealth Pestulator Artillery
-Nick Name: Ghostulator
+Name: Fusion Space Frigate
+Nick Name: SS-FFF
 Scores & Strengths:
-  Tech Score: 5364
-  Unit Score: 5359
-  Average Score: 5362
-  Stat Strength: 4039
-  Total Strength: 5359
-  Planet Strength: 5359
-  Space Strength: 0
-  Garrison Strength: 1229
+  Tech Score: 3347
+  Unit Score: 3343
+  Average Score: 3345
+  Stat Strength: 2110
+  Total Strength: 3343
+  Planet Strength: 0
+  Space Strength: 3343
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 19
-  Spot: 14
-  Camouflage: 30
-  Agility: 30
-  Armor: 29
-  Psy Defense: 29
-  Rank: 175
+  Movement Type: space
+  Move Points: 21
+  Spot: 13
+  Camouflage: 5
+  Agility: 15
+  Armor: 25
+  Psy Defense: 25
+  Rank: 168
 Attacks:
-  Indirect: 24/55
-Load aboard transport: 2
+  Direct Space: 25/30
+  Close Space: 21/23
+Cargo Space: 1
+Load aboard transport: 4
 Immune to Plague
-Causes Tactical Plague
-Upkeep / Maintenance: 202
+Upkeep / Maintenance: 257
+Build Cost: 2570
 Build Resource Requirements:
-  Trace: 6
-  Electronics: 10
-  Wetware: 4
-Upgrade Pestulator Artillery to Stealth Pestulator Artillery at Factory
-Time to Build / Upgrade: 1
-[37265] Technology Required to Build Unit (33):
-  [37265] Neumonic Land Vehicles (33)
+  Food: 3
+  Energy: 17
+  Metal: 13
+  Trace: 13
+  Exotica: 3
+  Chemicals: 28
+  Biochems: 22
+  Electronics: 20
+  Ceramsteel: 14
+  Monopols: 35
+Build Fusion Space Frigate in Starport
+Time to Build / Upgrade: 4
+[22660] Technologies Required to Build Unit (74):
+  [8615] Fusion Beam (63)
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Jump Frigate II
+Nick Name: JJ-FF2
+Scores & Strengths:
+  Tech Score: 4325
+  Unit Score: 4124
+  Average Score: 4225
+  Stat Strength: 2574
+  Total Strength: 4124
+  Planet Strength: 0
+  Space Strength: 4124
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 23
+  Spot: 14
+  Camouflage: 5
+  Agility: 16
+  Armor: 28
+  Psy Defense: 28
+  Rank: 187
+Attacks:
+  Direct Space: 28/34
+  Close Space: 23/26
+Cargo Space: 1
+Load aboard transport: 4
+Immune to Plague
+Upkeep / Maintenance: 617
+Build Cost: 6170
+Build Resource Requirements:
+  Food: 2
+  Energy: 13
+  Metal: 7
+  Trace: 13
+  Exotica: 3
+  Chemicals: 22
+  Biochems: 25
+  Electronics: 26
+  Ceramsteel: 10
+  Monopols: 32
+  Singularities: 5
+Build Jump Frigate II in Starport
+Time to Build / Upgrade: 4
+[27965] Technology Required to Build Unit (75):
+  [27965] Jump Escorts (75)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Cybermorph Space Frigate
+Nick Name: JJ-FF-Cm
+Scores & Strengths:
+  Tech Score: 7174
+  Unit Score: 6816
+  Average Score: 6995
+  Stat Strength: 5508
+  Total Strength: 6816
+  Planet Strength: 0
+  Space Strength: 6816
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 28
+  Spot: 22
+  Camouflage: 16
+  Agility: 44
+  Armor: 32
+  Psy Defense: 32
+  Rank: 207
+Attacks:
+  Direct Space: 26/30
+  Close Space: 22/24
+Cargo Space: 1
+Load aboard transport: 4
+Immune to Plague
+Upkeep / Maintenance: 875
+Build Cost: 8752
+Build Resource Requirements:
+  Food: 2
+  Energy: 9
+  Metal: 5
+  Trace: 6
+  Exotica: 2
+  Chemicals: 13
+  Biochems: 23
+  Electronics: 14
+  Ceramsteel: 7
+  Wetware: 10
+  Monopols: 23
+  Singularities: 5
+Cybermorph Space Frigate cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Stealth Corsair
+Nick Name: JJ-Co-St
+Scores & Strengths:
+  Tech Score: 7207
+  Unit Score: 7207
+  Average Score: 7207
+  Stat Strength: 4577
+  Total Strength: 7207
+  Planet Strength: 0
+  Space Strength: 7207
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 20
+  Spot: 28
+  Camouflage: 40
+  Agility: 21
+  Armor: 26
+  Psy Defense: 26
+  Rank: 264
+Attacks:
+  Direct Space: 46/30
+  Close Space: 50/25
+Cargo Space: 1
+Load aboard transport: 3
+Immune to Plague
+Upkeep / Maintenance: 833
+Build Cost: 8332
+Build Resource Requirements:
+  Food: 1
+  Energy: 6
+  Metal: 3
+  Trace: 24
+  Exotica: 2
+  Chemicals: 9
+  Biochems: 28
+  Electronics: 39
+  Ceramsteel: 4
+  Wetware: 23
+  Monopols: 14
+  Singularities: 4
+Stealth Corsair cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Stealth Fusion Corsair
+Nick Name: JJ-Co-St-Fu
+Scores & Strengths:
+  Tech Score: 7481
+  Unit Score: 7482
+  Average Score: 7482
+  Stat Strength: 4577
+  Total Strength: 7482
+  Planet Strength: 0
+  Space Strength: 7482
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 20
+  Spot: 28
+  Camouflage: 40
+  Agility: 21
+  Armor: 26
+  Psy Defense: 26
+  Rank: 273
+Attacks:
+  Direct Space: 47/35
+  Close Space: 42/30
+Cargo Space: 1
+Load aboard transport: 3
+Immune to Plague
+Upkeep / Maintenance: 801
+Build Cost: 8005
+Build Resource Requirements:
+  Food: 1
+  Energy: 6
+  Metal: 3
+  Trace: 13
+  Exotica: 1
+  Chemicals: 10
+  Biochems: 22
+  Electronics: 27
+  Ceramsteel: 4
+  Wetware: 15
+  Monopols: 15
+  Singularities: 4
+Stealth Fusion Corsair cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Cloaking Space Frigate
+Nick Name: SS-CFF
+Scores & Strengths:
+  Tech Score: 7481
+  Unit Score: 7486
+  Average Score: 7484
+  Stat Strength: 6070
+  Total Strength: 7486
+  Planet Strength: 0
+  Space Strength: 7486
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 20
+  Spot: 12
+  Camouflage: 50
+  Agility: 24
+  Armor: 35
+  Psy Defense: 35
+  Rank: 220
+Attacks:
+  Direct Space: 24/35
+  Close Space: 36/16
+Cargo Space: 1
+Load aboard transport: 4
+Immune to Plague
+Upkeep / Maintenance: 328
+Build Cost: 3284
+Build Resource Requirements:
+  Food: 1
+  Energy: 6
+  Metal: 5
+  Trace: 13
+  Exotica: 1
+  Chemicals: 10
+  Biochems: 20
+  Electronics: 31
+  Ceramsteel: 9
+  Wetware: 8
+  Monopols: 19
+Build Cloaking Space Frigate in Starport
+Time to Build / Upgrade: 3
+[58065] Technology Required to Build Unit (48):
+  [58065] Cloaked Escortcraft (48)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Cyber Stealth Corsair
+Nick Name: JJ-Co-CySt
+Scores & Strengths:
+  Tech Score: 7598
+  Unit Score: 7598
+  Average Score: 7598
+  Stat Strength: 6126
+  Total Strength: 7598
+  Planet Strength: 0
+  Space Strength: 7598
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 22
+  Spot: 22
+  Camouflage: 44
+  Agility: 42
+  Armor: 27
+  Psy Defense: 27
+  Rank: 230
+Attacks:
+  Direct Space: 38/26
+  Close Space: 22/22
+Cargo Space: 1
+Load aboard transport: 3
+Immune to Plague
+Upkeep / Maintenance: 774
+Build Cost: 7740
+Build Resource Requirements:
+  Food: 1
+  Energy: 4
+  Metal: 2
+  Trace: 14
+  Exotica: 1
+  Chemicals: 6
+  Biochems: 13
+  Electronics: 23
+  Ceramsteel: 3
+  Wetware: 9
+  Monopols: 10
+  Singularities: 5
+Cyber Stealth Corsair cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Gate Frigate
+Nick Name: Irradiator
+Scores & Strengths:
+  Tech Score: 7603
+  Unit Score: 7603
+  Average Score: 7603
+  Stat Strength: 5057
+  Total Strength: 7603
+  Planet Strength: 6635
+  Space Strength: 6025
+  Garrison Strength: 1155
+Statistics:
+  Movement Type: gate
+  Move Points: 33
+  Spot: 24
+  Camouflage: 20
+  Agility: 20
+  Armor: 36
+  Psy Defense: 36
+  Rank: 229
+Attacks:
+  Direct Space: 30/20
+  Close Space: 23/16
+  Water: 18/21
+  Air: 18/18
+  Indirect: 30/18
+  Direct: 24/14
+Cargo Space: 1
+Load aboard transport: 4
+Immune to Plague
+Upkeep / Maintenance: 1049
+Build Cost: 10486
+Build Resource Requirements:
+  Food: 2
+  Energy: 9
+  Metal: 6
+  Trace: 10
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 24
+  Electronics: 19
+  Ceramsteel: 9
+  Wetware: 14
+  Monopols: 29
+  Singularities: 6
+Gate Frigate cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Psyber Frigate
+Nick Name: LL-FF-Psyber
+Scores & Strengths:
+  Tech Score: 8659
+  Unit Score: 8659
+  Average Score: 8659
+  Stat Strength: 4250
+  Total Strength: 8659
+  Planet Strength: 7071
+  Space Strength: 6846
+  Garrison Strength: 1443
+Statistics:
+  Movement Type: lander
+  Move Points: 24
+  Spot: 22
+  Camouflage: 16
+  Agility: 22
+  Armor: 35
+  Psy Defense: 35
+  Rank: 261
+Attacks:
+  Direct Space: 28/27
+  Close Space: 32/26
+  Psychic: 28/36
+  Air: 24/25
+  Direct: 25/25
+  Close: 28/21
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 954
+Build Cost: 9538
+Build Resource Requirements:
+  Food: 1
+  Energy: 6
+  Metal: 3
+  Trace: 6
+  Exotica: 1
+  Chemicals: 9
+  Biochems: 18
+  Electronics: 14
+  Ceramsteel: 4
+  Wetware: 8
+  Monopols: 15
+  Gems: 23
+  Singularities: 5
+Psyber Frigate cannot be built
+Counts as planetary flock: YES
 Unit can be disbanded: YES

@@ -1,172 +1,346 @@
-All units of the unit class Self-Propelled Anti-Air Gun are listed herein (4 in total):
+All units of the unit class Reconnaissance Monoplane are listed herein (8 in total):
 
 --1--
-Name: Self-Propelled Anti-Air Gun
-Nick Name: Tornado
+Name: Reconnaissance Monoplane
+Nick Name: A-MR
 Scores & Strengths:
-  Tech Score: 292
-  Unit Score: 291
-  Average Score: 292
-  Stat Strength: 227
-  Total Strength: 291
-  Planet Strength: 291
+  Tech Score: 194
+  Unit Score: 287
+  Average Score: 240
+  Stat Strength: 287
+  Total Strength: 287
+  Planet Strength: 287
   Space Strength: 0
-  Garrison Strength: 130
+  Garrison Strength: 86
 Statistics:
-  Movement Type: tread
-  Move Points: 5
-  Spot: 3
-  Camouflage: 2
-  Agility: 3
-  Armor: 12
-  Psy Defense: 6
-  Rank: 36
-Attacks:
-  Air: 4/16
+  Movement Type: air
+  Move Points: 11
+  Spot: 8
+  Camouflage: 3
+  Agility: 8
+  Armor: 5
+  Psy Defense: 2
+  Rank: 20
 Load aboard transport: 2
-Upkeep / Maintenance: 6
-Build Cost: 57
+Upkeep / Maintenance: 9
+Build Cost: 91
 Build Resource Requirements:
-  Food: 3
-  Energy: 31
-  Metal: 39
-  Trace: 7
-  Exotica: 3
-  Chemicals: 31
-  Electronics: 5
-Build Self-Propelled Anti-Air Gun in Factory
-Time to Build / Upgrade: 2
-[770] Technology Required to Build Unit (92):
-  [770] Self-Propelled Weaponry (92)
+  Food: 26
+  Energy: 23
+  Metal: 20
+  Trace: 21
+  Exotica: 26
+  Chemicals: 27
+  Electronics: 16
+Build Reconnaissance Monoplane in Factory
+Time to Build / Upgrade: 3
+[445] Technology Required to Build Unit (94):
+  [445] Monoplane (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Self-Propelled AAG II
-Nick Name: Tornado II
+Name: Attack Fighter Monoplane
+Nick Name: A-MAF
 Scores & Strengths:
-  Tech Score: 530
-  Unit Score: 506
-  Average Score: 518
-  Stat Strength: 396
-  Total Strength: 506
-  Planet Strength: 506
+  Tech Score: 194
+  Unit Score: 384
+  Average Score: 289
+  Stat Strength: 321
+  Total Strength: 384
+  Planet Strength: 384
   Space Strength: 0
-  Garrison Strength: 191
+  Garrison Strength: 135
 Statistics:
-  Movement Type: tread
-  Move Points: 7
-  Spot: 3
-  Camouflage: 3
-  Agility: 3
-  Armor: 16
-  Psy Defense: 8
-  Rank: 47
+  Movement Type: air
+  Move Points: 8
+  Spot: 8
+  Camouflage: 2
+  Agility: 12
+  Armor: 6
+  Psy Defense: 3
+  Rank: 37
 Attacks:
-  Air: 5/22
+  Air: 4/5
+  Indirect: 5/5
+  Direct: 3/6
 Load aboard transport: 2
-Upkeep / Maintenance: 8
-Build Cost: 79
+Upkeep / Maintenance: 13
+Build Cost: 133
 Build Resource Requirements:
-  Food: 3
-  Energy: 36
-  Metal: 36
-  Trace: 5
-  Exotica: 3
-  Chemicals: 60
-  Electronics: 6
-Build Self-Propelled AAG II in Factory
-Time to Build / Upgrade: 3
-[1700] Technology Required to Build Unit (88):
-  [1700] Main Battle Tank (88)
+  Food: 26
+  Energy: 37
+  Metal: 31
+  Trace: 38
+  Exotica: 25
+  Chemicals: 43
+  Electronics: 25
+Build Attack Fighter Monoplane in Factory
+Time to Build / Upgrade: 4
+[445] Technology Required to Build Unit (94):
+  [445] Monoplane (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Self-Propelled AAG III
-Nick Name: Tornado III
+Name: Bomber Monoplane
+Nick Name: A-MB
 Scores & Strengths:
-  Tech Score: 1226
-  Unit Score: 1181
-  Average Score: 1203
-  Stat Strength: 917
-  Total Strength: 1181
-  Planet Strength: 1181
+  Tech Score: 194
+  Unit Score: 384
+  Average Score: 289
+  Stat Strength: 284
+  Total Strength: 384
+  Planet Strength: 384
   Space Strength: 0
-  Garrison Strength: 373
+  Garrison Strength: 121
 Statistics:
-  Movement Type: tread
+  Movement Type: air
   Move Points: 10
-  Spot: 4
-  Camouflage: 4
-  Agility: 4
-  Armor: 25
-  Psy Defense: 12
-  Rank: 71
+  Spot: 6
+  Camouflage: 2
+  Agility: 8
+  Armor: 8
+  Psy Defense: 4
+  Rank: 42
 Attacks:
-  Air: 8/33
-Load aboard transport: 2
-Upkeep / Maintenance: 12
-Build Cost: 122
+  Air: 2/10
+  Indirect: 4/20
+Load aboard transport: 3
+Upkeep / Maintenance: 21
+Build Cost: 209
 Build Resource Requirements:
-  Food: 2
-  Energy: 33
-  Metal: 21
-  Trace: 3
-  Exotica: 2
-  Chemicals: 66
-  Electronics: 18
-  Ceramsteel: 28
-Build Self-Propelled AAG III in Factory
-Time to Build / Upgrade: 3
-[5205] Technology Required to Build Unit (84):
-  [5205] Advanced Battle Tanks (84)
+  Food: 21
+  Energy: 111
+  Metal: 55
+  Trace: 20
+  Exotica: 21
+  Chemicals: 129
+  Electronics: 12
+Build Bomber Monoplane in Factory
+Time to Build / Upgrade: 6
+[445] Technology Required to Build Unit (94):
+  [445] Monoplane (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Self-Propelled AAG IV
-Nick Name: Tornado IV
+Name: Fighter Monoplane
+Nick Name: A-MF
 Scores & Strengths:
-  Tech Score: 2510
-  Unit Score: 2424
-  Average Score: 2467
-  Stat Strength: 1860
-  Total Strength: 2424
-  Planet Strength: 2424
+  Tech Score: 194
+  Unit Score: 384
+  Average Score: 289
+  Stat Strength: 315
+  Total Strength: 384
+  Planet Strength: 384
   Space Strength: 0
-  Garrison Strength: 625
+  Garrison Strength: 128
 Statistics:
-  Movement Type: tread
-  Move Points: 15
-  Spot: 5
-  Camouflage: 6
-  Agility: 5
-  Armor: 35
-  Psy Defense: 18
-  Rank: 103
+  Movement Type: air
+  Move Points: 9
+  Spot: 8
+  Camouflage: 2
+  Agility: 11
+  Armor: 6
+  Psy Defense: 3
+  Rank: 38
 Attacks:
-  Air: 12/47
+  Air: 6/10
+  Indirect: 3/3
 Load aboard transport: 2
-Upkeep / Maintenance: 143
-Build Cost: 1425
+Upkeep / Maintenance: 14
+Build Cost: 138
 Build Resource Requirements:
-  Food: 1
-  Energy: 21
-  Metal: 11
-  Trace: 2
-  Exotica: 1
-  Chemicals: 40
-  Electronics: 12
-  Ceramsteel: 18
-  Monopols: 61
-Build Self-Propelled AAG IV in Factory
+  Food: 26
+  Energy: 42
+  Metal: 31
+  Trace: 35
+  Exotica: 26
+  Chemicals: 49
+  Electronics: 25
+Build Fighter Monoplane in Factory
 Time to Build / Upgrade: 4
-[13535] Technology Required to Build Unit (74):
-  [13535] Powered Ceramsteel Tanks (74)
+[445] Technology Required to Build Unit (94):
+  [445] Monoplane (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Trench Strafer Monoplane
+Nick Name: A-MTS
+Scores & Strengths:
+  Tech Score: 194
+  Unit Score: 384
+  Average Score: 289
+  Stat Strength: 303
+  Total Strength: 384
+  Planet Strength: 384
+  Space Strength: 0
+  Garrison Strength: 145
+Statistics:
+  Movement Type: air
+  Move Points: 7
+  Spot: 6
+  Camouflage: 2
+  Agility: 13
+  Armor: 6
+  Psy Defense: 3
+  Rank: 32
+Attacks:
+  Air: 2/6
+  Direct: 3/9
+  Close: 7/6
+Load aboard transport: 2
+Upkeep / Maintenance: 15
+Build Cost: 146
+Build Resource Requirements:
+  Food: 22
+  Energy: 50
+  Metal: 31
+  Trace: 38
+  Exotica: 22
+  Chemicals: 58
+  Electronics: 28
+Build Trench Strafer Monoplane in Factory
+Time to Build / Upgrade: 5
+[445] Technology Required to Build Unit (94):
+  [445] Monoplane (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Battle Monoplane
+Nick Name: A-MBttl
+Scores & Strengths:
+  Tech Score: 265
+  Unit Score: 527
+  Average Score: 396
+  Stat Strength: 422
+  Total Strength: 527
+  Planet Strength: 527
+  Space Strength: 0
+  Garrison Strength: 175
+Statistics:
+  Movement Type: air
+  Move Points: 9
+  Spot: 6
+  Camouflage: 2
+  Agility: 16
+  Armor: 6
+  Psy Defense: 3
+  Rank: 45
+Attacks:
+  Air: 7/8
+  Indirect: 7/7
+Load aboard transport: 2
+Upkeep / Maintenance: 10
+Build Cost: 99
+Build Resource Requirements:
+  Food: 17
+  Energy: 29
+  Metal: 17
+  Trace: 30
+  Exotica: 17
+  Chemicals: 35
+  Electronics: 17
+Build Battle Monoplane in Factory
+Time to Build / Upgrade: 4
+[1055] Technologies Required to Build Unit (94):
+  [445] Monoplane (94)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Large Bomber Monoplane
+Nick Name: A-MLB
+Scores & Strengths:
+  Tech Score: 265
+  Unit Score: 527
+  Average Score: 396
+  Stat Strength: 410
+  Total Strength: 527
+  Planet Strength: 527
+  Space Strength: 0
+  Garrison Strength: 158
+Statistics:
+  Movement Type: air
+  Move Points: 11
+  Spot: 6
+  Camouflage: 2
+  Agility: 13
+  Armor: 8
+  Psy Defense: 4
+  Rank: 47
+Attacks:
+  Air: 3/5
+  Indirect: 6/17
+Load aboard transport: 4
+Upkeep / Maintenance: 12
+Build Cost: 117
+Build Resource Requirements:
+  Food: 16
+  Energy: 48
+  Metal: 30
+  Trace: 19
+  Exotica: 16
+  Chemicals: 58
+  Electronics: 11
+Build Large Bomber Monoplane in Factory
+Time to Build / Upgrade: 4
+[1055] Technologies Required to Build Unit (94):
+  [445] Monoplane (94)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Giant Bomber Monoplane
+Nick Name: A-MGB
+Scores & Strengths:
+  Tech Score: 265
+  Unit Score: 528
+  Average Score: 396
+  Stat Strength: 409
+  Total Strength: 528
+  Planet Strength: 528
+  Space Strength: 0
+  Garrison Strength: 152
+Statistics:
+  Movement Type: air
+  Move Points: 12
+  Spot: 6
+  Camouflage: 2
+  Agility: 10
+  Armor: 10
+  Psy Defense: 5
+  Rank: 48
+Attacks:
+  Indirect: 7/17
+Load aboard transport: 5
+Upkeep / Maintenance: 11
+Build Cost: 113
+Build Resource Requirements:
+  Food: 15
+  Energy: 44
+  Metal: 47
+  Trace: 16
+  Exotica: 15
+  Chemicals: 53
+  Electronics: 7
+Build Giant Bomber Monoplane in Factory
+Time to Build / Upgrade: 4
+[1055] Technologies Required to Build Unit (94):
+  [445] Monoplane (94)
+  [610] Air-Air Rockets (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

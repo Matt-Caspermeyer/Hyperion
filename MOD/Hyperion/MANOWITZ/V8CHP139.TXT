@@ -1,635 +1,553 @@
-All units of the unit class PTS Missile Launcher are listed herein (14 in total):
+All units of the unit class Personal Surveillance Drone are listed herein (12 in total):
 
 --1--
-Name: PTS Missile Launcher
-Nick Name: PTS Missile
+Name: Personal Surveillance Drone
+Nick Name: Drone (PR)
 Scores & Strengths:
-  Tech Score: 587
-  Unit Score: 585
-  Average Score: 586
-  Stat Strength: 440
-  Total Strength: 585
-  Planet Strength: 520
-  Space Strength: 505
-  Garrison Strength: 367
+  Tech Score: 2194
+  Unit Score: 557
+  Average Score: 1376
+  Stat Strength: 557
+  Total Strength: 557
+  Planet Strength: 557
+  Space Strength: 0
+  Garrison Strength: 160
 Statistics:
-  Movement Type: tread
-  Move Points: 2
-  Spot: 6
-  Camouflage: 2
-  Agility: 2
-  Armor: 14
-  Psy Defense: 14
-  Rank: 58
-Attacks:
-  Ranged Space: 5/13
-  Air: 5/8
-  Indirect: 4/10
-Load aboard transport: 3
-Upkeep / Maintenance: 6
-Build Cost: 57
+  Movement Type: air
+  Move Points: 12
+  Spot: 12
+  Camouflage: 5
+  Agility: 8
+  Armor: 6
+  Psy Defense: 12
+  Rank: 45
+Load aboard transport: 1
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 3
+Build Cost: 30
 Build Resource Requirements:
   Food: 2
-  Energy: 21
-  Metal: 42
-  Trace: 7
+  Energy: 3
+  Metal: 3
+  Trace: 3
   Exotica: 2
-  Chemicals: 31
-  Electronics: 7
-Build PTS Missile Launcher in Factory
-Time to Build / Upgrade: 2
-[1950] Technology Required to Build Unit (88):
-  [1950] PTS Missile Launcher (88)
+  Chemicals: 5
+  Electronics: 5
+  Ceramsteel: 7
+Build Personal Surveillance Drone in Factory
+Time to Build / Upgrade: 1
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: PTS Rocket Launcher
-Nick Name: PTS RL
+Name: Bomber Drone
+Nick Name: Drone (B)
 Scores & Strengths:
-  Tech Score: 587
-  Unit Score: 586
-  Average Score: 586
-  Stat Strength: 211
-  Total Strength: 586
-  Planet Strength: 481
-  Space Strength: 316
-  Garrison Strength: 215
+  Tech Score: 2194
+  Unit Score: 2190
+  Average Score: 2192
+  Stat Strength: 1530
+  Total Strength: 2190
+  Planet Strength: 2190
+  Space Strength: 0
+  Garrison Strength: 547
 Statistics:
-  Movement Type: tread
-  Move Points: 5
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 9
-  Psy Defense: 9
-  Rank: 73
+  Movement Type: air
+  Move Points: 16
+  Spot: 14
+  Camouflage: 7
+  Agility: 7
+  Armor: 14
+  Psy Defense: 28
+  Rank: 114
 Attacks:
-  Ranged Space: 5/21
-  Air: 11/15
-  Indirect: 5/21
-Load aboard transport: 3
-Upkeep / Maintenance: 13
-Build Cost: 125
+  Indirect: 15/44
+Load aboard transport: 2
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 21
+Build Cost: 212
 Build Resource Requirements:
-  Food: 2
-  Energy: 68
-  Metal: 17
-  Trace: 13
-  Exotica: 2
-  Chemicals: 102
-  Electronics: 13
-Build PTS Rocket Launcher in Factory
+  Food: 4
+  Energy: 34
+  Metal: 15
+  Trace: 8
+  Exotica: 4
+  Chemicals: 60
+  Electronics: 7
+  Ceramsteel: 37
+Build Bomber Drone in Factory
 Time to Build / Upgrade: 3
-[1950] Technology Required to Build Unit (88):
-  [1950] PTS Missile Launcher (88)
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: PTS Multi-Rocket Artillery
-Nick Name: PTS MRA
+Name: Patrol Drone
+Nick Name: Drone (P)
 Scores & Strengths:
-  Tech Score: 641
-  Unit Score: 639
-  Average Score: 640
-  Stat Strength: 260
-  Total Strength: 639
-  Planet Strength: 571
-  Space Strength: 328
-  Garrison Strength: 233
+  Tech Score: 2194
+  Unit Score: 2191
+  Average Score: 2193
+  Stat Strength: 1257
+  Total Strength: 2191
+  Planet Strength: 2191
+  Space Strength: 0
+  Garrison Strength: 585
 Statistics:
-  Movement Type: tread
-  Move Points: 6
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 10
-  Psy Defense: 10
-  Rank: 72
+  Movement Type: air
+  Move Points: 14
+  Spot: 16
+  Camouflage: 10
+  Agility: 10
+  Armor: 11
+  Psy Defense: 22
+  Rank: 97
 Attacks:
-  Ranged Space: 2/34
-  Air: 9/27
-  Indirect: 2/34
-Load aboard transport: 4
-Upkeep / Maintenance: 21
-Build Cost: 209
+  Direct: 22/22
+  Close: 30/15
+Load aboard transport: 2
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 20
+Build Cost: 195
 Build Resource Requirements:
-  Food: 2
-  Energy: 146
-  Metal: 17
-  Trace: 6
-  Exotica: 2
-  Chemicals: 181
-  Electronics: 7
-Build PTS Multi-Rocket Artillery in Factory
-Time to Build / Upgrade: 4
-[2720] Technologies Required to Build Unit (90):
-  [770] Self-Propelled Weaponry (92)
-  [1950] PTS Missile Launcher (88)
+  Food: 4
+  Energy: 15
+  Metal: 9
+  Trace: 27
+  Exotica: 4
+  Chemicals: 26
+  Electronics: 46
+  Ceramsteel: 23
+Build Patrol Drone in Factory
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: PTS Rocket Artillery
-Nick Name: PTS RA
+Name: Anti-Ship Drone
+Nick Name: Drone (ASh)
 Scores & Strengths:
-  Tech Score: 641
-  Unit Score: 640
-  Average Score: 641
-  Stat Strength: 260
-  Total Strength: 640
-  Planet Strength: 540
-  Space Strength: 360
-  Garrison Strength: 220
+  Tech Score: 2194
+  Unit Score: 2193
+  Average Score: 2194
+  Stat Strength: 1425
+  Total Strength: 2193
+  Planet Strength: 2193
+  Space Strength: 0
+  Garrison Strength: 548
 Statistics:
-  Movement Type: tread
-  Move Points: 6
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 10
-  Psy Defense: 10
-  Rank: 74
+  Movement Type: air
+  Move Points: 16
+  Spot: 14
+  Camouflage: 8
+  Agility: 8
+  Armor: 13
+  Psy Defense: 26
+  Rank: 113
 Attacks:
-  Ranged Space: 4/25
-  Air: 9/20
-  Indirect: 4/25
+  Water: 12/32
+  Indirect: 12/32
 Load aboard transport: 3
-Upkeep / Maintenance: 12
-Build Cost: 123
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 21
+Build Cost: 214
 Build Resource Requirements:
-  Food: 2
-  Energy: 80
-  Metal: 17
-  Trace: 8
-  Exotica: 2
-  Chemicals: 99
-  Electronics: 7
-Build PTS Rocket Artillery in Factory
+  Food: 4
+  Energy: 36
+  Metal: 13
+  Trace: 9
+  Exotica: 4
+  Chemicals: 62
+  Electronics: 11
+  Ceramsteel: 32
+Build Anti-Ship Drone in Factory
 Time to Build / Upgrade: 3
-[2720] Technologies Required to Build Unit (90):
-  [770] Self-Propelled Weaponry (92)
-  [1950] PTS Missile Launcher (88)
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: PTS Missile Launcher II
-Nick Name: PTS Missile II
+Name: Anti-Tank Drone
+Nick Name: Drone (AT)
 Scores & Strengths:
-  Tech Score: 1087
-  Unit Score: 1066
-  Average Score: 1076
-  Stat Strength: 793
-  Total Strength: 1066
-  Planet Strength: 940
-  Space Strength: 919
-  Garrison Strength: 542
+  Tech Score: 2194
+  Unit Score: 2193
+  Average Score: 2194
+  Stat Strength: 1564
+  Total Strength: 2193
+  Planet Strength: 2193
+  Space Strength: 0
+  Garrison Strength: 586
 Statistics:
-  Movement Type: tread
-  Move Points: 3
-  Spot: 7
-  Camouflage: 3
-  Agility: 2
-  Armor: 19
-  Psy Defense: 19
-  Rank: 80
+  Movement Type: air
+  Move Points: 14
+  Spot: 12
+  Camouflage: 12
+  Agility: 10
+  Armor: 14
+  Psy Defense: 28
+  Rank: 94
 Attacks:
-  Ranged Space: 7/18
-  Air: 7/11
-  Indirect: 5/14
-Load aboard transport: 3
-Upkeep / Maintenance: 6
-Build Cost: 61
+  Direct: 17/37
+Load aboard transport: 2
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 20
+Build Cost: 196
 Build Resource Requirements:
-  Food: 1
-  Energy: 17
-  Metal: 72
-  Trace: 5
-  Exotica: 1
-  Chemicals: 23
-  Electronics: 5
-Build PTS Missile Launcher II in Factory
-Time to Build / Upgrade: 2
-[6120] Technologies Required to Build Unit (86):
-  [1950] PTS Missile Launcher (88)
-  [4170] Supercruise Missiles (84)
+  Food: 3
+  Energy: 25
+  Metal: 15
+  Trace: 10
+  Exotica: 3
+  Chemicals: 44
+  Electronics: 16
+  Ceramsteel: 37
+Build Anti-Tank Drone in Factory
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: PTS Rocket Launcher II
-Nick Name: PTS RL II
+Name: Fighter-Bomber Drone
+Nick Name: Drone (FB)
 Scores & Strengths:
-  Tech Score: 1087
-  Unit Score: 1081
-  Average Score: 1084
-  Stat Strength: 375
-  Total Strength: 1081
-  Planet Strength: 878
-  Space Strength: 578
-  Garrison Strength: 331
+  Tech Score: 2194
+  Unit Score: 2193
+  Average Score: 2194
+  Stat Strength: 1361
+  Total Strength: 2193
+  Planet Strength: 2193
+  Space Strength: 0
+  Garrison Strength: 531
 Statistics:
-  Movement Type: tread
-  Move Points: 7
-  Spot: 5
-  Camouflage: 3
-  Agility: 2
+  Movement Type: air
+  Move Points: 17
+  Spot: 12
+  Camouflage: 8
+  Agility: 12
   Armor: 12
-  Psy Defense: 12
-  Rank: 100
+  Psy Defense: 24
+  Rank: 118
 Attacks:
-  Ranged Space: 7/29
-  Air: 15/20
-  Indirect: 7/29
-Load aboard transport: 3
-Upkeep / Maintenance: 11
-Build Cost: 110
+  Air: 22/20
+  Indirect: 14/28
+Load aboard transport: 2
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 184
 Build Resource Requirements:
-  Food: 1
-  Energy: 56
-  Metal: 29
-  Trace: 10
-  Exotica: 1
-  Chemicals: 75
-  Electronics: 10
-Build PTS Rocket Launcher II in Factory
+  Food: 4
+  Energy: 23
+  Metal: 11
+  Trace: 15
+  Exotica: 4
+  Chemicals: 42
+  Electronics: 19
+  Ceramsteel: 27
+Build Fighter-Bomber Drone in Factory
 Time to Build / Upgrade: 3
-[6120] Technologies Required to Build Unit (86):
-  [1950] PTS Missile Launcher (88)
-  [4170] Supercruise Missiles (84)
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: PTS Rocket Artillery II
-Nick Name: PTS RA II
+Name: Anti-Personnel Drone
+Nick Name: Drone (AP)
 Scores & Strengths:
-  Tech Score: 1194
-  Unit Score: 1158
-  Average Score: 1176
-  Stat Strength: 494
-  Total Strength: 1158
-  Planet Strength: 988
-  Space Strength: 664
-  Garrison Strength: 349
+  Tech Score: 2194
+  Unit Score: 2194
+  Average Score: 2194
+  Stat Strength: 1369
+  Total Strength: 2194
+  Planet Strength: 2194
+  Space Strength: 0
+  Garrison Strength: 548
 Statistics:
-  Movement Type: tread
-  Move Points: 8
-  Spot: 5
-  Camouflage: 3
-  Agility: 2
-  Armor: 14
-  Psy Defense: 14
-  Rank: 99
+  Movement Type: air
+  Move Points: 16
+  Spot: 16
+  Camouflage: 16
+  Agility: 14
+  Armor: 9
+  Psy Defense: 18
+  Rank: 92
 Attacks:
-  Ranged Space: 5/34
-  Air: 12/27
-  Indirect: 5/34
-Load aboard transport: 3
-Upkeep / Maintenance: 12
-Build Cost: 124
+  Close: 33/25
+Load aboard transport: 2
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 178
 Build Resource Requirements:
-  Food: 1
-  Energy: 67
-  Metal: 25
-  Trace: 5
-  Exotica: 1
-  Chemicals: 94
-  Electronics: 6
-Build PTS Rocket Artillery II in Factory
+  Food: 5
+  Energy: 15
+  Metal: 6
+  Trace: 26
+  Exotica: 5
+  Chemicals: 26
+  Electronics: 43
+  Ceramsteel: 15
+Build Anti-Personnel Drone in Factory
 Time to Build / Upgrade: 3
-[7820] Technologies Required to Build Unit (87):
-  [1700] Main Battle Tank (88)
-  [1950] PTS Missile Launcher (88)
-  [4170] Supercruise Missiles (84)
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: PTS Multi-Rocket Artillery II
-Nick Name: PTS MRA II
+Name: General-Purpose Drone
+Nick Name: Drone (GP)
 Scores & Strengths:
-  Tech Score: 1194
-  Unit Score: 1214
-  Average Score: 1204
-  Stat Strength: 494
-  Total Strength: 1214
-  Planet Strength: 1076
-  Space Strength: 632
-  Garrison Strength: 380
+  Tech Score: 2194
+  Unit Score: 2194
+  Average Score: 2194
+  Stat Strength: 1180
+  Total Strength: 2194
+  Planet Strength: 2194
+  Space Strength: 0
+  Garrison Strength: 586
 Statistics:
-  Movement Type: tread
-  Move Points: 8
-  Spot: 5
-  Camouflage: 3
-  Agility: 2
-  Armor: 14
-  Psy Defense: 14
-  Rank: 99
+  Movement Type: air
+  Move Points: 14
+  Spot: 14
+  Camouflage: 12
+  Agility: 12
+  Armor: 10
+  Psy Defense: 20
+  Rank: 113
 Attacks:
-  Ranged Space: 3/46
-  Air: 12/37
-  Indirect: 3/46
-Load aboard transport: 4
-Upkeep / Maintenance: 21
-Build Cost: 208
+  Indirect: 16/23
+  Direct: 18/22
+  Close: 25/10
+Load aboard transport: 2
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 19
+Build Cost: 189
 Build Resource Requirements:
-  Food: 1
-  Energy: 123
-  Metal: 25
-  Trace: 5
-  Exotica: 1
-  Chemicals: 168
-  Electronics: 6
-Build PTS Multi-Rocket Artillery II in Factory
-Time to Build / Upgrade: 4
-[7820] Technologies Required to Build Unit (87):
-  [1700] Main Battle Tank (88)
-  [1950] PTS Missile Launcher (88)
-  [4170] Supercruise Missiles (84)
+  Food: 4
+  Energy: 21
+  Metal: 8
+  Trace: 24
+  Exotica: 4
+  Chemicals: 37
+  Electronics: 35
+  Ceramsteel: 19
+Build General-Purpose Drone in Factory
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Rail Gun
-Nick Name: Rail Gun
+Name: Fighter Drone
+Nick Name: Drone (F)
 Scores & Strengths:
-  Tech Score: 1487
-  Unit Score: 1488
-  Average Score: 1487
-  Stat Strength: 1056
-  Total Strength: 1488
-  Planet Strength: 1272
-  Space Strength: 1272
-  Garrison Strength: 636
+  Tech Score: 2194
+  Unit Score: 2195
+  Average Score: 2195
+  Stat Strength: 1436
+  Total Strength: 2195
+  Planet Strength: 2195
+  Space Strength: 0
+  Garrison Strength: 517
 Statistics:
-  Movement Type: tread
-  Move Points: 4
-  Spot: 8
-  Camouflage: 2
-  Agility: 2
-  Armor: 22
-  Psy Defense: 22
-  Rank: 98
+  Movement Type: air
+  Move Points: 18
+  Spot: 12
+  Camouflage: 12
+  Agility: 18
+  Armor: 10
+  Psy Defense: 20
+  Rank: 114
 Attacks:
-  Ranged Space: 12/18
-  Indirect: 12/18
-Load aboard transport: 5
-Upkeep / Maintenance: 21
-Build Cost: 213
+  Air: 33/23
+Load aboard transport: 2
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 180
 Build Resource Requirements:
-  Food: 2
-  Energy: 17
-  Metal: 425
-  Trace: 10
-  Exotica: 1
-  Chemicals: 26
-  Electronics: 8
-Build Rail Gun in Factory
-Time to Build / Upgrade: 4
-[6735] Technology Required to Build Unit (83):
-  [6735] Rail Gun (83)
+  Food: 5
+  Energy: 15
+  Metal: 8
+  Trace: 23
+  Exotica: 5
+  Chemicals: 27
+  Electronics: 39
+  Ceramsteel: 19
+Build Fighter Drone in Factory
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: PTS Missile Launcher III
-Nick Name: PTS Missile III
+Name: Anti-Submarine Drone
+Nick Name: Drone (ASu)
 Scores & Strengths:
-  Tech Score: 1591
-  Unit Score: 1533
-  Average Score: 1562
-  Stat Strength: 1149
-  Total Strength: 1533
-  Planet Strength: 1365
-  Space Strength: 1317
-  Garrison Strength: 788
+  Tech Score: 2194
+  Unit Score: 2196
+  Average Score: 2195
+  Stat Strength: 1428
+  Total Strength: 2196
+  Planet Strength: 2196
+  Space Strength: 0
+  Garrison Strength: 549
 Statistics:
-  Movement Type: tread
-  Move Points: 3
-  Spot: 8
-  Camouflage: 3
-  Agility: 3
-  Armor: 23
-  Psy Defense: 23
-  Rank: 94
+  Movement Type: air
+  Move Points: 16
+  Spot: 18
+  Camouflage: 8
+  Agility: 8
+  Armor: 12
+  Psy Defense: 24
+  Rank: 107
 Attacks:
-  Ranged Space: 8/21
-  Air: 8/13
-  Indirect: 7/16
+  Water: 24/32
 Load aboard transport: 3
-Upkeep / Maintenance: 8
-Build Cost: 81
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 184
 Build Resource Requirements:
-  Food: 1
-  Energy: 17
-  Metal: 106
-  Trace: 5
-  Exotica: 1
-  Chemicals: 25
-  Electronics: 6
-Build PTS Missile Launcher III in Factory
-Time to Build / Upgrade: 2
-[9055] Technologies Required to Build Unit (83):
-  [1950] PTS Missile Launcher (88)
-  [7105] Hypercruise Missiles (77)
+  Food: 5
+  Energy: 20
+  Metal: 11
+  Trace: 15
+  Exotica: 5
+  Chemicals: 36
+  Electronics: 25
+  Ceramsteel: 27
+Build Anti-Submarine Drone in Factory
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --11--
-Name: PTS Rocket Launcher III
-Nick Name: PTS RL III
+Name: Surveillance Drone
+Nick Name: Drone (R)
 Scores & Strengths:
-  Tech Score: 1591
-  Unit Score: 1567
-  Average Score: 1579
-  Stat Strength: 557
-  Total Strength: 1567
-  Planet Strength: 1287
-  Space Strength: 837
-  Garrison Strength: 455
+  Tech Score: 2194
+  Unit Score: 2197
+  Average Score: 2196
+  Stat Strength: 2197
+  Total Strength: 2197
+  Planet Strength: 2197
+  Space Strength: 0
+  Garrison Strength: 448
 Statistics:
-  Movement Type: tread
-  Move Points: 8
-  Spot: 5
-  Camouflage: 3
-  Agility: 3
-  Armor: 15
-  Psy Defense: 15
-  Rank: 119
-Attacks:
-  Ranged Space: 8/35
-  Air: 18/25
-  Indirect: 8/35
-Load aboard transport: 3
-Upkeep / Maintenance: 14
-Build Cost: 140
+  Movement Type: air
+  Move Points: 24
+  Spot: 24
+  Camouflage: 10
+  Agility: 15
+  Armor: 12
+  Psy Defense: 24
+  Rank: 62
+Load aboard transport: 2
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 16
+Build Cost: 157
 Build Resource Requirements:
-  Food: 1
-  Energy: 60
-  Metal: 45
-  Trace: 10
-  Exotica: 1
-  Chemicals: 89
-  Electronics: 12
-Build PTS Rocket Launcher III in Factory
+  Food: 10
+  Energy: 10
+  Metal: 11
+  Trace: 12
+  Exotica: 10
+  Chemicals: 19
+  Electronics: 20
+  Ceramsteel: 27
+Build Surveillance Drone in Factory
 Time to Build / Upgrade: 3
-[9055] Technologies Required to Build Unit (83):
-  [1950] PTS Missile Launcher (88)
-  [7105] Hypercruise Missiles (77)
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --12--
-Name: PTS Rocket Artillery III
-Nick Name: PTS RA III
+Name: Transport Drone
+Nick Name: Drone (X)
 Scores & Strengths:
-  Tech Score: 1685
-  Unit Score: 1627
-  Average Score: 1656
-  Stat Strength: 655
-  Total Strength: 1627
-  Planet Strength: 1381
-  Space Strength: 901
-  Garrison Strength: 436
+  Tech Score: 2194
+  Unit Score: 2198
+  Average Score: 2196
+  Stat Strength: 2198
+  Total Strength: 2198
+  Planet Strength: 2198
+  Space Strength: 0
+  Garrison Strength: 634
 Statistics:
-  Movement Type: tread
-  Move Points: 10
-  Spot: 5
-  Camouflage: 3
-  Agility: 3
-  Armor: 16
-  Psy Defense: 16
-  Rank: 118
-Attacks:
-  Ranged Space: 6/41
-  Air: 15/32
-  Indirect: 6/41
-Load aboard transport: 3
-Upkeep / Maintenance: 16
-Build Cost: 160
-Build Resource Requirements:
-  Food: 1
-  Energy: 76
-  Metal: 33
-  Trace: 6
-  Exotica: 1
-  Chemicals: 116
-  Electronics: 7
-Build PTS Rocket Artillery III in Factory
-Time to Build / Upgrade: 3
-[10755] Technologies Required to Build Unit (84):
-  [1700] Main Battle Tank (88)
-  [1950] PTS Missile Launcher (88)
-  [7105] Hypercruise Missiles (77)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---13--
-Name: PTS Multi-Rocket Artillery III
-Nick Name: PTS MRA III
-Scores & Strengths:
-  Tech Score: 1685
-  Unit Score: 1645
-  Average Score: 1665
-  Stat Strength: 655
-  Total Strength: 1645
-  Planet Strength: 1480
-  Space Strength: 820
-  Garrison Strength: 468
-Statistics:
-  Movement Type: tread
-  Move Points: 10
-  Spot: 5
-  Camouflage: 3
-  Agility: 3
-  Armor: 16
-  Psy Defense: 16
-  Rank: 115
-Attacks:
-  Ranged Space: 3/55
-  Air: 15/44
-  Indirect: 3/55
+  Movement Type: air
+  Move Points: 12
+  Spot: 11
+  Camouflage: 8
+  Agility: 8
+  Armor: 19
+  Psy Defense: 38
+  Rank: 61
+Cargo Space: 1
 Load aboard transport: 4
-Upkeep / Maintenance: 26
-Build Cost: 263
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 175
 Build Resource Requirements:
-  Food: 1
-  Energy: 137
-  Metal: 33
-  Trace: 5
-  Exotica: 1
-  Chemicals: 203
-  Electronics: 7
-Build PTS Multi-Rocket Artillery III in Factory
-Time to Build / Upgrade: 4
-[10755] Technologies Required to Build Unit (84):
-  [1700] Main Battle Tank (88)
-  [1950] PTS Missile Launcher (88)
-  [7105] Hypercruise Missiles (77)
+  Food: 2
+  Energy: 3
+  Metal: 27
+  Trace: 3
+  Exotica: 2
+  Chemicals: 10
+  Electronics: 6
+  Ceramsteel: 68
+Build Transport Drone in Factory
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---14--
-Name: Imperial Missile Battery
-Nick Name: IM Battery
-Scores & Strengths:
-  Tech Score: 2013
-  Unit Score: 2011
-  Average Score: 2012
-  Stat Strength: 1453
-  Total Strength: 2011
-  Planet Strength: 1811
-  Space Strength: 1653
-  Garrison Strength: 2263
-Statistics:
-  Movement Type: tread
-  Move Points: 0
-  Spot: 10
-  Camouflage: 0
-  Agility: 1
-  Armor: 26
-  Psy Defense: 26
-  Rank: 103
-Attacks:
-  Ranged Space: 10/20
-  Air: 12/14
-  Indirect: 10/19
-Load aboard transport: 3
-Upkeep / Maintenance: 98
-Build Cost: 975
-Build Resource Requirements:
-  Food: 1
-  Energy: 11
-  Metal: 12
-  Trace: 6
-  Exotica: 1
-  Chemicals: 27
-  Biochems: 25
-  Electronics: 17
-  Ceramsteel: 23
-  Monopols: 41
-Build Imperial Missile Battery in Factory
-Time to Build / Upgrade: 4
-[12420] Technologies Required to Build Unit (69):
-  [835] Spore Delivery (27)
-  [325] Megachassis (94)
-  [8935] Powered Ceramsteel Armor (75)
-  [2325] Web Missiles (80)
 Unit Eats: YES
 Unit can be disbanded: YES

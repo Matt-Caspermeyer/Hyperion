@@ -1,290 +1,591 @@
-All units of the unit class Amphib. Combat Vehicle (R) are listed herein (6 in total):
+All units of the unit class Light Anti-Air Mech are listed herein (13 in total):
 
 --1--
-Name: Amphib. Combat Vehicle (R)
-Nick Name: ACV (R)
+Name: Light Anti-Air Mech
+Nick Name: Vindicator
 Scores & Strengths:
-  Tech Score: 1717
-  Unit Score: 1714
-  Average Score: 1716
-  Stat Strength: 1021
-  Total Strength: 1714
-  Planet Strength: 1714
+  Tech Score: 1686
+  Unit Score: 1685
+  Average Score: 1686
+  Stat Strength: 1185
+  Total Strength: 1685
+  Planet Strength: 1685
   Space Strength: 0
-  Garrison Strength: 458
+  Garrison Strength: 450
 Statistics:
-  Movement Type: craft
+  Movement Type: mech
   Move Points: 14
-  Spot: 8
-  Camouflage: 7
-  Agility: 8
-  Armor: 18
-  Psy Defense: 18
-  Rank: 475
+  Spot: 10
+  Camouflage: 4
+  Agility: 19
+  Armor: 16
+  Psy Defense: 16
+  Rank: 95
 Attacks:
-  Close: 33/21
-Load aboard transport: 2
-Can tow units that can be towed
-Heals units of same movement type
-Upkeep / Maintenance: 13
-Build Cost: 129
+  Air: 20/13
+  Indirect: 16/15
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 17
+Build Cost: 166
 Build Resource Requirements:
-  Food: 2
-  Energy: 10
-  Metal: 11
-  Trace: 19
-  Exotica: 2
-  Chemicals: 16
-  Biochems: 12
-  Electronics: 27
-  Ceramsteel: 12
-Build Amphib. Combat Vehicle (R) in Factory
+  Food: 5
+  Energy: 14
+  Metal: 10
+  Trace: 16
+  Exotica: 5
+  Chemicals: 26
+  Electronics: 24
+  Ceramsteel: 15
+Build Light Anti-Air Mech in Starport
 Time to Build / Upgrade: 3
-[12755] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [4695] Advanced Minor Watercraft (83)
-  [5205] Advanced Battle Tanks (84)
+[10330] Technologies Required to Build Unit (84):
+  [1690] Ceramsteel (84)
+  [2420] Rocket-Propelled Aircraft (87)
+  [6220] Mechanically-Enhanced Soldiers (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Amphib. Combat Vehicle (E)
-Nick Name: ACV (E)
+Name: Medium Anti-Air Mech
+Nick Name: Talisman
 Scores & Strengths:
-  Tech Score: 1717
-  Unit Score: 1717
-  Average Score: 1717
-  Stat Strength: 1157
-  Total Strength: 1717
-  Planet Strength: 1717
+  Tech Score: 2414
+  Unit Score: 2414
+  Average Score: 2414
+  Stat Strength: 1578
+  Total Strength: 2414
+  Planet Strength: 2414
   Space Strength: 0
-  Garrison Strength: 495
+  Garrison Strength: 603
 Statistics:
-  Movement Type: craft
-  Move Points: 12
-  Spot: 10
-  Camouflage: 7
-  Agility: 8
-  Armor: 20
-  Psy Defense: 20
-  Rank: 78
+  Movement Type: mech
+  Move Points: 16
+  Spot: 13
+  Camouflage: 8
+  Agility: 11
+  Armor: 22
+  Psy Defense: 22
+  Rank: 121
 Attacks:
-  Close: 28/20
-Cargo Space: 1
+  Air: 23/19
+  Indirect: 21/19
 Load aboard transport: 2
-Can tow units that can be towed
-Upkeep / Maintenance: 11
-Build Cost: 109
+Immune to Plague
+Upkeep / Maintenance: 118
+Build Cost: 1178
 Build Resource Requirements:
-  Food: 2
-  Energy: 8
-  Metal: 13
-  Trace: 15
-  Exotica: 2
-  Chemicals: 16
-  Biochems: 9
+  Food: 3
+  Energy: 9
+  Metal: 8
+  Trace: 17
+  Exotica: 3
+  Chemicals: 17
   Electronics: 23
-  Ceramsteel: 14
-Build Amphib. Combat Vehicle (E) in Factory
+  Ceramsteel: 9
+  Monopols: 25
+Build Medium Anti-Air Mech in Starport
 Time to Build / Upgrade: 3
-[12755] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [4695] Advanced Minor Watercraft (83)
-  [5205] Advanced Battle Tanks (84)
+[12850] Technology Required to Build Unit (71):
+  [12850] Mechanized Warriors (71)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Amphib. Combat Vehicle (P)
-Nick Name: ACV (P)
+Name: Light A-A Mech (GE)
+Nick Name: Vindicator (GE)
 Scores & Strengths:
-  Tech Score: 1717
-  Unit Score: 1719
-  Average Score: 1718
-  Stat Strength: 711
-  Total Strength: 1719
-  Planet Strength: 1719
+  Tech Score: 2294
+  Unit Score: 2918
+  Average Score: 2606
+  Stat Strength: 1982
+  Total Strength: 2918
+  Planet Strength: 2918
   Space Strength: 0
-  Garrison Strength: 459
+  Garrison Strength: 669
 Statistics:
-  Movement Type: craft
-  Move Points: 14
-  Spot: 8
-  Camouflage: 7
-  Agility: 8
-  Armor: 13
-  Psy Defense: 13
-  Rank: 94
+  Movement Type: mech
+  Move Points: 19
+  Spot: 12
+  Camouflage: 5
+  Agility: 22
+  Armor: 22
+  Psy Defense: 22
+  Rank: 124
 Attacks:
-  Direct: 28/20
-  Close: 28/16
-Cargo Space: 1
-Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 13
-Build Cost: 130
+  Air: 28/17
+  Indirect: 23/20
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 41
+Build Cost: 242
 Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 6
-  Trace: 27
-  Exotica: 2
-  Chemicals: 18
-  Biochems: 16
-  Electronics: 33
-  Ceramsteel: 6
-Build Amphib. Combat Vehicle (P) in Factory
-Time to Build / Upgrade: 3
-[12755] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [4695] Advanced Minor Watercraft (83)
-  [5205] Advanced Battle Tanks (84)
+  Energy: 2
+  Metal: 2
+  Trace: 1
+  Chemicals: 4
+  Biochems: 44
+  Electronics: 2
+  Ceramsteel: 1
+Upgrade Light Anti-Air Mech to Light A-A Mech (GE) at Lab
+Time to Build / Upgrade: 1
+[16350] Technologies Required to Build Unit (75):
+  [1690] Ceramsteel (84)
+  [6020] Chemical Shock Legion (49)
+  [2420] Rocket-Propelled Aircraft (87)
+  [6220] Mechanically-Enhanced Soldiers (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Amphib. Combat Vehicle (C)
-Nick Name: ACV (C)
+Name: Light A-A Mech (AVE)
+Nick Name: Vindicator (AVE)
 Scores & Strengths:
-  Tech Score: 1717
-  Unit Score: 1719
-  Average Score: 1718
-  Stat Strength: 711
-  Total Strength: 1719
-  Planet Strength: 1719
+  Tech Score: 2695
+  Unit Score: 3441
+  Average Score: 3068
+  Stat Strength: 2302
+  Total Strength: 3441
+  Planet Strength: 3441
   Space Strength: 0
-  Garrison Strength: 459
+  Garrison Strength: 750
 Statistics:
-  Movement Type: craft
-  Move Points: 14
-  Spot: 8
-  Camouflage: 7
-  Agility: 8
-  Armor: 13
-  Psy Defense: 13
-  Rank: 778
+  Movement Type: mech
+  Move Points: 21
+  Spot: 12
+  Camouflage: 6
+  Agility: 23
+  Armor: 24
+  Psy Defense: 24
+  Rank: 135
 Attacks:
-  Water: 28/20
-  Indirect: 28/16
-Load aboard transport: 2
-Officer - Provides stack combat bonuses
-Can be towed
-Upkeep / Maintenance: 15
-Build Cost: 148
+  Air: 31/19
+  Indirect: 25/22
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 48
+Build Cost: 238
 Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 6
-  Trace: 27
-  Exotica: 2
-  Chemicals: 18
-  Biochems: 9
-  Electronics: 19
-  Ceramsteel: 6
-Build Amphib. Combat Vehicle (C) in Factory
-Time to Build / Upgrade: 2
-[12755] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [4695] Advanced Minor Watercraft (83)
-  [5205] Advanced Battle Tanks (84)
+  Energy: 2
+  Trace: 1
+  Exotica: 1
+  Chemicals: 4
+  Biochems: 7
+  Electronics: 1
+  Ceramsteel: 1
+Upgrade Light A-A Mech (GE) to Light A-A Mech (AVE) at Lab
+Time to Build / Upgrade: 1
+[19230] Technologies Required to Build Unit (69):
+  [1690] Ceramsteel (84)
+  [8900] Genetically-Enhanced Warriors (25)
+  [2420] Rocket-Propelled Aircraft (87)
+  [6220] Mechanically-Enhanced Soldiers (80)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Amphib. Combat Vehicle (H)
-Nick Name: ACV (H)
+Name: Medium A-A Mech (AVE)
+Nick Name: Talisman (AVE)
 Scores & Strengths:
-  Tech Score: 1717
-  Unit Score: 1719
-  Average Score: 1718
-  Stat Strength: 711
-  Total Strength: 1719
-  Planet Strength: 1719
+  Tech Score: 3329
+  Unit Score: 4687
+  Average Score: 4008
+  Stat Strength: 2997
+  Total Strength: 4687
+  Planet Strength: 4687
   Space Strength: 0
-  Garrison Strength: 459
+  Garrison Strength: 977
 Statistics:
-  Movement Type: craft
-  Move Points: 14
-  Spot: 8
-  Camouflage: 7
-  Agility: 8
-  Armor: 13
-  Psy Defense: 13
-  Rank: 110
+  Movement Type: mech
+  Move Points: 23
+  Spot: 16
+  Camouflage: 11
+  Agility: 13
+  Armor: 31
+  Psy Defense: 31
+  Rank: 164
 Attacks:
-  Indirect: 28/20
-  Direct: 28/16
+  Air: 34/26
+  Indirect: 31/26
 Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 10
-Build Cost: 99
+Immune to Plague
+Upkeep / Maintenance: 251
+Build Cost: 1328
 Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 6
-  Trace: 27
-  Exotica: 2
-  Chemicals: 18
-  Biochems: 9
-  Electronics: 19
+  Energy: 4
+  Metal: 5
+  Trace: 2
+  Exotica: 1
+  Chemicals: 10
+  Biochems: 46
+  Electronics: 4
   Ceramsteel: 6
-Build Amphib. Combat Vehicle (H) in Factory
-Time to Build / Upgrade: 2
-[12755] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [4695] Advanced Minor Watercraft (83)
-  [5205] Advanced Battle Tanks (84)
+  Monopols: 12
+Upgrade Medium Anti-Air Mech to Medium A-A Mech (AVE) at Lab
+Time to Build / Upgrade: 1
+[21750] Technologies Required to Build Unit (48):
+  [8900] Genetically-Enhanced Warriors (25)
+  [12850] Mechanized Warriors (71)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Amphib. Combat Vehicle (A)
-Nick Name: ACV (A)
+Name: Heavy Anti-Air Mech
+Nick Name: Avenger
 Scores & Strengths:
-  Tech Score: 1717
-  Unit Score: 1719
-  Average Score: 1718
-  Stat Strength: 711
-  Total Strength: 1719
-  Planet Strength: 1719
+  Tech Score: 5401
+  Unit Score: 5401
+  Average Score: 5401
+  Stat Strength: 3067
+  Total Strength: 5401
+  Planet Strength: 5401
   Space Strength: 0
-  Garrison Strength: 459
+  Garrison Strength: 1273
 Statistics:
-  Movement Type: craft
-  Move Points: 14
-  Spot: 8
-  Camouflage: 7
-  Agility: 8
-  Armor: 13
-  Psy Defense: 13
-  Rank: 105
+  Movement Type: mech
+  Move Points: 18
+  Spot: 14
+  Camouflage: 12
+  Agility: 15
+  Armor: 33
+  Psy Defense: 33
+  Rank: 183
 Attacks:
-  Air: 28/20
-  Direct: 28/16
-Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 13
-Build Cost: 127
+  Air: 31/28
+  Indirect: 30/32
+  Direct: 22/23
+Load aboard transport: 3
+Immune to Plague
+Upkeep / Maintenance: 230
+Build Cost: 2298
 Build Resource Requirements:
   Food: 2
   Energy: 13
-  Metal: 6
-  Trace: 27
+  Metal: 8
+  Trace: 25
   Exotica: 2
-  Chemicals: 18
-  Biochems: 16
-  Electronics: 33
-  Ceramsteel: 6
-Build Amphib. Combat Vehicle (A) in Factory
-Time to Build / Upgrade: 3
-[12755] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [4695] Advanced Minor Watercraft (83)
-  [5205] Advanced Battle Tanks (84)
+  Chemicals: 20
+  Biochems: 26
+  Electronics: 31
+  Ceramsteel: 11
+  Monopols: 33
+Build Heavy Anti-Air Mech in Starport
+Time to Build / Upgrade: 4
+[37610] Technology Required to Build Unit (63):
+  [37610] Advanced Mechanized Warriors (63)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Assault Anti-Air Mech
+Nick Name: Phoenix
+Scores & Strengths:
+  Tech Score: 5809
+  Unit Score: 5809
+  Average Score: 5809
+  Stat Strength: 3473
+  Total Strength: 5809
+  Planet Strength: 5809
+  Space Strength: 0
+  Garrison Strength: 1298
+Statistics:
+  Movement Type: mech
+  Move Points: 20
+  Spot: 16
+  Camouflage: 12
+  Agility: 19
+  Armor: 34
+  Psy Defense: 34
+  Rank: 186
+Attacks:
+  Air: 30/29
+  Indirect: 30/32
+  Direct: 22/23
+Load aboard transport: 4
+Immune to Plague
+Upkeep / Maintenance: 289
+Build Cost: 2893
+Build Resource Requirements:
+  Food: 1
+  Energy: 12
+  Metal: 7
+  Trace: 10
+  Exotica: 2
+  Chemicals: 20
+  Biochems: 25
+  Electronics: 16
+  Ceramsteel: 10
+  Wetware: 9
+  Monopols: 31
+Build Assault Anti-Air Mech in Starport
+Time to Build / Upgrade: 4
+[54355] Technologies Required to Build Unit (43):
+  [16745] Wetware (23)
+  [37610] Advanced Mechanized Warriors (63)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Light A-A Mech (NE)
+Nick Name: Vindicator (NE)
+Scores & Strengths:
+  Tech Score: 4206
+  Unit Score: 5847
+  Average Score: 5027
+  Stat Strength: 3847
+  Total Strength: 5847
+  Planet Strength: 5847
+  Space Strength: 0
+  Garrison Strength: 1146
+Statistics:
+  Movement Type: mech
+  Move Points: 26
+  Spot: 14
+  Camouflage: 11
+  Agility: 26
+  Armor: 33
+  Psy Defense: 33
+  Rank: 178
+Attacks:
+  Air: 40/26
+  Indirect: 32/30
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 355
+Build Cost: 3312
+Build Resource Requirements:
+  Wetware: 13
+  Monopols: 34
+Upgrade Light A-A Mech (AVE) to Light A-A Mech (NE) at Fusorium
+Time to Build / Upgrade: 3
+[34460] Technologies Required to Build Unit (71):
+  [1690] Ceramsteel (84)
+  [24130] Neumonically-Enhanced Soldiers (32)
+  [2420] Rocket-Propelled Aircraft (87)
+  [6220] Mechanically-Enhanced Soldiers (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Medium A-A Mech (NE)
+Nick Name: Talisman (NE)
+Scores & Strengths:
+  Tech Score: 4702
+  Unit Score: 7719
+  Average Score: 6211
+  Stat Strength: 5033
+  Total Strength: 7719
+  Planet Strength: 7719
+  Space Strength: 0
+  Garrison Strength: 1485
+Statistics:
+  Movement Type: mech
+  Move Points: 27
+  Spot: 18
+  Camouflage: 16
+  Agility: 14
+  Armor: 42
+  Psy Defense: 42
+  Rank: 205
+Attacks:
+  Air: 41/34
+  Indirect: 38/34
+Load aboard transport: 2
+Immune to Plague
+Upkeep / Maintenance: 467
+Build Cost: 3345
+Build Resource Requirements:
+  Ceramsteel: 1
+  Wetware: 12
+  Monopols: 4
+Upgrade Medium A-A Mech (AVE) to Medium A-A Mech (NE) at Fusorium
+Time to Build / Upgrade: 2
+[36980] Technologies Required to Build Unit (52):
+  [24130] Neumonically-Enhanced Soldiers (32)
+  [12850] Mechanized Warriors (71)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Heavy A-A Mech (AVE)
+Nick Name: Avenger (AVE)
+Scores & Strengths:
+  Tech Score: 5822
+  Unit Score: 8844
+  Average Score: 7333
+  Stat Strength: 4997
+  Total Strength: 8844
+  Planet Strength: 8844
+  Space Strength: 0
+  Garrison Strength: 1844
+Statistics:
+  Movement Type: mech
+  Move Points: 23
+  Spot: 16
+  Camouflage: 15
+  Agility: 17
+  Armor: 43
+  Psy Defense: 43
+  Rank: 225
+Attacks:
+  Air: 41/35
+  Indirect: 40/40
+  Direct: 29/28
+Load aboard transport: 3
+Immune to Plague
+Upkeep / Maintenance: 455
+Build Cost: 2249
+Build Resource Requirements:
+  Energy: 5
+  Metal: 4
+  Trace: 4
+  Chemicals: 9
+  Biochems: 27
+  Electronics: 7
+  Ceramsteel: 6
+  Monopols: 14
+Upgrade Heavy Anti-Air Mech to Heavy A-A Mech (AVE) at Lab
+Time to Build / Upgrade: 1
+[46510] Technologies Required to Build Unit (44):
+  [8900] Genetically-Enhanced Warriors (25)
+  [37610] Advanced Mechanized Warriors (63)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Assault A-A Mech (AVE)
+Nick Name: Phoenix (AVE)
+Scores & Strengths:
+  Tech Score: 6196
+  Unit Score: 9393
+  Average Score: 7795
+  Stat Strength: 5581
+  Total Strength: 9393
+  Planet Strength: 9393
+  Space Strength: 0
+  Garrison Strength: 1842
+Statistics:
+  Movement Type: mech
+  Move Points: 26
+  Spot: 18
+  Camouflage: 15
+  Agility: 22
+  Armor: 44
+  Psy Defense: 44
+  Rank: 228
+Attacks:
+  Air: 40/36
+  Indirect: 40/39
+  Direct: 29/28
+Load aboard transport: 4
+Immune to Plague
+Upkeep / Maintenance: 566
+Build Cost: 2767
+Build Resource Requirements:
+  Food: 1
+  Energy: 5
+  Metal: 3
+  Trace: 5
+  Chemicals: 8
+  Biochems: 19
+  Electronics: 7
+  Ceramsteel: 5
+  Wetware: 4
+  Monopols: 13
+Upgrade Assault Anti-Air Mech to Assault A-A Mech (AVE) at Lab
+Time to Build / Upgrade: 1
+[63255] Technologies Required to Build Unit (37):
+  [16745] Wetware (23)
+  [8900] Genetically-Enhanced Warriors (25)
+  [37610] Advanced Mechanized Warriors (63)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Heavy A-A Mech (NE)
+Nick Name: Avenger (NE)
+Scores & Strengths:
+  Tech Score: 6367
+  Unit Score: 12219
+  Average Score: 9293
+  Stat Strength: 7005
+  Total Strength: 12219
+  Planet Strength: 12219
+  Space Strength: 0
+  Garrison Strength: 2443
+Statistics:
+  Movement Type: mech
+  Move Points: 25
+  Spot: 18
+  Camouflage: 18
+  Agility: 18
+  Armor: 52
+  Psy Defense: 52
+  Rank: 259
+Attacks:
+  Air: 46/42
+  Indirect: 45/48
+  Direct: 33/34
+Load aboard transport: 3
+Immune to Plague
+Upkeep / Maintenance: 859
+Build Cost: 6340
+Build Resource Requirements:
+  Chemicals: 1
+  Ceramsteel: 1
+  Wetware: 19
+  Monopols: 5
+Upgrade Heavy A-A Mech (AVE) to Heavy A-A Mech (NE) at Fusorium
+Time to Build / Upgrade: 3
+[61740] Technologies Required to Build Unit (48):
+  [24130] Neumonically-Enhanced Soldiers (32)
+  [37610] Advanced Mechanized Warriors (63)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--13--
+Name: Assault A-A Mech (NE)
+Nick Name: Phoenix (NE)
+Scores & Strengths:
+  Tech Score: 6367
+  Unit Score: 12395
+  Average Score: 9381
+  Stat Strength: 7555
+  Total Strength: 12395
+  Planet Strength: 12395
+  Space Strength: 0
+  Garrison Strength: 2385
+Statistics:
+  Movement Type: mech
+  Move Points: 27
+  Spot: 20
+  Camouflage: 18
+  Agility: 22
+  Armor: 53
+  Psy Defense: 53
+  Rank: 254
+Attacks:
+  Air: 43/42
+  Indirect: 43/46
+  Direct: 32/33
+Load aboard transport: 4
+Immune to Plague
+Upkeep / Maintenance: 860
+Build Cost: 5828
+Build Resource Requirements:
+  Energy: 1
+  Metal: 1
+  Trace: 4
+  Chemicals: 2
+  Biochems: 2
+  Electronics: 6
+  Ceramsteel: 4
+  Wetware: 5
+  Monopols: 8
+Upgrade Assault A-A Mech (AVE) to Assault A-A Mech (NE) at Fusorium
+Time to Build / Upgrade: 2
+[61740] Technologies Required to Build Unit (48):
+  [24130] Neumonically-Enhanced Soldiers (32)
+  [37610] Advanced Mechanized Warriors (63)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

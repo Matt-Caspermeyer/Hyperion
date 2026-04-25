@@ -1,188 +1,187 @@
-All units of the unit class Light Grappler Mech are listed herein (4 in total):
+All units of the unit class Scout Mech are listed herein (4 in total):
 
 --1--
-Name: Light Grappler Mech
-Nick Name: Grapnel
+Name: Scout Mech
+Nick Name: Locust
 Scores & Strengths:
-  Tech Score: 1686
-  Unit Score: 1685
-  Average Score: 1686
-  Stat Strength: 1194
-  Total Strength: 1685
-  Planet Strength: 1685
+  Tech Score: 2194
+  Unit Score: 1535
+  Average Score: 1865
+  Stat Strength: 1245
+  Total Strength: 1535
+  Planet Strength: 1535
   Space Strength: 0
-  Garrison Strength: 486
+  Garrison Strength: 410
 Statistics:
   Movement Type: mech
-  Move Points: 12
-  Spot: 10
-  Camouflage: 4
+  Move Points: 14
+  Spot: 14
+  Camouflage: 9
   Agility: 22
-  Armor: 15
-  Psy Defense: 15
-  Rank: 87
+  Armor: 12
+  Psy Defense: 12
+  Rank: 76
 Attacks:
-  Indirect: 19/14
-  Close: 15/15
+  Direct: 12/15
+  Close: 10/11
 Load aboard transport: 1
 Immune to Plague
-Upkeep / Maintenance: 16
-Build Cost: 157
+Upkeep / Maintenance: 10
+Build Cost: 100
 Build Resource Requirements:
   Food: 5
-  Energy: 15
-  Metal: 9
-  Trace: 16
+  Energy: 10
+  Metal: 3
+  Trace: 9
   Exotica: 5
-  Chemicals: 27
-  Electronics: 20
-  Ceramsteel: 13
-Build Light Grappler Mech in Starport
-Time to Build / Upgrade: 3
-[10330] Technologies Required to Build Unit (84):
+  Chemicals: 18
+  Electronics: 17
+  Ceramsteel: 6
+Build Scout Mech in Starport
+Time to Build / Upgrade: 2
+[16120] Technologies Required to Build Unit (79):
   [1690] Ceramsteel (84)
-  [2420] Rocket-Propelled Aircraft (87)
   [6220] Mechanically-Enhanced Soldiers (80)
+  [8210] Aircraft Surveillance (74)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Medium Grappler Mech
-Nick Name: Gargoyle
+Name: Mech Commander
+Nick Name: Commodore
 Scores & Strengths:
   Tech Score: 2414
-  Unit Score: 2415
+  Unit Score: 2414
   Average Score: 2414
-  Stat Strength: 1584
-  Total Strength: 2415
-  Planet Strength: 2415
+  Stat Strength: 1630
+  Total Strength: 2414
+  Planet Strength: 2414
   Space Strength: 0
-  Garrison Strength: 645
+  Garrison Strength: 669
 Statistics:
   Movement Type: mech
-  Move Points: 14
+  Move Points: 13
   Spot: 13
-  Camouflage: 9
-  Agility: 16
+  Camouflage: 7
+  Agility: 19
   Armor: 21
   Psy Defense: 21
   Rank: 109
 Attacks:
-  Indirect: 15/26
-  Close: 21/21
+  Air: 12/14
+  Indirect: 11/22
+  Direct: 10/23
+  Close: 12/12
 Load aboard transport: 2
 Immune to Plague
-Upkeep / Maintenance: 141
-Build Cost: 1407
+Upkeep / Maintenance: 158
+Build Cost: 1580
 Build Resource Requirements:
   Food: 3
-  Energy: 13
+  Energy: 15
   Metal: 8
-  Trace: 14
+  Trace: 12
   Exotica: 3
-  Chemicals: 23
-  Electronics: 22
+  Chemicals: 26
+  Electronics: 21
   Ceramsteel: 9
-  Monopols: 31
-Build Medium Grappler Mech in Starport
-Time to Build / Upgrade: 3
+  Monopols: 35
+Build Mech Commander in Starport
+Time to Build / Upgrade: 4
 [12850] Technology Required to Build Unit (71):
   [12850] Mechanized Warriors (71)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Heavy Grappler Mech
-Nick Name: Executioner
+Name: Power Scout Mech
+Nick Name: Katydid
 Scores & Strengths:
   Tech Score: 5401
-  Unit Score: 5401
-  Average Score: 5401
-  Stat Strength: 3128
-  Total Strength: 5401
-  Planet Strength: 5401
+  Unit Score: 3238
+  Average Score: 4320
+  Stat Strength: 2510
+  Total Strength: 3238
+  Planet Strength: 3238
   Space Strength: 0
-  Garrison Strength: 1350
+  Garrison Strength: 690
 Statistics:
   Movement Type: mech
-  Move Points: 16
-  Spot: 14
-  Camouflage: 12
-  Agility: 22
-  Armor: 32
-  Psy Defense: 32
-  Rank: 166
+  Move Points: 22
+  Spot: 18
+  Camouflage: 14
+  Agility: 28
+  Armor: 19
+  Psy Defense: 19
+  Rank: 116
 Attacks:
-  Indirect: 32/28
-  Direct: 21/21
-  Close: 36/26
-Load aboard transport: 3
+  Direct: 19/24
+  Close: 16/17
+Load aboard transport: 1
 Immune to Plague
-Upkeep / Maintenance: 214
-Build Cost: 2136
+Upkeep / Maintenance: 101
+Build Cost: 1014
 Build Resource Requirements:
-  Food: 2
-  Energy: 11
-  Metal: 7
-  Trace: 30
-  Exotica: 2
-  Chemicals: 18
-  Biochems: 28
-  Electronics: 37
-  Ceramsteel: 11
-  Monopols: 30
-Build Heavy Grappler Mech in Starport
-Time to Build / Upgrade: 4
+  Food: 3
+  Energy: 9
+  Metal: 3
+  Trace: 13
+  Exotica: 4
+  Chemicals: 12
+  Biochems: 15
+  Electronics: 22
+  Ceramsteel: 4
+  Monopols: 18
+Build Power Scout Mech in Starport
+Time to Build / Upgrade: 2
 [37610] Technology Required to Build Unit (63):
   [37610] Advanced Mechanized Warriors (63)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Assault Grappler Mech
-Nick Name: Excruciator
+Name: Stealth Scout Mech
+Nick Name: Cicada
 Scores & Strengths:
-  Tech Score: 5809
-  Unit Score: 5809
-  Average Score: 5809
-  Stat Strength: 3478
-  Total Strength: 5809
-  Planet Strength: 5809
+  Tech Score: 7207
+  Unit Score: 6866
+  Average Score: 7037
+  Stat Strength: 5952
+  Total Strength: 6866
+  Planet Strength: 6866
   Space Strength: 0
-  Garrison Strength: 1369
+  Garrison Strength: 1297
 Statistics:
   Movement Type: mech
-  Move Points: 18
-  Spot: 16
-  Camouflage: 12
-  Agility: 24
-  Armor: 33
-  Psy Defense: 33
-  Rank: 172
+  Move Points: 28
+  Spot: 28
+  Camouflage: 36
+  Agility: 44
+  Armor: 24
+  Psy Defense: 24
+  Rank: 153
 Attacks:
-  Indirect: 33/30
-  Direct: 21/23
-  Close: 33/26
-Load aboard transport: 4
+  Direct: 19/26
+  Close: 20/21
+Load aboard transport: 1
 Immune to Plague
-Upkeep / Maintenance: 285
-Build Cost: 2851
+Upkeep / Maintenance: 267
+Build Cost: 2674
 Build Resource Requirements:
-  Food: 1
-  Energy: 11
-  Metal: 6
-  Trace: 12
-  Exotica: 2
-  Chemicals: 18
-  Biochems: 25
-  Electronics: 17
-  Ceramsteel: 9
-  Wetware: 11
-  Monopols: 28
-Build Assault Grappler Mech in Starport
-Time to Build / Upgrade: 4
-[54355] Technologies Required to Build Unit (43):
-  [16745] Wetware (23)
-  [37610] Advanced Mechanized Warriors (63)
+  Food: 3
+  Energy: 8
+  Metal: 3
+  Trace: 19
+  Exotica: 3
+  Chemicals: 12
+  Biochems: 21
+  Electronics: 32
+  Ceramsteel: 4
+  Wetware: 13
+  Monopols: 19
+Build Stealth Scout Mech in Starport
+Time to Build / Upgrade: 3
+[55250] Technology Required to Build Unit (34):
+  [55250] Neumonic Patrolcraft (34)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

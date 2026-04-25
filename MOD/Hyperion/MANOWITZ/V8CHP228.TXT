@@ -1,202 +1,99 @@
-All units of the unit class Psy-Destroyer are listed herein (4 in total):
+All units of the unit class Vau Warrior are listed herein (2 in total):
 
 --1--
-Name: Psy-Destroyer
-Nick Name: LL-DD-Psy
+Name: Vau Warrior
+Nick Name: Warrior
 Scores & Strengths:
-  Tech Score: 4322
-  Unit Score: 4322
-  Average Score: 4322
-  Stat Strength: 2380
-  Total Strength: 4322
-  Planet Strength: 3690
-  Space Strength: 3462
-  Garrison Strength: 922
+  Tech Score: 3886
+  Unit Score: 3885
+  Average Score: 3885
+  Stat Strength: 3173
+  Total Strength: 3885
+  Planet Strength: 3885
+  Space Strength: 0
+  Garrison Strength: 915
 Statistics:
-  Movement Type: lander
-  Move Points: 16
-  Spot: 12
-  Camouflage: 6
-  Agility: 12
-  Armor: 30
-  Psy Defense: 30
-  Rank: 177
+  Movement Type: foot
+  Move Points: 18
+  Spot: 10
+  Camouflage: 12
+  Agility: 20
+  Armor: 21
+  Psy Defense: 42
+  Rank: 118
 Attacks:
-  Direct Space: 13/24
-  Close Space: 16/20
-  Psychic: 15/30
-  Air: 14/22
-  Direct: 12/22
-  Close: 16/18
-Cargo Space: 1
-Load aboard transport: 5
+  Indirect: 16/16
+  Direct: 16/15
+  Close: 18/12
+Load aboard transport: 1
 Immune to Plague
-Upkeep / Maintenance: 632
-Build Cost: 6321
+Upkeep / Maintenance: 120
+Build Cost: 1198
 Build Resource Requirements:
-  Food: 2
-  Energy: 12
-  Metal: 8
-  Trace: 9
+  Food: 1
+  Energy: 5
+  Metal: 5
+  Trace: 5
   Exotica: 2
-  Chemicals: 22
-  Biochems: 19
-  Electronics: 19
-  Ceramsteel: 10
-  Monopols: 30
-  Gems: 38
-  Singularities: 4
-Psy-Destroyer cannot be built
+  Chemicals: 12
+  Biochems: 20
+  Electronics: 13
+  Ceramsteel: 11
+  Wetware: 7
+  Monopols: 24
+Build Vau Warrior in Vau City
+Time to Build / Upgrade: 3
+[24245] Technology Required to Build Unit (50):
+  [24245] Vau Psychology (50)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Psy-Destroyer II
-Nick Name: LL-DD-Psy-2
+Name: Vau Mercenary
+Nick Name: Vau Merc.
 Scores & Strengths:
-  Tech Score: 5091
-  Unit Score: 5091
-  Average Score: 5091
-  Stat Strength: 2828
-  Total Strength: 5091
-  Planet Strength: 4367
-  Space Strength: 4064
-  Garrison Strength: 1029
+  Tech Score: 3886
+  Unit Score: 3886
+  Average Score: 3886
+  Stat Strength: 2796
+  Total Strength: 3886
+  Planet Strength: 3886
+  Space Strength: 0
+  Garrison Strength: 1038
 Statistics:
-  Movement Type: lander
-  Move Points: 18
-  Spot: 14
-  Camouflage: 8
-  Agility: 14
-  Armor: 32
-  Psy Defense: 32
-  Rank: 192
+  Movement Type: foot
+  Move Points: 14
+  Spot: 16
+  Camouflage: 18
+  Agility: 20
+  Armor: 18
+  Psy Defense: 36
+  Rank: 141
 Attacks:
-  Direct Space: 14/25
-  Close Space: 17/22
-  Psychic: 16/32
-  Air: 15/25
-  Direct: 13/24
-  Close: 17/20
-Cargo Space: 1
-Load aboard transport: 5
-Immune to Plague
-Upkeep / Maintenance: 730
-Build Cost: 7296
+  Air: 24/14
+  Indirect: 20/17
+  Direct: 18/16
+  Close: 14/9
+Load aboard transport: 1
+Upkeep / Maintenance: 110
+Build Cost: 1099
 Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 7
+  Food: 1
+  Energy: 6
+  Metal: 4
   Trace: 9
   Exotica: 2
-  Chemicals: 22
-  Biochems: 19
-  Electronics: 18
-  Ceramsteel: 10
-  Monopols: 33
-  Gems: 42
-  Singularities: 4
-Psy-Destroyer II cannot be built
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---3--
-Name: Meson Psy-Destroyer
-Nick Name: LL-DD-Psy-Me
-Scores & Strengths:
-  Tech Score: 7049
-  Unit Score: 7049
-  Average Score: 7049
-  Stat Strength: 3960
-  Total Strength: 7049
-  Planet Strength: 5999
-  Space Strength: 5730
-  Garrison Strength: 1224
-Statistics:
-  Movement Type: lander
-  Move Points: 24
-  Spot: 18
-  Camouflage: 12
-  Agility: 18
-  Armor: 36
-  Psy Defense: 36
-  Rank: 227
-Attacks:
-  Direct Space: 18/28
-  Close Space: 21/26
-  Psychic: 20/36
-  Air: 17/27
-  Direct: 17/26
-  Close: 19/22
-Cargo Space: 1
-Load aboard transport: 5
-Immune to Plague
-Upkeep / Maintenance: 913
-Build Cost: 9133
-Build Resource Requirements:
-  Food: 1
-  Energy: 8
-  Metal: 4
-  Trace: 6
-  Exotica: 2
-  Chemicals: 13
-  Biochems: 12
-  Electronics: 14
-  Ceramsteel: 6
-  Monopols: 21
-  Gems: 47
-  Singularities: 5
-Meson Psy-Destroyer cannot be built
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: Psyber Destroyer
-Nick Name: LL-DD-Psyber
-Scores & Strengths:
-  Tech Score: 8659
-  Unit Score: 8659
-  Average Score: 8659
-  Stat Strength: 4560
-  Total Strength: 8659
-  Planet Strength: 7197
-  Space Strength: 6982
-  Garrison Strength: 1411
-Statistics:
-  Movement Type: lander
-  Move Points: 26
-  Spot: 20
-  Camouflage: 14
-  Agility: 20
-  Armor: 38
-  Psy Defense: 38
-  Rank: 258
-Attacks:
-  Direct Space: 22/31
-  Close Space: 26/30
-  Psychic: 24/40
-  Air: 19/29
-  Direct: 19/29
-  Close: 23/25
-Cargo Space: 1
-Load aboard transport: 5
-Immune to Plague
-Upkeep / Maintenance: 1023
-Build Cost: 10228
-Build Resource Requirements:
-  Food: 1
-  Energy: 8
-  Metal: 3
-  Trace: 4
-  Exotica: 1
   Chemicals: 12
-  Biochems: 17
-  Electronics: 10
-  Ceramsteel: 5
-  Wetware: 6
-  Monopols: 19
-  Gems: 28
-  Singularities: 5
-Psyber Destroyer cannot be built
+  Biochems: 22
+  Electronics: 20
+  Ceramsteel: 8
+  Wetware: 12
+  Monopols: 22
+Build Vau Mercenary in Starport
+Time to Build / Upgrade: 4
+[24245] Technology Required to Build Unit (50):
+  [24245] Vau Psychology (50)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

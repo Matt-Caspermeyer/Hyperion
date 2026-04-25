@@ -1,346 +1,542 @@
-All units of the unit class Reconnaissance Monoplane are listed herein (8 in total):
+All units of the unit class Surface-Surface (S-S) Rock. are listed herein (12 in total):
 
 --1--
-Name: Reconnaissance Monoplane
-Nick Name: A-MR
+Name: Surface-Surface (S-S) Rock.
+Nick Name: S-S-R
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 287
-  Average Score: 240
-  Stat Strength: 287
-  Total Strength: 287
-  Planet Strength: 287
+  Tech Score: 272
+  Unit Score: 272
+  Average Score: 272
+  Stat Strength: 152
+  Total Strength: 272
+  Planet Strength: 272
   Space Strength: 0
-  Garrison Strength: 86
+  Garrison Strength: 272
 Statistics:
   Movement Type: air
-  Move Points: 11
-  Spot: 8
-  Camouflage: 3
-  Agility: 8
-  Armor: 5
-  Psy Defense: 2
-  Rank: 20
+  Move Points: 1
+  Spot: 0
+  Camouflage: 7
+  Agility: 10
+  Armor: 1
+  Psy Defense: 1
+  Rank: 21
+Attacks:
+  Indirect: 6/20
 Load aboard transport: 2
-Upkeep / Maintenance: 9
-Build Cost: 91
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 18
 Build Resource Requirements:
-  Food: 26
-  Energy: 23
-  Metal: 20
-  Trace: 21
-  Exotica: 26
-  Chemicals: 27
-  Electronics: 16
-Build Reconnaissance Monoplane in Factory
+  Food: 5
+  Energy: 60
+  Metal: 1
+  Trace: 25
+  Exotica: 5
+  Chemicals: 78
+  Electronics: 13
+Build Surface-Surface (S-S) Rock. in Chemical Plant
 Time to Build / Upgrade: 3
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
-Counts as planetary flock: YES
-Unit Eats: YES
+[700] Technology Required to Build Unit (90):
+  [700] Rockets (90)
 Unit can be disbanded: YES
 
 --2--
-Name: Attack Fighter Monoplane
-Nick Name: A-MAF
+Name: S-S Missile
+Nick Name: S-S-M
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 321
-  Total Strength: 384
-  Planet Strength: 384
+  Tech Score: 299
+  Unit Score: 299
+  Average Score: 299
+  Stat Strength: 203
+  Total Strength: 299
+  Planet Strength: 299
   Space Strength: 0
-  Garrison Strength: 135
+  Garrison Strength: 149
 Statistics:
   Movement Type: air
-  Move Points: 8
-  Spot: 8
-  Camouflage: 2
-  Agility: 12
-  Armor: 6
-  Psy Defense: 3
-  Rank: 37
+  Move Points: 4
+  Spot: 0
+  Camouflage: 8
+  Agility: 11
+  Armor: 1
+  Psy Defense: 1
+  Rank: 19
 Attacks:
-  Air: 4/5
-  Indirect: 5/5
-  Direct: 3/6
-Load aboard transport: 2
-Upkeep / Maintenance: 13
-Build Cost: 133
+  Indirect: 8/12
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
 Build Resource Requirements:
-  Food: 26
-  Energy: 37
-  Metal: 31
-  Trace: 38
-  Exotica: 25
-  Chemicals: 43
-  Electronics: 25
-Build Attack Fighter Monoplane in Factory
-Time to Build / Upgrade: 4
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 7
+  Energy: 26
+  Metal: 1
+  Trace: 31
+  Exotica: 7
+  Chemicals: 35
+  Electronics: 14
+Build S-S Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[795] Technology Required to Build Unit (86):
+  [795] Missiles (86)
 Unit can be disbanded: YES
 
 --3--
-Name: Bomber Monoplane
-Nick Name: A-MB
+Name: Air-Surface (A-S) Rocket
+Nick Name: A-S-R
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 284
-  Total Strength: 384
-  Planet Strength: 384
+  Tech Score: 534
+  Unit Score: 534
+  Average Score: 534
+  Stat Strength: 426
+  Total Strength: 534
+  Planet Strength: 534
   Space Strength: 0
-  Garrison Strength: 121
+  Garrison Strength: 218
 Statistics:
   Movement Type: air
-  Move Points: 10
-  Spot: 6
-  Camouflage: 2
-  Agility: 8
-  Armor: 8
-  Psy Defense: 4
-  Rank: 42
+  Move Points: 6
+  Spot: 0
+  Camouflage: 8
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 26
 Attacks:
-  Air: 2/10
-  Indirect: 4/20
-Load aboard transport: 3
-Upkeep / Maintenance: 21
-Build Cost: 209
+  Indirect: 4/27
+Load aboard transport: 2
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 15
 Build Resource Requirements:
-  Food: 21
-  Energy: 111
-  Metal: 55
-  Trace: 20
-  Exotica: 21
-  Chemicals: 129
-  Electronics: 12
-Build Bomber Monoplane in Factory
-Time to Build / Upgrade: 6
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 7
+  Energy: 51
+  Metal: 1
+  Trace: 18
+  Exotica: 7
+  Chemicals: 54
+  Electronics: 10
+Build Air-Surface (A-S) Rocket in Chemical Plant
+Time to Build / Upgrade: 3
+[2100] Technologies Required to Build Unit (89):
+  [700] Rockets (90)
+  [1400] Aerial Warfare (87)
 Unit can be disbanded: YES
 
 --4--
-Name: Fighter Monoplane
-Nick Name: A-MF
+Name: A-S Missile
+Nick Name: A-S-M
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 315
-  Total Strength: 384
-  Planet Strength: 384
+  Tech Score: 556
+  Unit Score: 558
+  Average Score: 557
+  Stat Strength: 439
+  Total Strength: 558
+  Planet Strength: 558
   Space Strength: 0
-  Garrison Strength: 128
-Statistics:
-  Movement Type: air
-  Move Points: 9
-  Spot: 8
-  Camouflage: 2
-  Agility: 11
-  Armor: 6
-  Psy Defense: 3
-  Rank: 38
-Attacks:
-  Air: 6/10
-  Indirect: 3/3
-Load aboard transport: 2
-Upkeep / Maintenance: 14
-Build Cost: 138
-Build Resource Requirements:
-  Food: 26
-  Energy: 42
-  Metal: 31
-  Trace: 35
-  Exotica: 26
-  Chemicals: 49
-  Electronics: 25
-Build Fighter Monoplane in Factory
-Time to Build / Upgrade: 4
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Trench Strafer Monoplane
-Nick Name: A-MTS
-Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 303
-  Total Strength: 384
-  Planet Strength: 384
-  Space Strength: 0
-  Garrison Strength: 145
+  Garrison Strength: 210
 Statistics:
   Movement Type: air
   Move Points: 7
-  Spot: 6
-  Camouflage: 2
-  Agility: 13
-  Armor: 6
-  Psy Defense: 3
-  Rank: 32
+  Spot: 0
+  Camouflage: 8
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 28
 Attacks:
-  Air: 2/6
-  Direct: 3/9
-  Close: 7/6
-Load aboard transport: 2
-Upkeep / Maintenance: 15
-Build Cost: 146
+  Indirect: 7/17
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 10
 Build Resource Requirements:
-  Food: 22
-  Energy: 50
-  Metal: 31
-  Trace: 38
-  Exotica: 22
-  Chemicals: 58
-  Electronics: 28
-Build Trench Strafer Monoplane in Factory
-Time to Build / Upgrade: 5
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 7
+  Energy: 27
+  Metal: 1
+  Trace: 20
+  Exotica: 7
+  Chemicals: 29
+  Electronics: 10
+Build A-S Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[2195] Technologies Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
+  [795] Missiles (86)
+Unit can be disbanded: YES
+
+--5--
+Name: S-S Guided Missile
+Nick Name: S-S-GM
+Scores & Strengths:
+  Tech Score: 1004
+  Unit Score: 1004
+  Average Score: 1004
+  Stat Strength: 458
+  Total Strength: 1004
+  Planet Strength: 1004
+  Space Strength: 0
+  Garrison Strength: 317
+Statistics:
+  Movement Type: air
+  Move Points: 10
+  Spot: 0
+  Camouflage: 10
+  Agility: 16
+  Armor: 1
+  Psy Defense: 1
+  Rank: 64
+Attacks:
+  Indirect: 26/21
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
+Build Resource Requirements:
+  Food: 4
+  Energy: 23
+  Metal: 1
+  Trace: 27
+  Exotica: 4
+  Chemicals: 28
+  Electronics: 9
+Build S-S Guided Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[4935] Technologies Required to Build Unit (83):
+  [1255] Digital Fly-by-Wire (81)
+  [3680] Supersonic Missiles (84)
 Unit can be disbanded: YES
 
 --6--
-Name: Battle Monoplane
-Nick Name: A-MBttl
+Name: A-S Guided Missile
+Nick Name: A-S-GM
 Scores & Strengths:
-  Tech Score: 265
-  Unit Score: 527
-  Average Score: 396
-  Stat Strength: 422
-  Total Strength: 527
-  Planet Strength: 527
+  Tech Score: 1041
+  Unit Score: 1043
+  Average Score: 1042
+  Stat Strength: 530
+  Total Strength: 1043
+  Planet Strength: 1043
   Space Strength: 0
-  Garrison Strength: 175
+  Garrison Strength: 368
 Statistics:
   Movement Type: air
-  Move Points: 9
-  Spot: 6
-  Camouflage: 2
-  Agility: 16
-  Armor: 6
-  Psy Defense: 3
-  Rank: 45
+  Move Points: 8
+  Spot: 0
+  Camouflage: 8
+  Agility: 20
+  Armor: 1
+  Psy Defense: 1
+  Rank: 63
 Attacks:
-  Air: 7/8
-  Indirect: 7/7
-Load aboard transport: 2
-Upkeep / Maintenance: 10
-Build Cost: 99
+  Indirect: 27/19
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 8
 Build Resource Requirements:
-  Food: 17
-  Energy: 29
-  Metal: 17
-  Trace: 30
-  Exotica: 17
-  Chemicals: 35
-  Electronics: 17
-Build Battle Monoplane in Factory
-Time to Build / Upgrade: 4
-[1055] Technologies Required to Build Unit (94):
-  [445] Monoplane (94)
-  [610] Air-Air Rockets (94)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 3
+  Energy: 15
+  Metal: 1
+  Trace: 22
+  Exotica: 3
+  Chemicals: 18
+  Electronics: 8
+Build A-S Guided Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[7355] Technologies Required to Build Unit (84):
+  [1255] Digital Fly-by-Wire (81)
+  [2420] Rocket-Propelled Aircraft (87)
+  [3680] Supersonic Missiles (84)
 Unit can be disbanded: YES
 
 --7--
-Name: Large Bomber Monoplane
-Nick Name: A-MLB
+Name: S-S Supercruise Missile
+Nick Name: S-S-ScGM
 Scores & Strengths:
-  Tech Score: 265
-  Unit Score: 527
-  Average Score: 396
-  Stat Strength: 410
-  Total Strength: 527
-  Planet Strength: 527
+  Tech Score: 1174
+  Unit Score: 1177
+  Average Score: 1176
+  Stat Strength: 533
+  Total Strength: 1177
+  Planet Strength: 1177
   Space Strength: 0
-  Garrison Strength: 158
+  Garrison Strength: 354
 Statistics:
   Movement Type: air
   Move Points: 11
-  Spot: 6
-  Camouflage: 2
-  Agility: 13
-  Armor: 8
-  Psy Defense: 4
-  Rank: 47
+  Spot: 0
+  Camouflage: 11
+  Agility: 17
+  Armor: 1
+  Psy Defense: 1
+  Rank: 71
 Attacks:
-  Air: 3/5
-  Indirect: 6/17
-Load aboard transport: 4
-Upkeep / Maintenance: 12
-Build Cost: 117
+  Indirect: 28/23
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
 Build Resource Requirements:
-  Food: 16
-  Energy: 48
-  Metal: 30
-  Trace: 19
-  Exotica: 16
-  Chemicals: 58
-  Electronics: 11
-Build Large Bomber Monoplane in Factory
-Time to Build / Upgrade: 4
-[1055] Technologies Required to Build Unit (94):
-  [445] Monoplane (94)
-  [610] Air-Air Rockets (94)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 4
+  Energy: 22
+  Metal: 1
+  Trace: 27
+  Exotica: 4
+  Chemicals: 29
+  Electronics: 10
+Build S-S Supercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[5860] Technologies Required to Build Unit (80):
+  [1690] Fly-by-Wireless (76)
+  [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
 --8--
-Name: Giant Bomber Monoplane
-Nick Name: A-MGB
+Name: A-S Supercruise Missile
+Nick Name: A-S-ScGM
 Scores & Strengths:
-  Tech Score: 265
-  Unit Score: 528
-  Average Score: 396
-  Stat Strength: 409
-  Total Strength: 528
-  Planet Strength: 528
+  Tech Score: 1247
+  Unit Score: 1235
+  Average Score: 1241
+  Stat Strength: 605
+  Total Strength: 1235
+  Planet Strength: 1235
   Space Strength: 0
-  Garrison Strength: 152
+  Garrison Strength: 411
+Statistics:
+  Movement Type: air
+  Move Points: 9
+  Spot: 0
+  Camouflage: 9
+  Agility: 21
+  Armor: 1
+  Psy Defense: 1
+  Rank: 71
+Attacks:
+  Indirect: 30/21
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 8
+Build Resource Requirements:
+  Food: 3
+  Energy: 15
+  Metal: 1
+  Trace: 24
+  Exotica: 3
+  Chemicals: 19
+  Electronics: 8
+Build A-S Supercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[9060] Technologies Required to Build Unit (82):
+  [1690] Fly-by-Wireless (76)
+  [3200] Supersonic Aircraft (85)
+  [4170] Supercruise Missiles (84)
+Unit can be disbanded: YES
+
+--9--
+Name: S-S Hypersonic Missile
+Nick Name: S-S-HsGM
+Scores & Strengths:
+  Tech Score: 1587
+  Unit Score: 1522
+  Average Score: 1554
+  Stat Strength: 664
+  Total Strength: 1522
+  Planet Strength: 1522
+  Space Strength: 0
+  Garrison Strength: 422
+Statistics:
+  Movement Type: air
+  Move Points: 13
+  Spot: 0
+  Camouflage: 13
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 85
+Attacks:
+  Indirect: 33/26
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
+Build Resource Requirements:
+  Food: 4
+  Energy: 21
+  Metal: 1
+  Trace: 26
+  Exotica: 4
+  Chemicals: 31
+  Electronics: 10
+Build S-S Hypersonic Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[9240] Technologies Required to Build Unit (78):
+  [2935] Intelligent FCS (73)
+  [6305] Hypersonic Missiles (83)
+Unit can be disbanded: YES
+
+--10--
+Name: A-S Hypersonic Missile
+Nick Name: A-S-HsGM
+Scores & Strengths:
+  Tech Score: 1767
+  Unit Score: 1606
+  Average Score: 1687
+  Stat Strength: 731
+  Total Strength: 1606
+  Planet Strength: 1606
+  Space Strength: 0
+  Garrison Strength: 507
+Statistics:
+  Movement Type: air
+  Move Points: 10
+  Spot: 0
+  Camouflage: 10
+  Agility: 23
+  Armor: 1
+  Psy Defense: 1
+  Rank: 87
+Attacks:
+  Indirect: 35/25
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 8
+Build Resource Requirements:
+  Food: 3
+  Energy: 14
+  Metal: 1
+  Trace: 21
+  Exotica: 3
+  Chemicals: 20
+  Electronics: 7
+Build A-S Hypersonic Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[14905] Technologies Required to Build Unit (79):
+  [2935] Intelligent FCS (73)
+  [5665] Hypersonic Aircraft (82)
+  [6305] Hypersonic Missiles (83)
+Unit can be disbanded: YES
+
+--11--
+Name: S-S Hypercruise Missile
+Nick Name: S-S-HcGM
+Scores & Strengths:
+  Tech Score: 2336
+  Unit Score: 2138
+  Average Score: 2237
+  Stat Strength: 858
+  Total Strength: 2138
+  Planet Strength: 2138
+  Space Strength: 0
+  Garrison Strength: 552
+Statistics:
+  Movement Type: air
+  Move Points: 15
+  Spot: 0
+  Camouflage: 15
+  Agility: 20
+  Armor: 2
+  Psy Defense: 2
+  Rank: 107
+Attacks:
+  Indirect: 40/32
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 15
+Build Resource Requirements:
+  Food: 4
+  Energy: 25
+  Trace: 26
+  Exotica: 4
+  Chemicals: 39
+  Electronics: 10
+  Ceramsteel: 1
+Build S-S Hypercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[14205] Technologies Required to Build Unit (62):
+  [7100] Artificial Intelligence (46)
+  [7105] Hypercruise Missiles (77)
+Unit can be disbanded: YES
+
+--12--
+Name: A-S Hypercruise Missile
+Nick Name: A-S-HcGM
+Scores & Strengths:
+  Tech Score: 2505
+  Unit Score: 2139
+  Average Score: 2322
+  Stat Strength: 921
+  Total Strength: 2139
+  Planet Strength: 2139
+  Space Strength: 0
+  Garrison Strength: 617
 Statistics:
   Movement Type: air
   Move Points: 12
-  Spot: 6
-  Camouflage: 2
-  Agility: 10
-  Armor: 10
-  Psy Defense: 5
-  Rank: 48
+  Spot: 0
+  Camouflage: 12
+  Agility: 25
+  Armor: 2
+  Psy Defense: 2
+  Rank: 106
 Attacks:
-  Indirect: 7/17
-Load aboard transport: 5
-Upkeep / Maintenance: 11
-Build Cost: 113
+  Indirect: 42/29
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 9
 Build Resource Requirements:
-  Food: 15
-  Energy: 44
-  Metal: 47
-  Trace: 16
-  Exotica: 15
-  Chemicals: 53
+  Food: 3
+  Energy: 15
+  Trace: 21
+  Exotica: 3
+  Chemicals: 22
   Electronics: 7
-Build Giant Bomber Monoplane in Factory
-Time to Build / Upgrade: 4
-[1055] Technologies Required to Build Unit (94):
-  [445] Monoplane (94)
-  [610] Air-Air Rockets (94)
-Counts as planetary flock: YES
-Unit Eats: YES
+Build A-S Hypercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[21815] Technologies Required to Build Unit (68):
+  [7100] Artificial Intelligence (46)
+  [7610] Atmospheric Aircraft (80)
+  [7105] Hypercruise Missiles (77)
 Unit can be disbanded: YES

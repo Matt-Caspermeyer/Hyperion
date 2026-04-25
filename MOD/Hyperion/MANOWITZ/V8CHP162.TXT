@@ -1,39 +1,87 @@
-All units of the unit class Holy Relic are listed herein (1 in total):
+All units of the unit class Spy Plane are listed herein (2 in total):
 
 --1--
-Name: Holy Relic
-Nick Name: Relic
+Name: Spy Plane
+Nick Name: Sage
 Scores & Strengths:
-  Tech Score: 988
-  Unit Score: 984
-  Average Score: 986
-  Stat Strength: 984
-  Total Strength: 0
-  Planet Strength: 0
+  Tech Score: 1725
+  Unit Score: 926
+  Average Score: 1325
+  Stat Strength: 926
+  Total Strength: 926
+  Planet Strength: 926
   Space Strength: 0
-  Garrison Strength: 0
+  Garrison Strength: 197
 Statistics:
-  Movement Type: hover
-  Move Points: 24
-  Spot: 0
-  Camouflage: 20
-  Agility: 0
-  Armor: 2
-  Psy Defense: 2
-  Rank: 531
-Load aboard transport: 1
-Does not participate in combat
-Relic
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 17
-Build Cost: 173
+  Movement Type: air
+  Move Points: 22
+  Spot: 10
+  Camouflage: 10
+  Agility: 12
+  Armor: 7
+  Psy Defense: 7
+  Rank: 46
+Load aboard transport: 2
+Upkeep / Maintenance: 4
+Build Cost: 42
 Build Resource Requirements:
-  Food: 10
+  Food: 7
   Energy: 12
-  Trace: 27
-  Exotica: 10
-  Chemicals: 19
-  Electronics: 35
-  Monopols: 24
-Holy Relic cannot be built
+  Metal: 1
+  Trace: 5
+  Exotica: 7
+  Chemicals: 18
+  Electronics: 9
+  Ceramsteel: 4
+Build Spy Plane in Factory
+Time to Build / Upgrade: 1
+[8210] Technology Required to Build Unit (74):
+  [8210] Aircraft Surveillance (74)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Stealth Spy Plane
+Nick Name: Seer
+Scores & Strengths:
+  Tech Score: 7253
+  Unit Score: 6893
+  Average Score: 7073
+  Stat Strength: 6893
+  Total Strength: 6893
+  Planet Strength: 6893
+  Space Strength: 0
+  Garrison Strength: 1063
+Statistics:
+  Movement Type: air
+  Move Points: 42
+  Spot: 16
+  Camouflage: 40
+  Agility: 31
+  Armor: 34
+  Psy Defense: 34
+  Rank: 109
+Load aboard transport: 2
+Upkeep / Maintenance: 96
+Build Cost: 956
+Build Resource Requirements:
+  Food: 3
+  Energy: 6
+  Metal: 5
+  Trace: 14
+  Exotica: 3
+  Chemicals: 10
+  Biochems: 15
+  Electronics: 25
+  Ceramsteel: 8
+  Wetware: 4
+  Monopols: 18
+Build Stealth Spy Plane in Factory
+Time to Build / Upgrade: 3
+[63460] Technologies Required to Build Unit (54):
+  [8210] Aircraft Surveillance (74)
+  [55250] Neumonic Patrolcraft (34)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES

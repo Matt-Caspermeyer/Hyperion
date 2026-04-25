@@ -1,655 +1,389 @@
-All units of the unit class Holy Sp. Fighter are listed herein (15 in total):
+All units of the unit class Torpedo Boat Destroyer are listed herein (8 in total):
 
 --1--
-Name: Holy Sp. Fighter
-Nick Name: SS-HSF
+Name: Torpedo Boat Destroyer
+Nick Name: NN-DTB
 Scores & Strengths:
-  Tech Score: 364
-  Unit Score: 364
-  Average Score: 364
-  Stat Strength: 283
-  Total Strength: 364
-  Planet Strength: 0
-  Space Strength: 364
-  Garrison Strength: 0
+  Tech Score: 174
+  Unit Score: 344
+  Average Score: 259
+  Stat Strength: 258
+  Total Strength: 344
+  Planet Strength: 344
+  Space Strength: 0
+  Garrison Strength: 130
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
-  Camouflage: 2
-  Agility: 13
-  Armor: 3
-  Psy Defense: 6
-  Rank: 714
+  Movement Type: naval
+  Move Points: 7
+  Spot: 2
+  Camouflage: 1
+  Agility: 2
+  Armor: 10
+  Psy Defense: 10
+  Rank: 41
 Attacks:
-  Close Space: 7/8
-  Psychic: 5/5
-Load aboard transport: 2
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 48
-Build Cost: 403
+  Water: 2/22
+  Indirect: 2/21
+Cargo Space: 1
+Load aboard transport: 4
+Upkeep / Maintenance: 70
+Build Cost: 698
 Build Resource Requirements:
-  Energy: 1
-  Metal: 8
-  Trace: 30
-  Chemicals: 23
-  Electronics: 21
-  Gems: 4
-Upgrade Clergy to Holy Sp. Fighter at Church
-Time to Build / Upgrade: 1
-[1030] Technologies Required to Build Unit (86):
-  [700] Rockets (90)
-  [330] Holy Warriors (82)
+  Food: 6
+  Energy: 186
+  Metal: 53
+  Trace: 5
+  Exotica: 5
+  Chemicals: 156
+  Gems: 1
+Build Torpedo Boat Destroyer in Well
+Time to Build / Upgrade: 6
+[535] Technologies Required to Build Unit (99):
+  [100] Medical & Biological (100)
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Holy Lt Sp. Fighter
-Nick Name: SS-HLSF
+Name: Naval Destroyer
+Nick Name: NN-DD
 Scores & Strengths:
-  Tech Score: 364
-  Unit Score: 364
-  Average Score: 364
-  Stat Strength: 285
-  Total Strength: 364
-  Planet Strength: 0
-  Space Strength: 364
-  Garrison Strength: 0
+  Tech Score: 679
+  Unit Score: 1357
+  Average Score: 1018
+  Stat Strength: 971
+  Total Strength: 1357
+  Planet Strength: 1357
+  Space Strength: 0
+  Garrison Strength: 452
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
+  Movement Type: naval
+  Move Points: 9
+  Spot: 10
   Camouflage: 2
-  Agility: 14
-  Armor: 2
-  Psy Defense: 4
-  Rank: 714
+  Agility: 8
+  Armor: 19
+  Psy Defense: 19
+  Rank: 78
 Attacks:
-  Close Space: 11/5
-  Psychic: 6/4
-Load aboard transport: 1
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 43
-Build Cost: 360
+  Water: 7/18
+  Air: 12/7
+  Indirect: 6/16
+  Direct: 8/10
+Cargo Space: 1
+Load aboard transport: 5
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 53
+Build Cost: 531
 Build Resource Requirements:
-  Metal: 2
-  Trace: 44
-  Chemicals: 19
-  Electronics: 30
-  Gems: 1
-Upgrade Clergy to Holy Lt Sp. Fighter at Church
-Time to Build / Upgrade: 1
-[1030] Technologies Required to Build Unit (86):
-  [700] Rockets (90)
-  [330] Holy Warriors (82)
+  Food: 6
+  Energy: 39
+  Metal: 64
+  Trace: 25
+  Exotica: 6
+  Chemicals: 38
+  Biochems: 15
+  Electronics: 17
+Build Naval Destroyer in Well
+Time to Build / Upgrade: 4
+[2480] Technologies Required to Build Unit (95):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2270] Naval Escort Ships (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Holy Hv Sp. Fighter
-Nick Name: SS-HHSF
+Name: Guid. Miss. Destroyer
+Nick Name: NN-DGM
 Scores & Strengths:
-  Tech Score: 364
-  Unit Score: 364
-  Average Score: 364
-  Stat Strength: 293
-  Total Strength: 364
-  Planet Strength: 0
-  Space Strength: 364
-  Garrison Strength: 0
+  Tech Score: 1339
+  Unit Score: 2678
+  Average Score: 2008
+  Stat Strength: 1739
+  Total Strength: 2678
+  Planet Strength: 2678
+  Space Strength: 0
+  Garrison Strength: 691
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
-  Camouflage: 2
-  Agility: 12
-  Armor: 4
-  Psy Defense: 8
-  Rank: 713
+  Movement Type: naval
+  Move Points: 15
+  Spot: 11
+  Camouflage: 5
+  Agility: 4
+  Armor: 26
+  Psy Defense: 26
+  Rank: 114
 Attacks:
-  Close Space: 5/10
-  Psychic: 3/7
-Load aboard transport: 3
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 66
-Build Cost: 584
+  Water: 11/27
+  Air: 17/12
+  Indirect: 10/23
+  Direct: 13/16
+Cargo Space: 1
+Load aboard transport: 5
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 90
+Build Cost: 904
 Build Resource Requirements:
-  Energy: 4
-  Metal: 17
-  Trace: 25
-  Chemicals: 27
-  Electronics: 17
-  Gems: 10
-Upgrade Clergy to Holy Hv Sp. Fighter at Church
-Time to Build / Upgrade: 1
-[1030] Technologies Required to Build Unit (86):
-  [700] Rockets (90)
-  [330] Holy Warriors (82)
+  Food: 4
+  Energy: 50
+  Metal: 36
+  Trace: 21
+  Exotica: 4
+  Chemicals: 69
+  Biochems: 13
+  Electronics: 23
+  Ceramsteel: 43
+Build Guid. Miss. Destroyer in Well
+Time to Build / Upgrade: 6
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Holy Hv Sp. Fighter II
-Nick Name: SS-HHSF II
+Name: Amphibious Destroyer
+Nick Name: CC-DD
 Scores & Strengths:
-  Tech Score: 725
-  Unit Score: 728
-  Average Score: 727
-  Stat Strength: 548
-  Total Strength: 728
-  Planet Strength: 0
-  Space Strength: 728
-  Garrison Strength: 0
+  Tech Score: 2767
+  Unit Score: 2767
+  Average Score: 2767
+  Stat Strength: 2152
+  Total Strength: 2767
+  Planet Strength: 2767
+  Space Strength: 0
+  Garrison Strength: 652
 Statistics:
-  Movement Type: space
-  Move Points: 6
-  Spot: 10
-  Camouflage: 6
-  Agility: 14
-  Armor: 6
-  Psy Defense: 12
-  Rank: 737
+  Movement Type: craft
+  Move Points: 18
+  Spot: 12
+  Camouflage: 4
+  Agility: 10
+  Armor: 28
+  Psy Defense: 28
+  Rank: 112
 Attacks:
-  Close Space: 8/12
-  Psychic: 6/14
-Load aboard transport: 3
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 87
-Build Cost: 285
+  Water: 9/20
+  Air: 11/17
+  Indirect: 8/18
+  Direct: 8/13
+Cargo Space: 1
+Load aboard transport: 5
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 14
+Build Cost: 140
 Build Resource Requirements:
-  Gems: 7
-Upgrade Holy Hv Sp. Fighter to Holy Hv Sp. Fighter II at Church
-Time to Build / Upgrade: 1
-[3325] Technologies Required to Build Unit (85):
-  [700] Rockets (90)
-  [1100] Omen (76)
-  [330] Holy Warriors (82)
-  [1195] Naval Warfare (90)
+  Food: 2
+  Energy: 15
+  Metal: 16
+  Trace: 5
+  Exotica: 2
+  Chemicals: 22
+  Biochems: 16
+  Electronics: 6
+  Ceramsteel: 17
+Build Amphibious Destroyer in Well
+Time to Build / Upgrade: 3
+[23555] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [6655] PTS Missile Navalcraft (83)
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Holy Lt Sp. Fighter II
-Nick Name: SS-HLSF II
+Name: PTS Missile Destroyer
+Nick Name: NN-DPTS
 Scores & Strengths:
-  Tech Score: 725
-  Unit Score: 730
-  Average Score: 728
-  Stat Strength: 508
-  Total Strength: 730
-  Planet Strength: 0
-  Space Strength: 730
-  Garrison Strength: 0
+  Tech Score: 1474
+  Unit Score: 3685
+  Average Score: 2579
+  Stat Strength: 2300
+  Total Strength: 3685
+  Planet Strength: 3545
+  Space Strength: 2440
+  Garrison Strength: 886
 Statistics:
-  Movement Type: space
-  Move Points: 6
-  Spot: 10
-  Camouflage: 6
-  Agility: 16
-  Armor: 4
-  Psy Defense: 8
-  Rank: 741
+  Movement Type: naval
+  Move Points: 16
+  Spot: 12
+  Camouflage: 8
+  Agility: 6
+  Armor: 30
+  Psy Defense: 30
+  Rank: 141
 Attacks:
-  Close Space: 14/9
-  Psychic: 12/8
-Load aboard transport: 1
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 44
-Build Cost: 83
+  Ranged Space: 7/20
+  Water: 15/28
+  Air: 19/14
+  Indirect: 13/25
+  Direct: 13/18
+Cargo Space: 1
+Load aboard transport: 6
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 135
+Build Cost: 1346
 Build Resource Requirements:
-  Metal: 1
-  Gems: 3
-Upgrade Holy Lt Sp. Fighter to Holy Lt Sp. Fighter II at Church
-Time to Build / Upgrade: 1
-[3325] Technologies Required to Build Unit (85):
-  [700] Rockets (90)
-  [1100] Omen (76)
-  [330] Holy Warriors (82)
-  [1195] Naval Warfare (90)
+  Food: 4
+  Energy: 63
+  Metal: 44
+  Trace: 28
+  Exotica: 5
+  Chemicals: 89
+  Biochems: 16
+  Electronics: 30
+  Ceramsteel: 54
+Build PTS Missile Destroyer in Well
+Time to Build / Upgrade: 7
+[6655] Technology Required to Build Unit (83):
+  [6655] PTS Missile Navalcraft (83)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Holy Sp. Fighter II
-Nick Name: SS-HSF II
+Name: Nuclear Destroyer
+Nick Name: NN-DDN
 Scores & Strengths:
-  Tech Score: 725
-  Unit Score: 732
-  Average Score: 729
-  Stat Strength: 522
-  Total Strength: 732
-  Planet Strength: 0
-  Space Strength: 732
-  Garrison Strength: 0
+  Tech Score: 1579
+  Unit Score: 4737
+  Average Score: 3158
+  Stat Strength: 2925
+  Total Strength: 4737
+  Planet Strength: 4737
+  Space Strength: 0
+  Garrison Strength: 1116
 Statistics:
-  Movement Type: space
-  Move Points: 6
-  Spot: 10
-  Camouflage: 6
-  Agility: 15
-  Armor: 5
-  Psy Defense: 10
-  Rank: 740
+  Movement Type: naval
+  Move Points: 18
+  Spot: 12
+  Camouflage: 9
+  Agility: 8
+  Armor: 34
+  Psy Defense: 34
+  Rank: 151
 Attacks:
-  Close Space: 10/11
-  Psychic: 10/10
-Load aboard transport: 2
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 55
-Build Cost: 147
+  Water: 17/34
+  Air: 21/16
+  Indirect: 16/30
+  Direct: 19/22
+Cargo Space: 1
+Load aboard transport: 5
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 190
+Build Cost: 1897
 Build Resource Requirements:
-  Gems: 3
-Upgrade Holy Sp. Fighter to Holy Sp. Fighter II at Church
-Time to Build / Upgrade: 1
-[3325] Technologies Required to Build Unit (85):
-  [700] Rockets (90)
-  [1100] Omen (76)
-  [330] Holy Warriors (82)
-  [1195] Naval Warfare (90)
+  Food: 5
+  Energy: 72
+  Metal: 52
+  Trace: 35
+  Exotica: 5
+  Chemicals: 104
+  Biochems: 19
+  Electronics: 38
+  Ceramsteel: 67
+Build Nuclear Destroyer in Well
+Time to Build / Upgrade: 9
+[7295] Technology Required to Build Unit (81):
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Holy Sp. Fighter III
-Nick Name: SS-HSF III
+Name: Meson Amphibious Destroyer
+Nick Name: CC-MDD
 Scores & Strengths:
-  Tech Score: 1706
-  Unit Score: 1706
-  Average Score: 1706
-  Stat Strength: 1222
-  Total Strength: 1706
-  Planet Strength: 0
-  Space Strength: 1706
-  Garrison Strength: 0
+  Tech Score: 5449
+  Unit Score: 5449
+  Average Score: 5449
+  Stat Strength: 4138
+  Total Strength: 5449
+  Planet Strength: 4955
+  Space Strength: 4632
+  Garrison Strength: 1107
 Statistics:
-  Movement Type: space
-  Move Points: 12
-  Spot: 12
-  Camouflage: 8
-  Agility: 25
-  Armor: 7
-  Psy Defense: 14
-  Rank: 776
+  Movement Type: craft
+  Move Points: 20
+  Spot: 14
+  Camouflage: 6
+  Agility: 12
+  Armor: 41
+  Psy Defense: 41
+  Rank: 174
 Attacks:
-  Close Space: 21/14
-  Psychic: 19/10
-Load aboard transport: 2
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 66
-Build Cost: 512
+  Ranged Space: 19/26
+  Water: 10/22
+  Air: 13/19
+  Indirect: 10/20
+  Direct: 10/15
+Cargo Space: 1
+Load aboard transport: 6
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 121
+Build Cost: 1072
 Build Resource Requirements:
-  Trace: 1
-  Chemicals: 1
-  Biochems: 11
   Electronics: 6
-  Ceramsteel: 7
-Upgrade Holy Sp. Fighter II to Holy Sp. Fighter III at Church
+  Monopols: 27
+Upgrade Amphibious Destroyer to Meson Amphibious Destroyer at Well
 Time to Build / Upgrade: 1
-[9400] Technologies Required to Build Unit (74):
-  [2585] Supersonics (87)
-  [330] Holy Warriors (82)
-  [1790] Sixth Sense (45)
-  [4695] Advanced Minor Watercraft (83)
+[58695] Technologies Required to Build Unit (79):
+  [2855] Naval Amphibious Ships (87)
+  [27875] PTS Meson Navalcraft (74)
+  [27965] Jump Escorts (75)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Holy Lt Sp. Fighter III
-Nick Name: SS-HLSF III
+Name: Hover Destroyer
+Nick Name: Annihilator
 Scores & Strengths:
-  Tech Score: 1706
-  Unit Score: 1706
-  Average Score: 1706
-  Stat Strength: 1208
-  Total Strength: 1706
-  Planet Strength: 0
-  Space Strength: 1706
-  Garrison Strength: 0
+  Tech Score: 6233
+  Unit Score: 6304
+  Average Score: 6268
+  Stat Strength: 5073
+  Total Strength: 6304
+  Planet Strength: 6304
+  Space Strength: 0
+  Garrison Strength: 1409
 Statistics:
-  Movement Type: space
-  Move Points: 12
-  Spot: 12
+  Movement Type: hover
+  Move Points: 20
+  Spot: 16
   Camouflage: 8
-  Agility: 26
-  Armor: 6
-  Psy Defense: 12
-  Rank: 777
+  Agility: 11
+  Armor: 46
+  Psy Defense: 46
+  Rank: 163
 Attacks:
-  Close Space: 23/14
-  Psychic: 22/8
-Load aboard transport: 1
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 56
-Build Cost: 481
+  Water: 12/23
+  Air: 17/23
+  Indirect: 10/34
+  Direct: 14/16
+Cargo Space: 1
+Load aboard transport: 5
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 201
+Build Cost: 2011
 Build Resource Requirements:
-  Energy: 1
-  Chemicals: 4
-  Biochems: 12
-  Electronics: 4
-  Ceramsteel: 5
-Upgrade Holy Lt Sp. Fighter II to Holy Lt Sp. Fighter III at Church
-Time to Build / Upgrade: 1
-[9400] Technologies Required to Build Unit (74):
-  [2585] Supersonics (87)
-  [330] Holy Warriors (82)
-  [1790] Sixth Sense (45)
-  [4695] Advanced Minor Watercraft (83)
+  Food: 1
+  Energy: 11
+  Metal: 9
+  Trace: 3
+  Exotica: 1
+  Chemicals: 20
+  Biochems: 25
+  Electronics: 11
+  Ceramsteel: 18
+  Wetware: 4
+  Monopols: 40
+Build Hover Destroyer in Well
+Time to Build / Upgrade: 4
+[45520] Technology Required to Build Unit (53):
+  [45520] Hover Navalcraft (53)
 Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---9--
-Name: Holy Hv Sp. Fighter III
-Nick Name: SS-HHSF III
-Scores & Strengths:
-  Tech Score: 1706
-  Unit Score: 1706
-  Average Score: 1706
-  Stat Strength: 1248
-  Total Strength: 1706
-  Planet Strength: 0
-  Space Strength: 1706
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 12
-  Spot: 12
-  Camouflage: 8
-  Agility: 24
-  Armor: 8
-  Psy Defense: 16
-  Rank: 774
-Attacks:
-  Close Space: 19/16
-  Psychic: 14/11
-Load aboard transport: 3
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 71
-Build Cost: 422
-Build Resource Requirements:
-  Trace: 2
-  Chemicals: 2
-  Biochems: 10
-  Electronics: 6
-  Ceramsteel: 9
-Upgrade Holy Hv Sp. Fighter II to Holy Hv Sp. Fighter III at Church
-Time to Build / Upgrade: 1
-[9400] Technologies Required to Build Unit (74):
-  [2585] Supersonics (87)
-  [330] Holy Warriors (82)
-  [1790] Sixth Sense (45)
-  [4695] Advanced Minor Watercraft (83)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---10--
-Name: Sathra Hv Fighter
-Nick Name: JJ-HHSF
-Scores & Strengths:
-  Tech Score: 2544
-  Unit Score: 2572
-  Average Score: 2558
-  Stat Strength: 1891
-  Total Strength: 2572
-  Planet Strength: 0
-  Space Strength: 2572
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 15
-  Spot: 15
-  Camouflage: 10
-  Agility: 29
-  Armor: 10
-  Psy Defense: 20
-  Rank: 798
-Attacks:
-  Close Space: 23/20
-  Psychic: 17/13
-Load aboard transport: 3
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 393
-Build Cost: 3346
-Build Resource Requirements:
-  Biochems: 10
-  Electronics: 7
-  Ceramsteel: 11
-  Singularities: 4
-Upgrade Holy Hv Sp. Fighter to Sathra Hv Fighter at Church
-Time to Build / Upgrade: 1
-[16135] Technologies Required to Build Unit (68):
-  [4920] Hypercruise (82)
-  [330] Holy Warriors (82)
-  [3590] Sathraists (26)
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---11--
-Name: Sathra Lt Fighter
-Nick Name: JJ-HLSF
-Scores & Strengths:
-  Tech Score: 2544
-  Unit Score: 2594
-  Average Score: 2569
-  Stat Strength: 1848
-  Total Strength: 2594
-  Planet Strength: 0
-  Space Strength: 2594
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 15
-  Spot: 15
-  Camouflage: 10
-  Agility: 32
-  Armor: 7
-  Psy Defense: 15
-  Rank: 801
-Attacks:
-  Close Space: 28/17
-  Psychic: 27/10
-Load aboard transport: 1
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 386
-Build Cost: 3504
-Build Resource Requirements:
-  Chemicals: 1
-  Biochems: 13
-  Electronics: 1
-  Ceramsteel: 6
-  Gems: 2
-  Singularities: 4
-Upgrade Holy Lt Sp. Fighter to Sathra Lt Fighter at Church
-Time to Build / Upgrade: 1
-[16135] Technologies Required to Build Unit (68):
-  [4920] Hypercruise (82)
-  [330] Holy Warriors (82)
-  [3590] Sathraists (26)
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---12--
-Name: Sathra Fighter
-Nick Name: JJ-HSF
-Scores & Strengths:
-  Tech Score: 2544
-  Unit Score: 2599
-  Average Score: 2571
-  Stat Strength: 1881
-  Total Strength: 2599
-  Planet Strength: 0
-  Space Strength: 2599
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 15
-  Spot: 15
-  Camouflage: 10
-  Agility: 31
-  Armor: 9
-  Psy Defense: 17
-  Rank: 800
-Attacks:
-  Close Space: 26/17
-  Psychic: 23/12
-Load aboard transport: 2
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 392
-Build Cost: 3516
-Build Resource Requirements:
-  Biochems: 12
-  Electronics: 7
-  Ceramsteel: 8
-  Gems: 1
-  Singularities: 4
-Upgrade Holy Sp. Fighter to Sathra Fighter at Church
-Time to Build / Upgrade: 1
-[16135] Technologies Required to Build Unit (68):
-  [4920] Hypercruise (82)
-  [330] Holy Warriors (82)
-  [3590] Sathraists (26)
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---13--
-Name: Sathra Hv Fighter II
-Nick Name: JJ-HHSF II
-Scores & Strengths:
-  Tech Score: 4814
-  Unit Score: 4763
-  Average Score: 4789
-  Stat Strength: 3467
-  Total Strength: 4763
-  Planet Strength: 0
-  Space Strength: 4763
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 20
-  Spot: 20
-  Camouflage: 13
-  Agility: 40
-  Armor: 13
-  Psy Defense: 27
-  Rank: 846
-Attacks:
-  Close Space: 32/27
-  Psychic: 24/18
-Load aboard transport: 3
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 674
-Build Cost: 3392
-Build Resource Requirements:
-  Electronics: 2
-  Monopols: 21
-  Gems: 8
-Upgrade Sathra Hv Fighter to Sathra Hv Fighter II at Church
-Time to Build / Upgrade: 1
-[39650] Technologies Required to Build Unit (63):
-  [7610] Atmospheric Aircraft (80)
-  [330] Holy Warriors (82)
-  [3835] Sathra's Space Doctrine (17)
-  [27875] PTS Meson Navalcraft (74)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---14--
-Name: Sathra Lt Fighter II
-Nick Name: JJ-HLSF II
-Scores & Strengths:
-  Tech Score: 4814
-  Unit Score: 4822
-  Average Score: 4818
-  Stat Strength: 3405
-  Total Strength: 4822
-  Planet Strength: 0
-  Space Strength: 4822
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 20
-  Spot: 20
-  Camouflage: 13
-  Agility: 44
-  Armor: 10
-  Psy Defense: 20
-  Rank: 851
-Attacks:
-  Close Space: 39/24
-  Psychic: 37/13
-Load aboard transport: 1
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 650
-Build Cost: 2998
-Build Resource Requirements:
-  Electronics: 1
-  Monopols: 19
-  Gems: 3
-Upgrade Sathra Lt Fighter to Sathra Lt Fighter II at Church
-Time to Build / Upgrade: 1
-[39650] Technologies Required to Build Unit (63):
-  [7610] Atmospheric Aircraft (80)
-  [330] Holy Warriors (82)
-  [3835] Sathra's Space Doctrine (17)
-  [27875] PTS Meson Navalcraft (74)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---15--
-Name: Sathra Fighter II
-Nick Name: JJ-HSF II
-Scores & Strengths:
-  Tech Score: 4814
-  Unit Score: 4837
-  Average Score: 4826
-  Stat Strength: 3453
-  Total Strength: 4837
-  Planet Strength: 0
-  Space Strength: 4837
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 20
-  Spot: 20
-  Camouflage: 13
-  Agility: 42
-  Armor: 12
-  Psy Defense: 24
-  Rank: 849
-Attacks:
-  Close Space: 35/24
-  Psychic: 32/17
-Load aboard transport: 2
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 670
-Build Cost: 3179
-Build Resource Requirements:
-  Electronics: 1
-  Monopols: 20
-  Gems: 7
-Upgrade Sathra Fighter to Sathra Fighter II at Church
-Time to Build / Upgrade: 1
-[39650] Technologies Required to Build Unit (63):
-  [7610] Atmospheric Aircraft (80)
-  [330] Holy Warriors (82)
-  [3835] Sathra's Space Doctrine (17)
-  [27875] PTS Meson Navalcraft (74)
-Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

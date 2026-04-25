@@ -1,47 +1,236 @@
-All units of the unit class Vau Worker are listed herein (1 in total):
+All units of the unit class Fighter Transporter are listed herein (5 in total):
 
 --1--
-Name: Vau Worker
-Nick Name: Worker
+Name: Fighter Transporter
+Nick Name: JJ-XX-Fi
 Scores & Strengths:
-  Tech Score: 3886
-  Unit Score: 3883
-  Average Score: 3884
-  Stat Strength: 3883
-  Total Strength: 3883
-  Planet Strength: 3883
-  Space Strength: 0
-  Garrison Strength: 792
+  Tech Score: 3391
+  Unit Score: 3391
+  Average Score: 3391
+  Stat Strength: 2541
+  Total Strength: 3391
+  Planet Strength: 0
+  Space Strength: 3391
+  Garrison Strength: 0
 Statistics:
-  Movement Type: foot
-  Move Points: 24
-  Spot: 17
-  Camouflage: 17
-  Agility: 27
-  Armor: 20
-  Psy Defense: 40
-  Rank: 379
-Load aboard transport: 1
-Builds Vau Cities
+  Movement Type: jump
+  Move Points: 17
+  Spot: 18
+  Camouflage: 8
+  Agility: 8
+  Armor: 30
+  Psy Defense: 30
+  Rank: 185
+Attacks:
+  Direct Space: 18/27
+  Close Space: 26/14
+Cargo Space: 7
+Load aboard transport: 8
 Immune to Plague
-Upkeep / Maintenance: 192
-Build Cost: 1916
+Upkeep / Maintenance: 943
+Build Cost: 9431
 Build Resource Requirements:
-  Food: 3
-  Energy: 4
-  Metal: 5
-  Trace: 5
+  Food: 2
+  Energy: 8
+  Metal: 11
+  Trace: 13
   Exotica: 3
-  Chemicals: 9
-  Biochems: 18
-  Electronics: 15
-  Ceramsteel: 10
-  Wetware: 6
-  Monopols: 18
-Build Vau Worker in Vau City
-Time to Build / Upgrade: 3
-[24245] Technology Required to Build Unit (50):
-  [24245] Vau Psychology (50)
+  Chemicals: 13
+  Biochems: 23
+  Electronics: 21
+  Ceramsteel: 13
+  Monopols: 26
+  Singularities: 4
+Fighter Transporter cannot be built
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Divine Lander
+Nick Name: LL-ATL-D
+Scores & Strengths:
+  Tech Score: 3609
+  Unit Score: 3609
+  Average Score: 3609
+  Stat Strength: 1953
+  Total Strength: 3609
+  Planet Strength: 3105
+  Space Strength: 2797
+  Garrison Strength: 731
+Statistics:
+  Movement Type: lander
+  Move Points: 18
+  Spot: 12
+  Camouflage: 6
+  Agility: 13
+  Armor: 16
+  Psy Defense: 32
+  Rank: 172
+Attacks:
+  Direct Space: 14/18
+  Close Space: 18/14
+  Psychic: 17/20
+  Air: 16/17
+  Direct: 16/18
+  Close: 18/14
+Cargo Space: 3
+Load aboard transport: 6
+Immune to Plague
+Upkeep / Maintenance: 699
+Build Cost: 6992
+Build Resource Requirements:
+  Food: 2
+  Energy: 10
+  Metal: 7
+  Trace: 14
+  Exotica: 3
+  Chemicals: 16
+  Biochems: 24
+  Electronics: 23
+  Ceramsteel: 9
+  Monopols: 26
+  Gems: 43
+  Singularities: 4
+Divine Lander cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Fighter Bulk Transporter
+Nick Name: JJ-XB-Fi
+Scores & Strengths:
+  Tech Score: 5589
+  Unit Score: 5388
+  Average Score: 5489
+  Stat Strength: 3548
+  Total Strength: 5388
+  Planet Strength: 0
+  Space Strength: 5388
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 20
+  Spot: 22
+  Camouflage: 6
+  Agility: 6
+  Armor: 36
+  Psy Defense: 36
+  Rank: 249
+Attacks:
+  Direct Space: 30/40
+  Close Space: 32/20
+Cargo Space: 9
+Load aboard transport: 10
+Immune to Plague
+Upkeep / Maintenance: 1708
+Build Cost: 17082
+Build Resource Requirements:
+  Food: 2
+  Energy: 10
+  Metal: 9
+  Trace: 13
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 24
+  Electronics: 29
+  Ceramsteel: 13
+  Monopols: 32
+  Singularities: 5
+Fighter Bulk Transporter cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Meson Squadron Transporter
+Nick Name: JJ-XS-Me
+Scores & Strengths:
+  Tech Score: 5589
+  Unit Score: 5590
+  Average Score: 5590
+  Stat Strength: 3972
+  Total Strength: 5590
+  Planet Strength: 0
+  Space Strength: 5590
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 16
+  Spot: 22
+  Camouflage: 4
+  Agility: 4
+  Armor: 40
+  Psy Defense: 40
+  Rank: 250
+Attacks:
+  Direct Space: 36/26
+  Close Space: 31/22
+Cargo Space: 11
+Load aboard transport: 12
+Immune to Plague
+Upkeep / Maintenance: 2033
+Build Cost: 20334
+Build Resource Requirements:
+  Food: 2
+  Energy: 6
+  Metal: 11
+  Trace: 14
+  Exotica: 2
+  Chemicals: 13
+  Biochems: 24
+  Electronics: 32
+  Ceramsteel: 16
+  Monopols: 27
+  Singularities: 4
+Meson Squadron Transporter cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Lander Carrier
+Nick Name: LL-CVV
+Scores & Strengths:
+  Tech Score: 5712
+  Unit Score: 5712
+  Average Score: 5712
+  Stat Strength: 3486
+  Total Strength: 5712
+  Planet Strength: 4896
+  Space Strength: 4302
+  Garrison Strength: 960
+Statistics:
+  Movement Type: lander
+  Move Points: 26
+  Spot: 20
+  Camouflage: 13
+  Agility: 21
+  Armor: 30
+  Psy Defense: 30
+  Rank: 886
+Attacks:
+  Direct Space: 18/22
+  Close Space: 21/20
+  Air: 22/26
+  Direct: 20/23
+  Close: 21/18
+Cargo Space: 6
+Load aboard transport: 8
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 2276
+Build Cost: 22756
+Build Resource Requirements:
+  Food: 2
+  Energy: 10
+  Metal: 5
+  Trace: 11
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 18
+  Electronics: 22
+  Ceramsteel: 6
+  Monopols: 24
+  Singularities: 5
+Lander Carrier cannot be built
+Counts as planetary flock: YES
 Unit can be disbanded: YES

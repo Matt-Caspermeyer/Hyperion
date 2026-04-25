@@ -1,446 +1,305 @@
-All units of the unit class Ballistic Submarine are listed herein (9 in total):
+All units of the unit class Hover Tank are listed herein (7 in total):
 
 --1--
-Name: Ballistic Submarine
-Nick Name: Mauler
+Name: Hover Tank
+Nick Name: Kestral
 Scores & Strengths:
-  Tech Score: 997
-  Unit Score: 993
-  Average Score: 995
-  Stat Strength: 712
-  Total Strength: 993
-  Planet Strength: 893
-  Space Strength: 812
-  Garrison Strength: 297
+  Tech Score: 988
+  Unit Score: 986
+  Average Score: 987
+  Stat Strength: 640
+  Total Strength: 986
+  Planet Strength: 986
+  Space Strength: 0
+  Garrison Strength: 254
 Statistics:
-  Movement Type: underwater
-  Move Points: 9
-  Spot: 10
-  Camouflage: 12
-  Agility: 7
-  Armor: 13
-  Psy Defense: 13
-  Rank: 751
+  Movement Type: hover
+  Move Points: 15
+  Spot: 6
+  Camouflage: 4
+  Agility: 11
+  Armor: 11
+  Psy Defense: 11
+  Rank: 66
 Attacks:
-  Ranged Space: 5/20
-  Water: 5/20
-  Direct: 9/9
-Cargo Space: 1
-Load aboard transport: 5
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 46
-Build Cost: 463
+  Indirect: 9/12
+  Direct: 16/8
+  Close: 11/10
+Load aboard transport: 2
+Upkeep / Maintenance: 69
+Build Cost: 687
 Build Resource Requirements:
-  Food: 3
-  Energy: 30
-  Metal: 19
-  Trace: 15
-  Exotica: 4
-  Chemicals: 33
-  Biochems: 6
-  Electronics: 14
-Build Ballistic Submarine in Well
-Time to Build / Upgrade: 2
-[4675] Technologies Required to Build Unit (88):
-  [2725] Naval Capital Ships (88)
-  [1950] PTS Missile Launcher (88)
+  Food: 7
+  Energy: 13
+  Metal: 4
+  Trace: 36
+  Exotica: 7
+  Chemicals: 23
+  Electronics: 39
+  Ceramsteel: 7
+  Monopols: 34
+Build Hover Tank in Factory
+Time to Build / Upgrade: 4
+[3905] Technology Required to Build Unit (61):
+  [3905] Hovertech (61)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Ballistic Submarine II
-Nick Name: Mauler II
+Name: Hover Tank II
+Nick Name: Kestral II
 Scores & Strengths:
-  Tech Score: 1383
-  Unit Score: 1361
-  Average Score: 1372
-  Stat Strength: 952
-  Total Strength: 1361
-  Planet Strength: 1217
-  Space Strength: 1096
-  Garrison Strength: 366
+  Tech Score: 1600
+  Unit Score: 1518
+  Average Score: 1559
+  Stat Strength: 971
+  Total Strength: 1518
+  Planet Strength: 1518
+  Space Strength: 0
+  Garrison Strength: 348
 Statistics:
-  Movement Type: underwater
-  Move Points: 11
-  Spot: 11
-  Camouflage: 14
-  Agility: 8
-  Armor: 15
-  Psy Defense: 15
-  Rank: 766
+  Movement Type: hover
+  Move Points: 19
+  Spot: 7
+  Camouflage: 5
+  Agility: 12
+  Armor: 14
+  Psy Defense: 14
+  Rank: 83
 Attacks:
-  Ranged Space: 6/24
-  Water: 6/24
-  Direct: 11/11
-Cargo Space: 1
-Load aboard transport: 5
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 56
-Build Cost: 555
+  Indirect: 11/15
+  Direct: 20/10
+  Close: 14/13
+Load aboard transport: 2
+Upkeep / Maintenance: 61
+Build Cost: 613
 Build Resource Requirements:
-  Food: 3
-  Energy: 31
-  Metal: 11
-  Trace: 12
-  Exotica: 3
-  Chemicals: 41
-  Biochems: 5
-  Electronics: 14
-  Ceramsteel: 12
-Build Ballistic Submarine II in Well
+  Food: 4
+  Energy: 12
+  Metal: 5
+  Trace: 22
+  Exotica: 4
+  Chemicals: 22
+  Electronics: 35
+  Ceramsteel: 7
+  Monopols: 28
+Build Hover Tank II in Factory
 Time to Build / Upgrade: 3
-[7805] Technologies Required to Build Unit (86):
-  [5855] Guided Missile Navalcraft (84)
-  [1950] PTS Missile Launcher (88)
+[7425] Technology Required to Build Unit (68):
+  [7425] Hovertanks (68)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Cruise Missile Submarine
-Nick Name: NSS-CM
+Name: Power Hover Tank
+Nick Name: Power Kestral
 Scores & Strengths:
-  Tech Score: 1113
-  Unit Score: 1670
-  Average Score: 1392
-  Stat Strength: 828
-  Total Strength: 1670
-  Planet Strength: 1670
+  Tech Score: 2707
+  Unit Score: 2526
+  Average Score: 2617
+  Stat Strength: 1582
+  Total Strength: 2526
+  Planet Strength: 2526
   Space Strength: 0
-  Garrison Strength: 528
+  Garrison Strength: 505
 Statistics:
-  Movement Type: underwater
-  Move Points: 10
-  Spot: 10
-  Camouflage: 14
-  Agility: 12
-  Armor: 12
-  Psy Defense: 12
-  Rank: 781
+  Movement Type: hover
+  Move Points: 25
+  Spot: 8
+  Camouflage: 7
+  Agility: 14
+  Armor: 18
+  Psy Defense: 18
+  Rank: 108
 Attacks:
-  Water: 10/16
-  Air: 16/19
-  Indirect: 18/21
-Cargo Space: 1
-Load aboard transport: 4
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 81
-Build Cost: 813
+  Indirect: 15/20
+  Direct: 26/13
+  Close: 18/17
+Load aboard transport: 2
+Upkeep / Maintenance: 83
+Build Cost: 143
 Build Resource Requirements:
-  Food: 4
-  Energy: 38
-  Metal: 22
-  Trace: 39
-  Exotica: 5
-  Chemicals: 41
-  Biochems: 11
-  Electronics: 24
-Build Cruise Missile Submarine in Well
-Time to Build / Upgrade: 4
-[5285] Technologies Required to Build Unit (85):
-  [1670] Guided Missiles (83)
-  [3615] Submarine Warfare (87)
+Upgrade Hover Tank to Power Hover Tank at Factory
+Time to Build / Upgrade: 1
+[14975] Technology Required to Build Unit (70):
+  [14975] Power Hovertanks (70)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Ballistic Submarine III
-Nick Name: Mauler III
+Name: Psy Hover Tank
+Nick Name: Holy Kestral
 Scores & Strengths:
-  Tech Score: 1692
-  Unit Score: 1671
-  Average Score: 1681
-  Stat Strength: 1163
-  Total Strength: 1671
-  Planet Strength: 1489
-  Space Strength: 1345
-  Garrison Strength: 429
+  Tech Score: 2735
+  Unit Score: 2734
+  Average Score: 2735
+  Stat Strength: 1891
+  Total Strength: 2734
+  Planet Strength: 2734
+  Space Strength: 2060
+  Garrison Strength: 596
 Statistics:
-  Movement Type: underwater
-  Move Points: 12
-  Spot: 11
-  Camouflage: 16
-  Agility: 8
-  Armor: 17
-  Psy Defense: 17
-  Rank: 776
+  Movement Type: hover
+  Move Points: 21
+  Spot: 8
+  Camouflage: 6
+  Agility: 15
+  Armor: 15
+  Psy Defense: 30
+  Rank: 112
 Attacks:
-  Ranged Space: 7/26
-  Water: 7/26
-  Direct: 12/12
-Cargo Space: 1
-Load aboard transport: 5
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 48
-Build Cost: 477
+  Psychic: 13/13
+  Indirect: 13/16
+  Direct: 22/11
+  Close: 16/14
+Load aboard transport: 2
+Upkeep / Maintenance: 134
+Build Cost: 1336
 Build Resource Requirements:
-  Food: 2
-  Energy: 25
-  Metal: 9
-  Trace: 10
-  Exotica: 2
-  Chemicals: 33
-  Biochems: 4
-  Electronics: 12
-  Ceramsteel: 11
-Build Ballistic Submarine III in Well
-Time to Build / Upgrade: 2
-[13855] Technologies Required to Build Unit (84):
-  [7200] Air-Independent Propulsion (85)
-  [6655] PTS Missile Navalcraft (83)
+  Food: 4
+  Energy: 9
+  Metal: 7
+  Trace: 11
+  Exotica: 4
+  Chemicals: 19
+  Electronics: 25
+  Ceramsteel: 12
+  Monopols: 31
+  Gems: 35
+Build Psy Hover Tank in Factory
+Time to Build / Upgrade: 4
+[15305] Technologies Required to Build Unit (76):
+  [330] Holy Warriors (82)
+  [14975] Power Hovertanks (70)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Mini Submarine
-Nick Name: Mite
+Name: 3rd-Republic Hover Tank
+Nick Name: Ravager
 Scores & Strengths:
-  Tech Score: 1931
-  Unit Score: 1931
-  Average Score: 1931
-  Stat Strength: 1413
-  Total Strength: 1931
-  Planet Strength: 1803
-  Space Strength: 1541
-  Garrison Strength: 450
+  Tech Score: 2921
+  Unit Score: 2737
+  Average Score: 2829
+  Stat Strength: 1707
+  Total Strength: 2737
+  Planet Strength: 2737
+  Space Strength: 0
+  Garrison Strength: 536
 Statistics:
-  Movement Type: underwater
-  Move Points: 16
-  Spot: 12
-  Camouflage: 14
-  Agility: 13
-  Armor: 18
-  Psy Defense: 18
-  Rank: 775
+  Movement Type: hover
+  Move Points: 26
+  Spot: 8
+  Camouflage: 7
+  Agility: 14
+  Armor: 19
+  Psy Defense: 19
+  Rank: 112
 Attacks:
-  Ranged Space: 8/16
-  Water: 11/16
-  Air: 12/12
-  Indirect: 5/14
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Can be towed
-Upkeep / Maintenance: 377
-Build Cost: 3769
+  Indirect: 15/21
+  Direct: 28/14
+  Close: 19/17
+Load aboard transport: 2
+Upkeep / Maintenance: 55
+Build Cost: 548
 Build Resource Requirements:
-  Food: 3
-  Energy: 10
-  Metal: 4
-  Trace: 7
-  Exotica: 3
-  Chemicals: 18
-  Electronics: 17
-  Ceramsteel: 8
-  Monopols: 28
-Build Mini Submarine in Well
+  Food: 2
+  Energy: 8
+  Metal: 3
+  Trace: 9
+  Exotica: 2
+  Chemicals: 15
+  Electronics: 19
+  Ceramsteel: 5
+  Monopols: 22
+Build 3rd-Republic Hover Tank in Factory
 Time to Build / Upgrade: 3
-[18360] Technologies Required to Build Unit (76):
-  [1340] Nanotechnology (79)
-  [8935] Powered Ceramsteel Armor (75)
-  [8085] Fusion Rifles (75)
+[30105] Technologies Required to Build Unit (69):
+  [15130] Fusion Battle Tanks (68)
+  [14975] Power Hovertanks (70)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Ballistic Submarine IV
-Nick Name: Mauler IV
+Name: Morph Hover Tank
+Nick Name: Raptor
 Scores & Strengths:
-  Tech Score: 2165
-  Unit Score: 1998
-  Average Score: 2082
-  Stat Strength: 1423
-  Total Strength: 1998
-  Planet Strength: 1795
-  Space Strength: 1626
-  Garrison Strength: 497
+  Tech Score: 5182
+  Unit Score: 5176
+  Average Score: 5179
+  Stat Strength: 3512
+  Total Strength: 5176
+  Planet Strength: 5176
+  Space Strength: 0
+  Garrison Strength: 1035
 Statistics:
-  Movement Type: underwater
-  Move Points: 13
+  Movement Type: hover
+  Move Points: 25
   Spot: 12
-  Camouflage: 18
-  Agility: 8
-  Armor: 19
-  Psy Defense: 19
-  Rank: 785
+  Camouflage: 10
+  Agility: 31
+  Armor: 29
+  Psy Defense: 29
+  Rank: 148
 Attacks:
-  Ranged Space: 7/29
-  Water: 7/29
-  Direct: 13/13
-Cargo Space: 1
-Load aboard transport: 5
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 50
-Build Cost: 503
+  Indirect: 20/25
+  Direct: 23/24
+  Close: 34/18
+Load aboard transport: 2
+Upkeep / Maintenance: 140
+Build Cost: 790
 Build Resource Requirements:
-  Food: 2
-  Energy: 24
-  Metal: 10
-  Trace: 9
-  Exotica: 2
-  Chemicals: 33
-  Biochems: 4
-  Electronics: 11
-  Ceramsteel: 13
-Build Ballistic Submarine IV in Well
-Time to Build / Upgrade: 2
-[18665] Technologies Required to Build Unit (83):
-  [7200] Air-Independent Propulsion (85)
-  [4170] Supercruise Missiles (84)
-  [7295] Nuclear-Powered Navalcraft (81)
+  Biochems: 30
+  Ceramsteel: 1
+  Wetware: 13
+Upgrade Hover Tank II to Morph Hover Tank at Factory
+Time to Build / Upgrade: 1
+[35590] Technology Required to Build Unit (35):
+  [35590] Polymorphonic Land Vehicles (35)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Cruise Missile Submarine II
-Nick Name: NSS-CM II
+Name: Stealth Hover Tank
+Nick Name: Kestral's Eye
 Scores & Strengths:
-  Tech Score: 1619
-  Unit Score: 2330
-  Average Score: 1975
-  Stat Strength: 1115
-  Total Strength: 2330
-  Planet Strength: 2330
+  Tech Score: 5364
+  Unit Score: 5358
+  Average Score: 5361
+  Stat Strength: 4194
+  Total Strength: 5358
+  Planet Strength: 5358
   Space Strength: 0
-  Garrison Strength: 672
+  Garrison Strength: 1117
 Statistics:
-  Movement Type: underwater
-  Move Points: 12
-  Spot: 11
-  Camouflage: 17
-  Agility: 13
-  Armor: 14
-  Psy Defense: 14
-  Rank: 802
+  Movement Type: hover
+  Move Points: 23
+  Spot: 14
+  Camouflage: 26
+  Agility: 35
+  Armor: 28
+  Psy Defense: 28
+  Rank: 148
 Attacks:
-  Water: 12/19
-  Air: 19/23
-  Indirect: 22/25
-Cargo Space: 1
-Load aboard transport: 4
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 78
-Build Cost: 779
+  Indirect: 17/22
+  Direct: 28/16
+  Close: 19/18
+Load aboard transport: 2
+Upkeep / Maintenance: 124
+Build Cost: 628
 Build Resource Requirements:
-  Food: 3
-  Energy: 31
-  Metal: 9
-  Trace: 29
-  Exotica: 3
-  Chemicals: 38
-  Biochems: 9
-  Electronics: 21
-  Ceramsteel: 9
-Build Cruise Missile Submarine II in Well
-Time to Build / Upgrade: 3
-[10270] Technologies Required to Build Unit (85):
-  [3615] Submarine Warfare (87)
-  [6655] PTS Missile Navalcraft (83)
+  Biochems: 24
+  Wetware: 11
+Upgrade Hover Tank II to Stealth Hover Tank at Factory
+Time to Build / Upgrade: 1
+[37265] Technology Required to Build Unit (33):
+  [37265] Neumonic Land Vehicles (33)
 Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---8--
-Name: Cruise Missile Submarine III
-Nick Name: NSS-CM III
-Scores & Strengths:
-  Tech Score: 2165
-  Unit Score: 3119
-  Average Score: 2642
-  Stat Strength: 1514
-  Total Strength: 3119
-  Planet Strength: 3119
-  Space Strength: 0
-  Garrison Strength: 833
-Statistics:
-  Movement Type: underwater
-  Move Points: 14
-  Spot: 12
-  Camouflage: 20
-  Agility: 14
-  Armor: 17
-  Psy Defense: 17
-  Rank: 822
-Attacks:
-  Water: 14/22
-  Air: 22/26
-  Indirect: 25/29
-Cargo Space: 1
-Load aboard transport: 4
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 76
-Build Cost: 760
-Build Resource Requirements:
-  Food: 2
-  Energy: 27
-  Metal: 8
-  Trace: 22
-  Exotica: 2
-  Chemicals: 36
-  Biochems: 7
-  Electronics: 19
-  Ceramsteel: 10
-Build Cruise Missile Submarine III in Well
-Time to Build / Upgrade: 3
-[18665] Technologies Required to Build Unit (83):
-  [7200] Air-Independent Propulsion (85)
-  [4170] Supercruise Missiles (84)
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---9--
-Name: Morph Missile Submarine
-Nick Name: Banisher
-Scores & Strengths:
-  Tech Score: 7039
-  Unit Score: 6680
-  Average Score: 6860
-  Stat Strength: 2312
-  Total Strength: 6680
-  Planet Strength: 5240
-  Space Strength: 3752
-  Garrison Strength: 1235
-Statistics:
-  Movement Type: underwater
-  Move Points: 18
-  Spot: 16
-  Camouflage: 18
-  Agility: 16
-  Armor: 24
-  Psy Defense: 24
-  Rank: 914
-Attacks:
-  Ranged Space: 30/48
-  Water: 31/48
-  Direct: 30/48
-Cargo Space: 1
-Load aboard transport: 4
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 1261
-Build Cost: 12607
-Build Resource Requirements:
-  Food: 1
-  Energy: 21
-  Metal: 3
-  Trace: 11
-  Exotica: 1
-  Chemicals: 29
-  Biochems: 41
-  Electronics: 17
-  Ceramsteel: 4
-  Wetware: 14
-  Monopols: 39
-Build Morph Missile Submarine in Well
-Time to Build / Upgrade: 4
-[60195] Technologies Required to Build Unit (66):
-  [6655] PTS Missile Navalcraft (83)
-  [53540] Polymorphonic Patrolcraft (49)
-Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

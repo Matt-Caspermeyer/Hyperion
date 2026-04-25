@@ -1,251 +1,281 @@
-All units of the unit class Airborne Warn. Aircraft are listed herein (6 in total):
+All units of the unit class Fighter Divebomber are listed herein (6 in total):
 
 --1--
-Name: Airborne Warn. Aircraft
-Nick Name: AWACS
+Name: Fighter Divebomber
+Nick Name: A-FDB
 Scores & Strengths:
-  Tech Score: 835
-  Unit Score: 837
-  Average Score: 836
-  Stat Strength: 837
-  Total Strength: 837
-  Planet Strength: 837
+  Tech Score: 498
+  Unit Score: 745
+  Average Score: 621
+  Stat Strength: 555
+  Total Strength: 745
+  Planet Strength: 745
   Space Strength: 0
-  Garrison Strength: 252
+  Garrison Strength: 235
 Statistics:
   Movement Type: air
-  Move Points: 11
-  Spot: 20
-  Camouflage: 4
-  Agility: 10
-  Armor: 10
-  Psy Defense: 10
-  Rank: 704
-Load aboard transport: 5
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 14
-Build Cost: 141
+  Move Points: 10
+  Spot: 8
+  Camouflage: 2
+  Agility: 15
+  Armor: 9
+  Psy Defense: 9
+  Rank: 59
+Attacks:
+  Air: 4/10
+  Indirect: 15/10
+Load aboard transport: 2
+Upkeep / Maintenance: 11
+Build Cost: 111
 Build Resource Requirements:
-  Food: 15
-  Energy: 9
-  Metal: 96
-  Trace: 19
-  Exotica: 14
-  Chemicals: 10
-  Electronics: 22
-Build Airborne Warn. Aircraft in Factory
+  Food: 13
+  Energy: 27
+  Metal: 78
+  Trace: 42
+  Exotica: 12
+  Chemicals: 28
+  Electronics: 10
+Build Fighter Divebomber in Factory
 Time to Build / Upgrade: 3
-[3275] Technologies Required to Build Unit (82):
-  [1465] Airborne-Pulse Radar (78)
-  [1810] Jet-Propulsion Aircraft (86)
+[1675] Technologies Required to Build Unit (86):
+  [275] Artifical Line of Sight (84)
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Airborne Warn. Aircraft II
-Nick Name: AWACS II
+Name: Divebomber
+Nick Name: Wailer
 Scores & Strengths:
-  Tech Score: 1126
-  Unit Score: 1087
-  Average Score: 1107
-  Stat Strength: 1087
-  Total Strength: 1087
-  Planet Strength: 1087
+  Tech Score: 498
+  Unit Score: 746
+  Average Score: 622
+  Stat Strength: 538
+  Total Strength: 746
+  Planet Strength: 746
   Space Strength: 0
-  Garrison Strength: 301
+  Garrison Strength: 224
 Statistics:
   Movement Type: air
-  Move Points: 13
-  Spot: 22
-  Camouflage: 5
-  Agility: 11
-  Armor: 12
-  Psy Defense: 12
-  Rank: 710
-Load aboard transport: 5
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 17
-Build Cost: 170
+  Move Points: 11
+  Spot: 8
+  Camouflage: 3
+  Agility: 12
+  Armor: 10
+  Psy Defense: 10
+  Rank: 62
+Attacks:
+  Air: 2/8
+  Indirect: 16/12
+Load aboard transport: 2
+Upkeep / Maintenance: 11
+Build Cost: 113
 Build Resource Requirements:
-  Food: 15
-  Energy: 9
-  Metal: 126
-  Trace: 20
-  Exotica: 15
-  Chemicals: 11
-  Electronics: 25
-Build Airborne Warn. Aircraft II in Factory
-Time to Build / Upgrade: 3
-[4805] Technologies Required to Build Unit (82):
-  [1605] Imaging Radar (78)
-  [3200] Supersonic Aircraft (85)
+  Food: 12
+  Energy: 26
+  Metal: 96
+  Trace: 42
+  Exotica: 11
+  Chemicals: 27
+  Electronics: 8
+Build Divebomber in Factory
+Time to Build / Upgrade: 4
+[1675] Technologies Required to Build Unit (86):
+  [275] Artifical Line of Sight (84)
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Airborne Warn. Aircraft III
-Nick Name: AWACS III
+Name: Power Divebomber
+Nick Name: Banshee
 Scores & Strengths:
-  Tech Score: 1441
-  Unit Score: 1209
-  Average Score: 1325
-  Stat Strength: 1209
-  Total Strength: 1209
-  Planet Strength: 1209
+  Tech Score: 2770
+  Unit Score: 3504
+  Average Score: 3137
+  Stat Strength: 2345
+  Total Strength: 3504
+  Planet Strength: 3504
   Space Strength: 0
-  Garrison Strength: 323
+  Garrison Strength: 687
 Statistics:
   Movement Type: air
-  Move Points: 14
-  Spot: 23
-  Camouflage: 5
-  Agility: 11
-  Armor: 13
-  Psy Defense: 13
-  Rank: 713
-Load aboard transport: 5
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 16
-Build Cost: 159
+  Move Points: 26
+  Spot: 12
+  Camouflage: 7
+  Agility: 18
+  Armor: 24
+  Psy Defense: 24
+  Rank: 141
+Attacks:
+  Air: 5/19
+  Indirect: 38/28
+Load aboard transport: 2
+Upkeep / Maintenance: 117
+Build Cost: 1165
 Build Resource Requirements:
-  Food: 11
-  Energy: 7
-  Metal: 148
-  Trace: 13
-  Exotica: 11
-  Chemicals: 10
-  Electronics: 20
-Build Airborne Warn. Aircraft III in Factory
-Time to Build / Upgrade: 3
-[7565] Technologies Required to Build Unit (79):
-  [1900] LASER (76)
-  [5665] Hypersonic Aircraft (82)
+  Food: 5
+  Energy: 16
+  Metal: 5
+  Trace: 33
+  Exotica: 5
+  Chemicals: 29
+  Electronics: 14
+  Ceramsteel: 13
+  Monopols: 41
+Build Power Divebomber in Factory
+Time to Build / Upgrade: 4
+[15440] Technology Required to Build Unit (79):
+  [15440] Power Aircraft (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Airborne Warn. Aircraft IV
-Nick Name: AWACS IV
+Name: 3rd-Republic Hyper Bomber
+Nick Name: Salvonator
 Scores & Strengths:
-  Tech Score: 1767
-  Unit Score: 1462
-  Average Score: 1614
-  Stat Strength: 1462
-  Total Strength: 1462
-  Planet Strength: 1462
+  Tech Score: 4822
+  Unit Score: 4355
+  Average Score: 4589
+  Stat Strength: 2313
+  Total Strength: 4355
+  Planet Strength: 4355
   Space Strength: 0
-  Garrison Strength: 365
+  Garrison Strength: 697
 Statistics:
   Movement Type: air
-  Move Points: 16
-  Spot: 24
+  Move Points: 39
+  Spot: 10
   Camouflage: 6
   Agility: 12
-  Armor: 15
-  Psy Defense: 15
-  Rank: 718
-Load aboard transport: 5
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 11
-Build Cost: 108
+  Armor: 16
+  Psy Defense: 16
+  Rank: 175
+Attacks:
+  Air: 11/22
+  Indirect: 30/60
+Load aboard transport: 3
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 144
+Build Cost: 1437
 Build Resource Requirements:
-  Food: 10
-  Energy: 7
-  Metal: 7
-  Trace: 12
-  Exotica: 10
-  Chemicals: 13
-  Electronics: 19
-  Ceramsteel: 17
-Build Airborne Warn. Aircraft IV in Factory
-Time to Build / Upgrade: 2
-[9710] Technologies Required to Build Unit (80):
-  [2100] High-Power LASER (80)
-  [7610] Atmospheric Aircraft (80)
+  Food: 3
+  Energy: 24
+  Metal: 1
+  Trace: 4
+  Exotica: 3
+  Chemicals: 30
+  Biochems: 18
+  Electronics: 3
+  Ceramsteel: 2
+  Wetware: 2
+  Monopols: 41
+Build 3rd-Republic Hyper Bomber in Factory
+Time to Build / Upgrade: 3
+[42395] Technologies Required to Build Unit (63):
+  [26955] Rocket Legion (46)
+  [15440] Power Aircraft (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Airborne Warn. Aircraft V
-Nick Name: AWACS V
+Name: Morph Divebomber
+Nick Name: Bansheewolf
 Scores & Strengths:
-  Tech Score: 1946
-  Unit Score: 1544
-  Average Score: 1745
-  Stat Strength: 1544
-  Total Strength: 1544
-  Planet Strength: 1544
+  Tech Score: 8399
+  Unit Score: 8183
+  Average Score: 8291
+  Stat Strength: 6407
+  Total Strength: 8183
+  Planet Strength: 8183
   Space Strength: 0
-  Garrison Strength: 374
+  Garrison Strength: 1219
 Statistics:
   Movement Type: air
-  Move Points: 17
-  Spot: 25
-  Camouflage: 6
-  Agility: 12
-  Armor: 15
-  Psy Defense: 15
-  Rank: 720
-Load aboard transport: 5
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 11
-Build Cost: 106
+  Move Points: 45
+  Spot: 26
+  Camouflage: 15
+  Agility: 41
+  Armor: 30
+  Psy Defense: 30
+  Rank: 203
+Attacks:
+  Air: 15/26
+  Indirect: 42/33
+Load aboard transport: 2
+Upkeep / Maintenance: 119
+Build Cost: 1185
 Build Resource Requirements:
-  Food: 9
-  Energy: 7
-  Metal: 7
-  Trace: 11
-  Exotica: 9
-  Chemicals: 13
-  Electronics: 18
-  Ceramsteel: 17
-Build Airborne Warn. Aircraft V in Factory
-Time to Build / Upgrade: 2
-[11510] Technologies Required to Build Unit (80):
-  [2990] Adaptive Optics (81)
-  [8520] Advanced Atmospheric Aircraft (79)
+  Food: 3
+  Energy: 9
+  Metal: 2
+  Trace: 7
+  Exotica: 3
+  Chemicals: 12
+  Biochems: 17
+  Electronics: 8
+  Ceramsteel: 4
+  Wetware: 5
+  Monopols: 20
+Build Morph Divebomber in Factory
+Time to Build / Upgrade: 3
+[100845] Technologies Required to Build Unit (64):
+  [1785] Rotary Autocannon (90)
+  [45520] Hover Navalcraft (53)
+  [53540] Polymorphonic Patrolcraft (49)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Airborne Warn. Aircraft VI
-Nick Name: AWACS VI
+Name: Stealth Divebomber
+Nick Name: Spirit Wolf
 Scores & Strengths:
-  Tech Score: 2770
-  Unit Score: 1995
-  Average Score: 2383
-  Stat Strength: 1995
-  Total Strength: 1995
-  Planet Strength: 1995
+  Tech Score: 8630
+  Unit Score: 8416
+  Average Score: 8523
+  Stat Strength: 6394
+  Total Strength: 8416
+  Planet Strength: 8416
   Space Strength: 0
-  Garrison Strength: 446
+  Garrison Strength: 1227
 Statistics:
   Movement Type: air
-  Move Points: 20
-  Spot: 27
-  Camouflage: 7
-  Agility: 13
-  Armor: 18
-  Psy Defense: 18
-  Rank: 729
-Load aboard transport: 5
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 52
-Build Cost: 518
+  Move Points: 47
+  Spot: 26
+  Camouflage: 35
+  Agility: 22
+  Armor: 30
+  Psy Defense: 30
+  Rank: 220
+Attacks:
+  Air: 17/30
+  Indirect: 42/36
+Load aboard transport: 2
+Upkeep / Maintenance: 112
+Build Cost: 1123
 Build Resource Requirements:
-  Food: 8
-  Energy: 4
-  Metal: 3
-  Trace: 11
-  Exotica: 8
-  Chemicals: 8
-  Electronics: 22
-  Ceramsteel: 7
-  Monopols: 14
-Build Airborne Warn. Aircraft VI in Factory
-Time to Build / Upgrade: 2
-[19220] Technologies Required to Build Unit (79):
-  [3780] Beam Control (79)
-  [15440] Power Aircraft (79)
+  Food: 2
+  Energy: 9
+  Metal: 2
+  Trace: 10
+  Exotica: 3
+  Chemicals: 12
+  Biochems: 17
+  Electronics: 13
+  Ceramsteel: 4
+  Wetware: 3
+  Monopols: 20
+Build Stealth Divebomber in Factory
+Time to Build / Upgrade: 3
+[102555] Technologies Required to Build Unit (59):
+  [1785] Rotary Autocannon (90)
+  [45520] Hover Navalcraft (53)
+  [55250] Neumonic Patrolcraft (34)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

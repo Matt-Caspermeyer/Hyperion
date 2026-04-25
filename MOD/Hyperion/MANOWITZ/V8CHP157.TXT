@@ -1,476 +1,477 @@
-All units of the unit class Supersonic Fighter are listed herein (10 in total):
+All units of the unit class Pathfinder are listed herein (11 in total):
 
 --1--
-Name: Supersonic Fighter
-Nick Name: Jaguar
+Name: Pathfinder
+Nick Name: Pathfinder
 Scores & Strengths:
-  Tech Score: 851
-  Unit Score: 851
-  Average Score: 851
-  Stat Strength: 590
-  Total Strength: 851
-  Planet Strength: 851
-  Space Strength: 0
-  Garrison Strength: 195
+  Tech Score: 763
+  Unit Score: 763
+  Average Score: 763
+  Stat Strength: 656
+  Total Strength: 763
+  Planet Strength: 763
+  Space Strength: 721
+  Garrison Strength: 220
 Statistics:
-  Movement Type: air
-  Move Points: 19
-  Spot: 6
-  Camouflage: 4
-  Agility: 7
-  Armor: 8
+  Movement Type: foot
+  Move Points: 12
+  Spot: 12
+  Camouflage: 12
+  Agility: 12
+  Armor: 4
   Psy Defense: 8
-  Rank: 68
+  Rank: 60
 Attacks:
-  Air: 11/11
-  Indirect: 14/10
-Load aboard transport: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 11
-Build Cost: 109
+  Psychic: 13/5
+  Close: 6/7
+Load aboard transport: 1
+Upkeep / Maintenance: 26
+Build Cost: 247
 Build Resource Requirements:
-  Food: 9
-  Energy: 25
-  Metal: 76
-  Trace: 20
-  Exotica: 9
-  Chemicals: 31
-  Electronics: 11
-Build Supersonic Fighter in Factory
-Time to Build / Upgrade: 3
-[3200] Technology Required to Build Unit (85):
-  [3200] Supersonic Aircraft (85)
+  Metal: 2
+  Trace: 13
+  Exotica: 13
+  Chemicals: 17
+  Biochems: 34
+  Electronics: 25
+  Gems: 12
+Upgrade Peasant to Pathfinder at Fort
+Time to Build / Upgrade: 2
+[2875] Technologies Required to Build Unit (89):
+  [2605] Biotechnical Simulation (77)
+  [145] Composite Armor (97)
+  [125] Parapsychology (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Rocket Fighter
-Nick Name: Cheetah
+Name: Vislock
+Nick Name: Vislock
 Scores & Strengths:
-  Tech Score: 690
-  Unit Score: 863
-  Average Score: 777
-  Stat Strength: 745
-  Total Strength: 863
-  Planet Strength: 863
-  Space Strength: 0
-  Garrison Strength: 179
+  Tech Score: 966
+  Unit Score: 963
+  Average Score: 965
+  Stat Strength: 657
+  Total Strength: 963
+  Planet Strength: 963
+  Space Strength: 963
+  Garrison Strength: 321
 Statistics:
-  Movement Type: air
-  Move Points: 23
-  Spot: 6
-  Camouflage: 4
-  Agility: 6
-  Armor: 8
-  Psy Defense: 8
-  Rank: 56
+  Movement Type: foot
+  Move Points: 9
+  Spot: 9
+  Camouflage: 9
+  Agility: 17
+  Armor: 5
+  Psy Defense: 10
+  Rank: 83
 Attacks:
-  Air: 6/8
-  Indirect: 7/10
-Load aboard transport: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 12
-Build Cost: 121
+  Psychic: 18/17
+Load aboard transport: 1
+Upkeep / Maintenance: 44
+Build Cost: 368
 Build Resource Requirements:
-  Food: 15
-  Energy: 35
-  Metal: 76
-  Trace: 8
-  Exotica: 15
-  Chemicals: 40
-  Electronics: 6
-Build Rocket Fighter in Factory
+  Food: 22
+  Energy: 13
+  Metal: 13
+  Trace: 45
+  Exotica: 38
+  Chemicals: 39
+  Electronics: 64
+  Gems: 15
+Upgrade Clergy to Vislock at Church
 Time to Build / Upgrade: 3
-[2420] Technology Required to Build Unit (87):
-  [2420] Rocket-Propelled Aircraft (87)
+[3790] Technology Required to Build Unit (32):
+  [3790] Vislocks (32)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Hypersonic Fighter
-Nick Name: Puma
+Name: Occultist
+Nick Name: Occultist
 Scores & Strengths:
-  Tech Score: 1306
-  Unit Score: 1307
-  Average Score: 1306
-  Stat Strength: 830
-  Total Strength: 1307
-  Planet Strength: 1307
-  Space Strength: 0
-  Garrison Strength: 285
+  Tech Score: 1015
+  Unit Score: 1014
+  Average Score: 1015
+  Stat Strength: 714
+  Total Strength: 1014
+  Planet Strength: 1014
+  Space Strength: 1014
+  Garrison Strength: 320
 Statistics:
-  Movement Type: air
-  Move Points: 21
-  Spot: 8
-  Camouflage: 5
-  Agility: 10
-  Armor: 10
+  Movement Type: foot
+  Move Points: 10
+  Spot: 10
+  Camouflage: 10
+  Agility: 17
+  Armor: 5
   Psy Defense: 10
-  Rank: 89
+  Rank: 84
 Attacks:
-  Air: 15/15
-  Indirect: 18/14
-Load aboard transport: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 14
-Build Cost: 140
+  Psychic: 20/15
+Load aboard transport: 1
+Upkeep / Maintenance: 41
+Build Cost: 335
 Build Resource Requirements:
-  Food: 8
-  Energy: 25
-  Metal: 119
-  Trace: 19
-  Exotica: 8
-  Chemicals: 36
-  Electronics: 14
-Build Hypersonic Fighter in Factory
+  Food: 26
+  Energy: 16
+  Metal: 13
+  Trace: 51
+  Exotica: 44
+  Chemicals: 42
+  Electronics: 72
+  Gems: 10
+Upgrade Clergy to Occultist at Church
 Time to Build / Upgrade: 3
-[5665] Technology Required to Build Unit (82):
-  [5665] Hypersonic Aircraft (82)
+[4050] Technology Required to Build Unit (48):
+  [4050] Occultists (48)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Supersonic Fighter II
-Nick Name: Jaguar II
+Name: Reflector
+Nick Name: Reflector
 Scores & Strengths:
-  Tech Score: 1773
-  Unit Score: 1702
-  Average Score: 1737
-  Stat Strength: 1166
-  Total Strength: 1702
-  Planet Strength: 1702
-  Space Strength: 0
-  Garrison Strength: 327
+  Tech Score: 1186
+  Unit Score: 1184
+  Average Score: 1185
+  Stat Strength: 832
+  Total Strength: 1184
+  Planet Strength: 1184
+  Space Strength: 1184
+  Garrison Strength: 356
 Statistics:
-  Movement Type: air
-  Move Points: 27
-  Spot: 7
-  Camouflage: 6
-  Agility: 8
-  Armor: 12
+  Movement Type: foot
+  Move Points: 11
+  Spot: 11
+  Camouflage: 11
+  Agility: 17
+  Armor: 6
   Psy Defense: 12
-  Rank: 97
+  Rank: 91
 Attacks:
-  Air: 16/16
-  Indirect: 20/14
-Load aboard transport: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 10
-Build Cost: 99
+  Psychic: 22/16
+Load aboard transport: 1
+Upkeep / Maintenance: 44
+Build Cost: 368
 Build Resource Requirements:
-  Food: 6
-  Energy: 20
-  Metal: 7
-  Trace: 14
-  Exotica: 7
-  Chemicals: 25
-  Biochems: 8
-  Electronics: 8
-  Ceramsteel: 9
-Build Supersonic Fighter II in Factory
-Time to Build / Upgrade: 2
-[10840] Technologies Required to Build Unit (86):
-  [1785] Rotary Autocannon (90)
-  [3200] Supersonic Aircraft (85)
-  [5855] Guided Missile Navalcraft (84)
+  Food: 31
+  Energy: 18
+  Metal: 20
+  Trace: 57
+  Exotica: 51
+  Chemicals: 45
+  Electronics: 81
+  Gems: 10
+Upgrade Clergy to Reflector at Church
+Time to Build / Upgrade: 3
+[4980] Technology Required to Build Unit (41):
+  [4980] Psychic Turners (41)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Adv. Supersonic Fighter
-Nick Name: Jaguar III
+Name: Pyrokinetic
+Nick Name: Pyrokinetic
 Scores & Strengths:
-  Tech Score: 1979
-  Unit Score: 1899
-  Average Score: 1939
-  Stat Strength: 1295
-  Total Strength: 1899
-  Planet Strength: 1899
-  Space Strength: 0
-  Garrison Strength: 352
+  Tech Score: 1186
+  Unit Score: 1186
+  Average Score: 1186
+  Stat Strength: 749
+  Total Strength: 1186
+  Planet Strength: 1186
+  Space Strength: 1186
+  Garrison Strength: 375
 Statistics:
-  Movement Type: air
-  Move Points: 29
-  Spot: 7
-  Camouflage: 6
-  Agility: 9
-  Armor: 12
-  Psy Defense: 12
-  Rank: 103
+  Movement Type: foot
+  Move Points: 10
+  Spot: 10
+  Camouflage: 10
+  Agility: 18
+  Armor: 5
+  Psy Defense: 10
+  Rank: 96
 Attacks:
-  Air: 17/17
-  Indirect: 21/15
-Load aboard transport: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 9
-Build Cost: 90
+  Psychic: 23/19
+Load aboard transport: 1
+Upkeep / Maintenance: 50
+Build Cost: 425
 Build Resource Requirements:
-  Food: 6
-  Energy: 17
-  Metal: 7
-  Trace: 12
-  Exotica: 6
-  Chemicals: 23
-  Biochems: 7
-  Electronics: 7
-  Ceramsteel: 8
-Build Adv. Supersonic Fighter in Factory
-Time to Build / Upgrade: 2
-[15810] Technologies Required to Build Unit (86):
-  [1785] Rotary Autocannon (90)
-  [3200] Supersonic Aircraft (85)
-  [6655] PTS Missile Navalcraft (83)
-  [4170] Supercruise Missiles (84)
+  Food: 29
+  Energy: 18
+  Metal: 13
+  Trace: 53
+  Exotica: 48
+  Chemicals: 45
+  Electronics: 76
+  Gems: 15
+Upgrade Clergy to Pyrokinetic at Church
+Time to Build / Upgrade: 3
+[4980] Technology Required to Build Unit (39):
+  [4980] Pyrokinetics (39)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Hypersonic Fighter II
-Nick Name: Puma II
+Name: Cryokinetic
+Nick Name: Cryokinetic
 Scores & Strengths:
-  Tech Score: 2021
-  Unit Score: 1937
-  Average Score: 1979
-  Stat Strength: 1202
-  Total Strength: 1937
-  Planet Strength: 1937
-  Space Strength: 0
-  Garrison Strength: 379
+  Tech Score: 1186
+  Unit Score: 1189
+  Average Score: 1187
+  Stat Strength: 757
+  Total Strength: 1189
+  Planet Strength: 1189
+  Space Strength: 1189
+  Garrison Strength: 420
 Statistics:
-  Movement Type: air
-  Move Points: 26
-  Spot: 9
-  Camouflage: 6
-  Agility: 11
-  Armor: 12
-  Psy Defense: 12
-  Rank: 109
+  Movement Type: foot
+  Move Points: 8
+  Spot: 10
+  Camouflage: 12
+  Agility: 18
+  Armor: 5
+  Psy Defense: 10
+  Rank: 96
 Attacks:
-  Air: 19/19
-  Indirect: 22/17
-Load aboard transport: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 11
-Build Cost: 105
+  Psychic: 24/18
+Load aboard transport: 1
+Upkeep / Maintenance: 47
+Build Cost: 401
 Build Resource Requirements:
-  Food: 6
-  Energy: 20
-  Metal: 7
-  Trace: 16
-  Exotica: 6
-  Chemicals: 26
-  Biochems: 8
-  Electronics: 10
-  Ceramsteel: 9
-Build Hypersonic Fighter II in Factory
-Time to Build / Upgrade: 2
-[13305] Technologies Required to Build Unit (85):
-  [1785] Rotary Autocannon (90)
-  [5855] Guided Missile Navalcraft (84)
-  [5665] Hypersonic Aircraft (82)
+  Food: 25
+  Energy: 14
+  Metal: 13
+  Trace: 62
+  Exotica: 42
+  Chemicals: 40
+  Electronics: 88
+  Gems: 13
+Upgrade Clergy to Cryokinetic at Church
+Time to Build / Upgrade: 3
+[4980] Technology Required to Build Unit (31):
+  [4980] Cryokinetics (31)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Rocket Fighter II
-Nick Name: Cheetah III
+Name: Wraith
+Nick Name: Wraith
 Scores & Strengths:
-  Tech Score: 1650
-  Unit Score: 1991
-  Average Score: 1820
-  Stat Strength: 1718
-  Total Strength: 1991
-  Planet Strength: 1991
-  Space Strength: 0
-  Garrison Strength: 331
+  Tech Score: 1241
+  Unit Score: 1241
+  Average Score: 1241
+  Stat Strength: 1016
+  Total Strength: 1241
+  Planet Strength: 1241
+  Space Strength: 1241
+  Garrison Strength: 392
 Statistics:
-  Movement Type: air
-  Move Points: 36
-  Spot: 7
-  Camouflage: 6
-  Agility: 7
-  Armor: 12
-  Psy Defense: 12
-  Rank: 85
+  Movement Type: foot
+  Move Points: 10
+  Spot: 12
+  Camouflage: 16
+  Agility: 14
+  Armor: 8
+  Psy Defense: 16
+  Rank: 753
 Attacks:
-  Air: 9/12
-  Indirect: 11/15
-Load aboard transport: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 13
-Build Cost: 126
+  Psychic: 15/15
+Load aboard transport: 1
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 81
+Build Cost: 732
 Build Resource Requirements:
-  Food: 11
-  Energy: 28
-  Metal: 7
-  Trace: 6
-  Exotica: 12
-  Chemicals: 35
-  Biochems: 11
-  Electronics: 4
-  Ceramsteel: 9
-Build Rocket Fighter II in Factory
+  Food: 24
+  Energy: 9
+  Metal: 37
+  Trace: 78
+  Exotica: 41
+  Chemicals: 34
+  Electronics: 112
+  Gems: 7
+Upgrade Clergy to Wraith at Church
 Time to Build / Upgrade: 3
-[10060] Technologies Required to Build Unit (87):
-  [1785] Rotary Autocannon (90)
-  [2420] Rocket-Propelled Aircraft (87)
-  [5855] Guided Missile Navalcraft (84)
+[5290] Technology Required to Build Unit (29):
+  [5290] Wraiths (29)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Adv. Hypersonic Fighter
-Nick Name: Puma III
+Name: Electrokinetic
+Nick Name: E-Kinetic
 Scores & Strengths:
-  Tech Score: 2335
-  Unit Score: 2252
-  Average Score: 2293
-  Stat Strength: 1396
-  Total Strength: 2252
-  Planet Strength: 2252
-  Space Strength: 0
-  Garrison Strength: 425
+  Tech Score: 1326
+  Unit Score: 1324
+  Average Score: 1325
+  Stat Strength: 849
+  Total Strength: 1324
+  Planet Strength: 1324
+  Space Strength: 1324
+  Garrison Strength: 399
 Statistics:
-  Movement Type: air
-  Move Points: 28
-  Spot: 9
-  Camouflage: 7
-  Agility: 12
-  Armor: 13
-  Psy Defense: 13
-  Rank: 118
+  Movement Type: foot
+  Move Points: 11
+  Spot: 11
+  Camouflage: 11
+  Agility: 19
+  Armor: 5
+  Psy Defense: 10
+  Rank: 101
 Attacks:
-  Air: 20/20
-  Indirect: 24/19
-Load aboard transport: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 10
-Build Cost: 95
+  Psychic: 19/25
+Load aboard transport: 1
+Upkeep / Maintenance: 50
+Build Cost: 426
 Build Resource Requirements:
   Food: 5
-  Energy: 16
-  Metal: 8
-  Trace: 12
-  Exotica: 5
-  Chemicals: 23
-  Biochems: 6
-  Electronics: 8
-  Ceramsteel: 10
-Build Adv. Hypersonic Fighter in Factory
+  Energy: 2
+  Metal: 12
+  Trace: 9
+  Exotica: 14
+  Chemicals: 25
+  Electronics: 26
+  Gems: 25
+Upgrade Clergy to Electrokinetic at Church
 Time to Build / Upgrade: 2
-[21210] Technologies Required to Build Unit (83):
-  [1785] Rotary Autocannon (90)
-  [6655] PTS Missile Navalcraft (83)
-  [5665] Hypersonic Aircraft (82)
-  [7105] Hypercruise Missiles (77)
+[5780] Technology Required to Build Unit (20):
+  [5780] Electrokinetics (20)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Advanced Rocket Fighter
-Nick Name: Cheetah II
+Name: Cyber Mage
+Nick Name: Cyber Mage
 Scores & Strengths:
-  Tech Score: 1989
-  Unit Score: 2434
-  Average Score: 2211
-  Stat Strength: 2090
-  Total Strength: 2434
-  Planet Strength: 2434
-  Space Strength: 0
-  Garrison Strength: 389
+  Tech Score: 1819
+  Unit Score: 1820
+  Average Score: 1819
+  Stat Strength: 1199
+  Total Strength: 1820
+  Planet Strength: 1820
+  Space Strength: 1820
+  Garrison Strength: 486
 Statistics:
-  Movement Type: air
-  Move Points: 39
-  Spot: 8
-  Camouflage: 7
-  Agility: 8
-  Armor: 14
-  Psy Defense: 14
-  Rank: 94
+  Movement Type: foot
+  Move Points: 14
+  Spot: 11
+  Camouflage: 11
+  Agility: 21
+  Armor: 8
+  Psy Defense: 16
+  Rank: 782
 Attacks:
-  Air: 10/14
-  Indirect: 12/17
-Load aboard transport: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 15
-Build Cost: 154
+  Psychic: 27/23
+Load aboard transport: 1
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 110
+Build Cost: 1029
 Build Resource Requirements:
-  Food: 14
-  Energy: 34
-  Metal: 6
-  Trace: 7
-  Exotica: 14
-  Chemicals: 59
-  Electronics: 7
-  Ceramsteel: 15
-Build Advanced Rocket Fighter in Factory
-Time to Build / Upgrade: 3
-[9925] Technology Required to Build Unit (83):
-  [9925] Advanced Rocket-Propelled Aircraft (83)
+  Metal: 8
+  Trace: 10
+  Chemicals: 25
+  Electronics: 23
+  Ceramsteel: 14
+  Gems: 30
+Upgrade Clergy to Cyber Mage at Fort
+Time to Build / Upgrade: 2
+[9215] Technologies Required to Build Unit (48):
+  [3790] Vislocks (32)
+  [5425] Cybernetics (63)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Power Rocket Fighter
-Nick Name: Cheetah IV
+Name: Warlock
+Nick Name: Warlock
 Scores & Strengths:
-  Tech Score: 3140
-  Unit Score: 3758
-  Average Score: 3449
-  Stat Strength: 3222
-  Total Strength: 3758
-  Planet Strength: 3758
-  Space Strength: 0
-  Garrison Strength: 536
+  Tech Score: 2660
+  Unit Score: 2659
+  Average Score: 2660
+  Stat Strength: 2259
+  Total Strength: 2659
+  Planet Strength: 2659
+  Space Strength: 2659
+  Garrison Strength: 610
 Statistics:
-  Movement Type: air
-  Move Points: 49
-  Spot: 9
-  Camouflage: 9
-  Agility: 9
-  Armor: 17
-  Psy Defense: 17
-  Rank: 117
+  Movement Type: foot
+  Move Points: 19
+  Spot: 19
+  Camouflage: 19
+  Agility: 26
+  Armor: 10
+  Psy Defense: 20
+  Rank: 787
 Attacks:
-  Air: 13/17
-  Indirect: 15/21
-Load aboard transport: 2
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 147
-Build Cost: 1471
+  Psychic: 20/20
+Load aboard transport: 1
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 62
+Build Cost: 548
 Build Resource Requirements:
-  Food: 9
-  Energy: 21
-  Metal: 2
-  Trace: 6
-  Exotica: 9
-  Chemicals: 36
-  Electronics: 9
-  Ceramsteel: 6
-  Monopols: 45
-Build Power Rocket Fighter in Factory
-Time to Build / Upgrade: 4
-[18245] Technology Required to Build Unit (80):
-  [18245] Power Rocket Aircraft (80)
+  Metal: 4
+  Trace: 16
+  Chemicals: 8
+  Biochems: 41
+  Electronics: 38
+  Gems: 5
+Upgrade Clergy to Warlock at Church
+Time to Build / Upgrade: 2
+[14630] Technology Required to Build Unit (7):
+  [14630] Warlocks (7)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Mechanized Demon
+Nick Name: Mech. Demon
+Scores & Strengths:
+  Tech Score: 3924
+  Unit Score: 3596
+  Average Score: 3760
+  Stat Strength: 3029
+  Total Strength: 3596
+  Planet Strength: 3596
+  Space Strength: 3596
+  Garrison Strength: 784
+Statistics:
+  Movement Type: foot
+  Move Points: 21
+  Spot: 22
+  Camouflage: 22
+  Agility: 30
+  Armor: 12
+  Psy Defense: 24
+  Rank: 809
+Attacks:
+  Psychic: 21/27
+Load aboard transport: 1
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 123
+Build Cost: 1158
+Build Resource Requirements:
+  Metal: 1
+  Trace: 9
+  Chemicals: 10
+  Biochems: 16
+  Electronics: 20
+  Ceramsteel: 4
+  Monopols: 14
+  Gems: 7
+Upgrade Clergy to Mechanized Demon at Church
+Time to Build / Upgrade: 2
+[24560] Technology Required to Build Unit (3):
+  [24560] Mechanized Demons (3)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

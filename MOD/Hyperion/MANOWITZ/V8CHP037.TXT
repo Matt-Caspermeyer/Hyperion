@@ -1,4 +1,4 @@
-All units of the unit class Coastal Artillery Transport are listed herein (7 in total):
+All units of the unit class Coastal Artillery Transport are listed herein (10 in total):
 
 --1--
 Name: Coastal Artillery Transport
@@ -63,11 +63,10 @@ Attacks:
   Close: 6/6
 Cargo Space: 2
 Load aboard transport: 6
-Can be towed
 Never Rebels
 Never Retreats
 Upkeep / Maintenance: 15
-Build Cost: 152
+Build Cost: 145
 Build Resource Requirements:
   Food: 3
   Energy: 45
@@ -172,6 +171,55 @@ Time to Build / Upgrade: 2
 Unit can be disbanded: YES
 
 --5--
+Name: Pillbox
+Nick Name: Pillbox
+Scores & Strengths:
+  Tech Score: 546
+  Unit Score: 548
+  Average Score: 547
+  Stat Strength: 304
+  Total Strength: 548
+  Planet Strength: 548
+  Space Strength: 0
+  Garrison Strength: 685
+Statistics:
+  Movement Type: tread
+  Move Points: 0
+  Spot: 4
+  Camouflage: 0
+  Agility: 0
+  Armor: 12
+  Psy Defense: 12
+  Rank: 53
+Attacks:
+  Direct: 8/18
+  Close: 10/10
+Cargo Space: 2
+Load aboard transport: 6
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 8
+Build Cost: 79
+Build Resource Requirements:
+  Food: 1
+  Energy: 19
+  Metal: 24
+  Trace: 10
+  Exotica: 1
+  Chemicals: 21
+  Electronics: 7
+Build Pillbox in Any building
+Time to Build / Upgrade: 2
+[2830] Technologies Required to Build Unit (94):
+  [325] Megachassis (94)
+  [1195] Naval Warfare (90)
+  [350] Anti-Tank Weaponry (95)
+  [350] Tanks (95)
+  [610] Dual-Purpose Gun (94)
+Unit can be disbanded: YES
+
+--6--
 Name: PTS Fortification
 Nick Name: PTS Fort
 Scores & Strengths:
@@ -214,7 +262,105 @@ Time to Build / Upgrade: 2
   [1950] PTS Missile Launcher (88)
 Unit can be disbanded: YES
 
---6--
+--7--
+Name: Blockhouse
+Nick Name: Blockhouse
+Scores & Strengths:
+  Tech Score: 798
+  Unit Score: 798
+  Average Score: 798
+  Stat Strength: 528
+  Total Strength: 798
+  Planet Strength: 798
+  Space Strength: 0
+  Garrison Strength: 997
+Statistics:
+  Movement Type: tread
+  Move Points: 0
+  Spot: 4
+  Camouflage: 0
+  Agility: 0
+  Armor: 16
+  Psy Defense: 16
+  Rank: 88
+Attacks:
+  Indirect: 6/20
+  Direct: 6/19
+  Close: 6/6
+Cargo Space: 6
+Load aboard transport: 10
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 16
+Build Cost: 163
+Build Resource Requirements:
+  Energy: 28
+  Metal: 34
+  Trace: 6
+  Chemicals: 29
+  Biochems: 2
+  Electronics: 3
+Build Blockhouse in Any building
+Time to Build / Upgrade: 2
+[3750] Technologies Required to Build Unit (93):
+  [325] Megachassis (94)
+  [350] Anti-Tank Weaponry (95)
+  [350] Tanks (95)
+  [2725] Naval Capital Ships (88)
+Unit can be disbanded: YES
+
+--8--
+Name: Flak Tower
+Nick Name: Flak Tower
+Scores & Strengths:
+  Tech Score: 881
+  Unit Score: 884
+  Average Score: 882
+  Stat Strength: 428
+  Total Strength: 884
+  Planet Strength: 884
+  Space Strength: 0
+  Garrison Strength: 1105
+Statistics:
+  Movement Type: tread
+  Move Points: 0
+  Spot: 6
+  Camouflage: 0
+  Agility: 0
+  Armor: 14
+  Psy Defense: 14
+  Rank: 86
+Attacks:
+  Air: 12/18
+  Direct: 12/17
+  Close: 6/6
+Cargo Space: 4
+Load aboard transport: 8
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 14
+Build Cost: 142
+Build Resource Requirements:
+  Food: 1
+  Energy: 19
+  Metal: 28
+  Trace: 15
+  Exotica: 1
+  Chemicals: 20
+  Biochems: 7
+  Electronics: 10
+Build Flak Tower in Any building
+Time to Build / Upgrade: 2
+[4605] Technologies Required to Build Unit (90):
+  [325] Megachassis (94)
+  [610] Dual-Purpose Gun (94)
+  [1400] Aerial Warfare (87)
+  [2270] Naval Escort Ships (86)
+Unit can be disbanded: YES
+
+--9--
 Name: PTS Fortification II
 Nick Name: PTS Fort II
 Scores & Strengths:
@@ -258,7 +404,7 @@ Time to Build / Upgrade: 2
   [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
---7--
+--10--
 Name: PTS Fortification III
 Nick Name: PTS Fort III
 Scores & Strengths:

@@ -1,495 +1,381 @@
-All units of the unit class Frogmen are listed herein (11 in total):
+All units of the unit class Limpet Mine are listed herein (8 in total):
 
 --1--
-Name: Frogmen
-Nick Name: Frogmen
+Name: Limpet Mine
+Nick Name: Limpet
 Scores & Strengths:
-  Tech Score: 438
-  Unit Score: 438
-  Average Score: 438
-  Stat Strength: 321
-  Total Strength: 438
-  Planet Strength: 438
+  Tech Score: 406
+  Unit Score: 406
+  Average Score: 406
+  Stat Strength: 258
+  Total Strength: 406
+  Planet Strength: 406
   Space Strength: 0
-  Garrison Strength: 309
+  Garrison Strength: 406
 Statistics:
   Movement Type: underwater
-  Move Points: 2
-  Spot: 4
-  Camouflage: 10
-  Agility: 14
-  Armor: 2
-  Psy Defense: 1
-  Rank: 715
+  Move Points: 1
+  Spot: 0
+  Camouflage: 16
+  Agility: 1
+  Armor: 0
+  Psy Defense: 0
+  Rank: 711
 Attacks:
-  Water: 7/11
-  Indirect: 4/10
+  Water: 3/28
+  Indirect: 4/16
 Load aboard transport: 1
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 Can be towed
-Upkeep / Maintenance: 37
-Build Cost: 368
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 12
+Build Cost: 121
 Build Resource Requirements:
-  Food: 6
-  Energy: 25
-  Metal: 1
-  Trace: 24
-  Exotica: 6
-  Chemicals: 24
-  Electronics: 20
-Build Frogmen in Well
-Time to Build / Upgrade: 2
-[1320] Technologies Required to Build Unit (94):
-  [125] Psychoconditioning (97)
+  Energy: 81
+  Trace: 26
+  Chemicals: 81
+  Electronics: 22
+Build Limpet Mine in Well
+Time to Build / Upgrade: 3
+[1195] Technology Required to Build Unit (90):
   [1195] Naval Warfare (90)
-Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Frogmen (PE)
-Nick Name: Frogmen (PE)
+Name: Underwater Barrier
+Nick Name: Barrier
 Scores & Strengths:
-  Tech Score: 445
-  Unit Score: 459
-  Average Score: 452
-  Stat Strength: 342
-  Total Strength: 459
-  Planet Strength: 459
+  Tech Score: 406
+  Unit Score: 408
+  Average Score: 407
+  Stat Strength: 352
+  Total Strength: 408
+  Planet Strength: 408
   Space Strength: 0
-  Garrison Strength: 324
+  Garrison Strength: 510
 Statistics:
   Movement Type: underwater
-  Move Points: 2
-  Spot: 4
-  Camouflage: 11
-  Agility: 14
-  Armor: 2
-  Psy Defense: 1
-  Rank: 716
+  Move Points: 0
+  Spot: 0
+  Camouflage: 8
+  Agility: 0
+  Armor: 12
+  Psy Defense: 12
+  Rank: 33
 Attacks:
-  Water: 7/11
-  Indirect: 4/10
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
+  Water: 4/14
+Load aboard transport: 4
 Can be towed
-May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 33
-Build Cost: 325
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 17
+Build Cost: 169
 Build Resource Requirements:
-  Food: 6
-  Energy: 23
-  Metal: 1
-  Trace: 24
-  Exotica: 6
-  Chemicals: 23
-  Electronics: 20
-Build Frogmen (PE) in Well
+  Energy: 15
+  Metal: 42
+  Trace: 8
+  Chemicals: 15
+  Electronics: 7
+Build Underwater Barrier in Well
 Time to Build / Upgrade: 2
-[1500] Technologies Required to Build Unit (92):
-  [125] Psychoconditioning (97)
+[1305] Technologies Required to Build Unit (95):
+  [110] Structural Engineering (99)
   [1195] Naval Warfare (90)
-  [180] Performance-Enhanced Soldiers (90)
-Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Frogmen (BE)
-Nick Name: Frogmen (BE)
+Name: Anti-Landing Spike
+Nick Name: Spike
 Scores & Strengths:
-  Tech Score: 477
-  Unit Score: 522
-  Average Score: 500
-  Stat Strength: 371
-  Total Strength: 522
-  Planet Strength: 522
+  Tech Score: 585
+  Unit Score: 585
+  Average Score: 585
+  Stat Strength: 513
+  Total Strength: 585
+  Planet Strength: 585
   Space Strength: 0
-  Garrison Strength: 369
+  Garrison Strength: 731
 Statistics:
-  Movement Type: underwater
-  Move Points: 2
-  Spot: 4
-  Camouflage: 11
-  Agility: 15
-  Armor: 2
-  Psy Defense: 1
-  Rank: 720
+  Movement Type: naval
+  Move Points: 0
+  Spot: 0
+  Camouflage: 1
+  Agility: 0
+  Armor: 16
+  Psy Defense: 16
+  Rank: 36
 Attacks:
-  Water: 8/12
-  Indirect: 5/11
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
+  Direct: 3/24
+Load aboard transport: 3
 Can be towed
-Upkeep / Maintenance: 58
-Build Cost: 213
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 25
+Build Cost: 247
 Build Resource Requirements:
+  Energy: 32
+  Metal: 55
   Trace: 1
-  Biochems: 21
+  Chemicals: 32
   Electronics: 1
-Upgrade Frogmen to Frogmen (BE) at Biochem Plant
-Time to Build / Upgrade: 1
-[1740] Technologies Required to Build Unit (88):
-  [125] Psychoconditioning (97)
-  [1195] Naval Warfare (90)
-  [420] Biochem-Enhanced Soldiers (77)
-Counts as planetary flock: YES
+Build Anti-Landing Spike in Well
+Time to Build / Upgrade: 2
+[1940] Technology Required to Build Unit (89):
+  [1940] Amphibious Landing Craft (89)
 Unit can be disbanded: YES
 
 --4--
-Name: Frogmen (SE)
-Nick Name: Frogmen (SE)
+Name: Seadrome
+Nick Name: Seadrome
 Scores & Strengths:
-  Tech Score: 533
-  Unit Score: 635
-  Average Score: 584
-  Stat Strength: 444
-  Total Strength: 635
-  Planet Strength: 635
+  Tech Score: 771
+  Unit Score: 771
+  Average Score: 771
+  Stat Strength: 771
+  Total Strength: 771
+  Planet Strength: 771
   Space Strength: 0
-  Garrison Strength: 366
+  Garrison Strength: 963
 Statistics:
-  Movement Type: underwater
-  Move Points: 3
-  Spot: 5
-  Camouflage: 12
-  Agility: 16
-  Armor: 3
-  Psy Defense: 1
-  Rank: 725
-Attacks:
-  Water: 9/14
-  Indirect: 5/13
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
+  Movement Type: naval
+  Move Points: 0
+  Spot: 7
+  Camouflage: 0
+  Agility: 0
+  Armor: 19
+  Psy Defense: 19
+  Rank: 744
+Cargo Space: 10
+Load aboard transport: 12
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
 Can be towed
-Upkeep / Maintenance: 73
-Build Cost: 363
+Heals units of same movement type
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 118
+Build Cost: 1180
 Build Resource Requirements:
   Food: 1
-  Energy: 5
-  Trace: 6
+  Metal: 53
+  Trace: 2
   Exotica: 1
-  Chemicals: 7
-  Biochems: 26
-  Electronics: 5
-Upgrade Frogmen to Frogmen (SE) at Hospital
-Time to Build / Upgrade: 1
-[1995] Technologies Required to Build Unit (87):
-  [125] Psychoconditioning (97)
+  Chemicals: 14
+  Electronics: 1
+Build Seadrome in Well
+Time to Build / Upgrade: 2
+[4305] Technologies Required to Build Unit (94):
+  [125] Scholastic Medicine (98)
+  [255] Surgical Procedures (96)
+  [145] Composite Armor (97)
+  [325] Megachassis (94)
+  [165] Theurgy (93)
+  [395] Laws of Nine (95)
   [1195] Naval Warfare (90)
-  [675] Surgically-Enhanced Soldiers (75)
-Counts as planetary flock: YES
+  [300] Mechanized Warfare (95)
+  [1400] Aerial Warfare (87)
 Unit can be disbanded: YES
 
 --5--
-Name: Frogmen (DE)
-Nick Name: Frogmen (DE)
+Name: Naval Fort
+Nick Name: Naval Fort
 Scores & Strengths:
-  Tech Score: 1000
-  Unit Score: 988
-  Average Score: 994
-  Stat Strength: 660
-  Total Strength: 988
-  Planet Strength: 988
+  Tech Score: 980
+  Unit Score: 980
+  Average Score: 980
+  Stat Strength: 804
+  Total Strength: 980
+  Planet Strength: 980
   Space Strength: 0
-  Garrison Strength: 570
+  Garrison Strength: 1225
 Statistics:
-  Movement Type: underwater
-  Move Points: 3
-  Spot: 5
-  Camouflage: 17
-  Agility: 18
-  Armor: 3
-  Psy Defense: 2
-  Rank: 743
+  Movement Type: naval
+  Move Points: 0
+  Spot: 2
+  Camouflage: 0
+  Agility: 0
+  Armor: 20
+  Psy Defense: 20
+  Rank: 773
 Attacks:
-  Water: 12/18
-  Indirect: 7/16
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
+  Water: 2/20
+  Air: 4/16
+  Indirect: 3/18
+  Direct: 2/9
+Cargo Space: 10
+Load aboard transport: 12
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
 Can be towed
-Upkeep / Maintenance: 66
-Build Cost: 295
+Heals units of same movement type
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 214
+Build Cost: 2141
 Build Resource Requirements:
-  Metal: 1
-  Biochems: 28
-  Electronics: 5
-Upgrade Frogmen to Frogmen (DE) at Biochem Plant
-Time to Build / Upgrade: 1
-[4760] Technologies Required to Build Unit (84):
-  [125] Psychoconditioning (97)
-  [1195] Naval Warfare (90)
-  [3440] Drug-Enhanced Soldiers (65)
-Counts as planetary flock: YES
+  Energy: 28
+  Metal: 50
+  Trace: 2
+  Chemicals: 40
+  Biochems: 1
+  Electronics: 1
+Build Naval Fort in Well
+Time to Build / Upgrade: 2
+[5230] Technologies Required to Build Unit (92):
+  [145] Composite Armor (97)
+  [350] Anti-Tank Weaponry (95)
+  [610] Dual-Purpose Gun (94)
+  [1400] Aerial Warfare (87)
+  [2725] Naval Capital Ships (88)
 Unit can be disbanded: YES
 
 --6--
-Name: Frogmen (PA)
-Nick Name: Frogmen (PA)
+Name: Very Large Floating Structure
+Nick Name: VLFS
 Scores & Strengths:
-  Tech Score: 1474
-  Unit Score: 1340
-  Average Score: 1407
-  Stat Strength: 872
-  Total Strength: 1340
-  Planet Strength: 1340
+  Tech Score: 2052
+  Unit Score: 2052
+  Average Score: 2052
+  Stat Strength: 2052
+  Total Strength: 2052
+  Planet Strength: 2052
   Space Strength: 0
-  Garrison Strength: 670
+  Garrison Strength: 1450
 Statistics:
-  Movement Type: underwater
-  Move Points: 4
-  Spot: 6
-  Camouflage: 20
-  Agility: 20
-  Armor: 4
-  Psy Defense: 2
-  Rank: 757
-Attacks:
-  Water: 14/22
-  Indirect: 8/20
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
+  Movement Type: naval
+  Move Points: 2
+  Spot: 0
+  Camouflage: 0
+  Agility: 0
+  Armor: 32
+  Psy Defense: 32
+  Rank: 766
+Cargo Space: 11
+Load aboard transport: 13
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
 Can be towed
-Upkeep / Maintenance: 94
-Build Cost: 576
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 263
+Build Cost: 2630
 Build Resource Requirements:
-  Energy: 8
-  Chemicals: 16
-  Biochems: 3
-  Electronics: 7
-  Ceramsteel: 1
-Upgrade Frogmen (SE) to Frogmen (PA) at Hospital
-Time to Build / Upgrade: 1
-[7495] Technologies Required to Build Unit (81):
-  [125] Psychoconditioning (97)
-  [1195] Naval Warfare (90)
-  [6175] Prosthetically-Augmented Soldiers (57)
+  Metal: 46
+  Chemicals: 11
+  Ceramsteel: 56
+Build Very Large Floating Structure in Well
+Time to Build / Upgrade: 3
+[12405] Technologies Required to Build Unit (83):
+  [1690] Computerized Medical Imaging (76)
+  [220] Indoctrination (91)
+  [3200] Supersonic Aircraft (85)
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Frogmen (GE)
-Nick Name: Frogmen (GE)
+Name: Floating Airport
+Nick Name: F-Airport
 Scores & Strengths:
-  Tech Score: 1456
-  Unit Score: 1362
-  Average Score: 1409
-  Stat Strength: 872
-  Total Strength: 1362
-  Planet Strength: 1362
+  Tech Score: 3493
+  Unit Score: 3494
+  Average Score: 3493
+  Stat Strength: 3494
+  Total Strength: 3494
+  Planet Strength: 3494
   Space Strength: 0
-  Garrison Strength: 681
+  Garrison Strength: 1747
 Statistics:
-  Movement Type: underwater
+  Movement Type: naval
   Move Points: 4
-  Spot: 6
-  Camouflage: 20
-  Agility: 20
-  Armor: 4
-  Psy Defense: 2
-  Rank: 758
-Attacks:
-  Water: 15/22
-  Indirect: 8/20
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
+  Spot: 10
+  Camouflage: 4
+  Agility: 0
+  Armor: 41
+  Psy Defense: 41
+  Rank: 791
+Cargo Space: 12
+Load aboard transport: 14
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
 Can be towed
-Upkeep / Maintenance: 92
-Build Cost: 628
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 2200
+Build Cost: 22001
 Build Resource Requirements:
-  Energy: 8
-  Trace: 3
-  Chemicals: 9
-  Biochems: 11
-  Electronics: 6
-Upgrade Frogmen (DE) to Frogmen (GE) at Lab
-Time to Build / Upgrade: 1
-[7340] Technologies Required to Build Unit (79):
-  [125] Psychoconditioning (97)
-  [1195] Naval Warfare (90)
-  [6020] Chemical Shock Legion (49)
+  Food: 1
+  Metal: 21
+  Trace: 1
+  Exotica: 1
+  Chemicals: 6
+  Electronics: 1
+  Ceramsteel: 32
+  Monopols: 25
+Build Floating Airport in Well
+Time to Build / Upgrade: 3
+[32020] Technologies Required to Build Unit (77):
+  [6490] Real-Time Medical Imaging (65)
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [10295] PTS Fusion Cannon (76)
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Frogmen (CE)
-Nick Name: Frogmen (CE)
+Name: Mobile Offshore Base
+Nick Name: MOB
 Scores & Strengths:
-  Tech Score: 1843
-  Unit Score: 1667
-  Average Score: 1755
-  Stat Strength: 1060
-  Total Strength: 1667
-  Planet Strength: 1667
+  Tech Score: 4649
+  Unit Score: 4649
+  Average Score: 4649
+  Stat Strength: 4649
+  Total Strength: 4649
+  Planet Strength: 4649
   Space Strength: 0
-  Garrison Strength: 745
+  Garrison Strength: 1401
 Statistics:
-  Movement Type: underwater
-  Move Points: 5
-  Spot: 6
-  Camouflage: 23
-  Agility: 21
-  Armor: 5
-  Psy Defense: 2
-  Rank: 768
-Attacks:
-  Water: 16/25
-  Indirect: 9/23
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
+  Movement Type: naval
+  Move Points: 11
+  Spot: 10
+  Camouflage: 1
+  Agility: 3
+  Armor: 47
+  Psy Defense: 47
+  Rank: 797
+Cargo Space: 12
+Load aboard transport: 14
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
 Can be towed
-Upkeep / Maintenance: 111
-Build Cost: 536
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 2684
+Build Cost: 26836
 Build Resource Requirements:
-  Energy: 9
-  Metal: 1
-  Chemicals: 11
-  Biochems: 6
-  Ceramsteel: 1
-Upgrade Frogmen (PA) to Frogmen (CE) at Lab
-Time to Build / Upgrade: 1
-[9920] Technologies Required to Build Unit (78):
-  [125] Psychoconditioning (97)
-  [1195] Naval Warfare (90)
-  [8600] Cybernetically-Enhanced Soldiers (48)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---9--
-Name: Frogmen (AVE)
-Nick Name: Frogmen (AVE)
-Scores & Strengths:
-  Tech Score: 1914
-  Unit Score: 1715
-  Average Score: 1814
-  Stat Strength: 1060
-  Total Strength: 1715
-  Planet Strength: 1715
-  Space Strength: 0
-  Garrison Strength: 766
-Statistics:
-  Movement Type: underwater
-  Move Points: 5
-  Spot: 6
-  Camouflage: 23
-  Agility: 21
-  Armor: 5
-  Psy Defense: 2
-  Rank: 771
-Attacks:
-  Water: 17/25
-  Indirect: 10/23
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Can be towed
-Upkeep / Maintenance: 114
-Build Cost: 513
-Build Resource Requirements:
-  Energy: 6
+  Food: 1
+  Energy: 1
+  Metal: 15
   Trace: 1
-  Chemicals: 8
-  Biochems: 8
-  Electronics: 3
-Upgrade Frogmen (GE) to Frogmen (AVE) at Lab
-Time to Build / Upgrade: 1
-[10220] Technologies Required to Build Unit (71):
-  [125] Psychoconditioning (97)
-  [1195] Naval Warfare (90)
-  [8900] Genetically-Enhanced Warriors (25)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---10--
-Name: Frogmen (MF)
-Nick Name: Frogmen (MF)
-Scores & Strengths:
-  Tech Score: 3230
-  Unit Score: 2659
-  Average Score: 2944
-  Stat Strength: 1606
-  Total Strength: 2659
-  Planet Strength: 2659
-  Space Strength: 0
-  Garrison Strength: 1085
-Statistics:
-  Movement Type: underwater
-  Move Points: 6
-  Spot: 7
-  Camouflage: 30
-  Agility: 24
-  Armor: 6
-  Psy Defense: 3
-  Rank: 798
-Attacks:
-  Water: 21/33
-  Indirect: 12/30
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Can be towed
-Upkeep / Maintenance: 1032
-Build Cost: 9787
-Build Resource Requirements:
-  Energy: 10
-  Chemicals: 11
-  Biochems: 9
-  Wetware: 7
-  Monopols: 58
-Upgrade Frogmen (CE) to Frogmen (MF) at Wetware
+  Exotica: 1
+  Chemicals: 9
+  Biochems: 1
+  Electronics: 9
+  Ceramsteel: 28
+  Monopols: 27
+Build Mobile Offshore Base in Well
 Time to Build / Upgrade: 3
-[19895] Technologies Required to Build Unit (74):
-  [125] Psychoconditioning (97)
-  [1195] Naval Warfare (90)
-  [18575] Machine-Fused Soldiers (35)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---11--
-Name: Frogmen (NE)
-Nick Name: Frogmen (NE)
-Scores & Strengths:
-  Tech Score: 3917
-  Unit Score: 3370
-  Average Score: 3643
-  Stat Strength: 2006
-  Total Strength: 3370
-  Planet Strength: 3370
-  Space Strength: 0
-  Garrison Strength: 1273
-Statistics:
-  Movement Type: underwater
-  Move Points: 7
-  Spot: 7
-  Camouflage: 35
-  Agility: 25
-  Armor: 7
-  Psy Defense: 3
-  Rank: 814
-Attacks:
-  Water: 24/37
-  Indirect: 14/34
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Can be towed
-Upkeep / Maintenance: 711
-Build Cost: 6596
-Build Resource Requirements:
-  Wetware: 7
-  Monopols: 33
-Upgrade Frogmen (AVE) to Frogmen (NE) at Fusorium
-Time to Build / Upgrade: 2
-[25450] Technologies Required to Build Unit (73):
-  [125] Psychoconditioning (97)
-  [1195] Naval Warfare (90)
-  [24130] Neumonically-Enhanced Soldiers (32)
+[42305] Technologies Required to Build Unit (75):
+  [6490] Real-Time Medical Imaging (65)
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [27875] PTS Meson Navalcraft (74)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

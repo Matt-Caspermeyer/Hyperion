@@ -1,240 +1,535 @@
-All units of the unit class Missile Cruiser are listed herein (5 in total):
+All units of the unit class Space Destroyer are listed herein (11 in total):
 
 --1--
-Name: Missile Cruiser
-Nick Name: JJ-CC-Mi
+Name: Space Destroyer
+Nick Name: SS-DD
 Scores & Strengths:
-  Tech Score: 3094
-  Unit Score: 3094
-  Average Score: 3094
-  Stat Strength: 1994
-  Total Strength: 3094
+  Tech Score: 2580
+  Unit Score: 2580
+  Average Score: 2580
+  Stat Strength: 1810
+  Total Strength: 2580
   Planet Strength: 0
-  Space Strength: 3094
+  Space Strength: 2580
   Garrison Strength: 0
 Statistics:
-  Movement Type: jump
-  Move Points: 14
-  Spot: 11
-  Camouflage: 3
-  Agility: 10
-  Armor: 28
-  Psy Defense: 28
-  Rank: 166
+  Movement Type: space
+  Move Points: 16
+  Spot: 12
+  Camouflage: 4
+  Agility: 12
+  Armor: 25
+  Psy Defense: 25
+  Rank: 139
 Attacks:
-  Ranged Space: 12/34
-  Direct Space: 17/28
-  Close Space: 18/12
-Cargo Space: 2
-Load aboard transport: 6
+  Direct Space: 16/28
+  Close Space: 14/23
+Cargo Space: 1
+Load aboard transport: 5
 Immune to Plague
-Upkeep / Maintenance: 458
-Build Cost: 4582
+Upkeep / Maintenance: 41
+Build Cost: 413
 Build Resource Requirements:
-  Food: 1
-  Energy: 13
-  Metal: 10
-  Trace: 7
-  Exotica: 1
-  Chemicals: 20
-  Biochems: 17
-  Electronics: 10
-  Ceramsteel: 12
-  Monopols: 27
-  Singularities: 4
-Missile Cruiser cannot be built
+  Food: 3
+  Energy: 22
+  Metal: 18
+  Trace: 9
+  Exotica: 3
+  Chemicals: 36
+  Biochems: 26
+  Electronics: 14
+  Ceramsteel: 20
+Build Space Destroyer in Starport
+Time to Build / Upgrade: 3
+[14045] Technology Required to Build Unit (84):
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Meson Vlad Cruiser
-Nick Name: JJ-CC-Me
+Name: Jump Destroyer
+Nick Name: JJ-DD
 Scores & Strengths:
-  Tech Score: 4073
-  Unit Score: 4073
-  Average Score: 4073
-  Stat Strength: 2713
-  Total Strength: 4073
+  Tech Score: 3399
+  Unit Score: 3361
+  Average Score: 3380
+  Stat Strength: 2369
+  Total Strength: 3361
   Planet Strength: 0
-  Space Strength: 4073
+  Space Strength: 3361
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
-  Move Points: 17
-  Spot: 14
-  Camouflage: 6
-  Agility: 12
-  Armor: 32
-  Psy Defense: 32
-  Rank: 178
+  Move Points: 18
+  Spot: 13
+  Camouflage: 5
+  Agility: 13
+  Armor: 29
+  Psy Defense: 29
+  Rank: 158
 Attacks:
-  Ranged Space: 15/33
-  Direct Space: 20/26
-  Close Space: 23/15
-Load aboard transport: 1
+  Direct Space: 18/32
+  Close Space: 16/26
+Cargo Space: 1
+Load aboard transport: 5
 Immune to Plague
-Upkeep / Maintenance: 531
-Build Cost: 5307
+Upkeep / Maintenance: 536
+Build Cost: 5355
 Build Resource Requirements:
-  Food: 1
-  Energy: 10
-  Metal: 11
-  Trace: 10
-  Exotica: 2
-  Chemicals: 17
-  Biochems: 21
-  Electronics: 17
-  Ceramsteel: 12
-  Monopols: 31
+  Food: 2
+  Energy: 16
+  Metal: 15
+  Trace: 8
+  Exotica: 3
+  Chemicals: 26
+  Biochems: 20
+  Electronics: 12
+  Ceramsteel: 17
+  Monopols: 38
   Singularities: 4
-Meson Vlad Cruiser cannot be built
+Build Jump Destroyer in Starport
+Time to Build / Upgrade: 4
+[26415] Technologies Required to Build Unit (76):
+  [4285] Jump Drives (70)
+  [8085] Fusion Rifles (75)
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Jump (Vlad) Cruiser
-Nick Name: JJ-CC2
+Name: Meson Space Destroyer
+Nick Name: JJ-DD-Me
 Scores & Strengths:
-  Tech Score: 5589
-  Unit Score: 5418
-  Average Score: 5504
-  Stat Strength: 4534
-  Total Strength: 5418
+  Tech Score: 3792
+  Unit Score: 3792
+  Average Score: 3792
+  Stat Strength: 2210
+  Total Strength: 3792
   Planet Strength: 0
-  Space Strength: 5418
+  Space Strength: 3792
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
-  Move Points: 16
+  Move Points: 18
   Spot: 14
-  Camouflage: 4
-  Agility: 4
-  Armor: 45
-  Psy Defense: 45
-  Rank: 182
+  Camouflage: 6
+  Agility: 14
+  Armor: 27
+  Psy Defense: 27
+  Rank: 185
 Attacks:
-  Ranged Space: 17/25
-  Direct Space: 10/27
-  Close Space: 9/21
-Cargo Space: 3
-Load aboard transport: 6
+  Direct Space: 25/36
+  Close Space: 22/31
+Cargo Space: 1
+Load aboard transport: 5
 Immune to Plague
-Upkeep / Maintenance: 727
-Build Cost: 7272
+Upkeep / Maintenance: 553
+Build Cost: 5528
 Build Resource Requirements:
-  Food: 1
-  Energy: 8
-  Metal: 14
-  Trace: 4
-  Exotica: 1
-  Chemicals: 18
-  Biochems: 18
-  Electronics: 13
-  Ceramsteel: 20
-  Monopols: 36
+  Food: 2
+  Energy: 15
+  Metal: 12
+  Trace: 11
+  Exotica: 2
+  Chemicals: 26
+  Biochems: 19
+  Electronics: 18
+  Ceramsteel: 13
+  Monopols: 35
   Singularities: 4
-Build Jump (Vlad) Cruiser in Starport
-Time to Build / Upgrade: 4
-[39365] Technology Required to Build Unit (61):
-  [39365] Jump Capital Ships (61)
+Meson Space Destroyer cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Gate Cruiser
-Nick Name: Galactic Rift
+Name: Jump Destroyer II
+Nick Name: JJ-DD
 Scores & Strengths:
-  Tech Score: 7734
-  Unit Score: 7734
-  Average Score: 7734
-  Stat Strength: 5847
-  Total Strength: 7734
-  Planet Strength: 6995
-  Space Strength: 6586
-  Garrison Strength: 1256
+  Tech Score: 4325
+  Unit Score: 4202
+  Average Score: 4264
+  Stat Strength: 2906
+  Total Strength: 4202
+  Planet Strength: 0
+  Space Strength: 4202
+  Garrison Strength: 0
 Statistics:
-  Movement Type: gate
-  Move Points: 31
-  Spot: 26
-  Camouflage: 16
-  Agility: 16
-  Armor: 43
-  Psy Defense: 43
-  Rank: 221
+  Movement Type: jump
+  Move Points: 21
+  Spot: 14
+  Camouflage: 5
+  Agility: 14
+  Armor: 32
+  Psy Defense: 32
+  Rank: 178
 Attacks:
-  Ranged Space: 22/22
-  Direct Space: 17/15
-  Air: 16/13
-  Indirect: 22/22
-  Direct: 24/19
-Cargo Space: 2
-Load aboard transport: 6
+  Direct Space: 21/36
+  Close Space: 18/30
+Cargo Space: 1
+Load aboard transport: 5
 Immune to Plague
-Upkeep / Maintenance: 1073
-Build Cost: 10727
+Upkeep / Maintenance: 619
+Build Cost: 6187
 Build Resource Requirements:
   Food: 2
-  Energy: 8
-  Metal: 8
-  Trace: 7
+  Energy: 14
+  Metal: 9
+  Trace: 9
   Exotica: 2
-  Chemicals: 15
-  Biochems: 22
-  Electronics: 15
+  Chemicals: 25
+  Biochems: 23
+  Electronics: 19
   Ceramsteel: 13
-  Wetware: 10
-  Monopols: 30
-  Singularities: 6
-Gate Cruiser cannot be built
+  Monopols: 37
+  Singularities: 5
+Build Jump Destroyer II in Starport
+Time to Build / Upgrade: 4
+[27965] Technology Required to Build Unit (75):
+  [27965] Jump Escorts (75)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Cloaking Vlad Cruiser
-Nick Name: JJ-CC-Cl
+Name: Psy-Destroyer
+Nick Name: LL-DD-Psy
 Scores & Strengths:
-  Tech Score: 8498
-  Unit Score: 8501
-  Average Score: 8499
-  Stat Strength: 6840
-  Total Strength: 8501
+  Tech Score: 4322
+  Unit Score: 4322
+  Average Score: 4322
+  Stat Strength: 2380
+  Total Strength: 4322
+  Planet Strength: 3690
+  Space Strength: 3462
+  Garrison Strength: 922
+Statistics:
+  Movement Type: lander
+  Move Points: 16
+  Spot: 12
+  Camouflage: 6
+  Agility: 12
+  Armor: 30
+  Psy Defense: 30
+  Rank: 177
+Attacks:
+  Direct Space: 13/24
+  Close Space: 16/20
+  Psychic: 15/30
+  Air: 14/22
+  Direct: 12/22
+  Close: 16/18
+Cargo Space: 1
+Load aboard transport: 5
+Immune to Plague
+Upkeep / Maintenance: 632
+Build Cost: 6321
+Build Resource Requirements:
+  Food: 2
+  Energy: 12
+  Metal: 8
+  Trace: 9
+  Exotica: 2
+  Chemicals: 22
+  Biochems: 19
+  Electronics: 19
+  Ceramsteel: 10
+  Monopols: 30
+  Gems: 38
+  Singularities: 4
+Psy-Destroyer cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Psy-Destroyer II
+Nick Name: LL-DD-Psy-2
+Scores & Strengths:
+  Tech Score: 5091
+  Unit Score: 5091
+  Average Score: 5091
+  Stat Strength: 2828
+  Total Strength: 5091
+  Planet Strength: 4367
+  Space Strength: 4064
+  Garrison Strength: 1029
+Statistics:
+  Movement Type: lander
+  Move Points: 18
+  Spot: 14
+  Camouflage: 8
+  Agility: 14
+  Armor: 32
+  Psy Defense: 32
+  Rank: 192
+Attacks:
+  Direct Space: 14/25
+  Close Space: 17/22
+  Psychic: 16/32
+  Air: 15/25
+  Direct: 13/24
+  Close: 17/20
+Cargo Space: 1
+Load aboard transport: 5
+Immune to Plague
+Upkeep / Maintenance: 730
+Build Cost: 7296
+Build Resource Requirements:
+  Food: 2
+  Energy: 13
+  Metal: 7
+  Trace: 9
+  Exotica: 2
+  Chemicals: 22
+  Biochems: 19
+  Electronics: 18
+  Ceramsteel: 10
+  Monopols: 33
+  Gems: 42
+  Singularities: 4
+Psy-Destroyer II cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Meson Psy-Destroyer
+Nick Name: LL-DD-Psy-Me
+Scores & Strengths:
+  Tech Score: 7049
+  Unit Score: 7049
+  Average Score: 7049
+  Stat Strength: 3960
+  Total Strength: 7049
+  Planet Strength: 5999
+  Space Strength: 5730
+  Garrison Strength: 1224
+Statistics:
+  Movement Type: lander
+  Move Points: 24
+  Spot: 18
+  Camouflage: 12
+  Agility: 18
+  Armor: 36
+  Psy Defense: 36
+  Rank: 227
+Attacks:
+  Direct Space: 18/28
+  Close Space: 21/26
+  Psychic: 20/36
+  Air: 17/27
+  Direct: 17/26
+  Close: 19/22
+Cargo Space: 1
+Load aboard transport: 5
+Immune to Plague
+Upkeep / Maintenance: 913
+Build Cost: 9133
+Build Resource Requirements:
+  Food: 1
+  Energy: 8
+  Metal: 4
+  Trace: 6
+  Exotica: 2
+  Chemicals: 13
+  Biochems: 12
+  Electronics: 14
+  Ceramsteel: 6
+  Monopols: 21
+  Gems: 47
+  Singularities: 5
+Meson Psy-Destroyer cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Cybermorph Space Destroyer
+Nick Name: JJ-DD-Cm
+Scores & Strengths:
+  Tech Score: 7174
+  Unit Score: 7174
+  Average Score: 7174
+  Stat Strength: 5570
+  Total Strength: 7174
   Planet Strength: 0
-  Space Strength: 8501
+  Space Strength: 7174
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
-  Move Points: 16
-  Spot: 14
-  Camouflage: 46
-  Agility: 20
-  Armor: 44
-  Psy Defense: 44
-  Rank: 249
+  Move Points: 26
+  Spot: 22
+  Camouflage: 14
+  Agility: 42
+  Armor: 35
+  Psy Defense: 35
+  Rank: 217
 Attacks:
-  Ranged Space: 20/33
-  Direct Space: 30/22
-  Close Space: 31/11
-Cargo Space: 3
-Load aboard transport: 6
+  Direct Space: 25/36
+  Close Space: 22/32
+Cargo Space: 1
+Load aboard transport: 5
 Immune to Plague
-Upkeep / Maintenance: 872
-Build Cost: 8724
+Upkeep / Maintenance: 900
+Build Cost: 8996
 Build Resource Requirements:
-  Energy: 4
+  Food: 2
+  Energy: 10
   Metal: 6
-  Trace: 9
-  Exotica: 1
-  Chemicals: 8
-  Biochems: 16
-  Electronics: 22
+  Trace: 5
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 26
+  Electronics: 14
   Ceramsteel: 9
-  Wetware: 7
-  Monopols: 17
-  Singularities: 4
-Build Cloaking Vlad Cruiser in Starport
+  Wetware: 10
+  Monopols: 28
+  Singularities: 5
+Cybermorph Space Destroyer cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Cloaking Space Destroyer
+Nick Name: SS-CDD
+Scores & Strengths:
+  Tech Score: 7481
+  Unit Score: 7484
+  Average Score: 7483
+  Stat Strength: 6144
+  Total Strength: 7484
+  Planet Strength: 0
+  Space Strength: 7484
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 18
+  Spot: 12
+  Camouflage: 48
+  Agility: 22
+  Armor: 38
+  Psy Defense: 38
+  Rank: 217
+Attacks:
+  Direct Space: 22/38
+  Close Space: 28/18
+Cargo Space: 1
+Load aboard transport: 5
+Immune to Plague
+Upkeep / Maintenance: 323
+Build Cost: 3231
+Build Resource Requirements:
+  Food: 1
+  Energy: 6
+  Metal: 6
+  Trace: 11
+  Exotica: 1
+  Chemicals: 11
+  Biochems: 20
+  Electronics: 27
+  Ceramsteel: 10
+  Wetware: 6
+  Monopols: 22
+Build Cloaking Space Destroyer in Starport
 Time to Build / Upgrade: 3
-[98845] Technologies Required to Build Unit (63):
-  [59480] Cloaked Capital Ships (64)
-  [39365] Jump Capital Ships (61)
+[58065] Technology Required to Build Unit (48):
+  [58065] Cloaked Escortcraft (48)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Gate Destroyer
+Nick Name: Cataclysm
+Scores & Strengths:
+  Tech Score: 7603
+  Unit Score: 7605
+  Average Score: 7604
+  Stat Strength: 5448
+  Total Strength: 7605
+  Planet Strength: 6805
+  Space Strength: 6248
+  Garrison Strength: 1202
+Statistics:
+  Movement Type: gate
+  Move Points: 32
+  Spot: 24
+  Camouflage: 18
+  Agility: 18
+  Armor: 40
+  Psy Defense: 40
+  Rank: 218
+Attacks:
+  Direct Space: 24/20
+  Close Space: 20/16
+  Water: 12/24
+  Air: 17/17
+  Indirect: 24/20
+  Direct: 20/15
+Cargo Space: 1
+Load aboard transport: 5
+Immune to Plague
+Upkeep / Maintenance: 1028
+Build Cost: 10283
+Build Resource Requirements:
+  Food: 2
+  Energy: 9
+  Metal: 7
+  Trace: 8
+  Exotica: 2
+  Chemicals: 17
+  Biochems: 23
+  Electronics: 16
+  Ceramsteel: 11
+  Wetware: 10
+  Monopols: 31
+  Singularities: 6
+Gate Destroyer cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Psyber Destroyer
+Nick Name: LL-DD-Psyber
+Scores & Strengths:
+  Tech Score: 8659
+  Unit Score: 8659
+  Average Score: 8659
+  Stat Strength: 4560
+  Total Strength: 8659
+  Planet Strength: 7197
+  Space Strength: 6982
+  Garrison Strength: 1411
+Statistics:
+  Movement Type: lander
+  Move Points: 26
+  Spot: 20
+  Camouflage: 14
+  Agility: 20
+  Armor: 38
+  Psy Defense: 38
+  Rank: 258
+Attacks:
+  Direct Space: 22/31
+  Close Space: 26/30
+  Psychic: 24/40
+  Air: 19/29
+  Direct: 19/29
+  Close: 23/25
+Cargo Space: 1
+Load aboard transport: 5
+Immune to Plague
+Upkeep / Maintenance: 1023
+Build Cost: 10228
+Build Resource Requirements:
+  Food: 1
+  Energy: 8
+  Metal: 3
+  Trace: 4
+  Exotica: 1
+  Chemicals: 12
+  Biochems: 17
+  Electronics: 10
+  Ceramsteel: 5
+  Wetware: 6
+  Monopols: 19
+  Gems: 28
+  Singularities: 5
+Psyber Destroyer cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
