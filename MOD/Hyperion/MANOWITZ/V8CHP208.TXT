@@ -1,262 +1,293 @@
-All units of the unit class Heavy Tank Killer are listed herein (6 in total):
+All units of the unit class UA Helicopter (SOW) are listed herein (6 in total):
 
 --1--
-Name: Heavy Tank Killer
-Nick Name: Direwolf
+Name: UA Helicopter (SOW)
+Nick Name: AA-UAH-SOW
 Scores & Strengths:
-  Tech Score: 2728
-  Unit Score: 2728
-  Average Score: 2728
-  Stat Strength: 2358
-  Total Strength: 2728
-  Planet Strength: 2728
+  Tech Score: 2597
+  Unit Score: 2595
+  Average Score: 2596
+  Stat Strength: 2425
+  Total Strength: 2595
+  Planet Strength: 2595
   Space Strength: 0
-  Garrison Strength: 756
+  Garrison Strength: 473
 Statistics:
-  Movement Type: tread
-  Move Points: 13
-  Spot: 8
-  Camouflage: 6
-  Agility: 17
-  Armor: 30
-  Psy Defense: 30
-  Rank: 96
+  Movement Type: air
+  Move Points: 30
+  Spot: 24
+  Camouflage: 14
+  Agility: 25
+  Armor: 8
+  Psy Defense: 8
+  Rank: 82
 Attacks:
-  Indirect: 8/27
-  Direct: 7/22
-Load aboard transport: 3
-Upkeep / Maintenance: 111
-Build Cost: 995
+  Close: 17/10
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 23
+Build Cost: 227
 Build Resource Requirements:
-  Electronics: 13
-  Ceramsteel: 19
-  Monopols: 45
-Upgrade Tank Killer to Heavy Tank Killer at Factory
-Time to Build / Upgrade: 1
-[15130] Technology Required to Build Unit (68):
-  [15130] Fusion Battle Tanks (68)
+  Food: 13
+  Energy: 19
+  Metal: 2
+  Trace: 17
+  Exotica: 13
+  Chemicals: 33
+  Electronics: 32
+  Ceramsteel: 3
+Build UA Helicopter (SOW) in Factory
+Time to Build / Upgrade: 3
+[14165] Technology Required to Build Unit (34):
+  [14165] Autonomous Aerial Vehicles (34)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Imperial Siege Tank
-Nick Name: Mangler
+Name: UA Helicopter (SUW)
+Nick Name: AA-UAH-SUW
 Scores & Strengths:
-  Tech Score: 2728
-  Unit Score: 2728
-  Average Score: 2728
-  Stat Strength: 2358
-  Total Strength: 2728
-  Planet Strength: 2728
+  Tech Score: 2597
+  Unit Score: 2596
+  Average Score: 2596
+  Stat Strength: 1812
+  Total Strength: 2596
+  Planet Strength: 2596
   Space Strength: 0
-  Garrison Strength: 661
+  Garrison Strength: 553
 Statistics:
-  Movement Type: tread
-  Move Points: 17
-  Spot: 8
-  Camouflage: 6
-  Agility: 13
-  Armor: 30
-  Psy Defense: 30
-  Rank: 96
+  Movement Type: air
+  Move Points: 22
+  Spot: 20
+  Camouflage: 8
+  Agility: 24
+  Armor: 12
+  Psy Defense: 12
+  Rank: 117
 Attacks:
-  Indirect: 8/27
-  Direct: 7/15
-  Close: 7/7
-Load aboard transport: 3
-Upkeep / Maintenance: 105
-Build Cost: 1049
+  Indirect: 24/18
+  Direct: 22/16
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 23
+Build Cost: 231
 Build Resource Requirements:
-  Food: 2
-  Energy: 11
-  Metal: 11
-  Trace: 3
-  Exotica: 2
-  Chemicals: 24
-  Electronics: 13
-  Ceramsteel: 19
-  Monopols: 42
-Build Imperial Siege Tank in Factory
-Time to Build / Upgrade: 4
-[15130] Technology Required to Build Unit (68):
-  [15130] Fusion Battle Tanks (68)
+  Food: 8
+  Energy: 20
+  Metal: 4
+  Trace: 23
+  Exotica: 8
+  Chemicals: 36
+  Electronics: 30
+  Ceramsteel: 6
+Build UA Helicopter (SUW) in Factory
+Time to Build / Upgrade: 3
+[14165] Technology Required to Build Unit (34):
+  [14165] Autonomous Aerial Vehicles (34)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Shock Heavy Tank Killer
-Nick Name: Hellwolf
+Name: UA Helicopter (MCM)
+Nick Name: AA-UAH-MCM
 Scores & Strengths:
-  Tech Score: 2921
-  Unit Score: 2865
-  Average Score: 2893
-  Stat Strength: 2480
-  Total Strength: 2865
-  Planet Strength: 2865
+  Tech Score: 2597
+  Unit Score: 2599
+  Average Score: 2598
+  Stat Strength: 2319
+  Total Strength: 2599
+  Planet Strength: 2599
   Space Strength: 0
-  Garrison Strength: 794
+  Garrison Strength: 519
 Statistics:
-  Movement Type: tread
-  Move Points: 13
-  Spot: 8
-  Camouflage: 6
-  Agility: 17
-  Armor: 31
-  Psy Defense: 31
-  Rank: 99
+  Movement Type: air
+  Move Points: 25
+  Spot: 26
+  Camouflage: 10
+  Agility: 26
+  Armor: 11
+  Psy Defense: 11
+  Rank: 96
 Attacks:
-  Indirect: 8/28
-  Direct: 7/23
-Load aboard transport: 3
-Upkeep / Maintenance: 72
+  Water: 20/14
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 23
+Build Cost: 231
 Build Resource Requirements:
-Upgrade Heavy Tank Killer to Shock Heavy Tank Killer at Factory
-Time to Build / Upgrade: 1
-[30105] Technologies Required to Build Unit (69):
-  [15130] Fusion Battle Tanks (68)
-  [14975] Power Hovertanks (70)
+  Food: 12
+  Energy: 17
+  Metal: 3
+  Trace: 19
+  Exotica: 12
+  Chemicals: 30
+  Electronics: 36
+  Ceramsteel: 5
+Build UA Helicopter (MCM) in Factory
+Time to Build / Upgrade: 3
+[14165] Technology Required to Build Unit (34):
+  [14165] Autonomous Aerial Vehicles (34)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: 3rd-Republic Siege Tank
-Nick Name: Golem
+Name: UA Helicopter (L)
+Nick Name: AA-UAH-L
 Scores & Strengths:
-  Tech Score: 2921
-  Unit Score: 2865
-  Average Score: 2893
-  Stat Strength: 2480
-  Total Strength: 2865
-  Planet Strength: 2865
+  Tech Score: 2646
+  Unit Score: 2644
+  Average Score: 2645
+  Stat Strength: 2236
+  Total Strength: 2644
+  Planet Strength: 2644
   Space Strength: 0
-  Garrison Strength: 794
+  Garrison Strength: 539
 Statistics:
-  Movement Type: hover
-  Move Points: 13
-  Spot: 8
-  Camouflage: 6
-  Agility: 17
-  Armor: 31
-  Psy Defense: 31
-  Rank: 99
+  Movement Type: air
+  Move Points: 24
+  Spot: 22
+  Camouflage: 20
+  Agility: 24
+  Armor: 10
+  Psy Defense: 10
+  Rank: 784
 Attacks:
-  Indirect: 8/28
-  Direct: 7/23
-Load aboard transport: 3
-Upkeep / Maintenance: 72
-Build Cost: 718
+  Indirect: 24/17
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Officer - Provides stack combat bonuses
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Heals units of same movement type
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 35
+Build Cost: 345
 Build Resource Requirements:
-  Food: 1
-  Energy: 8
-  Metal: 7
-  Trace: 2
-  Exotica: 1
-  Chemicals: 17
-  Electronics: 8
-  Ceramsteel: 12
-  Monopols: 29
-Build 3rd-Republic Siege Tank in Factory
-Time to Build / Upgrade: 3
-[30105] Technologies Required to Build Unit (69):
-  [15130] Fusion Battle Tanks (68)
-  [14975] Power Hovertanks (70)
+  Food: 12
+  Energy: 16
+  Metal: 3
+  Trace: 20
+  Exotica: 12
+  Chemicals: 29
+  Electronics: 26
+  Ceramsteel: 4
+Build UA Helicopter (L) in Factory
+Time to Build / Upgrade: 2
+[16000] Technologies Required to Build Unit (67):
+  [1615] Wireblades (76)
+  [220] Indoctrination (91)
+  [14165] Autonomous Aerial Vehicles (34)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Stealth Heavy Tank Killer
-Nick Name: Cerberus
+Name: UA Helicopter (ASW)
+Nick Name: AA-UAH-ASW
 Scores & Strengths:
-  Tech Score: 5364
-  Unit Score: 5454
-  Average Score: 5409
-  Stat Strength: 2454
-  Total Strength: 5454
-  Planet Strength: 5454
+  Tech Score: 2902
+  Unit Score: 2904
+  Average Score: 2903
+  Stat Strength: 2304
+  Total Strength: 2904
+  Planet Strength: 2904
   Space Strength: 0
-  Garrison Strength: 1363
+  Garrison Strength: 530
 Statistics:
-  Movement Type: tread
-  Move Points: 16
-  Spot: 10
-  Camouflage: 20
-  Agility: 4
-  Armor: 29
-  Psy Defense: 29
-  Rank: 194
+  Movement Type: air
+  Move Points: 30
+  Spot: 24
+  Camouflage: 12
+  Agility: 22
+  Armor: 10
+  Psy Defense: 10
+  Rank: 113
 Attacks:
-  Indirect: 30/60
-  Direct: 30/40
-Load aboard transport: 3
-Upkeep / Maintenance: 170
-Build Cost: 1696
+  Water: 25/24
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 31
+Build Cost: 305
 Build Resource Requirements:
-  Energy: 20
-  Metal: 5
-  Trace: 7
-  Exotica: 1
-  Chemicals: 26
-  Biochems: 39
-  Electronics: 14
-  Ceramsteel: 8
-  Wetware: 5
-  Monopols: 41
-Build Stealth Heavy Tank Killer in Factory
-Time to Build / Upgrade: 4
-[37265] Technology Required to Build Unit (33):
-  [37265] Neumonic Land Vehicles (33)
+  Food: 11
+  Energy: 23
+  Metal: 3
+  Trace: 21
+  Exotica: 11
+  Chemicals: 33
+  Biochems: 15
+  Electronics: 29
+  Ceramsteel: 4
+Build UA Helicopter (ASW) in Factory
+Time to Build / Upgrade: 3
+[17780] Technologies Required to Build Unit (61):
+  [3615] Submarine Warfare (87)
+  [14165] Autonomous Aerial Vehicles (34)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Psy Heavy Tank Killer
-Nick Name: Psywolf
+Name: UA Helicopter (ISR)
+Nick Name: AA-UAH-ISR
 Scores & Strengths:
-  Tech Score: 2756
-  Unit Score: 5786
-  Average Score: 4271
-  Stat Strength: 5058
-  Total Strength: 5786
-  Planet Strength: 5786
-  Space Strength: 5366
-  Garrison Strength: 1604
+  Tech Score: 3203
+  Unit Score: 3206
+  Average Score: 3205
+  Stat Strength: 2746
+  Total Strength: 3206
+  Planet Strength: 3206
+  Space Strength: 0
+  Garrison Strength: 628
 Statistics:
-  Movement Type: tread
-  Move Points: 13
-  Spot: 8
-  Camouflage: 6
-  Agility: 17
-  Armor: 30
-  Psy Defense: 60
-  Rank: 131
+  Movement Type: air
+  Move Points: 26
+  Spot: 32
+  Camouflage: 20
+  Agility: 22
+  Armor: 9
+  Psy Defense: 9
+  Rank: 128
 Attacks:
-  Psychic: 14/22
-  Indirect: 9/28
-  Direct: 8/21
-Load aboard transport: 3
-Upkeep / Maintenance: 495
-Build Cost: 4952
+  Air: 18/10
+  Indirect: 20/14
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 31
+Build Cost: 314
 Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 28
-  Trace: 4
-  Exotica: 2
-  Chemicals: 36
-  Electronics: 24
-  Ceramsteel: 48
-  Monopols: 74
-  Gems: 95
-Build Psy Heavy Tank Killer in Factory
-Time to Build / Upgrade: 8
-[15460] Technologies Required to Build Unit (75):
-  [330] Holy Warriors (82)
-  [15130] Fusion Battle Tanks (68)
+  Food: 9
+  Energy: 12
+  Metal: 2
+  Trace: 20
+  Exotica: 9
+  Chemicals: 17
+  Biochems: 27
+  Electronics: 31
+  Ceramsteel: 2
+Build UA Helicopter (ISR) in Factory
+Time to Build / Upgrade: 3
+[20655] Technologies Required to Build Unit (41):
+  [6490] Assassin (48)
+  [14165] Autonomous Aerial Vehicles (34)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

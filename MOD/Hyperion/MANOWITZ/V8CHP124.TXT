@@ -1,288 +1,459 @@
-All units of the unit class Space Minesweeper are listed herein (6 in total):
+All units of the unit class Saboteur are listed herein (11 in total):
 
 --1--
-Name: Space Minesweeper
-Nick Name: SS-MS
+Name: Saboteur
+Nick Name: Saboteur
 Scores & Strengths:
-  Tech Score: 396
-  Unit Score: 396
-  Average Score: 396
-  Stat Strength: 391
-  Total Strength: 396
-  Planet Strength: 0
-  Space Strength: 396
-  Garrison Strength: 0
+  Tech Score: 406
+  Unit Score: 406
+  Average Score: 406
+  Stat Strength: 316
+  Total Strength: 406
+  Planet Strength: 406
+  Space Strength: 0
+  Garrison Strength: 165
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 10
-  Camouflage: 1
-  Agility: 1
-  Armor: 12
-  Psy Defense: 12
-  Rank: 34
+  Movement Type: foot
+  Move Points: 6
+  Spot: 8
+  Camouflage: 8
+  Agility: 12
+  Armor: 2
+  Psy Defense: 2
+  Rank: 716
 Attacks:
-  Close Space: 1/5
-Cargo Space: 1
-Load aboard transport: 5
+  Indirect: 9/10
+Load aboard transport: 1
+Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Immune to Plague
-Upkeep / Maintenance: 15
-Build Cost: 146
+Upkeep / Maintenance: 10
+Build Cost: 81
 Build Resource Requirements:
-  Food: 5
-  Energy: 2
-  Metal: 48
-  Trace: 8
-  Exotica: 5
-  Chemicals: 17
-  Electronics: 5
-Build Space Minesweeper in Starport
-Time to Build / Upgrade: 2
-[2125] Technologies Required to Build Unit (95):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
-  [100] Psychosocial Engineering (100)
-  [60] Torpedo (98)
-  [795] Missiles (86)
+  Trace: 25
+  Exotica: 7
+  Chemicals: 16
+  Electronics: 16
+Upgrade Peasant to Saboteur at Fort
+Time to Build / Upgrade: 1
+[1195] Technology Required to Build Unit (90):
+  [1195] Naval Warfare (90)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Jump Minesweeper
-Nick Name: JJ-MS
+Name: Saboteur (PE)
+Nick Name: Sab (PE)
 Scores & Strengths:
-  Tech Score: 481
-  Unit Score: 447
-  Average Score: 464
-  Stat Strength: 441
-  Total Strength: 447
-  Planet Strength: 0
-  Space Strength: 447
-  Garrison Strength: 0
+  Tech Score: 414
+  Unit Score: 416
+  Average Score: 415
+  Stat Strength: 316
+  Total Strength: 416
+  Planet Strength: 416
+  Space Strength: 0
+  Garrison Strength: 169
 Statistics:
-  Movement Type: jump
-  Move Points: 1
-  Spot: 10
-  Camouflage: 1
-  Agility: 1
-  Armor: 13
-  Psy Defense: 13
-  Rank: 36
+  Movement Type: foot
+  Move Points: 6
+  Spot: 8
+  Camouflage: 8
+  Agility: 12
+  Armor: 2
+  Psy Defense: 2
+  Rank: 718
 Attacks:
-  Close Space: 1/6
-Cargo Space: 1
-Load aboard transport: 5
+  Indirect: 10/10
+Load aboard transport: 1
+Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Immune to Plague
-Upkeep / Maintenance: 114
-Build Cost: 1139
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 9
+Build Cost: 68
 Build Resource Requirements:
-  Food: 5
-  Energy: 3
-  Metal: 50
-  Trace: 7
-  Exotica: 5
-  Chemicals: 21
-  Electronics: 5
-  Singularities: 1
-Build Jump Minesweeper in Starport
-Time to Build / Upgrade: 2
-[2565] Technologies Required to Build Unit (92):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [100] Psychosocial Engineering (100)
-  [60] Torpedo (98)
-  [795] Missiles (86)
-  [1235] Jump Rocketry (76)
+  Trace: 24
+  Exotica: 8
+  Chemicals: 15
+  Electronics: 14
+Upgrade Peasant to Saboteur (PE) at Fort
+Time to Build / Upgrade: 1
+[1375] Technologies Required to Build Unit (90):
+  [180] Performance-Enhanced Soldiers (90)
+  [1195] Naval Warfare (90)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Space Destroyer Tender
-Nick Name: SS-DT
+Name: Saboteur (BE)
+Nick Name: Sab (BE)
 Scores & Strengths:
-  Tech Score: 2580
-  Unit Score: 2580
-  Average Score: 2580
-  Stat Strength: 2482
-  Total Strength: 2580
-  Planet Strength: 0
-  Space Strength: 2580
-  Garrison Strength: 0
+  Tech Score: 447
+  Unit Score: 509
+  Average Score: 478
+  Stat Strength: 388
+  Total Strength: 509
+  Planet Strength: 509
+  Space Strength: 0
+  Garrison Strength: 192
 Statistics:
-  Movement Type: space
-  Move Points: 16
-  Spot: 12
-  Camouflage: 4
-  Agility: 12
-  Armor: 31
-  Psy Defense: 31
-  Rank: 496
+  Movement Type: foot
+  Move Points: 7
+  Spot: 9
+  Camouflage: 9
+  Agility: 13
+  Armor: 2
+  Psy Defense: 2
+  Rank: 722
 Attacks:
-  Direct Space: 7/14
-Cargo Space: 2
-Load aboard transport: 5
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 37
-Build Cost: 367
+  Indirect: 11/11
+Load aboard transport: 1
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 14
+Build Cost: 57
 Build Resource Requirements:
-  Food: 3
-  Energy: 7
-  Metal: 27
-  Trace: 4
-  Exotica: 3
-  Chemicals: 16
-  Biochems: 19
-  Electronics: 6
-  Ceramsteel: 30
-Build Space Destroyer Tender in Starport
-Time to Build / Upgrade: 3
-[14045] Technology Required to Build Unit (84):
-  [14045] Space Escorts (84)
+  Food: 1
+  Trace: 1
+  Exotica: 2
+  Biochems: 16
+Upgrade Saboteur to Saboteur (BE) at Biochem Plant
+Time to Build / Upgrade: 1
+[1615] Technologies Required to Build Unit (84):
+  [420] Biochem-Enhanced Soldiers (77)
+  [1195] Naval Warfare (90)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Space Repair Ship
-Nick Name: SS-RS
+Name: Saboteur (SE)
+Nick Name: Sab (SE)
 Scores & Strengths:
-  Tech Score: 2580
-  Unit Score: 2580
-  Average Score: 2580
-  Stat Strength: 2470
-  Total Strength: 2580
-  Planet Strength: 0
-  Space Strength: 2580
-  Garrison Strength: 0
+  Tech Score: 504
+  Unit Score: 575
+  Average Score: 539
+  Stat Strength: 432
+  Total Strength: 575
+  Planet Strength: 575
+  Space Strength: 0
+  Garrison Strength: 203
 Statistics:
-  Movement Type: space
-  Move Points: 24
-  Spot: 12
-  Camouflage: 6
-  Agility: 16
-  Armor: 27
-  Psy Defense: 27
-  Rank: 497
+  Movement Type: foot
+  Move Points: 8
+  Spot: 9
+  Camouflage: 10
+  Agility: 13
+  Armor: 3
+  Psy Defense: 3
+  Rank: 726
 Attacks:
-  Close Space: 10/11
-Cargo Space: 2
-Load aboard transport: 4
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 37
-Build Cost: 374
+  Indirect: 11/13
+Load aboard transport: 1
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 17
+Build Cost: 92
 Build Resource Requirements:
-  Food: 5
-  Energy: 11
-  Metal: 21
-  Trace: 5
-  Exotica: 6
-  Chemicals: 20
+  Food: 2
+  Energy: 3
+  Metal: 1
+  Trace: 3
+  Exotica: 2
+  Chemicals: 4
   Biochems: 18
-  Electronics: 8
-  Ceramsteel: 23
-Build Space Repair Ship in Starport
-Time to Build / Upgrade: 3
-[14045] Technology Required to Build Unit (84):
-  [14045] Space Escorts (84)
+  Electronics: 1
+Upgrade Saboteur to Saboteur (SE) at Hospital
+Time to Build / Upgrade: 1
+[1870] Technologies Required to Build Unit (83):
+  [1195] Naval Warfare (90)
+  [675] Surgically-Enhanced Soldiers (75)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Jump Repair Ship
-Nick Name: JJ-RS
+Name: Saboteur (DE)
+Nick Name: Sab (DE)
 Scores & Strengths:
-  Tech Score: 4325
-  Unit Score: 4177
-  Average Score: 4251
-  Stat Strength: 3995
-  Total Strength: 4177
-  Planet Strength: 0
-  Space Strength: 4177
-  Garrison Strength: 0
+  Tech Score: 977
+  Unit Score: 926
+  Average Score: 951
+  Stat Strength: 670
+  Total Strength: 926
+  Planet Strength: 926
+  Space Strength: 0
+  Garrison Strength: 292
 Statistics:
-  Movement Type: jump
-  Move Points: 31
-  Spot: 14
-  Camouflage: 8
-  Agility: 18
-  Armor: 35
-  Psy Defense: 35
-  Rank: 521
+  Movement Type: foot
+  Move Points: 10
+  Spot: 10
+  Camouflage: 14
+  Agility: 16
+  Armor: 3
+  Psy Defense: 3
+  Rank: 745
 Attacks:
-  Close Space: 13/14
-Cargo Space: 2
-Load aboard transport: 4
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 787
-Build Cost: 7873
+  Indirect: 16/16
+Load aboard transport: 1
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 15
+Build Cost: 69
 Build Resource Requirements:
-  Food: 3
-  Energy: 7
-  Metal: 11
-  Trace: 5
-  Exotica: 4
-  Chemicals: 14
-  Biochems: 16
-  Electronics: 12
-  Ceramsteel: 15
-  Monopols: 27
-  Singularities: 6
-Build Jump Repair Ship in Starport
-Time to Build / Upgrade: 4
-[27965] Technology Required to Build Unit (75):
-  [27965] Jump Escorts (75)
+  Metal: 1
+  Biochems: 18
+  Electronics: 2
+Upgrade Saboteur to Saboteur (DE) at Biochem Plant
+Time to Build / Upgrade: 1
+[4635] Technologies Required to Build Unit (78):
+  [1195] Naval Warfare (90)
+  [3440] Drug-Enhanced Soldiers (65)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Jump Destroyer Tender
-Nick Name: JJ-DT
+Name: Saboteur (GE)
+Nick Name: Sab (GE)
 Scores & Strengths:
-  Tech Score: 4325
-  Unit Score: 4220
-  Average Score: 4273
-  Stat Strength: 4058
-  Total Strength: 4220
-  Planet Strength: 0
-  Space Strength: 4220
-  Garrison Strength: 0
+  Tech Score: 1435
+  Unit Score: 1278
+  Average Score: 1357
+  Stat Strength: 898
+  Total Strength: 1278
+  Planet Strength: 1278
+  Space Strength: 0
+  Garrison Strength: 368
 Statistics:
-  Movement Type: jump
-  Move Points: 21
-  Spot: 14
-  Camouflage: 5
-  Agility: 14
-  Armor: 40
-  Psy Defense: 40
-  Rank: 520
+  Movement Type: foot
+  Move Points: 12
+  Spot: 12
+  Camouflage: 17
+  Agility: 17
+  Armor: 4
+  Psy Defense: 4
+  Rank: 762
 Attacks:
-  Direct Space: 9/18
-Cargo Space: 2
-Load aboard transport: 5
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 679
-Build Cost: 6785
+  Indirect: 19/20
+Load aboard transport: 1
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 20
+Build Cost: 129
 Build Resource Requirements:
-  Food: 2
-  Energy: 4
-  Metal: 14
-  Trace: 3
-  Exotica: 2
+  Energy: 3
+  Trace: 2
+  Chemicals: 5
+  Biochems: 6
+  Electronics: 3
+  Ceramsteel: 1
+Upgrade Saboteur (DE) to Saboteur (GE) at Lab
+Time to Build / Upgrade: 1
+[7215] Technologies Required to Build Unit (70):
+  [1195] Naval Warfare (90)
+  [6020] Chemical Shock Legion (49)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Saboteur (PA)
+Nick Name: Sab (PA)
+Scores & Strengths:
+  Tech Score: 1453
+  Unit Score: 1289
+  Average Score: 1371
+  Stat Strength: 890
+  Total Strength: 1289
+  Planet Strength: 1289
+  Space Strength: 0
+  Garrison Strength: 357
+Statistics:
+  Movement Type: foot
+  Move Points: 13
+  Spot: 12
+  Camouflage: 16
+  Agility: 17
+  Armor: 4
+  Psy Defense: 4
+  Rank: 763
+Attacks:
+  Indirect: 19/21
+Load aboard transport: 1
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 23
+Build Cost: 135
+Build Resource Requirements:
+  Energy: 7
   Chemicals: 12
-  Biochems: 16
-  Electronics: 11
-  Ceramsteel: 20
-  Monopols: 28
-  Singularities: 5
-Build Jump Destroyer Tender in Starport
-Time to Build / Upgrade: 4
-[27965] Technology Required to Build Unit (75):
-  [27965] Jump Escorts (75)
+  Biochems: 2
+  Electronics: 4
+  Ceramsteel: 2
+Upgrade Saboteur (SE) to Saboteur (PA) at Hospital
+Time to Build / Upgrade: 1
+[7370] Technologies Required to Build Unit (74):
+  [1195] Naval Warfare (90)
+  [6175] Prosthetically-Augmented Soldiers (57)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Saboteur (CE)
+Nick Name: Sab (CE)
+Scores & Strengths:
+  Tech Score: 1841
+  Unit Score: 1616
+  Average Score: 1729
+  Stat Strength: 1112
+  Total Strength: 1616
+  Planet Strength: 1616
+  Space Strength: 0
+  Garrison Strength: 431
+Statistics:
+  Movement Type: foot
+  Move Points: 14
+  Spot: 12
+  Camouflage: 19
+  Agility: 19
+  Armor: 5
+  Psy Defense: 5
+  Rank: 774
+Attacks:
+  Indirect: 21/24
+Load aboard transport: 1
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 27
+Build Cost: 130
+Build Resource Requirements:
+  Energy: 5
+  Metal: 1
+  Chemicals: 7
+  Biochems: 3
+  Ceramsteel: 1
+Upgrade Saboteur (PA) to Saboteur (CE) at Lab
+Time to Build / Upgrade: 1
+[9795] Technologies Required to Build Unit (69):
+  [1195] Naval Warfare (90)
+  [8600] Cybernetically-Enhanced Soldiers (48)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Saboteur (AVE)
+Nick Name: Sab (AVE)
+Scores & Strengths:
+  Tech Score: 1895
+  Unit Score: 1640
+  Average Score: 1767
+  Stat Strength: 1112
+  Total Strength: 1640
+  Planet Strength: 1640
+  Space Strength: 0
+  Garrison Strength: 438
+Statistics:
+  Movement Type: foot
+  Move Points: 14
+  Spot: 12
+  Camouflage: 19
+  Agility: 19
+  Armor: 5
+  Psy Defense: 5
+  Rank: 776
+Attacks:
+  Indirect: 22/24
+Load aboard transport: 1
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 31
+Build Cost: 179
+Build Resource Requirements:
+  Energy: 4
+  Chemicals: 6
+  Biochems: 7
+  Electronics: 2
+Upgrade Saboteur (GE) to Saboteur (AVE) at Lab
+Time to Build / Upgrade: 1
+[10095] Technologies Required to Build Unit (58):
+  [1195] Naval Warfare (90)
+  [8900] Genetically-Enhanced Warriors (25)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Saboteur (MF)
+Nick Name: Sab (MF)
+Scores & Strengths:
+  Tech Score: 3228
+  Unit Score: 2563
+  Average Score: 2895
+  Stat Strength: 1695
+  Total Strength: 2563
+  Planet Strength: 2563
+  Space Strength: 0
+  Garrison Strength: 587
+Statistics:
+  Movement Type: foot
+  Move Points: 19
+  Spot: 14
+  Camouflage: 25
+  Agility: 21
+  Armor: 6
+  Psy Defense: 6
+  Rank: 805
+Attacks:
+  Indirect: 28/31
+Load aboard transport: 1
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Upkeep / Maintenance: 187
+Build Cost: 1744
+Build Resource Requirements:
+  Biochems: 5
+  Wetware: 4
+  Monopols: 33
+Upgrade Saboteur (CE) to Saboteur (MF) at Wetware
+Time to Build / Upgrade: 2
+[19770] Technologies Required to Build Unit (63):
+  [1195] Naval Warfare (90)
+  [18575] Machine-Fused Soldiers (35)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Saboteur (NE)
+Nick Name: Sab (NE)
+Scores & Strengths:
+  Tech Score: 3915
+  Unit Score: 3227
+  Average Score: 3571
+  Stat Strength: 2107
+  Total Strength: 3227
+  Planet Strength: 3227
+  Space Strength: 0
+  Garrison Strength: 721
+Statistics:
+  Movement Type: foot
+  Move Points: 20
+  Spot: 15
+  Camouflage: 30
+  Agility: 22
+  Armor: 7
+  Psy Defense: 7
+  Rank: 823
+Attacks:
+  Indirect: 32/35
+Load aboard transport: 1
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 170
+Build Cost: 1518
+Build Resource Requirements:
+  Wetware: 4
+  Monopols: 21
+Upgrade Saboteur (AVE) to Saboteur (NE) at Fusorium
+Time to Build / Upgrade: 1
+[25325] Technologies Required to Build Unit (61):
+  [1195] Naval Warfare (90)
+  [24130] Neumonically-Enhanced Soldiers (32)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

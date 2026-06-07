@@ -1,240 +1,262 @@
-All units of the unit class Missile Cruiser are listed herein (5 in total):
+All units of the unit class Heavy Tank Killer are listed herein (6 in total):
 
 --1--
-Name: Missile Cruiser
-Nick Name: JJ-CC-Mi
+Name: Heavy Tank Killer
+Nick Name: Direwolf
 Scores & Strengths:
-  Tech Score: 3094
-  Unit Score: 3094
-  Average Score: 3094
-  Stat Strength: 1994
-  Total Strength: 3094
-  Planet Strength: 0
-  Space Strength: 3094
-  Garrison Strength: 0
+  Tech Score: 2728
+  Unit Score: 2728
+  Average Score: 2728
+  Stat Strength: 2358
+  Total Strength: 2728
+  Planet Strength: 2728
+  Space Strength: 0
+  Garrison Strength: 756
 Statistics:
-  Movement Type: jump
-  Move Points: 14
-  Spot: 11
-  Camouflage: 3
-  Agility: 10
-  Armor: 28
-  Psy Defense: 28
-  Rank: 166
+  Movement Type: tread
+  Move Points: 13
+  Spot: 8
+  Camouflage: 6
+  Agility: 17
+  Armor: 30
+  Psy Defense: 30
+  Rank: 96
 Attacks:
-  Ranged Space: 12/34
-  Direct Space: 17/28
-  Close Space: 18/12
-Cargo Space: 2
-Load aboard transport: 6
-Immune to Plague
-Upkeep / Maintenance: 458
-Build Cost: 4582
+  Indirect: 8/27
+  Direct: 7/22
+Load aboard transport: 3
+Upkeep / Maintenance: 111
+Build Cost: 995
 Build Resource Requirements:
-  Food: 1
-  Energy: 13
-  Metal: 10
-  Trace: 7
-  Exotica: 1
-  Chemicals: 20
-  Biochems: 17
-  Electronics: 10
-  Ceramsteel: 12
-  Monopols: 27
-  Singularities: 4
-Missile Cruiser cannot be built
+  Electronics: 13
+  Ceramsteel: 19
+  Monopols: 45
+Upgrade Tank Killer to Heavy Tank Killer at Factory
+Time to Build / Upgrade: 1
+[15130] Technology Required to Build Unit (68):
+  [15130] Fusion Battle Tanks (68)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Meson Vlad Cruiser
-Nick Name: JJ-CC-Me
+Name: Imperial Siege Tank
+Nick Name: Mangler
 Scores & Strengths:
-  Tech Score: 4073
-  Unit Score: 4073
-  Average Score: 4073
-  Stat Strength: 2713
-  Total Strength: 4073
-  Planet Strength: 0
-  Space Strength: 4073
-  Garrison Strength: 0
+  Tech Score: 2728
+  Unit Score: 2728
+  Average Score: 2728
+  Stat Strength: 2358
+  Total Strength: 2728
+  Planet Strength: 2728
+  Space Strength: 0
+  Garrison Strength: 661
 Statistics:
-  Movement Type: jump
+  Movement Type: tread
   Move Points: 17
-  Spot: 14
+  Spot: 8
   Camouflage: 6
-  Agility: 12
-  Armor: 32
-  Psy Defense: 32
-  Rank: 178
+  Agility: 13
+  Armor: 30
+  Psy Defense: 30
+  Rank: 96
 Attacks:
-  Ranged Space: 15/33
-  Direct Space: 20/26
-  Close Space: 23/15
-Load aboard transport: 1
-Immune to Plague
-Upkeep / Maintenance: 531
-Build Cost: 5307
+  Indirect: 8/27
+  Direct: 7/15
+  Close: 7/7
+Load aboard transport: 3
+Upkeep / Maintenance: 105
+Build Cost: 1049
 Build Resource Requirements:
-  Food: 1
-  Energy: 10
+  Food: 2
+  Energy: 11
   Metal: 11
-  Trace: 10
+  Trace: 3
   Exotica: 2
-  Chemicals: 17
-  Biochems: 21
-  Electronics: 17
-  Ceramsteel: 12
-  Monopols: 31
-  Singularities: 4
-Meson Vlad Cruiser cannot be built
+  Chemicals: 24
+  Electronics: 13
+  Ceramsteel: 19
+  Monopols: 42
+Build Imperial Siege Tank in Factory
+Time to Build / Upgrade: 4
+[15130] Technology Required to Build Unit (68):
+  [15130] Fusion Battle Tanks (68)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Jump (Vlad) Cruiser
-Nick Name: JJ-CC2
+Name: Shock Heavy Tank Killer
+Nick Name: Hellwolf
 Scores & Strengths:
-  Tech Score: 5589
-  Unit Score: 5418
-  Average Score: 5504
-  Stat Strength: 4534
-  Total Strength: 5418
-  Planet Strength: 0
-  Space Strength: 5418
-  Garrison Strength: 0
+  Tech Score: 2921
+  Unit Score: 2865
+  Average Score: 2893
+  Stat Strength: 2480
+  Total Strength: 2865
+  Planet Strength: 2865
+  Space Strength: 0
+  Garrison Strength: 794
 Statistics:
-  Movement Type: jump
-  Move Points: 16
-  Spot: 14
-  Camouflage: 4
-  Agility: 4
-  Armor: 45
-  Psy Defense: 45
-  Rank: 182
+  Movement Type: tread
+  Move Points: 13
+  Spot: 8
+  Camouflage: 6
+  Agility: 17
+  Armor: 31
+  Psy Defense: 31
+  Rank: 99
 Attacks:
-  Ranged Space: 17/25
-  Direct Space: 10/27
-  Close Space: 9/21
-Cargo Space: 3
-Load aboard transport: 6
-Immune to Plague
-Upkeep / Maintenance: 727
-Build Cost: 7272
+  Indirect: 8/28
+  Direct: 7/23
+Load aboard transport: 3
+Upkeep / Maintenance: 72
 Build Resource Requirements:
-  Food: 1
-  Energy: 8
-  Metal: 14
-  Trace: 4
-  Exotica: 1
-  Chemicals: 18
-  Biochems: 18
-  Electronics: 13
-  Ceramsteel: 20
-  Monopols: 36
-  Singularities: 4
-Build Jump (Vlad) Cruiser in Starport
-Time to Build / Upgrade: 4
-[39365] Technology Required to Build Unit (61):
-  [39365] Jump Capital Ships (61)
+Upgrade Heavy Tank Killer to Shock Heavy Tank Killer at Factory
+Time to Build / Upgrade: 1
+[30105] Technologies Required to Build Unit (69):
+  [15130] Fusion Battle Tanks (68)
+  [14975] Power Hovertanks (70)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Gate Cruiser
-Nick Name: Galactic Rift
+Name: 3rd-Republic Siege Tank
+Nick Name: Golem
 Scores & Strengths:
-  Tech Score: 7734
-  Unit Score: 7734
-  Average Score: 7734
-  Stat Strength: 5847
-  Total Strength: 7734
-  Planet Strength: 6995
-  Space Strength: 6586
-  Garrison Strength: 1256
+  Tech Score: 2921
+  Unit Score: 2865
+  Average Score: 2893
+  Stat Strength: 2480
+  Total Strength: 2865
+  Planet Strength: 2865
+  Space Strength: 0
+  Garrison Strength: 794
 Statistics:
-  Movement Type: gate
-  Move Points: 31
-  Spot: 26
-  Camouflage: 16
-  Agility: 16
-  Armor: 43
-  Psy Defense: 43
-  Rank: 221
+  Movement Type: hover
+  Move Points: 13
+  Spot: 8
+  Camouflage: 6
+  Agility: 17
+  Armor: 31
+  Psy Defense: 31
+  Rank: 99
 Attacks:
-  Ranged Space: 22/22
-  Direct Space: 17/15
-  Air: 16/13
-  Indirect: 22/22
-  Direct: 24/19
-Cargo Space: 2
-Load aboard transport: 6
-Immune to Plague
-Upkeep / Maintenance: 1073
-Build Cost: 10727
+  Indirect: 8/28
+  Direct: 7/23
+Load aboard transport: 3
+Upkeep / Maintenance: 72
+Build Cost: 718
 Build Resource Requirements:
-  Food: 2
+  Food: 1
   Energy: 8
-  Metal: 8
-  Trace: 7
-  Exotica: 2
-  Chemicals: 15
-  Biochems: 22
-  Electronics: 15
-  Ceramsteel: 13
-  Wetware: 10
-  Monopols: 30
-  Singularities: 6
-Gate Cruiser cannot be built
+  Metal: 7
+  Trace: 2
+  Exotica: 1
+  Chemicals: 17
+  Electronics: 8
+  Ceramsteel: 12
+  Monopols: 29
+Build 3rd-Republic Siege Tank in Factory
+Time to Build / Upgrade: 3
+[30105] Technologies Required to Build Unit (69):
+  [15130] Fusion Battle Tanks (68)
+  [14975] Power Hovertanks (70)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Cloaking Vlad Cruiser
-Nick Name: JJ-CC-Cl
+Name: Stealth Heavy Tank Killer
+Nick Name: Cerberus
 Scores & Strengths:
-  Tech Score: 8498
-  Unit Score: 8501
-  Average Score: 8499
-  Stat Strength: 6840
-  Total Strength: 8501
-  Planet Strength: 0
-  Space Strength: 8501
-  Garrison Strength: 0
+  Tech Score: 5364
+  Unit Score: 5454
+  Average Score: 5409
+  Stat Strength: 2454
+  Total Strength: 5454
+  Planet Strength: 5454
+  Space Strength: 0
+  Garrison Strength: 1363
 Statistics:
-  Movement Type: jump
+  Movement Type: tread
   Move Points: 16
-  Spot: 14
-  Camouflage: 46
-  Agility: 20
-  Armor: 44
-  Psy Defense: 44
-  Rank: 249
+  Spot: 10
+  Camouflage: 20
+  Agility: 4
+  Armor: 29
+  Psy Defense: 29
+  Rank: 194
 Attacks:
-  Ranged Space: 20/33
-  Direct Space: 30/22
-  Close Space: 31/11
-Cargo Space: 3
-Load aboard transport: 6
-Immune to Plague
-Upkeep / Maintenance: 872
-Build Cost: 8724
+  Indirect: 30/60
+  Direct: 30/40
+Load aboard transport: 3
+Upkeep / Maintenance: 170
+Build Cost: 1696
 Build Resource Requirements:
-  Energy: 4
-  Metal: 6
-  Trace: 9
+  Energy: 20
+  Metal: 5
+  Trace: 7
   Exotica: 1
-  Chemicals: 8
-  Biochems: 16
-  Electronics: 22
-  Ceramsteel: 9
-  Wetware: 7
-  Monopols: 17
-  Singularities: 4
-Build Cloaking Vlad Cruiser in Starport
-Time to Build / Upgrade: 3
-[98845] Technologies Required to Build Unit (63):
-  [59480] Cloaked Capital Ships (64)
-  [39365] Jump Capital Ships (61)
+  Chemicals: 26
+  Biochems: 39
+  Electronics: 14
+  Ceramsteel: 8
+  Wetware: 5
+  Monopols: 41
+Build Stealth Heavy Tank Killer in Factory
+Time to Build / Upgrade: 4
+[37265] Technology Required to Build Unit (33):
+  [37265] Neumonic Land Vehicles (33)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Psy Heavy Tank Killer
+Nick Name: Psywolf
+Scores & Strengths:
+  Tech Score: 2756
+  Unit Score: 5786
+  Average Score: 4271
+  Stat Strength: 5058
+  Total Strength: 5786
+  Planet Strength: 5786
+  Space Strength: 5366
+  Garrison Strength: 1604
+Statistics:
+  Movement Type: tread
+  Move Points: 13
+  Spot: 8
+  Camouflage: 6
+  Agility: 17
+  Armor: 30
+  Psy Defense: 60
+  Rank: 131
+Attacks:
+  Psychic: 14/22
+  Indirect: 9/28
+  Direct: 8/21
+Load aboard transport: 3
+Upkeep / Maintenance: 495
+Build Cost: 4952
+Build Resource Requirements:
+  Food: 2
+  Energy: 13
+  Metal: 28
+  Trace: 4
+  Exotica: 2
+  Chemicals: 36
+  Electronics: 24
+  Ceramsteel: 48
+  Monopols: 74
+  Gems: 95
+Build Psy Heavy Tank Killer in Factory
+Time to Build / Upgrade: 8
+[15460] Technologies Required to Build Unit (75):
+  [330] Holy Warriors (82)
+  [15130] Fusion Battle Tanks (68)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

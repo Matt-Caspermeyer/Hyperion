@@ -1,50 +1,99 @@
-All units of the unit class Xyll Warbeast are listed herein (1 in total):
+All units of the unit class Stigmata Defender are listed herein (2 in total):
 
 --1--
-Name: Xyll Warbeast
-Nick Name: Warbeast
+Name: Stigmata Defender
+Nick Name: Protector
 Scores & Strengths:
-  Tech Score: 4667
-  Unit Score: 4666
-  Average Score: 4666
-  Stat Strength: 2961
-  Total Strength: 4666
-  Planet Strength: 4666
-  Space Strength: 0
-  Garrison Strength: 1043
+  Tech Score: 4255
+  Unit Score: 4256
+  Average Score: 4255
+  Stat Strength: 3051
+  Total Strength: 4256
+  Planet Strength: 3920
+  Space Strength: 3387
+  Garrison Strength: 784
 Statistics:
-  Movement Type: foot
-  Move Points: 20
+  Movement Type: hover
+  Move Points: 25
   Spot: 20
-  Camouflage: 20
-  Agility: 31
-  Armor: 20
-  Psy Defense: 20
-  Rank: 140
+  Camouflage: 10
+  Agility: 26
+  Armor: 25
+  Psy Defense: 25
+  Rank: 146
 Attacks:
-  Direct: 29/35
-  Close: 30/23
-Load aboard transport: 1
-Can tow units that can be towed
-Immune to Plague
-Causes Tactical Plague
-Upkeep / Maintenance: 153
-Build Cost: 1532
+  Close Space: 21/16
+  Air: 17/19
+  Direct: 21/10
+  Close: 21/16
+Load aboard transport: 2
+Upkeep / Maintenance: 125
+Build Cost: 1249
 Build Resource Requirements:
   Food: 3
-  Energy: 15
+  Energy: 11
   Metal: 4
-  Trace: 13
+  Trace: 7
   Exotica: 3
-  Chemicals: 20
-  Biochems: 46
-  Electronics: 30
-  Ceramsteel: 4
-  Monopols: 23
-Build Xyll Warbeast in Lab
+  Chemicals: 15
+  Biochems: 24
+  Electronics: 18
+  Ceramsteel: 7
+  Wetware: 15
+  Monopols: 22
+Build Stigmata Defender in Factory
 Time to Build / Upgrade: 4
-[30950] Technology Required to Build Unit (9):
-  [30950] Lab-Grown Warriors (9)
+[33175] Technologies Required to Build Unit (63):
+  [26955] Rocket Legion (46)
+  [6220] Mechanically-Enhanced Soldiers (80)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Stigmata Floating Fortress
+Nick Name: Fortress
+Scores & Strengths:
+  Tech Score: 4654
+  Unit Score: 4654
+  Average Score: 4654
+  Stat Strength: 3232
+  Total Strength: 4654
+  Planet Strength: 4654
+  Space Strength: 0
+  Garrison Strength: 1040
+Statistics:
+  Movement Type: hover
+  Move Points: 20
+  Spot: 22
+  Camouflage: 8
+  Agility: 22
+  Armor: 30
+  Psy Defense: 30
+  Rank: 163
+Attacks:
+  Air: 34/16
+  Indirect: 22/29
+  Direct: 16/15
+Cargo Space: 1
+Load aboard transport: 6
+Upkeep / Maintenance: 103
+Build Cost: 1029
+Build Resource Requirements:
+  Food: 3
+  Energy: 10
+  Metal: 6
+  Trace: 18
+  Exotica: 3
+  Chemicals: 18
+  Biochems: 9
+  Electronics: 30
+  Ceramsteel: 12
+  Monopols: 31
+Build Stigmata Floating Fortress in Factory
+Time to Build / Upgrade: 4
+[30835] Technology Required to Build Unit (71):
+  [30835] Hover Minor Navalcraft (71)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

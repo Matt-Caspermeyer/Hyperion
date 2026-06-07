@@ -1,4 +1,4 @@
-All units of the unit class Anti-Aircraft Gun are listed herein (7 in total):
+All units of the unit class Anti-Aircraft Gun are listed herein (8 in total):
 
 --1--
 Name: Anti-Aircraft Gun
@@ -312,4 +312,49 @@ Time to Build / Upgrade: 2
   [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
 Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Anti-Air Drone
+Nick Name: AA Drone
+Scores & Strengths:
+  Tech Score: 2514
+  Unit Score: 2520
+  Average Score: 2517
+  Stat Strength: 1848
+  Total Strength: 2520
+  Planet Strength: 2520
+  Space Strength: 0
+  Garrison Strength: 673
+Statistics:
+  Movement Type: wheel
+  Move Points: 14
+  Spot: 10
+  Camouflage: 10
+  Agility: 10
+  Armor: 26
+  Psy Defense: 26
+  Rank: 112
+Attacks:
+  Air: 24/28
+Load aboard transport: 1
+Can be towed
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 184
+Build Resource Requirements:
+  Food: 3
+  Energy: 16
+  Metal: 17
+  Trace: 11
+  Exotica: 3
+  Chemicals: 37
+  Electronics: 30
+  Ceramsteel: 29
+Build Anti-Air Drone in Electronics Plant
+Time to Build / Upgrade: 3
+[13565] Technology Required to Build Unit (65):
+  [13565] Unmanned Land Vehicles (65)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
