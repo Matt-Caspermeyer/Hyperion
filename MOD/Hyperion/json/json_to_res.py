@@ -159,7 +159,7 @@ def getStringSize(string):
 def getSectionSize(section):
     controls = section.get('controls', [])
     if 'controls' in section:
-        return getSize('6h') + sum(getControlSize(control) for control in controls)
+        return getSize('7h') + sum(getControlSize(control) for control in controls)
     columns = section.get('columns', [])
     if 'columns' in section:
         return getSize('h') + sum(getColumnSize(column) for column in columns)
@@ -217,7 +217,8 @@ def processJsonFile(inFilename, outFilename):
                     packLenStr(resfile, string["value"])
             elif 'controls' in contents:
                 controls = contents.get('controls', [])
-                packWrite(resfile, "6h", contents['x'], contents['y'], contents['dx'], contents['dy'], contents['style'], len(controls))
+                activeControl = contents.get('activeControlOnFocus', -1)
+                packWrite(resfile, "7h", contents['x'], contents['y'], contents['dx'], contents['dy'], contents['style'], activeControl, len(controls))
                 for control in controls:
                     packWriteControl(resfile, control)
 
