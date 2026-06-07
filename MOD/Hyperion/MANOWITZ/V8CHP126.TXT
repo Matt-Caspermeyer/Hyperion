@@ -1,8 +1,8 @@
-All units of the unit class Assault Boat are listed herein (9 in total):
+All units of the unit class Limpet Mine are listed herein (9 in total):
 
 --1--
-Name: Assault Boat
-Nick Name: A - AB
+Name: Limpet Mine
+Nick Name: Limpet
 Scores & Strengths:
   Tech Score: 406
   Unit Score: 406
@@ -11,405 +11,425 @@ Scores & Strengths:
   Total Strength: 406
   Planet Strength: 406
   Space Strength: 0
-  Garrison Strength: 181
+  Garrison Strength: 406
 Statistics:
-  Movement Type: craft
-  Move Points: 5
-  Spot: 5
-  Camouflage: 6
-  Agility: 10
-  Armor: 6
-  Psy Defense: 6
-  Rank: 46
+  Movement Type: underwater
+  Move Points: 1
+  Spot: 0
+  Camouflage: 16
+  Agility: 1
+  Armor: 0
+  Psy Defense: 0
+  Rank: 711
 Attacks:
-  Indirect: 5/10
-  Direct: 6/8
-  Close: 10/5
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 8
-Build Cost: 80
-Build Resource Requirements:
-  Food: 4
-  Energy: 21
-  Metal: 11
-  Trace: 24
-  Exotica: 4
-  Chemicals: 21
-  Electronics: 20
-Build Assault Boat in Well
-Time to Build / Upgrade: 2
-[1195] Technology Required to Build Unit (90):
-  [1195] Naval Warfare (90)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---2--
-Name: Special Operations Craft
-Nick Name: NN-SoC
-Scores & Strengths:
-  Tech Score: 550
-  Unit Score: 550
-  Average Score: 550
-  Stat Strength: 408
-  Total Strength: 550
-  Planet Strength: 550
-  Space Strength: 0
-  Garrison Strength: 224
-Statistics:
-  Movement Type: naval
-  Move Points: 6
-  Spot: 6
-  Camouflage: 8
-  Agility: 12
-  Armor: 8
-  Psy Defense: 8
-  Rank: 718
-Attacks:
-  Water: 8/7
-  Indirect: 5/6
-  Direct: 6/6
-  Close: 5/4
+  Water: 3/28
+  Indirect: 4/16
 Load aboard transport: 1
 Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
-Upkeep / Maintenance: 35
-Build Cost: 352
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 12
+Build Cost: 121
 Build Resource Requirements:
-  Food: 5
-  Energy: 13
-  Metal: 13
-  Trace: 17
-  Exotica: 5
-  Chemicals: 16
-  Biochems: 8
-  Electronics: 15
-Build Special Operations Craft in Well
+  Energy: 81
+  Trace: 26
+  Chemicals: 81
+  Electronics: 22
+Build Limpet Mine in Well
+Time to Build / Upgrade: 3
+[1195] Technology Required to Build Unit (90):
+  [1195] Naval Warfare (90)
+Unit can be disbanded: YES
+
+--2--
+Name: Underwater Barrier
+Nick Name: Barrier
+Scores & Strengths:
+  Tech Score: 406
+  Unit Score: 408
+  Average Score: 407
+  Stat Strength: 352
+  Total Strength: 408
+  Planet Strength: 408
+  Space Strength: 0
+  Garrison Strength: 510
+Statistics:
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 0
+  Camouflage: 8
+  Agility: 0
+  Armor: 12
+  Psy Defense: 12
+  Rank: 33
+Attacks:
+  Water: 4/14
+Load aboard transport: 4
+Can be towed
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 17
+Build Cost: 169
+Build Resource Requirements:
+  Energy: 15
+  Metal: 42
+  Trace: 8
+  Chemicals: 15
+  Electronics: 7
+Build Underwater Barrier in Well
 Time to Build / Upgrade: 2
-[2595] Technologies Required to Build Unit (92):
-  [145] Composite Armor (97)
-  [790] Crystal Oscillator (86)
-  [100] Psychosocial Engineering (100)
-  [1560] Naval Patrol Ships (86)
-Counts as planetary flock: YES
+[1305] Technologies Required to Build Unit (95):
+  [110] Structural Engineering (99)
+  [1195] Naval Warfare (90)
 Unit can be disbanded: YES
 
 --3--
-Name: Landing Craft Flak
-Nick Name: NN-LCF
+Name: Anti-Landing Spike
+Nick Name: Spike
 Scores & Strengths:
-  Tech Score: 627
-  Unit Score: 626
-  Average Score: 627
-  Stat Strength: 554
-  Total Strength: 626
-  Planet Strength: 626
+  Tech Score: 585
+  Unit Score: 585
+  Average Score: 585
+  Stat Strength: 513
+  Total Strength: 585
+  Planet Strength: 585
   Space Strength: 0
-  Garrison Strength: 236
+  Garrison Strength: 731
 Statistics:
   Movement Type: naval
-  Move Points: 7
-  Spot: 4
-  Camouflage: 4
-  Agility: 9
-  Armor: 14
-  Psy Defense: 14
-  Rank: 56
+  Move Points: 0
+  Spot: 0
+  Camouflage: 1
+  Agility: 0
+  Armor: 16
+  Psy Defense: 16
+  Rank: 36
 Attacks:
-  Air: 8/9
-Cargo Space: 2
+  Direct: 3/24
 Load aboard transport: 3
-Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 16
-Build Cost: 163
+Can be towed
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 25
+Build Cost: 247
 Build Resource Requirements:
-  Food: 3
-  Energy: 8
-  Metal: 39
-  Trace: 8
-  Exotica: 3
-  Chemicals: 8
-  Biochems: 5
-  Electronics: 6
-Build Landing Craft Flak in Well
+  Energy: 32
+  Metal: 55
+  Trace: 1
+  Chemicals: 32
+  Electronics: 1
+Build Anti-Landing Spike in Well
 Time to Build / Upgrade: 2
-[2465] Technologies Required to Build Unit (92):
+[1940] Technology Required to Build Unit (89):
   [1940] Amphibious Landing Craft (89)
-  [525] Anti-Aircraft Weaponry (94)
-Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Landing Craft Gun (M)
-Nick Name: NN-LCG(M)
+Name: Seadrome
+Nick Name: Seadrome
 Scores & Strengths:
-  Tech Score: 646
-  Unit Score: 645
-  Average Score: 645
-  Stat Strength: 595
-  Total Strength: 645
-  Planet Strength: 645
+  Tech Score: 771
+  Unit Score: 771
+  Average Score: 771
+  Stat Strength: 771
+  Total Strength: 771
+  Planet Strength: 771
   Space Strength: 0
-  Garrison Strength: 243
+  Garrison Strength: 963
 Statistics:
   Movement Type: naval
-  Move Points: 7
-  Spot: 4
-  Camouflage: 4
-  Agility: 8
-  Armor: 15
-  Psy Defense: 15
-  Rank: 53
-Attacks:
-  Indirect: 5/6
-  Direct: 4/5
-Cargo Space: 2
-Load aboard transport: 5
-Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 13
-Build Cost: 134
+  Move Points: 0
+  Spot: 7
+  Camouflage: 0
+  Agility: 0
+  Armor: 19
+  Psy Defense: 19
+  Rank: 744
+Cargo Space: 10
+Load aboard transport: 12
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Can be towed
+Heals units of same movement type
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 118
+Build Cost: 1180
 Build Resource Requirements:
-  Food: 3
-  Energy: 7
-  Metal: 40
-  Trace: 6
-  Exotica: 3
-  Chemicals: 7
-  Biochems: 3
-  Electronics: 4
-Build Landing Craft Gun (M) in Well
+  Food: 1
+  Metal: 53
+  Trace: 2
+  Exotica: 1
+  Chemicals: 14
+  Electronics: 1
+Build Seadrome in Well
 Time to Build / Upgrade: 2
-[2550] Technologies Required to Build Unit (92):
-  [1940] Amphibious Landing Craft (89)
-  [610] Dual-Purpose Gun (94)
-Counts as planetary flock: YES
+[4305] Technologies Required to Build Unit (94):
+  [125] Scholastic Medicine (98)
+  [255] Surgical Procedures (96)
+  [145] Composite Armor (97)
+  [325] Megachassis (94)
+  [165] Theurgy (93)
+  [395] Laws of Nine (95)
+  [1195] Naval Warfare (90)
+  [300] Mechanized Warfare (95)
+  [1400] Aerial Warfare (87)
 Unit can be disbanded: YES
 
 --5--
-Name: Landing Craft Gun (L)
-Nick Name: NN-LCG(L)
+Name: Maunsell (Naval) Fort
+Nick Name: Naval Fort
 Scores & Strengths:
-  Tech Score: 646
-  Unit Score: 645
-  Average Score: 645
-  Stat Strength: 596
-  Total Strength: 645
-  Planet Strength: 645
+  Tech Score: 980
+  Unit Score: 980
+  Average Score: 980
+  Stat Strength: 804
+  Total Strength: 980
+  Planet Strength: 980
   Space Strength: 0
-  Garrison Strength: 263
+  Garrison Strength: 1225
 Statistics:
   Movement Type: naval
-  Move Points: 6
-  Spot: 4
-  Camouflage: 4
-  Agility: 4
-  Armor: 16
-  Psy Defense: 16
-  Rank: 58
+  Move Points: 0
+  Spot: 2
+  Camouflage: 0
+  Agility: 0
+  Armor: 20
+  Psy Defense: 20
+  Rank: 773
 Attacks:
-  Indirect: 2/14
-  Direct: 3/7
-Cargo Space: 3
-Load aboard transport: 7
-Amphibious loading / unloading of cargo
-Can tow units that can be towed
-Upkeep / Maintenance: 18
-Build Cost: 180
+  Water: 2/20
+  Air: 4/16
+  Indirect: 3/18
+  Direct: 2/9
+Cargo Space: 10
+Load aboard transport: 12
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Can be towed
+Heals units of same movement type
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 214
+Build Cost: 2141
 Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 45
-  Trace: 3
-  Exotica: 2
-  Chemicals: 14
-  Biochems: 2
-  Electronics: 2
-Build Landing Craft Gun (L) in Well
+  Energy: 28
+  Metal: 50
+  Trace: 2
+  Chemicals: 40
+  Biochems: 1
+  Electronics: 1
+Build Maunsell (Naval) Fort in Well
 Time to Build / Upgrade: 2
-[2550] Technologies Required to Build Unit (92):
-  [1940] Amphibious Landing Craft (89)
+[5230] Technologies Required to Build Unit (92):
+  [145] Composite Armor (97)
+  [350] Anti-Tank Weaponry (95)
   [610] Dual-Purpose Gun (94)
-Counts as planetary flock: YES
+  [1400] Aerial Warfare (87)
+  [2725] Naval Capital Ships (88)
 Unit can be disbanded: YES
 
 --6--
-Name: Landing Craft Rocket
-Nick Name: NN- LCR
+Name: Maunsell (Army) Fort
+Nick Name: Army Fort
 Scores & Strengths:
-  Tech Score: 665
-  Unit Score: 664
-  Average Score: 665
-  Stat Strength: 595
-  Total Strength: 664
-  Planet Strength: 664
+  Tech Score: 980
+  Unit Score: 980
+  Average Score: 980
+  Stat Strength: 804
+  Total Strength: 980
+  Planet Strength: 980
   Space Strength: 0
-  Garrison Strength: 250
+  Garrison Strength: 1225
 Statistics:
   Movement Type: naval
-  Move Points: 7
-  Spot: 4
-  Camouflage: 4
-  Agility: 8
-  Armor: 15
-  Psy Defense: 15
-  Rank: 53
+  Move Points: 0
+  Spot: 2
+  Camouflage: 0
+  Agility: 0
+  Armor: 20
+  Psy Defense: 20
+  Rank: 771
 Attacks:
-  Indirect: 3/23
-Cargo Space: 1
-Load aboard transport: 4
-Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 21
-Build Cost: 213
+  Air: 4/16
+  Indirect: 2/20
+  Direct: 3/18
+  Close: 2/9
+Cargo Space: 10
+Load aboard transport: 12
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Can be towed
+Heals units of same movement type
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 215
+Build Cost: 2149
 Build Resource Requirements:
-  Food: 3
-  Energy: 27
-  Metal: 45
-  Trace: 4
-  Exotica: 2
-  Chemicals: 29
-  Biochems: 3
-  Electronics: 3
-Build Landing Craft Rocket in Well
+  Energy: 28
+  Metal: 50
+  Trace: 2
+  Chemicals: 40
+  Biochems: 1
+  Electronics: 1
+Build Maunsell (Army) Fort in Well
 Time to Build / Upgrade: 2
-[2640] Technologies Required to Build Unit (90):
-  [1940] Amphibious Landing Craft (89)
-  [700] Rockets (90)
-Counts as planetary flock: YES
+[5230] Technologies Required to Build Unit (92):
+  [145] Composite Armor (97)
+  [350] Anti-Tank Weaponry (95)
+  [610] Dual-Purpose Gun (94)
+  [1400] Aerial Warfare (87)
+  [2725] Naval Capital Ships (88)
 Unit can be disbanded: YES
 
 --7--
-Name: Assault Boat II
-Nick Name: A - AB2
+Name: Very Large Float. Struct.
+Nick Name: VLFS
 Scores & Strengths:
-  Tech Score: 1134
-  Unit Score: 971
-  Average Score: 1053
-  Stat Strength: 569
-  Total Strength: 971
-  Planet Strength: 971
+  Tech Score: 2052
+  Unit Score: 2052
+  Average Score: 2052
+  Stat Strength: 2052
+  Total Strength: 2052
+  Planet Strength: 2052
   Space Strength: 0
-  Garrison Strength: 343
+  Garrison Strength: 1450
 Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 10
-  Agility: 13
-  Armor: 10
-  Psy Defense: 10
-  Rank: 73
-Attacks:
-  Indirect: 8/17
-  Direct: 10/13
-  Close: 17/8
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 12
-Build Cost: 115
+  Movement Type: naval
+  Move Points: 2
+  Spot: 0
+  Camouflage: 0
+  Agility: 0
+  Armor: 32
+  Psy Defense: 32
+  Rank: 766
+Cargo Space: 11
+Load aboard transport: 13
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Can be towed
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 263
+Build Cost: 2630
 Build Resource Requirements:
-  Food: 2
-  Energy: 20
-  Metal: 6
-  Trace: 20
-  Exotica: 3
-  Chemicals: 25
-  Biochems: 9
-  Electronics: 21
-  Ceramsteel: 7
-Build Assault Boat II in Well
-Time to Build / Upgrade: 2
-[4695] Technology Required to Build Unit (83):
-  [4695] Advanced Minor Watercraft (83)
+  Metal: 46
+  Chemicals: 11
+  Ceramsteel: 56
+Build Very Large Float. Struct. in Well
+Time to Build / Upgrade: 3
+[12405] Technologies Required to Build Unit (83):
+  [1690] Computerized Medical Imaging (76)
+  [220] Indoctrination (91)
+  [3200] Supersonic Aircraft (85)
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Advanced SOC
-Nick Name: NN-Asoc
+Name: Floating Airport
+Nick Name: F-Airport
 Scores & Strengths:
-  Tech Score: 1134
-  Unit Score: 985
-  Average Score: 1060
-  Stat Strength: 689
-  Total Strength: 985
-  Planet Strength: 985
+  Tech Score: 3493
+  Unit Score: 3494
+  Average Score: 3493
+  Stat Strength: 3494
+  Total Strength: 3494
+  Planet Strength: 3494
   Space Strength: 0
-  Garrison Strength: 328
+  Garrison Strength: 1747
 Statistics:
   Movement Type: naval
-  Move Points: 9
-  Spot: 7
-  Camouflage: 11
-  Agility: 14
-  Armor: 11
-  Psy Defense: 11
-  Rank: 737
-Attacks:
-  Water: 11/10
-  Indirect: 7/9
-  Direct: 9/9
-  Close: 7/6
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 41
-Build Cost: 55
+  Move Points: 4
+  Spot: 10
+  Camouflage: 4
+  Agility: 0
+  Armor: 41
+  Psy Defense: 41
+  Rank: 791
+Cargo Space: 12
+Load aboard transport: 14
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Can be towed
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 2200
+Build Cost: 22001
 Build Resource Requirements:
-  Energy: 1
-  Chemicals: 2
-  Electronics: 3
-  Ceramsteel: 8
-Upgrade Special Operations Craft to Advanced SOC at Well
-Time to Build / Upgrade: 1
-[4695] Technology Required to Build Unit (83):
-  [4695] Advanced Minor Watercraft (83)
+  Food: 1
+  Metal: 21
+  Trace: 1
+  Exotica: 1
+  Chemicals: 6
+  Electronics: 1
+  Ceramsteel: 32
+  Monopols: 25
+Build Floating Airport in Well
+Time to Build / Upgrade: 3
+[32020] Technologies Required to Build Unit (77):
+  [6490] Real-Time Medical Imaging (65)
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [10295] PTS Fusion Cannon (76)
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Landing Craft Air Cushioned
-Nick Name: NN-LCAC
+Name: Mobile Offshore Base
+Nick Name: MOB
 Scores & Strengths:
-  Tech Score: 1268
-  Unit Score: 1267
-  Average Score: 1267
-  Stat Strength: 1012
-  Total Strength: 1267
-  Planet Strength: 1267
+  Tech Score: 4649
+  Unit Score: 4649
+  Average Score: 4649
+  Stat Strength: 4649
+  Total Strength: 4649
+  Planet Strength: 4649
   Space Strength: 0
-  Garrison Strength: 365
+  Garrison Strength: 1401
 Statistics:
-  Movement Type: craft
-  Move Points: 12
-  Spot: 8
-  Camouflage: 6
-  Agility: 16
-  Armor: 16
-  Psy Defense: 16
-  Rank: 82
-Attacks:
-  Direct: 9/15
-  Close: 12/10
-Cargo Space: 4
-Load aboard transport: 5
-Amphibious loading / unloading of cargo
-Upkeep / Maintenance: 11
-Build Cost: 113
+  Movement Type: naval
+  Move Points: 11
+  Spot: 10
+  Camouflage: 1
+  Agility: 3
+  Armor: 47
+  Psy Defense: 47
+  Rank: 797
+Cargo Space: 12
+Load aboard transport: 14
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Can be towed
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 2684
+Build Cost: 26836
 Build Resource Requirements:
-  Food: 4
-  Energy: 13
-  Metal: 28
-  Trace: 12
-  Exotica: 4
-  Chemicals: 20
-  Biochems: 7
-  Electronics: 12
-Build Landing Craft Air Cushioned in Well
-Time to Build / Upgrade: 2
-[7220] Technologies Required to Build Unit (87):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
-  [2665] V/STOL Aircraft (85)
+  Food: 1
+  Energy: 1
+  Metal: 15
+  Trace: 1
+  Exotica: 1
+  Chemicals: 9
+  Biochems: 1
+  Electronics: 9
+  Ceramsteel: 28
+  Monopols: 27
+Build Mobile Offshore Base in Well
+Time to Build / Upgrade: 3
+[42305] Technologies Required to Build Unit (75):
+  [6490] Real-Time Medical Imaging (65)
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [27875] PTS Meson Navalcraft (74)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

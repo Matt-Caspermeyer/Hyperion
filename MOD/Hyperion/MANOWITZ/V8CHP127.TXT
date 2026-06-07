@@ -1,381 +1,280 @@
-All units of the unit class Limpet Mine are listed herein (8 in total):
+All units of the unit class Amphibious Heavy Tank are listed herein (6 in total):
 
 --1--
-Name: Limpet Mine
-Nick Name: Limpet
+Name: Amphibious Heavy Tank
+Nick Name: N-ATH
 Scores & Strengths:
-  Tech Score: 406
-  Unit Score: 406
-  Average Score: 406
-  Stat Strength: 258
-  Total Strength: 406
-  Planet Strength: 406
+  Tech Score: 410
+  Unit Score: 409
+  Average Score: 410
+  Stat Strength: 311
+  Total Strength: 409
+  Planet Strength: 409
   Space Strength: 0
-  Garrison Strength: 406
+  Garrison Strength: 182
 Statistics:
-  Movement Type: underwater
-  Move Points: 1
-  Spot: 0
-  Camouflage: 16
-  Agility: 1
-  Armor: 0
-  Psy Defense: 0
-  Rank: 711
+  Movement Type: craft
+  Move Points: 5
+  Spot: 2
+  Camouflage: 2
+  Agility: 6
+  Armor: 11
+  Psy Defense: 11
+  Rank: 40
 Attacks:
-  Water: 3/28
-  Indirect: 4/16
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 12
-Build Cost: 121
+  Indirect: 6/8
+  Direct: 5/7
+  Close: 3/5
+Load aboard transport: 3
+Upkeep / Maintenance: 4
+Build Cost: 35
 Build Resource Requirements:
-  Energy: 81
-  Trace: 26
-  Chemicals: 81
-  Electronics: 22
-Build Limpet Mine in Well
-Time to Build / Upgrade: 3
-[1195] Technology Required to Build Unit (90):
+  Food: 2
+  Energy: 12
+  Metal: 31
+  Trace: 7
+  Exotica: 2
+  Chemicals: 11
+  Electronics: 4
+Build Amphibious Heavy Tank in Factory
+Time to Build / Upgrade: 2
+[1595] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
   [1195] Naval Warfare (90)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Underwater Barrier
-Nick Name: Barrier
+Name: Amphibious Light Tank
+Nick Name: N-ATL
 Scores & Strengths:
-  Tech Score: 406
-  Unit Score: 408
-  Average Score: 407
-  Stat Strength: 352
-  Total Strength: 408
-  Planet Strength: 408
+  Tech Score: 410
+  Unit Score: 409
+  Average Score: 410
+  Stat Strength: 300
+  Total Strength: 409
+  Planet Strength: 409
   Space Strength: 0
-  Garrison Strength: 510
+  Garrison Strength: 154
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 0
-  Camouflage: 8
-  Agility: 0
-  Armor: 12
-  Psy Defense: 12
-  Rank: 33
+  Movement Type: craft
+  Move Points: 7
+  Spot: 2
+  Camouflage: 2
+  Agility: 9
+  Armor: 9
+  Psy Defense: 9
+  Rank: 41
 Attacks:
-  Water: 4/14
-Load aboard transport: 4
-Can be towed
-Never Rebels
-Never Retreats
-Upkeep / Maintenance: 17
-Build Cost: 169
+  Indirect: 8/6
+  Direct: 8/5
+  Close: 7/3
+Load aboard transport: 1
+Upkeep / Maintenance: 4
+Build Cost: 42
 Build Resource Requirements:
-  Energy: 15
-  Metal: 42
-  Trace: 8
-  Chemicals: 15
-  Electronics: 7
-Build Underwater Barrier in Well
+  Food: 4
+  Energy: 10
+  Metal: 21
+  Trace: 16
+  Exotica: 4
+  Chemicals: 10
+  Electronics: 10
+Build Amphibious Light Tank in Factory
 Time to Build / Upgrade: 2
-[1305] Technologies Required to Build Unit (95):
+[1595] Technologies Required to Build Unit (96):
   [110] Structural Engineering (99)
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
   [1195] Naval Warfare (90)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Anti-Landing Spike
-Nick Name: Spike
+Name: Amphibious Medium Tank
+Nick Name: N-ATM
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 585
-  Average Score: 585
-  Stat Strength: 513
-  Total Strength: 585
-  Planet Strength: 585
+  Tech Score: 410
+  Unit Score: 409
+  Average Score: 410
+  Stat Strength: 308
+  Total Strength: 409
+  Planet Strength: 409
   Space Strength: 0
-  Garrison Strength: 731
+  Garrison Strength: 166
 Statistics:
-  Movement Type: naval
-  Move Points: 0
-  Spot: 0
-  Camouflage: 1
-  Agility: 0
-  Armor: 16
-  Psy Defense: 16
-  Rank: 36
+  Movement Type: craft
+  Move Points: 6
+  Spot: 2
+  Camouflage: 2
+  Agility: 8
+  Armor: 10
+  Psy Defense: 10
+  Rank: 40
 Attacks:
-  Direct: 3/24
-Load aboard transport: 3
-Can be towed
-Never Rebels
-Never Retreats
-Upkeep / Maintenance: 25
-Build Cost: 247
+  Indirect: 7/7
+  Direct: 6/6
+  Close: 4/4
+Load aboard transport: 2
+Upkeep / Maintenance: 4
+Build Cost: 37
 Build Resource Requirements:
-  Energy: 32
-  Metal: 55
-  Trace: 1
-  Chemicals: 32
-  Electronics: 1
-Build Anti-Landing Spike in Well
+  Food: 3
+  Energy: 11
+  Metal: 25
+  Trace: 10
+  Exotica: 3
+  Chemicals: 10
+  Electronics: 5
+Build Amphibious Medium Tank in Factory
 Time to Build / Upgrade: 2
-[1940] Technology Required to Build Unit (89):
-  [1940] Amphibious Landing Craft (89)
+[1595] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [125] Compression Ignition Engine (97)
+  [165] Autocannon (98)
+  [1195] Naval Warfare (90)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Seadrome
-Nick Name: Seadrome
+Name: Amphibious Medium Tank II
+Nick Name: N-ATM2
 Scores & Strengths:
-  Tech Score: 771
-  Unit Score: 771
-  Average Score: 771
-  Stat Strength: 771
-  Total Strength: 771
-  Planet Strength: 771
+  Tech Score: 585
+  Unit Score: 564
+  Average Score: 574
+  Stat Strength: 426
+  Total Strength: 564
+  Planet Strength: 564
   Space Strength: 0
-  Garrison Strength: 963
+  Garrison Strength: 213
 Statistics:
-  Movement Type: naval
-  Move Points: 0
-  Spot: 7
-  Camouflage: 0
-  Agility: 0
-  Armor: 19
-  Psy Defense: 19
-  Rank: 744
-Cargo Space: 10
-Load aboard transport: 12
-Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Can be towed
-Heals units of same movement type
-Never Rebels
-Never Retreats
-Immune to Plague
-Upkeep / Maintenance: 118
-Build Cost: 1180
+  Movement Type: craft
+  Move Points: 7
+  Spot: 2
+  Camouflage: 2
+  Agility: 9
+  Armor: 12
+  Psy Defense: 12
+  Rank: 47
+Attacks:
+  Indirect: 8/8
+  Direct: 7/7
+  Close: 5/5
+Load aboard transport: 2
+Upkeep / Maintenance: 5
+Build Cost: 49
 Build Resource Requirements:
-  Food: 1
-  Metal: 53
-  Trace: 2
-  Exotica: 1
-  Chemicals: 14
-  Electronics: 1
-Build Seadrome in Well
+  Food: 3
+  Energy: 11
+  Metal: 28
+  Trace: 11
+  Exotica: 3
+  Chemicals: 11
+  Biochems: 5
+  Electronics: 6
+Build Amphibious Medium Tank II in Factory
 Time to Build / Upgrade: 2
-[4305] Technologies Required to Build Unit (94):
-  [125] Scholastic Medicine (98)
-  [255] Surgical Procedures (96)
-  [145] Composite Armor (97)
-  [325] Megachassis (94)
-  [165] Theurgy (93)
-  [395] Laws of Nine (95)
-  [1195] Naval Warfare (90)
-  [300] Mechanized Warfare (95)
-  [1400] Aerial Warfare (87)
+[2290] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1940] Amphibious Landing Craft (89)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Naval Fort
-Nick Name: Naval Fort
+Name: Amphibious Heavy Tank II
+Nick Name: N-ATH2
 Scores & Strengths:
-  Tech Score: 980
-  Unit Score: 980
-  Average Score: 980
-  Stat Strength: 804
-  Total Strength: 980
-  Planet Strength: 980
+  Tech Score: 585
+  Unit Score: 573
+  Average Score: 579
+  Stat Strength: 431
+  Total Strength: 573
+  Planet Strength: 573
   Space Strength: 0
-  Garrison Strength: 1225
+  Garrison Strength: 233
 Statistics:
-  Movement Type: naval
-  Move Points: 0
+  Movement Type: craft
+  Move Points: 6
   Spot: 2
-  Camouflage: 0
-  Agility: 0
-  Armor: 20
-  Psy Defense: 20
-  Rank: 773
+  Camouflage: 2
+  Agility: 7
+  Armor: 13
+  Psy Defense: 13
+  Rank: 48
 Attacks:
-  Water: 2/20
-  Air: 4/16
-  Indirect: 3/18
-  Direct: 2/9
-Cargo Space: 10
-Load aboard transport: 12
-Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Can be towed
-Heals units of same movement type
-Never Rebels
-Never Retreats
-Immune to Plague
-Upkeep / Maintenance: 214
-Build Cost: 2141
+  Indirect: 7/10
+  Direct: 6/8
+  Close: 4/6
+Load aboard transport: 3
+Upkeep / Maintenance: 5
+Build Cost: 46
 Build Resource Requirements:
-  Energy: 28
-  Metal: 50
-  Trace: 2
-  Chemicals: 40
-  Biochems: 1
-  Electronics: 1
-Build Naval Fort in Well
+  Food: 2
+  Energy: 13
+  Metal: 32
+  Trace: 8
+  Exotica: 2
+  Chemicals: 13
+  Biochems: 4
+  Electronics: 4
+Build Amphibious Heavy Tank II in Factory
 Time to Build / Upgrade: 2
-[5230] Technologies Required to Build Unit (92):
-  [145] Composite Armor (97)
-  [350] Anti-Tank Weaponry (95)
-  [610] Dual-Purpose Gun (94)
-  [1400] Aerial Warfare (87)
-  [2725] Naval Capital Ships (88)
+[2290] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1940] Amphibious Landing Craft (89)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Very Large Floating Structure
-Nick Name: VLFS
+Name: Amphibious Light Tank II
+Nick Name: N-ATL2
 Scores & Strengths:
-  Tech Score: 2052
-  Unit Score: 2052
-  Average Score: 2052
-  Stat Strength: 2052
-  Total Strength: 2052
-  Planet Strength: 2052
+  Tech Score: 585
+  Unit Score: 576
+  Average Score: 580
+  Stat Strength: 414
+  Total Strength: 576
+  Planet Strength: 576
   Space Strength: 0
-  Garrison Strength: 1450
+  Garrison Strength: 203
 Statistics:
-  Movement Type: naval
-  Move Points: 2
-  Spot: 0
-  Camouflage: 0
-  Agility: 0
-  Armor: 32
-  Psy Defense: 32
-  Rank: 766
-Cargo Space: 11
-Load aboard transport: 13
-Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Can be towed
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 263
-Build Cost: 2630
+  Movement Type: craft
+  Move Points: 8
+  Spot: 2
+  Camouflage: 2
+  Agility: 10
+  Armor: 11
+  Psy Defense: 11
+  Rank: 48
+Attacks:
+  Indirect: 10/7
+  Direct: 10/6
+  Close: 8/4
+Load aboard transport: 1
+Upkeep / Maintenance: 6
+Build Cost: 63
 Build Resource Requirements:
-  Metal: 46
+  Food: 3
+  Energy: 10
+  Metal: 23
+  Trace: 20
+  Exotica: 3
   Chemicals: 11
-  Ceramsteel: 56
-Build Very Large Floating Structure in Well
-Time to Build / Upgrade: 3
-[12405] Technologies Required to Build Unit (83):
-  [1690] Computerized Medical Imaging (76)
-  [220] Indoctrination (91)
-  [3200] Supersonic Aircraft (85)
-  [7295] Nuclear-Powered Navalcraft (81)
+  Biochems: 9
+  Electronics: 10
+Build Amphibious Light Tank II in Factory
+Time to Build / Upgrade: 2
+[2290] Technologies Required to Build Unit (92):
+  [350] Tanks (95)
+  [1940] Amphibious Landing Craft (89)
 Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---7--
-Name: Floating Airport
-Nick Name: F-Airport
-Scores & Strengths:
-  Tech Score: 3493
-  Unit Score: 3494
-  Average Score: 3493
-  Stat Strength: 3494
-  Total Strength: 3494
-  Planet Strength: 3494
-  Space Strength: 0
-  Garrison Strength: 1747
-Statistics:
-  Movement Type: naval
-  Move Points: 4
-  Spot: 10
-  Camouflage: 4
-  Agility: 0
-  Armor: 41
-  Psy Defense: 41
-  Rank: 791
-Cargo Space: 12
-Load aboard transport: 14
-Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Can be towed
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 2200
-Build Cost: 22001
-Build Resource Requirements:
-  Food: 1
-  Metal: 21
-  Trace: 1
-  Exotica: 1
-  Chemicals: 6
-  Electronics: 1
-  Ceramsteel: 32
-  Monopols: 25
-Build Floating Airport in Well
-Time to Build / Upgrade: 3
-[32020] Technologies Required to Build Unit (77):
-  [6490] Real-Time Medical Imaging (65)
-  [7610] Atmospheric Aircraft (80)
-  [330] Holy Warriors (82)
-  [10295] PTS Fusion Cannon (76)
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---8--
-Name: Mobile Offshore Base
-Nick Name: MOB
-Scores & Strengths:
-  Tech Score: 4649
-  Unit Score: 4649
-  Average Score: 4649
-  Stat Strength: 4649
-  Total Strength: 4649
-  Planet Strength: 4649
-  Space Strength: 0
-  Garrison Strength: 1401
-Statistics:
-  Movement Type: naval
-  Move Points: 11
-  Spot: 10
-  Camouflage: 1
-  Agility: 3
-  Armor: 47
-  Psy Defense: 47
-  Rank: 797
-Cargo Space: 12
-Load aboard transport: 14
-Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Can be towed
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 2684
-Build Cost: 26836
-Build Resource Requirements:
-  Food: 1
-  Energy: 1
-  Metal: 15
-  Trace: 1
-  Exotica: 1
-  Chemicals: 9
-  Biochems: 1
-  Electronics: 9
-  Ceramsteel: 28
-  Monopols: 27
-Build Mobile Offshore Base in Well
-Time to Build / Upgrade: 3
-[42305] Technologies Required to Build Unit (75):
-  [6490] Real-Time Medical Imaging (65)
-  [7610] Atmospheric Aircraft (80)
-  [330] Holy Warriors (82)
-  [27875] PTS Meson Navalcraft (74)
-Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

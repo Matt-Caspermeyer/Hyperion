@@ -1,4 +1,4 @@
-All units of the unit class Armored Personnel Carrier are listed herein (2 in total):
+All units of the unit class Armored Personnel Carrier are listed herein (3 in total):
 
 --1--
 Name: Armored Personnel Carrier
@@ -87,4 +87,51 @@ Time to Build / Upgrade: 2
   [350] Tanks (95)
 Counts as planetary flock: YES
 Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Armored Personnel Drone
+Nick Name: APC Drone
+Scores & Strengths:
+  Tech Score: 2514
+  Unit Score: 2528
+  Average Score: 2521
+  Stat Strength: 1656
+  Total Strength: 2528
+  Planet Strength: 2528
+  Space Strength: 0
+  Garrison Strength: 565
+Statistics:
+  Movement Type: tread
+  Move Points: 20
+  Spot: 10
+  Camouflage: 10
+  Agility: 16
+  Armor: 20
+  Psy Defense: 20
+  Rank: 101
+Attacks:
+  Direct: 18/24
+  Close: 22/20
+Cargo Space: 1
+Load aboard transport: 2
+Can tow units that can be towed
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 20
+Build Cost: 202
+Build Resource Requirements:
+  Food: 5
+  Energy: 23
+  Metal: 10
+  Trace: 15
+  Exotica: 5
+  Chemicals: 44
+  Electronics: 32
+  Ceramsteel: 17
+Build Armored Personnel Drone in Electronics Plant
+Time to Build / Upgrade: 3
+[13565] Technology Required to Build Unit (65):
+  [13565] Unmanned Land Vehicles (65)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

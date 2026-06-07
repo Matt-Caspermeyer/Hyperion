@@ -1,4 +1,4 @@
-All units of the unit class Naval Corvette are listed herein (6 in total):
+All units of the unit class Naval Corvette are listed herein (12 in total):
 
 --1--
 Name: Naval Corvette
@@ -273,6 +273,324 @@ Build Resource Requirements:
 Build Advanced Naval Corvette in Well
 Time to Build / Upgrade: 4
 [7295] Technology Required to Build Unit (81):
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Littoral Combat Ship (MCM)
+Nick Name: NN-LCS-MCM
+Scores & Strengths:
+  Tech Score: 2319
+  Unit Score: 2312
+  Average Score: 2315
+  Stat Strength: 2024
+  Total Strength: 2312
+  Planet Strength: 2312
+  Space Strength: 0
+  Garrison Strength: 516
+Statistics:
+  Movement Type: naval
+  Move Points: 20
+  Spot: 18
+  Camouflage: 10
+  Agility: 20
+  Armor: 20
+  Psy Defense: 20
+  Rank: 109
+Attacks:
+  Indirect: 12/24
+Cargo Space: 2
+Load aboard transport: 3
+Can attack on Byzantium Secundus
+Amphibious loading / unloading of cargo
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Can tow units that can be towed
+Upkeep / Maintenance: 85
+Build Cost: 845
+Build Resource Requirements:
+  Food: 6
+  Energy: 14
+  Metal: 15
+  Trace: 8
+  Exotica: 6
+  Chemicals: 22
+  Biochems: 30
+  Electronics: 9
+  Ceramsteel: 18
+Build Littoral Combat Ship (MCM) in Well
+Time to Build / Upgrade: 3
+[16880] Technologies Required to Build Unit (80):
+  [2390] Genomic Mapping (77)
+  [2820] Controlled Drug Delivery (70)
+  [4155] Computational Fluid Dynamics (81)
+  [220] Indoctrination (91)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Littoral Combat Ship (L)
+Nick Name: NN-LCS-L
+Scores & Strengths:
+  Tech Score: 2339
+  Unit Score: 2340
+  Average Score: 2339
+  Stat Strength: 1944
+  Total Strength: 2340
+  Planet Strength: 2340
+  Space Strength: 0
+  Garrison Strength: 551
+Statistics:
+  Movement Type: naval
+  Move Points: 18
+  Spot: 18
+  Camouflage: 18
+  Agility: 18
+  Armor: 18
+  Psy Defense: 18
+  Rank: 787
+Attacks:
+  Indirect: 18/22
+Cargo Space: 2
+Load aboard transport: 3
+Can attack on Byzantium Secundus
+Officer - Provides stack combat bonuses
+Amphibious loading / unloading of cargo
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Can tow units that can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 122
+Build Cost: 1219
+Build Resource Requirements:
+  Food: 5
+  Energy: 11
+  Metal: 12
+  Trace: 11
+  Exotica: 5
+  Chemicals: 18
+  Biochems: 24
+  Electronics: 12
+  Ceramsteel: 14
+Build Littoral Combat Ship (L) in Well
+Time to Build / Upgrade: 3
+[18495] Technologies Required to Build Unit (79):
+  [2390] Genomic Mapping (77)
+  [2820] Controlled Drug Delivery (70)
+  [1615] Wireblades (76)
+  [4155] Computational Fluid Dynamics (81)
+  [220] Indoctrination (91)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Littoral Combat Ship (SOW)
+Nick Name: NN-LCS-SOW
+Scores & Strengths:
+  Tech Score: 2319
+  Unit Score: 2380
+  Average Score: 2349
+  Stat Strength: 2184
+  Total Strength: 2380
+  Planet Strength: 2380
+  Space Strength: 0
+  Garrison Strength: 466
+Statistics:
+  Movement Type: naval
+  Move Points: 26
+  Spot: 20
+  Camouflage: 14
+  Agility: 20
+  Armor: 16
+  Psy Defense: 16
+  Rank: 92
+Attacks:
+  Direct: 8/12
+  Close: 10/10
+Cargo Space: 2
+Load aboard transport: 3
+Can attack on Byzantium Secundus
+Amphibious loading / unloading of cargo
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 73
+Build Cost: 726
+Build Resource Requirements:
+  Food: 8
+  Energy: 13
+  Metal: 10
+  Trace: 10
+  Exotica: 8
+  Chemicals: 19
+  Biochems: 27
+  Electronics: 14
+  Ceramsteel: 11
+Build Littoral Combat Ship (SOW) in Well
+Time to Build / Upgrade: 3
+[16880] Technologies Required to Build Unit (80):
+  [2390] Genomic Mapping (77)
+  [2820] Controlled Drug Delivery (70)
+  [4155] Computational Fluid Dynamics (81)
+  [220] Indoctrination (91)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Littoral Combat Ship (SUW)
+Nick Name: NN-LCS-SUW
+Scores & Strengths:
+  Tech Score: 2398
+  Unit Score: 2400
+  Average Score: 2399
+  Stat Strength: 1936
+  Total Strength: 2400
+  Planet Strength: 2400
+  Space Strength: 0
+  Garrison Strength: 565
+Statistics:
+  Movement Type: naval
+  Move Points: 18
+  Spot: 16
+  Camouflage: 8
+  Agility: 18
+  Armor: 22
+  Psy Defense: 22
+  Rank: 115
+Attacks:
+  Indirect: 14/26
+  Direct: 10/10
+Cargo Space: 2
+Load aboard transport: 3
+Can attack on Byzantium Secundus
+Amphibious loading / unloading of cargo
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 78
+Build Cost: 781
+Build Resource Requirements:
+  Food: 4
+  Energy: 14
+  Metal: 18
+  Trace: 8
+  Exotica: 5
+  Chemicals: 23
+  Biochems: 30
+  Electronics: 8
+  Ceramsteel: 19
+Build Littoral Combat Ship (SUW) in Well
+Time to Build / Upgrade: 3
+[18580] Technologies Required to Build Unit (81):
+  [2390] Genomic Mapping (77)
+  [2820] Controlled Drug Delivery (70)
+  [4155] Computational Fluid Dynamics (81)
+  [220] Indoctrination (91)
+  [1700] Main Battle Tank (88)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Littoral Combat Ship (ASW)
+Nick Name: NN-LCS-ASW
+Scores & Strengths:
+  Tech Score: 2445
+  Unit Score: 2448
+  Average Score: 2446
+  Stat Strength: 2016
+  Total Strength: 2448
+  Planet Strength: 2448
+  Space Strength: 0
+  Garrison Strength: 499
+Statistics:
+  Movement Type: naval
+  Move Points: 24
+  Spot: 18
+  Camouflage: 12
+  Agility: 18
+  Armor: 18
+  Psy Defense: 18
+  Rank: 114
+Attacks:
+  Water: 12/24
+  Indirect: 12/12
+Cargo Space: 2
+Load aboard transport: 3
+Can attack on Byzantium Secundus
+Amphibious loading / unloading of cargo
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 70
+Build Cost: 701
+Build Resource Requirements:
+  Food: 6
+  Energy: 16
+  Metal: 12
+  Trace: 9
+  Exotica: 6
+  Chemicals: 21
+  Biochems: 26
+  Electronics: 10
+  Ceramsteel: 12
+Build Littoral Combat Ship (ASW) in Well
+Time to Build / Upgrade: 3
+[20495] Technologies Required to Build Unit (81):
+  [2390] Genomic Mapping (77)
+  [2820] Controlled Drug Delivery (70)
+  [4155] Computational Fluid Dynamics (81)
+  [220] Indoctrination (91)
+  [3615] Submarine Warfare (87)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Littoral Combat Ship (ISR)
+Nick Name: NN-LCS-ISR
+Scores & Strengths:
+  Tech Score: 2783
+  Unit Score: 2808
+  Average Score: 2796
+  Stat Strength: 2304
+  Total Strength: 2808
+  Planet Strength: 2808
+  Space Strength: 0
+  Garrison Strength: 702
+Statistics:
+  Movement Type: naval
+  Move Points: 16
+  Spot: 26
+  Camouflage: 20
+  Agility: 18
+  Armor: 18
+  Psy Defense: 18
+  Rank: 134
+Attacks:
+  Air: 14/16
+  Indirect: 14/20
+Cargo Space: 2
+Load aboard transport: 3
+Can attack on Byzantium Secundus
+Amphibious loading / unloading of cargo
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 66
+Build Cost: 661
+Build Resource Requirements:
+  Food: 5
+  Energy: 10
+  Metal: 8
+  Trace: 13
+  Exotica: 5
+  Chemicals: 14
+  Biochems: 24
+  Electronics: 17
+  Ceramsteel: 8
+Build Littoral Combat Ship (ISR) in Well
+Time to Build / Upgrade: 2
+[23370] Technologies Required to Build Unit (75):
+  [2390] Genomic Mapping (77)
+  [2820] Controlled Drug Delivery (70)
+  [4155] Computational Fluid Dynamics (81)
+  [220] Indoctrination (91)
+  [6490] Assassin (48)
   [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
