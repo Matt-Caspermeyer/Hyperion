@@ -10,21 +10,23 @@
 //     H     z     c     w     M     a     u     m     u     d     t     G     e     b
 //--------------------------------------------------------------------------------------
 {    
-      "0     0     0     0     0     0     0     0     0     0     0     0     0     0"  // DifficultyLevel - the starting difficulty level for the player
-      "1     1     1     1     1     1     1     1     1     1     1     1     1     1"  // TimePlayer - does player get timed for how long their turn takes
-      "1     1     1     1     1     1     1     0     0     1     1     1     1     1"  // DoesPlayerEat - does player consume food
-      "1     1     1     1     1     1     1     1     1     1     1     1     1     1"  // DoesPlayerProduce - does player build units
-      "1     1     1     1     1     0     0     0     0     0     0     0     0     0"  // DoesPlayerRebel - can rebellions occur
-      "1     1     1     1     1     1     1     0     0     1     1     1     1     1"  // DoesPlayerGetPlague - can the player's cities & units get the Plague
-      "1     1     1     1     1     1     1     1     1     1     1     1     1     1"  // DoesPlayerBuildCities - can the player build cities
-      "1     1     1     1     1     1     1     1     1     1     1     1     1     1"  // DoesPlayerResearch - can the player research technologies
-      "0     0     0     0     0     0     0     0     0     0     0     0     0     0"  // SkipPlayerTurn - used to outright skip a player's turn (they are essentially inactive)
-     "15    20    40    10    30    15    10    40    20    15    10    15    20    25"  // FollowTechTree - Microbiology (Percent Split of Research in this Tree)
-     "30    30    20    40    20    35    30    10    30    30    30    30    25    25"  // FollowTechTree - Physics (Percent Split of Research in this Tree)
-     "40    25    20    10    30    15    30    40    20    15    10    25    30    25"  // FollowTechTree - Psychosocial Engineering (Percent Split of Research in this Tree)
-     "15    25    20    40    20    35    30    10    30    40    50    30    25    25"  // FollowTechTree - Applied Technology (Units) (Percent Split of Research in this Tree)
+  "    0     0     0     0     0     0     0     0     0     0     0     0     0     0"  // DifficultyLevel - the starting difficulty level for the player
+  "    1     1     1     1     1     1     1     1     1     1     1     1     1     1"  // TimePlayer - does player get timed for how long their turn takes
+  "    1     1     1     1     1     1     1     0     0     1     1     1     1     1"  // DoesPlayerEat - does player consume food
+  "    1     1     1     1     1     1     1     1     1     1     1     1     1     1"  // DoesPlayerProduce - does player build units
+  "    1     1     1     1     1     0     0     0     0     0     0     0     0     0"  // DoesPlayerRebel - can rebellions occur
+  "    1     1     1     1     1     1     1     0     0     1     1     1     1     1"  // DoesPlayerGetPlague - can the player's cities & units get the Plague
+  "    1     1     1     1     1     1     1     1     1     1     1     1     1     1"  // DoesPlayerBuildCities - can the player build cities
+  "    1     1     1     1     1     1     1     1     1     1     1     1     1     1"  // DoesPlayerResearch - can the player research technologies
+  "    0     0     0     0     0     0     0     0     0     0     0     0     0     0"  // SkipPlayerTurn - used to outright skip a player's turn (they are essentially inactive)
+  "   15    20    40    10    30    15    10    40    20    15    10    15    20    25"  // FollowTechTree - Microbiology (Percent Split of Research in this Tree)
+  "   30    30    20    40    20    35    30    10    30    30    30    30    25    25"  // FollowTechTree - Physics (Percent Split of Research in this Tree)
+  "   40    25    20    10    30    15    30    40    20    15    10    25    30    25"  // FollowTechTree - Psychosocial Engineering (Percent Split of Research in this Tree)
+  "   15    25    20    40    20    35    30    10    30    40    50    30    25    25"  // FollowTechTree - Applied Technology (Units) (Percent Split of Research in this Tree)
   "  100   100   100   100   100   100   100   100   100   100   100   100   100    10"  // PercentPlayerProductive - how efficient is the player's building, units, and technology research (can be used to change from 100%)
-  "   -1    -1    -1    -1    -1    -1    -1    -1    -1    50    50    50    50    50"  // YearPlayerCanAttackRuins - allows disabling AI players from attacking ruins before a certain year, -1 means always. See notes below for more info...
+  "  100   100   100   100   100   100   100   100   100   100   100   100   100    10"  // PercentPlayerBuilding - how efficient is the player's unit production (e.g. for a unit that requires 1 turn to get built 100% means 1 turn, while 25% means 4 turns)
+  "  100   100   100   100   100   100   100   100   100   100   100   100   100    10"  // PercentPlayerResearch - how efficient is the player's technology research (can be used to change from 100%)
+  "   -1    -1    -1    -1    -1    -1    -1    -1    -1   999   999   999   999    50"  // YearPlayerCanAttackRuins - allows disabling AI players from attacking ruins before a certain year, -1 means always. See notes below for more info...
   "   -1    -1    -1    -1    -1    -1    -1    -1    -1    -1    -1    -1    -1    -1"  // YearPlayerCanBuildNonB2Units - allows enabling AI players to build non-attack on B2 units after a certain year, -1 means always. See notes below for more info...
   "   -1    -1    -1    -1    -1    -1    -1    -1    -1    -1    -1    -1    -1    -1"  // YearPlayerCanUseB2Units - allows enabling AI players to use their B2 units after a certain year, -1 means always. See notes below for more info...
   "   -1    -1    -1    -1    -1    -1    -1    -1    -1    -1    -1    -1    -1    -1"  // YearPlayerCanBuildOnB2 - allows enabling players (both AI and human) to build cities on B2 after a certain year, -1 means always. See notes below for more info...
@@ -34,7 +36,7 @@
 //
 // 1. YearPlayerCanAttackRuins - this parameter is used to prevent the AI (especially the Rebels from attacking ruins before a certain year).
 //                               It should be noted that the Rebels don't actually attack ruins, but move through them, releasing the inhabitis
-//                               which could cause issues if a doom stack is released to early in the game. It can also prevent other players
+//                               which could cause issues if a doom stack is released too early in the game. It can also prevent other players
 //                               (such as the Stigmata Garrison) from capturing ruins before it is assigned to a human player. After the designated
 //                               year, the AI player will ignore these restrictions.
 // 2. YearPlayerCanBuildNonB2Units - this parameter only affects the AI on B2. Normally, the AI only builds units that can attack on B2; however,
