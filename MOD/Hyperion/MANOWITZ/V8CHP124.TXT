@@ -1,459 +1,582 @@
-All units of the unit class Saboteur are listed herein (11 in total):
+All units of the unit class Naval Protected Cruiser are listed herein (12 in total):
 
 --1--
-Name: Saboteur
-Nick Name: Saboteur
+Name: Naval Protected Cruiser
+Nick Name: NN-CC-PP
 Scores & Strengths:
-  Tech Score: 406
-  Unit Score: 406
-  Average Score: 406
-  Stat Strength: 316
-  Total Strength: 406
-  Planet Strength: 406
+  Tech Score: 189
+  Unit Score: 374
+  Average Score: 281
+  Stat Strength: 282
+  Total Strength: 374
+  Planet Strength: 374
   Space Strength: 0
-  Garrison Strength: 165
+  Garrison Strength: 132
 Statistics:
-  Movement Type: foot
-  Move Points: 6
-  Spot: 8
-  Camouflage: 8
-  Agility: 12
-  Armor: 2
-  Psy Defense: 2
-  Rank: 716
+  Movement Type: naval
+  Move Points: 8
+  Spot: 4
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 10
+  Rank: 46
 Attacks:
-  Indirect: 9/10
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 10
-Build Cost: 81
+  Indirect: 2/20
+  Direct: 4/13
+Cargo Space: 2
+Load aboard transport: 6
+Upkeep / Maintenance: 42
+Build Cost: 415
 Build Resource Requirements:
-  Trace: 25
-  Exotica: 7
-  Chemicals: 16
-  Electronics: 16
-Upgrade Peasant to Saboteur at Fort
-Time to Build / Upgrade: 1
-[1195] Technology Required to Build Unit (90):
-  [1195] Naval Warfare (90)
+  Food: 7
+  Energy: 87
+  Metal: 41
+  Trace: 6
+  Exotica: 6
+  Chemicals: 82
+Build Naval Protected Cruiser in Well
+Time to Build / Upgrade: 5
+[790] Technologies Required to Build Unit (98):
+  [230] Hospitals (97)
+  [110] Structural Engineering (99)
+  [125] Mechanical Think Machines (93)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Saboteur (PE)
-Nick Name: Sab (PE)
+Name: Naval Armored Cruiser
+Nick Name: NN-CC-AA
 Scores & Strengths:
-  Tech Score: 414
-  Unit Score: 416
-  Average Score: 415
-  Stat Strength: 316
-  Total Strength: 416
-  Planet Strength: 416
+  Tech Score: 195
+  Unit Score: 388
+  Average Score: 292
+  Stat Strength: 324
+  Total Strength: 388
+  Planet Strength: 388
   Space Strength: 0
-  Garrison Strength: 169
+  Garrison Strength: 137
 Statistics:
-  Movement Type: foot
-  Move Points: 6
-  Spot: 8
-  Camouflage: 8
-  Agility: 12
-  Armor: 2
-  Psy Defense: 2
-  Rank: 718
+  Movement Type: naval
+  Move Points: 8
+  Spot: 4
+  Camouflage: 1
+  Agility: 1
+  Armor: 11
+  Psy Defense: 11
+  Rank: 47
 Attacks:
-  Indirect: 10/10
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 9
-Build Cost: 68
+  Air: 2/8
+  Indirect: 2/24
+Cargo Space: 2
+Load aboard transport: 6
+Upkeep / Maintenance: 46
+Build Cost: 462
 Build Resource Requirements:
-  Trace: 24
-  Exotica: 8
-  Chemicals: 15
-  Electronics: 14
-Upgrade Peasant to Saboteur (PE) at Fort
-Time to Build / Upgrade: 1
-[1375] Technologies Required to Build Unit (90):
-  [180] Performance-Enhanced Soldiers (90)
-  [1195] Naval Warfare (90)
+  Food: 7
+  Energy: 97
+  Metal: 50
+  Trace: 5
+  Exotica: 6
+  Chemicals: 91
+Build Naval Armored Cruiser in Well
+Time to Build / Upgrade: 5
+[810] Technologies Required to Build Unit (97):
+  [230] Hospitals (97)
+  [110] Structural Engineering (99)
+  [145] Director (Auxilliary Predictor) (91)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Saboteur (BE)
-Nick Name: Sab (BE)
+Name: Aircraft Cruiser
+Nick Name: NN-CC-CV
 Scores & Strengths:
-  Tech Score: 447
-  Unit Score: 509
-  Average Score: 478
-  Stat Strength: 388
-  Total Strength: 509
-  Planet Strength: 509
+  Tech Score: 775
+  Unit Score: 773
+  Average Score: 774
+  Stat Strength: 605
+  Total Strength: 773
+  Planet Strength: 773
   Space Strength: 0
-  Garrison Strength: 192
+  Garrison Strength: 257
 Statistics:
-  Movement Type: foot
-  Move Points: 7
-  Spot: 9
-  Camouflage: 9
-  Agility: 13
-  Armor: 2
-  Psy Defense: 2
-  Rank: 722
+  Movement Type: naval
+  Move Points: 9
+  Spot: 2
+  Camouflage: 2
+  Agility: 2
+  Armor: 16
+  Psy Defense: 16
+  Rank: 76
 Attacks:
-  Indirect: 11/11
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 14
-Build Cost: 57
+  Air: 6/11
+  Indirect: 3/24
+  Direct: 2/15
+Cargo Space: 4
+Load aboard transport: 7
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 37
+Build Cost: 367
 Build Resource Requirements:
-  Food: 1
-  Trace: 1
+  Food: 2
+  Energy: 40
+  Metal: 40
+  Trace: 3
   Exotica: 2
-  Biochems: 16
-Upgrade Saboteur to Saboteur (BE) at Biochem Plant
-Time to Build / Upgrade: 1
-[1615] Technologies Required to Build Unit (84):
-  [420] Biochem-Enhanced Soldiers (77)
-  [1195] Naval Warfare (90)
+  Chemicals: 40
+  Biochems: 3
+  Electronics: 2
+Build Aircraft Cruiser in Well
+Time to Build / Upgrade: 2
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Saboteur (SE)
-Nick Name: Sab (SE)
+Name: Helicopter Cruiser
+Nick Name: NN-CC-HH
 Scores & Strengths:
-  Tech Score: 504
-  Unit Score: 575
-  Average Score: 539
-  Stat Strength: 432
-  Total Strength: 575
-  Planet Strength: 575
+  Tech Score: 1070
+  Unit Score: 1068
+  Average Score: 1069
+  Stat Strength: 867
+  Total Strength: 1068
+  Planet Strength: 1068
   Space Strength: 0
-  Garrison Strength: 203
+  Garrison Strength: 322
 Statistics:
-  Movement Type: foot
-  Move Points: 8
-  Spot: 9
-  Camouflage: 10
-  Agility: 13
-  Armor: 3
-  Psy Defense: 3
-  Rank: 726
+  Movement Type: naval
+  Move Points: 11
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
+  Armor: 19
+  Psy Defense: 19
+  Rank: 84
 Attacks:
-  Indirect: 11/13
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 17
-Build Cost: 92
+  Air: 6/14
+  Indirect: 3/27
+  Direct: 2/18
+Cargo Space: 4
+Load aboard transport: 6
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Can tow units that can be towed
+Upkeep / Maintenance: 40
+Build Cost: 400
 Build Resource Requirements:
   Food: 2
-  Energy: 3
-  Metal: 1
+  Energy: 38
+  Metal: 54
   Trace: 3
   Exotica: 2
-  Chemicals: 4
-  Biochems: 18
-  Electronics: 1
-Upgrade Saboteur to Saboteur (SE) at Hospital
-Time to Build / Upgrade: 1
-[1870] Technologies Required to Build Unit (83):
-  [1195] Naval Warfare (90)
-  [675] Surgically-Enhanced Soldiers (75)
+  Chemicals: 39
+  Biochems: 2
+  Electronics: 2
+Build Helicopter Cruiser in Well
+Time to Build / Upgrade: 2
+[5025] Technologies Required to Build Unit (93):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2090] Rotorcraft (85)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Saboteur (DE)
-Nick Name: Sab (DE)
+Name: Naval Cruiser
+Nick Name: NN-CC
 Scores & Strengths:
-  Tech Score: 977
-  Unit Score: 926
-  Average Score: 951
-  Stat Strength: 670
-  Total Strength: 926
-  Planet Strength: 926
+  Tech Score: 775
+  Unit Score: 1158
+  Average Score: 966
+  Stat Strength: 948
+  Total Strength: 1158
+  Planet Strength: 1158
   Space Strength: 0
-  Garrison Strength: 292
+  Garrison Strength: 409
 Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 10
-  Camouflage: 14
-  Agility: 16
-  Armor: 3
-  Psy Defense: 3
-  Rank: 745
+  Movement Type: naval
+  Move Points: 8
+  Spot: 8
+  Camouflage: 2
+  Agility: 4
+  Armor: 20
+  Psy Defense: 20
+  Rank: 73
 Attacks:
-  Indirect: 16/16
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 15
-Build Cost: 69
+  Water: 3/18
+  Air: 10/10
+  Indirect: 2/16
+  Direct: 2/12
+Cargo Space: 2
+Load aboard transport: 6
+Upkeep / Maintenance: 33
+Build Cost: 331
 Build Resource Requirements:
-  Metal: 1
-  Biochems: 18
-  Electronics: 2
-Upgrade Saboteur to Saboteur (DE) at Biochem Plant
-Time to Build / Upgrade: 1
-[4635] Technologies Required to Build Unit (78):
-  [1195] Naval Warfare (90)
-  [3440] Drug-Enhanced Soldiers (65)
+  Food: 3
+  Energy: 36
+  Metal: 62
+  Trace: 11
+  Exotica: 4
+  Chemicals: 36
+  Biochems: 7
+  Electronics: 7
+Build Naval Cruiser in Well
+Time to Build / Upgrade: 3
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Saboteur (GE)
-Nick Name: Sab (GE)
+Name: Naval Lt Armored Cruiser
+Nick Name: NN-CC-LA
 Scores & Strengths:
-  Tech Score: 1435
-  Unit Score: 1278
-  Average Score: 1357
-  Stat Strength: 898
-  Total Strength: 1278
-  Planet Strength: 1278
+  Tech Score: 775
+  Unit Score: 1159
+  Average Score: 967
+  Stat Strength: 896
+  Total Strength: 1159
+  Planet Strength: 1159
   Space Strength: 0
-  Garrison Strength: 368
+  Garrison Strength: 386
 Statistics:
-  Movement Type: foot
-  Move Points: 12
-  Spot: 12
-  Camouflage: 17
-  Agility: 17
-  Armor: 4
-  Psy Defense: 4
-  Rank: 762
+  Movement Type: naval
+  Move Points: 9
+  Spot: 8
+  Camouflage: 2
+  Agility: 5
+  Armor: 19
+  Psy Defense: 19
+  Rank: 76
 Attacks:
-  Indirect: 19/20
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 20
-Build Cost: 129
+  Water: 4/17
+  Air: 13/9
+  Indirect: 3/15
+  Direct: 3/11
+Cargo Space: 2
+Load aboard transport: 5
+Upkeep / Maintenance: 35
+Build Cost: 345
 Build Resource Requirements:
-  Energy: 3
-  Trace: 2
-  Chemicals: 5
-  Biochems: 6
-  Electronics: 3
-  Ceramsteel: 1
-Upgrade Saboteur (DE) to Saboteur (GE) at Lab
-Time to Build / Upgrade: 1
-[7215] Technologies Required to Build Unit (70):
-  [1195] Naval Warfare (90)
-  [6020] Chemical Shock Legion (49)
+  Food: 4
+  Energy: 33
+  Metal: 56
+  Trace: 15
+  Exotica: 4
+  Chemicals: 32
+  Biochems: 9
+  Electronics: 11
+Build Naval Lt Armored Cruiser in Well
+Time to Build / Upgrade: 3
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Saboteur (PA)
-Nick Name: Sab (PA)
+Name: Naval Scout Cruiser
+Nick Name: NN-CC-Sc
 Scores & Strengths:
-  Tech Score: 1453
-  Unit Score: 1289
-  Average Score: 1371
-  Stat Strength: 890
-  Total Strength: 1289
-  Planet Strength: 1289
+  Tech Score: 775
+  Unit Score: 1160
+  Average Score: 967
+  Stat Strength: 888
+  Total Strength: 1160
+  Planet Strength: 1160
   Space Strength: 0
-  Garrison Strength: 357
+  Garrison Strength: 366
 Statistics:
-  Movement Type: foot
-  Move Points: 13
-  Spot: 12
-  Camouflage: 16
-  Agility: 17
-  Armor: 4
-  Psy Defense: 4
-  Rank: 763
+  Movement Type: naval
+  Move Points: 10
+  Spot: 10
+  Camouflage: 2
+  Agility: 6
+  Armor: 18
+  Psy Defense: 18
+  Rank: 72
 Attacks:
-  Indirect: 19/21
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 23
-Build Cost: 135
+  Water: 6/12
+  Air: 14/6
+  Indirect: 6/10
+  Direct: 7/8
+Cargo Space: 1
+Load aboard transport: 5
+Upkeep / Maintenance: 32
+Build Cost: 321
 Build Resource Requirements:
-  Energy: 7
-  Chemicals: 12
-  Biochems: 2
-  Electronics: 4
-  Ceramsteel: 2
-Upgrade Saboteur (SE) to Saboteur (PA) at Hospital
-Time to Build / Upgrade: 1
-[7370] Technologies Required to Build Unit (74):
-  [1195] Naval Warfare (90)
-  [6175] Prosthetically-Augmented Soldiers (57)
+  Food: 5
+  Energy: 18
+  Metal: 51
+  Trace: 23
+  Exotica: 6
+  Chemicals: 18
+  Biochems: 13
+  Electronics: 16
+Build Naval Scout Cruiser in Well
+Time to Build / Upgrade: 3
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Saboteur (CE)
-Nick Name: Sab (CE)
+Name: Naval Heavy Cruiser
+Nick Name: NN-CC-Hv
 Scores & Strengths:
-  Tech Score: 1841
-  Unit Score: 1616
-  Average Score: 1729
-  Stat Strength: 1112
-  Total Strength: 1616
-  Planet Strength: 1616
+  Tech Score: 775
+  Unit Score: 1353
+  Average Score: 1064
+  Stat Strength: 1109
+  Total Strength: 1353
+  Planet Strength: 1353
   Space Strength: 0
-  Garrison Strength: 431
+  Garrison Strength: 478
 Statistics:
-  Movement Type: foot
-  Move Points: 14
-  Spot: 12
-  Camouflage: 19
-  Agility: 19
-  Armor: 5
-  Psy Defense: 5
-  Rank: 774
+  Movement Type: naval
+  Move Points: 8
+  Spot: 8
+  Camouflage: 2
+  Agility: 3
+  Armor: 22
+  Psy Defense: 22
+  Rank: 76
 Attacks:
-  Indirect: 21/24
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 27
-Build Cost: 130
+  Water: 3/20
+  Air: 10/10
+  Indirect: 2/18
+  Direct: 3/16
+Cargo Space: 2
+Load aboard transport: 7
+Upkeep / Maintenance: 41
+Build Cost: 410
 Build Resource Requirements:
-  Energy: 5
-  Metal: 1
-  Chemicals: 7
-  Biochems: 3
-  Ceramsteel: 1
-Upgrade Saboteur (PA) to Saboteur (CE) at Lab
-Time to Build / Upgrade: 1
-[9795] Technologies Required to Build Unit (69):
-  [1195] Naval Warfare (90)
-  [8600] Cybernetically-Enhanced Soldiers (48)
+  Food: 3
+  Energy: 47
+  Metal: 76
+  Trace: 11
+  Exotica: 3
+  Chemicals: 46
+  Biochems: 7
+  Electronics: 8
+Build Naval Heavy Cruiser in Well
+Time to Build / Upgrade: 4
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Saboteur (AVE)
-Nick Name: Sab (AVE)
+Name: Guid. Miss. Cruiser
+Nick Name: NN-CC-GM
 Scores & Strengths:
-  Tech Score: 1895
-  Unit Score: 1640
-  Average Score: 1767
-  Stat Strength: 1112
-  Total Strength: 1640
-  Planet Strength: 1640
+  Tech Score: 1339
+  Unit Score: 2678
+  Average Score: 2008
+  Stat Strength: 1886
+  Total Strength: 2678
+  Planet Strength: 2678
   Space Strength: 0
-  Garrison Strength: 438
+  Garrison Strength: 715
 Statistics:
-  Movement Type: foot
+  Movement Type: naval
   Move Points: 14
-  Spot: 12
-  Camouflage: 19
-  Agility: 19
-  Armor: 5
-  Psy Defense: 5
-  Rank: 776
+  Spot: 9
+  Camouflage: 5
+  Agility: 4
+  Armor: 28
+  Psy Defense: 28
+  Rank: 116
 Attacks:
-  Indirect: 22/24
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Immune to Plague
-Upkeep / Maintenance: 31
-Build Cost: 179
+  Water: 6/27
+  Air: 18/18
+  Indirect: 8/24
+  Direct: 6/19
+Cargo Space: 2
+Load aboard transport: 6
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 98
+Build Cost: 981
 Build Resource Requirements:
-  Energy: 4
-  Chemicals: 6
-  Biochems: 7
-  Electronics: 2
-Upgrade Saboteur (GE) to Saboteur (AVE) at Lab
-Time to Build / Upgrade: 1
-[10095] Technologies Required to Build Unit (58):
-  [1195] Naval Warfare (90)
-  [8900] Genetically-Enhanced Warriors (25)
+  Food: 3
+  Energy: 58
+  Metal: 41
+  Trace: 15
+  Exotica: 4
+  Chemicals: 80
+  Biochems: 10
+  Electronics: 16
+  Ceramsteel: 50
+Build Guid. Miss. Cruiser in Well
+Time to Build / Upgrade: 6
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Saboteur (MF)
-Nick Name: Sab (MF)
+Name: Amphibious Cruiser
+Nick Name: CC-CC
 Scores & Strengths:
-  Tech Score: 3228
-  Unit Score: 2563
-  Average Score: 2895
-  Stat Strength: 1695
-  Total Strength: 2563
-  Planet Strength: 2563
+  Tech Score: 2993
+  Unit Score: 2993
+  Average Score: 2993
+  Stat Strength: 2449
+  Total Strength: 2993
+  Planet Strength: 2993
   Space Strength: 0
-  Garrison Strength: 587
+  Garrison Strength: 748
 Statistics:
-  Movement Type: foot
-  Move Points: 19
-  Spot: 14
-  Camouflage: 25
-  Agility: 21
-  Armor: 6
-  Psy Defense: 6
-  Rank: 805
+  Movement Type: craft
+  Move Points: 16
+  Spot: 10
+  Camouflage: 3
+  Agility: 6
+  Armor: 32
+  Psy Defense: 32
+  Rank: 114
 Attacks:
-  Indirect: 28/31
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 187
-Build Cost: 1744
+  Water: 6/23
+  Air: 12/19
+  Indirect: 4/20
+  Direct: 7/14
+Cargo Space: 2
+Load aboard transport: 6
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 97
+Build Cost: 968
 Build Resource Requirements:
-  Biochems: 5
-  Wetware: 4
-  Monopols: 33
-Upgrade Saboteur (CE) to Saboteur (MF) at Wetware
-Time to Build / Upgrade: 2
-[19770] Technologies Required to Build Unit (63):
-  [1195] Naval Warfare (90)
-  [18575] Machine-Fused Soldiers (35)
+  Food: 1
+  Energy: 11
+  Metal: 13
+  Trace: 3
+  Exotica: 1
+  Chemicals: 16
+  Biochems: 15
+  Electronics: 4
+  Ceramsteel: 14
+  Monopols: 26
+Build Amphibious Cruiser in Well
+Time to Build / Upgrade: 3
+[26040] Technologies Required to Build Unit (83):
+  [2855] Naval Amphibious Ships (87)
+  [6655] PTS Missile Navalcraft (83)
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --11--
-Name: Saboteur (NE)
-Nick Name: Sab (NE)
+Name: PTS Missile Cruiser
+Nick Name: NN-CC-PTS
 Scores & Strengths:
-  Tech Score: 3915
-  Unit Score: 3227
-  Average Score: 3571
-  Stat Strength: 2107
-  Total Strength: 3227
-  Planet Strength: 3227
-  Space Strength: 0
-  Garrison Strength: 721
+  Tech Score: 1474
+  Unit Score: 3685
+  Average Score: 2579
+  Stat Strength: 2577
+  Total Strength: 3685
+  Planet Strength: 3559
+  Space Strength: 2703
+  Garrison Strength: 918
 Statistics:
-  Movement Type: foot
-  Move Points: 20
-  Spot: 15
-  Camouflage: 30
-  Agility: 22
-  Armor: 7
-  Psy Defense: 7
-  Rank: 823
+  Movement Type: naval
+  Move Points: 15
+  Spot: 10
+  Camouflage: 7
+  Agility: 5
+  Armor: 33
+  Psy Defense: 33
+  Rank: 138
 Attacks:
-  Indirect: 32/35
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Immune to Plague
-Upkeep / Maintenance: 170
-Build Cost: 1518
+  Ranged Space: 6/21
+  Water: 7/31
+  Air: 20/20
+  Indirect: 9/25
+  Direct: 7/20
+Cargo Space: 2
+Load aboard transport: 7
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 148
+Build Cost: 1484
 Build Resource Requirements:
-  Wetware: 4
-  Monopols: 21
-Upgrade Saboteur (AVE) to Saboteur (NE) at Fusorium
-Time to Build / Upgrade: 1
-[25325] Technologies Required to Build Unit (61):
-  [1195] Naval Warfare (90)
-  [24130] Neumonically-Enhanced Soldiers (32)
+  Food: 4
+  Energy: 75
+  Metal: 53
+  Trace: 18
+  Exotica: 4
+  Chemicals: 106
+  Biochems: 11
+  Electronics: 20
+  Ceramsteel: 66
+Build PTS Missile Cruiser in Well
+Time to Build / Upgrade: 8
+[6655] Technology Required to Build Unit (83):
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Nuclear Cruiser
+Nick Name: NN-CCN
+Scores & Strengths:
+  Tech Score: 1579
+  Unit Score: 4737
+  Average Score: 3158
+  Stat Strength: 3048
+  Total Strength: 4737
+  Planet Strength: 4737
+  Space Strength: 0
+  Garrison Strength: 1184
+Statistics:
+  Movement Type: naval
+  Move Points: 16
+  Spot: 10
+  Camouflage: 8
+  Agility: 6
+  Armor: 36
+  Psy Defense: 36
+  Rank: 152
+Attacks:
+  Water: 12/36
+  Air: 23/23
+  Indirect: 12/30
+  Direct: 16/23
+Cargo Space: 2
+Load aboard transport: 6
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 205
+Build Cost: 2053
+Build Resource Requirements:
+  Food: 4
+  Energy: 80
+  Metal: 59
+  Trace: 28
+  Exotica: 4
+  Chemicals: 117
+  Biochems: 16
+  Electronics: 31
+  Ceramsteel: 75
+Build Nuclear Cruiser in Well
+Time to Build / Upgrade: 9
+[7295] Technology Required to Build Unit (81):
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

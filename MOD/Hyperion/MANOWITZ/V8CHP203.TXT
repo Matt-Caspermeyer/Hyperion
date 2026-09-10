@@ -1,253 +1,125 @@
-All units of the unit class Special Forces are listed herein (6 in total):
+All units of the unit class Inquisitor are listed herein (3 in total):
 
 --1--
-Name: Special Forces
-Nick Name: SPF LGN
+Name: Inquisitor
+Nick Name: Inquisitor
 Scores & Strengths:
-  Tech Score: 2106
-  Unit Score: 2105
-  Average Score: 2105
-  Stat Strength: 1116
-  Total Strength: 2105
-  Planet Strength: 2105
-  Space Strength: 0
-  Garrison Strength: 562
+  Tech Score: 1757
+  Unit Score: 1756
+  Average Score: 1757
+  Stat Strength: 973
+  Total Strength: 1756
+  Planet Strength: 1756
+  Space Strength: 1168
+  Garrison Strength: 555
 Statistics:
   Movement Type: foot
-  Move Points: 14
-  Spot: 14
-  Camouflage: 14
-  Agility: 20
-  Armor: 8
-  Psy Defense: 8
-  Rank: 115
+  Move Points: 10
+  Spot: 10
+  Camouflage: 8
+  Agility: 23
+  Armor: 6
+  Psy Defense: 12
+  Rank: 104
 Attacks:
-  Air: 17/15
-  Indirect: 16/16
-  Direct: 15/16
-  Close: 17/14
+  Psychic: 13/15
+  Indirect: 14/16
+  Direct: 13/14
+  Close: 14/13
 Load aboard transport: 1
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 95
-Build Cost: 835
+Inquisitor
+Upkeep / Maintenance: 184
+Build Cost: 1767
 Build Resource Requirements:
-  Trace: 1
-  Electronics: 12
-  Ceramsteel: 2
-  Monopols: 32
-Upgrade Covert Legion to Special Forces at Fort
-Time to Build / Upgrade: 1
-[10710] Technology Required to Build Unit (79):
-  [10710] Special Forces (79)
+  Trace: 17
+  Chemicals: 20
+  Electronics: 26
+  Monopols: 36
+  Gems: 60
+Upgrade Clergy to Inquisitor at Church
+Time to Build / Upgrade: 3
+[8415] Technologies Required to Build Unit (79):
+  [8085] Fusion Rifles (75)
+  [330] Holy Warriors (82)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Cybercorp
-Nick Name: CYB LGN
+Name: Syneculla Agent
+Nick Name: Syn Agent
 Scores & Strengths:
-  Tech Score: 2788
-  Unit Score: 2630
-  Average Score: 2709
-  Stat Strength: 1340
-  Total Strength: 2630
-  Planet Strength: 2630
-  Space Strength: 0
-  Garrison Strength: 657
+  Tech Score: 1767
+  Unit Score: 1768
+  Average Score: 1768
+  Stat Strength: 990
+  Total Strength: 1768
+  Planet Strength: 1768
+  Space Strength: 1351
+  Garrison Strength: 533
 Statistics:
   Movement Type: foot
-  Move Points: 16
-  Spot: 15
-  Camouflage: 16
-  Agility: 21
-  Armor: 9
-  Psy Defense: 9
-  Rank: 130
+  Move Points: 11
+  Spot: 14
+  Camouflage: 13
+  Agility: 18
+  Armor: 6
+  Psy Defense: 12
+  Rank: 111
 Attacks:
-  Air: 20/17
-  Indirect: 18/18
-  Direct: 17/18
-  Close: 20/16
+  Psychic: 19/19
+  Indirect: 16/8
+  Close: 17/17
 Load aboard transport: 1
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 128
-Build Cost: 440
+Inquisitor
+Upkeep / Maintenance: 163
 Build Resource Requirements:
-  Energy: 3
-  Trace: 7
-  Exotica: 1
-  Chemicals: 6
-  Electronics: 11
-  Monopols: 8
-Upgrade Special Forces to Cybercorp at Hospital
+  Trace: 1
+  Gems: 2
+Upgrade Inquisitor to Syneculla Agent at Church
 Time to Build / Upgrade: 1
-[15575] Technology Required to Build Unit (52):
-  [15575] Cybercorp (52)
+[8715] Technologies Required to Build Unit (74):
+  [8085] Fusion Rifles (75)
+  [300] Fractal Metaphysics (64)
+  [330] Holy Warriors (82)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Genetic Special Forces
-Nick Name: Gen SF
+Name: Kalinthi
+Nick Name: Kalinthi
 Scores & Strengths:
-  Tech Score: 2985
-  Unit Score: 2890
-  Average Score: 2937
-  Stat Strength: 1487
-  Total Strength: 2890
-  Planet Strength: 2890
-  Space Strength: 0
-  Garrison Strength: 700
+  Tech Score: 1860
+  Unit Score: 1861
+  Average Score: 1861
+  Stat Strength: 1021
+  Total Strength: 1861
+  Planet Strength: 1861
+  Space Strength: 1501
+  Garrison Strength: 588
 Statistics:
   Movement Type: foot
-  Move Points: 17
-  Spot: 15
-  Camouflage: 17
-  Agility: 22
-  Armor: 10
-  Psy Defense: 10
-  Rank: 136
+  Move Points: 10
+  Spot: 14
+  Camouflage: 16
+  Agility: 17
+  Armor: 6
+  Psy Defense: 12
+  Rank: 115
 Attacks:
-  Air: 20/18
-  Indirect: 19/19
-  Direct: 18/19
-  Close: 20/17
+  Psychic: 24/20
+  Close: 18/20
 Load aboard transport: 1
-Can attack on Byzantium Secundus
-Immune to Plague
-Upkeep / Maintenance: 139
-Build Cost: 556
+Inquisitor
+Upkeep / Maintenance: 119
 Build Resource Requirements:
-  Chemicals: 2
-  Biochems: 41
-Upgrade Special Forces to Genetic Special Forces at Lab
+  Exotica: 1
+  Electronics: 2
+Upgrade Inquisitor to Kalinthi at Church
 Time to Build / Upgrade: 1
-[19610] Technologies Required to Build Unit (52):
-  [8900] Genetically-Enhanced Warriors (25)
-  [10710] Special Forces (79)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: Genetic Cybercorp
-Nick Name: Gen Cc
-Scores & Strengths:
-  Tech Score: 3516
-  Unit Score: 3287
-  Average Score: 3401
-  Stat Strength: 1633
-  Total Strength: 3287
-  Planet Strength: 3287
-  Space Strength: 0
-  Garrison Strength: 774
-Statistics:
-  Movement Type: foot
-  Move Points: 18
-  Spot: 16
-  Camouflage: 18
-  Agility: 23
-  Armor: 10
-  Psy Defense: 10
-  Rank: 147
-Attacks:
-  Air: 22/19
-  Indirect: 21/21
-  Direct: 19/21
-  Close: 22/18
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Immune to Plague
-Upkeep / Maintenance: 167
-Build Cost: 1233
-Build Resource Requirements:
-  Biochems: 47
-Upgrade Cybercorp to Genetic Cybercorp at Lab
-Time to Build / Upgrade: 1
-[24475] Technologies Required to Build Unit (39):
-  [8900] Genetically-Enhanced Warriors (25)
-  [15575] Cybercorp (52)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Special Forces (NE)
-Nick Name: SPF LGN (NE)
-Scores & Strengths:
-  Tech Score: 4071
-  Unit Score: 5823
-  Average Score: 4947
-  Stat Strength: 2639
-  Total Strength: 5823
-  Planet Strength: 5823
-  Space Strength: 0
-  Garrison Strength: 1188
-Statistics:
-  Movement Type: foot
-  Move Points: 24
-  Spot: 19
-  Camouflage: 24
-  Agility: 26
-  Armor: 15
-  Psy Defense: 15
-  Rank: 190
-Attacks:
-  Air: 30/27
-  Indirect: 29/29
-  Direct: 27/29
-  Close: 30/25
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 293
-Build Cost: 2371
-Build Resource Requirements:
-  Energy: 1
-  Wetware: 20
-  Monopols: 7
-Upgrade Genetic Special Forces to Special Forces (NE) at Fusorium
-Time to Build / Upgrade: 2
-[34840] Technologies Required to Build Unit (56):
-  [24130] Neumonically-Enhanced Soldiers (32)
-  [10710] Special Forces (79)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---6--
-Name: Cybercorp (NE)
-Nick Name: CYB LGN (NE)
-Scores & Strengths:
-  Tech Score: 4152
-  Unit Score: 5924
-  Average Score: 5038
-  Stat Strength: 2688
-  Total Strength: 5924
-  Planet Strength: 5924
-  Space Strength: 0
-  Garrison Strength: 1209
-Statistics:
-  Movement Type: foot
-  Move Points: 24
-  Spot: 19
-  Camouflage: 25
-  Agility: 26
-  Armor: 15
-  Psy Defense: 15
-  Rank: 192
-Attacks:
-  Air: 31/27
-  Indirect: 29/29
-  Direct: 27/29
-  Close: 31/25
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 300
-Build Cost: 1765
-Build Resource Requirements:
-  Wetware: 21
-  Monopols: 3
-Upgrade Genetic Cybercorp to Cybercorp (NE) at Fusorium
-Time to Build / Upgrade: 2
-[39705] Technologies Required to Build Unit (42):
-  [24130] Neumonically-Enhanced Soldiers (32)
-  [15575] Cybercorp (52)
+[9960] Technologies Required to Build Unit (63):
+  [8085] Fusion Rifles (75)
+  [300] Fractal Metaphysics (64)
+  [1245] Weird Science (32)
+  [330] Holy Warriors (82)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

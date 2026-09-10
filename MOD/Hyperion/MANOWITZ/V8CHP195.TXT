@@ -1,251 +1,187 @@
-All units of the unit class Strategic Bomber are listed herein (5 in total):
+All units of the unit class Scout Mech are listed herein (4 in total):
 
 --1--
-Name: Strategic Bomber
-Nick Name: Devastator
+Name: Scout Mech
+Nick Name: Locust
 Scores & Strengths:
-  Tech Score: 1142
-  Unit Score: 1710
-  Average Score: 1426
-  Stat Strength: 1401
-  Total Strength: 1710
-  Planet Strength: 1710
+  Tech Score: 2194
+  Unit Score: 1535
+  Average Score: 1865
+  Stat Strength: 1245
+  Total Strength: 1535
+  Planet Strength: 1535
   Space Strength: 0
-  Garrison Strength: 323
+  Garrison Strength: 410
 Statistics:
-  Movement Type: air
-  Move Points: 28
-  Spot: 10
-  Camouflage: 5
-  Agility: 10
-  Armor: 14
-  Psy Defense: 14
-  Rank: 83
+  Movement Type: mech
+  Move Points: 14
+  Spot: 14
+  Camouflage: 9
+  Agility: 22
+  Armor: 12
+  Psy Defense: 12
+  Rank: 76
 Attacks:
-  Air: 6/11
-  Indirect: 9/27
-Load aboard transport: 5
-Upkeep / Maintenance: 11
-Build Cost: 107
+  Direct: 12/15
+  Close: 10/11
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 10
+Build Cost: 100
 Build Resource Requirements:
-  Food: 10
-  Energy: 35
-  Metal: 28
-  Trace: 8
-  Exotica: 10
-  Chemicals: 37
-  Biochems: 9
-  Electronics: 5
-Build Strategic Bomber in Factory
-Time to Build / Upgrade: 3
-[7115] Technologies Required to Build Unit (88):
-  [795] Missiles (86)
-  [1810] Jet-Propulsion Aircraft (86)
-  [2725] Naval Capital Ships (88)
-  [1785] Rotary Autocannon (90)
+  Food: 5
+  Energy: 10
+  Metal: 3
+  Trace: 9
+  Exotica: 5
+  Chemicals: 18
+  Electronics: 17
+  Ceramsteel: 6
+Build Scout Mech in Starport
+Time to Build / Upgrade: 2
+[16120] Technologies Required to Build Unit (79):
+  [1690] Ceramsteel (84)
+  [6220] Mechanically-Enhanced Soldiers (80)
+  [8210] Aircraft Surveillance (74)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Neutron Bomber
-Nick Name: Desolator
+Name: Mech Commander
+Nick Name: Commodore
 Scores & Strengths:
-  Tech Score: 3125
-  Unit Score: 2583
-  Average Score: 2854
-  Stat Strength: 1788
-  Total Strength: 2583
-  Planet Strength: 2583
+  Tech Score: 2414
+  Unit Score: 2414
+  Average Score: 2414
+  Stat Strength: 1630
+  Total Strength: 2414
+  Planet Strength: 2414
   Space Strength: 0
-  Garrison Strength: 456
+  Garrison Strength: 669
 Statistics:
-  Movement Type: air
-  Move Points: 32
-  Spot: 12
+  Movement Type: mech
+  Move Points: 13
+  Spot: 13
   Camouflage: 7
-  Agility: 11
-  Armor: 15
-  Psy Defense: 15
-  Rank: 113
+  Agility: 19
+  Armor: 21
+  Psy Defense: 21
+  Rank: 109
 Attacks:
-  Air: 7/12
-  Indirect: 11/28
-  Direct: 11/26
-  Close: 13/9
-Load aboard transport: 4
-Upkeep / Maintenance: 101
-Build Cost: 1014
+  Air: 12/14
+  Indirect: 11/22
+  Direct: 10/23
+  Close: 12/12
+Load aboard transport: 2
+Immune to Plague
+Upkeep / Maintenance: 158
+Build Cost: 1580
 Build Resource Requirements:
-  Food: 6
-  Energy: 20
-  Metal: 2
-  Trace: 8
-  Exotica: 6
-  Chemicals: 32
-  Biochems: 29
-  Electronics: 12
-  Ceramsteel: 4
-  Monopols: 39
-Build Neutron Bomber in Factory
-Time to Build / Upgrade: 3
-[19925] Technologies Required to Build Unit (39):
-  [3650] Viral DNA (11)
-  [835] Spore Delivery (27)
-  [15440] Power Aircraft (79)
+  Food: 3
+  Energy: 15
+  Metal: 8
+  Trace: 12
+  Exotica: 3
+  Chemicals: 26
+  Electronics: 21
+  Ceramsteel: 9
+  Monopols: 35
+Build Mech Commander in Starport
+Time to Build / Upgrade: 4
+[12850] Technology Required to Build Unit (71):
+  [12850] Mechanized Warriors (71)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Stigmata MegaFortress
-Nick Name: MegaFortress
+Name: Power Scout Mech
+Nick Name: Katydid
 Scores & Strengths:
-  Tech Score: 4697
-  Unit Score: 4696
-  Average Score: 4696
-  Stat Strength: 2674
-  Total Strength: 4696
-  Planet Strength: 4696
+  Tech Score: 5401
+  Unit Score: 3238
+  Average Score: 4320
+  Stat Strength: 2510
+  Total Strength: 3238
+  Planet Strength: 3238
   Space Strength: 0
-  Garrison Strength: 733
+  Garrison Strength: 690
 Statistics:
-  Movement Type: air
-  Move Points: 41
-  Spot: 10
-  Camouflage: 7
-  Agility: 14
-  Armor: 18
-  Psy Defense: 18
-  Rank: 157
+  Movement Type: mech
+  Move Points: 22
+  Spot: 18
+  Camouflage: 14
+  Agility: 28
+  Armor: 19
+  Psy Defense: 19
+  Rank: 116
 Attacks:
-  Air: 17/31
-  Indirect: 16/35
-  Direct: 15/34
-  Close: 17/25
-Load aboard transport: 5
-Never needs refueling
-Upkeep / Maintenance: 211
-Build Cost: 2107
+  Direct: 19/24
+  Close: 16/17
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 101
+Build Cost: 1014
 Build Resource Requirements:
   Food: 3
-  Energy: 21
-  Metal: 2
-  Trace: 4
+  Energy: 9
+  Metal: 3
+  Trace: 13
   Exotica: 4
-  Chemicals: 35
-  Biochems: 25
-  Electronics: 8
-  Ceramsteel: 3
-  Wetware: 6
-  Monopols: 46
-Build Stigmata MegaFortress in Factory
-Time to Build / Upgrade: 4
-[38900] Technologies Required to Build Unit (51):
-  [23395] Advanced Hovertech (37)
-  [15505] Meson Cannon (65)
+  Chemicals: 12
+  Biochems: 15
+  Electronics: 22
+  Ceramsteel: 4
+  Monopols: 18
+Build Power Scout Mech in Starport
+Time to Build / Upgrade: 2
+[37610] Technology Required to Build Unit (63):
+  [37610] Advanced Mechanized Warriors (63)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Stealth Bomber
-Nick Name: Pulverizer
+Name: Stealth Scout Mech
+Nick Name: Cicada
 Scores & Strengths:
-  Tech Score: 8630
-  Unit Score: 8417
-  Average Score: 8523
-  Stat Strength: 6357
-  Total Strength: 8417
-  Planet Strength: 8417
+  Tech Score: 7207
+  Unit Score: 6866
+  Average Score: 7037
+  Stat Strength: 5952
+  Total Strength: 6866
+  Planet Strength: 6866
   Space Strength: 0
-  Garrison Strength: 1105
+  Garrison Strength: 1297
 Statistics:
-  Movement Type: air
-  Move Points: 58
-  Spot: 20
-  Camouflage: 25
-  Agility: 20
-  Armor: 28
-  Psy Defense: 28
-  Rank: 212
+  Movement Type: mech
+  Move Points: 28
+  Spot: 28
+  Camouflage: 36
+  Agility: 44
+  Armor: 24
+  Psy Defense: 24
+  Rank: 153
 Attacks:
-  Air: 24/31
-  Indirect: 28/47
-Load aboard transport: 4
-Upkeep / Maintenance: 140
-Build Cost: 1397
+  Direct: 19/26
+  Close: 20/21
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 267
+Build Cost: 2674
 Build Resource Requirements:
   Food: 3
-  Energy: 13
-  Metal: 2
-  Trace: 6
+  Energy: 8
+  Metal: 3
+  Trace: 19
   Exotica: 3
-  Chemicals: 17
-  Biochems: 22
-  Electronics: 9
+  Chemicals: 12
+  Biochems: 21
+  Electronics: 32
   Ceramsteel: 4
-  Wetware: 3
-  Monopols: 27
-Build Stealth Bomber in Factory
+  Wetware: 13
+  Monopols: 19
+Build Stealth Scout Mech in Starport
 Time to Build / Upgrade: 3
-[102555] Technologies Required to Build Unit (59):
-  [1785] Rotary Autocannon (90)
-  [45520] Hover Navalcraft (53)
+[55250] Technology Required to Build Unit (34):
   [55250] Neumonic Patrolcraft (34)
 Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Stealth Neutron Bomber
-Nick Name: Punisher
-Scores & Strengths:
-  Tech Score: 8630
-  Unit Score: 8418
-  Average Score: 8524
-  Stat Strength: 6293
-  Total Strength: 8418
-  Planet Strength: 8418
-  Space Strength: 0
-  Garrison Strength: 1114
-Statistics:
-  Movement Type: air
-  Move Points: 57
-  Spot: 20
-  Camouflage: 26
-  Agility: 20
-  Armor: 28
-  Psy Defense: 28
-  Rank: 196
-Attacks:
-  Air: 14/23
-  Indirect: 18/38
-  Direct: 20/36
-  Close: 21/19
-Load aboard transport: 4
-Upkeep / Maintenance: 150
-Build Cost: 1495
-Build Resource Requirements:
-  Food: 3
-  Energy: 13
-  Metal: 2
-  Trace: 6
-  Exotica: 4
-  Chemicals: 18
-  Biochems: 23
-  Electronics: 10
-  Ceramsteel: 4
-  Wetware: 4
-  Monopols: 27
-Build Stealth Neutron Bomber in Factory
-Time to Build / Upgrade: 3
-[107040] Technologies Required to Build Unit (43):
-  [3650] Viral DNA (11)
-  [835] Spore Delivery (27)
-  [1785] Rotary Autocannon (90)
-  [45520] Hover Navalcraft (53)
-  [55250] Neumonic Patrolcraft (34)
-Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

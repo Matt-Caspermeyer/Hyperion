@@ -1,440 +1,551 @@
-All units of the unit class Self-Propelled ATG are listed herein (10 in total):
+All units of the unit class Anti-Tank (AT) Rocket are listed herein (12 in total):
 
 --1--
-Name: Self-Propelled ATG
-Nick Name: SP ATG
+Name: Anti-Tank (AT) Rocket
+Nick Name: AT-R
 Scores & Strengths:
-  Tech Score: 292
-  Unit Score: 291
-  Average Score: 292
-  Stat Strength: 229
-  Total Strength: 291
-  Planet Strength: 291
+  Tech Score: 285
+  Unit Score: 285
+  Average Score: 285
+  Stat Strength: 183
+  Total Strength: 285
+  Planet Strength: 285
   Space Strength: 0
-  Garrison Strength: 130
+  Garrison Strength: 285
 Statistics:
-  Movement Type: tread
-  Move Points: 5
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 12
-  Psy Defense: 6
-  Rank: 35
+  Movement Type: air
+  Move Points: 1
+  Spot: 0
+  Camouflage: 6
+  Agility: 12
+  Armor: 1
+  Psy Defense: 1
+  Rank: 16
 Attacks:
-  Indirect: 3/12
-  Direct: 2/13
+  Indirect: 3/20
+  Direct: 3/14
 Load aboard transport: 2
-Upkeep / Maintenance: 6
-Build Cost: 64
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 18
 Build Resource Requirements:
-  Food: 4
-  Energy: 37
-  Metal: 39
-  Trace: 8
-  Exotica: 4
-  Chemicals: 37
-  Electronics: 4
-Build Self-Propelled ATG in Factory
-Time to Build / Upgrade: 2
-[770] Technology Required to Build Unit (92):
-  [770] Self-Propelled Weaponry (92)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 6
+  Energy: 67
+  Metal: 1
+  Trace: 17
+  Exotica: 6
+  Chemicals: 84
+  Electronics: 10
+Build Anti-Tank (AT) Rocket in Chemical Plant
+Time to Build / Upgrade: 3
+[1000] Technologies Required to Build Unit (93):
+  [700] Rockets (90)
+  [300] Mechanized Warfare (95)
 Unit can be disbanded: YES
 
 --2--
-Name: Self-Propelled AIG
-Nick Name: SP AIG
+Name: AT Missile
+Nick Name: AT-M
 Scores & Strengths:
-  Tech Score: 292
-  Unit Score: 292
-  Average Score: 292
-  Stat Strength: 202
-  Total Strength: 292
-  Planet Strength: 292
+  Tech Score: 312
+  Unit Score: 312
+  Average Score: 312
+  Stat Strength: 224
+  Total Strength: 312
+  Planet Strength: 312
   Space Strength: 0
-  Garrison Strength: 146
+  Garrison Strength: 220
 Statistics:
-  Movement Type: tread
-  Move Points: 4
-  Spot: 6
-  Camouflage: 4
-  Agility: 3
-  Armor: 10
-  Psy Defense: 5
-  Rank: 31
+  Movement Type: air
+  Move Points: 2
+  Spot: 0
+  Camouflage: 7
+  Agility: 13
+  Armor: 1
+  Psy Defense: 1
+  Rank: 16
 Attacks:
-  Close: 10/9
-Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 6
-Build Cost: 62
+  Indirect: 4/12
+  Direct: 4/10
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
 Build Resource Requirements:
-  Food: 6
-  Energy: 11
-  Metal: 27
-  Trace: 31
-  Exotica: 6
-  Chemicals: 11
-  Electronics: 22
-Build Self-Propelled AIG in Factory
+  Food: 7
+  Energy: 31
+  Metal: 1
+  Trace: 21
+  Exotica: 7
+  Chemicals: 40
+  Electronics: 11
+Build AT Missile in Chemical Plant
 Time to Build / Upgrade: 2
-[770] Technology Required to Build Unit (92):
-  [770] Self-Propelled Weaponry (92)
-Counts as planetary flock: YES
-Unit Eats: YES
+[1095] Technologies Required to Build Unit (91):
+  [300] Mechanized Warfare (95)
+  [795] Missiles (86)
 Unit can be disbanded: YES
 
 --3--
-Name: Tank Destroyer
-Nick Name: Tank Dest.
+Name: Anti-Aircraft (AA) Rocket
+Nick Name: AA-R
 Scores & Strengths:
-  Tech Score: 325
-  Unit Score: 323
-  Average Score: 324
-  Stat Strength: 240
-  Total Strength: 323
-  Planet Strength: 323
+  Tech Score: 534
+  Unit Score: 534
+  Average Score: 534
+  Stat Strength: 406
+  Total Strength: 534
+  Planet Strength: 534
   Space Strength: 0
-  Garrison Strength: 131
+  Garrison Strength: 267
 Statistics:
-  Movement Type: tread
-  Move Points: 6
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 12
-  Psy Defense: 6
-  Rank: 39
+  Movement Type: air
+  Move Points: 4
+  Spot: 0
+  Camouflage: 8
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 26
 Attacks:
-  Indirect: 3/17
-  Direct: 2/16
-Load aboard transport: 3
-Upkeep / Maintenance: 7
-Build Cost: 72
+  Air: 8/16
+Load aboard transport: 2
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 10
 Build Resource Requirements:
-  Food: 3
-  Energy: 48
-  Metal: 30
-  Trace: 5
-  Exotica: 3
-  Chemicals: 51
-  Electronics: 2
-Build Tank Destroyer in Factory
-Time to Build / Upgrade: 3
-[1235] Technologies Required to Build Unit (93):
-  [770] Self-Propelled Weaponry (92)
-  [465] Recoilless Gun (93)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 6
+  Energy: 25
+  Metal: 1
+  Trace: 22
+  Exotica: 6
+  Chemicals: 26
+  Electronics: 14
+Build Anti-Aircraft (AA) Rocket in Chemical Plant
+Time to Build / Upgrade: 2
+[2100] Technologies Required to Build Unit (89):
+  [700] Rockets (90)
+  [1400] Aerial Warfare (87)
 Unit can be disbanded: YES
 
 --4--
-Name: Self-Propelled AIG II
-Nick Name: SP AIG II
+Name: AA Missile
+Nick Name: AA-M
 Scores & Strengths:
-  Tech Score: 530
-  Unit Score: 482
-  Average Score: 506
-  Stat Strength: 326
-  Total Strength: 482
-  Planet Strength: 482
+  Tech Score: 556
+  Unit Score: 556
+  Average Score: 556
+  Stat Strength: 426
+  Total Strength: 556
+  Planet Strength: 556
   Space Strength: 0
-  Garrison Strength: 215
+  Garrison Strength: 226
 Statistics:
-  Movement Type: tread
-  Move Points: 5
-  Spot: 7
-  Camouflage: 5
-  Agility: 3
-  Armor: 13
-  Psy Defense: 7
-  Rank: 41
+  Movement Type: air
+  Move Points: 6
+  Spot: 0
+  Camouflage: 8
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 26
 Attacks:
-  Close: 13/12
-Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 7
-Build Cost: 73
+  Air: 10/13
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 10
 Build Resource Requirements:
-  Food: 4
-  Energy: 12
-  Metal: 24
-  Trace: 26
-  Exotica: 4
-  Chemicals: 25
-  Electronics: 29
-Build Self-Propelled AIG II in Factory
+  Food: 7
+  Energy: 20
+  Metal: 1
+  Trace: 24
+  Exotica: 7
+  Chemicals: 22
+  Electronics: 15
+Build AA Missile in Chemical Plant
 Time to Build / Upgrade: 2
-[1700] Technology Required to Build Unit (88):
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
+[2195] Technologies Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
+  [795] Missiles (86)
 Unit can be disbanded: YES
 
 --5--
-Name: Self-Propelled ATG II
-Nick Name: SP ATG II
+Name: AA Guided Missile
+Nick Name: AA-GM
 Scores & Strengths:
-  Tech Score: 530
-  Unit Score: 522
-  Average Score: 526
-  Stat Strength: 407
-  Total Strength: 522
-  Planet Strength: 522
+  Tech Score: 1041
+  Unit Score: 1042
+  Average Score: 1041
+  Stat Strength: 782
+  Total Strength: 1042
+  Planet Strength: 1042
   Space Strength: 0
-  Garrison Strength: 197
+  Garrison Strength: 278
 Statistics:
-  Movement Type: tread
-  Move Points: 7
-  Spot: 5
-  Camouflage: 3
-  Agility: 2
-  Armor: 16
-  Psy Defense: 8
-  Rank: 47
+  Movement Type: air
+  Move Points: 14
+  Spot: 0
+  Camouflage: 10
+  Agility: 22
+  Armor: 1
+  Psy Defense: 1
+  Rank: 45
 Attacks:
-  Indirect: 4/16
-  Direct: 3/17
-Load aboard transport: 2
-Upkeep / Maintenance: 9
-Build Cost: 86
+  Air: 20/13
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 9
 Build Resource Requirements:
-  Food: 4
-  Energy: 40
-  Metal: 36
-  Trace: 7
-  Exotica: 4
-  Chemicals: 64
-  Electronics: 5
-Build Self-Propelled ATG II in Factory
-Time to Build / Upgrade: 3
-[1700] Technology Required to Build Unit (88):
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 6
+  Energy: 14
+  Metal: 1
+  Trace: 17
+  Exotica: 6
+  Chemicals: 17
+  Electronics: 21
+Build AA Guided Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[7355] Technologies Required to Build Unit (84):
+  [1255] Digital Fly-by-Wire (81)
+  [2420] Rocket-Propelled Aircraft (87)
+  [3680] Supersonic Missiles (84)
 Unit can be disbanded: YES
 
 --6--
-Name: Self-Propelled AIG III
-Nick Name: SP AIG III
+Name: AT Guided Missile
+Nick Name: AT-GM
 Scores & Strengths:
-  Tech Score: 1226
-  Unit Score: 1085
-  Average Score: 1155
-  Stat Strength: 725
-  Total Strength: 1085
-  Planet Strength: 1085
+  Tech Score: 1050
+  Unit Score: 1050
+  Average Score: 1050
+  Stat Strength: 298
+  Total Strength: 1050
+  Planet Strength: 1050
   Space Strength: 0
-  Garrison Strength: 383
+  Garrison Strength: 428
 Statistics:
-  Movement Type: tread
-  Move Points: 8
-  Spot: 9
+  Movement Type: air
+  Move Points: 6
+  Spot: 0
   Camouflage: 8
-  Agility: 4
-  Armor: 20
-  Psy Defense: 10
-  Rank: 61
+  Agility: 14
+  Armor: 1
+  Psy Defense: 1
+  Rank: 64
 Attacks:
-  Close: 20/18
-Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 9
-Build Cost: 90
+  Indirect: 20/20
+  Direct: 22/16
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 14
-  Trace: 14
-  Exotica: 3
-  Chemicals: 26
-  Electronics: 34
-  Ceramsteel: 18
-Build Self-Propelled AIG III in Factory
-Time to Build / Upgrade: 3
-[5205] Technology Required to Build Unit (84):
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 2
+  Energy: 24
+  Trace: 30
+  Exotica: 2
+  Chemicals: 28
+  Electronics: 23
+Build AT Guided Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[5705] Technologies Required to Build Unit (86):
+  [1255] Digital Fly-by-Wire (81)
+  [770] Self-Propelled Weaponry (92)
+  [3680] Supersonic Missiles (84)
 Unit can be disbanded: YES
 
 --7--
-Name: Self-Propelled ATG III
-Nick Name: SP ATG III
+Name: AA Supercruise Missile
+Nick Name: AA-ScGM
 Scores & Strengths:
-  Tech Score: 1226
-  Unit Score: 1188
-  Average Score: 1207
-  Stat Strength: 930
-  Total Strength: 1188
-  Planet Strength: 1188
+  Tech Score: 1247
+  Unit Score: 1185
+  Average Score: 1216
+  Stat Strength: 877
+  Total Strength: 1185
+  Planet Strength: 1185
   Space Strength: 0
-  Garrison Strength: 375
+  Garrison Strength: 305
 Statistics:
-  Movement Type: tread
-  Move Points: 10
-  Spot: 6
-  Camouflage: 4
-  Agility: 3
-  Armor: 25
-  Psy Defense: 12
-  Rank: 71
+  Movement Type: air
+  Move Points: 15
+  Spot: 0
+  Camouflage: 11
+  Agility: 23
+  Armor: 1
+  Psy Defense: 1
+  Rank: 50
 Attacks:
-  Indirect: 6/25
-  Direct: 4/27
-Load aboard transport: 2
-Upkeep / Maintenance: 13
-Build Cost: 134
+  Air: 22/14
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 10
 Build Resource Requirements:
-  Food: 2
-  Energy: 41
-  Metal: 21
-  Trace: 3
-  Exotica: 2
-  Chemicals: 78
-  Electronics: 17
-  Ceramsteel: 28
-Build Self-Propelled ATG III in Factory
-Time to Build / Upgrade: 3
-[5205] Technology Required to Build Unit (84):
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 5
+  Energy: 13
+  Metal: 1
+  Trace: 17
+  Exotica: 5
+  Chemicals: 17
+  Electronics: 23
+Build AA Supercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[9060] Technologies Required to Build Unit (82):
+  [1690] Fly-by-Wireless (76)
+  [3200] Supersonic Aircraft (85)
+  [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
 --8--
-Name: Self-Propelled AIG IV
-Nick Name: SP AIG IV
+Name: AT Supercruise Missile
+Nick Name: AT-ScGM
 Scores & Strengths:
-  Tech Score: 2510
-  Unit Score: 2233
-  Average Score: 2371
-  Stat Strength: 1479
-  Total Strength: 2233
-  Planet Strength: 2233
+  Tech Score: 1278
+  Unit Score: 1273
+  Average Score: 1276
+  Stat Strength: 357
+  Total Strength: 1273
+  Planet Strength: 1273
   Space Strength: 0
-  Garrison Strength: 644
+  Garrison Strength: 481
 Statistics:
-  Movement Type: tread
-  Move Points: 12
-  Spot: 10
-  Camouflage: 12
-  Agility: 5
-  Armor: 29
-  Psy Defense: 15
-  Rank: 87
+  Movement Type: air
+  Move Points: 7
+  Spot: 0
+  Camouflage: 9
+  Agility: 15
+  Armor: 1
+  Psy Defense: 1
+  Rank: 73
 Attacks:
-  Close: 29/26
-Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 68
-Build Cost: 682
+  Indirect: 22/22
+  Direct: 24/18
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 13
 Build Resource Requirements:
   Food: 2
-  Energy: 7
-  Metal: 7
-  Trace: 12
+  Energy: 22
+  Trace: 29
   Exotica: 2
-  Chemicals: 16
-  Electronics: 31
-  Ceramsteel: 12
-  Monopols: 27
-Build Self-Propelled AIG IV in Factory
-Time to Build / Upgrade: 3
-[13535] Technology Required to Build Unit (74):
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Chemicals: 29
+  Electronics: 24
+Build AT Supercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[7560] Technologies Required to Build Unit (83):
+  [1690] Fly-by-Wireless (76)
+  [1700] Main Battle Tank (88)
+  [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
 --9--
-Name: Self-Propelled ATG IV
-Nick Name: SP ATG IV
+Name: AA Hypersonic Missile
+Nick Name: AA-HsGM
 Scores & Strengths:
-  Tech Score: 2510
-  Unit Score: 2411
-  Average Score: 2460
-  Stat Strength: 1868
-  Total Strength: 2411
-  Planet Strength: 2411
+  Tech Score: 1767
+  Unit Score: 1562
+  Average Score: 1665
+  Stat Strength: 1120
+  Total Strength: 1562
+  Planet Strength: 1562
   Space Strength: 0
-  Garrison Strength: 622
+  Garrison Strength: 368
 Statistics:
-  Movement Type: tread
-  Move Points: 15
-  Spot: 7
-  Camouflage: 6
-  Agility: 3
-  Armor: 35
-  Psy Defense: 18
-  Rank: 101
+  Movement Type: air
+  Move Points: 18
+  Spot: 0
+  Camouflage: 13
+  Agility: 25
+  Armor: 1
+  Psy Defense: 1
+  Rank: 63
 Attacks:
-  Indirect: 9/35
-  Direct: 6/38
-Load aboard transport: 2
-Upkeep / Maintenance: 160
-Build Cost: 1601
+  Air: 26/17
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 10
 Build Resource Requirements:
-  Food: 2
-  Energy: 25
-  Metal: 11
-  Trace: 2
-  Exotica: 2
-  Chemicals: 46
-  Electronics: 10
-  Ceramsteel: 18
-  Monopols: 69
-Build Self-Propelled ATG IV in Factory
-Time to Build / Upgrade: 4
-[13535] Technology Required to Build Unit (74):
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 5
+  Energy: 13
+  Metal: 1
+  Trace: 15
+  Exotica: 5
+  Chemicals: 18
+  Electronics: 23
+Build AA Hypersonic Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[14905] Technologies Required to Build Unit (79):
+  [2935] Intelligent FCS (73)
+  [5665] Hypersonic Aircraft (82)
+  [6305] Hypersonic Missiles (83)
 Unit can be disbanded: YES
 
 --10--
-Name: Main Anti-Tank Drone
-Nick Name: MATG Drone
+Name: AT Hypersonic Missile
+Nick Name: AT-HsGM
 Scores & Strengths:
-  Tech Score: 2514
-  Unit Score: 2520
-  Average Score: 2517
-  Stat Strength: 1972
-  Total Strength: 2520
-  Planet Strength: 2520
+  Tech Score: 1899
+  Unit Score: 1832
+  Average Score: 1866
+  Stat Strength: 443
+  Total Strength: 1832
+  Planet Strength: 1832
   Space Strength: 0
-  Garrison Strength: 890
+  Garrison Strength: 647
 Statistics:
-  Movement Type: tread
+  Movement Type: air
   Move Points: 8
-  Spot: 6
-  Camouflage: 6
-  Agility: 6
-  Armor: 30
-  Psy Defense: 30
-  Rank: 99
+  Spot: 0
+  Camouflage: 11
+  Agility: 16
+  Armor: 1
+  Psy Defense: 1
+  Rank: 94
 Attacks:
-  Indirect: 10/26
-  Direct: 12/24
+  Indirect: 27/27
+  Direct: 30/22
 Load aboard transport: 1
 Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 19
-Build Cost: 191
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 13
+Build Resource Requirements:
+  Food: 2
+  Energy: 20
+  Trace: 24
+  Exotica: 2
+  Chemicals: 30
+  Electronics: 24
+Build AT Hypersonic Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[14445] Technologies Required to Build Unit (80):
+  [2935] Intelligent FCS (73)
+  [5205] Advanced Battle Tanks (84)
+  [6305] Hypersonic Missiles (83)
+Unit can be disbanded: YES
+
+--11--
+Name: AA Hypercruise Missile
+Nick Name: AA-HcGM
+Scores & Strengths:
+  Tech Score: 2505
+  Unit Score: 2097
+  Average Score: 2301
+  Stat Strength: 1477
+  Total Strength: 2097
+  Planet Strength: 2097
+  Space Strength: 0
+  Garrison Strength: 447
+Statistics:
+  Movement Type: air
+  Move Points: 22
+  Spot: 0
+  Camouflage: 16
+  Agility: 27
+  Armor: 2
+  Psy Defense: 2
+  Rank: 78
+Attacks:
+  Air: 31/20
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
+Build Resource Requirements:
+  Food: 5
+  Energy: 14
+  Trace: 15
+  Exotica: 5
+  Chemicals: 21
+  Electronics: 25
+Build AA Hypercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[21815] Technologies Required to Build Unit (68):
+  [7100] Artificial Intelligence (46)
+  [7610] Atmospheric Aircraft (80)
+  [7105] Hypercruise Missiles (77)
+Unit can be disbanded: YES
+
+--12--
+Name: AT Hypercruise Missile
+Nick Name: AT-HcGM
+Scores & Strengths:
+  Tech Score: 2780
+  Unit Score: 2626
+  Average Score: 2703
+  Stat Strength: 601
+  Total Strength: 2626
+  Planet Strength: 2626
+  Space Strength: 0
+  Garrison Strength: 830
+Statistics:
+  Movement Type: air
+  Move Points: 10
+  Spot: 0
+  Camouflage: 13
+  Agility: 18
+  Armor: 2
+  Psy Defense: 2
+  Rank: 118
+Attacks:
+  Indirect: 33/33
+  Direct: 36/26
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 11
+Build Cost: 109
 Build Resource Requirements:
   Food: 1
-  Energy: 20
-  Metal: 23
-  Trace: 4
+  Energy: 18
+  Trace: 27
   Exotica: 1
-  Chemicals: 48
-  Electronics: 20
-  Ceramsteel: 39
-Build Main Anti-Tank Drone in Electronics Plant
+  Chemicals: 29
+  Electronics: 28
+  Monopols: 24
+Build AT Hypercruise Missile in Chemical Plant
 Time to Build / Upgrade: 3
-[13565] Technology Required to Build Unit (65):
-  [13565] Unmanned Land Vehicles (65)
-Counts as planetary flock: YES
+[21630] Technologies Required to Build Unit (64):
+  [7100] Artificial Intelligence (46)
+  [7425] Hovertanks (68)
+  [7105] Hypercruise Missiles (77)
 Unit can be disbanded: YES

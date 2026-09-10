@@ -1,542 +1,488 @@
-All units of the unit class Surface-Surface (S-S) Rock. are listed herein (12 in total):
+All units of the unit class Heavy Infantry Legion are listed herein (11 in total):
 
 --1--
-Name: Surface-Surface (S-S) Rock.
-Nick Name: S-S-R
+Name: Heavy Infantry Legion
+Nick Name: Hvy Inf
 Scores & Strengths:
-  Tech Score: 272
-  Unit Score: 272
-  Average Score: 272
-  Stat Strength: 152
-  Total Strength: 272
-  Planet Strength: 272
+  Tech Score: 265
+  Unit Score: 263
+  Average Score: 264
+  Stat Strength: 100
+  Total Strength: 263
+  Planet Strength: 263
   Space Strength: 0
-  Garrison Strength: 272
+  Garrison Strength: 151
 Statistics:
-  Movement Type: air
-  Move Points: 1
-  Spot: 0
-  Camouflage: 7
-  Agility: 10
-  Armor: 1
-  Psy Defense: 1
-  Rank: 21
+  Movement Type: foot
+  Move Points: 3
+  Spot: 2
+  Camouflage: 2
+  Agility: 7
+  Armor: 5
+  Psy Defense: 3
+  Rank: 44
 Attacks:
-  Indirect: 6/20
-Load aboard transport: 2
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 2
-Build Cost: 18
+  Air: 11/4
+  Indirect: 11/7
+  Direct: 7/6
+Load aboard transport: 1
+Upkeep / Maintenance: 6
+Build Cost: 42
 Build Resource Requirements:
-  Food: 5
-  Energy: 60
-  Metal: 1
-  Trace: 25
-  Exotica: 5
-  Chemicals: 78
-  Electronics: 13
-Build Surface-Surface (S-S) Rock. in Chemical Plant
-Time to Build / Upgrade: 3
-[700] Technology Required to Build Unit (90):
-  [700] Rockets (90)
+  Metal: 7
+  Trace: 44
+  Exotica: 3
+  Chemicals: 17
+  Electronics: 17
+Upgrade Peasant to Heavy Infantry Legion at Fort
+Time to Build / Upgrade: 1
+[930] Technologies Required to Build Unit (94):
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: S-S Missile
-Nick Name: S-S-M
+Name: Heavy Infantry Legion (BE)
+Nick Name: Hvy Inf (BE)
 Scores & Strengths:
-  Tech Score: 299
-  Unit Score: 299
-  Average Score: 299
-  Stat Strength: 203
-  Total Strength: 299
-  Planet Strength: 299
+  Tech Score: 338
+  Unit Score: 385
+  Average Score: 362
+  Stat Strength: 140
+  Total Strength: 385
+  Planet Strength: 385
   Space Strength: 0
-  Garrison Strength: 149
+  Garrison Strength: 192
 Statistics:
-  Movement Type: air
+  Movement Type: foot
   Move Points: 4
-  Spot: 0
-  Camouflage: 8
-  Agility: 11
-  Armor: 1
-  Psy Defense: 1
-  Rank: 19
+  Spot: 2
+  Camouflage: 2
+  Agility: 8
+  Armor: 6
+  Psy Defense: 4
+  Rank: 52
 Attacks:
-  Indirect: 8/12
+  Air: 14/5
+  Indirect: 14/8
+  Direct: 9/7
 Load aboard transport: 1
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 12
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 11
+Build Cost: 63
 Build Resource Requirements:
-  Food: 7
-  Energy: 26
-  Metal: 1
-  Trace: 31
-  Exotica: 7
-  Chemicals: 35
-  Electronics: 14
-Build S-S Missile in Chemical Plant
-Time to Build / Upgrade: 2
-[795] Technology Required to Build Unit (86):
-  [795] Missiles (86)
+  Energy: 1
+  Metal: 3
+  Trace: 3
+  Chemicals: 1
+  Biochems: 33
+  Electronics: 1
+Upgrade Heavy Infantry Legion to Heavy Infantry Legion (BE) at Biochem Plant
+Time to Build / Upgrade: 1
+[1350] Technologies Required to Build Unit (88):
+  [420] Biochem-Enhanced Soldiers (77)
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Air-Surface (A-S) Rocket
-Nick Name: A-S-R
+Name: Heavy Infantry Legion (SE)
+Nick Name: Hvy Inf (SE)
 Scores & Strengths:
-  Tech Score: 534
-  Unit Score: 534
-  Average Score: 534
-  Stat Strength: 426
-  Total Strength: 534
-  Planet Strength: 534
+  Tech Score: 405
+  Unit Score: 478
+  Average Score: 442
+  Stat Strength: 158
+  Total Strength: 478
+  Planet Strength: 478
   Space Strength: 0
-  Garrison Strength: 218
+  Garrison Strength: 239
 Statistics:
-  Movement Type: air
-  Move Points: 6
-  Spot: 0
-  Camouflage: 8
-  Agility: 18
-  Armor: 1
-  Psy Defense: 1
-  Rank: 26
+  Movement Type: foot
+  Move Points: 4
+  Spot: 2
+  Camouflage: 3
+  Agility: 8
+  Armor: 7
+  Psy Defense: 4
+  Rank: 59
 Attacks:
-  Indirect: 4/27
-Load aboard transport: 2
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 2
-Build Cost: 15
+  Air: 15/6
+  Indirect: 15/10
+  Direct: 10/8
+Load aboard transport: 1
+Upkeep / Maintenance: 14
+Build Cost: 97
 Build Resource Requirements:
-  Food: 7
-  Energy: 51
-  Metal: 1
-  Trace: 18
-  Exotica: 7
-  Chemicals: 54
-  Electronics: 10
-Build Air-Surface (A-S) Rocket in Chemical Plant
-Time to Build / Upgrade: 3
-[2100] Technologies Required to Build Unit (89):
-  [700] Rockets (90)
-  [1400] Aerial Warfare (87)
+  Energy: 4
+  Metal: 3
+  Trace: 11
+  Chemicals: 5
+  Biochems: 40
+  Electronics: 4
+Upgrade Heavy Infantry Legion to Heavy Infantry Legion (SE) at Hospital
+Time to Build / Upgrade: 1
+[1605] Technologies Required to Build Unit (88):
+  [675] Surgically-Enhanced Soldiers (75)
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: A-S Missile
-Nick Name: A-S-M
+Name: Heavy Infantry Legion (DE)
+Nick Name: Hvy Inf (DE)
 Scores & Strengths:
-  Tech Score: 556
-  Unit Score: 558
-  Average Score: 557
-  Stat Strength: 439
-  Total Strength: 558
-  Planet Strength: 558
+  Tech Score: 987
+  Unit Score: 983
+  Average Score: 985
+  Stat Strength: 297
+  Total Strength: 983
+  Planet Strength: 983
   Space Strength: 0
-  Garrison Strength: 210
+  Garrison Strength: 401
 Statistics:
-  Movement Type: air
-  Move Points: 7
-  Spot: 0
-  Camouflage: 8
-  Agility: 18
-  Armor: 1
-  Psy Defense: 1
-  Rank: 28
+  Movement Type: foot
+  Move Points: 6
+  Spot: 3
+  Camouflage: 4
+  Agility: 10
+  Armor: 10
+  Psy Defense: 6
+  Rank: 87
 Attacks:
-  Indirect: 7/17
+  Air: 23/8
+  Indirect: 23/14
+  Direct: 15/12
 Load aboard transport: 1
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 10
+Upkeep / Maintenance: 14
+Build Cost: 99
 Build Resource Requirements:
-  Food: 7
-  Energy: 27
-  Metal: 1
-  Trace: 20
-  Exotica: 7
-  Chemicals: 29
-  Electronics: 10
-Build A-S Missile in Chemical Plant
-Time to Build / Upgrade: 2
-[2195] Technologies Required to Build Unit (87):
-  [1400] Aerial Warfare (87)
-  [795] Missiles (86)
+  Metal: 18
+  Biochems: 41
+  Electronics: 9
+Upgrade Heavy Infantry Legion to Heavy Infantry Legion (DE) at Biochem Plant
+Time to Build / Upgrade: 1
+[4370] Technologies Required to Build Unit (84):
+  [3440] Drug-Enhanced Soldiers (65)
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: S-S Guided Missile
-Nick Name: S-S-GM
+Name: Heavy Infantry Legion (GE)
+Nick Name: Hvy Inf (GE)
 Scores & Strengths:
-  Tech Score: 1004
-  Unit Score: 1004
-  Average Score: 1004
-  Stat Strength: 458
-  Total Strength: 1004
-  Planet Strength: 1004
+  Tech Score: 1444
+  Unit Score: 1478
+  Average Score: 1461
+  Stat Strength: 452
+  Total Strength: 1478
+  Planet Strength: 1478
   Space Strength: 0
-  Garrison Strength: 317
+  Garrison Strength: 522
 Statistics:
-  Movement Type: air
-  Move Points: 10
-  Spot: 0
-  Camouflage: 10
-  Agility: 16
-  Armor: 1
-  Psy Defense: 1
-  Rank: 64
+  Movement Type: foot
+  Move Points: 8
+  Spot: 3
+  Camouflage: 5
+  Agility: 11
+  Armor: 13
+  Psy Defense: 8
+  Rank: 106
 Attacks:
-  Indirect: 26/21
+  Air: 28/10
+  Indirect: 28/17
+  Direct: 18/15
 Load aboard transport: 1
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 11
+Upkeep / Maintenance: 20
+Build Cost: 99
 Build Resource Requirements:
-  Food: 4
-  Energy: 23
-  Metal: 1
-  Trace: 27
-  Exotica: 4
-  Chemicals: 28
-  Electronics: 9
-Build S-S Guided Missile in Chemical Plant
-Time to Build / Upgrade: 2
-[4935] Technologies Required to Build Unit (83):
-  [1255] Digital Fly-by-Wire (81)
-  [3680] Supersonic Missiles (84)
+  Energy: 4
+  Trace: 1
+  Chemicals: 10
+  Biochems: 20
+  Electronics: 2
+  Ceramsteel: 5
+Upgrade Heavy Infantry Legion (DE) to Heavy Infantry Legion (GE) at Lab
+Time to Build / Upgrade: 1
+[6950] Technologies Required to Build Unit (79):
+  [6020] Chemical Shock Legion (49)
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: A-S Guided Missile
-Nick Name: A-S-GM
+Name: Heavy Infantry Legion (PA)
+Nick Name: Hvy Inf (PA)
 Scores & Strengths:
-  Tech Score: 1041
-  Unit Score: 1043
-  Average Score: 1042
-  Stat Strength: 530
-  Total Strength: 1043
-  Planet Strength: 1043
+  Tech Score: 1455
+  Unit Score: 1506
+  Average Score: 1481
+  Stat Strength: 452
+  Total Strength: 1506
+  Planet Strength: 1506
   Space Strength: 0
-  Garrison Strength: 368
+  Garrison Strength: 532
 Statistics:
-  Movement Type: air
+  Movement Type: foot
   Move Points: 8
-  Spot: 0
-  Camouflage: 8
-  Agility: 20
-  Armor: 1
-  Psy Defense: 1
-  Rank: 63
+  Spot: 3
+  Camouflage: 5
+  Agility: 11
+  Armor: 13
+  Psy Defense: 8
+  Rank: 107
 Attacks:
-  Indirect: 27/19
+  Air: 28/10
+  Indirect: 28/18
+  Direct: 18/15
 Load aboard transport: 1
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 8
+Upkeep / Maintenance: 24
+Build Cost: 143
 Build Resource Requirements:
-  Food: 3
-  Energy: 15
-  Metal: 1
-  Trace: 22
-  Exotica: 3
-  Chemicals: 18
-  Electronics: 8
-Build A-S Guided Missile in Chemical Plant
+  Energy: 10
+  Metal: 2
+  Chemicals: 25
+  Biochems: 5
+  Electronics: 26
+  Ceramsteel: 18
+Upgrade Heavy Infantry Legion (SE) to Heavy Infantry Legion (PA) at Hospital
 Time to Build / Upgrade: 2
-[7355] Technologies Required to Build Unit (84):
-  [1255] Digital Fly-by-Wire (81)
-  [2420] Rocket-Propelled Aircraft (87)
-  [3680] Supersonic Missiles (84)
+[7105] Technologies Required to Build Unit (82):
+  [6175] Prosthetically-Augmented Soldiers (57)
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: S-S Supercruise Missile
-Nick Name: S-S-ScGM
+Name: Heavy Infantry Legion (CE)
+Nick Name: Hvy Inf (CE)
 Scores & Strengths:
-  Tech Score: 1174
-  Unit Score: 1177
-  Average Score: 1176
-  Stat Strength: 533
-  Total Strength: 1177
-  Planet Strength: 1177
+  Tech Score: 1843
+  Unit Score: 1940
+  Average Score: 1892
+  Stat Strength: 576
+  Total Strength: 1940
+  Planet Strength: 1940
   Space Strength: 0
-  Garrison Strength: 354
+  Garrison Strength: 646
 Statistics:
-  Movement Type: air
-  Move Points: 11
-  Spot: 0
-  Camouflage: 11
-  Agility: 17
-  Armor: 1
-  Psy Defense: 1
-  Rank: 71
+  Movement Type: foot
+  Move Points: 9
+  Spot: 3
+  Camouflage: 6
+  Agility: 12
+  Armor: 15
+  Psy Defense: 9
+  Rank: 121
 Attacks:
-  Indirect: 28/23
+  Air: 32/12
+  Indirect: 32/20
+  Direct: 20/17
 Load aboard transport: 1
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 11
+Upkeep / Maintenance: 28
+Build Cost: 134
 Build Resource Requirements:
-  Food: 4
-  Energy: 22
-  Metal: 1
-  Trace: 27
-  Exotica: 4
-  Chemicals: 29
-  Electronics: 10
-Build S-S Supercruise Missile in Chemical Plant
-Time to Build / Upgrade: 2
-[5860] Technologies Required to Build Unit (80):
-  [1690] Fly-by-Wireless (76)
-  [4170] Supercruise Missiles (84)
+  Energy: 7
+  Metal: 4
+  Exotica: 1
+  Chemicals: 13
+  Biochems: 2
+  Ceramsteel: 5
+Upgrade Heavy Infantry Legion (PA) to Heavy Infantry Legion (CE) at Lab
+Time to Build / Upgrade: 1
+[9530] Technologies Required to Build Unit (79):
+  [525] Anti-Aircraft Weaponry (94)
+  [8600] Cybernetically-Enhanced Soldiers (48)
+  [405] Recoilless Rifle (94)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: A-S Supercruise Missile
-Nick Name: A-S-ScGM
+Name: Heavy Infantry Legion (AVE)
+Nick Name: Hvy Inf (AVE)
 Scores & Strengths:
-  Tech Score: 1247
-  Unit Score: 1235
-  Average Score: 1241
-  Stat Strength: 605
-  Total Strength: 1235
-  Planet Strength: 1235
+  Tech Score: 1903
+  Unit Score: 1989
+  Average Score: 1946
+  Stat Strength: 576
+  Total Strength: 1989
+  Planet Strength: 1989
   Space Strength: 0
-  Garrison Strength: 411
+  Garrison Strength: 663
 Statistics:
-  Movement Type: air
+  Movement Type: foot
   Move Points: 9
-  Spot: 0
-  Camouflage: 9
-  Agility: 21
-  Armor: 1
-  Psy Defense: 1
-  Rank: 71
+  Spot: 3
+  Camouflage: 6
+  Agility: 12
+  Armor: 15
+  Psy Defense: 9
+  Rank: 123
 Attacks:
-  Indirect: 30/21
+  Air: 33/12
+  Indirect: 33/20
+  Direct: 21/17
 Load aboard transport: 1
-Never Rebels
-Never Retreats
 Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 8
+Upkeep / Maintenance: 31
+Build Cost: 212
 Build Resource Requirements:
-  Food: 3
-  Energy: 15
-  Metal: 1
-  Trace: 24
-  Exotica: 3
-  Chemicals: 19
-  Electronics: 8
-Build A-S Supercruise Missile in Chemical Plant
-Time to Build / Upgrade: 2
-[9060] Technologies Required to Build Unit (82):
-  [1690] Fly-by-Wireless (76)
-  [3200] Supersonic Aircraft (85)
-  [4170] Supercruise Missiles (84)
+  Energy: 5
+  Trace: 1
+  Chemicals: 7
+  Biochems: 12
+  Electronics: 3
+Upgrade Heavy Infantry Legion (GE) to Heavy Infantry Legion (AVE) at Lab
+Time to Build / Upgrade: 1
+[9830] Technologies Required to Build Unit (71):
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+  [8900] Genetically-Enhanced Warriors (25)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: S-S Hypersonic Missile
-Nick Name: S-S-HsGM
+Name: Heavy Infantry Legion (ME)
+Nick Name: Hvy Inf (ME)
 Scores & Strengths:
-  Tech Score: 1587
-  Unit Score: 1522
-  Average Score: 1554
-  Stat Strength: 664
-  Total Strength: 1522
-  Planet Strength: 1522
+  Tech Score: 1401
+  Unit Score: 2054
+  Average Score: 1727
+  Stat Strength: 880
+  Total Strength: 2054
+  Planet Strength: 2054
   Space Strength: 0
-  Garrison Strength: 422
+  Garrison Strength: 484
 Statistics:
-  Movement Type: air
-  Move Points: 13
-  Spot: 0
-  Camouflage: 13
-  Agility: 18
-  Armor: 1
-  Psy Defense: 1
-  Rank: 85
+  Movement Type: foot
+  Move Points: 18
+  Spot: 3
+  Camouflage: 5
+  Agility: 17
+  Armor: 13
+  Psy Defense: 8
+  Rank: 114
 Attacks:
-  Indirect: 33/26
+  Air: 29/11
+  Indirect: 29/19
+  Direct: 19/16
 Load aboard transport: 1
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 11
+Upkeep / Maintenance: 17
+Build Cost: 128
 Build Resource Requirements:
-  Food: 4
-  Energy: 21
-  Metal: 1
-  Trace: 26
-  Exotica: 4
+  Food: 5
+  Energy: 16
+  Trace: 10
+  Exotica: 5
   Chemicals: 31
-  Electronics: 10
-Build S-S Hypersonic Missile in Chemical Plant
+  Electronics: 35
+  Ceramsteel: 7
+Upgrade Heavy Infantry Legion to Heavy Infantry Legion (ME) at Factory
 Time to Build / Upgrade: 2
-[9240] Technologies Required to Build Unit (78):
-  [2935] Intelligent FCS (73)
-  [6305] Hypersonic Missiles (83)
+[7150] Technologies Required to Build Unit (89):
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+  [6220] Mechanically-Enhanced Soldiers (80)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: A-S Hypersonic Missile
-Nick Name: A-S-HsGM
+Name: Heavy Infantry Legion (MF)
+Nick Name: Hvy Inf (MF)
 Scores & Strengths:
-  Tech Score: 1767
-  Unit Score: 1606
-  Average Score: 1687
-  Stat Strength: 731
-  Total Strength: 1606
-  Planet Strength: 1606
+  Tech Score: 3201
+  Unit Score: 3184
+  Average Score: 3193
+  Stat Strength: 864
+  Total Strength: 3184
+  Planet Strength: 3184
   Space Strength: 0
-  Garrison Strength: 507
+  Garrison Strength: 960
 Statistics:
-  Movement Type: air
-  Move Points: 10
-  Spot: 0
-  Camouflage: 10
-  Agility: 23
-  Armor: 1
-  Psy Defense: 1
-  Rank: 87
+  Movement Type: foot
+  Move Points: 11
+  Spot: 4
+  Camouflage: 7
+  Agility: 14
+  Armor: 19
+  Psy Defense: 11
+  Rank: 158
 Attacks:
-  Indirect: 35/25
+  Air: 42/15
+  Indirect: 42/26
+  Direct: 26/23
 Load aboard transport: 1
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 8
+Upkeep / Maintenance: 220
+Build Cost: 2069
 Build Resource Requirements:
-  Food: 3
-  Energy: 14
-  Metal: 1
-  Trace: 21
-  Exotica: 3
-  Chemicals: 20
-  Electronics: 7
-Build A-S Hypersonic Missile in Chemical Plant
-Time to Build / Upgrade: 2
-[14905] Technologies Required to Build Unit (79):
-  [2935] Intelligent FCS (73)
-  [5665] Hypersonic Aircraft (82)
-  [6305] Hypersonic Missiles (83)
+  Energy: 5
+  Biochems: 13
+  Wetware: 20
+  Monopols: 54
+Upgrade Heavy Infantry Legion (CE) to Heavy Infantry Legion (MF) at Wetware
+Time to Build / Upgrade: 3
+[19505] Technologies Required to Build Unit (74):
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+  [18575] Machine-Fused Soldiers (35)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --11--
-Name: S-S Hypercruise Missile
-Nick Name: S-S-HcGM
+Name: Heavy Infantry Legion (NE)
+Nick Name: Hvy Inf (NE)
 Scores & Strengths:
-  Tech Score: 2336
-  Unit Score: 2138
-  Average Score: 2237
-  Stat Strength: 858
-  Total Strength: 2138
-  Planet Strength: 2138
+  Tech Score: 3890
+  Unit Score: 4137
+  Average Score: 4014
+  Stat Strength: 1178
+  Total Strength: 4137
+  Planet Strength: 4137
   Space Strength: 0
-  Garrison Strength: 552
+  Garrison Strength: 1194
 Statistics:
-  Movement Type: air
-  Move Points: 15
-  Spot: 0
-  Camouflage: 15
-  Agility: 20
-  Armor: 2
-  Psy Defense: 2
-  Rank: 107
-Attacks:
-  Indirect: 40/32
-Load aboard transport: 1
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 2
-Build Cost: 15
-Build Resource Requirements:
-  Food: 4
-  Energy: 25
-  Trace: 26
-  Exotica: 4
-  Chemicals: 39
-  Electronics: 10
-  Ceramsteel: 1
-Build S-S Hypercruise Missile in Chemical Plant
-Time to Build / Upgrade: 2
-[14205] Technologies Required to Build Unit (62):
-  [7100] Artificial Intelligence (46)
-  [7105] Hypercruise Missiles (77)
-Unit can be disbanded: YES
-
---12--
-Name: A-S Hypercruise Missile
-Nick Name: A-S-HcGM
-Scores & Strengths:
-  Tech Score: 2505
-  Unit Score: 2139
-  Average Score: 2322
-  Stat Strength: 921
-  Total Strength: 2139
-  Planet Strength: 2139
-  Space Strength: 0
-  Garrison Strength: 617
-Statistics:
-  Movement Type: air
+  Movement Type: foot
   Move Points: 12
-  Spot: 0
-  Camouflage: 12
-  Agility: 25
-  Armor: 2
-  Psy Defense: 2
-  Rank: 106
+  Spot: 4
+  Camouflage: 13
+  Agility: 14
+  Armor: 22
+  Psy Defense: 13
+  Rank: 179
 Attacks:
-  Indirect: 42/29
+  Air: 47/17
+  Indirect: 47/30
+  Direct: 30/25
 Load aboard transport: 1
-Never Rebels
-Never Retreats
 Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 9
+Upkeep / Maintenance: 223
+Build Cost: 2019
 Build Resource Requirements:
-  Food: 3
-  Energy: 15
-  Trace: 21
-  Exotica: 3
-  Chemicals: 22
-  Electronics: 7
-Build A-S Hypercruise Missile in Chemical Plant
-Time to Build / Upgrade: 2
-[21815] Technologies Required to Build Unit (68):
-  [7100] Artificial Intelligence (46)
-  [7610] Atmospheric Aircraft (80)
-  [7105] Hypercruise Missiles (77)
+  Wetware: 24
+  Monopols: 28
+Upgrade Heavy Infantry Legion (AVE) to Heavy Infantry Legion (NE) at Fusorium
+Time to Build / Upgrade: 3
+[25060] Technologies Required to Build Unit (73):
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+  [24130] Neumonically-Enhanced Soldiers (32)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

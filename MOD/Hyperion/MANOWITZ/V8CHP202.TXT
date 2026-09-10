@@ -1,253 +1,290 @@
-All units of the unit class Powered Armor Legion are listed herein (6 in total):
+All units of the unit class Amphib. Combat Vehicle (R) are listed herein (6 in total):
 
 --1--
-Name: Powered Armor Legion
-Nick Name: Power Lgn
+Name: Amphib. Combat Vehicle (R)
+Nick Name: ACV (R)
 Scores & Strengths:
-  Tech Score: 2010
-  Unit Score: 2010
-  Average Score: 2010
-  Stat Strength: 1135
-  Total Strength: 2010
-  Planet Strength: 2010
+  Tech Score: 1717
+  Unit Score: 1714
+  Average Score: 1716
+  Stat Strength: 1021
+  Total Strength: 1714
+  Planet Strength: 1714
   Space Strength: 0
-  Garrison Strength: 537
+  Garrison Strength: 458
 Statistics:
-  Movement Type: foot
+  Movement Type: craft
   Move Points: 14
-  Spot: 10
-  Camouflage: 10
-  Agility: 17
-  Armor: 15
-  Psy Defense: 15
-  Rank: 99
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 18
+  Psy Defense: 18
+  Rank: 475
 Attacks:
-  Air: 16/15
-  Direct: 15/21
-  Close: 20/16
-Load aboard transport: 1
-Upkeep / Maintenance: 85
-Build Cost: 824
+  Close: 33/21
+Load aboard transport: 2
+Can tow units that can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 13
+Build Cost: 129
 Build Resource Requirements:
-  Trace: 2
-  Chemicals: 10
-  Electronics: 41
-  Ceramsteel: 7
-  Monopols: 36
-Upgrade Infantry Legion to Powered Armor Legion at Fort
+  Food: 2
+  Energy: 10
+  Metal: 11
+  Trace: 19
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 12
+  Electronics: 27
+  Ceramsteel: 12
+Build Amphib. Combat Vehicle (R) in Factory
 Time to Build / Upgrade: 3
-[10065] Technology Required to Build Unit (79):
-  [10065] Powered-Armor Legion (79)
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Genetic Power Legion
-Nick Name: Gen PL
+Name: Amphib. Combat Vehicle (E)
+Nick Name: ACV (E)
 Scores & Strengths:
-  Tech Score: 2900
-  Unit Score: 2811
-  Average Score: 2855
-  Stat Strength: 1563
-  Total Strength: 2811
-  Planet Strength: 2811
+  Tech Score: 1717
+  Unit Score: 1717
+  Average Score: 1717
+  Stat Strength: 1157
+  Total Strength: 1717
+  Planet Strength: 1717
   Space Strength: 0
-  Garrison Strength: 681
+  Garrison Strength: 495
 Statistics:
-  Movement Type: foot
-  Move Points: 17
-  Spot: 11
-  Camouflage: 12
-  Agility: 19
-  Armor: 18
-  Psy Defense: 18
-  Rank: 117
+  Movement Type: craft
+  Move Points: 12
+  Spot: 10
+  Camouflage: 7
+  Agility: 8
+  Armor: 20
+  Psy Defense: 20
+  Rank: 78
 Attacks:
-  Air: 19/18
-  Direct: 18/25
-  Close: 24/19
-Load aboard transport: 1
-Immune to Plague
-Upkeep / Maintenance: 123
-Build Cost: 404
+  Close: 28/20
+Cargo Space: 1
+Load aboard transport: 2
+Can tow units that can be towed
+Upkeep / Maintenance: 11
+Build Cost: 109
 Build Resource Requirements:
-  Chemicals: 2
-  Biochems: 47
-Upgrade Powered Armor Legion to Genetic Power Legion at Lab
-Time to Build / Upgrade: 1
-[18965] Technologies Required to Build Unit (52):
-  [8900] Genetically-Enhanced Warriors (25)
-  [10065] Powered-Armor Legion (79)
+  Food: 2
+  Energy: 8
+  Metal: 13
+  Trace: 15
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 9
+  Electronics: 23
+  Ceramsteel: 14
+Build Amphib. Combat Vehicle (E) in Factory
+Time to Build / Upgrade: 3
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Assault Legion
-Nick Name: Assault Lgn
+Name: Amphib. Combat Vehicle (P)
+Nick Name: ACV (P)
 Scores & Strengths:
-  Tech Score: 3257
-  Unit Score: 3090
-  Average Score: 3174
-  Stat Strength: 1697
-  Total Strength: 3090
-  Planet Strength: 3090
+  Tech Score: 1717
+  Unit Score: 1719
+  Average Score: 1718
+  Stat Strength: 711
+  Total Strength: 1719
+  Planet Strength: 1719
   Space Strength: 0
-  Garrison Strength: 728
+  Garrison Strength: 459
 Statistics:
-  Movement Type: foot
-  Move Points: 18
-  Spot: 11
-  Camouflage: 13
-  Agility: 19
-  Armor: 19
-  Psy Defense: 19
-  Rank: 123
+  Movement Type: craft
+  Move Points: 14
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 13
+  Psy Defense: 13
+  Rank: 94
 Attacks:
-  Air: 20/19
-  Direct: 19/27
-  Close: 25/20
-Load aboard transport: 1
-Upkeep / Maintenance: 89
-Build Cost: 64
+  Direct: 28/20
+  Close: 28/16
+Cargo Space: 1
+Load aboard transport: 2
+Can be towed
+Upkeep / Maintenance: 13
+Build Cost: 130
 Build Resource Requirements:
-  Energy: 4
-  Metal: 1
-  Biochems: 28
-Upgrade Powered Armor Legion to Assault Legion at Fort
-Time to Build / Upgrade: 1
-[19160] Technology Required to Build Unit (54):
-  [19160] Assault Legion (54)
+  Food: 2
+  Energy: 13
+  Metal: 6
+  Trace: 27
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 16
+  Electronics: 33
+  Ceramsteel: 6
+Build Amphib. Combat Vehicle (P) in Factory
+Time to Build / Upgrade: 3
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Genetic Assault Legion
-Nick Name: Gen AL
+Name: Amphib. Combat Vehicle (C)
+Nick Name: ACV (C)
 Scores & Strengths:
-  Tech Score: 3749
-  Unit Score: 3515
-  Average Score: 3632
-  Stat Strength: 1901
-  Total Strength: 3515
-  Planet Strength: 3515
+  Tech Score: 1717
+  Unit Score: 1719
+  Average Score: 1718
+  Stat Strength: 711
+  Total Strength: 1719
+  Planet Strength: 1719
   Space Strength: 0
-  Garrison Strength: 806
+  Garrison Strength: 459
 Statistics:
-  Movement Type: foot
-  Move Points: 19
-  Spot: 12
-  Camouflage: 14
-  Agility: 20
-  Armor: 20
-  Psy Defense: 20
-  Rank: 133
+  Movement Type: craft
+  Move Points: 14
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 13
+  Psy Defense: 13
+  Rank: 778
 Attacks:
-  Air: 22/20
-  Direct: 20/29
-  Close: 27/22
-Load aboard transport: 1
-Immune to Plague
-Upkeep / Maintenance: 111
-Build Cost: 1048
+  Water: 28/20
+  Indirect: 28/16
+Load aboard transport: 2
+Officer - Provides stack combat bonuses
+Can be towed
+Upkeep / Maintenance: 15
+Build Cost: 148
 Build Resource Requirements:
-  Chemicals: 1
+  Food: 2
+  Energy: 13
+  Metal: 6
+  Trace: 27
+  Exotica: 2
+  Chemicals: 18
   Biochems: 9
-Upgrade Assault Legion to Genetic Assault Legion at Lab
-Time to Build / Upgrade: 1
-[28060] Technologies Required to Build Unit (40):
-  [8900] Genetically-Enhanced Warriors (25)
-  [19160] Assault Legion (54)
+  Electronics: 19
+  Ceramsteel: 6
+Build Amphib. Combat Vehicle (C) in Factory
+Time to Build / Upgrade: 2
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Powered Armor Legion (NE)
-Nick Name: Power Lgn (NE)
+Name: Amphib. Combat Vehicle (H)
+Nick Name: ACV (H)
 Scores & Strengths:
-  Tech Score: 4007
-  Unit Score: 6152
-  Average Score: 5080
-  Stat Strength: 3299
-  Total Strength: 6152
-  Planet Strength: 6152
+  Tech Score: 1717
+  Unit Score: 1719
+  Average Score: 1718
+  Stat Strength: 711
+  Total Strength: 1719
+  Planet Strength: 1719
   Space Strength: 0
-  Garrison Strength: 1255
+  Garrison Strength: 459
 Statistics:
-  Movement Type: foot
-  Move Points: 24
-  Spot: 14
-  Camouflage: 19
-  Agility: 22
-  Armor: 29
-  Psy Defense: 29
-  Rank: 166
+  Movement Type: craft
+  Move Points: 14
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 13
+  Psy Defense: 13
+  Rank: 110
 Attacks:
-  Air: 29/27
-  Direct: 27/38
-  Close: 36/29
-Load aboard transport: 1
-Upkeep / Maintenance: 269
-Build Cost: 2286
+  Indirect: 28/20
+  Direct: 28/16
+Load aboard transport: 2
+Can be towed
+Upkeep / Maintenance: 10
+Build Cost: 99
 Build Resource Requirements:
-  Energy: 1
-  Ceramsteel: 2
-  Wetware: 21
-  Monopols: 10
-Upgrade Genetic Power Legion to Powered Armor Legion (NE) at Fusorium
-Time to Build / Upgrade: 3
-[34195] Technologies Required to Build Unit (56):
-  [24130] Neumonically-Enhanced Soldiers (32)
-  [10065] Powered-Armor Legion (79)
+  Food: 2
+  Energy: 13
+  Metal: 6
+  Trace: 27
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 9
+  Electronics: 19
+  Ceramsteel: 6
+Build Amphib. Combat Vehicle (H) in Factory
+Time to Build / Upgrade: 2
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Assault Legion (NE)
-Nick Name: Assault Lgn (NE)
+Name: Amphib. Combat Vehicle (A)
+Nick Name: ACV (A)
 Scores & Strengths:
-  Tech Score: 4373
-  Unit Score: 6622
-  Average Score: 5498
-  Stat Strength: 3550
-  Total Strength: 6622
-  Planet Strength: 6622
+  Tech Score: 1717
+  Unit Score: 1719
+  Average Score: 1718
+  Stat Strength: 711
+  Total Strength: 1719
+  Planet Strength: 1719
   Space Strength: 0
-  Garrison Strength: 1324
+  Garrison Strength: 459
 Statistics:
-  Movement Type: foot
-  Move Points: 25
-  Spot: 14
-  Camouflage: 20
-  Agility: 23
-  Armor: 30
-  Psy Defense: 30
-  Rank: 173
+  Movement Type: craft
+  Move Points: 14
+  Spot: 8
+  Camouflage: 7
+  Agility: 8
+  Armor: 13
+  Psy Defense: 13
+  Rank: 105
 Attacks:
-  Air: 30/28
-  Direct: 28/39
-  Close: 38/30
-Load aboard transport: 1
-Upkeep / Maintenance: 244
-Build Cost: 1391
+  Air: 28/20
+  Direct: 28/16
+Load aboard transport: 2
+Can be towed
+Upkeep / Maintenance: 13
+Build Cost: 127
 Build Resource Requirements:
-  Energy: 1
-  Trace: 1
-  Chemicals: 2
-  Biochems: 2
-  Electronics: 1
-  Ceramsteel: 3
-  Wetware: 19
-  Monopols: 9
-Upgrade Genetic Assault Legion to Assault Legion (NE) at Fusorium
+  Food: 2
+  Energy: 13
+  Metal: 6
+  Trace: 27
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 16
+  Electronics: 33
+  Ceramsteel: 6
+Build Amphib. Combat Vehicle (A) in Factory
 Time to Build / Upgrade: 3
-[43290] Technologies Required to Build Unit (43):
-  [24130] Neumonically-Enhanced Soldiers (32)
-  [19160] Assault Legion (54)
+[12755] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [4695] Advanced Minor Watercraft (83)
+  [5205] Advanced Battle Tanks (84)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

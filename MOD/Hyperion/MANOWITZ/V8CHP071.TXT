@@ -1,539 +1,517 @@
-All units of the unit class Naval Mine are listed herein (12 in total):
+All units of the unit class Anti-Tank Gun Truck are listed herein (11 in total):
 
 --1--
-Name: Naval Mine
-Nick Name: Naval Mine
+Name: Anti-Tank Gun Truck
+Nick Name: ATG Truck
 Scores & Strengths:
-  Tech Score: 172
-  Unit Score: 172
-  Average Score: 172
-  Stat Strength: 100
-  Total Strength: 172
-  Planet Strength: 172
+  Tech Score: 162
+  Unit Score: 162
+  Average Score: 162
+  Stat Strength: 113
+  Total Strength: 162
+  Planet Strength: 162
   Space Strength: 0
-  Garrison Strength: 215
+  Garrison Strength: 66
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 0
-  Camouflage: 10
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 8
+  Movement Type: wheel
+  Move Points: 6
+  Spot: 4
+  Camouflage: 2
+  Agility: 5
+  Armor: 4
+  Psy Defense: 4
+  Rank: 29
 Attacks:
-  Water: 3/24
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 12
-Build Cost: 116
+  Direct: 3/7
+  Close: 7/4
+Cargo Space: 1
+Load aboard transport: 3
+Can tow units that can be towed
+Upkeep / Maintenance: 7
+Build Cost: 66
 Build Resource Requirements:
-  Energy: 143
-  Trace: 62
-  Chemicals: 125
-Build Naval Mine in Well
-Time to Build / Upgrade: 4
-[490] Technologies Required to Build Unit (99):
-  [230] Hospitals (97)
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [50] Applied Technology (100)
+  Food: 11
+  Energy: 23
+  Metal: 14
+  Trace: 27
+  Exotica: 10
+  Chemicals: 28
+Build Anti-Tank Gun Truck in Factory
+Time to Build / Upgrade: 2
+[350] Technology Required to Build Unit (95):
+  [350] Anti-Tank Weaponry (95)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Naval Mine II
-Nick Name: Naval Mine II
+Name: Anti-Tank Gun Truck II
+Nick Name: ATG Truck II
 Scores & Strengths:
-  Tech Score: 406
-  Unit Score: 410
-  Average Score: 408
-  Stat Strength: 225
-  Total Strength: 410
-  Planet Strength: 410
+  Tech Score: 205
+  Unit Score: 208
+  Average Score: 207
+  Stat Strength: 144
+  Total Strength: 208
+  Planet Strength: 208
   Space Strength: 0
-  Garrison Strength: 512
+  Garrison Strength: 78
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 0
-  Camouflage: 15
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 24
+  Movement Type: wheel
+  Move Points: 7
+  Spot: 4
+  Camouflage: 2
+  Agility: 5
+  Armor: 5
+  Psy Defense: 5
+  Rank: 32
 Attacks:
-  Water: 5/37
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 10
-Build Cost: 98
+  Direct: 3/8
+  Close: 8/5
+Cargo Space: 1
+Load aboard transport: 3
+Can tow units that can be towed
+Upkeep / Maintenance: 5
+Build Cost: 45
 Build Resource Requirements:
-  Energy: 106
-  Trace: 23
-  Chemicals: 106
-  Electronics: 21
-Build Naval Mine II in Well
-Time to Build / Upgrade: 4
-[1195] Technology Required to Build Unit (90):
-  [1195] Naval Warfare (90)
+  Food: 6
+  Energy: 14
+  Metal: 11
+  Trace: 14
+  Exotica: 6
+  Chemicals: 16
+  Electronics: 9
+Build Anti-Tank Gun Truck II in Factory
+Time to Build / Upgrade: 2
+[905] Technologies Required to Build Unit (94):
+  [205] Electric-Diesel Engine (92)
+  [350] Anti-Tank Weaponry (95)
+  [350] Tanks (95)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Naval Mine III
-Nick Name: Naval Mine III
+Name: Anti-Tank Gun Truck III
+Nick Name: ATG Truck III
 Scores & Strengths:
-  Tech Score: 754
-  Unit Score: 741
-  Average Score: 748
-  Stat Strength: 441
-  Total Strength: 741
-  Planet Strength: 741
+  Tech Score: 325
+  Unit Score: 306
+  Average Score: 315
+  Stat Strength: 206
+  Total Strength: 306
+  Planet Strength: 306
   Space Strength: 0
-  Garrison Strength: 926
+  Garrison Strength: 108
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 0
-  Camouflage: 21
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 37
+  Movement Type: wheel
+  Move Points: 8
+  Spot: 5
+  Camouflage: 3
+  Agility: 6
+  Armor: 6
+  Psy Defense: 6
+  Rank: 38
 Attacks:
-  Water: 6/50
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 11
-Build Cost: 107
+  Direct: 4/10
+  Close: 10/6
+Cargo Space: 1
+Load aboard transport: 3
+Can tow units that can be towed
+Upkeep / Maintenance: 5
+Build Cost: 50
 Build Resource Requirements:
-  Energy: 105
-  Trace: 30
-  Chemicals: 105
-  Biochems: 1
-  Electronics: 23
-Build Naval Mine III in Well
-Time to Build / Upgrade: 4
-[2725] Technology Required to Build Unit (88):
-  [2725] Naval Capital Ships (88)
+  Food: 5
+  Energy: 15
+  Metal: 11
+  Trace: 18
+  Exotica: 5
+  Chemicals: 16
+  Electronics: 13
+Build Anti-Tank Gun Truck III in Factory
+Time to Build / Upgrade: 2
+[1480] Technologies Required to Build Unit (92):
+  [245] Rotary Engine (92)
+  [770] Self-Propelled Weaponry (92)
+  [465] Recoilless Gun (93)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Naval Mine IV
-Nick Name: Naval Mine IV
+Name: Anti-Tank Gun Truck IV
+Nick Name: ATG Truck IV
 Scores & Strengths:
-  Tech Score: 932
-  Unit Score: 921
-  Average Score: 927
-  Stat Strength: 529
-  Total Strength: 921
-  Planet Strength: 921
+  Tech Score: 530
+  Unit Score: 465
+  Average Score: 497
+  Stat Strength: 309
+  Total Strength: 465
+  Planet Strength: 465
   Space Strength: 0
-  Garrison Strength: 1151
+  Garrison Strength: 140
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 0
-  Camouflage: 23
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 45
+  Movement Type: wheel
+  Move Points: 11
+  Spot: 5
+  Camouflage: 4
+  Agility: 7
+  Armor: 7
+  Psy Defense: 7
+  Rank: 47
 Attacks:
-  Water: 7/56
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 13
-Build Cost: 133
+  Direct: 5/13
+  Close: 13/7
+Cargo Space: 1
+Load aboard transport: 3
+Can tow units that can be towed
+Upkeep / Maintenance: 9
+Build Cost: 90
 Build Resource Requirements:
-  Energy: 127
-  Trace: 35
-  Chemicals: 127
-  Biochems: 1
-  Electronics: 26
-Build Naval Mine IV in Well
-Time to Build / Upgrade: 4
-[3615] Technology Required to Build Unit (87):
-  [3615] Submarine Warfare (87)
+  Food: 7
+  Energy: 24
+  Metal: 11
+  Trace: 26
+  Exotica: 7
+  Chemicals: 33
+  Electronics: 30
+Build Anti-Tank Gun Truck IV in Factory
+Time to Build / Upgrade: 2
+[1700] Technology Required to Build Unit (88):
+  [1700] Main Battle Tank (88)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Naval Mine V
-Nick Name: Naval Mine V
+Name: Anti-Tank Gun Truck V
+Nick Name: ATG Truck V
 Scores & Strengths:
-  Tech Score: 1134
-  Unit Score: 1172
-  Average Score: 1153
-  Stat Strength: 676
-  Total Strength: 1172
-  Planet Strength: 1172
+  Tech Score: 763
+  Unit Score: 672
+  Average Score: 717
+  Stat Strength: 432
+  Total Strength: 672
+  Planet Strength: 672
   Space Strength: 0
-  Garrison Strength: 1465
+  Garrison Strength: 186
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 0
-  Camouflage: 26
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 53
+  Movement Type: wheel
+  Move Points: 13
+  Spot: 6
+  Camouflage: 4
+  Agility: 7
+  Armor: 9
+  Psy Defense: 9
+  Rank: 55
 Attacks:
-  Water: 8/62
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 13
-Build Cost: 134
+  Direct: 7/15
+  Close: 15/9
+Cargo Space: 1
+Load aboard transport: 3
+Can tow units that can be towed
+Upkeep / Maintenance: 10
+Build Cost: 101
 Build Resource Requirements:
-  Energy: 118
-  Trace: 23
-  Chemicals: 136
-  Biochems: 1
+  Food: 9
+  Energy: 31
+  Metal: 18
+  Trace: 19
+  Exotica: 9
+  Chemicals: 41
   Electronics: 26
-Build Naval Mine V in Well
-Time to Build / Upgrade: 4
-[4695] Technology Required to Build Unit (83):
-  [4695] Advanced Minor Watercraft (83)
+Build Anti-Tank Gun Truck V in Factory
+Time to Build / Upgrade: 3
+[2920] Technologies Required to Build Unit (83):
+  [1220] Finite Element Methods (77)
+  [1700] Main Battle Tank (88)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Naval Mine VI
-Nick Name: Naval Mine VI
+Name: Anti-Tank Gun Truck VI
+Nick Name: ATG Truck VI
 Scores & Strengths:
-  Tech Score: 1339
-  Unit Score: 1320
-  Average Score: 1329
-  Stat Strength: 784
-  Total Strength: 1320
-  Planet Strength: 1320
+  Tech Score: 830
+  Unit Score: 739
+  Average Score: 784
+  Stat Strength: 483
+  Total Strength: 739
+  Planet Strength: 739
   Space Strength: 0
-  Garrison Strength: 1650
+  Garrison Strength: 197
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 0
-  Camouflage: 28
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 57
+  Movement Type: wheel
+  Move Points: 14
+  Spot: 6
+  Camouflage: 5
+  Agility: 8
+  Armor: 9
+  Psy Defense: 9
+  Rank: 58
 Attacks:
-  Water: 8/67
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 14
-Build Cost: 143
+  Direct: 7/16
+  Close: 16/9
+Cargo Space: 1
+Load aboard transport: 3
+Can tow units that can be towed
+Upkeep / Maintenance: 9
+Build Cost: 85
 Build Resource Requirements:
-  Energy: 120
-  Trace: 22
-  Chemicals: 145
-  Biochems: 1
-  Electronics: 27
-Build Naval Mine VI in Well
-Time to Build / Upgrade: 4
-[5855] Technology Required to Build Unit (84):
-  [5855] Guided Missile Navalcraft (84)
+  Food: 7
+  Energy: 21
+  Metal: 16
+  Trace: 18
+  Exotica: 7
+  Chemicals: 32
+  Electronics: 25
+Build Anti-Tank Gun Truck VI in Factory
+Time to Build / Upgrade: 2
+[3690] Technologies Required to Build Unit (87):
+  [455] Turbojet Engine (88)
+  [1535] Carbon Nanotubes (85)
+  [1700] Main Battle Tank (88)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Naval Mine VII
-Nick Name: Naval Mine VII
+Name: Anti-Tank Gun Truck VII
+Nick Name: ATG Truck VII
 Scores & Strengths:
-  Tech Score: 1692
-  Unit Score: 1636
-  Average Score: 1664
-  Stat Strength: 961
-  Total Strength: 1636
-  Planet Strength: 1636
+  Tech Score: 1141
+  Unit Score: 997
+  Average Score: 1069
+  Stat Strength: 636
+  Total Strength: 997
+  Planet Strength: 997
   Space Strength: 0
-  Garrison Strength: 2045
+  Garrison Strength: 249
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 0
-  Camouflage: 31
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
+  Movement Type: wheel
+  Move Points: 16
+  Spot: 7
+  Camouflage: 5
+  Agility: 8
+  Armor: 11
+  Psy Defense: 11
   Rank: 66
 Attacks:
-  Water: 9/75
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 11
-Build Cost: 107
+  Direct: 8/19
+  Close: 19/11
+Cargo Space: 1
+Load aboard transport: 3
+Can tow units that can be towed
+Upkeep / Maintenance: 9
+Build Cost: 91
 Build Resource Requirements:
-  Energy: 85
-  Trace: 16
-  Chemicals: 104
-  Biochems: 1
-  Electronics: 19
-Build Naval Mine VII in Well
-Time to Build / Upgrade: 3
-[13855] Technologies Required to Build Unit (84):
-  [7200] Air-Independent Propulsion (85)
-  [6655] PTS Missile Navalcraft (83)
+  Food: 5
+  Energy: 17
+  Metal: 19
+  Trace: 13
+  Exotica: 5
+  Chemicals: 37
+  Electronics: 32
+Build Anti-Tank Gun Truck VII in Factory
+Time to Build / Upgrade: 2
+[7040] Technologies Required to Build Unit (86):
+  [455] Turbojet Engine (88)
+  [1535] Carbon Nanotubes (85)
+  [3350] Active Protective Systems (83)
+  [1700] Main Battle Tank (88)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Naval Mine VIII
-Nick Name: Naval Mine VIII
+Name: Anti-Tank Gun Truck VIII
+Nick Name: ATG Truck VIII
 Scores & Strengths:
-  Tech Score: 2083
-  Unit Score: 2055
-  Average Score: 2069
-  Stat Strength: 1225
-  Total Strength: 2055
-  Planet Strength: 2055
+  Tech Score: 1248
+  Unit Score: 1041
+  Average Score: 1144
+  Stat Strength: 680
+  Total Strength: 1041
+  Planet Strength: 1041
   Space Strength: 0
-  Garrison Strength: 2568
+  Garrison Strength: 252
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 0
-  Camouflage: 35
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 75
+  Movement Type: wheel
+  Move Points: 17
+  Spot: 7
+  Camouflage: 6
+  Agility: 8
+  Armor: 11
+  Psy Defense: 11
+  Rank: 68
 Attacks:
-  Water: 10/83
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 12
-Build Cost: 118
+  Direct: 8/19
+  Close: 19/11
+Cargo Space: 1
+Load aboard transport: 3
+Can tow units that can be towed
+Upkeep / Maintenance: 10
+Build Cost: 96
 Build Resource Requirements:
-  Energy: 87
-  Trace: 17
-  Chemicals: 107
-  Biochems: 1
-  Electronics: 21
-Build Naval Mine VIII in Well
-Time to Build / Upgrade: 3
-[17285] Technologies Required to Build Unit (84):
-  [2790] Supercruise (86)
-  [7200] Air-Independent Propulsion (85)
-  [7295] Nuclear-Powered Navalcraft (81)
+  Food: 6
+  Energy: 21
+  Metal: 7
+  Trace: 14
+  Exotica: 6
+  Chemicals: 35
+  Electronics: 28
+  Ceramsteel: 9
+Build Anti-Tank Gun Truck VIII in Factory
+Time to Build / Upgrade: 2
+[5725] Technologies Required to Build Unit (86):
+  [520] Scramjet Engine (87)
+  [5205] Advanced Battle Tanks (84)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Naval Mine IX
-Nick Name: Naval Mine IX
+Name: Anti-Tank Gun Truck IX
+Nick Name: ATG Truck IX
 Scores & Strengths:
-  Tech Score: 2378
-  Unit Score: 2348
-  Average Score: 2363
-  Stat Strength: 1369
-  Total Strength: 2348
-  Planet Strength: 2348
+  Tech Score: 1378
+  Unit Score: 1198
+  Average Score: 1288
+  Stat Strength: 778
+  Total Strength: 1198
+  Planet Strength: 1198
   Space Strength: 0
-  Garrison Strength: 2935
+  Garrison Strength: 282
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 0
-  Camouflage: 37
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 83
+  Movement Type: wheel
+  Move Points: 18
+  Spot: 7
+  Camouflage: 6
+  Agility: 9
+  Armor: 12
+  Psy Defense: 12
+  Rank: 72
 Attacks:
-  Water: 11/89
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 20
-Build Cost: 198
+  Direct: 9/20
+  Close: 20/12
+Cargo Space: 1
+Load aboard transport: 3
+Can tow units that can be towed
+Upkeep / Maintenance: 9
+Build Cost: 87
 Build Resource Requirements:
-  Energy: 119
-  Trace: 34
-  Chemicals: 172
-  Biochems: 1
-  Electronics: 43
-Build Naval Mine IX in Well
-Time to Build / Upgrade: 4
-[12595] Technology Required to Build Unit (82):
-  [12595] Supercavitating Submarine (82)
+  Food: 6
+  Energy: 19
+  Metal: 6
+  Trace: 10
+  Exotica: 6
+  Chemicals: 33
+  Electronics: 23
+  Ceramsteel: 9
+Build Anti-Tank Gun Truck IX in Factory
+Time to Build / Upgrade: 2
+[9440] Technologies Required to Build Unit (82):
+  [665] Hydrojet (85)
+  [3570] Robotics (76)
+  [5205] Advanced Battle Tanks (84)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Naval Mine X
-Nick Name: Naval Mine X
+Name: Anti-Tank Gun Truck X
+Nick Name: ATG Truck X
 Scores & Strengths:
-  Tech Score: 3237
-  Unit Score: 3201
-  Average Score: 3219
-  Stat Strength: 1849
-  Total Strength: 3201
-  Planet Strength: 3201
+  Tech Score: 2021
+  Unit Score: 1652
+  Average Score: 1836
+  Stat Strength: 1027
+  Total Strength: 1652
+  Planet Strength: 1652
   Space Strength: 0
-  Garrison Strength: 4001
+  Garrison Strength: 360
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 0
-  Camouflage: 43
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 100
+  Movement Type: wheel
+  Move Points: 21
+  Spot: 8
+  Camouflage: 7
+  Agility: 9
+  Armor: 14
+  Psy Defense: 14
+  Rank: 85
 Attacks:
-  Water: 13/104
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 224
-Build Cost: 2244
+  Direct: 11/25
+  Close: 25/14
+Cargo Space: 1
+Load aboard transport: 3
+Can tow units that can be towed
+Upkeep / Maintenance: 63
+Build Cost: 633
 Build Resource Requirements:
-  Energy: 99
-  Trace: 24
-  Chemicals: 143
-  Biochems: 1
-  Electronics: 35
-  Monopols: 126
-Build Naval Mine X in Well
-Time to Build / Upgrade: 6
-[22900] Technologies Required to Build Unit (74):
-  [1690] Computerized Medical Imaging (76)
-  [8615] Fusion Beam (63)
-  [12595] Supercavitating Submarine (82)
+  Food: 4
+  Energy: 14
+  Metal: 3
+  Trace: 11
+  Exotica: 4
+  Chemicals: 24
+  Electronics: 22
+  Ceramsteel: 6
+  Monopols: 25
+Build Anti-Tank Gun Truck X in Factory
+Time to Build / Upgrade: 3
+[14805] Technologies Required to Build Unit (81):
+  [8935] Powered Ceramsteel Armor (75)
+  [665] Hydrojet (85)
+  [5205] Advanced Battle Tanks (84)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --11--
-Name: Naval Mine XI
-Nick Name: Naval Mine XI
+Name: Anti-Tank Gun Truck XI
+Nick Name: ATG Truck XI
 Scores & Strengths:
-  Tech Score: 4545
-  Unit Score: 4446
-  Average Score: 4495
-  Stat Strength: 2601
-  Total Strength: 4446
-  Planet Strength: 4446
+  Tech Score: 2547
+  Unit Score: 2100
+  Average Score: 2324
+  Stat Strength: 1316
+  Total Strength: 2100
+  Planet Strength: 2100
   Space Strength: 0
-  Garrison Strength: 5557
+  Garrison Strength: 428
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 0
-  Camouflage: 51
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 121
+  Movement Type: wheel
+  Move Points: 24
+  Spot: 8
+  Camouflage: 8
+  Agility: 10
+  Armor: 16
+  Psy Defense: 16
+  Rank: 95
 Attacks:
-  Water: 15/123
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 223
-Build Cost: 2229
+  Direct: 12/28
+  Close: 28/16
+Cargo Space: 1
+Load aboard transport: 3
+Can tow units that can be towed
+Upkeep / Maintenance: 87
+Build Cost: 873
 Build Resource Requirements:
-  Energy: 73
-  Trace: 19
-  Chemicals: 104
-  Biochems: 1
-  Electronics: 30
-  Monopols: 110
-Build Naval Mine XI in Well
-Time to Build / Upgrade: 6
-[40470] Technologies Required to Build Unit (78):
-  [12595] Supercavitating Submarine (82)
-  [27875] PTS Meson Navalcraft (74)
-Unit can be disbanded: YES
-
---12--
-Name: Naval Mine XII
-Nick Name: Naval Mine XII
-Scores & Strengths:
-  Tech Score: 5356
-  Unit Score: 5414
-  Average Score: 5385
-  Stat Strength: 3136
-  Total Strength: 5414
-  Planet Strength: 5414
-  Space Strength: 0
-  Garrison Strength: 6767
-Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 0
-  Camouflage: 56
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 136
-Attacks:
-  Water: 17/134
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 276
-Build Cost: 2760
-Build Resource Requirements:
-  Energy: 77
-  Trace: 17
-  Chemicals: 111
-  Biochems: 39
-  Electronics: 30
-  Monopols: 120
-Build Naval Mine XII in Well
-Time to Build / Upgrade: 6
-[47785] Technologies Required to Build Unit (68):
-  [33540] PTS Beam Navalcraft (56)
-  [14245] Hypercavitating Submarine (80)
+  Food: 4
+  Energy: 15
+  Metal: 4
+  Trace: 12
+  Exotica: 4
+  Chemicals: 24
+  Electronics: 28
+  Ceramsteel: 6
+  Monopols: 34
+Build Anti-Tank Gun Truck XI in Factory
+Time to Build / Upgrade: 3
+[14200] Technologies Required to Build Unit (80):
+  [665] Hydrojet (85)
+  [13535] Powered Ceramsteel Tanks (74)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

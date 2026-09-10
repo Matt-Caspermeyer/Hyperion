@@ -1,346 +1,488 @@
-All units of the unit class Reconnaissance Monoplane are listed herein (8 in total):
+All units of the unit class Medium Infantry Legion are listed herein (11 in total):
 
 --1--
-Name: Reconnaissance Monoplane
-Nick Name: A-MR
+Name: Medium Infantry Legion
+Nick Name: Med Inf
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 287
-  Average Score: 240
-  Stat Strength: 287
-  Total Strength: 287
-  Planet Strength: 287
+  Tech Score: 265
+  Unit Score: 263
+  Average Score: 264
+  Stat Strength: 113
+  Total Strength: 263
+  Planet Strength: 263
   Space Strength: 0
-  Garrison Strength: 86
+  Garrison Strength: 131
 Statistics:
-  Movement Type: air
-  Move Points: 11
-  Spot: 8
+  Movement Type: foot
+  Move Points: 4
+  Spot: 2
   Camouflage: 3
   Agility: 8
-  Armor: 5
+  Armor: 4
   Psy Defense: 2
-  Rank: 20
-Load aboard transport: 2
-Upkeep / Maintenance: 9
-Build Cost: 91
+  Rank: 43
+Attacks:
+  Air: 13/3
+  Indirect: 11/6
+  Direct: 9/5
+Load aboard transport: 1
+Upkeep / Maintenance: 7
+Build Cost: 52
 Build Resource Requirements:
-  Food: 26
-  Energy: 23
-  Metal: 20
-  Trace: 21
-  Exotica: 26
-  Chemicals: 27
-  Electronics: 16
-Build Reconnaissance Monoplane in Factory
-Time to Build / Upgrade: 3
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
+  Metal: 3
+  Trace: 57
+  Exotica: 4
+  Chemicals: 15
+  Electronics: 25
+Upgrade Peasant to Medium Infantry Legion at Fort
+Time to Build / Upgrade: 1
+[930] Technologies Required to Build Unit (94):
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Attack Fighter Monoplane
-Nick Name: A-MAF
+Name: Medium Infantry Legion (BE)
+Nick Name: Med Inf (BE)
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 321
-  Total Strength: 384
-  Planet Strength: 384
+  Tech Score: 338
+  Unit Score: 393
+  Average Score: 366
+  Stat Strength: 155
+  Total Strength: 393
+  Planet Strength: 393
   Space Strength: 0
-  Garrison Strength: 135
+  Garrison Strength: 175
 Statistics:
-  Movement Type: air
-  Move Points: 8
-  Spot: 8
-  Camouflage: 2
-  Agility: 12
-  Armor: 6
-  Psy Defense: 3
-  Rank: 37
+  Movement Type: foot
+  Move Points: 5
+  Spot: 2
+  Camouflage: 4
+  Agility: 9
+  Armor: 5
+  Psy Defense: 2
+  Rank: 52
 Attacks:
-  Air: 4/5
-  Indirect: 5/5
-  Direct: 3/6
-Load aboard transport: 2
+  Air: 17/4
+  Indirect: 14/7
+  Direct: 12/6
+Load aboard transport: 1
+May lose health or experience after combat due to drug use
 Upkeep / Maintenance: 13
-Build Cost: 133
+Build Cost: 79
 Build Resource Requirements:
-  Food: 26
-  Energy: 37
-  Metal: 31
-  Trace: 38
-  Exotica: 25
-  Chemicals: 43
-  Electronics: 25
-Build Attack Fighter Monoplane in Factory
-Time to Build / Upgrade: 4
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
+  Energy: 1
+  Metal: 1
+  Trace: 7
+  Exotica: 1
+  Biochems: 43
+  Electronics: 3
+Upgrade Medium Infantry Legion to Medium Infantry Legion (BE) at Biochem Plant
+Time to Build / Upgrade: 1
+[1350] Technologies Required to Build Unit (88):
+  [420] Biochem-Enhanced Soldiers (77)
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Bomber Monoplane
-Nick Name: A-MB
+Name: Medium Infantry Legion (SE)
+Nick Name: Med Inf (SE)
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 284
-  Total Strength: 384
-  Planet Strength: 384
+  Tech Score: 405
+  Unit Score: 458
+  Average Score: 432
+  Stat Strength: 182
+  Total Strength: 458
+  Planet Strength: 458
   Space Strength: 0
-  Garrison Strength: 121
+  Garrison Strength: 186
 Statistics:
-  Movement Type: air
-  Move Points: 10
-  Spot: 6
-  Camouflage: 2
-  Agility: 8
-  Armor: 8
-  Psy Defense: 4
-  Rank: 42
+  Movement Type: foot
+  Move Points: 6
+  Spot: 2
+  Camouflage: 4
+  Agility: 9
+  Armor: 6
+  Psy Defense: 3
+  Rank: 56
 Attacks:
-  Air: 2/10
-  Indirect: 4/20
-Load aboard transport: 3
-Upkeep / Maintenance: 21
-Build Cost: 209
+  Air: 18/4
+  Indirect: 15/8
+  Direct: 12/7
+Load aboard transport: 1
+Upkeep / Maintenance: 16
+Build Cost: 109
 Build Resource Requirements:
-  Food: 21
-  Energy: 111
-  Metal: 55
-  Trace: 20
-  Exotica: 21
-  Chemicals: 129
-  Electronics: 12
-Build Bomber Monoplane in Factory
-Time to Build / Upgrade: 6
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
+  Food: 1
+  Energy: 2
+  Metal: 3
+  Trace: 12
+  Exotica: 1
+  Chemicals: 3
+  Biochems: 47
+  Electronics: 5
+Upgrade Medium Infantry Legion to Medium Infantry Legion (SE) at Hospital
+Time to Build / Upgrade: 1
+[1605] Technologies Required to Build Unit (88):
+  [675] Surgically-Enhanced Soldiers (75)
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Fighter Monoplane
-Nick Name: A-MF
+Name: Medium Infantry Legion (DE)
+Nick Name: Med Inf (DE)
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 315
-  Total Strength: 384
-  Planet Strength: 384
+  Tech Score: 987
+  Unit Score: 967
+  Average Score: 977
+  Stat Strength: 333
+  Total Strength: 967
+  Planet Strength: 967
   Space Strength: 0
-  Garrison Strength: 128
+  Garrison Strength: 341
 Statistics:
-  Movement Type: air
-  Move Points: 9
-  Spot: 8
-  Camouflage: 2
-  Agility: 11
-  Armor: 6
-  Psy Defense: 3
-  Rank: 38
+  Movement Type: foot
+  Move Points: 8
+  Spot: 3
+  Camouflage: 6
+  Agility: 12
+  Armor: 8
+  Psy Defense: 4
+  Rank: 85
 Attacks:
-  Air: 6/10
-  Indirect: 3/3
-Load aboard transport: 2
-Upkeep / Maintenance: 14
-Build Cost: 138
+  Air: 28/6
+  Indirect: 23/12
+  Direct: 19/10
+Load aboard transport: 1
+Upkeep / Maintenance: 17
+Build Cost: 117
 Build Resource Requirements:
-  Food: 26
-  Energy: 42
-  Metal: 31
-  Trace: 35
-  Exotica: 26
-  Chemicals: 49
-  Electronics: 25
-Build Fighter Monoplane in Factory
-Time to Build / Upgrade: 4
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
+  Metal: 10
+  Biochems: 52
+  Electronics: 15
+Upgrade Medium Infantry Legion to Medium Infantry Legion (DE) at Biochem Plant
+Time to Build / Upgrade: 1
+[4370] Technologies Required to Build Unit (84):
+  [3440] Drug-Enhanced Soldiers (65)
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Trench Strafer Monoplane
-Nick Name: A-MTS
+Name: Medium Infantry Legion (GE)
+Nick Name: Med Inf (GE)
 Scores & Strengths:
-  Tech Score: 194
-  Unit Score: 384
-  Average Score: 289
-  Stat Strength: 303
-  Total Strength: 384
-  Planet Strength: 384
+  Tech Score: 1444
+  Unit Score: 1401
+  Average Score: 1423
+  Stat Strength: 467
+  Total Strength: 1401
+  Planet Strength: 1401
   Space Strength: 0
-  Garrison Strength: 145
+  Garrison Strength: 443
 Statistics:
-  Movement Type: air
-  Move Points: 7
-  Spot: 6
-  Camouflage: 2
+  Movement Type: foot
+  Move Points: 10
+  Spot: 3
+  Camouflage: 8
   Agility: 13
-  Armor: 6
-  Psy Defense: 3
-  Rank: 32
+  Armor: 10
+  Psy Defense: 5
+  Rank: 103
 Attacks:
-  Air: 2/6
-  Direct: 3/9
-  Close: 7/6
-Load aboard transport: 2
-Upkeep / Maintenance: 15
-Build Cost: 146
+  Air: 34/7
+  Indirect: 28/15
+  Direct: 23/12
+Load aboard transport: 1
+Upkeep / Maintenance: 22
+Build Cost: 102
 Build Resource Requirements:
-  Food: 22
-  Energy: 50
-  Metal: 31
-  Trace: 38
-  Exotica: 22
-  Chemicals: 58
-  Electronics: 28
-Build Trench Strafer Monoplane in Factory
-Time to Build / Upgrade: 5
-[445] Technology Required to Build Unit (94):
-  [445] Monoplane (94)
+  Energy: 3
+  Trace: 2
+  Chemicals: 6
+  Biochems: 16
+  Electronics: 4
+  Ceramsteel: 3
+Upgrade Medium Infantry Legion (DE) to Medium Infantry Legion (GE) at Lab
+Time to Build / Upgrade: 1
+[6950] Technologies Required to Build Unit (79):
+  [6020] Chemical Shock Legion (49)
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Battle Monoplane
-Nick Name: A-MBttl
+Name: Medium Infantry Legion (PA)
+Nick Name: Med Inf (PA)
 Scores & Strengths:
-  Tech Score: 265
-  Unit Score: 527
-  Average Score: 396
-  Stat Strength: 422
-  Total Strength: 527
-  Planet Strength: 527
+  Tech Score: 1455
+  Unit Score: 1435
+  Average Score: 1445
+  Stat Strength: 452
+  Total Strength: 1435
+  Planet Strength: 1435
   Space Strength: 0
-  Garrison Strength: 175
+  Garrison Strength: 453
 Statistics:
-  Movement Type: air
-  Move Points: 9
-  Spot: 6
-  Camouflage: 2
-  Agility: 16
-  Armor: 6
-  Psy Defense: 3
-  Rank: 45
+  Movement Type: foot
+  Move Points: 10
+  Spot: 3
+  Camouflage: 7
+  Agility: 13
+  Armor: 10
+  Psy Defense: 5
+  Rank: 104
 Attacks:
-  Air: 7/8
-  Indirect: 7/7
-Load aboard transport: 2
-Upkeep / Maintenance: 10
-Build Cost: 99
+  Air: 33/8
+  Indirect: 28/15
+  Direct: 23/13
+Load aboard transport: 1
+Upkeep / Maintenance: 26
+Build Cost: 147
 Build Resource Requirements:
-  Food: 17
-  Energy: 29
-  Metal: 17
-  Trace: 30
-  Exotica: 17
-  Chemicals: 35
-  Electronics: 17
-Build Battle Monoplane in Factory
-Time to Build / Upgrade: 4
-[1055] Technologies Required to Build Unit (94):
-  [445] Monoplane (94)
-  [610] Air-Air Rockets (94)
+  Energy: 9
+  Chemicals: 19
+  Biochems: 5
+  Electronics: 39
+  Ceramsteel: 10
+Upgrade Medium Infantry Legion (SE) to Medium Infantry Legion (PA) at Hospital
+Time to Build / Upgrade: 2
+[7105] Technologies Required to Build Unit (82):
+  [6175] Prosthetically-Augmented Soldiers (57)
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Large Bomber Monoplane
-Nick Name: A-MLB
+Name: Medium Infantry Legion (CE)
+Nick Name: Med Inf (CE)
 Scores & Strengths:
-  Tech Score: 265
-  Unit Score: 527
-  Average Score: 396
-  Stat Strength: 410
-  Total Strength: 527
-  Planet Strength: 527
+  Tech Score: 1843
+  Unit Score: 1860
+  Average Score: 1852
+  Stat Strength: 610
+  Total Strength: 1860
+  Planet Strength: 1860
   Space Strength: 0
-  Garrison Strength: 158
+  Garrison Strength: 536
 Statistics:
-  Movement Type: air
-  Move Points: 11
-  Spot: 6
-  Camouflage: 2
-  Agility: 13
-  Armor: 8
-  Psy Defense: 4
-  Rank: 47
+  Movement Type: foot
+  Move Points: 12
+  Spot: 3
+  Camouflage: 9
+  Agility: 14
+  Armor: 12
+  Psy Defense: 6
+  Rank: 118
 Attacks:
-  Air: 3/5
-  Indirect: 6/17
-Load aboard transport: 4
-Upkeep / Maintenance: 12
-Build Cost: 117
+  Air: 38/9
+  Indirect: 32/17
+  Direct: 26/14
+Load aboard transport: 1
+Upkeep / Maintenance: 28
+Build Cost: 135
 Build Resource Requirements:
-  Food: 16
-  Energy: 48
-  Metal: 30
-  Trace: 19
-  Exotica: 16
-  Chemicals: 58
-  Electronics: 11
-Build Large Bomber Monoplane in Factory
-Time to Build / Upgrade: 4
-[1055] Technologies Required to Build Unit (94):
-  [445] Monoplane (94)
-  [610] Air-Air Rockets (94)
+  Energy: 5
+  Metal: 3
+  Exotica: 1
+  Chemicals: 9
+  Ceramsteel: 3
+Upgrade Medium Infantry Legion (PA) to Medium Infantry Legion (CE) at Lab
+Time to Build / Upgrade: 1
+[9530] Technologies Required to Build Unit (79):
+  [525] Anti-Aircraft Weaponry (94)
+  [8600] Cybernetically-Enhanced Soldiers (48)
+  [405] Recoilless Rifle (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Giant Bomber Monoplane
-Nick Name: A-MGB
+Name: Medium Inf. Legion (AVE)
+Nick Name: Med Inf (AVE)
 Scores & Strengths:
-  Tech Score: 265
-  Unit Score: 528
-  Average Score: 396
-  Stat Strength: 409
-  Total Strength: 528
-  Planet Strength: 528
+  Tech Score: 1903
+  Unit Score: 1900
+  Average Score: 1902
+  Stat Strength: 610
+  Total Strength: 1900
+  Planet Strength: 1900
   Space Strength: 0
-  Garrison Strength: 152
+  Garrison Strength: 548
 Statistics:
-  Movement Type: air
+  Movement Type: foot
   Move Points: 12
-  Spot: 6
-  Camouflage: 2
-  Agility: 10
-  Armor: 10
-  Psy Defense: 5
-  Rank: 48
+  Spot: 3
+  Camouflage: 9
+  Agility: 14
+  Armor: 12
+  Psy Defense: 6
+  Rank: 119
 Attacks:
-  Indirect: 7/17
-Load aboard transport: 5
-Upkeep / Maintenance: 11
-Build Cost: 113
+  Air: 39/9
+  Indirect: 33/17
+  Direct: 27/14
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 33
+Build Cost: 229
 Build Resource Requirements:
-  Food: 15
-  Energy: 44
-  Metal: 47
-  Trace: 16
-  Exotica: 15
-  Chemicals: 53
-  Electronics: 7
-Build Giant Bomber Monoplane in Factory
-Time to Build / Upgrade: 4
-[1055] Technologies Required to Build Unit (94):
-  [445] Monoplane (94)
-  [610] Air-Air Rockets (94)
+  Energy: 3
+  Metal: 1
+  Chemicals: 5
+  Biochems: 10
+  Electronics: 2
+Upgrade Medium Infantry Legion (GE) to Medium Inf. Legion (AVE) at Lab
+Time to Build / Upgrade: 1
+[9830] Technologies Required to Build Unit (71):
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+  [8900] Genetically-Enhanced Warriors (25)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Medium Infantry Legion (ME)
+Nick Name: Med Inf (ME)
+Scores & Strengths:
+  Tech Score: 1401
+  Unit Score: 2017
+  Average Score: 1709
+  Stat Strength: 969
+  Total Strength: 2017
+  Planet Strength: 2017
+  Space Strength: 0
+  Garrison Strength: 440
+Statistics:
+  Movement Type: foot
+  Move Points: 21
+  Spot: 3
+  Camouflage: 7
+  Agility: 18
+  Armor: 11
+  Psy Defense: 5
+  Rank: 109
+Attacks:
+  Air: 34/8
+  Indirect: 29/16
+  Direct: 24/13
+Load aboard transport: 1
+Upkeep / Maintenance: 19
+Build Cost: 136
+Build Resource Requirements:
+  Food: 6
+  Energy: 15
+  Trace: 10
+  Exotica: 6
+  Chemicals: 27
+  Electronics: 45
+  Ceramsteel: 5
+Upgrade Medium Infantry Legion to Medium Infantry Legion (ME) at Factory
+Time to Build / Upgrade: 2
+[7150] Technologies Required to Build Unit (89):
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+  [6220] Mechanically-Enhanced Soldiers (80)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Medium Infantry Legion (MF)
+Nick Name: Med Inf (MF)
+Scores & Strengths:
+  Tech Score: 3201
+  Unit Score: 3058
+  Average Score: 3130
+  Stat Strength: 907
+  Total Strength: 3058
+  Planet Strength: 3058
+  Space Strength: 0
+  Garrison Strength: 789
+Statistics:
+  Movement Type: foot
+  Move Points: 15
+  Spot: 4
+  Camouflage: 11
+  Agility: 16
+  Armor: 15
+  Psy Defense: 8
+  Rank: 154
+Attacks:
+  Air: 49/11
+  Indirect: 42/23
+  Direct: 34/19
+Load aboard transport: 1
+Upkeep / Maintenance: 208
+Build Cost: 1943
+Build Resource Requirements:
+  Energy: 2
+  Biochems: 6
+  Wetware: 29
+  Monopols: 39
+Upgrade Medium Infantry Legion (CE) to Medium Infantry Legion (MF) at Wetware
+Time to Build / Upgrade: 3
+[19505] Technologies Required to Build Unit (74):
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+  [18575] Machine-Fused Soldiers (35)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Medium Infantry Legion (NE)
+Nick Name: Med Inf (NE)
+Scores & Strengths:
+  Tech Score: 3890
+  Unit Score: 3875
+  Average Score: 3883
+  Stat Strength: 1187
+  Total Strength: 3875
+  Planet Strength: 3875
+  Space Strength: 0
+  Garrison Strength: 939
+Statistics:
+  Movement Type: foot
+  Move Points: 17
+  Spot: 4
+  Camouflage: 16
+  Agility: 16
+  Armor: 17
+  Psy Defense: 9
+  Rank: 172
+Attacks:
+  Air: 55/13
+  Indirect: 47/25
+  Direct: 38/21
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 238
+Build Cost: 2150
+Build Resource Requirements:
+  Wetware: 34
+  Monopols: 21
+Upgrade Medium Inf. Legion (AVE) to Medium Infantry Legion (NE) at Fusorium
+Time to Build / Upgrade: 3
+[25060] Technologies Required to Build Unit (73):
+  [525] Anti-Aircraft Weaponry (94)
+  [405] Recoilless Rifle (94)
+  [24130] Neumonically-Enhanced Soldiers (32)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

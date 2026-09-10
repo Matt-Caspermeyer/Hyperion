@@ -1,553 +1,518 @@
-All units of the unit class Personal Surveillance Drone are listed herein (12 in total):
+All units of the unit class Battleship are listed herein (11 in total):
 
 --1--
-Name: Personal Surveillance Drone
-Nick Name: Drone (PR)
+Name: Battleship
+Nick Name: NN-BB
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 557
-  Average Score: 1376
-  Stat Strength: 557
-  Total Strength: 557
-  Planet Strength: 557
+  Tech Score: 203
+  Unit Score: 505
+  Average Score: 354
+  Stat Strength: 447
+  Total Strength: 505
+  Planet Strength: 505
   Space Strength: 0
-  Garrison Strength: 160
+  Garrison Strength: 190
 Statistics:
-  Movement Type: air
-  Move Points: 12
-  Spot: 12
-  Camouflage: 5
-  Agility: 8
-  Armor: 6
-  Psy Defense: 12
-  Rank: 45
-Load aboard transport: 1
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 3
-Build Cost: 30
+  Movement Type: naval
+  Move Points: 7
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 14
+  Psy Defense: 14
+  Rank: 46
+Attacks:
+  Indirect: 2/24
+  Direct: 1/10
+Cargo Space: 2
+Load aboard transport: 7
+Upkeep / Maintenance: 53
+Build Cost: 526
 Build Resource Requirements:
-  Food: 2
-  Energy: 3
-  Metal: 3
-  Trace: 3
-  Exotica: 2
-  Chemicals: 5
-  Electronics: 5
-  Ceramsteel: 7
-Build Personal Surveillance Drone in Factory
-Time to Build / Upgrade: 1
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+  Food: 5
+  Energy: 98
+  Metal: 81
+  Trace: 4
+  Exotica: 4
+  Chemicals: 94
+Build Battleship in Well
+Time to Build / Upgrade: 6
+[835] Technologies Required to Build Unit (97):
+  [230] Hospitals (97)
+  [110] Structural Engineering (99)
+  [170] Fire Control System (89)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Bomber Drone
-Nick Name: Drone (B)
+Name: Dreadnought Battleship
+Nick Name: NN-BB-DD
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2190
-  Average Score: 2192
-  Stat Strength: 1530
-  Total Strength: 2190
-  Planet Strength: 2190
+  Tech Score: 213
+  Unit Score: 634
+  Average Score: 424
+  Stat Strength: 554
+  Total Strength: 634
+  Planet Strength: 634
   Space Strength: 0
-  Garrison Strength: 547
+  Garrison Strength: 258
 Statistics:
-  Movement Type: air
-  Move Points: 16
-  Spot: 14
-  Camouflage: 7
-  Agility: 7
-  Armor: 14
-  Psy Defense: 28
-  Rank: 114
+  Movement Type: naval
+  Move Points: 6
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 16
+  Psy Defense: 16
+  Rank: 716
 Attacks:
-  Indirect: 15/44
-Load aboard transport: 2
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 21
-Build Cost: 212
+  Indirect: 2/29
+  Direct: 2/11
+Cargo Space: 2
+Load aboard transport: 7
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 114
+Build Cost: 1139
 Build Resource Requirements:
   Food: 4
-  Energy: 34
-  Metal: 15
-  Trace: 8
-  Exotica: 4
-  Chemicals: 60
-  Electronics: 7
-  Ceramsteel: 37
-Build Bomber Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+  Energy: 136
+  Metal: 106
+  Trace: 5
+  Exotica: 3
+  Chemicals: 131
+Build Dreadnought Battleship in Well
+Time to Build / Upgrade: 7
+[865] Technologies Required to Build Unit (97):
+  [230] Hospitals (97)
+  [110] Structural Engineering (99)
+  [200] Admiralty Fire Control Table (87)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Patrol Drone
-Nick Name: Drone (P)
+Name: Fast Battleship
+Nick Name: NN-BB-F
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2191
-  Average Score: 2193
-  Stat Strength: 1257
-  Total Strength: 2191
-  Planet Strength: 2191
+  Tech Score: 775
+  Unit Score: 1546
+  Average Score: 1160
+  Stat Strength: 1230
+  Total Strength: 1546
+  Planet Strength: 1546
   Space Strength: 0
-  Garrison Strength: 585
+  Garrison Strength: 488
 Statistics:
-  Movement Type: air
-  Move Points: 14
-  Spot: 16
-  Camouflage: 10
-  Agility: 10
-  Armor: 11
-  Psy Defense: 22
-  Rank: 97
+  Movement Type: naval
+  Move Points: 10
+  Spot: 8
+  Camouflage: 2
+  Agility: 2
+  Armor: 23
+  Psy Defense: 23
+  Rank: 79
 Attacks:
-  Direct: 22/22
-  Close: 30/15
-Load aboard transport: 2
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 20
-Build Cost: 195
+  Indirect: 5/22
+  Direct: 10/18
+  Close: 2/13
+Cargo Space: 2
+Load aboard transport: 7
+Upkeep / Maintenance: 43
+Build Cost: 430
 Build Resource Requirements:
   Food: 4
-  Energy: 15
-  Metal: 9
-  Trace: 27
+  Energy: 44
+  Metal: 83
+  Trace: 11
   Exotica: 4
-  Chemicals: 26
-  Electronics: 46
-  Ceramsteel: 23
-Build Patrol Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+  Chemicals: 43
+  Biochems: 7
+  Electronics: 7
+Build Fast Battleship in Well
+Time to Build / Upgrade: 4
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Anti-Ship Drone
-Nick Name: Drone (ASh)
+Name: Pocket Battleship
+Nick Name: NN-BB-PP
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2193
-  Average Score: 2194
-  Stat Strength: 1425
-  Total Strength: 2193
-  Planet Strength: 2193
+  Tech Score: 775
+  Unit Score: 1546
+  Average Score: 1160
+  Stat Strength: 1216
+  Total Strength: 1546
+  Planet Strength: 1546
   Space Strength: 0
-  Garrison Strength: 548
+  Garrison Strength: 515
 Statistics:
-  Movement Type: air
-  Move Points: 16
-  Spot: 14
-  Camouflage: 8
-  Agility: 8
-  Armor: 13
-  Psy Defense: 26
-  Rank: 113
+  Movement Type: naval
+  Move Points: 9
+  Spot: 8
+  Camouflage: 2
+  Agility: 3
+  Armor: 23
+  Psy Defense: 23
+  Rank: 79
 Attacks:
-  Water: 12/32
-  Indirect: 12/32
-Load aboard transport: 3
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 21
-Build Cost: 214
+  Indirect: 5/24
+  Direct: 8/20
+  Close: 5/10
+Cargo Space: 2
+Load aboard transport: 6
+Upkeep / Maintenance: 44
+Build Cost: 436
 Build Resource Requirements:
   Food: 4
-  Energy: 36
-  Metal: 13
-  Trace: 9
+  Energy: 47
+  Metal: 83
+  Trace: 10
   Exotica: 4
-  Chemicals: 62
-  Electronics: 11
-  Ceramsteel: 32
-Build Anti-Ship Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+  Chemicals: 47
+  Biochems: 6
+  Electronics: 6
+Build Pocket Battleship in Well
+Time to Build / Upgrade: 4
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Anti-Tank Drone
-Nick Name: Drone (AT)
+Name: Battleship II
+Nick Name: N-BB-2
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2193
-  Average Score: 2194
-  Stat Strength: 1564
-  Total Strength: 2193
-  Planet Strength: 2193
+  Tech Score: 775
+  Unit Score: 1550
+  Average Score: 1162
+  Stat Strength: 1302
+  Total Strength: 1550
+  Planet Strength: 1550
   Space Strength: 0
-  Garrison Strength: 586
+  Garrison Strength: 516
 Statistics:
-  Movement Type: air
-  Move Points: 14
-  Spot: 12
-  Camouflage: 12
-  Agility: 10
-  Armor: 14
-  Psy Defense: 28
-  Rank: 94
+  Movement Type: naval
+  Move Points: 9
+  Spot: 8
+  Camouflage: 1
+  Agility: 2
+  Armor: 24
+  Psy Defense: 24
+  Rank: 74
 Attacks:
-  Direct: 17/37
-Load aboard transport: 2
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 20
-Build Cost: 196
+  Indirect: 3/28
+  Direct: 8/18
+  Close: 2/10
+Cargo Space: 2
+Load aboard transport: 7
+Upkeep / Maintenance: 46
+Build Cost: 459
 Build Resource Requirements:
-  Food: 3
-  Energy: 25
-  Metal: 15
-  Trace: 10
-  Exotica: 3
-  Chemicals: 44
-  Electronics: 16
-  Ceramsteel: 37
-Build Anti-Tank Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+  Food: 4
+  Energy: 52
+  Metal: 90
+  Trace: 8
+  Exotica: 4
+  Chemicals: 52
+  Biochems: 5
+  Electronics: 5
+Build Battleship II in Well
+Time to Build / Upgrade: 4
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Fighter-Bomber Drone
-Nick Name: Drone (FB)
+Name: Guid. Miss. Battleship
+Nick Name: NN-BB-GM
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2193
-  Average Score: 2194
-  Stat Strength: 1361
-  Total Strength: 2193
-  Planet Strength: 2193
+  Tech Score: 1339
+  Unit Score: 2679
+  Average Score: 2009
+  Stat Strength: 2089
+  Total Strength: 2679
+  Planet Strength: 2679
   Space Strength: 0
-  Garrison Strength: 531
+  Garrison Strength: 743
 Statistics:
-  Movement Type: air
-  Move Points: 17
-  Spot: 12
-  Camouflage: 8
-  Agility: 12
-  Armor: 12
-  Psy Defense: 24
-  Rank: 118
+  Movement Type: naval
+  Move Points: 13
+  Spot: 10
+  Camouflage: 4
+  Agility: 2
+  Armor: 30
+  Psy Defense: 30
+  Rank: 108
 Attacks:
-  Air: 22/20
-  Indirect: 14/28
-Load aboard transport: 2
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 184
+  Air: 6/25
+  Indirect: 8/30
+  Direct: 8/25
+Cargo Space: 2
+Load aboard transport: 7
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 96
+Build Cost: 964
 Build Resource Requirements:
-  Food: 4
-  Energy: 23
-  Metal: 11
-  Trace: 15
-  Exotica: 4
-  Chemicals: 42
-  Electronics: 19
-  Ceramsteel: 27
-Build Fighter-Bomber Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+  Food: 3
+  Energy: 62
+  Metal: 48
+  Trace: 7
+  Exotica: 3
+  Chemicals: 86
+  Biochems: 5
+  Electronics: 7
+  Ceramsteel: 58
+Build Guid. Miss. Battleship in Well
+Time to Build / Upgrade: 6
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Anti-Personnel Drone
-Nick Name: Drone (AP)
+Name: Amphibious Battleship
+Nick Name: CC-BB
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2194
-  Average Score: 2194
-  Stat Strength: 1369
-  Total Strength: 2194
-  Planet Strength: 2194
+  Tech Score: 2993
+  Unit Score: 2993
+  Average Score: 2993
+  Stat Strength: 2642
+  Total Strength: 2993
+  Planet Strength: 2993
   Space Strength: 0
-  Garrison Strength: 548
+  Garrison Strength: 799
 Statistics:
-  Movement Type: air
-  Move Points: 16
-  Spot: 16
-  Camouflage: 16
-  Agility: 14
-  Armor: 9
-  Psy Defense: 18
-  Rank: 92
+  Movement Type: craft
+  Move Points: 14
+  Spot: 10
+  Camouflage: 3
+  Agility: 5
+  Armor: 34
+  Psy Defense: 34
+  Rank: 107
 Attacks:
-  Close: 33/25
-Load aboard transport: 2
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 178
+  Indirect: 8/26
+  Direct: 11/13
+Cargo Space: 2
+Load aboard transport: 7
+Upkeep / Maintenance: 73
+Build Cost: 731
 Build Resource Requirements:
-  Food: 5
-  Energy: 15
-  Metal: 6
-  Trace: 26
-  Exotica: 5
-  Chemicals: 26
-  Electronics: 43
-  Ceramsteel: 15
-Build Anti-Personnel Drone in Electronics Plant
+  Food: 1
+  Energy: 6
+  Metal: 14
+  Trace: 3
+  Exotica: 1
+  Chemicals: 11
+  Biochems: 13
+  Electronics: 3
+  Ceramsteel: 16
+  Monopols: 23
+Build Amphibious Battleship in Well
 Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+[26040] Technologies Required to Build Unit (83):
+  [2855] Naval Amphibious Ships (87)
+  [6655] PTS Missile Navalcraft (83)
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: General-Purpose Drone
-Nick Name: Drone (GP)
+Name: PTS Missile Battleship
+Nick Name: NN-BB-GM
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2194
-  Average Score: 2194
-  Stat Strength: 1180
-  Total Strength: 2194
-  Planet Strength: 2194
-  Space Strength: 0
-  Garrison Strength: 586
+  Tech Score: 1474
+  Unit Score: 3685
+  Average Score: 2579
+  Stat Strength: 2780
+  Total Strength: 3685
+  Planet Strength: 3570
+  Space Strength: 2895
+  Garrison Strength: 954
 Statistics:
-  Movement Type: air
+  Movement Type: naval
   Move Points: 14
-  Spot: 14
-  Camouflage: 12
-  Agility: 12
-  Armor: 10
-  Psy Defense: 20
-  Rank: 113
+  Spot: 10
+  Camouflage: 5
+  Agility: 3
+  Armor: 35
+  Psy Defense: 35
+  Rank: 135
 Attacks:
-  Indirect: 16/23
-  Direct: 18/22
-  Close: 25/10
-Load aboard transport: 2
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 19
-Build Cost: 189
+  Ranged Space: 5/23
+  Air: 15/30
+  Indirect: 10/34
+Cargo Space: 2
+Load aboard transport: 8
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 139
+Build Cost: 1385
 Build Resource Requirements:
-  Food: 4
-  Energy: 21
-  Metal: 8
-  Trace: 24
+  Food: 3
+  Energy: 68
+  Metal: 59
+  Trace: 11
   Exotica: 4
-  Chemicals: 37
-  Electronics: 35
-  Ceramsteel: 19
-Build General-Purpose Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+  Chemicals: 99
+  Biochems: 7
+  Electronics: 11
+  Ceramsteel: 74
+Build PTS Missile Battleship in Well
+Time to Build / Upgrade: 7
+[6655] Technology Required to Build Unit (83):
+  [6655] PTS Missile Navalcraft (83)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Fighter Drone
-Nick Name: Drone (F)
+Name: Nuclear Battleship
+Nick Name: NN-BBN
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2195
-  Average Score: 2195
-  Stat Strength: 1436
-  Total Strength: 2195
-  Planet Strength: 2195
+  Tech Score: 1579
+  Unit Score: 4738
+  Average Score: 3158
+  Stat Strength: 3598
+  Total Strength: 4738
+  Planet Strength: 4738
   Space Strength: 0
-  Garrison Strength: 517
+  Garrison Strength: 1223
 Statistics:
-  Movement Type: air
-  Move Points: 18
-  Spot: 12
-  Camouflage: 12
-  Agility: 18
-  Armor: 10
-  Psy Defense: 20
-  Rank: 114
+  Movement Type: naval
+  Move Points: 15
+  Spot: 11
+  Camouflage: 6
+  Agility: 4
+  Armor: 40
+  Psy Defense: 40
+  Rank: 140
 Attacks:
-  Air: 33/23
-Load aboard transport: 2
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 180
+  Air: 10/30
+  Indirect: 12/40
+  Direct: 12/30
+Cargo Space: 2
+Load aboard transport: 7
+Upkeep / Maintenance: 172
+Build Cost: 1722
 Build Resource Requirements:
-  Food: 5
-  Energy: 15
-  Metal: 8
-  Trace: 23
-  Exotica: 5
-  Chemicals: 27
-  Electronics: 39
-  Ceramsteel: 19
-Build Fighter Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+  Food: 4
+  Energy: 83
+  Metal: 72
+  Trace: 12
+  Exotica: 4
+  Chemicals: 123
+  Biochems: 7
+  Electronics: 12
+  Ceramsteel: 93
+Build Nuclear Battleship in Well
+Time to Build / Upgrade: 9
+[7295] Technology Required to Build Unit (81):
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Anti-Submarine Drone
-Nick Name: Drone (ASu)
+Name: Meson Amphibious Battleship
+Nick Name: CC-MBB
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2196
-  Average Score: 2195
-  Stat Strength: 1428
-  Total Strength: 2196
-  Planet Strength: 2196
-  Space Strength: 0
-  Garrison Strength: 549
+  Tech Score: 5641
+  Unit Score: 5641
+  Average Score: 5641
+  Stat Strength: 4706
+  Total Strength: 5641
+  Planet Strength: 5191
+  Space Strength: 5156
+  Garrison Strength: 1297
 Statistics:
-  Movement Type: air
+  Movement Type: craft
   Move Points: 16
-  Spot: 18
-  Camouflage: 8
-  Agility: 8
-  Armor: 12
-  Psy Defense: 24
-  Rank: 107
+  Spot: 12
+  Camouflage: 5
+  Agility: 7
+  Armor: 46
+  Psy Defense: 46
+  Rank: 170
 Attacks:
-  Water: 24/32
-Load aboard transport: 3
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 184
+  Ranged Space: 15/30
+  Indirect: 10/29
+  Direct: 13/15
+Cargo Space: 2
+Load aboard transport: 8
+Upkeep / Maintenance: 107
+Build Cost: 335
 Build Resource Requirements:
-  Food: 5
-  Energy: 20
-  Metal: 11
-  Trace: 15
-  Exotica: 5
-  Chemicals: 36
-  Electronics: 25
-  Ceramsteel: 27
-Build Anti-Submarine Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+  Energy: 1
+  Chemicals: 2
+  Electronics: 5
+  Monopols: 2
+Upgrade Amphibious Battleship to Meson Amphibious Battleship at Well
+Time to Build / Upgrade: 1
+[70095] Technologies Required to Build Unit (74):
+  [2855] Naval Amphibious Ships (87)
+  [27875] PTS Meson Navalcraft (74)
+  [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --11--
-Name: Surveillance Drone
-Nick Name: Drone (R)
+Name: Hover Battleship
+Nick Name: Armageddon
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2197
-  Average Score: 2196
-  Stat Strength: 2197
-  Total Strength: 2197
-  Planet Strength: 2197
+  Tech Score: 6233
+  Unit Score: 6437
+  Average Score: 6335
+  Stat Strength: 5637
+  Total Strength: 6437
+  Planet Strength: 6437
   Space Strength: 0
-  Garrison Strength: 448
+  Garrison Strength: 1517
 Statistics:
-  Movement Type: air
-  Move Points: 24
-  Spot: 24
-  Camouflage: 10
-  Agility: 15
-  Armor: 12
-  Psy Defense: 24
-  Rank: 62
-Load aboard transport: 2
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 16
-Build Cost: 157
+  Movement Type: hover
+  Move Points: 18
+  Spot: 14
+  Camouflage: 6
+  Agility: 9
+  Armor: 50
+  Psy Defense: 50
+  Rank: 825
+Attacks:
+  Air: 14/25
+  Indirect: 9/50
+Cargo Space: 2
+Load aboard transport: 7
+Officer - Provides stack combat bonuses
+Upkeep / Maintenance: 310
+Build Cost: 3098
 Build Resource Requirements:
-  Food: 10
-  Energy: 10
+  Food: 1
+  Energy: 13
   Metal: 11
-  Trace: 12
-  Exotica: 10
-  Chemicals: 19
-  Electronics: 20
-  Ceramsteel: 27
-Build Surveillance Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+  Trace: 2
+  Exotica: 1
+  Chemicals: 24
+  Biochems: 26
+  Electronics: 9
+  Ceramsteel: 21
+  Wetware: 2
+  Monopols: 48
+Build Hover Battleship in Well
+Time to Build / Upgrade: 4
+[45520] Technology Required to Build Unit (53):
+  [45520] Hover Navalcraft (53)
 Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---12--
-Name: Transport Drone
-Nick Name: Drone (X)
-Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2198
-  Average Score: 2196
-  Stat Strength: 2198
-  Total Strength: 2198
-  Planet Strength: 2198
-  Space Strength: 0
-  Garrison Strength: 634
-Statistics:
-  Movement Type: air
-  Move Points: 12
-  Spot: 11
-  Camouflage: 8
-  Agility: 8
-  Armor: 19
-  Psy Defense: 38
-  Rank: 61
-Cargo Space: 1
-Load aboard transport: 4
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 175
-Build Resource Requirements:
-  Food: 2
-  Energy: 3
-  Metal: 27
-  Trace: 3
-  Exotica: 2
-  Chemicals: 10
-  Electronics: 6
-  Ceramsteel: 68
-Build Transport Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
-Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

@@ -1,251 +1,379 @@
-All units of the unit class Airborne Warn. Aircraft are listed herein (6 in total):
+All units of the unit class Zodiac are listed herein (8 in total):
 
 --1--
-Name: Airborne Warn. Aircraft
-Nick Name: AWACS
+Name: Zodiac
+Nick Name: Zodiac
 Scores & Strengths:
-  Tech Score: 835
-  Unit Score: 837
-  Average Score: 836
-  Stat Strength: 837
-  Total Strength: 837
-  Planet Strength: 837
-  Space Strength: 0
-  Garrison Strength: 252
+  Tech Score: 730
+  Unit Score: 730
+  Average Score: 730
+  Stat Strength: 530
+  Total Strength: 730
+  Planet Strength: 666
+  Space Strength: 666
+  Garrison Strength: 297
 Statistics:
-  Movement Type: air
-  Move Points: 11
-  Spot: 20
-  Camouflage: 4
-  Agility: 10
-  Armor: 10
-  Psy Defense: 10
-  Rank: 704
-Load aboard transport: 5
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 14
-Build Cost: 141
+  Movement Type: lander
+  Move Points: 5
+  Spot: 10
+  Camouflage: 6
+  Agility: 17
+  Armor: 4
+  Psy Defense: 8
+  Rank: 733
+Attacks:
+  Close Space: 8/8
+  Psychic: 9/8
+  Close: 8/8
+Load aboard transport: 1
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 193
+Build Cost: 1926
 Build Resource Requirements:
-  Food: 15
-  Energy: 9
-  Metal: 96
-  Trace: 19
-  Exotica: 14
-  Chemicals: 10
-  Electronics: 22
-Build Airborne Warn. Aircraft in Factory
-Time to Build / Upgrade: 3
-[3275] Technologies Required to Build Unit (82):
-  [1465] Airborne-Pulse Radar (78)
-  [1810] Jet-Propulsion Aircraft (86)
+  Food: 33
+  Energy: 59
+  Metal: 9
+  Trace: 45
+  Exotica: 42
+  Chemicals: 61
+  Electronics: 65
+  Gems: 6
+  Singularities: 2
+Build Zodiac in Church
+Time to Build / Upgrade: 4
+[2795] Technologies Required to Build Unit (59):
+  [330] Holy Warriors (82)
+  [2465] Sathra (36)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Airborne Warn. Aircraft II
-Nick Name: AWACS II
+Name: Sathraist
+Nick Name: Sathraist
 Scores & Strengths:
-  Tech Score: 1126
-  Unit Score: 1087
-  Average Score: 1107
-  Stat Strength: 1087
-  Total Strength: 1087
-  Planet Strength: 1087
-  Space Strength: 0
-  Garrison Strength: 301
+  Tech Score: 956
+  Unit Score: 957
+  Average Score: 956
+  Stat Strength: 600
+  Total Strength: 957
+  Planet Strength: 876
+  Space Strength: 825
+  Garrison Strength: 331
 Statistics:
-  Movement Type: air
-  Move Points: 13
-  Spot: 22
-  Camouflage: 5
-  Agility: 11
-  Armor: 12
-  Psy Defense: 12
-  Rank: 710
-Load aboard transport: 5
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 17
-Build Cost: 170
+  Movement Type: lander
+  Move Points: 7
+  Spot: 11
+  Camouflage: 7
+  Agility: 16
+  Armor: 5
+  Psy Defense: 10
+  Rank: 748
+Attacks:
+  Close Space: 9/9
+  Psychic: 12/12
+  Air: 8/4
+  Close: 10/10
+Load aboard transport: 1
+Clergy - Increases Tithe Skim and Converts Sects
+Immune to Plague
+Upkeep / Maintenance: 244
+Build Cost: 2436
 Build Resource Requirements:
-  Food: 15
-  Energy: 9
-  Metal: 126
-  Trace: 20
-  Exotica: 15
-  Chemicals: 11
-  Electronics: 25
-Build Airborne Warn. Aircraft II in Factory
-Time to Build / Upgrade: 3
-[4805] Technologies Required to Build Unit (82):
-  [1605] Imaging Radar (78)
-  [3200] Supersonic Aircraft (85)
+  Food: 36
+  Energy: 78
+  Metal: 13
+  Trace: 59
+  Exotica: 44
+  Chemicals: 81
+  Electronics: 85
+  Gems: 10
+  Singularities: 3
+Build Sathraist in Church
+Time to Build / Upgrade: 4
+[3920] Technologies Required to Build Unit (54):
+  [330] Holy Warriors (82)
+  [3590] Sathraists (26)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Airborne Warn. Aircraft III
-Nick Name: AWACS III
+Name: Brother Battle Mech
+Nick Name: BB Mech
 Scores & Strengths:
-  Tech Score: 1441
-  Unit Score: 1209
-  Average Score: 1325
-  Stat Strength: 1209
-  Total Strength: 1209
-  Planet Strength: 1209
+  Tech Score: 3160
+  Unit Score: 3160
+  Average Score: 3160
+  Stat Strength: 1497
+  Total Strength: 3160
+  Planet Strength: 3160
   Space Strength: 0
-  Garrison Strength: 323
+  Garrison Strength: 724
 Statistics:
-  Movement Type: air
-  Move Points: 14
-  Spot: 23
-  Camouflage: 5
-  Agility: 11
-  Armor: 13
-  Psy Defense: 13
-  Rank: 713
-Load aboard transport: 5
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 16
-Build Cost: 159
+  Movement Type: mech
+  Move Points: 19
+  Spot: 15
+  Camouflage: 9
+  Agility: 15
+  Armor: 11
+  Psy Defense: 22
+  Rank: 140
+Attacks:
+  Air: 20/18
+  Indirect: 19/26
+  Direct: 19/22
+  Close: 23/17
+Load aboard transport: 2
+Immune to Plague
+Upkeep / Maintenance: 187
+Build Cost: 1872
 Build Resource Requirements:
-  Food: 11
-  Energy: 7
-  Metal: 148
-  Trace: 13
-  Exotica: 11
-  Chemicals: 10
-  Electronics: 20
-Build Airborne Warn. Aircraft III in Factory
-Time to Build / Upgrade: 3
-[7565] Technologies Required to Build Unit (79):
-  [1900] LASER (76)
-  [5665] Hypersonic Aircraft (82)
+  Food: 3
+  Energy: 18
+  Metal: 5
+  Trace: 17
+  Exotica: 4
+  Chemicals: 30
+  Biochems: 21
+  Electronics: 30
+  Ceramsteel: 6
+  Monopols: 35
+Build Brother Battle Mech in Starport
+Time to Build / Upgrade: 4
+[21450] Technologies Required to Build Unit (60):
+  [8600] Cybernetically-Enhanced Soldiers (48)
+  [12850] Mechanized Warriors (71)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Airborne Warn. Aircraft IV
-Nick Name: AWACS IV
+Name: Cyber Mech
+Nick Name: Cyber Mech
 Scores & Strengths:
-  Tech Score: 1767
-  Unit Score: 1462
-  Average Score: 1614
-  Stat Strength: 1462
-  Total Strength: 1462
-  Planet Strength: 1462
+  Tech Score: 4112
+  Unit Score: 4112
+  Average Score: 4112
+  Stat Strength: 2241
+  Total Strength: 4112
+  Planet Strength: 4112
   Space Strength: 0
-  Garrison Strength: 365
+  Garrison Strength: 919
 Statistics:
-  Movement Type: air
-  Move Points: 16
-  Spot: 24
-  Camouflage: 6
-  Agility: 12
-  Armor: 15
-  Psy Defense: 15
-  Rank: 718
-Load aboard transport: 5
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 11
-Build Cost: 108
+  Movement Type: mech
+  Move Points: 20
+  Spot: 16
+  Camouflage: 16
+  Agility: 23
+  Armor: 20
+  Psy Defense: 20
+  Rank: 144
+Attacks:
+  Air: 24/21
+  Direct: 23/29
+  Close: 28/25
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 156
+Build Cost: 1561
 Build Resource Requirements:
-  Food: 10
-  Energy: 7
-  Metal: 7
-  Trace: 12
-  Exotica: 10
-  Chemicals: 13
-  Electronics: 19
-  Ceramsteel: 17
-Build Airborne Warn. Aircraft IV in Factory
-Time to Build / Upgrade: 2
-[9710] Technologies Required to Build Unit (80):
-  [2100] High-Power LASER (80)
-  [7610] Atmospheric Aircraft (80)
+  Food: 2
+  Energy: 14
+  Metal: 3
+  Trace: 15
+  Exotica: 3
+  Chemicals: 19
+  Biochems: 22
+  Electronics: 32
+  Ceramsteel: 4
+  Monopols: 25
+Cyber Mech cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Airborne Warn. Aircraft V
-Nick Name: AWACS V
+Name: Imperial Assault Mech
+Nick Name: Gladiaor
 Scores & Strengths:
-  Tech Score: 1946
-  Unit Score: 1544
-  Average Score: 1745
-  Stat Strength: 1544
-  Total Strength: 1544
-  Planet Strength: 1544
+  Tech Score: 5593
+  Unit Score: 5394
+  Average Score: 5493
+  Stat Strength: 2830
+  Total Strength: 5394
+  Planet Strength: 5394
   Space Strength: 0
-  Garrison Strength: 374
+  Garrison Strength: 1348
 Statistics:
-  Movement Type: air
-  Move Points: 17
-  Spot: 25
-  Camouflage: 6
-  Agility: 12
-  Armor: 15
-  Psy Defense: 15
-  Rank: 720
-Load aboard transport: 5
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 11
-Build Cost: 106
+  Movement Type: mech
+  Move Points: 16
+  Spot: 18
+  Camouflage: 10
+  Agility: 30
+  Armor: 25
+  Psy Defense: 25
+  Rank: 177
+Attacks:
+  Air: 39/16
+  Indirect: 30/25
+  Direct: 35/18
+  Close: 40/14
+Load aboard transport: 4
+Immune to Plague
+Upkeep / Maintenance: 153
+Build Cost: 1533
 Build Resource Requirements:
-  Food: 9
-  Energy: 7
-  Metal: 7
-  Trace: 11
-  Exotica: 9
-  Chemicals: 13
-  Electronics: 18
-  Ceramsteel: 17
-Build Airborne Warn. Aircraft V in Factory
-Time to Build / Upgrade: 2
-[11510] Technologies Required to Build Unit (80):
-  [2990] Adaptive Optics (81)
-  [8520] Advanced Atmospheric Aircraft (79)
+  Food: 2
+  Energy: 8
+  Metal: 3
+  Trace: 35
+  Exotica: 2
+  Chemicals: 12
+  Biochems: 31
+  Electronics: 56
+  Ceramsteel: 5
+  Monopols: 19
+Build Imperial Assault Mech in Starport
+Time to Build / Upgrade: 3
+[52740] Technologies Required to Build Unit (66):
+  [15130] Fusion Battle Tanks (68)
+  [37610] Advanced Mechanized Warriors (63)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Airborne Warn. Aircraft VI
-Nick Name: AWACS VI
+Name: Stigmata Mech Defender
+Nick Name: Cavalier
 Scores & Strengths:
-  Tech Score: 2770
-  Unit Score: 1995
-  Average Score: 2383
-  Stat Strength: 1995
-  Total Strength: 1995
-  Planet Strength: 1995
-  Space Strength: 0
-  Garrison Strength: 446
+  Tech Score: 5401
+  Unit Score: 5401
+  Average Score: 5401
+  Stat Strength: 2873
+  Total Strength: 5401
+  Planet Strength: 4267
+  Space Strength: 4007
+  Garrison Strength: 1101
 Statistics:
-  Movement Type: air
-  Move Points: 20
-  Spot: 27
-  Camouflage: 7
-  Agility: 13
-  Armor: 18
-  Psy Defense: 18
-  Rank: 729
-Load aboard transport: 5
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 52
-Build Cost: 518
+  Movement Type: mech
+  Move Points: 15
+  Spot: 24
+  Camouflage: 12
+  Agility: 24
+  Armor: 26
+  Psy Defense: 26
+  Rank: 197
+Attacks:
+  Direct Space: 24/27
+  Close Space: 27/18
+  Air: 20/13
+  Direct: 24/27
+  Close: 27/18
+Load aboard transport: 2
+Immune to Plague
+Upkeep / Maintenance: 226
+Build Cost: 2257
 Build Resource Requirements:
-  Food: 8
-  Energy: 4
-  Metal: 3
-  Trace: 11
-  Exotica: 8
-  Chemicals: 8
-  Electronics: 22
+  Food: 3
+  Energy: 13
+  Metal: 5
+  Trace: 36
+  Exotica: 4
+  Chemicals: 19
+  Biochems: 41
+  Electronics: 61
   Ceramsteel: 7
-  Monopols: 14
-Build Airborne Warn. Aircraft VI in Factory
-Time to Build / Upgrade: 2
-[19220] Technologies Required to Build Unit (79):
-  [3780] Beam Control (79)
-  [15440] Power Aircraft (79)
+  Monopols: 29
+Build Stigmata Mech Defender in Starport
+Time to Build / Upgrade: 4
+[37610] Technology Required to Build Unit (63):
+  [37610] Advanced Mechanized Warriors (63)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Powered Cyber Mech
+Nick Name: MM-PP-Cy
+Scores & Strengths:
+  Tech Score: 5580
+  Unit Score: 5580
+  Average Score: 5580
+  Stat Strength: 3257
+  Total Strength: 5580
+  Planet Strength: 5580
+  Space Strength: 0
+  Garrison Strength: 1139
+Statistics:
+  Movement Type: mech
+  Move Points: 24
+  Spot: 20
+  Camouflage: 20
+  Agility: 27
+  Armor: 24
+  Psy Defense: 24
+  Rank: 165
+Attacks:
+  Air: 26/24
+  Direct: 25/32
+  Close: 31/29
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 203
+Build Cost: 2029
+Build Resource Requirements:
+  Food: 3
+  Energy: 13
+  Metal: 3
+  Trace: 22
+  Exotica: 4
+  Chemicals: 19
+  Biochems: 25
+  Electronics: 40
+  Ceramsteel: 5
+  Monopols: 28
+Powered Cyber Mech cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Combat Cyber Mech
+Nick Name: MM-CC-Cy
+Scores & Strengths:
+  Tech Score: 6060
+  Unit Score: 6061
+  Average Score: 6060
+  Stat Strength: 3257
+  Total Strength: 6061
+  Planet Strength: 6061
+  Space Strength: 0
+  Garrison Strength: 1237
+Statistics:
+  Movement Type: mech
+  Move Points: 24
+  Spot: 20
+  Camouflage: 20
+  Agility: 27
+  Armor: 24
+  Psy Defense: 24
+  Rank: 189
+Attacks:
+  Air: 26/26
+  Indirect: 21/32
+  Direct: 26/28
+  Close: 28/26
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 291
+Build Cost: 2912
+Build Resource Requirements:
+  Food: 2
+  Energy: 13
+  Metal: 2
+  Trace: 12
+  Exotica: 2
+  Chemicals: 17
+  Biochems: 22
+  Electronics: 20
+  Ceramsteel: 4
+  Wetware: 14
+  Monopols: 25
+Combat Cyber Mech cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES

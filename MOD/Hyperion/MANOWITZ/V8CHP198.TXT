@@ -1,125 +1,588 @@
-All units of the unit class Inquisitor are listed herein (3 in total):
+All units of the unit class Light Grappler Mech are listed herein (13 in total):
 
 --1--
-Name: Inquisitor
-Nick Name: Inquisitor
+Name: Light Grappler Mech
+Nick Name: Grapnel
 Scores & Strengths:
-  Tech Score: 1757
-  Unit Score: 1756
-  Average Score: 1757
-  Stat Strength: 973
-  Total Strength: 1756
-  Planet Strength: 1756
-  Space Strength: 1168
-  Garrison Strength: 555
+  Tech Score: 1686
+  Unit Score: 1685
+  Average Score: 1686
+  Stat Strength: 1194
+  Total Strength: 1685
+  Planet Strength: 1685
+  Space Strength: 0
+  Garrison Strength: 486
 Statistics:
-  Movement Type: foot
-  Move Points: 10
+  Movement Type: mech
+  Move Points: 12
   Spot: 10
-  Camouflage: 8
-  Agility: 23
-  Armor: 6
-  Psy Defense: 12
-  Rank: 104
+  Camouflage: 4
+  Agility: 22
+  Armor: 15
+  Psy Defense: 15
+  Rank: 87
 Attacks:
-  Psychic: 13/15
-  Indirect: 14/16
-  Direct: 13/14
-  Close: 14/13
+  Indirect: 19/14
+  Close: 15/15
 Load aboard transport: 1
-Inquisitor
-Upkeep / Maintenance: 184
-Build Cost: 1767
+Immune to Plague
+Upkeep / Maintenance: 16
+Build Cost: 157
 Build Resource Requirements:
-  Trace: 17
-  Chemicals: 20
-  Electronics: 26
-  Monopols: 36
-  Gems: 60
-Upgrade Clergy to Inquisitor at Church
+  Food: 5
+  Energy: 15
+  Metal: 9
+  Trace: 16
+  Exotica: 5
+  Chemicals: 27
+  Electronics: 20
+  Ceramsteel: 13
+Build Light Grappler Mech in Starport
 Time to Build / Upgrade: 3
-[8415] Technologies Required to Build Unit (79):
-  [8085] Fusion Rifles (75)
-  [330] Holy Warriors (82)
+[10330] Technologies Required to Build Unit (84):
+  [1690] Ceramsteel (84)
+  [2420] Rocket-Propelled Aircraft (87)
+  [6220] Mechanically-Enhanced Soldiers (80)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Syneculla Agent
-Nick Name: Syn Agent
+Name: Medium Grappler Mech
+Nick Name: Gargoyle
 Scores & Strengths:
-  Tech Score: 1767
-  Unit Score: 1768
-  Average Score: 1768
-  Stat Strength: 990
-  Total Strength: 1768
-  Planet Strength: 1768
-  Space Strength: 1351
-  Garrison Strength: 533
+  Tech Score: 2414
+  Unit Score: 2415
+  Average Score: 2414
+  Stat Strength: 1584
+  Total Strength: 2415
+  Planet Strength: 2415
+  Space Strength: 0
+  Garrison Strength: 645
 Statistics:
-  Movement Type: foot
-  Move Points: 11
-  Spot: 14
-  Camouflage: 13
-  Agility: 18
-  Armor: 6
-  Psy Defense: 12
-  Rank: 111
+  Movement Type: mech
+  Move Points: 14
+  Spot: 13
+  Camouflage: 9
+  Agility: 16
+  Armor: 21
+  Psy Defense: 21
+  Rank: 109
 Attacks:
-  Psychic: 19/19
-  Indirect: 16/8
-  Close: 17/17
-Load aboard transport: 1
-Inquisitor
-Upkeep / Maintenance: 163
+  Indirect: 15/26
+  Close: 21/21
+Load aboard transport: 2
+Immune to Plague
+Upkeep / Maintenance: 141
+Build Cost: 1407
 Build Resource Requirements:
-  Trace: 1
-  Gems: 2
-Upgrade Inquisitor to Syneculla Agent at Church
-Time to Build / Upgrade: 1
-[8715] Technologies Required to Build Unit (74):
-  [8085] Fusion Rifles (75)
-  [300] Fractal Metaphysics (64)
-  [330] Holy Warriors (82)
+  Food: 3
+  Energy: 13
+  Metal: 8
+  Trace: 14
+  Exotica: 3
+  Chemicals: 23
+  Electronics: 22
+  Ceramsteel: 9
+  Monopols: 31
+Build Medium Grappler Mech in Starport
+Time to Build / Upgrade: 3
+[12850] Technology Required to Build Unit (71):
+  [12850] Mechanized Warriors (71)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Kalinthi
-Nick Name: Kalinthi
+Name: Light Grappler Mech (GE)
+Nick Name: Grapnel (GE)
 Scores & Strengths:
-  Tech Score: 1860
-  Unit Score: 1861
-  Average Score: 1861
-  Stat Strength: 1021
-  Total Strength: 1861
-  Planet Strength: 1861
-  Space Strength: 1501
-  Garrison Strength: 588
+  Tech Score: 2294
+  Unit Score: 2807
+  Average Score: 2550
+  Stat Strength: 1901
+  Total Strength: 2807
+  Planet Strength: 2807
+  Space Strength: 0
+  Garrison Strength: 701
 Statistics:
-  Movement Type: foot
-  Move Points: 10
-  Spot: 14
-  Camouflage: 16
-  Agility: 17
-  Armor: 6
-  Psy Defense: 12
-  Rank: 115
+  Movement Type: mech
+  Move Points: 16
+  Spot: 12
+  Camouflage: 5
+  Agility: 26
+  Armor: 20
+  Psy Defense: 20
+  Rank: 112
 Attacks:
-  Psychic: 24/20
-  Close: 18/20
+  Indirect: 27/18
+  Close: 21/20
 Load aboard transport: 1
-Inquisitor
-Upkeep / Maintenance: 119
+Immune to Plague
+Upkeep / Maintenance: 36
+Build Cost: 201
 Build Resource Requirements:
-  Exotica: 1
-  Electronics: 2
-Upgrade Inquisitor to Kalinthi at Church
+  Energy: 1
+  Metal: 1
+  Trace: 1
+  Chemicals: 3
+  Biochems: 38
+  Electronics: 1
+Upgrade Light Grappler Mech to Light Grappler Mech (GE) at Lab
 Time to Build / Upgrade: 1
-[9960] Technologies Required to Build Unit (63):
-  [8085] Fusion Rifles (75)
-  [300] Fractal Metaphysics (64)
-  [1245] Weird Science (32)
-  [330] Holy Warriors (82)
+[16350] Technologies Required to Build Unit (75):
+  [1690] Ceramsteel (84)
+  [6020] Chemical Shock Legion (49)
+  [2420] Rocket-Propelled Aircraft (87)
+  [6220] Mechanically-Enhanced Soldiers (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Light Grappler Mech (AVE)
+Nick Name: Grapnel (AVE)
+Scores & Strengths:
+  Tech Score: 2695
+  Unit Score: 3397
+  Average Score: 3046
+  Stat Strength: 2291
+  Total Strength: 3397
+  Planet Strength: 3397
+  Space Strength: 0
+  Garrison Strength: 800
+Statistics:
+  Movement Type: mech
+  Move Points: 18
+  Spot: 12
+  Camouflage: 6
+  Agility: 27
+  Armor: 23
+  Psy Defense: 23
+  Rank: 123
+Attacks:
+  Indirect: 30/20
+  Close: 23/22
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 44
+Build Cost: 237
+Build Resource Requirements:
+  Energy: 2
+  Metal: 1
+  Exotica: 1
+  Chemicals: 4
+  Biochems: 7
+  Electronics: 1
+  Ceramsteel: 2
+Upgrade Light Grappler Mech (GE) to Light Grappler Mech (AVE) at Lab
+Time to Build / Upgrade: 1
+[19230] Technologies Required to Build Unit (69):
+  [1690] Ceramsteel (84)
+  [8900] Genetically-Enhanced Warriors (25)
+  [2420] Rocket-Propelled Aircraft (87)
+  [6220] Mechanically-Enhanced Soldiers (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Medium Grappler Mech (AVE)
+Nick Name: Gargoyle (AVE)
+Scores & Strengths:
+  Tech Score: 3329
+  Unit Score: 4677
+  Average Score: 4003
+  Stat Strength: 2986
+  Total Strength: 4677
+  Planet Strength: 4677
+  Space Strength: 0
+  Garrison Strength: 1045
+Statistics:
+  Movement Type: mech
+  Move Points: 20
+  Spot: 16
+  Camouflage: 13
+  Agility: 19
+  Armor: 30
+  Psy Defense: 30
+  Rank: 147
+Attacks:
+  Indirect: 22/36
+  Close: 31/29
+Load aboard transport: 2
+Immune to Plague
+Upkeep / Maintenance: 300
+Build Cost: 1594
+Build Resource Requirements:
+  Energy: 6
+  Metal: 4
+  Trace: 1
+  Exotica: 1
+  Chemicals: 12
+  Biochems: 49
+  Electronics: 5
+  Ceramsteel: 5
+  Monopols: 14
+Upgrade Medium Grappler Mech to Medium Grappler Mech (AVE) at Lab
+Time to Build / Upgrade: 1
+[21750] Technologies Required to Build Unit (48):
+  [8900] Genetically-Enhanced Warriors (25)
+  [12850] Mechanized Warriors (71)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Heavy Grappler Mech
+Nick Name: Executioner
+Scores & Strengths:
+  Tech Score: 5401
+  Unit Score: 5401
+  Average Score: 5401
+  Stat Strength: 3128
+  Total Strength: 5401
+  Planet Strength: 5401
+  Space Strength: 0
+  Garrison Strength: 1350
+Statistics:
+  Movement Type: mech
+  Move Points: 16
+  Spot: 14
+  Camouflage: 12
+  Agility: 22
+  Armor: 32
+  Psy Defense: 32
+  Rank: 166
+Attacks:
+  Indirect: 32/28
+  Direct: 21/21
+  Close: 36/26
+Load aboard transport: 3
+Immune to Plague
+Upkeep / Maintenance: 214
+Build Cost: 2136
+Build Resource Requirements:
+  Food: 2
+  Energy: 11
+  Metal: 7
+  Trace: 30
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 28
+  Electronics: 37
+  Ceramsteel: 11
+  Monopols: 30
+Build Heavy Grappler Mech in Starport
+Time to Build / Upgrade: 4
+[37610] Technology Required to Build Unit (63):
+  [37610] Advanced Mechanized Warriors (63)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Light Grappler Mech (NE)
+Nick Name: Grapnel (NE)
+Scores & Strengths:
+  Tech Score: 4206
+  Unit Score: 5632
+  Average Score: 4919
+  Stat Strength: 3668
+  Total Strength: 5632
+  Planet Strength: 5632
+  Space Strength: 0
+  Garrison Strength: 1174
+Statistics:
+  Movement Type: mech
+  Move Points: 23
+  Spot: 14
+  Camouflage: 11
+  Agility: 30
+  Armor: 31
+  Psy Defense: 31
+  Rank: 161
+Attacks:
+  Indirect: 38/28
+  Close: 30/30
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 313
+Build Cost: 2895
+Build Resource Requirements:
+  Wetware: 10
+  Monopols: 33
+Upgrade Light Grappler Mech (AVE) to Light Grappler Mech (NE) at Fusorium
+Time to Build / Upgrade: 3
+[34460] Technologies Required to Build Unit (71):
+  [1690] Ceramsteel (84)
+  [24130] Neumonically-Enhanced Soldiers (32)
+  [2420] Rocket-Propelled Aircraft (87)
+  [6220] Mechanically-Enhanced Soldiers (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Assault Grappler Mech
+Nick Name: Excruciator
+Scores & Strengths:
+  Tech Score: 5809
+  Unit Score: 5809
+  Average Score: 5809
+  Stat Strength: 3478
+  Total Strength: 5809
+  Planet Strength: 5809
+  Space Strength: 0
+  Garrison Strength: 1369
+Statistics:
+  Movement Type: mech
+  Move Points: 18
+  Spot: 16
+  Camouflage: 12
+  Agility: 24
+  Armor: 33
+  Psy Defense: 33
+  Rank: 172
+Attacks:
+  Indirect: 33/30
+  Direct: 21/23
+  Close: 33/26
+Load aboard transport: 4
+Immune to Plague
+Upkeep / Maintenance: 285
+Build Cost: 2851
+Build Resource Requirements:
+  Food: 1
+  Energy: 11
+  Metal: 6
+  Trace: 12
+  Exotica: 2
+  Chemicals: 18
+  Biochems: 25
+  Electronics: 17
+  Ceramsteel: 9
+  Wetware: 11
+  Monopols: 28
+Build Assault Grappler Mech in Starport
+Time to Build / Upgrade: 4
+[54355] Technologies Required to Build Unit (43):
+  [16745] Wetware (23)
+  [37610] Advanced Mechanized Warriors (63)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Medium Grappler Mech (NE)
+Nick Name: Gargoyle (NE)
+Scores & Strengths:
+  Tech Score: 4702
+  Unit Score: 7578
+  Average Score: 6140
+  Stat Strength: 4865
+  Total Strength: 7578
+  Planet Strength: 7578
+  Space Strength: 0
+  Garrison Strength: 1546
+Statistics:
+  Movement Type: mech
+  Move Points: 24
+  Spot: 18
+  Camouflage: 18
+  Agility: 21
+  Armor: 40
+  Psy Defense: 40
+  Rank: 185
+Attacks:
+  Indirect: 27/47
+  Close: 38/38
+Load aboard transport: 2
+Immune to Plague
+Upkeep / Maintenance: 528
+Build Cost: 3687
+Build Resource Requirements:
+  Wetware: 12
+  Monopols: 5
+Upgrade Medium Grappler Mech (AVE) to Medium Grappler Mech (NE) at Fusorium
+Time to Build / Upgrade: 2
+[36980] Technologies Required to Build Unit (52):
+  [24130] Neumonically-Enhanced Soldiers (32)
+  [12850] Mechanized Warriors (71)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Heavy Grappler Mech (AVE)
+Nick Name: Executioner (AVE)
+Scores & Strengths:
+  Tech Score: 5822
+  Unit Score: 8678
+  Average Score: 7250
+  Stat Strength: 4909
+  Total Strength: 8678
+  Planet Strength: 8678
+  Space Strength: 0
+  Garrison Strength: 1893
+Statistics:
+  Movement Type: mech
+  Move Points: 21
+  Spot: 16
+  Camouflage: 15
+  Agility: 25
+  Armor: 41
+  Psy Defense: 41
+  Rank: 203
+Attacks:
+  Indirect: 43/35
+  Direct: 28/26
+  Close: 48/32
+Load aboard transport: 3
+Immune to Plague
+Upkeep / Maintenance: 409
+Build Cost: 1957
+Build Resource Requirements:
+  Energy: 5
+  Metal: 4
+  Trace: 5
+  Exotica: 1
+  Chemicals: 8
+  Biochems: 27
+  Electronics: 8
+  Ceramsteel: 4
+  Monopols: 12
+Upgrade Heavy Grappler Mech to Heavy Grappler Mech (AVE) at Lab
+Time to Build / Upgrade: 1
+[46510] Technologies Required to Build Unit (44):
+  [8900] Genetically-Enhanced Warriors (25)
+  [37610] Advanced Mechanized Warriors (63)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Assault Grappler Mech (AVE)
+Nick Name: Excruciator (AVE)
+Scores & Strengths:
+  Tech Score: 6196
+  Unit Score: 9155
+  Average Score: 7676
+  Stat Strength: 5335
+  Total Strength: 9155
+  Planet Strength: 9155
+  Space Strength: 0
+  Garrison Strength: 1908
+Statistics:
+  Movement Type: mech
+  Move Points: 23
+  Spot: 18
+  Camouflage: 15
+  Agility: 27
+  Armor: 42
+  Psy Defense: 42
+  Rank: 209
+Attacks:
+  Indirect: 44/37
+  Direct: 28/28
+  Close: 44/32
+Load aboard transport: 4
+Immune to Plague
+Upkeep / Maintenance: 539
+Build Cost: 2537
+Build Resource Requirements:
+  Food: 1
+  Energy: 5
+  Metal: 3
+  Trace: 5
+  Chemicals: 8
+  Biochems: 18
+  Electronics: 8
+  Ceramsteel: 5
+  Wetware: 4
+  Monopols: 12
+Upgrade Assault Grappler Mech to Assault Grappler Mech (AVE) at Lab
+Time to Build / Upgrade: 1
+[63255] Technologies Required to Build Unit (37):
+  [16745] Wetware (23)
+  [8900] Genetically-Enhanced Warriors (25)
+  [37610] Advanced Mechanized Warriors (63)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Heavy Grappler Mech (NE)
+Nick Name: Executioner (NE)
+Scores & Strengths:
+  Tech Score: 6367
+  Unit Score: 12054
+  Average Score: 9210
+  Stat Strength: 7010
+  Total Strength: 12054
+  Planet Strength: 12054
+  Space Strength: 0
+  Garrison Strength: 2569
+Statistics:
+  Movement Type: mech
+  Move Points: 22
+  Spot: 18
+  Camouflage: 18
+  Agility: 26
+  Armor: 51
+  Psy Defense: 51
+  Rank: 233
+Attacks:
+  Indirect: 48/42
+  Direct: 31/31
+  Close: 53/39
+Load aboard transport: 3
+Immune to Plague
+Upkeep / Maintenance: 838
+Build Cost: 6421
+Build Resource Requirements:
+  Ceramsteel: 2
+  Wetware: 22
+  Monopols: 4
+Upgrade Heavy Grappler Mech (AVE) to Heavy Grappler Mech (NE) at Fusorium
+Time to Build / Upgrade: 3
+[61740] Technologies Required to Build Unit (48):
+  [24130] Neumonically-Enhanced Soldiers (32)
+  [37610] Advanced Mechanized Warriors (63)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--13--
+Name: Assault Grappler Mech (NE)
+Nick Name: Excruciator (NE)
+Scores & Strengths:
+  Tech Score: 6367
+  Unit Score: 12164
+  Average Score: 9265
+  Stat Strength: 7286
+  Total Strength: 12164
+  Planet Strength: 12164
+  Space Strength: 0
+  Garrison Strength: 2482
+Statistics:
+  Movement Type: mech
+  Move Points: 24
+  Spot: 20
+  Camouflage: 18
+  Agility: 28
+  Armor: 51
+  Psy Defense: 51
+  Rank: 234
+Attacks:
+  Indirect: 48/43
+  Direct: 30/33
+  Close: 48/38
+Load aboard transport: 4
+Immune to Plague
+Upkeep / Maintenance: 830
+Build Cost: 5758
+Build Resource Requirements:
+  Metal: 2
+  Trace: 5
+  Chemicals: 1
+  Biochems: 2
+  Electronics: 6
+  Ceramsteel: 3
+  Wetware: 5
+  Monopols: 8
+Upgrade Assault Grappler Mech (AVE) to Assault Grappler Mech (NE) at Fusorium
+Time to Build / Upgrade: 2
+[61740] Technologies Required to Build Unit (48):
+  [24130] Neumonically-Enhanced Soldiers (32)
+  [37610] Advanced Mechanized Warriors (63)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

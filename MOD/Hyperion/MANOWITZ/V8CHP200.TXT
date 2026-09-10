@@ -1,89 +1,251 @@
-All units of the unit class Genetic Warrior Legion are listed herein (2 in total):
+All units of the unit class Strategic Bomber are listed herein (5 in total):
 
 --1--
-Name: Genetic Warrior Legion
-Nick Name: Gen War Lgn
+Name: Strategic Bomber
+Nick Name: Devastator
 Scores & Strengths:
-  Tech Score: 1833
-  Unit Score: 1833
-  Average Score: 1833
-  Stat Strength: 992
-  Total Strength: 1833
-  Planet Strength: 1833
+  Tech Score: 1142
+  Unit Score: 1710
+  Average Score: 1426
+  Stat Strength: 1401
+  Total Strength: 1710
+  Planet Strength: 1710
   Space Strength: 0
-  Garrison Strength: 529
+  Garrison Strength: 323
 Statistics:
-  Movement Type: foot
-  Move Points: 12
+  Movement Type: air
+  Move Points: 28
   Spot: 10
-  Camouflage: 8
-  Agility: 22
-  Armor: 10
-  Psy Defense: 10
-  Rank: 87
+  Camouflage: 5
+  Agility: 10
+  Armor: 14
+  Psy Defense: 14
+  Rank: 83
 Attacks:
-  Direct: 20/20
-  Close: 21/21
-Load aboard transport: 1
-Immune to Plague
-Upkeep / Maintenance: 30
-Build Cost: 302
+  Air: 6/11
+  Indirect: 9/27
+Load aboard transport: 5
+Upkeep / Maintenance: 11
+Build Cost: 107
 Build Resource Requirements:
-  Food: 5
-  Energy: 19
-  Metal: 3
-  Trace: 12
-  Exotica: 6
-  Chemicals: 44
-  Biochems: 75
-  Electronics: 29
-  Ceramsteel: 4
-Build Genetic Warrior Legion in Lab
+  Food: 10
+  Energy: 35
+  Metal: 28
+  Trace: 8
+  Exotica: 10
+  Chemicals: 37
+  Biochems: 9
+  Electronics: 5
+Build Strategic Bomber in Factory
 Time to Build / Upgrade: 3
-[8900] Technology Required to Build Unit (25):
-  [8900] Genetically-Enhanced Warriors (25)
+[7115] Technologies Required to Build Unit (88):
+  [795] Missiles (86)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2725] Naval Capital Ships (88)
+  [1785] Rotary Autocannon (90)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Genetic Warrior Legion (NE)
-Nick Name: Gen War Lgn
+Name: Neutron Bomber
+Nick Name: Desolator
 Scores & Strengths:
-  Tech Score: 3872
-  Unit Score: 5457
-  Average Score: 4665
-  Stat Strength: 2567
-  Total Strength: 5457
-  Planet Strength: 5457
+  Tech Score: 3125
+  Unit Score: 2583
+  Average Score: 2854
+  Stat Strength: 1788
+  Total Strength: 2583
+  Planet Strength: 2583
   Space Strength: 0
-  Garrison Strength: 1190
+  Garrison Strength: 456
 Statistics:
-  Movement Type: foot
-  Move Points: 21
-  Spot: 14
-  Camouflage: 17
-  Agility: 29
-  Armor: 20
-  Psy Defense: 20
-  Rank: 149
+  Movement Type: air
+  Move Points: 32
+  Spot: 12
+  Camouflage: 7
+  Agility: 11
+  Armor: 15
+  Psy Defense: 15
+  Rank: 113
 Attacks:
-  Direct: 37/37
-  Close: 39/39
-Load aboard transport: 1
-Immune to Plague
-Upkeep / Maintenance: 371
-Build Cost: 3412
+  Air: 7/12
+  Indirect: 11/28
+  Direct: 11/26
+  Close: 13/9
+Load aboard transport: 4
+Upkeep / Maintenance: 101
+Build Cost: 1014
 Build Resource Requirements:
-  Trace: 2
-  Electronics: 3
-  Ceramsteel: 1
-  Wetware: 27
-  Monopols: 50
-Upgrade Genetic Warrior Legion to Genetic Warrior Legion (NE) at Fusorium
-Time to Build / Upgrade: 2
-[24130] Technology Required to Build Unit (32):
-  [24130] Neumonically-Enhanced Soldiers (32)
+  Food: 6
+  Energy: 20
+  Metal: 2
+  Trace: 8
+  Exotica: 6
+  Chemicals: 32
+  Biochems: 29
+  Electronics: 12
+  Ceramsteel: 4
+  Monopols: 39
+Build Neutron Bomber in Factory
+Time to Build / Upgrade: 3
+[19925] Technologies Required to Build Unit (39):
+  [3650] Viral DNA (11)
+  [835] Spore Delivery (27)
+  [15440] Power Aircraft (79)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Stigmata MegaFortress
+Nick Name: MegaFortress
+Scores & Strengths:
+  Tech Score: 4697
+  Unit Score: 4696
+  Average Score: 4696
+  Stat Strength: 2674
+  Total Strength: 4696
+  Planet Strength: 4696
+  Space Strength: 0
+  Garrison Strength: 733
+Statistics:
+  Movement Type: air
+  Move Points: 41
+  Spot: 10
+  Camouflage: 7
+  Agility: 14
+  Armor: 18
+  Psy Defense: 18
+  Rank: 157
+Attacks:
+  Air: 17/31
+  Indirect: 16/35
+  Direct: 15/34
+  Close: 17/25
+Load aboard transport: 5
+Never needs refueling
+Upkeep / Maintenance: 211
+Build Cost: 2107
+Build Resource Requirements:
+  Food: 3
+  Energy: 21
+  Metal: 2
+  Trace: 4
+  Exotica: 4
+  Chemicals: 35
+  Biochems: 25
+  Electronics: 8
+  Ceramsteel: 3
+  Wetware: 6
+  Monopols: 46
+Build Stigmata MegaFortress in Factory
+Time to Build / Upgrade: 4
+[38900] Technologies Required to Build Unit (51):
+  [23395] Advanced Hovertech (37)
+  [15505] Meson Cannon (65)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Stealth Bomber
+Nick Name: Pulverizer
+Scores & Strengths:
+  Tech Score: 8630
+  Unit Score: 8417
+  Average Score: 8523
+  Stat Strength: 6357
+  Total Strength: 8417
+  Planet Strength: 8417
+  Space Strength: 0
+  Garrison Strength: 1105
+Statistics:
+  Movement Type: air
+  Move Points: 58
+  Spot: 20
+  Camouflage: 25
+  Agility: 20
+  Armor: 28
+  Psy Defense: 28
+  Rank: 212
+Attacks:
+  Air: 24/31
+  Indirect: 28/47
+Load aboard transport: 4
+Upkeep / Maintenance: 140
+Build Cost: 1397
+Build Resource Requirements:
+  Food: 3
+  Energy: 13
+  Metal: 2
+  Trace: 6
+  Exotica: 3
+  Chemicals: 17
+  Biochems: 22
+  Electronics: 9
+  Ceramsteel: 4
+  Wetware: 3
+  Monopols: 27
+Build Stealth Bomber in Factory
+Time to Build / Upgrade: 3
+[102555] Technologies Required to Build Unit (59):
+  [1785] Rotary Autocannon (90)
+  [45520] Hover Navalcraft (53)
+  [55250] Neumonic Patrolcraft (34)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Stealth Neutron Bomber
+Nick Name: Punisher
+Scores & Strengths:
+  Tech Score: 8630
+  Unit Score: 8418
+  Average Score: 8524
+  Stat Strength: 6293
+  Total Strength: 8418
+  Planet Strength: 8418
+  Space Strength: 0
+  Garrison Strength: 1114
+Statistics:
+  Movement Type: air
+  Move Points: 57
+  Spot: 20
+  Camouflage: 26
+  Agility: 20
+  Armor: 28
+  Psy Defense: 28
+  Rank: 196
+Attacks:
+  Air: 14/23
+  Indirect: 18/38
+  Direct: 20/36
+  Close: 21/19
+Load aboard transport: 4
+Upkeep / Maintenance: 150
+Build Cost: 1495
+Build Resource Requirements:
+  Food: 3
+  Energy: 13
+  Metal: 2
+  Trace: 6
+  Exotica: 4
+  Chemicals: 18
+  Biochems: 23
+  Electronics: 10
+  Ceramsteel: 4
+  Wetware: 4
+  Monopols: 27
+Build Stealth Neutron Bomber in Factory
+Time to Build / Upgrade: 3
+[107040] Technologies Required to Build Unit (43):
+  [3650] Viral DNA (11)
+  [835] Spore Delivery (27)
+  [1785] Rotary Autocannon (90)
+  [45520] Hover Navalcraft (53)
+  [55250] Neumonic Patrolcraft (34)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

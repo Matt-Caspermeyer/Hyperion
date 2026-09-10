@@ -1,379 +1,393 @@
-All units of the unit class Zodiac are listed herein (8 in total):
+All units of the unit class Torpedo Bomber Aircraft are listed herein (9 in total):
 
 --1--
-Name: Zodiac
-Nick Name: Zodiac
+Name: Torpedo Bomber Aircraft
+Nick Name: A-ATB
 Scores & Strengths:
-  Tech Score: 730
-  Unit Score: 730
-  Average Score: 730
-  Stat Strength: 530
-  Total Strength: 730
-  Planet Strength: 666
-  Space Strength: 666
-  Garrison Strength: 297
+  Tech Score: 671
+  Unit Score: 670
+  Average Score: 670
+  Stat Strength: 485
+  Total Strength: 670
+  Planet Strength: 670
+  Space Strength: 0
+  Garrison Strength: 185
 Statistics:
-  Movement Type: lander
-  Move Points: 5
-  Spot: 10
-  Camouflage: 6
-  Agility: 17
-  Armor: 4
-  Psy Defense: 8
-  Rank: 733
+  Movement Type: air
+  Move Points: 13
+  Spot: 6
+  Camouflage: 4
+  Agility: 8
+  Armor: 10
+  Psy Defense: 10
+  Rank: 58
 Attacks:
-  Close Space: 8/8
-  Psychic: 9/8
-  Close: 8/8
-Load aboard transport: 1
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 193
-Build Cost: 1926
+  Water: 4/20
+  Air: 8/2
+  Indirect: 4/20
+  Direct: 3/3
+Load aboard transport: 3
+Upkeep / Maintenance: 8
+Build Cost: 80
 Build Resource Requirements:
-  Food: 33
-  Energy: 59
-  Metal: 9
-  Trace: 45
-  Exotica: 42
-  Chemicals: 61
-  Electronics: 65
-  Gems: 6
-  Singularities: 2
-Build Zodiac in Church
-Time to Build / Upgrade: 4
-[2795] Technologies Required to Build Unit (59):
-  [330] Holy Warriors (82)
-  [2465] Sathra (36)
+  Food: 6
+  Energy: 44
+  Metal: 28
+  Trace: 11
+  Exotica: 6
+  Chemicals: 44
+  Electronics: 8
+Build Torpedo Bomber Aircraft in Factory
+Time to Build / Upgrade: 3
+[2595] Technologies Required to Build Unit (89):
+  [1195] Naval Warfare (90)
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Sathraist
-Nick Name: Sathraist
+Name: Heavy Bomber
+Nick Name: A-BH
 Scores & Strengths:
-  Tech Score: 956
-  Unit Score: 957
-  Average Score: 956
-  Stat Strength: 600
-  Total Strength: 957
-  Planet Strength: 876
-  Space Strength: 825
-  Garrison Strength: 331
+  Tech Score: 458
+  Unit Score: 686
+  Average Score: 572
+  Stat Strength: 574
+  Total Strength: 686
+  Planet Strength: 686
+  Space Strength: 0
+  Garrison Strength: 190
 Statistics:
-  Movement Type: lander
-  Move Points: 7
-  Spot: 11
-  Camouflage: 7
-  Agility: 16
-  Armor: 5
-  Psy Defense: 10
-  Rank: 748
+  Movement Type: air
+  Move Points: 13
+  Spot: 8
+  Camouflage: 2
+  Agility: 7
+  Armor: 12
+  Psy Defense: 12
+  Rank: 50
 Attacks:
-  Close Space: 9/9
-  Psychic: 12/12
-  Air: 8/4
-  Close: 10/10
-Load aboard transport: 1
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 244
-Build Cost: 2436
+  Air: 7/8
+  Indirect: 4/14
+Load aboard transport: 4
+Upkeep / Maintenance: 14
+Build Cost: 144
 Build Resource Requirements:
-  Food: 36
-  Energy: 78
-  Metal: 13
-  Trace: 59
-  Exotica: 44
-  Chemicals: 81
-  Electronics: 85
-  Gems: 10
-  Singularities: 3
-Build Sathraist in Church
+  Food: 11
+  Energy: 33
+  Metal: 198
+  Trace: 21
+  Exotica: 11
+  Chemicals: 33
+  Electronics: 10
+Build Heavy Bomber in Factory
 Time to Build / Upgrade: 4
-[3920] Technologies Required to Build Unit (54):
-  [330] Holy Warriors (82)
-  [3590] Sathraists (26)
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Brother Battle Mech
-Nick Name: BB Mech
+Name: Heavy Fighter
+Nick Name: A-FH
 Scores & Strengths:
-  Tech Score: 3160
-  Unit Score: 3160
-  Average Score: 3160
-  Stat Strength: 1497
-  Total Strength: 3160
-  Planet Strength: 3160
+  Tech Score: 458
+  Unit Score: 686
+  Average Score: 572
+  Stat Strength: 554
+  Total Strength: 686
+  Planet Strength: 686
   Space Strength: 0
-  Garrison Strength: 724
+  Garrison Strength: 198
 Statistics:
-  Movement Type: mech
-  Move Points: 19
-  Spot: 15
-  Camouflage: 9
-  Agility: 15
+  Movement Type: air
+  Move Points: 12
+  Spot: 8
+  Camouflage: 2
+  Agility: 10
   Armor: 11
-  Psy Defense: 22
-  Rank: 140
+  Psy Defense: 11
+  Rank: 52
 Attacks:
-  Air: 20/18
-  Indirect: 19/26
-  Direct: 19/22
-  Close: 23/17
-Load aboard transport: 2
-Immune to Plague
-Upkeep / Maintenance: 187
-Build Cost: 1872
+  Air: 11/7
+  Indirect: 5/11
+Load aboard transport: 3
+Upkeep / Maintenance: 14
+Build Cost: 137
 Build Resource Requirements:
-  Food: 3
-  Energy: 18
-  Metal: 5
-  Trace: 17
-  Exotica: 4
-  Chemicals: 30
-  Biochems: 21
-  Electronics: 30
-  Ceramsteel: 6
-  Monopols: 35
-Build Brother Battle Mech in Starport
+  Food: 12
+  Energy: 27
+  Metal: 166
+  Trace: 32
+  Exotica: 11
+  Chemicals: 27
+  Electronics: 15
+Build Heavy Fighter in Factory
 Time to Build / Upgrade: 4
-[21450] Technologies Required to Build Unit (60):
-  [8600] Cybernetically-Enhanced Soldiers (48)
-  [12850] Mechanized Warriors (71)
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Cyber Mech
-Nick Name: Cyber Mech
+Name: Light Fighter
+Nick Name: A-FL
 Scores & Strengths:
-  Tech Score: 4112
-  Unit Score: 4112
-  Average Score: 4112
-  Stat Strength: 2241
-  Total Strength: 4112
-  Planet Strength: 4112
+  Tech Score: 458
+  Unit Score: 686
+  Average Score: 572
+  Stat Strength: 536
+  Total Strength: 686
+  Planet Strength: 686
   Space Strength: 0
-  Garrison Strength: 919
+  Garrison Strength: 183
 Statistics:
-  Movement Type: mech
-  Move Points: 20
-  Spot: 16
-  Camouflage: 16
-  Agility: 23
-  Armor: 20
-  Psy Defense: 20
-  Rank: 144
+  Movement Type: air
+  Move Points: 14
+  Spot: 8
+  Camouflage: 2
+  Agility: 12
+  Armor: 8
+  Psy Defense: 8
+  Rank: 54
 Attacks:
-  Air: 24/21
-  Direct: 23/29
-  Close: 28/25
+  Air: 13/6
+  Indirect: 9/8
 Load aboard transport: 1
-Immune to Plague
-Upkeep / Maintenance: 156
-Build Cost: 1561
+Upkeep / Maintenance: 12
+Build Cost: 123
 Build Resource Requirements:
-  Food: 2
-  Energy: 14
-  Metal: 3
-  Trace: 15
-  Exotica: 3
-  Chemicals: 19
-  Biochems: 22
-  Electronics: 32
-  Ceramsteel: 4
-  Monopols: 25
-Cyber Mech cannot be built
+  Food: 14
+  Energy: 27
+  Metal: 88
+  Trace: 45
+  Exotica: 14
+  Chemicals: 27
+  Electronics: 19
+Build Light Fighter in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Imperial Assault Mech
-Nick Name: Gladiaor
+Name: Fighter Bomber
+Nick Name: A-BF
 Scores & Strengths:
-  Tech Score: 5593
-  Unit Score: 5394
-  Average Score: 5493
-  Stat Strength: 2830
-  Total Strength: 5394
-  Planet Strength: 5394
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 533
+  Total Strength: 687
+  Planet Strength: 687
   Space Strength: 0
-  Garrison Strength: 1348
+  Garrison Strength: 198
 Statistics:
-  Movement Type: mech
-  Move Points: 16
-  Spot: 18
-  Camouflage: 10
-  Agility: 30
-  Armor: 25
-  Psy Defense: 25
-  Rank: 177
+  Movement Type: air
+  Move Points: 12
+  Spot: 8
+  Camouflage: 2
+  Agility: 11
+  Armor: 10
+  Psy Defense: 10
+  Rank: 54
 Attacks:
-  Air: 39/16
-  Indirect: 30/25
-  Direct: 35/18
-  Close: 40/14
-Load aboard transport: 4
-Immune to Plague
-Upkeep / Maintenance: 153
-Build Cost: 1533
+  Air: 8/11
+  Indirect: 6/11
+Load aboard transport: 3
+Upkeep / Maintenance: 13
+Build Cost: 129
 Build Resource Requirements:
-  Food: 2
-  Energy: 8
-  Metal: 3
-  Trace: 35
-  Exotica: 2
-  Chemicals: 12
-  Biochems: 31
-  Electronics: 56
-  Ceramsteel: 5
-  Monopols: 19
-Build Imperial Assault Mech in Starport
-Time to Build / Upgrade: 3
-[52740] Technologies Required to Build Unit (66):
-  [15130] Fusion Battle Tanks (68)
-  [37610] Advanced Mechanized Warriors (63)
+  Food: 12
+  Energy: 33
+  Metal: 137
+  Trace: 27
+  Exotica: 11
+  Chemicals: 33
+  Electronics: 12
+Build Fighter Bomber in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Stigmata Mech Defender
-Nick Name: Cavalier
+Name: Ground-Attack Fighter
+Nick Name: A-FGA
 Scores & Strengths:
-  Tech Score: 5401
-  Unit Score: 5401
-  Average Score: 5401
-  Stat Strength: 2873
-  Total Strength: 5401
-  Planet Strength: 4267
-  Space Strength: 4007
-  Garrison Strength: 1101
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 585
+  Total Strength: 687
+  Planet Strength: 687
+  Space Strength: 0
+  Garrison Strength: 207
 Statistics:
-  Movement Type: mech
-  Move Points: 15
-  Spot: 24
-  Camouflage: 12
-  Agility: 24
-  Armor: 26
-  Psy Defense: 26
-  Rank: 197
+  Movement Type: air
+  Move Points: 11
+  Spot: 8
+  Camouflage: 2
+  Agility: 14
+  Armor: 10
+  Psy Defense: 10
+  Rank: 47
 Attacks:
-  Direct Space: 24/27
-  Close Space: 27/18
-  Air: 20/13
-  Direct: 24/27
-  Close: 27/18
+  Air: 6/6
+  Indirect: 5/6
+  Direct: 3/6
+  Close: 6/3
 Load aboard transport: 2
-Immune to Plague
-Upkeep / Maintenance: 226
-Build Cost: 2257
+Upkeep / Maintenance: 13
+Build Cost: 126
 Build Resource Requirements:
-  Food: 3
-  Energy: 13
-  Metal: 5
-  Trace: 36
-  Exotica: 4
-  Chemicals: 19
-  Biochems: 41
-  Electronics: 61
-  Ceramsteel: 7
-  Monopols: 29
-Build Stigmata Mech Defender in Starport
+  Food: 13
+  Energy: 26
+  Metal: 137
+  Trace: 31
+  Exotica: 12
+  Chemicals: 26
+  Electronics: 15
+Build Ground-Attack Fighter in Factory
 Time to Build / Upgrade: 4
-[37610] Technology Required to Build Unit (63):
-  [37610] Advanced Mechanized Warriors (63)
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Powered Cyber Mech
-Nick Name: MM-PP-Cy
+Name: Light Bomber
+Nick Name: A-BL
 Scores & Strengths:
-  Tech Score: 5580
-  Unit Score: 5580
-  Average Score: 5580
-  Stat Strength: 3257
-  Total Strength: 5580
-  Planet Strength: 5580
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 558
+  Total Strength: 687
+  Planet Strength: 687
   Space Strength: 0
-  Garrison Strength: 1139
+  Garrison Strength: 207
 Statistics:
-  Movement Type: mech
-  Move Points: 24
-  Spot: 20
-  Camouflage: 20
-  Agility: 27
-  Armor: 24
-  Psy Defense: 24
-  Rank: 165
+  Movement Type: air
+  Move Points: 11
+  Spot: 8
+  Camouflage: 2
+  Agility: 13
+  Armor: 10
+  Psy Defense: 10
+  Rank: 53
 Attacks:
-  Air: 26/24
-  Direct: 25/32
-  Close: 31/29
-Load aboard transport: 1
-Immune to Plague
-Upkeep / Maintenance: 203
-Build Cost: 2029
+  Air: 13/3
+  Indirect: 9/10
+Load aboard transport: 2
+Upkeep / Maintenance: 14
+Build Cost: 136
 Build Resource Requirements:
-  Food: 3
-  Energy: 13
-  Metal: 3
-  Trace: 22
-  Exotica: 4
-  Chemicals: 19
-  Biochems: 25
-  Electronics: 40
-  Ceramsteel: 5
-  Monopols: 28
-Powered Cyber Mech cannot be built
+  Food: 12
+  Energy: 24
+  Metal: 137
+  Trace: 46
+  Exotica: 12
+  Chemicals: 24
+  Electronics: 20
+Build Light Bomber in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Combat Cyber Mech
-Nick Name: MM-CC-Cy
+Name: Medium Bomber
+Nick Name: A-BM
 Scores & Strengths:
-  Tech Score: 6060
-  Unit Score: 6061
-  Average Score: 6060
-  Stat Strength: 3257
-  Total Strength: 6061
-  Planet Strength: 6061
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 575
+  Total Strength: 687
+  Planet Strength: 687
   Space Strength: 0
-  Garrison Strength: 1237
+  Garrison Strength: 198
 Statistics:
-  Movement Type: mech
-  Move Points: 24
-  Spot: 20
-  Camouflage: 20
-  Agility: 27
-  Armor: 24
-  Psy Defense: 24
-  Rank: 189
+  Movement Type: air
+  Move Points: 12
+  Spot: 8
+  Camouflage: 2
+  Agility: 11
+  Armor: 11
+  Psy Defense: 11
+  Rank: 51
 Attacks:
-  Air: 26/26
-  Indirect: 21/32
-  Direct: 26/28
-  Close: 28/26
-Load aboard transport: 1
-Immune to Plague
-Upkeep / Maintenance: 291
-Build Cost: 2912
+  Air: 7/6
+  Indirect: 10/7
+Load aboard transport: 3
+Upkeep / Maintenance: 13
+Build Cost: 130
 Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 2
-  Trace: 12
-  Exotica: 2
-  Chemicals: 17
-  Biochems: 22
-  Electronics: 20
-  Ceramsteel: 4
-  Wetware: 14
-  Monopols: 25
-Combat Cyber Mech cannot be built
+  Food: 12
+  Energy: 22
+  Metal: 166
+  Trace: 33
+  Exotica: 11
+  Chemicals: 22
+  Electronics: 11
+Build Medium Bomber in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Medium Fighter
+Nick Name: A-FM
+Scores & Strengths:
+  Tech Score: 458
+  Unit Score: 687
+  Average Score: 572
+  Stat Strength: 558
+  Total Strength: 687
+  Planet Strength: 687
+  Space Strength: 0
+  Garrison Strength: 190
+Statistics:
+  Movement Type: air
+  Move Points: 13
+  Spot: 8
+  Camouflage: 2
+  Agility: 11
+  Armor: 10
+  Psy Defense: 10
+  Rank: 52
+Attacks:
+  Air: 12/7
+  Indirect: 5/9
+Load aboard transport: 2
+Upkeep / Maintenance: 13
+Build Cost: 131
+Build Resource Requirements:
+  Food: 13
+  Energy: 26
+  Metal: 137
+  Trace: 35
+  Exotica: 12
+  Chemicals: 26
+  Electronics: 17
+Build Medium Fighter in Factory
+Time to Build / Upgrade: 4
+[1400] Technology Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

@@ -1,393 +1,546 @@
-All units of the unit class Gun Carrier are listed herein (9 in total):
+All units of the unit class Air-Air (A-A) Rocket are listed herein (12 in total):
 
 --1--
-Name: Gun Carrier
-Nick Name: Gun Carrier
+Name: Air-Air (A-A) Rocket
+Nick Name: A-A-R
 Scores & Strengths:
-  Tech Score: 274
-  Unit Score: 272
-  Average Score: 273
-  Stat Strength: 208
-  Total Strength: 272
-  Planet Strength: 272
+  Tech Score: 245
+  Unit Score: 245
+  Average Score: 245
+  Stat Strength: 200
+  Total Strength: 245
+  Planet Strength: 245
   Space Strength: 0
-  Garrison Strength: 136
+  Garrison Strength: 245
 Statistics:
-  Movement Type: tread
-  Move Points: 4
-  Spot: 2
-  Camouflage: 2
-  Agility: 2
-  Armor: 12
-  Psy Defense: 6
-  Rank: 41
+  Movement Type: air
+  Move Points: 1
+  Spot: 0
+  Camouflage: 1
+  Agility: 14
+  Armor: 1
+  Psy Defense: 1
+  Rank: 9
 Attacks:
-  Indirect: 4/16
-Cargo Space: 1
-Load aboard transport: 3
-Upkeep / Maintenance: 5
-Build Cost: 52
+  Air: 5/9
+Load aboard transport: 2
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
 Build Resource Requirements:
-  Food: 2
-  Energy: 29
-  Metal: 33
-  Trace: 4
-  Exotica: 2
-  Chemicals: 35
-  Electronics: 1
-Build Gun Carrier in Factory
+  Food: 11
+  Energy: 26
+  Metal: 1
+  Trace: 22
+  Exotica: 11
+  Chemicals: 32
+  Electronics: 15
+Build Air-Air (A-A) Rocket in Chemical Plant
 Time to Build / Upgrade: 2
-[960] Technologies Required to Build Unit (95):
-  [350] Tanks (95)
-  [610] Dual-Purpose Gun (94)
-Counts as planetary flock: YES
-Unit Eats: YES
+[610] Technology Required to Build Unit (94):
+  [610] Air-Air Rockets (94)
 Unit can be disbanded: YES
 
 --2--
-Name: Self-Propelled Artillery
-Nick Name: Smyter
+Name: Surface-Air (S-A) Rocket
+Nick Name: S-A-R
 Scores & Strengths:
-  Tech Score: 292
-  Unit Score: 291
-  Average Score: 292
-  Stat Strength: 222
-  Total Strength: 291
-  Planet Strength: 291
+  Tech Score: 272
+  Unit Score: 270
+  Average Score: 271
+  Stat Strength: 198
+  Total Strength: 270
+  Planet Strength: 270
   Space Strength: 0
-  Garrison Strength: 130
+  Garrison Strength: 135
 Statistics:
-  Movement Type: tread
-  Move Points: 5
-  Spot: 3
-  Camouflage: 2
-  Agility: 2
-  Armor: 12
-  Psy Defense: 6
-  Rank: 38
+  Movement Type: air
+  Move Points: 4
+  Spot: 0
+  Camouflage: 6
+  Agility: 12
+  Armor: 1
+  Psy Defense: 1
+  Rank: 13
 Attacks:
-  Indirect: 3/23
+  Air: 6/12
 Load aboard transport: 2
-Upkeep / Maintenance: 9
-Build Cost: 86
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
 Build Resource Requirements:
-  Food: 3
-  Energy: 61
-  Metal: 39
-  Trace: 6
-  Exotica: 3
-  Chemicals: 61
-  Electronics: 2
-Build Self-Propelled Artillery in Factory
-Time to Build / Upgrade: 3
-[770] Technology Required to Build Unit (92):
-  [770] Self-Propelled Weaponry (92)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 9
+  Energy: 30
+  Metal: 1
+  Trace: 25
+  Exotica: 8
+  Chemicals: 37
+  Electronics: 17
+Build Surface-Air (S-A) Rocket in Chemical Plant
+Time to Build / Upgrade: 2
+[760] Technologies Required to Build Unit (94):
+  [700] Rockets (90)
+  [60] Aerial Reconnaissance (97)
 Unit can be disbanded: YES
 
 --3--
-Name: Self-Propelled Artillery II
-Nick Name: Smyter II
+Name: S-A Missile
+Nick Name: S-A-M
 Scores & Strengths:
-  Tech Score: 530
-  Unit Score: 515
-  Average Score: 522
-  Stat Strength: 391
-  Total Strength: 515
-  Planet Strength: 515
+  Tech Score: 556
+  Unit Score: 554
+  Average Score: 555
+  Stat Strength: 330
+  Total Strength: 554
+  Planet Strength: 554
   Space Strength: 0
-  Garrison Strength: 194
+  Garrison Strength: 226
 Statistics:
-  Movement Type: tread
-  Move Points: 7
-  Spot: 3
-  Camouflage: 3
-  Agility: 2
-  Armor: 16
-  Psy Defense: 8
-  Rank: 51
+  Movement Type: air
+  Move Points: 6
+  Spot: 0
+  Camouflage: 6
+  Agility: 16
+  Armor: 1
+  Psy Defense: 1
+  Rank: 33
 Attacks:
-  Indirect: 4/31
-Load aboard transport: 2
-Upkeep / Maintenance: 12
-Build Cost: 117
+  Air: 14/16
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
 Build Resource Requirements:
-  Food: 3
-  Energy: 68
-  Metal: 36
-  Trace: 4
-  Exotica: 3
-  Chemicals: 99
-  Electronics: 3
-Build Self-Propelled Artillery II in Factory
-Time to Build / Upgrade: 3
-[1700] Technology Required to Build Unit (88):
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 6
+  Energy: 23
+  Metal: 1
+  Trace: 27
+  Exotica: 6
+  Chemicals: 25
+  Electronics: 16
+Build S-A Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[2195] Technologies Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
+  [795] Missiles (86)
 Unit can be disbanded: YES
 
 --4--
-Name: Howitzer Artillery
-Nick Name: Howitzer
+Name: A-A Missile
+Nick Name: A-A-M
 Scores & Strengths:
-  Tech Score: 530
-  Unit Score: 527
-  Average Score: 528
-  Stat Strength: 419
-  Total Strength: 527
-  Planet Strength: 527
+  Tech Score: 556
+  Unit Score: 556
+  Average Score: 556
+  Stat Strength: 358
+  Total Strength: 556
+  Planet Strength: 556
   Space Strength: 0
-  Garrison Strength: 186
+  Garrison Strength: 278
 Statistics:
-  Movement Type: tread
-  Move Points: 8
-  Spot: 3
-  Camouflage: 2
-  Agility: 2
-  Armor: 13
-  Psy Defense: 13
-  Rank: 49
+  Movement Type: air
+  Move Points: 4
+  Spot: 0
+  Camouflage: 4
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 32
 Attacks:
-  Indirect: 4/27
-Load aboard transport: 3
-Upkeep / Maintenance: 8
-Build Cost: 82
+  Air: 11/18
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
 Build Resource Requirements:
-  Food: 3
-  Energy: 46
-  Metal: 35
-  Trace: 3
-  Exotica: 3
-  Chemicals: 65
-  Electronics: 1
-Build Howitzer Artillery in Factory
-Time to Build / Upgrade: 3
-[2165] Technologies Required to Build Unit (91):
-  [465] Recoilless Gun (93)
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 6
+  Energy: 27
+  Metal: 1
+  Trace: 22
+  Exotica: 6
+  Chemicals: 30
+  Electronics: 13
+Build A-A Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[2195] Technologies Required to Build Unit (87):
+  [1400] Aerial Warfare (87)
+  [795] Missiles (86)
 Unit can be disbanded: YES
 
 --5--
-Name: MRSI Artillery
-Nick Name: MRSI Art.
+Name: A-A Guided Missile
+Nick Name: A-A-GM
 Scores & Strengths:
-  Tech Score: 589
-  Unit Score: 588
-  Average Score: 589
-  Stat Strength: 273
-  Total Strength: 588
-  Planet Strength: 588
+  Tech Score: 1041
+  Unit Score: 1041
+  Average Score: 1041
+  Stat Strength: 887
+  Total Strength: 1041
+  Planet Strength: 1041
   Space Strength: 0
-  Garrison Strength: 294
+  Garrison Strength: 260
 Statistics:
-  Movement Type: tread
-  Move Points: 4
-  Spot: 2
-  Camouflage: 2
-  Agility: 2
-  Armor: 14
-  Psy Defense: 7
-  Rank: 66
+  Movement Type: air
+  Move Points: 16
+  Spot: 0
+  Camouflage: 10
+  Agility: 23
+  Armor: 1
+  Psy Defense: 1
+  Rank: 37
 Attacks:
-  Indirect: 9/35
-Load aboard transport: 2
-Upkeep / Maintenance: 12
-Build Cost: 117
+  Air: 22/7
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 10
 Build Resource Requirements:
-  Food: 1
-  Energy: 82
-  Metal: 36
-  Trace: 6
-  Exotica: 1
-  Chemicals: 90
-  Electronics: 1
-Build MRSI Artillery in Factory
-Time to Build / Upgrade: 3
-[2585] Technologies Required to Build Unit (88):
-  [355] Fire Control Radar (86)
-  [995] Programmable Computer (80)
-  [770] Self-Propelled Weaponry (92)
-  [465] Recoilless Gun (93)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 7
+  Energy: 13
+  Metal: 1
+  Trace: 19
+  Exotica: 7
+  Chemicals: 16
+  Electronics: 24
+Build A-A Guided Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[7355] Technologies Required to Build Unit (84):
+  [1255] Digital Fly-by-Wire (81)
+  [2420] Rocket-Propelled Aircraft (87)
+  [3680] Supersonic Missiles (84)
 Unit can be disbanded: YES
 
 --6--
-Name: Self-Propelled Artillery III
-Nick Name: Smyter III
+Name: S-A Guided Missile
+Nick Name: S-A-GM
 Scores & Strengths:
-  Tech Score: 1226
-  Unit Score: 1192
-  Average Score: 1209
-  Stat Strength: 910
-  Total Strength: 1192
-  Planet Strength: 1192
+  Tech Score: 1041
+  Unit Score: 1041
+  Average Score: 1041
+  Stat Strength: 650
+  Total Strength: 1041
+  Planet Strength: 1041
   Space Strength: 0
-  Garrison Strength: 376
+  Garrison Strength: 329
 Statistics:
-  Movement Type: tread
+  Movement Type: air
   Move Points: 10
-  Spot: 4
-  Camouflage: 4
-  Agility: 3
-  Armor: 25
-  Psy Defense: 12
-  Rank: 76
+  Spot: 0
+  Camouflage: 8
+  Agility: 22
+  Armor: 1
+  Psy Defense: 1
+  Rank: 52
 Attacks:
-  Indirect: 6/47
-Load aboard transport: 2
-Upkeep / Maintenance: 17
-Build Cost: 173
+  Air: 23/17
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 10
 Build Resource Requirements:
-  Food: 2
-  Energy: 65
-  Metal: 21
-  Trace: 2
-  Exotica: 2
-  Chemicals: 116
-  Electronics: 15
-  Ceramsteel: 28
-Build Self-Propelled Artillery III in Factory
-Time to Build / Upgrade: 4
-[5205] Technology Required to Build Unit (84):
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 4
+  Energy: 15
+  Metal: 1
+  Trace: 19
+  Exotica: 4
+  Chemicals: 18
+  Electronics: 23
+Build S-A Guided Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[7355] Technologies Required to Build Unit (84):
+  [1255] Digital Fly-by-Wire (81)
+  [2420] Rocket-Propelled Aircraft (87)
+  [3680] Supersonic Missiles (84)
 Unit can be disbanded: YES
 
 --7--
-Name: Howitzer Artillery II
-Nick Name: Howitzer II
+Name: S-A Supercruise Missile
+Nick Name: S-A-ScGM
 Scores & Strengths:
-  Tech Score: 1226
-  Unit Score: 1219
-  Average Score: 1222
-  Stat Strength: 973
-  Total Strength: 1219
-  Planet Strength: 1219
+  Tech Score: 1247
+  Unit Score: 1208
+  Average Score: 1227
+  Stat Strength: 733
+  Total Strength: 1208
+  Planet Strength: 1208
   Space Strength: 0
-  Garrison Strength: 351
+  Garrison Strength: 364
 Statistics:
-  Movement Type: tread
-  Move Points: 12
-  Spot: 4
-  Camouflage: 3
-  Agility: 2
-  Armor: 20
-  Psy Defense: 20
-  Rank: 73
+  Movement Type: air
+  Move Points: 11
+  Spot: 0
+  Camouflage: 9
+  Agility: 23
+  Armor: 1
+  Psy Defense: 1
+  Rank: 59
 Attacks:
-  Indirect: 6/41
-Load aboard transport: 3
-Upkeep / Maintenance: 15
-Build Cost: 146
+  Air: 25/19
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 10
 Build Resource Requirements:
-  Food: 3
-  Energy: 49
-  Metal: 22
-  Trace: 2
-  Exotica: 3
-  Chemicals: 89
-  Electronics: 14
-  Ceramsteel: 28
-Build Howitzer Artillery II in Factory
-Time to Build / Upgrade: 4
-[5670] Technologies Required to Build Unit (89):
-  [465] Recoilless Gun (93)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 4
+  Energy: 15
+  Metal: 1
+  Trace: 19
+  Exotica: 4
+  Chemicals: 19
+  Electronics: 25
+Build S-A Supercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[9060] Technologies Required to Build Unit (82):
+  [1690] Fly-by-Wireless (76)
+  [3200] Supersonic Aircraft (85)
+  [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
 --8--
-Name: Howitzer Artillery III
-Nick Name: Howitzer III
+Name: A-A Supercruise Missile
+Nick Name: A-A-ScGM
 Scores & Strengths:
-  Tech Score: 2510
-  Unit Score: 2429
-  Average Score: 2469
-  Stat Strength: 1898
-  Total Strength: 2429
-  Planet Strength: 2429
+  Tech Score: 1247
+  Unit Score: 1215
+  Average Score: 1231
+  Stat Strength: 1023
+  Total Strength: 1215
+  Planet Strength: 1215
   Space Strength: 0
-  Garrison Strength: 589
+  Garrison Strength: 286
 Statistics:
-  Movement Type: tread
-  Move Points: 17
-  Spot: 4
-  Camouflage: 4
-  Agility: 3
-  Armor: 28
-  Psy Defense: 28
-  Rank: 105
+  Movement Type: air
+  Move Points: 18
+  Spot: 0
+  Camouflage: 11
+  Agility: 24
+  Armor: 1
+  Psy Defense: 1
+  Rank: 43
 Attacks:
-  Indirect: 9/59
-Load aboard transport: 3
-Upkeep / Maintenance: 191
-Build Cost: 1912
+  Air: 24/8
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
 Build Resource Requirements:
-  Food: 2
-  Energy: 33
-  Metal: 11
-  Trace: 1
-  Exotica: 2
-  Chemicals: 58
-  Electronics: 8
-  Ceramsteel: 18
-  Monopols: 82
-Build Howitzer Artillery III in Factory
-Time to Build / Upgrade: 5
-[14000] Technologies Required to Build Unit (84):
-  [465] Recoilless Gun (93)
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 7
+  Energy: 13
+  Metal: 1
+  Trace: 20
+  Exotica: 7
+  Chemicals: 17
+  Electronics: 26
+Build A-A Supercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[9060] Technologies Required to Build Unit (82):
+  [1690] Fly-by-Wireless (76)
+  [3200] Supersonic Aircraft (85)
+  [4170] Supercruise Missiles (84)
 Unit can be disbanded: YES
 
 --9--
-Name: Self-Propelled Artillery IV
-Nick Name: Smyter IV
+Name: A-A Hypersonic Missile
+Nick Name: A-A-HsGM
 Scores & Strengths:
-  Tech Score: 2510
-  Unit Score: 2447
-  Average Score: 2478
-  Stat Strength: 1844
-  Total Strength: 2447
-  Planet Strength: 2447
+  Tech Score: 1767
+  Unit Score: 1549
+  Average Score: 1658
+  Stat Strength: 1288
+  Total Strength: 1549
+  Planet Strength: 1549
   Space Strength: 0
-  Garrison Strength: 631
+  Garrison Strength: 338
 Statistics:
-  Movement Type: tread
-  Move Points: 15
-  Spot: 5
-  Camouflage: 6
-  Agility: 3
-  Armor: 35
-  Psy Defense: 18
-  Rank: 110
+  Movement Type: air
+  Move Points: 21
+  Spot: 0
+  Camouflage: 13
+  Agility: 26
+  Armor: 1
+  Psy Defense: 1
+  Rank: 53
 Attacks:
-  Indirect: 9/67
-Load aboard transport: 2
-Upkeep / Maintenance: 234
-Build Cost: 2340
+  Air: 29/9
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
 Build Resource Requirements:
-  Food: 1
-  Energy: 40
-  Metal: 11
-  Trace: 2
-  Exotica: 1
-  Chemicals: 71
-  Electronics: 8
-  Ceramsteel: 18
-  Monopols: 101
-Build Self-Propelled Artillery IV in Factory
-Time to Build / Upgrade: 5
-[13535] Technology Required to Build Unit (74):
-  [13535] Powered Ceramsteel Tanks (74)
-Counts as planetary flock: YES
-Unit Eats: YES
+  Food: 6
+  Energy: 12
+  Metal: 1
+  Trace: 17
+  Exotica: 6
+  Chemicals: 17
+  Electronics: 26
+Build A-A Hypersonic Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[14905] Technologies Required to Build Unit (79):
+  [2935] Intelligent FCS (73)
+  [5665] Hypersonic Aircraft (82)
+  [6305] Hypersonic Missiles (83)
+Unit can be disbanded: YES
+
+--10--
+Name: S-A Hypersonic Missile
+Nick Name: S-A-HsGM
+Scores & Strengths:
+  Tech Score: 1767
+  Unit Score: 1556
+  Average Score: 1662
+  Stat Strength: 896
+  Total Strength: 1556
+  Planet Strength: 1556
+  Space Strength: 0
+  Garrison Strength: 431
+Statistics:
+  Movement Type: air
+  Move Points: 13
+  Spot: 0
+  Camouflage: 10
+  Agility: 25
+  Armor: 1
+  Psy Defense: 1
+  Rank: 72
+Attacks:
+  Air: 30/22
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 10
+Build Resource Requirements:
+  Food: 4
+  Energy: 13
+  Metal: 1
+  Trace: 17
+  Exotica: 4
+  Chemicals: 19
+  Electronics: 26
+Build S-A Hypersonic Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[14905] Technologies Required to Build Unit (79):
+  [2935] Intelligent FCS (73)
+  [5665] Hypersonic Aircraft (82)
+  [6305] Hypersonic Missiles (83)
+Unit can be disbanded: YES
+
+--11--
+Name: S-A Hypercruise Missile
+Nick Name: S-A-HcGM
+Scores & Strengths:
+  Tech Score: 2505
+  Unit Score: 2073
+  Average Score: 2289
+  Stat Strength: 1137
+  Total Strength: 2073
+  Planet Strength: 2073
+  Space Strength: 0
+  Garrison Strength: 518
+Statistics:
+  Movement Type: air
+  Move Points: 16
+  Spot: 0
+  Camouflage: 12
+  Agility: 27
+  Armor: 2
+  Psy Defense: 2
+  Rank: 89
+Attacks:
+  Air: 36/26
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
+Build Resource Requirements:
+  Food: 4
+  Energy: 15
+  Trace: 17
+  Exotica: 4
+  Chemicals: 22
+  Electronics: 28
+Build S-A Hypercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[21815] Technologies Required to Build Unit (68):
+  [7100] Artificial Intelligence (46)
+  [7610] Atmospheric Aircraft (80)
+  [7105] Hypercruise Missiles (77)
+Unit can be disbanded: YES
+
+--12--
+Name: A-A Hypercruise Missile
+Nick Name: A-A-HcGM
+Scores & Strengths:
+  Tech Score: 2505
+  Unit Score: 2104
+  Average Score: 2304
+  Stat Strength: 1730
+  Total Strength: 2104
+  Planet Strength: 2104
+  Space Strength: 0
+  Garrison Strength: 420
+Statistics:
+  Movement Type: air
+  Move Points: 25
+  Spot: 0
+  Camouflage: 16
+  Agility: 29
+  Armor: 2
+  Psy Defense: 2
+  Rank: 67
+Attacks:
+  Air: 34/11
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 13
+Build Resource Requirements:
+  Food: 6
+  Energy: 13
+  Trace: 17
+  Exotica: 6
+  Chemicals: 20
+  Electronics: 29
+Build A-A Hypercruise Missile in Chemical Plant
+Time to Build / Upgrade: 2
+[21815] Technologies Required to Build Unit (68):
+  [7100] Artificial Intelligence (46)
+  [7610] Atmospheric Aircraft (80)
+  [7105] Hypercruise Missiles (77)
 Unit can be disbanded: YES

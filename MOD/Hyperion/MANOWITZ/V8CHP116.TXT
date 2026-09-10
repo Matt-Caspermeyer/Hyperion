@@ -1,435 +1,389 @@
-All units of the unit class Space Monitor are listed herein (9 in total):
+All units of the unit class Torpedo Boat Destroyer are listed herein (8 in total):
 
 --1--
-Name: Space Monitor
-Nick Name: SS-BM
+Name: Torpedo Boat Destroyer
+Nick Name: NN-TB-DD
 Scores & Strengths:
-  Tech Score: 369
-  Unit Score: 368
-  Average Score: 368
-  Stat Strength: 309
-  Total Strength: 368
-  Planet Strength: 0
-  Space Strength: 368
-  Garrison Strength: 0
+  Tech Score: 174
+  Unit Score: 344
+  Average Score: 259
+  Stat Strength: 258
+  Total Strength: 344
+  Planet Strength: 344
+  Space Strength: 0
+  Garrison Strength: 130
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
+  Movement Type: naval
+  Move Points: 7
+  Spot: 2
   Camouflage: 1
-  Agility: 1
-  Armor: 11
-  Psy Defense: 11
-  Rank: 48
+  Agility: 2
+  Armor: 10
+  Psy Defense: 10
+  Rank: 41
 Attacks:
-  Ranged Space: 1/11
-  Direct Space: 2/10
-  Close Space: 4/7
+  Water: 2/22
+  Indirect: 2/21
 Cargo Space: 1
-Load aboard transport: 8
-Immune to Plague
-Upkeep / Maintenance: 21
-Build Cost: 205
+Load aboard transport: 4
+Upkeep / Maintenance: 70
+Build Cost: 698
 Build Resource Requirements:
   Food: 6
-  Energy: 27
-  Metal: 49
-  Trace: 10
+  Energy: 186
+  Metal: 53
+  Trace: 5
   Exotica: 5
-  Chemicals: 48
-  Electronics: 6
-Build Space Monitor in Starport
-Time to Build / Upgrade: 3
-[1270] Technologies Required to Build Unit (96):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [795] Rocket Propulsion (90)
+  Chemicals: 156
+  Gems: 1
+Build Torpedo Boat Destroyer in Well
+Time to Build / Upgrade: 6
+[535] Technologies Required to Build Unit (99):
+  [100] Medical & Biological (100)
+  [110] Structural Engineering (99)
   [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Jump Monitor
-Nick Name: JJ-BM
+Name: Naval Destroyer
+Nick Name: NN-DD
 Scores & Strengths:
-  Tech Score: 455
-  Unit Score: 421
-  Average Score: 438
-  Stat Strength: 355
-  Total Strength: 421
-  Planet Strength: 0
-  Space Strength: 421
-  Garrison Strength: 0
+  Tech Score: 679
+  Unit Score: 1357
+  Average Score: 1018
+  Stat Strength: 971
+  Total Strength: 1357
+  Planet Strength: 1357
+  Space Strength: 0
+  Garrison Strength: 452
 Statistics:
-  Movement Type: jump
-  Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 12
-  Psy Defense: 12
-  Rank: 51
+  Movement Type: naval
+  Move Points: 9
+  Spot: 10
+  Camouflage: 2
+  Agility: 8
+  Armor: 19
+  Psy Defense: 19
+  Rank: 78
 Attacks:
-  Ranged Space: 1/12
-  Direct Space: 2/11
-  Close Space: 4/8
+  Water: 7/18
+  Air: 12/7
+  Indirect: 6/16
+  Direct: 8/10
 Cargo Space: 1
-Load aboard transport: 8
-Immune to Plague
-Upkeep / Maintenance: 96
-Build Cost: 959
+Load aboard transport: 5
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 53
+Build Cost: 531
 Build Resource Requirements:
-  Food: 5
-  Energy: 32
-  Metal: 50
-  Trace: 9
-  Exotica: 5
-  Chemicals: 57
-  Electronics: 7
-  Singularities: 1
-Build Jump Monitor in Starport
-Time to Build / Upgrade: 3
-[1710] Technologies Required to Build Unit (93):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
+  Food: 6
+  Energy: 39
+  Metal: 64
+  Trace: 25
+  Exotica: 6
+  Chemicals: 38
+  Biochems: 15
+  Electronics: 17
+Build Naval Destroyer in Well
+Time to Build / Upgrade: 4
+[2480] Technologies Required to Build Unit (95):
+  [110] Structural Engineering (99)
   [100] Psychosocial Engineering (100)
-  [1235] Jump Rocketry (76)
+  [2270] Naval Escort Ships (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Battlestar
-Nick Name: SS-BB
+Name: Guid. Miss. Destroyer
+Nick Name: NN-DD-GM
 Scores & Strengths:
-  Tech Score: 387
-  Unit Score: 581
-  Average Score: 484
-  Stat Strength: 355
-  Total Strength: 581
-  Planet Strength: 0
-  Space Strength: 581
-  Garrison Strength: 0
+  Tech Score: 1339
+  Unit Score: 2678
+  Average Score: 2008
+  Stat Strength: 1739
+  Total Strength: 2678
+  Planet Strength: 2678
+  Space Strength: 0
+  Garrison Strength: 691
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 12
-  Psy Defense: 12
-  Rank: 79
+  Movement Type: naval
+  Move Points: 15
+  Spot: 11
+  Camouflage: 5
+  Agility: 4
+  Armor: 26
+  Psy Defense: 26
+  Rank: 114
 Attacks:
-  Ranged Space: 4/25
-  Direct Space: 7/18
-Cargo Space: 2
-Load aboard transport: 7
-Immune to Plague
-Upkeep / Maintenance: 42
-Build Cost: 418
+  Water: 11/27
+  Air: 17/12
+  Indirect: 10/23
+  Direct: 13/16
+Cargo Space: 1
+Load aboard transport: 5
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 90
+Build Cost: 904
 Build Resource Requirements:
-  Food: 5
-  Energy: 79
-  Metal: 52
-  Trace: 13
-  Exotica: 5
-  Chemicals: 108
-  Electronics: 8
-Build Battlestar in Starport
-Time to Build / Upgrade: 4
-[1500] Technologies Required to Build Unit (95):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [170] Fire Control System (89)
-  [795] Rocket Propulsion (90)
-  [100] Psychosocial Engineering (100)
-  [60] Torpedo (98)
+  Food: 4
+  Energy: 50
+  Metal: 36
+  Trace: 21
+  Exotica: 4
+  Chemicals: 69
+  Biochems: 13
+  Electronics: 23
+  Ceramsteel: 43
+Build Guid. Miss. Destroyer in Well
+Time to Build / Upgrade: 6
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Jump Battlestar
-Nick Name: JJ-BB
+Name: Amphibious Destroyer
+Nick Name: CC-DD
 Scores & Strengths:
-  Tech Score: 472
-  Unit Score: 677
-  Average Score: 575
-  Stat Strength: 405
-  Total Strength: 677
-  Planet Strength: 0
-  Space Strength: 677
-  Garrison Strength: 0
+  Tech Score: 2767
+  Unit Score: 2767
+  Average Score: 2767
+  Stat Strength: 2152
+  Total Strength: 2767
+  Planet Strength: 2767
+  Space Strength: 0
+  Garrison Strength: 652
 Statistics:
-  Movement Type: jump
-  Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 13
-  Psy Defense: 13
-  Rank: 85
+  Movement Type: craft
+  Move Points: 18
+  Spot: 12
+  Camouflage: 4
+  Agility: 10
+  Armor: 28
+  Psy Defense: 28
+  Rank: 112
 Attacks:
-  Ranged Space: 4/28
-  Direct Space: 8/20
-Cargo Space: 2
-Load aboard transport: 7
-Immune to Plague
-Upkeep / Maintenance: 122
-Build Cost: 1224
+  Water: 9/20
+  Air: 11/17
+  Indirect: 8/18
+  Direct: 8/13
+Cargo Space: 1
+Load aboard transport: 5
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 14
+Build Cost: 140
 Build Resource Requirements:
-  Food: 5
-  Energy: 98
-  Metal: 53
-  Trace: 14
-  Exotica: 4
-  Chemicals: 134
-  Electronics: 10
-  Singularities: 1
-Build Jump Battlestar in Starport
-Time to Build / Upgrade: 5
-[1940] Technologies Required to Build Unit (93):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [170] Fire Control System (89)
-  [100] Psychosocial Engineering (100)
-  [60] Torpedo (98)
-  [1235] Jump Rocketry (76)
+  Food: 2
+  Energy: 15
+  Metal: 16
+  Trace: 5
+  Exotica: 2
+  Chemicals: 22
+  Biochems: 16
+  Electronics: 6
+  Ceramsteel: 17
+Build Amphibious Destroyer in Well
+Time to Build / Upgrade: 3
+[23555] Technologies Required to Build Unit (85):
+  [2855] Naval Amphibious Ships (87)
+  [6655] PTS Missile Navalcraft (83)
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Fast Battlestar
-Nick Name: SS-BF
+Name: PTS Missile Destroyer
+Nick Name: NN-DD-PTS
 Scores & Strengths:
-  Tech Score: 2916
-  Unit Score: 2916
-  Average Score: 2916
-  Stat Strength: 2400
-  Total Strength: 2916
-  Planet Strength: 0
-  Space Strength: 2916
-  Garrison Strength: 0
+  Tech Score: 1474
+  Unit Score: 3685
+  Average Score: 2579
+  Stat Strength: 2300
+  Total Strength: 3685
+  Planet Strength: 3545
+  Space Strength: 2440
+  Garrison Strength: 886
 Statistics:
-  Movement Type: space
-  Move Points: 15
+  Movement Type: naval
+  Move Points: 16
   Spot: 12
-  Camouflage: 3
-  Agility: 10
-  Armor: 31
-  Psy Defense: 31
-  Rank: 136
+  Camouflage: 8
+  Agility: 6
+  Armor: 30
+  Psy Defense: 30
+  Rank: 141
 Attacks:
-  Ranged Space: 6/36
-  Direct Space: 10/30
-Cargo Space: 2
-Load aboard transport: 7
-Immune to Plague
-Upkeep / Maintenance: 302
-Build Cost: 3019
+  Ranged Space: 7/20
+  Water: 15/28
+  Air: 19/14
+  Indirect: 13/25
+  Direct: 13/18
+Cargo Space: 1
+Load aboard transport: 6
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 135
+Build Cost: 1346
 Build Resource Requirements:
-  Food: 1
-  Energy: 17
-  Metal: 13
-  Trace: 4
-  Exotica: 2
-  Chemicals: 28
-  Biochems: 22
-  Electronics: 6
-  Ceramsteel: 16
-  Monopols: 42
-Build Fast Battlestar in Starport
-Time to Build / Upgrade: 4
-[16530] Technology Required to Build Unit (80):
-  [16530] Space Capital Ships (80)
+  Food: 4
+  Energy: 63
+  Metal: 44
+  Trace: 28
+  Exotica: 5
+  Chemicals: 89
+  Biochems: 16
+  Electronics: 30
+  Ceramsteel: 54
+Build PTS Missile Destroyer in Well
+Time to Build / Upgrade: 7
+[6655] Technology Required to Build Unit (83):
+  [6655] PTS Missile Navalcraft (83)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Pocket Battlestar
-Nick Name: SS-BP
+Name: Nuclear Destroyer
+Nick Name: NN-DDN
 Scores & Strengths:
-  Tech Score: 2916
-  Unit Score: 2917
-  Average Score: 2916
-  Stat Strength: 2451
-  Total Strength: 2917
-  Planet Strength: 0
-  Space Strength: 2917
-  Garrison Strength: 0
+  Tech Score: 1579
+  Unit Score: 4737
+  Average Score: 3158
+  Stat Strength: 2925
+  Total Strength: 4737
+  Planet Strength: 4737
+  Space Strength: 0
+  Garrison Strength: 1116
 Statistics:
-  Movement Type: space
-  Move Points: 13
+  Movement Type: naval
+  Move Points: 18
   Spot: 12
-  Camouflage: 3
-  Agility: 9
-  Armor: 32
-  Psy Defense: 32
-  Rank: 133
+  Camouflage: 9
+  Agility: 8
+  Armor: 34
+  Psy Defense: 34
+  Rank: 151
 Attacks:
-  Ranged Space: 5/42
-  Direct Space: 8/32
-Cargo Space: 2
-Load aboard transport: 6
-Immune to Plague
-Upkeep / Maintenance: 348
-Build Cost: 3475
+  Water: 17/34
+  Air: 21/16
+  Indirect: 16/30
+  Direct: 19/22
+Cargo Space: 1
+Load aboard transport: 5
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 190
+Build Cost: 1897
 Build Resource Requirements:
-  Food: 1
-  Energy: 20
-  Metal: 14
-  Trace: 3
-  Exotica: 2
-  Chemicals: 33
-  Biochems: 24
-  Electronics: 5
-  Ceramsteel: 17
-  Monopols: 49
-Build Pocket Battlestar in Starport
-Time to Build / Upgrade: 4
-[16530] Technology Required to Build Unit (80):
-  [16530] Space Capital Ships (80)
+  Food: 5
+  Energy: 72
+  Metal: 52
+  Trace: 35
+  Exotica: 5
+  Chemicals: 104
+  Biochems: 19
+  Electronics: 38
+  Ceramsteel: 67
+Build Nuclear Destroyer in Well
+Time to Build / Upgrade: 9
+[7295] Technology Required to Build Unit (81):
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Jump Pocket Battlestar
-Nick Name: JJ-BP
+Name: Meson Amphibious Destroyer
+Nick Name: CC-MDD
 Scores & Strengths:
-  Tech Score: 5589
-  Unit Score: 5419
-  Average Score: 5504
-  Stat Strength: 4529
-  Total Strength: 5419
-  Planet Strength: 0
-  Space Strength: 5419
-  Garrison Strength: 0
+  Tech Score: 5449
+  Unit Score: 5449
+  Average Score: 5449
+  Stat Strength: 4138
+  Total Strength: 5449
+  Planet Strength: 4955
+  Space Strength: 4632
+  Garrison Strength: 1107
 Statistics:
-  Movement Type: jump
-  Move Points: 18
+  Movement Type: craft
+  Move Points: 20
   Spot: 14
-  Camouflage: 4
-  Agility: 11
-  Armor: 44
-  Psy Defense: 44
-  Rank: 178
+  Camouflage: 6
+  Agility: 12
+  Armor: 41
+  Psy Defense: 41
+  Rank: 174
 Attacks:
-  Ranged Space: 7/58
-  Direct Space: 11/44
-Cargo Space: 2
+  Ranged Space: 19/26
+  Water: 10/22
+  Air: 13/19
+  Indirect: 10/20
+  Direct: 10/15
+Cargo Space: 1
 Load aboard transport: 6
-Immune to Plague
-Upkeep / Maintenance: 817
-Build Cost: 8172
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 121
+Build Cost: 1072
 Build Resource Requirements:
-  Food: 1
-  Energy: 23
-  Metal: 13
-  Trace: 2
-  Exotica: 1
-  Chemicals: 40
-  Biochems: 25
-  Electronics: 10
-  Ceramsteel: 19
-  Monopols: 64
-  Singularities: 4
-Build Jump Pocket Battlestar in Starport
-Time to Build / Upgrade: 5
-[39365] Technology Required to Build Unit (61):
-  [39365] Jump Capital Ships (61)
+  Electronics: 6
+  Monopols: 27
+Upgrade Amphibious Destroyer to Meson Amphibious Destroyer at Well
+Time to Build / Upgrade: 1
+[58695] Technologies Required to Build Unit (79):
+  [2855] Naval Amphibious Ships (87)
+  [27875] PTS Meson Navalcraft (74)
+  [27965] Jump Escorts (75)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Jump Fast Battlestar
-Nick Name: JJ-BF
+Name: Hover Destroyer
+Nick Name: Annihilator
 Scores & Strengths:
-  Tech Score: 5589
-  Unit Score: 5483
-  Average Score: 5536
-  Stat Strength: 4495
-  Total Strength: 5483
-  Planet Strength: 0
-  Space Strength: 5483
-  Garrison Strength: 0
+  Tech Score: 6233
+  Unit Score: 6304
+  Average Score: 6268
+  Stat Strength: 5073
+  Total Strength: 6304
+  Planet Strength: 6304
+  Space Strength: 0
+  Garrison Strength: 1409
 Statistics:
-  Movement Type: jump
-  Move Points: 21
-  Spot: 14
-  Camouflage: 4
-  Agility: 12
-  Armor: 43
-  Psy Defense: 43
-  Rank: 183
-Attacks:
-  Ranged Space: 8/50
-  Direct Space: 14/42
-Cargo Space: 2
-Load aboard transport: 7
-Immune to Plague
-Upkeep / Maintenance: 828
-Build Cost: 8277
-Build Resource Requirements:
-  Food: 1
-  Energy: 19
-  Metal: 12
-  Trace: 3
-  Exotica: 2
-  Chemicals: 34
-  Biochems: 23
-  Electronics: 11
-  Ceramsteel: 18
-  Monopols: 56
-  Singularities: 5
-Build Jump Fast Battlestar in Starport
-Time to Build / Upgrade: 5
-[39365] Technology Required to Build Unit (61):
-  [39365] Jump Capital Ships (61)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---9--
-Name: Gate Battlestar
-Nick Name: Black Hole
-Scores & Strengths:
-  Tech Score: 7734
-  Unit Score: 7735
-  Average Score: 7734
-  Stat Strength: 6100
-  Total Strength: 7735
-  Planet Strength: 6925
-  Space Strength: 6910
-  Garrison Strength: 1264
-Statistics:
-  Movement Type: gate
-  Move Points: 30
-  Spot: 24
-  Camouflage: 14
-  Agility: 14
+  Movement Type: hover
+  Move Points: 20
+  Spot: 16
+  Camouflage: 8
+  Agility: 11
   Armor: 46
   Psy Defense: 46
-  Rank: 221
+  Rank: 163
 Attacks:
-  Ranged Space: 20/30
-  Direct Space: 14/15
-  Air: 15/15
-  Indirect: 20/30
-Cargo Space: 2
-Load aboard transport: 7
-Immune to Plague
-Upkeep / Maintenance: 1060
-Build Cost: 10595
+  Water: 12/23
+  Air: 17/23
+  Indirect: 10/34
+  Direct: 14/16
+Cargo Space: 1
+Load aboard transport: 5
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 201
+Build Cost: 2011
 Build Resource Requirements:
-  Food: 2
-  Energy: 9
+  Food: 1
+  Energy: 11
   Metal: 9
-  Trace: 5
-  Exotica: 2
-  Chemicals: 17
-  Biochems: 22
+  Trace: 3
+  Exotica: 1
+  Chemicals: 20
+  Biochems: 25
   Electronics: 11
-  Ceramsteel: 15
-  Wetware: 6
-  Monopols: 34
-  Singularities: 6
-Gate Battlestar cannot be built
+  Ceramsteel: 18
+  Wetware: 4
+  Monopols: 40
+Build Hover Destroyer in Well
+Time to Build / Upgrade: 4
+[45520] Technology Required to Build Unit (53):
+  [45520] Hover Navalcraft (53)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

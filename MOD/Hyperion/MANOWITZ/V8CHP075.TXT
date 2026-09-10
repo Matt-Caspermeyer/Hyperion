@@ -1,223 +1,539 @@
-All units of the unit class Land Minesweeper are listed herein (5 in total):
+All units of the unit class Naval Mine are listed herein (12 in total):
 
 --1--
-Name: Land Minesweeper
-Nick Name: LM Sweeper
+Name: Naval Mine
+Nick Name: Naval Mine
 Scores & Strengths:
-  Tech Score: 139
-  Unit Score: 205
+  Tech Score: 172
+  Unit Score: 172
   Average Score: 172
-  Stat Strength: 195
-  Total Strength: 205
-  Planet Strength: 205
+  Stat Strength: 100
+  Total Strength: 172
+  Planet Strength: 172
   Space Strength: 0
-  Garrison Strength: 91
+  Garrison Strength: 215
 Statistics:
-  Movement Type: wheel
-  Move Points: 5
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 11
-  Psy Defense: 5
-  Rank: 19
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 0
+  Camouflage: 10
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 8
 Attacks:
-  Close: 5/2
-Load aboard transport: 2
+  Water: 3/24
+Load aboard transport: 1
 Can attack on Byzantium Secundus
-Can tow units that can be towed
-Upkeep / Maintenance: 5
-Build Cost: 53
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 12
+Build Cost: 116
 Build Resource Requirements:
-  Food: 6
-  Energy: 5
-  Metal: 49
-  Trace: 12
-  Exotica: 5
-  Chemicals: 4
-Build Land Minesweeper in Factory
-Time to Build / Upgrade: 2
-[435] Technologies Required to Build Unit (99):
-  [110] Mechanical & Aerospace Engineering (98)
+  Energy: 143
+  Trace: 62
+  Chemicals: 125
+Build Naval Mine in Well
+Time to Build / Upgrade: 4
+[490] Technologies Required to Build Unit (99):
+  [230] Hospitals (97)
+  [110] Structural Engineering (99)
   [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
-Counts as planetary flock: YES
+  [50] Applied Technology (100)
 Unit can be disbanded: YES
 
 --2--
-Name: Anti-Mine Drone
-Nick Name: AM Drone
+Name: Naval Mine II
+Nick Name: Naval Mine II
 Scores & Strengths:
-  Tech Score: 2514
-  Unit Score: 2532
-  Average Score: 2523
-  Stat Strength: 2452
-  Total Strength: 2532
-  Planet Strength: 2532
+  Tech Score: 406
+  Unit Score: 410
+  Average Score: 408
+  Stat Strength: 225
+  Total Strength: 410
+  Planet Strength: 410
   Space Strength: 0
-  Garrison Strength: 596
+  Garrison Strength: 512
 Statistics:
-  Movement Type: wheel
-  Move Points: 18
-  Spot: 16
-  Camouflage: 6
-  Agility: 6
-  Armor: 30
-  Psy Defense: 30
-  Rank: 69
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 0
+  Camouflage: 15
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 24
 Attacks:
-  Close: 10/8
+  Water: 5/37
 Load aboard transport: 1
 Can attack on Byzantium Secundus
-Can tow units that can be towed
+Can be towed
 Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 23
-Build Cost: 225
+Destroyed after combat
+Upkeep / Maintenance: 10
+Build Cost: 98
 Build Resource Requirements:
-  Food: 4
-  Energy: 6
-  Metal: 23
-  Trace: 5
-  Exotica: 4
-  Chemicals: 24
-  Electronics: 24
-  Ceramsteel: 39
-Build Anti-Mine Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[13565] Technology Required to Build Unit (65):
-  [13565] Unmanned Land Vehicles (65)
-Counts as planetary flock: YES
+  Energy: 106
+  Trace: 23
+  Chemicals: 106
+  Electronics: 21
+Build Naval Mine II in Well
+Time to Build / Upgrade: 4
+[1195] Technology Required to Build Unit (90):
+  [1195] Naval Warfare (90)
 Unit can be disbanded: YES
 
 --3--
-Name: Tracked Surveillance Drone
-Nick Name: TS Drone
+Name: Naval Mine III
+Nick Name: Naval Mine III
 Scores & Strengths:
-  Tech Score: 2514
-  Unit Score: 2532
-  Average Score: 2523
-  Stat Strength: 2532
-  Total Strength: 2532
-  Planet Strength: 2532
+  Tech Score: 754
+  Unit Score: 741
+  Average Score: 748
+  Stat Strength: 441
+  Total Strength: 741
+  Planet Strength: 741
   Space Strength: 0
-  Garrison Strength: 496
+  Garrison Strength: 926
 Statistics:
-  Movement Type: tread
-  Move Points: 26
-  Spot: 24
-  Camouflage: 8
-  Agility: 8
-  Armor: 24
-  Psy Defense: 24
-  Rank: 64
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 0
+  Camouflage: 21
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 37
+Attacks:
+  Water: 6/50
 Load aboard transport: 1
+Can attack on Byzantium Secundus
+Can be towed
 Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 16
-Build Cost: 158
+Destroyed after combat
+Upkeep / Maintenance: 11
+Build Cost: 107
 Build Resource Requirements:
-  Food: 9
-  Energy: 11
-  Metal: 15
-  Trace: 9
-  Exotica: 9
-  Chemicals: 27
-  Electronics: 25
-  Ceramsteel: 25
-Build Tracked Surveillance Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[13565] Technology Required to Build Unit (65):
-  [13565] Unmanned Land Vehicles (65)
-Counts as planetary flock: YES
+  Energy: 105
+  Trace: 30
+  Chemicals: 105
+  Biochems: 1
+  Electronics: 23
+Build Naval Mine III in Well
+Time to Build / Upgrade: 4
+[2725] Technology Required to Build Unit (88):
+  [2725] Naval Capital Ships (88)
 Unit can be disbanded: YES
 
 --4--
-Name: PTS Drone
-Nick Name: PTS Drone
+Name: Naval Mine IV
+Nick Name: Naval Mine IV
 Scores & Strengths:
-  Tech Score: 2551
-  Unit Score: 2536
-  Average Score: 2543
-  Stat Strength: 1956
-  Total Strength: 2536
-  Planet Strength: 2276
-  Space Strength: 2216
-  Garrison Strength: 804
+  Tech Score: 932
+  Unit Score: 921
+  Average Score: 927
+  Stat Strength: 529
+  Total Strength: 921
+  Planet Strength: 921
+  Space Strength: 0
+  Garrison Strength: 1151
 Statistics:
-  Movement Type: tread
-  Move Points: 8
-  Spot: 14
-  Camouflage: 8
-  Agility: 8
-  Armor: 28
-  Psy Defense: 28
-  Rank: 122
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 0
+  Camouflage: 23
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 45
 Attacks:
-  Ranged Space: 10/26
-  Air: 10/16
-  Indirect: 8/20
+  Water: 7/56
 Load aboard transport: 1
+Can attack on Byzantium Secundus
+Can be towed
 Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 17
-Build Cost: 174
+Destroyed after combat
+Upkeep / Maintenance: 13
+Build Cost: 133
 Build Resource Requirements:
-  Food: 2
-  Energy: 20
-  Metal: 22
-  Trace: 7
-  Exotica: 2
-  Chemicals: 43
-  Electronics: 20
-  Ceramsteel: 30
-Build PTS Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[15515] Technologies Required to Build Unit (77):
-  [1950] PTS Missile Launcher (88)
-  [13565] Unmanned Land Vehicles (65)
-Counts as planetary flock: YES
+  Energy: 127
+  Trace: 35
+  Chemicals: 127
+  Biochems: 1
+  Electronics: 26
+Build Naval Mine IV in Well
+Time to Build / Upgrade: 4
+[3615] Technology Required to Build Unit (87):
+  [3615] Submarine Warfare (87)
 Unit can be disbanded: YES
 
 --5--
-Name: Wheeled Surveillance Drone
-Nick Name: WS Drone
+Name: Naval Mine V
+Nick Name: Naval Mine V
 Scores & Strengths:
-  Tech Score: 2514
-  Unit Score: 2548
-  Average Score: 2531
-  Stat Strength: 2548
-  Total Strength: 2548
-  Planet Strength: 2548
+  Tech Score: 1134
+  Unit Score: 1172
+  Average Score: 1153
+  Stat Strength: 676
+  Total Strength: 1172
+  Planet Strength: 1172
   Space Strength: 0
-  Garrison Strength: 450
+  Garrison Strength: 1465
 Statistics:
-  Movement Type: wheel
-  Move Points: 32
-  Spot: 22
-  Camouflage: 6
-  Agility: 6
-  Armor: 22
-  Psy Defense: 22
-  Rank: 62
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 0
+  Camouflage: 26
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 53
+Attacks:
+  Water: 8/62
 Load aboard transport: 1
+Can attack on Byzantium Secundus
+Can be towed
 Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 16
-Build Cost: 161
+Destroyed after combat
+Upkeep / Maintenance: 13
+Build Cost: 134
 Build Resource Requirements:
-  Food: 11
-  Energy: 16
-  Metal: 12
-  Trace: 7
-  Exotica: 11
-  Chemicals: 34
-  Electronics: 20
-  Ceramsteel: 21
-Build Wheeled Surveillance Drone in Electronics Plant
+  Energy: 118
+  Trace: 23
+  Chemicals: 136
+  Biochems: 1
+  Electronics: 26
+Build Naval Mine V in Well
+Time to Build / Upgrade: 4
+[4695] Technology Required to Build Unit (83):
+  [4695] Advanced Minor Watercraft (83)
+Unit can be disbanded: YES
+
+--6--
+Name: Naval Mine VI
+Nick Name: Naval Mine VI
+Scores & Strengths:
+  Tech Score: 1339
+  Unit Score: 1320
+  Average Score: 1329
+  Stat Strength: 784
+  Total Strength: 1320
+  Planet Strength: 1320
+  Space Strength: 0
+  Garrison Strength: 1650
+Statistics:
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 0
+  Camouflage: 28
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 57
+Attacks:
+  Water: 8/67
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 14
+Build Cost: 143
+Build Resource Requirements:
+  Energy: 120
+  Trace: 22
+  Chemicals: 145
+  Biochems: 1
+  Electronics: 27
+Build Naval Mine VI in Well
+Time to Build / Upgrade: 4
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
+Unit can be disbanded: YES
+
+--7--
+Name: Naval Mine VII
+Nick Name: Naval Mine VII
+Scores & Strengths:
+  Tech Score: 1692
+  Unit Score: 1636
+  Average Score: 1664
+  Stat Strength: 961
+  Total Strength: 1636
+  Planet Strength: 1636
+  Space Strength: 0
+  Garrison Strength: 2045
+Statistics:
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 0
+  Camouflage: 31
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 66
+Attacks:
+  Water: 9/75
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 11
+Build Cost: 107
+Build Resource Requirements:
+  Energy: 85
+  Trace: 16
+  Chemicals: 104
+  Biochems: 1
+  Electronics: 19
+Build Naval Mine VII in Well
 Time to Build / Upgrade: 3
-[13565] Technology Required to Build Unit (65):
-  [13565] Unmanned Land Vehicles (65)
-Counts as planetary flock: YES
+[13855] Technologies Required to Build Unit (84):
+  [7200] Air-Independent Propulsion (85)
+  [6655] PTS Missile Navalcraft (83)
+Unit can be disbanded: YES
+
+--8--
+Name: Naval Mine VIII
+Nick Name: Naval Mine VIII
+Scores & Strengths:
+  Tech Score: 2083
+  Unit Score: 2055
+  Average Score: 2069
+  Stat Strength: 1225
+  Total Strength: 2055
+  Planet Strength: 2055
+  Space Strength: 0
+  Garrison Strength: 2568
+Statistics:
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 0
+  Camouflage: 35
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 75
+Attacks:
+  Water: 10/83
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 12
+Build Cost: 118
+Build Resource Requirements:
+  Energy: 87
+  Trace: 17
+  Chemicals: 107
+  Biochems: 1
+  Electronics: 21
+Build Naval Mine VIII in Well
+Time to Build / Upgrade: 3
+[17285] Technologies Required to Build Unit (84):
+  [2790] Supercruise (86)
+  [7200] Air-Independent Propulsion (85)
+  [7295] Nuclear-Powered Navalcraft (81)
+Unit can be disbanded: YES
+
+--9--
+Name: Naval Mine IX
+Nick Name: Naval Mine IX
+Scores & Strengths:
+  Tech Score: 2378
+  Unit Score: 2348
+  Average Score: 2363
+  Stat Strength: 1369
+  Total Strength: 2348
+  Planet Strength: 2348
+  Space Strength: 0
+  Garrison Strength: 2935
+Statistics:
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 0
+  Camouflage: 37
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 83
+Attacks:
+  Water: 11/89
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 20
+Build Cost: 198
+Build Resource Requirements:
+  Energy: 119
+  Trace: 34
+  Chemicals: 172
+  Biochems: 1
+  Electronics: 43
+Build Naval Mine IX in Well
+Time to Build / Upgrade: 4
+[12595] Technology Required to Build Unit (82):
+  [12595] Supercavitating Submarine (82)
+Unit can be disbanded: YES
+
+--10--
+Name: Naval Mine X
+Nick Name: Naval Mine X
+Scores & Strengths:
+  Tech Score: 3237
+  Unit Score: 3201
+  Average Score: 3219
+  Stat Strength: 1849
+  Total Strength: 3201
+  Planet Strength: 3201
+  Space Strength: 0
+  Garrison Strength: 4001
+Statistics:
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 0
+  Camouflage: 43
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 100
+Attacks:
+  Water: 13/104
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 224
+Build Cost: 2244
+Build Resource Requirements:
+  Energy: 99
+  Trace: 24
+  Chemicals: 143
+  Biochems: 1
+  Electronics: 35
+  Monopols: 126
+Build Naval Mine X in Well
+Time to Build / Upgrade: 6
+[22900] Technologies Required to Build Unit (74):
+  [1690] Computerized Medical Imaging (76)
+  [8615] Fusion Beam (63)
+  [12595] Supercavitating Submarine (82)
+Unit can be disbanded: YES
+
+--11--
+Name: Naval Mine XI
+Nick Name: Naval Mine XI
+Scores & Strengths:
+  Tech Score: 4545
+  Unit Score: 4446
+  Average Score: 4495
+  Stat Strength: 2601
+  Total Strength: 4446
+  Planet Strength: 4446
+  Space Strength: 0
+  Garrison Strength: 5557
+Statistics:
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 0
+  Camouflage: 51
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 121
+Attacks:
+  Water: 15/123
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 223
+Build Cost: 2229
+Build Resource Requirements:
+  Energy: 73
+  Trace: 19
+  Chemicals: 104
+  Biochems: 1
+  Electronics: 30
+  Monopols: 110
+Build Naval Mine XI in Well
+Time to Build / Upgrade: 6
+[40470] Technologies Required to Build Unit (78):
+  [12595] Supercavitating Submarine (82)
+  [27875] PTS Meson Navalcraft (74)
+Unit can be disbanded: YES
+
+--12--
+Name: Naval Mine XII
+Nick Name: Naval Mine XII
+Scores & Strengths:
+  Tech Score: 5356
+  Unit Score: 5414
+  Average Score: 5385
+  Stat Strength: 3136
+  Total Strength: 5414
+  Planet Strength: 5414
+  Space Strength: 0
+  Garrison Strength: 6767
+Statistics:
+  Movement Type: underwater
+  Move Points: 0
+  Spot: 0
+  Camouflage: 56
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 136
+Attacks:
+  Water: 17/134
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 276
+Build Cost: 2760
+Build Resource Requirements:
+  Energy: 77
+  Trace: 17
+  Chemicals: 111
+  Biochems: 39
+  Electronics: 30
+  Monopols: 120
+Build Naval Mine XII in Well
+Time to Build / Upgrade: 6
+[47785] Technologies Required to Build Unit (68):
+  [33540] PTS Beam Navalcraft (56)
+  [14245] Hypercavitating Submarine (80)
 Unit can be disbanded: YES

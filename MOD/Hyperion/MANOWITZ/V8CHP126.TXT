@@ -1,435 +1,548 @@
-All units of the unit class Limpet Mine are listed herein (9 in total):
+All units of the unit class Seaplane Tender are listed herein (12 in total):
 
 --1--
-Name: Limpet Mine
-Nick Name: Limpet
+Name: Seaplane Tender
+Nick Name: NN-CVT
 Scores & Strengths:
-  Tech Score: 406
-  Unit Score: 406
-  Average Score: 406
-  Stat Strength: 258
-  Total Strength: 406
-  Planet Strength: 406
+  Tech Score: 199
+  Unit Score: 394
+  Average Score: 296
+  Stat Strength: 330
+  Total Strength: 394
+  Planet Strength: 394
   Space Strength: 0
-  Garrison Strength: 406
+  Garrison Strength: 160
 Statistics:
-  Movement Type: underwater
-  Move Points: 1
-  Spot: 0
-  Camouflage: 16
+  Movement Type: naval
+  Move Points: 6
+  Spot: 2
+  Camouflage: 1
   Agility: 1
-  Armor: 0
-  Psy Defense: 0
-  Rank: 711
+  Armor: 12
+  Psy Defense: 12
+  Rank: 53
 Attacks:
-  Water: 3/28
-  Indirect: 4/16
-Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 12
-Build Cost: 121
+  Air: 4/4
+  Indirect: 2/9
+  Direct: 2/6
+  Close: 3/6
+Cargo Space: 4
+Load aboard transport: 8
+Transports and Refuels (at end of turn) all Air Units
+Can tow units that can be towed
+Upkeep / Maintenance: 51
+Build Cost: 509
 Build Resource Requirements:
-  Energy: 81
-  Trace: 26
-  Chemicals: 81
-  Electronics: 22
-Build Limpet Mine in Well
-Time to Build / Upgrade: 3
-[1195] Technology Required to Build Unit (90):
-  [1195] Naval Warfare (90)
+  Food: 5
+  Energy: 31
+  Metal: 118
+  Trace: 9
+  Exotica: 4
+  Chemicals: 33
+  Electronics: 5
+Build Seaplane Tender in Well
+Time to Build / Upgrade: 4
+[625] Technologies Required to Build Unit (96):
+  [165] Autocannon (98)
+  [460] Seaplane (94)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Underwater Barrier
-Nick Name: Barrier
+Name: Naval Minesweeper
+Nick Name: NN-MS
 Scores & Strengths:
-  Tech Score: 406
-  Unit Score: 408
-  Average Score: 407
-  Stat Strength: 352
-  Total Strength: 408
-  Planet Strength: 408
+  Tech Score: 181
+  Unit Score: 447
+  Average Score: 314
+  Stat Strength: 443
+  Total Strength: 447
+  Planet Strength: 447
   Space Strength: 0
-  Garrison Strength: 510
+  Garrison Strength: 182
 Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 0
-  Camouflage: 8
-  Agility: 0
-  Armor: 12
-  Psy Defense: 12
-  Rank: 33
+  Movement Type: naval
+  Move Points: 6
+  Spot: 4
+  Camouflage: 7
+  Agility: 2
+  Armor: 13
+  Psy Defense: 13
+  Rank: 30
 Attacks:
-  Water: 4/14
-Load aboard transport: 4
-Can be towed
-Never Rebels
-Never Retreats
-Upkeep / Maintenance: 17
-Build Cost: 169
+  Close: 2/2
+Cargo Space: 1
+Load aboard transport: 5
+Can attack on Byzantium Secundus
+Can tow units that can be towed
+Upkeep / Maintenance: 26
+Build Cost: 262
 Build Resource Requirements:
-  Energy: 15
-  Metal: 42
-  Trace: 8
-  Chemicals: 15
-  Electronics: 7
-Build Underwater Barrier in Well
-Time to Build / Upgrade: 2
-[1305] Technologies Required to Build Unit (95):
+  Food: 6
+  Energy: 5
+  Metal: 77
+  Trace: 22
+  Exotica: 5
+  Chemicals: 5
+Build Naval Minesweeper in Well
+Time to Build / Upgrade: 3
+[665] Technologies Required to Build Unit (98):
+  [230] Hospitals (97)
   [110] Structural Engineering (99)
-  [1195] Naval Warfare (90)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Anti-Landing Spike
-Nick Name: Spike
+Name: Naval Destroyer Tender
+Nick Name: NN-DT
 Scores & Strengths:
-  Tech Score: 585
-  Unit Score: 585
-  Average Score: 585
-  Stat Strength: 513
-  Total Strength: 585
-  Planet Strength: 585
+  Tech Score: 658
+  Unit Score: 657
+  Average Score: 657
+  Stat Strength: 475
+  Total Strength: 657
+  Planet Strength: 657
   Space Strength: 0
-  Garrison Strength: 731
+  Garrison Strength: 219
 Statistics:
   Movement Type: naval
-  Move Points: 0
-  Spot: 0
-  Camouflage: 1
-  Agility: 0
-  Armor: 16
-  Psy Defense: 16
-  Rank: 36
+  Move Points: 9
+  Spot: 6
+  Camouflage: 2
+  Agility: 4
+  Armor: 13
+  Psy Defense: 13
+  Rank: 463
 Attacks:
-  Direct: 3/24
-Load aboard transport: 3
-Can be towed
-Never Rebels
-Never Retreats
-Upkeep / Maintenance: 25
-Build Cost: 247
+  Air: 7/8
+  Indirect: 4/12
+  Direct: 5/10
+  Close: 4/7
+Cargo Space: 2
+Load aboard transport: 5
+Can tow units that can be towed
+Heals units of same movement type
+Upkeep / Maintenance: 24
+Build Cost: 242
 Build Resource Requirements:
-  Energy: 32
-  Metal: 55
-  Trace: 1
-  Chemicals: 32
-  Electronics: 1
-Build Anti-Landing Spike in Well
+  Food: 3
+  Energy: 21
+  Metal: 33
+  Trace: 10
+  Exotica: 3
+  Chemicals: 21
+  Biochems: 7
+  Electronics: 7
+Build Naval Destroyer Tender in Well
 Time to Build / Upgrade: 2
-[1940] Technology Required to Build Unit (89):
-  [1940] Amphibious Landing Craft (89)
+[2270] Technology Required to Build Unit (86):
+  [2270] Naval Escort Ships (86)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Seadrome
-Nick Name: Seadrome
+Name: Naval Repair Ship
+Nick Name: NN-RS
 Scores & Strengths:
-  Tech Score: 771
-  Unit Score: 771
-  Average Score: 771
-  Stat Strength: 771
-  Total Strength: 771
-  Planet Strength: 771
+  Tech Score: 658
+  Unit Score: 657
+  Average Score: 657
+  Stat Strength: 632
+  Total Strength: 657
+  Planet Strength: 657
   Space Strength: 0
-  Garrison Strength: 963
+  Garrison Strength: 232
 Statistics:
   Movement Type: naval
-  Move Points: 0
-  Spot: 7
-  Camouflage: 0
-  Agility: 0
-  Armor: 19
-  Psy Defense: 19
-  Rank: 744
-Cargo Space: 10
-Load aboard transport: 12
-Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Can be towed
+  Move Points: 8
+  Spot: 6
+  Camouflage: 2
+  Agility: 4
+  Armor: 16
+  Psy Defense: 16
+  Rank: 444
+Attacks:
+  Close: 5/5
+Cargo Space: 2
+Load aboard transport: 4
+Can tow units that can be towed
 Heals units of same movement type
-Never Rebels
-Never Retreats
-Immune to Plague
-Upkeep / Maintenance: 118
-Build Cost: 1180
+Upkeep / Maintenance: 15
+Build Cost: 151
 Build Resource Requirements:
-  Food: 1
-  Metal: 53
-  Trace: 2
-  Exotica: 1
-  Chemicals: 14
-  Electronics: 1
-Build Seadrome in Well
+  Food: 3
+  Energy: 5
+  Metal: 49
+  Trace: 5
+  Exotica: 3
+  Chemicals: 5
+  Biochems: 4
+  Electronics: 4
+Build Naval Repair Ship in Well
 Time to Build / Upgrade: 2
-[4305] Technologies Required to Build Unit (94):
-  [125] Scholastic Medicine (98)
-  [255] Surgical Procedures (96)
-  [145] Composite Armor (97)
-  [325] Megachassis (94)
-  [165] Theurgy (93)
-  [395] Laws of Nine (95)
-  [1195] Naval Warfare (90)
-  [300] Mechanized Warfare (95)
-  [1400] Aerial Warfare (87)
+[2270] Technology Required to Build Unit (86):
+  [2270] Naval Escort Ships (86)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Maunsell (Naval) Fort
-Nick Name: Naval Fort
+Name: Naval Replenishment Tanker
+Nick Name: NN-AO-R
 Scores & Strengths:
-  Tech Score: 980
-  Unit Score: 980
-  Average Score: 980
-  Stat Strength: 804
-  Total Strength: 980
-  Planet Strength: 980
+  Tech Score: 658
+  Unit Score: 658
+  Average Score: 658
+  Stat Strength: 638
+  Total Strength: 658
+  Planet Strength: 658
   Space Strength: 0
-  Garrison Strength: 1225
+  Garrison Strength: 268
 Statistics:
   Movement Type: naval
-  Move Points: 0
-  Spot: 2
-  Camouflage: 0
-  Agility: 0
-  Armor: 20
-  Psy Defense: 20
-  Rank: 773
+  Move Points: 6
+  Spot: 4
+  Camouflage: 2
+  Agility: 2
+  Armor: 17
+  Psy Defense: 17
+  Rank: 53
 Attacks:
-  Water: 2/20
-  Air: 4/16
-  Indirect: 3/18
-  Direct: 2/9
-Cargo Space: 10
-Load aboard transport: 12
-Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Can be towed
-Heals units of same movement type
-Never Rebels
-Never Retreats
-Immune to Plague
-Upkeep / Maintenance: 214
-Build Cost: 2141
+  Close: 4/5
+Cargo Space: 4
+Load aboard transport: 10
+Upkeep / Maintenance: 13
+Build Cost: 125
 Build Resource Requirements:
-  Energy: 28
-  Metal: 50
-  Trace: 2
-  Chemicals: 40
-  Biochems: 1
-  Electronics: 1
-Build Maunsell (Naval) Fort in Well
+  Food: 1
+  Energy: 3
+  Metal: 56
+  Trace: 3
+  Exotica: 1
+  Chemicals: 3
+  Biochems: 2
+  Electronics: 2
+Build Naval Replenishment Tanker in Well
 Time to Build / Upgrade: 2
-[5230] Technologies Required to Build Unit (92):
-  [145] Composite Armor (97)
-  [350] Anti-Tank Weaponry (95)
-  [610] Dual-Purpose Gun (94)
-  [1400] Aerial Warfare (87)
-  [2725] Naval Capital Ships (88)
+[2270] Technology Required to Build Unit (86):
+  [2270] Naval Escort Ships (86)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Maunsell (Army) Fort
-Nick Name: Army Fort
+Name: Naval Radar Picket
+Nick Name: NN-BP
 Scores & Strengths:
-  Tech Score: 980
-  Unit Score: 980
-  Average Score: 980
-  Stat Strength: 804
-  Total Strength: 980
-  Planet Strength: 980
+  Tech Score: 658
+  Unit Score: 659
+  Average Score: 658
+  Stat Strength: 596
+  Total Strength: 659
+  Planet Strength: 659
   Space Strength: 0
-  Garrison Strength: 1225
+  Garrison Strength: 190
 Statistics:
   Movement Type: naval
-  Move Points: 0
-  Spot: 2
-  Camouflage: 0
-  Agility: 0
-  Armor: 20
-  Psy Defense: 20
-  Rank: 771
+  Move Points: 12
+  Spot: 12
+  Camouflage: 4
+  Agility: 2
+  Armor: 12
+  Psy Defense: 12
+  Rank: 41
 Attacks:
-  Air: 4/16
-  Indirect: 2/20
-  Direct: 3/18
-  Close: 2/9
-Cargo Space: 10
-Load aboard transport: 12
-Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Can be towed
-Heals units of same movement type
-Never Rebels
-Never Retreats
-Immune to Plague
-Upkeep / Maintenance: 215
-Build Cost: 2149
+  Close: 7/9
+Load aboard transport: 6
+Upkeep / Maintenance: 19
+Build Cost: 193
 Build Resource Requirements:
-  Energy: 28
-  Metal: 50
-  Trace: 2
-  Chemicals: 40
-  Biochems: 1
-  Electronics: 1
-Build Maunsell (Army) Fort in Well
+  Food: 7
+  Energy: 10
+  Metal: 28
+  Trace: 13
+  Exotica: 8
+  Chemicals: 10
+  Biochems: 11
+  Electronics: 10
+Build Naval Radar Picket in Well
 Time to Build / Upgrade: 2
-[5230] Technologies Required to Build Unit (92):
-  [145] Composite Armor (97)
-  [350] Anti-Tank Weaponry (95)
-  [610] Dual-Purpose Gun (94)
-  [1400] Aerial Warfare (87)
-  [2725] Naval Capital Ships (88)
+[2270] Technology Required to Build Unit (86):
+  [2270] Naval Escort Ships (86)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Very Large Float. Struct.
-Nick Name: VLFS
+Name: Naval Tracking Ship
+Nick Name: NN-AGM
 Scores & Strengths:
-  Tech Score: 2052
-  Unit Score: 2052
-  Average Score: 2052
-  Stat Strength: 2052
-  Total Strength: 2052
-  Planet Strength: 2052
+  Tech Score: 716
+  Unit Score: 718
+  Average Score: 717
+  Stat Strength: 658
+  Total Strength: 718
+  Planet Strength: 718
   Space Strength: 0
-  Garrison Strength: 1450
+  Garrison Strength: 227
 Statistics:
   Movement Type: naval
-  Move Points: 2
-  Spot: 0
-  Camouflage: 0
-  Agility: 0
-  Armor: 32
-  Psy Defense: 32
-  Rank: 766
-Cargo Space: 11
-Load aboard transport: 13
-Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Can be towed
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 263
-Build Cost: 2630
+  Move Points: 10
+  Spot: 10
+  Camouflage: 2
+  Agility: 2
+  Armor: 15
+  Psy Defense: 15
+  Rank: 44
+Attacks:
+  Close: 5/12
+Cargo Space: 1
+Load aboard transport: 6
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 17
+Build Cost: 173
 Build Resource Requirements:
-  Metal: 46
-  Chemicals: 11
-  Ceramsteel: 56
-Build Very Large Float. Struct. in Well
-Time to Build / Upgrade: 3
-[12405] Technologies Required to Build Unit (83):
-  [1690] Computerized Medical Imaging (76)
-  [220] Indoctrination (91)
-  [3200] Supersonic Aircraft (85)
-  [7295] Nuclear-Powered Navalcraft (81)
+  Food: 5
+  Energy: 10
+  Metal: 41
+  Trace: 7
+  Exotica: 5
+  Chemicals: 10
+  Biochems: 6
+  Electronics: 5
+Build Naval Tracking Ship in Well
+Time to Build / Upgrade: 2
+[3065] Technologies Required to Build Unit (86):
+  [2270] Naval Escort Ships (86)
+  [795] Missiles (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Floating Airport
-Nick Name: F-Airport
+Name: Light Replenishment Tanker
+Nick Name: NN-AOL
 Scores & Strengths:
-  Tech Score: 3493
-  Unit Score: 3494
-  Average Score: 3493
-  Stat Strength: 3494
-  Total Strength: 3494
-  Planet Strength: 3494
+  Tech Score: 1579
+  Unit Score: 1157
+  Average Score: 1368
+  Stat Strength: 1132
+  Total Strength: 1157
+  Planet Strength: 1157
   Space Strength: 0
-  Garrison Strength: 1747
+  Garrison Strength: 289
 Statistics:
   Movement Type: naval
-  Move Points: 4
-  Spot: 10
-  Camouflage: 4
-  Agility: 0
-  Armor: 41
-  Psy Defense: 41
-  Rank: 791
-Cargo Space: 12
-Load aboard transport: 14
-Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Can be towed
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 2200
-Build Cost: 22001
+  Move Points: 16
+  Spot: 6
+  Camouflage: 2
+  Agility: 6
+  Armor: 20
+  Psy Defense: 20
+  Rank: 55
+Attacks:
+  Close: 5/5
+Cargo Space: 2
+Load aboard transport: 6
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 22
+Build Cost: 215
 Build Resource Requirements:
-  Food: 1
-  Metal: 21
-  Trace: 1
-  Exotica: 1
-  Chemicals: 6
-  Electronics: 1
-  Ceramsteel: 32
-  Monopols: 25
-Build Floating Airport in Well
-Time to Build / Upgrade: 3
-[32020] Technologies Required to Build Unit (77):
-  [6490] Real-Time Medical Imaging (65)
-  [7610] Atmospheric Aircraft (80)
-  [330] Holy Warriors (82)
-  [10295] PTS Fusion Cannon (76)
+  Food: 3
+  Energy: 7
+  Metal: 18
+  Trace: 2
+  Exotica: 3
+  Chemicals: 13
+  Biochems: 4
+  Electronics: 2
+  Ceramsteel: 23
+Build Light Replenishment Tanker in Well
+Time to Build / Upgrade: 2
+[7295] Technology Required to Build Unit (81):
   [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Mobile Offshore Base
-Nick Name: MOB
+Name: Mobile Landing Platform
+Nick Name: NN-MLP
 Scores & Strengths:
-  Tech Score: 4649
-  Unit Score: 4649
-  Average Score: 4649
-  Stat Strength: 4649
-  Total Strength: 4649
-  Planet Strength: 4649
+  Tech Score: 1339
+  Unit Score: 1339
+  Average Score: 1339
+  Stat Strength: 1260
+  Total Strength: 1339
+  Planet Strength: 1339
   Space Strength: 0
-  Garrison Strength: 1401
+  Garrison Strength: 423
+Statistics:
+  Movement Type: naval
+  Move Points: 10
+  Spot: 10
+  Camouflage: 1
+  Agility: 1
+  Armor: 23
+  Psy Defense: 23
+  Rank: 767
+Attacks:
+  Direct: 3/13
+  Close: 4/10
+Cargo Space: 10
+Load aboard transport: 12
+Officer - Provides stack combat bonuses
+Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
+Upkeep / Maintenance: 125
+Build Cost: 1245
+Build Resource Requirements:
+  Food: 2
+  Energy: 10
+  Metal: 28
+  Trace: 3
+  Exotica: 3
+  Chemicals: 19
+  Biochems: 3
+  Electronics: 4
+  Ceramsteel: 34
+Build Mobile Landing Platform in Well
+Time to Build / Upgrade: 3
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Fast Combat Support Ship
+Nick Name: NN-AOE-F
+Scores & Strengths:
+  Tech Score: 1339
+  Unit Score: 1341
+  Average Score: 1340
+  Stat Strength: 1220
+  Total Strength: 1341
+  Planet Strength: 1341
+  Space Strength: 0
+  Garrison Strength: 358
+Statistics:
+  Movement Type: naval
+  Move Points: 14
+  Spot: 6
+  Camouflage: 2
+  Agility: 4
+  Armor: 22
+  Psy Defense: 22
+  Rank: 76
+Attacks:
+  Close: 11/11
+Cargo Space: 5
+Load aboard transport: 7
+Upkeep / Maintenance: 36
+Build Cost: 359
+Build Resource Requirements:
+  Food: 3
+  Energy: 8
+  Metal: 26
+  Trace: 4
+  Exotica: 3
+  Chemicals: 16
+  Biochems: 5
+  Electronics: 5
+  Ceramsteel: 31
+Build Fast Combat Support Ship in Well
+Time to Build / Upgrade: 3
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Expeditionary Transfer Dock
+Nick Name: NN-ETD
+Scores & Strengths:
+  Tech Score: 1474
+  Unit Score: 1474
+  Average Score: 1474
+  Stat Strength: 1396
+  Total Strength: 1474
+  Planet Strength: 1474
+  Space Strength: 0
+  Garrison Strength: 444
 Statistics:
   Movement Type: naval
   Move Points: 11
-  Spot: 10
+  Spot: 11
   Camouflage: 1
-  Agility: 3
-  Armor: 47
-  Psy Defense: 47
-  Rank: 797
+  Agility: 1
+  Armor: 24
+  Psy Defense: 24
+  Rank: 788
+Attacks:
+  Direct: 2/15
+  Close: 6/8
+Cargo Space: 14
+Load aboard transport: 16
+Officer - Provides stack combat bonuses
+Can tow units that can be towed
+Upkeep / Maintenance: 209
+Build Cost: 2089
+Build Resource Requirements:
+  Food: 3
+  Energy: 10
+  Metal: 28
+  Trace: 4
+  Exotica: 3
+  Chemicals: 19
+  Biochems: 4
+  Electronics: 5
+  Ceramsteel: 35
+Build Expeditionary Transfer Dock in Well
+Time to Build / Upgrade: 3
+[6655] Technology Required to Build Unit (83):
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Expeditionary Mobile Base
+Nick Name: NN-EMB
+Scores & Strengths:
+  Tech Score: 1579
+  Unit Score: 1579
+  Average Score: 1579
+  Stat Strength: 1540
+  Total Strength: 1579
+  Planet Strength: 1579
+  Space Strength: 0
+  Garrison Strength: 455
+Statistics:
+  Movement Type: naval
+  Move Points: 12
+  Spot: 12
+  Camouflage: 1
+  Agility: 1
+  Armor: 25
+  Psy Defense: 25
+  Rank: 783
+Attacks:
+  Indirect: 3/13
 Cargo Space: 12
 Load aboard transport: 14
 Officer - Provides stack combat bonuses
-Transports and Refuels (at end of turn) all Air Units
-Can be towed
 Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 2684
-Build Cost: 26836
+Upkeep / Maintenance: 162
+Build Cost: 1615
 Build Resource Requirements:
-  Food: 1
-  Energy: 1
-  Metal: 15
-  Trace: 1
-  Exotica: 1
-  Chemicals: 9
-  Biochems: 1
-  Electronics: 9
-  Ceramsteel: 28
-  Monopols: 27
-Build Mobile Offshore Base in Well
+  Food: 3
+  Energy: 7
+  Metal: 28
+  Trace: 3
+  Exotica: 3
+  Chemicals: 16
+  Biochems: 4
+  Electronics: 4
+  Ceramsteel: 36
+Build Expeditionary Mobile Base in Well
 Time to Build / Upgrade: 3
-[42305] Technologies Required to Build Unit (75):
-  [6490] Real-Time Medical Imaging (65)
-  [7610] Atmospheric Aircraft (80)
-  [330] Holy Warriors (82)
-  [27875] PTS Meson Navalcraft (74)
+[7295] Technology Required to Build Unit (81):
+  [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

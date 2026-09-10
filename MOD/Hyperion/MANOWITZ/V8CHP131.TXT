@@ -1,315 +1,435 @@
-All units of the unit class Guided Bomb are listed herein (7 in total):
+All units of the unit class Limpet Mine are listed herein (9 in total):
 
 --1--
-Name: Guided Bomb
-Nick Name: Guided Bomb
+Name: Limpet Mine
+Nick Name: Limpet
 Scores & Strengths:
-  Tech Score: 458
-  Unit Score: 458
-  Average Score: 458
-  Stat Strength: 363
-  Total Strength: 458
-  Planet Strength: 458
+  Tech Score: 406
+  Unit Score: 406
+  Average Score: 406
+  Stat Strength: 258
+  Total Strength: 406
+  Planet Strength: 406
   Space Strength: 0
-  Garrison Strength: 458
+  Garrison Strength: 406
 Statistics:
-  Movement Type: air
+  Movement Type: underwater
   Move Points: 1
   Spot: 0
-  Camouflage: 6
-  Agility: 18
-  Armor: 1
-  Psy Defense: 1
-  Rank: 23
+  Camouflage: 16
+  Agility: 1
+  Armor: 0
+  Psy Defense: 0
+  Rank: 711
 Attacks:
-  Indirect: 5/19
+  Water: 3/28
+  Indirect: 4/16
 Load aboard transport: 1
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Can be towed
 Never Rebels
 Never Retreats
 Immune to Plague
 Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 11
+Upkeep / Maintenance: 12
+Build Cost: 121
 Build Resource Requirements:
-  Food: 7
-  Energy: 34
-  Metal: 1
-  Trace: 18
-  Exotica: 7
-  Chemicals: 34
-  Electronics: 10
-Build Guided Bomb in Chemical Plant
-Time to Build / Upgrade: 2
-[1645] Technologies Required to Build Unit (90):
-  [245] Rotary Engine (92)
-  [1400] Aerial Warfare (87)
+  Energy: 81
+  Trace: 26
+  Chemicals: 81
+  Electronics: 22
+Build Limpet Mine in Well
+Time to Build / Upgrade: 3
+[1195] Technology Required to Build Unit (90):
+  [1195] Naval Warfare (90)
 Unit can be disbanded: YES
 
 --2--
-Name: Glide Bomb
-Nick Name: Glide Bomb
+Name: Underwater Barrier
+Nick Name: Barrier
 Scores & Strengths:
-  Tech Score: 492
-  Unit Score: 492
-  Average Score: 492
-  Stat Strength: 316
-  Total Strength: 492
-  Planet Strength: 492
+  Tech Score: 406
+  Unit Score: 408
+  Average Score: 407
+  Stat Strength: 352
+  Total Strength: 408
+  Planet Strength: 408
   Space Strength: 0
-  Garrison Strength: 284
+  Garrison Strength: 510
 Statistics:
-  Movement Type: air
-  Move Points: 3
+  Movement Type: underwater
+  Move Points: 0
   Spot: 0
-  Camouflage: 4
-  Agility: 17
-  Armor: 1
-  Psy Defense: 1
-  Rank: 32
+  Camouflage: 8
+  Agility: 0
+  Armor: 12
+  Psy Defense: 12
+  Rank: 33
 Attacks:
-  Indirect: 8/22
-Load aboard transport: 1
+  Water: 4/14
+Load aboard transport: 4
+Can be towed
 Never Rebels
 Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 8
+Upkeep / Maintenance: 17
+Build Cost: 169
 Build Resource Requirements:
-  Food: 4
-  Energy: 27
-  Metal: 1
-  Trace: 13
-  Exotica: 4
-  Chemicals: 27
-  Electronics: 5
-Build Glide Bomb in Chemical Plant
+  Energy: 15
+  Metal: 42
+  Trace: 8
+  Chemicals: 15
+  Electronics: 7
+Build Underwater Barrier in Well
 Time to Build / Upgrade: 2
-[2940] Technologies Required to Build Unit (88):
-  [1540] High-Speed Aerodynamics (89)
-  [1400] Aerial Warfare (87)
+[1305] Technologies Required to Build Unit (95):
+  [110] Structural Engineering (99)
+  [1195] Naval Warfare (90)
 Unit can be disbanded: YES
 
 --3--
-Name: Flying Bomb
-Nick Name: Flying Bomb
+Name: Anti-Landing Spike
+Nick Name: Spike
 Scores & Strengths:
-  Tech Score: 534
-  Unit Score: 534
-  Average Score: 534
-  Stat Strength: 334
-  Total Strength: 534
-  Planet Strength: 534
+  Tech Score: 585
+  Unit Score: 585
+  Average Score: 585
+  Stat Strength: 513
+  Total Strength: 585
+  Planet Strength: 585
   Space Strength: 0
-  Garrison Strength: 218
+  Garrison Strength: 731
 Statistics:
-  Movement Type: air
-  Move Points: 6
+  Movement Type: craft
+  Move Points: 0
   Spot: 0
-  Camouflage: 10
-  Agility: 14
-  Armor: 1
-  Psy Defense: 1
-  Rank: 35
+  Camouflage: 1
+  Agility: 0
+  Armor: 16
+  Psy Defense: 16
+  Rank: 36
 Attacks:
-  Indirect: 8/25
-Load aboard transport: 1
+  Direct: 3/24
+Load aboard transport: 3
+Can be towed
 Never Rebels
 Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 13
+Upkeep / Maintenance: 9
+Build Cost: 91
 Build Resource Requirements:
-  Food: 5
-  Energy: 41
-  Metal: 1
-  Trace: 21
-  Exotica: 5
-  Chemicals: 44
-  Electronics: 10
-Build Flying Bomb in Chemical Plant
+  Energy: 32
+  Metal: 55
+  Trace: 1
+  Chemicals: 32
+  Electronics: 1
+Build Anti-Landing Spike in Well
 Time to Build / Upgrade: 2
-[2100] Technologies Required to Build Unit (89):
-  [700] Rockets (90)
-  [1400] Aerial Warfare (87)
+[1940] Technology Required to Build Unit (89):
+  [1940] Amphibious Landing Craft (89)
 Unit can be disbanded: YES
 
 --4--
-Name: Human-Guided Bomb
-Nick Name: HG Bomb
+Name: Seadrome
+Nick Name: Seadrome
 Scores & Strengths:
-  Tech Score: 534
-  Unit Score: 535
-  Average Score: 535
-  Stat Strength: 339
-  Total Strength: 535
-  Planet Strength: 535
+  Tech Score: 771
+  Unit Score: 771
+  Average Score: 771
+  Stat Strength: 771
+  Total Strength: 771
+  Planet Strength: 771
   Space Strength: 0
-  Garrison Strength: 189
+  Garrison Strength: 963
 Statistics:
-  Movement Type: air
-  Move Points: 8
-  Spot: 6
-  Camouflage: 5
-  Agility: 14
-  Armor: 3
-  Psy Defense: 3
-  Rank: 40
-Attacks:
-  Indirect: 14/14
-Load aboard transport: 1
+  Movement Type: naval
+  Move Points: 0
+  Spot: 7
+  Camouflage: 0
+  Agility: 0
+  Armor: 19
+  Psy Defense: 19
+  Rank: 744
+Cargo Space: 10
+Load aboard transport: 12
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Can be towed
+Heals units of same movement type
 Never Rebels
 Never Retreats
 Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
+Upkeep / Maintenance: 118
+Build Cost: 1180
 Build Resource Requirements:
-  Metal: 4
-  Trace: 28
-  Exotica: 7
-  Chemicals: 21
-  Electronics: 7
-Upgrade Peasant to Human-Guided Bomb at Chemical Plant
-Time to Build / Upgrade: 1
-[2100] Technologies Required to Build Unit (89):
-  [700] Rockets (90)
+  Food: 1
+  Metal: 53
+  Trace: 2
+  Exotica: 1
+  Chemicals: 14
+  Electronics: 1
+Build Seadrome in Well
+Time to Build / Upgrade: 2
+[4305] Technologies Required to Build Unit (94):
+  [125] Scholastic Medicine (98)
+  [255] Surgical Procedures (96)
+  [145] Composite Armor (97)
+  [325] Megachassis (94)
+  [165] Theurgy (93)
+  [395] Laws of Nine (95)
+  [1195] Naval Warfare (90)
+  [300] Mechanized Warfare (95)
   [1400] Aerial Warfare (87)
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Guided Glide Bomb
-Nick Name: GG Bomb
+Name: Maunsell (Naval) Fort
+Nick Name: Naval Fort
 Scores & Strengths:
-  Tech Score: 701
-  Unit Score: 703
-  Average Score: 702
-  Stat Strength: 358
-  Total Strength: 703
-  Planet Strength: 703
+  Tech Score: 980
+  Unit Score: 980
+  Average Score: 980
+  Stat Strength: 804
+  Total Strength: 980
+  Planet Strength: 980
   Space Strength: 0
-  Garrison Strength: 351
+  Garrison Strength: 1225
 Statistics:
-  Movement Type: air
-  Move Points: 4
-  Spot: 0
-  Camouflage: 4
-  Agility: 18
-  Armor: 1
-  Psy Defense: 1
-  Rank: 48
+  Movement Type: naval
+  Move Points: 0
+  Spot: 2
+  Camouflage: 0
+  Agility: 0
+  Armor: 20
+  Psy Defense: 20
+  Rank: 773
 Attacks:
-  Indirect: 15/23
-Load aboard transport: 1
+  Water: 2/20
+  Air: 4/16
+  Indirect: 3/18
+  Direct: 2/9
+Cargo Space: 10
+Load aboard transport: 12
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Can be towed
+Heals units of same movement type
 Never Rebels
 Never Retreats
 Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 8
+Upkeep / Maintenance: 214
+Build Cost: 2141
 Build Resource Requirements:
-  Food: 3
-  Energy: 23
-  Trace: 17
-  Exotica: 3
-  Chemicals: 23
-  Electronics: 5
-Build Guided Glide Bomb in Chemical Plant
+  Energy: 28
+  Metal: 50
+  Trace: 2
+  Chemicals: 40
+  Biochems: 1
+  Electronics: 1
+Build Maunsell (Naval) Fort in Well
 Time to Build / Upgrade: 2
-[4135] Technologies Required to Build Unit (89):
-  [1540] High-Speed Aerodynamics (89)
-  [1195] Naval Warfare (90)
+[5230] Technologies Required to Build Unit (92):
+  [145] Composite Armor (97)
+  [350] Anti-Tank Weaponry (95)
+  [610] Dual-Purpose Gun (94)
   [1400] Aerial Warfare (87)
+  [2725] Naval Capital Ships (88)
 Unit can be disbanded: YES
 
 --6--
-Name: Flying Bomb II
-Nick Name: Flying Bomb II
+Name: Maunsell (Army) Fort
+Nick Name: Army Fort
 Scores & Strengths:
-  Tech Score: 756
-  Unit Score: 758
-  Average Score: 757
-  Stat Strength: 398
-  Total Strength: 758
-  Planet Strength: 758
+  Tech Score: 980
+  Unit Score: 980
+  Average Score: 980
+  Stat Strength: 804
+  Total Strength: 980
+  Planet Strength: 980
   Space Strength: 0
-  Garrison Strength: 239
+  Garrison Strength: 1225
 Statistics:
-  Movement Type: air
-  Move Points: 10
-  Spot: 0
-  Camouflage: 10
-  Agility: 14
-  Armor: 1
-  Psy Defense: 1
-  Rank: 50
+  Movement Type: naval
+  Move Points: 0
+  Spot: 2
+  Camouflage: 0
+  Agility: 0
+  Armor: 20
+  Psy Defense: 20
+  Rank: 771
 Attacks:
-  Indirect: 18/20
-Load aboard transport: 1
+  Air: 4/16
+  Indirect: 2/20
+  Direct: 3/18
+  Close: 2/9
+Cargo Space: 10
+Load aboard transport: 12
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Can be towed
+Heals units of same movement type
 Never Rebels
 Never Retreats
 Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 9
+Upkeep / Maintenance: 215
+Build Cost: 2149
 Build Resource Requirements:
-  Food: 4
-  Energy: 22
-  Trace: 26
-  Exotica: 4
-  Chemicals: 23
-  Electronics: 7
-Build Flying Bomb II in Chemical Plant
+  Energy: 28
+  Metal: 50
+  Trace: 2
+  Chemicals: 40
+  Biochems: 1
+  Electronics: 1
+Build Maunsell (Army) Fort in Well
 Time to Build / Upgrade: 2
-[3390] Technologies Required to Build Unit (88):
-  [1195] Naval Warfare (90)
+[5230] Technologies Required to Build Unit (92):
+  [145] Composite Armor (97)
+  [350] Anti-Tank Weaponry (95)
+  [610] Dual-Purpose Gun (94)
   [1400] Aerial Warfare (87)
-  [795] Missiles (86)
+  [2725] Naval Capital Ships (88)
 Unit can be disbanded: YES
 
 --7--
-Name: Laser-Guided Bomb
-Nick Name: LG Bomb
+Name: Very Large Float. Struct.
+Nick Name: VLFS
 Scores & Strengths:
-  Tech Score: 1248
-  Unit Score: 1244
-  Average Score: 1246
-  Stat Strength: 344
-  Total Strength: 1244
-  Planet Strength: 1244
+  Tech Score: 2052
+  Unit Score: 2052
+  Average Score: 2052
+  Stat Strength: 2052
+  Total Strength: 2052
+  Planet Strength: 2052
   Space Strength: 0
-  Garrison Strength: 879
+  Garrison Strength: 1450
 Statistics:
-  Movement Type: air
+  Movement Type: naval
   Move Points: 2
   Spot: 0
-  Camouflage: 7
-  Agility: 17
-  Armor: 1
-  Psy Defense: 1
-  Rank: 82
-Attacks:
-  Indirect: 30/30
-Load aboard transport: 1
-Never Rebels
-Never Retreats
+  Camouflage: 0
+  Agility: 0
+  Armor: 32
+  Psy Defense: 32
+  Rank: 766
+Cargo Space: 11
+Load aboard transport: 13
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Can be towed
+Heals units of same movement type
 Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 1
-Build Cost: 12
+Upkeep / Maintenance: 263
+Build Cost: 2630
 Build Resource Requirements:
-  Food: 2
-  Energy: 30
-  Trace: 30
-  Exotica: 2
-  Chemicals: 30
-  Biochems: 2
-  Electronics: 5
-Build Laser-Guided Bomb in Chemical Plant
-Time to Build / Upgrade: 2
-[6435] Technologies Required to Build Unit (83):
-  [1900] LASER (76)
-  [1810] Jet-Propulsion Aircraft (86)
-  [2725] Naval Capital Ships (88)
+  Metal: 46
+  Chemicals: 11
+  Ceramsteel: 56
+Build Very Large Float. Struct. in Well
+Time to Build / Upgrade: 3
+[12405] Technologies Required to Build Unit (83):
+  [1690] Computerized Medical Imaging (76)
+  [220] Indoctrination (91)
+  [3200] Supersonic Aircraft (85)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Floating Airport
+Nick Name: F-Airport
+Scores & Strengths:
+  Tech Score: 3493
+  Unit Score: 3494
+  Average Score: 3493
+  Stat Strength: 3494
+  Total Strength: 3494
+  Planet Strength: 3494
+  Space Strength: 0
+  Garrison Strength: 1747
+Statistics:
+  Movement Type: naval
+  Move Points: 4
+  Spot: 10
+  Camouflage: 4
+  Agility: 0
+  Armor: 41
+  Psy Defense: 41
+  Rank: 791
+Cargo Space: 12
+Load aboard transport: 14
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Can be towed
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 2200
+Build Cost: 22001
+Build Resource Requirements:
+  Food: 1
+  Metal: 21
+  Trace: 1
+  Exotica: 1
+  Chemicals: 6
+  Electronics: 1
+  Ceramsteel: 32
+  Monopols: 25
+Build Floating Airport in Well
+Time to Build / Upgrade: 3
+[32020] Technologies Required to Build Unit (77):
+  [6490] Real-Time Medical Imaging (65)
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [10295] PTS Fusion Cannon (76)
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Mobile Offshore Base
+Nick Name: MOB
+Scores & Strengths:
+  Tech Score: 4649
+  Unit Score: 4649
+  Average Score: 4649
+  Stat Strength: 4649
+  Total Strength: 4649
+  Planet Strength: 4649
+  Space Strength: 0
+  Garrison Strength: 1401
+Statistics:
+  Movement Type: naval
+  Move Points: 11
+  Spot: 10
+  Camouflage: 1
+  Agility: 3
+  Armor: 47
+  Psy Defense: 47
+  Rank: 797
+Cargo Space: 12
+Load aboard transport: 14
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Can be towed
+Heals units of same movement type
+Immune to Plague
+Upkeep / Maintenance: 2684
+Build Cost: 26836
+Build Resource Requirements:
+  Food: 1
+  Energy: 1
+  Metal: 15
+  Trace: 1
+  Exotica: 1
+  Chemicals: 9
+  Biochems: 1
+  Electronics: 9
+  Ceramsteel: 28
+  Monopols: 27
+Build Mobile Offshore Base in Well
+Time to Build / Upgrade: 3
+[42305] Technologies Required to Build Unit (75):
+  [6490] Real-Time Medical Imaging (65)
+  [7610] Atmospheric Aircraft (80)
+  [330] Holy Warriors (82)
+  [27875] PTS Meson Navalcraft (74)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

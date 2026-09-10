@@ -1,240 +1,134 @@
-All units of the unit class Missile Cruiser are listed herein (5 in total):
+All units of the unit class Shock Legion are listed herein (3 in total):
 
 --1--
-Name: Missile Cruiser
-Nick Name: JJ-CC-Mi
+Name: Shock Legion
+Nick Name: Shock Lgn
 Scores & Strengths:
-  Tech Score: 3094
-  Unit Score: 3094
-  Average Score: 3094
-  Stat Strength: 1994
-  Total Strength: 3094
-  Planet Strength: 0
-  Space Strength: 3094
-  Garrison Strength: 0
+  Tech Score: 2509
+  Unit Score: 2509
+  Average Score: 2509
+  Stat Strength: 1472
+  Total Strength: 2509
+  Planet Strength: 2509
+  Space Strength: 0
+  Garrison Strength: 627
 Statistics:
-  Movement Type: jump
-  Move Points: 14
-  Spot: 11
-  Camouflage: 3
-  Agility: 10
-  Armor: 28
-  Psy Defense: 28
-  Rank: 166
+  Movement Type: foot
+  Move Points: 16
+  Spot: 9
+  Camouflage: 11
+  Agility: 26
+  Armor: 13
+  Psy Defense: 13
+  Rank: 112
 Attacks:
-  Ranged Space: 12/34
-  Direct Space: 17/28
-  Close Space: 18/12
-Cargo Space: 2
-Load aboard transport: 6
-Immune to Plague
-Upkeep / Maintenance: 458
-Build Cost: 4582
+  Air: 12/11
+  Indirect: 16/14
+  Direct: 21/16
+  Close: 23/15
+Load aboard transport: 1
+Upkeep / Maintenance: 75
+Build Cost: 587
 Build Resource Requirements:
-  Food: 1
-  Energy: 13
-  Metal: 10
-  Trace: 7
-  Exotica: 1
-  Chemicals: 20
-  Biochems: 17
-  Electronics: 10
-  Ceramsteel: 12
-  Monopols: 27
-  Singularities: 4
-Missile Cruiser cannot be built
+  Metal: 1
+  Trace: 2
+  Electronics: 1
+  Ceramsteel: 3
+  Monopols: 26
+Upgrade Chemical Shock Legion to Shock Legion at Fort
+Time to Build / Upgrade: 1
+[16085] Technologies Required to Build Unit (64):
+  [6020] Chemical Shock Legion (49)
+  [10065] Powered-Armor Legion (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Meson Vlad Cruiser
-Nick Name: JJ-CC-Me
+Name: Genetic Shock Legion
+Nick Name: Gen SL
 Scores & Strengths:
-  Tech Score: 4073
-  Unit Score: 4073
-  Average Score: 4073
-  Stat Strength: 2713
-  Total Strength: 4073
-  Planet Strength: 0
-  Space Strength: 4073
-  Garrison Strength: 0
+  Tech Score: 3749
+  Unit Score: 3581
+  Average Score: 3665
+  Stat Strength: 2022
+  Total Strength: 3581
+  Planet Strength: 3581
+  Space Strength: 0
+  Garrison Strength: 800
 Statistics:
-  Movement Type: jump
-  Move Points: 17
-  Spot: 14
-  Camouflage: 6
-  Agility: 12
-  Armor: 32
-  Psy Defense: 32
-  Rank: 178
+  Movement Type: foot
+  Move Points: 20
+  Spot: 10
+  Camouflage: 13
+  Agility: 29
+  Armor: 16
+  Psy Defense: 16
+  Rank: 135
 Attacks:
-  Ranged Space: 15/33
-  Direct Space: 20/26
-  Close Space: 23/15
+  Air: 15/13
+  Indirect: 20/17
+  Direct: 26/20
+  Close: 28/18
 Load aboard transport: 1
 Immune to Plague
-Upkeep / Maintenance: 531
-Build Cost: 5307
+Upkeep / Maintenance: 96
+Build Cost: 372
 Build Resource Requirements:
-  Food: 1
-  Energy: 10
-  Metal: 11
-  Trace: 10
-  Exotica: 2
-  Chemicals: 17
-  Biochems: 21
-  Electronics: 17
-  Ceramsteel: 12
-  Monopols: 31
-  Singularities: 4
-Meson Vlad Cruiser cannot be built
+  Energy: 3
+Upgrade Shock Legion to Genetic Shock Legion at Lab
+Time to Build / Upgrade: 1
+[28060] Technologies Required to Build Unit (40):
+  [8900] Genetically-Enhanced Warriors (25)
+  [19160] Assault Legion (54)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Jump (Vlad) Cruiser
-Nick Name: JJ-CC2
+Name: Shock Legion (NE)
+Nick Name: Shock Lgn (NE)
 Scores & Strengths:
-  Tech Score: 5589
-  Unit Score: 5418
-  Average Score: 5504
-  Stat Strength: 4534
-  Total Strength: 5418
-  Planet Strength: 0
-  Space Strength: 5418
-  Garrison Strength: 0
+  Tech Score: 4373
+  Unit Score: 6580
+  Average Score: 5477
+  Stat Strength: 3461
+  Total Strength: 6580
+  Planet Strength: 6580
+  Space Strength: 0
+  Garrison Strength: 1290
 Statistics:
-  Movement Type: jump
-  Move Points: 16
-  Spot: 14
-  Camouflage: 4
-  Agility: 4
-  Armor: 45
-  Psy Defense: 45
-  Rank: 182
+  Movement Type: foot
+  Move Points: 26
+  Spot: 12
+  Camouflage: 20
+  Agility: 33
+  Armor: 24
+  Psy Defense: 24
+  Rank: 179
 Attacks:
-  Ranged Space: 17/25
-  Direct Space: 10/27
-  Close Space: 9/21
-Cargo Space: 3
-Load aboard transport: 6
-Immune to Plague
-Upkeep / Maintenance: 727
-Build Cost: 7272
+  Air: 21/19
+  Indirect: 28/24
+  Direct: 36/28
+  Close: 40/26
+Load aboard transport: 1
+Upkeep / Maintenance: 230
+Build Cost: 1925
 Build Resource Requirements:
-  Food: 1
-  Energy: 8
-  Metal: 14
-  Trace: 4
-  Exotica: 1
-  Chemicals: 18
-  Biochems: 18
-  Electronics: 13
-  Ceramsteel: 20
-  Monopols: 36
-  Singularities: 4
-Build Jump (Vlad) Cruiser in Starport
-Time to Build / Upgrade: 4
-[39365] Technology Required to Build Unit (61):
-  [39365] Jump Capital Ships (61)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: Gate Cruiser
-Nick Name: Galactic Rift
-Scores & Strengths:
-  Tech Score: 7734
-  Unit Score: 7734
-  Average Score: 7734
-  Stat Strength: 5847
-  Total Strength: 7734
-  Planet Strength: 6995
-  Space Strength: 6586
-  Garrison Strength: 1256
-Statistics:
-  Movement Type: gate
-  Move Points: 31
-  Spot: 26
-  Camouflage: 16
-  Agility: 16
-  Armor: 43
-  Psy Defense: 43
-  Rank: 221
-Attacks:
-  Ranged Space: 22/22
-  Direct Space: 17/15
-  Air: 16/13
-  Indirect: 22/22
-  Direct: 24/19
-Cargo Space: 2
-Load aboard transport: 6
-Immune to Plague
-Upkeep / Maintenance: 1073
-Build Cost: 10727
-Build Resource Requirements:
-  Food: 2
-  Energy: 8
-  Metal: 8
-  Trace: 7
-  Exotica: 2
-  Chemicals: 15
-  Biochems: 22
-  Electronics: 15
-  Ceramsteel: 13
-  Wetware: 10
-  Monopols: 30
-  Singularities: 6
-Gate Cruiser cannot be built
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Cloaking Vlad Cruiser
-Nick Name: JJ-CC-Cl
-Scores & Strengths:
-  Tech Score: 8498
-  Unit Score: 8501
-  Average Score: 8499
-  Stat Strength: 6840
-  Total Strength: 8501
-  Planet Strength: 0
-  Space Strength: 8501
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 16
-  Spot: 14
-  Camouflage: 46
-  Agility: 20
-  Armor: 44
-  Psy Defense: 44
-  Rank: 249
-Attacks:
-  Ranged Space: 20/33
-  Direct Space: 30/22
-  Close Space: 31/11
-Cargo Space: 3
-Load aboard transport: 6
-Immune to Plague
-Upkeep / Maintenance: 872
-Build Cost: 8724
-Build Resource Requirements:
-  Energy: 4
-  Metal: 6
-  Trace: 9
-  Exotica: 1
-  Chemicals: 8
-  Biochems: 16
-  Electronics: 22
-  Ceramsteel: 9
-  Wetware: 7
-  Monopols: 17
-  Singularities: 4
-Build Cloaking Vlad Cruiser in Starport
+  Energy: 1
+  Metal: 1
+  Trace: 1
+  Chemicals: 1
+  Biochems: 2
+  Electronics: 1
+  Ceramsteel: 2
+  Wetware: 22
+  Monopols: 7
+Upgrade Genetic Shock Legion to Shock Legion (NE) at Fusorium
 Time to Build / Upgrade: 3
-[98845] Technologies Required to Build Unit (63):
-  [59480] Cloaked Capital Ships (64)
-  [39365] Jump Capital Ships (61)
+[43290] Technologies Required to Build Unit (43):
+  [24130] Neumonically-Enhanced Soldiers (32)
+  [19160] Assault Legion (54)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

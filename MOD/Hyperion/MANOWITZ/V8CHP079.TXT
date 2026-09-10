@@ -1,358 +1,221 @@
-All units of the unit class Anti-Aircraft Gun are listed herein (8 in total):
+All units of the unit class Land Minesweeper are listed herein (5 in total):
 
 --1--
-Name: Anti-Aircraft Gun
-Nick Name: Flak
+Name: Land Minesweeper
+Nick Name: LM Sweeper
 Scores & Strengths:
-  Tech Score: 219
-  Unit Score: 218
-  Average Score: 219
-  Stat Strength: 162
-  Total Strength: 218
-  Planet Strength: 218
+  Tech Score: 139
+  Unit Score: 205
+  Average Score: 172
+  Stat Strength: 195
+  Total Strength: 205
+  Planet Strength: 205
   Space Strength: 0
-  Garrison Strength: 109
-Statistics:
-  Movement Type: wheel
-  Move Points: 4
-  Spot: 4
-  Camouflage: 2
-  Agility: 1
-  Armor: 10
-  Psy Defense: 5
-  Rank: 33
-Attacks:
-  Air: 4/14
-Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 8
-Build Cost: 84
-Build Resource Requirements:
-  Food: 5
-  Energy: 36
-  Metal: 74
-  Trace: 9
-  Exotica: 4
-  Chemicals: 43
-  Electronics: 6
-Build Anti-Aircraft Gun in Factory
-Time to Build / Upgrade: 3
-[525] Technology Required to Build Unit (94):
-  [525] Anti-Aircraft Weaponry (94)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---2--
-Name: Light Anti-Aircraft Gun
-Nick Name: Lt-Flak
-Scores & Strengths:
-  Tech Score: 513
-  Unit Score: 513
-  Average Score: 513
-  Stat Strength: 336
-  Total Strength: 513
-  Planet Strength: 513
-  Space Strength: 0
-  Garrison Strength: 193
-Statistics:
-  Movement Type: wheel
-  Move Points: 7
-  Spot: 5
-  Camouflage: 2
-  Agility: 4
-  Armor: 11
-  Psy Defense: 11
-  Rank: 52
-Attacks:
-  Air: 12/14
-  Close: 3/3
-Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 6
-Build Cost: 57
-Build Resource Requirements:
-  Food: 3
-  Energy: 15
-  Metal: 52
-  Trace: 16
-  Exotica: 3
-  Chemicals: 15
-  Electronics: 10
-Build Light Anti-Aircraft Gun in Factory
-Time to Build / Upgrade: 2
-[2010] Technologies Required to Build Unit (91):
-  [610] Dual-Purpose Gun (94)
-  [1400] Aerial Warfare (87)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---3--
-Name: Heavy Anti-Aircraft Gun
-Nick Name: Hv-Flak
-Scores & Strengths:
-  Tech Score: 513
-  Unit Score: 513
-  Average Score: 513
-  Stat Strength: 396
-  Total Strength: 513
-  Planet Strength: 513
-  Space Strength: 0
-  Garrison Strength: 229
+  Garrison Strength: 91
 Statistics:
   Movement Type: wheel
   Move Points: 5
-  Spot: 5
+  Spot: 4
   Camouflage: 2
   Agility: 2
-  Armor: 13
-  Psy Defense: 13
-  Rank: 47
+  Armor: 11
+  Psy Defense: 5
+  Rank: 19
 Attacks:
-  Air: 6/18
-  Close: 1/9
+  Close: 5/2
 Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 7
-Build Cost: 65
+Can attack on Byzantium Secundus
+Can tow units that can be towed
+Upkeep / Maintenance: 5
+Build Cost: 53
 Build Resource Requirements:
-  Food: 2
-  Energy: 24
-  Metal: 73
-  Trace: 7
-  Exotica: 2
-  Chemicals: 26
-  Electronics: 4
-Build Heavy Anti-Aircraft Gun in Factory
+  Food: 6
+  Energy: 5
+  Metal: 49
+  Trace: 12
+  Exotica: 5
+  Chemicals: 4
+Build Land Minesweeper in Factory
 Time to Build / Upgrade: 2
-[2010] Technologies Required to Build Unit (91):
-  [610] Dual-Purpose Gun (94)
-  [1400] Aerial Warfare (87)
+[435] Technologies Required to Build Unit (99):
+  [110] Mechanical & Aerospace Engineering (98)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--2--
+Name: Anti-Mine Drone
+Nick Name: AM Drone
+Scores & Strengths:
+  Tech Score: 2514
+  Unit Score: 2532
+  Average Score: 2523
+  Stat Strength: 2452
+  Total Strength: 2532
+  Planet Strength: 2532
+  Space Strength: 0
+  Garrison Strength: 596
+Statistics:
+  Movement Type: wheel
+  Move Points: 18
+  Spot: 16
+  Camouflage: 6
+  Agility: 6
+  Armor: 30
+  Psy Defense: 30
+  Rank: 69
+Attacks:
+  Close: 10/8
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Can tow units that can be towed
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 23
+Build Cost: 225
+Build Resource Requirements:
+  Food: 4
+  Energy: 6
+  Metal: 23
+  Trace: 5
+  Exotica: 4
+  Chemicals: 24
+  Electronics: 24
+  Ceramsteel: 39
+Build Anti-Mine Drone in Electronics Plant
+Time to Build / Upgrade: 3
+[13565] Technology Required to Build Unit (65):
+  [13565] Unmanned Land Vehicles (65)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Tracked Surveillance Drone
+Nick Name: TS Drone
+Scores & Strengths:
+  Tech Score: 2514
+  Unit Score: 2532
+  Average Score: 2523
+  Stat Strength: 2532
+  Total Strength: 2532
+  Planet Strength: 2532
+  Space Strength: 0
+  Garrison Strength: 496
+Statistics:
+  Movement Type: tread
+  Move Points: 26
+  Spot: 24
+  Camouflage: 8
+  Agility: 8
+  Armor: 24
+  Psy Defense: 24
+  Rank: 64
+Load aboard transport: 1
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 16
+Build Cost: 158
+Build Resource Requirements:
+  Food: 9
+  Energy: 11
+  Metal: 15
+  Trace: 9
+  Exotica: 9
+  Chemicals: 27
+  Electronics: 25
+  Ceramsteel: 25
+Build Tracked Surveillance Drone in Electronics Plant
+Time to Build / Upgrade: 3
+[13565] Technology Required to Build Unit (65):
+  [13565] Unmanned Land Vehicles (65)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Medium Anti-Aircraft Gun
-Nick Name: Med-Flak
+Name: PTS Drone
+Nick Name: PTS Drone
 Scores & Strengths:
-  Tech Score: 513
-  Unit Score: 514
-  Average Score: 514
-  Stat Strength: 362
-  Total Strength: 514
-  Planet Strength: 514
-  Space Strength: 0
-  Garrison Strength: 209
+  Tech Score: 2551
+  Unit Score: 2536
+  Average Score: 2543
+  Stat Strength: 1956
+  Total Strength: 2536
+  Planet Strength: 2276
+  Space Strength: 2216
+  Garrison Strength: 804
 Statistics:
-  Movement Type: wheel
-  Move Points: 6
-  Spot: 5
-  Camouflage: 2
-  Agility: 3
-  Armor: 12
-  Psy Defense: 12
-  Rank: 50
+  Movement Type: tread
+  Move Points: 8
+  Spot: 14
+  Camouflage: 8
+  Agility: 8
+  Armor: 28
+  Psy Defense: 28
+  Rank: 122
 Attacks:
-  Air: 9/16
-  Close: 2/4
-Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 6
-Build Cost: 58
+  Ranged Space: 10/26
+  Air: 10/16
+  Indirect: 8/20
+Load aboard transport: 1
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 17
+Build Cost: 174
 Build Resource Requirements:
-  Food: 3
-  Energy: 18
-  Metal: 62
-  Trace: 11
+  Food: 2
+  Energy: 20
+  Metal: 22
+  Trace: 7
   Exotica: 2
-  Chemicals: 18
-  Electronics: 6
-Build Medium Anti-Aircraft Gun in Factory
-Time to Build / Upgrade: 2
-[2010] Technologies Required to Build Unit (91):
-  [610] Dual-Purpose Gun (94)
-  [1400] Aerial Warfare (87)
+  Chemicals: 43
+  Electronics: 20
+  Ceramsteel: 30
+Build PTS Drone in Electronics Plant
+Time to Build / Upgrade: 3
+[15515] Technologies Required to Build Unit (77):
+  [1950] PTS Missile Launcher (88)
+  [13565] Unmanned Land Vehicles (65)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Z-Battery
-Nick Name: Z-Battery
-Scores & Strengths:
-  Tech Score: 554
-  Unit Score: 555
-  Average Score: 554
-  Stat Strength: 387
-  Total Strength: 555
-  Planet Strength: 555
-  Space Strength: 0
-  Garrison Strength: 196
-Statistics:
-  Movement Type: wheel
-  Move Points: 8
-  Spot: 6
-  Camouflage: 3
-  Agility: 6
-  Armor: 11
-  Psy Defense: 11
-  Rank: 54
-Attacks:
-  Air: 8/21
-Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 6
-Build Cost: 60
-Build Resource Requirements:
-  Food: 4
-  Energy: 24
-  Metal: 44
-  Trace: 9
-  Exotica: 4
-  Chemicals: 26
-  Electronics: 5
-Build Z-Battery in Factory
-Time to Build / Upgrade: 2
-[2710] Technologies Required to Build Unit (90):
-  [700] Rockets (90)
-  [610] Dual-Purpose Gun (94)
-  [1400] Aerial Warfare (87)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Multiple Z-Battery
-Nick Name: M-Z-Battery
-Scores & Strengths:
-  Tech Score: 554
-  Unit Score: 557
-  Average Score: 555
-  Stat Strength: 359
-  Total Strength: 557
-  Planet Strength: 557
-  Space Strength: 0
-  Garrison Strength: 227
-Statistics:
-  Movement Type: wheel
-  Move Points: 6
-  Spot: 6
-  Camouflage: 3
-  Agility: 6
-  Armor: 11
-  Psy Defense: 11
-  Rank: 56
-Attacks:
-  Air: 6/33
-Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 9
-Build Cost: 92
-Build Resource Requirements:
-  Food: 3
-  Energy: 52
-  Metal: 44
-  Trace: 7
-  Exotica: 3
-  Chemicals: 57
-  Electronics: 4
-Build Multiple Z-Battery in Factory
-Time to Build / Upgrade: 3
-[2710] Technologies Required to Build Unit (90):
-  [700] Rockets (90)
-  [610] Dual-Purpose Gun (94)
-  [1400] Aerial Warfare (87)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---7--
-Name: Automatic Anti-Aircraft Gun
-Nick Name: Auto-Flak
-Scores & Strengths:
-  Tech Score: 1079
-  Unit Score: 1080
-  Average Score: 1079
-  Stat Strength: 660
-  Total Strength: 1080
-  Planet Strength: 1080
-  Space Strength: 0
-  Garrison Strength: 381
-Statistics:
-  Movement Type: wheel
-  Move Points: 8
-  Spot: 8
-  Camouflage: 4
-  Agility: 2
-  Armor: 16
-  Psy Defense: 16
-  Rank: 79
-Attacks:
-  Air: 20/21
-Load aboard transport: 2
-Can be towed
-Upkeep / Maintenance: 7
-Build Cost: 69
-Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 34
-  Trace: 16
-  Exotica: 2
-  Chemicals: 13
-  Biochems: 8
-  Electronics: 14
-Build Automatic Anti-Aircraft Gun in Factory
-Time to Build / Upgrade: 2
-[5305] Technologies Required to Build Unit (89):
-  [770] Self-Propelled Weaponry (92)
-  [1810] Jet-Propulsion Aircraft (86)
-  [2725] Naval Capital Ships (88)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---8--
-Name: Anti-Air Drone
-Nick Name: AA Drone
+Name: Wheeled Surveillance Drone
+Nick Name: WS Drone
 Scores & Strengths:
   Tech Score: 2514
-  Unit Score: 2520
-  Average Score: 2517
-  Stat Strength: 1848
-  Total Strength: 2520
-  Planet Strength: 2520
+  Unit Score: 2548
+  Average Score: 2531
+  Stat Strength: 2548
+  Total Strength: 2548
+  Planet Strength: 2548
   Space Strength: 0
-  Garrison Strength: 673
+  Garrison Strength: 450
 Statistics:
   Movement Type: wheel
-  Move Points: 14
-  Spot: 10
-  Camouflage: 10
-  Agility: 10
-  Armor: 26
-  Psy Defense: 26
-  Rank: 112
-Attacks:
-  Air: 24/28
+  Move Points: 32
+  Spot: 22
+  Camouflage: 6
+  Agility: 6
+  Armor: 22
+  Psy Defense: 22
+  Rank: 62
 Load aboard transport: 1
-Can be towed
 Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 184
+Upkeep / Maintenance: 16
+Build Cost: 161
 Build Resource Requirements:
-  Food: 3
+  Food: 11
   Energy: 16
-  Metal: 17
-  Trace: 11
-  Exotica: 3
-  Chemicals: 37
-  Electronics: 30
-  Ceramsteel: 29
-Build Anti-Air Drone in Electronics Plant
+  Metal: 12
+  Trace: 7
+  Exotica: 11
+  Chemicals: 34
+  Electronics: 20
+  Ceramsteel: 21
+Build Wheeled Surveillance Drone in Electronics Plant
 Time to Build / Upgrade: 3
 [13565] Technology Required to Build Unit (65):
   [13565] Unmanned Land Vehicles (65)

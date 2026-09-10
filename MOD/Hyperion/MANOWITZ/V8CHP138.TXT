@@ -1,390 +1,540 @@
-All units of the unit class Main Battle Tank are listed herein (9 in total):
+All units of the unit class Naval Carrier are listed herein (11 in total):
 
 --1--
-Name: Main Battle Tank
-Nick Name: MBT
+Name: Naval Carrier
+Nick Name: NN-CV
 Scores & Strengths:
-  Tech Score: 530
-  Unit Score: 528
-  Average Score: 529
-  Stat Strength: 380
-  Total Strength: 528
-  Planet Strength: 528
+  Tech Score: 250
+  Unit Score: 497
+  Average Score: 374
+  Stat Strength: 434
+  Total Strength: 497
+  Planet Strength: 497
   Space Strength: 0
-  Garrison Strength: 215
+  Garrison Strength: 202
 Statistics:
-  Movement Type: tread
+  Movement Type: naval
   Move Points: 6
-  Spot: 6
-  Camouflage: 2
-  Agility: 4
-  Armor: 12
-  Psy Defense: 12
-  Rank: 48
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 14
+  Psy Defense: 14
+  Rank: 732
 Attacks:
-  Indirect: 6/11
-  Direct: 5/10
-  Close: 4/8
-Load aboard transport: 3
-Upkeep / Maintenance: 7
-Build Cost: 65
+  Air: 3/5
+  Indirect: 2/14
+  Direct: 2/10
+Cargo Space: 6
+Load aboard transport: 12
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 121
+Build Cost: 1207
 Build Resource Requirements:
-  Food: 4
-  Energy: 22
-  Metal: 33
-  Trace: 13
+  Food: 5
+  Energy: 49
+  Metal: 123
+  Trace: 7
   Exotica: 4
-  Chemicals: 36
-  Electronics: 10
-Build Main Battle Tank in Factory
-Time to Build / Upgrade: 2
-[1700] Technology Required to Build Unit (88):
-  [1700] Main Battle Tank (88)
+  Chemicals: 53
+  Electronics: 3
+  Gems: 1
+Build Naval Carrier in Well
+Time to Build / Upgrade: 4
+[735] Technologies Required to Build Unit (98):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [525] Anti-Aircraft Weaponry (94)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Main Battle Tank (RA)
-Nick Name: MBT (RA)
+Name: Escort Aircraft Carrier
+Nick Name: NN-CVE
 Scores & Strengths:
-  Tech Score: 768
-  Unit Score: 723
-  Average Score: 745
-  Stat Strength: 510
-  Total Strength: 723
-  Planet Strength: 723
+  Tech Score: 679
+  Unit Score: 678
+  Average Score: 679
+  Stat Strength: 465
+  Total Strength: 678
+  Planet Strength: 678
   Space Strength: 0
-  Garrison Strength: 273
+  Garrison Strength: 256
 Statistics:
-  Movement Type: tread
+  Movement Type: naval
   Move Points: 7
-  Spot: 7
+  Spot: 4
   Camouflage: 2
-  Agility: 4
+  Agility: 2
   Armor: 14
   Psy Defense: 14
-  Rank: 57
+  Rank: 740
 Attacks:
-  Indirect: 7/13
-  Direct: 6/12
-  Close: 5/10
-Load aboard transport: 3
-Upkeep / Maintenance: 8
-Build Cost: 10
+  Air: 7/7
+  Indirect: 10/12
+  Direct: 4/11
+Cargo Space: 3
+Load aboard transport: 6
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 34
+Build Cost: 338
 Build Resource Requirements:
-  Energy: 6
-  Metal: 6
-  Chemicals: 9
-Upgrade Main Battle Tank to Main Battle Tank (RA) at Factory
-Time to Build / Upgrade: 1
-[3090] Technologies Required to Build Unit (86):
-  [1220] Predictive Algorithms (76)
-  [1700] Main Battle Tank (88)
-  [170] Reactive Armor (95)
+  Food: 2
+  Energy: 17
+  Metal: 35
+  Trace: 11
+  Exotica: 2
+  Chemicals: 17
+  Biochems: 4
+  Electronics: 4
+Build Escort Aircraft Carrier in Well
+Time to Build / Upgrade: 2
+[2480] Technologies Required to Build Unit (95):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2270] Naval Escort Ships (86)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Main Battle Tank (ExA)
-Nick Name: MBT (ExA)
+Name: Naval Light Carrier
+Nick Name: NN-CVL
 Scores & Strengths:
-  Tech Score: 826
-  Unit Score: 788
-  Average Score: 807
-  Stat Strength: 568
-  Total Strength: 788
-  Planet Strength: 788
+  Tech Score: 775
+  Unit Score: 1158
+  Average Score: 966
+  Stat Strength: 948
+  Total Strength: 1158
+  Planet Strength: 1158
   Space Strength: 0
-  Garrison Strength: 297
+  Garrison Strength: 409
 Statistics:
-  Movement Type: tread
-  Move Points: 7
-  Spot: 7
+  Movement Type: naval
+  Move Points: 8
+  Spot: 8
   Camouflage: 2
   Agility: 4
-  Armor: 15
-  Psy Defense: 15
-  Rank: 58
+  Armor: 20
+  Psy Defense: 20
+  Rank: 748
 Attacks:
-  Indirect: 7/14
-  Direct: 6/12
-  Close: 5/10
-Load aboard transport: 3
-Upkeep / Maintenance: 9
-Build Cost: 22
+  Air: 10/9
+  Indirect: 3/16
+  Direct: 9/8
+Cargo Space: 4
+Load aboard transport: 6
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 66
+Build Cost: 657
 Build Resource Requirements:
-  Energy: 6
-  Metal: 9
-  Chemicals: 24
-Upgrade Main Battle Tank to Main Battle Tank (ExA) at Factory
-Time to Build / Upgrade: 1
-[3375] Technologies Required to Build Unit (86):
-  [1475] Monofilament (77)
-  [1700] Main Battle Tank (88)
-  [200] Explosive Armor (93)
+  Food: 3
+  Energy: 19
+  Metal: 62
+  Trace: 14
+  Exotica: 4
+  Chemicals: 19
+  Biochems: 9
+  Electronics: 10
+Build Naval Light Carrier in Well
+Time to Build / Upgrade: 3
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Main Battle Tank (ElA)
-Nick Name: MBT (ElA)
+Name: Naval Aircraft Carrier
+Nick Name: NN-CV-2
 Scores & Strengths:
-  Tech Score: 979
-  Unit Score: 932
-  Average Score: 956
-  Stat Strength: 659
-  Total Strength: 932
-  Planet Strength: 932
+  Tech Score: 775
+  Unit Score: 1546
+  Average Score: 1160
+  Stat Strength: 1288
+  Total Strength: 1546
+  Planet Strength: 1546
   Space Strength: 0
-  Garrison Strength: 329
+  Garrison Strength: 546
 Statistics:
-  Movement Type: tread
+  Movement Type: naval
   Move Points: 8
-  Spot: 7
-  Camouflage: 3
-  Agility: 5
-  Armor: 16
-  Psy Defense: 16
-  Rank: 65
+  Spot: 8
+  Camouflage: 2
+  Agility: 2
+  Armor: 24
+  Psy Defense: 24
+  Rank: 775
 Attacks:
-  Indirect: 8/15
-  Direct: 7/14
-  Close: 5/11
-Load aboard transport: 3
-Upkeep / Maintenance: 11
-Build Cost: 40
+  Air: 9/10
+  Indirect: 4/20
+  Direct: 8/11
+Cargo Space: 8
+Load aboard transport: 12
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 149
+Build Cost: 1493
 Build Resource Requirements:
-  Energy: 12
-  Metal: 10
-  Chemicals: 18
-  Electronics: 23
-Upgrade Main Battle Tank to Main Battle Tank (ElA) at Factory
-Time to Build / Upgrade: 1
-[4245] Technologies Required to Build Unit (87):
-  [2285] Surgical LASER (82)
-  [1700] Main Battle Tank (88)
-  [260] Electronic Armor (90)
+  Food: 3
+  Energy: 28
+  Metal: 90
+  Trace: 13
+  Exotica: 3
+  Chemicals: 28
+  Biochems: 7
+  Electronics: 9
+Build Naval Aircraft Carrier in Well
+Time to Build / Upgrade: 4
+[2935] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [2725] Naval Capital Ships (88)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Amphibious Main Battle Tank
-Nick Name: N-ATMB
+Name: Interdiction Assault Ship
+Nick Name: NN-IAS
 Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 958
-  Average Score: 959
-  Stat Strength: 518
-  Total Strength: 958
-  Planet Strength: 958
+  Tech Score: 1670
+  Unit Score: 1669
+  Average Score: 1670
+  Stat Strength: 1271
+  Total Strength: 1669
+  Planet Strength: 1669
   Space Strength: 0
-  Garrison Strength: 338
+  Garrison Strength: 462
 Statistics:
-  Movement Type: craft
-  Move Points: 8
+  Movement Type: naval
+  Move Points: 13
   Spot: 6
-  Camouflage: 4
-  Agility: 8
-  Armor: 13
-  Psy Defense: 13
-  Rank: 72
+  Camouflage: 2
+  Agility: 2
+  Armor: 23
+  Psy Defense: 23
+  Rank: 104
 Attacks:
-  Indirect: 12/15
-  Direct: 10/14
-  Close: 10/12
-Load aboard transport: 3
-Upkeep / Maintenance: 8
-Build Cost: 76
+  Air: 7/21
+  Indirect: 5/31
+  Direct: 4/24
+Cargo Space: 4
+Load aboard transport: 6
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 52
+Build Cost: 518
 Build Resource Requirements:
   Food: 2
-  Energy: 20
-  Metal: 19
-  Trace: 19
+  Energy: 31
+  Metal: 27
+  Trace: 2
   Exotica: 2
-  Chemicals: 25
-  Biochems: 7
-  Electronics: 10
-Build Amphibious Main Battle Tank in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
+  Chemicals: 42
+  Biochems: 2
+  Electronics: 2
+  Ceramsteel: 31
+Build Interdiction Assault Ship in Well
+Time to Build / Upgrade: 3
+[12910] Technologies Required to Build Unit (86):
+  [795] Missiles (86)
+  [1810] Jet-Propulsion Aircraft (86)
+  [1785] Rotary Autocannon (90)
+  [2665] V/STOL Aircraft (85)
+  [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Main Battle Tank (APS)
-Nick Name: MBT (APS)
+Name: Naval Aircraft Carrier (GM)
+Nick Name: NN-CV-GM
 Scores & Strengths:
-  Tech Score: 1484
-  Unit Score: 1405
-  Average Score: 1445
-  Stat Strength: 998
-  Total Strength: 1405
-  Planet Strength: 1405
+  Tech Score: 1339
+  Unit Score: 2678
+  Average Score: 2008
+  Stat Strength: 1901
+  Total Strength: 2678
+  Planet Strength: 2678
   Space Strength: 0
-  Garrison Strength: 444
+  Garrison Strength: 742
 Statistics:
-  Movement Type: tread
-  Move Points: 10
-  Spot: 8
-  Camouflage: 3
-  Agility: 5
-  Armor: 20
-  Psy Defense: 20
-  Rank: 78
+  Movement Type: naval
+  Move Points: 13
+  Spot: 12
+  Camouflage: 4
+  Agility: 2
+  Armor: 28
+  Psy Defense: 28
+  Rank: 815
 Attacks:
-  Indirect: 10/18
-  Direct: 8/17
-  Close: 7/13
-Load aboard transport: 3
-Upkeep / Maintenance: 14
-Build Cost: 71
+  Air: 14/17
+  Indirect: 10/25
+  Direct: 17/17
+Cargo Space: 9
+Load aboard transport: 12
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 347
+Build Cost: 3465
 Build Resource Requirements:
-  Metal: 6
-  Chemicals: 19
-  Electronics: 19
-  Ceramsteel: 36
-Upgrade Main Battle Tank to Main Battle Tank (APS) at Factory
-Time to Build / Upgrade: 1
-[9905] Technologies Required to Build Unit (81):
-  [4855] Myoelectric Prosthetics (71)
-  [1700] Main Battle Tank (88)
-  [3350] Active Protective Systems (83)
+  Food: 4
+  Energy: 37
+  Metal: 41
+  Trace: 19
+  Exotica: 4
+  Chemicals: 54
+  Biochems: 11
+  Electronics: 20
+  Ceramsteel: 50
+Build Naval Aircraft Carrier (GM) in Well
+Time to Build / Upgrade: 6
+[5855] Technology Required to Build Unit (84):
+  [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Main Battle Tank (Ce)
-Nick Name: MBT (Ce)
+Name: Amphibious Aircraft Carrier
+Nick Name: CC-CV
 Scores & Strengths:
-  Tech Score: 1080
-  Unit Score: 1487
-  Average Score: 1283
-  Stat Strength: 1080
-  Total Strength: 1487
-  Planet Strength: 1487
+  Tech Score: 2993
+  Unit Score: 2993
+  Average Score: 2993
+  Stat Strength: 2142
+  Total Strength: 2993
+  Planet Strength: 2993
   Space Strength: 0
-  Garrison Strength: 470
+  Garrison Strength: 748
 Statistics:
-  Movement Type: tread
-  Move Points: 10
-  Spot: 8
-  Camouflage: 3
-  Agility: 5
-  Armor: 21
-  Psy Defense: 21
-  Rank: 76
+  Movement Type: craft
+  Move Points: 16
+  Spot: 14
+  Camouflage: 2
+  Agility: 2
+  Armor: 29
+  Psy Defense: 29
+  Rank: 812
 Attacks:
-  Indirect: 10/18
-  Direct: 8/17
-  Close: 7/13
-Load aboard transport: 3
-Upkeep / Maintenance: 13
-Build Cost: 60
+  Air: 17/19
+  Indirect: 16/17
+  Direct: 16/16
+Cargo Space: 6
+Load aboard transport: 8
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 193
+Build Cost: 1933
 Build Resource Requirements:
-  Energy: 5
-  Chemicals: 12
-  Ceramsteel: 38
-Upgrade Main Battle Tank to Main Battle Tank (Ce) at Factory
-Time to Build / Upgrade: 1
-[6960] Technologies Required to Build Unit (83):
-  [3570] Robotics (76)
-  [1700] Main Battle Tank (88)
-  [1690] Ceramsteel (84)
+  Food: 1
+  Energy: 7
+  Metal: 10
+  Trace: 9
+  Exotica: 2
+  Chemicals: 11
+  Biochems: 15
+  Electronics: 8
+  Ceramsteel: 12
+  Monopols: 19
+Build Amphibious Aircraft Carrier in Well
+Time to Build / Upgrade: 3
+[26040] Technologies Required to Build Unit (83):
+  [2855] Naval Amphibious Ships (87)
+  [6655] PTS Missile Navalcraft (83)
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Universal Combat Platform
-Nick Name: MBT-UCP
+Name: Amphibious Battle Carrier
+Nick Name: CC-CB
 Scores & Strengths:
-  Tech Score: 1639
-  Unit Score: 1577
-  Average Score: 1608
-  Stat Strength: 1108
-  Total Strength: 1577
-  Planet Strength: 1577
+  Tech Score: 2993
+  Unit Score: 2993
+  Average Score: 2993
+  Stat Strength: 2335
+  Total Strength: 2993
+  Planet Strength: 2993
   Space Strength: 0
-  Garrison Strength: 475
+  Garrison Strength: 748
 Statistics:
-  Movement Type: tread
-  Move Points: 11
-  Spot: 8
-  Camouflage: 4
-  Agility: 5
-  Armor: 21
-  Psy Defense: 21
-  Rank: 84
+  Movement Type: craft
+  Move Points: 16
+  Spot: 12
+  Camouflage: 2
+  Agility: 3
+  Armor: 31
+  Psy Defense: 31
+  Rank: 817
 Attacks:
-  Indirect: 11/19
-  Direct: 9/18
-  Close: 7/14
-Load aboard transport: 3
-Upkeep / Maintenance: 11
-Build Cost: 41
+  Air: 15/16
+  Indirect: 11/25
+  Direct: 13/11
+Cargo Space: 8
+Load aboard transport: 10
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 281
+Build Cost: 2812
 Build Resource Requirements:
-  Chemicals: 10
-  Electronics: 8
-  Ceramsteel: 27
-Upgrade Main Battle Tank to Universal Combat Platform at Factory
-Time to Build / Upgrade: 1
-[10630] Technologies Required to Build Unit (74):
-  [5425] Cybernetics (63)
-  [5205] Advanced Battle Tanks (84)
+  Food: 1
+  Energy: 8
+  Metal: 12
+  Trace: 6
+  Exotica: 1
+  Chemicals: 12
+  Biochems: 14
+  Electronics: 6
+  Ceramsteel: 14
+  Monopols: 22
+Build Amphibious Battle Carrier in Well
+Time to Build / Upgrade: 3
+[26040] Technologies Required to Build Unit (83):
+  [2855] Naval Amphibious Ships (87)
+  [6655] PTS Missile Navalcraft (83)
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Main Battle Drone
-Nick Name: MB Drone
+Name: PTS Aircraft Carrier
+Nick Name: NN-CV-PTS
 Scores & Strengths:
-  Tech Score: 2514
-  Unit Score: 2540
-  Average Score: 2527
-  Stat Strength: 1692
-  Total Strength: 2540
-  Planet Strength: 2540
-  Space Strength: 0
-  Garrison Strength: 678
+  Tech Score: 1474
+  Unit Score: 3685
+  Average Score: 2579
+  Stat Strength: 2577
+  Total Strength: 3685
+  Planet Strength: 3559
+  Space Strength: 2703
+  Garrison Strength: 951
 Statistics:
-  Movement Type: tread
+  Movement Type: naval
   Move Points: 14
-  Spot: 10
-  Camouflage: 10
-  Agility: 12
-  Armor: 24
-  Psy Defense: 24
-  Rank: 116
+  Spot: 13
+  Camouflage: 5
+  Agility: 3
+  Armor: 33
+  Psy Defense: 33
+  Rank: 829
 Attacks:
-  Air: 20/14
-  Indirect: 14/20
-  Direct: 16/18
-Load aboard transport: 1
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 178
+  Ranged Space: 7/18
+  Air: 16/19
+  Indirect: 12/28
+  Direct: 18/19
+Cargo Space: 7
+Load aboard transport: 9
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 396
+Build Cost: 3964
 Build Resource Requirements:
-  Food: 3
-  Energy: 18
-  Metal: 15
-  Trace: 15
-  Exotica: 3
-  Chemicals: 39
-  Electronics: 30
-  Ceramsteel: 25
-Build Main Battle Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[13565] Technology Required to Build Unit (65):
-  [13565] Unmanned Land Vehicles (65)
+  Food: 4
+  Energy: 49
+  Metal: 53
+  Trace: 23
+  Exotica: 4
+  Chemicals: 74
+  Biochems: 13
+  Electronics: 24
+  Ceramsteel: 66
+Build PTS Aircraft Carrier in Well
+Time to Build / Upgrade: 7
+[6655] Technology Required to Build Unit (83):
+  [6655] PTS Missile Navalcraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Nuclear Aircraft Carrier
+Nick Name: NN-CVN
+Scores & Strengths:
+  Tech Score: 1579
+  Unit Score: 4737
+  Average Score: 3158
+  Stat Strength: 3065
+  Total Strength: 4737
+  Planet Strength: 4737
+  Space Strength: 0
+  Garrison Strength: 1223
+Statistics:
+  Movement Type: naval
+  Move Points: 15
+  Spot: 14
+  Camouflage: 6
+  Agility: 4
+  Armor: 36
+  Psy Defense: 36
+  Rank: 839
+Attacks:
+  Air: 20/24
+  Indirect: 18/33
+  Direct: 23/26
+Cargo Space: 6
+Load aboard transport: 8
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 488
+Build Cost: 4881
+Build Resource Requirements:
+  Food: 4
+  Energy: 59
+  Metal: 59
+  Trace: 33
+  Exotica: 5
+  Chemicals: 89
+  Biochems: 17
+  Electronics: 33
+  Ceramsteel: 75
+Build Nuclear Aircraft Carrier in Well
+Time to Build / Upgrade: 9
+[7295] Technology Required to Build Unit (81):
+  [7295] Nuclear-Powered Navalcraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Meson Amphibious Carrier
+Nick Name: CC-MCV
+Scores & Strengths:
+  Tech Score: 5641
+  Unit Score: 5641
+  Average Score: 5641
+  Stat Strength: 4252
+  Total Strength: 5641
+  Planet Strength: 5165
+  Space Strength: 4728
+  Garrison Strength: 1217
+Statistics:
+  Movement Type: craft
+  Move Points: 18
+  Spot: 14
+  Camouflage: 3
+  Agility: 5
+  Armor: 43
+  Psy Defense: 43
+  Rank: 872
+Attacks:
+  Ranged Space: 17/28
+  Air: 17/20
+  Indirect: 14/27
+  Direct: 15/13
+Cargo Space: 7
+Load aboard transport: 9
+Officer - Provides stack combat bonuses
+Transports and Refuels (at end of turn) all Air Units
+Upkeep / Maintenance: 356
+Build Cost: 1627
+Build Resource Requirements:
+  Chemicals: 2
+  Electronics: 2
+  Monopols: 5
+Upgrade Amphibious Aircraft Carrier to Meson Amphibious Carrier at Well
+Time to Build / Upgrade: 1
+[70095] Technologies Required to Build Unit (74):
+  [2855] Naval Amphibious Ships (87)
+  [27875] PTS Meson Navalcraft (74)
+  [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

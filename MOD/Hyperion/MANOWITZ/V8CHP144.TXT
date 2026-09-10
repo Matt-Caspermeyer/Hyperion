@@ -1,502 +1,553 @@
-All units of the unit class Dread-Battlestar are listed herein (10 in total):
+All units of the unit class Personal Surveillance Drone are listed herein (12 in total):
 
 --1--
-Name: Dread-Battlestar
-Nick Name: SS-BDB
+Name: Personal Surveillance Drone
+Nick Name: Drone (PR)
 Scores & Strengths:
-  Tech Score: 395
-  Unit Score: 591
-  Average Score: 493
-  Stat Strength: 405
-  Total Strength: 591
-  Planet Strength: 0
-  Space Strength: 591
-  Garrison Strength: 0
+  Tech Score: 2194
+  Unit Score: 557
+  Average Score: 1376
+  Stat Strength: 557
+  Total Strength: 557
+  Planet Strength: 557
+  Space Strength: 0
+  Garrison Strength: 160
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
-  Armor: 13
-  Psy Defense: 13
-  Rank: 746
-Attacks:
-  Ranged Space: 3/27
-  Direct Space: 5/21
-Cargo Space: 3
-Load aboard transport: 7
-Officer - Provides stack combat bonuses
+  Movement Type: air
+  Move Points: 12
+  Spot: 12
+  Camouflage: 5
+  Agility: 8
+  Armor: 6
+  Psy Defense: 12
+  Rank: 45
+Load aboard transport: 1
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 80
-Build Cost: 800
+Upkeep / Maintenance: 3
+Build Cost: 30
 Build Resource Requirements:
-  Food: 5
-  Energy: 97
-  Metal: 60
-  Trace: 10
-  Exotica: 5
-  Chemicals: 132
-  Electronics: 6
-Build Dread-Battlestar in Starport
-Time to Build / Upgrade: 5
-[1530] Technologies Required to Build Unit (95):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [200] Admiralty Fire Control Table (87)
-  [795] Rocket Propulsion (90)
-  [100] Psychosocial Engineering (100)
-  [60] Torpedo (98)
+  Food: 2
+  Energy: 3
+  Metal: 3
+  Trace: 3
+  Exotica: 2
+  Chemicals: 5
+  Electronics: 5
+  Ceramsteel: 7
+Build Personal Surveillance Drone in Factory
+Time to Build / Upgrade: 1
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Jump Dread-Battlestar
-Nick Name: JJ-BDB
+Name: Bomber Drone
+Nick Name: Drone (B)
 Scores & Strengths:
-  Tech Score: 480
-  Unit Score: 687
-  Average Score: 583
-  Stat Strength: 459
-  Total Strength: 687
-  Planet Strength: 0
-  Space Strength: 687
-  Garrison Strength: 0
+  Tech Score: 2194
+  Unit Score: 2190
+  Average Score: 2192
+  Stat Strength: 1530
+  Total Strength: 2190
+  Planet Strength: 2190
+  Space Strength: 0
+  Garrison Strength: 547
 Statistics:
-  Movement Type: jump
-  Move Points: 1
-  Spot: 8
-  Camouflage: 1
-  Agility: 1
+  Movement Type: air
+  Move Points: 16
+  Spot: 14
+  Camouflage: 7
+  Agility: 7
   Armor: 14
-  Psy Defense: 14
-  Rank: 752
+  Psy Defense: 28
+  Rank: 114
 Attacks:
-  Ranged Space: 3/30
-  Direct Space: 6/23
-Cargo Space: 3
-Load aboard transport: 7
-Officer - Provides stack combat bonuses
+  Indirect: 15/44
+Load aboard transport: 2
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 214
-Build Cost: 2136
+Upkeep / Maintenance: 21
+Build Cost: 212
 Build Resource Requirements:
-  Food: 5
-  Energy: 119
-  Metal: 61
-  Trace: 11
+  Food: 4
+  Energy: 34
+  Metal: 15
+  Trace: 8
   Exotica: 4
-  Chemicals: 160
+  Chemicals: 60
   Electronics: 7
-  Singularities: 1
-Build Jump Dread-Battlestar in Starport
-Time to Build / Upgrade: 5
-[1970] Technologies Required to Build Unit (93):
-  [230] Hospitals (97)
-  [145] Composite Armor (97)
-  [200] Admiralty Fire Control Table (87)
-  [100] Psychosocial Engineering (100)
-  [60] Torpedo (98)
-  [1235] Jump Rocketry (76)
+  Ceramsteel: 37
+Build Bomber Drone in Electronics Plant
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Dreadstar
-Nick Name: SS-BD
+Name: Patrol Drone
+Nick Name: Drone (P)
 Scores & Strengths:
-  Tech Score: 2916
-  Unit Score: 2916
-  Average Score: 2916
-  Stat Strength: 2534
-  Total Strength: 2916
-  Planet Strength: 0
-  Space Strength: 2916
-  Garrison Strength: 0
+  Tech Score: 2194
+  Unit Score: 2191
+  Average Score: 2193
+  Stat Strength: 1257
+  Total Strength: 2191
+  Planet Strength: 2191
+  Space Strength: 0
+  Garrison Strength: 585
 Statistics:
-  Movement Type: space
-  Move Points: 12
-  Spot: 12
-  Camouflage: 2
-  Agility: 8
-  Armor: 33
-  Psy Defense: 33
-  Rank: 792
+  Movement Type: air
+  Move Points: 14
+  Spot: 16
+  Camouflage: 10
+  Agility: 10
+  Armor: 11
+  Psy Defense: 22
+  Rank: 97
 Attacks:
-  Ranged Space: 4/46
-  Direct Space: 6/33
-Cargo Space: 2
-Load aboard transport: 8
-Officer - Provides stack combat bonuses
+  Direct: 22/22
+  Close: 30/15
+Load aboard transport: 2
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 574
-Build Cost: 5741
+Upkeep / Maintenance: 20
+Build Cost: 195
 Build Resource Requirements:
-  Food: 1
-  Energy: 23
-  Metal: 15
-  Trace: 2
-  Exotica: 1
-  Chemicals: 37
-  Biochems: 26
-  Electronics: 4
-  Ceramsteel: 18
-  Monopols: 54
-Build Dreadstar in Starport
-Time to Build / Upgrade: 4
-[16530] Technology Required to Build Unit (80):
-  [16530] Space Capital Ships (80)
+  Food: 4
+  Energy: 15
+  Metal: 9
+  Trace: 27
+  Exotica: 4
+  Chemicals: 26
+  Electronics: 46
+  Ceramsteel: 23
+Build Patrol Drone in Electronics Plant
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Super Dreadstar
-Nick Name: SS-BSD
+Name: Anti-Ship Drone
+Nick Name: Drone (ASh)
 Scores & Strengths:
-  Tech Score: 2916
-  Unit Score: 2916
-  Average Score: 2916
-  Stat Strength: 2630
-  Total Strength: 2916
-  Planet Strength: 0
-  Space Strength: 2916
-  Garrison Strength: 0
+  Tech Score: 2194
+  Unit Score: 2193
+  Average Score: 2194
+  Stat Strength: 1425
+  Total Strength: 2193
+  Planet Strength: 2193
+  Space Strength: 0
+  Garrison Strength: 548
 Statistics:
-  Movement Type: space
-  Move Points: 11
-  Spot: 12
-  Camouflage: 2
-  Agility: 7
-  Armor: 34
-  Psy Defense: 34
-  Rank: 789
+  Movement Type: air
+  Move Points: 16
+  Spot: 14
+  Camouflage: 8
+  Agility: 8
+  Armor: 13
+  Psy Defense: 26
+  Rank: 113
 Attacks:
-  Ranged Space: 3/47
-  Direct Space: 5/29
-Cargo Space: 3
-Load aboard transport: 8
-Officer - Provides stack combat bonuses
+  Water: 12/32
+  Indirect: 12/32
+Load aboard transport: 3
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 617
-Build Cost: 6173
+Upkeep / Maintenance: 21
+Build Cost: 214
 Build Resource Requirements:
-  Food: 1
-  Energy: 22
-  Metal: 16
-  Trace: 2
-  Exotica: 1
-  Chemicals: 36
-  Biochems: 26
-  Electronics: 3
-  Ceramsteel: 19
-  Monopols: 53
-Build Super Dreadstar in Starport
-Time to Build / Upgrade: 4
-[16530] Technology Required to Build Unit (80):
-  [16530] Space Capital Ships (80)
+  Food: 4
+  Energy: 36
+  Metal: 13
+  Trace: 9
+  Exotica: 4
+  Chemicals: 62
+  Electronics: 11
+  Ceramsteel: 32
+Build Anti-Ship Drone in Electronics Plant
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Jump Super Dreadstar
-Nick Name: JJ-BSD
+Name: Anti-Tank Drone
+Nick Name: Drone (AT)
 Scores & Strengths:
-  Tech Score: 4184
-  Unit Score: 4202
-  Average Score: 4193
-  Stat Strength: 3768
-  Total Strength: 4202
-  Planet Strength: 0
-  Space Strength: 4202
-  Garrison Strength: 0
+  Tech Score: 2194
+  Unit Score: 2193
+  Average Score: 2194
+  Stat Strength: 1564
+  Total Strength: 2193
+  Planet Strength: 2193
+  Space Strength: 0
+  Garrison Strength: 586
 Statistics:
-  Movement Type: jump
-  Move Points: 13
-  Spot: 13
-  Camouflage: 2
-  Agility: 8
-  Armor: 41
-  Psy Defense: 41
-  Rank: 812
+  Movement Type: air
+  Move Points: 14
+  Spot: 12
+  Camouflage: 12
+  Agility: 10
+  Armor: 14
+  Psy Defense: 28
+  Rank: 94
 Attacks:
-  Ranged Space: 4/56
-  Direct Space: 6/35
-Cargo Space: 3
-Load aboard transport: 8
-Officer - Provides stack combat bonuses
+  Direct: 17/37
+Load aboard transport: 2
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 1004
-Build Cost: 10037
+Upkeep / Maintenance: 20
+Build Cost: 196
 Build Resource Requirements:
-  Food: 1
-  Energy: 18
-  Metal: 16
-  Trace: 2
-  Exotica: 1
-  Chemicals: 31
-  Biochems: 22
-  Electronics: 3
-  Ceramsteel: 19
-  Monopols: 53
-  Singularities: 4
-Build Jump Super Dreadstar in Starport
-Time to Build / Upgrade: 4
-[36320] Technologies Required to Build Unit (72):
-  [16530] Space Capital Ships (80)
-  [4285] Jump Drives (70)
-  [15505] Meson Cannon (65)
+  Food: 3
+  Energy: 25
+  Metal: 15
+  Trace: 10
+  Exotica: 3
+  Chemicals: 44
+  Electronics: 16
+  Ceramsteel: 37
+Build Anti-Tank Drone in Electronics Plant
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Jump Dreadstar
-Nick Name: JJ-BD
+Name: Fighter-Bomber Drone
+Nick Name: Drone (FB)
 Scores & Strengths:
-  Tech Score: 4184
-  Unit Score: 4205
-  Average Score: 4194
-  Stat Strength: 3650
-  Total Strength: 4205
-  Planet Strength: 0
-  Space Strength: 4205
-  Garrison Strength: 0
+  Tech Score: 2194
+  Unit Score: 2193
+  Average Score: 2194
+  Stat Strength: 1361
+  Total Strength: 2193
+  Planet Strength: 2193
+  Space Strength: 0
+  Garrison Strength: 531
 Statistics:
-  Movement Type: jump
-  Move Points: 14
-  Spot: 13
-  Camouflage: 2
-  Agility: 9
-  Armor: 40
-  Psy Defense: 40
-  Rank: 815
+  Movement Type: air
+  Move Points: 17
+  Spot: 12
+  Camouflage: 8
+  Agility: 12
+  Armor: 12
+  Psy Defense: 24
+  Rank: 118
 Attacks:
-  Ranged Space: 5/55
-  Direct Space: 7/40
-Cargo Space: 2
-Load aboard transport: 8
-Officer - Provides stack combat bonuses
+  Air: 22/20
+  Indirect: 14/28
+Load aboard transport: 2
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 945
-Build Cost: 9453
+Upkeep / Maintenance: 18
+Build Cost: 184
 Build Resource Requirements:
-  Food: 1
-  Energy: 19
-  Metal: 15
-  Trace: 2
-  Exotica: 1
-  Chemicals: 32
-  Biochems: 22
-  Electronics: 3
-  Ceramsteel: 18
-  Monopols: 54
-  Singularities: 4
-Build Jump Dreadstar in Starport
-Time to Build / Upgrade: 4
-[36320] Technologies Required to Build Unit (72):
-  [4285] Jump Drives (70)
-  [15505] Meson Cannon (65)
-  [16530] Space Capital Ships (80)
+  Food: 4
+  Energy: 23
+  Metal: 11
+  Trace: 15
+  Exotica: 4
+  Chemicals: 42
+  Electronics: 19
+  Ceramsteel: 27
+Build Fighter-Bomber Drone in Electronics Plant
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Jump (Cadiz) Dreadstar
-Nick Name: JJ-BD2
+Name: Anti-Personnel Drone
+Nick Name: Drone (AP)
 Scores & Strengths:
-  Tech Score: 5828
-  Unit Score: 5418
-  Average Score: 5623
-  Stat Strength: 4629
-  Total Strength: 5418
-  Planet Strength: 0
-  Space Strength: 5418
-  Garrison Strength: 0
+  Tech Score: 2194
+  Unit Score: 2194
+  Average Score: 2194
+  Stat Strength: 1369
+  Total Strength: 2194
+  Planet Strength: 2194
+  Space Strength: 0
+  Garrison Strength: 548
 Statistics:
-  Movement Type: jump
-  Move Points: 13
-  Spot: 14
-  Camouflage: 4
-  Agility: 4
-  Armor: 46
-  Psy Defense: 46
-  Rank: 844
+  Movement Type: air
+  Move Points: 16
+  Spot: 16
+  Camouflage: 16
+  Agility: 14
+  Armor: 9
+  Psy Defense: 18
+  Rank: 92
 Attacks:
-  Ranged Space: 10/36
-  Direct Space: 11/28
-  Close Space: 11/11
-Cargo Space: 3
-Load aboard transport: 8
-Officer - Provides stack combat bonuses
+  Close: 33/25
+Load aboard transport: 2
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 938
-Build Cost: 9380
+Upkeep / Maintenance: 18
+Build Cost: 178
 Build Resource Requirements:
-  Food: 1
-  Energy: 6
-  Metal: 9
-  Trace: 2
-  Exotica: 1
-  Chemicals: 14
-  Biochems: 11
-  Electronics: 9
+  Food: 5
+  Energy: 15
+  Metal: 6
+  Trace: 26
+  Exotica: 5
+  Chemicals: 26
+  Electronics: 43
   Ceramsteel: 15
-  Monopols: 28
-  Singularities: 4
-Build Jump (Cadiz) Dreadstar in Starport
+Build Anti-Personnel Drone in Electronics Plant
 Time to Build / Upgrade: 3
-[65575] Technologies Required to Build Unit (58):
-  [26210] PTS Beam Cannon (54)
-  [39365] Jump Capital Ships (61)
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Gate Dreadstar
-Nick Name: JJ-BD
+Name: General-Purpose Drone
+Nick Name: Drone (GP)
 Scores & Strengths:
-  Tech Score: 7734
-  Unit Score: 7520
-  Average Score: 7627
-  Stat Strength: 5832
-  Total Strength: 7520
-  Planet Strength: 6621
-  Space Strength: 6731
-  Garrison Strength: 1769
+  Tech Score: 2194
+  Unit Score: 2194
+  Average Score: 2194
+  Stat Strength: 1180
+  Total Strength: 2194
+  Planet Strength: 2194
+  Space Strength: 0
+  Garrison Strength: 586
 Statistics:
-  Movement Type: gate
+  Movement Type: air
   Move Points: 14
   Spot: 14
-  Camouflage: 4
-  Agility: 4
-  Armor: 52
-  Psy Defense: 52
-  Rank: 879
+  Camouflage: 12
+  Agility: 12
+  Armor: 10
+  Psy Defense: 20
+  Rank: 113
 Attacks:
-  Ranged Space: 11/37
-  Direct Space: 12/29
-  Close Space: 12/12
-  Air: 11/28
-  Indirect: 10/36
-  Direct: 11/11
-Cargo Space: 3
-Load aboard transport: 8
-Officer - Provides stack combat bonuses
+  Indirect: 16/23
+  Direct: 18/22
+  Close: 25/10
+Load aboard transport: 2
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 1391
-Build Cost: 13908
+Upkeep / Maintenance: 19
+Build Cost: 189
 Build Resource Requirements:
-  Energy: 14
-  Metal: 11
-  Trace: 2
-  Chemicals: 25
-  Biochems: 24
-  Electronics: 8
+  Food: 4
+  Energy: 21
+  Metal: 8
+  Trace: 24
+  Exotica: 4
+  Chemicals: 37
+  Electronics: 35
   Ceramsteel: 19
-  Wetware: 3
-  Monopols: 49
-  Singularities: 4
-Build Gate Dreadstar in Starport
-Time to Build / Upgrade: 4
-[60695] Technology Required to Build Unit (53):
-  [60695] Gate Capital Ships (53)
+Build General-Purpose Drone in Electronics Plant
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Cybermorph Cadiz Dreadstar
-Nick Name: JJ-Ds-Cm
+Name: Fighter Drone
+Nick Name: Drone (F)
 Scores & Strengths:
-  Tech Score: 8200
-  Unit Score: 8200
-  Average Score: 8200
-  Stat Strength: 6754
-  Total Strength: 8200
-  Planet Strength: 0
-  Space Strength: 8200
-  Garrison Strength: 0
+  Tech Score: 2194
+  Unit Score: 2195
+  Average Score: 2195
+  Stat Strength: 1436
+  Total Strength: 2195
+  Planet Strength: 2195
+  Space Strength: 0
+  Garrison Strength: 517
 Statistics:
-  Movement Type: jump
-  Move Points: 23
-  Spot: 24
-  Camouflage: 11
-  Agility: 36
-  Armor: 46
-  Psy Defense: 46
-  Rank: 892
+  Movement Type: air
+  Move Points: 18
+  Spot: 12
+  Camouflage: 12
+  Agility: 18
+  Armor: 10
+  Psy Defense: 20
+  Rank: 114
 Attacks:
-  Ranged Space: 15/42
-  Direct Space: 16/36
-  Close Space: 16/15
-Cargo Space: 2
-Load aboard transport: 8
-Officer - Provides stack combat bonuses
+  Air: 33/23
+Load aboard transport: 2
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 1418
-Build Cost: 14175
+Upkeep / Maintenance: 18
+Build Cost: 180
 Build Resource Requirements:
-  Food: 1
-  Energy: 9
-  Metal: 7
-  Trace: 3
-  Exotica: 2
-  Chemicals: 15
-  Biochems: 21
-  Electronics: 10
-  Ceramsteel: 10
-  Wetware: 5
-  Monopols: 27
-  Singularities: 5
-Cybermorph Cadiz Dreadstar cannot be built
+  Food: 5
+  Energy: 15
+  Metal: 8
+  Trace: 23
+  Exotica: 5
+  Chemicals: 27
+  Electronics: 39
+  Ceramsteel: 19
+Build Fighter Drone in Electronics Plant
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Cloaking Cadiz Dreadstar
-Nick Name: JJ-Ds-Cl
+Name: Anti-Submarine Drone
+Nick Name: Drone (ASu)
 Scores & Strengths:
-  Tech Score: 8498
-  Unit Score: 8507
-  Average Score: 8502
-  Stat Strength: 6791
-  Total Strength: 8507
-  Planet Strength: 0
-  Space Strength: 8507
-  Garrison Strength: 0
+  Tech Score: 2194
+  Unit Score: 2196
+  Average Score: 2195
+  Stat Strength: 1428
+  Total Strength: 2196
+  Planet Strength: 2196
+  Space Strength: 0
+  Garrison Strength: 549
 Statistics:
-  Movement Type: jump
-  Move Points: 15
-  Spot: 16
-  Camouflage: 44
-  Agility: 18
-  Armor: 45
-  Psy Defense: 45
-  Rank: 917
+  Movement Type: air
+  Move Points: 16
+  Spot: 18
+  Camouflage: 8
+  Agility: 8
+  Armor: 12
+  Psy Defense: 24
+  Rank: 107
 Attacks:
-  Ranged Space: 12/46
-  Direct Space: 18/34
-  Close Space: 24/23
-Cargo Space: 3
-Load aboard transport: 8
-Officer - Provides stack combat bonuses
+  Water: 24/32
+Load aboard transport: 3
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 1314
-Build Cost: 13139
+Upkeep / Maintenance: 18
+Build Cost: 184
 Build Resource Requirements:
-  Energy: 8
-  Metal: 6
-  Trace: 7
-  Exotica: 1
-  Chemicals: 14
-  Biochems: 19
-  Electronics: 17
-  Ceramsteel: 10
-  Wetware: 4
-  Monopols: 25
-  Singularities: 4
-Build Cloaking Cadiz Dreadstar in Starport
-Time to Build / Upgrade: 4
-[98845] Technologies Required to Build Unit (63):
-  [59480] Cloaked Capital Ships (64)
-  [39365] Jump Capital Ships (61)
+  Food: 5
+  Energy: 20
+  Metal: 11
+  Trace: 15
+  Exotica: 5
+  Chemicals: 36
+  Electronics: 25
+  Ceramsteel: 27
+Build Anti-Submarine Drone in Electronics Plant
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Surveillance Drone
+Nick Name: Drone (R)
+Scores & Strengths:
+  Tech Score: 2194
+  Unit Score: 2197
+  Average Score: 2196
+  Stat Strength: 2197
+  Total Strength: 2197
+  Planet Strength: 2197
+  Space Strength: 0
+  Garrison Strength: 448
+Statistics:
+  Movement Type: air
+  Move Points: 24
+  Spot: 24
+  Camouflage: 10
+  Agility: 15
+  Armor: 12
+  Psy Defense: 24
+  Rank: 62
+Load aboard transport: 2
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 16
+Build Cost: 157
+Build Resource Requirements:
+  Food: 10
+  Energy: 10
+  Metal: 11
+  Trace: 12
+  Exotica: 10
+  Chemicals: 19
+  Electronics: 20
+  Ceramsteel: 27
+Build Surveillance Drone in Electronics Plant
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Transport Drone
+Nick Name: Drone (X)
+Scores & Strengths:
+  Tech Score: 2194
+  Unit Score: 2198
+  Average Score: 2196
+  Stat Strength: 2198
+  Total Strength: 2198
+  Planet Strength: 2198
+  Space Strength: 0
+  Garrison Strength: 634
+Statistics:
+  Movement Type: air
+  Move Points: 12
+  Spot: 11
+  Camouflage: 8
+  Agility: 8
+  Armor: 19
+  Psy Defense: 38
+  Rank: 61
+Cargo Space: 1
+Load aboard transport: 4
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Never Rebels
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 175
+Build Resource Requirements:
+  Food: 2
+  Energy: 3
+  Metal: 27
+  Trace: 3
+  Exotica: 2
+  Chemicals: 10
+  Electronics: 6
+  Ceramsteel: 68
+Build Transport Drone in Electronics Plant
+Time to Build / Upgrade: 3
+[11315] Technology Required to Build Unit (64):
+  [11315] Unmanned Aerial Vehicles (64)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

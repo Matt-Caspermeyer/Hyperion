@@ -1,389 +1,593 @@
-All units of the unit class Torpedo Boat Destroyer are listed herein (8 in total):
+All units of the unit class Space Carrier are listed herein (12 in total):
 
 --1--
-Name: Torpedo Boat Destroyer
-Nick Name: NN-DTB
+Name: Space Carrier
+Nick Name: SS-CV
 Scores & Strengths:
-  Tech Score: 174
-  Unit Score: 344
-  Average Score: 259
-  Stat Strength: 258
-  Total Strength: 344
-  Planet Strength: 344
-  Space Strength: 0
-  Garrison Strength: 130
+  Tech Score: 337
+  Unit Score: 337
+  Average Score: 337
+  Stat Strength: 229
+  Total Strength: 337
+  Planet Strength: 0
+  Space Strength: 337
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 7
-  Spot: 2
+  Movement Type: space
+  Move Points: 1
+  Spot: 8
   Camouflage: 1
-  Agility: 2
-  Armor: 10
-  Psy Defense: 10
-  Rank: 41
+  Agility: 1
+  Armor: 9
+  Psy Defense: 9
+  Rank: 746
 Attacks:
-  Water: 2/22
-  Indirect: 2/21
-Cargo Space: 1
-Load aboard transport: 4
-Upkeep / Maintenance: 70
-Build Cost: 698
+  Direct Space: 6/12
+  Close Space: 4/9
+Cargo Space: 6
+Load aboard transport: 8
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 66
+Build Cost: 664
 Build Resource Requirements:
   Food: 6
-  Energy: 186
-  Metal: 53
-  Trace: 5
-  Exotica: 5
-  Chemicals: 156
+  Energy: 24
+  Metal: 42
+  Trace: 16
+  Exotica: 6
+  Chemicals: 44
+  Electronics: 10
   Gems: 1
-Build Torpedo Boat Destroyer in Well
-Time to Build / Upgrade: 6
-[535] Technologies Required to Build Unit (99):
-  [100] Medical & Biological (100)
-  [110] Structural Engineering (99)
+Build Space Carrier in Starport
+Time to Build / Upgrade: 3
+[1040] Technologies Required to Build Unit (96):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
   [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Naval Destroyer
-Nick Name: NN-DD
+Name: Jump Carrier
+Nick Name: JJ-CV
 Scores & Strengths:
-  Tech Score: 679
-  Unit Score: 1357
-  Average Score: 1018
-  Stat Strength: 971
-  Total Strength: 1357
-  Planet Strength: 1357
-  Space Strength: 0
-  Garrison Strength: 452
+  Tech Score: 425
+  Unit Score: 398
+  Average Score: 412
+  Stat Strength: 267
+  Total Strength: 398
+  Planet Strength: 0
+  Space Strength: 398
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 9
-  Spot: 10
-  Camouflage: 2
-  Agility: 8
-  Armor: 19
-  Psy Defense: 19
-  Rank: 78
+  Movement Type: jump
+  Move Points: 1
+  Spot: 8
+  Camouflage: 1
+  Agility: 1
+  Armor: 10
+  Psy Defense: 10
+  Rank: 751
 Attacks:
-  Water: 7/18
-  Air: 12/7
-  Indirect: 6/16
-  Direct: 8/10
-Cargo Space: 1
-Load aboard transport: 5
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 53
-Build Cost: 531
+  Direct Space: 7/13
+  Close Space: 4/10
+Cargo Space: 6
+Load aboard transport: 8
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 292
+Build Cost: 2918
 Build Resource Requirements:
   Food: 6
-  Energy: 39
-  Metal: 64
-  Trace: 25
-  Exotica: 6
-  Chemicals: 38
-  Biochems: 15
-  Electronics: 17
-Build Naval Destroyer in Well
-Time to Build / Upgrade: 4
-[2480] Technologies Required to Build Unit (95):
-  [110] Structural Engineering (99)
+  Energy: 29
+  Metal: 42
+  Trace: 16
+  Exotica: 5
+  Chemicals: 53
+  Electronics: 12
+  Gems: 1
+  Singularities: 1
+Build Jump Carrier in Starport
+Time to Build / Upgrade: 3
+[1480] Technologies Required to Build Unit (91):
+  [145] Composite Armor (97)
   [100] Psychosocial Engineering (100)
-  [2270] Naval Escort Ships (86)
+  [1235] Jump Rocketry (76)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Guid. Miss. Destroyer
-Nick Name: NN-DGM
+Name: Space Escort Carrier
+Nick Name: SS-CVE
 Scores & Strengths:
-  Tech Score: 1339
-  Unit Score: 2678
-  Average Score: 2008
-  Stat Strength: 1739
-  Total Strength: 2678
-  Planet Strength: 2678
-  Space Strength: 0
-  Garrison Strength: 691
+  Tech Score: 2580
+  Unit Score: 2580
+  Average Score: 2580
+  Stat Strength: 2244
+  Total Strength: 2580
+  Planet Strength: 0
+  Space Strength: 2580
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 15
-  Spot: 11
-  Camouflage: 5
-  Agility: 4
-  Armor: 26
-  Psy Defense: 26
-  Rank: 114
+  Movement Type: space
+  Move Points: 14
+  Spot: 12
+  Camouflage: 2
+  Agility: 10
+  Armor: 30
+  Psy Defense: 30
+  Rank: 787
 Attacks:
-  Water: 11/27
-  Air: 17/12
-  Indirect: 10/23
-  Direct: 13/16
-Cargo Space: 1
-Load aboard transport: 5
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 90
-Build Cost: 904
+  Direct Space: 8/25
+  Close Space: 8/17
+Cargo Space: 3
+Load aboard transport: 6
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 82
+Build Cost: 817
 Build Resource Requirements:
-  Food: 4
-  Energy: 50
-  Metal: 36
-  Trace: 21
-  Exotica: 4
-  Chemicals: 69
-  Biochems: 13
-  Electronics: 23
-  Ceramsteel: 43
-Build Guid. Miss. Destroyer in Well
-Time to Build / Upgrade: 6
-[5855] Technology Required to Build Unit (84):
-  [5855] Guided Missile Navalcraft (84)
+  Food: 2
+  Energy: 16
+  Metal: 26
+  Trace: 4
+  Exotica: 3
+  Chemicals: 28
+  Biochems: 23
+  Electronics: 7
+  Ceramsteel: 29
+Build Space Escort Carrier in Starport
+Time to Build / Upgrade: 3
+[14045] Technology Required to Build Unit (84):
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Amphibious Destroyer
-Nick Name: CC-DD
+Name: Space Light Carrier
+Nick Name: SS-CV-Lt
 Scores & Strengths:
-  Tech Score: 2767
-  Unit Score: 2767
-  Average Score: 2767
-  Stat Strength: 2152
-  Total Strength: 2767
-  Planet Strength: 2767
-  Space Strength: 0
-  Garrison Strength: 652
+  Tech Score: 2916
+  Unit Score: 2916
+  Average Score: 2916
+  Stat Strength: 2500
+  Total Strength: 2916
+  Planet Strength: 0
+  Space Strength: 2916
+  Garrison Strength: 0
 Statistics:
-  Movement Type: craft
+  Movement Type: space
   Move Points: 18
   Spot: 12
-  Camouflage: 4
-  Agility: 10
-  Armor: 28
-  Psy Defense: 28
-  Rank: 112
+  Camouflage: 6
+  Agility: 14
+  Armor: 30
+  Psy Defense: 30
+  Rank: 805
 Attacks:
-  Water: 9/20
-  Air: 11/17
-  Indirect: 8/18
-  Direct: 8/13
-Cargo Space: 1
-Load aboard transport: 5
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 14
-Build Cost: 140
+  Direct Space: 16/16
+  Close Space: 16/10
+Cargo Space: 4
+Load aboard transport: 6
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 403
+Build Cost: 4032
 Build Resource Requirements:
   Food: 2
-  Energy: 15
-  Metal: 16
-  Trace: 5
+  Energy: 5
+  Metal: 13
+  Trace: 8
   Exotica: 2
-  Chemicals: 22
-  Biochems: 16
-  Electronics: 6
-  Ceramsteel: 17
-Build Amphibious Destroyer in Well
+  Chemicals: 10
+  Biochems: 19
+  Electronics: 13
+  Ceramsteel: 15
+  Monopols: 23
+Build Space Light Carrier in Starport
 Time to Build / Upgrade: 3
-[23555] Technologies Required to Build Unit (85):
-  [2855] Naval Amphibious Ships (87)
-  [6655] PTS Missile Navalcraft (83)
-  [14045] Space Escorts (84)
+[16530] Technology Required to Build Unit (80):
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: PTS Missile Destroyer
-Nick Name: NN-DPTS
+Name: Space Carrier MkII
+Nick Name: SS-CV-2
 Scores & Strengths:
-  Tech Score: 1474
-  Unit Score: 3685
-  Average Score: 2579
-  Stat Strength: 2300
-  Total Strength: 3685
-  Planet Strength: 3545
-  Space Strength: 2440
-  Garrison Strength: 886
+  Tech Score: 2916
+  Unit Score: 2916
+  Average Score: 2916
+  Stat Strength: 2060
+  Total Strength: 2916
+  Planet Strength: 0
+  Space Strength: 2916
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 16
-  Spot: 12
-  Camouflage: 8
+  Movement Type: space
+  Move Points: 11
+  Spot: 18
+  Camouflage: 11
   Agility: 6
-  Armor: 30
-  Psy Defense: 30
-  Rank: 141
+  Armor: 27
+  Psy Defense: 27
+  Rank: 845
 Attacks:
-  Ranged Space: 7/20
-  Water: 15/28
-  Air: 19/14
-  Indirect: 13/25
-  Direct: 13/18
-Cargo Space: 1
-Load aboard transport: 6
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 135
-Build Cost: 1346
+  Direct Space: 18/32
+  Close Space: 20/14
+Cargo Space: 6
+Load aboard transport: 8
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 605
+Build Cost: 6049
 Build Resource Requirements:
-  Food: 4
-  Energy: 63
-  Metal: 44
-  Trace: 28
-  Exotica: 5
-  Chemicals: 89
-  Biochems: 16
-  Electronics: 30
-  Ceramsteel: 54
-Build PTS Missile Destroyer in Well
-Time to Build / Upgrade: 7
-[6655] Technology Required to Build Unit (83):
-  [6655] PTS Missile Navalcraft (83)
+  Food: 2
+  Energy: 9
+  Metal: 10
+  Trace: 13
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 23
+  Electronics: 20
+  Ceramsteel: 12
+  Monopols: 27
+Space Carrier MkII cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Nuclear Destroyer
-Nick Name: NN-DDN
+Name: Jump Carrier MkII
+Nick Name: JJ-CV-2
 Scores & Strengths:
-  Tech Score: 1579
-  Unit Score: 4737
-  Average Score: 3158
-  Stat Strength: 2925
-  Total Strength: 4737
-  Planet Strength: 4737
-  Space Strength: 0
-  Garrison Strength: 1116
+  Tech Score: 3755
+  Unit Score: 3354
+  Average Score: 3554
+  Stat Strength: 2164
+  Total Strength: 3354
+  Planet Strength: 0
+  Space Strength: 3354
+  Garrison Strength: 0
 Statistics:
-  Movement Type: naval
-  Move Points: 18
-  Spot: 12
-  Camouflage: 9
-  Agility: 8
-  Armor: 34
-  Psy Defense: 34
-  Rank: 151
+  Movement Type: jump
+  Move Points: 11
+  Spot: 15
+  Camouflage: 3
+  Agility: 3
+  Armor: 30
+  Psy Defense: 30
+  Rank: 858
 Attacks:
-  Water: 17/34
-  Air: 21/16
-  Indirect: 16/30
-  Direct: 19/22
-Cargo Space: 1
-Load aboard transport: 5
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 190
-Build Cost: 1897
+  Direct Space: 20/40
+  Close Space: 13/30
+Cargo Space: 6
+Load aboard transport: 8
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 1373
+Build Cost: 13734
 Build Resource Requirements:
-  Food: 5
-  Energy: 72
-  Metal: 52
-  Trace: 35
-  Exotica: 5
-  Chemicals: 104
+  Food: 1
+  Energy: 13
+  Metal: 10
+  Trace: 6
+  Exotica: 1
+  Chemicals: 21
   Biochems: 19
-  Electronics: 38
-  Ceramsteel: 67
-Build Nuclear Destroyer in Well
-Time to Build / Upgrade: 9
-[7295] Technology Required to Build Unit (81):
-  [7295] Nuclear-Powered Navalcraft (81)
+  Electronics: 10
+  Ceramsteel: 11
+  Monopols: 35
+  Singularities: 3
+Build Jump Carrier MkII in Starport
+Time to Build / Upgrade: 4
+[29430] Technologies Required to Build Unit (71):
+  [4285] Jump Drives (70)
+  [8615] Fusion Beam (63)
+  [16530] Space Capital Ships (80)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Meson Amphibious Destroyer
-Nick Name: CC-MDD
+Name: Jump Escort Carrier
+Nick Name: JJ-CVE
 Scores & Strengths:
-  Tech Score: 5449
-  Unit Score: 5449
-  Average Score: 5449
-  Stat Strength: 4138
-  Total Strength: 5449
-  Planet Strength: 4955
-  Space Strength: 4632
-  Garrison Strength: 1107
+  Tech Score: 4325
+  Unit Score: 4232
+  Average Score: 4279
+  Stat Strength: 3692
+  Total Strength: 4232
+  Planet Strength: 0
+  Space Strength: 4232
+  Garrison Strength: 0
 Statistics:
-  Movement Type: craft
-  Move Points: 20
+  Movement Type: jump
+  Move Points: 18
   Spot: 14
-  Camouflage: 6
-  Agility: 12
-  Armor: 41
-  Psy Defense: 41
-  Rank: 174
+  Camouflage: 3
+  Agility: 11
+  Armor: 39
+  Psy Defense: 39
+  Rank: 817
 Attacks:
-  Ranged Space: 19/26
-  Water: 10/22
-  Air: 13/19
-  Indirect: 10/20
-  Direct: 10/15
-Cargo Space: 1
+  Direct Space: 10/32
+  Close Space: 10/22
+Cargo Space: 3
 Load aboard transport: 6
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 121
-Build Cost: 1072
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 1259
+Build Cost: 12588
 Build Resource Requirements:
-  Electronics: 6
-  Monopols: 27
-Upgrade Amphibious Destroyer to Meson Amphibious Destroyer at Well
-Time to Build / Upgrade: 1
-[58695] Technologies Required to Build Unit (79):
-  [2855] Naval Amphibious Ships (87)
-  [27875] PTS Meson Navalcraft (74)
+  Food: 2
+  Energy: 10
+  Metal: 14
+  Trace: 4
+  Exotica: 2
+  Chemicals: 20
+  Biochems: 19
+  Electronics: 12
+  Ceramsteel: 19
+  Monopols: 36
+  Singularities: 4
+Build Jump Escort Carrier in Starport
+Time to Build / Upgrade: 4
+[27965] Technology Required to Build Unit (75):
   [27965] Jump Escorts (75)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Hover Destroyer
-Nick Name: Annihilator
+Name: Jump Carrier MkIII
+Nick Name: JJ-CV-3
 Scores & Strengths:
-  Tech Score: 6233
-  Unit Score: 6304
-  Average Score: 6268
-  Stat Strength: 5073
-  Total Strength: 6304
-  Planet Strength: 6304
-  Space Strength: 0
-  Garrison Strength: 1409
+  Tech Score: 5589
+  Unit Score: 5083
+  Average Score: 5336
+  Stat Strength: 3315
+  Total Strength: 5083
+  Planet Strength: 0
+  Space Strength: 5083
+  Garrison Strength: 0
 Statistics:
-  Movement Type: hover
-  Move Points: 20
+  Movement Type: jump
+  Move Points: 17
   Spot: 16
-  Camouflage: 8
-  Agility: 11
-  Armor: 46
-  Psy Defense: 46
-  Rank: 163
+  Camouflage: 4
+  Agility: 4
+  Armor: 37
+  Psy Defense: 37
+  Rank: 893
 Attacks:
-  Water: 12/23
-  Air: 17/23
-  Indirect: 10/34
-  Direct: 14/16
-Cargo Space: 1
-Load aboard transport: 5
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 201
-Build Cost: 2011
+  Direct Space: 24/49
+  Close Space: 16/37
+Cargo Space: 6
+Load aboard transport: 8
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 2076
+Build Cost: 20759
 Build Resource Requirements:
   Food: 1
-  Energy: 11
+  Energy: 16
   Metal: 9
+  Trace: 6
+  Exotica: 1
+  Chemicals: 28
+  Biochems: 22
+  Electronics: 15
+  Ceramsteel: 14
+  Monopols: 46
+  Singularities: 4
+Build Jump Carrier MkIII in Starport
+Time to Build / Upgrade: 4
+[39365] Technology Required to Build Unit (61):
+  [39365] Jump Capital Ships (61)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Jump Light Carrier
+Nick Name: JJ-CV-Lt
+Scores & Strengths:
+  Tech Score: 5589
+  Unit Score: 5461
+  Average Score: 5525
+  Stat Strength: 4669
+  Total Strength: 5461
+  Planet Strength: 0
+  Space Strength: 5461
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 25
+  Spot: 14
+  Camouflage: 8
+  Agility: 16
+  Armor: 42
+  Psy Defense: 42
+  Rank: 849
+Attacks:
+  Direct Space: 22/22
+  Close Space: 22/14
+Cargo Space: 4
+Load aboard transport: 6
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 1736
+Build Cost: 17358
+Build Resource Requirements:
+  Food: 2
+  Energy: 6
+  Metal: 12
+  Trace: 7
+  Exotica: 2
+  Chemicals: 13
+  Biochems: 18
+  Electronics: 19
+  Ceramsteel: 18
+  Monopols: 29
+  Singularities: 5
+Build Jump Light Carrier in Starport
+Time to Build / Upgrade: 4
+[39365] Technology Required to Build Unit (61):
+  [39365] Jump Capital Ships (61)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Cybermorph Space Carrier
+Nick Name: JJ-CV-CM
+Scores & Strengths:
+  Tech Score: 7308
+  Unit Score: 7308
+  Average Score: 7308
+  Stat Strength: 6170
+  Total Strength: 7308
+  Planet Strength: 0
+  Space Strength: 7308
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 21
+  Spot: 28
+  Camouflage: 11
+  Agility: 36
+  Armor: 42
+  Psy Defense: 42
+  Rank: 893
+Attacks:
+  Direct Space: 22/35
+  Close Space: 23/16
+Cargo Space: 6
+Load aboard transport: 8
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 2602
+Build Cost: 26019
+Build Resource Requirements:
+  Food: 2
+  Energy: 7
+  Metal: 8
+  Trace: 5
+  Exotica: 2
+  Chemicals: 12
+  Biochems: 24
+  Electronics: 14
+  Ceramsteel: 13
+  Wetware: 9
+  Monopols: 25
+  Singularities: 5
+Cybermorph Space Carrier cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Gate Carrier
+Nick Name: GG-CV
+Scores & Strengths:
+  Tech Score: 7734
+  Unit Score: 7515
+  Average Score: 7624
+  Stat Strength: 6617
+  Total Strength: 7515
+  Planet Strength: 7052
+  Space Strength: 7080
+  Garrison Strength: 1617
+Statistics:
+  Movement Type: gate
+  Move Points: 19
+  Spot: 16
+  Camouflage: 10
+  Agility: 30
+  Armor: 50
+  Psy Defense: 50
+  Rank: 875
+Attacks:
+  Direct Space: 9/27
+  Close Space: 10/22
+  Direct: 9/25
+  Close: 10/21
+Cargo Space: 9
+Load aboard transport: 10
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 3990
+Build Cost: 39900
+Build Resource Requirements:
+  Food: 1
+  Energy: 9
+  Metal: 10
   Trace: 3
   Exotica: 1
-  Chemicals: 20
-  Biochems: 25
-  Electronics: 11
-  Ceramsteel: 18
-  Wetware: 4
-  Monopols: 40
-Build Hover Destroyer in Well
+  Chemicals: 17
+  Biochems: 20
+  Electronics: 10
+  Ceramsteel: 17
+  Wetware: 5
+  Monopols: 36
+  Singularities: 4
+Build Gate Carrier in Starport
 Time to Build / Upgrade: 4
-[45520] Technology Required to Build Unit (53):
-  [45520] Hover Navalcraft (53)
+[60695] Technology Required to Build Unit (53):
+  [60695] Gate Capital Ships (53)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Cloaking Space Carrier
+Nick Name: SS-CV-CL
+Scores & Strengths:
+  Tech Score: 7617
+  Unit Score: 7620
+  Average Score: 7619
+  Stat Strength: 6282
+  Total Strength: 7620
+  Planet Strength: 0
+  Space Strength: 7620
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 14
+  Spot: 14
+  Camouflage: 44
+  Agility: 16
+  Armor: 43
+  Psy Defense: 43
+  Rank: 243
+Attacks:
+  Direct Space: 18/45
+  Close Space: 24/22
+Cargo Space: 6
+Load aboard transport: 8
+Immune to Plague
+Upkeep / Maintenance: 605
+Build Cost: 6047
+Build Resource Requirements:
+  Energy: 7
+  Metal: 8
+  Trace: 9
+  Exotica: 1
+  Chemicals: 13
+  Biochems: 23
+  Electronics: 23
+  Ceramsteel: 13
+  Wetware: 4
+  Monopols: 27
+Build Cloaking Space Carrier in Starport
+Time to Build / Upgrade: 4
+[59480] Technology Required to Build Unit (64):
+  [59480] Cloaked Capital Ships (64)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

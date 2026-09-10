@@ -1,596 +1,315 @@
-All units of the unit class Naval Corvette are listed herein (12 in total):
+All units of the unit class Guided Bomb are listed herein (7 in total):
 
 --1--
-Name: Naval Corvette
-Nick Name: NN-Corv
+Name: Guided Bomb
+Nick Name: Guided Bomb
 Scores & Strengths:
-  Tech Score: 520
-  Unit Score: 520
-  Average Score: 520
-  Stat Strength: 440
-  Total Strength: 520
-  Planet Strength: 520
+  Tech Score: 458
+  Unit Score: 458
+  Average Score: 458
+  Stat Strength: 363
+  Total Strength: 458
+  Planet Strength: 458
   Space Strength: 0
-  Garrison Strength: 183
+  Garrison Strength: 458
 Statistics:
-  Movement Type: naval
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 6
-  Armor: 12
-  Psy Defense: 12
-  Rank: 48
+  Movement Type: air
+  Move Points: 1
+  Spot: 0
+  Camouflage: 6
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 23
 Attacks:
-  Indirect: 3/12
-  Direct: 2/12
-  Close: 2/10
-Cargo Space: 1
-Load aboard transport: 3
-Upkeep / Maintenance: 19
-Build Cost: 192
+  Indirect: 5/19
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 11
 Build Resource Requirements:
-  Food: 4
-  Energy: 28
-  Metal: 32
-  Trace: 6
-  Exotica: 4
-  Chemicals: 27
-  Biochems: 4
-  Electronics: 4
-Build Naval Corvette in Well
+  Food: 7
+  Energy: 34
+  Metal: 1
+  Trace: 18
+  Exotica: 7
+  Chemicals: 34
+  Electronics: 10
+Build Guided Bomb in Chemical Plant
 Time to Build / Upgrade: 2
-[1770] Technologies Required to Build Unit (95):
-  [110] Structural Engineering (99)
-  [100] Psychosocial Engineering (100)
-  [1560] Naval Patrol Ships (86)
-Counts as planetary flock: YES
+[1645] Technologies Required to Build Unit (90):
+  [245] Rotary Engine (92)
+  [1400] Aerial Warfare (87)
 Unit can be disbanded: YES
 
 --2--
-Name: Naval Corvette II
-Nick Name: NN-Corv II
+Name: Glide Bomb
+Nick Name: Glide Bomb
 Scores & Strengths:
-  Tech Score: 658
-  Unit Score: 594
-  Average Score: 626
-  Stat Strength: 507
-  Total Strength: 594
-  Planet Strength: 594
+  Tech Score: 492
+  Unit Score: 492
+  Average Score: 492
+  Stat Strength: 316
+  Total Strength: 492
+  Planet Strength: 492
   Space Strength: 0
-  Garrison Strength: 198
+  Garrison Strength: 284
 Statistics:
-  Movement Type: naval
-  Move Points: 9
-  Spot: 6
+  Movement Type: air
+  Move Points: 3
+  Spot: 0
   Camouflage: 4
-  Agility: 6
-  Armor: 13
-  Psy Defense: 13
-  Rank: 51
+  Agility: 17
+  Armor: 1
+  Psy Defense: 1
+  Rank: 32
 Attacks:
-  Indirect: 3/13
-  Direct: 2/13
-  Close: 2/11
-Cargo Space: 1
-Load aboard transport: 3
-Upkeep / Maintenance: 18
-Build Cost: 180
+  Indirect: 8/22
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 8
 Build Resource Requirements:
-  Food: 3
+  Food: 4
   Energy: 27
-  Metal: 33
-  Trace: 6
+  Metal: 1
+  Trace: 13
   Exotica: 4
   Chemicals: 27
-  Biochems: 4
-  Electronics: 4
-Build Naval Corvette II in Well
+  Electronics: 5
+Build Glide Bomb in Chemical Plant
 Time to Build / Upgrade: 2
-[2270] Technology Required to Build Unit (86):
-  [2270] Naval Escort Ships (86)
-Counts as planetary flock: YES
+[2940] Technologies Required to Build Unit (88):
+  [1540] High-Speed Aerodynamics (89)
+  [1400] Aerial Warfare (87)
 Unit can be disbanded: YES
 
 --3--
-Name: Naval Corvette III
-Nick Name: NN-Corv III
+Name: Flying Bomb
+Nick Name: Flying Bomb
 Scores & Strengths:
-  Tech Score: 1134
-  Unit Score: 1097
-  Average Score: 1116
-  Stat Strength: 926
-  Total Strength: 1097
-  Planet Strength: 1097
+  Tech Score: 534
+  Unit Score: 534
+  Average Score: 534
+  Stat Strength: 334
+  Total Strength: 534
+  Planet Strength: 534
   Space Strength: 0
-  Garrison Strength: 316
+  Garrison Strength: 218
 Statistics:
-  Movement Type: naval
-  Move Points: 12
-  Spot: 7
-  Camouflage: 6
-  Agility: 7
-  Armor: 18
-  Psy Defense: 18
-  Rank: 68
+  Movement Type: air
+  Move Points: 6
+  Spot: 0
+  Camouflage: 10
+  Agility: 14
+  Armor: 1
+  Psy Defense: 1
+  Rank: 35
 Attacks:
-  Indirect: 4/18
-  Direct: 3/18
-  Close: 3/15
-Cargo Space: 1
-Load aboard transport: 3
-Upkeep / Maintenance: 29
-Build Cost: 287
+  Indirect: 8/25
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 13
 Build Resource Requirements:
-  Food: 3
-  Energy: 32
-  Metal: 20
-  Trace: 4
-  Exotica: 3
-  Chemicals: 41
-  Biochems: 4
-  Electronics: 4
-  Ceramsteel: 23
-Build Naval Corvette III in Well
-Time to Build / Upgrade: 3
-[4695] Technology Required to Build Unit (83):
-  [4695] Advanced Minor Watercraft (83)
-Counts as planetary flock: YES
+  Food: 5
+  Energy: 41
+  Metal: 1
+  Trace: 21
+  Exotica: 5
+  Chemicals: 44
+  Electronics: 10
+Build Flying Bomb in Chemical Plant
+Time to Build / Upgrade: 2
+[2100] Technologies Required to Build Unit (89):
+  [700] Rockets (90)
+  [1400] Aerial Warfare (87)
 Unit can be disbanded: YES
 
 --4--
-Name: Guid. Miss. Corvette
-Nick Name: NN-CorvGM
+Name: Human-Guided Bomb
+Nick Name: HG Bomb
 Scores & Strengths:
-  Tech Score: 1339
-  Unit Score: 1339
-  Average Score: 1339
-  Stat Strength: 1093
-  Total Strength: 1339
-  Planet Strength: 1339
+  Tech Score: 534
+  Unit Score: 535
+  Average Score: 535
+  Stat Strength: 339
+  Total Strength: 535
+  Planet Strength: 535
   Space Strength: 0
-  Garrison Strength: 386
+  Garrison Strength: 189
 Statistics:
-  Movement Type: naval
-  Move Points: 12
-  Spot: 7
-  Camouflage: 6
-  Agility: 8
-  Armor: 20
-  Psy Defense: 20
-  Rank: 76
+  Movement Type: air
+  Move Points: 8
+  Spot: 6
+  Camouflage: 5
+  Agility: 14
+  Armor: 3
+  Psy Defense: 3
+  Rank: 40
 Attacks:
-  Indirect: 6/19
-  Direct: 4/18
-  Close: 4/15
-Cargo Space: 1
-Load aboard transport: 3
-Upkeep / Maintenance: 30
-Build Cost: 301
+  Indirect: 14/14
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
 Build Resource Requirements:
-  Food: 3
-  Energy: 29
-  Metal: 21
-  Trace: 5
-  Exotica: 3
-  Chemicals: 40
-  Biochems: 4
-  Electronics: 5
-  Ceramsteel: 26
-Build Guid. Miss. Corvette in Well
-Time to Build / Upgrade: 3
-[5855] Technology Required to Build Unit (84):
-  [5855] Guided Missile Navalcraft (84)
-Counts as planetary flock: YES
+  Metal: 4
+  Trace: 28
+  Exotica: 7
+  Chemicals: 21
+  Electronics: 7
+Upgrade Peasant to Human-Guided Bomb at Chemical Plant
+Time to Build / Upgrade: 1
+[2100] Technologies Required to Build Unit (89):
+  [700] Rockets (90)
+  [1400] Aerial Warfare (87)
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: PTS Missile Corvette
-Nick Name: NN-CorvPTS
+Name: Guided Glide Bomb
+Nick Name: GG Bomb
 Scores & Strengths:
-  Tech Score: 1474
-  Unit Score: 1843
-  Average Score: 1658
-  Stat Strength: 1245
-  Total Strength: 1843
-  Planet Strength: 1678
-  Space Strength: 1410
-  Garrison Strength: 465
+  Tech Score: 701
+  Unit Score: 703
+  Average Score: 702
+  Stat Strength: 358
+  Total Strength: 703
+  Planet Strength: 703
+  Space Strength: 0
+  Garrison Strength: 351
 Statistics:
-  Movement Type: naval
-  Move Points: 13
-  Spot: 8
-  Camouflage: 7
-  Agility: 9
-  Armor: 21
-  Psy Defense: 21
-  Rank: 106
+  Movement Type: air
+  Move Points: 4
+  Spot: 0
+  Camouflage: 4
+  Agility: 18
+  Armor: 1
+  Psy Defense: 1
+  Rank: 48
 Attacks:
-  Ranged Space: 11/15
-  Indirect: 9/21
-  Direct: 5/20
-  Close: 8/18
-Cargo Space: 1
-Load aboard transport: 3
-Upkeep / Maintenance: 43
-Build Cost: 430
+  Indirect: 15/23
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 8
 Build Resource Requirements:
   Food: 3
-  Energy: 39
-  Metal: 21
-  Trace: 11
+  Energy: 23
+  Trace: 17
   Exotica: 3
-  Chemicals: 54
-  Biochems: 6
-  Electronics: 11
-  Ceramsteel: 27
-Build PTS Missile Corvette in Well
-Time to Build / Upgrade: 4
-[6655] Technology Required to Build Unit (83):
-  [6655] PTS Missile Navalcraft (83)
-Counts as planetary flock: YES
+  Chemicals: 23
+  Electronics: 5
+Build Guided Glide Bomb in Chemical Plant
+Time to Build / Upgrade: 2
+[4135] Technologies Required to Build Unit (89):
+  [1540] High-Speed Aerodynamics (89)
+  [1195] Naval Warfare (90)
+  [1400] Aerial Warfare (87)
 Unit can be disbanded: YES
 
 --6--
-Name: Advanced Naval Corvette
-Nick Name: NN-CorvAdv
+Name: Flying Bomb II
+Nick Name: Flying Bomb II
 Scores & Strengths:
-  Tech Score: 1579
-  Unit Score: 1973
-  Average Score: 1776
-  Stat Strength: 1409
-  Total Strength: 1973
-  Planet Strength: 1973
+  Tech Score: 756
+  Unit Score: 758
+  Average Score: 757
+  Stat Strength: 398
+  Total Strength: 758
+  Planet Strength: 758
   Space Strength: 0
-  Garrison Strength: 527
+  Garrison Strength: 239
 Statistics:
-  Movement Type: naval
-  Move Points: 14
-  Spot: 9
-  Camouflage: 8
-  Agility: 10
-  Armor: 22
-  Psy Defense: 22
-  Rank: 96
+  Movement Type: air
+  Move Points: 10
+  Spot: 0
+  Camouflage: 10
+  Agility: 14
+  Armor: 1
+  Psy Defense: 1
+  Rank: 50
 Attacks:
-  Indirect: 10/22
-  Direct: 7/22
-  Close: 10/19
-Cargo Space: 1
-Load aboard transport: 3
-Upkeep / Maintenance: 43
-Build Cost: 427
+  Indirect: 18/20
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 9
 Build Resource Requirements:
-  Food: 3
-  Energy: 36
-  Metal: 22
-  Trace: 10
+  Food: 4
+  Energy: 22
+  Trace: 26
   Exotica: 4
-  Chemicals: 51
-  Biochems: 6
-  Electronics: 10
-  Ceramsteel: 28
-Build Advanced Naval Corvette in Well
-Time to Build / Upgrade: 4
-[7295] Technology Required to Build Unit (81):
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
+  Chemicals: 23
+  Electronics: 7
+Build Flying Bomb II in Chemical Plant
+Time to Build / Upgrade: 2
+[3390] Technologies Required to Build Unit (88):
+  [1195] Naval Warfare (90)
+  [1400] Aerial Warfare (87)
+  [795] Missiles (86)
 Unit can be disbanded: YES
 
 --7--
-Name: Littoral Combat Ship (MCM)
-Nick Name: NN-LCS-MCM
+Name: Laser-Guided Bomb
+Nick Name: LG Bomb
 Scores & Strengths:
-  Tech Score: 2319
-  Unit Score: 2312
-  Average Score: 2315
-  Stat Strength: 2024
-  Total Strength: 2312
-  Planet Strength: 2312
+  Tech Score: 1248
+  Unit Score: 1244
+  Average Score: 1246
+  Stat Strength: 344
+  Total Strength: 1244
+  Planet Strength: 1244
   Space Strength: 0
-  Garrison Strength: 516
+  Garrison Strength: 879
 Statistics:
-  Movement Type: naval
-  Move Points: 20
-  Spot: 18
-  Camouflage: 10
-  Agility: 20
-  Armor: 20
-  Psy Defense: 20
-  Rank: 109
+  Movement Type: air
+  Move Points: 2
+  Spot: 0
+  Camouflage: 7
+  Agility: 17
+  Armor: 1
+  Psy Defense: 1
+  Rank: 82
 Attacks:
-  Indirect: 12/24
-Cargo Space: 2
-Load aboard transport: 3
-Can attack on Byzantium Secundus
-Amphibious loading / unloading of cargo
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Can tow units that can be towed
-Upkeep / Maintenance: 85
-Build Cost: 845
+  Indirect: 30/30
+Load aboard transport: 1
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 12
 Build Resource Requirements:
-  Food: 6
-  Energy: 14
-  Metal: 15
-  Trace: 8
-  Exotica: 6
-  Chemicals: 22
-  Biochems: 30
-  Electronics: 9
-  Ceramsteel: 18
-Build Littoral Combat Ship (MCM) in Well
-Time to Build / Upgrade: 3
-[16880] Technologies Required to Build Unit (80):
-  [2390] Genomic Mapping (77)
-  [2820] Controlled Drug Delivery (70)
-  [4155] Computational Fluid Dynamics (81)
-  [220] Indoctrination (91)
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---8--
-Name: Littoral Combat Ship (L)
-Nick Name: NN-LCS-L
-Scores & Strengths:
-  Tech Score: 2339
-  Unit Score: 2340
-  Average Score: 2339
-  Stat Strength: 1944
-  Total Strength: 2340
-  Planet Strength: 2340
-  Space Strength: 0
-  Garrison Strength: 551
-Statistics:
-  Movement Type: naval
-  Move Points: 18
-  Spot: 18
-  Camouflage: 18
-  Agility: 18
-  Armor: 18
-  Psy Defense: 18
-  Rank: 787
-Attacks:
-  Indirect: 18/22
-Cargo Space: 2
-Load aboard transport: 3
-Can attack on Byzantium Secundus
-Officer - Provides stack combat bonuses
-Amphibious loading / unloading of cargo
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Can tow units that can be towed
-Heals units of same movement type
-Upkeep / Maintenance: 122
-Build Cost: 1219
-Build Resource Requirements:
-  Food: 5
-  Energy: 11
-  Metal: 12
-  Trace: 11
-  Exotica: 5
-  Chemicals: 18
-  Biochems: 24
-  Electronics: 12
-  Ceramsteel: 14
-Build Littoral Combat Ship (L) in Well
-Time to Build / Upgrade: 3
-[18495] Technologies Required to Build Unit (79):
-  [2390] Genomic Mapping (77)
-  [2820] Controlled Drug Delivery (70)
-  [1615] Wireblades (76)
-  [4155] Computational Fluid Dynamics (81)
-  [220] Indoctrination (91)
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---9--
-Name: Littoral Combat Ship (SOW)
-Nick Name: NN-LCS-SOW
-Scores & Strengths:
-  Tech Score: 2319
-  Unit Score: 2380
-  Average Score: 2349
-  Stat Strength: 2184
-  Total Strength: 2380
-  Planet Strength: 2380
-  Space Strength: 0
-  Garrison Strength: 466
-Statistics:
-  Movement Type: naval
-  Move Points: 26
-  Spot: 20
-  Camouflage: 14
-  Agility: 20
-  Armor: 16
-  Psy Defense: 16
-  Rank: 92
-Attacks:
-  Direct: 8/12
-  Close: 10/10
-Cargo Space: 2
-Load aboard transport: 3
-Can attack on Byzantium Secundus
-Amphibious loading / unloading of cargo
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 73
-Build Cost: 726
-Build Resource Requirements:
-  Food: 8
-  Energy: 13
-  Metal: 10
-  Trace: 10
-  Exotica: 8
-  Chemicals: 19
-  Biochems: 27
-  Electronics: 14
-  Ceramsteel: 11
-Build Littoral Combat Ship (SOW) in Well
-Time to Build / Upgrade: 3
-[16880] Technologies Required to Build Unit (80):
-  [2390] Genomic Mapping (77)
-  [2820] Controlled Drug Delivery (70)
-  [4155] Computational Fluid Dynamics (81)
-  [220] Indoctrination (91)
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---10--
-Name: Littoral Combat Ship (SUW)
-Nick Name: NN-LCS-SUW
-Scores & Strengths:
-  Tech Score: 2398
-  Unit Score: 2400
-  Average Score: 2399
-  Stat Strength: 1936
-  Total Strength: 2400
-  Planet Strength: 2400
-  Space Strength: 0
-  Garrison Strength: 565
-Statistics:
-  Movement Type: naval
-  Move Points: 18
-  Spot: 16
-  Camouflage: 8
-  Agility: 18
-  Armor: 22
-  Psy Defense: 22
-  Rank: 115
-Attacks:
-  Indirect: 14/26
-  Direct: 10/10
-Cargo Space: 2
-Load aboard transport: 3
-Can attack on Byzantium Secundus
-Amphibious loading / unloading of cargo
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 78
-Build Cost: 781
-Build Resource Requirements:
-  Food: 4
-  Energy: 14
-  Metal: 18
-  Trace: 8
-  Exotica: 5
-  Chemicals: 23
-  Biochems: 30
-  Electronics: 8
-  Ceramsteel: 19
-Build Littoral Combat Ship (SUW) in Well
-Time to Build / Upgrade: 3
-[18580] Technologies Required to Build Unit (81):
-  [2390] Genomic Mapping (77)
-  [2820] Controlled Drug Delivery (70)
-  [4155] Computational Fluid Dynamics (81)
-  [220] Indoctrination (91)
-  [1700] Main Battle Tank (88)
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---11--
-Name: Littoral Combat Ship (ASW)
-Nick Name: NN-LCS-ASW
-Scores & Strengths:
-  Tech Score: 2445
-  Unit Score: 2448
-  Average Score: 2446
-  Stat Strength: 2016
-  Total Strength: 2448
-  Planet Strength: 2448
-  Space Strength: 0
-  Garrison Strength: 499
-Statistics:
-  Movement Type: naval
-  Move Points: 24
-  Spot: 18
-  Camouflage: 12
-  Agility: 18
-  Armor: 18
-  Psy Defense: 18
-  Rank: 114
-Attacks:
-  Water: 12/24
-  Indirect: 12/12
-Cargo Space: 2
-Load aboard transport: 3
-Can attack on Byzantium Secundus
-Amphibious loading / unloading of cargo
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 70
-Build Cost: 701
-Build Resource Requirements:
-  Food: 6
-  Energy: 16
-  Metal: 12
-  Trace: 9
-  Exotica: 6
-  Chemicals: 21
-  Biochems: 26
-  Electronics: 10
-  Ceramsteel: 12
-Build Littoral Combat Ship (ASW) in Well
-Time to Build / Upgrade: 3
-[20495] Technologies Required to Build Unit (81):
-  [2390] Genomic Mapping (77)
-  [2820] Controlled Drug Delivery (70)
-  [4155] Computational Fluid Dynamics (81)
-  [220] Indoctrination (91)
-  [3615] Submarine Warfare (87)
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---12--
-Name: Littoral Combat Ship (ISR)
-Nick Name: NN-LCS-ISR
-Scores & Strengths:
-  Tech Score: 2783
-  Unit Score: 2808
-  Average Score: 2796
-  Stat Strength: 2304
-  Total Strength: 2808
-  Planet Strength: 2808
-  Space Strength: 0
-  Garrison Strength: 702
-Statistics:
-  Movement Type: naval
-  Move Points: 16
-  Spot: 26
-  Camouflage: 20
-  Agility: 18
-  Armor: 18
-  Psy Defense: 18
-  Rank: 134
-Attacks:
-  Air: 14/16
-  Indirect: 14/20
-Cargo Space: 2
-Load aboard transport: 3
-Can attack on Byzantium Secundus
-Amphibious loading / unloading of cargo
-Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
-Upkeep / Maintenance: 66
-Build Cost: 661
-Build Resource Requirements:
-  Food: 5
-  Energy: 10
-  Metal: 8
-  Trace: 13
-  Exotica: 5
-  Chemicals: 14
-  Biochems: 24
-  Electronics: 17
-  Ceramsteel: 8
-Build Littoral Combat Ship (ISR) in Well
+  Food: 2
+  Energy: 30
+  Trace: 30
+  Exotica: 2
+  Chemicals: 30
+  Biochems: 2
+  Electronics: 5
+Build Laser-Guided Bomb in Chemical Plant
 Time to Build / Upgrade: 2
-[23370] Technologies Required to Build Unit (75):
-  [2390] Genomic Mapping (77)
-  [2820] Controlled Drug Delivery (70)
-  [4155] Computational Fluid Dynamics (81)
-  [220] Indoctrination (91)
-  [6490] Assassin (48)
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
+[6435] Technologies Required to Build Unit (83):
+  [1900] LASER (76)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2725] Naval Capital Ships (88)
 Unit can be disbanded: YES

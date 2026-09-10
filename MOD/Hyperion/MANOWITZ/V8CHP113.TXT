@@ -1,655 +1,434 @@
-All units of the unit class Holy Sp. Fighter are listed herein (15 in total):
+All units of the unit class Space Freighter are listed herein (9 in total):
 
 --1--
-Name: Holy Sp. Fighter
-Nick Name: SS-HSF
+Name: Space Freighter
+Nick Name: SS-TV
 Scores & Strengths:
-  Tech Score: 364
-  Unit Score: 364
-  Average Score: 364
-  Stat Strength: 283
-  Total Strength: 364
+  Tech Score: 342
+  Unit Score: 342
+  Average Score: 342
+  Stat Strength: 321
+  Total Strength: 342
   Planet Strength: 0
-  Space Strength: 364
+  Space Strength: 342
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 1
+  Move Points: 2
   Spot: 8
   Camouflage: 2
-  Agility: 13
-  Armor: 3
-  Psy Defense: 6
-  Rank: 714
+  Agility: 7
+  Armor: 10
+  Psy Defense: 10
+  Rank: 50
 Attacks:
-  Close Space: 7/8
-  Psychic: 5/5
-Load aboard transport: 2
-Clergy - Increases Tithe Skim and Converts Sects
+  Close Space: 3/7
+Cargo Space: 3
+Load aboard transport: 6
 Immune to Plague
-Upkeep / Maintenance: 48
-Build Cost: 403
+Upkeep / Maintenance: 17
+Build Cost: 172
 Build Resource Requirements:
-  Energy: 1
-  Metal: 8
-  Trace: 30
-  Chemicals: 23
-  Electronics: 21
-  Gems: 4
-Upgrade Clergy to Holy Sp. Fighter at Church
-Time to Build / Upgrade: 1
-[1030] Technologies Required to Build Unit (86):
-  [700] Rockets (90)
-  [330] Holy Warriors (82)
+  Food: 8
+  Energy: 8
+  Metal: 48
+  Trace: 13
+  Exotica: 8
+  Chemicals: 25
+  Electronics: 8
+Build Space Freighter in Starport
+Time to Build / Upgrade: 2
+[1170] Technologies Required to Build Unit (95):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Holy Lt Sp. Fighter
-Nick Name: SS-HLSF
+Name: Jump Freighter
+Nick Name: JJ-TV
 Scores & Strengths:
-  Tech Score: 364
-  Unit Score: 364
-  Average Score: 364
-  Stat Strength: 285
-  Total Strength: 364
+  Tech Score: 455
+  Unit Score: 465
+  Average Score: 460
+  Stat Strength: 441
+  Total Strength: 465
   Planet Strength: 0
-  Space Strength: 364
+  Space Strength: 465
   Garrison Strength: 0
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
+  Movement Type: jump
+  Move Points: 2
+  Spot: 9
   Camouflage: 2
-  Agility: 14
-  Armor: 2
-  Psy Defense: 4
-  Rank: 714
+  Agility: 8
+  Armor: 12
+  Psy Defense: 12
+  Rank: 54
 Attacks:
-  Close Space: 11/5
-  Psychic: 6/4
-Load aboard transport: 1
-Clergy - Increases Tithe Skim and Converts Sects
+  Close Space: 3/8
+Cargo Space: 3
+Load aboard transport: 6
+Space Freighter - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 43
-Build Cost: 360
+Upkeep / Maintenance: 135
+Build Cost: 1353
 Build Resource Requirements:
-  Metal: 2
-  Trace: 44
-  Chemicals: 19
-  Electronics: 30
+  Food: 9
+  Energy: 10
+  Metal: 56
+  Trace: 14
+  Exotica: 9
+  Chemicals: 34
+  Electronics: 10
   Gems: 1
-Upgrade Clergy to Holy Lt Sp. Fighter at Church
-Time to Build / Upgrade: 1
-[1030] Technologies Required to Build Unit (86):
-  [700] Rockets (90)
-  [330] Holy Warriors (82)
+  Singularities: 2
+Build Jump Freighter in Starport
+Time to Build / Upgrade: 3
+[1610] Technologies Required to Build Unit (90):
+  [230] Hospitals (97)
+  [145] Composite Armor (97)
+  [1235] Jump Rocketry (76)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Holy Hv Sp. Fighter
-Nick Name: SS-HHSF
+Name: Armored Freighter
+Nick Name: JJ-TV-AA
 Scores & Strengths:
-  Tech Score: 364
-  Unit Score: 364
-  Average Score: 364
-  Stat Strength: 293
-  Total Strength: 364
+  Tech Score: 1168
+  Unit Score: 1167
+  Average Score: 1167
+  Stat Strength: 1095
+  Total Strength: 1167
   Planet Strength: 0
-  Space Strength: 364
+  Space Strength: 1167
   Garrison Strength: 0
 Statistics:
-  Movement Type: space
-  Move Points: 1
-  Spot: 8
+  Movement Type: jump
+  Move Points: 3
+  Spot: 10
   Camouflage: 2
-  Agility: 12
-  Armor: 4
-  Psy Defense: 8
-  Rank: 713
+  Agility: 10
+  Armor: 21
+  Psy Defense: 21
+  Rank: 77
 Attacks:
-  Close Space: 5/10
-  Psychic: 3/7
-Load aboard transport: 3
-Clergy - Increases Tithe Skim and Converts Sects
+  Direct Space: 6/7
+  Close Space: 5/6
+Cargo Space: 3
+Load aboard transport: 6
+Space Freighter - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 66
-Build Cost: 584
+Upkeep / Maintenance: 275
+Build Cost: 2748
 Build Resource Requirements:
-  Energy: 4
-  Metal: 17
-  Trace: 25
-  Chemicals: 27
-  Electronics: 17
-  Gems: 10
-Upgrade Clergy to Holy Hv Sp. Fighter at Church
-Time to Build / Upgrade: 1
-[1030] Technologies Required to Build Unit (86):
-  [700] Rockets (90)
-  [330] Holy Warriors (82)
+  Food: 4
+  Energy: 3
+  Metal: 20
+  Trace: 8
+  Exotica: 4
+  Chemicals: 13
+  Electronics: 11
+  Ceramsteel: 29
+  Monopols: 42
+  Singularities: 2
+Build Armored Freighter in Starport
+Time to Build / Upgrade: 4
+[5975] Technologies Required to Build Unit (77):
+  [1690] Ceramsteel (84)
+  [4285] Jump Drives (70)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Holy Hv Sp. Fighter II
-Nick Name: SS-HHSF II
+Name: Armored Space Freighter
+Nick Name: SS-TV-AA
 Scores & Strengths:
-  Tech Score: 725
-  Unit Score: 728
-  Average Score: 727
-  Stat Strength: 548
-  Total Strength: 728
+  Tech Score: 1831
+  Unit Score: 1833
+  Average Score: 1832
+  Stat Strength: 1638
+  Total Strength: 1833
   Planet Strength: 0
-  Space Strength: 728
+  Space Strength: 1833
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 6
-  Spot: 10
-  Camouflage: 6
-  Agility: 14
-  Armor: 6
-  Psy Defense: 12
-  Rank: 737
+  Move Points: 4
+  Spot: 16
+  Camouflage: 4
+  Agility: 10
+  Armor: 25
+  Psy Defense: 25
+  Rank: 103
 Attacks:
-  Close Space: 8/12
-  Psychic: 6/14
-Load aboard transport: 3
-Clergy - Increases Tithe Skim and Converts Sects
+  Close Space: 13/15
+Cargo Space: 3
+Load aboard transport: 6
 Immune to Plague
-Upkeep / Maintenance: 87
-Build Cost: 285
+Upkeep / Maintenance: 20
+Build Cost: 203
 Build Resource Requirements:
-  Gems: 7
-Upgrade Holy Hv Sp. Fighter to Holy Hv Sp. Fighter II at Church
-Time to Build / Upgrade: 1
-[3325] Technologies Required to Build Unit (85):
-  [700] Rockets (90)
-  [1100] Omen (76)
-  [330] Holy Warriors (82)
-  [1195] Naval Warfare (90)
+  Food: 3
+  Energy: 5
+  Metal: 21
+  Trace: 8
+  Exotica: 3
+  Chemicals: 12
+  Electronics: 13
+  Ceramsteel: 22
+Build Armored Space Freighter in Starport
+Time to Build / Upgrade: 2
+[10580] Technologies Required to Build Unit (85):
+  [1690] Ceramsteel (84)
+  [8890] Space Transports (86)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Holy Lt Sp. Fighter II
-Nick Name: SS-HLSF II
+Name: Charioteer
+Nick Name: Charioteer
 Scores & Strengths:
-  Tech Score: 725
-  Unit Score: 730
-  Average Score: 728
-  Stat Strength: 508
-  Total Strength: 730
+  Tech Score: 3391
+  Unit Score: 3391
+  Average Score: 3391
+  Stat Strength: 2990
+  Total Strength: 3391
   Planet Strength: 0
-  Space Strength: 730
+  Space Strength: 3391
   Garrison Strength: 0
 Statistics:
-  Movement Type: space
-  Move Points: 6
-  Spot: 10
+  Movement Type: jump
+  Move Points: 9
+  Spot: 16
   Camouflage: 6
-  Agility: 16
-  Armor: 4
-  Psy Defense: 8
-  Rank: 741
+  Agility: 5
+  Armor: 36
+  Psy Defense: 36
+  Rank: 153
 Attacks:
-  Close Space: 14/9
-  Psychic: 12/8
-Load aboard transport: 1
-Clergy - Increases Tithe Skim and Converts Sects
+  Direct Space: 11/21
+  Close Space: 10/17
+Cargo Space: 6
+Load aboard transport: 8
+Space Freighter - Used by the League to Resupply Agoras
+Bulk Hauler - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 44
-Build Cost: 83
+Upkeep / Maintenance: 646
+Build Cost: 6455
 Build Resource Requirements:
-  Metal: 1
-  Gems: 3
-Upgrade Holy Lt Sp. Fighter to Holy Lt Sp. Fighter II at Church
-Time to Build / Upgrade: 1
-[3325] Technologies Required to Build Unit (85):
-  [700] Rockets (90)
-  [1100] Omen (76)
-  [330] Holy Warriors (82)
-  [1195] Naval Warfare (90)
+  Food: 1
+  Energy: 5
+  Metal: 15
+  Trace: 5
+  Exotica: 2
+  Chemicals: 11
+  Biochems: 17
+  Electronics: 8
+  Ceramsteel: 19
+  Monopols: 27
+  Singularities: 3
+Build Charioteer in Starport
+Time to Build / Upgrade: 3
+[21910] Technologies Required to Build Unit (78):
+  [1690] Ceramsteel (84)
+  [20220] Jump Transports (72)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Holy Sp. Fighter II
-Nick Name: SS-HSF II
+Name: League Freighter
+Nick Name: Entrepeneur
 Scores & Strengths:
-  Tech Score: 725
-  Unit Score: 732
-  Average Score: 729
-  Stat Strength: 522
-  Total Strength: 732
+  Tech Score: 3604
+  Unit Score: 3603
+  Average Score: 3604
+  Stat Strength: 3228
+  Total Strength: 3603
   Planet Strength: 0
-  Space Strength: 732
+  Space Strength: 3603
   Garrison Strength: 0
 Statistics:
-  Movement Type: space
-  Move Points: 6
-  Spot: 10
-  Camouflage: 6
-  Agility: 15
-  Armor: 5
-  Psy Defense: 10
-  Rank: 740
+  Movement Type: jump
+  Move Points: 14
+  Spot: 12
+  Camouflage: 10
+  Agility: 14
+  Armor: 36
+  Psy Defense: 36
+  Rank: 142
 Attacks:
-  Close Space: 10/11
-  Psychic: 10/10
-Load aboard transport: 2
-Clergy - Increases Tithe Skim and Converts Sects
+  Close Space: 25/15
+Cargo Space: 4
+Load aboard transport: 6
+Space Freighter - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 55
-Build Cost: 147
+Upkeep / Maintenance: 586
+Build Cost: 5859
 Build Resource Requirements:
-  Gems: 3
-Upgrade Holy Sp. Fighter to Holy Sp. Fighter II at Church
-Time to Build / Upgrade: 1
-[3325] Technologies Required to Build Unit (85):
-  [700] Rockets (90)
-  [1100] Omen (76)
-  [330] Holy Warriors (82)
-  [1195] Naval Warfare (90)
+  Food: 1
+  Energy: 3
+  Metal: 15
+  Trace: 7
+  Exotica: 2
+  Chemicals: 8
+  Biochems: 18
+  Electronics: 13
+  Ceramsteel: 19
+  Monopols: 24
+  Singularities: 4
+Build League Freighter in Starport
+Time to Build / Upgrade: 3
+[25780] Technologies Required to Build Unit (64):
+  [5560] Quantum Supremacy (56)
+  [20220] Jump Transports (72)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Holy Sp. Fighter III
-Nick Name: SS-HSF III
+Name: Cybermorph Space Freighter
+Nick Name: JJ-TV-CM
 Scores & Strengths:
-  Tech Score: 1706
-  Unit Score: 1706
-  Average Score: 1706
-  Stat Strength: 1222
-  Total Strength: 1706
+  Tech Score: 7174
+  Unit Score: 7176
+  Average Score: 7175
+  Stat Strength: 5076
+  Total Strength: 7176
   Planet Strength: 0
-  Space Strength: 1706
+  Space Strength: 7176
   Garrison Strength: 0
 Statistics:
-  Movement Type: space
-  Move Points: 12
-  Spot: 12
-  Camouflage: 8
-  Agility: 25
-  Armor: 7
-  Psy Defense: 14
-  Rank: 776
+  Movement Type: jump
+  Move Points: 25
+  Spot: 22
+  Camouflage: 14
+  Agility: 43
+  Armor: 31
+  Psy Defense: 31
+  Rank: 243
 Attacks:
-  Close Space: 21/14
-  Psychic: 19/10
-Load aboard transport: 2
-Clergy - Increases Tithe Skim and Converts Sects
+  Direct Space: 40/30
+  Close Space: 36/25
+Cargo Space: 3
+Load aboard transport: 6
+Space Freighter - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 66
-Build Cost: 512
+Upkeep / Maintenance: 1037
+Build Cost: 10374
 Build Resource Requirements:
-  Trace: 1
-  Chemicals: 1
-  Biochems: 11
-  Electronics: 6
+  Food: 2
+  Energy: 8
+  Metal: 4
+  Trace: 8
+  Exotica: 2
+  Chemicals: 13
+  Biochems: 27
+  Electronics: 20
   Ceramsteel: 7
-Upgrade Holy Sp. Fighter II to Holy Sp. Fighter III at Church
-Time to Build / Upgrade: 1
-[9400] Technologies Required to Build Unit (74):
-  [2585] Supersonics (87)
-  [330] Holy Warriors (82)
-  [1790] Sixth Sense (45)
-  [4695] Advanced Minor Watercraft (83)
+  Wetware: 16
+  Monopols: 22
+  Singularities: 5
+Cybermorph Space Freighter cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Holy Lt Sp. Fighter III
-Nick Name: SS-HLSF III
+Name: Gate Freighter
+Nick Name: GG-TV
 Scores & Strengths:
-  Tech Score: 1706
-  Unit Score: 1706
-  Average Score: 1706
-  Stat Strength: 1208
-  Total Strength: 1706
-  Planet Strength: 0
-  Space Strength: 1706
-  Garrison Strength: 0
+  Tech Score: 7473
+  Unit Score: 7256
+  Average Score: 7364
+  Stat Strength: 6227
+  Total Strength: 7256
+  Planet Strength: 6709
+  Space Strength: 6774
+  Garrison Strength: 1398
 Statistics:
-  Movement Type: space
-  Move Points: 12
-  Spot: 12
-  Camouflage: 8
-  Agility: 26
-  Armor: 6
-  Psy Defense: 12
-  Rank: 777
+  Movement Type: gate
+  Move Points: 23
+  Spot: 16
+  Camouflage: 12
+  Agility: 40
+  Armor: 43
+  Psy Defense: 43
+  Rank: 190
 Attacks:
-  Close Space: 23/14
-  Psychic: 22/8
-Load aboard transport: 1
-Clergy - Increases Tithe Skim and Converts Sects
+  Direct Space: 17/19
+  Close Space: 14/16
+  Direct: 16/17
+  Close: 14/15
+Cargo Space: 4
+Load aboard transport: 6
+Space Freighter - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 56
-Build Cost: 481
+Upkeep / Maintenance: 1103
+Build Cost: 11032
 Build Resource Requirements:
-  Energy: 1
-  Chemicals: 4
-  Biochems: 12
-  Electronics: 4
-  Ceramsteel: 5
-Upgrade Holy Lt Sp. Fighter II to Holy Lt Sp. Fighter III at Church
-Time to Build / Upgrade: 1
-[9400] Technologies Required to Build Unit (74):
-  [2585] Supersonics (87)
-  [330] Holy Warriors (82)
-  [1790] Sixth Sense (45)
-  [4695] Advanced Minor Watercraft (83)
+  Food: 2
+  Energy: 7
+  Metal: 8
+  Trace: 5
+  Exotica: 2
+  Chemicals: 13
+  Biochems: 19
+  Electronics: 13
+  Ceramsteel: 13
+  Wetware: 9
+  Monopols: 27
+  Singularities: 5
+Build Gate Freighter in Starport
+Time to Build / Upgrade: 4
+[57980] Technology Required to Build Unit (50):
+  [57980] Gate Transports (50)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Holy Hv Sp. Fighter III
-Nick Name: SS-HHSF III
+Name: Stealth Space Freighter
+Nick Name: JJ-TV-SS
 Scores & Strengths:
-  Tech Score: 1706
-  Unit Score: 1706
-  Average Score: 1706
-  Stat Strength: 1248
-  Total Strength: 1706
+  Tech Score: 7481
+  Unit Score: 7481
+  Average Score: 7481
+  Stat Strength: 5785
+  Total Strength: 7481
   Planet Strength: 0
-  Space Strength: 1706
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 12
-  Spot: 12
-  Camouflage: 8
-  Agility: 24
-  Armor: 8
-  Psy Defense: 16
-  Rank: 774
-Attacks:
-  Close Space: 19/16
-  Psychic: 14/11
-Load aboard transport: 3
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 71
-Build Cost: 422
-Build Resource Requirements:
-  Trace: 2
-  Chemicals: 2
-  Biochems: 10
-  Electronics: 6
-  Ceramsteel: 9
-Upgrade Holy Hv Sp. Fighter II to Holy Hv Sp. Fighter III at Church
-Time to Build / Upgrade: 1
-[9400] Technologies Required to Build Unit (74):
-  [2585] Supersonics (87)
-  [330] Holy Warriors (82)
-  [1790] Sixth Sense (45)
-  [4695] Advanced Minor Watercraft (83)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---10--
-Name: Sathra Hv Fighter
-Nick Name: JJ-HHSF
-Scores & Strengths:
-  Tech Score: 2544
-  Unit Score: 2572
-  Average Score: 2558
-  Stat Strength: 1891
-  Total Strength: 2572
-  Planet Strength: 0
-  Space Strength: 2572
+  Space Strength: 7481
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
-  Move Points: 15
-  Spot: 15
-  Camouflage: 10
-  Agility: 29
-  Armor: 10
-  Psy Defense: 20
-  Rank: 798
+  Move Points: 25
+  Spot: 32
+  Camouflage: 44
+  Agility: 20
+  Armor: 30
+  Psy Defense: 30
+  Rank: 252
 Attacks:
-  Close Space: 23/20
-  Psychic: 17/13
-Load aboard transport: 3
-Clergy - Increases Tithe Skim and Converts Sects
+  Direct Space: 22/43
+  Close Space: 25/30
+Cargo Space: 3
+Load aboard transport: 6
+Space Freighter - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 393
-Build Cost: 3346
+Upkeep / Maintenance: 1000
+Build Cost: 10000
 Build Resource Requirements:
-  Biochems: 10
-  Electronics: 7
-  Ceramsteel: 11
-  Singularities: 4
-Upgrade Holy Hv Sp. Fighter to Sathra Hv Fighter at Church
-Time to Build / Upgrade: 1
-[16135] Technologies Required to Build Unit (68):
-  [4920] Hypercruise (82)
-  [330] Holy Warriors (82)
-  [3590] Sathraists (26)
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---11--
-Name: Sathra Lt Fighter
-Nick Name: JJ-HLSF
-Scores & Strengths:
-  Tech Score: 2544
-  Unit Score: 2594
-  Average Score: 2569
-  Stat Strength: 1848
-  Total Strength: 2594
-  Planet Strength: 0
-  Space Strength: 2594
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 15
-  Spot: 15
-  Camouflage: 10
-  Agility: 32
-  Armor: 7
-  Psy Defense: 15
-  Rank: 801
-Attacks:
-  Close Space: 28/17
-  Psychic: 27/10
-Load aboard transport: 1
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 386
-Build Cost: 3504
-Build Resource Requirements:
-  Chemicals: 1
-  Biochems: 13
-  Electronics: 1
+  Food: 2
+  Energy: 9
+  Metal: 4
+  Trace: 11
+  Exotica: 2
+  Chemicals: 14
+  Biochems: 22
+  Electronics: 23
   Ceramsteel: 6
-  Gems: 2
-  Singularities: 4
-Upgrade Holy Lt Sp. Fighter to Sathra Lt Fighter at Church
-Time to Build / Upgrade: 1
-[16135] Technologies Required to Build Unit (68):
-  [4920] Hypercruise (82)
-  [330] Holy Warriors (82)
-  [3590] Sathraists (26)
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---12--
-Name: Sathra Fighter
-Nick Name: JJ-HSF
-Scores & Strengths:
-  Tech Score: 2544
-  Unit Score: 2599
-  Average Score: 2571
-  Stat Strength: 1881
-  Total Strength: 2599
-  Planet Strength: 0
-  Space Strength: 2599
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 15
-  Spot: 15
-  Camouflage: 10
-  Agility: 31
-  Armor: 9
-  Psy Defense: 17
-  Rank: 800
-Attacks:
-  Close Space: 26/17
-  Psychic: 23/12
-Load aboard transport: 2
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 392
-Build Cost: 3516
-Build Resource Requirements:
-  Biochems: 12
-  Electronics: 7
-  Ceramsteel: 8
-  Gems: 1
-  Singularities: 4
-Upgrade Holy Sp. Fighter to Sathra Fighter at Church
-Time to Build / Upgrade: 1
-[16135] Technologies Required to Build Unit (68):
-  [4920] Hypercruise (82)
-  [330] Holy Warriors (82)
-  [3590] Sathraists (26)
-  [7295] Nuclear-Powered Navalcraft (81)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---13--
-Name: Sathra Hv Fighter II
-Nick Name: JJ-HHSF II
-Scores & Strengths:
-  Tech Score: 4814
-  Unit Score: 4763
-  Average Score: 4789
-  Stat Strength: 3467
-  Total Strength: 4763
-  Planet Strength: 0
-  Space Strength: 4763
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 20
-  Spot: 20
-  Camouflage: 13
-  Agility: 40
-  Armor: 13
-  Psy Defense: 27
-  Rank: 846
-Attacks:
-  Close Space: 32/27
-  Psychic: 24/18
-Load aboard transport: 3
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 674
-Build Cost: 3392
-Build Resource Requirements:
-  Electronics: 2
-  Monopols: 21
-  Gems: 8
-Upgrade Sathra Hv Fighter to Sathra Hv Fighter II at Church
-Time to Build / Upgrade: 1
-[39650] Technologies Required to Build Unit (63):
-  [7610] Atmospheric Aircraft (80)
-  [330] Holy Warriors (82)
-  [3835] Sathra's Space Doctrine (17)
-  [27875] PTS Meson Navalcraft (74)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---14--
-Name: Sathra Lt Fighter II
-Nick Name: JJ-HLSF II
-Scores & Strengths:
-  Tech Score: 4814
-  Unit Score: 4822
-  Average Score: 4818
-  Stat Strength: 3405
-  Total Strength: 4822
-  Planet Strength: 0
-  Space Strength: 4822
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 20
-  Spot: 20
-  Camouflage: 13
-  Agility: 44
-  Armor: 10
-  Psy Defense: 20
-  Rank: 851
-Attacks:
-  Close Space: 39/24
-  Psychic: 37/13
-Load aboard transport: 1
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 650
-Build Cost: 2998
-Build Resource Requirements:
-  Electronics: 1
-  Monopols: 19
-  Gems: 3
-Upgrade Sathra Lt Fighter to Sathra Lt Fighter II at Church
-Time to Build / Upgrade: 1
-[39650] Technologies Required to Build Unit (63):
-  [7610] Atmospheric Aircraft (80)
-  [330] Holy Warriors (82)
-  [3835] Sathra's Space Doctrine (17)
-  [27875] PTS Meson Navalcraft (74)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---15--
-Name: Sathra Fighter II
-Nick Name: JJ-HSF II
-Scores & Strengths:
-  Tech Score: 4814
-  Unit Score: 4837
-  Average Score: 4826
-  Stat Strength: 3453
-  Total Strength: 4837
-  Planet Strength: 0
-  Space Strength: 4837
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 20
-  Spot: 20
-  Camouflage: 13
-  Agility: 42
-  Armor: 12
-  Psy Defense: 24
-  Rank: 849
-Attacks:
-  Close Space: 35/24
-  Psychic: 32/17
-Load aboard transport: 2
-Clergy - Increases Tithe Skim and Converts Sects
-Immune to Plague
-Upkeep / Maintenance: 670
-Build Cost: 3179
-Build Resource Requirements:
-  Electronics: 1
-  Monopols: 20
-  Gems: 7
-Upgrade Sathra Fighter to Sathra Fighter II at Church
-Time to Build / Upgrade: 1
-[39650] Technologies Required to Build Unit (63):
-  [7610] Atmospheric Aircraft (80)
-  [330] Holy Warriors (82)
-  [3835] Sathra's Space Doctrine (17)
-  [27875] PTS Meson Navalcraft (74)
+  Wetware: 8
+  Monopols: 22
+  Singularities: 5
+Stealth Space Freighter cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
