@@ -2,7 +2,7 @@ All units of the unit class Gunboat are listed herein (11 in total):
 
 --1--
 Name: Gunboat
-Nick Name: NN-GB
+Nick Name: NN-G
 Scores & Strengths:
   Tech Score: 167
   Unit Score: 331
@@ -94,7 +94,7 @@ Unit can be disbanded: YES
 
 --3--
 Name: Submarine Chaser
-Nick Name: NN-SC
+Nick Name: NN-C
 Scores & Strengths:
   Tech Score: 174
   Unit Score: 344
@@ -140,7 +140,7 @@ Unit can be disbanded: YES
 
 --4--
 Name: Naval Sloop
-Nick Name: NN-SL
+Nick Name: NN-S
 Scores & Strengths:
   Tech Score: 177
   Unit Score: 351
@@ -186,7 +186,7 @@ Unit can be disbanded: YES
 
 --5--
 Name: Patrol Boat
-Nick Name: NN-PB
+Nick Name: NN-P
 Scores & Strengths:
   Tech Score: 520
   Unit Score: 520
@@ -231,7 +231,7 @@ Unit can be disbanded: YES
 
 --6--
 Name: Advanced Gunboat
-Nick Name: NN-GB-2
+Nick Name: NN-G-Adv
 Scores & Strengths:
   Tech Score: 406
   Unit Score: 783
@@ -256,17 +256,13 @@ Attacks:
   Close: 6/8
 Load aboard transport: 2
 Upkeep / Maintenance: 25
-Build Cost: 251
+Build Cost: 31
 Build Resource Requirements:
-  Food: 6
-  Energy: 26
-  Metal: 80
-  Trace: 12
-  Exotica: 5
-  Chemicals: 26
+  Metal: 22
+  Chemicals: 3
   Electronics: 9
-Build Advanced Gunboat in Well
-Time to Build / Upgrade: 4
+Upgrade Gunboat to Advanced Gunboat at Well
+Time to Build / Upgrade: 1
 [1195] Technology Required to Build Unit (90):
   [1195] Naval Warfare (90)
 Counts as planetary flock: YES
@@ -320,7 +316,7 @@ Unit can be disbanded: YES
 
 --8--
 Name: Naval Cutter
-Nick Name: NN-Ctt
+Nick Name: NN-T
 Scores & Strengths:
   Tech Score: 1134
   Unit Score: 1133
@@ -366,7 +362,7 @@ Unit can be disbanded: YES
 
 --9--
 Name: Fast Attack Craft
-Nick Name: NN-Ctt-FA
+Nick Name: NN-V-FA
 Scores & Strengths:
   Tech Score: 1134
   Unit Score: 1134
@@ -412,7 +408,7 @@ Unit can be disbanded: YES
 
 --10--
 Name: Naval Missile Cutter
-Nick Name: NN-Ctt-GM
+Nick Name: NN-T-GM
 Scores & Strengths:
   Tech Score: 1339
   Unit Score: 1339
@@ -437,19 +433,14 @@ Attacks:
 Cargo Space: 1
 Load aboard transport: 3
 Upkeep / Maintenance: 28
-Build Cost: 277
 Build Resource Requirements:
-  Food: 4
-  Energy: 19
-  Metal: 10
-  Trace: 18
-  Exotica: 5
-  Chemicals: 26
-  Biochems: 8
-  Electronics: 13
-  Ceramsteel: 13
-Build Naval Missile Cutter in Well
-Time to Build / Upgrade: 3
+  Food: 1
+  Trace: 7
+  Exotica: 1
+  Electronics: 1
+  Ceramsteel: 1
+Upgrade Naval Cutter to Naval Missile Cutter at Well
+Time to Build / Upgrade: 1
 [5855] Technology Required to Build Unit (84):
   [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
@@ -457,7 +448,7 @@ Unit can be disbanded: YES
 
 --11--
 Name: Fast Attack Craft II
-Nick Name: NN-Ctt-2
+Nick Name: NN-V-FA II
 Scores & Strengths:
   Tech Score: 1579
   Unit Score: 1512
@@ -483,19 +474,13 @@ Attacks:
   Direct: 4/8
 Load aboard transport: 2
 Upkeep / Maintenance: 29
-Build Cost: 294
+Build Cost: 30
 Build Resource Requirements:
-  Food: 3
-  Energy: 20
-  Metal: 9
-  Trace: 18
-  Exotica: 4
-  Chemicals: 28
-  Biochems: 9
-  Electronics: 18
-  Ceramsteel: 11
-Build Fast Attack Craft II in Well
-Time to Build / Upgrade: 3
+  Chemicals: 2
+  Electronics: 2
+  Ceramsteel: 1
+Upgrade Fast Attack Craft to Fast Attack Craft II at Well
+Time to Build / Upgrade: 1
 [7295] Technology Required to Build Unit (81):
   [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES

@@ -110,16 +110,13 @@ Cargo Space: 2
 Load aboard transport: 3
 Can tow units that can be towed
 Upkeep / Maintenance: 5
-Build Cost: 53
+Build Cost: 24
 Build Resource Requirements:
-  Food: 9
-  Energy: 9
-  Metal: 10
-  Trace: 3
-  Exotica: 10
-  Chemicals: 11
+  Metal: 3
+  Exotica: 1
+  Chemicals: 3
   Biochems: 11
-Build Truck II in Factory
+Upgrade Truck to Truck II at Factory
 Time to Build / Upgrade: 1
 [975] Technologies Required to Build Unit (85):
   [675] Surgically-Enhanced Soldiers (75)
@@ -225,7 +222,7 @@ Unit can be disbanded: YES
 
 --6--
 Name: Amphibious Truck
-Nick Name: N-AT
+Nick Name: CC-T
 Scores & Strengths:
   Tech Score: 406
   Unit Score: 406
@@ -271,7 +268,7 @@ Unit can be disbanded: YES
 
 --7--
 Name: Amphibious Truck II
-Nick Name: N-AT2
+Nick Name: CC-T II
 Scores & Strengths:
   Tech Score: 585
   Unit Score: 578
@@ -297,18 +294,11 @@ Cargo Space: 2
 Load aboard transport: 3
 Can tow units that can be towed
 Upkeep / Maintenance: 10
-Build Cost: 95
+Build Cost: 30
 Build Resource Requirements:
-  Food: 5
-  Energy: 11
-  Metal: 19
-  Trace: 21
-  Exotica: 5
-  Chemicals: 11
   Biochems: 15
-  Electronics: 16
-Build Amphibious Truck II in Factory
-Time to Build / Upgrade: 2
+Upgrade Amphibious Truck to Amphibious Truck II at Factory
+Time to Build / Upgrade: 1
 [2240] Technologies Required to Build Unit (92):
   [300] Mechanized Warfare (95)
   [1940] Amphibious Landing Craft (89)
@@ -412,7 +402,7 @@ Scores & Strengths:
   Space Strength: 0
   Garrison Strength: 355
 Statistics:
-  Movement Type: naval
+  Movement Type: hover
   Move Points: 30
   Spot: 20
   Camouflage: 18
@@ -423,8 +413,8 @@ Statistics:
 Load aboard transport: 1
 Never Rebels
 Immune to Plague
-Upkeep / Maintenance: 189
-Build Cost: 1891
+Upkeep / Maintenance: 63
+Build Cost: 630
 Build Resource Requirements:
   Food: 12
   Energy: 13

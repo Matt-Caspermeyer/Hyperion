@@ -2,7 +2,7 @@ All units of the unit class Light Assault Helicopter are listed herein (29 in to
 
 --1--
 Name: Light Assault Helicopter
-Nick Name: A-HLA
+Nick Name: AA-HH-LA
 Scores & Strengths:
   Tech Score: 618
   Unit Score: 616
@@ -48,7 +48,7 @@ Unit can be disbanded: YES
 
 --2--
 Name: Recon. Helicopter
-Nick Name: A-HR
+Nick Name: AA-HH-R
 Scores & Strengths:
   Tech Score: 618
   Unit Score: 617
@@ -90,7 +90,7 @@ Unit can be disbanded: YES
 
 --3--
 Name: Anti-Sub. Helicopter
-Nick Name: A-HAS
+Nick Name: AA-HH-AS
 Scores & Strengths:
   Tech Score: 618
   Unit Score: 617
@@ -135,7 +135,7 @@ Unit can be disbanded: YES
 
 --4--
 Name: Command Helicopter
-Nick Name: A-HC
+Nick Name: AA-HH-C
 Scores & Strengths:
   Tech Score: 618
   Unit Score: 617
@@ -181,7 +181,7 @@ Unit can be disbanded: YES
 
 --5--
 Name: Heavy Assault Helicopter
-Nick Name: A-HHAST
+Nick Name: AA-HH-HA
 Scores & Strengths:
   Tech Score: 618
   Unit Score: 617
@@ -227,7 +227,7 @@ Unit can be disbanded: YES
 
 --6--
 Name: Heavy Attack Helicopter
-Nick Name: A-HHATT
+Nick Name: AA-HH-HK
 Scores & Strengths:
   Tech Score: 618
   Unit Score: 617
@@ -274,7 +274,7 @@ Unit can be disbanded: YES
 
 --7--
 Name: Light Attack Helicopter
-Nick Name: A-HLATT
+Nick Name: AA-HH-LK
 Scores & Strengths:
   Tech Score: 618
   Unit Score: 617
@@ -321,7 +321,7 @@ Unit can be disbanded: YES
 
 --8--
 Name: Medium Assault Helicopter
-Nick Name: A-HMAST
+Nick Name: AA-HH-MA
 Scores & Strengths:
   Tech Score: 618
   Unit Score: 617
@@ -367,7 +367,7 @@ Unit can be disbanded: YES
 
 --9--
 Name: Medium Attack Helicopter
-Nick Name: A-HMATT
+Nick Name: AA-HH-MK
 Scores & Strengths:
   Tech Score: 618
   Unit Score: 617
@@ -414,7 +414,7 @@ Unit can be disbanded: YES
 
 --10--
 Name: Recon. Helicopter II
-Nick Name: A-HR II
+Nick Name: AA-HH-R II
 Scores & Strengths:
   Tech Score: 1117
   Unit Score: 964
@@ -437,18 +437,10 @@ Load aboard transport: 2
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 5
-Build Cost: 49
 Build Resource Requirements:
-  Food: 5
-  Energy: 8
-  Metal: 26
-  Trace: 7
-  Exotica: 5
-  Chemicals: 8
   Biochems: 5
-  Electronics: 6
-Build Recon. Helicopter II in Factory
-Time to Build / Upgrade: 2
+Upgrade Recon. Helicopter to Recon. Helicopter II at Factory
+Time to Build / Upgrade: 1
 [6625] Technologies Required to Build Unit (86):
   [2090] Rotorcraft (85)
   [1810] Jet-Propulsion Aircraft (86)
@@ -459,7 +451,7 @@ Unit can be disbanded: YES
 
 --11--
 Name: Command Helicopter II
-Nick Name: A-HC II
+Nick Name: AA-HH-C II
 Scores & Strengths:
   Tech Score: 1117
   Unit Score: 1047
@@ -487,18 +479,10 @@ Officer - Provides stack combat bonuses
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 9
-Build Cost: 86
 Build Resource Requirements:
-  Food: 3
-  Energy: 15
-  Metal: 22
-  Trace: 12
-  Exotica: 3
-  Chemicals: 15
   Biochems: 4
-  Electronics: 6
-Build Command Helicopter II in Factory
-Time to Build / Upgrade: 2
+Upgrade Command Helicopter to Command Helicopter II at Factory
+Time to Build / Upgrade: 1
 [6625] Technologies Required to Build Unit (86):
   [2090] Rotorcraft (85)
   [1810] Jet-Propulsion Aircraft (86)
@@ -508,7 +492,7 @@ Unit can be disbanded: YES
 
 --12--
 Name: Anti-Sub. Helicopter II
-Nick Name: A-HAS II
+Nick Name: AA-HH-AS II
 Scores & Strengths:
   Tech Score: 1117
   Unit Score: 1094
@@ -534,18 +518,10 @@ Load aboard transport: 2
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 8
-Build Cost: 75
 Build Resource Requirements:
-  Food: 2
-  Energy: 28
-  Metal: 35
-  Trace: 6
-  Exotica: 2
-  Chemicals: 30
   Biochems: 3
-  Electronics: 5
-Build Anti-Sub. Helicopter II in Factory
-Time to Build / Upgrade: 2
+Upgrade Anti-Sub. Helicopter to Anti-Sub. Helicopter II at Factory
+Time to Build / Upgrade: 1
 [6625] Technologies Required to Build Unit (86):
   [2090] Rotorcraft (85)
   [1810] Jet-Propulsion Aircraft (86)
@@ -556,7 +532,7 @@ Unit can be disbanded: YES
 
 --13--
 Name: Assault Helicopter II
-Nick Name: A-HAST II
+Nick Name: AA-HH-A II
 Scores & Strengths:
   Tech Score: 1117
   Unit Score: 1117
@@ -605,7 +581,7 @@ Unit can be disbanded: YES
 
 --14--
 Name: Attack Helicopter II
-Nick Name: A-HATT II
+Nick Name: AA-HH-K II
 Scores & Strengths:
   Tech Score: 1117
   Unit Score: 1117
@@ -655,7 +631,7 @@ Unit can be disbanded: YES
 
 --15--
 Name: Recon. Helicopter III
-Nick Name: A-HR III
+Nick Name: AA-HH-R III
 Scores & Strengths:
   Tech Score: 1496
   Unit Score: 1271
@@ -680,17 +656,14 @@ Safely lands when running out of fuel (cannot move until recovered by a transpor
 Upkeep / Maintenance: 8
 Build Cost: 79
 Build Resource Requirements:
-  Food: 5
-  Energy: 9
-  Metal: 16
-  Trace: 7
-  Exotica: 6
-  Chemicals: 14
-  Biochems: 6
-  Electronics: 8
+  Energy: 1
+  Exotica: 1
+  Chemicals: 6
+  Biochems: 1
+  Electronics: 2
   Ceramsteel: 18
-Build Recon. Helicopter III in Factory
-Time to Build / Upgrade: 2
+Upgrade Recon. Helicopter II to Recon. Helicopter III at Factory
+Time to Build / Upgrade: 1
 [7360] Technologies Required to Build Unit (84):
   [2665] V/STOL Aircraft (85)
   [4695] Advanced Minor Watercraft (83)
@@ -700,7 +673,7 @@ Unit can be disbanded: YES
 
 --16--
 Name: Command Helicopter III
-Nick Name: A-HC III
+Nick Name: AA-HH-C III
 Scores & Strengths:
   Tech Score: 1496
   Unit Score: 1361
@@ -730,17 +703,15 @@ Safely lands when running out of fuel (cannot move until recovered by a transpor
 Upkeep / Maintenance: 13
 Build Cost: 131
 Build Resource Requirements:
-  Food: 3
-  Energy: 19
-  Metal: 12
-  Trace: 13
-  Exotica: 4
-  Chemicals: 24
-  Biochems: 5
-  Electronics: 8
+  Energy: 4
+  Trace: 1
+  Exotica: 1
+  Chemicals: 9
+  Biochems: 1
+  Electronics: 2
   Ceramsteel: 13
-Build Command Helicopter III in Factory
-Time to Build / Upgrade: 2
+Upgrade Command Helicopter II to Command Helicopter III at Factory
+Time to Build / Upgrade: 1
 [7360] Technologies Required to Build Unit (84):
   [2665] V/STOL Aircraft (85)
   [4695] Advanced Minor Watercraft (83)
@@ -749,7 +720,7 @@ Unit can be disbanded: YES
 
 --17--
 Name: Anti-Sub. Helicopter III
-Nick Name: A-HAS III
+Nick Name: AA-HH-AS III
 Scores & Strengths:
   Tech Score: 1496
   Unit Score: 1384
@@ -777,17 +748,14 @@ Safely lands when running out of fuel (cannot move until recovered by a transpor
 Upkeep / Maintenance: 12
 Build Cost: 117
 Build Resource Requirements:
-  Food: 2
-  Energy: 36
-  Metal: 18
-  Trace: 7
-  Exotica: 3
-  Chemicals: 46
-  Biochems: 3
-  Electronics: 6
+  Energy: 8
+  Trace: 1
+  Exotica: 1
+  Chemicals: 16
+  Electronics: 1
   Ceramsteel: 20
-Build Anti-Sub. Helicopter III in Factory
-Time to Build / Upgrade: 3
+Upgrade Anti-Sub. Helicopter II to Anti-Sub. Helicopter III at Factory
+Time to Build / Upgrade: 1
 [7360] Technologies Required to Build Unit (84):
   [2665] V/STOL Aircraft (85)
   [4695] Advanced Minor Watercraft (83)
@@ -797,7 +765,7 @@ Unit can be disbanded: YES
 
 --18--
 Name: Attack Helicopter III
-Nick Name: A-HATT III
+Nick Name: AA-HH-K III
 Scores & Strengths:
   Tech Score: 1496
   Unit Score: 1435
@@ -825,19 +793,16 @@ Load aboard transport: 2
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 10
-Build Cost: 103
+Build Cost: 31
 Build Resource Requirements:
-  Food: 3
-  Energy: 18
-  Metal: 10
-  Trace: 19
-  Exotica: 3
-  Chemicals: 24
-  Biochems: 8
-  Electronics: 17
+  Energy: 3
+  Trace: 2
+  Chemicals: 9
+  Biochems: 2
+  Electronics: 4
   Ceramsteel: 12
-Build Attack Helicopter III in Factory
-Time to Build / Upgrade: 2
+Upgrade Attack Helicopter II to Attack Helicopter III at Factory
+Time to Build / Upgrade: 1
 [7360] Technologies Required to Build Unit (84):
   [2665] V/STOL Aircraft (85)
   [4695] Advanced Minor Watercraft (83)
@@ -847,7 +812,7 @@ Unit can be disbanded: YES
 
 --19--
 Name: Assault Helicopter III
-Nick Name: A-HAST III
+Nick Name: AA-HH-A III
 Scores & Strengths:
   Tech Score: 1496
   Unit Score: 1442
@@ -874,19 +839,17 @@ Load aboard transport: 2
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 10
-Build Cost: 95
+Build Cost: 31
 Build Resource Requirements:
-  Food: 3
-  Energy: 18
-  Metal: 12
-  Trace: 16
-  Exotica: 4
-  Chemicals: 24
-  Biochems: 5
-  Electronics: 11
+  Energy: 3
+  Trace: 1
+  Exotica: 1
+  Chemicals: 9
+  Biochems: 1
+  Electronics: 2
   Ceramsteel: 13
-Build Assault Helicopter III in Factory
-Time to Build / Upgrade: 2
+Upgrade Assault Helicopter II to Assault Helicopter III at Factory
+Time to Build / Upgrade: 1
 [7360] Technologies Required to Build Unit (84):
   [2665] V/STOL Aircraft (85)
   [4695] Advanced Minor Watercraft (83)
@@ -896,7 +859,7 @@ Unit can be disbanded: YES
 
 --20--
 Name: Recon. Helicopter IV
-Nick Name: A-HR IV
+Nick Name: AA-HH-R IV
 Scores & Strengths:
   Tech Score: 2251
   Unit Score: 1766
@@ -919,19 +882,10 @@ Load aboard transport: 2
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 8
-Build Cost: 77
 Build Resource Requirements:
-  Food: 5
-  Energy: 8
-  Metal: 11
-  Trace: 6
-  Exotica: 5
-  Chemicals: 15
-  Biochems: 5
-  Electronics: 8
-  Ceramsteel: 16
-Build Recon. Helicopter IV in Factory
-Time to Build / Upgrade: 2
+  Chemicals: 1
+Upgrade Recon. Helicopter III to Recon. Helicopter IV at Factory
+Time to Build / Upgrade: 1
 [14125] Technologies Required to Build Unit (82):
   [4695] Advanced Minor Watercraft (83)
   [9430] Advanced V/STOL Aircraft (81)
@@ -941,7 +895,7 @@ Unit can be disbanded: YES
 
 --21--
 Name: Command Helicopter IV
-Nick Name: A-HC IV
+Nick Name: AA-HH-C IV
 Scores & Strengths:
   Tech Score: 2251
   Unit Score: 1950
@@ -969,19 +923,11 @@ Officer - Provides stack combat bonuses
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 14
-Build Cost: 137
+Build Cost: 6
 Build Resource Requirements:
-  Food: 3
-  Energy: 17
-  Metal: 9
-  Trace: 12
-  Exotica: 3
-  Chemicals: 26
-  Biochems: 4
-  Electronics: 8
-  Ceramsteel: 13
-Build Command Helicopter IV in Factory
-Time to Build / Upgrade: 2
+  Chemicals: 2
+Upgrade Command Helicopter III to Command Helicopter IV at Factory
+Time to Build / Upgrade: 1
 [14125] Technologies Required to Build Unit (82):
   [4695] Advanced Minor Watercraft (83)
   [9430] Advanced V/STOL Aircraft (81)
@@ -990,7 +936,7 @@ Unit can be disbanded: YES
 
 --22--
 Name: Anti-Sub. Helicopter IV
-Nick Name: A-HAS IV
+Nick Name: AA-HH-AS IV
 Scores & Strengths:
   Tech Score: 2251
   Unit Score: 2073
@@ -1016,19 +962,12 @@ Load aboard transport: 2
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 13
-Build Cost: 129
+Build Cost: 12
 Build Resource Requirements:
-  Food: 2
-  Energy: 34
-  Metal: 13
-  Trace: 6
-  Exotica: 2
-  Chemicals: 50
-  Biochems: 3
-  Electronics: 7
-  Ceramsteel: 19
-Build Anti-Sub. Helicopter IV in Factory
-Time to Build / Upgrade: 3
+  Chemicals: 4
+  Electronics: 1
+Upgrade Anti-Sub. Helicopter III to Anti-Sub. Helicopter IV at Factory
+Time to Build / Upgrade: 1
 [14125] Technologies Required to Build Unit (82):
   [4695] Advanced Minor Watercraft (83)
   [9430] Advanced V/STOL Aircraft (81)
@@ -1038,7 +977,7 @@ Unit can be disbanded: YES
 
 --23--
 Name: Assault Helicopter IV
-Nick Name: A-HAST IV
+Nick Name: AA-HH-A IV
 Scores & Strengths:
   Tech Score: 2251
   Unit Score: 2089
@@ -1065,19 +1004,12 @@ Load aboard transport: 2
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 10
-Build Cost: 102
+Build Cost: 71
 Build Resource Requirements:
-  Food: 3
-  Energy: 17
-  Metal: 9
-  Trace: 16
-  Exotica: 3
-  Chemicals: 26
-  Biochems: 5
-  Electronics: 12
-  Ceramsteel: 13
-Build Assault Helicopter IV in Factory
-Time to Build / Upgrade: 2
+  Chemicals: 2
+  Electronics: 1
+Upgrade Assault Helicopter III to Assault Helicopter IV at Factory
+Time to Build / Upgrade: 1
 [14125] Technologies Required to Build Unit (82):
   [4695] Advanced Minor Watercraft (83)
   [9430] Advanced V/STOL Aircraft (81)
@@ -1087,7 +1019,7 @@ Unit can be disbanded: YES
 
 --24--
 Name: Attack Helicopter IV
-Nick Name: A-HATT IV
+Nick Name: AA-HH-K IV
 Scores & Strengths:
   Tech Score: 2251
   Unit Score: 2149
@@ -1115,19 +1047,12 @@ Load aboard transport: 2
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 12
-Build Cost: 117
+Build Cost: 86
 Build Resource Requirements:
-  Food: 3
-  Energy: 18
-  Metal: 8
-  Trace: 19
-  Exotica: 3
-  Chemicals: 27
-  Biochems: 8
-  Electronics: 20
-  Ceramsteel: 11
-Build Attack Helicopter IV in Factory
-Time to Build / Upgrade: 3
+  Chemicals: 3
+  Electronics: 3
+Upgrade Attack Helicopter III to Attack Helicopter IV at Factory
+Time to Build / Upgrade: 1
 [14125] Technologies Required to Build Unit (82):
   [4695] Advanced Minor Watercraft (83)
   [9430] Advanced V/STOL Aircraft (81)
@@ -1137,7 +1062,7 @@ Unit can be disbanded: YES
 
 --25--
 Name: Recon. Helicopter V
-Nick Name: A-HR V
+Nick Name: AA-HH-R V
 Scores & Strengths:
   Tech Score: 3278
   Unit Score: 2464
@@ -1162,18 +1087,10 @@ Safely lands when running out of fuel (cannot move until recovered by a transpor
 Upkeep / Maintenance: 52
 Build Cost: 518
 Build Resource Requirements:
-  Food: 4
-  Energy: 6
-  Metal: 6
-  Trace: 5
-  Exotica: 4
-  Chemicals: 12
-  Biochems: 4
-  Electronics: 11
-  Ceramsteel: 10
+  Electronics: 3
   Monopols: 18
-Build Recon. Helicopter V in Factory
-Time to Build / Upgrade: 2
+Upgrade Recon. Helicopter IV to Recon. Helicopter V at Factory
+Time to Build / Upgrade: 1
 [21740] Technologies Required to Build Unit (81):
   [4695] Advanced Minor Watercraft (83)
   [17045] Power V/STOL Aircraft (79)
@@ -1183,7 +1100,7 @@ Unit can be disbanded: YES
 
 --26--
 Name: Command Helicopter V
-Nick Name: A-HC V
+Nick Name: AA-HH-C V
 Scores & Strengths:
   Tech Score: 3278
   Unit Score: 2859
@@ -1211,20 +1128,12 @@ Officer - Provides stack combat bonuses
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 119
-Build Cost: 1188
+Build Cost: 1182
 Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 5
-  Trace: 12
-  Exotica: 3
-  Chemicals: 21
-  Biochems: 3
-  Electronics: 11
-  Ceramsteel: 8
+  Electronics: 3
   Monopols: 26
-Build Command Helicopter V in Factory
-Time to Build / Upgrade: 3
+Upgrade Command Helicopter IV to Command Helicopter V at Factory
+Time to Build / Upgrade: 1
 [21740] Technologies Required to Build Unit (81):
   [4695] Advanced Minor Watercraft (83)
   [17045] Power V/STOL Aircraft (79)
@@ -1233,7 +1142,7 @@ Unit can be disbanded: YES
 
 --27--
 Name: Attack Helicopter V
-Nick Name: A-HATT V
+Nick Name: AA-HH-K V
 Scores & Strengths:
   Tech Score: 3278
   Unit Score: 2920
@@ -1261,20 +1170,12 @@ Load aboard transport: 2
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 77
-Build Cost: 766
+Build Cost: 680
 Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 4
-  Trace: 17
-  Exotica: 2
-  Chemicals: 20
-  Biochems: 6
-  Electronics: 22
-  Ceramsteel: 7
+  Electronics: 2
   Monopols: 25
-Build Attack Helicopter V in Factory
-Time to Build / Upgrade: 3
+Upgrade Attack Helicopter IV to Attack Helicopter V at Factory
+Time to Build / Upgrade: 1
 [21740] Technologies Required to Build Unit (81):
   [4695] Advanced Minor Watercraft (83)
   [17045] Power V/STOL Aircraft (79)
@@ -1284,7 +1185,7 @@ Unit can be disbanded: YES
 
 --28--
 Name: Anti-Sub. Helicopter V
-Nick Name: A-HAS V
+Nick Name: AA-HH-AS V
 Scores & Strengths:
   Tech Score: 3278
   Unit Score: 2955
@@ -1310,20 +1211,12 @@ Load aboard transport: 2
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 140
-Build Cost: 1400
+Build Cost: 1388
 Build Resource Requirements:
-  Food: 2
-  Energy: 26
-  Metal: 7
-  Trace: 6
-  Exotica: 2
-  Chemicals: 39
-  Biochems: 3
-  Electronics: 11
-  Ceramsteel: 11
+  Electronics: 4
   Monopols: 48
-Build Anti-Sub. Helicopter V in Factory
-Time to Build / Upgrade: 4
+Upgrade Anti-Sub. Helicopter IV to Anti-Sub. Helicopter V at Factory
+Time to Build / Upgrade: 2
 [21740] Technologies Required to Build Unit (81):
   [4695] Advanced Minor Watercraft (83)
   [17045] Power V/STOL Aircraft (79)
@@ -1333,7 +1226,7 @@ Unit can be disbanded: YES
 
 --29--
 Name: Assault Helicopter V
-Nick Name: A-HAST V
+Nick Name: AA-HH-A V
 Scores & Strengths:
   Tech Score: 3278
   Unit Score: 2992
@@ -1360,20 +1253,12 @@ Load aboard transport: 2
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 80
-Build Cost: 803
+Build Cost: 732
 Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 5
-  Trace: 15
-  Exotica: 2
-  Chemicals: 20
-  Biochems: 4
-  Electronics: 15
-  Ceramsteel: 8
+  Electronics: 3
   Monopols: 26
-Build Assault Helicopter V in Factory
-Time to Build / Upgrade: 3
+Upgrade Assault Helicopter IV to Assault Helicopter V at Factory
+Time to Build / Upgrade: 1
 [21740] Technologies Required to Build Unit (81):
   [4695] Advanced Minor Watercraft (83)
   [17045] Power V/STOL Aircraft (79)

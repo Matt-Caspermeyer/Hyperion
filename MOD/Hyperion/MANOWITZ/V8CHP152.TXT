@@ -2,7 +2,7 @@ All units of the unit class Transport Helicopter are listed herein (10 in total)
 
 --1--
 Name: Transport Helicopter
-Nick Name: A-HX
+Nick Name: AA-HH-X
 Scores & Strengths:
   Tech Score: 618
   Unit Score: 620
@@ -45,7 +45,7 @@ Unit can be disbanded: YES
 
 --2--
 Name: Cargo Helicopter
-Nick Name: A-HCC
+Nick Name: AA-HH-XX
 Scores & Strengths:
   Tech Score: 729
   Unit Score: 724
@@ -89,7 +89,7 @@ Unit can be disbanded: YES
 
 --3--
 Name: Transport Helicopter II
-Nick Name: A-HX II
+Nick Name: AA-HH-X II
 Scores & Strengths:
   Tech Score: 1117
   Unit Score: 996
@@ -113,18 +113,10 @@ Load aboard transport: 4
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 5
-Build Cost: 48
 Build Resource Requirements:
-  Food: 4
-  Energy: 6
-  Metal: 35
-  Trace: 6
-  Exotica: 4
-  Chemicals: 7
   Biochems: 4
-  Electronics: 6
-Build Transport Helicopter II in Factory
-Time to Build / Upgrade: 2
+Upgrade Transport Helicopter to Transport Helicopter II at Factory
+Time to Build / Upgrade: 1
 [6625] Technologies Required to Build Unit (86):
   [2090] Rotorcraft (85)
   [1810] Jet-Propulsion Aircraft (86)
@@ -135,7 +127,7 @@ Unit can be disbanded: YES
 
 --4--
 Name: Cargo Helicopter II
-Nick Name: A-HCC II
+Nick Name: AA-HC-XX II
 Scores & Strengths:
   Tech Score: 1146
   Unit Score: 1117
@@ -159,18 +151,10 @@ Load aboard transport: 5
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 5
-Build Cost: 48
 Build Resource Requirements:
-  Food: 3
-  Energy: 4
-  Metal: 48
-  Trace: 5
-  Exotica: 3
-  Chemicals: 5
   Biochems: 2
-  Electronics: 5
-Build Cargo Helicopter II in Factory
-Time to Build / Upgrade: 2
+Upgrade Cargo Helicopter to Cargo Helicopter II at Factory
+Time to Build / Upgrade: 1
 [8595] Technologies Required to Build Unit (87):
   [2090] Rotorcraft (85)
   [1810] Jet-Propulsion Aircraft (86)
@@ -182,7 +166,7 @@ Unit can be disbanded: YES
 
 --5--
 Name: Transport Helicopter III
-Nick Name: A-HX III
+Nick Name: AA-HH-X III
 Scores & Strengths:
   Tech Score: 1496
   Unit Score: 1265
@@ -208,17 +192,15 @@ Safely lands when running out of fuel (cannot move until recovered by a transpor
 Upkeep / Maintenance: 8
 Build Cost: 78
 Build Resource Requirements:
-  Food: 4
-  Energy: 8
-  Metal: 18
-  Trace: 7
-  Exotica: 5
-  Chemicals: 13
-  Biochems: 5
-  Electronics: 8
+  Energy: 2
+  Trace: 1
+  Exotica: 1
+  Chemicals: 6
+  Biochems: 1
+  Electronics: 2
   Ceramsteel: 20
-Build Transport Helicopter III in Factory
-Time to Build / Upgrade: 2
+Upgrade Transport Helicopter II to Transport Helicopter III at Factory
+Time to Build / Upgrade: 1
 [7360] Technologies Required to Build Unit (84):
   [2665] V/STOL Aircraft (85)
   [4695] Advanced Minor Watercraft (83)
@@ -228,7 +210,7 @@ Unit can be disbanded: YES
 
 --6--
 Name: Cargo Helicopter III
-Nick Name: A-HCC III
+Nick Name: AA-HH-XX III
 Scores & Strengths:
   Tech Score: 1522
   Unit Score: 1363
@@ -254,17 +236,13 @@ Safely lands when running out of fuel (cannot move until recovered by a transpor
 Upkeep / Maintenance: 8
 Build Cost: 82
 Build Resource Requirements:
-  Food: 3
-  Energy: 5
-  Metal: 24
-  Trace: 5
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 3
-  Electronics: 6
+  Energy: 1
+  Chemicals: 6
+  Biochems: 1
+  Electronics: 1
   Ceramsteel: 27
-Build Cargo Helicopter III in Factory
-Time to Build / Upgrade: 2
+Upgrade Cargo Helicopter II to Cargo Helicopter III at Factory
+Time to Build / Upgrade: 1
 [9330] Technologies Required to Build Unit (85):
   [1970] Cargo Handling (87)
   [2665] V/STOL Aircraft (85)
@@ -275,7 +253,7 @@ Unit can be disbanded: YES
 
 --7--
 Name: Transport Helicopter IV
-Nick Name: A-HX IV
+Nick Name: AA-HH-X IV
 Scores & Strengths:
   Tech Score: 2251
   Unit Score: 1797
@@ -299,19 +277,9 @@ Load aboard transport: 4
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 8
-Build Cost: 77
 Build Resource Requirements:
-  Food: 4
-  Energy: 7
-  Metal: 13
-  Trace: 6
-  Exotica: 4
-  Chemicals: 13
-  Biochems: 4
-  Electronics: 8
-  Ceramsteel: 19
-Build Transport Helicopter IV in Factory
-Time to Build / Upgrade: 2
+Upgrade Transport Helicopter III to Transport Helicopter IV at Factory
+Time to Build / Upgrade: 1
 [14125] Technologies Required to Build Unit (82):
   [4695] Advanced Minor Watercraft (83)
   [9430] Advanced V/STOL Aircraft (81)
@@ -321,7 +289,7 @@ Unit can be disbanded: YES
 
 --8--
 Name: Cargo Helicopter IV
-Nick Name: A-HCC IV
+Nick Name: AA-HH-XX IV
 Scores & Strengths:
   Tech Score: 2274
   Unit Score: 1992
@@ -345,19 +313,10 @@ Load aboard transport: 5
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 9
-Build Cost: 86
+Build Cost: 4
 Build Resource Requirements:
-  Food: 3
-  Energy: 5
-  Metal: 19
-  Trace: 5
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 3
-  Electronics: 6
-  Ceramsteel: 27
-Build Cargo Helicopter IV in Factory
-Time to Build / Upgrade: 2
+Upgrade Cargo Helicopter III to Cargo Helicopter IV at Factory
+Time to Build / Upgrade: 1
 [16095] Technologies Required to Build Unit (84):
   [1970] Cargo Handling (87)
   [4695] Advanced Minor Watercraft (83)
@@ -368,7 +327,7 @@ Unit can be disbanded: YES
 
 --9--
 Name: Transport Helicopter V
-Nick Name: A-HX V
+Nick Name: AA-HH-X V
 Scores & Strengths:
   Tech Score: 3278
   Unit Score: 2497
@@ -394,18 +353,10 @@ Safely lands when running out of fuel (cannot move until recovered by a transpor
 Upkeep / Maintenance: 54
 Build Cost: 537
 Build Resource Requirements:
-  Food: 3
-  Energy: 5
-  Metal: 7
-  Trace: 5
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 3
-  Electronics: 11
-  Ceramsteel: 11
+  Electronics: 3
   Monopols: 18
-Build Transport Helicopter V in Factory
-Time to Build / Upgrade: 2
+Upgrade Transport Helicopter IV to Transport Helicopter V at Factory
+Time to Build / Upgrade: 1
 [21740] Technologies Required to Build Unit (81):
   [4695] Advanced Minor Watercraft (83)
   [17045] Power V/STOL Aircraft (79)
@@ -415,7 +366,7 @@ Unit can be disbanded: YES
 
 --10--
 Name: Cargo Helicopter V
-Nick Name: A-HCC V
+Nick Name: AA-HH-XX V
 Scores & Strengths:
   Tech Score: 3298
   Unit Score: 2739
@@ -439,20 +390,12 @@ Load aboard transport: 5
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 64
-Build Cost: 643
+Build Cost: 639
 Build Resource Requirements:
-  Food: 2
-  Energy: 4
-  Metal: 10
-  Trace: 4
-  Exotica: 2
-  Chemicals: 10
-  Biochems: 2
-  Electronics: 11
-  Ceramsteel: 16
+  Electronics: 5
   Monopols: 20
-Build Cargo Helicopter V in Factory
-Time to Build / Upgrade: 3
+Upgrade Cargo Helicopter IV to Cargo Helicopter V at Factory
+Time to Build / Upgrade: 1
 [23710] Technologies Required to Build Unit (83):
   [1970] Cargo Handling (87)
   [4695] Advanced Minor Watercraft (83)

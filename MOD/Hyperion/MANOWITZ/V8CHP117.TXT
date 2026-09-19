@@ -46,7 +46,7 @@ Unit can be disbanded: YES
 
 --2--
 Name: Naval Battle-Cruiser
-Nick Name: NN-CC-BB
+Nick Name: NN-BBC
 Scores & Strengths:
   Tech Score: 224
   Unit Score: 556
@@ -94,7 +94,7 @@ Unit can be disbanded: YES
 
 --3--
 Name: Dreadnought
-Nick Name: NN-BD
+Nick Name: NN-DDD
 Scores & Strengths:
   Tech Score: 775
   Unit Score: 1546
@@ -142,7 +142,7 @@ Unit can be disbanded: YES
 
 --4--
 Name: Super Dreadnought
-Nick Name: NN-BD-SS
+Nick Name: NN-SDDD
 Scores & Strengths:
   Tech Score: 775
   Unit Score: 1546
@@ -189,7 +189,7 @@ Unit can be disbanded: YES
 
 --5--
 Name: Guid. Miss. Battle-Cruiser
-Nick Name: NN-CC-BB-GM
+Nick Name: NN-CCB-GM
 Scores & Strengths:
   Tech Score: 1339
   Unit Score: 2678
@@ -215,19 +215,14 @@ Attacks:
 Cargo Space: 2
 Load aboard transport: 6
 Upkeep / Maintenance: 75
-Build Cost: 749
+Build Cost: 182
 Build Resource Requirements:
-  Food: 3
-  Energy: 41
-  Metal: 44
-  Trace: 13
-  Exotica: 4
-  Chemicals: 60
+  Trace: 3
   Biochems: 8
   Electronics: 13
   Ceramsteel: 54
-Build Guid. Miss. Battle-Cruiser in Well
-Time to Build / Upgrade: 6
+Upgrade Naval Battle-Cruiser to Guid. Miss. Battle-Cruiser at Well
+Time to Build / Upgrade: 1
 [5855] Technology Required to Build Unit (84):
   [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
@@ -235,7 +230,7 @@ Unit can be disbanded: YES
 
 --6--
 Name: PTS Missile Battle-Cruiser
-Nick Name: NN-CC-BB-GM
+Nick Name: NN-BBC-PTS
 Scores & Strengths:
   Tech Score: 1474
   Unit Score: 3685
@@ -262,19 +257,18 @@ Attacks:
 Cargo Space: 2
 Load aboard transport: 7
 Upkeep / Maintenance: 116
-Build Cost: 1158
+Build Cost: 976
 Build Resource Requirements:
-  Food: 4
-  Energy: 56
-  Metal: 56
-  Trace: 17
-  Exotica: 4
-  Chemicals: 83
-  Biochems: 10
-  Electronics: 18
-  Ceramsteel: 70
-Build PTS Missile Battle-Cruiser in Well
-Time to Build / Upgrade: 7
+  Food: 1
+  Energy: 15
+  Metal: 12
+  Trace: 4
+  Chemicals: 23
+  Biochems: 2
+  Electronics: 5
+  Ceramsteel: 16
+Upgrade Guid. Miss. Battle-Cruiser to PTS Missile Battle-Cruiser at Well
+Time to Build / Upgrade: 3
 [6655] Technology Required to Build Unit (83):
   [6655] PTS Missile Navalcraft (83)
 Counts as planetary flock: YES
@@ -282,7 +276,7 @@ Unit can be disbanded: YES
 
 --7--
 Name: Nuclear Battle-Cruiser
-Nick Name: NN-CCN-BB
+Nick Name: NN-BBCN
 Scores & Strengths:
   Tech Score: 1579
   Unit Score: 4737
@@ -308,19 +302,16 @@ Attacks:
 Cargo Space: 2
 Load aboard transport: 6
 Upkeep / Maintenance: 167
-Build Cost: 1665
+Build Cost: 689
 Build Resource Requirements:
-  Food: 4
-  Energy: 75
-  Metal: 65
-  Trace: 19
-  Exotica: 4
-  Chemicals: 111
-  Biochems: 10
-  Electronics: 19
-  Ceramsteel: 84
-Build Nuclear Battle-Cruiser in Well
-Time to Build / Upgrade: 9
+  Energy: 19
+  Metal: 9
+  Trace: 2
+  Chemicals: 28
+  Electronics: 1
+  Ceramsteel: 14
+Upgrade PTS Missile Battle-Cruiser to Nuclear Battle-Cruiser at Well
+Time to Build / Upgrade: 1
 [7295] Technology Required to Build Unit (81):
   [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES

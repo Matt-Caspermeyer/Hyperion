@@ -2,7 +2,7 @@ All units of the unit class Amphibious Heavy Tank are listed herein (6 in total)
 
 --1--
 Name: Amphibious Heavy Tank
-Nick Name: N-ATH
+Nick Name: CC-T-H
 Scores & Strengths:
   Tech Score: 410
   Unit Score: 409
@@ -49,7 +49,7 @@ Unit can be disbanded: YES
 
 --2--
 Name: Amphibious Light Tank
-Nick Name: N-ATL
+Nick Name: CC-T-L
 Scores & Strengths:
   Tech Score: 410
   Unit Score: 409
@@ -96,7 +96,7 @@ Unit can be disbanded: YES
 
 --3--
 Name: Amphibious Medium Tank
-Nick Name: N-ATM
+Nick Name: CC-T-M
 Scores & Strengths:
   Tech Score: 410
   Unit Score: 409
@@ -143,7 +143,7 @@ Unit can be disbanded: YES
 
 --4--
 Name: Amphibious Medium Tank II
-Nick Name: N-ATM2
+Nick Name: CC-T-M II
 Scores & Strengths:
   Tech Score: 585
   Unit Score: 564
@@ -168,18 +168,13 @@ Attacks:
   Close: 5/5
 Load aboard transport: 2
 Upkeep / Maintenance: 5
-Build Cost: 49
 Build Resource Requirements:
-  Food: 3
-  Energy: 11
-  Metal: 28
-  Trace: 11
-  Exotica: 3
-  Chemicals: 11
+  Energy: 8
+  Metal: 9
+  Chemicals: 7
   Biochems: 5
-  Electronics: 6
-Build Amphibious Medium Tank II in Factory
-Time to Build / Upgrade: 2
+Upgrade Space Scout Rocket to Amphibious Medium Tank II at Factory
+Time to Build / Upgrade: 1
 [2290] Technologies Required to Build Unit (92):
   [350] Tanks (95)
   [1940] Amphibious Landing Craft (89)
@@ -189,7 +184,7 @@ Unit can be disbanded: YES
 
 --5--
 Name: Amphibious Heavy Tank II
-Nick Name: N-ATH2
+Nick Name: CC-T-H II
 Scores & Strengths:
   Tech Score: 585
   Unit Score: 573
@@ -214,18 +209,12 @@ Attacks:
   Close: 4/6
 Load aboard transport: 3
 Upkeep / Maintenance: 5
-Build Cost: 46
 Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 32
-  Trace: 8
-  Exotica: 2
-  Chemicals: 13
+  Energy: 10
+  Chemicals: 9
   Biochems: 4
-  Electronics: 4
-Build Amphibious Heavy Tank II in Factory
-Time to Build / Upgrade: 2
+Upgrade Space Capsule to Amphibious Heavy Tank II at Factory
+Time to Build / Upgrade: 1
 [2290] Technologies Required to Build Unit (92):
   [350] Tanks (95)
   [1940] Amphibious Landing Craft (89)
@@ -235,7 +224,7 @@ Unit can be disbanded: YES
 
 --6--
 Name: Amphibious Light Tank II
-Nick Name: N-ATL2
+Nick Name: CC-T-L II
 Scores & Strengths:
   Tech Score: 585
   Unit Score: 576
@@ -260,18 +249,11 @@ Attacks:
   Close: 8/4
 Load aboard transport: 1
 Upkeep / Maintenance: 6
-Build Cost: 63
+Build Cost: 25
 Build Resource Requirements:
-  Food: 3
-  Energy: 10
-  Metal: 23
-  Trace: 20
-  Exotica: 3
-  Chemicals: 11
   Biochems: 9
-  Electronics: 10
-Build Amphibious Light Tank II in Factory
-Time to Build / Upgrade: 2
+Upgrade Space Rocket to Amphibious Light Tank II at Factory
+Time to Build / Upgrade: 1
 [2290] Technologies Required to Build Unit (92):
   [350] Tanks (95)
   [1940] Amphibious Landing Craft (89)

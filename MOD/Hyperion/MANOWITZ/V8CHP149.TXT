@@ -2,7 +2,7 @@ All units of the unit class Dread-Battlestar are listed herein (10 in total):
 
 --1--
 Name: Dread-Battlestar
-Nick Name: SS-BB-DD
+Nick Name: SS-DBB
 Scores & Strengths:
   Tech Score: 395
   Unit Score: 591
@@ -52,7 +52,7 @@ Unit can be disbanded: YES
 
 --2--
 Name: Jump Dread-Battlestar
-Nick Name: JJ-BB-DS
+Nick Name: JJ-DBB
 Scores & Strengths:
   Tech Score: 480
   Unit Score: 687
@@ -79,18 +79,16 @@ Load aboard transport: 7
 Officer - Provides stack combat bonuses
 Immune to Plague
 Upkeep / Maintenance: 214
-Build Cost: 2136
+Build Cost: 1336
 Build Resource Requirements:
-  Food: 5
-  Energy: 119
-  Metal: 61
-  Trace: 11
-  Exotica: 4
-  Chemicals: 160
-  Electronics: 7
+  Energy: 22
+  Metal: 1
+  Trace: 1
+  Chemicals: 28
+  Electronics: 1
   Singularities: 1
-Build Jump Dread-Battlestar in Starport
-Time to Build / Upgrade: 5
+Upgrade Dread-Battlestar to Jump Dread-Battlestar at Starport
+Time to Build / Upgrade: 1
 [1970] Technologies Required to Build Unit (93):
   [230] Hospitals (97)
   [145] Composite Armor (97)
@@ -103,7 +101,7 @@ Unit can be disbanded: YES
 
 --3--
 Name: Dreadstar
-Nick Name: SS-BB-DS
+Nick Name: SS-DDD
 Scores & Strengths:
   Tech Score: 2916
   Unit Score: 2916
@@ -151,7 +149,7 @@ Unit can be disbanded: YES
 
 --4--
 Name: Super Dreadstar
-Nick Name: SS-BB-DS-SS
+Nick Name: SS-SDDD
 Scores & Strengths:
   Tech Score: 2916
   Unit Score: 2916
@@ -199,7 +197,7 @@ Unit can be disbanded: YES
 
 --5--
 Name: Jump Super Dreadstar
-Nick Name: JJ-DS-SS
+Nick Name: JJ-SDDD
 Scores & Strengths:
   Tech Score: 4184
   Unit Score: 4202
@@ -226,21 +224,11 @@ Load aboard transport: 8
 Officer - Provides stack combat bonuses
 Immune to Plague
 Upkeep / Maintenance: 1004
-Build Cost: 10037
+Build Cost: 3864
 Build Resource Requirements:
-  Food: 1
-  Energy: 18
-  Metal: 16
-  Trace: 2
-  Exotica: 1
-  Chemicals: 31
-  Biochems: 22
-  Electronics: 3
-  Ceramsteel: 19
-  Monopols: 53
   Singularities: 4
-Build Jump Super Dreadstar in Starport
-Time to Build / Upgrade: 4
+Upgrade Super Dreadstar to Jump Super Dreadstar at Starport
+Time to Build / Upgrade: 1
 [36320] Technologies Required to Build Unit (72):
   [16530] Space Capital Ships (80)
   [4285] Jump Drives (70)
@@ -250,7 +238,7 @@ Unit can be disbanded: YES
 
 --6--
 Name: Jump Dreadstar
-Nick Name: JJ-BB-DS
+Nick Name: JJ-DDD
 Scores & Strengths:
   Tech Score: 4184
   Unit Score: 4205
@@ -277,21 +265,11 @@ Load aboard transport: 8
 Officer - Provides stack combat bonuses
 Immune to Plague
 Upkeep / Maintenance: 945
-Build Cost: 9453
+Build Cost: 3712
 Build Resource Requirements:
-  Food: 1
-  Energy: 19
-  Metal: 15
-  Trace: 2
-  Exotica: 1
-  Chemicals: 32
-  Biochems: 22
-  Electronics: 3
-  Ceramsteel: 18
-  Monopols: 54
   Singularities: 4
-Build Jump Dreadstar in Starport
-Time to Build / Upgrade: 4
+Upgrade Dreadstar to Jump Dreadstar at Starport
+Time to Build / Upgrade: 1
 [36320] Technologies Required to Build Unit (72):
   [4285] Jump Drives (70)
   [15505] Meson Cannon (65)
@@ -301,7 +279,7 @@ Unit can be disbanded: YES
 
 --7--
 Name: Jump (Cadiz) Dreadstar
-Nick Name: JJ-BB-DS2
+Nick Name: JJ-DDDC
 Scores & Strengths:
   Tech Score: 5828
   Unit Score: 5418
@@ -329,21 +307,11 @@ Load aboard transport: 8
 Officer - Provides stack combat bonuses
 Immune to Plague
 Upkeep / Maintenance: 938
-Build Cost: 9380
+Build Cost: 5668
 Build Resource Requirements:
-  Food: 1
-  Energy: 6
-  Metal: 9
-  Trace: 2
-  Exotica: 1
-  Chemicals: 14
-  Biochems: 11
-  Electronics: 9
-  Ceramsteel: 15
-  Monopols: 28
-  Singularities: 4
-Build Jump (Cadiz) Dreadstar in Starport
-Time to Build / Upgrade: 3
+  Electronics: 6
+Upgrade Jump Dreadstar to Jump (Cadiz) Dreadstar at Starport
+Time to Build / Upgrade: 1
 [65575] Technologies Required to Build Unit (58):
   [26210] PTS Beam Cannon (54)
   [39365] Jump Capital Ships (61)
@@ -383,20 +351,14 @@ Load aboard transport: 8
 Officer - Provides stack combat bonuses
 Immune to Plague
 Upkeep / Maintenance: 1391
-Build Cost: 13908
+Build Cost: 10196
 Build Resource Requirements:
-  Energy: 14
-  Metal: 11
-  Trace: 2
-  Chemicals: 25
-  Biochems: 24
-  Electronics: 8
-  Ceramsteel: 19
+  Biochems: 2
+  Electronics: 5
+  Ceramsteel: 1
   Wetware: 3
-  Monopols: 49
-  Singularities: 4
-Build Gate Dreadstar in Starport
-Time to Build / Upgrade: 4
+Upgrade Jump Dreadstar to Gate Dreadstar at Starport
+Time to Build / Upgrade: 1
 [60695] Technology Required to Build Unit (53):
   [60695] Gate Capital Ships (53)
 Counts as planetary flock: YES
@@ -404,7 +366,7 @@ Unit can be disbanded: YES
 
 --9--
 Name: Cybermorph Cadiz Dreadstar
-Nick Name: JJ-DS-CD-CM
+Nick Name: JJ-DDDC-CM
 Scores & Strengths:
   Tech Score: 8200
   Unit Score: 8200
@@ -432,27 +394,23 @@ Load aboard transport: 8
 Officer - Provides stack combat bonuses
 Immune to Plague
 Upkeep / Maintenance: 1418
-Build Cost: 14175
+Build Cost: 8507
 Build Resource Requirements:
-  Food: 1
-  Energy: 9
-  Metal: 7
-  Trace: 3
-  Exotica: 2
-  Chemicals: 15
-  Biochems: 21
-  Electronics: 10
-  Ceramsteel: 10
+  Energy: 3
+  Trace: 1
+  Exotica: 1
+  Chemicals: 1
+  Biochems: 10
+  Electronics: 1
   Wetware: 5
-  Monopols: 27
-  Singularities: 5
+  Singularities: 1
 Cybermorph Cadiz Dreadstar cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --10--
 Name: Cloaking Cadiz Dreadstar
-Nick Name: JJ-DS-CD-CL
+Nick Name: JJ-DDDC-CL
 Scores & Strengths:
   Tech Score: 8498
   Unit Score: 8507
@@ -480,21 +438,15 @@ Load aboard transport: 8
 Officer - Provides stack combat bonuses
 Immune to Plague
 Upkeep / Maintenance: 1314
-Build Cost: 13139
+Build Cost: 7471
 Build Resource Requirements:
-  Energy: 8
-  Metal: 6
-  Trace: 7
-  Exotica: 1
-  Chemicals: 14
-  Biochems: 19
-  Electronics: 17
-  Ceramsteel: 10
+  Energy: 2
+  Trace: 5
+  Biochems: 8
+  Electronics: 8
   Wetware: 4
-  Monopols: 25
-  Singularities: 4
-Build Cloaking Cadiz Dreadstar in Starport
-Time to Build / Upgrade: 4
+Upgrade Jump (Cadiz) Dreadstar to Cloaking Cadiz Dreadstar at Starport
+Time to Build / Upgrade: 1
 [98845] Technologies Required to Build Unit (63):
   [59480] Cloaked Capital Ships (64)
   [39365] Jump Capital Ships (61)

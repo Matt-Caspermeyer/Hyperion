@@ -1,8 +1,8 @@
-All units of the unit class Space Raider are listed herein (11 in total):
+All units of the unit class Space Raider are listed herein (12 in total):
 
 --1--
 Name: Space Raider
-Nick Name: SS-RR
+Nick Name: SS-R
 Scores & Strengths:
   Tech Score: 309
   Unit Score: 308
@@ -49,7 +49,7 @@ Unit can be disbanded: YES
 
 --2--
 Name: Space Raider Carrier
-Nick Name: SS-RR-CV
+Nick Name: SS-RCV
 Scores & Strengths:
   Tech Score: 309
   Unit Score: 309
@@ -98,7 +98,7 @@ Unit can be disbanded: YES
 
 --3--
 Name: Space Scout
-Nick Name: SS-RR-Sc
+Nick Name: SS-Scout
 Scores & Strengths:
   Tech Score: 309
   Unit Score: 309
@@ -141,7 +141,7 @@ Unit can be disbanded: YES
 
 --4--
 Name: Jump Raider Carrier
-Nick Name: JJ-RR-CV
+Nick Name: JJ-RCV
 Scores & Strengths:
   Tech Score: 425
   Unit Score: 406
@@ -171,19 +171,17 @@ Officer - Provides stack combat bonuses
 Deploys space units during space attacks
 Immune to Plague
 Upkeep / Maintenance: 377
-Build Cost: 3768
+Build Cost: 2977
 Build Resource Requirements:
-  Food: 7
-  Energy: 23
-  Metal: 40
-  Trace: 28
-  Exotica: 7
-  Chemicals: 47
-  Electronics: 22
+  Energy: 6
+  Trace: 4
+  Exotica: 1
+  Chemicals: 11
+  Electronics: 6
   Gems: 1
   Singularities: 1
-Build Jump Raider Carrier in Starport
-Time to Build / Upgrade: 3
+Upgrade Space Raider Carrier to Jump Raider Carrier at Starport
+Time to Build / Upgrade: 1
 [1380] Technologies Required to Build Unit (87):
   [145] Composite Armor (97)
   [1235] Jump Rocketry (76)
@@ -192,7 +190,7 @@ Unit can be disbanded: YES
 
 --5--
 Name: Jump Raider
-Nick Name: JJ-RR
+Nick Name: JJ-R
 Scores & Strengths:
   Tech Score: 425
   Unit Score: 410
@@ -220,19 +218,18 @@ Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 Immune to Plague
 Upkeep / Maintenance: 161
-Build Cost: 1613
+Build Cost: 1239
 Build Resource Requirements:
-  Food: 11
-  Energy: 20
-  Metal: 24
-  Trace: 41
-  Exotica: 11
-  Chemicals: 37
-  Electronics: 33
+  Food: 1
+  Energy: 6
+  Trace: 6
+  Exotica: 1
+  Chemicals: 10
+  Electronics: 10
   Gems: 1
   Singularities: 1
-Build Jump Raider in Starport
-Time to Build / Upgrade: 3
+Upgrade Space Raider to Jump Raider at Starport
+Time to Build / Upgrade: 1
 [1380] Technologies Required to Build Unit (87):
   [145] Composite Armor (97)
   [1235] Jump Rocketry (76)
@@ -241,7 +238,7 @@ Unit can be disbanded: YES
 
 --6--
 Name: Jump Fusion Raider
-Nick Name: JJ-RR-FF
+Nick Name: JJ-RF
 Scores & Strengths:
   Tech Score: 1933
   Unit Score: 1576
@@ -269,19 +266,12 @@ Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 Immune to Plague
 Upkeep / Maintenance: 483
-Build Cost: 4827
+Build Cost: 3588
 Build Resource Requirements:
-  Food: 3
-  Energy: 8
-  Metal: 5
-  Trace: 16
-  Exotica: 3
-  Chemicals: 12
-  Electronics: 27
   Monopols: 29
-  Singularities: 2
-Build Jump Fusion Raider in Starport
-Time to Build / Upgrade: 3
+  Singularities: 1
+Upgrade Jump Raider to Jump Fusion Raider at Starport
+Time to Build / Upgrade: 1
 [12900] Technologies Required to Build Unit (67):
   [8615] Fusion Beam (63)
   [4285] Jump Drives (70)
@@ -339,7 +329,7 @@ Unit can be disbanded: YES
 
 --8--
 Name: 3rd-Republic Star Raider
-Nick Name: Charioteer
+Nick Name: Star Raider
 Scores & Strengths:
   Tech Score: 7728
   Unit Score: 6284
@@ -367,22 +357,15 @@ Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 Immune to Plague
 Upkeep / Maintenance: 1375
-Build Cost: 13751
+Build Cost: 10163
 Build Resource Requirements:
-  Food: 1
-  Energy: 8
-  Metal: 3
-  Trace: 9
-  Exotica: 1
-  Chemicals: 13
+  Chemicals: 1
   Biochems: 15
-  Electronics: 19
   Ceramsteel: 5
   Wetware: 2
-  Monopols: 20
-  Singularities: 5
-Build 3rd-Republic Star Raider in Starport
-Time to Build / Upgrade: 3
+  Singularities: 3
+Upgrade Jump Fusion Raider to 3rd-Republic Star Raider at Starport
+Time to Build / Upgrade: 1
 [86030] Technologies Required to Build Unit (62):
   [58065] Cloaked Escortcraft (48)
   [27965] Jump Escorts (75)
@@ -391,7 +374,7 @@ Unit can be disbanded: YES
 
 --9--
 Name: Jump Stealth Ship
-Nick Name: JJ-RR-SS
+Nick Name: JJ-R-SS
 Scores & Strengths:
   Tech Score: 7481
   Unit Score: 7133
@@ -419,22 +402,16 @@ Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 Immune to Plague
 Upkeep / Maintenance: 1551
-Build Cost: 15510
+Build Cost: 11922
 Build Resource Requirements:
-  Food: 1
-  Energy: 8
-  Metal: 7
-  Trace: 7
-  Exotica: 1
-  Chemicals: 13
+  Metal: 2
+  Chemicals: 1
   Biochems: 21
-  Electronics: 18
   Ceramsteel: 11
   Wetware: 5
-  Monopols: 26
-  Singularities: 5
-Build Jump Stealth Ship in Starport
-Time to Build / Upgrade: 4
+  Singularities: 3
+Upgrade Jump Fusion Raider to Jump Stealth Ship at Starport
+Time to Build / Upgrade: 1
 [58065] Technology Required to Build Unit (48):
   [58065] Cloaked Escortcraft (48)
 Counts as planetary flock: YES
@@ -442,7 +419,7 @@ Unit can be disbanded: YES
 
 --10--
 Name: Cybermorph Raider
-Nick Name: JJ-RR-CM
+Nick Name: JJ-R-CM
 Scores & Strengths:
   Tech Score: 7174
   Unit Score: 7174
@@ -470,27 +447,21 @@ Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 Immune to Plague
 Upkeep / Maintenance: 1558
-Build Cost: 15577
+Build Cost: 11989
 Build Resource Requirements:
-  Food: 2
-  Energy: 9
-  Metal: 3
-  Trace: 9
-  Exotica: 2
-  Chemicals: 13
+  Energy: 1
+  Chemicals: 1
   Biochems: 24
-  Electronics: 20
   Ceramsteel: 5
   Wetware: 15
-  Monopols: 22
-  Singularities: 5
+  Singularities: 3
 Cybermorph Raider cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --11--
 Name: Stealth Space Raider
-Nick Name: SS-RR-SS
+Nick Name: SS-R-SS
 Scores & Strengths:
   Tech Score: 7207
   Unit Score: 7207
@@ -518,19 +489,54 @@ Duels High-Ranking (>=666) Units During Combat
 Can attack on Byzantium Secundus
 Immune to Plague
 Upkeep / Maintenance: 592
-Build Cost: 5916
+Build Cost: 5542
 Build Resource Requirements:
-  Food: 2
-  Energy: 7
-  Metal: 3
-  Trace: 23
-  Exotica: 2
-  Chemicals: 11
   Biochems: 19
-  Electronics: 38
+  Electronics: 15
   Ceramsteel: 4
   Wetware: 10
   Monopols: 16
 Stealth Space Raider cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Stealth Jump Raider
+Nick Name: JJ-R-SS
+Scores & Strengths:
+  Tech Score: 7457
+  Unit Score: 7336
+  Average Score: 7396
+  Stat Strength: 5676
+  Total Strength: 7336
+  Planet Strength: 0
+  Space Strength: 7336
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 21
+  Spot: 30
+  Camouflage: 51
+  Agility: 22
+  Armor: 25
+  Psy Defense: 25
+  Rank: 914
+Attacks:
+  Ranged Space: 28/37
+  Close Space: 24/26
+Cargo Space: 1
+Load aboard transport: 3
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 1445
+Build Cost: 8903
+Build Resource Requirements:
+  Singularities: 5
+Upgrade Stealth Space Raider to Stealth Jump Raider at Starport
+Time to Build / Upgrade: 1
+[83215] Technologies Required to Build Unit (55):
+  [55250] Neumonic Patrolcraft (34)
+  [27965] Jump Escorts (75)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

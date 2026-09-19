@@ -77,18 +77,15 @@ Cargo Space: 1
 Load aboard transport: 8
 Immune to Plague
 Upkeep / Maintenance: 96
-Build Cost: 959
+Build Cost: 754
 Build Resource Requirements:
-  Food: 5
-  Energy: 32
-  Metal: 50
-  Trace: 9
-  Exotica: 5
-  Chemicals: 57
-  Electronics: 7
+  Energy: 5
+  Metal: 1
+  Chemicals: 9
+  Electronics: 1
   Singularities: 1
-Build Jump Monitor in Starport
-Time to Build / Upgrade: 3
+Upgrade Space Monitor to Jump Monitor at Starport
+Time to Build / Upgrade: 1
 [1710] Technologies Required to Build Unit (93):
   [230] Hospitals (97)
   [145] Composite Armor (97)
@@ -174,18 +171,16 @@ Cargo Space: 2
 Load aboard transport: 7
 Immune to Plague
 Upkeep / Maintenance: 122
-Build Cost: 1224
+Build Cost: 806
 Build Resource Requirements:
-  Food: 5
-  Energy: 98
-  Metal: 53
-  Trace: 14
-  Exotica: 4
-  Chemicals: 134
-  Electronics: 10
+  Energy: 19
+  Metal: 1
+  Trace: 1
+  Chemicals: 26
+  Electronics: 2
   Singularities: 1
-Build Jump Battlestar in Starport
-Time to Build / Upgrade: 5
+Upgrade Battlestar to Jump Battlestar at Starport
+Time to Build / Upgrade: 1
 [1940] Technologies Required to Build Unit (93):
   [230] Hospitals (97)
   [145] Composite Armor (97)
@@ -198,7 +193,7 @@ Unit can be disbanded: YES
 
 --5--
 Name: Fast Battlestar
-Nick Name: SS-BB-F
+Nick Name: SS-BBF
 Scores & Strengths:
   Tech Score: 2916
   Unit Score: 2916
@@ -245,7 +240,7 @@ Unit can be disbanded: YES
 
 --6--
 Name: Pocket Battlestar
-Nick Name: SS-BB-PP
+Nick Name: SS-BBP
 Scores & Strengths:
   Tech Score: 2916
   Unit Score: 2917
@@ -292,7 +287,7 @@ Unit can be disbanded: YES
 
 --7--
 Name: Jump Pocket Battlestar
-Nick Name: JJ-BB-PP
+Nick Name: JJ-BBP
 Scores & Strengths:
   Tech Score: 5589
   Unit Score: 5419
@@ -318,21 +313,17 @@ Cargo Space: 2
 Load aboard transport: 6
 Immune to Plague
 Upkeep / Maintenance: 817
-Build Cost: 8172
+Build Cost: 4697
 Build Resource Requirements:
-  Food: 1
-  Energy: 23
-  Metal: 13
-  Trace: 2
-  Exotica: 1
-  Chemicals: 40
-  Biochems: 25
-  Electronics: 10
-  Ceramsteel: 19
-  Monopols: 64
+  Energy: 3
+  Chemicals: 7
+  Biochems: 1
+  Electronics: 5
+  Ceramsteel: 2
+  Monopols: 15
   Singularities: 4
-Build Jump Pocket Battlestar in Starport
-Time to Build / Upgrade: 5
+Upgrade Pocket Battlestar to Jump Pocket Battlestar at Starport
+Time to Build / Upgrade: 1
 [39365] Technology Required to Build Unit (61):
   [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
@@ -340,7 +331,7 @@ Unit can be disbanded: YES
 
 --8--
 Name: Jump Fast Battlestar
-Nick Name: JJ-BB-F
+Nick Name: JJ-BBF
 Scores & Strengths:
   Tech Score: 5589
   Unit Score: 5483
@@ -366,21 +357,17 @@ Cargo Space: 2
 Load aboard transport: 7
 Immune to Plague
 Upkeep / Maintenance: 828
-Build Cost: 8277
+Build Cost: 5258
 Build Resource Requirements:
-  Food: 1
-  Energy: 19
-  Metal: 12
-  Trace: 3
-  Exotica: 2
-  Chemicals: 34
-  Biochems: 23
-  Electronics: 11
-  Ceramsteel: 18
-  Monopols: 56
+  Energy: 2
+  Chemicals: 6
+  Biochems: 1
+  Electronics: 5
+  Ceramsteel: 2
+  Monopols: 14
   Singularities: 5
-Build Jump Fast Battlestar in Starport
-Time to Build / Upgrade: 5
+Upgrade Fast Battlestar to Jump Fast Battlestar at Starport
+Time to Build / Upgrade: 1
 [39365] Technology Required to Build Unit (61):
   [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
@@ -416,20 +403,14 @@ Cargo Space: 2
 Load aboard transport: 7
 Immune to Plague
 Upkeep / Maintenance: 1060
-Build Cost: 10595
+Build Cost: 9789
 Build Resource Requirements:
-  Food: 2
-  Energy: 9
-  Metal: 9
-  Trace: 5
-  Exotica: 2
-  Chemicals: 17
   Biochems: 22
-  Electronics: 11
+  Electronics: 1
   Ceramsteel: 15
   Wetware: 6
   Monopols: 34
-  Singularities: 6
+  Singularities: 5
 Gate Battlestar cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES

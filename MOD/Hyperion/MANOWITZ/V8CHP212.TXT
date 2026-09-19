@@ -1,4 +1,4 @@
-All units of the unit class Space Frigate are listed herein (11 in total):
+All units of the unit class Space Frigate are listed herein (12 in total):
 
 --1--
 Name: Space Frigate
@@ -74,21 +74,12 @@ Cargo Space: 1
 Load aboard transport: 4
 Immune to Plague
 Upkeep / Maintenance: 532
-Build Cost: 5323
+Build Cost: 4910
 Build Resource Requirements:
-  Food: 3
-  Energy: 15
-  Metal: 12
-  Trace: 12
-  Exotica: 3
-  Chemicals: 24
-  Biochems: 20
-  Electronics: 19
-  Ceramsteel: 13
   Monopols: 33
   Singularities: 5
-Build Jump Frigate in Starport
-Time to Build / Upgrade: 4
+Upgrade Space Frigate to Jump Frigate at Starport
+Time to Build / Upgrade: 1
 [25805] Technologies Required to Build Unit (73):
   [4285] Jump Drives (70)
   [7475] Cold Fusion Cells (66)
@@ -98,7 +89,7 @@ Unit can be disbanded: YES
 
 --3--
 Name: Fusion Space Frigate
-Nick Name: SS-FF-FF
+Nick Name: SS-FFF
 Scores & Strengths:
   Tech Score: 3347
   Unit Score: 3343
@@ -124,20 +115,11 @@ Cargo Space: 1
 Load aboard transport: 4
 Immune to Plague
 Upkeep / Maintenance: 257
-Build Cost: 2570
+Build Cost: 2157
 Build Resource Requirements:
-  Food: 3
-  Energy: 17
-  Metal: 13
-  Trace: 13
-  Exotica: 3
-  Chemicals: 28
-  Biochems: 22
-  Electronics: 20
-  Ceramsteel: 14
   Monopols: 35
-Build Fusion Space Frigate in Starport
-Time to Build / Upgrade: 4
+Upgrade Space Frigate to Fusion Space Frigate at Starport
+Time to Build / Upgrade: 1
 [22660] Technologies Required to Build Unit (74):
   [8615] Fusion Beam (63)
   [14045] Space Escorts (84)
@@ -146,7 +128,7 @@ Unit can be disbanded: YES
 
 --4--
 Name: Jump Frigate II
-Nick Name: JJ-FF-2
+Nick Name: JJ-FF II
 Scores & Strengths:
   Tech Score: 4325
   Unit Score: 4124
@@ -172,21 +154,13 @@ Cargo Space: 1
 Load aboard transport: 4
 Immune to Plague
 Upkeep / Maintenance: 617
-Build Cost: 6170
+Build Cost: 1260
 Build Resource Requirements:
-  Food: 2
-  Energy: 13
-  Metal: 7
-  Trace: 13
-  Exotica: 3
-  Chemicals: 22
-  Biochems: 25
-  Electronics: 26
-  Ceramsteel: 10
-  Monopols: 32
-  Singularities: 5
-Build Jump Frigate II in Starport
-Time to Build / Upgrade: 4
+  Trace: 1
+  Biochems: 5
+  Electronics: 7
+Upgrade Jump Frigate to Jump Frigate II at Starport
+Time to Build / Upgrade: 1
 [27965] Technology Required to Build Unit (75):
   [27965] Jump Escorts (75)
 Counts as planetary flock: YES
@@ -194,7 +168,7 @@ Unit can be disbanded: YES
 
 --5--
 Name: Cybermorph Space Frigate
-Nick Name: JJ-FF-CM
+Nick Name: SS-FF-CM
 Scores & Strengths:
   Tech Score: 7174
   Unit Score: 6816
@@ -205,7 +179,7 @@ Scores & Strengths:
   Space Strength: 6816
   Garrison Strength: 0
 Statistics:
-  Movement Type: jump
+  Movement Type: space
   Move Points: 28
   Spot: 22
   Camouflage: 16
@@ -219,28 +193,56 @@ Attacks:
 Cargo Space: 1
 Load aboard transport: 4
 Immune to Plague
-Upkeep / Maintenance: 875
-Build Cost: 8752
+Upkeep / Maintenance: 367
+Build Cost: 2405
 Build Resource Requirements:
-  Food: 2
-  Energy: 9
-  Metal: 5
-  Trace: 6
-  Exotica: 2
-  Chemicals: 13
-  Biochems: 23
-  Electronics: 14
-  Ceramsteel: 7
   Wetware: 10
-  Monopols: 23
-  Singularities: 5
 Cybermorph Space Frigate cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
+Name: Cybermorph Jump Frigate
+Nick Name: JJ-FF-CM
+Scores & Strengths:
+  Tech Score: 7424
+  Unit Score: 6972
+  Average Score: 7198
+  Stat Strength: 5638
+  Total Strength: 6972
+  Planet Strength: 0
+  Space Strength: 6972
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 28
+  Spot: 22
+  Camouflage: 16
+  Agility: 44
+  Armor: 33
+  Psy Defense: 33
+  Rank: 209
+Attacks:
+  Direct Space: 26/31
+  Close Space: 22/24
+Cargo Space: 1
+Load aboard transport: 4
+Immune to Plague
+Upkeep / Maintenance: 846
+Build Cost: 6059
+Build Resource Requirements:
+  Singularities: 5
+Upgrade Cybermorph Space Frigate to Cybermorph Jump Frigate at Starport
+Time to Build / Upgrade: 1
+[82875] Technologies Required to Build Unit (70):
+  [54910] Polymorphonic Escortcraft (65)
+  [27965] Jump Escorts (75)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
 Name: Stealth Corsair
-Nick Name: JJ-CS-SS
+Nick Name: JJ-C-SS
 Scores & Strengths:
   Tech Score: 7207
   Unit Score: 7207
@@ -266,27 +268,19 @@ Cargo Space: 1
 Load aboard transport: 3
 Immune to Plague
 Upkeep / Maintenance: 833
-Build Cost: 8332
+Build Cost: 7521
 Build Resource Requirements:
-  Food: 1
-  Energy: 6
-  Metal: 3
-  Trace: 24
-  Exotica: 2
-  Chemicals: 9
-  Biochems: 28
-  Electronics: 39
   Ceramsteel: 4
   Wetware: 23
   Monopols: 14
-  Singularities: 4
+  Singularities: 2
 Stealth Corsair cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---7--
+--8--
 Name: Stealth Fusion Corsair
-Nick Name: JJ-CS-FF-SS
+Nick Name: JJ-CF-SS
 Scores & Strengths:
   Tech Score: 7481
   Unit Score: 7482
@@ -312,25 +306,15 @@ Cargo Space: 1
 Load aboard transport: 3
 Immune to Plague
 Upkeep / Maintenance: 801
-Build Cost: 8005
+Build Cost: 484
 Build Resource Requirements:
-  Food: 1
-  Energy: 6
-  Metal: 3
-  Trace: 13
-  Exotica: 1
-  Chemicals: 10
-  Biochems: 22
-  Electronics: 27
-  Ceramsteel: 4
-  Wetware: 15
-  Monopols: 15
-  Singularities: 4
+  Chemicals: 1
+  Monopols: 1
 Stealth Fusion Corsair cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---8--
+--9--
 Name: Cloaking Space Frigate
 Nick Name: SS-FF-CL
 Scores & Strengths:
@@ -358,29 +342,20 @@ Cargo Space: 1
 Load aboard transport: 4
 Immune to Plague
 Upkeep / Maintenance: 328
-Build Cost: 3284
+Build Cost: 1127
 Build Resource Requirements:
-  Food: 1
-  Energy: 6
-  Metal: 5
-  Trace: 13
-  Exotica: 1
-  Chemicals: 10
-  Biochems: 20
-  Electronics: 31
-  Ceramsteel: 9
+  Electronics: 11
   Wetware: 8
-  Monopols: 19
-Build Cloaking Space Frigate in Starport
-Time to Build / Upgrade: 3
+Upgrade Fusion Space Frigate to Cloaking Space Frigate at Starport
+Time to Build / Upgrade: 1
 [58065] Technology Required to Build Unit (48):
   [58065] Cloaked Escortcraft (48)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---9--
+--10--
 Name: Cyber Stealth Corsair
-Nick Name: JJ-CS-CM-SS
+Nick Name: JJ-C-CSS
 Scores & Strengths:
   Tech Score: 7598
   Unit Score: 7598
@@ -406,25 +381,15 @@ Cargo Space: 1
 Load aboard transport: 3
 Immune to Plague
 Upkeep / Maintenance: 774
-Build Cost: 7740
+Build Cost: 7256
 Build Resource Requirements:
-  Food: 1
-  Energy: 4
-  Metal: 2
-  Trace: 14
-  Exotica: 1
-  Chemicals: 6
-  Biochems: 13
-  Electronics: 23
-  Ceramsteel: 3
-  Wetware: 9
-  Monopols: 10
-  Singularities: 5
+  Trace: 1
+  Singularities: 1
 Cyber Stealth Corsair cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---10--
+--11--
 Name: Gate Frigate
 Nick Name: Irradiator
 Scores & Strengths:
@@ -456,70 +421,50 @@ Cargo Space: 1
 Load aboard transport: 4
 Immune to Plague
 Upkeep / Maintenance: 1049
-Build Cost: 10486
+Build Cost: 5576
 Build Resource Requirements:
-  Food: 2
-  Energy: 9
-  Metal: 6
-  Trace: 10
-  Exotica: 2
-  Chemicals: 16
-  Biochems: 24
-  Electronics: 19
-  Ceramsteel: 9
+  Biochems: 4
   Wetware: 14
-  Monopols: 29
-  Singularities: 6
+  Singularities: 1
 Gate Frigate cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---11--
-Name: Psyber Frigate
-Nick Name: LL-FF-Psyber
+--12--
+Name: Cloaking Jump Frigate
+Nick Name: JJ-FF-CL
 Scores & Strengths:
-  Tech Score: 8659
-  Unit Score: 8659
-  Average Score: 8659
-  Stat Strength: 4250
-  Total Strength: 8659
-  Planet Strength: 7071
-  Space Strength: 6846
-  Garrison Strength: 1443
+  Tech Score: 7728
+  Unit Score: 7769
+  Average Score: 7748
+  Stat Strength: 6313
+  Total Strength: 7769
+  Planet Strength: 0
+  Space Strength: 7769
+  Garrison Strength: 0
 Statistics:
-  Movement Type: lander
-  Move Points: 24
-  Spot: 22
-  Camouflage: 16
-  Agility: 22
-  Armor: 35
-  Psy Defense: 35
-  Rank: 261
+  Movement Type: jump
+  Move Points: 20
+  Spot: 12
+  Camouflage: 51
+  Agility: 24
+  Armor: 36
+  Psy Defense: 36
+  Rank: 223
 Attacks:
-  Direct Space: 28/27
-  Close Space: 32/26
-  Psychic: 28/36
-  Air: 24/25
-  Direct: 25/25
-  Close: 28/21
-Load aboard transport: 1
+  Direct Space: 24/36
+  Close Space: 37/16
+Cargo Space: 1
+Load aboard transport: 4
 Immune to Plague
-Upkeep / Maintenance: 954
-Build Cost: 9538
+Upkeep / Maintenance: 770
+Build Cost: 6570
 Build Resource Requirements:
-  Food: 1
-  Energy: 6
-  Metal: 3
-  Trace: 6
-  Exotica: 1
-  Chemicals: 9
-  Biochems: 18
-  Electronics: 14
-  Ceramsteel: 4
-  Wetware: 8
-  Monopols: 15
-  Gems: 23
-  Singularities: 5
-Psyber Frigate cannot be built
+  Singularities: 4
+Upgrade Cloaking Space Frigate to Cloaking Jump Frigate at Starport
+Time to Build / Upgrade: 1
+[86030] Technologies Required to Build Unit (62):
+  [58065] Cloaked Escortcraft (48)
+  [27965] Jump Escorts (75)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

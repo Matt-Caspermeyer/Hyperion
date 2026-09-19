@@ -2,7 +2,7 @@ All units of the unit class Naval Corvette are listed herein (12 in total):
 
 --1--
 Name: Naval Corvette
-Nick Name: NN-Cvtt
+Nick Name: NN-V
 Scores & Strengths:
   Tech Score: 520
   Unit Score: 520
@@ -49,7 +49,7 @@ Unit can be disbanded: YES
 
 --2--
 Name: Naval Corvette II
-Nick Name: NN-Cvtt-2
+Nick Name: NN-V II
 Scores & Strengths:
   Tech Score: 658
   Unit Score: 594
@@ -75,18 +75,10 @@ Attacks:
 Cargo Space: 1
 Load aboard transport: 3
 Upkeep / Maintenance: 18
-Build Cost: 180
 Build Resource Requirements:
-  Food: 3
-  Energy: 27
-  Metal: 33
-  Trace: 6
-  Exotica: 4
-  Chemicals: 27
-  Biochems: 4
-  Electronics: 4
-Build Naval Corvette II in Well
-Time to Build / Upgrade: 2
+  Metal: 1
+Upgrade Naval Corvette to Naval Corvette II at Well
+Time to Build / Upgrade: 1
 [2270] Technology Required to Build Unit (86):
   [2270] Naval Escort Ships (86)
 Counts as planetary flock: YES
@@ -94,7 +86,7 @@ Unit can be disbanded: YES
 
 --3--
 Name: Naval Corvette III
-Nick Name: NN-Cvtt-3
+Nick Name: NN-V III
 Scores & Strengths:
   Tech Score: 1134
   Unit Score: 1097
@@ -122,17 +114,11 @@ Load aboard transport: 3
 Upkeep / Maintenance: 29
 Build Cost: 287
 Build Resource Requirements:
-  Food: 3
-  Energy: 32
-  Metal: 20
-  Trace: 4
-  Exotica: 3
-  Chemicals: 41
-  Biochems: 4
-  Electronics: 4
+  Energy: 5
+  Chemicals: 14
   Ceramsteel: 23
-Build Naval Corvette III in Well
-Time to Build / Upgrade: 3
+Upgrade Naval Corvette II to Naval Corvette III at Well
+Time to Build / Upgrade: 1
 [4695] Technology Required to Build Unit (83):
   [4695] Advanced Minor Watercraft (83)
 Counts as planetary flock: YES
@@ -140,7 +126,7 @@ Unit can be disbanded: YES
 
 --4--
 Name: Guid. Miss. Corvette
-Nick Name: NN-Cvtt-GM
+Nick Name: NN-V-GM
 Scores & Strengths:
   Tech Score: 1339
   Unit Score: 1339
@@ -166,19 +152,14 @@ Attacks:
 Cargo Space: 1
 Load aboard transport: 3
 Upkeep / Maintenance: 30
-Build Cost: 301
+Build Cost: 14
 Build Resource Requirements:
-  Food: 3
-  Energy: 29
-  Metal: 21
-  Trace: 5
-  Exotica: 3
-  Chemicals: 40
-  Biochems: 4
-  Electronics: 5
-  Ceramsteel: 26
-Build Guid. Miss. Corvette in Well
-Time to Build / Upgrade: 3
+  Metal: 1
+  Trace: 1
+  Electronics: 1
+  Ceramsteel: 3
+Upgrade Naval Corvette III to Guid. Miss. Corvette at Well
+Time to Build / Upgrade: 1
 [5855] Technology Required to Build Unit (84):
   [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
@@ -186,7 +167,7 @@ Unit can be disbanded: YES
 
 --5--
 Name: PTS Missile Corvette
-Nick Name: NN-Cvtt-PTS
+Nick Name: NN-V-PTS
 Scores & Strengths:
   Tech Score: 1474
   Unit Score: 1843
@@ -213,19 +194,16 @@ Attacks:
 Cargo Space: 1
 Load aboard transport: 3
 Upkeep / Maintenance: 43
-Build Cost: 430
+Build Cost: 416
 Build Resource Requirements:
-  Food: 3
-  Energy: 39
-  Metal: 21
-  Trace: 11
-  Exotica: 3
-  Chemicals: 54
-  Biochems: 6
-  Electronics: 11
-  Ceramsteel: 27
-Build PTS Missile Corvette in Well
-Time to Build / Upgrade: 4
+  Energy: 10
+  Trace: 6
+  Chemicals: 14
+  Biochems: 2
+  Electronics: 6
+  Ceramsteel: 1
+Upgrade Guid. Miss. Corvette to PTS Missile Corvette at Well
+Time to Build / Upgrade: 1
 [6655] Technology Required to Build Unit (83):
   [6655] PTS Missile Navalcraft (83)
 Counts as planetary flock: YES
@@ -233,7 +211,7 @@ Unit can be disbanded: YES
 
 --6--
 Name: Advanced Naval Corvette
-Nick Name: NN-Cvtt-A
+Nick Name: NN-V-Adv
 Scores & Strengths:
   Tech Score: 1579
   Unit Score: 1973
@@ -259,19 +237,18 @@ Attacks:
 Cargo Space: 1
 Load aboard transport: 3
 Upkeep / Maintenance: 43
-Build Cost: 427
+Build Cost: 140
 Build Resource Requirements:
-  Food: 3
-  Energy: 36
-  Metal: 22
-  Trace: 10
-  Exotica: 4
-  Chemicals: 51
-  Biochems: 6
-  Electronics: 10
-  Ceramsteel: 28
-Build Advanced Naval Corvette in Well
-Time to Build / Upgrade: 4
+  Energy: 4
+  Metal: 2
+  Trace: 6
+  Exotica: 1
+  Chemicals: 10
+  Biochems: 2
+  Electronics: 6
+  Ceramsteel: 5
+Upgrade Naval Corvette III to Advanced Naval Corvette at Well
+Time to Build / Upgrade: 1
 [7295] Technology Required to Build Unit (81):
   [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES

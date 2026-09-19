@@ -73,19 +73,10 @@ Attacks:
   Close: 14/13
 Load aboard transport: 2
 Upkeep / Maintenance: 61
-Build Cost: 613
 Build Resource Requirements:
-  Food: 4
-  Energy: 12
-  Metal: 5
-  Trace: 22
-  Exotica: 4
-  Chemicals: 22
-  Electronics: 35
-  Ceramsteel: 7
-  Monopols: 28
-Build Hover Tank II in Factory
-Time to Build / Upgrade: 3
+  Metal: 1
+Upgrade Hover Tank to Hover Tank II at Factory
+Time to Build / Upgrade: 1
 [7425] Technology Required to Build Unit (68):
   [7425] Hovertanks (68)
 Counts as planetary flock: YES
@@ -119,9 +110,12 @@ Attacks:
   Close: 18/17
 Load aboard transport: 2
 Upkeep / Maintenance: 83
-Build Cost: 143
+Build Cost: 830
 Build Resource Requirements:
-Upgrade Hover Tank to Power Hover Tank at Factory
+  Energy: 1
+  Chemicals: 1
+  Monopols: 6
+Upgrade Hover Tank II to Power Hover Tank at Factory
 Time to Build / Upgrade: 1
 [14975] Technology Required to Build Unit (70):
   [14975] Power Hovertanks (70)
@@ -159,18 +153,12 @@ Load aboard transport: 2
 Upkeep / Maintenance: 134
 Build Cost: 1336
 Build Resource Requirements:
-  Food: 4
-  Energy: 9
-  Metal: 7
-  Trace: 11
-  Exotica: 4
-  Chemicals: 19
-  Electronics: 25
-  Ceramsteel: 12
-  Monopols: 31
+  Metal: 2
+  Ceramsteel: 5
+  Monopols: 3
   Gems: 35
-Build Psy Hover Tank in Factory
-Time to Build / Upgrade: 4
+Upgrade Hover Tank II to Psy Hover Tank at Factory
+Time to Build / Upgrade: 1
 [15305] Technologies Required to Build Unit (76):
   [330] Holy Warriors (82)
   [14975] Power Hovertanks (70)
@@ -207,17 +195,8 @@ Load aboard transport: 2
 Upkeep / Maintenance: 55
 Build Cost: 548
 Build Resource Requirements:
-  Food: 2
-  Energy: 8
-  Metal: 3
-  Trace: 9
-  Exotica: 2
-  Chemicals: 15
-  Electronics: 19
-  Ceramsteel: 5
-  Monopols: 22
-Build 3rd-Republic Hover Tank in Factory
-Time to Build / Upgrade: 3
+Upgrade Hover Tank II to 3rd-Republic Hover Tank at Factory
+Time to Build / Upgrade: 1
 [30105] Technologies Required to Build Unit (69):
   [15130] Fusion Battle Tanks (68)
   [14975] Power Hovertanks (70)
@@ -252,12 +231,13 @@ Attacks:
   Close: 34/18
 Load aboard transport: 2
 Upkeep / Maintenance: 140
-Build Cost: 790
+Build Cost: 573
 Build Resource Requirements:
+  Metal: 1
   Biochems: 30
   Ceramsteel: 1
   Wetware: 13
-Upgrade Hover Tank II to Morph Hover Tank at Factory
+Upgrade Power Hover Tank to Morph Hover Tank at Factory
 Time to Build / Upgrade: 1
 [35590] Technology Required to Build Unit (35):
   [35590] Polymorphonic Land Vehicles (35)
@@ -292,11 +272,11 @@ Attacks:
   Close: 19/18
 Load aboard transport: 2
 Upkeep / Maintenance: 124
-Build Cost: 628
+Build Cost: 411
 Build Resource Requirements:
   Biochems: 24
   Wetware: 11
-Upgrade Hover Tank II to Stealth Hover Tank at Factory
+Upgrade Power Hover Tank to Stealth Hover Tank at Factory
 Time to Build / Upgrade: 1
 [37265] Technology Required to Build Unit (33):
   [37265] Neumonic Land Vehicles (33)

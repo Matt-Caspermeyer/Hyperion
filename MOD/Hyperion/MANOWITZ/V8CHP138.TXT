@@ -149,7 +149,7 @@ Unit can be disbanded: YES
 
 --4--
 Name: Naval Aircraft Carrier
-Nick Name: NN-CV-2
+Nick Name: NN-CVA
 Scores & Strengths:
   Tech Score: 775
   Unit Score: 1546
@@ -277,19 +277,18 @@ Load aboard transport: 12
 Officer - Provides stack combat bonuses
 Transports and Refuels (at end of turn) all Air Units
 Upkeep / Maintenance: 347
-Build Cost: 3465
+Build Cost: 1972
 Build Resource Requirements:
-  Food: 4
-  Energy: 37
-  Metal: 41
-  Trace: 19
-  Exotica: 4
-  Chemicals: 54
-  Biochems: 11
-  Electronics: 20
+  Food: 1
+  Energy: 9
+  Trace: 6
+  Exotica: 1
+  Chemicals: 26
+  Biochems: 4
+  Electronics: 11
   Ceramsteel: 50
-Build Naval Aircraft Carrier (GM) in Well
-Time to Build / Upgrade: 6
+Upgrade Naval Aircraft Carrier to Naval Aircraft Carrier (GM) at Well
+Time to Build / Upgrade: 1
 [5855] Technology Required to Build Unit (84):
   [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
@@ -348,7 +347,7 @@ Unit can be disbanded: YES
 
 --8--
 Name: Amphibious Battle Carrier
-Nick Name: CC-CB
+Nick Name: CC-CVB
 Scores & Strengths:
   Tech Score: 2993
   Unit Score: 2993
@@ -428,19 +427,17 @@ Load aboard transport: 9
 Officer - Provides stack combat bonuses
 Transports and Refuels (at end of turn) all Air Units
 Upkeep / Maintenance: 396
-Build Cost: 3964
+Build Cost: 1992
 Build Resource Requirements:
-  Food: 4
-  Energy: 49
-  Metal: 53
-  Trace: 23
-  Exotica: 4
-  Chemicals: 74
-  Biochems: 13
-  Electronics: 24
-  Ceramsteel: 66
-Build PTS Aircraft Carrier in Well
-Time to Build / Upgrade: 7
+  Energy: 12
+  Metal: 12
+  Trace: 4
+  Chemicals: 20
+  Biochems: 2
+  Electronics: 4
+  Ceramsteel: 16
+Upgrade Naval Aircraft Carrier (GM) to PTS Aircraft Carrier at Well
+Time to Build / Upgrade: 3
 [6655] Technology Required to Build Unit (83):
   [6655] PTS Missile Navalcraft (83)
 Counts as planetary flock: YES
@@ -476,19 +473,18 @@ Load aboard transport: 8
 Officer - Provides stack combat bonuses
 Transports and Refuels (at end of turn) all Air Units
 Upkeep / Maintenance: 488
-Build Cost: 4881
+Build Cost: 2889
 Build Resource Requirements:
-  Food: 4
-  Energy: 59
-  Metal: 59
-  Trace: 33
-  Exotica: 5
-  Chemicals: 89
-  Biochems: 17
-  Electronics: 33
-  Ceramsteel: 75
-Build Nuclear Aircraft Carrier in Well
-Time to Build / Upgrade: 9
+  Energy: 10
+  Metal: 6
+  Trace: 10
+  Exotica: 1
+  Chemicals: 15
+  Biochems: 4
+  Electronics: 9
+  Ceramsteel: 9
+Upgrade PTS Aircraft Carrier to Nuclear Aircraft Carrier at Well
+Time to Build / Upgrade: 1
 [7295] Technology Required to Build Unit (81):
   [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
@@ -496,7 +492,7 @@ Unit can be disbanded: YES
 
 --11--
 Name: Meson Amphibious Carrier
-Nick Name: CC-MCV
+Nick Name: CC-CVM
 Scores & Strengths:
   Tech Score: 5641
   Unit Score: 5641

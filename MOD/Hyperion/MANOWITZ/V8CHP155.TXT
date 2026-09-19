@@ -114,19 +114,17 @@ Cargo Space: 3
 Load aboard transport: 6
 Immune to Plague
 Upkeep / Maintenance: 194
-Build Cost: 1940
+Build Cost: 1701
 Build Resource Requirements:
-  Food: 5
-  Energy: 3
-  Metal: 150
-  Trace: 12
-  Exotica: 5
-  Chemicals: 3
-  Electronics: 12
+  Food: 3
+  Metal: 122
+  Trace: 9
+  Exotica: 2
+  Electronics: 7
   Gems: 1
   Singularities: 2
-Build Transporter in Starport
-Time to Build / Upgrade: 3
+Upgrade Space Transport to Transporter at Starport
+Time to Build / Upgrade: 1
 [3205] Technologies Required to Build Unit (82):
   [1235] Jump Rocketry (76)
   [1970] Cargo Handling (87)
@@ -180,7 +178,7 @@ Unit can be disbanded: YES
 
 --5--
 Name: Space Transport Carrier
-Nick Name: SS-CV-X
+Nick Name: SS-XCV
 Scores & Strengths:
   Tech Score: 2916
   Unit Score: 2916
@@ -229,7 +227,7 @@ Unit can be disbanded: YES
 
 --6--
 Name: Jump Transport
-Nick Name: JJ-X
+Nick Name: JJ-XX
 Scores & Strengths:
   Tech Score: 3391
   Unit Score: 3326
@@ -254,21 +252,13 @@ Cargo Space: 3
 Load aboard transport: 6
 Immune to Plague
 Upkeep / Maintenance: 548
-Build Cost: 5478
+Build Cost: 5239
 Build Resource Requirements:
-  Food: 1
-  Energy: 3
-  Metal: 16
-  Trace: 3
-  Exotica: 2
-  Chemicals: 7
-  Biochems: 15
-  Electronics: 4
-  Ceramsteel: 20
+  Biochems: 12
   Monopols: 24
   Singularities: 4
-Build Jump Transport in Starport
-Time to Build / Upgrade: 3
+Upgrade Space Transport to Jump Transport at Starport
+Time to Build / Upgrade: 1
 [20220] Technology Required to Build Unit (72):
   [20220] Jump Transports (72)
 Counts as planetary flock: YES
@@ -276,7 +266,7 @@ Unit can be disbanded: YES
 
 --7--
 Name: Space Attack Transport
-Nick Name: SS-X-A
+Nick Name: SS-AX
 Scores & Strengths:
   Tech Score: 3536
   Unit Score: 3536
@@ -367,7 +357,7 @@ Unit can be disbanded: YES
 
 --9--
 Name: Jump Transport Carrier
-Nick Name: JJ-CV-X
+Nick Name: JJ-XCV
 Scores & Strengths:
   Tech Score: 5589
   Unit Score: 5370
@@ -395,21 +385,15 @@ Officer - Provides stack combat bonuses
 Deploys space units during space attacks
 Immune to Plague
 Upkeep / Maintenance: 2331
-Build Cost: 23308
+Build Cost: 16586
 Build Resource Requirements:
-  Food: 1
-  Energy: 2
-  Metal: 16
-  Trace: 3
-  Exotica: 1
-  Chemicals: 9
-  Biochems: 14
-  Electronics: 12
-  Ceramsteel: 23
-  Monopols: 27
+  Chemicals: 3
+  Electronics: 6
+  Ceramsteel: 3
+  Monopols: 4
   Singularities: 4
-Build Jump Transport Carrier in Starport
-Time to Build / Upgrade: 3
+Upgrade Space Transport Carrier to Jump Transport Carrier at Starport
+Time to Build / Upgrade: 1
 [39365] Technology Required to Build Unit (61):
   [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES

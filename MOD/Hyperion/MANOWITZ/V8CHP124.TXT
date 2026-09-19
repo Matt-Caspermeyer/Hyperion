@@ -2,7 +2,7 @@ All units of the unit class Naval Protected Cruiser are listed herein (12 in tot
 
 --1--
 Name: Naval Protected Cruiser
-Nick Name: NN-CC-PP
+Nick Name: NN-CCP
 Scores & Strengths:
   Tech Score: 189
   Unit Score: 374
@@ -49,7 +49,7 @@ Unit can be disbanded: YES
 
 --2--
 Name: Naval Armored Cruiser
-Nick Name: NN-CC-AA
+Nick Name: NN-CCA
 Scores & Strengths:
   Tech Score: 195
   Unit Score: 388
@@ -96,7 +96,7 @@ Unit can be disbanded: YES
 
 --3--
 Name: Aircraft Cruiser
-Nick Name: NN-CC-CV
+Nick Name: NN-CCV
 Scores & Strengths:
   Tech Score: 775
   Unit Score: 773
@@ -242,7 +242,7 @@ Unit can be disbanded: YES
 
 --6--
 Name: Naval Lt Armored Cruiser
-Nick Name: NN-CC-LA
+Nick Name: NN-CCLA
 Scores & Strengths:
   Tech Score: 775
   Unit Score: 1159
@@ -290,7 +290,7 @@ Unit can be disbanded: YES
 
 --7--
 Name: Naval Scout Cruiser
-Nick Name: NN-CC-Sc
+Nick Name: NN-CCS
 Scores & Strengths:
   Tech Score: 775
   Unit Score: 1160
@@ -338,7 +338,7 @@ Unit can be disbanded: YES
 
 --8--
 Name: Naval Heavy Cruiser
-Nick Name: NN-CC-Hv
+Nick Name: NN-CCH
 Scores & Strengths:
   Tech Score: 775
   Unit Score: 1353
@@ -414,19 +414,16 @@ Cargo Space: 2
 Load aboard transport: 6
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
 Upkeep / Maintenance: 98
-Build Cost: 981
+Build Cost: 650
 Build Resource Requirements:
-  Food: 3
-  Energy: 58
-  Metal: 41
-  Trace: 15
-  Exotica: 4
-  Chemicals: 80
-  Biochems: 10
-  Electronics: 16
+  Energy: 22
+  Trace: 4
+  Chemicals: 44
+  Biochems: 3
+  Electronics: 9
   Ceramsteel: 50
-Build Guid. Miss. Cruiser in Well
-Time to Build / Upgrade: 6
+Upgrade Naval Cruiser to Guid. Miss. Cruiser at Well
+Time to Build / Upgrade: 2
 [5855] Technology Required to Build Unit (84):
   [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
@@ -515,19 +512,18 @@ Cargo Space: 2
 Load aboard transport: 7
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
 Upkeep / Maintenance: 148
-Build Cost: 1484
+Build Cost: 834
 Build Resource Requirements:
-  Food: 4
-  Energy: 75
-  Metal: 53
-  Trace: 18
-  Exotica: 4
-  Chemicals: 106
-  Biochems: 11
-  Electronics: 20
-  Ceramsteel: 66
-Build PTS Missile Cruiser in Well
-Time to Build / Upgrade: 8
+  Food: 1
+  Energy: 17
+  Metal: 12
+  Trace: 3
+  Chemicals: 26
+  Biochems: 1
+  Electronics: 4
+  Ceramsteel: 16
+Upgrade Guid. Miss. Cruiser to PTS Missile Cruiser at Well
+Time to Build / Upgrade: 2
 [6655] Technology Required to Build Unit (83):
   [6655] PTS Missile Navalcraft (83)
 Counts as planetary flock: YES
@@ -563,19 +559,17 @@ Cargo Space: 2
 Load aboard transport: 6
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
 Upkeep / Maintenance: 205
-Build Cost: 2053
+Build Cost: 1219
 Build Resource Requirements:
-  Food: 4
-  Energy: 80
-  Metal: 59
-  Trace: 28
-  Exotica: 4
-  Chemicals: 117
-  Biochems: 16
-  Electronics: 31
-  Ceramsteel: 75
-Build Nuclear Cruiser in Well
-Time to Build / Upgrade: 9
+  Energy: 5
+  Metal: 6
+  Trace: 10
+  Chemicals: 11
+  Biochems: 5
+  Electronics: 11
+  Ceramsteel: 9
+Upgrade PTS Missile Cruiser to Nuclear Cruiser at Well
+Time to Build / Upgrade: 2
 [7295] Technology Required to Build Unit (81):
   [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES

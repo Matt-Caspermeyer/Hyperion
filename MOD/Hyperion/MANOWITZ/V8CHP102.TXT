@@ -2,7 +2,7 @@ All units of the unit class Heavy Space Fighter are listed herein (32 in total):
 
 --1--
 Name: Heavy Space Fighter
-Nick Name: SS-FF-Hv
+Nick Name: SS-F-H
 Scores & Strengths:
   Tech Score: 309
   Unit Score: 308
@@ -46,7 +46,7 @@ Unit can be disbanded: YES
 
 --2--
 Name: Light Space Fighter
-Nick Name: SS-FF-Lt
+Nick Name: SS-F-L
 Scores & Strengths:
   Tech Score: 309
   Unit Score: 308
@@ -90,7 +90,7 @@ Unit can be disbanded: YES
 
 --3--
 Name: Space Attack Fighter
-Nick Name: SS-FF-A
+Nick Name: SS-F-A
 Scores & Strengths:
   Tech Score: 309
   Unit Score: 308
@@ -179,7 +179,7 @@ Unit can be disbanded: YES
 
 --5--
 Name: Light Space Fighter II
-Nick Name: SS-FF-Lt2
+Nick Name: SS-F-L II
 Scores & Strengths:
   Tech Score: 626
   Unit Score: 583
@@ -204,18 +204,11 @@ Attacks:
 Load aboard transport: 1
 Immune to Plague
 Upkeep / Maintenance: 20
-Build Cost: 200
+Build Cost: 18
 Build Resource Requirements:
-  Food: 8
-  Energy: 10
-  Metal: 3
-  Trace: 28
-  Exotica: 9
-  Chemicals: 12
   Biochems: 15
-  Electronics: 22
-Build Light Space Fighter II in Starport
-Time to Build / Upgrade: 2
+Upgrade Light Space Fighter to Light Space Fighter II at Starport
+Time to Build / Upgrade: 1
 [2500] Technologies Required to Build Unit (91):
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
@@ -225,7 +218,7 @@ Unit can be disbanded: YES
 
 --6--
 Name: Space Attack Fighter II
-Nick Name: SS-FF-A2
+Nick Name: SS-F-A II
 Scores & Strengths:
   Tech Score: 626
   Unit Score: 604
@@ -250,18 +243,11 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 19
-Build Cost: 189
+Build Cost: 13
 Build Resource Requirements:
-  Food: 8
-  Energy: 12
-  Metal: 8
-  Trace: 24
-  Exotica: 8
-  Chemicals: 15
   Biochems: 13
-  Electronics: 19
-Build Space Attack Fighter II in Starport
-Time to Build / Upgrade: 2
+Upgrade Space Attack Fighter to Space Attack Fighter II at Starport
+Time to Build / Upgrade: 1
 [2500] Technologies Required to Build Unit (91):
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
@@ -271,7 +257,7 @@ Unit can be disbanded: YES
 
 --7--
 Name: Heavy Space Fighter II
-Nick Name: SS-FF-Hv2
+Nick Name: SS-F-H II
 Scores & Strengths:
   Tech Score: 626
   Unit Score: 633
@@ -296,18 +282,10 @@ Attacks:
 Load aboard transport: 3
 Immune to Plague
 Upkeep / Maintenance: 18
-Build Cost: 179
 Build Resource Requirements:
-  Food: 7
-  Energy: 16
-  Metal: 17
-  Trace: 17
-  Exotica: 7
-  Chemicals: 22
   Biochems: 9
-  Electronics: 14
-Build Heavy Space Fighter II in Starport
-Time to Build / Upgrade: 2
+Upgrade Heavy Space Fighter to Heavy Space Fighter II at Starport
+Time to Build / Upgrade: 1
 [2500] Technologies Required to Build Unit (91):
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
@@ -342,18 +320,11 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 14
-Build Cost: 141
 Build Resource Requirements:
-  Food: 4
-  Energy: 10
-  Metal: 11
-  Trace: 17
-  Exotica: 5
-  Chemicals: 13
+  Metal: 2
   Biochems: 7
-  Electronics: 14
-Build Space Fighter II in Starport
-Time to Build / Upgrade: 2
+Upgrade Space Fighter to Space Fighter II at Starport
+Time to Build / Upgrade: 1
 [7130] Technologies Required to Build Unit (90):
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
@@ -366,7 +337,7 @@ Unit can be disbanded: YES
 
 --9--
 Name: Heavy Space Fighter III
-Nick Name: SS-FF-Hv3
+Nick Name: SS-F-H III
 Scores & Strengths:
   Tech Score: 1128
   Unit Score: 1016
@@ -393,16 +364,8 @@ Immune to Plague
 Upkeep / Maintenance: 15
 Build Cost: 149
 Build Resource Requirements:
-  Food: 5
-  Energy: 13
-  Metal: 17
-  Trace: 13
-  Exotica: 5
-  Chemicals: 19
-  Biochems: 5
-  Electronics: 11
-Build Heavy Space Fighter III in Starport
-Time to Build / Upgrade: 2
+Upgrade Heavy Space Fighter II to Heavy Space Fighter III at Starport
+Time to Build / Upgrade: 1
 [7130] Technologies Required to Build Unit (90):
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
@@ -415,7 +378,7 @@ Unit can be disbanded: YES
 
 --10--
 Name: Light Space Fighter III
-Nick Name: SS-FF-Lt3
+Nick Name: SS-F-L III
 Scores & Strengths:
   Tech Score: 1128
   Unit Score: 1046
@@ -440,18 +403,11 @@ Attacks:
 Load aboard transport: 1
 Immune to Plague
 Upkeep / Maintenance: 18
-Build Cost: 176
+Build Cost: 158
 Build Resource Requirements:
-  Food: 6
-  Energy: 10
-  Metal: 5
-  Trace: 23
-  Exotica: 7
-  Chemicals: 12
-  Biochems: 10
-  Electronics: 19
-Build Light Space Fighter III in Starport
-Time to Build / Upgrade: 2
+  Metal: 2
+Upgrade Light Space Fighter II to Light Space Fighter III at Starport
+Time to Build / Upgrade: 1
 [7130] Technologies Required to Build Unit (90):
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
@@ -464,7 +420,7 @@ Unit can be disbanded: YES
 
 --11--
 Name: Space Attack Fighter III
-Nick Name: SS-FF-A3
+Nick Name: SS-F-A III
 Scores & Strengths:
   Tech Score: 1128
   Unit Score: 1046
@@ -489,18 +445,11 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 16
-Build Cost: 163
+Build Cost: 150
 Build Resource Requirements:
-  Food: 6
-  Energy: 10
-  Metal: 9
-  Trace: 20
-  Exotica: 6
-  Chemicals: 13
-  Biochems: 8
-  Electronics: 16
-Build Space Attack Fighter III in Starport
-Time to Build / Upgrade: 2
+  Metal: 1
+Upgrade Space Attack Fighter II to Space Attack Fighter III at Starport
+Time to Build / Upgrade: 1
 [7130] Technologies Required to Build Unit (90):
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
@@ -540,17 +489,9 @@ Immune to Plague
 Upkeep / Maintenance: 13
 Build Cost: 131
 Build Resource Requirements:
-  Food: 3
-  Energy: 9
-  Metal: 5
-  Trace: 13
-  Exotica: 3
-  Chemicals: 11
-  Biochems: 5
-  Electronics: 14
   Ceramsteel: 5
-Build Space Fighter III in Starport
-Time to Build / Upgrade: 2
+Upgrade Space Fighter II to Space Fighter III at Starport
+Time to Build / Upgrade: 1
 [12535] Technologies Required to Build Unit (86):
   [1220] Finite Element Methods (77)
   [465] Recoilless Gun (93)
@@ -588,19 +529,12 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 14
-Build Cost: 136
+Build Cost: 5
 Build Resource Requirements:
-  Food: 3
-  Energy: 9
-  Metal: 4
-  Trace: 13
-  Exotica: 3
-  Chemicals: 12
-  Biochems: 5
-  Electronics: 15
-  Ceramsteel: 4
-Build Space Fighter IV in Starport
-Time to Build / Upgrade: 2
+  Chemicals: 1
+  Electronics: 1
+Upgrade Space Fighter III to Space Fighter IV at Starport
+Time to Build / Upgrade: 1
 [16790] Technologies Required to Build Unit (87):
   [4695] Advanced Minor Watercraft (83)
   [465] Recoilless Gun (93)
@@ -612,7 +546,7 @@ Unit can be disbanded: YES
 
 --14--
 Name: Heavy Space Fighter IV
-Nick Name: SS-FF-Hv4
+Nick Name: SS-F-H IV
 Scores & Strengths:
   Tech Score: 1660
   Unit Score: 1453
@@ -637,19 +571,12 @@ Attacks:
 Load aboard transport: 3
 Immune to Plague
 Upkeep / Maintenance: 16
-Build Cost: 163
+Build Cost: 14
 Build Resource Requirements:
-  Food: 4
-  Energy: 14
-  Metal: 10
-  Trace: 10
-  Exotica: 4
-  Chemicals: 18
-  Biochems: 4
-  Electronics: 11
+  Energy: 1
   Ceramsteel: 10
-Build Heavy Space Fighter IV in Starport
-Time to Build / Upgrade: 2
+Upgrade Heavy Space Fighter III to Heavy Space Fighter IV at Starport
+Time to Build / Upgrade: 1
 [12535] Technologies Required to Build Unit (86):
   [1220] Finite Element Methods (77)
   [465] Recoilless Gun (93)
@@ -662,7 +589,7 @@ Unit can be disbanded: YES
 
 --15--
 Name: Light Space Fighter IV
-Nick Name: SS-FF-Lt4
+Nick Name: SS-F-L IV
 Scores & Strengths:
   Tech Score: 1660
   Unit Score: 1469
@@ -687,19 +614,12 @@ Attacks:
 Load aboard transport: 1
 Immune to Plague
 Upkeep / Maintenance: 18
-Build Cost: 176
+Build Cost: 18
 Build Resource Requirements:
-  Food: 5
-  Energy: 9
-  Metal: 3
-  Trace: 20
-  Exotica: 5
-  Chemicals: 11
-  Biochems: 8
-  Electronics: 21
+  Electronics: 2
   Ceramsteel: 2
-Build Light Space Fighter IV in Starport
-Time to Build / Upgrade: 2
+Upgrade Light Space Fighter III to Light Space Fighter IV at Starport
+Time to Build / Upgrade: 1
 [12535] Technologies Required to Build Unit (86):
   [1220] Finite Element Methods (77)
   [465] Recoilless Gun (93)
@@ -712,7 +632,7 @@ Unit can be disbanded: YES
 
 --16--
 Name: Space Attack Fighter IV
-Nick Name: SS-FF-A4
+Nick Name: SS-F-A IV
 Scores & Strengths:
   Tech Score: 1660
   Unit Score: 1476
@@ -737,19 +657,12 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 17
-Build Cost: 165
+Build Cost: 15
 Build Resource Requirements:
-  Food: 5
-  Energy: 10
-  Metal: 4
-  Trace: 16
-  Exotica: 5
-  Chemicals: 13
-  Biochems: 7
-  Electronics: 18
+  Electronics: 2
   Ceramsteel: 4
-Build Space Attack Fighter IV in Starport
-Time to Build / Upgrade: 2
+Upgrade Space Attack Fighter III to Space Attack Fighter IV at Starport
+Time to Build / Upgrade: 1
 [12535] Technologies Required to Build Unit (86):
   [1220] Finite Element Methods (77)
   [465] Recoilless Gun (93)
@@ -787,19 +700,11 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 14
-Build Cost: 139
+Build Cost: 134
 Build Resource Requirements:
-  Food: 2
-  Energy: 9
-  Metal: 4
-  Trace: 12
-  Exotica: 3
-  Chemicals: 12
-  Biochems: 6
-  Electronics: 15
-  Ceramsteel: 4
-Build Space Fighter V in Starport
-Time to Build / Upgrade: 2
+  Biochems: 1
+Upgrade Space Fighter IV to Space Fighter V at Starport
+Time to Build / Upgrade: 1
 [21970] Technologies Required to Build Unit (88):
   [465] Recoilless Gun (93)
   [1785] Rotary Autocannon (90)
@@ -810,7 +715,7 @@ Unit can be disbanded: YES
 
 --18--
 Name: Light Space Fighter V
-Nick Name: SS-FF-Lt5
+Nick Name: SS-F-L V
 Scores & Strengths:
   Tech Score: 2150
   Unit Score: 1904
@@ -835,19 +740,12 @@ Attacks:
 Load aboard transport: 1
 Immune to Plague
 Upkeep / Maintenance: 19
-Build Cost: 194
+Build Cost: 176
 Build Resource Requirements:
-  Food: 5
-  Energy: 9
-  Metal: 2
-  Trace: 20
-  Exotica: 5
-  Chemicals: 12
-  Biochems: 8
-  Electronics: 24
-  Ceramsteel: 2
-Build Light Space Fighter V in Starport
-Time to Build / Upgrade: 2
+  Chemicals: 1
+  Electronics: 3
+Upgrade Light Space Fighter IV to Light Space Fighter V at Starport
+Time to Build / Upgrade: 1
 [16790] Technologies Required to Build Unit (87):
   [4695] Advanced Minor Watercraft (83)
   [465] Recoilless Gun (93)
@@ -859,7 +757,7 @@ Unit can be disbanded: YES
 
 --19--
 Name: Heavy Space Fighter V
-Nick Name: SS-FF-Hv5
+Nick Name: SS-F-H V
 Scores & Strengths:
   Tech Score: 2150
   Unit Score: 1933
@@ -884,19 +782,13 @@ Attacks:
 Load aboard transport: 3
 Immune to Plague
 Upkeep / Maintenance: 18
-Build Cost: 175
+Build Cost: 161
 Build Resource Requirements:
-  Food: 4
-  Energy: 14
-  Metal: 7
-  Trace: 11
-  Exotica: 4
-  Chemicals: 20
-  Biochems: 4
-  Electronics: 13
-  Ceramsteel: 7
-Build Heavy Space Fighter V in Starport
-Time to Build / Upgrade: 2
+  Trace: 1
+  Chemicals: 2
+  Electronics: 2
+Upgrade Heavy Space Fighter IV to Heavy Space Fighter V at Starport
+Time to Build / Upgrade: 1
 [16790] Technologies Required to Build Unit (87):
   [4695] Advanced Minor Watercraft (83)
   [465] Recoilless Gun (93)
@@ -908,7 +800,7 @@ Unit can be disbanded: YES
 
 --20--
 Name: Space Attack Fighter V
-Nick Name: SS-FF-A5
+Nick Name: SS-F-A V
 Scores & Strengths:
   Tech Score: 2150
   Unit Score: 1957
@@ -933,19 +825,14 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 18
-Build Cost: 184
+Build Cost: 169
 Build Resource Requirements:
-  Food: 5
-  Energy: 11
-  Metal: 3
-  Trace: 17
-  Exotica: 5
-  Chemicals: 14
-  Biochems: 7
-  Electronics: 20
-  Ceramsteel: 3
-Build Space Attack Fighter V in Starport
-Time to Build / Upgrade: 2
+  Energy: 1
+  Trace: 1
+  Chemicals: 1
+  Electronics: 2
+Upgrade Space Attack Fighter IV to Space Attack Fighter V at Starport
+Time to Build / Upgrade: 1
 [16790] Technologies Required to Build Unit (87):
   [4695] Advanced Minor Watercraft (83)
   [465] Recoilless Gun (93)
@@ -982,20 +869,12 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 65
-Build Cost: 645
+Build Cost: 511
 Build Resource Requirements:
-  Food: 2
-  Energy: 6
-  Metal: 2
-  Trace: 10
-  Exotica: 2
-  Chemicals: 9
-  Biochems: 10
-  Electronics: 15
-  Ceramsteel: 3
+  Biochems: 4
   Monopols: 10
-Build Space Fighter VI in Starport
-Time to Build / Upgrade: 2
+Upgrade Space Fighter V to Space Fighter VI at Starport
+Time to Build / Upgrade: 1
 [31280] Technologies Required to Build Unit (86):
   [465] Recoilless Gun (93)
   [1785] Rotary Autocannon (90)
@@ -1007,7 +886,7 @@ Unit can be disbanded: YES
 
 --22--
 Name: Heavy Space Fighter VI
-Nick Name: SS-FF-Hv6
+Nick Name: SS-F-H VI
 Scores & Strengths:
   Tech Score: 2606
   Unit Score: 2306
@@ -1032,19 +911,11 @@ Attacks:
 Load aboard transport: 3
 Immune to Plague
 Upkeep / Maintenance: 19
-Build Cost: 185
+Build Cost: 24
 Build Resource Requirements:
-  Food: 4
-  Energy: 14
-  Metal: 6
-  Trace: 11
-  Exotica: 4
-  Chemicals: 20
-  Biochems: 5
-  Electronics: 13
-  Ceramsteel: 7
-Build Heavy Space Fighter VI in Starport
-Time to Build / Upgrade: 2
+  Biochems: 1
+Upgrade Heavy Space Fighter V to Heavy Space Fighter VI at Starport
+Time to Build / Upgrade: 1
 [21970] Technologies Required to Build Unit (88):
   [465] Recoilless Gun (93)
   [1785] Rotary Autocannon (90)
@@ -1080,20 +951,12 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 75
-Build Cost: 747
+Build Cost: 236
 Build Resource Requirements:
-  Food: 2
-  Energy: 5
-  Metal: 2
-  Trace: 10
-  Exotica: 2
-  Chemicals: 9
-  Biochems: 10
-  Electronics: 17
-  Ceramsteel: 3
-  Monopols: 11
-Build Space Fighter VII in Starport
-Time to Build / Upgrade: 2
+  Electronics: 2
+  Monopols: 1
+Upgrade Space Fighter VI to Space Fighter VII at Starport
+Time to Build / Upgrade: 1
 [37655] Technologies Required to Build Unit (79):
   [10830] Violator Assault Gunnery (80)
   [10295] PTS Fusion Cannon (76)
@@ -1103,7 +966,7 @@ Unit can be disbanded: YES
 
 --24--
 Name: Light Space Fighter VI
-Nick Name: SS-FF-Lt6
+Nick Name: SS-F-L VI
 Scores & Strengths:
   Tech Score: 2606
   Unit Score: 2352
@@ -1128,19 +991,14 @@ Attacks:
 Load aboard transport: 1
 Immune to Plague
 Upkeep / Maintenance: 22
-Build Cost: 215
+Build Cost: 39
 Build Resource Requirements:
-  Food: 5
-  Energy: 10
-  Metal: 2
-  Trace: 19
-  Exotica: 5
-  Chemicals: 13
-  Biochems: 9
-  Electronics: 25
-  Ceramsteel: 2
-Build Light Space Fighter VI in Starport
-Time to Build / Upgrade: 2
+  Energy: 1
+  Chemicals: 1
+  Biochems: 1
+  Electronics: 1
+Upgrade Light Space Fighter V to Light Space Fighter VI at Starport
+Time to Build / Upgrade: 1
 [21970] Technologies Required to Build Unit (88):
   [465] Recoilless Gun (93)
   [1785] Rotary Autocannon (90)
@@ -1151,7 +1009,7 @@ Unit can be disbanded: YES
 
 --25--
 Name: Space Attack Fighter VI
-Nick Name: SS-FF-A6
+Nick Name: SS-F-A VI
 Scores & Strengths:
   Tech Score: 2606
   Unit Score: 2352
@@ -1176,19 +1034,12 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 20
-Build Cost: 200
+Build Cost: 31
 Build Resource Requirements:
-  Food: 4
-  Energy: 10
-  Metal: 3
-  Trace: 16
-  Exotica: 5
-  Chemicals: 14
-  Biochems: 8
-  Electronics: 21
-  Ceramsteel: 3
-Build Space Attack Fighter VI in Starport
-Time to Build / Upgrade: 2
+  Biochems: 1
+  Electronics: 1
+Upgrade Space Attack Fighter V to Space Attack Fighter VI at Starport
+Time to Build / Upgrade: 1
 [21970] Technologies Required to Build Unit (88):
   [465] Recoilless Gun (93)
   [1785] Rotary Autocannon (90)
@@ -1240,7 +1091,7 @@ Unit can be disbanded: YES
 
 --27--
 Name: Heavy Space Fighter VII
-Nick Name: SS-FF-Hv7
+Nick Name: SS-F-H VII
 Scores & Strengths:
   Tech Score: 3210
   Unit Score: 2755
@@ -1265,20 +1116,12 @@ Attacks:
 Load aboard transport: 3
 Immune to Plague
 Upkeep / Maintenance: 112
-Build Cost: 1123
+Build Cost: 1099
 Build Resource Requirements:
-  Food: 3
-  Energy: 10
-  Metal: 4
-  Trace: 8
-  Exotica: 3
-  Chemicals: 15
-  Biochems: 10
-  Electronics: 13
-  Ceramsteel: 5
+  Biochems: 5
   Monopols: 16
-Build Heavy Space Fighter VII in Starport
-Time to Build / Upgrade: 3
+Upgrade Heavy Space Fighter VI to Heavy Space Fighter VII at Starport
+Time to Build / Upgrade: 1
 [31280] Technologies Required to Build Unit (86):
   [465] Recoilless Gun (93)
   [1785] Rotary Autocannon (90)
@@ -1290,7 +1133,7 @@ Unit can be disbanded: YES
 
 --28--
 Name: Light Space Fighter VII
-Nick Name: SS-FF-Lt7
+Nick Name: SS-F-L VII
 Scores & Strengths:
   Tech Score: 3210
   Unit Score: 2832
@@ -1315,20 +1158,12 @@ Attacks:
 Load aboard transport: 1
 Immune to Plague
 Upkeep / Maintenance: 79
-Build Cost: 789
+Build Cost: 750
 Build Resource Requirements:
-  Food: 4
-  Energy: 7
-  Metal: 1
-  Trace: 16
-  Exotica: 4
-  Chemicals: 10
-  Biochems: 12
-  Electronics: 23
-  Ceramsteel: 1
+  Biochems: 3
   Monopols: 10
-Build Light Space Fighter VII in Starport
-Time to Build / Upgrade: 2
+Upgrade Light Space Fighter VI to Light Space Fighter VII at Starport
+Time to Build / Upgrade: 1
 [31280] Technologies Required to Build Unit (86):
   [465] Recoilless Gun (93)
   [1785] Rotary Autocannon (90)
@@ -1340,7 +1175,7 @@ Unit can be disbanded: YES
 
 --29--
 Name: Space Attack Fighter VII
-Nick Name: SS-FF-A7
+Nick Name: SS-F-A VII
 Scores & Strengths:
   Tech Score: 3210
   Unit Score: 2858
@@ -1365,20 +1200,12 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 87
-Build Cost: 872
+Build Cost: 841
 Build Resource Requirements:
-  Food: 3
-  Energy: 8
-  Metal: 2
-  Trace: 14
-  Exotica: 4
-  Chemicals: 12
-  Biochems: 11
-  Electronics: 19
-  Ceramsteel: 2
+  Biochems: 3
   Monopols: 12
-Build Space Attack Fighter VII in Starport
-Time to Build / Upgrade: 2
+Upgrade Space Attack Fighter VI to Space Attack Fighter VII at Starport
+Time to Build / Upgrade: 1
 [31280] Technologies Required to Build Unit (86):
   [465] Recoilless Gun (93)
   [1785] Rotary Autocannon (90)
@@ -1390,7 +1217,7 @@ Unit can be disbanded: YES
 
 --30--
 Name: Heavy Space Fighter VIII
-Nick Name: SS-FF-Hv8
+Nick Name: SS-F-H VIII
 Scores & Strengths:
   Tech Score: 3905
   Unit Score: 3413
@@ -1415,20 +1242,12 @@ Attacks:
 Load aboard transport: 3
 Immune to Plague
 Upkeep / Maintenance: 143
-Build Cost: 1427
+Build Cost: 328
 Build Resource Requirements:
-  Food: 3
-  Energy: 9
-  Metal: 3
-  Trace: 8
-  Exotica: 3
-  Chemicals: 15
-  Biochems: 10
-  Electronics: 15
-  Ceramsteel: 4
-  Monopols: 20
-Build Heavy Space Fighter VIII in Starport
-Time to Build / Upgrade: 3
+  Electronics: 2
+  Monopols: 4
+Upgrade Heavy Space Fighter VII to Heavy Space Fighter VIII at Starport
+Time to Build / Upgrade: 1
 [37655] Technologies Required to Build Unit (79):
   [10830] Violator Assault Gunnery (80)
   [10295] PTS Fusion Cannon (76)
@@ -1438,7 +1257,7 @@ Unit can be disbanded: YES
 
 --31--
 Name: Light Space Fighter VIII
-Nick Name: SS-FF-Lt8
+Nick Name: SS-F-L VIII
 Scores & Strengths:
   Tech Score: 3905
   Unit Score: 3438
@@ -1463,20 +1282,14 @@ Attacks:
 Load aboard transport: 1
 Immune to Plague
 Upkeep / Maintenance: 102
-Build Cost: 1024
+Build Cost: 274
 Build Resource Requirements:
-  Food: 4
-  Energy: 6
-  Metal: 1
-  Trace: 16
-  Exotica: 4
-  Chemicals: 11
-  Biochems: 13
-  Electronics: 27
-  Ceramsteel: 1
-  Monopols: 13
-Build Light Space Fighter VIII in Starport
-Time to Build / Upgrade: 2
+  Chemicals: 1
+  Biochems: 1
+  Electronics: 4
+  Monopols: 3
+Upgrade Light Space Fighter VII to Light Space Fighter VIII at Starport
+Time to Build / Upgrade: 1
 [37655] Technologies Required to Build Unit (79):
   [10830] Violator Assault Gunnery (80)
   [10295] PTS Fusion Cannon (76)
@@ -1486,7 +1299,7 @@ Unit can be disbanded: YES
 
 --32--
 Name: Space Attack Fighter VIII
-Nick Name: SS-FF-A8
+Nick Name: SS-F-A VIII
 Scores & Strengths:
   Tech Score: 3905
   Unit Score: 3484
@@ -1511,20 +1324,18 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 112
-Build Cost: 1123
+Build Cost: 887
 Build Resource Requirements:
-  Food: 3
-  Energy: 7
-  Metal: 2
-  Trace: 13
-  Exotica: 4
-  Chemicals: 12
-  Biochems: 12
-  Electronics: 23
-  Ceramsteel: 2
-  Monopols: 14
-Build Space Attack Fighter VIII in Starport
-Time to Build / Upgrade: 3
+  Food: 1
+  Energy: 2
+  Trace: 3
+  Exotica: 2
+  Chemicals: 3
+  Biochems: 2
+  Electronics: 6
+  Monopols: 3
+Upgrade Space Fighter VII to Space Attack Fighter VIII at Starport
+Time to Build / Upgrade: 1
 [37655] Technologies Required to Build Unit (79):
   [10830] Violator Assault Gunnery (80)
   [10295] PTS Fusion Cannon (76)

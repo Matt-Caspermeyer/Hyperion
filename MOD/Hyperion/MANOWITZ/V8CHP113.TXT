@@ -1,4 +1,4 @@
-All units of the unit class Space Freighter are listed herein (9 in total):
+All units of the unit class Space Freighter are listed herein (11 in total):
 
 --1--
 Name: Space Freighter
@@ -73,19 +73,18 @@ Load aboard transport: 6
 Space Freighter - Used by the League to Resupply Agoras
 Immune to Plague
 Upkeep / Maintenance: 135
-Build Cost: 1353
+Build Cost: 1322
 Build Resource Requirements:
-  Food: 9
-  Energy: 10
-  Metal: 56
-  Trace: 14
-  Exotica: 9
-  Chemicals: 34
-  Electronics: 10
+  Food: 6
+  Energy: 5
+  Metal: 35
+  Trace: 6
+  Exotica: 6
+  Chemicals: 22
   Gems: 1
   Singularities: 2
-Build Jump Freighter in Starport
-Time to Build / Upgrade: 3
+Upgrade Armored Space Freighter to Jump Freighter at Starport
+Time to Build / Upgrade: 1
 [1610] Technologies Required to Build Unit (90):
   [230] Hospitals (97)
   [145] Composite Armor (97)
@@ -95,7 +94,7 @@ Unit can be disbanded: YES
 
 --3--
 Name: Armored Freighter
-Nick Name: JJ-TV-AA
+Nick Name: JJ-TVA
 Scores & Strengths:
   Tech Score: 1168
   Unit Score: 1167
@@ -122,20 +121,13 @@ Load aboard transport: 6
 Space Freighter - Used by the League to Resupply Agoras
 Immune to Plague
 Upkeep / Maintenance: 275
-Build Cost: 2748
+Build Cost: 1426
 Build Resource Requirements:
-  Food: 4
-  Energy: 3
-  Metal: 20
-  Trace: 8
-  Exotica: 4
-  Chemicals: 13
-  Electronics: 11
+  Electronics: 1
   Ceramsteel: 29
   Monopols: 42
-  Singularities: 2
-Build Armored Freighter in Starport
-Time to Build / Upgrade: 4
+Upgrade Jump Freighter to Armored Freighter at Starport
+Time to Build / Upgrade: 3
 [5975] Technologies Required to Build Unit (77):
   [1690] Ceramsteel (84)
   [4285] Jump Drives (70)
@@ -144,7 +136,7 @@ Unit can be disbanded: YES
 
 --4--
 Name: Armored Space Freighter
-Nick Name: SS-TV-AA
+Nick Name: SS-TVA
 Scores & Strengths:
   Tech Score: 1831
   Unit Score: 1833
@@ -169,18 +161,12 @@ Cargo Space: 3
 Load aboard transport: 6
 Immune to Plague
 Upkeep / Maintenance: 20
-Build Cost: 203
+Build Cost: 31
 Build Resource Requirements:
-  Food: 3
-  Energy: 5
-  Metal: 21
-  Trace: 8
-  Exotica: 3
-  Chemicals: 12
-  Electronics: 13
+  Electronics: 5
   Ceramsteel: 22
-Build Armored Space Freighter in Starport
-Time to Build / Upgrade: 2
+Upgrade Space Freighter to Armored Space Freighter at Starport
+Time to Build / Upgrade: 1
 [10580] Technologies Required to Build Unit (85):
   [1690] Ceramsteel (84)
   [8890] Space Transports (86)
@@ -289,7 +275,7 @@ Unit can be disbanded: YES
 
 --7--
 Name: Cybermorph Space Freighter
-Nick Name: JJ-TV-CM
+Nick Name: SS-TV-CM
 Scores & Strengths:
   Tech Score: 7174
   Unit Score: 7176
@@ -300,7 +286,7 @@ Scores & Strengths:
   Space Strength: 7176
   Garrison Strength: 0
 Statistics:
-  Movement Type: jump
+  Movement Type: space
   Move Points: 25
   Spot: 22
   Camouflage: 14
@@ -315,21 +301,15 @@ Cargo Space: 3
 Load aboard transport: 6
 Space Freighter - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 1037
-Build Cost: 10374
+Upkeep / Maintenance: 513
+Build Cost: 5098
 Build Resource Requirements:
-  Food: 2
-  Energy: 8
-  Metal: 4
-  Trace: 8
-  Exotica: 2
-  Chemicals: 13
+  Energy: 3
+  Chemicals: 1
   Biochems: 27
-  Electronics: 20
-  Ceramsteel: 7
+  Electronics: 7
   Wetware: 16
   Monopols: 22
-  Singularities: 5
 Cybermorph Space Freighter cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
@@ -365,29 +345,105 @@ Load aboard transport: 6
 Space Freighter - Used by the League to Resupply Agoras
 Immune to Plague
 Upkeep / Maintenance: 1103
-Build Cost: 11032
+Build Cost: 9710
 Build Resource Requirements:
-  Food: 2
-  Energy: 7
-  Metal: 8
-  Trace: 5
-  Exotica: 2
-  Chemicals: 13
   Biochems: 19
-  Electronics: 13
+  Electronics: 3
   Ceramsteel: 13
   Wetware: 9
   Monopols: 27
-  Singularities: 5
-Build Gate Freighter in Starport
-Time to Build / Upgrade: 4
+  Singularities: 3
+Upgrade Jump Freighter to Gate Freighter at Starport
+Time to Build / Upgrade: 3
 [57980] Technology Required to Build Unit (50):
   [57980] Gate Transports (50)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --9--
+Name: Cybermorph Jump Freighter
+Nick Name: JJ-TV-CM
+Scores & Strengths:
+  Tech Score: 7424
+  Unit Score: 7398
+  Average Score: 7411
+  Stat Strength: 5202
+  Total Strength: 7398
+  Planet Strength: 0
+  Space Strength: 7398
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 25
+  Spot: 22
+  Camouflage: 14
+  Agility: 43
+  Armor: 32
+  Psy Defense: 32
+  Rank: 248
+Attacks:
+  Direct Space: 41/31
+  Close Space: 37/25
+Cargo Space: 3
+Load aboard transport: 6
+Space Freighter - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 1006
+Build Cost: 4962
+Build Resource Requirements:
+  Singularities: 5
+Upgrade Cybermorph Space Freighter to Cybermorph Jump Freighter at Starport
+Time to Build / Upgrade: 1
+[82875] Technologies Required to Build Unit (70):
+  [54910] Polymorphonic Escortcraft (65)
+  [27965] Jump Escorts (75)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
 Name: Stealth Space Freighter
+Nick Name: SS-TV-SS
+Scores & Strengths:
+  Tech Score: 7481
+  Unit Score: 7481
+  Average Score: 7481
+  Stat Strength: 5785
+  Total Strength: 7481
+  Planet Strength: 0
+  Space Strength: 7481
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 25
+  Spot: 32
+  Camouflage: 44
+  Agility: 20
+  Armor: 30
+  Psy Defense: 30
+  Rank: 252
+Attacks:
+  Direct Space: 22/43
+  Close Space: 25/30
+Cargo Space: 3
+Load aboard transport: 6
+Space Freighter - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 399
+Build Cost: 3962
+Build Resource Requirements:
+  Energy: 4
+  Trace: 3
+  Chemicals: 2
+  Biochems: 22
+  Electronics: 10
+  Wetware: 8
+  Monopols: 22
+Stealth Space Freighter cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Stealth Jump Freighter
 Nick Name: JJ-TV-SS
 Scores & Strengths:
   Tech Score: 7481
@@ -414,21 +470,14 @@ Cargo Space: 3
 Load aboard transport: 6
 Space Freighter - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 1000
-Build Cost: 10000
+Upkeep / Maintenance: 975
+Build Cost: 5786
 Build Resource Requirements:
-  Food: 2
-  Energy: 9
-  Metal: 4
-  Trace: 11
-  Exotica: 2
-  Chemicals: 14
-  Biochems: 22
-  Electronics: 23
-  Ceramsteel: 6
-  Wetware: 8
-  Monopols: 22
   Singularities: 5
-Stealth Space Freighter cannot be built
+Upgrade Stealth Space Freighter to Stealth Jump Freighter at Starport
+Time to Build / Upgrade: 1
+[78285] Technologies Required to Build Unit (60):
+  [58065] Cloaked Escortcraft (48)
+  [20220] Jump Transports (72)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

@@ -49,7 +49,7 @@ Unit can be disbanded: YES
 
 --2--
 Name: Dreadnought Battleship
-Nick Name: NN-BB-DD
+Nick Name: NN-DBB
 Scores & Strengths:
   Tech Score: 213
   Unit Score: 634
@@ -97,7 +97,7 @@ Unit can be disbanded: YES
 
 --3--
 Name: Fast Battleship
-Nick Name: NN-BB-F
+Nick Name: NN-BBF
 Scores & Strengths:
   Tech Score: 775
   Unit Score: 1546
@@ -144,7 +144,7 @@ Unit can be disbanded: YES
 
 --4--
 Name: Pocket Battleship
-Nick Name: NN-BB-PP
+Nick Name: NN-BBP
 Scores & Strengths:
   Tech Score: 775
   Unit Score: 1546
@@ -191,7 +191,7 @@ Unit can be disbanded: YES
 
 --5--
 Name: Battleship II
-Nick Name: N-BB-2
+Nick Name: N-BB II
 Scores & Strengths:
   Tech Score: 775
   Unit Score: 1550
@@ -217,18 +217,13 @@ Attacks:
 Cargo Space: 2
 Load aboard transport: 7
 Upkeep / Maintenance: 46
-Build Cost: 459
 Build Resource Requirements:
-  Food: 4
-  Energy: 52
-  Metal: 90
-  Trace: 8
-  Exotica: 4
-  Chemicals: 52
+  Metal: 9
+  Trace: 4
   Biochems: 5
   Electronics: 5
-Build Battleship II in Well
-Time to Build / Upgrade: 4
+Upgrade Battleship to Battleship II at Well
+Time to Build / Upgrade: 1
 [2935] Technologies Required to Build Unit (96):
   [110] Structural Engineering (99)
   [100] Psychosocial Engineering (100)
@@ -267,17 +262,12 @@ Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
 Upkeep / Maintenance: 96
 Build Cost: 964
 Build Resource Requirements:
-  Food: 3
-  Energy: 62
-  Metal: 48
-  Trace: 7
-  Exotica: 3
-  Chemicals: 86
-  Biochems: 5
-  Electronics: 7
+  Energy: 10
+  Chemicals: 34
+  Electronics: 2
   Ceramsteel: 58
-Build Guid. Miss. Battleship in Well
-Time to Build / Upgrade: 6
+Upgrade Battleship II to Guid. Miss. Battleship at Well
+Time to Build / Upgrade: 4
 [5855] Technology Required to Build Unit (84):
   [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
@@ -334,7 +324,7 @@ Unit can be disbanded: YES
 
 --8--
 Name: PTS Missile Battleship
-Nick Name: NN-BB-GM
+Nick Name: NN-BB-PTS
 Scores & Strengths:
   Tech Score: 1474
   Unit Score: 3685
@@ -361,19 +351,18 @@ Cargo Space: 2
 Load aboard transport: 8
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
 Upkeep / Maintenance: 139
-Build Cost: 1385
+Build Cost: 421
 Build Resource Requirements:
-  Food: 3
-  Energy: 68
-  Metal: 59
-  Trace: 11
-  Exotica: 4
-  Chemicals: 99
-  Biochems: 7
-  Electronics: 11
-  Ceramsteel: 74
-Build PTS Missile Battleship in Well
-Time to Build / Upgrade: 7
+  Energy: 6
+  Metal: 11
+  Trace: 4
+  Exotica: 1
+  Chemicals: 13
+  Biochems: 2
+  Electronics: 4
+  Ceramsteel: 16
+Upgrade Guid. Miss. Battleship to PTS Missile Battleship at Well
+Time to Build / Upgrade: 1
 [6655] Technology Required to Build Unit (83):
   [6655] PTS Missile Navalcraft (83)
 Counts as planetary flock: YES
@@ -407,19 +396,17 @@ Attacks:
 Cargo Space: 2
 Load aboard transport: 7
 Upkeep / Maintenance: 172
-Build Cost: 1722
+Build Cost: 1301
 Build Resource Requirements:
-  Food: 4
-  Energy: 83
-  Metal: 72
-  Trace: 12
-  Exotica: 4
-  Chemicals: 123
-  Biochems: 7
-  Electronics: 12
-  Ceramsteel: 93
-Build Nuclear Battleship in Well
-Time to Build / Upgrade: 9
+  Food: 1
+  Energy: 15
+  Metal: 13
+  Trace: 1
+  Chemicals: 24
+  Electronics: 1
+  Ceramsteel: 19
+Upgrade PTS Missile Battleship to Nuclear Battleship at Well
+Time to Build / Upgrade: 3
 [7295] Technology Required to Build Unit (81):
   [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
@@ -427,7 +414,7 @@ Unit can be disbanded: YES
 
 --10--
 Name: Meson Amphibious Battleship
-Nick Name: CC-MBB
+Nick Name: CC-BBM
 Scores & Strengths:
   Tech Score: 5641
   Unit Score: 5641

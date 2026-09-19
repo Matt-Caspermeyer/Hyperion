@@ -1,4 +1,4 @@
-All units of the unit class Space Carrier are listed herein (12 in total):
+All units of the unit class Space Carrier are listed herein (14 in total):
 
 --1--
 Name: Space Carrier
@@ -79,19 +79,14 @@ Officer - Provides stack combat bonuses
 Deploys space units during space attacks
 Immune to Plague
 Upkeep / Maintenance: 292
-Build Cost: 2918
+Build Cost: 2254
 Build Resource Requirements:
-  Food: 6
-  Energy: 29
-  Metal: 42
-  Trace: 16
-  Exotica: 5
-  Chemicals: 53
-  Electronics: 12
-  Gems: 1
+  Energy: 5
+  Chemicals: 9
+  Electronics: 2
   Singularities: 1
-Build Jump Carrier in Starport
-Time to Build / Upgrade: 3
+Upgrade Space Carrier to Jump Carrier at Starport
+Time to Build / Upgrade: 1
 [1480] Technologies Required to Build Unit (91):
   [145] Composite Armor (97)
   [100] Psychosocial Engineering (100)
@@ -149,7 +144,7 @@ Unit can be disbanded: YES
 
 --4--
 Name: Space Light Carrier
-Nick Name: SS-CV-Lt
+Nick Name: SS-CVL
 Scores & Strengths:
   Tech Score: 2916
   Unit Score: 2916
@@ -198,7 +193,7 @@ Unit can be disbanded: YES
 
 --5--
 Name: Space Carrier MkII
-Nick Name: SS-CV-2
+Nick Name: SS-CV II
 Scores & Strengths:
   Tech Score: 2916
   Unit Score: 2916
@@ -226,16 +221,10 @@ Officer - Provides stack combat bonuses
 Deploys space units during space attacks
 Immune to Plague
 Upkeep / Maintenance: 605
-Build Cost: 6049
+Build Cost: 5385
 Build Resource Requirements:
-  Food: 2
-  Energy: 9
-  Metal: 10
-  Trace: 13
-  Exotica: 2
-  Chemicals: 16
   Biochems: 23
-  Electronics: 20
+  Electronics: 10
   Ceramsteel: 12
   Monopols: 27
 Space Carrier MkII cannot be built
@@ -244,7 +233,7 @@ Unit can be disbanded: YES
 
 --6--
 Name: Jump Carrier MkII
-Nick Name: JJ-CV-2
+Nick Name: JJ-CV II
 Scores & Strengths:
   Tech Score: 3755
   Unit Score: 3354
@@ -272,21 +261,14 @@ Officer - Provides stack combat bonuses
 Deploys space units during space attacks
 Immune to Plague
 Upkeep / Maintenance: 1373
-Build Cost: 13734
+Build Cost: 11480
 Build Resource Requirements:
-  Food: 1
-  Energy: 13
-  Metal: 10
-  Trace: 6
-  Exotica: 1
-  Chemicals: 21
   Biochems: 19
-  Electronics: 10
   Ceramsteel: 11
   Monopols: 35
-  Singularities: 3
-Build Jump Carrier MkII in Starport
-Time to Build / Upgrade: 4
+  Singularities: 2
+Upgrade Jump Carrier to Jump Carrier MkII at Starport
+Time to Build / Upgrade: 2
 [29430] Technologies Required to Build Unit (71):
   [4285] Jump Drives (70)
   [8615] Fusion Beam (63)
@@ -324,21 +306,13 @@ Officer - Provides stack combat bonuses
 Deploys space units during space attacks
 Immune to Plague
 Upkeep / Maintenance: 1259
-Build Cost: 12588
+Build Cost: 11771
 Build Resource Requirements:
-  Food: 2
-  Energy: 10
-  Metal: 14
-  Trace: 4
-  Exotica: 2
-  Chemicals: 20
-  Biochems: 19
-  Electronics: 12
-  Ceramsteel: 19
+  Electronics: 5
   Monopols: 36
   Singularities: 4
-Build Jump Escort Carrier in Starport
-Time to Build / Upgrade: 4
+Upgrade Space Escort Carrier to Jump Escort Carrier at Starport
+Time to Build / Upgrade: 1
 [27965] Technology Required to Build Unit (75):
   [27965] Jump Escorts (75)
 Counts as planetary flock: YES
@@ -346,7 +320,7 @@ Unit can be disbanded: YES
 
 --8--
 Name: Jump Carrier MkIII
-Nick Name: JJ-CV-3
+Nick Name: JJ-CV III
 Scores & Strengths:
   Tech Score: 5589
   Unit Score: 5083
@@ -374,21 +348,17 @@ Officer - Provides stack combat bonuses
 Deploys space units during space attacks
 Immune to Plague
 Upkeep / Maintenance: 2076
-Build Cost: 20759
+Build Cost: 9279
 Build Resource Requirements:
-  Food: 1
-  Energy: 16
-  Metal: 9
-  Trace: 6
-  Exotica: 1
-  Chemicals: 28
-  Biochems: 22
-  Electronics: 15
-  Ceramsteel: 14
-  Monopols: 46
-  Singularities: 4
-Build Jump Carrier MkIII in Starport
-Time to Build / Upgrade: 4
+  Energy: 3
+  Chemicals: 7
+  Biochems: 3
+  Electronics: 5
+  Ceramsteel: 3
+  Monopols: 11
+  Singularities: 1
+Upgrade Jump Carrier MkII to Jump Carrier MkIII at Starport
+Time to Build / Upgrade: 1
 [39365] Technology Required to Build Unit (61):
   [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
@@ -396,7 +366,7 @@ Unit can be disbanded: YES
 
 --9--
 Name: Jump Light Carrier
-Nick Name: JJ-CV-Lt
+Nick Name: JJ-CVL
 Scores & Strengths:
   Tech Score: 5589
   Unit Score: 5461
@@ -424,21 +394,16 @@ Officer - Provides stack combat bonuses
 Deploys space units during space attacks
 Immune to Plague
 Upkeep / Maintenance: 1736
-Build Cost: 17358
+Build Cost: 13326
 Build Resource Requirements:
-  Food: 2
-  Energy: 6
-  Metal: 12
-  Trace: 7
-  Exotica: 2
-  Chemicals: 13
-  Biochems: 18
-  Electronics: 19
-  Ceramsteel: 18
-  Monopols: 29
+  Energy: 1
+  Chemicals: 3
+  Electronics: 6
+  Ceramsteel: 3
+  Monopols: 6
   Singularities: 5
-Build Jump Light Carrier in Starport
-Time to Build / Upgrade: 4
+Upgrade Space Light Carrier to Jump Light Carrier at Starport
+Time to Build / Upgrade: 1
 [39365] Technology Required to Build Unit (61):
   [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
@@ -446,7 +411,7 @@ Unit can be disbanded: YES
 
 --10--
 Name: Cybermorph Space Carrier
-Nick Name: JJ-CV-CM
+Nick Name: SS-CV-CM
 Scores & Strengths:
   Tech Score: 7308
   Unit Score: 7308
@@ -457,7 +422,7 @@ Scores & Strengths:
   Space Strength: 7308
   Garrison Strength: 0
 Statistics:
-  Movement Type: jump
+  Movement Type: space
   Move Points: 21
   Spot: 28
   Camouflage: 11
@@ -473,21 +438,12 @@ Load aboard transport: 8
 Officer - Provides stack combat bonuses
 Deploys space units during space attacks
 Immune to Plague
-Upkeep / Maintenance: 2602
-Build Cost: 26019
+Upkeep / Maintenance: 1235
+Build Cost: 6960
 Build Resource Requirements:
-  Food: 2
-  Energy: 7
-  Metal: 8
-  Trace: 5
-  Exotica: 2
-  Chemicals: 12
-  Biochems: 24
-  Electronics: 14
-  Ceramsteel: 13
+  Biochems: 1
+  Ceramsteel: 1
   Wetware: 9
-  Monopols: 25
-  Singularities: 5
 Cybermorph Space Carrier cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
@@ -524,22 +480,15 @@ Officer - Provides stack combat bonuses
 Deploys space units during space attacks
 Immune to Plague
 Upkeep / Maintenance: 3990
-Build Cost: 39900
+Build Cost: 37646
 Build Resource Requirements:
-  Food: 1
-  Energy: 9
-  Metal: 10
-  Trace: 3
-  Exotica: 1
-  Chemicals: 17
   Biochems: 20
-  Electronics: 10
   Ceramsteel: 17
   Wetware: 5
   Monopols: 36
-  Singularities: 4
-Build Gate Carrier in Starport
-Time to Build / Upgrade: 4
+  Singularities: 3
+Upgrade Jump Carrier to Gate Carrier at Starport
+Time to Build / Upgrade: 3
 [60695] Technology Required to Build Unit (53):
   [60695] Gate Capital Ships (53)
 Counts as planetary flock: YES
@@ -573,21 +522,94 @@ Cargo Space: 6
 Load aboard transport: 8
 Immune to Plague
 Upkeep / Maintenance: 605
-Build Cost: 6047
+Build Cost: 662
 Build Resource Requirements:
-  Energy: 7
-  Metal: 8
-  Trace: 9
-  Exotica: 1
-  Chemicals: 13
-  Biochems: 23
-  Electronics: 23
-  Ceramsteel: 13
+  Electronics: 3
+  Ceramsteel: 1
   Wetware: 4
-  Monopols: 27
-Build Cloaking Space Carrier in Starport
-Time to Build / Upgrade: 4
+Upgrade Space Carrier MkII to Cloaking Space Carrier at Starport
+Time to Build / Upgrade: 1
 [59480] Technology Required to Build Unit (64):
   [59480] Cloaked Capital Ships (64)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--13--
+Name: Cybermorph Jump Carrier
+Nick Name: JJ-CV-CM
+Scores & Strengths:
+  Tech Score: 8200
+  Unit Score: 7969
+  Average Score: 8084
+  Stat Strength: 6710
+  Total Strength: 7969
+  Planet Strength: 0
+  Space Strength: 7969
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 22
+  Spot: 29
+  Camouflage: 12
+  Agility: 37
+  Armor: 44
+  Psy Defense: 44
+  Rank: 903
+Attacks:
+  Direct Space: 23/37
+  Close Space: 24/17
+Cargo Space: 6
+Load aboard transport: 8
+Officer - Provides stack combat bonuses
+Deploys space units during space attacks
+Immune to Plague
+Upkeep / Maintenance: 2642
+Build Cost: 19458
+Build Resource Requirements:
+  Singularities: 5
+Upgrade Cybermorph Space Carrier to Cybermorph Jump Carrier at Starport
+Time to Build / Upgrade: 1
+[95650] Technologies Required to Build Unit (67):
+  [56285] Polymorphonic Capital Ships (72)
+  [39365] Jump Capital Ships (61)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--14--
+Name: Cloaking Jump Carrier
+Nick Name: JJ-CV-CL
+Scores & Strengths:
+  Tech Score: 8498
+  Unit Score: 8330
+  Average Score: 8414
+  Stat Strength: 6843
+  Total Strength: 8330
+  Planet Strength: 0
+  Space Strength: 8330
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 15
+  Spot: 14
+  Camouflage: 46
+  Agility: 16
+  Armor: 45
+  Psy Defense: 45
+  Rank: 254
+Attacks:
+  Direct Space: 19/48
+  Close Space: 25/23
+Cargo Space: 6
+Load aboard transport: 8
+Immune to Plague
+Upkeep / Maintenance: 1221
+Build Cost: 11543
+Build Resource Requirements:
+  Singularities: 4
+Upgrade Cloaking Space Carrier to Cloaking Jump Carrier at Starport
+Time to Build / Upgrade: 1
+[98845] Technologies Required to Build Unit (63):
+  [59480] Cloaked Capital Ships (64)
+  [39365] Jump Capital Ships (61)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

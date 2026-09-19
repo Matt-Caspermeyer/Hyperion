@@ -2,7 +2,7 @@ All units of the unit class Torpedo Boat Destroyer are listed herein (8 in total
 
 --1--
 Name: Torpedo Boat Destroyer
-Nick Name: NN-TB-DD
+Nick Name: NN-DD-TB
 Scores & Strengths:
   Tech Score: 174
   Unit Score: 344
@@ -126,19 +126,14 @@ Cargo Space: 1
 Load aboard transport: 5
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
 Upkeep / Maintenance: 90
-Build Cost: 904
+Build Cost: 373
 Build Resource Requirements:
-  Food: 4
-  Energy: 50
-  Metal: 36
-  Trace: 21
-  Exotica: 4
-  Chemicals: 69
-  Biochems: 13
-  Electronics: 23
+  Energy: 11
+  Chemicals: 31
+  Electronics: 6
   Ceramsteel: 43
-Build Guid. Miss. Destroyer in Well
-Time to Build / Upgrade: 6
+Upgrade Naval Destroyer to Guid. Miss. Destroyer at Well
+Time to Build / Upgrade: 1
 [5855] Technology Required to Build Unit (84):
   [5855] Guided Missile Navalcraft (84)
 Counts as planetary flock: YES
@@ -226,19 +221,18 @@ Cargo Space: 1
 Load aboard transport: 6
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
 Upkeep / Maintenance: 135
-Build Cost: 1346
+Build Cost: 973
 Build Resource Requirements:
-  Food: 4
-  Energy: 63
-  Metal: 44
-  Trace: 28
-  Exotica: 5
-  Chemicals: 89
-  Biochems: 16
-  Electronics: 30
-  Ceramsteel: 54
-Build PTS Missile Destroyer in Well
-Time to Build / Upgrade: 7
+  Energy: 13
+  Metal: 8
+  Trace: 7
+  Exotica: 1
+  Chemicals: 20
+  Biochems: 3
+  Electronics: 7
+  Ceramsteel: 11
+Upgrade Guid. Miss. Destroyer to PTS Missile Destroyer at Well
+Time to Build / Upgrade: 3
 [6655] Technology Required to Build Unit (83):
   [6655] PTS Missile Navalcraft (83)
 Counts as planetary flock: YES
@@ -274,19 +268,18 @@ Cargo Space: 1
 Load aboard transport: 5
 Refuels V/STOL only (at end of turn - normal Air units are NOT refueled)
 Upkeep / Maintenance: 190
-Build Cost: 1897
+Build Cost: 924
 Build Resource Requirements:
-  Food: 5
-  Energy: 72
-  Metal: 52
-  Trace: 35
-  Exotica: 5
-  Chemicals: 104
-  Biochems: 19
-  Electronics: 38
-  Ceramsteel: 67
-Build Nuclear Destroyer in Well
-Time to Build / Upgrade: 9
+  Food: 1
+  Energy: 9
+  Metal: 8
+  Trace: 7
+  Chemicals: 15
+  Biochems: 3
+  Electronics: 8
+  Ceramsteel: 13
+Upgrade PTS Missile Destroyer to Nuclear Destroyer at Well
+Time to Build / Upgrade: 1
 [7295] Technology Required to Build Unit (81):
   [7295] Nuclear-Powered Navalcraft (81)
 Counts as planetary flock: YES
@@ -294,7 +287,7 @@ Unit can be disbanded: YES
 
 --7--
 Name: Meson Amphibious Destroyer
-Nick Name: CC-MDD
+Nick Name: CC-DDM
 Scores & Strengths:
   Tech Score: 5449
   Unit Score: 5449

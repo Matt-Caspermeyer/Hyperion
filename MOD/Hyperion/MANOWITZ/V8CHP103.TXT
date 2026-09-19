@@ -2,7 +2,7 @@ All units of the unit class Space Fighter Bomber are listed herein (28 in total)
 
 --1--
 Name: Space Fighter Bomber
-Nick Name: SS-FF-FB
+Nick Name: SS-F-FB
 Scores & Strengths:
   Tech Score: 309
   Unit Score: 308
@@ -46,7 +46,7 @@ Unit can be disbanded: YES
 
 --2--
 Name: Space Divebomber
-Nick Name: SS-FF-DB
+Nick Name: SS-F-DB
 Scores & Strengths:
   Tech Score: 309
   Unit Score: 308
@@ -134,7 +134,7 @@ Unit can be disbanded: YES
 
 --4--
 Name: Space Fighter Bomber II
-Nick Name: SS-FF-FB2
+Nick Name: SS-F-B II
 Scores & Strengths:
   Tech Score: 626
   Unit Score: 587
@@ -159,18 +159,10 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 20
-Build Cost: 200
 Build Resource Requirements:
-  Food: 8
-  Energy: 24
-  Metal: 10
-  Trace: 18
-  Exotica: 8
-  Chemicals: 29
   Biochems: 9
-  Electronics: 15
-Build Space Fighter Bomber II in Starport
-Time to Build / Upgrade: 2
+Upgrade Space Fighter Bomber to Space Fighter Bomber II at Starport
+Time to Build / Upgrade: 1
 [2500] Technologies Required to Build Unit (91):
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
@@ -180,7 +172,7 @@ Unit can be disbanded: YES
 
 --5--
 Name: Space Divebomber II
-Nick Name: SS-FF-DB2
+Nick Name: SS-F-DB II
 Scores & Strengths:
   Tech Score: 626
   Unit Score: 630
@@ -204,18 +196,10 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 22
-Build Cost: 221
 Build Resource Requirements:
-  Food: 7
-  Energy: 34
-  Metal: 17
-  Trace: 15
-  Exotica: 7
-  Chemicals: 41
   Biochems: 7
-  Electronics: 12
-Build Space Divebomber II in Starport
-Time to Build / Upgrade: 3
+Upgrade Space Divebomber to Space Divebomber II at Starport
+Time to Build / Upgrade: 1
 [2500] Technologies Required to Build Unit (91):
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
@@ -250,18 +234,11 @@ Attacks:
 Load aboard transport: 3
 Immune to Plague
 Upkeep / Maintenance: 20
-Build Cost: 198
 Build Resource Requirements:
-  Food: 4
-  Energy: 35
-  Metal: 14
-  Trace: 11
-  Exotica: 4
-  Chemicals: 42
+  Metal: 2
   Biochems: 4
-  Electronics: 9
-Build Space Torpedo Bomber II in Starport
-Time to Build / Upgrade: 2
+Upgrade Space Torpedo Bomber to Space Torpedo Bomber II at Starport
+Time to Build / Upgrade: 1
 [7130] Technologies Required to Build Unit (90):
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
@@ -274,7 +251,7 @@ Unit can be disbanded: YES
 
 --7--
 Name: Space Divebomber III
-Nick Name: SS-FF-DB3
+Nick Name: SS-F-DB III
 Scores & Strengths:
   Tech Score: 1128
   Unit Score: 1012
@@ -300,16 +277,8 @@ Immune to Plague
 Upkeep / Maintenance: 19
 Build Cost: 188
 Build Resource Requirements:
-  Food: 5
-  Energy: 28
-  Metal: 17
-  Trace: 11
-  Exotica: 5
-  Chemicals: 35
-  Biochems: 4
-  Electronics: 9
-Build Space Divebomber III in Starport
-Time to Build / Upgrade: 2
+Upgrade Space Divebomber II to Space Divebomber III at Starport
+Time to Build / Upgrade: 1
 [7130] Technologies Required to Build Unit (90):
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
@@ -322,7 +291,7 @@ Unit can be disbanded: YES
 
 --8--
 Name: Space Fighter Bomber III
-Nick Name: SS-FF-FB3
+Nick Name: SS-F-B III
 Scores & Strengths:
   Tech Score: 1128
   Unit Score: 1060
@@ -349,16 +318,9 @@ Immune to Plague
 Upkeep / Maintenance: 19
 Build Cost: 186
 Build Resource Requirements:
-  Food: 6
-  Energy: 22
-  Metal: 14
-  Trace: 15
-  Exotica: 6
-  Chemicals: 28
-  Biochems: 6
-  Electronics: 12
-Build Space Fighter Bomber III in Starport
-Time to Build / Upgrade: 2
+  Metal: 4
+Upgrade Space Fighter Bomber II to Space Fighter Bomber III at Starport
+Time to Build / Upgrade: 1
 [7130] Technologies Required to Build Unit (90):
   [145] Composite Armor (97)
   [795] Rocket Propulsion (90)
@@ -398,17 +360,11 @@ Immune to Plague
 Upkeep / Maintenance: 21
 Build Cost: 214
 Build Resource Requirements:
-  Food: 3
-  Energy: 37
-  Metal: 8
-  Trace: 8
-  Exotica: 3
-  Chemicals: 45
-  Biochems: 3
-  Electronics: 9
+  Energy: 2
+  Chemicals: 3
   Ceramsteel: 7
-Build Space Torpedo Bomber III in Starport
-Time to Build / Upgrade: 2
+Upgrade Space Torpedo Bomber II to Space Torpedo Bomber III at Starport
+Time to Build / Upgrade: 1
 [12535] Technologies Required to Build Unit (86):
   [1220] Finite Element Methods (77)
   [465] Recoilless Gun (93)
@@ -421,7 +377,7 @@ Unit can be disbanded: YES
 
 --10--
 Name: Space Divebomber IV
-Nick Name: SS-FF-DB4
+Nick Name: SS-F-DB IV
 Scores & Strengths:
   Tech Score: 1660
   Unit Score: 1462
@@ -445,19 +401,14 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 21
-Build Cost: 213
+Build Cost: 25
 Build Resource Requirements:
-  Food: 4
-  Energy: 30
-  Metal: 10
-  Trace: 9
-  Exotica: 4
-  Chemicals: 36
-  Biochems: 3
-  Electronics: 10
+  Energy: 2
+  Chemicals: 1
+  Electronics: 1
   Ceramsteel: 10
-Build Space Divebomber IV in Starport
-Time to Build / Upgrade: 2
+Upgrade Space Divebomber III to Space Divebomber IV at Starport
+Time to Build / Upgrade: 1
 [12535] Technologies Required to Build Unit (86):
   [1220] Finite Element Methods (77)
   [465] Recoilless Gun (93)
@@ -470,7 +421,7 @@ Unit can be disbanded: YES
 
 --11--
 Name: Space Fighter Bomber IV
-Nick Name: SS-FF-FB4
+Nick Name: SS-F-B IV
 Scores & Strengths:
   Tech Score: 1660
   Unit Score: 1490
@@ -495,19 +446,12 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 20
-Build Cost: 198
+Build Cost: 12
 Build Resource Requirements:
-  Food: 5
-  Energy: 22
-  Metal: 8
-  Trace: 12
-  Exotica: 5
-  Chemicals: 27
-  Biochems: 5
-  Electronics: 13
+  Electronics: 1
   Ceramsteel: 7
-Build Space Fighter Bomber IV in Starport
-Time to Build / Upgrade: 2
+Upgrade Space Fighter Bomber III to Space Fighter Bomber IV at Starport
+Time to Build / Upgrade: 1
 [12535] Technologies Required to Build Unit (86):
   [1220] Finite Element Methods (77)
   [465] Recoilless Gun (93)
@@ -545,19 +489,12 @@ Attacks:
 Load aboard transport: 3
 Immune to Plague
 Upkeep / Maintenance: 23
-Build Cost: 225
+Build Cost: 11
 Build Resource Requirements:
-  Food: 2
-  Energy: 37
-  Metal: 5
-  Trace: 8
-  Exotica: 2
-  Chemicals: 48
-  Biochems: 3
-  Electronics: 10
-  Ceramsteel: 5
-Build Space Torpedo Bomber IV in Starport
-Time to Build / Upgrade: 2
+  Chemicals: 3
+  Electronics: 1
+Upgrade Space Torpedo Bomber III to Space Torpedo Bomber IV at Starport
+Time to Build / Upgrade: 1
 [16790] Technologies Required to Build Unit (87):
   [4695] Advanced Minor Watercraft (83)
   [465] Recoilless Gun (93)
@@ -610,7 +547,7 @@ Unit can be disbanded: YES
 
 --14--
 Name: Space Divebomber V
-Nick Name: SS-FF-DB5
+Nick Name: SS-F-DB V
 Scores & Strengths:
   Tech Score: 2150
   Unit Score: 1917
@@ -634,19 +571,13 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 23
-Build Cost: 232
+Build Cost: 207
 Build Resource Requirements:
-  Food: 4
-  Energy: 30
-  Metal: 7
-  Trace: 9
-  Exotica: 4
-  Chemicals: 41
-  Biochems: 4
-  Electronics: 11
-  Ceramsteel: 7
-Build Space Divebomber V in Starport
-Time to Build / Upgrade: 2
+  Chemicals: 5
+  Biochems: 1
+  Electronics: 1
+Upgrade Space Divebomber IV to Space Divebomber V at Starport
+Time to Build / Upgrade: 1
 [16790] Technologies Required to Build Unit (87):
   [4695] Advanced Minor Watercraft (83)
   [465] Recoilless Gun (93)
@@ -658,7 +589,7 @@ Unit can be disbanded: YES
 
 --15--
 Name: Space Fighter Bomber V
-Nick Name: SS-FF-FB5
+Nick Name: SS-F-B V
 Scores & Strengths:
   Tech Score: 2150
   Unit Score: 1946
@@ -683,19 +614,13 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 21
-Build Cost: 212
+Build Cost: 200
 Build Resource Requirements:
-  Food: 5
-  Energy: 22
-  Metal: 5
-  Trace: 13
-  Exotica: 5
-  Chemicals: 30
-  Biochems: 5
-  Electronics: 15
-  Ceramsteel: 5
-Build Space Fighter Bomber V in Starport
-Time to Build / Upgrade: 2
+  Trace: 1
+  Chemicals: 3
+  Electronics: 2
+Upgrade Space Fighter Bomber IV to Space Fighter Bomber V at Starport
+Time to Build / Upgrade: 1
 [16790] Technologies Required to Build Unit (87):
   [4695] Advanced Minor Watercraft (83)
   [465] Recoilless Gun (93)
@@ -732,19 +657,11 @@ Attacks:
 Load aboard transport: 3
 Immune to Plague
 Upkeep / Maintenance: 23
-Build Cost: 234
+Build Cost: 223
 Build Resource Requirements:
-  Food: 2
-  Energy: 36
-  Metal: 5
-  Trace: 8
-  Exotica: 2
-  Chemicals: 49
-  Biochems: 3
-  Electronics: 10
-  Ceramsteel: 5
-Build Space Torpedo Bomber V in Starport
-Time to Build / Upgrade: 2
+  Chemicals: 1
+Upgrade Space Torpedo Bomber IV to Space Torpedo Bomber V at Starport
+Time to Build / Upgrade: 1
 [21970] Technologies Required to Build Unit (88):
   [465] Recoilless Gun (93)
   [1785] Rotary Autocannon (90)
@@ -781,12 +698,9 @@ Attacks:
 Load aboard transport: 3
 Immune to Plague
 Upkeep / Maintenance: 347
-Build Cost: 3259
 Build Resource Requirements:
   Biochems: 4
-  Ceramsteel: 8
-  Gems: 91
-Upgrade Space Torpedo Bomber to Martyr Torpedo Bomber II at Starport
+Upgrade Martyr Torpedo Bomber to Martyr Torpedo Bomber II at Starport
 Time to Build / Upgrade: 1
 [17120] Technologies Required to Build Unit (86):
   [330] Holy Warriors (82)
@@ -800,7 +714,7 @@ Unit can be disbanded: YES
 
 --18--
 Name: Space Divebomber VI
-Nick Name: SS-FF-DB6
+Nick Name: SS-F-DB VI
 Scores & Strengths:
   Tech Score: 2606
   Unit Score: 2300
@@ -824,19 +738,11 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 25
-Build Cost: 245
+Build Cost: 38
 Build Resource Requirements:
-  Food: 4
-  Energy: 30
-  Metal: 6
-  Trace: 9
-  Exotica: 4
-  Chemicals: 41
-  Biochems: 4
-  Electronics: 12
-  Ceramsteel: 7
-Build Space Divebomber VI in Starport
-Time to Build / Upgrade: 2
+  Electronics: 1
+Upgrade Space Divebomber V to Space Divebomber VI at Starport
+Time to Build / Upgrade: 1
 [21970] Technologies Required to Build Unit (88):
   [465] Recoilless Gun (93)
   [1785] Rotary Autocannon (90)
@@ -847,7 +753,7 @@ Unit can be disbanded: YES
 
 --19--
 Name: Space Fighter Bomber VI
-Nick Name: SS-FF-FB6
+Nick Name: SS-F-B VI
 Scores & Strengths:
   Tech Score: 2606
   Unit Score: 2373
@@ -872,19 +778,13 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 23
-Build Cost: 234
+Build Cost: 34
 Build Resource Requirements:
-  Food: 4
-  Energy: 23
-  Metal: 5
-  Trace: 12
-  Exotica: 5
-  Chemicals: 31
-  Biochems: 6
-  Electronics: 15
-  Ceramsteel: 5
-Build Space Fighter Bomber VI in Starport
-Time to Build / Upgrade: 2
+  Energy: 1
+  Chemicals: 1
+  Biochems: 1
+Upgrade Space Fighter Bomber V to Space Fighter Bomber VI at Starport
+Time to Build / Upgrade: 1
 [21970] Technologies Required to Build Unit (88):
   [465] Recoilless Gun (93)
   [1785] Rotary Autocannon (90)
@@ -920,20 +820,12 @@ Attacks:
 Load aboard transport: 3
 Immune to Plague
 Upkeep / Maintenance: 206
-Build Cost: 2058
+Build Cost: 1835
 Build Resource Requirements:
-  Food: 2
-  Energy: 25
-  Metal: 3
-  Trace: 7
-  Exotica: 2
-  Chemicals: 35
-  Biochems: 16
-  Electronics: 10
-  Ceramsteel: 4
+  Biochems: 13
   Monopols: 33
-Build Space Torpedo Bomber VI in Starport
-Time to Build / Upgrade: 3
+Upgrade Space Torpedo Bomber V to Space Torpedo Bomber VI at Starport
+Time to Build / Upgrade: 2
 [31280] Technologies Required to Build Unit (86):
   [465] Recoilless Gun (93)
   [1785] Rotary Autocannon (90)
@@ -971,12 +863,11 @@ Attacks:
 Load aboard transport: 3
 Immune to Plague
 Upkeep / Maintenance: 463
-Build Cost: 4424
+Build Cost: 4633
 Build Resource Requirements:
-  Biochems: 4
-  Ceramsteel: 9
-  Gems: 117
-Upgrade Space Torpedo Bomber to Martyr Torpedo Bomber III at Starport
+  Ceramsteel: 1
+  Gems: 26
+Upgrade Martyr Torpedo Bomber II to Martyr Torpedo Bomber III at Starport
 Time to Build / Upgrade: 1
 [22300] Technologies Required to Build Unit (86):
   [330] Holy Warriors (82)
@@ -989,7 +880,7 @@ Unit can be disbanded: YES
 
 --22--
 Name: Space Divebomber VII
-Nick Name: SS-FF-DB7
+Nick Name: SS-F-DB VII
 Scores & Strengths:
   Tech Score: 3210
   Unit Score: 2742
@@ -1013,20 +904,12 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 196
-Build Cost: 1962
+Build Cost: 1924
 Build Resource Requirements:
-  Food: 3
-  Energy: 21
-  Metal: 4
-  Trace: 7
-  Exotica: 3
-  Chemicals: 31
-  Biochems: 14
-  Electronics: 11
-  Ceramsteel: 5
+  Biochems: 10
   Monopols: 30
-Build Space Divebomber VII in Starport
-Time to Build / Upgrade: 3
+Upgrade Space Divebomber VI to Space Divebomber VII at Starport
+Time to Build / Upgrade: 2
 [31280] Technologies Required to Build Unit (86):
   [465] Recoilless Gun (93)
   [1785] Rotary Autocannon (90)
@@ -1038,7 +921,7 @@ Unit can be disbanded: YES
 
 --23--
 Name: Space Torpedo Bomber VII
-Nick Name: Prophet VI
+Nick Name: Prophet Vii
 Scores & Strengths:
   Tech Score: 3905
   Unit Score: 2794
@@ -1063,20 +946,12 @@ Attacks:
 Load aboard transport: 3
 Immune to Plague
 Upkeep / Maintenance: 243
-Build Cost: 2426
+Build Cost: 591
 Build Resource Requirements:
-  Food: 1
-  Energy: 19
-  Metal: 3
-  Trace: 6
-  Exotica: 1
-  Chemicals: 33
-  Biochems: 15
-  Electronics: 12
-  Ceramsteel: 4
-  Monopols: 38
-Build Space Torpedo Bomber VII in Starport
-Time to Build / Upgrade: 3
+  Electronics: 2
+  Monopols: 5
+Upgrade Space Torpedo Bomber VI to Space Torpedo Bomber VII at Starport
+Time to Build / Upgrade: 1
 [37655] Technologies Required to Build Unit (79):
   [10830] Violator Assault Gunnery (80)
   [10295] PTS Fusion Cannon (76)
@@ -1086,7 +961,7 @@ Unit can be disbanded: YES
 
 --24--
 Name: Space Fighter Bomber VII
-Nick Name: SS-FF-FB7
+Nick Name: SS-F-B VII
 Scores & Strengths:
   Tech Score: 3210
   Unit Score: 2832
@@ -1111,20 +986,12 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 153
-Build Cost: 1532
+Build Cost: 1498
 Build Resource Requirements:
-  Food: 3
-  Energy: 16
-  Metal: 3
-  Trace: 10
-  Exotica: 4
-  Chemicals: 23
-  Biochems: 13
-  Electronics: 14
-  Ceramsteel: 3
+  Biochems: 7
   Monopols: 22
-Build Space Fighter Bomber VII in Starport
-Time to Build / Upgrade: 3
+Upgrade Space Fighter Bomber VI to Space Fighter Bomber VII at Starport
+Time to Build / Upgrade: 1
 [31280] Technologies Required to Build Unit (86):
   [465] Recoilless Gun (93)
   [1785] Rotary Autocannon (90)
@@ -1162,14 +1029,14 @@ Attacks:
 Load aboard transport: 3
 Immune to Plague
 Upkeep / Maintenance: 697
-Build Cost: 6765
+Build Cost: 2341
 Build Resource Requirements:
-  Biochems: 12
-  Ceramsteel: 6
+  Biochems: 8
+  Electronics: 1
   Monopols: 21
-  Gems: 136
-Upgrade Space Torpedo Bomber to Martyr Torpedo Bomber IV at Starport
-Time to Build / Upgrade: 1
+  Gems: 19
+Upgrade Martyr Torpedo Bomber III to Martyr Torpedo Bomber IV at Starport
+Time to Build / Upgrade: 2
 [31610] Technologies Required to Build Unit (85):
   [330] Holy Warriors (82)
   [465] Recoilless Gun (93)
@@ -1182,7 +1049,7 @@ Unit can be disbanded: YES
 
 --26--
 Name: Space Divebomber VIII
-Nick Name: SS-FF-DB8
+Nick Name: SS-F-DB VIII
 Scores & Strengths:
   Tech Score: 3905
   Unit Score: 3413
@@ -1206,20 +1073,12 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 244
-Build Cost: 2436
+Build Cost: 512
 Build Resource Requirements:
-  Food: 3
-  Energy: 17
-  Metal: 3
-  Trace: 7
-  Exotica: 3
-  Chemicals: 29
-  Biochems: 14
-  Electronics: 13
-  Ceramsteel: 4
-  Monopols: 35
-Build Space Divebomber VIII in Starport
-Time to Build / Upgrade: 3
+  Electronics: 2
+  Monopols: 5
+Upgrade Space Divebomber VII to Space Divebomber VIII at Starport
+Time to Build / Upgrade: 1
 [37655] Technologies Required to Build Unit (79):
   [10830] Violator Assault Gunnery (80)
   [10295] PTS Fusion Cannon (76)
@@ -1229,7 +1088,7 @@ Unit can be disbanded: YES
 
 --27--
 Name: Space Fighter Bomber VIII
-Nick Name: SS-FF-FB8
+Nick Name: SS-F-B VIII
 Scores & Strengths:
   Tech Score: 3905
   Unit Score: 3523
@@ -1254,20 +1113,12 @@ Attacks:
 Load aboard transport: 2
 Immune to Plague
 Upkeep / Maintenance: 194
-Build Cost: 1942
+Build Cost: 444
 Build Resource Requirements:
-  Food: 3
-  Energy: 13
-  Metal: 3
-  Trace: 9
-  Exotica: 4
-  Chemicals: 23
-  Biochems: 13
-  Electronics: 17
-  Ceramsteel: 3
-  Monopols: 27
-Build Space Fighter Bomber VIII in Starport
-Time to Build / Upgrade: 3
+  Electronics: 3
+  Monopols: 5
+Upgrade Space Fighter Bomber VII to Space Fighter Bomber VIII at Starport
+Time to Build / Upgrade: 1
 [37655] Technologies Required to Build Unit (79):
   [10830] Violator Assault Gunnery (80)
   [10295] PTS Fusion Cannon (76)
@@ -1303,14 +1154,13 @@ Attacks:
 Load aboard transport: 3
 Immune to Plague
 Upkeep / Maintenance: 1033
-Build Cost: 10125
+Build Cost: 7993
 Build Resource Requirements:
-  Biochems: 12
-  Ceramsteel: 6
-  Monopols: 23
-  Gems: 199
-Upgrade Space Torpedo Bomber to Martyr Torpedo Bomber V at Starport
-Time to Build / Upgrade: 2
+  Electronics: 1
+  Monopols: 2
+  Gems: 63
+Upgrade Martyr Torpedo Bomber IV to Martyr Torpedo Bomber V at Starport
+Time to Build / Upgrade: 1
 [37985] Technologies Required to Build Unit (80):
   [330] Holy Warriors (82)
   [10830] Violator Assault Gunnery (80)

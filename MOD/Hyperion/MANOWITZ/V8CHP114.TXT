@@ -73,19 +73,15 @@ Load aboard transport: 8
 Bulk Hauler - Used by the League to Resupply Agoras
 Immune to Plague
 Upkeep / Maintenance: 210
-Build Cost: 2096
+Build Cost: 1811
 Build Resource Requirements:
-  Food: 4
-  Energy: 20
-  Metal: 77
-  Trace: 5
-  Exotica: 3
-  Chemicals: 55
-  Electronics: 3
+  Energy: 5
+  Metal: 7
+  Chemicals: 14
   Gems: 1
   Singularities: 2
-Build Jump Bulk Hauler in Starport
-Time to Build / Upgrade: 3
+Upgrade Space Bulk Hauler to Jump Bulk Hauler at Starport
+Time to Build / Upgrade: 1
 [1610] Technologies Required to Build Unit (90):
   [230] Hospitals (97)
   [145] Composite Armor (97)
@@ -95,7 +91,7 @@ Unit can be disbanded: YES
 
 --3--
 Name: Armored Bulk Hauler
-Nick Name: JJ-BH-AA
+Nick Name: JJ-BHA
 Scores & Strengths:
   Tech Score: 1168
   Unit Score: 1167
@@ -122,20 +118,14 @@ Load aboard transport: 8
 Bulk Hauler - Used by the League to Resupply Agoras
 Immune to Plague
 Upkeep / Maintenance: 417
-Build Cost: 4168
+Build Cost: 2357
 Build Resource Requirements:
-  Food: 3
-  Energy: 3
-  Metal: 22
-  Trace: 6
-  Exotica: 3
-  Chemicals: 14
-  Electronics: 9
+  Trace: 1
+  Electronics: 6
   Ceramsteel: 32
   Monopols: 46
-  Singularities: 2
-Build Armored Bulk Hauler in Starport
-Time to Build / Upgrade: 4
+Upgrade Jump Bulk Hauler to Armored Bulk Hauler at Starport
+Time to Build / Upgrade: 3
 [5975] Technologies Required to Build Unit (77):
   [1690] Ceramsteel (84)
   [4285] Jump Drives (70)
@@ -193,7 +183,7 @@ Unit can be disbanded: YES
 
 --5--
 Name: Power Bulk Hauler
-Nick Name: JJ-BH-PP
+Nick Name: JJ-BHP
 Scores & Strengths:
   Tech Score: 4325
   Unit Score: 4325
@@ -220,19 +210,13 @@ Load aboard transport: 8
 Bulk Hauler - Used by the League to Resupply Agoras
 Immune to Plague
 Upkeep / Maintenance: 810
-Build Cost: 8095
+Build Cost: 5738
 Build Resource Requirements:
-  Food: 1
-  Energy: 5
-  Metal: 7
-  Trace: 9
-  Exotica: 1
-  Chemicals: 11
+  Energy: 2
+  Trace: 3
   Biochems: 16
-  Electronics: 17
-  Ceramsteel: 9
-  Monopols: 18
-  Singularities: 4
+  Electronics: 8
+  Singularities: 2
 Power Bulk Hauler cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
@@ -266,20 +250,17 @@ Load aboard transport: 8
 Bulk Hauler - Used by the League to Resupply Agoras
 Immune to Plague
 Upkeep / Maintenance: 1702
-Build Cost: 17019
+Build Cost: 11281
 Build Resource Requirements:
-  Food: 2
-  Energy: 7
-  Metal: 5
-  Trace: 10
-  Exotica: 2
-  Chemicals: 11
-  Biochems: 26
-  Electronics: 22
-  Ceramsteel: 7
+  Food: 1
+  Energy: 2
+  Trace: 1
+  Exotica: 1
+  Biochems: 10
+  Electronics: 5
   Wetware: 18
-  Monopols: 19
-  Singularities: 5
+  Monopols: 1
+  Singularities: 1
 Cybermorph Bulk Hauler cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
@@ -315,22 +296,16 @@ Load aboard transport: 8
 Bulk Hauler - Used by the League to Resupply Agoras
 Immune to Plague
 Upkeep / Maintenance: 1672
-Build Cost: 16724
+Build Cost: 14913
 Build Resource Requirements:
-  Food: 1
-  Energy: 8
-  Metal: 9
-  Trace: 4
-  Exotica: 2
-  Chemicals: 16
   Biochems: 20
-  Electronics: 11
+  Electronics: 8
   Ceramsteel: 15
   Wetware: 7
   Monopols: 32
-  Singularities: 5
-Build Gate Bulk Hauler in Starport
-Time to Build / Upgrade: 4
+  Singularities: 3
+Upgrade Jump Bulk Hauler to Gate Bulk Hauler at Starport
+Time to Build / Upgrade: 3
 [57980] Technology Required to Build Unit (50):
   [57980] Gate Transports (50)
 Counts as planetary flock: YES
@@ -365,20 +340,17 @@ Load aboard transport: 8
 Bulk Hauler - Used by the League to Resupply Agoras
 Immune to Plague
 Upkeep / Maintenance: 1645
-Build Cost: 16453
+Build Cost: 10715
 Build Resource Requirements:
-  Food: 1
-  Energy: 10
-  Metal: 3
-  Trace: 10
-  Exotica: 2
-  Chemicals: 15
-  Biochems: 21
-  Electronics: 20
-  Ceramsteel: 4
+  Energy: 5
+  Trace: 1
+  Exotica: 1
+  Chemicals: 4
+  Biochems: 5
+  Electronics: 3
   Wetware: 8
-  Monopols: 22
-  Singularities: 5
+  Monopols: 4
+  Singularities: 1
 Stealth Bulk Hauler cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
