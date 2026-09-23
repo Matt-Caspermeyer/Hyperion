@@ -1,360 +1,134 @@
-All units of the unit class Space Destroyer are listed herein (9 in total):
+All units of the unit class Shock Legion are listed herein (3 in total):
 
 --1--
-Name: Space Destroyer
-Nick Name: SS-DD
+Name: Shock Legion
+Nick Name: Shock Lgn
 Scores & Strengths:
-  Tech Score: 2580
-  Unit Score: 2580
-  Average Score: 2580
-  Stat Strength: 1810
-  Total Strength: 2580
-  Planet Strength: 0
-  Space Strength: 2580
-  Garrison Strength: 0
+  Tech Score: 2509
+  Unit Score: 2509
+  Average Score: 2509
+  Stat Strength: 1472
+  Total Strength: 2509
+  Planet Strength: 2509
+  Space Strength: 0
+  Garrison Strength: 627
 Statistics:
-  Movement Type: space
+  Movement Type: foot
   Move Points: 16
-  Spot: 12
-  Camouflage: 4
-  Agility: 12
-  Armor: 25
-  Psy Defense: 25
-  Rank: 139
+  Spot: 9
+  Camouflage: 11
+  Agility: 26
+  Armor: 13
+  Psy Defense: 13
+  Rank: 112
 Attacks:
-  Direct Space: 16/28
-  Close Space: 14/23
-Cargo Space: 1
-Load aboard transport: 5
-Immune to Plague
-Upkeep / Maintenance: 41
-Build Cost: 413
+  Air: 12/11
+  Indirect: 16/14
+  Direct: 21/16
+  Close: 23/15
+Load aboard transport: 1
+Upkeep / Maintenance: 75
+Build Cost: 587
 Build Resource Requirements:
-  Food: 3
-  Energy: 22
-  Metal: 18
-  Trace: 9
-  Exotica: 3
-  Chemicals: 36
-  Biochems: 26
-  Electronics: 14
-  Ceramsteel: 20
-Build Space Destroyer in Starport
-Time to Build / Upgrade: 3
-[14045] Technology Required to Build Unit (84):
-  [14045] Space Escorts (84)
+  Metal: 1
+  Trace: 2
+  Electronics: 1
+  Ceramsteel: 3
+  Monopols: 26
+Upgrade Chemical Shock Legion to Shock Legion at Fort
+Time to Build / Upgrade: 1
+[16085] Technologies Required to Build Unit (64):
+  [6020] Chemical Shock Legion (49)
+  [10065] Powered-Armor Legion (79)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Jump Destroyer
-Nick Name: JJ-DD
+Name: Genetic Shock Legion
+Nick Name: Gen SL
 Scores & Strengths:
-  Tech Score: 3399
-  Unit Score: 3361
-  Average Score: 3380
-  Stat Strength: 2369
-  Total Strength: 3361
-  Planet Strength: 0
-  Space Strength: 3361
-  Garrison Strength: 0
+  Tech Score: 3749
+  Unit Score: 3581
+  Average Score: 3665
+  Stat Strength: 2022
+  Total Strength: 3581
+  Planet Strength: 3581
+  Space Strength: 0
+  Garrison Strength: 800
 Statistics:
-  Movement Type: jump
-  Move Points: 18
-  Spot: 13
-  Camouflage: 5
-  Agility: 13
-  Armor: 29
-  Psy Defense: 29
-  Rank: 158
+  Movement Type: foot
+  Move Points: 20
+  Spot: 10
+  Camouflage: 13
+  Agility: 29
+  Armor: 16
+  Psy Defense: 16
+  Rank: 135
 Attacks:
-  Direct Space: 18/32
-  Close Space: 16/26
-Cargo Space: 1
-Load aboard transport: 5
+  Air: 15/13
+  Indirect: 20/17
+  Direct: 26/20
+  Close: 28/18
+Load aboard transport: 1
 Immune to Plague
-Upkeep / Maintenance: 536
-Build Cost: 4942
+Upkeep / Maintenance: 96
+Build Cost: 372
 Build Resource Requirements:
-  Monopols: 38
-  Singularities: 4
-Upgrade Space Destroyer to Jump Destroyer at Starport
+  Energy: 3
+Upgrade Shock Legion to Genetic Shock Legion at Lab
 Time to Build / Upgrade: 1
-[26415] Technologies Required to Build Unit (76):
-  [4285] Jump Drives (70)
-  [8085] Fusion Rifles (75)
-  [14045] Space Escorts (84)
+[28060] Technologies Required to Build Unit (40):
+  [8900] Genetically-Enhanced Warriors (25)
+  [19160] Assault Legion (54)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Meson Space Destroyer
-Nick Name: SS-DDM
+Name: Shock Legion (NE)
+Nick Name: Shock Lgn (NE)
 Scores & Strengths:
-  Tech Score: 3792
-  Unit Score: 3792
-  Average Score: 3792
-  Stat Strength: 2210
-  Total Strength: 3792
-  Planet Strength: 0
-  Space Strength: 3792
-  Garrison Strength: 0
+  Tech Score: 4373
+  Unit Score: 6580
+  Average Score: 5477
+  Stat Strength: 3461
+  Total Strength: 6580
+  Planet Strength: 6580
+  Space Strength: 0
+  Garrison Strength: 1290
 Statistics:
-  Movement Type: space
-  Move Points: 18
-  Spot: 14
-  Camouflage: 6
-  Agility: 14
-  Armor: 27
-  Psy Defense: 27
-  Rank: 185
+  Movement Type: foot
+  Move Points: 26
+  Spot: 12
+  Camouflage: 20
+  Agility: 33
+  Armor: 24
+  Psy Defense: 24
+  Rank: 179
 Attacks:
-  Direct Space: 25/36
-  Close Space: 22/31
-Cargo Space: 1
-Load aboard transport: 5
-Immune to Plague
-Upkeep / Maintenance: 272
-Build Cost: 2311
+  Air: 21/19
+  Indirect: 28/24
+  Direct: 36/28
+  Close: 40/26
+Load aboard transport: 1
+Upkeep / Maintenance: 230
+Build Cost: 1925
 Build Resource Requirements:
-  Trace: 2
-  Electronics: 4
-  Monopols: 35
-Meson Space Destroyer cannot be built
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: Jump Destroyer II
-Nick Name: JJ-DD II
-Scores & Strengths:
-  Tech Score: 4325
-  Unit Score: 4202
-  Average Score: 4264
-  Stat Strength: 2906
-  Total Strength: 4202
-  Planet Strength: 0
-  Space Strength: 4202
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 21
-  Spot: 14
-  Camouflage: 5
-  Agility: 14
-  Armor: 32
-  Psy Defense: 32
-  Rank: 178
-Attacks:
-  Direct Space: 21/36
-  Close Space: 18/30
-Cargo Space: 1
-Load aboard transport: 5
-Immune to Plague
-Upkeep / Maintenance: 619
-Build Cost: 1245
-Build Resource Requirements:
+  Energy: 1
+  Metal: 1
   Trace: 1
-  Biochems: 3
-  Electronics: 7
-  Singularities: 1
-Upgrade Jump Destroyer to Jump Destroyer II at Starport
-Time to Build / Upgrade: 1
-[27965] Technology Required to Build Unit (75):
-  [27965] Jump Escorts (75)
+  Chemicals: 1
+  Biochems: 2
+  Electronics: 1
+  Ceramsteel: 2
+  Wetware: 22
+  Monopols: 7
+Upgrade Genetic Shock Legion to Shock Legion (NE) at Fusorium
+Time to Build / Upgrade: 3
+[43290] Technologies Required to Build Unit (43):
+  [24130] Neumonically-Enhanced Soldiers (32)
+  [19160] Assault Legion (54)
 Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Meson Jump Destroyer
-Nick Name: JJ-DDM
-Scores & Strengths:
-  Tech Score: 4736
-  Unit Score: 4694
-  Average Score: 4715
-  Stat Strength: 2699
-  Total Strength: 4694
-  Planet Strength: 0
-  Space Strength: 4694
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 20
-  Spot: 15
-  Camouflage: 7
-  Agility: 15
-  Armor: 30
-  Psy Defense: 30
-  Rank: 207
-Attacks:
-  Direct Space: 28/40
-  Close Space: 25/35
-Cargo Space: 1
-Load aboard transport: 5
-Immune to Plague
-Upkeep / Maintenance: 614
-Build Cost: 3830
-Build Resource Requirements:
-  Electronics: 3
-  Singularities: 4
-Upgrade Meson Space Destroyer to Meson Jump Destroyer at Starport
-Time to Build / Upgrade: 1
-[43470] Technologies Required to Build Unit (70):
-  [15505] Meson Cannon (65)
-  [27965] Jump Escorts (75)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---6--
-Name: Cybermorph Space Destroyer
-Nick Name: SS-DD-CM
-Scores & Strengths:
-  Tech Score: 7174
-  Unit Score: 7174
-  Average Score: 7174
-  Stat Strength: 5570
-  Total Strength: 7174
-  Planet Strength: 0
-  Space Strength: 7174
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 26
-  Spot: 22
-  Camouflage: 14
-  Agility: 42
-  Armor: 35
-  Psy Defense: 35
-  Rank: 217
-Attacks:
-  Direct Space: 25/36
-  Close Space: 22/32
-Cargo Space: 1
-Load aboard transport: 5
-Immune to Plague
-Upkeep / Maintenance: 422
-Build Cost: 1905
-Build Resource Requirements:
-  Biochems: 7
-  Wetware: 10
-Cybermorph Space Destroyer cannot be built
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---7--
-Name: Cybermorph Jump Destroyer
-Nick Name: JJ-DD-CM
-Scores & Strengths:
-  Tech Score: 7424
-  Unit Score: 7363
-  Average Score: 7394
-  Stat Strength: 5712
-  Total Strength: 7363
-  Planet Strength: 0
-  Space Strength: 7363
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 26
-  Spot: 22
-  Camouflage: 14
-  Agility: 42
-  Armor: 36
-  Psy Defense: 36
-  Rank: 220
-Attacks:
-  Direct Space: 25/37
-  Close Space: 22/33
-Cargo Space: 1
-Load aboard transport: 5
-Immune to Plague
-Upkeep / Maintenance: 868
-Build Cost: 6771
-Build Resource Requirements:
-  Singularities: 5
-Upgrade Cybermorph Space Destroyer to Cybermorph Jump Destroyer at Starport
-Time to Build / Upgrade: 1
-[82875] Technologies Required to Build Unit (70):
-  [54910] Polymorphonic Escortcraft (65)
-  [27965] Jump Escorts (75)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---8--
-Name: Cloaking Space Destroyer
-Nick Name: SS-DD-CL
-Scores & Strengths:
-  Tech Score: 7481
-  Unit Score: 7484
-  Average Score: 7483
-  Stat Strength: 6144
-  Total Strength: 7484
-  Planet Strength: 0
-  Space Strength: 7484
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 18
-  Spot: 12
-  Camouflage: 48
-  Agility: 22
-  Armor: 38
-  Psy Defense: 38
-  Rank: 217
-Attacks:
-  Direct Space: 22/38
-  Close Space: 28/18
-Cargo Space: 1
-Load aboard transport: 5
-Immune to Plague
-Upkeep / Maintenance: 323
-Build Cost: 920
-Build Resource Requirements:
-  Biochems: 1
-  Electronics: 9
-  Wetware: 6
-Upgrade Meson Space Destroyer to Cloaking Space Destroyer at Starport
-Time to Build / Upgrade: 1
-[58065] Technology Required to Build Unit (48):
-  [58065] Cloaked Escortcraft (48)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---9--
-Name: Cloaking Jump Destroyer
-Nick Name: JJ-DD-CL
-Scores & Strengths:
-  Tech Score: 7728
-  Unit Score: 7757
-  Average Score: 7742
-  Stat Strength: 6395
-  Total Strength: 7757
-  Planet Strength: 0
-  Space Strength: 7757
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 18
-  Spot: 12
-  Camouflage: 49
-  Agility: 22
-  Armor: 39
-  Psy Defense: 39
-  Rank: 219
-Attacks:
-  Direct Space: 22/39
-  Close Space: 28/18
-Cargo Space: 1
-Load aboard transport: 5
-Immune to Plague
-Upkeep / Maintenance: 733
-Build Cost: 6406
-Build Resource Requirements:
-  Singularities: 4
-Upgrade Cloaking Space Destroyer to Cloaking Jump Destroyer at Starport
-Time to Build / Upgrade: 1
-[86030] Technologies Required to Build Unit (62):
-  [58065] Cloaked Escortcraft (48)
-  [27965] Jump Escorts (75)
-Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

@@ -1,17 +1,230 @@
-All units of the unit class Land Mine are listed herein (9 in total):
+All units of the unit class Fougasse are listed herein (12 in total):
 
 --1--
-Name: Land Mine
-Nick Name: Land Mine
+Name: Fougasse
+Nick Name: Fougasse
 Scores & Strengths:
-  Tech Score: 92
-  Unit Score: 92
-  Average Score: 92
-  Stat Strength: 64
-  Total Strength: 92
-  Planet Strength: 92
+  Tech Score: 90
+  Unit Score: 90
+  Average Score: 90
+  Stat Strength: 36
+  Total Strength: 90
+  Planet Strength: 90
   Space Strength: 0
-  Garrison Strength: 115
+  Garrison Strength: 112
+Statistics:
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 6
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 0
+Attacks:
+  Close: 6/9
+Load aboard transport: 3
+Can attack on Byzantium Secundus
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 1
+Build Cost: 14
+Build Resource Requirements:
+  Energy: 36
+  Trace: 54
+  Chemicals: 32
+Build Fougasse in Mine
+Time to Build / Upgrade: 2
+[160] Technologies Required to Build Unit (100):
+  [110] Structural Engineering (99)
+  [50] Applied Technology (100)
+Unit can be disbanded: YES
+
+--2--
+Name: Nutcracker Mine
+Nick Name: Nutcracker
+Scores & Strengths:
+  Tech Score: 118
+  Unit Score: 118
+  Average Score: 118
+  Stat Strength: 73
+  Total Strength: 118
+  Planet Strength: 118
+  Space Strength: 0
+  Garrison Strength: 147
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 1
+  Agility: 0
+  Armor: 6
+  Psy Defense: 6
+  Rank: 26
+Attacks:
+  Indirect: 3/15
+Load aboard transport: 2
+Can be towed
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 13
+Build Cost: 130
+Build Resource Requirements:
+  Food: 1
+  Energy: 66
+  Metal: 43
+  Trace: 7
+  Chemicals: 72
+Build Nutcracker Mine in Mine
+Time to Build / Upgrade: 3
+[230] Technology Required to Build Unit (97):
+  [230] Advanced Artillery (97)
+Unit can be disbanded: YES
+
+--3--
+Name: Anti-Tank Wooden Beam
+Nick Name: Hemmbalkin
+Scores & Strengths:
+  Tech Score: 144
+  Unit Score: 144
+  Average Score: 144
+  Stat Strength: 98
+  Total Strength: 144
+  Planet Strength: 144
+  Space Strength: 0
+  Garrison Strength: 180
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 0
+  Agility: 0
+  Armor: 7
+  Psy Defense: 7
+  Rank: 25
+Attacks:
+  Indirect: 3/10
+  Direct: 2/8
+Load aboard transport: 2
+Can be towed
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 7
+Build Cost: 71
+Build Resource Requirements:
+  Food: 1
+  Energy: 32
+  Metal: 34
+  Trace: 5
+  Chemicals: 36
+Build Anti-Tank Wooden Beam in Mine
+Time to Build / Upgrade: 2
+[410] Technologies Required to Build Unit (97):
+  [110] Structural Engineering (99)
+  [300] Mechanized Warfare (95)
+Unit can be disbanded: YES
+
+--4--
+Name: Belgian Gate
+Nick Name: Cointet
+Scores & Strengths:
+  Tech Score: 162
+  Unit Score: 162
+  Average Score: 162
+  Stat Strength: 128
+  Total Strength: 162
+  Planet Strength: 162
+  Space Strength: 0
+  Garrison Strength: 202
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 0
+  Agility: 0
+  Armor: 8
+  Psy Defense: 8
+  Rank: 21
+Attacks:
+  Direct: 2/17
+Load aboard transport: 3
+Can be towed
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 11
+Build Cost: 108
+Build Resource Requirements:
+  Food: 1
+  Energy: 52
+  Metal: 41
+  Trace: 3
+  Chemicals: 60
+Build Belgian Gate in Mine
+Time to Build / Upgrade: 3
+[460] Technologies Required to Build Unit (97):
+  [110] Structural Engineering (99)
+  [350] Tanks (95)
+Unit can be disbanded: YES
+
+--5--
+Name: Rommel's Asparagus
+Nick Name: Spargel
+Scores & Strengths:
+  Tech Score: 176
+  Unit Score: 176
+  Average Score: 176
+  Stat Strength: 163
+  Total Strength: 176
+  Planet Strength: 176
+  Space Strength: 0
+  Garrison Strength: 220
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 1
+  Agility: 0
+  Armor: 9
+  Psy Defense: 9
+  Rank: 20
+Attacks:
+  Air: 1/13
+Load aboard transport: 4
+Can be towed
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 9
+Build Cost: 87
+Build Resource Requirements:
+  Food: 1
+  Energy: 29
+  Metal: 76
+  Trace: 3
+  Exotica: 1
+  Chemicals: 32
+  Electronics: 1
+Build Rommel's Asparagus in Mine
+Time to Build / Upgrade: 2
+[490] Technologies Required to Build Unit (96):
+  [110] Structural Engineering (99)
+  [380] Biplane (93)
+Unit can be disbanded: YES
+
+--6--
+Name: Stone Fougasse
+Nick Name: Stone Fougasse
+Scores & Strengths:
+  Tech Score: 275
+  Unit Score: 280
+  Average Score: 278
+  Stat Strength: 64
+  Total Strength: 280
+  Planet Strength: 280
+  Space Strength: 0
+  Garrison Strength: 350
 Statistics:
   Movement Type: foot
   Move Points: 0
@@ -20,39 +233,89 @@ Statistics:
   Agility: 0
   Armor: 0
   Psy Defense: 0
-  Rank: 1
+  Rank: 30
 Attacks:
-  Indirect: 2/14
-Load aboard transport: 1
+  Indirect: 12/18
+Load aboard transport: 3
 Can attack on Byzantium Secundus
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 26
+Build Resource Requirements:
+  Energy: 86
+  Trace: 24
+  Chemicals: 87
+  Electronics: 11
+Build Stone Fougasse in Mine
+Time to Build / Upgrade: 3
+[820] Technologies Required to Build Unit (92):
+  [125] Compression Ignition Engine (97)
+  [695] Piezoelectricity (87)
+Unit can be disbanded: YES
+
+--7--
+Name: Flame Fougasse
+Nick Name: Flame Fougasse
+Scores & Strengths:
+  Tech Score: 297
+  Unit Score: 300
+  Average Score: 298
+  Stat Strength: 64
+  Total Strength: 300
+  Planet Strength: 300
+  Space Strength: 0
+  Garrison Strength: 375
+Statistics:
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 8
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 17
+Attacks:
+  Direct: 10/14
+  Close: 8/12
+Load aboard transport: 3
+Can attack on Byzantium Secundus
+Can be towed
 Never Rebels
 Never Retreats
 Immune to Plague
 Destroyed after combat
 Upkeep / Maintenance: 2
-Build Cost: 22
+Build Cost: 21
 Build Resource Requirements:
-  Energy: 84
-  Trace: 46
-  Chemicals: 74
-Build Land Mine in Factory
+  Energy: 59
+  Trace: 25
+  Chemicals: 57
+  Electronics: 28
+Build Flame Fougasse in Mine
 Time to Build / Upgrade: 3
-[165] Technology Required to Build Unit (98):
+[1045] Technologies Required to Build Unit (95):
+  [125] Compression Ignition Engine (97)
+  [695] Piezoelectricity (87)
   [165] Autocannon (98)
+  [60] Torpedo (98)
 Unit can be disbanded: YES
 
---2--
-Name: Land Mine II
-Nick Name: Land Mine II
+--8--
+Name: Shell Fougasse
+Nick Name: Shell Fougasse
 Scores & Strengths:
-  Tech Score: 144
-  Unit Score: 154
-  Average Score: 149
+  Tech Score: 335
+  Unit Score: 335
+  Average Score: 335
   Stat Strength: 100
-  Total Strength: 154
-  Planet Strength: 154
+  Total Strength: 335
+  Planet Strength: 335
   Space Strength: 0
-  Garrison Strength: 192
+  Garrison Strength: 418
 Statistics:
   Movement Type: foot
   Move Points: 0
@@ -61,50 +324,96 @@ Statistics:
   Agility: 0
   Armor: 0
   Psy Defense: 0
-  Rank: 9
+  Rank: 22
 Attacks:
-  Indirect: 3/18
-Load aboard transport: 1
+  Indirect: 5/17
+  Close: 10/15
+Load aboard transport: 3
 Can attack on Byzantium Secundus
+Can be towed
 Never Rebels
 Never Retreats
 Immune to Plague
 Destroyed after combat
 Upkeep / Maintenance: 3
-Build Cost: 25
+Build Cost: 28
 Build Resource Requirements:
-  Energy: 79
-  Trace: 47
-  Chemicals: 92
-Build Land Mine II in Factory
+  Energy: 84
+  Trace: 25
+  Chemicals: 88
+  Electronics: 24
+Build Shell Fougasse in Mine
 Time to Build / Upgrade: 3
-[300] Technology Required to Build Unit (95):
-  [300] Mechanized Warfare (95)
+[1145] Technologies Required to Build Unit (93):
+  [125] Compression Ignition Engine (97)
+  [695] Piezoelectricity (87)
+  [325] Megachassis (94)
 Unit can be disbanded: YES
 
---3--
-Name: Land Mine III
-Nick Name: Land Mine III
+--9--
+Name: Anti-Tank Tetrahedron
+Nick Name: Tetrahedron
 Scores & Strengths:
-  Tech Score: 292
-  Unit Score: 296
-  Average Score: 294
-  Stat Strength: 196
-  Total Strength: 296
-  Planet Strength: 296
+  Tech Score: 406
+  Unit Score: 406
+  Average Score: 406
+  Stat Strength: 393
+  Total Strength: 406
+  Planet Strength: 406
   Space Strength: 0
-  Garrison Strength: 370
+  Garrison Strength: 507
+Statistics:
+  Movement Type: wheel
+  Move Points: 0
+  Spot: 0
+  Camouflage: 1
+  Agility: 0
+  Armor: 14
+  Psy Defense: 14
+  Rank: 25
+Attacks:
+  Direct: 1/13
+Load aboard transport: 2
+Can be towed
+Never Rebels
+Never Retreats
+Upkeep / Maintenance: 5
+Build Cost: 49
+Build Resource Requirements:
+  Energy: 13
+  Metal: 57
+  Trace: 1
+  Chemicals: 13
+Build Anti-Tank Tetrahedron in Mine
+Time to Build / Upgrade: 2
+[1305] Technologies Required to Build Unit (95):
+  [110] Structural Engineering (99)
+  [1195] Naval Warfare (90)
+Unit can be disbanded: YES
+
+--10--
+Name: Grapeshot Charge
+Nick Name: Grapeshot
+Scores & Strengths:
+  Tech Score: 1446
+  Unit Score: 1445
+  Average Score: 1446
+  Stat Strength: 905
+  Total Strength: 1445
+  Planet Strength: 1445
+  Space Strength: 0
+  Garrison Strength: 1806
 Statistics:
   Movement Type: foot
   Move Points: 0
   Spot: 0
-  Camouflage: 14
+  Camouflage: 30
   Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 20
+  Armor: 1
+  Psy Defense: 2
+  Rank: 41
 Attacks:
-  Indirect: 4/25
+  Close: 27/20
 Load aboard transport: 1
 Can attack on Byzantium Secundus
 Never Rebels
@@ -112,41 +421,44 @@ Never Retreats
 Immune to Plague
 Destroyed after combat
 Upkeep / Maintenance: 3
-Build Cost: 26
+Build Cost: 32
 Build Resource Requirements:
-  Energy: 68
-  Trace: 47
-  Chemicals: 68
-  Electronics: 32
-Build Land Mine III in Factory
+  Energy: 9
+  Trace: 36
+  Chemicals: 10
+  Biochems: 26
+  Electronics: 83
+Build Grapeshot Charge in Farm
 Time to Build / Upgrade: 3
-[770] Technology Required to Build Unit (92):
-  [770] Self-Propelled Weaponry (92)
+[6490] Technology Required to Build Unit (48):
+  [6490] Assassin (48)
 Unit can be disbanded: YES
 
---4--
-Name: Land Mine IV
-Nick Name: Land Mine IV
+--11--
+Name: Improvised Explosive Device
+Nick Name: IED
 Scores & Strengths:
-  Tech Score: 530
-  Unit Score: 531
-  Average Score: 530
-  Stat Strength: 361
-  Total Strength: 531
-  Planet Strength: 531
+  Tech Score: 1690
+  Unit Score: 1690
+  Average Score: 1690
+  Stat Strength: 576
+  Total Strength: 1690
+  Planet Strength: 1690
   Space Strength: 0
-  Garrison Strength: 663
+  Garrison Strength: 2112
 Statistics:
   Movement Type: foot
   Move Points: 0
   Spot: 0
-  Camouflage: 19
+  Camouflage: 24
   Agility: 0
   Armor: 0
   Psy Defense: 0
-  Rank: 32
+  Rank: 80
 Attacks:
-  Indirect: 5/34
+  Indirect: 18/27
+  Direct: 16/23
+  Close: 20/13
 Load aboard transport: 1
 Can attack on Byzantium Secundus
 Never Rebels
@@ -154,41 +466,44 @@ Never Retreats
 Immune to Plague
 Destroyed after combat
 Upkeep / Maintenance: 3
-Build Cost: 33
+Build Cost: 34
 Build Resource Requirements:
-  Energy: 78
-  Trace: 43
-  Chemicals: 95
-  Electronics: 45
-Build Land Mine IV in Factory
-Time to Build / Upgrade: 4
-[1700] Technology Required to Build Unit (88):
+  Energy: 29
+  Trace: 33
+  Chemicals: 31
+  Biochems: 30
+  Electronics: 46
+Build Improvised Explosive Device in Mine
+Time to Build / Upgrade: 3
+[8190] Technologies Required to Build Unit (68):
+  [6490] Assassin (48)
   [1700] Main Battle Tank (88)
 Unit can be disbanded: YES
 
---5--
-Name: Land Mine V
-Nick Name: Land Mine V
+--12--
+Name: Improvised Rocket
+Nick Name: Imp. Rocket
 Scores & Strengths:
-  Tech Score: 1226
-  Unit Score: 1198
-  Average Score: 1212
-  Stat Strength: 841
-  Total Strength: 1198
-  Planet Strength: 1198
+  Tech Score: 1960
+  Unit Score: 1959
+  Average Score: 1960
+  Stat Strength: 256
+  Total Strength: 1959
+  Planet Strength: 1959
   Space Strength: 0
-  Garrison Strength: 1497
+  Garrison Strength: 2448
 Statistics:
   Movement Type: foot
   Move Points: 0
   Spot: 0
-  Camouflage: 29
+  Camouflage: 16
   Agility: 0
   Armor: 0
   Psy Defense: 0
-  Rank: 57
+  Rank: 112
 Attacks:
-  Indirect: 7/51
+  Air: 31/26
+  Indirect: 23/39
 Load aboard transport: 1
 Can attack on Byzantium Secundus
 Never Rebels
@@ -196,187 +511,17 @@ Never Retreats
 Immune to Plague
 Destroyed after combat
 Upkeep / Maintenance: 4
-Build Cost: 37
+Build Cost: 36
 Build Resource Requirements:
-  Energy: 73
-  Trace: 23
-  Chemicals: 117
-  Electronics: 39
-Build Land Mine V in Factory
-Time to Build / Upgrade: 4
-[5205] Technology Required to Build Unit (84):
-  [5205] Advanced Battle Tanks (84)
-Unit can be disbanded: YES
-
---6--
-Name: Land Mine VI
-Nick Name: Land Mine VI
-Scores & Strengths:
-  Tech Score: 2123
-  Unit Score: 2114
-  Average Score: 2119
-  Stat Strength: 1444
-  Total Strength: 2114
-  Planet Strength: 2114
-  Space Strength: 0
-  Garrison Strength: 2642
-Statistics:
-  Movement Type: foot
-  Move Points: 0
-  Spot: 0
-  Camouflage: 38
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 84
-Attacks:
-  Indirect: 10/67
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 32
-Build Cost: 322
-Build Resource Requirements:
-  Energy: 33
-  Trace: 29
-  Chemicals: 65
-  Electronics: 49
-  Monopols: 65
-Build Land Mine VI in Factory
-Time to Build / Upgrade: 5
-[10830] Technology Required to Build Unit (80):
-  [10830] Violator Assault Gunnery (80)
-Unit can be disbanded: YES
-
---7--
-Name: Land Mine VIII
-Nick Name: Land Mine VIII
-Scores & Strengths:
-  Tech Score: 2510
-  Unit Score: 2494
-  Average Score: 2502
-  Stat Strength: 1764
-  Total Strength: 2494
-  Planet Strength: 2494
-  Space Strength: 0
-  Garrison Strength: 3117
-Statistics:
-  Movement Type: foot
-  Move Points: 0
-  Spot: 0
-  Camouflage: 42
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 90
-Attacks:
-  Indirect: 10/73
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 48
-Build Cost: 476
-Build Resource Requirements:
-  Energy: 45
-  Trace: 21
-  Chemicals: 73
-  Electronics: 43
-  Monopols: 93
-Build Land Mine VIII in Factory
-Time to Build / Upgrade: 5
-[13535] Technology Required to Build Unit (74):
-  [13535] Powered Ceramsteel Tanks (74)
-Unit can be disbanded: YES
-
---8--
-Name: Land Mine VII
-Nick Name: Land Mine VII
-Scores & Strengths:
-  Tech Score: 2707
-  Unit Score: 2685
-  Average Score: 2696
-  Stat Strength: 1849
-  Total Strength: 2685
-  Planet Strength: 2685
-  Space Strength: 0
-  Garrison Strength: 3356
-Statistics:
-  Movement Type: foot
-  Move Points: 0
-  Spot: 0
-  Camouflage: 43
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 97
-Attacks:
-  Indirect: 11/76
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 50
-Build Cost: 504
-Build Resource Requirements:
-  Energy: 46
-  Trace: 20
-  Chemicals: 74
-  Electronics: 42
-  Monopols: 96
-Build Land Mine VII in Factory
-Time to Build / Upgrade: 5
-[14975] Technology Required to Build Unit (70):
-  [14975] Power Hovertanks (70)
-Unit can be disbanded: YES
-
---9--
-Name: Land Mine IX
-Nick Name: Land Mine IX
-Scores & Strengths:
-  Tech Score: 2921
-  Unit Score: 2894
-  Average Score: 2907
-  Stat Strength: 2025
-  Total Strength: 2894
-  Planet Strength: 2894
-  Space Strength: 0
-  Garrison Strength: 3617
-Statistics:
-  Movement Type: foot
-  Move Points: 0
-  Spot: 0
-  Camouflage: 45
-  Agility: 0
-  Armor: 0
-  Psy Defense: 0
-  Rank: 100
-Attacks:
-  Indirect: 11/79
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Never Rebels
-Never Retreats
-Immune to Plague
-Destroyed after combat
-Upkeep / Maintenance: 33
-Build Cost: 332
-Build Resource Requirements:
-  Energy: 29
-  Trace: 13
-  Chemicals: 47
-  Electronics: 27
-  Monopols: 62
-Build Land Mine IX in Factory
-Time to Build / Upgrade: 4
-[30105] Technologies Required to Build Unit (69):
-  [15130] Fusion Battle Tanks (68)
-  [14975] Power Hovertanks (70)
+  Energy: 36
+  Trace: 27
+  Chemicals: 40
+  Biochems: 35
+  Electronics: 26
+Build Improvised Rocket in Mine
+Time to Build / Upgrade: 3
+[10610] Technologies Required to Build Unit (74):
+  [6490] Assassin (48)
+  [1700] Main Battle Tank (88)
+  [2420] Rocket-Propelled Aircraft (87)
 Unit can be disbanded: YES

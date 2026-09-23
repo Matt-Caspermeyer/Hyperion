@@ -1,443 +1,143 @@
-All units of the unit class Coastal Artillery Transport are listed herein (10 in total):
+All units of the unit class Space Mine Nullifier are listed herein (3 in total):
 
 --1--
-Name: Coastal Artillery Transport
-Nick Name: CA X-port
+Name: Space Mine Nullifier
+Nick Name: SS-MN
 Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 102
-  Average Score: 104
-  Stat Strength: 102
-  Total Strength: 102
-  Planet Strength: 102
+  Tech Score: 340
+  Unit Score: 101
+  Average Score: 220
+  Stat Strength: 101
+  Total Strength: 101
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 51
+  Garrison Strength: 0
 Statistics:
-  Movement Type: wheel
-  Move Points: 4
-  Spot: 2
-  Camouflage: 1
-  Agility: 1
-  Armor: 8
-  Psy Defense: 4
-  Rank: 62
-Cargo Space: 10
-Load aboard transport: 12
-Can tow units that can be towed
-Upkeep / Maintenance: 7
+  Movement Type: space
+  Move Points: 1
+  Spot: 0
+  Camouflage: 0
+  Agility: 10
+  Armor: 0
+  Psy Defense: 0
+  Rank: 15
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Immune to Plague
+Upkeep / Maintenance: 3
+Build Cost: 33
 Build Resource Requirements:
   Food: 3
-  Exotica: 2
-Upgrade Coastal Artillery to Coastal Artillery Transport at Factory
+  Energy: 3
+  Trace: 4
+  Exotica: 3
+  Chemicals: 4
+  Electronics: 3
+Build Space Mine Nullifier in Starport
 Time to Build / Upgrade: 1
-[310] Technologies Required to Build Unit (98):
-  [110] Structural Engineering (99)
-  [200] Fortifications (97)
+[1860] Technologies Required to Build Unit (92):
+  [145] Composite Armor (97)
+  [125] Radar (93)
+  [795] Rocket Propulsion (90)
+  [795] Missiles (86)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Bunker
-Nick Name: Bunker
+Name: Star Mine System
+Nick Name: Star Mine System
 Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 208
-  Average Score: 157
-  Stat Strength: 132
-  Total Strength: 208
-  Planet Strength: 208
-  Space Strength: 0
-  Garrison Strength: 260
+  Tech Score: 984
+  Unit Score: 986
+  Average Score: 985
+  Stat Strength: 346
+  Total Strength: 986
+  Planet Strength: 0
+  Space Strength: 986
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 0
+  Movement Type: space
+  Move Points: 3
   Spot: 2
-  Camouflage: 0
-  Agility: 0
-  Armor: 8
-  Psy Defense: 8
-  Rank: 33
+  Camouflage: 15
+  Agility: 6
+  Armor: 6
+  Psy Defense: 6
+  Rank: 109
 Attacks:
-  Direct: 4/10
-  Close: 6/6
-Cargo Space: 2
-Load aboard transport: 6
+  Close Space: 20/32
+Cargo Space: 1
+Load aboard transport: 2
+Can attack on Byzantium Secundus
 Never Rebels
 Never Retreats
-Upkeep / Maintenance: 15
-Build Cost: 145
-Build Resource Requirements:
-  Food: 3
-  Energy: 45
-  Metal: 76
-  Trace: 30
-  Exotica: 2
-  Chemicals: 47
-Build Bunker in Any building
-Time to Build / Upgrade: 4
-[200] Technology Required to Build Unit (97):
-  [200] Fortifications (97)
-Unit can be disbanded: YES
-
---3--
-Name: Coastal Artillery
-Nick Name: Coast Art
-Scores & Strengths:
-  Tech Score: 116
-  Unit Score: 228
-  Average Score: 172
-  Stat Strength: 132
-  Total Strength: 228
-  Planet Strength: 228
-  Space Strength: 0
-  Garrison Strength: 228
-Statistics:
-  Movement Type: tread
-  Move Points: 1
-  Spot: 2
-  Camouflage: 1
-  Agility: 1
-  Armor: 10
-  Psy Defense: 5
-  Rank: 66
-Attacks:
-  Indirect: 4/24
-Cargo Space: 6
-Load aboard transport: 8
-Never Rebels
-Never Retreats
-Upkeep / Maintenance: 32
-Build Cost: 324
+Immune to Plague
+Upkeep / Maintenance: 31
+Build Cost: 306
 Build Resource Requirements:
   Food: 1
-  Energy: 102
-  Metal: 43
-  Trace: 6
+  Energy: 26
+  Metal: 6
+  Trace: 18
   Exotica: 1
-  Chemicals: 106
-Build Coastal Artillery in Factory
-Time to Build / Upgrade: 5
-[435] Technologies Required to Build Unit (96):
-  [110] Structural Engineering (99)
-  [125] Mechanical Think Machines (93)
-  [200] Fortifications (97)
+  Chemicals: 37
+  Electronics: 21
+Build Star Mine System in Starport
+Time to Build / Upgrade: 2
+[6635] Technologies Required to Build Unit (88):
+  [145] Composite Armor (97)
+  [795] Rocket Propulsion (90)
+  [1700] Main Battle Tank (88)
+  [1670] Guided Missiles (83)
+  [2325] Web Missiles (80)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---4--
-Name: Fortification
-Nick Name: Fortification
+--3--
+Name: Star Drone Mine
+Nick Name: Star Drone Mine
 Scores & Strengths:
-  Tech Score: 424
-  Unit Score: 423
-  Average Score: 424
-  Stat Strength: 396
-  Total Strength: 423
-  Planet Strength: 423
-  Space Strength: 0
-  Garrison Strength: 528
+  Tech Score: 3697
+  Unit Score: 3701
+  Average Score: 3699
+  Stat Strength: 2561
+  Total Strength: 3701
+  Planet Strength: 0
+  Space Strength: 3701
+  Garrison Strength: 0
 Statistics:
-  Movement Type: tread
-  Move Points: 0
-  Spot: 2
-  Camouflage: 0
-  Agility: 0
-  Armor: 14
-  Psy Defense: 14
-  Rank: 70
+  Movement Type: space
+  Move Points: 2
+  Spot: 18
+  Camouflage: 28
+  Agility: 13
+  Armor: 16
+  Psy Defense: 32
+  Rank: 173
 Attacks:
-  Air: 1/7
-  Indirect: 1/10
-  Close: 2/5
-Cargo Space: 8
-Load aboard transport: 10
+  Close Space: 30/38
+Load aboard transport: 1
+Can attack on Byzantium Secundus
 Never Rebels
 Never Retreats
-Upkeep / Maintenance: 11
-Build Cost: 106
+Immune to Plague
+Upkeep / Maintenance: 73
+Build Cost: 734
 Build Resource Requirements:
-  Food: 1
+  Food: 2
   Energy: 13
-  Metal: 54
-  Trace: 1
-  Chemicals: 13
-  Electronics: 1
-Build Fortification in Any building
-Time to Build / Upgrade: 2
-[1425] Technologies Required to Build Unit (94):
-  [230] Advanced Artillery (97)
-  [1195] Naval Warfare (90)
-Unit can be disbanded: YES
-
---5--
-Name: Pillbox
-Nick Name: Pillbox
-Scores & Strengths:
-  Tech Score: 546
-  Unit Score: 548
-  Average Score: 547
-  Stat Strength: 304
-  Total Strength: 548
-  Planet Strength: 548
-  Space Strength: 0
-  Garrison Strength: 685
-Statistics:
-  Movement Type: tread
-  Move Points: 0
-  Spot: 4
-  Camouflage: 0
-  Agility: 0
-  Armor: 12
-  Psy Defense: 12
-  Rank: 53
-Attacks:
-  Direct: 8/18
-  Close: 10/10
-Cargo Space: 2
-Load aboard transport: 6
-Never Rebels
-Never Retreats
-Immune to Plague
-Upkeep / Maintenance: 8
-Build Cost: 79
-Build Resource Requirements:
-  Food: 1
-  Energy: 19
-  Metal: 24
-  Trace: 10
-  Exotica: 1
-  Chemicals: 21
-  Electronics: 7
-Build Pillbox in Any building
-Time to Build / Upgrade: 2
-[2830] Technologies Required to Build Unit (94):
-  [325] Megachassis (94)
-  [1195] Naval Warfare (90)
-  [350] Anti-Tank Weaponry (95)
-  [350] Tanks (95)
-  [610] Dual-Purpose Gun (94)
-Unit can be disbanded: YES
-
---6--
-Name: PTS Fortification
-Nick Name: PTS Fort
-Scores & Strengths:
-  Tech Score: 587
-  Unit Score: 585
-  Average Score: 586
-  Stat Strength: 516
-  Total Strength: 585
-  Planet Strength: 561
-  Space Strength: 540
-  Garrison Strength: 701
-Statistics:
-  Movement Type: tread
-  Move Points: 0
-  Spot: 2
-  Camouflage: 0
-  Agility: 0
-  Armor: 16
-  Psy Defense: 16
-  Rank: 85
-Attacks:
-  Ranged Space: 2/12
-  Air: 3/7
-  Indirect: 2/12
-Cargo Space: 8
-Load aboard transport: 12
-Never Rebels
-Never Retreats
-Upkeep / Maintenance: 16
-Build Cost: 163
-Build Resource Requirements:
-  Energy: 21
-  Metal: 55
-  Trace: 2
-  Chemicals: 31
-  Electronics: 2
-Build PTS Fortification in Any building
-Time to Build / Upgrade: 2
-[1950] Technology Required to Build Unit (88):
-  [1950] PTS Missile Launcher (88)
-Unit can be disbanded: YES
-
---7--
-Name: Blockhouse
-Nick Name: Blockhouse
-Scores & Strengths:
-  Tech Score: 798
-  Unit Score: 798
-  Average Score: 798
-  Stat Strength: 528
-  Total Strength: 798
-  Planet Strength: 798
-  Space Strength: 0
-  Garrison Strength: 997
-Statistics:
-  Movement Type: tread
-  Move Points: 0
-  Spot: 4
-  Camouflage: 0
-  Agility: 0
-  Armor: 16
-  Psy Defense: 16
-  Rank: 88
-Attacks:
-  Indirect: 6/20
-  Direct: 6/19
-  Close: 6/6
-Cargo Space: 6
-Load aboard transport: 10
-Never Rebels
-Never Retreats
-Immune to Plague
-Upkeep / Maintenance: 16
-Build Cost: 163
-Build Resource Requirements:
-  Energy: 28
-  Metal: 34
-  Trace: 6
-  Chemicals: 29
-  Biochems: 2
-  Electronics: 3
-Build Blockhouse in Any building
-Time to Build / Upgrade: 2
-[3750] Technologies Required to Build Unit (93):
-  [325] Megachassis (94)
-  [350] Anti-Tank Weaponry (95)
-  [350] Tanks (95)
-  [2725] Naval Capital Ships (88)
-Unit can be disbanded: YES
-
---8--
-Name: Flak Tower
-Nick Name: Flak Tower
-Scores & Strengths:
-  Tech Score: 881
-  Unit Score: 884
-  Average Score: 882
-  Stat Strength: 428
-  Total Strength: 884
-  Planet Strength: 884
-  Space Strength: 0
-  Garrison Strength: 1105
-Statistics:
-  Movement Type: tread
-  Move Points: 0
-  Spot: 6
-  Camouflage: 0
-  Agility: 0
-  Armor: 14
-  Psy Defense: 14
-  Rank: 86
-Attacks:
-  Air: 12/18
-  Direct: 12/17
-  Close: 6/6
-Cargo Space: 4
-Load aboard transport: 8
-Never Rebels
-Never Retreats
-Immune to Plague
-Upkeep / Maintenance: 14
-Build Cost: 142
-Build Resource Requirements:
-  Food: 1
-  Energy: 19
-  Metal: 28
-  Trace: 15
-  Exotica: 1
-  Chemicals: 20
-  Biochems: 7
-  Electronics: 10
-Build Flak Tower in Any building
-Time to Build / Upgrade: 2
-[4605] Technologies Required to Build Unit (90):
-  [325] Megachassis (94)
-  [610] Dual-Purpose Gun (94)
-  [1400] Aerial Warfare (87)
-  [2270] Naval Escort Ships (86)
-Unit can be disbanded: YES
-
---9--
-Name: PTS Fortification II
-Nick Name: PTS Fort II
-Scores & Strengths:
-  Tech Score: 1087
-  Unit Score: 1108
-  Average Score: 1097
-  Stat Strength: 972
-  Total Strength: 1108
-  Planet Strength: 1060
-  Space Strength: 1020
-  Garrison Strength: 1325
-Statistics:
-  Movement Type: tread
-  Move Points: 0
-  Spot: 2
-  Camouflage: 0
-  Agility: 0
-  Armor: 22
-  Psy Defense: 22
-  Rank: 102
-Attacks:
-  Ranged Space: 3/16
-  Air: 4/10
-  Indirect: 3/16
-Cargo Space: 8
-Load aboard transport: 12
-Never Rebels
-Never Retreats
-Upkeep / Maintenance: 20
-Build Cost: 34
-Build Resource Requirements:
-  Metal: 42
-Upgrade PTS Fortification to PTS Fortification II at Any building
-Time to Build / Upgrade: 1
-[6120] Technologies Required to Build Unit (86):
-  [1950] PTS Missile Launcher (88)
-  [4170] Supercruise Missiles (84)
-Unit can be disbanded: YES
-
---10--
-Name: PTS Fortification III
-Nick Name: PTS Fort III
-Scores & Strengths:
-  Tech Score: 1591
-  Unit Score: 1541
-  Average Score: 1566
-  Stat Strength: 1361
-  Total Strength: 1541
-  Planet Strength: 1481
-  Space Strength: 1421
-  Garrison Strength: 1851
-Statistics:
-  Movement Type: tread
-  Move Points: 0
-  Spot: 3
-  Camouflage: 0
-  Agility: 0
-  Armor: 26
-  Psy Defense: 26
-  Rank: 112
-Attacks:
-  Ranged Space: 3/20
-  Air: 5/12
-  Indirect: 3/20
-Cargo Space: 8
-Load aboard transport: 12
-Never Rebels
-Never Retreats
-Upkeep / Maintenance: 28
-Build Cost: 242
-Build Resource Requirements:
-  Energy: 2
-  Metal: 38
-  Chemicals: 5
-Upgrade PTS Fortification II to PTS Fortification III at Any building
-Time to Build / Upgrade: 1
-[9055] Technologies Required to Build Unit (83):
-  [1950] PTS Missile Launcher (88)
-  [7105] Hypercruise Missiles (77)
+  Metal: 15
+  Trace: 17
+  Exotica: 2
+  Chemicals: 26
+  Biochems: 19
+  Electronics: 33
+  Ceramsteel: 18
+Build Star Drone Mine in Starport
+Time to Build / Upgrade: 3
+[27315] Technologies Required to Build Unit (78):
+  [1220] Finite Element Methods (77)
+  [3680] Supersonic Missiles (84)
+  [22415] Unmanned Escortcraft (73)
+Counts as planetary flock: YES
 Unit can be disbanded: YES

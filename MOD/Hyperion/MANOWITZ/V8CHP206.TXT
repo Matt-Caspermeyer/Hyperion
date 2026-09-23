@@ -1,333 +1,89 @@
-All units of the unit class Holy Starbase are listed herein (7 in total):
+All units of the unit class Genetic Warrior Legion are listed herein (2 in total):
 
 --1--
-Name: Holy Starbase
-Nick Name: Holy Starbase
+Name: Genetic Warrior Legion
+Nick Name: Gen War Lgn
 Scores & Strengths:
-  Tech Score: 1965
-  Unit Score: 1965
-  Average Score: 1965
-  Stat Strength: 1237
-  Total Strength: 1965
-  Planet Strength: 0
-  Space Strength: 1965
-  Garrison Strength: 0
+  Tech Score: 1833
+  Unit Score: 1833
+  Average Score: 1833
+  Stat Strength: 992
+  Total Strength: 1833
+  Planet Strength: 1833
+  Space Strength: 0
+  Garrison Strength: 529
 Statistics:
-  Movement Type: space
-  Move Points: 2
+  Movement Type: foot
+  Move Points: 12
   Spot: 10
-  Camouflage: 2
-  Agility: 2
-  Armor: 15
-  Psy Defense: 30
-  Rank: 846
+  Camouflage: 8
+  Agility: 22
+  Armor: 10
+  Psy Defense: 10
+  Rank: 87
 Attacks:
-  Ranged Space: 8/19
-  Direct Space: 9/14
-  Psychic: 30/15
-Cargo Space: 12
-Load aboard transport: 14
-Officer - Provides stack combat bonuses
-Clergy - Increases Tithe Skim and Converts Sects
-Deploys space units during space attacks
-Heals units of same movement type
+  Direct: 20/20
+  Close: 21/21
+Load aboard transport: 1
 Immune to Plague
-Upkeep / Maintenance: 787
-Build Cost: 7794
+Upkeep / Maintenance: 30
+Build Cost: 302
 Build Resource Requirements:
-  Metal: 21
-  Trace: 5
-  Chemicals: 16
-  Biochems: 2
-  Electronics: 6
-  Ceramsteel: 28
-  Gems: 15
-Upgrade Clergy to Holy Starbase at Church
-Time to Build / Upgrade: 2
-[11230] Technologies Required to Build Unit (74):
-  [2790] Supercruise (86)
-  [330] Holy Warriors (82)
-  [2255] Sympathy (Bonding) (45)
-  [5855] Guided Missile Navalcraft (84)
+  Food: 5
+  Energy: 19
+  Metal: 3
+  Trace: 12
+  Exotica: 6
+  Chemicals: 44
+  Biochems: 75
+  Electronics: 29
+  Ceramsteel: 4
+Build Genetic Warrior Legion in Lab
+Time to Build / Upgrade: 3
+[8900] Technology Required to Build Unit (25):
+  [8900] Genetically-Enhanced Warriors (25)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Starbase
-Nick Name: Starbase
+Name: Genetic Warrior Legion (NE)
+Nick Name: Gen War (NE)
 Scores & Strengths:
-  Tech Score: 2354
-  Unit Score: 4708
-  Average Score: 3531
-  Stat Strength: 3536
-  Total Strength: 4708
-  Planet Strength: 0
-  Space Strength: 4708
-  Garrison Strength: 0
+  Tech Score: 3872
+  Unit Score: 5457
+  Average Score: 4665
+  Stat Strength: 2567
+  Total Strength: 5457
+  Planet Strength: 5457
+  Space Strength: 0
+  Garrison Strength: 1190
 Statistics:
-  Movement Type: space
-  Move Points: 2
-  Spot: 18
-  Camouflage: 2
-  Agility: 2
-  Armor: 40
-  Psy Defense: 40
-  Rank: 881
-Attacks:
-  Ranged Space: 16/37
-  Direct Space: 20/29
-Cargo Space: 10
-Load aboard transport: 12
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 446
-Build Cost: 4459
-Build Resource Requirements:
-  Food: 2
-  Energy: 34
-  Metal: 47
-  Trace: 15
-  Exotica: 3
-  Chemicals: 58
-  Biochems: 8
-  Electronics: 21
-  Ceramsteel: 52
-Build Starbase in Starport
-Time to Build / Upgrade: 6
-[12425] Technology Required to Build Unit (86):
-  [12425] Space Warfare (86)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---3--
-Name: Sathra Starbase
-Nick Name: JJ-TT-HH
-Scores & Strengths:
-  Tech Score: 4814
-  Unit Score: 4800
-  Average Score: 4807
-  Stat Strength: 3021
-  Total Strength: 4800
-  Planet Strength: 0
-  Space Strength: 4800
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 3
-  Spot: 16
-  Camouflage: 3
-  Agility: 3
-  Armor: 23
-  Psy Defense: 47
-  Rank: 914
-Attacks:
-  Ranged Space: 13/30
-  Direct Space: 14/22
-  Psychic: 47/23
-Cargo Space: 12
-Load aboard transport: 14
-Officer - Provides stack combat bonuses
-Clergy - Increases Tithe Skim and Converts Sects
-Deploys space units during space attacks
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 3346
-Build Cost: 25667
-Build Resource Requirements:
-  Electronics: 6
-  Monopols: 27
-  Gems: 11
-  Singularities: 2
-Upgrade Holy Starbase to Sathra Starbase at Church
-Time to Build / Upgrade: 1
-[39650] Technologies Required to Build Unit (63):
-  [7610] Atmospheric Aircraft (80)
-  [330] Holy Warriors (82)
-  [3835] Sathra's Space Doctrine (17)
-  [27875] PTS Meson Navalcraft (74)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---4--
-Name: Fusion Starbase
-Nick Name: SS-TTF
-Scores & Strengths:
-  Tech Score: 3140
-  Unit Score: 6138
-  Average Score: 4639
-  Stat Strength: 4605
-  Total Strength: 6138
-  Planet Strength: 0
-  Space Strength: 6138
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 2
-  Spot: 19
-  Camouflage: 2
-  Agility: 2
-  Armor: 46
-  Psy Defense: 46
-  Rank: 909
-Attacks:
-  Ranged Space: 18/43
-  Direct Space: 23/33
-Cargo Space: 11
-Load aboard transport: 13
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 5317
-Build Cost: 48708
-Build Resource Requirements:
-  Monopols: 78
-Upgrade Starbase to Fusion Starbase at Starport
-Time to Build / Upgrade: 1
-[21040] Technologies Required to Build Unit (75):
-  [8615] Fusion Beam (63)
-  [12425] Space Warfare (86)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Doomstar
-Nick Name: Doomstar
-Scores & Strengths:
-  Tech Score: 6849
-  Unit Score: 6848
-  Average Score: 6848
-  Stat Strength: 5736
-  Total Strength: 6848
-  Planet Strength: 0
-  Space Strength: 6848
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 10
+  Movement Type: foot
+  Move Points: 21
   Spot: 14
-  Camouflage: 4
-  Agility: 4
-  Armor: 52
-  Psy Defense: 52
-  Rank: 934
+  Camouflage: 17
+  Agility: 29
+  Armor: 20
+  Psy Defense: 20
+  Rank: 149
 Attacks:
-  Ranged Space: 18/41
-  Direct Space: 17/22
-Cargo Space: 16
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Heals units of same movement type
+  Direct: 37/37
+  Close: 39/39
+Load aboard transport: 1
 Immune to Plague
-Upkeep / Maintenance: 7739
-Build Cost: 77389
+Upkeep / Maintenance: 371
+Build Cost: 3412
 Build Resource Requirements:
-  Energy: 8
-  Metal: 13
   Trace: 2
-  Chemicals: 16
-  Biochems: 22
-  Electronics: 9
-  Ceramsteel: 20
-  Wetware: 3
-  Monopols: 36
-  Singularities: 3
-Build Doomstar in Starport
-Time to Build / Upgrade: 4
-[51615] Technology Required to Build Unit (53):
-  [51615] Doomstar (53)
+  Electronics: 3
+  Ceramsteel: 1
+  Wetware: 27
+  Monopols: 50
+Upgrade Genetic Warrior Legion to Genetic Warrior Legion (NE) at Fusorium
+Time to Build / Upgrade: 2
+[24130] Technology Required to Build Unit (32):
+  [24130] Neumonically-Enhanced Soldiers (32)
 Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---6--
-Name: Phasing Starbase
-Nick Name: SS-TTP
-Scores & Strengths:
-  Tech Score: 9310
-  Unit Score: 9300
-  Average Score: 9305
-  Stat Strength: 7800
-  Total Strength: 9300
-  Planet Strength: 0
-  Space Strength: 9300
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 10
-  Spot: 30
-  Camouflage: 30
-  Agility: 30
-  Armor: 50
-  Psy Defense: 50
-  Rank: 969
-Attacks:
-  Ranged Space: 30/50
-Cargo Space: 12
-Load aboard transport: 14
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 3675
-Build Cost: 36750
-Build Resource Requirements:
-  Food: 1
-  Energy: 8
-  Metal: 8
-  Trace: 7
-  Exotica: 1
-  Chemicals: 14
-  Biochems: 30
-  Electronics: 18
-  Ceramsteel: 12
-  Wetware: 7
-  Monopols: 29
-Phasing Starbase cannot be built
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---7--
-Name: Meson Starbase
-Nick Name: SS-TTM
-Scores & Strengths:
-  Tech Score: 5645
-  Unit Score: 11014
-  Average Score: 8329
-  Stat Strength: 8194
-  Total Strength: 11014
-  Planet Strength: 0
-  Space Strength: 11014
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 3
-  Spot: 22
-  Camouflage: 3
-  Agility: 2
-  Armor: 62
-  Psy Defense: 62
-  Rank: 980
-Attacks:
-  Ranged Space: 25/57
-  Direct Space: 31/45
-Cargo Space: 12
-Load aboard transport: 14
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
-Heals units of same movement type
-Immune to Plague
-Upkeep / Maintenance: 5528
-Build Cost: 6568
-Build Resource Requirements:
-  Biochems: 15
-  Electronics: 1
-Upgrade Fusion Starbase to Meson Starbase at Starport
-Time to Build / Upgrade: 1
-[77305] Technologies Required to Build Unit (71):
-  [10065] Powered-Armor Legion (79)
-  [27875] PTS Meson Navalcraft (74)
-  [39365] Jump Capital Ships (61)
-Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

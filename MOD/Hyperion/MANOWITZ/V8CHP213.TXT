@@ -1,292 +1,470 @@
-All units of the unit class UA Helicopter (SOW) are listed herein (6 in total):
+All units of the unit class Space Frigate are listed herein (12 in total):
 
 --1--
-Name: UA Helicopter (SOW)
-Nick Name: AA-UAH-SOW
+Name: Space Frigate
+Nick Name: SS-FF
 Scores & Strengths:
-  Tech Score: 2597
-  Unit Score: 2595
-  Average Score: 2596
-  Stat Strength: 2425
-  Total Strength: 2595
-  Planet Strength: 2595
-  Space Strength: 0
-  Garrison Strength: 473
+  Tech Score: 2580
+  Unit Score: 2580
+  Average Score: 2580
+  Stat Strength: 1648
+  Total Strength: 2580
+  Planet Strength: 0
+  Space Strength: 2580
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 30
-  Spot: 24
-  Camouflage: 14
-  Agility: 25
-  Armor: 8
-  Psy Defense: 8
-  Rank: 82
+  Movement Type: space
+  Move Points: 18
+  Spot: 12
+  Camouflage: 4
+  Agility: 14
+  Armor: 22
+  Psy Defense: 22
+  Rank: 147
 Attacks:
-  Close: 17/10
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Never Rebels
+  Direct Space: 22/26
+  Close Space: 18/20
+Cargo Space: 1
+Load aboard transport: 4
 Immune to Plague
-Upkeep / Maintenance: 23
-Build Cost: 227
+Upkeep / Maintenance: 41
+Build Cost: 413
 Build Resource Requirements:
-  Food: 13
-  Energy: 19
-  Metal: 2
-  Trace: 17
-  Exotica: 13
+  Food: 3
+  Energy: 20
+  Metal: 14
+  Trace: 14
+  Exotica: 4
   Chemicals: 33
-  Electronics: 32
-  Ceramsteel: 3
-Build UA Helicopter (SOW) in Factory
+  Biochems: 26
+  Electronics: 21
+  Ceramsteel: 15
+Build Space Frigate in Starport
 Time to Build / Upgrade: 3
-[14165] Technology Required to Build Unit (34):
-  [14165] Autonomous Aerial Vehicles (34)
+[14045] Technology Required to Build Unit (84):
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: UA Helicopter (SUW)
-Nick Name: AA-UAH-SUW
+Name: Jump Frigate
+Nick Name: JJ-FF
 Scores & Strengths:
-  Tech Score: 2597
-  Unit Score: 2596
-  Average Score: 2596
-  Stat Strength: 1812
-  Total Strength: 2596
-  Planet Strength: 2596
-  Space Strength: 0
-  Garrison Strength: 553
+  Tech Score: 3322
+  Unit Score: 3279
+  Average Score: 3300
+  Stat Strength: 2069
+  Total Strength: 3279
+  Planet Strength: 0
+  Space Strength: 3279
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 22
-  Spot: 20
-  Camouflage: 8
-  Agility: 24
-  Armor: 12
-  Psy Defense: 12
-  Rank: 117
+  Movement Type: jump
+  Move Points: 20
+  Spot: 13
+  Camouflage: 5
+  Agility: 15
+  Armor: 25
+  Psy Defense: 25
+  Rank: 167
 Attacks:
-  Indirect: 24/18
-  Direct: 22/16
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Never Rebels
+  Direct Space: 25/30
+  Close Space: 20/23
+Cargo Space: 1
+Load aboard transport: 4
 Immune to Plague
-Upkeep / Maintenance: 23
-Build Cost: 231
+Upkeep / Maintenance: 532
+Build Cost: 4910
 Build Resource Requirements:
-  Food: 8
-  Energy: 20
-  Metal: 4
-  Trace: 23
-  Exotica: 8
-  Chemicals: 36
-  Electronics: 30
-  Ceramsteel: 6
-Build UA Helicopter (SUW) in Factory
-Time to Build / Upgrade: 3
-[14165] Technology Required to Build Unit (34):
-  [14165] Autonomous Aerial Vehicles (34)
+  Monopols: 33
+  Singularities: 5
+Upgrade Space Frigate to Jump Frigate at Starport
+Time to Build / Upgrade: 1
+[25805] Technologies Required to Build Unit (73):
+  [4285] Jump Drives (70)
+  [7475] Cold Fusion Cells (66)
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: UA Helicopter (MCM)
-Nick Name: AA-UAH-MCM
+Name: Fusion Space Frigate
+Nick Name: SS-FFF
 Scores & Strengths:
-  Tech Score: 2597
-  Unit Score: 2599
-  Average Score: 2598
-  Stat Strength: 2319
-  Total Strength: 2599
-  Planet Strength: 2599
-  Space Strength: 0
-  Garrison Strength: 519
+  Tech Score: 3347
+  Unit Score: 3343
+  Average Score: 3345
+  Stat Strength: 2110
+  Total Strength: 3343
+  Planet Strength: 0
+  Space Strength: 3343
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 25
-  Spot: 26
-  Camouflage: 10
-  Agility: 26
-  Armor: 11
-  Psy Defense: 11
-  Rank: 96
+  Movement Type: space
+  Move Points: 21
+  Spot: 13
+  Camouflage: 5
+  Agility: 15
+  Armor: 25
+  Psy Defense: 25
+  Rank: 168
 Attacks:
-  Water: 20/14
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Never Rebels
+  Direct Space: 25/30
+  Close Space: 21/23
+Cargo Space: 1
+Load aboard transport: 4
 Immune to Plague
-Upkeep / Maintenance: 23
-Build Cost: 231
+Upkeep / Maintenance: 257
+Build Cost: 2157
 Build Resource Requirements:
-  Food: 12
-  Energy: 17
-  Metal: 3
-  Trace: 19
-  Exotica: 12
-  Chemicals: 30
-  Electronics: 36
-  Ceramsteel: 5
-Build UA Helicopter (MCM) in Factory
-Time to Build / Upgrade: 3
-[14165] Technology Required to Build Unit (34):
-  [14165] Autonomous Aerial Vehicles (34)
+  Monopols: 35
+Upgrade Space Frigate to Fusion Space Frigate at Starport
+Time to Build / Upgrade: 1
+[22660] Technologies Required to Build Unit (74):
+  [8615] Fusion Beam (63)
+  [14045] Space Escorts (84)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: UA Helicopter (L)
-Nick Name: AA-UAH-L
+Name: Jump Frigate II
+Nick Name: JJ-FF II
 Scores & Strengths:
-  Tech Score: 2646
-  Unit Score: 2644
-  Average Score: 2645
-  Stat Strength: 2236
-  Total Strength: 2644
-  Planet Strength: 2644
-  Space Strength: 0
-  Garrison Strength: 539
+  Tech Score: 4325
+  Unit Score: 4124
+  Average Score: 4225
+  Stat Strength: 2574
+  Total Strength: 4124
+  Planet Strength: 0
+  Space Strength: 4124
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 24
-  Spot: 22
-  Camouflage: 20
-  Agility: 24
-  Armor: 10
-  Psy Defense: 10
-  Rank: 784
+  Movement Type: jump
+  Move Points: 23
+  Spot: 14
+  Camouflage: 5
+  Agility: 16
+  Armor: 28
+  Psy Defense: 28
+  Rank: 187
 Attacks:
-  Indirect: 24/17
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Officer - Provides stack combat bonuses
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Never Rebels
+  Direct Space: 28/34
+  Close Space: 23/26
+Cargo Space: 1
+Load aboard transport: 4
 Immune to Plague
-Upkeep / Maintenance: 31
-Build Cost: 314
+Upkeep / Maintenance: 617
+Build Cost: 1260
 Build Resource Requirements:
-  Food: 12
-  Energy: 16
-  Metal: 3
-  Trace: 20
-  Exotica: 12
-  Chemicals: 29
-  Electronics: 26
-  Ceramsteel: 4
-Build UA Helicopter (L) in Factory
-Time to Build / Upgrade: 2
-[16000] Technologies Required to Build Unit (67):
-  [1615] Wireblades (76)
-  [220] Indoctrination (91)
-  [14165] Autonomous Aerial Vehicles (34)
+  Trace: 1
+  Biochems: 5
+  Electronics: 7
+Upgrade Jump Frigate to Jump Frigate II at Starport
+Time to Build / Upgrade: 1
+[27965] Technology Required to Build Unit (75):
+  [27965] Jump Escorts (75)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: UA Helicopter (ASW)
-Nick Name: AA-UAH-ASW
+Name: Cybermorph Space Frigate
+Nick Name: SS-FF-CM
 Scores & Strengths:
-  Tech Score: 2902
-  Unit Score: 2904
-  Average Score: 2903
-  Stat Strength: 2304
-  Total Strength: 2904
-  Planet Strength: 2904
-  Space Strength: 0
-  Garrison Strength: 530
+  Tech Score: 7174
+  Unit Score: 6816
+  Average Score: 6995
+  Stat Strength: 5508
+  Total Strength: 6816
+  Planet Strength: 0
+  Space Strength: 6816
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 30
-  Spot: 24
-  Camouflage: 12
-  Agility: 22
-  Armor: 10
-  Psy Defense: 10
-  Rank: 113
+  Movement Type: space
+  Move Points: 28
+  Spot: 22
+  Camouflage: 16
+  Agility: 44
+  Armor: 32
+  Psy Defense: 32
+  Rank: 207
 Attacks:
-  Water: 25/24
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Never Rebels
+  Direct Space: 26/30
+  Close Space: 22/24
+Cargo Space: 1
+Load aboard transport: 4
 Immune to Plague
-Upkeep / Maintenance: 31
-Build Cost: 305
+Upkeep / Maintenance: 367
+Build Cost: 2405
 Build Resource Requirements:
-  Food: 11
-  Energy: 23
-  Metal: 3
-  Trace: 21
-  Exotica: 11
-  Chemicals: 33
-  Biochems: 15
-  Electronics: 29
-  Ceramsteel: 4
-Build UA Helicopter (ASW) in Factory
-Time to Build / Upgrade: 3
-[17780] Technologies Required to Build Unit (61):
-  [3615] Submarine Warfare (87)
-  [14165] Autonomous Aerial Vehicles (34)
+  Wetware: 10
+Cybermorph Space Frigate cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: UA Helicopter (ISR)
-Nick Name: AA-UAH-ISR
+Name: Cybermorph Jump Frigate
+Nick Name: JJ-FF-CM
 Scores & Strengths:
-  Tech Score: 3203
-  Unit Score: 3206
-  Average Score: 3205
-  Stat Strength: 2746
-  Total Strength: 3206
-  Planet Strength: 3206
-  Space Strength: 0
-  Garrison Strength: 628
+  Tech Score: 7424
+  Unit Score: 6972
+  Average Score: 7198
+  Stat Strength: 5638
+  Total Strength: 6972
+  Planet Strength: 0
+  Space Strength: 6972
+  Garrison Strength: 0
 Statistics:
-  Movement Type: air
-  Move Points: 26
-  Spot: 32
-  Camouflage: 20
-  Agility: 22
-  Armor: 9
-  Psy Defense: 9
-  Rank: 128
+  Movement Type: jump
+  Move Points: 28
+  Spot: 22
+  Camouflage: 16
+  Agility: 44
+  Armor: 33
+  Psy Defense: 33
+  Rank: 209
 Attacks:
-  Air: 18/10
-  Indirect: 20/14
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Never Rebels
+  Direct Space: 26/31
+  Close Space: 22/24
+Cargo Space: 1
+Load aboard transport: 4
 Immune to Plague
-Upkeep / Maintenance: 31
-Build Cost: 314
+Upkeep / Maintenance: 846
+Build Cost: 6059
 Build Resource Requirements:
-  Food: 9
-  Energy: 12
-  Metal: 2
-  Trace: 20
-  Exotica: 9
-  Chemicals: 17
-  Biochems: 27
-  Electronics: 31
-  Ceramsteel: 2
-Build UA Helicopter (ISR) in Factory
-Time to Build / Upgrade: 3
-[20655] Technologies Required to Build Unit (41):
-  [6490] Assassin (48)
-  [14165] Autonomous Aerial Vehicles (34)
+  Singularities: 5
+Upgrade Cybermorph Space Frigate to Cybermorph Jump Frigate at Starport
+Time to Build / Upgrade: 1
+[82875] Technologies Required to Build Unit (70):
+  [54910] Polymorphonic Escortcraft (65)
+  [27965] Jump Escorts (75)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Stealth Corsair
+Nick Name: JJ-C-SS
+Scores & Strengths:
+  Tech Score: 7207
+  Unit Score: 7207
+  Average Score: 7207
+  Stat Strength: 4577
+  Total Strength: 7207
+  Planet Strength: 0
+  Space Strength: 7207
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 20
+  Spot: 28
+  Camouflage: 40
+  Agility: 21
+  Armor: 26
+  Psy Defense: 26
+  Rank: 264
+Attacks:
+  Direct Space: 46/30
+  Close Space: 50/25
+Cargo Space: 1
+Load aboard transport: 3
+Immune to Plague
+Upkeep / Maintenance: 833
+Build Cost: 7521
+Build Resource Requirements:
+  Ceramsteel: 4
+  Wetware: 23
+  Monopols: 14
+  Singularities: 2
+Stealth Corsair cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Stealth Fusion Corsair
+Nick Name: JJ-CF-SS
+Scores & Strengths:
+  Tech Score: 7481
+  Unit Score: 7482
+  Average Score: 7482
+  Stat Strength: 4577
+  Total Strength: 7482
+  Planet Strength: 0
+  Space Strength: 7482
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 20
+  Spot: 28
+  Camouflage: 40
+  Agility: 21
+  Armor: 26
+  Psy Defense: 26
+  Rank: 273
+Attacks:
+  Direct Space: 47/35
+  Close Space: 42/30
+Cargo Space: 1
+Load aboard transport: 3
+Immune to Plague
+Upkeep / Maintenance: 801
+Build Cost: 484
+Build Resource Requirements:
+  Chemicals: 1
+  Monopols: 1
+Stealth Fusion Corsair cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Cloaking Space Frigate
+Nick Name: SS-FF-CL
+Scores & Strengths:
+  Tech Score: 7481
+  Unit Score: 7486
+  Average Score: 7484
+  Stat Strength: 6070
+  Total Strength: 7486
+  Planet Strength: 0
+  Space Strength: 7486
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 20
+  Spot: 12
+  Camouflage: 50
+  Agility: 24
+  Armor: 35
+  Psy Defense: 35
+  Rank: 220
+Attacks:
+  Direct Space: 24/35
+  Close Space: 36/16
+Cargo Space: 1
+Load aboard transport: 4
+Immune to Plague
+Upkeep / Maintenance: 328
+Build Cost: 1127
+Build Resource Requirements:
+  Electronics: 11
+  Wetware: 8
+Upgrade Fusion Space Frigate to Cloaking Space Frigate at Starport
+Time to Build / Upgrade: 1
+[58065] Technology Required to Build Unit (48):
+  [58065] Cloaked Escortcraft (48)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Cyber Stealth Corsair
+Nick Name: JJ-C-CSS
+Scores & Strengths:
+  Tech Score: 7598
+  Unit Score: 7598
+  Average Score: 7598
+  Stat Strength: 6126
+  Total Strength: 7598
+  Planet Strength: 0
+  Space Strength: 7598
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 22
+  Spot: 22
+  Camouflage: 44
+  Agility: 42
+  Armor: 27
+  Psy Defense: 27
+  Rank: 230
+Attacks:
+  Direct Space: 38/26
+  Close Space: 22/22
+Cargo Space: 1
+Load aboard transport: 3
+Immune to Plague
+Upkeep / Maintenance: 774
+Build Cost: 7256
+Build Resource Requirements:
+  Trace: 1
+  Singularities: 1
+Cyber Stealth Corsair cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Gate Frigate
+Nick Name: Irradiator
+Scores & Strengths:
+  Tech Score: 7603
+  Unit Score: 7603
+  Average Score: 7603
+  Stat Strength: 5057
+  Total Strength: 7603
+  Planet Strength: 6635
+  Space Strength: 6025
+  Garrison Strength: 1155
+Statistics:
+  Movement Type: gate
+  Move Points: 33
+  Spot: 24
+  Camouflage: 20
+  Agility: 20
+  Armor: 36
+  Psy Defense: 36
+  Rank: 229
+Attacks:
+  Direct Space: 30/20
+  Close Space: 23/16
+  Water: 18/21
+  Air: 18/18
+  Indirect: 30/18
+  Direct: 24/14
+Cargo Space: 1
+Load aboard transport: 4
+Immune to Plague
+Upkeep / Maintenance: 1049
+Build Cost: 5576
+Build Resource Requirements:
+  Biochems: 4
+  Wetware: 14
+  Singularities: 1
+Gate Frigate cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Cloaking Jump Frigate
+Nick Name: JJ-FF-CL
+Scores & Strengths:
+  Tech Score: 7728
+  Unit Score: 7769
+  Average Score: 7748
+  Stat Strength: 6313
+  Total Strength: 7769
+  Planet Strength: 0
+  Space Strength: 7769
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 20
+  Spot: 12
+  Camouflage: 51
+  Agility: 24
+  Armor: 36
+  Psy Defense: 36
+  Rank: 223
+Attacks:
+  Direct Space: 24/36
+  Close Space: 37/16
+Cargo Space: 1
+Load aboard transport: 4
+Immune to Plague
+Upkeep / Maintenance: 770
+Build Cost: 6570
+Build Resource Requirements:
+  Singularities: 4
+Upgrade Cloaking Space Frigate to Cloaking Jump Frigate at Starport
+Time to Build / Upgrade: 1
+[86030] Technologies Required to Build Unit (62):
+  [58065] Cloaked Escortcraft (48)
+  [27965] Jump Escorts (75)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

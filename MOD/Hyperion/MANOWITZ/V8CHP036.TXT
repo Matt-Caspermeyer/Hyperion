@@ -1,44 +1,141 @@
-All units of the unit class Space Mine Nullifier are listed herein (1 in total):
+All units of the unit class Naval Mine Nullifier are listed herein (3 in total):
 
 --1--
-Name: Space Mine Nullifier
-Nick Name: SS-MN
+Name: Naval Mine Nullifier
+Nick Name: NM Nullifier
 Scores & Strengths:
-  Tech Score: 340
-  Unit Score: 101
-  Average Score: 220
-  Stat Strength: 101
-  Total Strength: 101
-  Planet Strength: 0
+  Tech Score: 181
+  Unit Score: 100
+  Average Score: 140
+  Stat Strength: 100
+  Total Strength: 100
+  Planet Strength: 100
   Space Strength: 0
-  Garrison Strength: 0
+  Garrison Strength: 125
 Statistics:
-  Movement Type: space
-  Move Points: 1
+  Movement Type: underwater
+  Move Points: 0
   Spot: 0
   Camouflage: 0
   Agility: 10
   Armor: 0
   Psy Defense: 0
-  Rank: 15
+  Rank: 12
 Load aboard transport: 1
 Can attack on Byzantium Secundus
+Can be towed
+Upkeep / Maintenance: 7
+Build Cost: 72
+Build Resource Requirements:
+  Food: 7
+  Energy: 7
+  Trace: 7
+  Exotica: 7
+  Chemicals: 6
+Build Naval Mine Nullifier in Well
+Time to Build / Upgrade: 1
+[665] Technologies Required to Build Unit (98):
+  [230] Hospitals (97)
+  [110] Structural Engineering (99)
+  [100] Psychosocial Engineering (100)
+  [165] Autocannon (98)
+  [60] Torpedo (98)
+Unit can be disbanded: YES
+
+--2--
+Name: Naval Mine System
+Nick Name: Naval Mine System
+Scores & Strengths:
+  Tech Score: 953
+  Unit Score: 950
+  Average Score: 951
+  Stat Strength: 410
+  Total Strength: 950
+  Planet Strength: 950
+  Space Strength: 0
+  Garrison Strength: 387
+Statistics:
+  Movement Type: underwater
+  Move Points: 6
+  Spot: 4
+  Camouflage: 10
+  Agility: 4
+  Armor: 11
+  Psy Defense: 11
+  Rank: 87
+Attacks:
+  Water: 18/30
+Cargo Space: 2
+Load aboard transport: 3
+Can attack on Byzantium Secundus
+Can be towed
+Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 3
-Build Cost: 33
+Upkeep / Maintenance: 62
+Build Cost: 615
+Build Resource Requirements:
+  Food: 1
+  Energy: 29
+  Metal: 14
+  Trace: 20
+  Exotica: 1
+  Chemicals: 34
+  Biochems: 9
+  Electronics: 17
+Build Naval Mine System in Well
+Time to Build / Upgrade: 2
+[4425] Technologies Required to Build Unit (88):
+  [2725] Naval Capital Ships (88)
+  [1700] Main Battle Tank (88)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Naval Drone Mine
+Nick Name: Naval Drone Mine
+Scores & Strengths:
+  Tech Score: 2993
+  Unit Score: 2994
+  Average Score: 2993
+  Stat Strength: 2424
+  Total Strength: 2994
+  Planet Strength: 2994
+  Space Strength: 0
+  Garrison Strength: 669
+Statistics:
+  Movement Type: underwater
+  Move Points: 20
+  Spot: 8
+  Camouflage: 14
+  Agility: 12
+  Armor: 18
+  Psy Defense: 36
+  Rank: 107
+Attacks:
+  Water: 19/30
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Can be towed
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 91
+Build Cost: 907
 Build Resource Requirements:
   Food: 3
-  Energy: 3
-  Trace: 4
+  Energy: 19
+  Metal: 20
+  Trace: 8
   Exotica: 3
-  Chemicals: 4
-  Electronics: 3
-Build Space Mine Nullifier in Starport
-Time to Build / Upgrade: 1
-[1860] Technologies Required to Build Unit (92):
-  [145] Composite Armor (97)
-  [125] Radar (93)
-  [795] Rocket Propulsion (90)
-  [795] Missiles (86)
+  Chemicals: 32
+  Biochems: 6
+  Electronics: 20
+  Ceramsteel: 26
+Build Naval Drone Mine in Well
+Time to Build / Upgrade: 3
+[19935] Technologies Required to Build Unit (81):
+  [3615] Submarine Warfare (87)
+  [16320] Unmanned Patrolcraft (74)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

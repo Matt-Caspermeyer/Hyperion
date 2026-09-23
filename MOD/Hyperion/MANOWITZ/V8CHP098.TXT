@@ -1,4 +1,4 @@
-All units of the unit class Assault Gun are listed herein (4 in total):
+All units of the unit class Assault Gun are listed herein (6 in total):
 
 --1--
 Name: Assault Gun
@@ -44,8 +44,51 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
+Name: Light Assault Gun
+Nick Name: L Violator
+Scores & Strengths:
+  Tech Score: 530
+  Unit Score: 530
+  Average Score: 530
+  Stat Strength: 296
+  Total Strength: 530
+  Planet Strength: 530
+  Space Strength: 0
+  Garrison Strength: 167
+Statistics:
+  Movement Type: tread
+  Move Points: 10
+  Spot: 4
+  Camouflage: 4
+  Agility: 6
+  Armor: 8
+  Psy Defense: 8
+  Rank: 58
+Attacks:
+  Indirect: 13/12
+  Direct: 13/6
+Load aboard transport: 1
+Upkeep / Maintenance: 8
+Build Cost: 80
+Build Resource Requirements:
+  Food: 6
+  Energy: 20
+  Metal: 15
+  Trace: 40
+  Exotica: 6
+  Chemicals: 28
+  Electronics: 25
+Build Light Assault Gun in Factory
+Time to Build / Upgrade: 3
+[1700] Technology Required to Build Unit (88):
+  [1700] Main Battle Tank (88)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
 Name: Heavy Assault Gun
-Nick Name: Heavy AG
+Nick Name: H Violator
 Scores & Strengths:
   Tech Score: 530
   Unit Score: 530
@@ -86,7 +129,50 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---3--
+--4--
+Name: Medium Assault Gun
+Nick Name: M Violator
+Scores & Strengths:
+  Tech Score: 530
+  Unit Score: 531
+  Average Score: 530
+  Stat Strength: 305
+  Total Strength: 531
+  Planet Strength: 531
+  Space Strength: 0
+  Garrison Strength: 187
+Statistics:
+  Movement Type: tread
+  Move Points: 8
+  Spot: 4
+  Camouflage: 3
+  Agility: 4
+  Armor: 10
+  Psy Defense: 10
+  Rank: 56
+Attacks:
+  Indirect: 10/13
+  Direct: 12/8
+Load aboard transport: 2
+Upkeep / Maintenance: 7
+Build Cost: 74
+Build Resource Requirements:
+  Food: 4
+  Energy: 21
+  Metal: 23
+  Trace: 29
+  Exotica: 4
+  Chemicals: 31
+  Electronics: 21
+Build Medium Assault Gun in Factory
+Time to Build / Upgrade: 2
+[1700] Technology Required to Build Unit (88):
+  [1700] Main Battle Tank (88)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
 Name: Shock Assault Gun
 Nick Name: Detonator
 Scores & Strengths:
@@ -126,7 +212,7 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---4--
+--6--
 Name: Stealth Assault Gun
 Nick Name: Penetrator
 Scores & Strengths:

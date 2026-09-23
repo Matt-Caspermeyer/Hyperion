@@ -1,553 +1,553 @@
-All units of the unit class Personal Surveillance Drone are listed herein (12 in total):
+All units of the unit class Anti-Tank Mine System are listed herein (11 in total):
 
 --1--
-Name: Personal Surveillance Drone
-Nick Name: Drone (PR)
+Name: Anti-Tank Mine System
+Nick Name: ATMS
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 557
-  Average Score: 1376
-  Stat Strength: 557
-  Total Strength: 557
-  Planet Strength: 557
+  Tech Score: 530
+  Unit Score: 530
+  Average Score: 530
+  Stat Strength: 344
+  Total Strength: 530
+  Planet Strength: 530
   Space Strength: 0
-  Garrison Strength: 160
+  Garrison Strength: 216
 Statistics:
-  Movement Type: air
-  Move Points: 12
-  Spot: 12
-  Camouflage: 5
-  Agility: 8
-  Armor: 6
-  Psy Defense: 12
-  Rank: 45
-Load aboard transport: 1
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+  Movement Type: tread
+  Move Points: 6
+  Spot: 2
+  Camouflage: 10
+  Agility: 2
+  Armor: 10
+  Psy Defense: 10
+  Rank: 58
+Attacks:
+  Indirect: 8/12
+  Direct: 10/9
+Cargo Space: 1
+Load aboard transport: 2
+Can attack on Byzantium Secundus
 Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 3
-Build Cost: 30
+Upkeep / Maintenance: 15
+Build Cost: 154
 Build Resource Requirements:
   Food: 2
-  Energy: 3
-  Metal: 3
-  Trace: 3
+  Energy: 18
+  Metal: 23
+  Trace: 29
   Exotica: 2
-  Chemicals: 5
-  Electronics: 5
-  Ceramsteel: 7
-Build Personal Surveillance Drone in Factory
-Time to Build / Upgrade: 1
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+  Chemicals: 28
+  Electronics: 25
+Build Anti-Tank Mine System in Factory
+Time to Build / Upgrade: 2
+[1700] Technology Required to Build Unit (88):
+  [1700] Main Battle Tank (88)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Bomber Drone
-Nick Name: Drone (B)
+Name: Anti-Personnel Mine System
+Nick Name: APMS
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2190
-  Average Score: 2192
-  Stat Strength: 1530
-  Total Strength: 2190
-  Planet Strength: 2190
+  Tech Score: 566
+  Unit Score: 567
+  Average Score: 567
+  Stat Strength: 312
+  Total Strength: 567
+  Planet Strength: 567
   Space Strength: 0
-  Garrison Strength: 547
+  Garrison Strength: 283
 Statistics:
-  Movement Type: air
-  Move Points: 16
-  Spot: 14
-  Camouflage: 7
-  Agility: 7
-  Armor: 14
-  Psy Defense: 28
-  Rank: 114
+  Movement Type: tread
+  Move Points: 4
+  Spot: 2
+  Camouflage: 10
+  Agility: 8
+  Armor: 8
+  Psy Defense: 8
+  Rank: 56
 Attacks:
-  Indirect: 15/44
+  Indirect: 7/9
+  Close: 16/12
+Cargo Space: 1
 Load aboard transport: 2
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Can attack on Byzantium Secundus
 Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 21
-Build Cost: 212
+Upkeep / Maintenance: 19
+Build Cost: 191
 Build Resource Requirements:
-  Food: 4
-  Energy: 34
-  Metal: 15
-  Trace: 8
-  Exotica: 4
-  Chemicals: 60
-  Electronics: 7
-  Ceramsteel: 37
-Build Bomber Drone in Electronics Plant
+  Food: 3
+  Energy: 18
+  Metal: 14
+  Trace: 43
+  Exotica: 3
+  Chemicals: 25
+  Electronics: 41
+Build Anti-Personnel Mine System in Fort
 Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+[2020] Technologies Required to Build Unit (88):
+  [320] Viper Militia (88)
+  [1700] Main Battle Tank (88)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Patrol Drone
-Nick Name: Drone (P)
+Name: Anti-Air Mine System
+Nick Name: AAMS
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2191
-  Average Score: 2193
-  Stat Strength: 1257
-  Total Strength: 2191
-  Planet Strength: 2191
+  Tech Score: 651
+  Unit Score: 649
+  Average Score: 650
+  Stat Strength: 513
+  Total Strength: 649
+  Planet Strength: 649
   Space Strength: 0
-  Garrison Strength: 585
+  Garrison Strength: 205
 Statistics:
-  Movement Type: air
-  Move Points: 14
-  Spot: 16
-  Camouflage: 10
-  Agility: 10
-  Armor: 11
-  Psy Defense: 22
-  Rank: 97
+  Movement Type: tread
+  Move Points: 10
+  Spot: 5
+  Camouflage: 8
+  Agility: 6
+  Armor: 12
+  Psy Defense: 12
+  Rank: 60
 Attacks:
-  Direct: 22/22
-  Close: 30/15
+  Air: 8/17
+Cargo Space: 1
 Load aboard transport: 2
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Can attack on Byzantium Secundus
 Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 20
-Build Cost: 195
+Upkeep / Maintenance: 16
+Build Cost: 155
 Build Resource Requirements:
   Food: 4
-  Energy: 15
-  Metal: 9
-  Trace: 27
+  Energy: 19
+  Metal: 91
+  Trace: 9
   Exotica: 4
-  Chemicals: 26
-  Electronics: 46
-  Ceramsteel: 23
-Build Patrol Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+  Chemicals: 21
+  Electronics: 8
+Build Anti-Air Mine System in Factory
+Time to Build / Upgrade: 2
+[2730] Technologies Required to Build Unit (88):
+  [125] Radar (93)
+  [795] Missiles (86)
+  [1810] Jet-Propulsion Aircraft (86)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Anti-Ship Drone
-Nick Name: Drone (ASh)
+Name: Psyonic Mine System
+Nick Name: PsMS
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2193
-  Average Score: 2194
-  Stat Strength: 1425
-  Total Strength: 2193
-  Planet Strength: 2193
-  Space Strength: 0
-  Garrison Strength: 548
+  Tech Score: 913
+  Unit Score: 912
+  Average Score: 913
+  Stat Strength: 608
+  Total Strength: 912
+  Planet Strength: 912
+  Space Strength: 912
+  Garrison Strength: 322
 Statistics:
-  Movement Type: air
-  Move Points: 16
-  Spot: 14
-  Camouflage: 8
-  Agility: 8
-  Armor: 13
-  Psy Defense: 26
-  Rank: 113
+  Movement Type: tread
+  Move Points: 8
+  Spot: 8
+  Camouflage: 12
+  Agility: 4
+  Armor: 8
+  Psy Defense: 16
+  Rank: 88
 Attacks:
-  Water: 12/32
-  Indirect: 12/32
-Load aboard transport: 3
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+  Psychic: 16/19
+Cargo Space: 1
+Load aboard transport: 2
+Can attack on Byzantium Secundus
 Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 21
-Build Cost: 214
+Upkeep / Maintenance: 109
+Build Cost: 1094
 Build Resource Requirements:
-  Food: 4
-  Energy: 36
-  Metal: 13
-  Trace: 9
-  Exotica: 4
-  Chemicals: 62
-  Electronics: 11
-  Ceramsteel: 32
-Build Anti-Ship Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+  Food: 6
+  Energy: 4
+  Metal: 20
+  Trace: 18
+  Exotica: 7
+  Chemicals: 8
+  Electronics: 21
+  Gems: 37
+Build Psyonic Mine System in Church
+Time to Build / Upgrade: 2
+[3675] Technologies Required to Build Unit (64):
+  [1975] Telepathic Soldiers (39)
+  [1700] Main Battle Tank (88)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Anti-Tank Drone
-Nick Name: Drone (AT)
+Name: Anti-Tank Drone Mine
+Nick Name: ATG Drone Mine
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2193
-  Average Score: 2194
-  Stat Strength: 1564
-  Total Strength: 2193
-  Planet Strength: 2193
+  Tech Score: 2514
+  Unit Score: 2516
+  Average Score: 2515
+  Stat Strength: 2000
+  Total Strength: 2516
+  Planet Strength: 2516
   Space Strength: 0
-  Garrison Strength: 586
+  Garrison Strength: 593
 Statistics:
-  Movement Type: air
-  Move Points: 14
-  Spot: 12
-  Camouflage: 12
-  Agility: 10
+  Movement Type: foot
+  Move Points: 18
+  Spot: 10
+  Camouflage: 20
+  Agility: 14
   Armor: 14
   Psy Defense: 28
-  Rank: 94
+  Rank: 109
 Attacks:
-  Direct: 17/37
-Load aboard transport: 2
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+  Indirect: 16/20
+  Direct: 14/14
+Load aboard transport: 1
+Can attack on Byzantium Secundus
 Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 20
-Build Cost: 196
+Upkeep / Maintenance: 19
+Build Cost: 188
 Build Resource Requirements:
   Food: 3
-  Energy: 25
-  Metal: 15
-  Trace: 10
+  Energy: 12
+  Metal: 10
+  Trace: 11
   Exotica: 3
-  Chemicals: 44
-  Electronics: 16
-  Ceramsteel: 37
-Build Anti-Tank Drone in Electronics Plant
+  Chemicals: 25
+  Electronics: 21
+  Ceramsteel: 16
+Build Anti-Tank Drone Mine in Factory
 Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+[18770] Technologies Required to Build Unit (75):
+  [5205] Advanced Battle Tanks (84)
+  [13565] Unmanned Land Vehicles (65)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Fighter-Bomber Drone
-Nick Name: Drone (FB)
+Name: Anti-Air Drone Mine
+Nick Name: AA Drone Mine
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2193
-  Average Score: 2194
-  Stat Strength: 1361
-  Total Strength: 2193
-  Planet Strength: 2193
+  Tech Score: 2549
+  Unit Score: 2554
+  Average Score: 2551
+  Stat Strength: 1916
+  Total Strength: 2554
+  Planet Strength: 2554
   Space Strength: 0
-  Garrison Strength: 531
+  Garrison Strength: 544
 Statistics:
-  Movement Type: air
-  Move Points: 17
-  Spot: 12
-  Camouflage: 8
-  Agility: 12
+  Movement Type: foot
+  Move Points: 22
+  Spot: 8
+  Camouflage: 18
+  Agility: 18
   Armor: 12
   Psy Defense: 24
-  Rank: 118
+  Rank: 113
 Attacks:
-  Air: 22/20
-  Indirect: 14/28
-Load aboard transport: 2
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+  Air: 29/22
+Load aboard transport: 1
+Can attack on Byzantium Secundus
 Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 184
+Upkeep / Maintenance: 22
+Build Cost: 224
 Build Resource Requirements:
-  Food: 4
-  Energy: 23
-  Metal: 11
-  Trace: 15
-  Exotica: 4
-  Chemicals: 42
-  Electronics: 19
-  Ceramsteel: 27
-Build Fighter-Bomber Drone in Electronics Plant
+  Food: 5
+  Energy: 14
+  Metal: 10
+  Trace: 16
+  Exotica: 5
+  Chemicals: 26
+  Electronics: 29
+  Ceramsteel: 15
+Build Anti-Air Drone Mine in Factory
 Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+[17955] Technologies Required to Build Unit (80):
+  [255] Doppler Frequency Radar (88)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2325] Web Missiles (80)
+  [13565] Unmanned Land Vehicles (65)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Anti-Personnel Drone
-Nick Name: Drone (AP)
+Name: Gemss Mine System
+Nick Name: GEMMS
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2194
-  Average Score: 2194
-  Stat Strength: 1369
-  Total Strength: 2194
-  Planet Strength: 2194
+  Tech Score: 2766
+  Unit Score: 2766
+  Average Score: 2766
+  Stat Strength: 992
+  Total Strength: 2766
+  Planet Strength: 2766
   Space Strength: 0
-  Garrison Strength: 548
+  Garrison Strength: 798
 Statistics:
-  Movement Type: air
-  Move Points: 16
-  Spot: 16
+  Movement Type: tread
+  Move Points: 12
+  Spot: 10
   Camouflage: 16
-  Agility: 14
-  Armor: 9
-  Psy Defense: 18
-  Rank: 92
+  Agility: 10
+  Armor: 14
+  Psy Defense: 14
+  Rank: 140
 Attacks:
-  Close: 33/25
+  Indirect: 21/28
+  Direct: 26/30
+  Close: 29/14
+Cargo Space: 1
 Load aboard transport: 2
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Can attack on Byzantium Secundus
 Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 178
+Upkeep / Maintenance: 160
+Build Cost: 1599
 Build Resource Requirements:
-  Food: 5
-  Energy: 15
-  Metal: 6
-  Trace: 26
-  Exotica: 5
-  Chemicals: 26
-  Electronics: 43
-  Ceramsteel: 15
-Build Anti-Personnel Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+  Food: 1
+  Energy: 17
+  Metal: 4
+  Trace: 23
+  Exotica: 1
+  Chemicals: 24
+  Biochems: 37
+  Electronics: 37
+  Ceramsteel: 4
+  Monopols: 24
+Build Gemss Mine System in Factory
+Time to Build / Upgrade: 4
+[17320] Technologies Required to Build Unit (64):
+  [6490] Assassin (48)
+  [10830] Violator Assault Gunnery (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: General-Purpose Drone
-Nick Name: Drone (GP)
+Name: Anti-Personnel Drone Mine
+Nick Name: AP Drone Mine
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2194
-  Average Score: 2194
-  Stat Strength: 1180
-  Total Strength: 2194
-  Planet Strength: 2194
+  Tech Score: 2808
+  Unit Score: 2808
+  Average Score: 2808
+  Stat Strength: 2312
+  Total Strength: 2808
+  Planet Strength: 2808
   Space Strength: 0
-  Garrison Strength: 586
+  Garrison Strength: 702
 Statistics:
-  Movement Type: air
-  Move Points: 14
-  Spot: 14
-  Camouflage: 12
-  Agility: 12
+  Movement Type: foot
+  Move Points: 16
+  Spot: 12
+  Camouflage: 34
+  Agility: 16
   Armor: 10
   Psy Defense: 20
-  Rank: 113
+  Rank: 95
 Attacks:
-  Indirect: 16/23
-  Direct: 18/22
-  Close: 25/10
-Load aboard transport: 2
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+  Close: 31/16
+Load aboard transport: 1
+Can attack on Byzantium Secundus
 Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 19
-Build Cost: 189
+Upkeep / Maintenance: 33
+Build Cost: 325
 Build Resource Requirements:
-  Food: 4
-  Energy: 21
-  Metal: 8
-  Trace: 24
-  Exotica: 4
-  Chemicals: 37
-  Electronics: 35
-  Ceramsteel: 19
-Build General-Purpose Drone in Electronics Plant
+  Food: 3
+  Energy: 7
+  Metal: 6
+  Trace: 25
+  Exotica: 3
+  Chemicals: 15
+  Biochems: 22
+  Electronics: 47
+  Ceramsteel: 7
+Build Anti-Personnel Drone Mine in Fort
 Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+[17635] Technologies Required to Build Unit (67):
+  [4070] Tracker Legion (69)
+  [13565] Unmanned Land Vehicles (65)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Fighter Drone
-Nick Name: Drone (F)
+Name: Psyonic Drone Mine
+Nick Name: Psy Drone Mine
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2195
-  Average Score: 2195
-  Stat Strength: 1436
-  Total Strength: 2195
-  Planet Strength: 2195
-  Space Strength: 0
-  Garrison Strength: 517
+  Tech Score: 2886
+  Unit Score: 2885
+  Average Score: 2886
+  Stat Strength: 2399
+  Total Strength: 2885
+  Planet Strength: 2885
+  Space Strength: 2885
+  Garrison Strength: 699
 Statistics:
-  Movement Type: air
-  Move Points: 18
-  Spot: 12
-  Camouflage: 12
-  Agility: 18
-  Armor: 10
-  Psy Defense: 20
-  Rank: 114
+  Movement Type: foot
+  Move Points: 17
+  Spot: 16
+  Camouflage: 32
+  Agility: 15
+  Armor: 11
+  Psy Defense: 22
+  Rank: 130
 Attacks:
-  Air: 33/23
-Load aboard transport: 2
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+  Psychic: 27/18
+Load aboard transport: 1
+Can attack on Byzantium Secundus
 Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 180
+Upkeep / Maintenance: 107
+Build Cost: 1072
 Build Resource Requirements:
   Food: 5
-  Energy: 15
-  Metal: 8
-  Trace: 23
-  Exotica: 5
-  Chemicals: 27
-  Electronics: 39
-  Ceramsteel: 19
-Build Fighter Drone in Electronics Plant
+  Energy: 6
+  Metal: 7
+  Trace: 18
+  Exotica: 7
+  Chemicals: 13
+  Electronics: 35
+  Ceramsteel: 11
+  Gems: 25
+Build Psyonic Drone Mine in Church
 Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+[16705] Technologies Required to Build Unit (52):
+  [3140] Sympathic Soldiers (38)
+  [13565] Unmanned Land Vehicles (65)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Anti-Submarine Drone
-Nick Name: Drone (ASu)
+Name: Gator Mine System
+Nick Name: GATOR
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2196
-  Average Score: 2195
-  Stat Strength: 1428
-  Total Strength: 2196
-  Planet Strength: 2196
-  Space Strength: 0
-  Garrison Strength: 549
+  Tech Score: 3140
+  Unit Score: 3140
+  Average Score: 3140
+  Stat Strength: 1320
+  Total Strength: 3140
+  Planet Strength: 3140
+  Space Strength: 1704
+  Garrison Strength: 839
 Statistics:
-  Movement Type: air
-  Move Points: 16
-  Spot: 18
-  Camouflage: 8
-  Agility: 8
-  Armor: 12
-  Psy Defense: 24
-  Rank: 107
+  Movement Type: tread
+  Move Points: 14
+  Spot: 12
+  Camouflage: 18
+  Agility: 12
+  Armor: 16
+  Psy Defense: 16
+  Rank: 156
 Attacks:
-  Water: 24/32
-Load aboard transport: 3
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+  Psychic: 24/16
+  Indirect: 21/24
+  Direct: 24/26
+  Close: 22/14
+Cargo Space: 1
+Load aboard transport: 2
+Can attack on Byzantium Secundus
 Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 184
+Upkeep / Maintenance: 210
+Build Cost: 2095
 Build Resource Requirements:
-  Food: 5
-  Energy: 20
-  Metal: 11
-  Trace: 15
-  Exotica: 5
-  Chemicals: 36
-  Electronics: 25
-  Ceramsteel: 27
-Build Anti-Submarine Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+  Food: 2
+  Energy: 14
+  Metal: 4
+  Trace: 20
+  Exotica: 2
+  Chemicals: 20
+  Biochems: 29
+  Electronics: 31
+  Ceramsteel: 5
+  Monopols: 21
+  Gems: 17
+Build Gator Mine System in Factory
+Time to Build / Upgrade: 4
+[20955] Technologies Required to Build Unit (59):
+  [6490] Assassin (48)
+  [3635] Dervishes (48)
+  [10830] Violator Assault Gunnery (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --11--
-Name: Surveillance Drone
-Nick Name: Drone (R)
+Name: Volcano Mine System
+Nick Name: Volcano
 Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2197
-  Average Score: 2196
-  Stat Strength: 2197
-  Total Strength: 2197
-  Planet Strength: 2197
-  Space Strength: 0
-  Garrison Strength: 448
+  Tech Score: 3404
+  Unit Score: 3404
+  Average Score: 3404
+  Stat Strength: 1696
+  Total Strength: 3404
+  Planet Strength: 3404
+  Space Strength: 2004
+  Garrison Strength: 851
 Statistics:
-  Movement Type: air
-  Move Points: 24
-  Spot: 24
-  Camouflage: 10
-  Agility: 15
-  Armor: 12
-  Psy Defense: 24
-  Rank: 62
-Load aboard transport: 2
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 16
-Build Cost: 157
-Build Resource Requirements:
-  Food: 10
-  Energy: 10
-  Metal: 11
-  Trace: 12
-  Exotica: 10
-  Chemicals: 19
-  Electronics: 20
-  Ceramsteel: 27
-Build Surveillance Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---12--
-Name: Transport Drone
-Nick Name: Drone (X)
-Scores & Strengths:
-  Tech Score: 2194
-  Unit Score: 2198
-  Average Score: 2196
-  Stat Strength: 2198
-  Total Strength: 2198
-  Planet Strength: 2198
-  Space Strength: 0
-  Garrison Strength: 634
-Statistics:
-  Movement Type: air
-  Move Points: 12
-  Spot: 11
-  Camouflage: 8
-  Agility: 8
-  Armor: 19
-  Psy Defense: 38
-  Rank: 61
+  Movement Type: tread
+  Move Points: 16
+  Spot: 14
+  Camouflage: 20
+  Agility: 14
+  Armor: 18
+  Psy Defense: 18
+  Rank: 159
+Attacks:
+  Psychic: 22/14
+  Air: 24/16
+  Indirect: 18/20
+  Direct: 20/22
+  Close: 18/12
 Cargo Space: 1
-Load aboard transport: 4
-Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Load aboard transport: 2
+Can attack on Byzantium Secundus
 Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 175
+Upkeep / Maintenance: 172
+Build Cost: 1716
 Build Resource Requirements:
   Food: 2
-  Energy: 3
-  Metal: 27
-  Trace: 3
+  Energy: 11
+  Metal: 6
+  Trace: 19
   Exotica: 2
-  Chemicals: 10
-  Electronics: 6
-  Ceramsteel: 68
-Build Transport Drone in Electronics Plant
+  Chemicals: 16
+  Biochems: 24
+  Electronics: 26
+  Ceramsteel: 6
+  Monopols: 17
+  Gems: 12
+Build Volcano Mine System in Factory
 Time to Build / Upgrade: 3
-[11315] Technology Required to Build Unit (64):
-  [11315] Unmanned Aerial Vehicles (64)
+[30420] Technologies Required to Build Unit (74):
+  [385] Phased-Array Radar (84)
+  [6490] Assassin (48)
+  [1670] Guided Missiles (83)
+  [2325] Web Missiles (80)
+  [2665] V/STOL Aircraft (85)
+  [2420] Rocket-Propelled Aircraft (87)
+  [3635] Dervishes (48)
+  [10830] Violator Assault Gunnery (80)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

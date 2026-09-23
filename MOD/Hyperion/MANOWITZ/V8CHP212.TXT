@@ -1,45 +1,45 @@
-All units of the unit class Space Frigate are listed herein (12 in total):
+All units of the unit class Space Destroyer are listed herein (9 in total):
 
 --1--
-Name: Space Frigate
-Nick Name: SS-FF
+Name: Space Destroyer
+Nick Name: SS-DD
 Scores & Strengths:
   Tech Score: 2580
   Unit Score: 2580
   Average Score: 2580
-  Stat Strength: 1648
+  Stat Strength: 1810
   Total Strength: 2580
   Planet Strength: 0
   Space Strength: 2580
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 18
+  Move Points: 16
   Spot: 12
   Camouflage: 4
-  Agility: 14
-  Armor: 22
-  Psy Defense: 22
-  Rank: 147
+  Agility: 12
+  Armor: 25
+  Psy Defense: 25
+  Rank: 139
 Attacks:
-  Direct Space: 22/26
-  Close Space: 18/20
+  Direct Space: 16/28
+  Close Space: 14/23
 Cargo Space: 1
-Load aboard transport: 4
+Load aboard transport: 5
 Immune to Plague
 Upkeep / Maintenance: 41
 Build Cost: 413
 Build Resource Requirements:
   Food: 3
-  Energy: 20
-  Metal: 14
-  Trace: 14
-  Exotica: 4
-  Chemicals: 33
+  Energy: 22
+  Metal: 18
+  Trace: 9
+  Exotica: 3
+  Chemicals: 36
   Biochems: 26
-  Electronics: 21
-  Ceramsteel: 15
-Build Space Frigate in Starport
+  Electronics: 14
+  Ceramsteel: 20
+Build Space Destroyer in Starport
 Time to Build / Upgrade: 3
 [14045] Technology Required to Build Unit (84):
   [14045] Space Escorts (84)
@@ -47,119 +47,118 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Jump Frigate
-Nick Name: JJ-FF
+Name: Jump Destroyer
+Nick Name: JJ-DD
 Scores & Strengths:
-  Tech Score: 3322
-  Unit Score: 3279
-  Average Score: 3300
-  Stat Strength: 2069
-  Total Strength: 3279
+  Tech Score: 3399
+  Unit Score: 3361
+  Average Score: 3380
+  Stat Strength: 2369
+  Total Strength: 3361
   Planet Strength: 0
-  Space Strength: 3279
+  Space Strength: 3361
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
-  Move Points: 20
+  Move Points: 18
   Spot: 13
   Camouflage: 5
-  Agility: 15
-  Armor: 25
-  Psy Defense: 25
-  Rank: 167
+  Agility: 13
+  Armor: 29
+  Psy Defense: 29
+  Rank: 158
 Attacks:
-  Direct Space: 25/30
-  Close Space: 20/23
+  Direct Space: 18/32
+  Close Space: 16/26
 Cargo Space: 1
-Load aboard transport: 4
+Load aboard transport: 5
 Immune to Plague
-Upkeep / Maintenance: 532
-Build Cost: 4910
+Upkeep / Maintenance: 536
+Build Cost: 4942
 Build Resource Requirements:
-  Monopols: 33
-  Singularities: 5
-Upgrade Space Frigate to Jump Frigate at Starport
+  Monopols: 38
+  Singularities: 4
+Upgrade Space Destroyer to Jump Destroyer at Starport
 Time to Build / Upgrade: 1
-[25805] Technologies Required to Build Unit (73):
+[26415] Technologies Required to Build Unit (76):
   [4285] Jump Drives (70)
-  [7475] Cold Fusion Cells (66)
+  [8085] Fusion Rifles (75)
   [14045] Space Escorts (84)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Fusion Space Frigate
-Nick Name: SS-FFF
+Name: Meson Space Destroyer
+Nick Name: SS-DDM
 Scores & Strengths:
-  Tech Score: 3347
-  Unit Score: 3343
-  Average Score: 3345
-  Stat Strength: 2110
-  Total Strength: 3343
+  Tech Score: 3792
+  Unit Score: 3792
+  Average Score: 3792
+  Stat Strength: 2210
+  Total Strength: 3792
   Planet Strength: 0
-  Space Strength: 3343
+  Space Strength: 3792
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 21
-  Spot: 13
-  Camouflage: 5
-  Agility: 15
-  Armor: 25
-  Psy Defense: 25
-  Rank: 168
+  Move Points: 18
+  Spot: 14
+  Camouflage: 6
+  Agility: 14
+  Armor: 27
+  Psy Defense: 27
+  Rank: 185
 Attacks:
-  Direct Space: 25/30
-  Close Space: 21/23
+  Direct Space: 25/36
+  Close Space: 22/31
 Cargo Space: 1
-Load aboard transport: 4
+Load aboard transport: 5
 Immune to Plague
-Upkeep / Maintenance: 257
-Build Cost: 2157
+Upkeep / Maintenance: 272
+Build Cost: 2311
 Build Resource Requirements:
+  Trace: 2
+  Electronics: 4
   Monopols: 35
-Upgrade Space Frigate to Fusion Space Frigate at Starport
-Time to Build / Upgrade: 1
-[22660] Technologies Required to Build Unit (74):
-  [8615] Fusion Beam (63)
-  [14045] Space Escorts (84)
+Meson Space Destroyer cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Jump Frigate II
-Nick Name: JJ-FF II
+Name: Jump Destroyer II
+Nick Name: JJ-DD II
 Scores & Strengths:
   Tech Score: 4325
-  Unit Score: 4124
-  Average Score: 4225
-  Stat Strength: 2574
-  Total Strength: 4124
+  Unit Score: 4202
+  Average Score: 4264
+  Stat Strength: 2906
+  Total Strength: 4202
   Planet Strength: 0
-  Space Strength: 4124
+  Space Strength: 4202
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
-  Move Points: 23
+  Move Points: 21
   Spot: 14
   Camouflage: 5
-  Agility: 16
-  Armor: 28
-  Psy Defense: 28
-  Rank: 187
+  Agility: 14
+  Armor: 32
+  Psy Defense: 32
+  Rank: 178
 Attacks:
-  Direct Space: 28/34
-  Close Space: 23/26
+  Direct Space: 21/36
+  Close Space: 18/30
 Cargo Space: 1
-Load aboard transport: 4
+Load aboard transport: 5
 Immune to Plague
-Upkeep / Maintenance: 617
-Build Cost: 1260
+Upkeep / Maintenance: 619
+Build Cost: 1245
 Build Resource Requirements:
   Trace: 1
-  Biochems: 5
+  Biochems: 3
   Electronics: 7
-Upgrade Jump Frigate to Jump Frigate II at Starport
+  Singularities: 1
+Upgrade Jump Destroyer to Jump Destroyer II at Starport
 Time to Build / Upgrade: 1
 [27965] Technology Required to Build Unit (75):
   [27965] Jump Escorts (75)
@@ -167,72 +166,113 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Cybermorph Space Frigate
-Nick Name: SS-FF-CM
+Name: Meson Jump Destroyer
+Nick Name: JJ-DDM
 Scores & Strengths:
-  Tech Score: 7174
-  Unit Score: 6816
-  Average Score: 6995
-  Stat Strength: 5508
-  Total Strength: 6816
+  Tech Score: 4736
+  Unit Score: 4694
+  Average Score: 4715
+  Stat Strength: 2699
+  Total Strength: 4694
   Planet Strength: 0
-  Space Strength: 6816
+  Space Strength: 4694
   Garrison Strength: 0
 Statistics:
-  Movement Type: space
-  Move Points: 28
-  Spot: 22
-  Camouflage: 16
-  Agility: 44
-  Armor: 32
-  Psy Defense: 32
+  Movement Type: jump
+  Move Points: 20
+  Spot: 15
+  Camouflage: 7
+  Agility: 15
+  Armor: 30
+  Psy Defense: 30
   Rank: 207
 Attacks:
-  Direct Space: 26/30
-  Close Space: 22/24
+  Direct Space: 28/40
+  Close Space: 25/35
 Cargo Space: 1
-Load aboard transport: 4
+Load aboard transport: 5
 Immune to Plague
-Upkeep / Maintenance: 367
-Build Cost: 2405
+Upkeep / Maintenance: 614
+Build Cost: 3830
 Build Resource Requirements:
-  Wetware: 10
-Cybermorph Space Frigate cannot be built
+  Electronics: 3
+  Singularities: 4
+Upgrade Meson Space Destroyer to Meson Jump Destroyer at Starport
+Time to Build / Upgrade: 1
+[43470] Technologies Required to Build Unit (70):
+  [15505] Meson Cannon (65)
+  [27965] Jump Escorts (75)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Cybermorph Jump Frigate
-Nick Name: JJ-FF-CM
+Name: Cybermorph Space Destroyer
+Nick Name: SS-DD-CM
+Scores & Strengths:
+  Tech Score: 7174
+  Unit Score: 7174
+  Average Score: 7174
+  Stat Strength: 5570
+  Total Strength: 7174
+  Planet Strength: 0
+  Space Strength: 7174
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 26
+  Spot: 22
+  Camouflage: 14
+  Agility: 42
+  Armor: 35
+  Psy Defense: 35
+  Rank: 217
+Attacks:
+  Direct Space: 25/36
+  Close Space: 22/32
+Cargo Space: 1
+Load aboard transport: 5
+Immune to Plague
+Upkeep / Maintenance: 422
+Build Cost: 1905
+Build Resource Requirements:
+  Biochems: 7
+  Wetware: 10
+Cybermorph Space Destroyer cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Cybermorph Jump Destroyer
+Nick Name: JJ-DD-CM
 Scores & Strengths:
   Tech Score: 7424
-  Unit Score: 6972
-  Average Score: 7198
-  Stat Strength: 5638
-  Total Strength: 6972
+  Unit Score: 7363
+  Average Score: 7394
+  Stat Strength: 5712
+  Total Strength: 7363
   Planet Strength: 0
-  Space Strength: 6972
+  Space Strength: 7363
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
-  Move Points: 28
+  Move Points: 26
   Spot: 22
-  Camouflage: 16
-  Agility: 44
-  Armor: 33
-  Psy Defense: 33
-  Rank: 209
+  Camouflage: 14
+  Agility: 42
+  Armor: 36
+  Psy Defense: 36
+  Rank: 220
 Attacks:
-  Direct Space: 26/31
-  Close Space: 22/24
+  Direct Space: 25/37
+  Close Space: 22/33
 Cargo Space: 1
-Load aboard transport: 4
+Load aboard transport: 5
 Immune to Plague
-Upkeep / Maintenance: 846
-Build Cost: 6059
+Upkeep / Maintenance: 868
+Build Cost: 6771
 Build Resource Requirements:
   Singularities: 5
-Upgrade Cybermorph Space Frigate to Cybermorph Jump Frigate at Starport
+Upgrade Cybermorph Space Destroyer to Cybermorph Jump Destroyer at Starport
 Time to Build / Upgrade: 1
 [82875] Technologies Required to Build Unit (70):
   [54910] Polymorphonic Escortcraft (65)
@@ -240,228 +280,78 @@ Time to Build / Upgrade: 1
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---7--
-Name: Stealth Corsair
-Nick Name: JJ-C-SS
-Scores & Strengths:
-  Tech Score: 7207
-  Unit Score: 7207
-  Average Score: 7207
-  Stat Strength: 4577
-  Total Strength: 7207
-  Planet Strength: 0
-  Space Strength: 7207
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 20
-  Spot: 28
-  Camouflage: 40
-  Agility: 21
-  Armor: 26
-  Psy Defense: 26
-  Rank: 264
-Attacks:
-  Direct Space: 46/30
-  Close Space: 50/25
-Cargo Space: 1
-Load aboard transport: 3
-Immune to Plague
-Upkeep / Maintenance: 833
-Build Cost: 7521
-Build Resource Requirements:
-  Ceramsteel: 4
-  Wetware: 23
-  Monopols: 14
-  Singularities: 2
-Stealth Corsair cannot be built
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
 --8--
-Name: Stealth Fusion Corsair
-Nick Name: JJ-CF-SS
+Name: Cloaking Space Destroyer
+Nick Name: SS-DD-CL
 Scores & Strengths:
   Tech Score: 7481
-  Unit Score: 7482
-  Average Score: 7482
-  Stat Strength: 4577
-  Total Strength: 7482
+  Unit Score: 7484
+  Average Score: 7483
+  Stat Strength: 6144
+  Total Strength: 7484
   Planet Strength: 0
-  Space Strength: 7482
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 20
-  Spot: 28
-  Camouflage: 40
-  Agility: 21
-  Armor: 26
-  Psy Defense: 26
-  Rank: 273
-Attacks:
-  Direct Space: 47/35
-  Close Space: 42/30
-Cargo Space: 1
-Load aboard transport: 3
-Immune to Plague
-Upkeep / Maintenance: 801
-Build Cost: 484
-Build Resource Requirements:
-  Chemicals: 1
-  Monopols: 1
-Stealth Fusion Corsair cannot be built
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---9--
-Name: Cloaking Space Frigate
-Nick Name: SS-FF-CL
-Scores & Strengths:
-  Tech Score: 7481
-  Unit Score: 7486
-  Average Score: 7484
-  Stat Strength: 6070
-  Total Strength: 7486
-  Planet Strength: 0
-  Space Strength: 7486
+  Space Strength: 7484
   Garrison Strength: 0
 Statistics:
   Movement Type: space
-  Move Points: 20
+  Move Points: 18
   Spot: 12
-  Camouflage: 50
-  Agility: 24
-  Armor: 35
-  Psy Defense: 35
-  Rank: 220
+  Camouflage: 48
+  Agility: 22
+  Armor: 38
+  Psy Defense: 38
+  Rank: 217
 Attacks:
-  Direct Space: 24/35
-  Close Space: 36/16
+  Direct Space: 22/38
+  Close Space: 28/18
 Cargo Space: 1
-Load aboard transport: 4
+Load aboard transport: 5
 Immune to Plague
-Upkeep / Maintenance: 328
-Build Cost: 1127
+Upkeep / Maintenance: 323
+Build Cost: 920
 Build Resource Requirements:
-  Electronics: 11
-  Wetware: 8
-Upgrade Fusion Space Frigate to Cloaking Space Frigate at Starport
+  Biochems: 1
+  Electronics: 9
+  Wetware: 6
+Upgrade Meson Space Destroyer to Cloaking Space Destroyer at Starport
 Time to Build / Upgrade: 1
 [58065] Technology Required to Build Unit (48):
   [58065] Cloaked Escortcraft (48)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---10--
-Name: Cyber Stealth Corsair
-Nick Name: JJ-C-CSS
-Scores & Strengths:
-  Tech Score: 7598
-  Unit Score: 7598
-  Average Score: 7598
-  Stat Strength: 6126
-  Total Strength: 7598
-  Planet Strength: 0
-  Space Strength: 7598
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 22
-  Spot: 22
-  Camouflage: 44
-  Agility: 42
-  Armor: 27
-  Psy Defense: 27
-  Rank: 230
-Attacks:
-  Direct Space: 38/26
-  Close Space: 22/22
-Cargo Space: 1
-Load aboard transport: 3
-Immune to Plague
-Upkeep / Maintenance: 774
-Build Cost: 7256
-Build Resource Requirements:
-  Trace: 1
-  Singularities: 1
-Cyber Stealth Corsair cannot be built
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---11--
-Name: Gate Frigate
-Nick Name: Irradiator
-Scores & Strengths:
-  Tech Score: 7603
-  Unit Score: 7603
-  Average Score: 7603
-  Stat Strength: 5057
-  Total Strength: 7603
-  Planet Strength: 6635
-  Space Strength: 6025
-  Garrison Strength: 1155
-Statistics:
-  Movement Type: gate
-  Move Points: 33
-  Spot: 24
-  Camouflage: 20
-  Agility: 20
-  Armor: 36
-  Psy Defense: 36
-  Rank: 229
-Attacks:
-  Direct Space: 30/20
-  Close Space: 23/16
-  Water: 18/21
-  Air: 18/18
-  Indirect: 30/18
-  Direct: 24/14
-Cargo Space: 1
-Load aboard transport: 4
-Immune to Plague
-Upkeep / Maintenance: 1049
-Build Cost: 5576
-Build Resource Requirements:
-  Biochems: 4
-  Wetware: 14
-  Singularities: 1
-Gate Frigate cannot be built
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---12--
-Name: Cloaking Jump Frigate
-Nick Name: JJ-FF-CL
+--9--
+Name: Cloaking Jump Destroyer
+Nick Name: JJ-DD-CL
 Scores & Strengths:
   Tech Score: 7728
-  Unit Score: 7769
-  Average Score: 7748
-  Stat Strength: 6313
-  Total Strength: 7769
+  Unit Score: 7757
+  Average Score: 7742
+  Stat Strength: 6395
+  Total Strength: 7757
   Planet Strength: 0
-  Space Strength: 7769
+  Space Strength: 7757
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
-  Move Points: 20
+  Move Points: 18
   Spot: 12
-  Camouflage: 51
-  Agility: 24
-  Armor: 36
-  Psy Defense: 36
-  Rank: 223
+  Camouflage: 49
+  Agility: 22
+  Armor: 39
+  Psy Defense: 39
+  Rank: 219
 Attacks:
-  Direct Space: 24/36
-  Close Space: 37/16
+  Direct Space: 22/39
+  Close Space: 28/18
 Cargo Space: 1
-Load aboard transport: 4
+Load aboard transport: 5
 Immune to Plague
-Upkeep / Maintenance: 770
-Build Cost: 6570
+Upkeep / Maintenance: 733
+Build Cost: 6406
 Build Resource Requirements:
   Singularities: 4
-Upgrade Cloaking Space Frigate to Cloaking Jump Frigate at Starport
+Upgrade Cloaking Space Destroyer to Cloaking Jump Destroyer at Starport
 Time to Build / Upgrade: 1
 [86030] Technologies Required to Build Unit (62):
   [58065] Cloaked Escortcraft (48)

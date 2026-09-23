@@ -1,41 +1,44 @@
-All units of the unit class Transport Helicopter are listed herein (10 in total):
+All units of the unit class Light Assault Helicopter are listed herein (29 in total):
 
 --1--
-Name: Transport Helicopter
-Nick Name: AA-HH-X
+Name: Light Assault Helicopter
+Nick Name: AA-HH-LA
 Scores & Strengths:
   Tech Score: 618
-  Unit Score: 620
-  Average Score: 619
-  Stat Strength: 620
-  Total Strength: 620
-  Planet Strength: 620
+  Unit Score: 616
+  Average Score: 617
+  Stat Strength: 450
+  Total Strength: 616
+  Planet Strength: 616
   Space Strength: 0
-  Garrison Strength: 206
+  Garrison Strength: 205
 Statistics:
   Movement Type: air
   Move Points: 9
   Spot: 6
   Camouflage: 6
-  Agility: 15
-  Armor: 11
-  Psy Defense: 11
-  Rank: 36
-Cargo Space: 1
-Load aboard transport: 4
+  Agility: 13
+  Armor: 8
+  Psy Defense: 8
+  Rank: 53
+Attacks:
+  Indirect: 12/6
+  Direct: 9/6
+  Close: 10/4
+Load aboard transport: 1
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 11
-Build Cost: 112
+Upkeep / Maintenance: 10
+Build Cost: 98
 Build Resource Requirements:
-  Food: 7
-  Energy: 12
-  Metal: 166
-  Trace: 11
-  Exotica: 7
-  Chemicals: 13
-  Electronics: 12
-Build Transport Helicopter in Factory
+  Food: 6
+  Energy: 14
+  Metal: 88
+  Trace: 27
+  Exotica: 6
+  Chemicals: 16
+  Electronics: 20
+Build Light Assault Helicopter in Factory
 Time to Build / Upgrade: 3
 [2090] Technology Required to Build Unit (85):
   [2090] Rotorcraft (85)
@@ -44,78 +47,399 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Cargo Helicopter
-Nick Name: AA-HH-XX
+Name: Recon. Helicopter
+Nick Name: AA-HH-R
 Scores & Strengths:
-  Tech Score: 729
-  Unit Score: 724
-  Average Score: 727
-  Stat Strength: 724
-  Total Strength: 724
-  Planet Strength: 724
+  Tech Score: 618
+  Unit Score: 617
+  Average Score: 618
+  Stat Strength: 617
+  Total Strength: 617
+  Planet Strength: 617
   Space Strength: 0
-  Garrison Strength: 255
+  Garrison Strength: 186
 Statistics:
   Movement Type: air
-  Move Points: 8
-  Spot: 6
+  Move Points: 11
+  Spot: 8
   Camouflage: 6
   Agility: 14
-  Armor: 14
-  Psy Defense: 14
-  Rank: 43
-Cargo Space: 2
-Load aboard transport: 5
+  Armor: 10
+  Psy Defense: 10
+  Rank: 32
+Load aboard transport: 2
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 10
-Build Cost: 96
+Build Cost: 103
 Build Resource Requirements:
-  Food: 4
-  Energy: 6
-  Metal: 160
-  Trace: 6
-  Exotica: 4
-  Chemicals: 7
-  Electronics: 7
-Build Cargo Helicopter in Factory
+  Food: 8
+  Energy: 13
+  Metal: 137
+  Trace: 12
+  Exotica: 8
+  Chemicals: 14
+  Electronics: 12
+Build Recon. Helicopter in Factory
 Time to Build / Upgrade: 3
-[4060] Technologies Required to Build Unit (86):
+[2090] Technology Required to Build Unit (85):
   [2090] Rotorcraft (85)
-  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Transport Helicopter II
-Nick Name: AA-HH-X II
+Name: Anti-Sub. Helicopter
+Nick Name: AA-HH-AS
 Scores & Strengths:
-  Tech Score: 1117
-  Unit Score: 996
-  Average Score: 1057
-  Stat Strength: 996
-  Total Strength: 996
-  Planet Strength: 996
+  Tech Score: 618
+  Unit Score: 617
+  Average Score: 618
+  Stat Strength: 442
+  Total Strength: 617
+  Planet Strength: 617
   Space Strength: 0
-  Garrison Strength: 287
+  Garrison Strength: 218
 Statistics:
   Movement Type: air
-  Move Points: 12
-  Spot: 7
+  Move Points: 8
+  Spot: 6
+  Camouflage: 6
+  Agility: 8
+  Armor: 11
+  Psy Defense: 11
+  Rank: 57
+Attacks:
+  Water: 5/18
+  Indirect: 5/17
+Load aboard transport: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 14
+Build Cost: 142
+Build Resource Requirements:
+  Food: 4
+  Energy: 40
+  Metal: 166
+  Trace: 10
+  Exotica: 4
+  Chemicals: 45
+  Electronics: 8
+Build Anti-Sub. Helicopter in Factory
+Time to Build / Upgrade: 3
+[2090] Technology Required to Build Unit (85):
+  [2090] Rotorcraft (85)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Command Helicopter
+Nick Name: AA-HH-C
+Scores & Strengths:
+  Tech Score: 618
+  Unit Score: 617
+  Average Score: 618
+  Stat Strength: 436
+  Total Strength: 617
+  Planet Strength: 617
+  Space Strength: 0
+  Garrison Strength: 205
+Statistics:
+  Movement Type: air
+  Move Points: 9
+  Spot: 6
+  Camouflage: 6
+  Agility: 11
+  Armor: 9
+  Psy Defense: 9
+  Rank: 725
+Attacks:
+  Air: 5/5
+  Indirect: 11/12
+  Direct: 3/8
+Load aboard transport: 2
+Officer - Provides stack combat bonuses
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 15
+Build Cost: 152
+Build Resource Requirements:
+  Food: 5
+  Energy: 21
+  Metal: 111
+  Trace: 16
+  Exotica: 5
+  Chemicals: 24
+  Electronics: 10
+Build Command Helicopter in Factory
+Time to Build / Upgrade: 3
+[2090] Technology Required to Build Unit (85):
+  [2090] Rotorcraft (85)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Heavy Assault Helicopter
+Nick Name: AA-HH-HA
+Scores & Strengths:
+  Tech Score: 618
+  Unit Score: 617
+  Average Score: 618
+  Stat Strength: 442
+  Total Strength: 617
+  Planet Strength: 617
+  Space Strength: 0
+  Garrison Strength: 233
+Statistics:
+  Movement Type: air
+  Move Points: 7
+  Spot: 6
+  Camouflage: 6
+  Agility: 11
+  Armor: 10
+  Psy Defense: 10
+  Rank: 55
+Attacks:
+  Indirect: 8/12
+  Direct: 3/10
+  Close: 7/7
+Load aboard transport: 3
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 11
+Build Cost: 113
+Build Resource Requirements:
+  Food: 5
+  Energy: 23
+  Metal: 137
+  Trace: 15
+  Exotica: 4
+  Chemicals: 26
+  Electronics: 12
+Build Heavy Assault Helicopter in Factory
+Time to Build / Upgrade: 3
+[2090] Technology Required to Build Unit (85):
+  [2090] Rotorcraft (85)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Heavy Attack Helicopter
+Nick Name: AA-HH-HK
+Scores & Strengths:
+  Tech Score: 618
+  Unit Score: 617
+  Average Score: 618
+  Stat Strength: 429
+  Total Strength: 617
+  Planet Strength: 617
+  Space Strength: 0
+  Garrison Strength: 251
+Statistics:
+  Movement Type: air
+  Move Points: 6
+  Spot: 6
+  Camouflage: 6
+  Agility: 11
+  Armor: 10
+  Psy Defense: 10
+  Rank: 56
+Attacks:
+  Air: 8/11
+  Indirect: 6/6
+  Direct: 4/9
+  Close: 4/7
+Load aboard transport: 3
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 11
+Build Cost: 113
+Build Resource Requirements:
+  Food: 4
+  Energy: 22
+  Metal: 137
+  Trace: 15
+  Exotica: 4
+  Chemicals: 24
+  Electronics: 14
+Build Heavy Attack Helicopter in Factory
+Time to Build / Upgrade: 3
+[2090] Technology Required to Build Unit (85):
+  [2090] Rotorcraft (85)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Light Attack Helicopter
+Nick Name: AA-HH-LK
+Scores & Strengths:
+  Tech Score: 618
+  Unit Score: 617
+  Average Score: 618
+  Stat Strength: 433
+  Total Strength: 617
+  Planet Strength: 617
+  Space Strength: 0
+  Garrison Strength: 218
+Statistics:
+  Movement Type: air
+  Move Points: 8
+  Spot: 6
+  Camouflage: 6
+  Agility: 13
+  Armor: 8
+  Psy Defense: 8
+  Rank: 56
+Attacks:
+  Air: 10/9
+  Indirect: 10/4
+  Direct: 6/5
+  Close: 6/4
+Load aboard transport: 1
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 10
+Build Cost: 98
+Build Resource Requirements:
+  Food: 5
+  Energy: 16
+  Metal: 88
+  Trace: 24
+  Exotica: 5
+  Chemicals: 18
+  Electronics: 20
+Build Light Attack Helicopter in Factory
+Time to Build / Upgrade: 3
+[2090] Technology Required to Build Unit (85):
+  [2090] Rotorcraft (85)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Medium Assault Helicopter
+Nick Name: AA-HH-MA
+Scores & Strengths:
+  Tech Score: 618
+  Unit Score: 617
+  Average Score: 618
+  Stat Strength: 442
+  Total Strength: 617
+  Planet Strength: 617
+  Space Strength: 0
+  Garrison Strength: 218
+Statistics:
+  Movement Type: air
+  Move Points: 8
+  Spot: 6
+  Camouflage: 6
+  Agility: 12
+  Armor: 9
+  Psy Defense: 9
+  Rank: 56
+Attacks:
+  Indirect: 11/10
+  Direct: 5/8
+  Close: 5/5
+Load aboard transport: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 10
+Build Cost: 100
+Build Resource Requirements:
+  Food: 5
+  Energy: 19
+  Metal: 111
+  Trace: 18
+  Exotica: 5
+  Chemicals: 21
+  Electronics: 12
+Build Medium Assault Helicopter in Factory
+Time to Build / Upgrade: 3
+[2090] Technology Required to Build Unit (85):
+  [2090] Rotorcraft (85)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Medium Attack Helicopter
+Nick Name: AA-HH-MK
+Scores & Strengths:
+  Tech Score: 618
+  Unit Score: 617
+  Average Score: 618
+  Stat Strength: 427
+  Total Strength: 617
+  Planet Strength: 617
+  Space Strength: 0
+  Garrison Strength: 233
+Statistics:
+  Movement Type: air
+  Move Points: 7
+  Spot: 6
+  Camouflage: 6
+  Agility: 12
+  Armor: 9
+  Psy Defense: 9
+  Rank: 56
+Attacks:
+  Air: 9/10
+  Indirect: 8/5
+  Direct: 5/7
+  Close: 5/5
+Load aboard transport: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 10
+Build Cost: 103
+Build Resource Requirements:
+  Food: 5
+  Energy: 18
+  Metal: 111
+  Trace: 19
+  Exotica: 4
+  Chemicals: 20
+  Electronics: 17
+Build Medium Attack Helicopter in Factory
+Time to Build / Upgrade: 3
+[2090] Technology Required to Build Unit (85):
+  [2090] Rotorcraft (85)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Recon. Helicopter II
+Nick Name: AA-HH-R II
+Scores & Strengths:
+  Tech Score: 1117
+  Unit Score: 964
+  Average Score: 1041
+  Stat Strength: 964
+  Total Strength: 964
+  Planet Strength: 964
+  Space Strength: 0
+  Garrison Strength: 248
+Statistics:
+  Movement Type: air
+  Move Points: 15
+  Spot: 9
   Camouflage: 8
-  Agility: 17
-  Armor: 15
-  Psy Defense: 15
-  Rank: 45
-Cargo Space: 1
-Load aboard transport: 4
+  Agility: 16
+  Armor: 13
+  Psy Defense: 13
+  Rank: 41
+Load aboard transport: 2
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 5
 Build Resource Requirements:
-  Biochems: 4
-Upgrade Transport Helicopter to Transport Helicopter II at Factory
+  Biochems: 5
+Upgrade Recon. Helicopter to Recon. Helicopter II at Factory
 Time to Build / Upgrade: 1
 [6625] Technologies Required to Build Unit (86):
   [2090] Rotorcraft (85)
@@ -125,14 +449,95 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---4--
-Name: Cargo Helicopter II
-Nick Name: AA-HC-XX II
+--11--
+Name: Command Helicopter II
+Nick Name: AA-HH-C II
 Scores & Strengths:
-  Tech Score: 1146
+  Tech Score: 1117
+  Unit Score: 1047
+  Average Score: 1082
+  Stat Strength: 714
+  Total Strength: 1047
+  Planet Strength: 1047
+  Space Strength: 0
+  Garrison Strength: 302
+Statistics:
+  Movement Type: air
+  Move Points: 12
+  Spot: 7
+  Camouflage: 8
+  Agility: 13
+  Armor: 12
+  Psy Defense: 12
+  Rank: 745
+Attacks:
+  Air: 7/7
+  Indirect: 15/16
+  Direct: 4/11
+Load aboard transport: 2
+Officer - Provides stack combat bonuses
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 9
+Build Resource Requirements:
+  Biochems: 4
+Upgrade Command Helicopter to Command Helicopter II at Factory
+Time to Build / Upgrade: 1
+[6625] Technologies Required to Build Unit (86):
+  [2090] Rotorcraft (85)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2725] Naval Capital Ships (88)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Anti-Sub. Helicopter II
+Nick Name: AA-HH-AS II
+Scores & Strengths:
+  Tech Score: 1117
+  Unit Score: 1094
+  Average Score: 1106
+  Stat Strength: 765
+  Total Strength: 1094
+  Planet Strength: 1094
+  Space Strength: 0
+  Garrison Strength: 329
+Statistics:
+  Movement Type: air
+  Move Points: 11
+  Spot: 7
+  Camouflage: 8
+  Agility: 9
+  Armor: 15
+  Psy Defense: 15
+  Rank: 77
+Attacks:
+  Water: 7/24
+  Indirect: 7/23
+Load aboard transport: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 8
+Build Resource Requirements:
+  Biochems: 3
+Upgrade Anti-Sub. Helicopter to Anti-Sub. Helicopter II at Factory
+Time to Build / Upgrade: 1
+[6625] Technologies Required to Build Unit (86):
+  [2090] Rotorcraft (85)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2725] Naval Capital Ships (88)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--13--
+Name: Assault Helicopter II
+Nick Name: AA-HH-A II
+Scores & Strengths:
+  Tech Score: 1117
   Unit Score: 1117
-  Average Score: 1132
-  Stat Strength: 1117
+  Average Score: 1117
+  Stat Strength: 712
   Total Strength: 1117
   Planet Strength: 1117
   Space Strength: 0
@@ -140,66 +545,124 @@ Scores & Strengths:
 Statistics:
   Movement Type: air
   Move Points: 10
-  Spot: 7
+  Spot: 8
   Camouflage: 8
-  Agility: 16
-  Armor: 18
-  Psy Defense: 18
-  Rank: 51
-Cargo Space: 2
-Load aboard transport: 5
+  Agility: 14
+  Armor: 12
+  Psy Defense: 12
+  Rank: 79
+Attacks:
+  Indirect: 15/15
+  Direct: 9/12
+  Close: 8/9
+Load aboard transport: 2
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 5
+Upkeep / Maintenance: 6
+Build Cost: 64
 Build Resource Requirements:
-  Biochems: 2
-Upgrade Cargo Helicopter to Cargo Helicopter II at Factory
-Time to Build / Upgrade: 1
-[8595] Technologies Required to Build Unit (87):
+  Food: 3
+  Energy: 15
+  Metal: 22
+  Trace: 15
+  Exotica: 3
+  Chemicals: 15
+  Biochems: 4
+  Electronics: 9
+Build Assault Helicopter II in Factory
+Time to Build / Upgrade: 2
+[6625] Technologies Required to Build Unit (86):
   [2090] Rotorcraft (85)
   [1810] Jet-Propulsion Aircraft (86)
   [2725] Naval Capital Ships (88)
-  [1970] Cargo Handling (87)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---5--
-Name: Transport Helicopter III
-Nick Name: AA-HH-X III
+--14--
+Name: Attack Helicopter II
+Nick Name: AA-HH-K II
 Scores & Strengths:
-  Tech Score: 1496
-  Unit Score: 1265
-  Average Score: 1381
-  Stat Strength: 1265
-  Total Strength: 1265
-  Planet Strength: 1265
+  Tech Score: 1117
+  Unit Score: 1117
+  Average Score: 1117
+  Stat Strength: 647
+  Total Strength: 1117
+  Planet Strength: 1117
   Space Strength: 0
-  Garrison Strength: 338
+  Garrison Strength: 372
 Statistics:
   Movement Type: air
-  Move Points: 14
-  Spot: 7
+  Move Points: 9
+  Spot: 8
+  Camouflage: 8
+  Agility: 14
+  Armor: 11
+  Psy Defense: 11
+  Rank: 81
+Attacks:
+  Air: 13/14
+  Indirect: 12/9
+  Direct: 9/11
+  Close: 9/9
+Load aboard transport: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 7
+Build Cost: 72
+Build Resource Requirements:
+  Food: 3
+  Energy: 15
+  Metal: 19
+  Trace: 17
+  Exotica: 3
+  Chemicals: 15
+  Biochems: 6
+  Electronics: 13
+Build Attack Helicopter II in Factory
+Time to Build / Upgrade: 2
+[6625] Technologies Required to Build Unit (86):
+  [2090] Rotorcraft (85)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2725] Naval Capital Ships (88)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--15--
+Name: Recon. Helicopter III
+Nick Name: AA-HH-R III
+Scores & Strengths:
+  Tech Score: 1496
+  Unit Score: 1271
+  Average Score: 1384
+  Stat Strength: 1271
+  Total Strength: 1271
+  Planet Strength: 1271
+  Space Strength: 0
+  Garrison Strength: 308
+Statistics:
+  Movement Type: air
+  Move Points: 17
+  Spot: 10
   Camouflage: 9
-  Agility: 19
-  Armor: 17
-  Psy Defense: 17
-  Rank: 50
-Cargo Space: 1
-Load aboard transport: 4
+  Agility: 17
+  Armor: 16
+  Psy Defense: 16
+  Rank: 47
+Load aboard transport: 2
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 8
-Build Cost: 78
+Build Cost: 79
 Build Resource Requirements:
-  Energy: 2
-  Trace: 1
+  Energy: 1
   Exotica: 1
   Chemicals: 6
   Biochems: 1
   Electronics: 2
-  Ceramsteel: 20
-Upgrade Transport Helicopter II to Transport Helicopter III at Factory
+  Ceramsteel: 18
+Upgrade Recon. Helicopter II to Recon. Helicopter III at Factory
 Time to Build / Upgrade: 1
 [7360] Technologies Required to Build Unit (84):
   [2665] V/STOL Aircraft (85)
@@ -208,77 +671,220 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---6--
-Name: Cargo Helicopter III
-Nick Name: AA-HH-XX III
+--16--
+Name: Command Helicopter III
+Nick Name: AA-HH-C III
 Scores & Strengths:
-  Tech Score: 1522
-  Unit Score: 1363
-  Average Score: 1443
-  Stat Strength: 1363
-  Total Strength: 1363
-  Planet Strength: 1363
+  Tech Score: 1496
+  Unit Score: 1361
+  Average Score: 1429
+  Stat Strength: 914
+  Total Strength: 1361
+  Planet Strength: 1361
   Space Strength: 0
-  Garrison Strength: 393
+  Garrison Strength: 363
+Statistics:
+  Movement Type: air
+  Move Points: 14
+  Spot: 7
+  Camouflage: 9
+  Agility: 14
+  Armor: 14
+  Psy Defense: 14
+  Rank: 756
+Attacks:
+  Air: 8/8
+  Indirect: 17/19
+  Direct: 5/12
+Load aboard transport: 2
+Officer - Provides stack combat bonuses
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 13
+Build Cost: 131
+Build Resource Requirements:
+  Energy: 4
+  Trace: 1
+  Exotica: 1
+  Chemicals: 9
+  Biochems: 1
+  Electronics: 2
+  Ceramsteel: 13
+Upgrade Command Helicopter II to Command Helicopter III at Factory
+Time to Build / Upgrade: 1
+[7360] Technologies Required to Build Unit (84):
+  [2665] V/STOL Aircraft (85)
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--17--
+Name: Anti-Sub. Helicopter III
+Nick Name: AA-HH-AS III
+Scores & Strengths:
+  Tech Score: 1496
+  Unit Score: 1384
+  Average Score: 1440
+  Stat Strength: 952
+  Total Strength: 1384
+  Planet Strength: 1384
+  Space Strength: 0
+  Garrison Strength: 399
 Statistics:
   Movement Type: air
   Move Points: 12
   Spot: 7
   Camouflage: 9
-  Agility: 17
-  Armor: 20
-  Psy Defense: 20
-  Rank: 56
-Cargo Space: 2
-Load aboard transport: 5
+  Agility: 10
+  Armor: 17
+  Psy Defense: 17
+  Rank: 87
+Attacks:
+  Water: 8/28
+  Indirect: 8/26
+Load aboard transport: 2
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 8
-Build Cost: 82
+Upkeep / Maintenance: 12
+Build Cost: 117
 Build Resource Requirements:
-  Energy: 1
-  Chemicals: 6
-  Biochems: 1
+  Energy: 8
+  Trace: 1
+  Exotica: 1
+  Chemicals: 16
   Electronics: 1
-  Ceramsteel: 27
-Upgrade Cargo Helicopter II to Cargo Helicopter III at Factory
+  Ceramsteel: 20
+Upgrade Anti-Sub. Helicopter II to Anti-Sub. Helicopter III at Factory
 Time to Build / Upgrade: 1
-[9330] Technologies Required to Build Unit (85):
-  [1970] Cargo Handling (87)
+[7360] Technologies Required to Build Unit (84):
   [2665] V/STOL Aircraft (85)
   [4695] Advanced Minor Watercraft (83)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---7--
-Name: Transport Helicopter IV
-Nick Name: AA-HH-X IV
+--18--
+Name: Attack Helicopter III
+Nick Name: AA-HH-K III
 Scores & Strengths:
-  Tech Score: 2251
-  Unit Score: 1797
-  Average Score: 2024
-  Stat Strength: 1797
-  Total Strength: 1797
-  Planet Strength: 1797
+  Tech Score: 1496
+  Unit Score: 1435
+  Average Score: 1466
+  Stat Strength: 825
+  Total Strength: 1435
+  Planet Strength: 1435
   Space Strength: 0
-  Garrison Strength: 435
+  Garrison Strength: 453
 Statistics:
   Movement Type: air
-  Move Points: 17
-  Spot: 8
+  Move Points: 10
+  Spot: 9
+  Camouflage: 9
+  Agility: 15
+  Armor: 13
+  Psy Defense: 13
+  Rank: 92
+Attacks:
+  Air: 15/16
+  Indirect: 14/10
+  Direct: 10/13
+  Close: 10/10
+Load aboard transport: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 10
+Build Cost: 31
+Build Resource Requirements:
+  Energy: 3
+  Trace: 2
+  Chemicals: 9
+  Biochems: 2
+  Electronics: 4
+  Ceramsteel: 12
+Upgrade Attack Helicopter II to Attack Helicopter III at Factory
+Time to Build / Upgrade: 1
+[7360] Technologies Required to Build Unit (84):
+  [2665] V/STOL Aircraft (85)
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--19--
+Name: Assault Helicopter III
+Nick Name: AA-HH-A III
+Scores & Strengths:
+  Tech Score: 1496
+  Unit Score: 1442
+  Average Score: 1469
+  Stat Strength: 923
+  Total Strength: 1442
+  Planet Strength: 1442
+  Space Strength: 0
+  Garrison Strength: 416
+Statistics:
+  Movement Type: air
+  Move Points: 12
+  Spot: 9
+  Camouflage: 9
+  Agility: 15
+  Armor: 14
+  Psy Defense: 14
+  Rank: 90
+Attacks:
+  Indirect: 17/17
+  Direct: 10/14
+  Close: 9/10
+Load aboard transport: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 10
+Build Cost: 31
+Build Resource Requirements:
+  Energy: 3
+  Trace: 1
+  Exotica: 1
+  Chemicals: 9
+  Biochems: 1
+  Electronics: 2
+  Ceramsteel: 13
+Upgrade Assault Helicopter II to Assault Helicopter III at Factory
+Time to Build / Upgrade: 1
+[7360] Technologies Required to Build Unit (84):
+  [2665] V/STOL Aircraft (85)
+  [4695] Advanced Minor Watercraft (83)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--20--
+Name: Recon. Helicopter IV
+Nick Name: AA-HH-R IV
+Scores & Strengths:
+  Tech Score: 2251
+  Unit Score: 1766
+  Average Score: 2009
+  Stat Strength: 1766
+  Total Strength: 1766
+  Planet Strength: 1766
+  Space Strength: 0
+  Garrison Strength: 385
+Statistics:
+  Movement Type: air
+  Move Points: 21
+  Spot: 11
   Camouflage: 11
-  Agility: 21
-  Armor: 21
-  Psy Defense: 21
-  Rank: 59
-Cargo Space: 1
-Load aboard transport: 4
+  Agility: 19
+  Armor: 19
+  Psy Defense: 19
+  Rank: 56
+Load aboard transport: 2
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
 Upkeep / Maintenance: 8
 Build Resource Requirements:
-Upgrade Transport Helicopter III to Transport Helicopter IV at Factory
+  Chemicals: 1
+Upgrade Recon. Helicopter III to Recon. Helicopter IV at Factory
 Time to Build / Upgrade: 1
 [14125] Technologies Required to Build Unit (82):
   [4695] Advanced Minor Watercraft (83)
@@ -287,75 +893,203 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---8--
-Name: Cargo Helicopter IV
-Nick Name: AA-HH-XX IV
+--21--
+Name: Command Helicopter IV
+Nick Name: AA-HH-C IV
 Scores & Strengths:
-  Tech Score: 2274
-  Unit Score: 1992
-  Average Score: 2133
-  Stat Strength: 1992
-  Total Strength: 1992
-  Planet Strength: 1992
+  Tech Score: 2251
+  Unit Score: 1950
+  Average Score: 2101
+  Stat Strength: 1277
+  Total Strength: 1950
+  Planet Strength: 1950
   Space Strength: 0
-  Garrison Strength: 532
+  Garrison Strength: 472
 Statistics:
   Movement Type: air
-  Move Points: 14
+  Move Points: 17
   Spot: 8
   Camouflage: 11
-  Agility: 19
-  Armor: 25
-  Psy Defense: 25
-  Rank: 66
-Cargo Space: 2
-Load aboard transport: 5
+  Agility: 15
+  Armor: 17
+  Psy Defense: 17
+  Rank: 776
+Attacks:
+  Air: 10/10
+  Indirect: 21/23
+  Direct: 6/15
+Load aboard transport: 2
+Officer - Provides stack combat bonuses
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 9
-Build Cost: 4
+Upkeep / Maintenance: 14
+Build Cost: 6
 Build Resource Requirements:
-Upgrade Cargo Helicopter III to Cargo Helicopter IV at Factory
+  Chemicals: 2
+Upgrade Command Helicopter III to Command Helicopter IV at Factory
 Time to Build / Upgrade: 1
-[16095] Technologies Required to Build Unit (84):
-  [1970] Cargo Handling (87)
+[14125] Technologies Required to Build Unit (82):
+  [4695] Advanced Minor Watercraft (83)
+  [9430] Advanced V/STOL Aircraft (81)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--22--
+Name: Anti-Sub. Helicopter IV
+Nick Name: AA-HH-AS IV
+Scores & Strengths:
+  Tech Score: 2251
+  Unit Score: 2073
+  Average Score: 2162
+  Stat Strength: 1413
+  Total Strength: 2073
+  Planet Strength: 2073
+  Space Strength: 0
+  Garrison Strength: 535
+Statistics:
+  Movement Type: air
+  Move Points: 15
+  Spot: 8
+  Camouflage: 11
+  Agility: 11
+  Armor: 21
+  Psy Defense: 21
+  Rank: 107
+Attacks:
+  Water: 10/34
+  Indirect: 10/32
+Load aboard transport: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 13
+Build Cost: 12
+Build Resource Requirements:
+  Chemicals: 4
+  Electronics: 1
+Upgrade Anti-Sub. Helicopter III to Anti-Sub. Helicopter IV at Factory
+Time to Build / Upgrade: 1
+[14125] Technologies Required to Build Unit (82):
   [4695] Advanced Minor Watercraft (83)
   [9430] Advanced V/STOL Aircraft (81)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---9--
-Name: Transport Helicopter V
-Nick Name: AA-HH-X V
+--23--
+Name: Assault Helicopter IV
+Nick Name: AA-HH-A IV
 Scores & Strengths:
-  Tech Score: 3278
-  Unit Score: 2497
-  Average Score: 2888
-  Stat Strength: 2497
-  Total Strength: 2497
-  Planet Strength: 2497
+  Tech Score: 2251
+  Unit Score: 2089
+  Average Score: 2170
+  Stat Strength: 1284
+  Total Strength: 2089
+  Planet Strength: 2089
   Space Strength: 0
-  Garrison Strength: 544
+  Garrison Strength: 558
 Statistics:
   Movement Type: air
-  Move Points: 21
-  Spot: 9
-  Camouflage: 14
-  Agility: 23
-  Armor: 25
-  Psy Defense: 25
-  Rank: 70
-Cargo Space: 1
-Load aboard transport: 4
+  Move Points: 14
+  Spot: 10
+  Camouflage: 11
+  Agility: 17
+  Armor: 17
+  Psy Defense: 17
+  Rank: 110
+Attacks:
+  Indirect: 21/21
+  Direct: 13/17
+  Close: 11/13
+Load aboard transport: 2
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 54
-Build Cost: 537
+Upkeep / Maintenance: 10
+Build Cost: 71
+Build Resource Requirements:
+  Chemicals: 2
+  Electronics: 1
+Upgrade Assault Helicopter III to Assault Helicopter IV at Factory
+Time to Build / Upgrade: 1
+[14125] Technologies Required to Build Unit (82):
+  [4695] Advanced Minor Watercraft (83)
+  [9430] Advanced V/STOL Aircraft (81)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--24--
+Name: Attack Helicopter IV
+Nick Name: AA-HH-K IV
+Scores & Strengths:
+  Tech Score: 2251
+  Unit Score: 2149
+  Average Score: 2200
+  Stat Strength: 1191
+  Total Strength: 2149
+  Planet Strength: 2149
+  Space Strength: 0
+  Garrison Strength: 596
+Statistics:
+  Movement Type: air
+  Move Points: 13
+  Spot: 10
+  Camouflage: 11
+  Agility: 17
+  Armor: 16
+  Psy Defense: 16
+  Rank: 113
+Attacks:
+  Air: 18/20
+  Indirect: 17/13
+  Direct: 13/16
+  Close: 13/13
+Load aboard transport: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 12
+Build Cost: 86
+Build Resource Requirements:
+  Chemicals: 3
+  Electronics: 3
+Upgrade Attack Helicopter III to Attack Helicopter IV at Factory
+Time to Build / Upgrade: 1
+[14125] Technologies Required to Build Unit (82):
+  [4695] Advanced Minor Watercraft (83)
+  [9430] Advanced V/STOL Aircraft (81)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--25--
+Name: Recon. Helicopter V
+Nick Name: AA-HH-R V
+Scores & Strengths:
+  Tech Score: 3278
+  Unit Score: 2464
+  Average Score: 2871
+  Stat Strength: 2464
+  Total Strength: 2464
+  Planet Strength: 2464
+  Space Strength: 0
+  Garrison Strength: 492
+Statistics:
+  Movement Type: air
+  Move Points: 25
+  Spot: 12
+  Camouflage: 14
+  Agility: 21
+  Armor: 23
+  Psy Defense: 23
+  Rank: 67
+Load aboard transport: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 52
+Build Cost: 518
 Build Resource Requirements:
   Electronics: 3
   Monopols: 18
-Upgrade Transport Helicopter IV to Transport Helicopter V at Factory
+Upgrade Recon. Helicopter IV to Recon. Helicopter V at Factory
 Time to Build / Upgrade: 1
 [21740] Technologies Required to Build Unit (81):
   [4695] Advanced Minor Watercraft (83)
@@ -364,40 +1098,168 @@ Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
---10--
-Name: Cargo Helicopter V
-Nick Name: AA-HH-XX V
+--26--
+Name: Command Helicopter V
+Nick Name: AA-HH-C V
 Scores & Strengths:
-  Tech Score: 3298
-  Unit Score: 2739
-  Average Score: 3019
-  Stat Strength: 2739
-  Total Strength: 2739
-  Planet Strength: 2739
+  Tech Score: 3278
+  Unit Score: 2859
+  Average Score: 3069
+  Stat Strength: 1889
+  Total Strength: 2859
+  Planet Strength: 2859
   Space Strength: 0
-  Garrison Strength: 664
+  Garrison Strength: 623
+Statistics:
+  Movement Type: air
+  Move Points: 21
+  Spot: 9
+  Camouflage: 14
+  Agility: 17
+  Armor: 21
+  Psy Defense: 21
+  Rank: 798
+Attacks:
+  Air: 12/12
+  Indirect: 25/28
+  Direct: 7/18
+Load aboard transport: 2
+Officer - Provides stack combat bonuses
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 119
+Build Cost: 1182
+Build Resource Requirements:
+  Electronics: 3
+  Monopols: 26
+Upgrade Command Helicopter IV to Command Helicopter V at Factory
+Time to Build / Upgrade: 1
+[21740] Technologies Required to Build Unit (81):
+  [4695] Advanced Minor Watercraft (83)
+  [17045] Power V/STOL Aircraft (79)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--27--
+Name: Attack Helicopter V
+Nick Name: AA-HH-K V
+Scores & Strengths:
+  Tech Score: 3278
+  Unit Score: 2920
+  Average Score: 3099
+  Stat Strength: 1567
+  Total Strength: 2920
+  Planet Strength: 2920
+  Space Strength: 0
+  Garrison Strength: 753
+Statistics:
+  Movement Type: air
+  Move Points: 15
+  Spot: 10
+  Camouflage: 14
+  Agility: 18
+  Armor: 19
+  Psy Defense: 19
+  Rank: 134
+Attacks:
+  Air: 22/24
+  Indirect: 21/15
+  Direct: 15/19
+  Close: 15/15
+Load aboard transport: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 77
+Build Cost: 680
+Build Resource Requirements:
+  Electronics: 2
+  Monopols: 25
+Upgrade Attack Helicopter IV to Attack Helicopter V at Factory
+Time to Build / Upgrade: 1
+[21740] Technologies Required to Build Unit (81):
+  [4695] Advanced Minor Watercraft (83)
+  [17045] Power V/STOL Aircraft (79)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--28--
+Name: Anti-Sub. Helicopter V
+Nick Name: AA-HH-AS V
+Scores & Strengths:
+  Tech Score: 3278
+  Unit Score: 2955
+  Average Score: 3117
+  Stat Strength: 1995
+  Total Strength: 2955
+  Planet Strength: 2955
+  Space Strength: 0
+  Garrison Strength: 696
+Statistics:
+  Movement Type: air
+  Move Points: 18
+  Spot: 9
+  Camouflage: 14
+  Agility: 12
+  Armor: 25
+  Psy Defense: 25
+  Rank: 129
+Attacks:
+  Water: 12/41
+  Indirect: 12/39
+Load aboard transport: 2
+V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
+Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
+Upkeep / Maintenance: 140
+Build Cost: 1388
+Build Resource Requirements:
+  Electronics: 4
+  Monopols: 48
+Upgrade Anti-Sub. Helicopter IV to Anti-Sub. Helicopter V at Factory
+Time to Build / Upgrade: 2
+[21740] Technologies Required to Build Unit (81):
+  [4695] Advanced Minor Watercraft (83)
+  [17045] Power V/STOL Aircraft (79)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--29--
+Name: Assault Helicopter V
+Nick Name: AA-HH-A V
+Scores & Strengths:
+  Tech Score: 3278
+  Unit Score: 2992
+  Average Score: 3135
+  Stat Strength: 1791
+  Total Strength: 2992
+  Planet Strength: 2992
+  Space Strength: 0
+  Garrison Strength: 725
 Statistics:
   Movement Type: air
   Move Points: 17
-  Spot: 9
-  Camouflage: 13
-  Agility: 20
-  Armor: 30
-  Psy Defense: 30
-  Rank: 76
-Cargo Space: 2
-Load aboard transport: 5
+  Spot: 10
+  Camouflage: 14
+  Agility: 18
+  Armor: 21
+  Psy Defense: 21
+  Rank: 133
+Attacks:
+  Indirect: 26/26
+  Direct: 15/21
+  Close: 14/15
+Load aboard transport: 2
 V/STOL - Refuels on VSTOL Refuelers (such as Naval Destroyers) (can also Refuel on Naval Carriers)
 Safely lands when running out of fuel (cannot move until recovered by a transport or refueled by refueler such as Naval Carrier)
-Upkeep / Maintenance: 64
-Build Cost: 639
+Upkeep / Maintenance: 80
+Build Cost: 732
 Build Resource Requirements:
-  Electronics: 5
-  Monopols: 20
-Upgrade Cargo Helicopter IV to Cargo Helicopter V at Factory
+  Electronics: 3
+  Monopols: 26
+Upgrade Assault Helicopter IV to Assault Helicopter V at Factory
 Time to Build / Upgrade: 1
-[23710] Technologies Required to Build Unit (83):
-  [1970] Cargo Handling (87)
+[21740] Technologies Required to Build Unit (81):
   [4695] Advanced Minor Watercraft (83)
   [17045] Power V/STOL Aircraft (79)
 Counts as planetary flock: YES

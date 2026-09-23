@@ -1,230 +1,430 @@
-All units of the unit class Fighter Transporter are listed herein (5 in total):
+All units of the unit class Tactical Plague Bomb are listed herein (9 in total):
 
 --1--
-Name: Fighter Transporter
-Nick Name: JJ-XF
+Name: Tactical Plague Bomb
+Nick Name: TP Bomb
 Scores & Strengths:
-  Tech Score: 3391
-  Unit Score: 3391
-  Average Score: 3391
-  Stat Strength: 2541
-  Total Strength: 3391
-  Planet Strength: 0
-  Space Strength: 3391
-  Garrison Strength: 0
+  Tech Score: 3248
+  Unit Score: 3248
+  Average Score: 3248
+  Stat Strength: 3194
+  Total Strength: 3248
+  Planet Strength: 3248
+  Space Strength: 0
+  Garrison Strength: 1452
 Statistics:
-  Movement Type: jump
-  Move Points: 17
-  Spot: 18
-  Camouflage: 8
-  Agility: 8
-  Armor: 30
-  Psy Defense: 30
-  Rank: 185
+  Movement Type: hover
+  Move Points: 5
+  Spot: 0
+  Camouflage: 38
+  Agility: 35
+  Armor: 10
+  Psy Defense: 20
+  Rank: 53
 Attacks:
-  Direct Space: 18/27
-  Close Space: 26/14
-Cargo Space: 7
-Load aboard transport: 8
+  Indirect: 3/18
+Load aboard transport: 1
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 943
-Build Cost: 9431
+Causes Tactical Plague
+Destroyed after combat
+Upkeep / Maintenance: 10
+Build Cost: 95
 Build Resource Requirements:
   Food: 2
-  Energy: 8
-  Metal: 11
-  Trace: 13
+  Energy: 5
+  Metal: 4
+  Trace: 14
   Exotica: 3
-  Chemicals: 13
-  Biochems: 23
-  Electronics: 21
-  Ceramsteel: 13
-  Monopols: 26
-  Singularities: 4
-Fighter Transporter cannot be built
-Counts as planetary flock: YES
+  Chemicals: 12
+  Biochems: 16
+  Electronics: 33
+  Ceramsteel: 5
+  Monopols: 15
+Build Tactical Plague Bomb in Lab
+Time to Build / Upgrade: 3
+[23385] Technologies Required to Build Unit (18):
+  [4675] Necrosis (7)
+  [18710] Bio-Payload Artillery (29)
 Unit can be disbanded: YES
 
 --2--
-Name: Divine Lander
-Nick Name: LL-ATL-D
+Name: Plague Bomb
+Nick Name: Plague Bomb
 Scores & Strengths:
-  Tech Score: 3609
-  Unit Score: 3609
-  Average Score: 3609
-  Stat Strength: 1953
-  Total Strength: 3609
-  Planet Strength: 3105
-  Space Strength: 2797
-  Garrison Strength: 731
+  Tech Score: 3357
+  Unit Score: 3357
+  Average Score: 3357
+  Stat Strength: 3329
+  Total Strength: 3357
+  Planet Strength: 3357
+  Space Strength: 0
+  Garrison Strength: 2373
 Statistics:
-  Movement Type: lander
-  Move Points: 18
-  Spot: 12
-  Camouflage: 6
-  Agility: 13
-  Armor: 16
-  Psy Defense: 32
-  Rank: 172
+  Movement Type: hover
+  Move Points: 2
+  Spot: 0
+  Camouflage: 40
+  Agility: 35
+  Armor: 10
+  Psy Defense: 20
+  Rank: 50
 Attacks:
-  Direct Space: 14/18
-  Close Space: 18/14
-  Psychic: 17/20
-  Air: 16/17
-  Direct: 16/18
-  Close: 18/14
-Cargo Space: 3
-Load aboard transport: 6
+  Indirect: 2/14
+Load aboard transport: 1
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 699
-Build Cost: 1016
+Causes Plague
+Destroyed after combat
+Upkeep / Maintenance: 58
+Build Cost: 580
 Build Resource Requirements:
-  Gems: 43
-Upgrade Assault Lander to Divine Lander at Starport
-Time to Build / Upgrade: 1
-[22755] Technologies Required to Build Unit (66):
-  [330] Holy Warriors (82)
-  [1050] Ghost Vibrations (48)
-  [21375] Lander Transports (67)
-Counts as planetary flock: YES
+  Food: 2
+  Energy: 4
+  Metal: 4
+  Trace: 17
+  Exotica: 52
+  Chemicals: 135
+  Biochems: 115
+  Electronics: 40
+  Ceramsteel: 6
+  Monopols: 35
+  Gems: 25
+Build Plague Bomb in Lab
+Time to Build / Upgrade: 6
+[19945] Technology Required to Build Unit (9):
+  [19945] Explosive Plague Devices (9)
 Unit can be disbanded: YES
 
 --3--
-Name: Fighter Bulk Transporter
-Nick Name: JJ-BHX
+Name: Plague Rocket
+Nick Name: P Rocket
 Scores & Strengths:
-  Tech Score: 5589
-  Unit Score: 5388
-  Average Score: 5489
-  Stat Strength: 3548
-  Total Strength: 5388
-  Planet Strength: 0
-  Space Strength: 5388
-  Garrison Strength: 0
+  Tech Score: 3677
+  Unit Score: 3680
+  Average Score: 3679
+  Stat Strength: 3533
+  Total Strength: 3680
+  Planet Strength: 3680
+  Space Strength: 0
+  Garrison Strength: 581
 Statistics:
-  Movement Type: jump
-  Move Points: 20
-  Spot: 22
-  Camouflage: 6
-  Agility: 6
-  Armor: 36
-  Psy Defense: 36
-  Rank: 249
+  Movement Type: air
+  Move Points: 40
+  Spot: 0
+  Camouflage: 8
+  Agility: 37
+  Armor: 10
+  Psy Defense: 20
+  Rank: 68
 Attacks:
-  Direct Space: 30/40
-  Close Space: 32/20
-Cargo Space: 9
-Load aboard transport: 10
+  Indirect: 7/21
+Load aboard transport: 1
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 1708
-Build Cost: 17082
+Causes Plague
+Destroyed after combat
+Upkeep / Maintenance: 25
+Build Cost: 249
 Build Resource Requirements:
-  Food: 2
-  Energy: 10
-  Metal: 9
-  Trace: 13
-  Exotica: 2
-  Chemicals: 18
-  Biochems: 24
-  Electronics: 29
-  Ceramsteel: 13
-  Monopols: 32
-  Singularities: 5
-Fighter Bulk Transporter cannot be built
-Counts as planetary flock: YES
+  Food: 6
+  Energy: 13
+  Metal: 4
+  Trace: 5
+  Exotica: 7
+  Chemicals: 23
+  Biochems: 27
+  Electronics: 11
+  Ceramsteel: 6
+  Monopols: 26
+Build Plague Rocket in Lab
+Time to Build / Upgrade: 3
+[25805] Technologies Required to Build Unit (56):
+  [1690] Fly-by-Wireless (76)
+  [4170] Supercruise Missiles (84)
+  [19945] Explosive Plague Devices (9)
 Unit can be disbanded: YES
 
 --4--
-Name: Meson Squadron Transporter
-Nick Name: JJ-XX-FF
+Name: Tactical Plague Rocket
+Nick Name: TP Rocket
 Scores & Strengths:
-  Tech Score: 5589
-  Unit Score: 5590
-  Average Score: 5590
-  Stat Strength: 3972
-  Total Strength: 5590
-  Planet Strength: 0
-  Space Strength: 5590
-  Garrison Strength: 0
+  Tech Score: 3677
+  Unit Score: 3680
+  Average Score: 3679
+  Stat Strength: 3533
+  Total Strength: 3680
+  Planet Strength: 3680
+  Space Strength: 0
+  Garrison Strength: 604
 Statistics:
-  Movement Type: jump
-  Move Points: 16
-  Spot: 22
-  Camouflage: 4
-  Agility: 4
-  Armor: 40
-  Psy Defense: 40
-  Rank: 250
+  Movement Type: air
+  Move Points: 37
+  Spot: 0
+  Camouflage: 8
+  Agility: 40
+  Armor: 10
+  Psy Defense: 20
+  Rank: 68
 Attacks:
-  Direct Space: 36/26
-  Close Space: 31/22
-Cargo Space: 11
-Load aboard transport: 12
+  Indirect: 21/7
+Load aboard transport: 1
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 2033
-Build Cost: 20334
+Causes Tactical Plague
+Destroyed after combat
+Upkeep / Maintenance: 14
+Build Cost: 138
 Build Resource Requirements:
-  Food: 2
-  Energy: 6
-  Metal: 11
-  Trace: 14
-  Exotica: 2
-  Chemicals: 13
+  Food: 6
+  Energy: 11
+  Metal: 4
+  Trace: 7
+  Exotica: 7
+  Chemicals: 20
   Biochems: 24
-  Electronics: 32
-  Ceramsteel: 16
-  Monopols: 27
-  Singularities: 4
-Meson Squadron Transporter cannot be built
-Counts as planetary flock: YES
+  Electronics: 12
+  Ceramsteel: 6
+  Monopols: 22
+Build Tactical Plague Rocket in Lab
+Time to Build / Upgrade: 3
+[25805] Technologies Required to Build Unit (56):
+  [1690] Fly-by-Wireless (76)
+  [4170] Supercruise Missiles (84)
+  [19945] Explosive Plague Devices (9)
 Unit can be disbanded: YES
 
 --5--
-Name: Lander Carrier
-Nick Name: LL-CV
+Name: Plague Mine
+Nick Name: P Mine
 Scores & Strengths:
-  Tech Score: 5712
-  Unit Score: 5712
-  Average Score: 5712
-  Stat Strength: 3486
-  Total Strength: 5712
-  Planet Strength: 4896
-  Space Strength: 4302
-  Garrison Strength: 960
+  Tech Score: 3859
+  Unit Score: 3859
+  Average Score: 3859
+  Stat Strength: 3729
+  Total Strength: 3859
+  Planet Strength: 3859
+  Space Strength: 0
+  Garrison Strength: 4823
 Statistics:
-  Movement Type: lander
-  Move Points: 26
-  Spot: 20
-  Camouflage: 13
-  Agility: 21
-  Armor: 30
-  Psy Defense: 30
-  Rank: 886
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 60
+  Agility: 2
+  Armor: 5
+  Psy Defense: 10
+  Rank: 68
 Attacks:
-  Direct Space: 18/22
-  Close Space: 21/20
-  Air: 22/26
-  Direct: 20/23
-  Close: 21/18
-Cargo Space: 6
-Load aboard transport: 8
-Officer - Provides stack combat bonuses
-Deploys space units during space attacks
+  Indirect: 5/26
+Load aboard transport: 1
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 2276
-Build Cost: 22756
+Causes Plague
+Destroyed after combat
+Upkeep / Maintenance: 10
+Build Cost: 96
 Build Resource Requirements:
-  Food: 2
-  Energy: 10
-  Metal: 5
-  Trace: 11
-  Exotica: 2
-  Chemicals: 16
-  Biochems: 18
+  Energy: 4
+  Metal: 1
+  Trace: 25
+  Chemicals: 5
+  Biochems: 5
+  Electronics: 60
+  Ceramsteel: 1
+  Monopols: 8
+Build Plague Mine in Lab
+Time to Build / Upgrade: 3
+[28160] Technologies Required to Build Unit (20):
+  [4675] Necrosis (7)
+  [23485] Bio-Anti Infantry Tanks (33)
+Unit can be disbanded: YES
+
+--6--
+Name: Tactical Plague Mine
+Nick Name: TP Mine
+Scores & Strengths:
+  Tech Score: 3859
+  Unit Score: 3859
+  Average Score: 3859
+  Stat Strength: 3734
+  Total Strength: 3859
+  Planet Strength: 3859
+  Space Strength: 0
+  Garrison Strength: 4823
+Statistics:
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 60
+  Agility: 3
+  Armor: 5
+  Psy Defense: 10
+  Rank: 67
+Attacks:
+  Indirect: 25/5
+Load aboard transport: 1
+Never Retreats
+Immune to Plague
+Causes Tactical Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 24
+Build Resource Requirements:
+  Metal: 1
+  Trace: 27
+  Biochems: 1
+  Electronics: 60
+  Ceramsteel: 1
+  Monopols: 1
+Build Tactical Plague Mine in Lab
+Time to Build / Upgrade: 2
+[28160] Technologies Required to Build Unit (20):
+  [4675] Necrosis (7)
+  [23485] Bio-Anti Infantry Tanks (33)
+Unit can be disbanded: YES
+
+--7--
+Name: Plague Missile
+Nick Name: P Missile
+Scores & Strengths:
+  Tech Score: 3968
+  Unit Score: 3969
+  Average Score: 3969
+  Stat Strength: 3735
+  Total Strength: 3969
+  Planet Strength: 3969
+  Space Strength: 0
+  Garrison Strength: 591
+Statistics:
+  Movement Type: air
+  Move Points: 45
+  Spot: 0
+  Camouflage: 8
+  Agility: 39
+  Armor: 5
+  Psy Defense: 10
+  Rank: 77
+Attacks:
+  Indirect: 9/26
+Load aboard transport: 1
+Never Retreats
+Immune to Plague
+Causes Plague
+Destroyed after combat
+Upkeep / Maintenance: 24
+Build Cost: 235
+Build Resource Requirements:
+  Food: 7
+  Energy: 15
+  Metal: 1
+  Trace: 4
+  Exotica: 8
+  Chemicals: 26
+  Biochems: 26
+  Electronics: 9
+  Ceramsteel: 1
+  Monopols: 23
+Build Plague Missile in Lab
+Time to Build / Upgrade: 3
+[34150] Technologies Required to Build Unit (44):
+  [7100] Artificial Intelligence (46)
+  [7105] Hypercruise Missiles (77)
+  [19945] Explosive Plague Devices (9)
+Unit can be disbanded: YES
+
+--8--
+Name: Tactical Plague Missile
+Nick Name: TP Missile
+Scores & Strengths:
+  Tech Score: 3968
+  Unit Score: 3969
+  Average Score: 3969
+  Stat Strength: 3735
+  Total Strength: 3969
+  Planet Strength: 3969
+  Space Strength: 0
+  Garrison Strength: 635
+Statistics:
+  Movement Type: air
+  Move Points: 39
+  Spot: 0
+  Camouflage: 8
+  Agility: 45
+  Armor: 5
+  Psy Defense: 10
+  Rank: 77
+Attacks:
+  Indirect: 26/9
+Load aboard transport: 1
+Never Retreats
+Immune to Plague
+Causes Tactical Plague
+Destroyed after combat
+Upkeep / Maintenance: 12
+Build Cost: 119
+Build Resource Requirements:
+  Food: 7
+  Energy: 12
+  Metal: 1
+  Trace: 8
+  Exotica: 7
+  Chemicals: 20
+  Biochems: 21
+  Electronics: 11
+  Ceramsteel: 1
+  Monopols: 18
+Build Tactical Plague Missile in Lab
+Time to Build / Upgrade: 3
+[34150] Technologies Required to Build Unit (44):
+  [7100] Artificial Intelligence (46)
+  [7105] Hypercruise Missiles (77)
+  [19945] Explosive Plague Devices (9)
+Unit can be disbanded: YES
+
+--9--
+Name: Alien Phage Device
+Nick Name: Decrepifier
+Scores & Strengths:
+  Tech Score: 5236
+  Unit Score: 5245
+  Average Score: 5240
+  Stat Strength: 5211
+  Total Strength: 5245
+  Planet Strength: 5245
+  Space Strength: 0
+  Garrison Strength: 829
+Statistics:
+  Movement Type: hover
+  Move Points: 40
+  Spot: 0
+  Camouflage: 39
+  Agility: 39
+  Armor: 13
+  Psy Defense: 20
+  Rank: 752
+Attacks:
+  Indirect: 2/17
+Load aboard transport: 1
+Duels High-Ranking (>=666) Units During Combat
+Can attack on Byzantium Secundus
+Never Retreats
+Immune to Plague
+Causes Plague
+Destroyed after combat
+Upkeep / Maintenance: 42
+Build Cost: 420
+Build Resource Requirements:
+  Food: 3
+  Energy: 6
+  Metal: 1
+  Trace: 10
+  Exotica: 4
+  Chemicals: 11
+  Biochems: 16
   Electronics: 22
-  Ceramsteel: 6
-  Monopols: 24
-  Singularities: 5
-Lander Carrier cannot be built
-Counts as planetary flock: YES
+  Ceramsteel: 2
+  Wetware: 4
+  Monopols: 15
+Alien Phage Device cannot be built
 Unit can be disbanded: YES
