@@ -1,467 +1,392 @@
-All units of the unit class Gun Truck are listed herein (11 in total):
+All units of the unit class Mounted Officer are listed herein (9 in total):
 
 --1--
-Name: Gun Truck
-Nick Name: Gun Truck
+Name: Mounted Officer
+Nick Name: Mounty
 Scores & Strengths:
-  Tech Score: 144
-  Unit Score: 144
-  Average Score: 144
-  Stat Strength: 99
-  Total Strength: 144
-  Planet Strength: 144
+  Tech Score: 148
+  Unit Score: 148
+  Average Score: 148
+  Stat Strength: 136
+  Total Strength: 148
+  Planet Strength: 148
   Space Strength: 0
-  Garrison Strength: 64
+  Garrison Strength: 55
 Statistics:
-  Movement Type: wheel
-  Move Points: 5
+  Movement Type: foot
+  Move Points: 7
   Spot: 4
   Camouflage: 2
-  Agility: 6
+  Agility: 7
   Armor: 3
   Psy Defense: 3
-  Rank: 28
+  Rank: 688
 Attacks:
-  Direct: 4/5
-  Close: 5/5
-Cargo Space: 1
-Load aboard transport: 3
+  Close: 6/2
+Load aboard transport: 1
+Officer - Provides stack combat bonuses
 Can tow units that can be towed
-Upkeep / Maintenance: 6
+Upkeep / Maintenance: 8
 Build Cost: 60
 Build Resource Requirements:
-  Food: 11
-  Energy: 21
-  Metal: 8
-  Trace: 25
-  Exotica: 11
-  Chemicals: 24
-Build Gun Truck in Factory
-Time to Build / Upgrade: 2
-[300] Technology Required to Build Unit (95):
-  [300] Mechanized Warfare (95)
+  Metal: 4
+  Trace: 19
+  Exotica: 15
+  Chemicals: 10
+Upgrade Peasant to Mounted Officer at Fort
+Time to Build / Upgrade: 1
+[310] Technologies Required to Build Unit (100):
+  [100] Medical & Biological (100)
+  [100] Physics & Energy (100)
+  [110] Meditation (99)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Gun Truck II
-Nick Name: Gun Truck II
+Name: Mounted Officer (Psy)
+Nick Name: Mounty (Psy)
 Scores & Strengths:
-  Tech Score: 205
-  Unit Score: 203
-  Average Score: 204
-  Stat Strength: 137
-  Total Strength: 203
-  Planet Strength: 203
-  Space Strength: 0
-  Garrison Strength: 82
+  Tech Score: 195
+  Unit Score: 162
+  Average Score: 179
+  Stat Strength: 125
+  Total Strength: 162
+  Planet Strength: 162
+  Space Strength: 137
+  Garrison Strength: 66
 Statistics:
-  Movement Type: wheel
+  Movement Type: foot
   Move Points: 6
   Spot: 4
   Camouflage: 2
   Agility: 7
-  Armor: 4
+  Armor: 2
   Psy Defense: 4
-  Rank: 32
+  Rank: 695
 Attacks:
-  Direct: 5/6
-  Close: 6/6
-Cargo Space: 1
-Load aboard transport: 3
+  Psychic: 3/4
+  Close: 5/5
+Load aboard transport: 1
+Officer - Provides stack combat bonuses
 Can tow units that can be towed
-Upkeep / Maintenance: 4
+Upkeep / Maintenance: 17
+Build Cost: 105
 Build Resource Requirements:
-  Electronics: 9
-Upgrade Gun Truck to Gun Truck II at Factory
+  Energy: 5
+  Chemicals: 4
+  Gems: 5
+Upgrade Mounted Officer to Mounted Officer (Psy) at Church
 Time to Build / Upgrade: 1
-[905] Technologies Required to Build Unit (94):
-  [205] Electric-Diesel Engine (92)
-  [350] Anti-Tank Weaponry (95)
-  [350] Tanks (95)
+[450] Technologies Required to Build Unit (95):
+  [100] Medical & Biological (100)
+  [100] Physics & Energy (100)
+  [250] Psychically-Enhanced Soldiers (86)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Gun Truck III
-Nick Name: Gun Truck III
+Name: Mounted Officer (Psy2)
+Nick Name: Mounty (Psy2)
 Scores & Strengths:
-  Tech Score: 325
-  Unit Score: 309
-  Average Score: 317
-  Stat Strength: 197
-  Total Strength: 309
-  Planet Strength: 309
-  Space Strength: 0
-  Garrison Strength: 109
+  Tech Score: 279
+  Unit Score: 242
+  Average Score: 261
+  Stat Strength: 171
+  Total Strength: 242
+  Planet Strength: 242
+  Space Strength: 206
+  Garrison Strength: 91
 Statistics:
-  Movement Type: wheel
-  Move Points: 8
+  Movement Type: foot
+  Move Points: 7
   Spot: 5
-  Camouflage: 3
-  Agility: 7
-  Armor: 5
+  Camouflage: 2
+  Agility: 8
+  Armor: 2
   Psy Defense: 5
-  Rank: 39
+  Rank: 705
 Attacks:
-  Direct: 6/8
-  Close: 8/8
-Cargo Space: 1
-Load aboard transport: 3
+  Psychic: 5/7
+  Close: 6/6
+Load aboard transport: 1
+Officer - Provides stack combat bonuses
 Can tow units that can be towed
-Upkeep / Maintenance: 5
-Build Cost: 48
+Upkeep / Maintenance: 34
+Build Cost: 233
 Build Resource Requirements:
-  Energy: 2
+  Food: 5
+  Energy: 10
   Metal: 1
-  Trace: 2
-  Chemicals: 1
-  Electronics: 3
-Upgrade Gun Truck II to Gun Truck III at Factory
+  Trace: 1
+  Exotica: 5
+  Chemicals: 11
+  Electronics: 19
+  Gems: 7
+Upgrade Mounted Officer (Psy) to Mounted Officer (Psy2) at Church
 Time to Build / Upgrade: 1
-[1480] Technologies Required to Build Unit (92):
-  [245] Rotary Engine (92)
-  [770] Self-Propelled Weaponry (92)
-  [465] Recoilless Gun (93)
+[725] Technologies Required to Build Unit (80):
+  [100] Medical & Biological (100)
+  [625] Psychokinetically-Enhanced Soldiers (60)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Gun Truck IV
-Nick Name: Gun Truck IV
+Name: Mounted Officer (Psy3)
+Nick Name: Mounty (Psy3)
 Scores & Strengths:
-  Tech Score: 530
-  Unit Score: 468
-  Average Score: 499
-  Stat Strength: 288
-  Total Strength: 468
-  Planet Strength: 468
-  Space Strength: 0
-  Garrison Strength: 147
+  Tech Score: 593
+  Unit Score: 449
+  Average Score: 521
+  Stat Strength: 291
+  Total Strength: 449
+  Planet Strength: 449
+  Space Strength: 368
+  Garrison Strength: 141
 Statistics:
-  Movement Type: wheel
+  Movement Type: foot
   Move Points: 10
   Spot: 6
-  Camouflage: 4
-  Agility: 8
-  Armor: 6
-  Psy Defense: 6
-  Rank: 48
+  Camouflage: 3
+  Agility: 9
+  Armor: 4
+  Psy Defense: 7
+  Rank: 721
 Attacks:
-  Direct: 8/10
-  Close: 10/10
-Cargo Space: 1
-Load aboard transport: 3
+  Psychic: 7/11
+  Close: 9/9
+Load aboard transport: 1
+Officer - Provides stack combat bonuses
 Can tow units that can be towed
-Upkeep / Maintenance: 8
-Build Cost: 36
+Upkeep / Maintenance: 46
+Build Cost: 225
 Build Resource Requirements:
-  Food: 2
-  Energy: 7
-  Trace: 9
-  Exotica: 2
-  Chemicals: 14
-  Electronics: 16
-Upgrade Gun Truck III to Gun Truck IV at Factory
+  Food: 5
+  Energy: 15
+  Metal: 4
+  Trace: 6
+  Exotica: 14
+  Chemicals: 28
+  Electronics: 12
+  Gems: 1
+Upgrade Mounted Officer (Psy2) to Mounted Officer (Psy3) at Church
 Time to Build / Upgrade: 1
-[1700] Technology Required to Build Unit (88):
-  [1700] Main Battle Tank (88)
+[1975] Technology Required to Build Unit (39):
+  [1975] Telepathic Soldiers (39)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Gun Truck V
-Nick Name: Gun Truck V
+Name: Mounted Officer (Psy4)
+Nick Name: Mounty (Psy4)
 Scores & Strengths:
-  Tech Score: 763
-  Unit Score: 581
-  Average Score: 672
-  Stat Strength: 361
-  Total Strength: 581
-  Planet Strength: 581
-  Space Strength: 0
-  Garrison Strength: 175
+  Tech Score: 839
+  Unit Score: 626
+  Average Score: 732
+  Stat Strength: 418
+  Total Strength: 626
+  Planet Strength: 626
+  Space Strength: 526
+  Garrison Strength: 173
 Statistics:
-  Movement Type: wheel
-  Move Points: 11
+  Movement Type: foot
+  Move Points: 13
   Spot: 6
-  Camouflage: 5
-  Agility: 9
-  Armor: 7
-  Psy Defense: 7
-  Rank: 54
+  Camouflage: 4
+  Agility: 10
+  Armor: 4
+  Psy Defense: 9
+  Rank: 730
 Attacks:
-  Direct: 9/11
-  Close: 11/11
-Cargo Space: 1
-Load aboard transport: 3
+  Psychic: 9/12
+  Close: 10/10
+Load aboard transport: 1
+Officer - Provides stack combat bonuses
 Can tow units that can be towed
-Upkeep / Maintenance: 8
-Build Cost: 45
+Upkeep / Maintenance: 50
+Build Cost: 278
 Build Resource Requirements:
-  Energy: 3
-  Metal: 3
-  Chemicals: 3
-Upgrade Gun Truck IV to Gun Truck V at Factory
+  Food: 8
+  Energy: 15
+  Metal: 1
+  Trace: 2
+  Exotica: 12
+  Chemicals: 19
+  Electronics: 5
+Upgrade Mounted Officer (Psy3) to Mounted Officer (Psy4) at Church
 Time to Build / Upgrade: 1
-[2920] Technologies Required to Build Unit (83):
-  [1220] Finite Element Methods (77)
-  [1700] Main Battle Tank (88)
+[3140] Technology Required to Build Unit (38):
+  [3140] Sympathic Soldiers (38)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Gun Truck VI
-Nick Name: Gun Truck VI
+Name: Mounted Officer (Psy5)
+Nick Name: Mounty (Psy5)
 Scores & Strengths:
-  Tech Score: 830
-  Unit Score: 648
-  Average Score: 739
-  Stat Strength: 384
-  Total Strength: 648
-  Planet Strength: 648
-  Space Strength: 0
-  Garrison Strength: 187
+  Tech Score: 936
+  Unit Score: 717
+  Average Score: 827
+  Stat Strength: 446
+  Total Strength: 717
+  Planet Strength: 717
+  Space Strength: 596
+  Garrison Strength: 198
 Statistics:
-  Movement Type: wheel
-  Move Points: 12
+  Movement Type: foot
+  Move Points: 13
   Spot: 6
-  Camouflage: 5
-  Agility: 9
-  Armor: 7
-  Psy Defense: 7
-  Rank: 57
+  Camouflage: 4
+  Agility: 10
+  Armor: 5
+  Psy Defense: 10
+  Rank: 737
 Attacks:
-  Direct: 10/12
-  Close: 12/12
-Cargo Space: 1
-Load aboard transport: 3
+  Psychic: 10/15
+  Close: 11/11
+Load aboard transport: 1
+Officer - Provides stack combat bonuses
 Can tow units that can be towed
-Upkeep / Maintenance: 7
-Build Cost: 23
+Upkeep / Maintenance: 62
+Build Cost: 338
 Build Resource Requirements:
-Upgrade Gun Truck V to Gun Truck VI at Factory
+  Food: 1
+  Energy: 6
+  Metal: 5
+  Trace: 3
+  Chemicals: 7
+  Electronics: 3
+  Gems: 5
+Upgrade Mounted Officer (Psy4) to Mounted Officer (Psy5) at Church
 Time to Build / Upgrade: 1
-[3690] Technologies Required to Build Unit (87):
-  [455] Turbojet Engine (88)
-  [1535] Carbon Nanotubes (85)
-  [1700] Main Battle Tank (88)
+[3635] Technology Required to Build Unit (48):
+  [3635] Dervishes (48)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Gun Truck VII
-Nick Name: Gun Truck VII
+Name: Mounted Officer (Psy6)
+Nick Name: Mounty (Psy6)
 Scores & Strengths:
-  Tech Score: 1141
-  Unit Score: 859
-  Average Score: 1000
-  Stat Strength: 509
-  Total Strength: 859
-  Planet Strength: 859
-  Space Strength: 0
-  Garrison Strength: 229
+  Tech Score: 1142
+  Unit Score: 860
+  Average Score: 1001
+  Stat Strength: 556
+  Total Strength: 860
+  Planet Strength: 860
+  Space Strength: 716
+  Garrison Strength: 222
 Statistics:
-  Movement Type: wheel
-  Move Points: 14
-  Spot: 7
-  Camouflage: 6
-  Agility: 10
-  Armor: 8
-  Psy Defense: 8
-  Rank: 66
-Attacks:
-  Direct: 11/14
-  Close: 14/14
-Cargo Space: 1
-Load aboard transport: 3
-Can tow units that can be towed
-Upkeep / Maintenance: 7
-Build Cost: 44
-Build Resource Requirements:
-  Chemicals: 1
-  Electronics: 2
-Upgrade Gun Truck VI to Gun Truck VII at Factory
-Time to Build / Upgrade: 1
-[7040] Technologies Required to Build Unit (86):
-  [455] Turbojet Engine (88)
-  [1535] Carbon Nanotubes (85)
-  [3350] Active Protective Systems (83)
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---8--
-Name: Gun Truck VIII
-Nick Name: Gun Truck VIII
-Scores & Strengths:
-  Tech Score: 1248
-  Unit Score: 977
-  Average Score: 1112
-  Stat Strength: 572
-  Total Strength: 977
-  Planet Strength: 977
-  Space Strength: 0
-  Garrison Strength: 252
-Statistics:
-  Movement Type: wheel
+  Movement Type: foot
   Move Points: 15
   Spot: 7
   Camouflage: 6
-  Agility: 10
-  Armor: 9
-  Psy Defense: 9
-  Rank: 69
+  Agility: 11
+  Armor: 5
+  Psy Defense: 10
+  Rank: 744
 Attacks:
-  Direct: 12/15
-  Close: 15/15
-Cargo Space: 1
-Load aboard transport: 3
+  Psychic: 10/16
+  Close: 12/12
+Load aboard transport: 1
+Officer - Provides stack combat bonuses
 Can tow units that can be towed
-Upkeep / Maintenance: 8
-Build Cost: 38
+Upkeep / Maintenance: 33
 Build Resource Requirements:
-  Energy: 4
-  Trace: 2
-  Chemicals: 4
-  Electronics: 2
-  Ceramsteel: 6
-Upgrade Gun Truck VII to Gun Truck VIII at Factory
+Upgrade Mounted Officer (Psy5) to Mounted Officer (Psy6) at Church
 Time to Build / Upgrade: 1
-[5725] Technologies Required to Build Unit (86):
-  [520] Scramjet Engine (87)
-  [5205] Advanced Battle Tanks (84)
+[11015] Technologies Required to Build Unit (35):
+  [3790] Vislocks (32)
+  [3635] Dervishes (48)
+  [3590] Sathraists (26)
 Counts as planetary flock: YES
-Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Mounted Officer (Psy7)
+Nick Name: Mounty (Psy7)
+Scores & Strengths:
+  Tech Score: 1357
+  Unit Score: 990
+  Average Score: 1174
+  Stat Strength: 634
+  Total Strength: 990
+  Planet Strength: 990
+  Space Strength: 821
+  Garrison Strength: 247
+Statistics:
+  Movement Type: foot
+  Move Points: 16
+  Spot: 8
+  Camouflage: 6
+  Agility: 11
+  Armor: 6
+  Psy Defense: 11
+  Rank: 750
+Attacks:
+  Psychic: 11/17
+  Close: 13/13
+Load aboard transport: 1
+Officer - Provides stack combat bonuses
+Can tow units that can be towed
+Upkeep / Maintenance: 37
+Build Cost: 371
+Build Resource Requirements:
+  Food: 2
+  Energy: 5
+  Metal: 3
+  Trace: 2
+  Exotica: 4
+  Chemicals: 6
+  Electronics: 3
+Upgrade Mounted Officer (Psy6) to Mounted Officer (Psy7) at Church
+Time to Build / Upgrade: 1
+[12245] Technologies Required to Build Unit (35):
+  [4050] Occultists (48)
+  [4110] Visioneers (46)
+  [4085] Sathra Patrol Ships (12)
+Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Gun Truck IX
-Nick Name: Gun Truck IX
+Name: Mounted Officer (Psy8)
+Nick Name: Mounty (Psy8)
 Scores & Strengths:
-  Tech Score: 1682
-  Unit Score: 1235
-  Average Score: 1459
-  Stat Strength: 708
-  Total Strength: 1235
-  Planet Strength: 1235
-  Space Strength: 0
-  Garrison Strength: 299
+  Tech Score: 1949
+  Unit Score: 1559
+  Average Score: 1754
+  Stat Strength: 988
+  Total Strength: 1559
+  Planet Strength: 1559
+  Space Strength: 1303
+  Garrison Strength: 348
 Statistics:
-  Movement Type: wheel
-  Move Points: 17
-  Spot: 7
-  Camouflage: 7
-  Agility: 11
-  Armor: 10
-  Psy Defense: 10
-  Rank: 78
-Attacks:
-  Direct: 14/17
-  Close: 17/17
-Cargo Space: 1
-Load aboard transport: 3
-Can tow units that can be towed
-Upkeep / Maintenance: 8
-Build Cost: 39
-Build Resource Requirements:
-Upgrade Gun Truck VIII to Gun Truck IX at Factory
-Time to Build / Upgrade: 1
-[11295] Technologies Required to Build Unit (77):
-  [665] Hydrojet (85)
-  [5425] Cybernetics (63)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---10--
-Name: Gun Truck X
-Nick Name: Gun Truck X
-Scores & Strengths:
-  Tech Score: 2021
-  Unit Score: 1506
-  Average Score: 1763
-  Stat Strength: 860
-  Total Strength: 1506
-  Planet Strength: 1506
-  Space Strength: 0
-  Garrison Strength: 345
-Statistics:
-  Movement Type: wheel
-  Move Points: 19
-  Spot: 8
-  Camouflage: 7
-  Agility: 12
-  Armor: 11
-  Psy Defense: 11
-  Rank: 85
-Attacks:
-  Direct: 15/19
-  Close: 19/19
-Cargo Space: 1
-Load aboard transport: 3
-Can tow units that can be towed
-Upkeep / Maintenance: 52
-Build Cost: 479
-Build Resource Requirements:
-  Monopols: 21
-Upgrade Gun Truck IX to Gun Truck X at Factory
-Time to Build / Upgrade: 1
-[14805] Technologies Required to Build Unit (81):
-  [8935] Powered Ceramsteel Armor (75)
-  [665] Hydrojet (85)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---11--
-Name: Gun Truck XI
-Nick Name: Gun Truck XI
-Scores & Strengths:
-  Tech Score: 2547
-  Unit Score: 1849
-  Average Score: 2198
-  Stat Strength: 1051
-  Total Strength: 1849
-  Planet Strength: 1849
-  Space Strength: 0
-  Garrison Strength: 403
-Statistics:
-  Movement Type: wheel
-  Move Points: 21
-  Spot: 8
+  Movement Type: foot
+  Move Points: 20
+  Spot: 9
   Camouflage: 8
-  Agility: 12
-  Armor: 13
-  Psy Defense: 13
-  Rank: 94
+  Agility: 13
+  Armor: 7
+  Psy Defense: 15
+  Rank: 771
 Attacks:
-  Direct: 17/21
-  Close: 21/21
-Cargo Space: 1
-Load aboard transport: 3
+  Psychic: 15/21
+  Close: 16/16
+Load aboard transport: 1
+Officer - Provides stack combat bonuses
 Can tow units that can be towed
-Upkeep / Maintenance: 68
-Build Cost: 200
+Upkeep / Maintenance: 41
+Build Cost: 41
 Build Resource Requirements:
-  Trace: 1
-  Electronics: 5
-  Ceramsteel: 1
-  Monopols: 6
-Upgrade Gun Truck X to Gun Truck XI at Factory
+  Food: 1
+  Energy: 6
+  Metal: 1
+  Chemicals: 8
+Upgrade Mounted Officer (Psy7) to Mounted Officer (Psy8) at Church
 Time to Build / Upgrade: 1
-[14200] Technologies Required to Build Unit (80):
-  [665] Hydrojet (85)
-  [13535] Powered Ceramsteel Tanks (74)
+[20390] Technologies Required to Build Unit (24):
+  [4980] Psychic Turners (41)
+  [5780] Electrokinetics (20)
+  [5290] Wraiths (29)
+  [4340] Sathra Escorts (7)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES

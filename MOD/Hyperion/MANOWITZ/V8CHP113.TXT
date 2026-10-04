@@ -1,13 +1,13 @@
-All units of the unit class Space Freighter are listed herein (11 in total):
+All units of the unit class Space Bulk Hauler are listed herein (8 in total):
 
 --1--
-Name: Space Freighter
-Nick Name: SS-TV
+Name: Space Bulk Hauler
+Nick Name: SS-BH
 Scores & Strengths:
   Tech Score: 342
   Unit Score: 342
   Average Score: 342
-  Stat Strength: 321
+  Stat Strength: 330
   Total Strength: 342
   Planet Strength: 0
   Space Strength: 342
@@ -15,28 +15,28 @@ Scores & Strengths:
 Statistics:
   Movement Type: space
   Move Points: 2
-  Spot: 8
-  Camouflage: 2
-  Agility: 7
-  Armor: 10
-  Psy Defense: 10
-  Rank: 50
+  Spot: 6
+  Camouflage: 1
+  Agility: 1
+  Armor: 12
+  Psy Defense: 12
+  Rank: 65
 Attacks:
-  Close Space: 3/7
-Cargo Space: 3
-Load aboard transport: 6
+  Close Space: 1/12
+Cargo Space: 6
+Load aboard transport: 8
 Immune to Plague
-Upkeep / Maintenance: 17
-Build Cost: 172
+Upkeep / Maintenance: 29
+Build Cost: 285
 Build Resource Requirements:
-  Food: 8
-  Energy: 8
-  Metal: 48
-  Trace: 13
-  Exotica: 8
-  Chemicals: 25
-  Electronics: 8
-Build Space Freighter in Starport
+  Food: 4
+  Energy: 15
+  Metal: 70
+  Trace: 6
+  Exotica: 4
+  Chemicals: 41
+  Electronics: 3
+Build Space Bulk Hauler in Starport
 Time to Build / Upgrade: 2
 [1170] Technologies Required to Build Unit (95):
   [230] Hospitals (97)
@@ -46,44 +46,41 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Jump Freighter
-Nick Name: JJ-TV
+Name: Jump Bulk Hauler
+Nick Name: JJ-BH
 Scores & Strengths:
   Tech Score: 455
-  Unit Score: 465
-  Average Score: 460
-  Stat Strength: 441
-  Total Strength: 465
+  Unit Score: 448
+  Average Score: 452
+  Stat Strength: 434
+  Total Strength: 448
   Planet Strength: 0
-  Space Strength: 465
+  Space Strength: 448
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
   Move Points: 2
-  Spot: 9
-  Camouflage: 2
-  Agility: 8
-  Armor: 12
-  Psy Defense: 12
-  Rank: 54
+  Spot: 6
+  Camouflage: 1
+  Agility: 1
+  Armor: 14
+  Psy Defense: 14
+  Rank: 68
 Attacks:
-  Close Space: 3/8
-Cargo Space: 3
-Load aboard transport: 6
-Space Freighter - Used by the League to Resupply Agoras
+  Close Space: 1/14
+Cargo Space: 6
+Load aboard transport: 8
+Bulk Hauler - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 135
-Build Cost: 1322
+Upkeep / Maintenance: 210
+Build Cost: 1811
 Build Resource Requirements:
-  Food: 6
   Energy: 5
-  Metal: 35
-  Trace: 6
-  Exotica: 6
-  Chemicals: 22
+  Metal: 7
+  Chemicals: 14
   Gems: 1
   Singularities: 2
-Upgrade Armored Space Freighter to Jump Freighter at Starport
+Upgrade Space Bulk Hauler to Jump Bulk Hauler at Starport
 Time to Build / Upgrade: 1
 [1610] Technologies Required to Build Unit (90):
   [230] Hospitals (97)
@@ -93,13 +90,13 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Armored Freighter
-Nick Name: JJ-TVA
+Name: Armored Bulk Hauler
+Nick Name: JJ-BHA
 Scores & Strengths:
   Tech Score: 1168
   Unit Score: 1167
   Average Score: 1167
-  Stat Strength: 1095
+  Stat Strength: 1082
   Total Strength: 1167
   Planet Strength: 0
   Space Strength: 1167
@@ -109,24 +106,25 @@ Statistics:
   Move Points: 3
   Spot: 10
   Camouflage: 2
-  Agility: 10
-  Armor: 21
-  Psy Defense: 21
-  Rank: 77
+  Agility: 1
+  Armor: 22
+  Psy Defense: 22
+  Rank: 102
 Attacks:
-  Direct Space: 6/7
-  Close Space: 5/6
-Cargo Space: 3
-Load aboard transport: 6
-Space Freighter - Used by the League to Resupply Agoras
+  Direct Space: 5/10
+  Close Space: 5/7
+Cargo Space: 6
+Load aboard transport: 8
+Bulk Hauler - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 275
-Build Cost: 1426
+Upkeep / Maintenance: 417
+Build Cost: 2357
 Build Resource Requirements:
-  Electronics: 1
-  Ceramsteel: 29
-  Monopols: 42
-Upgrade Jump Freighter to Armored Freighter at Starport
+  Trace: 1
+  Electronics: 6
+  Ceramsteel: 32
+  Monopols: 46
+Upgrade Jump Bulk Hauler to Armored Bulk Hauler at Starport
 Time to Build / Upgrade: 3
 [5975] Technologies Required to Build Unit (77):
   [1690] Ceramsteel (84)
@@ -135,137 +133,47 @@ Counts as planetary flock: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Armored Space Freighter
-Nick Name: SS-TVA
-Scores & Strengths:
-  Tech Score: 1831
-  Unit Score: 1833
-  Average Score: 1832
-  Stat Strength: 1638
-  Total Strength: 1833
-  Planet Strength: 0
-  Space Strength: 1833
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 4
-  Spot: 16
-  Camouflage: 4
-  Agility: 10
-  Armor: 25
-  Psy Defense: 25
-  Rank: 103
-Attacks:
-  Close Space: 13/15
-Cargo Space: 3
-Load aboard transport: 6
-Immune to Plague
-Upkeep / Maintenance: 20
-Build Cost: 31
-Build Resource Requirements:
-  Electronics: 5
-  Ceramsteel: 22
-Upgrade Space Freighter to Armored Space Freighter at Starport
-Time to Build / Upgrade: 1
-[10580] Technologies Required to Build Unit (85):
-  [1690] Ceramsteel (84)
-  [8890] Space Transports (86)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---5--
-Name: Charioteer
-Nick Name: Charioteer
-Scores & Strengths:
-  Tech Score: 3391
-  Unit Score: 3391
-  Average Score: 3391
-  Stat Strength: 2990
-  Total Strength: 3391
-  Planet Strength: 0
-  Space Strength: 3391
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 9
-  Spot: 16
-  Camouflage: 6
-  Agility: 5
-  Armor: 36
-  Psy Defense: 36
-  Rank: 153
-Attacks:
-  Direct Space: 11/21
-  Close Space: 10/17
-Cargo Space: 6
-Load aboard transport: 8
-Space Freighter - Used by the League to Resupply Agoras
-Bulk Hauler - Used by the League to Resupply Agoras
-Immune to Plague
-Upkeep / Maintenance: 646
-Build Cost: 6455
-Build Resource Requirements:
-  Food: 1
-  Energy: 5
-  Metal: 15
-  Trace: 5
-  Exotica: 2
-  Chemicals: 11
-  Biochems: 17
-  Electronics: 8
-  Ceramsteel: 19
-  Monopols: 27
-  Singularities: 3
-Build Charioteer in Starport
-Time to Build / Upgrade: 3
-[21910] Technologies Required to Build Unit (78):
-  [1690] Ceramsteel (84)
-  [20220] Jump Transports (72)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---6--
-Name: League Freighter
-Nick Name: Entrepeneur
+Name: League Bulk Hauler
+Nick Name: Executor
 Scores & Strengths:
   Tech Score: 3604
-  Unit Score: 3603
-  Average Score: 3604
-  Stat Strength: 3228
-  Total Strength: 3603
+  Unit Score: 3602
+  Average Score: 3603
+  Stat Strength: 3402
+  Total Strength: 3602
   Planet Strength: 0
-  Space Strength: 3603
+  Space Strength: 3602
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
-  Move Points: 14
+  Move Points: 12
   Spot: 12
-  Camouflage: 10
-  Agility: 14
-  Armor: 36
-  Psy Defense: 36
-  Rank: 142
+  Camouflage: 6
+  Agility: 6
+  Armor: 39
+  Psy Defense: 39
+  Rank: 150
 Attacks:
-  Close Space: 25/15
-Cargo Space: 4
-Load aboard transport: 6
-Space Freighter - Used by the League to Resupply Agoras
+  Close Space: 10/20
+Cargo Space: 7
+Load aboard transport: 8
+Bulk Hauler - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 586
-Build Cost: 5859
+Upkeep / Maintenance: 850
+Build Cost: 8501
 Build Resource Requirements:
   Food: 1
   Energy: 3
-  Metal: 15
-  Trace: 7
-  Exotica: 2
-  Chemicals: 8
-  Biochems: 18
-  Electronics: 13
-  Ceramsteel: 19
-  Monopols: 24
+  Metal: 17
+  Trace: 2
+  Exotica: 1
+  Chemicals: 9
+  Biochems: 16
+  Electronics: 4
+  Ceramsteel: 22
+  Monopols: 27
   Singularities: 4
-Build League Freighter in Starport
+Build League Bulk Hauler in Starport
 Time to Build / Upgrade: 3
 [25780] Technologies Required to Build Unit (64):
   [5560] Quantum Supremacy (56)
@@ -273,211 +181,176 @@ Time to Build / Upgrade: 3
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---7--
-Name: Cybermorph Space Freighter
-Nick Name: SS-TV-CM
+--5--
+Name: Power Bulk Hauler
+Nick Name: JJ-BHP
 Scores & Strengths:
-  Tech Score: 7174
-  Unit Score: 7176
-  Average Score: 7175
-  Stat Strength: 5076
-  Total Strength: 7176
+  Tech Score: 4325
+  Unit Score: 4325
+  Average Score: 4325
+  Stat Strength: 2865
+  Total Strength: 4325
   Planet Strength: 0
-  Space Strength: 7176
+  Space Strength: 4325
   Garrison Strength: 0
 Statistics:
-  Movement Type: space
-  Move Points: 25
-  Spot: 22
-  Camouflage: 14
-  Agility: 43
-  Armor: 31
-  Psy Defense: 31
-  Rank: 243
+  Movement Type: jump
+  Move Points: 15
+  Spot: 16
+  Camouflage: 6
+  Agility: 6
+  Armor: 34
+  Psy Defense: 34
+  Rank: 223
 Attacks:
-  Direct Space: 40/30
-  Close Space: 36/25
-Cargo Space: 3
-Load aboard transport: 6
-Space Freighter - Used by the League to Resupply Agoras
+  Direct Space: 28/28
+  Close Space: 26/26
+Cargo Space: 6
+Load aboard transport: 8
+Bulk Hauler - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 513
-Build Cost: 5098
+Upkeep / Maintenance: 810
+Build Cost: 5738
 Build Resource Requirements:
-  Energy: 3
-  Chemicals: 1
-  Biochems: 27
-  Electronics: 7
-  Wetware: 16
-  Monopols: 22
-Cybermorph Space Freighter cannot be built
+  Energy: 2
+  Trace: 3
+  Biochems: 16
+  Electronics: 8
+  Singularities: 2
+Power Bulk Hauler cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---8--
-Name: Gate Freighter
-Nick Name: GG-TV
+--6--
+Name: Cybermorph Bulk Hauler
+Nick Name: JJ-BH-CM
+Scores & Strengths:
+  Tech Score: 7174
+  Unit Score: 7175
+  Average Score: 7175
+  Stat Strength: 5025
+  Total Strength: 7175
+  Planet Strength: 0
+  Space Strength: 7175
+  Garrison Strength: 0
+Statistics:
+  Movement Type: jump
+  Move Points: 24
+  Spot: 24
+  Camouflage: 12
+  Agility: 41
+  Armor: 32
+  Psy Defense: 32
+  Rank: 283
+Attacks:
+  Direct Space: 50/25
+  Close Space: 36/25
+Cargo Space: 7
+Load aboard transport: 8
+Bulk Hauler - Used by the League to Resupply Agoras
+Immune to Plague
+Upkeep / Maintenance: 1702
+Build Cost: 11281
+Build Resource Requirements:
+  Food: 1
+  Energy: 2
+  Trace: 1
+  Exotica: 1
+  Biochems: 10
+  Electronics: 5
+  Wetware: 18
+  Monopols: 1
+  Singularities: 1
+Cybermorph Bulk Hauler cannot be built
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Gate Bulk Hauler
+Nick Name: GG-BH
 Scores & Strengths:
   Tech Score: 7473
   Unit Score: 7256
   Average Score: 7364
-  Stat Strength: 6227
+  Stat Strength: 6061
   Total Strength: 7256
-  Planet Strength: 6709
-  Space Strength: 6774
-  Garrison Strength: 1398
+  Planet Strength: 6621
+  Space Strength: 6696
+  Garrison Strength: 1380
 Statistics:
   Movement Type: gate
   Move Points: 23
   Spot: 16
   Camouflage: 12
-  Agility: 40
-  Armor: 43
-  Psy Defense: 43
-  Rank: 190
+  Agility: 30
+  Armor: 46
+  Psy Defense: 46
+  Rank: 224
 Attacks:
-  Direct Space: 17/19
-  Close Space: 14/16
-  Direct: 16/17
-  Close: 14/15
-Cargo Space: 4
-Load aboard transport: 6
-Space Freighter - Used by the League to Resupply Agoras
+  Direct Space: 14/25
+  Close Space: 15/19
+  Direct: 14/23
+  Close: 14/17
+Cargo Space: 7
+Load aboard transport: 8
+Bulk Hauler - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 1103
-Build Cost: 9710
+Upkeep / Maintenance: 1672
+Build Cost: 14913
 Build Resource Requirements:
-  Biochems: 19
-  Electronics: 3
-  Ceramsteel: 13
-  Wetware: 9
-  Monopols: 27
+  Biochems: 20
+  Electronics: 8
+  Ceramsteel: 15
+  Wetware: 7
+  Monopols: 32
   Singularities: 3
-Upgrade Jump Freighter to Gate Freighter at Starport
+Upgrade Jump Bulk Hauler to Gate Bulk Hauler at Starport
 Time to Build / Upgrade: 3
 [57980] Technology Required to Build Unit (50):
   [57980] Gate Transports (50)
 Counts as planetary flock: YES
 Unit can be disbanded: YES
 
---9--
-Name: Cybermorph Jump Freighter
-Nick Name: JJ-TV-CM
+--8--
+Name: Stealth Bulk Hauler
+Nick Name: JJ-BH-SS
 Scores & Strengths:
-  Tech Score: 7424
-  Unit Score: 7398
-  Average Score: 7411
-  Stat Strength: 5202
-  Total Strength: 7398
+  Tech Score: 7481
+  Unit Score: 7485
+  Average Score: 7483
+  Stat Strength: 5445
+  Total Strength: 7485
   Planet Strength: 0
-  Space Strength: 7398
+  Space Strength: 7485
   Garrison Strength: 0
 Statistics:
   Movement Type: jump
-  Move Points: 25
-  Spot: 22
-  Camouflage: 14
-  Agility: 43
+  Move Points: 24
+  Spot: 34
+  Camouflage: 42
+  Agility: 21
   Armor: 32
-  Psy Defense: 32
-  Rank: 248
+  Psy Defense: 22
+  Rank: 322
 Attacks:
-  Direct Space: 41/31
-  Close Space: 37/25
-Cargo Space: 3
-Load aboard transport: 6
-Space Freighter - Used by the League to Resupply Agoras
+  Direct Space: 24/50
+  Close Space: 24/35
+Cargo Space: 7
+Load aboard transport: 8
+Bulk Hauler - Used by the League to Resupply Agoras
 Immune to Plague
-Upkeep / Maintenance: 1006
-Build Cost: 4962
+Upkeep / Maintenance: 1645
+Build Cost: 10715
 Build Resource Requirements:
-  Singularities: 5
-Upgrade Cybermorph Space Freighter to Cybermorph Jump Freighter at Starport
-Time to Build / Upgrade: 1
-[82875] Technologies Required to Build Unit (70):
-  [54910] Polymorphonic Escortcraft (65)
-  [27965] Jump Escorts (75)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---10--
-Name: Stealth Space Freighter
-Nick Name: SS-TV-SS
-Scores & Strengths:
-  Tech Score: 7481
-  Unit Score: 7481
-  Average Score: 7481
-  Stat Strength: 5785
-  Total Strength: 7481
-  Planet Strength: 0
-  Space Strength: 7481
-  Garrison Strength: 0
-Statistics:
-  Movement Type: space
-  Move Points: 25
-  Spot: 32
-  Camouflage: 44
-  Agility: 20
-  Armor: 30
-  Psy Defense: 30
-  Rank: 252
-Attacks:
-  Direct Space: 22/43
-  Close Space: 25/30
-Cargo Space: 3
-Load aboard transport: 6
-Space Freighter - Used by the League to Resupply Agoras
-Immune to Plague
-Upkeep / Maintenance: 399
-Build Cost: 3962
-Build Resource Requirements:
-  Energy: 4
-  Trace: 3
-  Chemicals: 2
-  Biochems: 22
-  Electronics: 10
+  Energy: 5
+  Trace: 1
+  Exotica: 1
+  Chemicals: 4
+  Biochems: 5
+  Electronics: 3
   Wetware: 8
-  Monopols: 22
-Stealth Space Freighter cannot be built
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---11--
-Name: Stealth Jump Freighter
-Nick Name: JJ-TV-SS
-Scores & Strengths:
-  Tech Score: 7481
-  Unit Score: 7481
-  Average Score: 7481
-  Stat Strength: 5785
-  Total Strength: 7481
-  Planet Strength: 0
-  Space Strength: 7481
-  Garrison Strength: 0
-Statistics:
-  Movement Type: jump
-  Move Points: 25
-  Spot: 32
-  Camouflage: 44
-  Agility: 20
-  Armor: 30
-  Psy Defense: 30
-  Rank: 252
-Attacks:
-  Direct Space: 22/43
-  Close Space: 25/30
-Cargo Space: 3
-Load aboard transport: 6
-Space Freighter - Used by the League to Resupply Agoras
-Immune to Plague
-Upkeep / Maintenance: 975
-Build Cost: 5786
-Build Resource Requirements:
-  Singularities: 5
-Upgrade Stealth Space Freighter to Stealth Jump Freighter at Starport
-Time to Build / Upgrade: 1
-[78285] Technologies Required to Build Unit (60):
-  [58065] Cloaked Escortcraft (48)
-  [20220] Jump Transports (72)
+  Monopols: 4
+  Singularities: 1
+Stealth Bulk Hauler cannot be built
 Counts as planetary flock: YES
 Unit can be disbanded: YES

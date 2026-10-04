@@ -1,87 +1,301 @@
-All units of the unit class Barrage Balloon are listed herein (2 in total):
+All units of the unit class Engineer are listed herein (7 in total):
 
 --1--
-Name: Barrage Balloon
-Nick Name: A-BB
+Name: Engineer
+Nick Name: Engineer
 Scores & Strengths:
-  Tech Score: 38
-  Unit Score: 38
-  Average Score: 38
-  Stat Strength: 32
-  Total Strength: 38
-  Planet Strength: 38
+  Tech Score: 68
+  Unit Score: 43
+  Average Score: 55
+  Stat Strength: 43
+  Total Strength: 43
+  Planet Strength: 43
   Space Strength: 0
-  Garrison Strength: 47
+  Garrison Strength: 17
 Statistics:
-  Movement Type: air
-  Move Points: 0
-  Spot: 0
+  Movement Type: foot
+  Move Points: 6
+  Spot: 1
   Camouflage: 0
-  Agility: 0
-  Armor: 4
-  Psy Defense: 4
-  Rank: 11
-Attacks:
-  Air: 2/3
-Load aboard transport: 3
-Never needs refueling
-Can be towed
-Never Rebels
-Never Retreats
-Immune to Plague
-Upkeep / Maintenance: 6
-Build Cost: 64
+  Agility: 1
+  Armor: 2
+  Psy Defense: 1
+  Rank: 458
+Load aboard transport: 4
+Builds (and Razes) Cities and Roads
+Can tow units that can be towed
+Upkeep / Maintenance: 50
+Build Cost: 485
 Build Resource Requirements:
-  Food: 9
-  Energy: 24
-  Metal: 54
-Build Barrage Balloon in Factory
-Time to Build / Upgrade: 2
-[50] Technology Required to Build Unit (100):
-  [50] Applied Technology (100)
+  Food: 90
+  Energy: 94
+  Metal: 202
+  Trace: 75
+  Exotica: 13
+  Chemicals: 43
+  Electronics: 25
+Upgrade Peasant to Engineer at Any building
+Time to Build / Upgrade: 3
+[110] Technology Required to Build Unit (99):
+  [110] Structural Engineering (99)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Anti-Aircraft Balloon
-Nick Name: AA-AAB
+Name: Sapper
+Nick Name: Sapper
 Scores & Strengths:
-  Tech Score: 106
-  Unit Score: 106
-  Average Score: 106
-  Stat Strength: 78
-  Total Strength: 106
-  Planet Strength: 106
+  Tech Score: 194
+  Unit Score: 194
+  Average Score: 194
+  Stat Strength: 105
+  Total Strength: 194
+  Planet Strength: 194
   Space Strength: 0
-  Garrison Strength: 74
+  Garrison Strength: 64
 Statistics:
-  Movement Type: air
-  Move Points: 2
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 5
-  Psy Defense: 5
-  Rank: 24
+  Movement Type: foot
+  Move Points: 9
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 3
+  Psy Defense: 3
+  Rank: 333
 Attacks:
-  Air: 4/7
-Load aboard transport: 3
-Never needs refueling
-Can be towed
-Upkeep / Maintenance: 4
-Build Cost: 38
+  Indirect: 4/8
+  Direct: 5/6
+  Close: 9/3
+Load aboard transport: 4
+Builds (and Razes) Cities and Roads
+Can tow units that can be towed
+Upkeep / Maintenance: 10
 Build Resource Requirements:
-  Food: 4
-  Energy: 13
-  Metal: 21
-  Trace: 10
-  Exotica: 3
-  Chemicals: 12
-Build Anti-Aircraft Balloon in Factory
-Time to Build / Upgrade: 2
-[350] Technologies Required to Build Unit (97):
-  [125] Compression Ignition Engine (97)
+Upgrade Engineer to Sapper at Fort
+Time to Build / Upgrade: 1
+[845] Technologies Required to Build Unit (97):
+  [230] Hospitals (97)
+  [110] Mechanical & Aerospace Engineering (98)
+  [110] Electrical Engineering (95)
+  [110] Meditation (99)
   [165] Autocannon (98)
   [60] Aerial Reconnaissance (97)
+  [60] Torpedo (98)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Miner
+Nick Name: Miner
+Scores & Strengths:
+  Tech Score: 194
+  Unit Score: 194
+  Average Score: 194
+  Stat Strength: 105
+  Total Strength: 194
+  Planet Strength: 194
+  Space Strength: 0
+  Garrison Strength: 64
+Statistics:
+  Movement Type: foot
+  Move Points: 9
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 3
+  Psy Defense: 3
+  Rank: 328
+Attacks:
+  Direct: 3/13
+  Close: 5/10
+Load aboard transport: 4
+Builds (and Razes) Cities and Roads
+Can tow units that can be towed
+Upkeep / Maintenance: 13
+Build Resource Requirements:
+Upgrade Engineer to Miner at Fort
+Time to Build / Upgrade: 1
+[845] Technologies Required to Build Unit (97):
+  [230] Hospitals (97)
+  [110] Mechanical & Aerospace Engineering (98)
+  [110] Electrical Engineering (95)
+  [110] Meditation (99)
+  [165] Autocannon (98)
+  [60] Aerial Reconnaissance (97)
+  [60] Torpedo (98)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Pioneer
+Nick Name: Pioneer
+Scores & Strengths:
+  Tech Score: 194
+  Unit Score: 194
+  Average Score: 194
+  Stat Strength: 105
+  Total Strength: 194
+  Planet Strength: 194
+  Space Strength: 0
+  Garrison Strength: 64
+Statistics:
+  Movement Type: foot
+  Move Points: 9
+  Spot: 2
+  Camouflage: 1
+  Agility: 1
+  Armor: 3
+  Psy Defense: 3
+  Rank: 333
+Attacks:
+  Indirect: 4/10
+  Close: 7/7
+Load aboard transport: 4
+Builds (and Razes) Cities and Roads
+Can tow units that can be towed
+Upkeep / Maintenance: 10
+Build Resource Requirements:
+Upgrade Engineer to Pioneer at Fort
+Time to Build / Upgrade: 1
+[845] Technologies Required to Build Unit (97):
+  [230] Hospitals (97)
+  [110] Mechanical & Aerospace Engineering (98)
+  [110] Electrical Engineering (95)
+  [110] Meditation (99)
+  [165] Autocannon (98)
+  [60] Aerial Reconnaissance (97)
+  [60] Torpedo (98)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Seabees
+Nick Name: Seabees
+Scores & Strengths:
+  Tech Score: 435
+  Unit Score: 434
+  Average Score: 435
+  Stat Strength: 185
+  Total Strength: 434
+  Planet Strength: 434
+  Space Strength: 0
+  Garrison Strength: 125
+Statistics:
+  Movement Type: foot
+  Move Points: 12
+  Spot: 2
+  Camouflage: 1
+  Agility: 2
+  Armor: 4
+  Psy Defense: 4
+  Rank: 351
+Attacks:
+  Indirect: 9/12
+  Direct: 7/11
+  Close: 8/8
+Load aboard transport: 4
+Builds (and Razes) Cities and Roads
+Can tow units that can be towed
+Upkeep / Maintenance: 13
+Build Resource Requirements:
+Upgrade Engineer to Seabees at Fort
+Time to Build / Upgrade: 1
+[1495] Technologies Required to Build Unit (93):
+  [1195] Naval Warfare (90)
+  [300] Mechanized Warfare (95)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Combat Engineer
+Nick Name: Combat Engineer
+Scores & Strengths:
+  Tech Score: 1433
+  Unit Score: 1433
+  Average Score: 1433
+  Stat Strength: 604
+  Total Strength: 1433
+  Planet Strength: 1433
+  Space Strength: 0
+  Garrison Strength: 337
+Statistics:
+  Movement Type: foot
+  Move Points: 18
+  Spot: 6
+  Camouflage: 4
+  Agility: 10
+  Armor: 8
+  Psy Defense: 8
+  Rank: 399
+Attacks:
+  Indirect: 17/22
+  Direct: 13/20
+  Close: 13/15
+Load aboard transport: 4
+Builds (and Razes) Cities and Roads
+Can tow units that can be towed
+Upkeep / Maintenance: 21
+Build Cost: 212
+Build Resource Requirements:
+  Energy: 1
+  Trace: 1
+  Chemicals: 8
+  Biochems: 9
+  Electronics: 4
+  Ceramsteel: 3
+Upgrade Seabees to Combat Engineer at Fort
+Time to Build / Upgrade: 1
+[7555] Technologies Required to Build Unit (86):
+  [1700] Main Battle Tank (88)
+  [5855] Guided Missile Navalcraft (84)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Demolition Team
+Nick Name: Demolisher
+Scores & Strengths:
+  Tech Score: 3743
+  Unit Score: 3748
+  Average Score: 3746
+  Stat Strength: 1500
+  Total Strength: 3748
+  Planet Strength: 3748
+  Space Strength: 0
+  Garrison Strength: 765
+Statistics:
+  Movement Type: foot
+  Move Points: 24
+  Spot: 12
+  Camouflage: 16
+  Agility: 18
+  Armor: 10
+  Psy Defense: 10
+  Rank: 474
+Attacks:
+  Indirect: 22/50
+  Direct: 18/32
+  Close: 22/26
+Load aboard transport: 4
+Builds (and Razes) Cities and Roads
+Can tow units that can be towed
+Upkeep / Maintenance: 295
+Build Cost: 2740
+Build Resource Requirements:
+  Biochems: 13
+  Electronics: 1
+  Wetware: 7
+  Monopols: 37
+Upgrade Combat Engineer to Demolition Team at Fort
+Time to Build / Upgrade: 2
+[23065] Technology Required to Build Unit (34):
+  [23065] Demolition (34)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

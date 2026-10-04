@@ -1,233 +1,440 @@
-All units of the unit class Sonobuoy are listed herein (6 in total):
+All units of the unit class Satellite are listed herein (12 in total):
 
 --1--
-Name: Sonobuoy
-Nick Name: Sonobuoy
+Name: Satellite
+Nick Name: Satellite
 Scores & Strengths:
-  Tech Score: 326
-  Unit Score: 320
-  Average Score: 323
-  Stat Strength: 320
-  Total Strength: 320
-  Planet Strength: 320
+  Tech Score: 327
+  Unit Score: 327
+  Average Score: 327
+  Stat Strength: 327
+  Total Strength: 327
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 400
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
+  Movement Type: space
   Move Points: 0
-  Spot: 12
-  Camouflage: 12
-  Agility: 0
-  Armor: 4
-  Psy Defense: 4
-  Rank: 30
+  Spot: 17
+  Camouflage: 4
+  Agility: 2
+  Armor: 3
+  Psy Defense: 3
+  Rank: 189
 Load aboard transport: 1
-Can be towed
-Upkeep / Maintenance: 23
-Build Cost: 229
+Immune to Plague
+Upkeep / Maintenance: 24
+Build Cost: 238
 Build Resource Requirements:
-  Food: 13
-  Energy: 1
-  Metal: 32
-  Trace: 28
-  Exotica: 12
+  Food: 31
+  Metal: 11
+  Trace: 51
+  Exotica: 31
   Chemicals: 1
-  Electronics: 46
-Build Sonobuoy in Well
-Time to Build / Upgrade: 2
-[890] Technology Required to Build Unit (86):
-  [890] Sonobouy (86)
+  Electronics: 36
+Build Satellite in Chemical Plant
+Time to Build / Upgrade: 3
+[895] Technology Required to Build Unit (90):
+  [895] Space Rocketry (90)
 Unit can be disbanded: YES
 
 --2--
-Name: Sonobuoy II
-Nick Name: Sonobuoy II
+Name: Satellite II
+Nick Name: Satellite II
 Scores & Strengths:
-  Tech Score: 613
-  Unit Score: 502
-  Average Score: 557
-  Stat Strength: 502
-  Total Strength: 502
-  Planet Strength: 502
+  Tech Score: 782
+  Unit Score: 531
+  Average Score: 657
+  Stat Strength: 531
+  Total Strength: 531
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 627
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
+  Movement Type: space
   Move Points: 0
-  Spot: 14
-  Camouflage: 16
-  Agility: 0
+  Spot: 21
+  Camouflage: 6
+  Agility: 2
   Armor: 5
   Psy Defense: 5
-  Rank: 39
+  Rank: 203
 Load aboard transport: 1
-Can be towed
 Immune to Plague
-Upkeep / Maintenance: 15
+Upkeep / Maintenance: 12
 Build Resource Requirements:
-  Biochems: 4
-Upgrade Sonobuoy to Sonobuoy II at Well
+  Metal: 3
+Upgrade Satellite to Satellite II at Chemical Plant
 Time to Build / Upgrade: 1
-[3965] Technologies Required to Build Unit (85):
-  [1130] Medical Sensing (85)
-  [890] Sonobouy (86)
-  [385] Phased-Array Radar (84)
-  [1560] Naval Patrol Ships (86)
+[3655] Technologies Required to Build Unit (82):
+  [1235] Jump Rocketry (76)
+  [2420] Rocket-Propelled Aircraft (87)
 Unit can be disbanded: YES
 
 --3--
-Name: Sonobuoy III
-Nick Name: Sonobuoy III
+Name: Satellite III
+Nick Name: Satellite III
 Scores & Strengths:
-  Tech Score: 948
-  Unit Score: 754
-  Average Score: 851
-  Stat Strength: 754
-  Total Strength: 754
-  Planet Strength: 754
+  Tech Score: 1380
+  Unit Score: 721
+  Average Score: 1050
+  Stat Strength: 721
+  Total Strength: 721
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 942
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
+  Movement Type: space
   Move Points: 0
-  Spot: 16
-  Camouflage: 20
-  Agility: 0
-  Armor: 7
-  Psy Defense: 7
-  Rank: 47
+  Spot: 24
+  Camouflage: 8
+  Agility: 3
+  Armor: 6
+  Psy Defense: 6
+  Rank: 214
 Load aboard transport: 1
-Can be towed
 Immune to Plague
-Upkeep / Maintenance: 17
-Build Cost: 165
+Upkeep / Maintenance: 12
+Build Cost: 120
 Build Resource Requirements:
-  Metal: 3
-  Trace: 2
-  Electronics: 2
-Upgrade Sonobuoy II to Sonobuoy III at Well
+  Metal: 6
+  Electronics: 1
+Upgrade Satellite II to Satellite III at Chemical Plant
 Time to Build / Upgrade: 1
-[6315] Technologies Required to Build Unit (82):
-  [1690] Computerized Medical Imaging (76)
-  [890] Sonobouy (86)
-  [1465] Airborne-Pulse Radar (78)
-  [2270] Naval Escort Ships (86)
+[6900] Technologies Required to Build Unit (79):
+  [1235] Jump Rocketry (76)
+  [5665] Hypersonic Aircraft (82)
 Unit can be disbanded: YES
 
 --4--
-Name: Sonobuoy IV
-Nick Name: Sonobuoy IV
+Name: Satellite IV
+Nick Name: Satellite IV
 Scores & Strengths:
-  Tech Score: 1437
+  Tech Score: 1771
+  Unit Score: 864
+  Average Score: 1318
+  Stat Strength: 864
+  Total Strength: 864
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 0
+  Spot: 26
+  Camouflage: 9
+  Agility: 3
+  Armor: 7
+  Psy Defense: 7
+  Rank: 221
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 9
+Build Resource Requirements:
+  Ceramsteel: 2
+Upgrade Satellite III to Satellite IV at Chemical Plant
+Time to Build / Upgrade: 1
+[9410] Technologies Required to Build Unit (80):
+  [1235] Jump Rocketry (76)
+  [8175] Spacecraft (84)
+Unit can be disbanded: YES
+
+--5--
+Name: Satellite V
+Nick Name: Satellite V
+Scores & Strengths:
+  Tech Score: 2400
   Unit Score: 1042
-  Average Score: 1239
+  Average Score: 1721
   Stat Strength: 1042
   Total Strength: 1042
-  Planet Strength: 1042
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 1302
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
+  Movement Type: space
   Move Points: 0
-  Spot: 17
-  Camouflage: 25
-  Agility: 0
+  Spot: 28
+  Camouflage: 11
+  Agility: 3
   Armor: 8
   Psy Defense: 8
-  Rank: 56
+  Rank: 230
 Load aboard transport: 1
-Can be towed
+Immune to Plague
+Upkeep / Maintenance: 11
+Build Cost: 109
+Build Resource Requirements:
+  Biochems: 6
+Upgrade Satellite IV to Satellite V at Chemical Plant
+Time to Build / Upgrade: 1
+[13660] Technologies Required to Build Unit (81):
+  [1235] Jump Rocketry (76)
+  [12425] Space Warfare (86)
+Unit can be disbanded: YES
+
+--6--
+Name: Satellite VI
+Nick Name: Satellite VI
+Scores & Strengths:
+  Tech Score: 2959
+  Unit Score: 1156
+  Average Score: 2058
+  Stat Strength: 1156
+  Total Strength: 1156
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 0
+  Spot: 29
+  Camouflage: 12
+  Agility: 3
+  Armor: 9
+  Psy Defense: 9
+  Rank: 236
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 17
+Build Cost: 60
+Build Resource Requirements:
+  Biochems: 3
+  Monopols: 1
+Upgrade Satellite V to Satellite VI at Chemical Plant
+Time to Build / Upgrade: 1
+[17765] Technologies Required to Build Unit (78):
+  [1235] Jump Rocketry (76)
+  [16530] Space Capital Ships (80)
+Unit can be disbanded: YES
+
+--7--
+Name: Orbital Listening Post
+Nick Name: SS-LP
+Scores & Strengths:
+  Tech Score: 1888
+  Unit Score: 1874
+  Average Score: 1881
+  Stat Strength: 1874
+  Total Strength: 1874
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 0
+  Spot: 24
+  Camouflage: 24
+  Agility: 0
+  Armor: 19
+  Psy Defense: 19
+  Rank: 241
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 12
+Build Cost: 123
+Build Resource Requirements:
+  Food: 4
+  Metal: 9
+  Trace: 13
+  Exotica: 4
+  Chemicals: 2
+  Electronics: 20
+  Ceramsteel: 11
+Build Orbital Listening Post in Starport
+Time to Build / Upgrade: 2
+[17990] Technologies Required to Build Unit (79):
+  [1605] Imaging Radar (78)
+  [8175] Spacecraft (84)
+  [8210] Aircraft Surveillance (74)
+Unit can be disbanded: YES
+
+--8--
+Name: Orbital Listening Post II
+Nick Name: SS-LP II
+Scores & Strengths:
+  Tech Score: 2516
+  Unit Score: 2428
+  Average Score: 2472
+  Stat Strength: 2428
+  Total Strength: 2428
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 0
+  Spot: 26
+  Camouflage: 28
+  Agility: 0
+  Armor: 22
+  Psy Defense: 22
+  Rank: 254
+Load aboard transport: 1
 Immune to Plague
 Upkeep / Maintenance: 16
 Build Resource Requirements:
   Chemicals: 1
-  Ceramsteel: 5
-Upgrade Sonobuoy III to Sonobuoy IV at Well
+  Biochems: 3
+  Ceramsteel: 13
+Upgrade Satellite to Orbital Listening Post II at Starport
 Time to Build / Upgrade: 1
-[12480] Technologies Required to Build Unit (78):
-  [1845] Deep Tissue Imaging (72)
-  [1845] Computational Microscopy (67)
-  [890] Sonobouy (86)
-  [1605] Imaging Radar (78)
-  [3570] Robotics (76)
-  [2725] Naval Capital Ships (88)
+[22535] Technologies Required to Build Unit (79):
+  [1900] LASER (76)
+  [8210] Aircraft Surveillance (74)
+  [12425] Space Warfare (86)
 Unit can be disbanded: YES
 
---5--
-Name: Sonobuoy V
-Nick Name: Sonobuoy V
+--9--
+Name: Orbital Listening Post III
+Nick Name: SS-LP III
 Scores & Strengths:
-  Tech Score: 1903
-  Unit Score: 1402
-  Average Score: 1653
-  Stat Strength: 1402
-  Total Strength: 1402
-  Planet Strength: 1402
+  Tech Score: 3172
+  Unit Score: 2940
+  Average Score: 3056
+  Stat Strength: 2940
+  Total Strength: 2940
+  Planet Strength: 0
   Space Strength: 0
-  Garrison Strength: 1752
+  Garrison Strength: 0
 Statistics:
-  Movement Type: underwater
+  Movement Type: space
   Move Points: 0
-  Spot: 19
-  Camouflage: 29
+  Spot: 27
+  Camouflage: 31
   Agility: 0
-  Armor: 10
-  Psy Defense: 10
-  Rank: 64
+  Armor: 25
+  Psy Defense: 25
+  Rank: 263
 Load aboard transport: 1
-Can be towed
 Immune to Plague
-Upkeep / Maintenance: 24
-Build Cost: 241
+Upkeep / Maintenance: 70
+Build Cost: 700
 Build Resource Requirements:
-  Food: 1
-  Metal: 3
-  Trace: 6
-  Exotica: 1
-  Chemicals: 1
-  Biochems: 1
-  Electronics: 8
-  Ceramsteel: 3
-Upgrade Sonobuoy IV to Sonobuoy V at Well
+  Chemicals: 2
+  Biochems: 9
+  Ceramsteel: 10
+  Monopols: 9
+Upgrade Satellite II to Orbital Listening Post III at Starport
 Time to Build / Upgrade: 1
-[12600] Technologies Required to Build Unit (79):
-  [6490] Real-Time Medical Imaging (65)
-  [890] Sonobouy (86)
-  [1605] Imaging Radar (78)
-  [3615] Submarine Warfare (87)
-Unit can be disbanded: YES
-
---6--
-Name: Sonobuoy VI
-Nick Name: Sonobuoy VI
-Scores & Strengths:
-  Tech Score: 2352
-  Unit Score: 1666
-  Average Score: 2009
-  Stat Strength: 1666
-  Total Strength: 1666
-  Planet Strength: 1666
-  Space Strength: 0
-  Garrison Strength: 2082
-Statistics:
-  Movement Type: underwater
-  Move Points: 0
-  Spot: 20
-  Camouflage: 32
-  Agility: 0
-  Armor: 11
-  Psy Defense: 11
-  Rank: 70
-Load aboard transport: 1
-Can be towed
-Immune to Plague
-Upkeep / Maintenance: 20
-Build Resource Requirements:
-Upgrade Sonobuoy V to Sonobuoy VI at Well
-Time to Build / Upgrade: 1
-[18360] Technologies Required to Build Unit (79):
-  [6490] Real-Time Medical Imaging (65)
-  [890] Sonobouy (86)
+[28520] Technologies Required to Build Unit (78):
   [3780] Beam Control (79)
-  [7200] Air-Independent Propulsion (85)
+  [8210] Aircraft Surveillance (74)
+  [16530] Space Capital Ships (80)
+Unit can be disbanded: YES
+
+--10--
+Name: Orbital Listening Post IV
+Nick Name: SS-LP IV
+Scores & Strengths:
+  Tech Score: 3737
+  Unit Score: 3398
+  Average Score: 3568
+  Stat Strength: 3398
+  Total Strength: 3398
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 0
+  Spot: 28
+  Camouflage: 34
+  Agility: 0
+  Armor: 27
+  Psy Defense: 27
+  Rank: 272
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 78
+Build Cost: 661
+Build Resource Requirements:
+  Chemicals: 2
+  Biochems: 9
+  Ceramsteel: 10
+  Monopols: 9
+Upgrade Satellite III to Orbital Listening Post IV at Starport
+Time to Build / Upgrade: 1
+[33040] Technologies Required to Build Unit (74):
+  [4610] Wavelength-Tunable LASER (75)
+  [8210] Aircraft Surveillance (74)
+  [20220] Jump Transports (72)
+Unit can be disbanded: YES
+
+--11--
+Name: Orbital Listening Post V
+Nick Name: SS-LP V
+Scores & Strengths:
+  Tech Score: 4124
+  Unit Score: 3634
+  Average Score: 3879
+  Stat Strength: 3634
+  Total Strength: 3634
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 0
+  Spot: 29
+  Camouflage: 35
+  Agility: 0
+  Armor: 28
+  Psy Defense: 28
+  Rank: 276
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 55
+Build Cost: 547
+Build Resource Requirements:
+  Metal: 3
+  Chemicals: 2
+  Biochems: 7
+  Ceramsteel: 4
+  Monopols: 6
+Upgrade Satellite IV to Orbital Listening Post V at Starport
+Time to Build / Upgrade: 1
+[51895] Technologies Required to Build Unit (74):
+  [8210] Aircraft Surveillance (74)
+  [20220] Jump Transports (72)
+  [23465] Advanced Spacecraft (75)
+Unit can be disbanded: YES
+
+--12--
+Name: Orbital Listening Post VI
+Nick Name: SS-LP VI
+Scores & Strengths:
+  Tech Score: 5825
+  Unit Score: 4966
+  Average Score: 5396
+  Stat Strength: 4966
+  Total Strength: 4966
+  Planet Strength: 0
+  Space Strength: 0
+  Garrison Strength: 0
+Statistics:
+  Movement Type: space
+  Move Points: 0
+  Spot: 32
+  Camouflage: 42
+  Agility: 0
+  Armor: 33
+  Psy Defense: 33
+  Rank: 297
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 51
+Build Cost: 405
+Build Resource Requirements:
+  Metal: 2
+  Chemicals: 1
+  Ceramsteel: 3
+  Monopols: 5
+Upgrade Satellite V to Orbital Listening Post VI at Starport
+Time to Build / Upgrade: 1
+[107150] Technologies Required to Build Unit (70):
+  [8210] Aircraft Surveillance (74)
+  [23465] Advanced Spacecraft (75)
+  [36110] Starbase MK M (70)
+  [39365] Jump Capital Ships (61)
 Unit can be disbanded: YES

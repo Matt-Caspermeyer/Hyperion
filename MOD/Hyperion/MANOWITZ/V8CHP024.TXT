@@ -1,545 +1,502 @@
-All units of the unit class Cultist are listed herein (12 in total):
+All units of the unit class Fusilier are listed herein (12 in total):
 
 --1--
-Name: Cultist
-Nick Name: Cultist
+Name: Fusilier
+Nick Name: Fusilier
 Scores & Strengths:
-  Tech Score: 90
+  Tech Score: 92
   Unit Score: 90
-  Average Score: 90
-  Stat Strength: 81
+  Average Score: 91
+  Stat Strength: 74
   Total Strength: 90
   Planet Strength: 90
-  Space Strength: 90
+  Space Strength: 0
   Garrison Strength: 63
 Statistics:
   Movement Type: foot
   Move Points: 2
   Spot: 2
   Camouflage: 2
-  Agility: 8
-  Armor: 1
+  Agility: 7
+  Armor: 3
   Psy Defense: 2
-  Rank: 687
+  Rank: 18
 Attacks:
-  Psychic: 3/3
+  Direct: 2/4
+  Close: 4/2
 Load aboard transport: 1
-Clergy - Increases Tithe Skim and Converts Sects
-Upkeep / Maintenance: 7
-Build Cost: 52
+Upkeep / Maintenance: 3
+Build Cost: 12
 Build Resource Requirements:
-  Exotica: 15
-  Gems: 4
-Upgrade Peasant to Cultist at Church
+  Metal: 3
+  Trace: 14
+  Exotica: 6
+  Chemicals: 11
+Upgrade Peasant to Fusilier at Fort
 Time to Build / Upgrade: 1
-[270] Technologies Required to Build Unit (92):
-  [125] Esoteric Psychology (96)
-  [145] Fanaticism (87)
+[265] Technologies Required to Build Unit (99):
+  [100] Physics & Energy (100)
+  [165] Autocannon (98)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Kurganite
-Nick Name: Kurganite
+Name: Fusilier (PE)
+Nick Name: Fusilier (PE)
 Scores & Strengths:
-  Tech Score: 454
-  Unit Score: 454
-  Average Score: 454
-  Stat Strength: 363
-  Total Strength: 454
-  Planet Strength: 454
-  Space Strength: 454
-  Garrison Strength: 171
+  Tech Score: 142
+  Unit Score: 136
+  Average Score: 139
+  Stat Strength: 111
+  Total Strength: 136
+  Planet Strength: 136
+  Space Strength: 0
+  Garrison Strength: 78
 Statistics:
   Movement Type: foot
-  Move Points: 7
-  Spot: 8
-  Camouflage: 6
-  Agility: 13
-  Armor: 3
-  Psy Defense: 6
-  Rank: 52
+  Move Points: 3
+  Spot: 2
+  Camouflage: 3
+  Agility: 8
+  Armor: 4
+  Psy Defense: 3
+  Rank: 23
 Attacks:
-  Psychic: 7/13
+  Direct: 3/5
+  Close: 5/2
 Load aboard transport: 1
-Upkeep / Maintenance: 37
-Build Cost: 350
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 3
+Build Cost: 12
 Build Resource Requirements:
-  Metal: 5
-  Trace: 26
-  Exotica: 35
-  Chemicals: 23
-  Electronics: 37
-  Gems: 23
-Upgrade Peasant to Kurganite at Church
-Time to Build / Upgrade: 2
-[1385] Technology Required to Build Unit (23):
-  [1385] Black Magic (23)
+  Metal: 6
+  Trace: 16
+  Exotica: 7
+  Chemicals: 12
+Upgrade Peasant to Fusilier (PE) at Fort
+Time to Build / Upgrade: 1
+[445] Technologies Required to Build Unit (96):
+  [100] Physics & Energy (100)
+  [165] Autocannon (98)
+  [180] Performance-Enhanced Soldiers (90)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Flama Incarnata
-Nick Name: Flama Inc
+Name: Fusilier (BE)
+Nick Name: Fusilier (BE)
 Scores & Strengths:
-  Tech Score: 489
-  Unit Score: 489
-  Average Score: 489
-  Stat Strength: 361
-  Total Strength: 489
-  Planet Strength: 489
-  Space Strength: 377
-  Garrison Strength: 199
+  Tech Score: 191
+  Unit Score: 173
+  Average Score: 182
+  Stat Strength: 137
+  Total Strength: 173
+  Planet Strength: 173
+  Space Strength: 0
+  Garrison Strength: 99
 Statistics:
   Movement Type: foot
-  Move Points: 6
-  Spot: 8
-  Camouflage: 4
-  Agility: 15
-  Armor: 2
-  Psy Defense: 4
-  Rank: 44
+  Move Points: 3
+  Spot: 2
+  Camouflage: 3
+  Agility: 9
+  Armor: 5
+  Psy Defense: 3
+  Rank: 26
 Attacks:
-  Psychic: 4/4
-  Direct: 5/8
-  Close: 8/9
+  Direct: 3/6
+  Close: 6/3
 Load aboard transport: 1
-Upkeep / Maintenance: 14
-Build Cost: 125
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 7
+Build Cost: 53
 Build Resource Requirements:
-  Energy: 21
-  Trace: 24
-  Exotica: 23
-  Chemicals: 46
-  Electronics: 33
-  Gems: 2
-Upgrade Peasant to Flama Incarnata at Church
-Time to Build / Upgrade: 2
-[1875] Technologies Required to Build Unit (59):
-  [300] Fractal Metaphysics (64)
-  [1245] Weird Science (32)
-  [330] Holy Warriors (82)
+  Energy: 3
+  Metal: 10
+  Trace: 4
+  Exotica: 2
+  Chemicals: 3
+  Biochems: 23
+Upgrade Fusilier to Fusilier (BE) at Fort
+Time to Build / Upgrade: 1
+[585] Technologies Required to Build Unit (88):
+  [165] Autocannon (98)
+  [420] Biochem-Enhanced Soldiers (77)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Kurgan Spy
-Nick Name: Kurgan Spy
+Name: Fusilier (SE)
+Nick Name: Fusilier (SE)
 Scores & Strengths:
-  Tech Score: 870
-  Unit Score: 665
-  Average Score: 767
-  Stat Strength: 621
-  Total Strength: 665
-  Planet Strength: 665
+  Tech Score: 269
+  Unit Score: 249
+  Average Score: 259
+  Stat Strength: 193
+  Total Strength: 249
+  Planet Strength: 249
   Space Strength: 0
-  Garrison Strength: 235
+  Garrison Strength: 124
 Statistics:
   Movement Type: foot
-  Move Points: 8
-  Spot: 12
-  Camouflage: 12
-  Agility: 12
-  Armor: 5
-  Psy Defense: 10
-  Rank: 713
+  Move Points: 4
+  Spot: 3
+  Camouflage: 4
+  Agility: 10
+  Armor: 6
+  Psy Defense: 4
+  Rank: 32
 Attacks:
-  Close: 11/4
+  Direct: 4/7
+  Close: 7/4
 Load aboard transport: 1
-Duels High-Ranking (>=666) Units During Combat
-Can attack on Byzantium Secundus
-Immune to Plague
-Upkeep / Maintenance: 26
+Upkeep / Maintenance: 9
+Build Cost: 80
 Build Resource Requirements:
-  Metal: 1
+  Food: 2
+  Energy: 5
+  Metal: 9
   Trace: 11
-  Electronics: 16
-Upgrade Kurganite to Kurgan Spy at Fort
+  Exotica: 3
+  Chemicals: 8
+  Biochems: 28
+Upgrade Fusilier to Fusilier (SE) at Hospital
 Time to Build / Upgrade: 1
-[5735] Technologies Required to Build Unit (59):
-  [330] Holy Warriors (82)
-  [2725] Visioning (56)
-  [2680] Obscurance (40)
+[840] Technologies Required to Build Unit (87):
+  [165] Autocannon (98)
+  [675] Surgically-Enhanced Soldiers (75)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Vorox Commandos
-Nick Name: Vorox
+Name: Fusilier (DE)
+Nick Name: Fusilier (DE)
 Scores & Strengths:
-  Tech Score: 1011
-  Unit Score: 1011
-  Average Score: 1011
-  Stat Strength: 659
-  Total Strength: 1011
-  Planet Strength: 1011
+  Tech Score: 901
+  Unit Score: 601
+  Average Score: 751
+  Stat Strength: 432
+  Total Strength: 601
+  Planet Strength: 601
   Space Strength: 0
-  Garrison Strength: 270
-Statistics:
-  Movement Type: foot
-  Move Points: 14
-  Spot: 12
-  Camouflage: 10
-  Agility: 13
-  Armor: 5
-  Psy Defense: 5
-  Rank: 729
-Attacks:
-  Direct: 7/9
-  Close: 17/17
-Load aboard transport: 1
-Officer - Provides stack combat bonuses
-Can tow units that can be towed
-Never Retreats
-Immune to Plague
-Upkeep / Maintenance: 87
-Build Cost: 872
-Build Resource Requirements:
-  Food: 15
-  Energy: 72
-  Metal: 3
-  Trace: 15
-  Exotica: 15
-  Chemicals: 75
-  Biochems: 110
-  Electronics: 35
-Build Vorox Commandos in Fort
-Time to Build / Upgrade: 4
-[4150] Technologies Required to Build Unit (43):
-  [4025] Xenogenetics (25)
-  [125] Xenopsychology (60)
-Counts as planetary flock: YES
-Unit can be disbanded: YES
-
---6--
-Name: Commando
-Nick Name: Commando
-Scores & Strengths:
-  Tech Score: 1070
-  Unit Score: 1070
-  Average Score: 1070
-  Stat Strength: 441
-  Total Strength: 1070
-  Planet Strength: 1070
-  Space Strength: 0
-  Garrison Strength: 404
+  Garrison Strength: 227
 Statistics:
   Movement Type: foot
   Move Points: 7
-  Spot: 7
+  Spot: 4
   Camouflage: 7
-  Agility: 14
-  Armor: 7
+  Agility: 13
+  Armor: 10
   Psy Defense: 7
-  Rank: 85
+  Rank: 55
 Attacks:
-  Air: 18/9
-  Indirect: 16/11
-  Direct: 17/11
-  Close: 13/8
+  Direct: 7/13
+  Close: 13/6
 Load aboard transport: 1
-Upkeep / Maintenance: 15
-Build Cost: 134
+Upkeep / Maintenance: 9
+Build Cost: 73
 Build Resource Requirements:
-  Trace: 22
-  Exotica: 4
-  Chemicals: 27
-  Biochems: 42
-  Electronics: 38
-  Ceramsteel: 3
-Upgrade Peasant to Commando at Fort
-Time to Build / Upgrade: 2
-[5685] Technologies Required to Build Unit (73):
-  [1615] Wireblades (76)
-  [4070] Tracker Legion (69)
+  Metal: 38
+  Chemicals: 3
+  Biochems: 23
+  Electronics: 16
+Upgrade Fusilier to Fusilier (DE) at Biochem Plant
+Time to Build / Upgrade: 1
+[3605] Technologies Required to Build Unit (82):
+  [165] Autocannon (98)
+  [3440] Drug-Enhanced Soldiers (65)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Fusilier (PA)
+Nick Name: Fusilier (PA)
+Scores & Strengths:
+  Tech Score: 1396
+  Unit Score: 804
+  Average Score: 1100
+  Stat Strength: 548
+  Total Strength: 804
+  Planet Strength: 804
+  Space Strength: 0
+  Garrison Strength: 284
+Statistics:
+  Movement Type: foot
+  Move Points: 8
+  Spot: 4
+  Camouflage: 8
+  Agility: 14
+  Armor: 12
+  Psy Defense: 8
+  Rank: 65
+Attacks:
+  Direct: 8/16
+  Close: 16/8
+Load aboard transport: 1
+Upkeep / Maintenance: 13
+Build Cost: 50
+Build Resource Requirements:
+  Energy: 3
+  Chemicals: 17
+  Electronics: 24
+  Ceramsteel: 18
+Upgrade Fusilier (SE) to Fusilier (PA) at Hospital
+Time to Build / Upgrade: 1
+[6340] Technologies Required to Build Unit (78):
+  [165] Autocannon (98)
+  [6175] Prosthetically-Augmented Soldiers (57)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Favyana
-Nick Name: Favyana
+Name: Fusilier (GE)
+Nick Name: Fusilier (GE)
 Scores & Strengths:
-  Tech Score: 1148
-  Unit Score: 1148
-  Average Score: 1148
-  Stat Strength: 738
-  Total Strength: 1148
-  Planet Strength: 1148
-  Space Strength: 1062
-  Garrison Strength: 363
+  Tech Score: 1369
+  Unit Score: 804
+  Average Score: 1087
+  Stat Strength: 548
+  Total Strength: 804
+  Planet Strength: 804
+  Space Strength: 0
+  Garrison Strength: 284
 Statistics:
   Movement Type: foot
-  Move Points: 10
-  Spot: 12
-  Camouflage: 12
-  Agility: 15
-  Armor: 5
-  Psy Defense: 10
-  Rank: 91
+  Move Points: 8
+  Spot: 4
+  Camouflage: 8
+  Agility: 14
+  Armor: 12
+  Psy Defense: 8
+  Rank: 65
 Attacks:
-  Psychic: 18/18
-  Direct: 5/10
-  Close: 9/4
+  Direct: 8/16
+  Close: 16/8
 Load aboard transport: 1
-Upkeep / Maintenance: 31
-Build Cost: 297
+Upkeep / Maintenance: 10
+Build Cost: 30
 Build Resource Requirements:
-  Metal: 2
-  Trace: 17
-  Exotica: 14
-  Chemicals: 18
-  Biochems: 30
-  Electronics: 26
-  Gems: 15
-Upgrade Peasant to Favyana at Church
-Time to Build / Upgrade: 2
-[7860] Technologies Required to Build Unit (69):
-  [2025] Dark Energy (75)
-  [1245] Weird Science (32)
-  [330] Holy Warriors (82)
-  [220] Somatology (85)
-  [1555] Dhechi (80)
-  [2485] Shekina (61)
+  Energy: 2
+  Chemicals: 5
+  Biochems: 12
+  Ceramsteel: 5
+Upgrade Fusilier (DE) to Fusilier (GE) at Lab
+Time to Build / Upgrade: 1
+[6185] Technologies Required to Build Unit (74):
+  [165] Autocannon (98)
+  [6020] Chemical Shock Legion (49)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Beastfriend
-Nick Name: Beastfriend
+Name: Fusilier (CE)
+Nick Name: Fusilier (CE)
 Scores & Strengths:
-  Tech Score: 1427
-  Unit Score: 1427
-  Average Score: 1427
-  Stat Strength: 1162
-  Total Strength: 1427
-  Planet Strength: 1427
+  Tech Score: 1788
+  Unit Score: 1022
+  Average Score: 1405
+  Stat Strength: 680
+  Total Strength: 1022
+  Planet Strength: 1022
   Space Strength: 0
-  Garrison Strength: 411
+  Garrison Strength: 340
 Statistics:
   Movement Type: foot
-  Move Points: 12
-  Spot: 14
-  Camouflage: 14
-  Agility: 24
-  Armor: 5
-  Psy Defense: 5
-  Rank: 471
+  Move Points: 9
+  Spot: 4
+  Camouflage: 9
+  Agility: 15
+  Armor: 14
+  Psy Defense: 9
+  Rank: 73
 Attacks:
-  Direct: 10/10
-  Close: 15/11
+  Direct: 9/19
+  Close: 19/9
 Load aboard transport: 1
-Heals units of same movement type
-Upkeep / Maintenance: 12
-Build Cost: 48
+Upkeep / Maintenance: 16
+Build Cost: 106
 Build Resource Requirements:
-  Trace: 13
-  Chemicals: 16
-  Biochems: 25
-  Electronics: 29
-  Ceramsteel: 1
-Upgrade Clergy to Beastfriend at Farm
-Time to Build / Upgrade: 2
-[10265] Technologies Required to Build Unit (43):
-  [4025] Xenogenetics (25)
-  [125] Xenopsychology (60)
-  [6115] Xenoenvironment Mastery (44)
+  Energy: 6
+  Metal: 3
+  Chemicals: 11
+  Biochems: 3
+  Ceramsteel: 6
+Upgrade Fusilier (PA) to Fusilier (CE) at Lab
+Time to Build / Upgrade: 1
+[8765] Technologies Required to Build Unit (73):
+  [165] Autocannon (98)
+  [8600] Cybernetically-Enhanced Soldiers (48)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Invisible Path Mole
-Nick Name: Mole
+Name: Fusilier (AVE)
+Nick Name: Fusilier (AVE)
 Scores & Strengths:
-  Tech Score: 1449
-  Unit Score: 1449
-  Average Score: 1449
-  Stat Strength: 837
-  Total Strength: 1449
-  Planet Strength: 1449
-  Space Strength: 1179
-  Garrison Strength: 458
+  Tech Score: 1835
+  Unit Score: 1041
+  Average Score: 1438
+  Stat Strength: 680
+  Total Strength: 1041
+  Planet Strength: 1041
+  Space Strength: 0
+  Garrison Strength: 347
 Statistics:
   Movement Type: foot
-  Move Points: 10
-  Spot: 12
-  Camouflage: 12
-  Agility: 18
-  Armor: 5
-  Psy Defense: 10
-  Rank: 98
+  Move Points: 9
+  Spot: 4
+  Camouflage: 9
+  Agility: 15
+  Armor: 14
+  Psy Defense: 9
+  Rank: 74
 Attacks:
-  Psychic: 19/18
-  Close: 18/15
+  Direct: 10/19
+  Close: 19/9
 Load aboard transport: 1
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 162
-Build Cost: 1551
+Immune to Plague
+Upkeep / Maintenance: 15
+Build Cost: 123
 Build Resource Requirements:
-  Trace: 11
-  Chemicals: 12
-  Biochems: 25
-  Electronics: 25
-  Ceramsteel: 2
-  Gems: 86
-Upgrade Clergy to Invisible Path Mole at Church
-Time to Build / Upgrade: 3
-[6635] Technologies Required to Build Unit (68):
-  [145] Fanaticism (87)
-  [6490] Assassin (48)
+  Energy: 2
+  Chemicals: 4
+  Biochems: 7
+  Electronics: 1
+Upgrade Fusilier (GE) to Fusilier (AVE) at Lab
+Time to Build / Upgrade: 1
+[9065] Technologies Required to Build Unit (62):
+  [165] Autocannon (98)
+  [8900] Genetically-Enhanced Warriors (25)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Vuldrok Infiltrator
-Nick Name: Infiltrator
+Name: Fusilier (ME)
+Nick Name: Fusilier (ME)
 Scores & Strengths:
-  Tech Score: 1583
-  Unit Score: 1582
-  Average Score: 1582
-  Stat Strength: 1043
-  Total Strength: 1582
-  Planet Strength: 1582
+  Tech Score: 1401
+  Unit Score: 1397
+  Average Score: 1399
+  Stat Strength: 1091
+  Total Strength: 1397
+  Planet Strength: 1397
   Space Strength: 0
-  Garrison Strength: 456
+  Garrison Strength: 320
 Statistics:
   Movement Type: foot
-  Move Points: 12
-  Spot: 16
-  Camouflage: 16
-  Agility: 17
-  Armor: 7
-  Psy Defense: 7
-  Rank: 94
+  Move Points: 19
+  Spot: 4
+  Camouflage: 8
+  Agility: 20
+  Armor: 13
+  Psy Defense: 9
+  Rank: 71
 Attacks:
-  Indirect: 11/18
-  Direct: 11/14
-  Close: 17/11
+  Direct: 9/17
+  Close: 17/9
 Load aboard transport: 1
-Immune to Plague
-Upkeep / Maintenance: 137
-Build Cost: 1365
+Upkeep / Maintenance: 11
+Build Cost: 95
 Build Resource Requirements:
-  Food: 10
-  Energy: 31
-  Metal: 6
-  Trace: 21
-  Exotica: 10
-  Chemicals: 42
-  Electronics: 34
-  Monopols: 50
-Build Vuldrok Infiltrator in Fort
-Time to Build / Upgrade: 4
-[9645] Technologies Required to Build Unit (74):
-  [1105] Personal Computer (78)
-  [6340] Free-Electron LASER (71)
-  [2200] Boson Model (74)
+  Food: 2
+  Energy: 13
+  Trace: 1
+  Exotica: 3
+  Chemicals: 33
+  Electronics: 31
+  Ceramsteel: 8
+Upgrade Fusilier to Fusilier (ME) at Factory
+Time to Build / Upgrade: 2
+[6220] Technology Required to Build Unit (80):
+  [6220] Mechanically-Enhanced Soldiers (80)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --11--
-Name: Invisible Path Agent
-Nick Name: Agent
+Name: Fusilier (MF)
+Nick Name: Fusilier (MF)
 Scores & Strengths:
-  Tech Score: 2354
-  Unit Score: 2354
-  Average Score: 2354
-  Stat Strength: 1368
-  Total Strength: 2354
-  Planet Strength: 2354
-  Space Strength: 1638
-  Garrison Strength: 679
+  Tech Score: 3182
+  Unit Score: 1707
+  Average Score: 2445
+  Stat Strength: 1107
+  Total Strength: 1707
+  Planet Strength: 1707
+  Space Strength: 0
+  Garrison Strength: 492
 Statistics:
   Movement Type: foot
   Move Points: 12
-  Spot: 18
-  Camouflage: 18
-  Agility: 16
-  Armor: 8
-  Psy Defense: 16
-  Rank: 127
+  Spot: 5
+  Camouflage: 12
+  Agility: 17
+  Armor: 19
+  Psy Defense: 12
+  Rank: 96
 Attacks:
-  Psychic: 15/18
-  Air: 12/13
-  Indirect: 11/14
-  Direct: 14/16
-  Close: 14/13
+  Direct: 12/25
+  Close: 25/12
 Load aboard transport: 1
-Can attack on Byzantium Secundus
-Upkeep / Maintenance: 39
+Upkeep / Maintenance: 111
+Build Cost: 1008
 Build Resource Requirements:
-  Food: 2
-  Energy: 11
-  Metal: 1
-  Trace: 11
-  Exotica: 4
-  Chemicals: 12
-  Biochems: 12
-  Electronics: 12
-  Ceramsteel: 1
-Upgrade Invisible Path Mole to Invisible Path Agent at Church
-Time to Build / Upgrade: 1
-[18950] Technologies Required to Build Unit (47):
-  [330] Holy Warriors (82)
-  [3050] Occult Science (44)
-  [6490] Assassin (48)
-  [3790] Vislocks (32)
-  [5290] Wraiths (29)
+  Biochems: 11
+  Wetware: 8
+  Monopols: 39
+Upgrade Fusilier (CE) to Fusilier (MF) at Wetware
+Time to Build / Upgrade: 2
+[18675] Technologies Required to Build Unit (68):
+  [100] Physics & Energy (100)
+  [18575] Machine-Fused Soldiers (35)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --12--
-Name: Manifest Light
-Nick Name: Man Light
+Name: Fusilier (NE)
+Nick Name: Fusilier (NE)
 Scores & Strengths:
-  Tech Score: 4518
-  Unit Score: 4518
-  Average Score: 4518
-  Stat Strength: 2186
-  Total Strength: 4518
-  Planet Strength: 4518
-  Space Strength: 3086
-  Garrison Strength: 1064
+  Tech Score: 3872
+  Unit Score: 2290
+  Average Score: 3081
+  Stat Strength: 1506
+  Total Strength: 2290
+  Planet Strength: 2290
+  Space Strength: 0
+  Garrison Strength: 612
 Statistics:
   Movement Type: foot
-  Move Points: 18
-  Spot: 14
-  Camouflage: 10
-  Agility: 21
-  Armor: 15
-  Psy Defense: 30
-  Rank: 166
+  Move Points: 14
+  Spot: 5
+  Camouflage: 18
+  Agility: 18
+  Armor: 21
+  Psy Defense: 14
+  Rank: 113
 Attacks:
-  Psychic: 30/30
-  Direct: 28/28
-  Close: 24/27
+  Direct: 14/28
+  Close: 28/14
 Load aboard transport: 1
 Immune to Plague
-Upkeep / Maintenance: 210
-Build Cost: 2104
+Upkeep / Maintenance: 94
+Build Cost: 821
 Build Resource Requirements:
-  Food: 2
-  Energy: 10
-  Metal: 3
-  Trace: 6
-  Exotica: 2
-  Chemicals: 18
-  Biochems: 24
-  Electronics: 15
-  Ceramsteel: 5
-  Wetware: 13
-  Monopols: 30
-  Gems: 13
-Build Manifest Light in Church
-Time to Build / Upgrade: 4
-[29645] Technology Required to Build Unit (42):
-  [29645] Eschatology (42)
+  Wetware: 9
+  Monopols: 20
+Upgrade Fusilier (AVE) to Fusilier (NE) at Fusorium
+Time to Build / Upgrade: 1
+[24130] Technology Required to Build Unit (32):
+  [24130] Neumonically-Enhanced Soldiers (32)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

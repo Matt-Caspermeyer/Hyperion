@@ -1,293 +1,395 @@
-All units of the unit class Forward Observer are listed herein (7 in total):
+All units of the unit class Anti-Tank Mine are listed herein (9 in total):
 
 --1--
-Name: Forward Observer
-Nick Name: FO
+Name: Anti-Tank Mine
+Nick Name: AT Mine
 Scores & Strengths:
-  Tech Score: 90
-  Unit Score: 133
-  Average Score: 111
-  Stat Strength: 131
-  Total Strength: 133
-  Planet Strength: 133
+  Tech Score: 144
+  Unit Score: 144
+  Average Score: 144
+  Stat Strength: 100
+  Total Strength: 144
+  Planet Strength: 144
   Space Strength: 0
-  Garrison Strength: 59
+  Garrison Strength: 180
 Statistics:
   Movement Type: foot
-  Move Points: 5
-  Spot: 4
-  Camouflage: 6
-  Agility: 7
-  Armor: 2
-  Psy Defense: 1
-  Rank: 683
+  Move Points: 0
+  Spot: 0
+  Camouflage: 10
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 34
 Attacks:
-  Close: 1/2
+  Indirect: 2/10
+  Direct: 2/12
 Load aboard transport: 1
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 7
-Build Cost: 55
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 20
 Build Resource Requirements:
-  Exotica: 25
-Upgrade Peasant to Forward Observer at Fort
-Time to Build / Upgrade: 1
-[160] Technologies Required to Build Unit (100):
-  [110] Meditation (99)
-  [50] Applied Technology (100)
-Counts as planetary flock: YES
+  Energy: 59
+  Trace: 47
+  Chemicals: 69
+Build Anti-Tank Mine in Factory
+Time to Build / Upgrade: 3
+[300] Technology Required to Build Unit (95):
+  [300] Mechanized Warfare (95)
 Unit can be disbanded: YES
 
 --2--
-Name: Forward Observer (Psy)
-Nick Name: FO (Psy)
+Name: Anti-Tank Mine II
+Nick Name: AT Mine II
 Scores & Strengths:
-  Tech Score: 126
-  Unit Score: 189
-  Average Score: 157
-  Stat Strength: 177
-  Total Strength: 189
-  Planet Strength: 189
-  Space Strength: 185
-  Garrison Strength: 77
+  Tech Score: 292
+  Unit Score: 289
+  Average Score: 291
+  Stat Strength: 196
+  Total Strength: 289
+  Planet Strength: 289
+  Space Strength: 0
+  Garrison Strength: 361
 Statistics:
   Movement Type: foot
-  Move Points: 6
-  Spot: 6
-  Camouflage: 6
-  Agility: 7
-  Armor: 2
-  Psy Defense: 4
-  Rank: 692
+  Move Points: 0
+  Spot: 0
+  Camouflage: 14
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 49
 Attacks:
-  Psychic: 2/4
-  Close: 2/2
+  Indirect: 3/14
+  Direct: 3/17
 Load aboard transport: 1
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 23
-Build Cost: 179
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 2
+Build Cost: 22
 Build Resource Requirements:
-  Food: 19
-  Energy: 9
-  Metal: 6
-  Exotica: 22
-  Gems: 7
-Upgrade Forward Observer to Forward Observer (Psy) at Church
-Time to Build / Upgrade: 1
-[250] Technology Required to Build Unit (86):
-  [250] Psychically-Enhanced Soldiers (86)
-Counts as planetary flock: YES
+  Energy: 52
+  Trace: 48
+  Chemicals: 52
+  Electronics: 33
+Build Anti-Tank Mine II in Factory
+Time to Build / Upgrade: 3
+[770] Technology Required to Build Unit (92):
+  [770] Self-Propelled Weaponry (92)
 Unit can be disbanded: YES
 
 --3--
-Name: Forward Observer (Psy4)
-Nick Name: FO (Psy4)
+Name: Anti-Tank Mine III
+Nick Name: AT Mine III
 Scores & Strengths:
-  Tech Score: 839
-  Unit Score: 971
-  Average Score: 905
-  Stat Strength: 848
-  Total Strength: 971
-  Planet Strength: 971
-  Space Strength: 946
-  Garrison Strength: 242
+  Tech Score: 530
+  Unit Score: 529
+  Average Score: 529
+  Stat Strength: 361
+  Total Strength: 529
+  Planet Strength: 529
+  Space Strength: 0
+  Garrison Strength: 661
 Statistics:
   Movement Type: foot
-  Move Points: 16
-  Spot: 10
-  Camouflage: 15
-  Agility: 11
-  Armor: 5
-  Psy Defense: 11
-  Rank: 733
+  Move Points: 0
+  Spot: 0
+  Camouflage: 19
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 66
 Attacks:
-  Psychic: 7/14
-  Close: 5/5
+  Indirect: 4/19
+  Direct: 4/23
 Load aboard transport: 1
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 70
-Build Cost: 517
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 29
 Build Resource Requirements:
-  Food: 3
-  Energy: 15
-  Metal: 9
-  Trace: 65
-  Exotica: 23
-  Chemicals: 59
-  Electronics: 93
-  Gems: 8
-Upgrade Forward Observer (Psy) to Forward Observer (Psy4) at Church
+  Energy: 60
+  Trace: 44
+  Chemicals: 73
+  Electronics: 47
+Build Anti-Tank Mine III in Factory
 Time to Build / Upgrade: 3
-[3140] Technology Required to Build Unit (38):
-  [3140] Sympathic Soldiers (38)
-Counts as planetary flock: YES
+[1700] Technology Required to Build Unit (88):
+  [1700] Main Battle Tank (88)
 Unit can be disbanded: YES
 
 --4--
-Name: Forward Observer (Psy5)
-Nick Name: FO (Psy5)
+Name: Anti-Tank Mine IV
+Nick Name: AT Mine IV
 Scores & Strengths:
-  Tech Score: 936
-  Unit Score: 1101
-  Average Score: 1019
-  Stat Strength: 957
-  Total Strength: 1101
-  Planet Strength: 1101
-  Space Strength: 1076
-  Garrison Strength: 275
+  Tech Score: 1226
+  Unit Score: 1225
+  Average Score: 1225
+  Stat Strength: 841
+  Total Strength: 1225
+  Planet Strength: 1225
+  Space Strength: 0
+  Garrison Strength: 1531
 Statistics:
   Movement Type: foot
-  Move Points: 16
-  Spot: 11
-  Camouflage: 16
-  Agility: 12
-  Armor: 6
-  Psy Defense: 12
-  Rank: 738
+  Move Points: 0
+  Spot: 0
+  Camouflage: 29
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 100
 Attacks:
-  Psychic: 7/17
-  Close: 5/5
+  Indirect: 6/29
+  Direct: 6/35
 Load aboard transport: 1
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 84
-Build Cost: 325
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 3
+Build Cost: 31
 Build Resource Requirements:
-  Food: 4
-  Energy: 1
-  Metal: 6
-  Trace: 10
-  Exotica: 5
-  Chemicals: 2
-  Electronics: 14
-  Gems: 5
-Upgrade Forward Observer (Psy4) to Forward Observer (Psy5) at Church
-Time to Build / Upgrade: 1
-[3635] Technology Required to Build Unit (48):
-  [3635] Dervishes (48)
-Counts as planetary flock: YES
+  Energy: 58
+  Trace: 24
+  Chemicals: 93
+  Electronics: 41
+Build Anti-Tank Mine IV in Factory
+Time to Build / Upgrade: 3
+[5205] Technology Required to Build Unit (84):
+  [5205] Advanced Battle Tanks (84)
 Unit can be disbanded: YES
 
 --5--
-Name: Forward Observer (Psy6)
-Nick Name: FO (Psy6)
+Name: Anti-Tank Mine V
+Nick Name: AT Mine V
 Scores & Strengths:
-  Tech Score: 1142
-  Unit Score: 1415
-  Average Score: 1278
-  Stat Strength: 1235
-  Total Strength: 1415
-  Planet Strength: 1415
-  Space Strength: 1379
-  Garrison Strength: 333
+  Tech Score: 2123
+  Unit Score: 2116
+  Average Score: 2120
+  Stat Strength: 1444
+  Total Strength: 2116
+  Planet Strength: 2116
+  Space Strength: 0
+  Garrison Strength: 2645
 Statistics:
   Movement Type: foot
-  Move Points: 18
-  Spot: 11
-  Camouflage: 21
-  Agility: 12
-  Armor: 6
-  Psy Defense: 13
-  Rank: 747
+  Move Points: 0
+  Spot: 0
+  Camouflage: 38
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 132
 Attacks:
-  Psychic: 8/18
-  Close: 6/6
+  Indirect: 8/38
+  Direct: 8/46
 Load aboard transport: 1
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 48
-Build Cost: 150
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 26
+Build Cost: 259
 Build Resource Requirements:
-Upgrade Forward Observer (Psy5) to Forward Observer (Psy6) at Church
-Time to Build / Upgrade: 1
-[11015] Technologies Required to Build Unit (35):
-  [3790] Vislocks (32)
-  [3635] Dervishes (48)
-  [3590] Sathraists (26)
-Counts as planetary flock: YES
+  Energy: 26
+  Trace: 30
+  Chemicals: 51
+  Electronics: 51
+  Monopols: 51
+Build Anti-Tank Mine V in Factory
+Time to Build / Upgrade: 4
+[10830] Technology Required to Build Unit (80):
+  [10830] Violator Assault Gunnery (80)
 Unit can be disbanded: YES
 
 --6--
-Name: Forward Observer (Psy7)
-Nick Name: FO (Psy7)
+Name: Anti-Tank Mine VII
+Nick Name: AT Mine VII
 Scores & Strengths:
-  Tech Score: 1357
-  Unit Score: 1707
-  Average Score: 1532
-  Stat Strength: 1487
-  Total Strength: 1707
-  Planet Strength: 1707
-  Space Strength: 1658
-  Garrison Strength: 381
+  Tech Score: 2510
+  Unit Score: 2500
+  Average Score: 2505
+  Stat Strength: 1764
+  Total Strength: 2500
+  Planet Strength: 2500
+  Space Strength: 0
+  Garrison Strength: 3125
 Statistics:
   Movement Type: foot
-  Move Points: 20
-  Spot: 12
-  Camouflage: 23
-  Agility: 13
-  Armor: 7
-  Psy Defense: 14
-  Rank: 755
+  Move Points: 0
+  Spot: 0
+  Camouflage: 42
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 142
 Attacks:
-  Psychic: 9/19
-  Close: 7/7
+  Indirect: 8/42
+  Direct: 8/50
 Load aboard transport: 1
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 57
-Build Cost: 418
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 38
+Build Cost: 384
 Build Resource Requirements:
-  Food: 6
-  Energy: 6
-  Metal: 3
-  Trace: 9
-  Exotica: 8
-  Chemicals: 8
-  Electronics: 14
-Upgrade Forward Observer (Psy6) to Forward Observer (Psy7) at Church
-Time to Build / Upgrade: 1
-[12245] Technologies Required to Build Unit (35):
-  [4050] Occultists (48)
-  [4110] Visioneers (46)
-  [4085] Sathra Patrol Ships (12)
-Counts as planetary flock: YES
+  Energy: 36
+  Trace: 21
+  Chemicals: 59
+  Electronics: 44
+  Monopols: 75
+Build Anti-Tank Mine VII in Factory
+Time to Build / Upgrade: 5
+[13535] Technology Required to Build Unit (74):
+  [13535] Powered Ceramsteel Tanks (74)
 Unit can be disbanded: YES
 
 --7--
-Name: Forward Observer (Psy8)
-Nick Name: FO (Psy8)
+Name: Anti-Tank Mine VI
+Nick Name: AT Mine VI
 Scores & Strengths:
-  Tech Score: 1949
-  Unit Score: 2654
-  Average Score: 2301
-  Stat Strength: 2302
-  Total Strength: 2654
-  Planet Strength: 2654
-  Space Strength: 2590
-  Garrison Strength: 541
+  Tech Score: 2707
+  Unit Score: 2704
+  Average Score: 2706
+  Stat Strength: 1849
+  Total Strength: 2704
+  Planet Strength: 2704
+  Space Strength: 0
+  Garrison Strength: 3380
 Statistics:
   Movement Type: foot
-  Move Points: 24
-  Spot: 15
-  Camouflage: 30
-  Agility: 14
-  Armor: 9
-  Psy Defense: 18
-  Rank: 778
+  Move Points: 0
+  Spot: 0
+  Camouflage: 43
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 149
 Attacks:
-  Psychic: 12/24
-  Close: 8/8
+  Indirect: 9/43
+  Direct: 9/52
 Load aboard transport: 1
-Officer - Provides stack combat bonuses
-Upkeep / Maintenance: 58
-Build Cost: 160
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 40
+Build Cost: 401
 Build Resource Requirements:
-  Energy: 1
-  Metal: 4
-  Chemicals: 1
-  Gems: 1
-Upgrade Forward Observer (Psy7) to Forward Observer (Psy8) at Church
-Time to Build / Upgrade: 1
-[20390] Technologies Required to Build Unit (24):
-  [4980] Psychic Turners (41)
-  [5780] Electrokinetics (20)
-  [5290] Wraiths (29)
-  [4340] Sathra Escorts (7)
-Counts as planetary flock: YES
+  Energy: 36
+  Trace: 20
+  Chemicals: 58
+  Electronics: 43
+  Monopols: 76
+Build Anti-Tank Mine VI in Factory
+Time to Build / Upgrade: 5
+[14975] Technology Required to Build Unit (70):
+  [14975] Power Hovertanks (70)
+Unit can be disbanded: YES
+
+--8--
+Name: Anti-Tank Mine VIII
+Nick Name: AT Mine VIII
+Scores & Strengths:
+  Tech Score: 2921
+  Unit Score: 2916
+  Average Score: 2918
+  Stat Strength: 2025
+  Total Strength: 2916
+  Planet Strength: 2916
+  Space Strength: 0
+  Garrison Strength: 3645
+Statistics:
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 45
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 154
+Attacks:
+  Indirect: 9/45
+  Direct: 9/54
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 27
+Build Cost: 265
+Build Resource Requirements:
+  Energy: 23
+  Trace: 13
+  Chemicals: 38
+  Electronics: 28
+  Monopols: 49
+Build Anti-Tank Mine VIII in Factory
+Time to Build / Upgrade: 4
+[30105] Technologies Required to Build Unit (69):
+  [15130] Fusion Battle Tanks (68)
+  [14975] Power Hovertanks (70)
+Unit can be disbanded: YES
+
+--9--
+Name: Anti-Tank Mine IX
+Nick Name: AT Mine IX
+Scores & Strengths:
+  Tech Score: 3967
+  Unit Score: 3854
+  Average Score: 3911
+  Stat Strength: 2704
+  Total Strength: 3854
+  Planet Strength: 3854
+  Space Strength: 0
+  Garrison Strength: 4817
+Statistics:
+  Movement Type: foot
+  Move Points: 0
+  Spot: 0
+  Camouflage: 52
+  Agility: 0
+  Armor: 0
+  Psy Defense: 0
+  Rank: 177
+Attacks:
+  Indirect: 10/52
+  Direct: 10/63
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Destroyed after combat
+Upkeep / Maintenance: 33
+Build Cost: 333
+Build Resource Requirements:
+  Energy: 33
+  Trace: 15
+  Chemicals: 39
+  Biochems: 16
+  Electronics: 34
+  Monopols: 53
+Build Anti-Tank Mine IX in Factory
+Time to Build / Upgrade: 4
+[38460] Technologies Required to Build Unit (52):
+  [14975] Power Hovertanks (70)
+  [23485] Bio-Anti Infantry Tanks (33)
 Unit can be disbanded: YES

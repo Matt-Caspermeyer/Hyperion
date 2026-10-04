@@ -1,267 +1,389 @@
-All units of the unit class Land Minesweeper are listed herein (6 in total):
+All units of the unit class Reconnaissance Triplane are listed herein (9 in total):
 
 --1--
-Name: Land Minesweeper
-Nick Name: LM Sweeper
+Name: Reconnaissance Triplane
+Nick Name: AA-Tr-R
 Scores & Strengths:
-  Tech Score: 139
-  Unit Score: 205
-  Average Score: 172
-  Stat Strength: 195
-  Total Strength: 205
-  Planet Strength: 205
+  Tech Score: 216
+  Unit Score: 213
+  Average Score: 215
+  Stat Strength: 213
+  Total Strength: 213
+  Planet Strength: 213
   Space Strength: 0
-  Garrison Strength: 91
+  Garrison Strength: 75
 Statistics:
-  Movement Type: wheel
-  Move Points: 5
-  Spot: 4
-  Camouflage: 2
-  Agility: 2
-  Armor: 11
-  Psy Defense: 5
-  Rank: 19
-Attacks:
-  Close: 5/2
+  Movement Type: air
+  Move Points: 8
+  Spot: 8
+  Camouflage: 1
+  Agility: 8
+  Armor: 4
+  Psy Defense: 2
+  Rank: 174
 Load aboard transport: 2
-Can attack on Byzantium Secundus
-Can tow units that can be towed
-Upkeep / Maintenance: 5
-Build Cost: 53
+Upkeep / Maintenance: 6
+Build Cost: 61
 Build Resource Requirements:
-  Food: 6
-  Energy: 5
-  Metal: 49
-  Trace: 12
-  Exotica: 5
-  Chemicals: 4
-Build Land Minesweeper in Factory
+  Food: 18
+  Energy: 14
+  Metal: 14
+  Trace: 18
+  Exotica: 18
+  Chemicals: 16
+  Electronics: 13
+Build Reconnaissance Triplane in Factory
 Time to Build / Upgrade: 2
-[435] Technologies Required to Build Unit (99):
-  [110] Mechanical & Aerospace Engineering (98)
-  [100] Psychosocial Engineering (100)
-  [165] Autocannon (98)
-  [60] Torpedo (98)
+[515] Technology Required to Build Unit (93):
+  [515] Triplane (93)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: IED Detonator
-Nick Name: IED Detonator
+Name: Attack Fighter Triplane
+Nick Name: AA-Tr-AF
 Scores & Strengths:
-  Tech Score: 1126
-  Unit Score: 1126
-  Average Score: 1126
-  Stat Strength: 1126
-  Total Strength: 1126
-  Planet Strength: 1126
+  Tech Score: 216
+  Unit Score: 429
+  Average Score: 323
+  Stat Strength: 346
+  Total Strength: 429
+  Planet Strength: 429
   Space Strength: 0
-  Garrison Strength: 503
+  Garrison Strength: 151
 Statistics:
-  Movement Type: wheel
-  Move Points: 5
-  Spot: 3
-  Camouflage: 5
-  Agility: 3
-  Armor: 23
-  Psy Defense: 23
-  Rank: 37
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Can be towed
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 13
-Build Cost: 134
+  Movement Type: air
+  Move Points: 8
+  Spot: 8
+  Camouflage: 2
+  Agility: 13
+  Armor: 6
+  Psy Defense: 3
+  Rank: 46
+Attacks:
+  Air: 4/8
+  Indirect: 5/6
+  Direct: 3/7
+Load aboard transport: 2
+Upkeep / Maintenance: 15
+Build Cost: 147
 Build Resource Requirements:
-  Food: 2
-  Energy: 2
-  Metal: 117
-  Trace: 2
-  Exotica: 1
-  Chemicals: 32
-  Electronics: 2
-Build IED Detonator in Factory
-Time to Build / Upgrade: 3
-[5480] Technologies Required to Build Unit (84):
-  [3780] Beam Control (79)
-  [1700] Main Battle Tank (88)
+  Food: 25
+  Energy: 47
+  Metal: 31
+  Trace: 39
+  Exotica: 25
+  Chemicals: 56
+  Electronics: 24
+Build Attack Fighter Triplane in Factory
+Time to Build / Upgrade: 5
+[515] Technology Required to Build Unit (93):
+  [515] Triplane (93)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Anti-Mine Drone
-Nick Name: AM Drone
+Name: Bomber Triplane
+Nick Name: AA-Tr-B
 Scores & Strengths:
-  Tech Score: 2514
-  Unit Score: 2532
-  Average Score: 2523
-  Stat Strength: 2452
-  Total Strength: 2532
-  Planet Strength: 2532
+  Tech Score: 216
+  Unit Score: 429
+  Average Score: 323
+  Stat Strength: 301
+  Total Strength: 429
+  Planet Strength: 429
   Space Strength: 0
-  Garrison Strength: 596
+  Garrison Strength: 135
 Statistics:
-  Movement Type: wheel
-  Move Points: 18
-  Spot: 16
-  Camouflage: 6
-  Agility: 6
-  Armor: 30
-  Psy Defense: 30
-  Rank: 69
+  Movement Type: air
+  Move Points: 10
+  Spot: 6
+  Camouflage: 2
+  Agility: 9
+  Armor: 8
+  Psy Defense: 4
+  Rank: 51
 Attacks:
-  Close: 10/8
-Load aboard transport: 1
-Can attack on Byzantium Secundus
-Can tow units that can be towed
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 23
-Build Cost: 225
+  Air: 4/7
+  Indirect: 5/20
+Load aboard transport: 3
+Upkeep / Maintenance: 20
+Build Cost: 196
 Build Resource Requirements:
-  Food: 4
-  Energy: 6
-  Metal: 23
-  Trace: 5
-  Exotica: 4
-  Chemicals: 24
-  Electronics: 24
-  Ceramsteel: 39
-Build Anti-Mine Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[13565] Technology Required to Build Unit (65):
-  [13565] Unmanned Land Vehicles (65)
+  Food: 21
+  Energy: 94
+  Metal: 55
+  Trace: 25
+  Exotica: 20
+  Chemicals: 114
+  Electronics: 14
+Build Bomber Triplane in Factory
+Time to Build / Upgrade: 6
+[515] Technology Required to Build Unit (93):
+  [515] Triplane (93)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Tracked Surveillance Drone
-Nick Name: TS Drone
+Name: Fighter Triplane
+Nick Name: AA-Tr-F
 Scores & Strengths:
-  Tech Score: 2514
-  Unit Score: 2532
-  Average Score: 2523
-  Stat Strength: 2532
-  Total Strength: 2532
-  Planet Strength: 2532
+  Tech Score: 216
+  Unit Score: 429
+  Average Score: 323
+  Stat Strength: 338
+  Total Strength: 429
+  Planet Strength: 429
   Space Strength: 0
-  Garrison Strength: 496
+  Garrison Strength: 143
 Statistics:
-  Movement Type: tread
-  Move Points: 26
-  Spot: 24
-  Camouflage: 8
-  Agility: 8
-  Armor: 24
-  Psy Defense: 24
-  Rank: 64
-Load aboard transport: 1
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 16
-Build Cost: 158
+  Movement Type: air
+  Move Points: 9
+  Spot: 8
+  Camouflage: 2
+  Agility: 12
+  Armor: 6
+  Psy Defense: 3
+  Rank: 48
+Attacks:
+  Air: 6/11
+  Indirect: 5/5
+Load aboard transport: 2
+Upkeep / Maintenance: 15
+Build Cost: 147
 Build Resource Requirements:
-  Food: 9
-  Energy: 11
-  Metal: 15
-  Trace: 9
-  Exotica: 9
-  Chemicals: 27
-  Electronics: 25
-  Ceramsteel: 25
-Build Tracked Surveillance Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[13565] Technology Required to Build Unit (65):
-  [13565] Unmanned Land Vehicles (65)
+  Food: 25
+  Energy: 46
+  Metal: 31
+  Trace: 39
+  Exotica: 25
+  Chemicals: 56
+  Electronics: 24
+Build Fighter Triplane in Factory
+Time to Build / Upgrade: 5
+[515] Technology Required to Build Unit (93):
+  [515] Triplane (93)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: PTS Drone
-Nick Name: PTS Drone
+Name: Trench Strafer Triplane
+Nick Name: AA-Tr-TS
 Scores & Strengths:
-  Tech Score: 2551
-  Unit Score: 2536
-  Average Score: 2543
-  Stat Strength: 1956
-  Total Strength: 2536
-  Planet Strength: 2276
-  Space Strength: 2216
-  Garrison Strength: 804
+  Tech Score: 216
+  Unit Score: 429
+  Average Score: 323
+  Stat Strength: 330
+  Total Strength: 429
+  Planet Strength: 429
+  Space Strength: 0
+  Garrison Strength: 162
 Statistics:
-  Movement Type: tread
-  Move Points: 8
-  Spot: 14
-  Camouflage: 8
-  Agility: 8
-  Armor: 28
-  Psy Defense: 28
-  Rank: 122
+  Movement Type: air
+  Move Points: 7
+  Spot: 6
+  Camouflage: 2
+  Agility: 14
+  Armor: 6
+  Psy Defense: 3
+  Rank: 39
 Attacks:
-  Ranged Space: 10/26
-  Air: 10/16
-  Indirect: 8/20
-Load aboard transport: 1
-Never Rebels
-Immune to Plague
+  Air: 2/7
+  Direct: 3/12
+  Close: 7/7
+Load aboard transport: 2
 Upkeep / Maintenance: 17
-Build Cost: 174
+Build Cost: 165
 Build Resource Requirements:
-  Food: 2
-  Energy: 20
-  Metal: 22
-  Trace: 7
-  Exotica: 2
-  Chemicals: 43
-  Electronics: 20
-  Ceramsteel: 30
-Build PTS Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[15515] Technologies Required to Build Unit (77):
-  [1950] PTS Missile Launcher (88)
-  [13565] Unmanned Land Vehicles (65)
+  Food: 22
+  Energy: 62
+  Metal: 31
+  Trace: 39
+  Exotica: 22
+  Chemicals: 75
+  Electronics: 28
+Build Trench Strafer Triplane in Factory
+Time to Build / Upgrade: 5
+[515] Technology Required to Build Unit (93):
+  [515] Triplane (93)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Wheeled Surveillance Drone
-Nick Name: WS Drone
+Name: Zeppelin Interceptor
+Nick Name: AA-MM-ZI
 Scores & Strengths:
-  Tech Score: 2514
-  Unit Score: 2548
-  Average Score: 2531
-  Stat Strength: 2548
-  Total Strength: 2548
-  Planet Strength: 2548
+  Tech Score: 216
+  Unit Score: 429
+  Average Score: 323
+  Stat Strength: 354
+  Total Strength: 429
+  Planet Strength: 429
   Space Strength: 0
-  Garrison Strength: 450
+  Garrison Strength: 135
 Statistics:
-  Movement Type: wheel
-  Move Points: 32
-  Spot: 22
-  Camouflage: 6
-  Agility: 6
-  Armor: 22
-  Psy Defense: 22
-  Rank: 62
-Load aboard transport: 1
-Never Rebels
-Immune to Plague
-Upkeep / Maintenance: 16
-Build Cost: 161
+  Movement Type: air
+  Move Points: 10
+  Spot: 6
+  Camouflage: 2
+  Agility: 13
+  Armor: 6
+  Psy Defense: 3
+  Rank: 44
+Attacks:
+  Air: 6/10
+  Indirect: 3/5
+Load aboard transport: 2
+Upkeep / Maintenance: 14
+Build Cost: 143
 Build Resource Requirements:
-  Food: 11
-  Energy: 16
-  Metal: 12
-  Trace: 7
-  Exotica: 11
-  Chemicals: 34
-  Electronics: 20
-  Ceramsteel: 21
-Build Wheeled Surveillance Drone in Electronics Plant
-Time to Build / Upgrade: 3
-[13565] Technology Required to Build Unit (65):
-  [13565] Unmanned Land Vehicles (65)
+  Food: 26
+  Energy: 47
+  Metal: 31
+  Trace: 33
+  Exotica: 25
+  Chemicals: 57
+  Electronics: 22
+Build Zeppelin Interceptor in Factory
+Time to Build / Upgrade: 5
+[515] Technology Required to Build Unit (93):
+  [515] Triplane (93)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Giant Bomber Triplane
+Nick Name: AA-Tr-GB
+Scores & Strengths:
+  Tech Score: 285
+  Unit Score: 567
+  Average Score: 426
+  Stat Strength: 455
+  Total Strength: 567
+  Planet Strength: 567
+  Space Strength: 0
+  Garrison Strength: 157
+Statistics:
+  Movement Type: air
+  Move Points: 13
+  Spot: 6
+  Camouflage: 2
+  Agility: 11
+  Armor: 10
+  Psy Defense: 5
+  Rank: 52
+Attacks:
+  Indirect: 4/28
+Load aboard transport: 5
+Upkeep / Maintenance: 18
+Build Cost: 179
+Build Resource Requirements:
+  Food: 17
+  Energy: 91
+  Metal: 47
+  Trace: 13
+  Exotica: 17
+  Chemicals: 111
+  Electronics: 8
+Build Giant Bomber Triplane in Factory
+Time to Build / Upgrade: 5
+[1125] Technologies Required to Build Unit (94):
+  [515] Triplane (93)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Battle Triplane
+Nick Name: AA-Tr-BB
+Scores & Strengths:
+  Tech Score: 285
+  Unit Score: 568
+  Average Score: 427
+  Stat Strength: 474
+  Total Strength: 568
+  Planet Strength: 568
+  Space Strength: 0
+  Garrison Strength: 179
+Statistics:
+  Movement Type: air
+  Move Points: 10
+  Spot: 6
+  Camouflage: 2
+  Agility: 17
+  Armor: 6
+  Psy Defense: 3
+  Rank: 49
+Attacks:
+  Air: 6/9
+  Indirect: 5/8
+Load aboard transport: 2
+Upkeep / Maintenance: 11
+Build Cost: 107
+Build Resource Requirements:
+  Food: 18
+  Energy: 33
+  Metal: 17
+  Trace: 27
+  Exotica: 18
+  Chemicals: 41
+  Electronics: 17
+Build Battle Triplane in Factory
+Time to Build / Upgrade: 4
+[1125] Technologies Required to Build Unit (94):
+  [515] Triplane (93)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Large Bomber Triplane
+Nick Name: AA-Tr-LB
+Scores & Strengths:
+  Tech Score: 285
+  Unit Score: 568
+  Average Score: 427
+  Stat Strength: 460
+  Total Strength: 568
+  Planet Strength: 568
+  Space Strength: 0
+  Garrison Strength: 163
+Statistics:
+  Movement Type: air
+  Move Points: 12
+  Spot: 6
+  Camouflage: 2
+  Agility: 14
+  Armor: 8
+  Psy Defense: 4
+  Rank: 52
+Attacks:
+  Air: 3/6
+  Indirect: 5/18
+Load aboard transport: 4
+Upkeep / Maintenance: 13
+Build Cost: 128
+Build Resource Requirements:
+  Food: 18
+  Energy: 53
+  Metal: 30
+  Trace: 19
+  Exotica: 18
+  Chemicals: 65
+  Electronics: 11
+Build Large Bomber Triplane in Factory
+Time to Build / Upgrade: 4
+[1125] Technologies Required to Build Unit (94):
+  [515] Triplane (93)
+  [610] Air-Air Rockets (94)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

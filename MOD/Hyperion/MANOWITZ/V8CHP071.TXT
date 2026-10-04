@@ -1,470 +1,346 @@
-All units of the unit class Anti-Tank Gun Truck are listed herein (11 in total):
+All units of the unit class Reconnaissance Biplane are listed herein (8 in total):
 
 --1--
-Name: Anti-Tank Gun Truck
-Nick Name: ATG Truck
+Name: Reconnaissance Biplane
+Nick Name: AA-Bi-R
 Scores & Strengths:
-  Tech Score: 162
-  Unit Score: 162
-  Average Score: 162
-  Stat Strength: 113
-  Total Strength: 162
-  Planet Strength: 162
+  Tech Score: 172
+  Unit Score: 170
+  Average Score: 171
+  Stat Strength: 170
+  Total Strength: 170
+  Planet Strength: 170
   Space Strength: 0
-  Garrison Strength: 66
+  Garrison Strength: 60
 Statistics:
-  Movement Type: wheel
-  Move Points: 6
-  Spot: 4
-  Camouflage: 2
-  Agility: 5
+  Movement Type: air
+  Move Points: 8
+  Spot: 6
+  Camouflage: 1
+  Agility: 7
   Armor: 4
-  Psy Defense: 4
-  Rank: 29
-Attacks:
-  Direct: 3/7
-  Close: 7/4
-Cargo Space: 1
-Load aboard transport: 3
-Can tow units that can be towed
-Upkeep / Maintenance: 7
-Build Cost: 66
+  Psy Defense: 2
+  Rank: 170
+Load aboard transport: 2
+Upkeep / Maintenance: 6
+Build Cost: 62
 Build Resource Requirements:
-  Food: 11
-  Energy: 23
+  Food: 19
+  Energy: 15
   Metal: 14
-  Trace: 27
-  Exotica: 10
-  Chemicals: 28
-Build Anti-Tank Gun Truck in Factory
+  Trace: 14
+  Exotica: 19
+  Chemicals: 17
+  Electronics: 13
+Build Reconnaissance Biplane in Factory
 Time to Build / Upgrade: 2
-[350] Technology Required to Build Unit (95):
-  [350] Anti-Tank Weaponry (95)
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Anti-Tank Gun Truck II
-Nick Name: ATG Truck II
+Name: Attack Fighter Biplane
+Nick Name: AA-Bi-AF
 Scores & Strengths:
-  Tech Score: 205
-  Unit Score: 208
-  Average Score: 207
-  Stat Strength: 144
-  Total Strength: 208
-  Planet Strength: 208
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 293
+  Total Strength: 341
+  Planet Strength: 341
   Space Strength: 0
-  Garrison Strength: 78
+  Garrison Strength: 139
 Statistics:
-  Movement Type: wheel
-  Move Points: 7
-  Spot: 4
+  Movement Type: air
+  Move Points: 6
+  Spot: 8
   Camouflage: 2
-  Agility: 5
-  Armor: 5
-  Psy Defense: 5
-  Rank: 32
+  Agility: 12
+  Armor: 6
+  Psy Defense: 3
+  Rank: 39
 Attacks:
-  Direct: 3/8
-  Close: 8/5
-Cargo Space: 1
-Load aboard transport: 3
-Can tow units that can be towed
-Upkeep / Maintenance: 5
+  Air: 2/5
+  Indirect: 4/5
+  Direct: 3/6
+Load aboard transport: 2
+Upkeep / Maintenance: 15
+Build Cost: 146
 Build Resource Requirements:
-  Electronics: 9
-Upgrade Anti-Tank Gun Truck to Anti-Tank Gun Truck II at Factory
-Time to Build / Upgrade: 1
-[905] Technologies Required to Build Unit (94):
-  [205] Electric-Diesel Engine (92)
-  [350] Anti-Tank Weaponry (95)
-  [350] Tanks (95)
+  Food: 30
+  Energy: 39
+  Metal: 31
+  Trace: 40
+  Exotica: 30
+  Chemicals: 44
+  Electronics: 33
+Build Attack Fighter Biplane in Factory
+Time to Build / Upgrade: 5
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Anti-Tank Gun Truck III
-Nick Name: ATG Truck III
+Name: Bomber Biplane
+Nick Name: AA-Bi-B
 Scores & Strengths:
-  Tech Score: 325
-  Unit Score: 306
-  Average Score: 315
-  Stat Strength: 206
-  Total Strength: 306
-  Planet Strength: 306
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 248
+  Total Strength: 341
+  Planet Strength: 341
   Space Strength: 0
-  Garrison Strength: 108
+  Garrison Strength: 120
 Statistics:
-  Movement Type: wheel
+  Movement Type: air
   Move Points: 8
-  Spot: 5
-  Camouflage: 3
-  Agility: 6
-  Armor: 6
-  Psy Defense: 6
-  Rank: 38
+  Spot: 6
+  Camouflage: 2
+  Agility: 8
+  Armor: 8
+  Psy Defense: 4
+  Rank: 45
 Attacks:
-  Direct: 4/10
-  Close: 10/6
-Cargo Space: 1
+  Air: 2/4
+  Indirect: 5/17
 Load aboard transport: 3
-Can tow units that can be towed
-Upkeep / Maintenance: 5
-Build Cost: 50
+Upkeep / Maintenance: 17
+Build Cost: 173
 Build Resource Requirements:
-  Energy: 1
-  Trace: 4
-  Electronics: 4
-Upgrade Anti-Tank Gun Truck II to Anti-Tank Gun Truck III at Factory
-Time to Build / Upgrade: 1
-[1480] Technologies Required to Build Unit (92):
-  [245] Rotary Engine (92)
-  [770] Self-Propelled Weaponry (92)
-  [465] Recoilless Gun (93)
+  Food: 22
+  Energy: 79
+  Metal: 55
+  Trace: 26
+  Exotica: 21
+  Chemicals: 88
+  Electronics: 17
+Build Bomber Biplane in Factory
+Time to Build / Upgrade: 5
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Anti-Tank Gun Truck IV
-Nick Name: ATG Truck IV
+Name: Fighter Biplane
+Nick Name: AA-Bi-F
 Scores & Strengths:
-  Tech Score: 530
-  Unit Score: 465
-  Average Score: 497
-  Stat Strength: 309
-  Total Strength: 465
-  Planet Strength: 465
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 306
+  Total Strength: 341
+  Planet Strength: 341
   Space Strength: 0
-  Garrison Strength: 140
+  Garrison Strength: 128
 Statistics:
-  Movement Type: wheel
-  Move Points: 11
-  Spot: 5
-  Camouflage: 4
-  Agility: 7
-  Armor: 7
-  Psy Defense: 7
-  Rank: 47
+  Movement Type: air
+  Move Points: 7
+  Spot: 8
+  Camouflage: 2
+  Agility: 12
+  Armor: 6
+  Psy Defense: 3
+  Rank: 38
 Attacks:
-  Direct: 5/13
-  Close: 13/7
-Cargo Space: 1
-Load aboard transport: 3
-Can tow units that can be towed
-Upkeep / Maintenance: 9
-Build Cost: 40
+  Air: 4/8
+  Indirect: 1/3
+Load aboard transport: 2
+Upkeep / Maintenance: 15
+Build Cost: 146
 Build Resource Requirements:
-  Food: 2
-  Energy: 9
-  Trace: 8
-  Exotica: 2
-  Chemicals: 17
-  Electronics: 17
-Upgrade Anti-Tank Gun Truck III to Anti-Tank Gun Truck IV at Factory
-Time to Build / Upgrade: 1
-[1700] Technology Required to Build Unit (88):
-  [1700] Main Battle Tank (88)
+  Food: 32
+  Energy: 39
+  Metal: 31
+  Trace: 36
+  Exotica: 31
+  Chemicals: 43
+  Electronics: 34
+Build Fighter Biplane in Factory
+Time to Build / Upgrade: 5
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Anti-Tank Gun Truck V
-Nick Name: ATG Truck V
+Name: Trench Strafer Biplane
+Nick Name: AA-Bi-TS
 Scores & Strengths:
-  Tech Score: 763
-  Unit Score: 672
-  Average Score: 717
-  Stat Strength: 432
-  Total Strength: 672
-  Planet Strength: 672
+  Tech Score: 172
+  Unit Score: 341
+  Average Score: 257
+  Stat Strength: 286
+  Total Strength: 341
+  Planet Strength: 341
   Space Strength: 0
-  Garrison Strength: 186
+  Garrison Strength: 152
 Statistics:
-  Movement Type: wheel
-  Move Points: 13
-  Spot: 6
-  Camouflage: 4
-  Agility: 7
-  Armor: 9
-  Psy Defense: 9
-  Rank: 55
+  Movement Type: air
+  Move Points: 5
+  Spot: 4
+  Camouflage: 2
+  Agility: 14
+  Armor: 6
+  Psy Defense: 3
+  Rank: 32
 Attacks:
-  Direct: 7/15
-  Close: 15/9
-Cargo Space: 1
-Load aboard transport: 3
-Can tow units that can be towed
-Upkeep / Maintenance: 10
-Build Cost: 61
+  Air: 3/3
+  Direct: 3/6
+  Close: 7/4
+Load aboard transport: 2
+Upkeep / Maintenance: 15
+Build Cost: 146
 Build Resource Requirements:
-  Food: 2
-  Energy: 7
-  Metal: 7
-  Exotica: 2
-  Chemicals: 8
-Upgrade Anti-Tank Gun Truck IV to Anti-Tank Gun Truck V at Factory
-Time to Build / Upgrade: 1
-[2920] Technologies Required to Build Unit (83):
-  [1220] Finite Element Methods (77)
-  [1700] Main Battle Tank (88)
+  Food: 24
+  Energy: 38
+  Metal: 31
+  Trace: 45
+  Exotica: 24
+  Chemicals: 43
+  Electronics: 42
+Build Trench Strafer Biplane in Factory
+Time to Build / Upgrade: 5
+[380] Technology Required to Build Unit (93):
+  [380] Biplane (93)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Anti-Tank Gun Truck VI
-Nick Name: ATG Truck VI
+Name: Battle Biplane
+Nick Name: AA-Bi-TT
 Scores & Strengths:
-  Tech Score: 830
-  Unit Score: 739
-  Average Score: 784
-  Stat Strength: 483
-  Total Strength: 739
-  Planet Strength: 739
+  Tech Score: 245
+  Unit Score: 488
+  Average Score: 367
+  Stat Strength: 405
+  Total Strength: 488
+  Planet Strength: 488
   Space Strength: 0
-  Garrison Strength: 197
+  Garrison Strength: 172
 Statistics:
-  Movement Type: wheel
-  Move Points: 14
+  Movement Type: air
+  Move Points: 8
   Spot: 6
-  Camouflage: 5
-  Agility: 8
-  Armor: 9
-  Psy Defense: 9
-  Rank: 58
+  Camouflage: 2
+  Agility: 16
+  Armor: 6
+  Psy Defense: 3
+  Rank: 47
 Attacks:
-  Direct: 7/16
-  Close: 16/9
-Cargo Space: 1
-Load aboard transport: 3
-Can tow units that can be towed
-Upkeep / Maintenance: 9
-Build Cost: 24
+  Air: 5/7
+  Indirect: 6/8
+Load aboard transport: 2
+Upkeep / Maintenance: 10
+Build Cost: 99
 Build Resource Requirements:
-Upgrade Anti-Tank Gun Truck V to Anti-Tank Gun Truck VI at Factory
-Time to Build / Upgrade: 1
-[3690] Technologies Required to Build Unit (87):
-  [455] Turbojet Engine (88)
-  [1535] Carbon Nanotubes (85)
-  [1700] Main Battle Tank (88)
+  Food: 17
+  Energy: 30
+  Metal: 17
+  Trace: 28
+  Exotica: 17
+  Chemicals: 35
+  Electronics: 18
+Build Battle Biplane in Factory
+Time to Build / Upgrade: 4
+[990] Technologies Required to Build Unit (94):
+  [380] Biplane (93)
+  [610] Air-Air Rockets (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Anti-Tank Gun Truck VII
-Nick Name: ATG Truck VII
+Name: Giant Bomber Biplane
+Nick Name: AA-Bi-GB
 Scores & Strengths:
-  Tech Score: 1141
-  Unit Score: 997
-  Average Score: 1069
-  Stat Strength: 636
-  Total Strength: 997
-  Planet Strength: 997
+  Tech Score: 245
+  Unit Score: 488
+  Average Score: 367
+  Stat Strength: 386
+  Total Strength: 488
+  Planet Strength: 488
   Space Strength: 0
-  Garrison Strength: 249
+  Garrison Strength: 147
 Statistics:
-  Movement Type: wheel
-  Move Points: 16
-  Spot: 7
-  Camouflage: 5
-  Agility: 8
-  Armor: 11
-  Psy Defense: 11
-  Rank: 66
+  Movement Type: air
+  Move Points: 11
+  Spot: 6
+  Camouflage: 2
+  Agility: 10
+  Armor: 10
+  Psy Defense: 5
+  Rank: 50
 Attacks:
-  Direct: 8/19
-  Close: 19/11
-Cargo Space: 1
-Load aboard transport: 3
-Can tow units that can be towed
-Upkeep / Maintenance: 9
-Build Cost: 67
+  Indirect: 6/17
+Load aboard transport: 5
+Upkeep / Maintenance: 11
+Build Cost: 112
 Build Resource Requirements:
-  Metal: 3
-  Chemicals: 5
-  Electronics: 7
-Upgrade Anti-Tank Gun Truck VI to Anti-Tank Gun Truck VII at Factory
-Time to Build / Upgrade: 1
-[7040] Technologies Required to Build Unit (86):
-  [455] Turbojet Engine (88)
-  [1535] Carbon Nanotubes (85)
-  [3350] Active Protective Systems (83)
-  [1700] Main Battle Tank (88)
+  Food: 15
+  Energy: 44
+  Metal: 47
+  Trace: 16
+  Exotica: 15
+  Chemicals: 53
+  Electronics: 8
+Build Giant Bomber Biplane in Factory
+Time to Build / Upgrade: 4
+[990] Technologies Required to Build Unit (94):
+  [380] Biplane (93)
+  [610] Air-Air Rockets (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Anti-Tank Gun Truck VIII
-Nick Name: ATG Truck VIII
+Name: Large Bomber Biplane
+Nick Name: AA-Bi-LB
 Scores & Strengths:
-  Tech Score: 1248
-  Unit Score: 1041
-  Average Score: 1144
-  Stat Strength: 680
-  Total Strength: 1041
-  Planet Strength: 1041
+  Tech Score: 245
+  Unit Score: 488
+  Average Score: 367
+  Stat Strength: 389
+  Total Strength: 488
+  Planet Strength: 488
   Space Strength: 0
-  Garrison Strength: 252
+  Garrison Strength: 154
 Statistics:
-  Movement Type: wheel
-  Move Points: 17
-  Spot: 7
-  Camouflage: 6
-  Agility: 8
-  Armor: 11
-  Psy Defense: 11
-  Rank: 68
+  Movement Type: air
+  Move Points: 10
+  Spot: 6
+  Camouflage: 2
+  Agility: 13
+  Armor: 8
+  Psy Defense: 4
+  Rank: 49
 Attacks:
-  Direct: 8/19
-  Close: 19/11
-Cargo Space: 1
-Load aboard transport: 3
-Can tow units that can be towed
-Upkeep / Maintenance: 10
-Build Cost: 29
+  Air: 3/5
+  Indirect: 6/14
+Load aboard transport: 4
+Upkeep / Maintenance: 11
+Build Cost: 107
 Build Resource Requirements:
-  Food: 1
-  Energy: 4
-  Trace: 1
-  Exotica: 1
-  Ceramsteel: 9
-Upgrade Anti-Tank Gun Truck VII to Anti-Tank Gun Truck VIII at Factory
-Time to Build / Upgrade: 1
-[5725] Technologies Required to Build Unit (86):
-  [520] Scramjet Engine (87)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---9--
-Name: Anti-Tank Gun Truck IX
-Nick Name: ATG Truck IX
-Scores & Strengths:
-  Tech Score: 1378
-  Unit Score: 1198
-  Average Score: 1288
-  Stat Strength: 778
-  Total Strength: 1198
-  Planet Strength: 1198
-  Space Strength: 0
-  Garrison Strength: 282
-Statistics:
-  Movement Type: wheel
-  Move Points: 18
-  Spot: 7
-  Camouflage: 6
-  Agility: 9
-  Armor: 12
-  Psy Defense: 12
-  Rank: 72
-Attacks:
-  Direct: 9/20
-  Close: 20/12
-Cargo Space: 1
-Load aboard transport: 3
-Can tow units that can be towed
-Upkeep / Maintenance: 9
-Build Cost: 58
-Build Resource Requirements:
-Upgrade Anti-Tank Gun Truck VIII to Anti-Tank Gun Truck IX at Factory
-Time to Build / Upgrade: 1
-[9440] Technologies Required to Build Unit (82):
-  [665] Hydrojet (85)
-  [3570] Robotics (76)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---10--
-Name: Anti-Tank Gun Truck X
-Nick Name: ATG Truck X
-Scores & Strengths:
-  Tech Score: 2021
-  Unit Score: 1652
-  Average Score: 1836
-  Stat Strength: 1027
-  Total Strength: 1652
-  Planet Strength: 1652
-  Space Strength: 0
-  Garrison Strength: 360
-Statistics:
-  Movement Type: wheel
-  Move Points: 21
-  Spot: 8
-  Camouflage: 7
-  Agility: 9
-  Armor: 14
-  Psy Defense: 14
-  Rank: 85
-Attacks:
-  Direct: 11/25
-  Close: 25/14
-Cargo Space: 1
-Load aboard transport: 3
-Can tow units that can be towed
-Upkeep / Maintenance: 63
-Build Cost: 575
-Build Resource Requirements:
-  Trace: 1
-  Monopols: 25
-Upgrade Anti-Tank Gun Truck IX to Anti-Tank Gun Truck X at Factory
-Time to Build / Upgrade: 1
-[14805] Technologies Required to Build Unit (81):
-  [8935] Powered Ceramsteel Armor (75)
-  [665] Hydrojet (85)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---11--
-Name: Anti-Tank Gun Truck XI
-Nick Name: ATG Truck XI
-Scores & Strengths:
-  Tech Score: 2547
-  Unit Score: 2100
-  Average Score: 2324
-  Stat Strength: 1316
-  Total Strength: 2100
-  Planet Strength: 2100
-  Space Strength: 0
-  Garrison Strength: 428
-Statistics:
-  Movement Type: wheel
-  Move Points: 24
-  Spot: 8
-  Camouflage: 8
-  Agility: 10
-  Armor: 16
-  Psy Defense: 16
-  Rank: 95
-Attacks:
-  Direct: 12/28
-  Close: 28/16
-Cargo Space: 1
-Load aboard transport: 3
-Can tow units that can be towed
-Upkeep / Maintenance: 87
-Build Cost: 298
-Build Resource Requirements:
-  Energy: 1
-  Metal: 1
-  Trace: 1
-  Electronics: 6
-  Monopols: 9
-Upgrade Anti-Tank Gun Truck X to Anti-Tank Gun Truck XI at Factory
-Time to Build / Upgrade: 1
-[14200] Technologies Required to Build Unit (80):
-  [665] Hydrojet (85)
-  [13535] Powered Ceramsteel Tanks (74)
+  Food: 16
+  Energy: 39
+  Metal: 30
+  Trace: 21
+  Exotica: 16
+  Chemicals: 47
+  Electronics: 12
+Build Large Bomber Biplane in Factory
+Time to Build / Upgrade: 4
+[990] Technologies Required to Build Unit (94):
+  [380] Biplane (93)
+  [610] Air-Air Rockets (94)
 Counts as planetary flock: YES
 Unit Eats: YES
 Unit can be disbanded: YES

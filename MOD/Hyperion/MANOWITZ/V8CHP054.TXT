@@ -1,392 +1,490 @@
-All units of the unit class Mounted Officer are listed herein (9 in total):
+All units of the unit class Freedom Fighter are listed herein (12 in total):
 
 --1--
-Name: Mounted Officer
-Nick Name: Mounty
+Name: Freedom Fighter
+Nick Name: Free Fighter
 Scores & Strengths:
-  Tech Score: 148
-  Unit Score: 148
-  Average Score: 148
-  Stat Strength: 136
-  Total Strength: 148
-  Planet Strength: 148
+  Tech Score: 151
+  Unit Score: 151
+  Average Score: 151
+  Stat Strength: 117
+  Total Strength: 151
+  Planet Strength: 151
   Space Strength: 0
-  Garrison Strength: 55
+  Garrison Strength: 75
 Statistics:
   Movement Type: foot
-  Move Points: 7
+  Move Points: 4
   Spot: 4
-  Camouflage: 2
-  Agility: 7
-  Armor: 3
-  Psy Defense: 3
-  Rank: 684
+  Camouflage: 4
+  Agility: 8
+  Armor: 2
+  Psy Defense: 1
+  Rank: 27
 Attacks:
-  Close: 6/2
+  Direct: 4/4
+  Close: 6/3
 Load aboard transport: 1
-Officer - Provides stack combat bonuses
-Can tow units that can be towed
-Upkeep / Maintenance: 8
-Build Cost: 60
+Upkeep / Maintenance: 10
+Build Cost: 79
 Build Resource Requirements:
-  Metal: 4
-  Trace: 19
-  Exotica: 15
-  Chemicals: 10
-Upgrade Peasant to Mounted Officer at Fort
+  Energy: 5
+  Metal: 1
+  Trace: 59
+  Exotica: 22
+  Chemicals: 29
+Upgrade Peasant to Freedom Fighter at Farm
 Time to Build / Upgrade: 1
-[310] Technologies Required to Build Unit (100):
-  [100] Medical & Biological (100)
-  [100] Physics & Energy (100)
-  [110] Meditation (99)
+[320] Technology Required to Build Unit (88):
+  [320] Viper Militia (88)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Mounted Officer (Psy)
-Nick Name: Mounty (Psy)
+Name: Freedom Fighter (PE)
+Nick Name: FF (PE)
 Scores & Strengths:
   Tech Score: 195
-  Unit Score: 162
-  Average Score: 179
-  Stat Strength: 125
-  Total Strength: 162
-  Planet Strength: 162
-  Space Strength: 137
-  Garrison Strength: 66
+  Unit Score: 198
+  Average Score: 197
+  Stat Strength: 152
+  Total Strength: 198
+  Planet Strength: 198
+  Space Strength: 0
+  Garrison Strength: 88
 Statistics:
   Movement Type: foot
-  Move Points: 6
+  Move Points: 5
   Spot: 4
-  Camouflage: 2
-  Agility: 7
+  Camouflage: 5
+  Agility: 9
   Armor: 2
-  Psy Defense: 4
-  Rank: 692
+  Psy Defense: 1
+  Rank: 31
 Attacks:
-  Psychic: 3/4
-  Close: 5/5
+  Direct: 5/5
+  Close: 7/3
 Load aboard transport: 1
-Officer - Provides stack combat bonuses
-Can tow units that can be towed
-Upkeep / Maintenance: 17
-Build Cost: 105
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 7
+Build Cost: 48
 Build Resource Requirements:
-  Energy: 5
-  Chemicals: 4
-  Gems: 5
-Upgrade Mounted Officer to Mounted Officer (Psy) at Church
+  Trace: 44
+  Exotica: 16
+  Chemicals: 22
+Upgrade Peasant to Freedom Fighter (PE) at Farm
 Time to Build / Upgrade: 1
-[450] Technologies Required to Build Unit (95):
-  [100] Medical & Biological (100)
-  [100] Physics & Energy (100)
-  [250] Psychically-Enhanced Soldiers (86)
+[500] Technologies Required to Build Unit (89):
+  [320] Viper Militia (88)
+  [180] Performance-Enhanced Soldiers (90)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Mounted Officer (Psy2)
-Nick Name: Mounty (Psy2)
+Name: Freedom Fighter (BE)
+Nick Name: FF (BE)
 Scores & Strengths:
-  Tech Score: 279
-  Unit Score: 242
-  Average Score: 261
-  Stat Strength: 171
-  Total Strength: 242
-  Planet Strength: 242
-  Space Strength: 206
-  Garrison Strength: 91
+  Tech Score: 239
+  Unit Score: 228
+  Average Score: 234
+  Stat Strength: 166
+  Total Strength: 228
+  Planet Strength: 228
+  Space Strength: 0
+  Garrison Strength: 101
 Statistics:
   Movement Type: foot
-  Move Points: 7
+  Move Points: 5
   Spot: 5
-  Camouflage: 2
-  Agility: 8
-  Armor: 2
-  Psy Defense: 5
-  Rank: 701
+  Camouflage: 5
+  Agility: 9
+  Armor: 3
+  Psy Defense: 1
+  Rank: 35
 Attacks:
-  Psychic: 5/7
-  Close: 6/6
+  Direct: 6/5
+  Close: 8/4
 Load aboard transport: 1
-Officer - Provides stack combat bonuses
-Can tow units that can be towed
-Upkeep / Maintenance: 34
-Build Cost: 233
+May lose health or experience after combat due to drug use
+Upkeep / Maintenance: 10
+Build Cost: 21
 Build Resource Requirements:
-  Food: 5
-  Energy: 10
-  Metal: 1
-  Trace: 1
-  Exotica: 5
-  Chemicals: 11
-  Electronics: 19
-  Gems: 7
-Upgrade Mounted Officer (Psy) to Mounted Officer (Psy2) at Church
+  Metal: 2
+  Biochems: 37
+Upgrade Freedom Fighter to Freedom Fighter (BE) at Biochem Plant
 Time to Build / Upgrade: 1
-[725] Technologies Required to Build Unit (80):
-  [100] Medical & Biological (100)
-  [625] Psychokinetically-Enhanced Soldiers (60)
+[740] Technologies Required to Build Unit (83):
+  [320] Viper Militia (88)
+  [420] Biochem-Enhanced Soldiers (77)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Mounted Officer (Psy3)
-Nick Name: Mounty (Psy3)
+Name: Freedom Fighter (SE)
+Nick Name: FF (SE)
 Scores & Strengths:
-  Tech Score: 593
-  Unit Score: 449
-  Average Score: 521
-  Stat Strength: 291
-  Total Strength: 449
-  Planet Strength: 449
-  Space Strength: 368
-  Garrison Strength: 141
+  Tech Score: 313
+  Unit Score: 296
+  Average Score: 305
+  Stat Strength: 210
+  Total Strength: 296
+  Planet Strength: 296
+  Space Strength: 0
+  Garrison Strength: 120
 Statistics:
   Movement Type: foot
-  Move Points: 10
-  Spot: 6
-  Camouflage: 3
-  Agility: 9
-  Armor: 4
-  Psy Defense: 7
-  Rank: 716
+  Move Points: 6
+  Spot: 5
+  Camouflage: 6
+  Agility: 10
+  Armor: 3
+  Psy Defense: 2
+  Rank: 40
 Attacks:
-  Psychic: 7/11
-  Close: 9/9
+  Direct: 6/6
+  Close: 10/5
 Load aboard transport: 1
-Officer - Provides stack combat bonuses
-Can tow units that can be towed
-Upkeep / Maintenance: 46
-Build Cost: 225
+Upkeep / Maintenance: 14
+Build Cost: 57
 Build Resource Requirements:
-  Food: 5
-  Energy: 15
-  Metal: 4
-  Trace: 6
-  Exotica: 14
-  Chemicals: 28
-  Electronics: 12
-  Gems: 1
-Upgrade Mounted Officer (Psy2) to Mounted Officer (Psy3) at Church
+  Biochems: 45
+Upgrade Freedom Fighter to Freedom Fighter (SE) at Hospital
 Time to Build / Upgrade: 1
-[1975] Technology Required to Build Unit (39):
-  [1975] Telepathic Soldiers (39)
+[995] Technologies Required to Build Unit (82):
+  [320] Viper Militia (88)
+  [675] Surgically-Enhanced Soldiers (75)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Mounted Officer (Psy4)
-Nick Name: Mounty (Psy4)
+Name: Freedom Fighter (DE)
+Nick Name: FF (DE)
 Scores & Strengths:
-  Tech Score: 839
-  Unit Score: 626
-  Average Score: 732
-  Stat Strength: 418
-  Total Strength: 626
-  Planet Strength: 626
-  Space Strength: 526
-  Garrison Strength: 173
+  Tech Score: 930
+  Unit Score: 719
+  Average Score: 824
+  Stat Strength: 481
+  Total Strength: 719
+  Planet Strength: 719
+  Space Strength: 0
+  Garrison Strength: 216
 Statistics:
   Movement Type: foot
-  Move Points: 13
+  Move Points: 11
   Spot: 6
-  Camouflage: 4
-  Agility: 10
-  Armor: 4
-  Psy Defense: 9
-  Rank: 725
+  Camouflage: 11
+  Agility: 13
+  Armor: 5
+  Psy Defense: 3
+  Rank: 64
 Attacks:
-  Psychic: 9/12
-  Close: 10/10
+  Direct: 11/10
+  Close: 16/8
 Load aboard transport: 1
-Officer - Provides stack combat bonuses
-Can tow units that can be towed
-Upkeep / Maintenance: 50
-Build Cost: 278
+Upkeep / Maintenance: 11
+Build Cost: 28
 Build Resource Requirements:
-  Food: 8
-  Energy: 15
-  Metal: 1
-  Trace: 2
-  Exotica: 12
-  Chemicals: 19
-  Electronics: 5
-Upgrade Mounted Officer (Psy3) to Mounted Officer (Psy4) at Church
+  Metal: 7
+  Biochems: 31
+  Electronics: 28
+Upgrade Freedom Fighter to Freedom Fighter (DE) at Biochem Plant
 Time to Build / Upgrade: 1
-[3140] Technology Required to Build Unit (38):
-  [3140] Sympathic Soldiers (38)
+[3760] Technologies Required to Build Unit (77):
+  [320] Viper Militia (88)
+  [3440] Drug-Enhanced Soldiers (65)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Mounted Officer (Psy5)
-Nick Name: Mounty (Psy5)
+Name: Freedom Fighter (GE)
+Nick Name: FF (GE)
 Scores & Strengths:
-  Tech Score: 936
-  Unit Score: 717
-  Average Score: 827
-  Stat Strength: 446
-  Total Strength: 717
-  Planet Strength: 717
-  Space Strength: 596
-  Garrison Strength: 198
+  Tech Score: 1394
+  Unit Score: 997
+  Average Score: 1196
+  Stat Strength: 628
+  Total Strength: 997
+  Planet Strength: 997
+  Space Strength: 0
+  Garrison Strength: 276
 Statistics:
   Movement Type: foot
   Move Points: 13
-  Spot: 6
-  Camouflage: 4
-  Agility: 10
-  Armor: 5
-  Psy Defense: 10
-  Rank: 732
+  Spot: 7
+  Camouflage: 13
+  Agility: 14
+  Armor: 6
+  Psy Defense: 3
+  Rank: 78
 Attacks:
-  Psychic: 10/15
-  Close: 11/11
+  Direct: 13/13
+  Close: 20/10
 Load aboard transport: 1
-Officer - Provides stack combat bonuses
-Can tow units that can be towed
-Upkeep / Maintenance: 62
-Build Cost: 338
+Upkeep / Maintenance: 13
+Build Cost: 97
 Build Resource Requirements:
-  Food: 1
-  Energy: 6
-  Metal: 5
-  Trace: 3
-  Chemicals: 7
+  Energy: 1
+  Trace: 1
+  Chemicals: 4
+  Biochems: 8
   Electronics: 3
-  Gems: 5
-Upgrade Mounted Officer (Psy4) to Mounted Officer (Psy5) at Church
+  Ceramsteel: 1
+Upgrade Freedom Fighter (DE) to Freedom Fighter (GE) at Lab
 Time to Build / Upgrade: 1
-[3635] Technology Required to Build Unit (48):
-  [3635] Dervishes (48)
+[6340] Technologies Required to Build Unit (69):
+  [320] Viper Militia (88)
+  [6020] Chemical Shock Legion (49)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Mounted Officer (Psy6)
-Nick Name: Mounty (Psy6)
+Name: Freedom Fighter (PA)
+Nick Name: FF (PA)
 Scores & Strengths:
-  Tech Score: 1142
-  Unit Score: 860
-  Average Score: 1001
-  Stat Strength: 556
-  Total Strength: 860
-  Planet Strength: 860
-  Space Strength: 716
-  Garrison Strength: 222
+  Tech Score: 1420
+  Unit Score: 1010
+  Average Score: 1215
+  Stat Strength: 641
+  Total Strength: 1010
+  Planet Strength: 1010
+  Space Strength: 0
+  Garrison Strength: 280
 Statistics:
   Movement Type: foot
-  Move Points: 15
+  Move Points: 13
   Spot: 7
-  Camouflage: 6
-  Agility: 11
-  Armor: 5
-  Psy Defense: 10
-  Rank: 737
+  Camouflage: 13
+  Agility: 14
+  Armor: 7
+  Psy Defense: 3
+  Rank: 78
 Attacks:
-  Psychic: 10/16
-  Close: 12/12
+  Direct: 13/13
+  Close: 20/10
 Load aboard transport: 1
-Officer - Provides stack combat bonuses
-Can tow units that can be towed
-Upkeep / Maintenance: 33
+Upkeep / Maintenance: 16
+Build Cost: 102
 Build Resource Requirements:
-Upgrade Mounted Officer (Psy5) to Mounted Officer (Psy6) at Church
+  Energy: 4
+  Chemicals: 14
+  Electronics: 42
+  Ceramsteel: 5
+Upgrade Freedom Fighter (SE) to Freedom Fighter (PA) at Hospital
 Time to Build / Upgrade: 1
-[11015] Technologies Required to Build Unit (35):
-  [3790] Vislocks (32)
-  [3635] Dervishes (48)
-  [3590] Sathraists (26)
+[6495] Technologies Required to Build Unit (73):
+  [320] Viper Militia (88)
+  [6175] Prosthetically-Augmented Soldiers (57)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Mounted Officer (Psy7)
-Nick Name: Mounty (Psy7)
+Name: Freedom Fighter (CE)
+Nick Name: FF (CE)
 Scores & Strengths:
-  Tech Score: 1357
-  Unit Score: 990
-  Average Score: 1174
-  Stat Strength: 634
-  Total Strength: 990
-  Planet Strength: 990
-  Space Strength: 821
-  Garrison Strength: 247
+  Tech Score: 1792
+  Unit Score: 1271
+  Average Score: 1531
+  Stat Strength: 804
+  Total Strength: 1271
+  Planet Strength: 1271
+  Space Strength: 0
+  Garrison Strength: 328
 Statistics:
   Movement Type: foot
-  Move Points: 16
+  Move Points: 15
   Spot: 8
-  Camouflage: 6
-  Agility: 11
-  Armor: 6
-  Psy Defense: 11
-  Rank: 743
+  Camouflage: 15
+  Agility: 15
+  Armor: 7
+  Psy Defense: 4
+  Rank: 88
 Attacks:
-  Psychic: 11/17
-  Close: 13/13
+  Direct: 15/15
+  Close: 22/11
 Load aboard transport: 1
-Officer - Provides stack combat bonuses
-Can tow units that can be towed
-Upkeep / Maintenance: 37
-Build Cost: 371
+Upkeep / Maintenance: 17
+Build Cost: 69
 Build Resource Requirements:
-  Food: 2
+  Food: 1
   Energy: 5
-  Metal: 3
-  Trace: 2
-  Exotica: 4
-  Chemicals: 6
-  Electronics: 3
-Upgrade Mounted Officer (Psy6) to Mounted Officer (Psy7) at Church
+  Exotica: 2
+  Chemicals: 7
+  Biochems: 1
+  Ceramsteel: 1
+Upgrade Freedom Fighter (PA) to Freedom Fighter (CE) at Lab
 Time to Build / Upgrade: 1
-[12245] Technologies Required to Build Unit (35):
-  [4050] Occultists (48)
-  [4110] Visioneers (46)
-  [4085] Sathra Patrol Ships (12)
+[8920] Technologies Required to Build Unit (68):
+  [320] Viper Militia (88)
+  [8600] Cybernetically-Enhanced Soldiers (48)
 Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Mounted Officer (Psy8)
-Nick Name: Mounty (Psy8)
+Name: Freedom Fighter (AVE)
+Nick Name: FF (AVE)
 Scores & Strengths:
-  Tech Score: 1949
-  Unit Score: 1559
-  Average Score: 1754
-  Stat Strength: 988
-  Total Strength: 1559
-  Planet Strength: 1559
-  Space Strength: 1303
-  Garrison Strength: 348
+  Tech Score: 1857
+  Unit Score: 1297
+  Average Score: 1577
+  Stat Strength: 819
+  Total Strength: 1297
+  Planet Strength: 1297
+  Space Strength: 0
+  Garrison Strength: 334
+Statistics:
+  Movement Type: foot
+  Move Points: 15
+  Spot: 8
+  Camouflage: 15
+  Agility: 15
+  Armor: 8
+  Psy Defense: 4
+  Rank: 89
+Attacks:
+  Direct: 15/15
+  Close: 23/11
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 18
+Build Cost: 84
+Build Resource Requirements:
+  Energy: 2
+  Chemicals: 3
+  Biochems: 6
+  Electronics: 1
+Upgrade Freedom Fighter (GE) to Freedom Fighter (AVE) at Lab
+Time to Build / Upgrade: 1
+[9220] Technologies Required to Build Unit (57):
+  [320] Viper Militia (88)
+  [8900] Genetically-Enhanced Warriors (25)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Freedom Fighter (ME)
+Nick Name: FF (ME)
+Scores & Strengths:
+  Tech Score: 1428
+  Unit Score: 1633
+  Average Score: 1530
+  Stat Strength: 1227
+  Total Strength: 1633
+  Planet Strength: 1633
+  Space Strength: 0
+  Garrison Strength: 333
+Statistics:
+  Movement Type: foot
+  Move Points: 24
+  Spot: 7
+  Camouflage: 12
+  Agility: 20
+  Armor: 7
+  Psy Defense: 3
+  Rank: 83
+Attacks:
+  Direct: 14/14
+  Close: 21/10
+Load aboard transport: 1
+Upkeep / Maintenance: 13
+Build Cost: 51
+Build Resource Requirements:
+  Chemicals: 16
+  Electronics: 42
+  Ceramsteel: 2
+Upgrade Freedom Fighter to Freedom Fighter (ME) at Factory
+Time to Build / Upgrade: 1
+[6540] Technologies Required to Build Unit (84):
+  [320] Viper Militia (88)
+  [6220] Mechanically-Enhanced Soldiers (80)
+Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Freedom Fighter (MF)
+Nick Name: FF (MF)
+Scores & Strengths:
+  Tech Score: 3187
+  Unit Score: 2126
+  Average Score: 2656
+  Stat Strength: 1291
+  Total Strength: 2126
+  Planet Strength: 2126
+  Space Strength: 0
+  Garrison Strength: 475
 Statistics:
   Movement Type: foot
   Move Points: 20
   Spot: 9
-  Camouflage: 8
-  Agility: 13
-  Armor: 7
-  Psy Defense: 15
-  Rank: 763
+  Camouflage: 19
+  Agility: 18
+  Armor: 10
+  Psy Defense: 5
+  Rank: 115
 Attacks:
-  Psychic: 15/21
-  Close: 16/16
+  Direct: 20/20
+  Close: 29/15
 Load aboard transport: 1
-Officer - Provides stack combat bonuses
-Can tow units that can be towed
-Upkeep / Maintenance: 41
-Build Cost: 41
+Upkeep / Maintenance: 115
+Build Cost: 1083
 Build Resource Requirements:
-  Food: 1
-  Energy: 6
-  Metal: 1
-  Chemicals: 8
-Upgrade Mounted Officer (Psy7) to Mounted Officer (Psy8) at Church
-Time to Build / Upgrade: 1
-[20390] Technologies Required to Build Unit (24):
-  [4980] Psychic Turners (41)
-  [5780] Electrokinetics (20)
-  [5290] Wraiths (29)
-  [4340] Sathra Escorts (7)
+  Biochems: 1
+  Wetware: 13
+  Monopols: 32
+Upgrade Freedom Fighter (CE) to Freedom Fighter (MF) at Wetware
+Time to Build / Upgrade: 2
+[18895] Technologies Required to Build Unit (62):
+  [320] Viper Militia (88)
+  [18575] Machine-Fused Soldiers (35)
 Counts as planetary flock: YES
+Unit Eats: YES
+Unit can be disbanded: YES
+
+--12--
+Name: Freedom Fighter (NE)
+Nick Name: FF (NE)
+Scores & Strengths:
+  Tech Score: 3876
+  Unit Score: 2677
+  Average Score: 3277
+  Stat Strength: 1665
+  Total Strength: 2677
+  Planet Strength: 2677
+  Space Strength: 0
+  Garrison Strength: 584
+Statistics:
+  Movement Type: foot
+  Move Points: 21
+  Spot: 9
+  Camouflage: 25
+  Agility: 19
+  Armor: 11
+  Psy Defense: 6
+  Rank: 130
+Attacks:
+  Direct: 22/22
+  Close: 33/16
+Load aboard transport: 1
+Immune to Plague
+Upkeep / Maintenance: 109
+Build Cost: 1007
+Build Resource Requirements:
+  Wetware: 14
+  Monopols: 16
+Upgrade Freedom Fighter (AVE) to Freedom Fighter (NE) at Fusorium
+Time to Build / Upgrade: 1
+[24450] Technologies Required to Build Unit (60):
+  [320] Viper Militia (88)
+  [24130] Neumonically-Enhanced Soldiers (32)
+Counts as planetary flock: YES
+Unit Eats: YES
 Unit can be disbanded: YES

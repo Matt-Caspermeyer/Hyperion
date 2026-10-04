@@ -1,389 +1,553 @@
-All units of the unit class Main Battle Tank are listed herein (9 in total):
+All units of the unit class Anti-Tank Mine System are listed herein (11 in total):
 
 --1--
-Name: Main Battle Tank
-Nick Name: MBT
+Name: Anti-Tank Mine System
+Nick Name: ATMS
 Scores & Strengths:
   Tech Score: 530
-  Unit Score: 528
-  Average Score: 529
-  Stat Strength: 380
-  Total Strength: 528
-  Planet Strength: 528
+  Unit Score: 530
+  Average Score: 530
+  Stat Strength: 344
+  Total Strength: 530
+  Planet Strength: 530
   Space Strength: 0
-  Garrison Strength: 215
+  Garrison Strength: 216
 Statistics:
   Movement Type: tread
   Move Points: 6
-  Spot: 6
-  Camouflage: 2
-  Agility: 4
-  Armor: 12
-  Psy Defense: 12
-  Rank: 48
+  Spot: 2
+  Camouflage: 10
+  Agility: 2
+  Armor: 10
+  Psy Defense: 10
+  Rank: 66
 Attacks:
-  Indirect: 6/11
-  Direct: 5/10
-  Close: 4/8
-Load aboard transport: 3
-Upkeep / Maintenance: 7
-Build Cost: 65
+  Indirect: 8/12
+  Direct: 10/9
+Cargo Space: 1
+Load aboard transport: 2
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 15
+Build Cost: 154
 Build Resource Requirements:
-  Food: 4
-  Energy: 22
-  Metal: 33
-  Trace: 13
-  Exotica: 4
-  Chemicals: 36
-  Electronics: 10
-Build Main Battle Tank in Factory
+  Food: 2
+  Energy: 18
+  Metal: 23
+  Trace: 29
+  Exotica: 2
+  Chemicals: 28
+  Electronics: 25
+Build Anti-Tank Mine System in Factory
 Time to Build / Upgrade: 2
 [1700] Technology Required to Build Unit (88):
   [1700] Main Battle Tank (88)
 Counts as planetary flock: YES
-Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Main Battle Tank (RA)
-Nick Name: MBT (RA)
+Name: Anti-Personnel Mine System
+Nick Name: APMS
 Scores & Strengths:
-  Tech Score: 768
-  Unit Score: 723
-  Average Score: 745
-  Stat Strength: 510
-  Total Strength: 723
-  Planet Strength: 723
+  Tech Score: 566
+  Unit Score: 567
+  Average Score: 567
+  Stat Strength: 312
+  Total Strength: 567
+  Planet Strength: 567
   Space Strength: 0
-  Garrison Strength: 273
+  Garrison Strength: 283
 Statistics:
   Movement Type: tread
-  Move Points: 7
-  Spot: 7
-  Camouflage: 2
-  Agility: 4
-  Armor: 14
-  Psy Defense: 14
-  Rank: 57
-Attacks:
-  Indirect: 7/13
-  Direct: 6/12
-  Close: 5/10
-Load aboard transport: 3
-Upkeep / Maintenance: 8
-Build Cost: 10
-Build Resource Requirements:
-  Energy: 6
-  Metal: 6
-  Chemicals: 9
-Upgrade Main Battle Tank to Main Battle Tank (RA) at Factory
-Time to Build / Upgrade: 1
-[3090] Technologies Required to Build Unit (86):
-  [1220] Predictive Algorithms (76)
-  [1700] Main Battle Tank (88)
-  [170] Reactive Armor (95)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---3--
-Name: Main Battle Tank (ExA)
-Nick Name: MBT (ExA)
-Scores & Strengths:
-  Tech Score: 826
-  Unit Score: 788
-  Average Score: 807
-  Stat Strength: 568
-  Total Strength: 788
-  Planet Strength: 788
-  Space Strength: 0
-  Garrison Strength: 297
-Statistics:
-  Movement Type: tread
-  Move Points: 7
-  Spot: 7
-  Camouflage: 2
-  Agility: 4
-  Armor: 15
-  Psy Defense: 15
-  Rank: 58
-Attacks:
-  Indirect: 7/14
-  Direct: 6/12
-  Close: 5/10
-Load aboard transport: 3
-Upkeep / Maintenance: 9
-Build Cost: 22
-Build Resource Requirements:
-  Energy: 6
-  Metal: 9
-  Chemicals: 24
-Upgrade Main Battle Tank to Main Battle Tank (ExA) at Factory
-Time to Build / Upgrade: 1
-[3375] Technologies Required to Build Unit (86):
-  [1475] Monofilament (77)
-  [1700] Main Battle Tank (88)
-  [200] Explosive Armor (93)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---4--
-Name: Main Battle Tank (ElA)
-Nick Name: MBT (ElA)
-Scores & Strengths:
-  Tech Score: 979
-  Unit Score: 932
-  Average Score: 956
-  Stat Strength: 659
-  Total Strength: 932
-  Planet Strength: 932
-  Space Strength: 0
-  Garrison Strength: 329
-Statistics:
-  Movement Type: tread
-  Move Points: 8
-  Spot: 7
-  Camouflage: 3
-  Agility: 5
-  Armor: 16
-  Psy Defense: 16
-  Rank: 65
-Attacks:
-  Indirect: 8/15
-  Direct: 7/14
-  Close: 5/11
-Load aboard transport: 3
-Upkeep / Maintenance: 11
-Build Cost: 40
-Build Resource Requirements:
-  Energy: 12
-  Metal: 10
-  Chemicals: 18
-  Electronics: 23
-Upgrade Main Battle Tank to Main Battle Tank (ElA) at Factory
-Time to Build / Upgrade: 1
-[4245] Technologies Required to Build Unit (87):
-  [2285] Surgical LASER (82)
-  [1700] Main Battle Tank (88)
-  [260] Electronic Armor (90)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---5--
-Name: Amphibious Main Battle Tank
-Nick Name: CC-T-MB
-Scores & Strengths:
-  Tech Score: 959
-  Unit Score: 958
-  Average Score: 959
-  Stat Strength: 518
-  Total Strength: 958
-  Planet Strength: 958
-  Space Strength: 0
-  Garrison Strength: 338
-Statistics:
-  Movement Type: craft
-  Move Points: 8
-  Spot: 6
-  Camouflage: 4
-  Agility: 8
-  Armor: 13
-  Psy Defense: 13
-  Rank: 72
-Attacks:
-  Indirect: 12/15
-  Direct: 10/14
-  Close: 10/12
-Load aboard transport: 3
-Upkeep / Maintenance: 8
-Build Cost: 76
-Build Resource Requirements:
-  Food: 2
-  Energy: 20
-  Metal: 19
-  Trace: 19
-  Exotica: 2
-  Chemicals: 25
-  Biochems: 7
-  Electronics: 10
-Build Amphibious Main Battle Tank in Factory
-Time to Build / Upgrade: 2
-[4555] Technologies Required to Build Unit (88):
-  [2855] Naval Amphibious Ships (87)
-  [1700] Main Battle Tank (88)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---6--
-Name: Advanced Battle Tank
-Nick Name: MBT (Ce)
-Scores & Strengths:
-  Tech Score: 1226
-  Unit Score: 1226
-  Average Score: 1226
-  Stat Strength: 807
-  Total Strength: 1226
-  Planet Strength: 1226
-  Space Strength: 0
-  Garrison Strength: 387
-Statistics:
-  Movement Type: tread
-  Move Points: 10
-  Spot: 8
-  Camouflage: 4
-  Agility: 7
-  Armor: 17
-  Psy Defense: 17
-  Rank: 78
-Attacks:
-  Air: 11/6
-  Indirect: 13/13
-  Direct: 12/10
-  Close: 8/8
-Load aboard transport: 3
-Upkeep / Maintenance: 10
-Build Cost: 31
-Build Resource Requirements:
-  Trace: 3
-  Electronics: 20
-  Ceramsteel: 21
-Upgrade Main Battle Tank to Advanced Battle Tank at Factory
-Time to Build / Upgrade: 1
-[5205] Technology Required to Build Unit (84):
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---7--
-Name: Main Battle Tank (APS)
-Nick Name: MBT (APS)
-Scores & Strengths:
-  Tech Score: 1484
-  Unit Score: 1462
-  Average Score: 1473
-  Stat Strength: 902
-  Total Strength: 1462
-  Planet Strength: 1462
-  Space Strength: 0
-  Garrison Strength: 422
-Statistics:
-  Movement Type: tread
-  Move Points: 12
-  Spot: 8
-  Camouflage: 4
-  Agility: 10
-  Armor: 17
-  Psy Defense: 17
-  Rank: 86
-Attacks:
-  Air: 12/8
-  Indirect: 14/14
-  Direct: 14/12
-  Close: 10/10
-Load aboard transport: 3
-Upkeep / Maintenance: 12
-Build Cost: 55
-Build Resource Requirements:
-  Chemicals: 5
-  Electronics: 24
-  Ceramsteel: 26
-Upgrade Main Battle Tank to Main Battle Tank (APS) at Factory
-Time to Build / Upgrade: 1
-[9905] Technologies Required to Build Unit (81):
-  [4855] Myoelectric Prosthetics (71)
-  [1700] Main Battle Tank (88)
-  [3350] Active Protective Systems (83)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---8--
-Name: Universal Combat Platform
-Nick Name: MBT-UCP
-Scores & Strengths:
-  Tech Score: 1639
-  Unit Score: 1642
-  Average Score: 1641
-  Stat Strength: 997
-  Total Strength: 1642
-  Planet Strength: 1642
-  Space Strength: 0
-  Garrison Strength: 455
-Statistics:
-  Movement Type: tread
-  Move Points: 13
-  Spot: 8
-  Camouflage: 4
-  Agility: 10
-  Armor: 18
-  Psy Defense: 18
-  Rank: 91
-Attacks:
-  Air: 13/8
-  Indirect: 15/15
-  Direct: 15/13
-  Close: 11/11
-Load aboard transport: 3
-Upkeep / Maintenance: 10
-Build Cost: 35
-Build Resource Requirements:
-  Electronics: 17
-  Ceramsteel: 20
-Upgrade Main Battle Tank to Universal Combat Platform at Factory
-Time to Build / Upgrade: 1
-[10630] Technologies Required to Build Unit (74):
-  [5425] Cybernetics (63)
-  [5205] Advanced Battle Tanks (84)
-Counts as planetary flock: YES
-Unit Eats: YES
-Unit can be disbanded: YES
-
---9--
-Name: Main Battle Drone
-Nick Name: MB Drone
-Scores & Strengths:
-  Tech Score: 2514
-  Unit Score: 2540
-  Average Score: 2527
-  Stat Strength: 1692
-  Total Strength: 2540
-  Planet Strength: 2540
-  Space Strength: 0
-  Garrison Strength: 678
-Statistics:
-  Movement Type: tread
-  Move Points: 14
-  Spot: 10
+  Move Points: 4
+  Spot: 2
   Camouflage: 10
-  Agility: 12
-  Armor: 24
-  Psy Defense: 24
-  Rank: 116
+  Agility: 8
+  Armor: 8
+  Psy Defense: 8
+  Rank: 63
 Attacks:
-  Air: 20/14
-  Indirect: 14/20
-  Direct: 16/18
-Load aboard transport: 1
+  Indirect: 7/9
+  Close: 16/12
+Cargo Space: 1
+Load aboard transport: 2
+Can attack on Byzantium Secundus
 Never Rebels
+Never Retreats
 Immune to Plague
-Upkeep / Maintenance: 18
-Build Cost: 178
+Upkeep / Maintenance: 19
+Build Cost: 191
 Build Resource Requirements:
   Food: 3
   Energy: 18
-  Metal: 15
-  Trace: 15
+  Metal: 14
+  Trace: 43
   Exotica: 3
-  Chemicals: 39
-  Electronics: 30
-  Ceramsteel: 25
-Build Main Battle Drone in Electronics Plant
+  Chemicals: 25
+  Electronics: 41
+Build Anti-Personnel Mine System in Fort
 Time to Build / Upgrade: 3
-[13565] Technology Required to Build Unit (65):
+[2020] Technologies Required to Build Unit (88):
+  [320] Viper Militia (88)
+  [1700] Main Battle Tank (88)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--3--
+Name: Anti-Air Mine System
+Nick Name: AAMS
+Scores & Strengths:
+  Tech Score: 651
+  Unit Score: 649
+  Average Score: 650
+  Stat Strength: 513
+  Total Strength: 649
+  Planet Strength: 649
+  Space Strength: 0
+  Garrison Strength: 205
+Statistics:
+  Movement Type: tread
+  Move Points: 10
+  Spot: 5
+  Camouflage: 8
+  Agility: 6
+  Armor: 12
+  Psy Defense: 12
+  Rank: 67
+Attacks:
+  Air: 8/17
+Cargo Space: 1
+Load aboard transport: 2
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 16
+Build Cost: 155
+Build Resource Requirements:
+  Food: 4
+  Energy: 19
+  Metal: 91
+  Trace: 9
+  Exotica: 4
+  Chemicals: 21
+  Electronics: 8
+Build Anti-Air Mine System in Factory
+Time to Build / Upgrade: 2
+[2730] Technologies Required to Build Unit (88):
+  [125] Radar (93)
+  [795] Missiles (86)
+  [1810] Jet-Propulsion Aircraft (86)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--4--
+Name: Psyonic Mine System
+Nick Name: PsMS
+Scores & Strengths:
+  Tech Score: 913
+  Unit Score: 912
+  Average Score: 913
+  Stat Strength: 608
+  Total Strength: 912
+  Planet Strength: 912
+  Space Strength: 912
+  Garrison Strength: 322
+Statistics:
+  Movement Type: tread
+  Move Points: 8
+  Spot: 8
+  Camouflage: 12
+  Agility: 4
+  Armor: 8
+  Psy Defense: 16
+  Rank: 98
+Attacks:
+  Psychic: 16/19
+Cargo Space: 1
+Load aboard transport: 2
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 109
+Build Cost: 1094
+Build Resource Requirements:
+  Food: 6
+  Energy: 4
+  Metal: 20
+  Trace: 18
+  Exotica: 7
+  Chemicals: 8
+  Electronics: 21
+  Gems: 37
+Build Psyonic Mine System in Church
+Time to Build / Upgrade: 2
+[3675] Technologies Required to Build Unit (64):
+  [1975] Telepathic Soldiers (39)
+  [1700] Main Battle Tank (88)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--5--
+Name: Anti-Tank Drone Mine
+Nick Name: ATG Drone Mine
+Scores & Strengths:
+  Tech Score: 2514
+  Unit Score: 2516
+  Average Score: 2515
+  Stat Strength: 2000
+  Total Strength: 2516
+  Planet Strength: 2516
+  Space Strength: 0
+  Garrison Strength: 593
+Statistics:
+  Movement Type: foot
+  Move Points: 18
+  Spot: 10
+  Camouflage: 20
+  Agility: 14
+  Armor: 14
+  Psy Defense: 28
+  Rank: 125
+Attacks:
+  Indirect: 16/20
+  Direct: 14/14
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 19
+Build Cost: 188
+Build Resource Requirements:
+  Food: 3
+  Energy: 12
+  Metal: 10
+  Trace: 11
+  Exotica: 3
+  Chemicals: 25
+  Electronics: 21
+  Ceramsteel: 16
+Build Anti-Tank Drone Mine in Factory
+Time to Build / Upgrade: 3
+[18770] Technologies Required to Build Unit (75):
+  [5205] Advanced Battle Tanks (84)
   [13565] Unmanned Land Vehicles (65)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--6--
+Name: Anti-Air Drone Mine
+Nick Name: AA Drone Mine
+Scores & Strengths:
+  Tech Score: 2549
+  Unit Score: 2554
+  Average Score: 2551
+  Stat Strength: 1916
+  Total Strength: 2554
+  Planet Strength: 2554
+  Space Strength: 0
+  Garrison Strength: 544
+Statistics:
+  Movement Type: foot
+  Move Points: 22
+  Spot: 8
+  Camouflage: 18
+  Agility: 18
+  Armor: 12
+  Psy Defense: 24
+  Rank: 127
+Attacks:
+  Air: 29/22
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 22
+Build Cost: 224
+Build Resource Requirements:
+  Food: 5
+  Energy: 14
+  Metal: 10
+  Trace: 16
+  Exotica: 5
+  Chemicals: 26
+  Electronics: 29
+  Ceramsteel: 15
+Build Anti-Air Drone Mine in Factory
+Time to Build / Upgrade: 3
+[17955] Technologies Required to Build Unit (80):
+  [255] Doppler Frequency Radar (88)
+  [1810] Jet-Propulsion Aircraft (86)
+  [2325] Web Missiles (80)
+  [13565] Unmanned Land Vehicles (65)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--7--
+Name: Gemss Mine System
+Nick Name: GEMMS
+Scores & Strengths:
+  Tech Score: 2766
+  Unit Score: 2766
+  Average Score: 2766
+  Stat Strength: 992
+  Total Strength: 2766
+  Planet Strength: 2766
+  Space Strength: 0
+  Garrison Strength: 798
+Statistics:
+  Movement Type: tread
+  Move Points: 12
+  Spot: 10
+  Camouflage: 16
+  Agility: 10
+  Armor: 14
+  Psy Defense: 14
+  Rank: 154
+Attacks:
+  Indirect: 21/28
+  Direct: 26/30
+  Close: 29/14
+Cargo Space: 1
+Load aboard transport: 2
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 160
+Build Cost: 1599
+Build Resource Requirements:
+  Food: 1
+  Energy: 17
+  Metal: 4
+  Trace: 23
+  Exotica: 1
+  Chemicals: 24
+  Biochems: 37
+  Electronics: 37
+  Ceramsteel: 4
+  Monopols: 24
+Build Gemss Mine System in Factory
+Time to Build / Upgrade: 4
+[17320] Technologies Required to Build Unit (64):
+  [6490] Assassin (48)
+  [10830] Violator Assault Gunnery (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--8--
+Name: Anti-Personnel Drone Mine
+Nick Name: AP Drone Mine
+Scores & Strengths:
+  Tech Score: 2808
+  Unit Score: 2808
+  Average Score: 2808
+  Stat Strength: 2312
+  Total Strength: 2808
+  Planet Strength: 2808
+  Space Strength: 0
+  Garrison Strength: 702
+Statistics:
+  Movement Type: foot
+  Move Points: 16
+  Spot: 12
+  Camouflage: 34
+  Agility: 16
+  Armor: 10
+  Psy Defense: 20
+  Rank: 121
+Attacks:
+  Close: 31/16
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 33
+Build Cost: 325
+Build Resource Requirements:
+  Food: 3
+  Energy: 7
+  Metal: 6
+  Trace: 25
+  Exotica: 3
+  Chemicals: 15
+  Biochems: 22
+  Electronics: 47
+  Ceramsteel: 7
+Build Anti-Personnel Drone Mine in Fort
+Time to Build / Upgrade: 3
+[17635] Technologies Required to Build Unit (67):
+  [4070] Tracker Legion (69)
+  [13565] Unmanned Land Vehicles (65)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--9--
+Name: Psyonic Drone Mine
+Nick Name: Psy Drone Mine
+Scores & Strengths:
+  Tech Score: 2886
+  Unit Score: 2885
+  Average Score: 2886
+  Stat Strength: 2399
+  Total Strength: 2885
+  Planet Strength: 2885
+  Space Strength: 2885
+  Garrison Strength: 699
+Statistics:
+  Movement Type: foot
+  Move Points: 17
+  Spot: 16
+  Camouflage: 32
+  Agility: 15
+  Armor: 11
+  Psy Defense: 22
+  Rank: 156
+Attacks:
+  Psychic: 27/18
+Load aboard transport: 1
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 107
+Build Cost: 1072
+Build Resource Requirements:
+  Food: 5
+  Energy: 6
+  Metal: 7
+  Trace: 18
+  Exotica: 7
+  Chemicals: 13
+  Electronics: 35
+  Ceramsteel: 11
+  Gems: 25
+Build Psyonic Drone Mine in Church
+Time to Build / Upgrade: 3
+[16705] Technologies Required to Build Unit (52):
+  [3140] Sympathic Soldiers (38)
+  [13565] Unmanned Land Vehicles (65)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--10--
+Name: Gator Mine System
+Nick Name: GATOR
+Scores & Strengths:
+  Tech Score: 3140
+  Unit Score: 3140
+  Average Score: 3140
+  Stat Strength: 1320
+  Total Strength: 3140
+  Planet Strength: 3140
+  Space Strength: 1704
+  Garrison Strength: 839
+Statistics:
+  Movement Type: tread
+  Move Points: 14
+  Spot: 12
+  Camouflage: 18
+  Agility: 12
+  Armor: 16
+  Psy Defense: 16
+  Rank: 171
+Attacks:
+  Psychic: 24/16
+  Indirect: 21/24
+  Direct: 24/26
+  Close: 22/14
+Cargo Space: 1
+Load aboard transport: 2
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 210
+Build Cost: 2095
+Build Resource Requirements:
+  Food: 2
+  Energy: 14
+  Metal: 4
+  Trace: 20
+  Exotica: 2
+  Chemicals: 20
+  Biochems: 29
+  Electronics: 31
+  Ceramsteel: 5
+  Monopols: 21
+  Gems: 17
+Build Gator Mine System in Factory
+Time to Build / Upgrade: 4
+[20955] Technologies Required to Build Unit (59):
+  [6490] Assassin (48)
+  [3635] Dervishes (48)
+  [10830] Violator Assault Gunnery (80)
+Counts as planetary flock: YES
+Unit can be disbanded: YES
+
+--11--
+Name: Volcano Mine System
+Nick Name: Volcano
+Scores & Strengths:
+  Tech Score: 3404
+  Unit Score: 3404
+  Average Score: 3404
+  Stat Strength: 1696
+  Total Strength: 3404
+  Planet Strength: 3404
+  Space Strength: 2004
+  Garrison Strength: 851
+Statistics:
+  Movement Type: tread
+  Move Points: 16
+  Spot: 14
+  Camouflage: 20
+  Agility: 14
+  Armor: 18
+  Psy Defense: 18
+  Rank: 177
+Attacks:
+  Psychic: 22/14
+  Air: 24/16
+  Indirect: 18/20
+  Direct: 20/22
+  Close: 18/12
+Cargo Space: 1
+Load aboard transport: 2
+Can attack on Byzantium Secundus
+Never Rebels
+Never Retreats
+Immune to Plague
+Upkeep / Maintenance: 172
+Build Cost: 1716
+Build Resource Requirements:
+  Food: 2
+  Energy: 11
+  Metal: 6
+  Trace: 19
+  Exotica: 2
+  Chemicals: 16
+  Biochems: 24
+  Electronics: 26
+  Ceramsteel: 6
+  Monopols: 17
+  Gems: 12
+Build Volcano Mine System in Factory
+Time to Build / Upgrade: 3
+[30420] Technologies Required to Build Unit (74):
+  [385] Phased-Array Radar (84)
+  [6490] Assassin (48)
+  [1670] Guided Missiles (83)
+  [2325] Web Missiles (80)
+  [2665] V/STOL Aircraft (85)
+  [2420] Rocket-Propelled Aircraft (87)
+  [3635] Dervishes (48)
+  [10830] Violator Assault Gunnery (80)
 Counts as planetary flock: YES
 Unit can be disbanded: YES

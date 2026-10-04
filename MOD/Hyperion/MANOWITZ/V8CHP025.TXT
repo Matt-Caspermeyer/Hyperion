@@ -1,8 +1,8 @@
-All units of the unit class Fusilier are listed herein (12 in total):
+All units of the unit class Grenadier are listed herein (12 in total):
 
 --1--
-Name: Fusilier
-Nick Name: Fusilier
+Name: Grenadier
+Nick Name: Grenadier
 Scores & Strengths:
   Tech Score: 92
   Unit Score: 90
@@ -20,19 +20,19 @@ Statistics:
   Agility: 7
   Armor: 3
   Psy Defense: 2
-  Rank: 16
+  Rank: 19
 Attacks:
-  Direct: 2/4
-  Close: 4/2
+  Indirect: 1/4
+  Close: 6/2
 Load aboard transport: 1
 Upkeep / Maintenance: 3
-Build Cost: 12
+Build Cost: 14
 Build Resource Requirements:
   Metal: 3
-  Trace: 14
+  Trace: 19
   Exotica: 6
   Chemicals: 11
-Upgrade Peasant to Fusilier at Fort
+Upgrade Peasant to Grenadier at Fort
 Time to Build / Upgrade: 1
 [265] Technologies Required to Build Unit (99):
   [100] Physics & Energy (100)
@@ -42,17 +42,17 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --2--
-Name: Fusilier (PE)
-Nick Name: Fusilier (PE)
+Name: Grenadier (PE)
+Nick Name: Gren (PE)
 Scores & Strengths:
   Tech Score: 142
-  Unit Score: 136
-  Average Score: 139
+  Unit Score: 132
+  Average Score: 137
   Stat Strength: 111
-  Total Strength: 136
-  Planet Strength: 136
+  Total Strength: 132
+  Planet Strength: 132
   Space Strength: 0
-  Garrison Strength: 78
+  Garrison Strength: 76
 Statistics:
   Movement Type: foot
   Move Points: 3
@@ -61,20 +61,20 @@ Statistics:
   Agility: 8
   Armor: 4
   Psy Defense: 3
-  Rank: 21
+  Rank: 23
 Attacks:
-  Direct: 3/5
-  Close: 5/2
+  Indirect: 1/5
+  Close: 8/2
 Load aboard transport: 1
 May lose health or experience after combat due to drug use
 Upkeep / Maintenance: 3
-Build Cost: 12
+Build Cost: 14
 Build Resource Requirements:
   Metal: 6
-  Trace: 16
+  Trace: 22
   Exotica: 7
   Chemicals: 12
-Upgrade Peasant to Fusilier (PE) at Fort
+Upgrade Peasant to Grenadier (PE) at Fort
 Time to Build / Upgrade: 1
 [445] Technologies Required to Build Unit (96):
   [100] Physics & Energy (100)
@@ -85,17 +85,17 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --3--
-Name: Fusilier (BE)
-Nick Name: Fusilier (BE)
+Name: Grenadier (BE)
+Nick Name: Gren (BE)
 Scores & Strengths:
   Tech Score: 191
-  Unit Score: 173
-  Average Score: 182
+  Unit Score: 179
+  Average Score: 185
   Stat Strength: 137
-  Total Strength: 173
-  Planet Strength: 173
+  Total Strength: 179
+  Planet Strength: 179
   Space Strength: 0
-  Garrison Strength: 99
+  Garrison Strength: 103
 Statistics:
   Movement Type: foot
   Move Points: 3
@@ -104,22 +104,22 @@ Statistics:
   Agility: 9
   Armor: 5
   Psy Defense: 3
-  Rank: 23
+  Rank: 28
 Attacks:
-  Direct: 3/6
-  Close: 6/3
+  Indirect: 2/6
+  Close: 10/3
 Load aboard transport: 1
 May lose health or experience after combat due to drug use
-Upkeep / Maintenance: 7
-Build Cost: 53
+Upkeep / Maintenance: 8
+Build Cost: 66
 Build Resource Requirements:
   Energy: 3
   Metal: 10
-  Trace: 4
+  Trace: 7
   Exotica: 2
   Chemicals: 3
-  Biochems: 23
-Upgrade Fusilier to Fusilier (BE) at Fort
+  Biochems: 31
+Upgrade Grenadier to Grenadier (BE) at Fort
 Time to Build / Upgrade: 1
 [585] Technologies Required to Build Unit (88):
   [165] Autocannon (98)
@@ -129,17 +129,17 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --4--
-Name: Fusilier (SE)
-Nick Name: Fusilier (SE)
+Name: Grenadier (SE)
+Nick Name: Gren (SE)
 Scores & Strengths:
   Tech Score: 269
-  Unit Score: 249
-  Average Score: 259
+  Unit Score: 251
+  Average Score: 260
   Stat Strength: 193
-  Total Strength: 249
-  Planet Strength: 249
+  Total Strength: 251
+  Planet Strength: 251
   Space Strength: 0
-  Garrison Strength: 124
+  Garrison Strength: 125
 Statistics:
   Movement Type: foot
   Move Points: 4
@@ -148,22 +148,22 @@ Statistics:
   Agility: 10
   Armor: 6
   Psy Defense: 4
-  Rank: 29
+  Rank: 34
 Attacks:
-  Direct: 4/7
-  Close: 7/4
+  Indirect: 2/7
+  Close: 11/4
 Load aboard transport: 1
-Upkeep / Maintenance: 9
-Build Cost: 80
+Upkeep / Maintenance: 11
+Build Cost: 94
 Build Resource Requirements:
   Food: 2
   Energy: 5
   Metal: 9
-  Trace: 11
+  Trace: 14
   Exotica: 3
   Chemicals: 8
-  Biochems: 28
-Upgrade Fusilier to Fusilier (SE) at Hospital
+  Biochems: 37
+Upgrade Grenadier to Grenadier (SE) at Hospital
 Time to Build / Upgrade: 1
 [840] Technologies Required to Build Unit (87):
   [165] Autocannon (98)
@@ -173,17 +173,17 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --5--
-Name: Fusilier (DE)
-Nick Name: Fusilier (DE)
+Name: Grenadier (DE)
+Nick Name: Gren (DE)
 Scores & Strengths:
   Tech Score: 901
-  Unit Score: 601
-  Average Score: 751
+  Unit Score: 591
+  Average Score: 746
   Stat Strength: 432
-  Total Strength: 601
-  Planet Strength: 601
+  Total Strength: 591
+  Planet Strength: 591
   Space Strength: 0
-  Garrison Strength: 227
+  Garrison Strength: 223
 Statistics:
   Movement Type: foot
   Move Points: 7
@@ -192,19 +192,19 @@ Statistics:
   Agility: 13
   Armor: 10
   Psy Defense: 7
-  Rank: 49
+  Rank: 56
 Attacks:
-  Direct: 7/13
-  Close: 13/6
+  Indirect: 3/13
+  Close: 20/6
 Load aboard transport: 1
-Upkeep / Maintenance: 9
-Build Cost: 73
+Upkeep / Maintenance: 10
+Build Cost: 88
 Build Resource Requirements:
   Metal: 38
   Chemicals: 3
-  Biochems: 23
-  Electronics: 16
-Upgrade Fusilier to Fusilier (DE) at Biochem Plant
+  Biochems: 30
+  Electronics: 22
+Upgrade Grenadier to Grenadier (DE) at Biochem Plant
 Time to Build / Upgrade: 1
 [3605] Technologies Required to Build Unit (82):
   [165] Autocannon (98)
@@ -214,17 +214,17 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --6--
-Name: Fusilier (PA)
-Nick Name: Fusilier (PA)
+Name: Grenadier (PA)
+Nick Name: Gren (PA)
 Scores & Strengths:
   Tech Score: 1396
-  Unit Score: 804
-  Average Score: 1100
+  Unit Score: 812
+  Average Score: 1104
   Stat Strength: 548
-  Total Strength: 804
-  Planet Strength: 804
+  Total Strength: 812
+  Planet Strength: 812
   Space Strength: 0
-  Garrison Strength: 284
+  Garrison Strength: 287
 Statistics:
   Movement Type: foot
   Move Points: 8
@@ -233,19 +233,19 @@ Statistics:
   Agility: 14
   Armor: 12
   Psy Defense: 8
-  Rank: 58
+  Rank: 68
 Attacks:
-  Direct: 8/16
-  Close: 16/8
+  Indirect: 4/16
+  Close: 25/8
 Load aboard transport: 1
-Upkeep / Maintenance: 13
-Build Cost: 50
+Upkeep / Maintenance: 16
+Build Cost: 62
 Build Resource Requirements:
   Energy: 3
   Chemicals: 17
-  Electronics: 24
+  Electronics: 38
   Ceramsteel: 18
-Upgrade Fusilier (SE) to Fusilier (PA) at Hospital
+Upgrade Grenadier (SE) to Grenadier (PA) at Hospital
 Time to Build / Upgrade: 1
 [6340] Technologies Required to Build Unit (78):
   [165] Autocannon (98)
@@ -255,17 +255,17 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --7--
-Name: Fusilier (GE)
-Nick Name: Fusilier (GE)
+Name: Grenadier (GE)
+Nick Name: Gren (GE)
 Scores & Strengths:
   Tech Score: 1369
-  Unit Score: 804
-  Average Score: 1087
+  Unit Score: 812
+  Average Score: 1091
   Stat Strength: 548
-  Total Strength: 804
-  Planet Strength: 804
+  Total Strength: 812
+  Planet Strength: 812
   Space Strength: 0
-  Garrison Strength: 284
+  Garrison Strength: 287
 Statistics:
   Movement Type: foot
   Move Points: 8
@@ -274,19 +274,20 @@ Statistics:
   Agility: 14
   Armor: 12
   Psy Defense: 8
-  Rank: 58
+  Rank: 68
 Attacks:
-  Direct: 8/16
-  Close: 16/8
+  Indirect: 4/16
+  Close: 25/8
 Load aboard transport: 1
-Upkeep / Maintenance: 10
-Build Cost: 30
+Upkeep / Maintenance: 13
+Build Cost: 37
 Build Resource Requirements:
   Energy: 2
   Chemicals: 5
-  Biochems: 12
+  Biochems: 14
+  Electronics: 2
   Ceramsteel: 5
-Upgrade Fusilier (DE) to Fusilier (GE) at Lab
+Upgrade Grenadier (DE) to Grenadier (GE) at Lab
 Time to Build / Upgrade: 1
 [6185] Technologies Required to Build Unit (74):
   [165] Autocannon (98)
@@ -296,17 +297,17 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --8--
-Name: Fusilier (CE)
-Nick Name: Fusilier (CE)
+Name: Grenadier (CE)
+Nick Name: Gren (CE)
 Scores & Strengths:
   Tech Score: 1788
-  Unit Score: 1022
-  Average Score: 1405
+  Unit Score: 1027
+  Average Score: 1408
   Stat Strength: 680
-  Total Strength: 1022
-  Planet Strength: 1022
+  Total Strength: 1027
+  Planet Strength: 1027
   Space Strength: 0
-  Garrison Strength: 340
+  Garrison Strength: 342
 Statistics:
   Movement Type: foot
   Move Points: 9
@@ -315,20 +316,20 @@ Statistics:
   Agility: 15
   Armor: 14
   Psy Defense: 9
-  Rank: 66
+  Rank: 77
 Attacks:
-  Direct: 9/19
-  Close: 19/9
+  Indirect: 5/19
+  Close: 28/9
 Load aboard transport: 1
-Upkeep / Maintenance: 16
-Build Cost: 106
+Upkeep / Maintenance: 18
+Build Cost: 114
 Build Resource Requirements:
   Energy: 6
   Metal: 3
   Chemicals: 11
-  Biochems: 3
+  Biochems: 1
   Ceramsteel: 6
-Upgrade Fusilier (PA) to Fusilier (CE) at Lab
+Upgrade Grenadier (PA) to Grenadier (CE) at Lab
 Time to Build / Upgrade: 1
 [8765] Technologies Required to Build Unit (73):
   [165] Autocannon (98)
@@ -338,17 +339,17 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --9--
-Name: Fusilier (AVE)
-Nick Name: Fusilier (AVE)
+Name: Grenadier (AVE)
+Nick Name: Gen (AV)
 Scores & Strengths:
   Tech Score: 1835
-  Unit Score: 1041
-  Average Score: 1438
+  Unit Score: 1036
+  Average Score: 1435
   Stat Strength: 680
-  Total Strength: 1041
-  Planet Strength: 1041
+  Total Strength: 1036
+  Planet Strength: 1036
   Space Strength: 0
-  Garrison Strength: 347
+  Garrison Strength: 345
 Statistics:
   Movement Type: foot
   Move Points: 9
@@ -357,20 +358,19 @@ Statistics:
   Agility: 15
   Armor: 14
   Psy Defense: 9
-  Rank: 67
+  Rank: 78
 Attacks:
-  Direct: 10/19
-  Close: 19/9
+  Indirect: 5/19
+  Close: 29/9
 Load aboard transport: 1
 Immune to Plague
-Upkeep / Maintenance: 15
-Build Cost: 123
+Upkeep / Maintenance: 18
+Build Cost: 144
 Build Resource Requirements:
   Energy: 2
   Chemicals: 4
   Biochems: 7
-  Electronics: 1
-Upgrade Fusilier (GE) to Fusilier (AVE) at Lab
+Upgrade Grenadier (GE) to Grenadier (AVE) at Lab
 Time to Build / Upgrade: 1
 [9065] Technologies Required to Build Unit (62):
   [165] Autocannon (98)
@@ -380,17 +380,17 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --10--
-Name: Fusilier (ME)
-Nick Name: Fusilier (ME)
+Name: Grenadier (ME)
+Nick Name: Gren (ME)
 Scores & Strengths:
   Tech Score: 1401
-  Unit Score: 1397
-  Average Score: 1399
+  Unit Score: 1393
+  Average Score: 1397
   Stat Strength: 1091
-  Total Strength: 1397
-  Planet Strength: 1397
+  Total Strength: 1393
+  Planet Strength: 1393
   Space Strength: 0
-  Garrison Strength: 320
+  Garrison Strength: 319
 Statistics:
   Movement Type: foot
   Move Points: 19
@@ -399,22 +399,22 @@ Statistics:
   Agility: 20
   Armor: 13
   Psy Defense: 9
-  Rank: 64
+  Rank: 73
 Attacks:
-  Direct: 9/17
-  Close: 17/9
+  Indirect: 4/17
+  Close: 26/9
 Load aboard transport: 1
-Upkeep / Maintenance: 11
-Build Cost: 95
+Upkeep / Maintenance: 12
+Build Cost: 108
 Build Resource Requirements:
   Food: 2
   Energy: 13
-  Trace: 1
+  Trace: 3
   Exotica: 3
   Chemicals: 33
-  Electronics: 31
+  Electronics: 44
   Ceramsteel: 8
-Upgrade Fusilier to Fusilier (ME) at Factory
+Upgrade Grenadier to Grenadier (ME) at Factory
 Time to Build / Upgrade: 2
 [6220] Technology Required to Build Unit (80):
   [6220] Mechanically-Enhanced Soldiers (80)
@@ -423,17 +423,17 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --11--
-Name: Fusilier (MF)
-Nick Name: Fusilier (MF)
+Name: Grenadier (MF)
+Nick Name: Gren (MF)
 Scores & Strengths:
   Tech Score: 3182
-  Unit Score: 1707
-  Average Score: 2445
+  Unit Score: 1701
+  Average Score: 2442
   Stat Strength: 1107
-  Total Strength: 1707
-  Planet Strength: 1707
+  Total Strength: 1701
+  Planet Strength: 1701
   Space Strength: 0
-  Garrison Strength: 492
+  Garrison Strength: 491
 Statistics:
   Movement Type: foot
   Move Points: 12
@@ -442,18 +442,18 @@ Statistics:
   Agility: 17
   Armor: 19
   Psy Defense: 12
-  Rank: 87
+  Rank: 101
 Attacks:
-  Direct: 12/25
-  Close: 25/12
+  Indirect: 6/25
+  Close: 37/12
 Load aboard transport: 1
-Upkeep / Maintenance: 111
-Build Cost: 1008
+Upkeep / Maintenance: 124
+Build Cost: 1130
 Build Resource Requirements:
-  Biochems: 11
-  Wetware: 8
+  Biochems: 10
+  Wetware: 13
   Monopols: 39
-Upgrade Fusilier (CE) to Fusilier (MF) at Wetware
+Upgrade Grenadier (CE) to Grenadier (MF) at Wetware
 Time to Build / Upgrade: 2
 [18675] Technologies Required to Build Unit (68):
   [100] Physics & Energy (100)
@@ -463,17 +463,17 @@ Unit Eats: YES
 Unit can be disbanded: YES
 
 --12--
-Name: Fusilier (NE)
-Nick Name: Fusilier (NE)
+Name: Grenadier (NE)
+Nick Name: Gren (NE)
 Scores & Strengths:
   Tech Score: 3872
-  Unit Score: 2290
-  Average Score: 3081
+  Unit Score: 2276
+  Average Score: 3074
   Stat Strength: 1506
-  Total Strength: 2290
-  Planet Strength: 2290
+  Total Strength: 2276
+  Planet Strength: 2276
   Space Strength: 0
-  Garrison Strength: 612
+  Garrison Strength: 608
 Statistics:
   Movement Type: foot
   Move Points: 14
@@ -482,18 +482,18 @@ Statistics:
   Agility: 18
   Armor: 21
   Psy Defense: 14
-  Rank: 99
+  Rank: 118
 Attacks:
-  Direct: 14/28
-  Close: 28/14
+  Indirect: 7/28
+  Close: 41/14
 Load aboard transport: 1
 Immune to Plague
-Upkeep / Maintenance: 94
-Build Cost: 821
+Upkeep / Maintenance: 114
+Build Cost: 996
 Build Resource Requirements:
-  Wetware: 9
+  Wetware: 14
   Monopols: 20
-Upgrade Fusilier (AVE) to Fusilier (NE) at Fusorium
+Upgrade Grenadier (AVE) to Grenadier (NE) at Fusorium
 Time to Build / Upgrade: 1
 [24130] Technology Required to Build Unit (32):
   [24130] Neumonically-Enhanced Soldiers (32)
