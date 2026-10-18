@@ -1105,6 +1105,10 @@
             "value": "You may only assign offices on your first turn as Regent."
         },
         {
+            "ID": 29030,
+            "value": "Your Cargo has been delivered to one of your nearby cities or unit groups."
+        },
+        {
             "ID": 29200,
             "value": "Feature not implemented yet."
         },
@@ -1127,6 +1131,34 @@
         {
             "ID": 29206,
             "value": "Calculating target ratio - strength 0\nTable needs to be fixed"
+        },
+        {
+            "ID": 29450,
+            "value": "Merchandise delivery: %d %s to your %s on %s."
+        },
+        {
+            "ID": 29451,
+            "value": "Your merchandise will be delivered the next time we visit a planet where you have cities."
+        },
+        {
+            "ID": 29452,
+            "value": "Your merchandise will be delivered soon..."
+        },
+        {
+            "ID": 29453,
+            "value": "You bid(s) will be considered and compared against other bids. We'll let you know if your bid is successful in the near future..."
+        },
+        {
+            "ID": 29454,
+            "value": "Merchandise bid: %d %s for $%d accepted!"
+        },
+        {
+            "ID": 29455,
+            "value": "Awaiting more bids for %d %s at $%d..."
+        },
+        {
+            "ID": 29456,
+            "value": "Your Merchandise has been delivered to one of your nearby cities or unit groups."
         },
         {
             "ID": 29500,
@@ -1382,11 +1414,11 @@
         },
         {
             "ID": 29564,
-            "value": "Unspotted units from %s %s are here.  We are not at war with them.  Shall we attack anyway?"
+            "value": "There are unspotted units here - continuing might start a war!\n\nShall we attack anyway?"
         },
         {
             "ID": 29565,
-            "value": "Unspotted units from %s %s are here.  We are allied with them.  Shall we attack anyway?"
+            "value": "\n\nAborting landing - 1 movement point consumed!"
         },
         {
             "ID": 29566,
@@ -1462,7 +1494,7 @@
         },
         {
             "ID": 29585,
-            "value": "You cannot land on another's units"
+            "value": "You cannot land on another's units!"
         },
         {
             "ID": 29586,
@@ -2193,6 +2225,10 @@
             "value": "The map has been saved as {}.\n"
         },
         {
+            "ID": 29778,
+            "value": "Canceling Mercenary Production results in the loss of all resources / input units!\n\nAre you sure you wish to cancel Mercenary Production?"
+        },
+        {
             "ID": 29779,
             "value": "Cargo is too big and cannot fit into transport!"
         },
@@ -2386,7 +2422,7 @@
         },
         {
             "ID": 29978,
-            "value": "~Choose"
+            "value": "~Add"
         },
         {
             "ID": 30000,
@@ -2423,6 +2459,10 @@
         {
             "ID": 30504,
             "value": "That queue is currently in production."
+        },
+        {
+            "ID": 30510,
+            "value": "Merc"
         },
         {
             "ID": 31000,
@@ -3013,6 +3053,22 @@
             "value": "Transport ({}): Refuels loaded air units"
         },
         {
+            "ID": 32134,
+            "value": "Mercenary"
+        },
+        {
+            "ID": 32135,
+            "value": "affiliated"
+        },
+        {
+            "ID": 32136,
+            "value": "Maintenance: {:}%"
+        },
+        {
+            "ID": 32137,
+            "value": "\n\nMercenaries do not return any resources!"
+        },
+        {
             "ID": 32140,
             "value": "In Flight - dies if not refueled by turn's end (regardless of remaining movement)"
         },
@@ -3526,7 +3582,7 @@
         },
         {
             "ID": 1396,
-            "value": "Build"
+            "value": "~Build"
         },
         {
             "ID": 1397,
@@ -3534,11 +3590,15 @@
         },
         {
             "ID": 1398,
-            "value": "Tech"
+            "value": "~Tech"
         },
         {
             "ID": 1399,
             "value": "Sect"
+        },
+        {
+            "ID": 1400,
+            "value": "~Queue"
         }
     ]
 }
